@@ -5,6 +5,7 @@ import CardViewer from './components/CardViewer';
 import CategorySelector from './components/CategorySelector';
 
 import ParticleBackground from './components/ParticleBackground';
+import BackgroundPrototype from './components/prototypes/BackgroundPrototype'; // PROTOTYPE — throwaway
 import MouseGradient from './components/MouseGradient';
 import { Layers } from 'lucide-react';
 
@@ -65,7 +66,8 @@ function App() {
 
   return (
     <div className="app-container" style={{ padding: '2rem', maxWidth: '1200px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
-      <ParticleBackground />
+      {/* PROTOTYPE — dev shows background variants (?variant=A|B|C|D), prod keeps particles */}
+      {import.meta.env.DEV ? <BackgroundPrototype /> : <ParticleBackground />}
       <MouseGradient />
       <header style={{ textAlign: 'center', marginBottom: '3rem' }}>
         <div style={{
