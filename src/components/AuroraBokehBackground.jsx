@@ -17,7 +17,6 @@ const BOKEH = [
     { glyph: '♠', size: 90, left: '82%', delay: -12, duration: 22, opacity: 0.065 },
     { glyph: '★', size: 110, left: '40%', delay: -24, duration: 30, opacity: 0.05 },
     { glyph: '✦', size: 70, left: '55%', delay: -6, duration: 23, opacity: 0.06 },
-    { glyph: '♫', size: 100, left: '14%', delay: -14, duration: 27, opacity: 0.05 },
     { glyph: '☾', size: 130, left: '91%', delay: -18, duration: 33, opacity: 0.05 },
     { glyph: '♛', size: 150, left: '35%', delay: -10, duration: 36, opacity: 0.045 },
     { glyph: null, size: 150, left: '18%', delay: -20, duration: 34, opacity: 0.035 }, // blank card
