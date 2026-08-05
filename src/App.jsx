@@ -5,7 +5,6 @@ import CardViewer from './components/CardViewer';
 import CategorySelector from './components/CategorySelector';
 
 import AuroraBokehBackground from './components/AuroraBokehBackground';
-import MouseGradient from './components/MouseGradient';
 import { Layers } from 'lucide-react';
 
 // Fisher-Yates shuffle (unbiased, unlike sort(() => Math.random() - 0.5))
@@ -76,7 +75,6 @@ function App() {
   return (
     <div className="app-container" style={{ padding: '2rem', maxWidth: '1200px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
       <AuroraBokehBackground />
-      <MouseGradient />
       <header style={{ textAlign: 'center', marginBottom: '3rem' }}>
         <div style={{
           display: 'inline-flex',
