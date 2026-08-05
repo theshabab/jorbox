@@ -154,6 +154,24 @@ a {
   filter: blur(4px);
 }
 
+.bokeh-glow-dot {
+  border-radius: 50%;
+  filter: blur(10px);
+}
+
+.bokeh-ring {
+  border: 3px solid;
+  border-radius: 50%;
+  filter: blur(3px);
+}
+
+.bokeh-diamond {
+  border: 3px solid;
+  border-radius: 8px;
+  transform: rotate(45deg);
+  filter: blur(3px);
+}
+
 @keyframes auroraDrift1 {
   0%, 100% { transform: translate(0, 0) scale(1); }
   33% { transform: translate(15vw, 10vh) scale(1.2); }
