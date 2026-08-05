@@ -83,7 +83,7 @@ const CardViewer = ({ cards }) => {
                     <h2 style={{
                         fontSize: '2.5rem',
                         marginBottom: '1.5rem',
-                        background: 'linear-gradient(to right, var(--accent-primary), var(--accent-secondary))',
+                        background: 'linear-gradient(120deg, #ffffff 0%, #cbd5e1 55%, var(--accent-primary) 100%)',
                         WebkitBackgroundClip: 'text',
                         WebkitTextFillColor: 'transparent',
                         fontWeight: '800'

@@ -92,7 +92,7 @@ function App() {
             fontWeight: '800',
             letterSpacing: '-0.5px',
             fontFamily: 'var(--font-heading)',
-            background: 'linear-gradient(to right, #fff, var(--accent-primary))',
+            background: 'linear-gradient(120deg, #ffffff 0%, #cbd5e1 55%, var(--accent-primary) 100%)', /* --jb-gradient-text style */
             WebkitBackgroundClip: 'text',
             WebkitTextFillColor: 'transparent'
           }}>

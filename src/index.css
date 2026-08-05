@@ -7,9 +7,9 @@
   --bg-card: rgba(18, 6, 43, 0.6); /* --jb-bg-2 for glass */
   --text-primary: #ffffff; /* --jb-text-primary */
   --text-secondary: #94a3b8; /* --jb-text-muted */
-  --accent-primary: #fe0109; /* --jb-crimson */
+  --accent-primary: #e11d48; /* softened crimson — #fe0109 reads too loud on large UI surfaces */
   --accent-secondary: #22017e; /* --jb-royal */
-  --accent-glow: rgba(254, 1, 9, 0.5);
+  --accent-glow: rgba(225, 29, 72, 0.4);
   --border-color: rgba(34, 1, 126, 0.35); /* --jb-border-subtle */
   --font-family: 'Inter', system-ui, -apple-system, sans-serif;
   --font-heading: 'Outfit', sans-serif;
@@ -78,7 +78,7 @@ a {
 }
 
 .glass-panel:hover {
-  border-color: rgba(254, 1, 9, 0.3); /* --jb-border-medium */
+  border-color: rgba(185, 133, 229, 0.35); /* --jb-link violet */
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
 }
 
