@@ -1,7 +1,7 @@
 # AGENTS.md
 
 ## Project Overview
-**Al Burhan JorBox Companion App** is a static React application designed to serve as a companion for physical card games. It allows users to select a game, filter cards by category (if applicable), and view card details (Name, Description) with a premium, glassmorphic UI.
+**Shabab JorBox Companion App** is a static React application designed to serve as a companion for physical card games. It allows users to select a game, filter cards by category (if applicable), and view card details (Name, Description) with a premium, glassmorphic UI.
 
 ## Tech Stack
 - **Framework**: React 18 + Vite

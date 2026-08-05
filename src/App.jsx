@@ -96,7 +96,7 @@ function App() {
             WebkitBackgroundClip: 'text',
             WebkitTextFillColor: 'transparent'
           }}>
-            Al Burhan JorBox
+            Shabab JorBox
           </h1>
         </div>
         <p style={{
@@ -147,7 +147,7 @@ function App() {
         borderTop: '1px solid var(--border-color)',
         paddingTop: '2rem'
       }}>
-        <p>&copy; {new Date().getFullYear()} Al Burhan JorBox</p>
+        <p>&copy; {new Date().getFullYear()} Shabab JorBox</p>
         <p style={{ marginTop: '0.5rem' }}>For corrections, edits and additions contact thehaseebshah@zohomail.in</p>
       </footer>
     </div>

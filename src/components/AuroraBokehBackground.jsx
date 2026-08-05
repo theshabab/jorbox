@@ -1,9 +1,10 @@
 import React from 'react';
 
+// Royal Crimson aurora: crimson glow, deep royal violet, soft violet highlight (--jb-link).
 const BLOBS = [
-    { color: 'rgba(56, 189, 248, 0.22)', size: '55vmax', top: '-15%', left: '-10%', animation: 'auroraDrift1 28s ease-in-out infinite' },
-    { color: 'rgba(129, 140, 248, 0.18)', size: '50vmax', top: '30%', left: '55%', animation: 'auroraDrift2 34s ease-in-out infinite' },
-    { color: 'rgba(52, 211, 153, 0.12)', size: '40vmax', top: '60%', left: '5%', animation: 'auroraDrift3 24s ease-in-out infinite' }
+    { color: 'rgba(254, 1, 9, 0.20)', size: '55vmax', top: '-15%', left: '-10%', animation: 'auroraDrift1 28s ease-in-out infinite' },
+    { color: 'rgba(34, 1, 126, 0.40)', size: '50vmax', top: '30%', left: '55%', animation: 'auroraDrift2 34s ease-in-out infinite' },
+    { color: 'rgba(185, 133, 229, 0.14)', size: '40vmax', top: '60%', left: '5%', animation: 'auroraDrift3 24s ease-in-out infinite' }
 ];
 
 // Suits and blank cards floating upward like bokeh lights.
@@ -57,7 +58,7 @@ const AuroraBokehBackground = () => (
                         style={{
                             width: `${piece.size * 0.7}px`,
                             height: `${piece.size}px`,
-                            borderColor: `rgba(56, 189, 248, ${piece.opacity + 0.03})`,
+                            borderColor: `rgba(254, 1, 9, ${piece.opacity + 0.03})`,
                             background: `rgba(148, 163, 184, ${piece.opacity * 0.4})`
                         }}
                     />
