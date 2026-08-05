@@ -121,6 +121,68 @@ a {
   box-shadow: 0 0 15px var(--accent-glow);
 }
 
+/* Aurora + Bokeh background */
+.aurora-bokeh-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.aurora-blob {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(90px);
+  will-change: transform;
+}
+
+.bokeh-piece {
+  position: absolute;
+  top: 0;
+  will-change: transform;
+}
+
+.bokeh-glyph {
+  display: block;
+  filter: blur(6px);
+}
+
+.bokeh-card {
+  border: 3px solid;
+  border-radius: 14px;
+  filter: blur(4px);
+}
+
+@keyframes auroraDrift1 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(15vw, 10vh) scale(1.2); }
+  66% { transform: translate(-8vw, 20vh) scale(0.9); }
+}
+
+@keyframes auroraDrift2 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  40% { transform: translate(-18vw, -12vh) scale(1.25); }
+  70% { transform: translate(10vw, -6vh) scale(0.85); }
+}
+
+@keyframes auroraDrift3 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(12vw, -15vh) scale(1.15); }
+}
+
+@keyframes bokehFloat {
+  from { transform: translateY(110vh) rotate(-12deg); }
+  to { transform: translateY(-40vh) rotate(14deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aurora-blob,
+  .bokeh-piece {
+    animation: none;
+  }
+}
+
 /* Animations */
 @keyframes fadeIn {
   from {

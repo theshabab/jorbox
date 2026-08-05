@@ -1,8 +1,7 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useRef } from 'react';
 import { ChevronRight } from 'lucide-react';
 
 const CardViewer = ({ cards }) => {
-    const [shuffledCards, setShuffledCards] = useState([]);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isAnimating, setIsAnimating] = useState(false);
 
@@ -10,14 +9,13 @@ const CardViewer = ({ cards }) => {
     const [tilt, setTilt] = useState({ x: 0, y: 0 });
     const cardRef = useRef(null);
 
-    // Shuffle cards when they change
-    useEffect(() => {
-        if (cards && cards.length > 0) {
-            const shuffled = [...cards].sort(() => Math.random() - 0.5);
-            setShuffledCards(shuffled);
-            setCurrentIndex(0);
-        }
-    }, [cards]);
+    // Cards arrive pre-shuffled from App. Reset position when the deck changes
+    // by adjusting state during render (React docs: "You Might Not Need an Effect").
+    const [prevCards, setPrevCards] = useState(cards);
+    if (cards !== prevCards) {
+        setPrevCards(cards);
+        setCurrentIndex(0);
+    }
 
     const handleMouseMove = (e) => {
         if (!cardRef.current) return;
@@ -39,17 +37,17 @@ const CardViewer = ({ cards }) => {
         setTilt({ x: 0, y: 0 });
     };
 
-    if (!shuffledCards || shuffledCards.length === 0) {
+    if (!cards || cards.length === 0) {
         return <div style={{ textAlign: 'center', padding: '2rem' }}>No cards available.</div>;
     }
 
-    const currentCard = shuffledCards[currentIndex];
+    const currentCard = cards[currentIndex];
 
     const handleNext = () => {
         if (isAnimating) return;
         setIsAnimating(true);
         setTimeout(() => {
-            setCurrentIndex((prev) => (prev + 1) % shuffledCards.length);
+            setCurrentIndex((prev) => (prev + 1) % cards.length);
             setIsAnimating(false);
         }, 300); // Match transition duration
     };
@@ -129,7 +127,7 @@ const CardViewer = ({ cards }) => {
                     color: 'var(--text-secondary)',
                     transform: 'translateZ(10px)'
                 }}>
-                    {currentIndex + 1} / {shuffledCards.length}
+                    {currentIndex + 1} / {cards.length}
                 </div>
             </div>
 

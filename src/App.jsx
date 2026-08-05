@@ -4,9 +4,19 @@ import GameSelector from './components/GameSelector';
 import CardViewer from './components/CardViewer';
 import CategorySelector from './components/CategorySelector';
 
-import ParticleBackground from './components/ParticleBackground';
+import AuroraBokehBackground from './components/AuroraBokehBackground';
 import MouseGradient from './components/MouseGradient';
 import { Layers } from 'lucide-react';
+
+// Fisher-Yates shuffle (unbiased, unlike sort(() => Math.random() - 0.5))
+const shuffle = (items) => {
+  const arr = [...items];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+};
 
 function App() {
   const [games, setGames] = useState([]);
@@ -36,7 +46,7 @@ function App() {
       setLoading(true);
       try {
         const data = await DataManager.fetchGameData(selectedGame.csv);
-        setCards(data);
+        setCards(shuffle(data));
         // Reset category when game changes
         setSelectedCategory(null);
       } catch (error) {
@@ -65,7 +75,7 @@ function App() {
 
   return (
     <div className="app-container" style={{ padding: '2rem', maxWidth: '1200px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
-      <ParticleBackground />
+      <AuroraBokehBackground />
       <MouseGradient />
       <header style={{ textAlign: 'center', marginBottom: '3rem' }}>
         <div style={{
