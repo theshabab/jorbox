@@ -15,13 +15,13 @@
         "id": "game3",
         "name": "Jasoosi Club",
         "csv": "/data/game3.csv",
-        "hasCategories": false
+        "hasCategories": true
     },
     {
         "id": "game4",
         "name": "Daal men Kaala",
         "csv": "/data/game4.csv",
-        "hasCategories": true
+        "hasCategories": false
     },
     {
         "id": "game5",
@@ -33,7 +33,7 @@
         "id": "game6",
         "name": "Categories Game",
         "csv": "/data/game6.csv",
-        "hasCategories": true
+        "hasCategories": false
     },
     {
         "id": "game7",
@@ -63,13 +63,13 @@
         "id": "game11",
         "name": "Karobari",
         "csv": "/data/game11.csv",
-        "hasCategories": true
+        "hasCategories": false
     },
     {
         "id": "game12",
         "name": "Nouns",
         "csv": "/data/game12.csv",
-        "hasCategories": true
+        "hasCategories": false
     },
     {
         "id": "game13",
@@ -92,7 +92,7 @@
     {
         "id": "game16",
         "name": "GupShup",
-        "csv": "/game16.csv",
+        "csv": "/data/game16.csv",
         "hasCategories": true
     }
 ]

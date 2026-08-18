@@ -1,4 +1,4 @@
-Name,Description,Category
+Name,Description
 Problem,I could really use a smaller _____!
 Problem,I wish _____ were more fun!
 Problem,I would like to support _____!
@@ -356,8 +356,6 @@ Customer,Alien Abductee
 Customer,Alien
 Customer,Amputee
 Customer,Astronaut
-Customer,Amputee
-Customer,Astronaut
 Customer,Artist
 Customer,Babysitter
 Customer,Cafe Server
@@ -382,7 +380,6 @@ Customer,Class Clown
 Customer,Coach
 Customer,Clown
 Customer,Coal Miner
-Customer,Clown
 Customer,Cowboy
 Customer,Comedian
 Customer,Cupid
@@ -397,12 +394,9 @@ Customer,Doctor
 Customer,Executioner
 Customer,Dog
 Customer,Fire Fighter
-Customer,Dog
-Customer,Fire Fighter
 Customer,Fashion Model
 Customer,Fortune Teller
 Customer,Fisherman
-Customer,Fortune Teller
 Customer,Geek
 Customer,College Student
 Customer,Gladiator
@@ -425,7 +419,6 @@ Customer,Kindergartener
 Customer,Hunter
 Customer,Life Guard
 Customer,Janitor
-Customer,Life Guard
 Customer,Last Person On Earth
 Customer,Best Friends
 Customer,Lawyer
@@ -453,7 +446,6 @@ Customer,Pizza Deliverer
 Customer,Social butterfly
 Customer,Police Officer
 Customer,Dinner Host
-Customer,Police Officer
 Customer,Poet
 Customer,Politician
 Customer,Prisoner of War
@@ -463,12 +455,10 @@ Customer,Imam
 Customer,Pro Wrestler
 Customer,Princess
 Customer,Quarterback
-Customer,Class Clown
 Customer,Rioter
 Customer,Protester
 Customer,Robot
 Customer,Queen
-Customer,Rapper
 Customer,Rapper
 Customer,Roommate
 Customer,Referee
@@ -485,7 +475,6 @@ Customer,Senior Citizen
 Customer,Spy
 Customer,Snowman
 Customer,Substitute Teacher
-Customer,College Student
 Customer,Tailgater
 Customer,Stewardess
 Customer,Tarzan

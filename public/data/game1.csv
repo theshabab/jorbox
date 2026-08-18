@@ -119,7 +119,6 @@ Bottle Gourd,A green vegetable,Vegetables
 Capsicum,A bell pepper,Vegetables
 Chili,A hot pepper,Vegetables
 Coriander,A fresh herb,Vegetables
-Mint,A fresh herb,Vegetables
 Lemon,A citrus fruit,Vegetables
 Beetroot,A root vegetable,Vegetables
 Shalwar,Traditional pants,Clothing
@@ -509,8 +508,6 @@ File,A smoothing tool,Tools
 Clamp,A holding tool,Tools
 Vice,A holding tool,Tools
 Cutter,A cutting tool,Tools
-Scissor,A cutting tool,Tools
-Knife,A cutting tool,Tools
 Torch,A lighting tool,Tools
 Brush,A cleaning tool,Tools
 Cotton,A natural fabric,Fabrics
@@ -693,7 +690,6 @@ Masjid,Mosque,Islamic Terms
 Imam,Prayer leader,Islamic Terms
 Wudu,Ablution,Islamic Terms
 Mecca,Holiest city in Islam,Islamic Locations
-Medina,City of the Prophet,Islamic Locations
 Jerusalem,Third holiest site,Islamic Locations
 Kaaba,House of Allah,Islamic Locations
 Masjid al-Haram,Grand Mosque in Mecca,Islamic Locations

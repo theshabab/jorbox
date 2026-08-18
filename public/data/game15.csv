@@ -1,4 +1,4 @@
-Title,Description,Category
+Name,Description,Category
 Khadijah bint Khuwaylid,First person to accept Islam,Sahabas - Order of Accepting Islam
 Ali ibn Abi Talib,First youth/child,Sahabas - Order of Accepting Islam
 Zayd ibn Harithah,First freed slave,Sahabas - Order of Accepting Islam
@@ -260,20 +260,16 @@ Child,7,Life Stages (Human - Chronological)
 Adolescent,8,Life Stages (Human - Chronological)
 Adult,9,Life Stages (Human - Chronological)
 Senior,10,Life Stages (Human - Chronological)
-Helium,2,Noble Gases (Atomic Number)
-Neon,10,Noble Gases (Atomic Number)
 Argon,18,Noble Gases (Atomic Number)
 Krypton,36,Noble Gases (Atomic Number)
 Xenon,54,Noble Gases (Atomic Number)
 Radon,86,Noble Gases (Atomic Number)
 Oganesson,118,Noble Gases (Atomic Number)
-Fluorine,9,Halogens (Atomic Number)
 Chlorine,17,Halogens (Atomic Number)
 Bromine,35,Halogens (Atomic Number)
 Iodine,53,Halogens (Atomic Number)
 Astatine,85,Halogens (Atomic Number)
 Tennessine,117,Halogens (Atomic Number)
-Lithium,3,Alkali Metals (Atomic Number)
 Sodium,11,Alkali Metals (Atomic Number)
 Potassium,19,Alkali Metals (Atomic Number)
 Rubidium,37,Alkali Metals (Atomic Number)
@@ -590,13 +586,11 @@ Russia,9,Most Populous Countries (2024 Est - Descending)
 Ethiopia,10,Most Populous Countries (2024 Est - Descending)
 $1,1,US Dollar Bills (Face Value)
 $2,2,US Dollar Bills (Face Value)
-$5,3,US Dollar Bills (Face Value)
 $10,4,US Dollar Bills (Face Value)
 $20,5,US Dollar Bills (Face Value)
 $50,6,US Dollar Bills (Face Value)
 $100,7,US Dollar Bills (Face Value)
 Blue,1,Olympic Rings (Left to Right)
-Yellow,2,Olympic Rings (Left to Right)
 Black,3,Olympic Rings (Left to Right)
 Green,4,Olympic Rings (Left to Right)
 Red,5,Olympic Rings (Left to Right)
@@ -604,7 +598,6 @@ Brown,1,Monopoly Color Groups (Board Order)
 Light Blue,2,Monopoly Color Groups (Board Order)
 Pink,3,Monopoly Color Groups (Board Order)
 Orange,4,Monopoly Color Groups (Board Order)
-Red,5,Monopoly Color Groups (Board Order)
 Yellow,6,Monopoly Color Groups (Board Order)
 Green,7,Monopoly Color Groups (Board Order)
 Dark Blue,8,Monopoly Color Groups (Board Order)
@@ -619,14 +612,11 @@ Dime,$0.10,US Coins (Value)
 Quarter,$0.25,US Coins (Value)
 Half Dollar,$0.50,US Coins (Value)
 Dollar Coin,$1.00,US Coins (Value)
-Asia,1,Continents (Population - High to Low)
-Africa,2,Continents (Population - High to Low)
 Europe,3,Continents (Population - High to Low)
 North America,4,Continents (Population - High to Low)
 South America,5,Continents (Population - High to Low)
 Australia/Oceania,6,Continents (Population - High to Low)
 Antarctica,7,Continents (Population - High to Low)
-Mercury,1,Planets (Diameter - Small to Large)
 Mars,2,Planets (Diameter - Small to Large)
 Venus,3,Planets (Diameter - Small to Large)
 Earth,4,Planets (Diameter - Small to Large)
@@ -932,9 +922,7 @@ Inside Out,2015,Pixar Movies (Release Year)
 Soul,2020,Pixar Movies (Release Year)
 Turning Red,2022,Pixar Movies (Release Year)
 Iron Man,2008,Marvel Movies (Release Year)
-Iron Man 2,2010,Marvel Movies (Release Year)
 Thor,2011,Marvel Movies (Release Year)
-The Avengers,2012,Marvel Movies (Release Year)
 Iron Man 3,2013,Marvel Movies (Release Year)
 Winter Soldier,2014,Marvel Movies (Release Year)
 Age of Ultron,2015,Marvel Movies (Release Year)
@@ -1007,8 +995,6 @@ IBM,1914,Tech Companies (Founding Year)
 Microsoft,1975,Tech Companies (Founding Year)
 Apple,1976,Tech Companies (Founding Year)
 Amazon,1995,Tech Companies (Founding Year)
-Google,1998,Tech Companies (Founding Year)
-Facebook,2004,Tech Companies (Founding Year)
 Spotify,2006,Tech Companies (Founding Year)
 Uber,2009,Tech Companies (Founding Year)
 Fiat,1899,Car Brands (Founding Year)
@@ -1113,9 +1099,7 @@ Penicillin,1928,Inventions by Year
 Microwave,1945,Inventions by Year
 Shrek,2001,Movies With Talking Animals
 Scooby-Doo,2002,Movies With Talking Animals
-Finding Nemo,2003,Movies With Talking Animals
 Madagascar,2005,Movies With Talking Animals
-Ratatouille,2007,Movies With Talking Animals
 Kung Fu Panda,2008,Movies With Talking Animals
 Fantastic Mr. Fox,2009,Movies With Talking Animals
 Guardians,2014,Movies With Talking Animals
@@ -1185,7 +1169,6 @@ Back to the Future,1985,Famous Franchises First Films
 Die Hard,1988,Famous Franchises First Films
 Rush Hour,1998,Famous Franchises First Films
 The Matrix,1999,Famous Franchises First Films
-Final Destination,2000,Famous Franchises First Films
 Lord of the Rings,2001,Famous Franchises First Films
 Ice Age,2002,Famous Franchises First Films
 Transformers,2007,Famous Franchises First Films
@@ -1368,7 +1351,6 @@ Scrabble,100,Board Games By Piece Count (Approx.)
 Risk,~360,Board Games By Piece Count (Approx.)
 Catan,~100+,Board Games By Piece Count (Approx.)
 3.,1,First Digits of Pi
-1,2,First Digits of Pi
 4,3,First Digits of Pi
 1,4,First Digits of Pi
 5,5,First Digits of Pi
@@ -1433,15 +1415,10 @@ Gas oven,550,Maximum Heat (Fahrenheit)
 Bunsen burner,"2,700",Maximum Heat (Fahrenheit)
 Light bulb filament,"4,600",Maximum Heat (Fahrenheit)
 Sun’s Core,"27,000,000",Maximum Heat (Fahrenheit)
-Battery Acid,0,pH Scale (Acidity - Low to High pH)
 Gastric Acid,1,pH Scale (Acidity - Low to High pH)
 Lemon Juice,2,pH Scale (Acidity - Low to High pH)
 Black Coffee,5,pH Scale (Acidity - Low to High pH)
 Pure Water,7,pH Scale (Acidity - Low to High pH)
-Baking Soda,9,pH Scale (Acidity - Low to High pH)
-Ammonia,11,pH Scale (Acidity - Low to High pH)
-Bleach,13,pH Scale (Acidity - Low to High pH)
-Drain Cleaner,14,pH Scale (Acidity - Low to High pH)
 Clavicle,1,Bones In The Human Arm (Order)
 Scapula,2,Bones In The Human Arm (Order)
 Humerus,3,Bones In The Human Arm (Order)
@@ -1592,16 +1569,6 @@ Catch-22,4,Books With Numbers In The Title
 Fahrenheit 451,5,Books With Numbers In The Title
 1984,6,Books With Numbers In The Title
 2001: A Space Odyssey,7,Books With Numbers In The Title
-Paper,1st,Traditional Anniversary Gifts
-Wood,5th,Traditional Anniversary Gifts
-Tin,10th,Traditional Anniversary Gifts
-Crystal,15th,Traditional Anniversary Gifts
-China,20th,Traditional Anniversary Gifts
-Silver,25th,Traditional Anniversary Gifts
-Pearl,30th,Traditional Anniversary Gifts
-Ruby,40th,Traditional Anniversary Gifts
-Gold,50th,Traditional Anniversary Gifts
-Diamond,60th,Traditional Anniversary Gifts
 Cheerios,1 g,Cereals By Sugar Per Serving
 Rice Krispies,4 g,Cereals By Sugar Per Serving
 Corn Flakes,4 g,Cereals By Sugar Per Serving
@@ -1674,11 +1641,7 @@ Office Clerk,3,Most Common American Jobs
 Food Prep/Serving,4,Most Common American Jobs
 Registered Nurse,5,Most Common American Jobs
 Customer Service Rep,6,Most Common American Jobs
-Checkers,24,Board Game Piece Count
-Chess,32,Board Game Piece Count
 Monopoly,~40-60,Board Game Piece Count
-Scrabble,100,Board Game Piece Count
-Risk,360,Board Game Piece Count
 Axis & Allies,Hundreds,Board Game Piece Count
 Sponge,-600 mya,Spongebob Characters Evolution
 Starfish,-450 mya,Spongebob Characters Evolution
@@ -1686,7 +1649,6 @@ Crab,-200 mya,Spongebob Characters Evolution
 Squid,-100 mya,Spongebob Characters Evolution
 Squirrel,-35 mya,Spongebob Characters Evolution
 Deep Blue,1997,Robot and A.I. Debuts
-Furby,1998,Robot and A.I. Debuts
 ASIMO,2000,Robot and A.I. Debuts
 Roomba,2002,Robot and A.I. Debuts
 BigDog,2005,Robot and A.I. Debuts
@@ -1723,7 +1685,6 @@ Billie Eilish,2001,Pop Star Birthdays (Birth Year)
 Olivia Rodrigo,2003,Pop Star Birthdays (Birth Year)
 LiveJournal,1999,Social Media Sites (Launch Year)
 Myspace,2003,Social Media Sites (Launch Year)
-Facebook,2004,Social Media Sites (Launch Year)
 Reddit,2005,Social Media Sites (Launch Year)
 Twitter,2006,Social Media Sites (Launch Year)
 Tumblr,2007,Social Media Sites (Launch Year)
@@ -1833,7 +1794,6 @@ The Legend of Zelda,1986,Open World Video Games (Release Year)
 Shenmue,1999,Open World Video Games (Release Year)
 Grand Theft Auto III,2001,Open World Video Games (Release Year)
 Skyrim,2011,Open World Video Games (Release Year)
-Minecraft,2011,Open World Video Games (Release Year)
 GTA V,2013,Open World Video Games (Release Year)
 Witcher 3,2015,Open World Video Games (Release Year)
 Breath of the Wild,2017,Open World Video Games (Release Year)
@@ -1935,18 +1895,6 @@ Bulldog,40-50 lbs,Average Dog Weights (Lighter to Heavier)
 Golden Retriever,55-75 lbs,Average Dog Weights (Lighter to Heavier)
 German Shepherd,60-90 lbs,Average Dog Weights (Lighter to Heavier)
 Saint Bernard,140-180 lbs,Average Dog Weights (Lighter to Heavier)
-Aries,1,Order of Astrological Signs
-Taurus,2,Order of Astrological Signs
-Gemini,3,Order of Astrological Signs
-Cancer,4,Order of Astrological Signs
-Leo,5,Order of Astrological Signs
-Virgo,6,Order of Astrological Signs
-Libra,7,Order of Astrological Signs
-Scorpio,8,Order of Astrological Signs
-Sagittarius,9,Order of Astrological Signs
-Capricorn,10,Order of Astrological Signs
-Aquarius,11,Order of Astrological Signs
-Pisces,12,Order of Astrological Signs
 Tame Impala,1,Bands By Member Count
 Twenty One Pilots,2,Bands By Member Count
 Nirvana,3,Bands By Member Count
@@ -1969,15 +1917,7 @@ Great Pyramid of Giza,139 m,Heights of World Buildings (Low to High)
 Eiffel Tower,324 m,Heights of World Buildings (Low to High)
 Empire State Building,443 m,Heights of World Buildings (Low to High)
 CN Tower,553 m,Heights of World Buildings (Low to High)
-Burj Khalifa,828 m,Heights of World Buildings (Low to High)
-Triangle,3,Shapes With The Most Sides
 Square,4,Shapes With The Most Sides
-Pentagon,5,Shapes With The Most Sides
-Hexagon,6,Shapes With The Most Sides
-Heptagon,7,Shapes With The Most Sides
-Octagon,8,Shapes With The Most Sides
-Nonagon,9,Shapes With The Most Sides
-Decagon,10,Shapes With The Most Sides
 Kevin Hart,"5'2""",Celebrity Heights (Short to Tall)
 Daniel Radcliffe,"5'5""",Celebrity Heights (Short to Tall)
 Tom Cruise,"5'7""",Celebrity Heights (Short to Tall)
@@ -1987,14 +1927,6 @@ Barack Obama,"6'1""",Celebrity Heights (Short to Tall)
 Will Smith,"6'2""",Celebrity Heights (Short to Tall)
 Dwayne Johnson,"6'5""",Celebrity Heights (Short to Tall)
 Shaquille O'Neal,"7'1""",Celebrity Heights (Short to Tall)
-Mercury,1,Planetary Distance From Sun (Close to Far)
-Venus,2,Planetary Distance From Sun (Close to Far)
-Earth,3,Planetary Distance From Sun (Close to Far)
-Mars,4,Planetary Distance From Sun (Close to Far)
-Jupiter,5,Planetary Distance From Sun (Close to Far)
-Saturn,6,Planetary Distance From Sun (Close to Far)
-Uranus,7,Planetary Distance From Sun (Close to Far)
-Neptune,8,Planetary Distance From Sun (Close to Far)
 The Baxters,4,Members Per Family (TV Shows)
 The Belchers,5,Members Per Family (TV Shows)
 The Banks,6,Members Per Family (TV Shows)
@@ -2175,7 +2107,6 @@ Michael Jordan,"6'6""",NBA Player Heights
 Larry Bird,"6'9""",NBA Player Heights
 Giannis Antetokounmpo,"6'11""",NBA Player Heights
 Dirk Nowitzki,"7'0""",NBA Player Heights
-Shaquille O'Neal,"7'1""",NBA Player Heights
 Yao Ming,"7'6""",NBA Player Heights
 Chiropractor,$65k,Highest Paying Jobs (Indeed 2022)
 CPA,$72k,Highest Paying Jobs (Indeed 2022)

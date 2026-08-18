@@ -40,12 +40,13 @@ Registry of games.
 ```
 
 ### CSV Format
-Standard format for game data files.
+Columns vary per game; every file has at least a `Name` or `Description` column. `Category` is present only when the game has real categories (mirrors `hasCategories` in `games.json`).
 ```csv
 Name,Description,Category
 Card Name,Card Description,CategoryName
 ```
-*Note: `Category` column is optional if `hasCategories` is false.*
+*Known shapes in use: `Name,Description,Category` (most games), `Description,Category` (game7, game14), `Name,Description` (game9, game11), `Name` only (game10, game12), `Description` only (game6, game13), `Name,Category` (game16).*
+*CardViewer renders whichever of `Name`/`Description`/`Category` exist, so partial shapes are safe.*
 
 ## Key Components
 - **GameSelector**: Dropdown to switch games.
@@ -63,7 +64,7 @@ Card Name,Card Description,CategoryName
 - **Platform**: GitHub Pages
 - **Workflow**: `.github/workflows/deploy.yml`
 - **Trigger**: Push to `main` branch.
-- **Base URL**: configured as `/jorbox-app/` in `vite.config.js`.
+- **Base URL**: configured as `/jorbox/` in `vite.config.js`.
 
 ## Development
 1. **Install**: `npm install`
