@@ -1,0 +1,6 @@
+# Copy to .dev.vars (ignored by git). Use a separate GitHub OAuth app for local development.
+APP_ORIGIN=http://localhost:8787
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+# Generate with: openssl rand -hex 32
+COOKIE_SECRET=

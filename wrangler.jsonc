@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jorbox",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-10-06",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "jorbox",
+    "database_id": "9eb382fc-4a37-410d-aeb3-dd2f212c2282",
+    "migrations_dir": "worker/migrations"
+  }],
+  "vars": {
+    "GITHUB_CLIENT_ID": "Ov23liZ41hn2yEdsguvY",
+    "APP_ORIGIN": "https://jorbox.haseebshah.workers.dev",
+    "ADMIN_GITHUB_IDS": "48080916",
+    "FEEDBACK_REQUIRE_LOGIN": "false"
+  },
+  "triggers": { "crons": ["0 3 * * *"] }
+}

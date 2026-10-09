@@ -1,45 +1,19 @@
-import Papa from 'papaparse';
-
-// Helper to construct correct path with base URL
-const getAssetPath = (path) => {
-    const baseUrl = import.meta.env.BASE_URL;
-    // Remove leading slash if present to avoid double slashes with baseUrl
-    const cleanPath = path.startsWith('/') ? path.slice(1) : path;
-    // If baseUrl is '/', just return /path, otherwise join them
-    return baseUrl === '/' ? `/${cleanPath}` : `${baseUrl}${cleanPath}`;
-};
+export async function api(path, data) {
+  const response = await fetch(`/api${path}`, {
+    credentials: 'same-origin',
+    ...(data === undefined ? {} : { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) }),
+  });
+  if (!response.headers.get('Content-Type')?.includes('application/json')) throw new Error('Backend unavailable. Start the Cloudflare Worker to use this app.');
+  const result = await response.json();
+  if (!response.ok) throw new Error(result.error || 'Request failed.');
+  return result;
+}
 
 export const DataManager = {
-    async fetchGames() {
-        try {
-            const response = await fetch(getAssetPath('games.json'));
-            if (!response.ok) throw new Error('Failed to fetch games registry');
-            const games = await response.json();
-
-            // Fix paths in the games data as well
-            return games.map(game => ({
-                ...game,
-                csv: getAssetPath(game.csv)
-            }));
-        } catch (error) {
-            console.error('Error fetching games:', error);
-            return [];
-        }
-    },
-
-    async fetchGameData(csvPath) {
-        return new Promise((resolve, reject) => {
-            Papa.parse(csvPath, {
-                download: true,
-                header: true,
-                skipEmptyLines: true,
-                complete: (results) => {
-                    resolve(results.data);
-                },
-                error: (error) => {
-                    reject(error);
-                }
-            });
-        });
-    }
+  fetchGames: () => api('/games'),
+  fetchSession: () => api('/session'),
+  fetchGameData: (id, removed = false) => api(`/games/${encodeURIComponent(id)}/cards${removed ? '?removed=true' : ''}`),
+  vote: (id, value) => api(`/cards/${encodeURIComponent(id)}/vote`, { value }),
+  bulk: (id, action, cards) => api(`/games/${encodeURIComponent(id)}/cards/bulk`, { action, cards }),
+  logout: () => api('/auth/logout', {}),
 };

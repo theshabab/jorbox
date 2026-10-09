@@ -231,3 +231,69 @@ a {
 .animate-fade-in {
   animation: fadeIn 0.6s ease-out forwards;
 }
+.app-container { padding: 2rem; max-width: 1200px; margin: 0 auto; position: relative; z-index: 1; }
+.app-header { text-align: center; margin-bottom: 3rem; }
+.brand { display: inline-flex; align-items: center; gap: 1rem; margin-bottom: 1rem; background: rgba(255,255,255,.05); padding: 1rem 2rem; border-radius: 50px; border: 1px solid var(--border-color); }
+.brand h1 { font-size: 2rem; font-weight: 800; letter-spacing: -.5px; }
+h1, .playing-card h2 { background: linear-gradient(120deg, #fff, #cbd5e1 55%, var(--accent-primary)); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+h1,h2,h3 { font-family: var(--font-heading); }
+.subtitle { color: var(--text-secondary); font-family: var(--font-heading); font-size: 1.1rem; letter-spacing: 1px; text-transform: uppercase; }
+.account-bar, .button-row { display: flex; align-items: center; justify-content: center; gap: .75rem; flex-wrap: wrap; }
+.account-bar { margin-top: 1.5rem; }
+.account-bar a, .button-row button { display: inline-flex; align-items: center; justify-content: center; gap: .5rem; }
+.management-toggle { margin-bottom: 2rem; }
+.card-viewer { max-width: 600px; margin: 0 auto; padding: 0 1rem; perspective: 1000px; }
+.playing-card { padding: 3rem 2rem; min-height: 400px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; position: relative; transition: transform .1s ease-out; }
+.playing-card h2 { font-size: 2.5rem; margin-bottom: 1.5rem; overflow-wrap: anywhere; }
+.card-description { font-size: 1.2rem; line-height: 1.8; overflow-wrap: anywhere; white-space: pre-wrap; }
+.category-badge { display: inline-block; margin-top: 1rem; padding: 6px 12px; border-radius: 20px; background: rgba(255,255,255,.1); font-size: .9rem; color: #ff90ab; overflow-wrap: anywhere; }
+.card-position { position: absolute; bottom: 1rem; right: 1rem; font-size: .8rem; color: var(--text-secondary); }
+.feedback { margin: 1.5rem 0; text-align: center; }
+.feedback .muted { margin-top: .5rem; font-size: .85rem; }
+button[aria-pressed="true"] { border-color: var(--accent-primary); background: rgba(225,29,72,.2); }
+button:disabled, fieldset:disabled button { opacity: .45; cursor: not-allowed; }
+:focus-visible { outline: 2px solid #ff90ab; outline-offset: 4px; }
+footer { text-align: center; margin-top: 4rem; color: var(--text-secondary); font-size: .9rem; border-top: 1px solid var(--border-color); padding-top: 2rem; }
+footer p + p { margin-top: .5rem; }
+.empty-state { text-align: center; padding: 3rem 1rem; color: var(--text-secondary); }
+.muted { color: var(--text-secondary); }
+.error { color: #fda4af; }
+.success { color: #86efac; }
+.notice { padding: 1rem; margin-bottom: 1rem; border: 1px solid currentColor; border-radius: 8px; }
+.manager { padding: 1.5rem; }
+.manager-heading { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; margin-bottom: 1.5rem; }
+.manager fieldset { border: 0; min-width: 0; }
+.manager label { display: flex; flex-direction: column; gap: .4rem; font-size: .9rem; flex: 1; }
+.manager input:not([type="checkbox"]), .manager select, .manager textarea { background: #12062b; color: var(--text-primary); border: 1px solid rgba(255,255,255,.25); border-radius: 8px; padding: .7rem; font: inherit; width: 100%; }
+.manager input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--accent-primary); }
+.manager-filters { display: flex; flex-wrap: wrap; gap: 1rem; }
+.toolbar { justify-content: flex-start; margin: 1rem 0; }
+.btn-danger { background: #831337; color: white; border: 1px solid #fb7185; padding: 10px 16px; border-radius: 8px; }
+.selection-bar { display: flex; align-items: end; gap: 1rem; flex-wrap: wrap; padding: 1rem; border: 1px solid var(--accent-primary); border-radius: 8px; margin-bottom: 1rem; }
+.table-scroll { overflow: auto; }
+table { width: 100%; border-collapse: collapse; text-align: left; }
+th,td { padding: .75rem; border-bottom: 1px solid rgba(255,255,255,.12); vertical-align: top; }
+th { color: var(--text-secondary); font-size: .8rem; }
+.table-description { max-width: 450px; overflow-wrap: anywhere; white-space: pre-wrap; font-size: .9rem; color: var(--text-secondary); }
+.feedback-count { white-space: nowrap; }
+td .button-row { flex-wrap: nowrap; }
+td button { padding: 8px 12px !important; font-size: .85rem; }
+.pagination { margin-top: 1rem; font-size: .85rem; }
+.editor, .import-panel, .review-panel { margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,.18); display: grid; gap: 1rem; }
+.editor .button-row, .review-panel .button-row { justify-content: flex-start; }
+.review-panel { background: rgba(225,29,72,.08); border: 1px solid var(--accent-primary); padding: 1.5rem; border-radius: 12px; }
+.review-items { max-height: 350px; overflow: auto; padding-left: 1.5rem; }
+.review-items li { padding: .5rem; overflow-wrap: anywhere; white-space: pre-wrap; }
+.csv-preview { display: grid; gap: 1rem; }
+.csv-preview ul, .csv-preview ol { padding-left: 1.5rem; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; }
+@media (max-width: 600px) {
+  .app-container { padding: 1rem; }
+  .brand { padding: .8rem 1rem; gap: .5rem; }
+  .brand h1 { font-size: 1.6rem; }
+  .playing-card { min-height: 340px; padding: 2rem 1rem; }
+  .playing-card h2 { font-size: 2rem; }
+  .manager { padding: 1rem; }
+  .manager-filters { flex-direction: column; }
+  .manager-heading { flex-wrap: wrap; }
+}

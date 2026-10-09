@@ -1,13 +1,12 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
+import { Layers, Github } from 'lucide-react';
 import { DataManager } from './utils/DataManager';
 import GameSelector from './components/GameSelector';
 import CardViewer from './components/CardViewer';
 import CategorySelector from './components/CategorySelector';
-
 import AuroraBokehBackground from './components/AuroraBokehBackground';
-import { Layers } from 'lucide-react';
+import CardManager from './components/CardManager';
 
-// Fisher-Yates shuffle (unbiased, unlike sort(() => Math.random() - 0.5))
 const shuffle = (items) => {
   const arr = [...items];
   for (let i = arr.length - 1; i > 0; i--) {
@@ -17,141 +16,69 @@ const shuffle = (items) => {
   return arr;
 };
 
-function App() {
+export default function App() {
   const [games, setGames] = useState([]);
   const [selectedGame, setSelectedGame] = useState(null);
   const [cards, setCards] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState('');
+  const [session, setSession] = useState(null);
+  const [managing, setManaging] = useState(false);
+  const [revision, setRevision] = useState(0);
+  const [retry, setRetry] = useState(0);
 
-  // Fetch games registry on mount
   useEffect(() => {
-    const loadGames = async () => {
-      const gamesData = await DataManager.fetchGames();
-      setGames(gamesData);
-      setLoading(false);
-    };
-    loadGames();
-  }, []);
+    let active = true;
+    Promise.all([DataManager.fetchGames(), DataManager.fetchSession()]).then(([games, session]) => {
+      if (active) { setGames(games); setSession(session); setError(''); }
+    }).catch(error => { if (active) setError(error.message); }).finally(() => { if (active) setLoading(false); });
+    return () => { active = false; };
+  }, [retry]);
 
-  // Fetch game data when a game is selected
   useEffect(() => {
-    const loadGameData = async () => {
-      if (!selectedGame) {
-        setCards([]);
-        return;
-      }
+    if (!selectedGame) return;
+    let active = true;
+    DataManager.fetchGameData(selectedGame.id).then(data => {
+      if (active) { setCards(shuffle(data)); setError(''); }
+    }).catch(error => { if (active) { setError(error.message); setCards([]); } }).finally(() => { if (active) setLoading(false); });
+    return () => { active = false; };
+  }, [selectedGame, revision]);
 
-      setLoading(true);
-      try {
-        const data = await DataManager.fetchGameData(selectedGame.csv);
-        setCards(shuffle(data));
-        // Reset category when game changes
-        setSelectedCategory(null);
-      } catch (error) {
-        console.error('Failed to load game data:', error);
-        setCards([]);
-      } finally {
-        setLoading(false);
-      }
-    };
+  const categories = useMemo(() => Array.from(new Set(cards.map(card => card.Category).filter(Boolean))).sort(), [cards]);
+  const filteredCards = useMemo(() => selectedCategory ? cards.filter(card => card.Category === selectedCategory) : cards, [cards, selectedCategory]);
+  function selectGame(game) {
+    setSelectedGame(game); setSelectedCategory(null); setCards([]); setLoading(true); setManaging(false); setError('');
+  }
+  function refreshCards() { setLoading(true); setRevision(value => value + 1); }
+  async function logout() {
+    try {
+      await DataManager.logout();
+      setSession(await DataManager.fetchSession());
+      setManaging(false);
+      if (selectedGame) refreshCards();
+    } catch (error) { setError(error.message); }
+  }
+  function onVote(id, feedback) { setCards(previous => previous.map(card => card.id === id ? { ...card, ...feedback } : card)); }
 
-    loadGameData();
-  }, [selectedGame]);
-
-  // Extract unique categories if the game supports it
-  const categories = useMemo(() => {
-    if (!selectedGame?.hasCategories || !cards.length) return [];
-    const uniqueCategories = new Set(cards.map(card => card.Category).filter(Boolean));
-    return Array.from(uniqueCategories).sort();
-  }, [selectedGame, cards]);
-
-  // Filter cards based on selected category
-  const filteredCards = useMemo(() => {
-    if (!selectedCategory) return cards;
-    return cards.filter(card => card.Category === selectedCategory);
-  }, [cards, selectedCategory]);
-
-  return (
-    <div className="app-container" style={{ padding: '2rem', maxWidth: '1200px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
-      <AuroraBokehBackground />
-      <header style={{ textAlign: 'center', marginBottom: '3rem' }}>
-        <div style={{
-          display: 'inline-flex',
-          alignItems: 'center',
-          gap: '1rem',
-          marginBottom: '1rem',
-          background: 'rgba(255,255,255,0.05)',
-          padding: '1rem 2rem',
-          borderRadius: '50px',
-          border: '1px solid var(--border-color)'
-        }}>
-          <Layers size={32} color="var(--accent-primary)" />
-          <h1 style={{
-            fontSize: '2rem',
-            fontWeight: '800',
-            letterSpacing: '-0.5px',
-            fontFamily: 'var(--font-heading)',
-            background: 'linear-gradient(120deg, #ffffff 0%, #cbd5e1 55%, var(--accent-primary) 100%)', /* --jb-gradient-text style */
-            WebkitBackgroundClip: 'text',
-            WebkitTextFillColor: 'transparent'
-          }}>
-            Shabab JorBox
-          </h1>
-        </div>
-        <p style={{
-          color: 'var(--text-secondary)',
-          fontFamily: 'var(--font-heading)',
-          fontSize: '1.1rem',
-          fontWeight: '300',
-          letterSpacing: '1px',
-          textTransform: 'uppercase'
-        }}>
-          Companion App
-        </p>
-      </header>
-
-      <main>
-        <GameSelector
-          games={games}
-          selectedGame={selectedGame}
-          onSelectGame={setSelectedGame}
-        />
-
-        {loading ? (
-          <div style={{ textAlign: 'center', padding: '4rem', color: 'var(--text-secondary)' }}>
-            Loading...
-          </div>
-        ) : (
-          <>
-            {selectedGame && selectedGame.hasCategories && (
-              <CategorySelector
-                categories={categories}
-                selectedCategory={selectedCategory}
-                onSelectCategory={setSelectedCategory}
-              />
-            )}
-
-            {selectedGame && (
-              <CardViewer cards={filteredCards} />
-            )}
-          </>
-        )}
-      </main>
-
-      <footer style={{
-        textAlign: 'center',
-        marginTop: '4rem',
-        color: 'var(--text-secondary)',
-        fontSize: '0.9rem',
-        borderTop: '1px solid var(--border-color)',
-        paddingTop: '2rem'
-      }}>
-        <p>&copy; {new Date().getFullYear()} Shabab JorBox</p>
-        <p style={{ marginTop: '0.5rem' }}>For corrections, edits and additions contact thehaseebshah@zohomail.in</p>
-      </footer>
-    </div>
-  );
+  return <div className="app-container">
+    <AuroraBokehBackground />
+    <header className="app-header">
+      <div className="brand"><Layers size={32} color="var(--accent-primary)" /><h1>Shabab JorBox</h1></div>
+      <p className="subtitle">Companion App</p>
+      <div className="account-bar">
+        {session?.user ? <><span>Signed in as <strong>{session.user.login}</strong>{session.user.isAdmin && ' · Administrator'}</span><button className="btn-secondary" onClick={logout}>Sign out</button></> : session?.githubEnabled ? <a className="btn-secondary" href="/api/auth/github"><Github size={18} /> Sign in with GitHub</a> : session && <span className="muted">GitHub sign-in awaits configuration.</span>}
+      </div>
+    </header>
+    <main>
+      {error && <div className="error notice" role="alert">{error} <button className="btn-secondary" onClick={() => { setLoading(true); setRetry(value => value + 1); if (selectedGame) refreshCards(); }}>Retry</button></div>}
+      {session && <GameSelector games={games} selectedGame={selectedGame} onSelectGame={selectGame} />}
+      {selectedGame && session?.user?.isAdmin && <div className="button-row management-toggle"><button className="btn-secondary" onClick={() => setManaging(value => !value)}>{managing ? 'Back to playing' : 'Manage cards'}</button></div>}
+      {managing && selectedGame ? <CardManager key={selectedGame.id} game={selectedGame} cards={cards} onChanged={refreshCards} loading={loading} /> : loading ? <p className="empty-state" role="status">Loading…</p> : selectedGame ? <>
+        {selectedGame.hasCategories && <CategorySelector categories={categories} selectedCategory={selectedCategory} onSelectCategory={setSelectedCategory} />}
+        <CardViewer key={`${selectedGame.id}:${selectedCategory || ''}:${revision}`} cards={filteredCards} session={session} onVote={onVote} />
+      </> : !error && <p className="empty-state">Choose a game to start playing.</p>}
+    </main>
+    <footer><p>&copy; {new Date().getFullYear()} Shabab JorBox</p><p>Like or dislike cards to help improve the decks.</p></footer>
+  </div>;
 }
-
-export default App;
