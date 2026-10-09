@@ -1,73 +1,36 @@
-# AGENTS.md
+# JorBox
 
-## Project Overview
-**Shabab JorBox Companion App** is a static React application designed to serve as a companion for physical card games. It allows users to select a game, filter cards by category (if applicable), and view card details (Name, Description) with a premium, glassmorphic UI.
+React 19 + Vite frontend, served by a Cloudflare Worker with a D1 database. Production is at https://jorbox.haseebshah.workers.dev. GitHub Pages deployment has been replaced by Cloudflare.
 
-## Tech Stack
-- **Framework**: React 18 + Vite
-- **Language**: JavaScript (ES6+)
-- **Styling**: Vanilla CSS with CSS Variables (Glassmorphism, Dark Mode)
-- **Icons**: `lucide-react`
-- **Data Parsing**: `papaparse` (CSV to JSON)
-- **Deployment**: GitHub Pages (via GitHub Actions)
+## Structure
 
-## Project Structure
-```
-/
-├── public/
-│   ├── games.json        # Registry of available games
-│   └── data/             # CSV files containing card data
-├── src/
-│   ├── components/       # UI Components (GameSelector, CardViewer, CategorySelector)
-│   ├── utils/            # DataManager.js (CSV fetching/parsing)
-│   ├── App.jsx           # Main application logic
-│   └── index.css         # Global styles & variables
-└── vite.config.js        # Vite configuration (base path set for GH Pages)
-```
+- `src/App.jsx`: game selection, account state, playing and administrator views.
+- `src/components/GameManager.jsx`: game creation, format changes, removal and restoration.
+- `src/components/CardManager.jsx`, `BulkCardEditor.jsx`, `CardFields.jsx`: card management, reviewed bulk edits, CSV workflows and personal bulk feedback.
+- `src/utils/DataManager.js`: same-origin JSON API client.
+- `src/utils/cardFormats.js`, `cardCsv.js`: client-side format and CSV validation.
+- `worker/index.js`: API, GitHub OAuth, server authorization, voting, transactional game/card writes and auditing.
+- `worker/migrations/`: ordered D1 migrations. Add a migration for schema changes; do not rewrite applied migrations.
+- `public/games.json`, `public/data/*.csv`, `worker/seed.sql`: original seed, not live production data.
+- `tests/`: Node tests using isolated real D1 through Miniflare and mocked GitHub responses.
 
-## Data Architecture
-### `games.json`
-Registry of games.
-```json
-[
-  {
-    "id": "game-id",
-    "name": "Game Name",
-    "csv": "/data/filename.csv",
-    "hasCategories": true/false
-  }
-]
-```
+## Development and verification
 
-### CSV Format
-Columns vary per game; every file has at least a `Name` or `Description` column. `Category` is present only when the game has real categories (mirrors `hasCategories` in `games.json`).
-```csv
-Name,Description,Category
-Card Name,Card Description,CategoryName
-```
-*Known shapes in use: `Name,Description,Category` (most games), `Description,Category` (game7, game14), `Name,Description` (game9, game11), `Name` only (game10, game12), `Description` only (game6, game13), `Name,Category` (game16).*
-*CardViewer renders whichever of `Name`/`Description`/`Category` exist, so partial shapes are safe.*
+Node.js 22 or later. Run `npm ci`, `npm run lint`, `npm test`, and `npm run build`. For changes to administrator workflows, also run `npm run test:ui` (see README for browser installation).
+For a local Worker, configure ignored `.dev.vars`, then run `npm run db:migrate:local`, `npm run db:seed:local`, and `npm run dev:worker`. See README for hot reload and OAuth callbacks.
 
-## Key Components
-- **GameSelector**: Dropdown to switch games.
-- **CategorySelector**: Dropdown to filter cards (only shown if `hasCategories` is true).
-- **CardViewer**: Displays current card with Next/Prev navigation.
+## Invariants
 
-## Styling Guidelines
-- **Theme**: Dark mode with glassmorphism.
-- **Fonts**:
-  - Headings: 'Outfit' (Sans-serif, Bold)
-  - Body: 'Inter' (Sans-serif)
-- **Colors**: defined in `index.css` (`--bg-primary`, `--accent-primary`, etc.)
+- Check administrator identity by immutable GitHub ID on every game/card management write. Ordinary sign-in does not grant administration.
+- Require same-origin writes. Validate formats and category requirements on the server as well as in the frontend.
+- Every bulk operation is atomic, limited to 100 cards and 512 KB, and must reject stale card versions and game-state races. Game writes require the current game version.
+- Game and card removal are recoverable. Removed games cannot accept votes or card writes. Restoring a game retains card-level trash and feedback.
+- Bulk feedback changes only the administrator's own vote, never aggregate counts or another player's votes.
+- Game format changes must not silently discard content. Category clearing requires an explicit flag and a reviewed warning.
+- Preserve legacy name-only and description-only cards. All cards need a name or description.
+- Audit administrative changes. Keep OAuth secrets, cookie secrets, sessions, votes, and production database exports out of Git and the frontend bundle.
+- Production migration/deployment uses Cloudflare credentials. Never reseed production to synchronize card edits.
 
-## Deployment
-- **Platform**: GitHub Pages
-- **Workflow**: `.github/workflows/deploy.yml`
-- **Trigger**: Push to `main` branch.
-- **Base URL**: configured as `/jorbox/` in `vite.config.js`.
+## Design
 
-## Development
-1. **Install**: `npm install`
-2. **Dev Server**: `npm run dev`
-3. **Build**: `npm run build`
-4. **Preview**: `npm run preview`
+Preserve the dark glass UI, existing colors and Outfit/Inter typography. Provide visible loading/error states, keyboard-accessible controls, review before writes, and responsive tables with contained horizontal scrolling.

@@ -6,6 +6,7 @@ import CardViewer from './components/CardViewer';
 import CategorySelector from './components/CategorySelector';
 import AuroraBokehBackground from './components/AuroraBokehBackground';
 import CardManager from './components/CardManager';
+import GameManager from './components/GameManager';
 
 const shuffle = (items) => {
   const arr = [...items];
@@ -25,6 +26,7 @@ export default function App() {
   const [error, setError] = useState('');
   const [session, setSession] = useState(null);
   const [managing, setManaging] = useState(false);
+  const [managingGames, setManagingGames] = useState(false);
   const [revision, setRevision] = useState(0);
   const [retry, setRetry] = useState(0);
 
@@ -48,14 +50,27 @@ export default function App() {
   const categories = useMemo(() => Array.from(new Set(cards.map(card => card.Category).filter(Boolean))).sort(), [cards]);
   const filteredCards = useMemo(() => selectedCategory ? cards.filter(card => card.Category === selectedCategory) : cards, [cards, selectedCategory]);
   function selectGame(game) {
-    setSelectedGame(game); setSelectedCategory(null); setCards([]); setLoading(true); setManaging(false); setError('');
+    setSelectedGame(game); setSelectedCategory(null); setCards([]); setLoading(true); setManaging(false); setManagingGames(false); setError('');
   }
-  function refreshCards() { setLoading(true); setRevision(value => value + 1); }
+  function refreshCards() {
+    setLoading(true); setRevision(value => value + 1);
+    DataManager.fetchGames().then(setGames).catch(error => setError(error.message));
+  }
+  async function refreshGames() {
+    const updated = await DataManager.fetchGames();
+    setGames(updated);
+    if (selectedGame) {
+      const current = updated.find(game => game.id === selectedGame.id);
+      setSelectedGame(current || null); setSelectedCategory(null); setCards([]); setManaging(false);
+      setLoading(Boolean(current));
+    }
+  }
   async function logout() {
     try {
       await DataManager.logout();
       setSession(await DataManager.fetchSession());
       setManaging(false);
+      setManagingGames(false);
       if (selectedGame) refreshCards();
     } catch (error) { setError(error.message); }
   }
@@ -73,8 +88,11 @@ export default function App() {
     <main>
       {error && <div className="error notice" role="alert">{error} <button className="btn-secondary" onClick={() => { setLoading(true); setRetry(value => value + 1); if (selectedGame) refreshCards(); }}>Retry</button></div>}
       {session && <GameSelector games={games} selectedGame={selectedGame} onSelectGame={selectGame} />}
-      {selectedGame && session?.user?.isAdmin && <div className="button-row management-toggle"><button className="btn-secondary" onClick={() => setManaging(value => !value)}>{managing ? 'Back to playing' : 'Manage cards'}</button></div>}
-      {managing && selectedGame ? <CardManager key={selectedGame.id} game={selectedGame} cards={cards} onChanged={refreshCards} loading={loading} /> : loading ? <p className="empty-state" role="status">Loading…</p> : selectedGame ? <>
+      {session?.user?.isAdmin && <div className="button-row management-toggle">
+        <button className="btn-secondary" aria-pressed={managingGames} onClick={() => { setManagingGames(value => !value); setManaging(false); }}>{managingGames ? 'Back to playing' : 'Manage games & formats'}</button>
+        {selectedGame && <button className="btn-secondary" aria-pressed={managing} onClick={() => { setManaging(value => !value); setManagingGames(false); }}>{managing ? 'Back to playing' : 'Manage cards'}</button>}
+      </div>}
+      {managingGames && session?.user?.isAdmin ? <GameManager games={games} onChanged={refreshGames} /> : managing && selectedGame ? <CardManager key={`${selectedGame.id}:${selectedGame.version}`} game={selectedGame} cards={cards} onChanged={refreshCards} loading={loading} /> : loading ? <p className="empty-state" role="status">Loading…</p> : selectedGame ? <>
         {selectedGame.hasCategories && <CategorySelector categories={categories} selectedCategory={selectedCategory} onSelectCategory={setSelectedCategory} />}
         <CardViewer key={`${selectedGame.id}:${selectedCategory || ''}:${revision}`} cards={filteredCards} session={session} onVote={onVote} />
       </> : !error && <p className="empty-state">Choose a game to start playing.</p>}

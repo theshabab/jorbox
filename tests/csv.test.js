@@ -39,3 +39,22 @@ test('all 16 original decks remain in the generated seed, including all partial 
   assert.equal((seed.match(/INSERT OR IGNORE INTO cards/g) || []).length, count);
   assert.equal(count, 19420);
 });
+
+test('CSV feedback round-trips personal votes and validates values and identities', () => {
+  const cards = [{ id: 'a', version: 2, Name: 'A', Description: '', Category: '', likes: 9, dislikes: 4, myVote: -1 }];
+  const parsed = parseCardCsv(exportCardCsv(cards), { hasCategories: false }, 'feedback');
+  assert.deepEqual(parsed.errors, []);
+  assert.equal(parsed.cards[0].value, -1);
+  assert.deepEqual(parseCardCsv('id,version,myVote\na,2,0', {}, 'feedback').errors, []);
+  for (const csv of ['id,version,myVote\na,2,2', 'id,version,myVote\na,2,', 'id,version,myVote\na,2,1\na,2,-1', 'id,version\na,2']) {
+    assert.ok(parseCardCsv(csv, {}, 'feedback').errors.length > 0);
+  }
+});
+
+test('CSV follows each configured card format before upload', () => {
+  assert.deepEqual(parseCardCsv('Name\nOne', { cardFormat: 'name' }, 'import').errors, []);
+  assert.ok(parseCardCsv('Name,Description\nOne,Text', { cardFormat: 'name' }, 'import').errors.length);
+  assert.deepEqual(parseCardCsv('Description\nText', { cardFormat: 'description' }, 'import').errors, []);
+  assert.ok(parseCardCsv('Name\nOne', { cardFormat: 'description' }, 'import').errors.length);
+  assert.ok(parseCardCsv('Name\nOne', { cardFormat: 'name-description' }, 'import').errors.length);
+});
