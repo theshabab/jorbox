@@ -45,14 +45,14 @@ Tests run against isolated real local D1 through Miniflare and mocked GitHub res
 
 ## GitHub sign-in
 
-Create a GitHub OAuth app at https://github.com/settings/applications/new or add a callback to an existing OAuth app without removing its other callbacks.
+Create a dedicated GitHub OAuth app at https://github.com/settings/applications/new.
 
 - Homepage: `https://jorbox.haseebshah.workers.dev`
 - Production callback: `https://jorbox.haseebshah.workers.dev/api/auth/github/callback`
 - Local callback: `http://localhost:8787/api/auth/github/callback`
 - No repository or email scopes are needed: JorBox only uses GitHub identity.
 
-FamTree’s client ID (`Ov23liZ41hn2yEdsguvY`) has been copied into the configuration. Its Cloudflare secret cannot be read back. To reuse it, use a saved copy of the secret or generate an additional client secret in GitHub without revoking FamTree’s existing secret. Add the JorBox callback while retaining FamTree’s callback.
+JorBox uses its own OAuth app with client ID `Ov23liPg9gdZvLUbRs9n`. FamTree uses a separate app; its callback and credentials do not need to change. Generate a client secret in JorBox’s OAuth app and save it privately. Cloudflare secrets cannot be read back.
 
 Put its `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` in ignored `.dev.vars`, then upload only these two credentials to Worker secrets:
 

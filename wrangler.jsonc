@@ -16,7 +16,7 @@
     "migrations_dir": "worker/migrations"
   }],
   "vars": {
-    "GITHUB_CLIENT_ID": "Ov23liZ41hn2yEdsguvY",
+    "GITHUB_CLIENT_ID": "Ov23liPg9gdZvLUbRs9n",
     "APP_ORIGIN": "https://jorbox.haseebshah.workers.dev",
     "ADMIN_GITHUB_IDS": "48080916",
     "FEEDBACK_REQUIRE_LOGIN": "false"
