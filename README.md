@@ -13,6 +13,7 @@ Production URL: https://jorbox.haseebshah.workers.dev
 - Create, rename, remove, and restore games. Configure name-only, description-only, name-and-description, or flexible cards, with optional categories.
 - Add/edit cards and categories; search, category filters, feedback counts, CSV export, import previews, edits by exported ID/version, bulk category moves, bulk removals, and restores.
 - Edit selected cards directly, apply reviewed replacements to selected fields, sort by feedback, and like/dislike/clear your own feedback in bulk or from CSV. Other players' votes are retained.
+- Detect duplicate cards, copy selected cards between games, rename or merge whole categories, browse administrator activity, and review feedback totals and leading cards.
 - Up to 100 cards per atomic write, maximum request/file size 512 KB. Larger CSVs must be split. Edits replace all content fields; missing fields clear their content. New imports always create new cards, including repeated content.
 - Stale versions, invalid rows, or IDs from another game reject the entire bulk change. No partial writes. Removed cards retain their content and feedback in a recoverable trash view. Every successful administrative operation records its actor and submitted rows in `audit_log`.
 
@@ -64,6 +65,16 @@ Choose a game and open **Manage cards** for card operations:
 - CSV import can add cards, edit existing content, or update your feedback. Content edits replace all content fields. Feedback mode requires `id`, `version`, and `myVote` (`1`, `-1`, or `0`); it ignores content and aggregate-count columns. Every CSV operation is limited to 100 rows and 512 KB. Split larger files into reviewed batches.
 
 All game changes, category conversions, card changes, and bulk feedback operations record the administrator and submitted changes in `audit_log`. The game-management migration preserves the original card content and votes and infers single-field formats for existing single-field decks.
+
+### Organization and reports
+
+- **Find duplicates** compares active cards by name, description, and category, ignoring capitalization, compatibility characters, and repeated whitespace. It suggests extra copies to select; nothing is removed automatically. One deterministic card ID is kept by default in each group. Review feedback before choosing which copy to keep. Votes stay attached to their original card, including in trash; they are not merged.
+- **Copy selected cards** creates up to 100 new cards in another active game. Source content is read on the server and both decks are checked for concurrent changes. Copies start at version 1 with no feedback; source cards remain intact. Choose a destination category when needed. Uncategorized destinations omit category text from copies. Incompatible name/description formats are rejected rather than silently dropping content.
+- **Manage categories** shows active and removed card counts. A rename or merge updates every card in the source category, including trash, in one transaction. This dedicated deck-wide operation can affect more than 100 cards; it is separate from selection-based bulk editing. The reviewed count, game version, and audit revision must still match when saving. Content and feedback are preserved, card versions advance, and the old category disappears when no cards use it.
+- **Admin reports → Feedback overview** shows current card counts, rated/unrated cards, likes/dislikes, and the ten most liked and disliked cards, across active games or one selected game. Card and game trash are excluded. **Review this card** opens card management focused on that card. Anonymous counts describe browser identities, not verified people.
+- **Admin reports → Activity log** lists administrator operations newest first, with game, time, item count, and immutable administrator ID. Filter by active or removed game and paginate 50 entries at a time. Saved card payloads, OAuth/session records, and individual player votes are not exposed in the report. This is read-only history, not an undo tool.
+
+These tools remain administrator-only. Migration `0003_admin_reports.sql` adds an audit-history index without changing existing data. The Chromium suite covers all five workflows and report navigation, in addition to the original administrator checks.
 
 ## GitHub sign-in
 
@@ -127,9 +138,15 @@ A daily Worker cron deletes expired sessions, OAuth states, and rate-limit bucke
 | GET | `/api/auth/github/callback` | Validated OAuth callback |
 | POST | `/api/auth/logout` | Same-origin |
 | POST | `/api/games/:id/cards/bulk` | Administrator |
+| POST | `/api/games/:id/cards/copy` | Administrator |
+| GET / POST | `/api/games/:id/categories` | Administrator |
+| GET | `/api/admin/activity?game=:id&before=:cursor` | Administrator |
+| GET | `/api/admin/feedback?game=:id` | Administrator |
 
 Bulk requests use `{action: "import" | "edit" | "remove" | "restore" | "feedback", cards: [...]}`. Each edited row has `id`, `version`, `Name`, `Description`, and `Category`. Removed/restored rows require `id` and `version`. Feedback rows additionally use `value` (`1`, `-1`, or `0`), or one top-level `value` for the whole selection. New rows use content fields without IDs. Card content must fit the game's format, and category-enabled games require a category.
 
 Game requests use `{action: "create" | "edit" | "remove" | "restore", ...fields}`. Creation/edit fields are `name`, `cardFormat` (`flexible`, `name`, `description`, or `name-description`), and boolean `hasCategories`. Editing/removing/restoring requires the game's `id` and `version`. Edits optionally take `defaultCategory` when enabling categories or boolean `clearCategories` to explicitly clear categories while disabling the field. The server assigns new game IDs.
+
+Copy requests use `{cards: [{id, version}], targetId, targetVersion, category?}`. Category rename requests use `{from, to, expectedCount, gameVersion, revision}` from the category GET response; that response lists counts for each category and provides the game version and audit revision. Report game filters are optional. Activity returns `{entries, nextCursor}`; use the cursor as `before` for the next page.
 
 All SQL values are parameterized. API responses are never cached; writes require a matching Origin header. Requests and errors never log OAuth tokens or cookies.

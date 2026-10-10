@@ -1,9 +1,9 @@
+import { fail, json, readBody } from './http.js';
+import { copyCards, categories, renameCategory, activity, feedbackOverview } from './adminTools.js';
+
 const MAX_ROWS = 100;
-const MAX_BODY = 512 * 1024;
 const SESSION_SECONDS = 7 * 24 * 3600;
 const now = () => Math.floor(Date.now() / 1000);
-const fail = (status, message) => { throw Object.assign(new Error(message), { status }); };
-const json = (data, status = 200) => Response.json(data, { status });
 const cookies = (request) => Object.fromEntries((request.headers.get('Cookie') || '').split(';').map(part => {
   const i = part.indexOf('=');
   return [part.slice(0, i).trim(), part.slice(i + 1)];
@@ -39,25 +39,6 @@ async function actor(request, env, user) {
   return { id: `visitor:${await hash(token)}`, cookie: cookie(request, 'jb_visitor', `${token}.${await sign(token, env)}`, 365 * 86400) };
 }
 
-async function readBody(request) {
-  if (!request.headers.get('Content-Type')?.startsWith('application/json')) fail(415, 'Send JSON data.');
-  const reader = request.body?.getReader();
-  if (!reader) fail(400, 'Missing request body.');
-  let size = 0;
-  const chunks = [];
-  while (true) {
-    const { done, value } = await reader.read();
-    if (done) break;
-    size += value.byteLength;
-    if (size > MAX_BODY) { await reader.cancel(); fail(413, 'Request is too large (maximum 512 KB).'); }
-    chunks.push(value);
-  }
-  const merged = new Uint8Array(size);
-  let offset = 0;
-  for (const chunk of chunks) { merged.set(chunk, offset); offset += chunk.length; }
-  try { return JSON.parse(new TextDecoder().decode(merged)); }
-  catch { fail(400, 'Invalid JSON.'); }
-}
 
 async function rateLimit(request, env, kind, limit) {
   const ip = request.headers.get('CF-Connecting-IP') || 'local';
@@ -262,6 +243,23 @@ async function route(request, env) {
     if (!user.isAdmin) fail(403, 'This GitHub account cannot manage games.');
     await rateLimit(request, env, 'admin', 30);
     return manageGame(request, env, user);
+  }
+  if (['/api/admin/activity', '/api/admin/feedback'].includes(path) && request.method === 'GET') {
+    if (!user) fail(401, 'Sign in to view administrator reports.');
+    if (!user.isAdmin) fail(403, 'Administrator access required.');
+    return path.endsWith('/activity') ? activity(env, url) : feedbackOverview(env, url);
+  }
+  const toolMatch = path.match(/^\/api\/games\/([^/]+)\/(categories|cards\/copy)$/);
+  if (toolMatch) {
+    if (!user) fail(401, 'Sign in to manage decks.');
+    if (!user.isAdmin) fail(403, 'Administrator access required.');
+    const game = await env.DB.prepare('SELECT * FROM games WHERE id=? AND deleted_at IS NULL').bind(decodeURIComponent(toolMatch[1])).first();
+    if (!game) fail(404, 'Game not found.');
+    if (toolMatch[2] === 'categories' && request.method === 'GET') return categories(env, game);
+    if (request.method === 'POST') {
+      await rateLimit(request, env, 'admin', 30);
+      return toolMatch[2] === 'categories' ? renameCategory(request, env, game, user) : copyCards(request, env, game, user, validateCard);
+    }
   }
   const match = path.match(/^\/api\/games\/([^/]+)\/cards(?:\/(bulk))?$/);
   if (match) {

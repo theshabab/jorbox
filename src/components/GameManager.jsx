@@ -45,11 +45,11 @@ export default function GameManager({ games, onChanged }) {
   async function save() {
     setBusy(true);
     setError('');
+    let saved = false;
     try {
       await DataManager.manageGame(pending.action, pending.game);
-      setMessage(
-        `Game ${pending.action === 'create' ? 'created' : pending.action === 'edit' ? 'updated' : pending.action === 'restore' ? 'restored' : 'removed'}.`,
-      );
+      saved = true;
+      const message = `Game ${pending.action === 'create' ? 'created' : pending.action === 'edit' ? 'updated' : pending.action === 'restore' ? 'restored' : 'removed'}.`;
       setPending(null);
       setEditor(null);
       if (removed) {
@@ -57,8 +57,13 @@ export default function GameManager({ games, onChanged }) {
         setRevision((value) => value + 1);
       }
       await onChanged();
+      setMessage(message);
     } catch (error) {
-      setError(error.message);
+      setError(
+        saved
+          ? `Game saved, but the list could not be refreshed: ${error.message}`
+          : error.message,
+      );
     } finally {
       setBusy(false);
     }

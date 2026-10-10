@@ -4,11 +4,14 @@ import { exportCardCsv, parseCardCsv } from '../utils/cardCsv';
 import { CARD_FORMATS, cardErrors } from '../utils/cardFormats';
 import CardFields from './CardFields';
 import BulkCardEditor from './BulkCardEditor';
+import DuplicateCards from './DuplicateCards';
+import CopyCards from './CopyCards';
+import CategoryManager from './CategoryManager';
 
 const emptyCard = { Name: '', Description: '', Category: '' };
 
-export default function CardManager({ game, cards, onChanged, loading }) {
-  const [search, setSearch] = useState('');
+export default function CardManager({ game, cards, games, onChanged, loading, focusCard = '' }) {
+  const [search, setSearch] = useState(focusCard);
   const [category, setCategory] = useState('');
   const [selected, setSelected] = useState([]);
   const [editor, setEditor] = useState(null);
@@ -27,6 +30,9 @@ export default function CardManager({ game, cards, onChanged, loading }) {
   const [bulkEditor, setBulkEditor] = useState(null);
   const [feedbackFilter, setFeedbackFilter] = useState('all');
   const [sort, setSort] = useState('deck');
+  const [duplicates, setDuplicates] = useState(false);
+  const [copying, setCopying] = useState(null);
+  const [managingCategories, setManagingCategories] = useState(false);
   useEffect(() => {
     if (!removed) return;
     let active = true;
@@ -37,15 +43,15 @@ export default function CardManager({ game, cards, onChanged, loading }) {
   }, [removed, game.id, trashRevision]);
   const source = removed ? trash : cards;
   const categories = useMemo(() => Array.from(new Set([...cards, ...trash].map(card => card.Category).filter(Boolean))).sort(), [cards, trash]);
-  const filtered = source.filter(card => (!category || card.Category === category) && `${card.Name} ${card.Description} ${card.Category}`.toLowerCase().includes(search.toLowerCase()) &&
+  const filtered = source.filter(card => (!category || card.Category === category) && `${card.id} ${card.Name} ${card.Description} ${card.Category}`.toLowerCase().includes(search.toLowerCase()) &&
     (feedbackFilter === 'all' || (feedbackFilter === 'liked' && card.myVote === 1) || (feedbackFilter === 'disliked' && card.myVote === -1) || (feedbackFilter === 'unrated' && !card.myVote)));
   if (sort !== 'deck') filtered.sort((a, b) => sort === 'name' ? (a.Name || a.Description).localeCompare(b.Name || b.Description) : b[sort] - a[sort] || a.id.localeCompare(b.id));
   const visible = filtered.slice(page * 50, (page + 1) * 50);
   const selection = source.filter(card => selected.includes(card.id));
   const preview = useMemo(() => csvText ? parseCardCsv(csvText, game, mode) : null, [csvText, game, mode]);
   const locked = busy || loading || trashLoading;
-  function changeFilter(update) { update(); setPage(0); setSelected([]); setPending(null); setBulkEditor(null); }
-  function select(id) { setSelected(previous => previous.includes(id) ? previous.filter(value => value !== id) : previous.length < 100 ? [...previous, id] : previous); setPending(null); setBulkEditor(null); }
+  function changeFilter(update) { update(); setPage(0); setSelected([]); setPending(null); setBulkEditor(null); setCopying(null); }
+  function select(id) { setSelected(previous => previous.includes(id) ? previous.filter(value => value !== id) : previous.length < 100 ? [...previous, id] : previous); setPending(null); setBulkEditor(null); setCopying(null); }
   function exportCsv() {
     const exportRows = selection.length ? selection : filtered;
     const blob = new Blob([exportCardCsv(exportRows)], { type: 'text/csv;charset=utf-8' });
@@ -69,14 +75,14 @@ export default function CardManager({ game, cards, onChanged, loading }) {
     try {
       const result = await DataManager.bulk(game.id, pending.action, pending.rows, pending.value);
       setMessage(`${result.changed} card${result.changed === 1 ? '' : 's'} ${pending.action === 'import' ? 'added' : pending.action === 'edit' ? 'updated' : pending.action === 'feedback' ? 'rated' : pending.action === 'restore' ? 'restored' : 'removed'}.`);
-      setPending(null); setEditor(null); setBulkEditor(null); setSelected([]); setCsvText(''); setPage(0);
+      setPending(null); setEditor(null); setBulkEditor(null); setCopying(null); setSelected([]); setCsvText(''); setPage(0);
       if (removed) { setTrashLoading(true); setTrashRevision(value => value + 1); }
       onChanged();
     } catch (error) { setError(error.message); }
     finally { setBusy(false); }
   }
   function refresh() {
-    setPending(null); setEditor(null); setBulkEditor(null); setSelected([]); setError(''); setPage(0);
+    setPending(null); setEditor(null); setBulkEditor(null); setCopying(null); setSelected([]); setError(''); setPage(0);
     if (removed) { setTrashLoading(true); setTrashRevision(value => value + 1); }
     onChanged();
   }
@@ -93,15 +99,18 @@ export default function CardManager({ game, cards, onChanged, loading }) {
         <label>Sort by<select aria-label="Sort by" value={sort} onChange={event => changeFilter(() => setSort(event.target.value))}><option value="deck">Deck order</option><option value="name">Name / description</option><option value="likes">Most likes</option><option value="dislikes">Most dislikes</option></select></label>
       </div>
       <div className="button-row toolbar">
-        {!removed && <button className="btn-primary" onClick={() => { setEditor({ ...emptyCard, Category: category }); setBulkEditor(null); setPending(null); }}>Add a card</button>}
+        {!removed && <button className="btn-secondary" aria-pressed={duplicates} onClick={() => setDuplicates(value => !value)}>Find duplicates</button>}
+        {game.hasCategories && <button className="btn-secondary" aria-pressed={managingCategories} onClick={() => setManagingCategories(value => !value)}>Manage categories</button>}
+        {!removed && <button className="btn-primary" onClick={() => { setEditor({ ...emptyCard, Category: category }); setBulkEditor(null); setCopying(null); setPending(null); }}>Add a card</button>}
         <button className="btn-secondary" disabled={!filtered.length} onClick={exportCsv}>Export {selection.length ? `${selection.length} selected` : `${filtered.length} matching`} cards</button>
-        <button className="btn-secondary" onClick={() => { setSelected(visible.slice(0, 100).map(card => card.id)); setPending(null); setBulkEditor(null); }} disabled={!visible.length}>Select this page</button>
-        <button className="btn-secondary" onClick={() => { setSelected(filtered.slice(0, 100).map(card => card.id)); setPending(null); setBulkEditor(null); }} disabled={!filtered.length}>Select first {Math.min(100, filtered.length)} matching</button>
-        <button className="btn-secondary" disabled={!selection.length} onClick={() => { setSelected([]); setPending(null); setBulkEditor(null); }}>Clear selection</button>
+        <button className="btn-secondary" onClick={() => { setSelected(visible.slice(0, 100).map(card => card.id)); setPending(null); setBulkEditor(null); setCopying(null); }} disabled={!visible.length}>Select this page</button>
+        <button className="btn-secondary" onClick={() => { setSelected(filtered.slice(0, 100).map(card => card.id)); setPending(null); setBulkEditor(null); setCopying(null); }} disabled={!filtered.length}>Select first {Math.min(100, filtered.length)} matching</button>
+        <button className="btn-secondary" disabled={!selection.length} onClick={() => { setSelected([]); setPending(null); setBulkEditor(null); setCopying(null); }}>Clear selection</button>
       </div>
       {selection.length > 0 && <div className="selection-bar">
         <strong>{selection.length} selected</strong>
         {!removed && <>
+          <button className="btn-secondary" onClick={() => { setCopying(selection); setBulkEditor(null); setEditor(null); setPending(null); }}>Copy selected cards</button>
           <button className="btn-secondary" onClick={() => { setBulkEditor(selection); setEditor(null); setPending(null); }}>Edit selected cards</button>
           <button className="btn-secondary" onClick={() => review('feedback', selection.map(({ id, version }) => ({ id, version })), 1)}>Like selected</button>
           <button className="btn-secondary" onClick={() => review('feedback', selection.map(({ id, version }) => ({ id, version })), -1)}>Dislike selected</button>
@@ -117,18 +126,21 @@ export default function CardManager({ game, cards, onChanged, loading }) {
           <td><strong>{card.Name}</strong><p className="table-description">{card.Description}</p></td>
           {game.hasCategories && <td>{card.Category}</td>}
           <td className="feedback-count">+{card.likes} / −{card.dislikes}<p className="muted">Mine: {card.myVote === 1 ? 'Like' : card.myVote === -1 ? 'Dislike' : 'None'}</p></td>
-          <td><div className="button-row">{!removed && <button className="btn-secondary" onClick={() => { setEditor({ ...card }); setBulkEditor(null); setPending(null); }}>Edit</button>}<button className={removed ? 'btn-secondary' : 'btn-danger'} onClick={() => review(removed ? 'restore' : 'remove', [{ id: card.id, version: card.version }])}>{removed ? 'Restore' : 'Remove'}</button></div></td>
+          <td><div className="button-row">{!removed && <button className="btn-secondary" onClick={() => { setEditor({ ...card }); setBulkEditor(null); setCopying(null); setPending(null); }}>Edit</button>}<button className={removed ? 'btn-secondary' : 'btn-danger'} onClick={() => review(removed ? 'restore' : 'remove', [{ id: card.id, version: card.version }])}>{removed ? 'Restore' : 'Remove'}</button></div></td>
         </tr>)}
       </tbody></table></div>
       {!filtered.length && !locked && <p className="empty-state">No matching cards.</p>}
       <div className="button-row pagination"><button className="btn-secondary" disabled={page === 0} onClick={() => setPage(value => value - 1)}>Previous page</button><span>{filtered.length} cards · Page {page + 1} of {Math.max(1, Math.ceil(filtered.length / 50))}</span><button className="btn-secondary" disabled={(page + 1) * 50 >= filtered.length} onClick={() => setPage(value => value + 1)}>Next page</button></div>
+      {!removed && duplicates && <DuplicateCards cards={cards} onSelect={ids => { setSelected(ids); setSearch(''); setCategory(''); setFeedbackFilter('all'); setPage(0); setPending(null); setBulkEditor(null); setCopying(null); }} />}
+      {copying && <CopyCards sourceGame={game} cards={copying} games={games} onCancel={() => setCopying(null)} onCopied={message => { setMessage(message); setCopying(null); setSelected([]); onChanged(); }} />}
+      {game.hasCategories && managingCategories && <CategoryManager game={game} onChanged={refresh} />}
       {editor && <form className="editor" onSubmit={event => { event.preventDefault(); review(editor.id ? 'edit' : 'import', [editor]); }}>
         <h3>{editor.id ? 'Edit card' : 'New card'}</h3>
         <CardFields card={editor} game={game} onChange={card => { setEditor(card); setPending(null); }} />
         <p className="muted">{CARD_FORMATS.find(format => format.value === game.cardFormat)?.help || 'A name or description is required.'} {game.hasCategories && 'Typing a new category creates it.'}</p>
         <div className="button-row"><button className="btn-primary" disabled={cardErrors(editor, game).length > 0} type="submit">Review card</button><button className="btn-secondary" type="button" onClick={() => { setEditor(null); setPending(null); }}>Cancel</button></div>
       </form>}
-      {bulkEditor && <BulkCardEditor cards={bulkEditor} game={game} onDraftChange={() => setPending(null)} onReview={rows => review('edit', rows)} onCancel={() => { setBulkEditor(null); setPending(null); }} />}
+      {bulkEditor && <BulkCardEditor cards={bulkEditor} game={game} onDraftChange={() => setPending(null)} onReview={rows => review('edit', rows)} onCancel={() => { setBulkEditor(null); setCopying(null); setPending(null); }} />}
       {!removed && <div className="import-panel">
         <h3>Bulk import & edits</h3>
         <p className="muted">Upload a CSV with Name and/or Description{game.hasCategories ? ', and Category' : ''}. To edit existing cards, export them first and keep their id and version columns. Updates replace every content field; blank fields clear existing text.</p>

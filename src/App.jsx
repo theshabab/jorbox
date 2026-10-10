@@ -7,6 +7,7 @@ import CategorySelector from './components/CategorySelector';
 import AuroraBokehBackground from './components/AuroraBokehBackground';
 import CardManager from './components/CardManager';
 import GameManager from './components/GameManager';
+import AdminReports from './components/AdminReports';
 
 const shuffle = (items) => {
   const arr = [...items];
@@ -27,6 +28,8 @@ export default function App() {
   const [session, setSession] = useState(null);
   const [managing, setManaging] = useState(false);
   const [managingGames, setManagingGames] = useState(false);
+  const [reports, setReports] = useState(false);
+  const [focusCard, setFocusCard] = useState('');
   const [revision, setRevision] = useState(0);
   const [retry, setRetry] = useState(0);
 
@@ -50,7 +53,7 @@ export default function App() {
   const categories = useMemo(() => Array.from(new Set(cards.map(card => card.Category).filter(Boolean))).sort(), [cards]);
   const filteredCards = useMemo(() => selectedCategory ? cards.filter(card => card.Category === selectedCategory) : cards, [cards, selectedCategory]);
   function selectGame(game) {
-    setSelectedGame(game); setSelectedCategory(null); setCards([]); setLoading(true); setManaging(false); setManagingGames(false); setError('');
+    setSelectedGame(game); setSelectedCategory(null); setCards([]); setLoading(true); setManaging(false); setManagingGames(false); setReports(false); setFocusCard(''); setError('');
   }
   function refreshCards() {
     setLoading(true); setRevision(value => value + 1);
@@ -71,6 +74,7 @@ export default function App() {
       setSession(await DataManager.fetchSession());
       setManaging(false);
       setManagingGames(false);
+      setReports(false);
       if (selectedGame) refreshCards();
     } catch (error) { setError(error.message); }
   }
@@ -89,10 +93,11 @@ export default function App() {
       {error && <div className="error notice" role="alert">{error} <button className="btn-secondary" onClick={() => { setLoading(true); setRetry(value => value + 1); if (selectedGame) refreshCards(); }}>Retry</button></div>}
       {session && <GameSelector games={games} selectedGame={selectedGame} onSelectGame={selectGame} />}
       {session?.user?.isAdmin && <div className="button-row management-toggle">
-        <button className="btn-secondary" aria-pressed={managingGames} onClick={() => { setManagingGames(value => !value); setManaging(false); }}>{managingGames ? 'Back to playing' : 'Manage games & formats'}</button>
-        {selectedGame && <button className="btn-secondary" aria-pressed={managing} onClick={() => { setManaging(value => !value); setManagingGames(false); }}>{managing ? 'Back to playing' : 'Manage cards'}</button>}
+        <button className="btn-secondary" aria-pressed={managingGames} onClick={() => { setManagingGames(value => !value); setManaging(false); setReports(false); }}>{managingGames ? 'Back to playing' : 'Manage games & formats'}</button>
+        {selectedGame && <button className="btn-secondary" aria-pressed={managing} onClick={() => { setManaging(value => !value); setManagingGames(false); setReports(false); setFocusCard(''); }}>{managing ? 'Back to playing' : 'Manage cards'}</button>}
+        <button className="btn-secondary" aria-pressed={reports} onClick={() => { setReports(value => !value); setManaging(false); setManagingGames(false); }}>{reports ? 'Back to playing' : 'Admin reports'}</button>
       </div>}
-      {managingGames && session?.user?.isAdmin ? <GameManager games={games} onChanged={refreshGames} /> : managing && selectedGame ? <CardManager key={`${selectedGame.id}:${selectedGame.version}`} game={selectedGame} cards={cards} onChanged={refreshCards} loading={loading} /> : loading ? <p className="empty-state" role="status">Loading…</p> : selectedGame ? <>
+      {reports && session?.user?.isAdmin ? <AdminReports games={games} onOpenCards={(game, id) => { selectGame(game); setFocusCard(id); setManaging(true); }} /> : managingGames && session?.user?.isAdmin ? <GameManager games={games} onChanged={refreshGames} /> : managing && selectedGame ? <CardManager key={`${selectedGame.id}:${selectedGame.version}:${focusCard}`} game={selectedGame} games={games} cards={cards} focusCard={focusCard} onChanged={refreshCards} loading={loading} /> : loading ? <p className="empty-state" role="status">Loading…</p> : selectedGame ? <>
         {selectedGame.hasCategories && <CategorySelector categories={categories} selectedCategory={selectedCategory} onSelectCategory={setSelectedCategory} />}
         <CardViewer key={`${selectedGame.id}:${selectedCategory || ''}:${revision}`} cards={filteredCards} session={session} onVote={onVote} />
       </> : !error && <p className="empty-state">Choose a game to start playing.</p>}

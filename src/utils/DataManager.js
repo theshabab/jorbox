@@ -12,6 +12,11 @@ export async function api(path, data) {
 export const DataManager = {
   fetchGames: (removed = false) => api(`/games${removed ? '?removed=true' : ''}`),
   manageGame: (action, game) => api('/games/manage', { action, ...game }),
+  copyCards: (id, data) => api(`/games/${encodeURIComponent(id)}/cards/copy`, data),
+  fetchCategories: id => api(`/games/${encodeURIComponent(id)}/categories`),
+  renameCategory: (id, data) => api(`/games/${encodeURIComponent(id)}/categories`, data),
+  fetchActivity: (game = '', before = null) => api(`/admin/activity?${new URLSearchParams({ ...(game ? { game } : {}), ...(before ? { before } : {}) })}`),
+  fetchFeedbackOverview: (game = '') => api(`/admin/feedback?${new URLSearchParams(game ? { game } : {})}`),
   fetchSession: () => api('/session'),
   fetchGameData: (id, removed = false) => api(`/games/${encodeURIComponent(id)}/cards${removed ? '?removed=true' : ''}`),
   vote: (id, value) => api(`/cards/${encodeURIComponent(id)}/vote`, { value }),
