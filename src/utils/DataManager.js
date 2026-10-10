@@ -10,10 +10,11 @@ export async function api(path, data) {
 }
 
 export const DataManager = {
-  fetchGames: () => api('/games'),
+  fetchGames: (removed = false) => api(`/games${removed ? '?removed=true' : ''}`),
+  manageGame: (action, game) => api('/games/manage', { action, ...game }),
   fetchSession: () => api('/session'),
   fetchGameData: (id, removed = false) => api(`/games/${encodeURIComponent(id)}/cards${removed ? '?removed=true' : ''}`),
   vote: (id, value) => api(`/cards/${encodeURIComponent(id)}/vote`, { value }),
-  bulk: (id, action, cards) => api(`/games/${encodeURIComponent(id)}/cards/bulk`, { action, cards }),
+  bulk: (id, action, cards, value) => api(`/games/${encodeURIComponent(id)}/cards/bulk`, { action, cards, ...(value === undefined ? {} : { value }) }),
   logout: () => api('/auth/logout', {}),
 };

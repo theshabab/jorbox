@@ -25,6 +25,7 @@ dist-ssr
 
 # Cloudflare local state and secrets
 .wrangler/
+.ui-artifacts/
 .dev.vars
 .dev.vars.*
 !.dev.vars.example

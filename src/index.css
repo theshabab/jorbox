@@ -297,3 +297,11 @@ td button { padding: 8px 12px !important; font-size: .85rem; }
   .manager-filters { flex-direction: column; }
   .manager-heading { flex-wrap: wrap; }
 }
+.manager .checkbox-label { flex-direction: row; align-items: center; gap: .75rem; }
+.bulk-replacements, .bulk-card-draft { display: grid; gap: .75rem; padding: 1rem; border: 1px solid var(--border-color); border-radius: 10px; }
+.bulk-replacements > div { display: grid; gap: .75rem; }
+.bulk-replacements > button { justify-self: start; }
+.bulk-card-drafts { display: grid; gap: 1rem; max-height: 600px; overflow-y: auto; padding: .25rem; }
+.manager-filters label { min-width: 140px; }
+.table-scroll table { min-width: 640px; }
+.manager-heading h2, td strong { overflow-wrap: anywhere; }

@@ -10,7 +10,9 @@ Production URL: https://jorbox.haseebshah.workers.dev
 - Persistent likes/dislikes, one vote per signed visitor cookie or signed-in GitHub account; click again to clear a vote. Anonymous feedback uses browser identity, not a verified person. Clearing cookies or using another browser can create another identity; per-IP rate limits reduce repeated abuse.
 - GitHub OAuth with PKCE and expiring, HttpOnly server sessions. OAuth access tokens are used to verify identity and are not stored.
 - Card management restricted to `thehaseebshah` (GitHub ID `48080916`), checked on every write. Signing in alone does not grant editing access.
+- Create, rename, remove, and restore games. Configure name-only, description-only, name-and-description, or flexible cards, with optional categories.
 - Add/edit cards and categories; search, category filters, feedback counts, CSV export, import previews, edits by exported ID/version, bulk category moves, bulk removals, and restores.
+- Edit selected cards directly, apply reviewed replacements to selected fields, sort by feedback, and like/dislike/clear your own feedback in bulk or from CSV. Other players' votes are retained.
 - Up to 100 cards per atomic write, maximum request/file size 512 KB. Larger CSVs must be split. Edits replace all content fields; missing fields clear their content. New imports always create new cards, including repeated content.
 - Stale versions, invalid rows, or IDs from another game reject the entire bulk change. No partial writes. Removed cards retain their content and feedback in a recoverable trash view. Every successful administrative operation records its actor and submitted rows in `audit_log`.
 
@@ -43,16 +45,36 @@ npm run build
 
 Tests run against isolated real local D1 through Miniflare and mocked GitHub responses. They cover authorization, CSRF, voting, bulk transactions, stale versions, soft deletion, OAuth state/PKCE/logout, rate limiting, CSV errors, and baseline seed completeness. Production GitHub login still needs a real browser check after OAuth configuration.
 
+Run `npm run test:ui` for administrator workflows in Chromium against an ephemeral local D1 database with a test-only administrator session. It checks game/card creation, CSV import/export, bulk editing and feedback, format validation, category conversion, game removal/restoration, and mobile overflow. It uses `/usr/bin/chromium` when available; otherwise install Playwright Chromium with `npx playwright install chromium`, or set `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH`. Screenshots are written to ignored `.ui-artifacts/`. These checks never contact production or use your OAuth credentials.
+
+## Administrator workflows
+
+Sign in as the administrator, then use **Manage games & formats** to add a game or edit its name and card fields. Existing cards, including removed cards, must fit the chosen format; incompatible changes fail without saving anything. To narrow a format, first use the flexible format to edit or clear the affected fields, then select the narrower format.
+
+When enabling categories on an existing deck, choose a default category for all uncategorized cards, including trash. When disabling categories, explicitly choose to clear category text and review the warning; export first if you need a copy. These operations advance affected card versions, so previously exported CSVs must be refreshed.
+
+Removing a game hides the entire deck and blocks feedback and card changes. **Show removed games** lets you restore it with its cards and feedback intact. Cards individually removed before the game was removed remain in card trash afterward.
+
+Choose a game and open **Manage cards** for card operations:
+
+- Filter by text, category, or your feedback; sort by name, likes, or dislikes. Select a page or up to the first 100 matching cards.
+- **Edit selected cards** opens a draft for each card. Optional replacements apply only to checked fields; blank replacements clear text. Review every draft before confirming. Changes are atomic, and stale versions reject the entire operation.
+- **Like selected**, **Dislike selected**, and **Clear my feedback** affect only the signed-in administrator's vote. Aggregate feedback counts cannot be imported or overwritten. Feedback changes do not advance card content versions.
+- **Export** downloads the selected cards, or all matching cards when none are selected, including IDs, content versions, aggregate counts, and `myVote`.
+- CSV import can add cards, edit existing content, or update your feedback. Content edits replace all content fields. Feedback mode requires `id`, `version`, and `myVote` (`1`, `-1`, or `0`); it ignores content and aggregate-count columns. Every CSV operation is limited to 100 rows and 512 KB. Split larger files into reviewed batches.
+
+All game changes, category conversions, card changes, and bulk feedback operations record the administrator and submitted changes in `audit_log`. The game-management migration preserves the original card content and votes and infers single-field formats for existing single-field decks.
+
 ## GitHub sign-in
 
-Create a GitHub OAuth app at https://github.com/settings/applications/new or add a callback to an existing OAuth app without removing its other callbacks.
+Create a dedicated GitHub OAuth app at https://github.com/settings/applications/new.
 
 - Homepage: `https://jorbox.haseebshah.workers.dev`
 - Production callback: `https://jorbox.haseebshah.workers.dev/api/auth/github/callback`
 - Local callback: `http://localhost:8787/api/auth/github/callback`
 - No repository or email scopes are needed: JorBox only uses GitHub identity.
 
-FamTree’s client ID (`Ov23liZ41hn2yEdsguvY`) has been copied into the configuration. Its Cloudflare secret cannot be read back. To reuse it, use a saved copy of the secret or generate an additional client secret in GitHub without revoking FamTree’s existing secret. Add the JorBox callback while retaining FamTree’s callback.
+JorBox uses its own OAuth app with client ID `Ov23liPg9gdZvLUbRs9n`. FamTree uses a separate app; its callback and credentials do not need to change. Generate a client secret in JorBox’s OAuth app and save it privately. Cloudflare secrets cannot be read back.
 
 Put its `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` in ignored `.dev.vars`, then upload only these two credentials to Worker secrets:
 
@@ -96,6 +118,8 @@ A daily Worker cron deletes expired sessions, OAuth states, and rate-limit bucke
 | --- | --- | --- |
 | GET | `/api/session` | Public; issues visitor cookie |
 | GET | `/api/games` | Public |
+| GET | `/api/games?removed=true` | Administrator |
+| POST | `/api/games/manage` | Administrator |
 | GET | `/api/games/:id/cards` | Public |
 | GET | `/api/games/:id/cards?removed=true` | Administrator |
 | POST | `/api/cards/:id/vote` | Public by default; `{value: 1, -1, or 0}` |
@@ -104,4 +128,8 @@ A daily Worker cron deletes expired sessions, OAuth states, and rate-limit bucke
 | POST | `/api/auth/logout` | Same-origin |
 | POST | `/api/games/:id/cards/bulk` | Administrator |
 
-Bulk requests use `{action: "import" | "edit" | "remove" | "restore", cards: [...]}`. Each edited row has `id`, `version`, `Name`, `Description`, and `Category`. Removed/restored rows require `id` and `version`. New rows use content fields without IDs. Each card needs a name or description; category-enabled games also require a category. All SQL values are parameterized. API responses are never cached; writes require a matching Origin header. Requests and errors never log OAuth tokens or cookies.
+Bulk requests use `{action: "import" | "edit" | "remove" | "restore" | "feedback", cards: [...]}`. Each edited row has `id`, `version`, `Name`, `Description`, and `Category`. Removed/restored rows require `id` and `version`. Feedback rows additionally use `value` (`1`, `-1`, or `0`), or one top-level `value` for the whole selection. New rows use content fields without IDs. Card content must fit the game's format, and category-enabled games require a category.
+
+Game requests use `{action: "create" | "edit" | "remove" | "restore", ...fields}`. Creation/edit fields are `name`, `cardFormat` (`flexible`, `name`, `description`, or `name-description`), and boolean `hasCategories`. Editing/removing/restoring requires the game's `id` and `version`. Edits optionally take `defaultCategory` when enabling categories or boolean `clearCategories` to explicitly clear categories while disabling the field. The server assigns new game IDs.
+
+All SQL values are parameterized. API responses are never cached; writes require a matching Origin header. Requests and errors never log OAuth tokens or cookies.
