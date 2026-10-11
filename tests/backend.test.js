@@ -129,10 +129,15 @@ test('GitHub OAuth uses PKCE, validates state, consumes it once, and pins admin 
   } finally { globalThis.fetch = originalFetch; }
 });
 
-test('per-IP feedback throttling works even when cookies are reset', async () => {
+test('per-IP feedback throttling works even when cookies are reset and renews next minute', async (t) => {
+  // Keep the requests in one bucket even if CI runs across a minute boundary.
+  let clock = Math.floor(Date.now() / 60000) * 60000;
+  t.mock.method(Date, 'now', () => clock);
   await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'vote:%'").run();
   for (let i = 0; i < 60; i++) assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 200);
   assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 429);
+  clock += 60000;
+  assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 200);
 });
 
 const gameWrite = (action, game, options = {}) => request('/games/manage', { data: { action, ...game }, cookie: adminCookie, ...options });
