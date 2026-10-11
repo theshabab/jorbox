@@ -23,6 +23,7 @@ before(async () => {
   db = await mf.getD1Database('DB');
   await db.exec(readFileSync('worker/migrations/0001_initial.sql', 'utf8').replace(/--[^\n]*/g, '').replaceAll('\n', ' '));
   await db.exec(readFileSync('worker/migrations/0002_game_management.sql', 'utf8').replace(/--[^\n]*/g, '').replaceAll('\n', ' '));
+  await db.exec(readFileSync('worker/migrations/0003_admin_reports.sql', 'utf8').replace(/--[^\n]*/g, '').replaceAll('\n', ' '));
   await db.batch([
     db.prepare('INSERT INTO games (id,name,has_categories) VALUES (?,?,?)').bind('game1', 'Main', 1),
     db.prepare('INSERT INTO games (id,name,has_categories) VALUES (?,?,?)').bind('game2', 'Other', 0),
@@ -128,10 +129,15 @@ test('GitHub OAuth uses PKCE, validates state, consumes it once, and pins admin 
   } finally { globalThis.fetch = originalFetch; }
 });
 
-test('per-IP feedback throttling works even when cookies are reset', async () => {
+test('per-IP feedback throttling works even when cookies are reset and renews next minute', async (t) => {
+  // Keep the requests in one bucket even if CI runs across a minute boundary.
+  let clock = Math.floor(Date.now() / 60000) * 60000;
+  t.mock.method(Date, 'now', () => clock);
   await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'vote:%'").run();
   for (let i = 0; i < 60; i++) assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 200);
   assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 429);
+  clock += 60000;
+  assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 200);
 });
 
 const gameWrite = (action, game, options = {}) => request('/games/manage', { data: { action, ...game }, cookie: adminCookie, ...options });
@@ -265,4 +271,129 @@ test('a concurrent game change aborts card imports without partial writes', asyn
   const response = await request(`/games/${game.id}/cards/bulk`, { cookie: adminCookie, data: { action: 'import', cards: [{ Name: 'Race' }] }, extraEnv: { DB: racingDB } });
   assert.equal(response.status, 409);
   assert.equal((await db.prepare('SELECT COUNT(*) AS count FROM cards WHERE game_id=?').bind(game.id).first()).count, 0);
+});
+
+test('new administrator reports, category tools, and copying reject non-admin and cross-origin access', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%'").run();
+  for (const path of ['/admin/activity', '/admin/feedback', '/games/game1/categories']) {
+    assert.equal((await request(path)).status, 401);
+    assert.equal((await request(path, { cookie: userCookie })).status, 403);
+  }
+  for (const path of ['/games/game1/cards/copy', '/games/game1/categories']) {
+    assert.equal((await request(path, { data: {} })).status, 401);
+    assert.equal((await request(path, { cookie: userCookie, data: {} })).status, 403);
+    assert.equal((await request(path, { cookie: adminCookie, data: {}, requestOrigin: 'https://attacker.test' })).status, 403);
+  }
+});
+
+const copy = (source, target, cards, extra = {}) => request(`/games/${source.id}/cards/copy`, { cookie: adminCookie, data: { targetId: target.id, targetVersion: target.version, cards, ...extra } });
+
+test('copying cards gives new identities, preserves source votes, maps categories, and enforces formats and boundaries', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%' OR key LIKE 'vote:%'").run();
+  const source = await createGame();
+  const target = await createGame({ hasCategories: true });
+  const { ids } = await (await gameBulk(source, 'import', [{ Name: 'Source', Description: 'Prompt' }])).json();
+  const rows = [{ id: ids[0], version: 1 }];
+  await request(`/cards/${ids[0]}/vote`, { cookie: userCookie, data: { value: 1 } });
+  assert.equal((await copy(source, target, rows)).status, 400);
+  const response = await copy(source, target, rows, { category: 'Imported' });
+  assert.equal(response.status, 201);
+  const copied = await response.json(); assert.notEqual(copied.ids[0], ids[0]);
+  const [card] = await gameCards(target);
+  assert.equal(card.Category, 'Imported'); assert.equal(card.Name, 'Source'); assert.equal(card.Description, 'Prompt'); assert.equal(card.version, 1); assert.equal(card.likes, 0); assert.equal(card.dislikes, 0);
+  assert.equal((await gameCards(source))[0].likes, 1);
+  assert.equal((await copy(source, target, [{ id: 'other', version: 1 }], { category: 'Imported' })).status, 409);
+  assert.equal((await copy(source, target, [{ ...rows[0], version: 99 }], { category: 'Imported' })).status, 409);
+  assert.equal((await copy(source, target, [rows[0], rows[0]], { category: 'Imported' })).status, 400);
+  const narrow = await createGame({ cardFormat: 'name' });
+  assert.equal((await copy(source, narrow, rows)).status, 400);
+  assert.equal((await gameCards(narrow)).length, 0);
+  const uncategorized = await createGame();
+  assert.equal((await copy(target, uncategorized, [{ id: card.id, version: 1 }])).status, 201);
+  assert.equal((await gameCards(uncategorized))[0].Category, '');
+  assert.equal((await copy(source, target, Array(101).fill(rows[0]), { category: 'Imported' })).status, 400);
+  assert.equal((await db.prepare('SELECT COUNT(*) AS count FROM write_guards').first()).count, 0);
+});
+
+test('a concurrent destination format change rolls back all copied cards and audit records', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%'").run();
+  const source = await createGame(); const target = await createGame();
+  const { ids } = await (await gameBulk(source, 'import', [{ Name: 'Copy race' }])).json();
+  let raced = false;
+  const racingDB = { prepare: sql => db.prepare(sql), batch: async statements => {
+    if (!raced) { raced = true; await db.prepare("UPDATE games SET card_format='description',version=version+1 WHERE id=?").bind(target.id).run(); }
+    return db.batch(statements);
+  }};
+  const response = await request(`/games/${source.id}/cards/copy`, { cookie: adminCookie, data: { targetId: target.id, targetVersion: 1, cards: [{ id: ids[0], version: 1 }] }, extraEnv: { DB: racingDB } });
+  assert.equal(response.status, 409);
+  assert.equal((await gameCards(target)).length, 0);
+  assert.equal((await db.prepare("SELECT COUNT(*) AS count FROM audit_log WHERE game_id=? AND action='copy'").bind(target.id).first()).count, 0);
+});
+
+const categoryData = async game => (await request(`/games/${game.id}/categories`, { cookie: adminCookie })).json();
+const rename = (game, review, from, to, expectedCount) => request(`/games/${game.id}/categories`, { cookie: adminCookie, data: { from, to, expectedCount, revision: review.revision, gameVersion: review.gameVersion } });
+
+test('category rename/merge is atomic across active and removed cards, including decks larger than a selection batch', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%' OR key LIKE 'vote:%'").run();
+  const game = await createGame({ hasCategories: true });
+  const { ids } = await (await gameBulk(game, 'import', Array.from({ length: 100 }, (_, index) => ({ Name: `Card ${index}`, Category: 'Old' })))).json();
+  await gameBulk(game, 'import', [{ Name: 'Extra', Category: 'Old' }, { Name: 'Existing target', Category: 'New' }]);
+  await request(`/cards/${ids[0]}/vote`, { cookie: userCookie, data: { value: 1 } });
+  await gameBulk(game, 'remove', [{ id: ids[1], version: 1 }]);
+  const review = await categoryData(game);
+  assert.deepEqual(review.categories.find(category => category.name === 'Old'), { name: 'Old', active: 100, removed: 1, total: 101 });
+  assert.equal((await rename(game, review, 'Old', 'New', 101)).status, 200);
+  assert.ok((await gameCards(game)).every(card => card.Category === 'New'));
+  const trash = await (await request(`/games/${game.id}/cards?removed=true`, { cookie: adminCookie })).json();
+  assert.equal(trash[0].Category, 'New'); assert.equal(trash[0].version, 3);
+  assert.equal((await gameCards(game)).find(card => card.id === ids[0]).likes, 1);
+  assert.equal((await rename(game, review, 'Old', 'Again', 101)).status, 409);
+  const fresh = await categoryData(game);
+  assert.equal((await rename(game, fresh, 'New', '', 102)).status, 400);
+  assert.equal((await rename(game, fresh, 'New', 'New', 102)).status, 400);
+  assert.equal((await rename(game, fresh, 'New', 'Again', 101)).status, 409);
+  assert.equal((await db.prepare('SELECT COUNT(*) AS count FROM write_guards').first()).count, 0);
+});
+
+test('a category review becomes stale after any card write and cannot rename an unreviewed import', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%'").run();
+  const game = await createGame({ hasCategories: true });
+  await gameBulk(game, 'import', [{ Name: 'First', Category: 'Old' }]);
+  const review = await categoryData(game);
+  await gameBulk(game, 'import', [{ Name: 'Newer', Category: 'Other' }]);
+  assert.equal((await rename(game, review, 'Old', 'New', 1)).status, 409);
+  assert.equal((await gameCards(game))[0].Category, 'Old');
+});
+
+test('feedback overview uses actual vote counts, reports unrated cards, and excludes card/game trash', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%' OR key LIKE 'vote:%'").run();
+  const game = await createGame();
+  const { ids } = await (await gameBulk(game, 'import', [{ Name: 'Popular' }, { Name: 'Needs attention' }, { Name: 'Unrated' }, { Name: 'Removed' }])).json();
+  for (const [id, value] of [[ids[0],1],[ids[1],-1],[ids[3],1]]) await request(`/cards/${id}/vote`, { cookie: userCookie, data: { value } });
+  await gameBulk(game, 'feedback', [{ id: ids[0], version: 1 }], 1);
+  await gameBulk(game, 'remove', [{ id: ids[3], version: 1 }]);
+  let report = await (await request(`/admin/feedback?game=${game.id}`, { cookie: adminCookie })).json();
+  assert.deepEqual(report.summary, { cards: 3, ratedCards: 2, likes: 2, dislikes: 1, unratedCards: 1 });
+  assert.equal(report.liked[0].id, ids[0]); assert.equal(report.disliked[0].id, ids[1]);
+  assert.ok(report.liked.every(card => !('actor' in card)));
+  await gameWrite('remove', game);
+  report = await (await request(`/admin/feedback?game=${game.id}`, { cookie: adminCookie })).json();
+  assert.deepEqual(report.summary, { cards: 0, ratedCards: 0, likes: 0, dislikes: 0, unratedCards: 0 });
+});
+
+test('activity history paginates without overlap, includes removed games, and hides saved card payloads', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%'").run();
+  const game = await createGame();
+  await db.batch(Array.from({ length: 55 }, (_, index) => db.prepare('INSERT INTO audit_log (id,github_id,game_id,action,details) VALUES (?,?,?,?,?)').bind(crypto.randomUUID(), '48080916', game.id, 'edit', JSON.stringify([{ id: `audit-${index}`, Name: 'Private saved content' }]))));
+  const first = await (await request(`/admin/activity?game=${game.id}`, { cookie: adminCookie })).json();
+  assert.equal(first.entries.length, 50); assert.ok(first.nextCursor);
+  const second = await (await request(`/admin/activity?game=${game.id}&before=${first.nextCursor}`, { cookie: adminCookie })).json();
+  assert.equal(second.entries.length, 6); assert.equal(second.nextCursor, null);
+  assert.equal(new Set([...first.entries, ...second.entries].map(entry => entry.id)).size, 56);
+  assert.ok(!JSON.stringify(first).includes('Private saved content'));
+  assert.ok(first.entries.every(entry => entry.changed === 1 && entry.actorId === '48080916'));
+  assert.equal((await request('/admin/activity?before=-1', { cookie: adminCookie })).status, 400);
+  await gameWrite('remove', game);
+  const removed = await (await request(`/admin/activity?game=${game.id}`, { cookie: adminCookie })).json();
+  assert.equal(removed.entries[0].action, 'game:remove'); assert.equal(removed.entries[0].gameName, game.name);
 });

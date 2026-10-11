@@ -9,6 +9,8 @@ React 19 + Vite frontend, served by a Cloudflare Worker with a D1 database. Prod
 - `src/components/CardManager.jsx`, `BulkCardEditor.jsx`, `CardFields.jsx`: card management, reviewed bulk edits, CSV workflows and personal bulk feedback.
 - `src/utils/DataManager.js`: same-origin JSON API client.
 - `src/utils/cardFormats.js`, `cardCsv.js`: client-side format and CSV validation.
+- `src/components/DuplicateCards.jsx`, `CopyCards.jsx`, `CategoryManager.jsx`, `AdminReports.jsx`: deck organization and read-only administrator reports.
+- `worker/adminTools.js`, `http.js`: copy/category transactions, report queries, and shared request validation. Activity reports expose operation summaries, not saved card payloads.
 - `worker/index.js`: API, GitHub OAuth, server authorization, voting, transactional game/card writes and auditing.
 - `worker/migrations/`: ordered D1 migrations. Add a migration for schema changes; do not rewrite applied migrations.
 - `public/games.json`, `public/data/*.csv`, `worker/seed.sql`: original seed, not live production data.
@@ -23,7 +25,10 @@ For a local Worker, configure ignored `.dev.vars`, then run `npm run db:migrate:
 
 - Check administrator identity by immutable GitHub ID on every game/card management write. Ordinary sign-in does not grant administration.
 - Require same-origin writes. Validate formats and category requirements on the server as well as in the frontend.
-- Every bulk operation is atomic, limited to 100 cards and 512 KB, and must reject stale card versions and game-state races. Game writes require the current game version.
+- Every selection-based bulk operation is atomic, limited to 100 cards and 512 KB, and must reject stale card versions and game-state races. Game writes require the current game version. A reviewed whole-category rename/merge may affect all cards in that category; guard it with the reviewed count, game version, and audit revision.
+- Copies must use current server-side source content, reject stale source/destination state, get new IDs, and start without votes. Never silently discard name/description fields to fit a destination format.
+- Duplicate detection only suggests candidates. Require the existing review/removal flow to remove them; do not combine their votes.
+- Reports are administrator-only and read-only. Feedback summaries exclude removed cards/games; history can include removed games. Never expose sessions or raw saved payloads in reports.
 - Game and card removal are recoverable. Removed games cannot accept votes or card writes. Restoring a game retains card-level trash and feedback.
 - Bulk feedback changes only the administrator's own vote, never aggregate counts or another player's votes.
 - Game format changes must not silently discard content. Category clearing requires an explicit flag and a reviewed warning.

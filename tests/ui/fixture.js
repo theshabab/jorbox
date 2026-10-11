@@ -20,7 +20,7 @@ export async function startFixture() {
     }),
   );
   const db = await mf.getD1Database('DB');
-  for (const file of ['0001_initial.sql', '0002_game_management.sql'])
+  for (const file of ['0001_initial.sql', '0002_game_management.sql', '0003_admin_reports.sql'])
     await db.exec(
       readFileSync(resolve(repositoryRoot, 'worker/migrations', file), 'utf8')
         .replace(/--[^\n]*/g, '')
