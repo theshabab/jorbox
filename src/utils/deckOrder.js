@@ -5,7 +5,20 @@ const key = (gameId) => `jorbox:deck:${gameId}`;
 
 function read(gameId) {
   try {
-    return JSON.parse(sessionStorage.getItem(key(gameId))) || null;
+    const stored = JSON.parse(sessionStorage.getItem(key(gameId)));
+    if (!stored || typeof stored !== 'object' || Array.isArray(stored))
+      return null;
+    return {
+      order: Array.isArray(stored.order)
+        ? [...new Set(stored.order.filter((id) => typeof id === 'string'))]
+        : [],
+      positions:
+        stored.positions &&
+        typeof stored.positions === 'object' &&
+        !Array.isArray(stored.positions)
+          ? stored.positions
+          : {},
+    };
   } catch {
     return null;
   }
@@ -45,7 +58,10 @@ export function deckOrder(gameId, cards, reshuffle = false) {
 }
 
 export function loadPosition(gameId, filter) {
-  return read(gameId)?.positions?.[filter] || null;
+  const positions = read(gameId)?.positions;
+  const value =
+    positions && Object.hasOwn(positions, filter) ? positions[filter] : null;
+  return typeof value === 'string' ? value : null;
 }
 
 export function savePosition(gameId, filter, cardId) {

@@ -18,12 +18,14 @@ function warmCache() {
 
 export function registerOfflineSupport() {
   if (!('serviceWorker' in navigator)) return;
-  window.addEventListener('load', () => {
+  const register = () => {
     // Listen before registering so a quick activation is never missed.
     if (!navigator.serviceWorker.controller)
       navigator.serviceWorker.addEventListener('controllerchange', warmCache, {
         once: true,
       });
     navigator.serviceWorker.register('/sw.js').catch(() => {});
-  });
+  };
+  if (document.readyState === 'complete') register();
+  else window.addEventListener('load', register, { once: true });
 }

@@ -1638,3 +1638,257 @@ test('suggestions are rate limited per network and capped per player', async (t)
     201,
   );
 });
+
+test('suggestion quota is atomic across simultaneous submissions', async () => {
+  await db
+    .prepare(
+      "DELETE FROM rate_limits WHERE key LIKE 'suggest:%' OR key LIKE 'admin:%'",
+    )
+    .run();
+  const game = await createGame({ name: 'Quota race' });
+  await db.batch(
+    Array.from({ length: 24 }, (_, i) =>
+      db
+        .prepare(
+          'INSERT INTO suggestions (id,game_id,name,actor) VALUES (?,?,?,?)',
+        )
+        .bind(`quota-${i}`, game.id, `Idea ${i}`, 'github:48080916'),
+    ),
+  );
+  const responses = await Promise.all(
+    ['First', 'Second'].map((Name) =>
+      request(`/games/${game.id}/suggestions`, {
+        cookie: adminCookie,
+        data: { Name },
+      }),
+    ),
+  );
+  assert.deepEqual(
+    responses.map((response) => response.status).sort(),
+    [201, 429],
+  );
+  assert.equal(
+    (
+      await db
+        .prepare(
+          "SELECT COUNT(*) AS count FROM suggestions WHERE actor=? AND status='pending'",
+        )
+        .bind('github:48080916')
+        .first()
+    ).count,
+    25,
+  );
+  assert.equal(
+    (await db.prepare('SELECT COUNT(*) AS count FROM write_guards').first())
+      .count,
+    0,
+  );
+});
+
+test('suggestions and their reviews reject concurrent game changes without partial writes', async () => {
+  await db
+    .prepare(
+      "DELETE FROM rate_limits WHERE key LIKE 'suggest:%' OR key LIKE 'admin:%'",
+    )
+    .run();
+  for (const action of ['submit', 'accept', 'reject']) {
+    const game = await createGame({ name: `Suggestion ${action} race` });
+    const id = `review-race-${action}`;
+    if (action !== 'submit')
+      await db
+        .prepare(
+          'INSERT INTO suggestions (id,game_id,name,actor) VALUES (?,?,?,?)',
+        )
+        .bind(id, game.id, 'Existing idea', 'test:race')
+        .run();
+    let raced = false;
+    const racingDB = {
+      prepare: (sql) => db.prepare(sql),
+      batch: async (statements) => {
+        if (!raced) {
+          raced = true;
+          await db
+            .prepare(
+              'UPDATE games SET deleted_at=unixepoch(),version=version+1 WHERE id=?',
+            )
+            .bind(game.id)
+            .run();
+        }
+        return db.batch(statements);
+      },
+    };
+    const response = await request(
+      action === 'submit'
+        ? `/games/${game.id}/suggestions`
+        : `/admin/suggestions/${id}`,
+      {
+        cookie: adminCookie,
+        data:
+          action === 'submit'
+            ? { Name: 'New idea' }
+            : { action, card: { Name: 'Accepted idea' } },
+        extraEnv: { DB: racingDB },
+      },
+    );
+    assert.equal(response.status, 409);
+    assert.equal(
+      (
+        await db
+          .prepare('SELECT COUNT(*) AS count FROM cards WHERE game_id=?')
+          .bind(game.id)
+          .first()
+      ).count,
+      0,
+    );
+    assert.equal(
+      (
+        await db
+          .prepare(
+            "SELECT COUNT(*) AS count FROM audit_log WHERE game_id=? AND action LIKE 'suggestion:%'",
+          )
+          .bind(game.id)
+          .first()
+      ).count,
+      0,
+    );
+    const stored = await db
+      .prepare('SELECT status FROM suggestions WHERE game_id=?')
+      .bind(game.id)
+      .all();
+    assert.deepEqual(
+      stored.results,
+      action === 'submit' ? [] : [{ status: 'pending' }],
+    );
+    assert.equal(
+      (await db.prepare('SELECT COUNT(*) AS count FROM write_guards').first())
+        .count,
+      0,
+    );
+  }
+});
+
+test('administrator trash responses must not be stored in browser caches', async () => {
+  for (const path of [
+    '/games?removed=true',
+    '/games/game1/cards?removed=true',
+  ]) {
+    const response = await request(path, { cookie: adminCookie });
+    assert.equal(response.status, 200);
+    assert.equal(response.headers.get('Cache-Control'), 'no-store');
+    assert.equal(response.headers.get('ETag'), null);
+  }
+});
+
+test('suggestion pages reach older history and use stable ordering for tied timestamps', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%'").run();
+  const game = await createGame({ name: 'Paginated suggestions' });
+  for (const status of ['pending', 'accepted', 'rejected']) {
+    const expected = Array.from(
+      { length: 105 },
+      (_, i) => `page-${status}-${i}`,
+    );
+    await db.batch(
+      expected.map((id) =>
+        db
+          .prepare(
+            'INSERT INTO suggestions (id,game_id,name,actor,status,created_at,reviewed_at) VALUES (?,?,?,?,?,?,?)',
+          )
+          .bind(
+            id,
+            game.id,
+            id,
+            'test:pages',
+            status,
+            100,
+            status === 'pending' ? null : 200,
+          ),
+      ),
+    );
+    const all = [];
+    let cursor = null;
+    do {
+      const response = await request(
+        `/admin/suggestions?${new URLSearchParams({ status, ...(cursor ? { before: cursor } : {}) })}`,
+        { cookie: adminCookie },
+      );
+      assert.equal(response.status, 200);
+      assert.equal(response.headers.get('Cache-Control'), 'no-store');
+      const page = await response.json();
+      assert.ok(page.suggestions.length <= 100);
+      assert.ok(page.suggestions.every((row) => !('cursorRow' in row)));
+      all.push(...page.suggestions);
+      cursor = page.nextCursor;
+    } while (cursor);
+    assert.equal(new Set(all.map((row) => row.id)).size, all.length);
+    assert.deepEqual(
+      all.filter((row) => row.gameId === game.id).map((row) => row.id),
+      status === 'pending' ? expected : expected.reverse(),
+    );
+  }
+  for (const cursor of ['0', 'bad:1', '1:0', '1:2:3', '1:9007199254740992']) {
+    assert.equal(
+      (
+        await request(`/admin/suggestions?before=${cursor}`, {
+          cookie: adminCookie,
+        })
+      ).status,
+      400,
+    );
+  }
+});
+
+test('JSON media types are exact and request limits count streamed bytes', async () => {
+  const { readBody } = await import('../worker/http.js');
+  const { MAX_BODY_BYTES } = await import('../src/utils/cardFormats.js');
+  for (const mediaType of [
+    'application/jsonp',
+    'application/json-invalid',
+    'text/plain',
+  ]) {
+    await assert.rejects(
+      readBody(
+        new Request(origin, {
+          method: 'POST',
+          headers: { 'Content-Type': mediaType },
+          body: '{}',
+        }),
+      ),
+      { status: 415 },
+    );
+  }
+  assert.deepEqual(
+    await readBody(
+      new Request(origin, {
+        method: 'POST',
+        headers: { 'Content-Type': 'Application/JSON; charset=utf-8' },
+        body: '{}',
+      }),
+    ),
+    {},
+  );
+  const bytes = new TextEncoder().encode(
+    JSON.stringify({ value: 'é'.repeat(MAX_BODY_BYTES / 2) }),
+  );
+  let cancelled = false;
+  const body = new ReadableStream({
+    start(controller) {
+      for (let offset = 0; offset < bytes.length; offset += 4096)
+        controller.enqueue(bytes.slice(offset, offset + 4096));
+    },
+    cancel() {
+      cancelled = true;
+    },
+  });
+  await assert.rejects(
+    readBody(
+      new Request(origin, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Content-Length': '2' },
+        body,
+        duplex: 'half',
+      }),
+    ),
+    { status: 413 },
+  );
+  assert.equal(cancelled, true);
+});

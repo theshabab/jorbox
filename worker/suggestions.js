@@ -37,27 +37,42 @@ function validateSuggestion(row, game) {
 export async function suggest(request, env, game, identity, user) {
   const data = await readBody(request);
   const card = validateSuggestion(data, game);
-  const { pending } = await statement(
-    env,
-    "SELECT COUNT(*) AS pending FROM suggestions WHERE actor=? AND status='pending'",
-    identity,
-  ).first();
-  if (pending >= MAX_PENDING_PER_PLAYER)
+  const operation = crypto.randomUUID();
+  // D1 batches are transactional: pin the validated game state, then check the
+  // quota inside the insert so simultaneous submissions cannot both take slot 25.
+  const [, inserted] = await env.DB.batch([
+    statement(
+      env,
+      'INSERT INTO write_guards (id,valid) SELECT ?, CASE WHEN EXISTS (SELECT 1 FROM games WHERE id=? AND version=? AND deleted_at IS NULL) THEN 1 ELSE 0 END',
+      operation,
+      game.id,
+      game.version,
+    ),
+    statement(
+      env,
+      `INSERT INTO suggestions (id,game_id,name,description,category,actor,login)
+      SELECT ?,?,?,?,?,?,? WHERE (SELECT COUNT(*) FROM suggestions WHERE actor=? AND status='pending')<?`,
+      crypto.randomUUID(),
+      game.id,
+      card.Name,
+      card.Description,
+      card.Category,
+      identity,
+      user?.login || '',
+      identity,
+      MAX_PENDING_PER_PLAYER,
+    ),
+    statement(env, 'DELETE FROM write_guards WHERE id=?', operation),
+  ]).catch((error) => {
+    if (String(error.message).includes('CHECK constraint failed'))
+      fail(409, 'This game changed. Reload it before suggesting a card.');
+    throw error;
+  });
+  if (!inserted.meta.changes)
     fail(
       429,
       'You have many suggestions waiting for review. Please try again later.',
     );
-  await statement(
-    env,
-    'INSERT INTO suggestions (id,game_id,name,description,category,actor,login) VALUES (?,?,?,?,?,?,?)',
-    crypto.randomUUID(),
-    game.id,
-    card.Name,
-    card.Description,
-    card.Category,
-    identity,
-    user?.login || '',
-  ).run();
   return json({ ok: true }, 201);
 }
 
@@ -65,21 +80,53 @@ export async function listSuggestions(env, url) {
   const status = url.searchParams.get('status') || 'pending';
   if (!['pending', 'accepted', 'rejected'].includes(status))
     fail(400, 'Unknown suggestion status.');
+  const cursor = url.searchParams.get('before');
+  const parts = cursor?.split(':');
+  if (
+    cursor !== null &&
+    (parts.length !== 2 ||
+      parts.some(
+        (part) => !/^\d+$/.test(part) || !Number.isSafeInteger(Number(part)),
+      ) ||
+      Number(parts[1]) < 1)
+  )
+    fail(400, 'Invalid suggestion cursor.');
+  const timestamp = parts ? Number(parts[0]) : null;
+  const rowid = parts ? Number(parts[1]) : null;
+  const pending = status === 'pending';
+  const timeColumn = pending ? 's.created_at' : 's.reviewed_at';
+  const comparison = pending ? '>' : '<';
+  const direction = pending ? 'ASC' : 'DESC';
   const [list, count] = await env.DB.batch([
     statement(
       env,
-      `SELECT s.id,s.game_id AS gameId,g.name AS gameName,g.version AS gameVersion,s.name AS Name,s.description AS Description,
+      `SELECT s.rowid AS cursorRow,s.id,s.game_id AS gameId,g.name AS gameName,g.version AS gameVersion,s.name AS Name,s.description AS Description,
       s.category AS Category,s.login,s.status,s.created_at AS createdAt,s.reviewed_at AS reviewedAt,s.card_id AS cardId
       FROM suggestions s JOIN games g ON g.id=s.game_id WHERE g.deleted_at IS NULL AND s.status=?
-      ORDER BY ${status === 'pending' ? 's.created_at ASC' : 's.reviewed_at DESC'} LIMIT 100`,
+      ${cursor === null ? '' : `AND (${timeColumn},s.rowid)${comparison}(?,?)`}
+      ORDER BY ${timeColumn} ${direction},s.rowid ${direction} LIMIT 101`,
       status,
+      ...(cursor === null ? [] : [timestamp, rowid]),
     ),
     statement(
       env,
       "SELECT COUNT(*) AS pending FROM suggestions s JOIN games g ON g.id=s.game_id WHERE g.deleted_at IS NULL AND s.status='pending'",
     ),
   ]);
-  return json({ suggestions: list.results, pending: count.results[0].pending });
+  const page = list.results.slice(0, 100);
+  const last = page.at(-1);
+  return json({
+    suggestions: page.map((row) => {
+      const suggestion = { ...row };
+      delete suggestion.cursorRow;
+      return suggestion;
+    }),
+    pending: count.results[0].pending,
+    nextCursor:
+      list.results.length > 100
+        ? `${pending ? last.createdAt : last.reviewedAt}:${last.cursorRow}`
+        : null,
+  });
 }
 
 export async function reviewSuggestion(request, env, id, user, validateCard) {
@@ -110,6 +157,13 @@ export async function reviewSuggestion(request, env, id, user, validateCard) {
       operation,
       id,
     ),
+    statement(
+      env,
+      'INSERT INTO write_guards (id,valid) SELECT ?, CASE WHEN EXISTS (SELECT 1 FROM games WHERE id=? AND version=? AND deleted_at IS NULL) THEN 1 ELSE 0 END',
+      `${operation}:game`,
+      suggestion.game_id,
+      suggestion.game_version,
+    ),
   ];
   let cardId = null;
   if (data.action === 'accept') {
@@ -122,13 +176,6 @@ export async function reviewSuggestion(request, env, id, user, validateCard) {
     const card = validateCard(data.card, game);
     cardId = crypto.randomUUID();
     statements.push(
-      statement(
-        env,
-        'INSERT INTO write_guards (id,valid) SELECT ?, CASE WHEN EXISTS (SELECT 1 FROM games WHERE id=? AND version=? AND deleted_at IS NULL) THEN 1 ELSE 0 END',
-        `${operation}:game`,
-        game.id,
-        suggestion.game_version,
-      ),
       statement(
         env,
         'INSERT INTO audit_log (id,github_id,login,game_id,action,details) VALUES (?,?,?,?,?,?)',

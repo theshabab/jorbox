@@ -785,14 +785,12 @@ const handlers = [
       FROM games g WHERE g.deleted_at IS ${removed ? 'NOT ' : ''}NULL
       ORDER BY CASE WHEN g.id GLOB 'game[0-9]*' AND SUBSTR(g.id,5) NOT GLOB '*[^0-9]*' THEN CAST(SUBSTR(g.id,5) AS INTEGER) ELSE 2147483647 END,g.name COLLATE NOCASE,g.id`,
       ).all();
-      return cacheable(
-        request,
-        results.map((game) => ({
-          ...game,
-          hasCategories: Boolean(game.hasCategories),
-          revealDescription: Boolean(game.revealDescription),
-        })),
-      );
+      const games = results.map((game) => ({
+        ...game,
+        hasCategories: Boolean(game.hasCategories),
+        revealDescription: Boolean(game.revealDescription),
+      }));
+      return removed ? json(games) : cacheable(request, games);
     },
   ],
   [
@@ -882,7 +880,7 @@ const handlers = [
       )
         .bind(identity.id, game.id)
         .all();
-      return cacheable(request, results, { 'Set-Cookie': identity.cookie });
+      return removed ? json(results) : cacheable(request, results);
     },
   ],
   [

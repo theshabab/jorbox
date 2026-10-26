@@ -30,7 +30,10 @@ export default function SuggestCard({ game, categories, onClose }) {
     }
   }
   return (
-    <Dialog title={`Suggest a card for ${game.name}`} onClose={onClose}>
+    <Dialog
+      title={`Suggest a card for ${game.name}`}
+      onClose={() => !busy && onClose()}
+    >
       {sent ? (
         <div className="editor">
           <p role="status" className="notice success">
@@ -85,7 +88,12 @@ export default function SuggestCard({ game, categories, onClose }) {
             >
               {busy ? 'Sending…' : 'Send suggestion'}
             </button>
-            <button className="btn-secondary" type="button" onClick={onClose}>
+            <button
+              className="btn-secondary"
+              type="button"
+              disabled={busy}
+              onClick={onClose}
+            >
               Cancel
             </button>
           </div>

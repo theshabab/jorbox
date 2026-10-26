@@ -12,7 +12,7 @@ export async function api(path, data) {
           }),
     });
   } catch {
-    // fetch only rejects when the request never reached the server.
+    // A failed response does not establish whether a write reached the server.
     throw new Error(
       navigator.onLine === false
         ? 'You’re offline. Reconnect and try again.'
@@ -21,7 +21,7 @@ export async function api(path, data) {
   }
   if (!response.headers.get('Content-Type')?.includes('application/json'))
     throw new Error(
-      'Backend unavailable. Start the Cloudflare Worker to use this app.',
+      'JorBox is temporarily unavailable. Please try again in a moment.',
     );
   const result = await response.json();
   if (!response.ok) throw new Error(result.error || 'Request failed.');
@@ -58,8 +58,10 @@ export const DataManager = {
   logout: () => api('/auth/logout', {}),
   suggest: (id, card) =>
     api(`/games/${encodeURIComponent(id)}/suggestions`, card),
-  fetchSuggestions: (status = 'pending') =>
-    api(`/admin/suggestions?${new URLSearchParams({ status })}`),
+  fetchSuggestions: (status = 'pending', before = '') =>
+    api(
+      `/admin/suggestions?${new URLSearchParams({ status, ...(before ? { before } : {}) })}`,
+    ),
   reviewSuggestion: (id, data) =>
     api(`/admin/suggestions/${encodeURIComponent(id)}`, data),
 };

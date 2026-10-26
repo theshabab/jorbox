@@ -13,6 +13,8 @@ const actionLabels = {
   'game:edit': 'Game updated',
   'game:remove': 'Game removed',
   'game:restore': 'Game restored',
+  'suggestion:accept': 'Suggested card accepted',
+  'suggestion:reject': 'Suggested card rejected',
 };
 const ratedShare = ({ ratedCards, cards }) => {
   const percent = (ratedCards / Math.max(1, cards)) * 100;

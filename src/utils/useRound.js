@@ -30,19 +30,29 @@ export function useRound() {
   // so hiding and reopening the panel cannot award the same round twice.
   const [awardedRound, setAwardedRound] = useState(null);
   const endAt = useRef(0);
+  const remainingMs = useRef(duration * 1000);
+  const active = useRef(false);
+  function finish() {
+    active.current = false;
+    remainingMs.current = 0;
+    setRemaining(0);
+    setRunning(false);
+  }
   useEffect(() => {
     if (!running) return;
     const id = setInterval(() => {
       const left = Math.max(0, Math.ceil((endAt.current - Date.now()) / 1000));
       setRemaining(left);
       if (left === 0) {
-        setRunning(false);
+        finish();
         navigator.vibrate?.([200, 100, 200]);
       }
     }, 250);
     return () => clearInterval(id);
   }, [running]);
   function reset(length = duration) {
+    active.current = false;
+    remainingMs.current = length * 1000;
     setRunning(false);
     setRemaining(length);
     setResults([]);
@@ -58,6 +68,7 @@ export function useRound() {
     awarded: awardedRound === number,
     markAwarded: () => setAwardedRound(number),
     choose(length) {
+      if (!ROUND_LENGTHS.includes(length)) return;
       setDuration(length);
       reset(length);
       try {
@@ -67,23 +78,39 @@ export function useRound() {
       }
     },
     toggle() {
-      if (running) return setRunning(false);
-      const fresh = remaining === 0;
-      const start = fresh ? duration : remaining;
+      if (active.current) {
+        // Preserve milliseconds when paused. Rounding every resume up to a
+        // whole second lets repeated pauses extend a round indefinitely.
+        remainingMs.current = Math.max(0, endAt.current - Date.now());
+        active.current = false;
+        setRemaining(Math.ceil(remainingMs.current / 1000));
+        setRunning(false);
+        return;
+      }
+      const fresh = remainingMs.current === 0;
       if (fresh) {
+        remainingMs.current = duration * 1000;
         setResults([]);
         setNumber((value) => value + 1);
       }
-      endAt.current = Date.now() + start * 1000;
-      setRemaining(start);
+      endAt.current = Date.now() + remainingMs.current;
+      active.current = true;
+      setRemaining(Math.ceil(remainingMs.current / 1000));
       setRunning(true);
     },
     reset: () => reset(),
     record(card, got) {
+      if (!active.current || !card) return false;
+      // A delayed browser tick must never permit scoring after the deadline.
+      if (Date.now() >= endAt.current) {
+        finish();
+        return false;
+      }
       setResults((previous) => [
         ...previous,
         { id: card.id, label: card.Name || card.Description, got },
       ]);
+      return true;
     },
   };
 }
@@ -91,7 +118,18 @@ export function useRound() {
 function readTeams() {
   try {
     const teams = JSON.parse(sessionStorage.getItem(SCORES_KEY));
-    return Array.isArray(teams) && teams.length === 2 ? teams : DEFAULT_TEAMS;
+    return Array.isArray(teams) &&
+      teams.length === 2 &&
+      teams.every(
+        (team) =>
+          team &&
+          typeof team.name === 'string' &&
+          team.name.length <= 20 &&
+          Number.isSafeInteger(team.score) &&
+          team.score >= 0,
+      )
+      ? teams
+      : DEFAULT_TEAMS;
   } catch {
     return DEFAULT_TEAMS;
   }
