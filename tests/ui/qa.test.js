@@ -806,16 +806,27 @@ test('a deck opened on the very first visit keeps working offline', async () => 
         (url) => caches.match(url, { ignoreVary: true }),
       ),
     );
-    return saved.every(Boolean);
+    if (!saved.every(Boolean)) return false;
+    const html = await saved[saved.length - 1].text();
+    const assets = [...html.matchAll(/(?:src|href)="(\/assets\/[^"]+)"/g)].map(
+      (match) => match[1],
+    );
+    return (
+      assets.length > 0 &&
+      (await Promise.all(assets.map((url) => caches.match(url)))).every(Boolean)
+    );
   });
   const card = await page.locator('.playing-card h2').textContent();
   await page.context().setOffline(true);
   await page.reload();
   await page.locator('.playing-card').waitFor();
   assert.equal(await page.locator('.playing-card h2').textContent(), card);
-  await page.getByText('You’re offline.', { exact: false }).first().waitFor();
+  await page.locator('.offline').waitFor();
   await page.getByRole('button', { name: 'Like', exact: true }).click();
-  await page.getByRole('alert').filter({ hasText: 'offline' }).waitFor();
+  await page
+    .getByRole('alert')
+    .filter({ hasText: /offline|connection/ })
+    .waitFor();
   await shot(page, 'offline-mobile');
   await page.context().setOffline(false);
   await close();

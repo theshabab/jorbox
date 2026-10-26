@@ -8,14 +8,14 @@ Production URL: https://jorbox.haseebshah.workers.dev
 
 - All 16 original games and 19,420 cards, including name-only and description-only formats.
 - Persistent likes/dislikes, one vote per signed visitor cookie or signed-in GitHub account; click again to clear a vote. Counts appear after you vote. Anonymous feedback uses browser identity, not a verified person. The visitor cookie is issued when the page loads; a vote without one is rejected rather than creating a fresh identity. Each network (an IPv4 address or an IPv6 /64) can receive at most 30 new identities per hour, and votes are rate limited per network.
-- Players pick a game from tiles showing card counts, then move through the deck with Previous/Next, the ← → keys, or a swipe. The shuffled order and position survive a reload in the same tab; **Reshuffle** starts again, and the end of the deck is shown rather than silently wrapping. On phones the controls stay pinned on screen, and the screen stays awake while a deck is open (where the browser supports it). Games without cards are hidden from players.
+- Players find games by name and pick from tiles showing card counts, then move through the deck with Previous/Next, the ← → keys, or a swipe. The shuffled order and position survive a reload in the same tab; **Reshuffle** starts again, and the end of the deck is shown rather than silently wrapping. On phones the controls stay pinned on screen, and the screen stays awake while a deck is open (where the browser supports it). Games without cards are hidden from players.
 - Every screen has its own address (`/play/:game`, `/cards/:game`, `/games`, `/reports`), so the browser Back button, reloads, and shared links work. Signing in returns you to the screen you were on.
-- **Timer** in the play view runs a 30-second to 2-minute round for timed games such as charades. While it runs, **Got it** and **Skip** (or → and ←, or a swipe) replace Previous/Next and tally the round. At “Time’s up!” the summary lists the cards; add the points to one of two renamable teams. The scoreboard lasts for the browser tab, and the round length is remembered on the device.
+- **Timer** in the play view runs a 30-second to 2-minute round for timed games such as charades. While it runs, **Got it** and **Skip** (or → and ←, or a swipe) replace Previous/Next and tally the round. At “Time’s up!” the summary lists the cards; add the points to one of two renamable teams. The scoreboard lasts for the browser tab, and the round length is remembered on the device. Hiding the timer pauses the round; switching games resets it. Pauses preserve the exact remaining time, and cards cannot be scored after the deadline.
 - Cards are laid out from their text: `a | b | c` lists become word chips (banned words, word lists), `LOW <---> HIGH` becomes a scale, and `____` becomes a fill-in blank.
 - Games can hide the description until a player taps **Reveal answer** (or presses Space), for decks such as Trivia where it is the answer. Administrators switch this per game; migration `0005_reveal_description.sql` turns it on for the original Trivia deck.
-- **Suggest a card for this deck** (below the card) lets players propose a card in the deck's format; the category is optional. Suggestions need the same page-load identity as votes, are limited to 10 per network per hour and 25 waiting per player, and never change a deck by themselves. Administrators review them under **Suggestions** (the tab shows how many are waiting): **Review & accept** lets them edit the card before it is added as a new card with no votes, and **Reject** keeps it in the rejected list. Both are audited.
+- **Suggest a card for this deck** (below the card) lets players propose a card in the deck's format; the category is optional. Suggestions need the same page-load identity as votes, are limited to 10 per network per hour and 25 waiting per player, and never change a deck by themselves. Administrators review them under **Suggestions** (the tab shows how many are waiting): **Review & accept** lets them edit the card before it is added as a new card with no votes, and **Reject** keeps it in the rejected list. Both are audited. The waiting queue and reviewed history are paginated, so older suggestions remain reachable.
 - **Full screen** shows only the card and its controls in larger text, for holding the phone up to the room. Escape or the button exits it. Browsers without the Fullscreen API (such as iPhone Safari) still hide the rest of the page.
-- JorBox installs to the home screen and keeps working offline: a deck opened once, even on the first visit, plays without a connection. Votes, suggestions and administrator changes need a connection; an offline notice says so. Only the session summary, the game list and opened decks are saved on the device, never administrator data.
+- JorBox installs to the home screen and keeps working offline: a deck opened once, even on the first visit, plays without a connection. Votes, suggestions and administrator changes need a connection; an offline notice says so. Only an anonymous session summary, the game list and opened decks are saved on the device. Saved snapshots exclude account identity, personal votes and administrator data. Reconnecting revalidates the session and deck; **Retry connection** also recovers when the server was unreachable while the device stayed online.
 - The home screen offers **Continue** for the last game played on the device, category menus show how many cards each holds, and a thin bar shows progress through the deck.
 - GitHub OAuth with PKCE and expiring, HttpOnly server sessions. OAuth access tokens are used to verify identity and are not stored.
 - Card management restricted to `thehaseebshah` (GitHub ID `48080916`), checked on every write. Signing in alone does not grant editing access.
@@ -29,6 +29,8 @@ Production URL: https://jorbox.haseebshah.workers.dev
 ## Local development
 
 Requires Node.js 22 and npm.
+
+The Miniflare-scoped Undici override pins the patched 7.x HTTP client until Miniflare updates its exact dependency; review or remove this override when upgrading Miniflare.
 
 ```sh
 npm ci
@@ -120,6 +122,8 @@ npm run db:seed:remote
 
 For subsequent releases:
 
+Migration `0007_suggestion_review_index.sql` adds an index for paginated suggestion history without changing existing cards or suggestions.
+
 ```sh
 npm run db:migrate:remote
 npm run deploy
@@ -153,14 +157,14 @@ A daily Worker cron deletes expired sessions, OAuth states, and rate-limit bucke
 | GET | `/api/admin/activity?game=:id&before=:cursor` | Administrator |
 | GET | `/api/admin/feedback?game=:id` | Administrator |
 | POST | `/api/games/:id/suggestions` | Public, with a page-load identity; `{Name, Description, Category?}` |
-| GET | `/api/admin/suggestions?status=pending\|accepted\|rejected` | Administrator |
+| GET | `/api/admin/suggestions?status=pending\|accepted\|rejected&before=:cursor` | Administrator |
 | POST | `/api/admin/suggestions/:id` | Administrator; `{action: "accept", card}` or `{action: "reject"}` |
 
 Bulk requests use `{action: "import" | "edit" | "remove" | "restore" | "feedback", cards: [...]}`. Each edited row has `id`, `version`, `Name`, `Description`, and `Category`. Removed/restored rows require `id` and `version`. Feedback rows additionally use `value` (`1`, `-1`, or `0`), or one top-level `value` for the whole selection. New rows use content fields without IDs. Card content must fit the game's format, and category-enabled games require a category.
 
 Game requests use `{action: "create" | "edit" | "remove" | "restore", ...fields}`. Creation/edit fields are `name`, `cardFormat` (`flexible`, `name`, `description`, or `name-description`), and boolean `hasCategories`. Editing/removing/restoring requires the game's `id` and `version`. Edits optionally take `defaultCategory` when enabling categories or boolean `clearCategories` to explicitly clear categories while disabling the field. The server assigns new game IDs.
 
-Copy requests use `{cards: [{id, version}], sourceVersion, targetId, targetVersion, category?}`. Category rename requests use `{from, to, expectedCount, gameVersion, revision}` from the category GET response; that response lists counts for each category and provides the game version and audit revision. Report game filters are optional. Activity returns `{entries, nextCursor}`; use the cursor as `before` for the next page.
+Copy requests use `{cards: [{id, version}], sourceVersion, targetId, targetVersion, category?}`. Category rename requests use `{from, to, expectedCount, gameVersion, revision}` from the category GET response; that response lists counts for each category and provides the game version and audit revision. Suggestion lists return `{suggestions, pending, nextCursor}`; pass `nextCursor` as `before` to read the next page for the same status. Report game filters are optional. Activity returns `{entries, nextCursor}`; use the cursor as `before` for the next page.
 
 All SQL values are parameterized. Writes require a matching Origin header. Requests and errors never log OAuth tokens or cookies.
 

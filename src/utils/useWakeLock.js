@@ -7,15 +7,24 @@ export function useWakeLock() {
     if (!('wakeLock' in navigator)) return;
     let lock = null;
     let active = true;
+    let pending = false;
     async function acquire() {
-      if (document.visibilityState !== 'visible' || (lock && !lock.released))
+      if (
+        !active ||
+        pending ||
+        document.visibilityState !== 'visible' ||
+        (lock && !lock.released)
+      )
         return;
+      pending = true;
       try {
         const next = await navigator.wakeLock.request('screen');
-        if (active) lock = next;
+        if (active && document.visibilityState === 'visible') lock = next;
         else next.release().catch(() => {});
       } catch {
         // Denied (battery saver, permissions policy): the screen may dim as usual.
+      } finally {
+        pending = false;
       }
     }
     acquire();

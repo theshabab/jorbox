@@ -22,6 +22,8 @@ export default function SuggestionsReview({
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [revision, setRevision] = useState(0);
+  const [before, setBefore] = useState(null);
+  const [cursors, setCursors] = useState([]);
   const [error, setError] = useState('');
   const [message, setMessage] = useState('');
   const [accepting, setAccepting] = useState(null);
@@ -30,7 +32,7 @@ export default function SuggestionsReview({
   const reportPending = useEffectEvent((count) => onPendingChange(count));
   useEffect(() => {
     let active = true;
-    DataManager.fetchSuggestions(status)
+    DataManager.fetchSuggestions(status, before)
       .then((result) => {
         if (!active) return;
         setData(result);
@@ -46,10 +48,14 @@ export default function SuggestionsReview({
     return () => {
       active = false;
     };
-  }, [status, revision]);
+  }, [status, before, revision]);
   const gameOf = (suggestion) =>
     games.find((game) => game.id === suggestion.gameId);
   function refresh() {
+    setBefore(null);
+    setCursors([]);
+    setData(null);
+    setError('');
     setLoading(true);
     setRevision((value) => value + 1);
   }
@@ -73,8 +79,22 @@ export default function SuggestionsReview({
     }
   }
   const acceptingGame = accepting && gameOf(accepting.suggestion);
+  const acceptanceErrors = acceptingGame
+    ? cardErrors(accepting.card, acceptingGame)
+    : [];
+  const unusedFields = acceptingGame
+    ? [
+        ...(acceptingGame.cardFormat === 'description' ? ['Name'] : []),
+        ...(acceptingGame.cardFormat === 'name' ? ['Description'] : []),
+        ...(!acceptingGame.hasCategories ? ['Category'] : []),
+      ].filter((field) => accepting.card[field]?.trim())
+    : [];
   return (
-    <section className="glass-panel manager" aria-label="Card suggestions">
+    <section
+      className="glass-panel manager"
+      aria-label="Card suggestions"
+      aria-busy={loading}
+    >
       <div className="manager-heading">
         <div>
           <h2>Card suggestions</h2>
@@ -106,7 +126,7 @@ export default function SuggestionsReview({
           onChange={(event) => {
             setStatus(event.target.value);
             setMessage('');
-            setLoading(true);
+            refresh();
           }}
         >
           {STATUSES.map(([value, label]) => (
@@ -118,7 +138,7 @@ export default function SuggestionsReview({
       </label>
       {loading ? (
         <p role="status">Loading suggestions…</p>
-      ) : !data?.suggestions.length ? (
+      ) : !data ? null : !data.suggestions.length ? (
         <p className="empty-state">
           {status === 'pending'
             ? 'No suggestions are waiting. Players can suggest cards from the play screen.'
@@ -152,7 +172,8 @@ export default function SuggestionsReview({
                     <button
                       className="btn-primary"
                       disabled={!gameOf(suggestion)}
-                      onClick={() =>
+                      onClick={() => {
+                        setError('');
                         setAccepting({
                           suggestion,
                           card: {
@@ -160,17 +181,25 @@ export default function SuggestionsReview({
                             Description: suggestion.Description,
                             Category: suggestion.Category,
                           },
-                        })
-                      }
+                        });
+                      }}
                     >
                       Review & accept
                     </button>
                     <button
                       className="btn-danger-quiet"
-                      onClick={() => setRejecting(suggestion)}
+                      onClick={() => {
+                        setError('');
+                        setRejecting(suggestion);
+                      }}
                     >
                       Reject
                     </button>
+                    {!gameOf(suggestion) && (
+                      <p className="muted">
+                        Restore this game before accepting its suggestions.
+                      </p>
+                    )}
                   </>
                 )}
                 {status === 'accepted' &&
@@ -189,6 +218,37 @@ export default function SuggestionsReview({
             </li>
           ))}
         </ul>
+      )}
+      {data && !loading && (
+        <div className="button-row pagination" aria-label="Suggestion pages">
+          <button
+            className="btn-secondary"
+            disabled={!cursors.length}
+            onClick={() => {
+              setBefore(cursors.at(-1));
+              setCursors((values) => values.slice(0, -1));
+              setData(null);
+              setError('');
+              setLoading(true);
+            }}
+          >
+            Previous suggestions
+          </button>
+          <span>Page {cursors.length + 1}</span>
+          <button
+            className="btn-secondary"
+            disabled={!data.nextCursor}
+            onClick={() => {
+              setCursors((values) => [...values, before]);
+              setBefore(data.nextCursor);
+              setData(null);
+              setError('');
+              setLoading(true);
+            }}
+          >
+            Next suggestions
+          </button>
+        </div>
       )}
       {accepting && acceptingGame && (
         <Dialog
@@ -219,19 +279,46 @@ export default function SuggestionsReview({
               }
             </p>
             <fieldset disabled={busy}>
+              {unusedFields.map((field) => (
+                <div className="notice" key={field}>
+                  <p>
+                    This game's current format does not use{' '}
+                    {field.toLowerCase()}. Copy any text you want to keep into a
+                    supported field before clearing it.
+                  </p>
+                  <p>{accepting.card[field]}</p>
+                  <button
+                    type="button"
+                    className="btn-secondary"
+                    onClick={() =>
+                      setAccepting({
+                        ...accepting,
+                        card: { ...accepting.card, [field]: '' },
+                      })
+                    }
+                  >
+                    Clear unused {field.toLowerCase()}
+                  </button>
+                </div>
+              ))}
               <CardFields
                 card={accepting.card}
                 game={acceptingGame}
                 onChange={(card) => setAccepting({ ...accepting, card })}
               />
             </fieldset>
+            {acceptanceErrors.length > 0 && (
+              <ul className="error">
+                {acceptanceErrors.map((error) => (
+                  <li key={error}>{error}</li>
+                ))}
+              </ul>
+            )}
             <div className="button-row">
               <button
                 className="btn-primary"
                 type="submit"
-                disabled={
-                  busy || cardErrors(accepting.card, acceptingGame).length > 0
-                }
+                disabled={busy || acceptanceErrors.length > 0}
               >
                 {busy ? 'Adding…' : 'Add card to deck'}
               </button>

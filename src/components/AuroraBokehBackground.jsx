@@ -1,4 +1,4 @@
-import React from 'react';
+import { memo } from 'react';
 
 // Royal Crimson aurora — violet-dominant, crimson as a quiet accent (per Shabab usage).
 const BLOBS = [
@@ -233,4 +233,4 @@ const AuroraBokehBackground = () => (
   </div>
 );
 
-export default AuroraBokehBackground;
+export default memo(AuroraBokehBackground);

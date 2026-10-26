@@ -1,4 +1,4 @@
-import { useDeferredValue, useEffect, useMemo, useState } from 'react';
+import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import { DataManager } from '../utils/DataManager';
 import { exportCardCsv, parseCardCsv } from '../utils/cardCsv';
 import {
@@ -71,6 +71,7 @@ export default function CardManager({
   const [importOpen, setImportOpen] = useState(false);
   const [mode, setMode] = useState('import');
   const [csvText, setCsvText] = useState('');
+  const fileRead = useRef(0);
   const [targetCategory, setTargetCategory] = useState('');
   const [removed, setRemoved] = useState(false);
   const [trash, setTrash] = useState([]);
@@ -213,19 +214,22 @@ export default function CardManager({
     download(`${contentFields.join(',')}\n`, `${slug}-template.csv`);
   async function readCsv(event) {
     const file = event.target.files?.[0];
-    setError('');
     if (!file) return;
+    const read = ++fileRead.current;
+    event.target.value = '';
+    setError('');
+    setCsvText('');
+    setPending(null);
     if (file.size > MAX_BODY_BYTES) {
       setError(`CSV must be at most ${MAX_BODY_BYTES / 1024} KB.`);
       return;
     }
     try {
-      setCsvText(await file.text());
-      setPending(null);
+      const text = await file.text();
+      if (fileRead.current === read) setCsvText(text);
     } catch {
-      setError('Unable to read this file.');
+      if (fileRead.current === read) setError('Unable to read this file.');
     }
-    event.target.value = '';
   }
   function review(action, rows, value) {
     setError('');
@@ -551,6 +555,7 @@ export default function CardManager({
                 <button
                   className="btn-secondary"
                   onClick={() => {
+                    fileRead.current++;
                     setCsvText('');
                     setPending(null);
                   }}

@@ -16,8 +16,12 @@ export function decodeSegment(value) {
 }
 
 export async function readBody(request) {
-  if (!request.headers.get('Content-Type')?.startsWith('application/json'))
-    fail(415, 'Send JSON data.');
+  const mediaType = request.headers
+    .get('Content-Type')
+    ?.split(';')[0]
+    .trim()
+    .toLowerCase();
+  if (mediaType !== 'application/json') fail(415, 'Send JSON data.');
   const reader = request.body?.getReader();
   if (!reader) fail(400, 'Missing request body.');
   let size = 0;

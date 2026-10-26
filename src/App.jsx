@@ -24,6 +24,7 @@ import DeckBar from './components/DeckBar';
 import CardViewer from './components/CardViewer';
 import RoundTimer from './components/RoundTimer';
 import AuroraBokehBackground from './components/AuroraBokehBackground';
+import ScreenErrorBoundary from './components/ScreenErrorBoundary';
 
 // Administrator screens (and the CSV parser they use) load only when opened.
 const CardManager = lazy(() => import('./components/CardManager'));
@@ -71,7 +72,20 @@ export default function App() {
     [games, isAdmin],
   );
 
+  const round = useRound();
+  const scoreboard = useScoreboard();
+  function present(on) {
+    setPresenting(on);
+    if (on) document.documentElement.requestFullscreen?.().catch(() => {});
+    else if (document.fullscreenElement)
+      document.exitFullscreen?.().catch(() => {});
+  }
+
   function selectGame(game) {
+    round.reset();
+    setTimerOpen(false);
+    setSuggesting(false);
+    if (presenting) present(false);
     if (game) rememberLastGame(game.id);
     setSelectedGame(game);
     setSelectedCategory(null);
@@ -86,7 +100,17 @@ export default function App() {
   const openStartGame = useEffectEvent((games) => {
     const id = pendingGame.current;
     pendingGame.current = '';
-    if (!id) return false;
+    if (!id) {
+      if (!selectedGame) return false;
+      const current = games.find((item) => item.id === selectedGame.id);
+      if (!current) {
+        selectGame(null);
+        setError('That game is not available. Choose another game.');
+        return false;
+      }
+      setSelectedGame(current);
+      return true;
+    }
     const game = games.find((item) => item.id === id);
     if (game) selectGame(game);
     else setError('That game is not available. Choose another game.');
@@ -114,6 +138,14 @@ export default function App() {
     };
   }, [retry]);
 
+  // Offline snapshots are anonymous. Revalidate identity, deck metadata and
+  // feedback after reconnecting so the UI reflects the current server state.
+  useEffect(() => {
+    const reconnect = () => setRetry((value) => value + 1);
+    window.addEventListener('online', reconnect);
+    return () => window.removeEventListener('online', reconnect);
+  }, []);
+
   useEffect(() => {
     if (!selectedGame) return;
     let active = true;
@@ -122,6 +154,11 @@ export default function App() {
         if (active) {
           setCards(data);
           setOrder(deckOrder(selectedGame.id, data));
+          setSelectedCategory((category) =>
+            category && data.some((card) => card.Category === category)
+              ? category
+              : null,
+          );
           setError('');
         }
       })
@@ -153,6 +190,7 @@ export default function App() {
 
   const onPopState = useEffectEvent(() => {
     const route = parseRoute(location.pathname);
+    if (round.running) round.toggle();
     setView(route.view);
     setFocusCard('');
     if (GAMELESS_VIEWS.includes(route.view)) return;
@@ -184,12 +222,6 @@ export default function App() {
   // rest of the page.
   const presentingActive =
     presenting && activeView === 'play' && Boolean(selectedGame);
-  function present(on) {
-    setPresenting(on);
-    if (on) document.documentElement.requestFullscreen?.().catch(() => {});
-    else if (document.fullscreenElement)
-      document.exitFullscreen?.().catch(() => {});
-  }
   useEffect(() => {
     if (!presentingActive) return;
     const onChange = () => {
@@ -207,8 +239,6 @@ export default function App() {
     };
   }, [presentingActive]);
 
-  const round = useRound();
-  const scoreboard = useScoreboard();
   // Each category with how many cards it holds, for the category picker.
   const categories = useMemo(() => {
     const counts = new Map();
@@ -230,6 +260,7 @@ export default function App() {
   }, [cards, order, selectedCategory]);
 
   function reshuffle() {
+    if (round.running) round.toggle();
     setOrder(deckOrder(selectedGame.id, cards, true));
     setShuffles((value) => value + 1);
   }
@@ -280,12 +311,18 @@ export default function App() {
         {...(play && {
           categories: selectedGame.hasCategories ? categories : [],
           category: selectedCategory,
-          onCategory: setSelectedCategory,
+          onCategory: (category) => {
+            if (round.running) round.toggle();
+            setSelectedCategory(category);
+          },
           onReshuffle: reshuffle,
           presenting: presentingActive,
           onPresent: () => present(!presentingActive),
           timerOpen,
-          onTimer: () => setTimerOpen((value) => !value),
+          onTimer: () => {
+            if (timerOpen && round.running) round.toggle();
+            setTimerOpen((value) => !value);
+          },
         })}
       />
     );
@@ -414,6 +451,9 @@ export default function App() {
 
   return (
     <div className={`app-container${presentingActive ? ' presenting' : ''}`}>
+      <a className="skip-link" href="#main-content">
+        Skip to content
+      </a>
       <AuroraBokehBackground />
       <header className={`app-header${compact ? ' compact' : ''}`}>
         <h1>
@@ -470,6 +510,7 @@ export default function App() {
                   : undefined
               }
               onClick={() => {
+                if (round.running) round.toggle();
                 setView(id);
                 setFocusCard('');
               }}
@@ -484,11 +525,18 @@ export default function App() {
           ))}
         </nav>
       )}
-      <main>
-        {!online && (
+      <main id="main-content" tabIndex={-1}>
+        {(!online || session?.offline) && (
           <p className="notice offline" role="status">
-            You’re offline. Decks you’ve opened before still work; votes,
-            suggestions and changes need a connection.
+            {!online ? 'You’re offline.' : 'Using a saved copy of your decks.'}{' '}
+            Decks you’ve opened before still work; votes, suggestions and
+            changes need a connection.{' '}
+            <button
+              className="btn-secondary"
+              onClick={() => setRetry((value) => value + 1)}
+            >
+              Retry connection
+            </button>
           </p>
         )}
         {error && (
@@ -499,7 +547,6 @@ export default function App() {
               onClick={() => {
                 setLoading(true);
                 setRetry((value) => value + 1);
-                if (selectedGame) refreshCards();
               }}
             >
               Retry
@@ -511,15 +558,19 @@ export default function App() {
             Loading games…
           </p>
         ) : (
-          <Suspense
-            fallback={
-              <p className="empty-state" role="status">
-                Loading…
-              </p>
-            }
+          <ScreenErrorBoundary
+            key={`${activeView}:${GAMELESS_VIEWS.includes(activeView) ? '' : selectedGame?.id || ''}`}
           >
-            {content}
-          </Suspense>
+            <Suspense
+              fallback={
+                <p className="empty-state" role="status">
+                  Loading…
+                </p>
+              }
+            >
+              {content}
+            </Suspense>
+          </ScreenErrorBoundary>
         )}
       </main>
       <footer>

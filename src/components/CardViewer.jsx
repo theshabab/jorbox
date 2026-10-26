@@ -52,11 +52,13 @@ export default function CardViewer({
   const current = Math.min(index, Math.max(0, cards.length - 1));
   const card = cards[current];
   const next = () => {
+    setRevealedId(null);
     setDirection('forward');
     if (current + 1 < cards.length) setIndex(current + 1);
     else setFinished(true);
   };
   const previous = () => {
+    setRevealedId(null);
     setDirection('back');
     if (finished) setFinished(false);
     else if (current > 0) setIndex(current - 1);
@@ -64,8 +66,7 @@ export default function CardViewer({
   // During a timed round the forward/back actions score the card instead.
   const scoring = Boolean(round?.running) && !finished;
   const score = (got) => {
-    round.record(card, got);
-    next();
+    if (round.record(card, got)) next();
   };
   const forward = () => (scoring ? score(true) : next());
   const back = () => (scoring ? score(false) : previous());
@@ -77,6 +78,9 @@ export default function CardViewer({
   const reveal = () => setRevealedId(card.id);
   const onKey = useEffectEvent((event) => {
     if (
+      !card ||
+      event.repeat ||
+      event.defaultPrevented ||
       event.altKey ||
       event.ctrlKey ||
       event.metaKey ||
@@ -154,6 +158,7 @@ export default function CardViewer({
               className="btn-secondary"
               onClick={() => {
                 setIndex(0);
+                setRevealedId(null);
                 setFinished(false);
               }}
             >
@@ -227,10 +232,12 @@ export default function CardViewer({
         <div className="viewer-controls">
           <button
             className="btn-secondary"
+            aria-label="Previous"
             disabled={current === 0 && !finished}
             onClick={previous}
           >
-            <ChevronLeft size={20} aria-hidden="true" /> Previous
+            <ChevronLeft size={20} aria-hidden="true" />{' '}
+            <span className="card-nav-label">Previous</span>
           </button>
           {!finished && (
             <CardFeedback
@@ -240,8 +247,14 @@ export default function CardViewer({
               onVote={onVote}
             />
           )}
-          <button className="btn-primary" disabled={finished} onClick={next}>
-            Next <ChevronRight size={20} aria-hidden="true" />
+          <button
+            className="btn-primary"
+            aria-label="Next"
+            disabled={finished}
+            onClick={next}
+          >
+            <span className="card-nav-label">Next</span>{' '}
+            <ChevronRight size={20} aria-hidden="true" />
           </button>
         </div>
       )}
