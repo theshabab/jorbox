@@ -1,105 +1,130 @@
-import { useEffect, useRef, useState } from 'react';
 import { Pause, Play, RotateCcw, X } from 'lucide-react';
+import { ROUND_LENGTHS } from '../utils/useRound';
 
-const PRESETS = [30, 60, 90, 120];
-const STORAGE_KEY = 'jorbox:timer';
 const format = (seconds) =>
   `${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, '0')}`;
-function storedDuration() {
-  try {
-    const value = Number(localStorage.getItem(STORAGE_KEY));
-    return PRESETS.includes(value) ? value : 60;
-  } catch {
-    return 60;
-  }
-}
 
-// Round timer for timed games such as charades. It counts from a fixed end time,
-// so it stays accurate even if the browser slows timers in the background.
-export default function RoundTimer({ onClose }) {
-  const [duration, setDuration] = useState(storedDuration);
-  const [remaining, setRemaining] = useState(duration);
-  const [running, setRunning] = useState(false);
-  const endAt = useRef(0);
-  useEffect(() => {
-    if (!running) return;
-    const id = setInterval(() => {
-      const left = Math.max(0, Math.ceil((endAt.current - Date.now()) / 1000));
-      setRemaining(left);
-      if (left === 0) {
-        setRunning(false);
-        navigator.vibrate?.([200, 100, 200]);
-      }
-    }, 250);
-    return () => clearInterval(id);
-  }, [running]);
-  function choose(value) {
-    setDuration(value);
-    setRemaining(value);
-    setRunning(false);
-    try {
-      localStorage.setItem(STORAGE_KEY, String(value));
-    } catch {
-      // The choice just will not be remembered.
-    }
-  }
-  function toggle() {
-    if (running) return setRunning(false);
-    const start = remaining === 0 ? duration : remaining;
-    endAt.current = Date.now() + start * 1000;
-    setRemaining(start);
-    setRunning(true);
-  }
-  const done = remaining === 0;
+// Timer, round summary and two-team scoreboard for timed party games.
+// The round state lives in App so the card view can record Got it / Skip.
+export default function RoundTimer({ round, scoreboard, onClose }) {
+  const got = round.results.filter((result) => result.got);
+  const skipped = round.results.length - got.length;
+  const finished = round.done && round.results.length > 0;
   return (
     <section
-      className={`round-timer glass-panel${done ? ' done' : remaining <= 10 && running ? ' warning' : ''}`}
+      className={`round-timer glass-panel${round.done ? ' done' : round.remaining <= 10 && round.running ? ' warning' : ''}`}
       aria-label="Round timer"
     >
-      <span className="timer-display" role="timer" aria-live="off">
-        {done ? 'Time’s up!' : format(remaining)}
-      </span>
-      <p className="sr-only" aria-live="assertive">
-        {done ? 'Time’s up!' : ''}
-      </p>
-      <div className="timer-controls">
-        <button
-          className="btn-primary"
-          onClick={toggle}
-          aria-label={running ? 'Pause timer' : 'Start timer'}
-        >
-          {running ? (
-            <Pause size={18} aria-hidden="true" />
-          ) : (
-            <Play size={18} aria-hidden="true" />
-          )}
-        </button>
-        <button
-          className="btn-secondary"
-          onClick={() => choose(duration)}
-          aria-label="Reset timer"
-        >
-          <RotateCcw size={18} aria-hidden="true" />
-        </button>
-        <label>
-          <span className="sr-only">Round length</span>
-          <select
-            value={duration}
-            onChange={(event) => choose(Number(event.target.value))}
+      <div className="timer-row">
+        <span className="timer-display" role="timer" aria-live="off">
+          {round.done ? 'Time’s up!' : format(round.remaining)}
+        </span>
+        <p className="sr-only" aria-live="assertive">
+          {round.done ? 'Time’s up!' : ''}
+        </p>
+        <div className="timer-controls">
+          <button
+            className="btn-primary"
+            onClick={round.toggle}
+            aria-label={round.running ? 'Pause timer' : 'Start timer'}
           >
-            {PRESETS.map((value) => (
-              <option key={value} value={value}>
-                {format(value)}
-              </option>
-            ))}
-          </select>
-        </label>
+            {round.running ? (
+              <Pause size={18} aria-hidden="true" />
+            ) : (
+              <Play size={18} aria-hidden="true" />
+            )}
+          </button>
+          <button
+            className="btn-secondary"
+            onClick={round.reset}
+            aria-label="Reset timer"
+          >
+            <RotateCcw size={18} aria-hidden="true" />
+          </button>
+          <label>
+            <span className="sr-only">Round length</span>
+            <select
+              value={round.duration}
+              onChange={(event) => round.choose(Number(event.target.value))}
+            >
+              {ROUND_LENGTHS.map((value) => (
+                <option key={value} value={value}>
+                  {format(value)}
+                </option>
+              ))}
+            </select>
+          </label>
+          <button
+            className="btn-secondary"
+            onClick={onClose}
+            aria-label="Close timer"
+          >
+            <X size={18} aria-hidden="true" />
+          </button>
+        </div>
+      </div>
+      {!round.running && !finished && round.remaining === round.duration && (
+        <p className="timer-help muted">
+          Start the timer, then tap <strong>Got it</strong> or{' '}
+          <strong>Skip</strong> for each card.
+        </p>
+      )}
+      {(round.running || finished) && round.results.length > 0 && (
+        <p className="round-tally" aria-live="polite">
+          {got.length} got it · {skipped} skipped
+        </p>
+      )}
+      {finished && (
+        <div className="round-summary">
+          <details>
+            <summary>Cards this round</summary>
+            <ul>
+              {round.results.map((result, index) => (
+                <li key={index} className={result.got ? 'got' : 'skipped'}>
+                  {result.got ? '✓' : '–'} {result.label}
+                </li>
+              ))}
+            </ul>
+          </details>
+          {got.length > 0 && (
+            <div className="button-row award">
+              {round.awarded ? (
+                <span className="muted">Points added.</span>
+              ) : (
+                scoreboard.teams.map((team, index) => (
+                  <button
+                    key={index}
+                    className="btn-secondary"
+                    onClick={() => {
+                      scoreboard.add(index, got.length);
+                      round.markAwarded();
+                    }}
+                  >
+                    +{got.length} to {team.name}
+                  </button>
+                ))
+              )}
+            </div>
+          )}
+        </div>
+      )}
+      <div className="scoreboard" aria-label="Scores">
+        {scoreboard.teams.map((team, index) => (
+          <label key={index} className="team">
+            <span className="sr-only">Team {index + 1} name</span>
+            <input
+              value={team.name}
+              maxLength={20}
+              onChange={(event) => scoreboard.rename(index, event.target.value)}
+            />
+            <strong aria-label={`${team.name} score`}>{team.score}</strong>
+          </label>
+        ))}
         <button
-          className="btn-secondary"
-          onClick={onClose}
-          aria-label="Close timer"
+          className="btn-secondary reset-scores"
+          onClick={scoreboard.reset}
         >
-          <X size={18} aria-hidden="true" />
+          Reset scores
         </button>
       </div>
     </section>

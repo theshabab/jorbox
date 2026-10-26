@@ -4,13 +4,14 @@ React 19 + Vite frontend, served by a Cloudflare Worker with a D1 database. Prod
 
 ## Structure
 
-- `src/App.jsx`: account state, section tabs, player view and lazily loaded administrator views. `GameSelector.jsx` (game tiles), `DeckBar.jsx`, `CardViewer.jsx` (keyboard/swipe, end of deck), `Dialog.jsx` (modal dialogs with focus return), `RoundTimer.jsx`. `src/utils/route.js`: screen URLs and history; `useWakeLock.js`: keeps the screen on while playing.
+- `src/App.jsx`: account state, section tabs, player view and lazily loaded administrator views. `GameSelector.jsx` (game tiles), `DeckBar.jsx`, `CardViewer.jsx` (keyboard/swipe, end of deck), `Dialog.jsx` (modal dialogs with focus return), `RoundTimer.jsx` (timer, round tally, scoreboard), `CardText.jsx` (word chips, scales, blanks), `SuggestCard.jsx` and `SuggestionsReview.jsx` (player suggestions and the admin queue). `src/utils/useRound.js`: round and scoreboard state; `cardText.js`: text pattern detection; `route.js`: screen URLs and history; `useWakeLock.js`: keeps the screen on while playing. `public/sw.js` and `public/manifest.webmanifest`: offline play and home-screen install; the service worker caches only player data (session, game list, opened decks), never admin data.
 - `src/components/GameManager.jsx`: game creation, format changes, removal and restoration.
 - `src/components/CardManager.jsx`, `BulkCardEditor.jsx`, `CardFields.jsx`: card management, reviewed bulk edits, CSV workflows and personal bulk feedback.
 - `src/utils/DataManager.js`: same-origin JSON API client.
 - `src/utils/cardFormats.js`: card format rules and limits shared by the frontend and the Worker. `cardCsv.js`: CSV parsing/export. `deckOrder.js`: per-tab shuffled order and position.
 - `src/components/DuplicateCards.jsx`, `CopyCards.jsx`, `CategoryManager.jsx`, `AdminReports.jsx`: deck organization and read-only administrator reports.
 - `worker/adminTools.js`, `http.js`: copy/category transactions, report queries, and shared request validation. Activity reports expose operation summaries, not saved card payloads.
+- `worker/suggestions.js`: player card suggestions and their reviewed accept/reject.
 - `worker/index.js`: API, GitHub OAuth, server authorization, voting, transactional game/card writes and auditing.
 - `worker/migrations/`: ordered D1 migrations. Add a migration for schema changes; do not rewrite applied migrations.
 - `data/seed/` (games.json and CSVs) and `worker/seed.sql`: original seed, not live production data. Kept out of `public/` so it is not served. `data/sources/`: raw source material for decks.
@@ -28,6 +29,7 @@ For a local Worker, configure ignored `.dev.vars`, then run `npm run db:migrate:
 - Require same-origin writes. Votes need a visitor identity issued by an earlier page load; never mint one on the vote itself. Validate formats and category requirements on the server as well as in the frontend.
 - Every selection-based bulk operation is atomic, limited to 100 cards and 512 KB, and must reject stale card versions and game-state races. Game writes require the current game version. A reviewed whole-category rename/merge may affect all cards in that category; guard it with the reviewed count, game version, and audit revision.
 - Copies must use current server-side source content, reject stale source/destination state, get new IDs, and start without votes. Never silently discard name/description fields to fit a destination format.
+- Player suggestions never change a deck by themselves. Accepting re-validates the card against the game, adds it as a new card without votes, and is audited; a suggestion is reviewed once.
 - Duplicate detection only suggests candidates. Require the existing review/removal flow to remove them; do not combine their votes.
 - Reports are administrator-only and read-only. Feedback summaries exclude removed cards/games; history can include removed games. Never expose sessions or raw saved payloads in reports.
 - Game and card removal are recoverable. Removed games cannot accept votes or card writes. Restoring a game retains card-level trash and feedback.

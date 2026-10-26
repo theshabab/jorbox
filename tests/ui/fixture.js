@@ -111,6 +111,8 @@ export async function startFixture({ seed = false } = {}) {
                   '.css': 'text/css',
                   '.svg': 'image/svg+xml',
                   '.html': 'text/html',
+                  '.png': 'image/png',
+                  '.webmanifest': 'application/manifest+json',
                 }[extname(file)] || 'application/octet-stream',
               ...security,
             },

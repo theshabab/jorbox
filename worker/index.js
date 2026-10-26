@@ -1,4 +1,5 @@
 import { decodeSegment, fail, json, readBody, statement } from './http.js';
+import { listSuggestions, reviewSuggestion, suggest } from './suggestions.js';
 import {
   copyCards,
   categories,
@@ -514,12 +515,19 @@ async function manageGame(request, env, user) {
       typeof data.clearCategories !== 'boolean'
     )
       fail(400, 'Choose whether to clear existing categories.');
+    if (
+      data.revealDescription !== undefined &&
+      typeof data.revealDescription !== 'boolean'
+    )
+      fail(400, 'Choose whether descriptions are hidden until revealed.');
     fields = {
       name: data.name.trim(),
       cardFormat: data.cardFormat,
       hasCategories: data.hasCategories,
       defaultCategory: data.defaultCategory?.trim() || '',
       clearCategories: !data.hasCategories && data.clearCategories === true,
+      // Optional so older clients keep working; an edit without it keeps the setting.
+      revealDescription: data.revealDescription,
     };
   }
   const operation = crypto.randomUUID();
@@ -540,7 +548,7 @@ async function manageGame(request, env, user) {
     statement(
       env,
       `INSERT INTO audit_log (id,github_id,login,game_id,action,details) SELECT ?,?,?,?,?,json_patch(json(?),json_object('before',
-      json(COALESCE((SELECT json_object('name',name,'cardFormat',card_format,'hasCategories',json(CASE WHEN has_categories THEN 'true' ELSE 'false' END),'version',version) FROM games WHERE id=?),'null'))))`,
+      json(COALESCE((SELECT json_object('name',name,'cardFormat',card_format,'hasCategories',json(CASE WHEN has_categories THEN 'true' ELSE 'false' END),'revealDescription',json(CASE WHEN reveal_description THEN 'true' ELSE 'false' END),'version',version) FROM games WHERE id=?),'null'))))`,
       operation,
       user.github_id,
       user.login,
@@ -554,11 +562,12 @@ async function manageGame(request, env, user) {
     statements.push(
       statement(
         env,
-        'INSERT INTO games (id,name,has_categories,card_format) VALUES (?,?,?,?)',
+        'INSERT INTO games (id,name,has_categories,card_format,reveal_description) VALUES (?,?,?,?,?)',
         id,
         fields.name,
         Number(fields.hasCategories),
         fields.cardFormat,
+        Number(fields.revealDescription === true),
       ),
     );
   } else if (action === 'edit') {
@@ -605,10 +614,13 @@ async function manageGame(request, env, user) {
     statements.push(
       statement(
         env,
-        'UPDATE games SET name=?,has_categories=?,card_format=?,version=version+1 WHERE id=?',
+        'UPDATE games SET name=?,has_categories=?,card_format=?,reveal_description=COALESCE(?,reveal_description),version=version+1 WHERE id=?',
         fields.name,
         Number(fields.hasCategories),
         fields.cardFormat,
+        fields.revealDescription === undefined
+          ? null
+          : Number(fields.revealDescription),
         id,
       ),
     );
@@ -674,6 +686,51 @@ async function activeGame(env, id) {
 
 const handlers = [
   [
+    'POST',
+    /^\/api\/games\/([^/]+)\/suggestions$/,
+    async ({ request, env, user, params }) => {
+      if (env.FEEDBACK_REQUIRE_LOGIN === 'true' && !user)
+        fail(401, 'Sign in to suggest cards.');
+      const game = await activeGame(env, params[0]);
+      await rateLimit(request, env, 'suggest', 10, { window: 3600 });
+      // Like votes, suggestions need an identity issued by an earlier page load.
+      const identity = await actor(request, env, user);
+      if (!identity.id) fail(403, 'Reload the page before suggesting a card.');
+      return suggest(request, env, game, identity.id, user);
+    },
+  ],
+  [
+    'GET',
+    /^\/api\/admin\/suggestions$/,
+    ({ env, url, user }) => {
+      requireAdmin(
+        user,
+        'Sign in to review suggestions.',
+        'Administrator access required.',
+      );
+      return listSuggestions(env, url);
+    },
+  ],
+  [
+    'POST',
+    /^\/api\/admin\/suggestions\/([^/]+)$/,
+    async ({ request, env, user, params }) => {
+      requireAdmin(
+        user,
+        'Sign in to review suggestions.',
+        'Administrator access required.',
+      );
+      await rateLimit(request, env, 'admin', 30);
+      return reviewSuggestion(
+        request,
+        env,
+        decodeSegment(params[0]),
+        user,
+        validateCard,
+      );
+    },
+  ],
+  [
     'GET',
     /^\/api\/session$/,
     async ({ request, env, user }) => {
@@ -689,6 +746,10 @@ const handlers = [
       });
       if (identity.cookie)
         response.headers.append('Set-Cookie', identity.cookie);
+      // Revalidated on every use, but a device may keep it so the app can start
+      // offline. Administrator endpoints stay no-store and are never kept.
+      response.headers.set('Cache-Control', 'private, no-cache');
+      response.headers.set('Vary', 'Cookie');
       return response;
     },
   ],
@@ -719,7 +780,7 @@ const handlers = [
       if (removed && !user?.isAdmin)
         fail(403, 'Administrator access required.');
       const { results } = await env.DB.prepare(
-        `SELECT g.id,g.name,g.has_categories AS hasCategories,g.card_format AS cardFormat,g.version,
+        `SELECT g.id,g.name,g.has_categories AS hasCategories,g.card_format AS cardFormat,g.reveal_description AS revealDescription,g.version,
       (SELECT COUNT(*) FROM cards WHERE game_id=g.id AND deleted_at IS NULL) AS cardCount
       FROM games g WHERE g.deleted_at IS ${removed ? 'NOT ' : ''}NULL
       ORDER BY CASE WHEN g.id GLOB 'game[0-9]*' AND SUBSTR(g.id,5) NOT GLOB '*[^0-9]*' THEN CAST(SUBSTR(g.id,5) AS INTEGER) ELSE 2147483647 END,g.name COLLATE NOCASE,g.id`,
@@ -729,6 +790,7 @@ const handlers = [
         results.map((game) => ({
           ...game,
           hasCategories: Boolean(game.hasCategories),
+          revealDescription: Boolean(game.revealDescription),
         })),
       );
     },

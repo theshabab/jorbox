@@ -1426,3 +1426,215 @@ test('signing in moves anonymous votes to the account so one person counts once'
   }
   await db.prepare("DELETE FROM votes WHERE card_id='other'").run();
 });
+
+test('games can hide descriptions until revealed; edits without the flag keep it', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%'").run();
+  const game = await createGame({ name: 'Quiz' });
+  assert.equal(game.revealDescription, false);
+  assert.equal(
+    (await gameWrite('edit', { ...game, revealDescription: true })).status,
+    200,
+  );
+  let updated = (await (await request('/games')).json()).find(
+    (row) => row.id === game.id,
+  );
+  assert.equal(updated.revealDescription, true);
+  // An older client that does not send the flag must not switch it off.
+  const { revealDescription: _omit, ...legacy } = updated;
+  assert.equal(
+    (await gameWrite('edit', { ...legacy, name: 'Quiz night' })).status,
+    200,
+  );
+  updated = (await (await request('/games')).json()).find(
+    (row) => row.id === game.id,
+  );
+  assert.equal(updated.revealDescription, true);
+  assert.equal(
+    (await gameWrite('edit', { ...updated, revealDescription: 'yes' })).status,
+    400,
+  );
+  const audit = JSON.parse(
+    (
+      await db
+        .prepare(
+          "SELECT details FROM audit_log WHERE game_id=? AND action='game:edit' ORDER BY rowid DESC LIMIT 1",
+        )
+        .bind(game.id)
+        .first()
+    ).details,
+  );
+  assert.equal(audit.before.revealDescription, true);
+  assert.equal(
+    (await createGame({ name: 'Answers hidden', revealDescription: true }))
+      .revealDescription,
+    true,
+  );
+});
+
+test('players suggest cards; administrators accept with edits or reject, once, with an audit', async () => {
+  await db
+    .prepare(
+      "DELETE FROM rate_limits WHERE key LIKE 'admin:%' OR key LIKE 'suggest:%' OR key LIKE 'visitor:%'",
+    )
+    .run();
+  const game = await createGame({
+    name: 'Suggest deck',
+    hasCategories: true,
+    cardFormat: 'name-description',
+  });
+  const visitor = (await request('/session')).headers
+    .get('Set-Cookie')
+    .split(';')[0];
+  const suggestCard = (card, cookie = visitor, extra = {}) =>
+    request(`/games/${game.id}/suggestions`, { data: card, cookie, ...extra });
+  // Players need a page-load identity and must fit the format (category optional).
+  assert.equal(
+    (await suggestCard({ Name: 'Chai', Description: 'Hot drink' }, null))
+      .status,
+    403,
+  );
+  assert.equal((await suggestCard({ Name: 'Only a name' })).status, 400);
+  assert.equal(
+    (await suggestCard({ Name: 'Chai', Description: 'Hot drink' })).status,
+    201,
+  );
+  assert.equal(
+    (
+      await suggestCard(
+        { Name: 'Lassi', Description: 'Cold drink', Category: 'Drinks' },
+        userCookie,
+      )
+    ).status,
+    201,
+  );
+  assert.equal(
+    (
+      await suggestCard({ Name: 'x', Description: 'y' }, visitor, {
+        requestOrigin: 'https://attacker.test',
+      })
+    ).status,
+    403,
+  );
+  // Only administrators can see or review the queue.
+  assert.equal(
+    (await request('/admin/suggestions', { cookie: userCookie })).status,
+    403,
+  );
+  const queue = await (
+    await request('/admin/suggestions', { cookie: adminCookie })
+  ).json();
+  const mine = queue.suggestions.filter((row) => row.gameId === game.id);
+  assert.equal(mine.length, 2);
+  assert.ok(queue.pending >= 2);
+  const chai = mine.find((row) => row.Name === 'Chai');
+  const lassi = mine.find((row) => row.Name === 'Lassi');
+  assert.equal(chai.login, '');
+  assert.equal(lassi.login, 'ordinary-user');
+  assert.ok(!JSON.stringify(queue).includes('visitor:'));
+  const review = (id, data, cookie = adminCookie) =>
+    request(`/admin/suggestions/${id}`, { data, cookie });
+  assert.equal(
+    (
+      await review(
+        chai.id,
+        { action: 'accept', card: { Name: 'Chai' } },
+        userCookie,
+      )
+    ).status,
+    403,
+  );
+  // Accepting must still satisfy the game: categories are required here.
+  assert.equal(
+    (
+      await review(chai.id, {
+        action: 'accept',
+        card: { Name: 'Chai', Description: 'Hot drink' },
+      })
+    ).status,
+    400,
+  );
+  const accepted = await review(chai.id, {
+    action: 'accept',
+    card: { Name: 'Doodh Patti', Description: 'Hot drink', Category: 'Drinks' },
+  });
+  assert.equal(accepted.status, 200);
+  const { cardId } = await accepted.json();
+  const [card] = await gameCards(game);
+  assert.deepEqual(
+    [card.id, card.Name, card.Category, card.likes],
+    [cardId, 'Doodh Patti', 'Drinks', 0],
+  );
+  // A suggestion can be reviewed only once.
+  assert.equal((await review(chai.id, { action: 'reject' })).status, 409);
+  assert.equal((await review(lassi.id, { action: 'reject' })).status, 200);
+  assert.equal((await gameCards(game)).length, 1);
+  const audits = (
+    await db
+      .prepare(
+        "SELECT action,details FROM audit_log WHERE game_id=? AND action LIKE 'suggestion:%' ORDER BY rowid",
+      )
+      .bind(game.id)
+      .all()
+  ).results;
+  assert.deepEqual(
+    audits.map((row) => row.action),
+    ['suggestion:accept', 'suggestion:reject'],
+  );
+  assert.equal(JSON.parse(audits[0].details).before.Name, 'Chai');
+  const reviewed = await (
+    await request('/admin/suggestions?status=accepted', { cookie: adminCookie })
+  ).json();
+  assert.ok(
+    reviewed.suggestions.some(
+      (row) => row.id === chai.id && row.cardId === cardId,
+    ),
+  );
+  assert.equal(
+    (await request('/admin/suggestions?status=other', { cookie: adminCookie }))
+      .status,
+    400,
+  );
+});
+
+test('suggestions are rate limited per network and capped per player', async (t) => {
+  let clock = Math.floor(Date.now() / 3600000) * 3600000;
+  t.mock.method(Date, 'now', () => clock);
+  await db
+    .prepare(
+      "DELETE FROM rate_limits WHERE key LIKE 'suggest:%' OR key LIKE 'visitor:%'",
+    )
+    .run();
+  const game = await createGame({ name: 'Busy deck' });
+  const visitor = (await request('/session')).headers
+    .get('Set-Cookie')
+    .split(';')[0];
+  for (let i = 0; i < 10; i++)
+    assert.equal(
+      (
+        await request(`/games/${game.id}/suggestions`, {
+          data: { Name: `Idea ${i}` },
+          cookie: visitor,
+        })
+      ).status,
+      201,
+    );
+  assert.equal(
+    (
+      await request(`/games/${game.id}/suggestions`, {
+        data: { Name: 'One more' },
+        cookie: visitor,
+      })
+    ).status,
+    429,
+  );
+  clock += 3600000;
+  assert.equal(
+    (
+      await request(`/games/${game.id}/suggestions`, {
+        data: { Name: 'Next hour' },
+        cookie: visitor,
+      })
+    ).status,
+    201,
+  );
+});

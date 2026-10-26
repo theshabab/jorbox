@@ -7,10 +7,13 @@ import {
   useRef,
   useState,
 } from 'react';
-import { Layers, Github } from 'lucide-react';
+import { Layers, Github, Lightbulb } from 'lucide-react';
 import { DataManager } from './utils/DataManager';
-import { deckOrder } from './utils/deckOrder';
+import { deckOrder, lastGameId, rememberLastGame } from './utils/deckOrder';
+import { useRound, useScoreboard } from './utils/useRound';
+import { useOnline } from './utils/useOnline';
 import {
+  GAMELESS_VIEWS,
   initialRoute,
   parseRoute,
   rememberReturn,
@@ -26,12 +29,15 @@ import AuroraBokehBackground from './components/AuroraBokehBackground';
 const CardManager = lazy(() => import('./components/CardManager'));
 const GameManager = lazy(() => import('./components/GameManager'));
 const AdminReports = lazy(() => import('./components/AdminReports'));
+const SuggestionsReview = lazy(() => import('./components/SuggestionsReview'));
+const SuggestCard = lazy(() => import('./components/SuggestCard'));
 
 const VIEWS = [
   ['play', 'Play'],
   ['cards', 'Manage cards'],
   ['games', 'Games & formats'],
   ['reports', 'Reports'],
+  ['suggestions', 'Suggestions'],
 ];
 
 export default function App() {
@@ -50,6 +56,10 @@ export default function App() {
   const [session, setSession] = useState(null);
   const [view, setView] = useState(startRoute.view);
   const [timerOpen, setTimerOpen] = useState(false);
+  const [suggesting, setSuggesting] = useState(false);
+  const [pendingSuggestions, setPendingSuggestions] = useState(0);
+  const [presenting, setPresenting] = useState(false);
+  const online = useOnline();
   const [focusCard, setFocusCard] = useState('');
   const [revision, setRevision] = useState(0);
   const [retry, setRetry] = useState(0);
@@ -62,6 +72,7 @@ export default function App() {
   );
 
   function selectGame(game) {
+    if (game) rememberLastGame(game.id);
     setSelectedGame(game);
     setSelectedCategory(null);
     setCards([]);
@@ -144,7 +155,7 @@ export default function App() {
     const route = parseRoute(location.pathname);
     setView(route.view);
     setFocusCard('');
-    if (route.view === 'games' || route.view === 'reports') return;
+    if (GAMELESS_VIEWS.includes(route.view)) return;
     const game = games.find((item) => item.id === route.gameId) || null;
     if ((game?.id ?? null) !== (selectedGame?.id ?? null)) selectGame(game);
   });
@@ -154,13 +165,60 @@ export default function App() {
     return () => window.removeEventListener('popstate', listener);
   }, []);
 
-  const categories = useMemo(
-    () =>
-      Array.from(
-        new Set(cards.map((card) => card.Category).filter(Boolean)),
-      ).sort(),
-    [cards],
-  );
+  // Administrators see how many suggestions are waiting on their tab.
+  useEffect(() => {
+    if (!isAdmin) return;
+    let active = true;
+    DataManager.fetchSuggestions()
+      .then((result) => {
+        if (active) setPendingSuggestions(result.pending);
+      })
+      .catch(() => {});
+    return () => {
+      active = false;
+    };
+  }, [isAdmin]);
+
+  // Full-screen mode shows only the card, for holding the phone up to the room.
+  // Browsers without the Fullscreen API (such as iPhone Safari) still hide the
+  // rest of the page.
+  const presentingActive =
+    presenting && activeView === 'play' && Boolean(selectedGame);
+  function present(on) {
+    setPresenting(on);
+    if (on) document.documentElement.requestFullscreen?.().catch(() => {});
+    else if (document.fullscreenElement)
+      document.exitFullscreen?.().catch(() => {});
+  }
+  useEffect(() => {
+    if (!presentingActive) return;
+    const onChange = () => {
+      if (!document.fullscreenElement) setPresenting(false);
+    };
+    const onKey = (event) => {
+      if (event.key === 'Escape' && !document.querySelector('dialog[open]'))
+        setPresenting(false);
+    };
+    document.addEventListener('fullscreenchange', onChange);
+    window.addEventListener('keydown', onKey);
+    return () => {
+      document.removeEventListener('fullscreenchange', onChange);
+      window.removeEventListener('keydown', onKey);
+    };
+  }, [presentingActive]);
+
+  const round = useRound();
+  const scoreboard = useScoreboard();
+  // Each category with how many cards it holds, for the category picker.
+  const categories = useMemo(() => {
+    const counts = new Map();
+    for (const card of cards)
+      if (card.Category)
+        counts.set(card.Category, (counts.get(card.Category) || 0) + 1);
+    return [...counts]
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => a.name.localeCompare(b.name));
+  }, [cards]);
   const playCards = useMemo(() => {
     const byId = new Map(cards.map((card) => [card.id, card]));
     return order
@@ -224,13 +282,27 @@ export default function App() {
           category: selectedCategory,
           onCategory: setSelectedCategory,
           onReshuffle: reshuffle,
+          presenting: presentingActive,
+          onPresent: () => present(!presentingActive),
           timerOpen,
           onTimer: () => setTimerOpen((value) => !value),
         })}
       />
     );
   let content;
-  if (activeView === 'reports')
+  if (activeView === 'suggestions')
+    content = (
+      <SuggestionsReview
+        games={games}
+        onPendingChange={setPendingSuggestions}
+        onOpenCards={(game, id) => {
+          selectGame(game);
+          setFocusCard(id);
+          setView('cards');
+        }}
+      />
+    );
+  else if (activeView === 'reports')
     content = (
       <AdminReports
         games={games}
@@ -242,13 +314,32 @@ export default function App() {
       />
     );
   else if (activeView === 'games')
-    content = <GameManager games={games} onChanged={refreshGames} />;
+    content = (
+      <GameManager
+        games={games}
+        onChanged={refreshGames}
+        onOpenCards={(game) => {
+          selectGame(game);
+          setView('cards');
+        }}
+      />
+    );
   else if (!session) content = null;
   else if (!selectedGame)
     content = (
       <GameSelector
         games={activeView === 'cards' ? games : playableGames}
         onSelectGame={selectGame}
+        intro={
+          activeView === 'play'
+            ? 'Pick a deck and pass the phone around. Swipe or use the ← → keys to move between cards.'
+            : ''
+        }
+        continueGame={
+          activeView === 'play'
+            ? playableGames.find((game) => game.id === lastGameId())
+            : null
+        }
         heading={
           activeView === 'cards'
             ? 'Choose a game to manage'
@@ -275,7 +366,16 @@ export default function App() {
     content = (
       <>
         {deckBar(true)}
-        {timerOpen && <RoundTimer onClose={() => setTimerOpen(false)} />}
+        {timerOpen && (
+          <RoundTimer
+            round={round}
+            scoreboard={scoreboard}
+            onClose={() => {
+              round.reset();
+              setTimerOpen(false);
+            }}
+          />
+        )}
         {loading ? (
           <p className="empty-state" role="status">
             Shuffling the deck…
@@ -289,13 +389,31 @@ export default function App() {
             session={session}
             onVote={onVote}
             onReshuffle={reshuffle}
+            revealDescription={selectedGame.revealDescription}
+            round={timerOpen ? round : null}
+          />
+        )}
+        {(session.user ||
+          (session.feedbackEnabled && !session.feedbackRequiresLogin)) && (
+          <p className="suggest-link">
+            <button className="link-button" onClick={() => setSuggesting(true)}>
+              <Lightbulb size={16} aria-hidden="true" /> Suggest a card for this
+              deck
+            </button>
+          </p>
+        )}
+        {suggesting && (
+          <SuggestCard
+            game={selectedGame}
+            categories={categories}
+            onClose={() => setSuggesting(false)}
           />
         )}
       </>
     );
 
   return (
-    <div className="app-container">
+    <div className={`app-container${presentingActive ? ' presenting' : ''}`}>
       <AuroraBokehBackground />
       <header className={`app-header${compact ? ' compact' : ''}`}>
         <h1>
@@ -346,17 +464,33 @@ export default function App() {
               key={id}
               className="tab"
               aria-current={activeView === id ? 'page' : undefined}
+              aria-label={
+                id === 'suggestions' && pendingSuggestions > 0
+                  ? `${label}, ${pendingSuggestions} waiting`
+                  : undefined
+              }
               onClick={() => {
                 setView(id);
                 setFocusCard('');
               }}
             >
               {label}
+              {id === 'suggestions' && pendingSuggestions > 0 && (
+                <span className="badge" aria-hidden="true">
+                  {pendingSuggestions}
+                </span>
+              )}
             </button>
           ))}
         </nav>
       )}
       <main>
+        {!online && (
+          <p className="notice offline" role="status">
+            You’re offline. Decks you’ve opened before still work; votes,
+            suggestions and changes need a connection.
+          </p>
+        )}
         {error && (
           <div className="error notice" role="alert">
             {error}{' '}

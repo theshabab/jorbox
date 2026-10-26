@@ -265,6 +265,8 @@ a {
   margin: 0 auto;
   position: relative;
   z-index: 1;
+  /* Card slide-ins must never make the page scroll sideways. */
+  overflow-x: clip;
 }
 
 /* Header: full on the home screen, compact once a game or admin section is open. */
@@ -586,13 +588,222 @@ h3 {
 
 /* Round timer */
 .round-timer {
+  display: grid;
+  gap: 0.6rem;
+  max-width: 600px;
+  margin: 0 auto 1rem;
+  padding: 0.6rem 0.9rem;
+}
+.timer-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  max-width: 600px;
-  margin: 0 auto 1rem;
-  padding: 0.6rem 0.9rem;
+}
+.timer-help,
+.round-tally {
+  font-size: 0.85rem;
+}
+.round-tally {
+  font-weight: 600;
+  color: #bbf7d0;
+}
+.round-summary {
+  display: grid;
+  gap: 0.6rem;
+}
+.round-summary summary {
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+.round-summary ul {
+  list-style: none;
+  max-height: 30vh;
+  overflow-y: auto;
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+}
+.round-summary li.got {
+  color: #bbf7d0;
+}
+.round-summary li.skipped {
+  color: var(--text-secondary);
+}
+.round-summary .award {
+  justify-content: flex-start;
+}
+.scoreboard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  border-top: 1px solid var(--border-color);
+  padding-top: 0.6rem;
+}
+.scoreboard .team {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex: 1 1 130px;
+}
+.scoreboard .team input {
+  flex: 1;
+  min-width: 0;
+  background: transparent;
+  color: var(--text-primary);
+  border: 1px solid transparent;
+  border-radius: 6px;
+  padding: 0.3rem 0.4rem;
+  font: inherit;
+  font-size: 0.9rem;
+}
+.scoreboard .team input:hover,
+.scoreboard .team input:focus {
+  border-color: rgba(255, 255, 255, 0.25);
+}
+.scoreboard .team strong {
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  min-width: 2ch;
+  text-align: right;
+}
+.scoreboard .reset-scores {
+  padding: 6px 10px;
+  font-size: 0.8rem;
+}
+
+/* Card layouts recognised from the text: word lists, scales, blanks */
+.word-chips {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.45rem;
+  max-height: 40vh;
+  overflow-y: auto;
+}
+.word-chips li {
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 144, 171, 0.45);
+  background: rgba(225, 29, 72, 0.12);
+  font-size: 1.05rem;
+}
+.playing-card h2.spectrum {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
+  width: 100%;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  -webkit-text-fill-color: currentColor;
+  background: none;
+  color: var(--text-primary);
+}
+.playing-card h2.spectrum span:first-child {
+  text-align: left;
+}
+.playing-card h2.spectrum span:last-child {
+  text-align: right;
+}
+.spectrum-bar {
+  height: 10px;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    #22017e,
+    #b985e5 50%,
+    var(--accent-primary)
+  );
+}
+.blank {
+  display: inline-block;
+  width: 4.5ch;
+  border-bottom: 2px solid #ff90ab;
+  margin: 0 0.15em;
+  vertical-align: baseline;
+}
+.reveal-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+.card-progress {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  border-radius: 0 3px 3px 0;
+  background: linear-gradient(
+    90deg,
+    var(--accent-secondary),
+    var(--accent-primary)
+  );
+}
+.card-enter-forward {
+  animation: cardInForward 0.22s ease-out;
+}
+.card-enter-back {
+  animation: cardInBack 0.22s ease-out;
+}
+@keyframes cardInForward {
+  from {
+    opacity: 0;
+    translate: 24px 0;
+  }
+}
+@keyframes cardInBack {
+  from {
+    opacity: 0;
+    translate: -24px 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .card-enter-forward,
+  .card-enter-back {
+    animation: none;
+  }
+}
+.viewer-controls.round-controls {
+  grid-template-columns: 1fr 1fr;
+}
+.round-controls > .btn-secondary,
+.round-controls > .btn-primary {
+  justify-self: stretch;
+}
+.got-it {
+  background: linear-gradient(135deg, #15803d, #22017e);
+}
+
+/* Home and admin helpers */
+.continue-game {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0 auto 1.5rem;
+}
+.game-picker-intro {
+  text-align: center;
+  margin: -0.75rem auto 1.25rem;
+  max-width: 520px;
+  font-size: 0.95rem;
+}
+.link-button {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: #ff90ab;
+  font: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.notice .undo {
+  margin-left: 0.75rem;
+  padding: 4px 12px;
+}
+.deck-empty p {
+  margin-bottom: 1rem;
 }
 .timer-display {
   font-family: var(--font-heading);
@@ -775,6 +986,7 @@ footer p + p {
 .toolbar {
   display: flex;
   flex-wrap: wrap;
+  justify-content: flex-start;
   gap: 0.6rem;
 }
 .toolbar .btn-primary,
@@ -1065,6 +1277,90 @@ td strong {
   padding: 0;
 }
 
+/* Card suggestions */
+.suggest-link {
+  text-align: center;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+.suggest-link .link-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.status-filter {
+  max-width: 260px;
+  margin-bottom: 1rem;
+}
+.suggestion-list {
+  list-style: none;
+  display: grid;
+  gap: 0.75rem;
+}
+.suggestion {
+  display: grid;
+  gap: 0.4rem;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+}
+.suggestion .category-badge {
+  justify-self: start;
+  margin-top: 0;
+}
+.suggestion-meta {
+  font-size: 0.85rem;
+}
+.suggestion-name {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  overflow-wrap: anywhere;
+}
+.suggestion .row-actions {
+  margin-top: 0.4rem;
+}
+.tab .badge {
+  margin-left: 0.4rem;
+}
+.notice.offline {
+  color: #fde68a;
+  text-align: center;
+}
+
+/* Full-screen mode: only the card and its controls, larger text */
+.presenting > .app-header,
+.presenting > .tab-bar,
+.presenting > footer,
+.presenting .viewer-hint,
+.presenting .suggest-link,
+.presenting .feedback-note {
+  display: none;
+}
+.presenting .deck-bar > :not(.present-toggle):not(.timer-toggle) {
+  display: none;
+}
+.presenting .deck-bar {
+  justify-content: flex-end;
+  max-width: none;
+}
+.presenting .card-viewer {
+  max-width: 900px;
+}
+.presenting .playing-card {
+  min-height: 62dvh;
+}
+.presenting .playing-card h2 {
+  font-size: clamp(2.2rem, 6vw, 4rem);
+}
+.presenting .card-description {
+  font-size: clamp(1.3rem, 3vw, 2rem);
+  max-height: none;
+}
+.presenting .word-chips li {
+  font-size: clamp(1.1rem, 2.6vw, 1.6rem);
+}
+
 @media (max-width: 600px) {
   .deck-bar .label-text {
     display: none;
@@ -1100,11 +1396,11 @@ td strong {
     width: 100%;
     margin-bottom: 1rem;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
   .tab {
-    padding: 0.45rem 0.3rem;
-    font-size: 0.78rem;
+    padding: 0.45rem 0.2rem;
+    font-size: 0.72rem;
     white-space: normal;
     line-height: 1.25;
   }
@@ -1127,7 +1423,7 @@ td strong {
     font-size: 0.8rem;
   }
   .deck-field {
-    flex-basis: 40%;
+    flex: 1 1 110px;
   }
   .deck-field select {
     padding: 0.5rem;

@@ -1,6 +1,8 @@
 // URLs for each screen, so the browser Back button, reloads and shared links work:
-// /, /play/:game, /cards, /cards/:game, /games, /reports
-const VIEWS = ['play', 'cards', 'games', 'reports'];
+// /, /play/:game, /cards, /cards/:game, /games, /reports, /suggestions
+const VIEWS = ['play', 'cards', 'games', 'reports', 'suggestions'];
+// Screens that do not belong to one game.
+export const GAMELESS_VIEWS = ['games', 'reports', 'suggestions'];
 const RETURN_KEY = 'jorbox:return';
 
 const decode = (value) => {
@@ -21,7 +23,7 @@ export function parseRoute(pathname) {
 }
 
 export function routePath(view, game) {
-  if (view === 'games' || view === 'reports') return `/${view}`;
+  if (GAMELESS_VIEWS.includes(view)) return `/${view}`;
   if (game) return `/${view}/${encodeURIComponent(game.id)}`;
   return view === 'play' ? '/' : '/cards';
 }
