@@ -26,6 +26,9 @@ export function useRound() {
   const [results, setResults] = useState([]);
   // Identifies a round, so its points can be awarded only once.
   const [number, setNumber] = useState(0);
+  // The round whose points were added. Kept with the round, not the timer panel,
+  // so hiding and reopening the panel cannot award the same round twice.
+  const [awardedRound, setAwardedRound] = useState(null);
   const endAt = useRef(0);
   useEffect(() => {
     if (!running) return;
@@ -52,6 +55,8 @@ export function useRound() {
     done: remaining === 0,
     results,
     number,
+    awarded: awardedRound === number,
+    markAwarded: () => setAwardedRound(number),
     choose(length) {
       setDuration(length);
       reset(length);

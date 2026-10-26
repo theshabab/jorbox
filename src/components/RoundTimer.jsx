@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { Pause, Play, RotateCcw, X } from 'lucide-react';
 import { ROUND_LENGTHS } from '../utils/useRound';
 
@@ -8,8 +7,6 @@ const format = (seconds) =>
 // Timer, round summary and two-team scoreboard for timed party games.
 // The round state lives in App so the card view can record Got it / Skip.
 export default function RoundTimer({ round, scoreboard, onClose }) {
-  // Which round's points were already added, so a tally is not counted twice.
-  const [awarded, setAwarded] = useState(null);
   const got = round.results.filter((result) => result.got);
   const skipped = round.results.length - got.length;
   const finished = round.done && round.results.length > 0;
@@ -91,7 +88,7 @@ export default function RoundTimer({ round, scoreboard, onClose }) {
           </details>
           {got.length > 0 && (
             <div className="button-row award">
-              {awarded === round.number ? (
+              {round.awarded ? (
                 <span className="muted">Points added.</span>
               ) : (
                 scoreboard.teams.map((team, index) => (
@@ -100,7 +97,7 @@ export default function RoundTimer({ round, scoreboard, onClose }) {
                     className="btn-secondary"
                     onClick={() => {
                       scoreboard.add(index, got.length);
-                      setAwarded(round.number);
+                      round.markAwarded();
                     }}
                   >
                     +{got.length} to {team.name}

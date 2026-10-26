@@ -607,6 +607,11 @@ test('timed rounds score Got it and Skip, summarise, and award points once', asy
   await page.getByLabel('Team 1 name').fill('Blue');
   await button(page, '+2 to Blue').click();
   await page.getByText('Points added.').waitFor();
+  // Hiding and reopening the timer must not allow the same round again.
+  await page.getByRole('button', { name: 'Timer', exact: true }).click();
+  await page.getByRole('button', { name: 'Timer', exact: true }).click();
+  await page.getByText('Points added.').waitFor();
+  assert.equal(await button(page, '+2 to Blue').count(), 0);
   assert.equal(await page.getByLabel('Blue score').textContent(), '2');
   await shot(page, 'round-summary-mobile');
   // Scores last for the evening (the browser tab).
