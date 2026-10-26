@@ -83,6 +83,17 @@ async function axe(page, label) {
   // Evaluated over CDP, which the page's CSP does not apply to (inline <script> is blocked).
   if (!(await page.evaluate(() => Boolean(window.axe))))
     await page.evaluate(axeSource);
+  // Scan settled pages only: a control fading in from disabled has mid-way colours.
+  // Endless decorative animations (the background) are ignored.
+  await page.waitForFunction(() =>
+    document
+      .getAnimations()
+      .every(
+        (animation) =>
+          animation.playState !== 'running' ||
+          animation.effect?.getTiming().iterations === Infinity,
+      ),
+  );
   page.axeRunning = true;
   const { violations } = await page.evaluate(() =>
     window.axe.run(document, {
@@ -692,4 +703,147 @@ test('admins can undo a removal, download a template, and start an empty deck', 
   await page.getByLabel('CSV file').waitFor();
   assert.deepEqual(problems, []);
   await close();
+});
+
+test('players suggest cards and administrators review them from the queue', async () => {
+  const player = await open({ viewport: PHONE });
+  await player.page.goto(`${fixture.origin}/play/game10`);
+  await player.page.locator('.playing-card').waitFor();
+  await button(player.page, 'Suggest a card for this deck').click();
+  const form = player.page.getByRole('dialog', {
+    name: 'Suggest a card for Aik Rangi Soch',
+  });
+  await form
+    .getByLabel('Name', { exact: true })
+    .fill('Name a sweet you eat at Eid.');
+  await button(player.page, 'Send suggestion').click();
+  await form
+    .getByText('Thanks! An administrator will review your card')
+    .waitFor();
+  await button(player.page, 'Suggest another').click();
+  await form
+    .getByLabel('Name', { exact: true })
+    .fill('Name something you dislike.');
+  await button(player.page, 'Send suggestion').click();
+  await form.getByText('Thanks!', { exact: false }).waitFor();
+  await axe(player.page, 'suggest dialog');
+  assert.deepEqual(player.problems, []);
+  await player.close();
+
+  const { page, problems, close } = await open({ admin: true });
+  const tab = page.getByRole('button', { name: /^Suggestions, \d+ waiting$/ });
+  await tab.waitFor();
+  await tab.click();
+  assert.equal(new URL(page.url()).pathname, '/suggestions');
+  const sweet = page
+    .locator('.suggestion')
+    .filter({ hasText: 'Name a sweet you eat at Eid.' });
+  await sweet.getByText('Anonymous player').waitFor();
+  await sweet.getByRole('button', { name: 'Review & accept' }).click();
+  const accept = page.getByRole('dialog', {
+    name: 'Accept into Aik Rangi Soch',
+  });
+  await accept
+    .getByLabel('Name', { exact: true })
+    .fill('Name a sweet you eat at Eid?');
+  await button(page, 'Add card to deck').click();
+  await page
+    .getByRole('status')
+    .filter({ hasText: 'Card added to Aik Rangi Soch.' })
+    .waitFor();
+  const cards = await page.evaluate(() =>
+    fetch('/api/games/game10/cards').then((r) => r.json()),
+  );
+  assert.ok(cards.some((card) => card.Name === 'Name a sweet you eat at Eid?'));
+  await page
+    .locator('.suggestion')
+    .filter({ hasText: 'Name something you dislike.' })
+    .getByRole('button', { name: 'Reject' })
+    .click();
+  await button(page, 'Reject suggestion').click();
+  await page
+    .getByRole('status')
+    .filter({ hasText: 'Suggestion rejected.' })
+    .waitFor();
+  await page
+    .getByText('No suggestions are waiting.', { exact: false })
+    .waitFor();
+  assert.equal(await button(page, 'Suggestions').count(), 1); // Badge gone.
+  await page.getByLabel('Show').selectOption('accepted');
+  await page
+    .locator('.suggestion')
+    .first()
+    .getByRole('button', { name: 'View card' })
+    .click();
+  await page
+    .getByRole('heading', { name: 'Manage Aik Rangi Soch', exact: true })
+    .waitFor();
+  assert.equal(
+    await page.locator('[aria-label="Card management"] tbody tr').count(),
+    1,
+  );
+  await page.goto(`${fixture.origin}/suggestions`);
+  await page.getByLabel('Show').waitFor();
+  await axe(page, 'suggestions review');
+  assert.deepEqual(problems, []);
+  await close();
+});
+
+test('opened decks keep working offline after the app has loaded once', async () => {
+  const { page, close } = await open({ viewport: PHONE });
+  await page.goto(`${fixture.origin}/play/game12`);
+  await page.locator('.playing-card').waitFor();
+  // Wait until the service worker controls the page, then load the deck once more
+  // through it so it is saved.
+  await page.evaluate(() => navigator.serviceWorker.ready);
+  await page.reload();
+  await page.locator('.playing-card').waitFor();
+  assert.ok(
+    await page.evaluate(() => Boolean(navigator.serviceWorker.controller)),
+  );
+  const card = await page.locator('.playing-card h2').textContent();
+  await page.context().setOffline(true);
+  await page.reload();
+  await page.locator('.playing-card').waitFor();
+  assert.equal(await page.locator('.playing-card h2').textContent(), card);
+  await page.getByText('You’re offline.', { exact: false }).first().waitFor();
+  await page.getByRole('button', { name: 'Like', exact: true }).click();
+  await page.getByRole('alert').filter({ hasText: 'offline' }).waitFor();
+  await shot(page, 'offline-mobile');
+  await page.context().setOffline(false);
+  await close();
+});
+
+test('full-screen mode shows only the card and exits with Escape', async () => {
+  const { page, problems, close } = await open({ viewport: PHONE });
+  await page.goto(`${fixture.origin}/play/game7`);
+  await page.locator('.playing-card').waitFor();
+  await page.getByRole('button', { name: 'Full screen', exact: true }).click();
+  await page.locator('.app-container.presenting').waitFor();
+  assert.equal(await page.locator('.app-header').isVisible(), false);
+  assert.equal(await page.locator('#game-select').isVisible(), false);
+  assert.ok(await inViewport(button(page, 'Next')));
+  await shot(page, 'full-screen-mobile');
+  await page.keyboard.press('Escape');
+  await page
+    .locator('.app-container.presenting')
+    .waitFor({ state: 'detached' });
+  assert.ok(await page.locator('.app-header').isVisible());
+  assert.deepEqual(problems, []);
+  await close();
+});
+
+test('the app can be installed: manifest and icons are served correctly', async () => {
+  const manifest = await (
+    await fetch(`${fixture.origin}/manifest.webmanifest`)
+  ).json();
+  assert.equal(manifest.display, 'standalone');
+  assert.ok(manifest.icons.some((icon) => icon.purpose === 'maskable'));
+  for (const icon of manifest.icons) {
+    const response = await fetch(`${fixture.origin}${icon.src}`);
+    assert.equal(response.status, 200);
+    assert.equal(response.headers.get('Content-Type'), 'image/png');
+    const bytes = new Uint8Array(await response.arrayBuffer());
+    assert.deepEqual([...bytes.slice(1, 4)], [80, 78, 71]); // "PNG"
+  }
 });

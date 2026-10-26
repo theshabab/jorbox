@@ -8,6 +8,7 @@ export default function CardFields({
   game,
   onChange,
   categoryList = 'manager-categories',
+  categoryRequired = true,
 }) {
   const id = useId();
   return (
@@ -45,10 +46,12 @@ export default function CardFields({
       )}
       {game.hasCategories && (
         <div className="field">
-          <label htmlFor={`${id}-category`}>Category</label>
+          <label htmlFor={`${id}-category`}>
+            Category{!categoryRequired && ' (optional)'}
+          </label>
           <input
             id={`${id}-category`}
-            required
+            required={categoryRequired}
             maxLength={CARD_LIMITS.Category}
             list={categoryList}
             value={card.Category}

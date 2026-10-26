@@ -1,4 +1,4 @@
-import { ArrowLeft, Shuffle, Timer } from 'lucide-react';
+import { ArrowLeft, Maximize, Minimize, Shuffle, Timer } from 'lucide-react';
 
 // Compact controls shown once a game is open: switch game, filter, reshuffle.
 export default function DeckBar({
@@ -12,11 +12,14 @@ export default function DeckBar({
   onReshuffle,
   onTimer,
   timerOpen = false,
+  onPresent,
+  presenting = false,
 }) {
   return (
     <div className="deck-bar">
-      <button className="btn-secondary" onClick={onHome}>
-        <ArrowLeft size={18} aria-hidden="true" /> All games
+      <button className="btn-secondary" onClick={onHome} aria-label="All games">
+        <ArrowLeft size={18} aria-hidden="true" />
+        <span className="label-text">All games</span>
       </button>
       <label className="deck-field">
         <span className="sr-only">Select Game</span>
@@ -63,13 +66,30 @@ export default function DeckBar({
       )}
       {onTimer && (
         <button
-          className="btn-secondary"
+          className="btn-secondary timer-toggle"
           onClick={onTimer}
           aria-pressed={timerOpen}
           aria-label="Timer"
         >
           <Timer size={18} aria-hidden="true" />
           <span className="label-text">Timer</span>
+        </button>
+      )}
+      {onPresent && (
+        <button
+          className="btn-secondary present-toggle"
+          onClick={onPresent}
+          aria-pressed={presenting}
+          aria-label={presenting ? 'Exit full screen' : 'Full screen'}
+        >
+          {presenting ? (
+            <Minimize size={18} aria-hidden="true" />
+          ) : (
+            <Maximize size={18} aria-hidden="true" />
+          )}
+          <span className="label-text">
+            {presenting ? 'Exit full screen' : 'Full screen'}
+          </span>
         </button>
       )}
     </div>

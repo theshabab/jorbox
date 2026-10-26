@@ -1,14 +1,24 @@
 export async function api(path, data) {
-  const response = await fetch(`/api${path}`, {
-    credentials: 'same-origin',
-    ...(data === undefined
-      ? {}
-      : {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(data),
-        }),
-  });
+  let response;
+  try {
+    response = await fetch(`/api${path}`, {
+      credentials: 'same-origin',
+      ...(data === undefined
+        ? {}
+        : {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data),
+          }),
+    });
+  } catch {
+    // fetch only rejects when the request never reached the server.
+    throw new Error(
+      navigator.onLine === false
+        ? 'You’re offline. Reconnect and try again.'
+        : 'Can’t reach JorBox right now. Check your connection and try again.',
+    );
+  }
   if (!response.headers.get('Content-Type')?.includes('application/json'))
     throw new Error(
       'Backend unavailable. Start the Cloudflare Worker to use this app.',
@@ -46,4 +56,10 @@ export const DataManager = {
       ...(value === undefined ? {} : { value }),
     }),
   logout: () => api('/auth/logout', {}),
+  suggest: (id, card) =>
+    api(`/games/${encodeURIComponent(id)}/suggestions`, card),
+  fetchSuggestions: (status = 'pending') =>
+    api(`/admin/suggestions?${new URLSearchParams({ status })}`),
+  reviewSuggestion: (id, data) =>
+    api(`/admin/suggestions/${encodeURIComponent(id)}`, data),
 };

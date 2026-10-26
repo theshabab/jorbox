@@ -1,4 +1,5 @@
 import { decodeSegment, fail, json, readBody, statement } from './http.js';
+import { listSuggestions, reviewSuggestion, suggest } from './suggestions.js';
 import {
   copyCards,
   categories,
@@ -684,6 +685,51 @@ async function activeGame(env, id) {
 }
 
 const handlers = [
+  [
+    'POST',
+    /^\/api\/games\/([^/]+)\/suggestions$/,
+    async ({ request, env, user, params }) => {
+      if (env.FEEDBACK_REQUIRE_LOGIN === 'true' && !user)
+        fail(401, 'Sign in to suggest cards.');
+      const game = await activeGame(env, params[0]);
+      await rateLimit(request, env, 'suggest', 10, { window: 3600 });
+      // Like votes, suggestions need an identity issued by an earlier page load.
+      const identity = await actor(request, env, user);
+      if (!identity.id) fail(403, 'Reload the page before suggesting a card.');
+      return suggest(request, env, game, identity.id, user);
+    },
+  ],
+  [
+    'GET',
+    /^\/api\/admin\/suggestions$/,
+    ({ env, url, user }) => {
+      requireAdmin(
+        user,
+        'Sign in to review suggestions.',
+        'Administrator access required.',
+      );
+      return listSuggestions(env, url);
+    },
+  ],
+  [
+    'POST',
+    /^\/api\/admin\/suggestions\/([^/]+)$/,
+    async ({ request, env, user, params }) => {
+      requireAdmin(
+        user,
+        'Sign in to review suggestions.',
+        'Administrator access required.',
+      );
+      await rateLimit(request, env, 'admin', 30);
+      return reviewSuggestion(
+        request,
+        env,
+        decodeSegment(params[0]),
+        user,
+        validateCard,
+      );
+    },
+  ],
   [
     'GET',
     /^\/api\/session$/,

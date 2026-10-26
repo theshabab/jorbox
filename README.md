@@ -13,6 +13,9 @@ Production URL: https://jorbox.haseebshah.workers.dev
 - **Timer** in the play view runs a 30-second to 2-minute round for timed games such as charades. While it runs, **Got it** and **Skip** (or → and ←, or a swipe) replace Previous/Next and tally the round. At “Time’s up!” the summary lists the cards; add the points to one of two renamable teams. The scoreboard lasts for the browser tab, and the round length is remembered on the device.
 - Cards are laid out from their text: `a | b | c` lists become word chips (banned words, word lists), `LOW <---> HIGH` becomes a scale, and `____` becomes a fill-in blank.
 - Games can hide the description until a player taps **Reveal answer** (or presses Space), for decks such as Trivia where it is the answer. Administrators switch this per game; migration `0005_reveal_description.sql` turns it on for the original Trivia deck.
+- **Suggest a card for this deck** (below the card) lets players propose a card in the deck's format; the category is optional. Suggestions need the same page-load identity as votes, are limited to 10 per network per hour and 25 waiting per player, and never change a deck by themselves. Administrators review them under **Suggestions** (the tab shows how many are waiting): **Review & accept** lets them edit the card before it is added as a new card with no votes, and **Reject** keeps it in the rejected list. Both are audited.
+- **Full screen** shows only the card and its controls in larger text, for holding the phone up to the room. Escape or the button exits it. Browsers without the Fullscreen API (such as iPhone Safari) still hide the rest of the page.
+- JorBox installs to the home screen and keeps working offline: after a deck has been opened once, it plays without a connection. Votes, suggestions and administrator changes need a connection; an offline notice says so. Only the session summary, the game list and opened decks are saved on the device, never administrator data.
 - The home screen offers **Continue** for the last game played on the device, category menus show how many cards each holds, and a thin bar shows progress through the deck.
 - GitHub OAuth with PKCE and expiring, HttpOnly server sessions. OAuth access tokens are used to verify identity and are not stored.
 - Card management restricted to `thehaseebshah` (GitHub ID `48080916`), checked on every write. Signing in alone does not grant editing access.
@@ -149,6 +152,9 @@ A daily Worker cron deletes expired sessions, OAuth states, and rate-limit bucke
 | GET / POST | `/api/games/:id/categories` | Administrator |
 | GET | `/api/admin/activity?game=:id&before=:cursor` | Administrator |
 | GET | `/api/admin/feedback?game=:id` | Administrator |
+| POST | `/api/games/:id/suggestions` | Public, with a page-load identity; `{Name, Description, Category?}` |
+| GET | `/api/admin/suggestions?status=pending\|accepted\|rejected` | Administrator |
+| POST | `/api/admin/suggestions/:id` | Administrator; `{action: "accept", card}` or `{action: "reject"}` |
 
 Bulk requests use `{action: "import" | "edit" | "remove" | "restore" | "feedback", cards: [...]}`. Each edited row has `id`, `version`, `Name`, `Description`, and `Category`. Removed/restored rows require `id` and `version`. Feedback rows additionally use `value` (`1`, `-1`, or `0`), or one top-level `value` for the whole selection. New rows use content fields without IDs. Card content must fit the game's format, and category-enabled games require a category.
 

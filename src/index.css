@@ -1277,6 +1277,90 @@ td strong {
   padding: 0;
 }
 
+/* Card suggestions */
+.suggest-link {
+  text-align: center;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+.suggest-link .link-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.status-filter {
+  max-width: 260px;
+  margin-bottom: 1rem;
+}
+.suggestion-list {
+  list-style: none;
+  display: grid;
+  gap: 0.75rem;
+}
+.suggestion {
+  display: grid;
+  gap: 0.4rem;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+}
+.suggestion .category-badge {
+  justify-self: start;
+  margin-top: 0;
+}
+.suggestion-meta {
+  font-size: 0.85rem;
+}
+.suggestion-name {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  overflow-wrap: anywhere;
+}
+.suggestion .row-actions {
+  margin-top: 0.4rem;
+}
+.tab .badge {
+  margin-left: 0.4rem;
+}
+.notice.offline {
+  color: #fde68a;
+  text-align: center;
+}
+
+/* Full-screen mode: only the card and its controls, larger text */
+.presenting > .app-header,
+.presenting > .tab-bar,
+.presenting > footer,
+.presenting .viewer-hint,
+.presenting .suggest-link,
+.presenting .feedback-note {
+  display: none;
+}
+.presenting .deck-bar > :not(.present-toggle):not(.timer-toggle) {
+  display: none;
+}
+.presenting .deck-bar {
+  justify-content: flex-end;
+  max-width: none;
+}
+.presenting .card-viewer {
+  max-width: 900px;
+}
+.presenting .playing-card {
+  min-height: 62dvh;
+}
+.presenting .playing-card h2 {
+  font-size: clamp(2.2rem, 6vw, 4rem);
+}
+.presenting .card-description {
+  font-size: clamp(1.3rem, 3vw, 2rem);
+  max-height: none;
+}
+.presenting .word-chips li {
+  font-size: clamp(1.1rem, 2.6vw, 1.6rem);
+}
+
 @media (max-width: 600px) {
   .deck-bar .label-text {
     display: none;
@@ -1312,11 +1396,11 @@ td strong {
     width: 100%;
     margin-bottom: 1rem;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
   .tab {
-    padding: 0.45rem 0.3rem;
-    font-size: 0.78rem;
+    padding: 0.45rem 0.2rem;
+    font-size: 0.72rem;
     white-space: normal;
     line-height: 1.25;
   }
@@ -1339,7 +1423,7 @@ td strong {
     font-size: 0.8rem;
   }
   .deck-field {
-    flex-basis: 40%;
+    flex: 1 1 110px;
   }
   .deck-field select {
     padding: 0.5rem;
