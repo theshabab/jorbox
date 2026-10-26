@@ -1,4 +1,4 @@
-import { ArrowLeft, Shuffle } from 'lucide-react';
+import { ArrowLeft, Shuffle, Timer } from 'lucide-react';
 
 // Compact controls shown once a game is open: switch game, filter, reshuffle.
 export default function DeckBar({
@@ -10,6 +10,8 @@ export default function DeckBar({
   category = null,
   onCategory,
   onReshuffle,
+  onTimer,
+  timerOpen = false,
 }) {
   return (
     <div className="deck-bar">
@@ -50,8 +52,24 @@ export default function DeckBar({
         </label>
       )}
       {onReshuffle && (
-        <button className="btn-secondary" onClick={onReshuffle}>
-          <Shuffle size={18} aria-hidden="true" /> Reshuffle
+        <button
+          className="btn-secondary"
+          onClick={onReshuffle}
+          aria-label="Reshuffle"
+        >
+          <Shuffle size={18} aria-hidden="true" />
+          <span className="label-text">Reshuffle</span>
+        </button>
+      )}
+      {onTimer && (
+        <button
+          className="btn-secondary"
+          onClick={onTimer}
+          aria-pressed={timerOpen}
+          aria-label="Timer"
+        >
+          <Timer size={18} aria-hidden="true" />
+          <span className="label-text">Timer</span>
         </button>
       )}
     </div>

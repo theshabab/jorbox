@@ -192,7 +192,13 @@ export default function CardManager({
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.download = `${game.id}${removed ? '-removed' : ''}.csv`;
+    // Readable, dated file names, e.g. "trivia-removed-2026-10-26.csv".
+    const slug =
+      game.name
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-|-$/g, '') || game.id;
+    link.download = `${slug}${removed ? '-removed' : ''}-${new Date().toISOString().slice(0, 10)}.csv`;
     link.click();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
   }

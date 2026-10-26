@@ -209,7 +209,7 @@ test('a reload keeps the shuffled order and position; reshuffle starts again', a
     at: await position(page),
   };
   await page.reload();
-  await page.locator('.game-tile').filter({ hasText: 'Trivia' }).click();
+  await page.locator('.playing-card').waitFor(); // The URL reopens the game.
   assert.deepEqual(
     {
       name: await page.locator('.playing-card h2').textContent(),
@@ -370,4 +370,125 @@ test('edit reviews show before/after text, and CSV round trips keep formula-like
   await roundTrip.getByText('No changes.').waitFor();
   assert.deepEqual(problems, []);
   await close();
+});
+
+test('URLs open games directly, survive reloads, and the Back button returns', async () => {
+  const { page, problems, close } = await open();
+  await page.goto(`${fixture.origin}/play/game9`);
+  await page.locator('.playing-card').waitFor();
+  assert.equal(await page.locator('#game-select').inputValue(), 'game9');
+  await page.keyboard.press('ArrowRight');
+  const card = await page.locator('.playing-card h2').textContent();
+  await page.reload();
+  await page.locator('.playing-card').waitFor();
+  assert.equal(await page.locator('.playing-card h2').textContent(), card);
+  await button(page, 'All games').click();
+  assert.equal(new URL(page.url()).pathname, '/');
+  await page.goBack();
+  await page.locator('.playing-card').waitFor();
+  assert.equal(new URL(page.url()).pathname, '/play/game9');
+  await page.goto(`${fixture.origin}/play/no-such-game`);
+  await page
+    .getByRole('alert')
+    .filter({ hasText: 'That game is not available' })
+    .waitFor();
+  assert.equal(new URL(page.url()).pathname, '/');
+  assert.deepEqual(problems, []);
+  await close();
+});
+
+test('administrator sections have their own URLs', async () => {
+  const { page, problems, close } = await open({ admin: true });
+  await page.goto(`${fixture.origin}/cards/demo`);
+  await page
+    .getByRole('heading', { name: 'Manage Demo Deck', exact: true })
+    .waitFor();
+  await button(page, 'Reports').click();
+  assert.equal(new URL(page.url()).pathname, '/reports');
+  await page.goBack();
+  await page
+    .getByRole('heading', { name: 'Manage Demo Deck', exact: true })
+    .waitFor();
+  assert.equal(
+    await button(page, 'Manage cards').getAttribute('aria-current'),
+    'page',
+  );
+  // A player opening an administrator URL just gets the player view.
+  const player = await open();
+  await player.page.goto(`${fixture.origin}/cards/demo`);
+  await player.page.locator('.playing-card').waitFor();
+  assert.equal(new URL(player.page.url()).pathname, '/play/demo');
+  await player.close();
+  assert.deepEqual(problems, []);
+  await close();
+});
+
+test('the round timer counts down, warns at the end, and remembers its length', async () => {
+  const { page, problems, close } = await open({ viewport: PHONE });
+  await page.clock.install();
+  await page.goto(`${fixture.origin}/play/game2`);
+  await page.locator('.playing-card').waitFor();
+  await page.getByRole('button', { name: 'Timer', exact: true }).click();
+  const timer = page.getByRole('timer');
+  assert.equal(await timer.textContent(), '1:00');
+  await page.getByLabel('Round length').selectOption('30');
+  await page.getByRole('button', { name: 'Start timer' }).click();
+  await page.clock.runFor(12_000);
+  assert.equal(await timer.textContent(), '0:18');
+  await page.getByRole('button', { name: 'Pause timer' }).click();
+  await page.clock.runFor(5_000);
+  assert.equal(await timer.textContent(), '0:18');
+  // Moving through cards keeps the timer running.
+  await page.getByRole('button', { name: 'Start timer' }).click();
+  await button(page, 'Next').click();
+  await page.clock.runFor(19_000);
+  assert.equal(await timer.textContent(), 'Time’s up!');
+  assert.ok(await inViewport(button(page, 'Next')));
+  await shot(page, 'timer-mobile');
+  await page.reload();
+  await page.getByRole('button', { name: 'Timer', exact: true }).click();
+  assert.equal(await page.getByRole('timer').textContent(), '0:30');
+  assert.deepEqual(problems, []);
+  await close();
+});
+
+test('players do not see empty games; administrators do', async () => {
+  const response = await fetch(`${fixture.origin}/api/games/manage`, {
+    method: 'POST',
+    headers: {
+      Cookie: 'jb_session=local-ui-test',
+      Origin: fixture.origin,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      action: 'create',
+      name: 'Empty Deck',
+      hasCategories: false,
+      cardFormat: 'flexible',
+    }),
+  });
+  assert.equal(response.status, 201);
+  const player = await open();
+  await player.page.locator('.game-tile').first().waitFor();
+  assert.equal(
+    await player.page
+      .locator('.game-tile')
+      .filter({ hasText: 'Empty Deck' })
+      .count(),
+    0,
+  );
+  await player.close();
+  const admin = await open({ admin: true });
+  await button(admin.page, 'Manage cards').click();
+  await admin.page
+    .locator('.game-tile')
+    .filter({ hasText: 'Empty Deck' })
+    .waitFor();
+  await button(admin.page, 'Play').click();
+  await admin.page
+    .locator('.game-tile')
+    .filter({ hasText: 'Empty Deck' })
+    .click();
+  await admin.page.getByText('This game has no cards yet.').waitFor();
+  await admin.close();
 });

@@ -1,6 +1,6 @@
 import { after, before, test } from 'node:test';
 import assert from 'node:assert/strict';
-import { readFileSync } from 'node:fs';
+import { readdirSync, readFileSync } from 'node:fs';
 import { Miniflare, convertV4MiniflareOptions } from 'miniflare';
 import worker from '../worker/index.js';
 
@@ -57,21 +57,12 @@ before(async () => {
     }),
   );
   db = await mf.getD1Database('DB');
-  await db.exec(
-    readFileSync('worker/migrations/0001_initial.sql', 'utf8')
-      .replace(/--[^\n]*/g, '')
-      .replaceAll('\n', ' '),
-  );
-  await db.exec(
-    readFileSync('worker/migrations/0002_game_management.sql', 'utf8')
-      .replace(/--[^\n]*/g, '')
-      .replaceAll('\n', ' '),
-  );
-  await db.exec(
-    readFileSync('worker/migrations/0003_admin_reports.sql', 'utf8')
-      .replace(/--[^\n]*/g, '')
-      .replaceAll('\n', ' '),
-  );
+  for (const file of readdirSync('worker/migrations').sort())
+    await db.exec(
+      readFileSync(`worker/migrations/${file}`, 'utf8')
+        .replace(/--[^\n]*/g, '')
+        .replaceAll('\n', ' '),
+    );
   await db.batch([
     db
       .prepare('INSERT INTO games (id,name,has_categories) VALUES (?,?,?)')
@@ -110,11 +101,16 @@ after(async () => {
   await mf?.dispose();
 });
 
-test('public decks preserve partial shapes and issue a persistent visitor cookie', async () => {
+test('public decks preserve partial shapes; only the session call issues a visitor cookie', async () => {
   const response = await request('/games/game2/cards');
   assert.equal(response.status, 200);
   assert.equal(response.headers.get('Cache-Control'), 'private, no-cache');
-  assert.match(response.headers.get('Set-Cookie'), /HttpOnly; SameSite=Lax/);
+  // Card reads never mint identities, so cookie-blocking browsers cannot use up a network's budget.
+  assert.equal(response.headers.get('Set-Cookie'), null);
+  assert.match(
+    (await request('/session')).headers.get('Set-Cookie'),
+    /HttpOnly; SameSite=Lax/,
+  );
   const [card] = await response.json();
   assert.equal(card.Name, '');
   assert.equal(card.Description, 'Description only');
@@ -1354,6 +1350,11 @@ test('audits keep previous card content and game settings; copies reject a stale
   const activityReport = await (
     await request(`/admin/activity?game=${game.id}`, { cookie: adminCookie })
   ).json();
+  assert.ok(
+    activityReport.entries.every(
+      (entry) => entry.actorLogin === 'thehaseebshah',
+    ),
+  );
   assert.ok(!JSON.stringify(activityReport).includes('Before'));
   const target = await createGame();
   assert.equal(

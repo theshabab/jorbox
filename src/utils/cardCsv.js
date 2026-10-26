@@ -6,10 +6,17 @@ import { cardErrors, MAX_BULK_ROWS } from './cardFormats.js';
 const unescapeFormula = (value) => value.replace(/^'(?=[=+\-@\t\r])/, '');
 const cell = (value) => unescapeFormula(value?.trim() || '').trim();
 
+// Spreadsheets in many regions save CSV with semicolons. Use one only when the
+// header row clearly uses it, so commas inside quoted text never matter.
+const delimiterFor = (text) => {
+  const header = text.split(/\r?\n/, 1)[0];
+  return header.includes(';') && !header.includes(',') ? ';' : ',';
+};
+
 export function parseCardCsv(text, game, mode) {
   const parsed = Papa.parse(text, {
     header: true,
-    delimiter: ',',
+    delimiter: delimiterFor(text),
     skipEmptyLines: 'greedy',
     transformHeader: (header) => header.trim().replace(/^\uFEFF/, ''),
   });

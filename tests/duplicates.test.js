@@ -54,3 +54,22 @@ test('duplicate keeper and extra selection remain deterministic across shuffled 
   );
   assert.deepEqual(findDuplicateGroups([]), []);
 });
+
+test('the copy with the most feedback is kept, then the oldest by natural ID order', () => {
+  const ids = (cards) =>
+    findDuplicateGroups(cards).map((group) => group.map((card) => card.id));
+  assert.deepEqual(
+    ids([
+      { id: 'game1-10', Name: 'Same' },
+      { id: 'game1-9', Name: 'Same' },
+    ]),
+    [['game1-9', 'game1-10']],
+  );
+  assert.deepEqual(
+    ids([
+      { id: 'game1-9', Name: 'Same', likes: 0, dislikes: 0 },
+      { id: 'game1-10', Name: 'Same', likes: 2, dislikes: 1 },
+    ]),
+    [['game1-10', 'game1-9']],
+  );
+});

@@ -164,3 +164,23 @@ test('export/import round trips keep text that starts like a spreadsheet formula
     ],
   );
 });
+
+test('semicolon CSVs from regional spreadsheet settings are accepted', () => {
+  const parsed = parseCardCsv(
+    'Name;Description\nKarachi;City, by the sea',
+    { hasCategories: false },
+    'import',
+  );
+  assert.deepEqual(parsed.errors, []);
+  assert.deepEqual(parsed.cards[0], {
+    Name: 'Karachi',
+    Description: 'City, by the sea',
+    Category: '',
+  });
+  // A comma header keeps semicolons inside text intact.
+  assert.equal(
+    parseCardCsv('Name\nA; B', { hasCategories: false }, 'import').cards[0]
+      .Name,
+    'A; B',
+  );
+});

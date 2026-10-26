@@ -118,9 +118,10 @@ export async function copyCards(request, env, source, user, validateCard) {
     ),
     statement(
       env,
-      'INSERT INTO audit_log (id,github_id,game_id,action,details) VALUES (?,?,?,?,?)',
+      'INSERT INTO audit_log (id,github_id,login,game_id,action,details) VALUES (?,?,?,?,?,?)',
       operation,
       user.github_id,
+      user.login,
       target.id,
       'copy',
       JSON.stringify({ sourceGameId: source.id, cards: copies }),
@@ -205,9 +206,10 @@ export async function renameCategory(request, env, game, user) {
     ),
     statement(
       env,
-      'INSERT INTO audit_log (id,github_id,game_id,action,details) VALUES (?,?,?,?,?)',
+      'INSERT INTO audit_log (id,github_id,login,game_id,action,details) VALUES (?,?,?,?,?,?)',
       operation,
       user.github_id,
+      user.login,
       game.id,
       'category:rename',
       JSON.stringify({
@@ -238,7 +240,7 @@ export async function activity(env, url) {
     fail(400, 'Invalid activity cursor.');
   const { results } = await statement(
     env,
-    `SELECT a.rowid AS cursor,a.id,a.github_id AS actorId,a.game_id AS gameId,g.name AS gameName,a.action,a.created_at AS createdAt,a.details FROM audit_log a LEFT JOIN games g ON g.id=a.game_id WHERE (?='' OR a.game_id=?) AND (? IS NULL OR a.rowid<?) ORDER BY a.rowid DESC LIMIT 51`,
+    `SELECT a.rowid AS cursor,a.id,a.github_id AS actorId,a.login AS actorLogin,a.game_id AS gameId,g.name AS gameName,a.action,a.created_at AS createdAt,a.details FROM audit_log a LEFT JOIN games g ON g.id=a.game_id WHERE (?='' OR a.game_id=?) AND (? IS NULL OR a.rowid<?) ORDER BY a.rowid DESC LIMIT 51`,
     gameId,
     gameId,
     before ? Number(before) : null,
@@ -256,6 +258,7 @@ export async function activity(env, url) {
       cursor: row.cursor,
       id: row.id,
       actorId: row.actorId,
+      actorLogin: row.actorLogin,
       gameId: row.gameId,
       gameName: row.gameName,
       action: row.action,

@@ -584,6 +584,61 @@ h3 {
   }
 }
 
+/* Round timer */
+.round-timer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 600px;
+  margin: 0 auto 1rem;
+  padding: 0.6rem 0.9rem;
+}
+.timer-display {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+.timer-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.timer-controls button {
+  display: inline-flex;
+  padding: 9px 12px;
+}
+.timer-controls select {
+  background: #12062b;
+  color: var(--text-primary);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 8px;
+  padding: 0.45rem;
+  font: inherit;
+}
+.round-timer.warning .timer-display {
+  color: #fda4af;
+}
+.round-timer.done {
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 24px var(--accent-glow);
+}
+.round-timer.done .timer-display {
+  color: #ff90ab;
+  animation: timerPulse 0.8s ease-in-out 3;
+}
+@keyframes timerPulse {
+  50% {
+    opacity: 0.35;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .round-timer.done .timer-display {
+    animation: none;
+  }
+}
+
 button[aria-pressed='true'] {
   border-color: var(--accent-primary);
   background: rgba(225, 29, 72, 0.2);
@@ -1011,6 +1066,16 @@ td strong {
 }
 
 @media (max-width: 600px) {
+  .deck-bar .label-text {
+    display: none;
+  }
+  .round-timer {
+    margin-bottom: 0.6rem;
+    padding: 0.4rem 0.6rem;
+  }
+  .timer-display {
+    font-size: 1.4rem;
+  }
   .app-container {
     padding: 0.75rem;
   }

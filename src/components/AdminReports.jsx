@@ -242,7 +242,7 @@ export default function AdminReports({ games, onOpenCards }) {
                     <th>Change</th>
                     <th>Game</th>
                     <th>Items</th>
-                    <th>Administrator ID</th>
+                    <th>Administrator</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -269,7 +269,10 @@ export default function AdminReports({ games, onOpenCards }) {
                         {entry.gameName || entry.gameId}
                       </td>
                       <td data-label="Items">{entry.changed}</td>
-                      <td data-label="Administrator">{entry.actorId}</td>
+                      <td data-label="Administrator">
+                        {entry.actorLogin || 'Unknown'}{' '}
+                        <span className="muted">({entry.actorId})</span>
+                      </td>
                     </tr>
                   ))}
                 </tbody>

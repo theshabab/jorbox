@@ -1,10 +1,25 @@
-import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
+import {
+  lazy,
+  Suspense,
+  useEffect,
+  useEffectEvent,
+  useMemo,
+  useRef,
+  useState,
+} from 'react';
 import { Layers, Github } from 'lucide-react';
 import { DataManager } from './utils/DataManager';
 import { deckOrder } from './utils/deckOrder';
+import {
+  initialRoute,
+  parseRoute,
+  rememberReturn,
+  routePath,
+} from './utils/route';
 import GameSelector from './components/GameSelector';
 import DeckBar from './components/DeckBar';
 import CardViewer from './components/CardViewer';
+import RoundTimer from './components/RoundTimer';
 import AuroraBokehBackground from './components/AuroraBokehBackground';
 
 // Administrator screens (and the CSV parser they use) load only when opened.
@@ -20,6 +35,9 @@ const VIEWS = [
 ];
 
 export default function App() {
+  const [startRoute] = useState(initialRoute);
+  const pendingGame = useRef(startRoute.gameId);
+  const routeSynced = useRef(false);
   const [games, setGames] = useState([]);
   const [selectedGame, setSelectedGame] = useState(null);
   // Cards in server (deck) order; the player view applies its own shuffled order.
@@ -30,28 +48,55 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [session, setSession] = useState(null);
-  const [view, setView] = useState('play');
+  const [view, setView] = useState(startRoute.view);
+  const [timerOpen, setTimerOpen] = useState(false);
   const [focusCard, setFocusCard] = useState('');
   const [revision, setRevision] = useState(0);
   const [retry, setRetry] = useState(0);
   const isAdmin = Boolean(session?.user?.isAdmin);
   const activeView = isAdmin ? view : 'play';
+  // Players only see games they can play; administrators also see empty decks.
+  const playableGames = useMemo(
+    () => (isAdmin ? games : games.filter((game) => game.cardCount > 0)),
+    [games, isAdmin],
+  );
+
+  function selectGame(game) {
+    setSelectedGame(game);
+    setSelectedCategory(null);
+    setCards([]);
+    setOrder([]);
+    setLoading(Boolean(game));
+    setFocusCard('');
+    setError('');
+  }
+  // Opens the game named in the starting URL once the game list has loaded.
+  // Returns whether a game was selected (it then keeps the loading state).
+  const openStartGame = useEffectEvent((games) => {
+    const id = pendingGame.current;
+    pendingGame.current = '';
+    if (!id) return false;
+    const game = games.find((item) => item.id === id);
+    if (game) selectGame(game);
+    else setError('That game is not available. Choose another game.');
+    return Boolean(game);
+  });
 
   useEffect(() => {
     let active = true;
     Promise.all([DataManager.fetchGames(), DataManager.fetchSession()])
       .then(([games, session]) => {
-        if (active) {
-          setGames(games);
-          setSession(session);
-          setError('');
-        }
+        if (!active) return;
+        setGames(games);
+        setSession(session);
+        setError('');
+        if (!openStartGame(games)) setLoading(false);
       })
       .catch((error) => {
-        if (active) setError(error.message);
-      })
-      .finally(() => {
-        if (active) setLoading(false);
+        if (active) {
+          setError(error.message);
+          setLoading(false);
+        }
       });
     return () => {
       active = false;
@@ -83,6 +128,32 @@ export default function App() {
     };
   }, [selectedGame, revision]);
 
+  // Keep the address bar in step with the screen: new screens push a history
+  // entry, and the first sync replaces the entry the page was loaded from.
+  useEffect(() => {
+    if (!session) return;
+    const path = routePath(activeView, selectedGame);
+    if (path !== location.pathname) {
+      if (routeSynced.current) history.pushState(null, '', path);
+      else history.replaceState(null, '', path);
+    }
+    routeSynced.current = true;
+  }, [session, activeView, selectedGame]);
+
+  const onPopState = useEffectEvent(() => {
+    const route = parseRoute(location.pathname);
+    setView(route.view);
+    setFocusCard('');
+    if (route.view === 'games' || route.view === 'reports') return;
+    const game = games.find((item) => item.id === route.gameId) || null;
+    if ((game?.id ?? null) !== (selectedGame?.id ?? null)) selectGame(game);
+  });
+  useEffect(() => {
+    const listener = () => onPopState();
+    window.addEventListener('popstate', listener);
+    return () => window.removeEventListener('popstate', listener);
+  }, []);
+
   const categories = useMemo(
     () =>
       Array.from(
@@ -100,15 +171,6 @@ export default function App() {
       );
   }, [cards, order, selectedCategory]);
 
-  function selectGame(game) {
-    setSelectedGame(game);
-    setSelectedCategory(null);
-    setCards([]);
-    setOrder([]);
-    setLoading(Boolean(game));
-    setFocusCard('');
-    setError('');
-  }
   function reshuffle() {
     setOrder(deckOrder(selectedGame.id, cards, true));
     setShuffles((value) => value + 1);
@@ -153,7 +215,7 @@ export default function App() {
   const deckBar = (play) =>
     selectedGame && (
       <DeckBar
-        games={games}
+        games={play ? playableGames : games}
         game={selectedGame}
         onSelectGame={selectGame}
         onHome={() => selectGame(null)}
@@ -162,6 +224,8 @@ export default function App() {
           category: selectedCategory,
           onCategory: setSelectedCategory,
           onReshuffle: reshuffle,
+          timerOpen,
+          onTimer: () => setTimerOpen((value) => !value),
         })}
       />
     );
@@ -183,7 +247,7 @@ export default function App() {
   else if (!selectedGame)
     content = (
       <GameSelector
-        games={games}
+        games={activeView === 'cards' ? games : playableGames}
         onSelectGame={selectGame}
         heading={
           activeView === 'cards'
@@ -211,6 +275,7 @@ export default function App() {
     content = (
       <>
         {deckBar(true)}
+        {timerOpen && <RoundTimer onClose={() => setTimerOpen(false)} />}
         {loading ? (
           <p className="empty-state" role="status">
             Shuffling the deck…
@@ -263,7 +328,11 @@ export default function App() {
             </>
           ) : (
             session?.githubEnabled && (
-              <a className="btn-secondary" href="/api/auth/github">
+              <a
+                className="btn-secondary"
+                href="/api/auth/github"
+                onClick={rememberReturn}
+              >
                 <Github size={18} aria-hidden="true" /> Sign in with GitHub
               </a>
             )

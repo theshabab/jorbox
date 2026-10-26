@@ -2,6 +2,7 @@ import { useEffect, useEffectEvent, useRef, useState } from 'react';
 import { ChevronLeft, ChevronRight, RotateCcw, Shuffle } from 'lucide-react';
 import CardFeedback from './CardFeedback';
 import { loadPosition, savePosition } from '../utils/deckOrder';
+import { useWakeLock } from '../utils/useWakeLock';
 
 const SWIPE_DISTANCE = 50;
 const typing = (target) =>
@@ -30,6 +31,7 @@ export default function CardViewer({
     );
   });
   const [finished, setFinished] = useState(false);
+  useWakeLock();
   const [tilt, setTilt] = useState({ x: 0, y: 0 });
   const [tiltEnabled] = useState(canTilt);
   const cardRef = useRef(null);
@@ -68,7 +70,13 @@ export default function CardViewer({
   }, []);
 
   if (!card)
-    return <p className="empty-state">No cards available in this category.</p>;
+    return (
+      <p className="empty-state">
+        {filter
+          ? 'No cards in this category yet.'
+          : 'This game has no cards yet.'}
+      </p>
+    );
 
   function handleMouseMove(event) {
     if (!tiltEnabled) return;

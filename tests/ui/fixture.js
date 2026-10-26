@@ -1,5 +1,5 @@
 import { createServer } from 'node:http';
-import { readFileSync } from 'node:fs';
+import { readdirSync, readFileSync } from 'node:fs';
 import { Miniflare, convertV4MiniflareOptions } from 'miniflare';
 import { fileURLToPath } from 'node:url';
 import { resolve, extname } from 'node:path';
@@ -38,13 +38,10 @@ export async function startFixture({ seed = false } = {}) {
     }),
   );
   const db = await mf.getD1Database('DB');
-  for (const file of [
-    '0001_initial.sql',
-    '0002_game_management.sql',
-    '0003_admin_reports.sql',
-  ])
+  const migrations = resolve(repositoryRoot, 'worker/migrations');
+  for (const file of readdirSync(migrations).sort())
     await db.exec(
-      readFileSync(resolve(repositoryRoot, 'worker/migrations', file), 'utf8')
+      readFileSync(resolve(migrations, file), 'utf8')
         .replace(/--[^\n]*/g, '')
         .replaceAll('\n', ' '),
     );

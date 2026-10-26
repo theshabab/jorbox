@@ -383,11 +383,12 @@ async function bulk(request, env, game, user) {
   statements.push(
     statement(
       env,
-      `INSERT INTO audit_log (id,github_id,game_id,action,details) SELECT ?,?,?,?,json_object('cards',json(?),'before',
+      `INSERT INTO audit_log (id,github_id,login,game_id,action,details) SELECT ?,?,?,?,?,json_object('cards',json(?),'before',
       json(CASE WHEN ?='import' THEN '[]' ELSE (SELECT json_group_array(json_object('id',c.id,'version',c.version,'Name',c.name,'Description',c.description,'Category',c.category))
       FROM cards c JOIN json_each(?) j ON c.id=json_extract(j.value,'$.id') WHERE c.game_id=?) END))`,
       operation,
       user.github_id,
+      user.login,
       game.id,
       action,
       JSON.stringify(rows),
@@ -538,10 +539,11 @@ async function manageGame(request, env, user) {
   statements.push(
     statement(
       env,
-      `INSERT INTO audit_log (id,github_id,game_id,action,details) SELECT ?,?,?,?,json_patch(json(?),json_object('before',
+      `INSERT INTO audit_log (id,github_id,login,game_id,action,details) SELECT ?,?,?,?,?,json_patch(json(?),json_object('before',
       json(COALESCE((SELECT json_object('name',name,'cardFormat',card_format,'hasCategories',json(CASE WHEN has_categories THEN 'true' ELSE 'false' END),'version',version) FROM games WHERE id=?),'null'))))`,
       operation,
       user.github_id,
+      user.login,
       id,
       `game:${action}`,
       JSON.stringify(fields || { version: data.version }),
@@ -808,7 +810,7 @@ const handlers = [
       const removed = url.searchParams.get('removed') === 'true';
       if (removed && !user?.isAdmin)
         fail(403, 'Administrator access required.');
-      const identity = await actor(request, env, user, { issue: true });
+      const identity = await actor(request, env, user, { issue: false });
       const { results } = await env.DB.prepare(
         `SELECT c.id,c.name AS Name,c.description AS Description,c.category AS Category,c.version,
         COALESCE(SUM(v.value=1),0) AS likes,COALESCE(SUM(v.value=-1),0) AS dislikes,
