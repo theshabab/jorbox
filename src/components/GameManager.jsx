@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { DataManager } from '../utils/DataManager';
 import { CARD_FORMATS } from '../utils/cardFormats';
+import Dialog from './Dialog';
 
 const newGame = {
   name: '',
@@ -79,7 +80,7 @@ export default function GameManager({ games, onChanged }) {
           </p>
         </div>
       </div>
-      {error && (
+      {error && !pending && (
         <p className="notice error" role="alert">
           {error}
         </p>
@@ -115,7 +116,7 @@ export default function GameManager({ games, onChanged }) {
         </div>
         {loading && <p role="status">Loading games…</p>}
         <div className="table-scroll">
-          <table>
+          <table className="stack-table">
             <thead>
               <tr>
                 <th>Game</th>
@@ -133,16 +134,16 @@ export default function GameManager({ games, onChanged }) {
                       <p className="muted">With categories</p>
                     )}
                   </td>
-                  <td>
+                  <td data-label="Format">
                     {
                       CARD_FORMATS.find(
                         (format) => format.value === game.cardFormat,
                       )?.label
                     }
                   </td>
-                  <td>{game.cardCount}</td>
+                  <td data-label="Cards">{game.cardCount.toLocaleString()}</td>
                   <td>
-                    <div className="button-row">
+                    <div className="row-actions">
                       {!removed && (
                         <button
                           className="btn-secondary"
@@ -159,7 +160,9 @@ export default function GameManager({ games, onChanged }) {
                         </button>
                       )}
                       <button
-                        className={removed ? 'btn-secondary' : 'btn-danger'}
+                        className={
+                          removed ? 'btn-secondary' : 'btn-danger-quiet'
+                        }
                         onClick={() =>
                           review(removed ? 'restore' : 'remove', game)
                         }
@@ -178,7 +181,15 @@ export default function GameManager({ games, onChanged }) {
             No {removed ? 'removed' : 'active'} games.
           </p>
         )}
-        {editor && (
+      </fieldset>
+      {editor && (
+        <Dialog
+          title={editor.id ? 'Edit game' : 'New game'}
+          onClose={() => {
+            setEditor(null);
+            setPending(null);
+          }}
+        >
           <form
             className="editor"
             onSubmit={(event) => {
@@ -186,7 +197,6 @@ export default function GameManager({ games, onChanged }) {
               review(editor.id ? 'edit' : 'create', editor);
             }}
           >
-            <h3>{editor.id ? 'Edit game' : 'New game'}</h3>
             <label>
               Game name
               <input
@@ -298,69 +308,74 @@ export default function GameManager({ games, onChanged }) {
               </button>
             </div>
           </form>
-        )}
-      </fieldset>
+        </Dialog>
+      )}
       {pending && (
-        <div className="review-panel" aria-label="Review game changes">
-          <h3>
-            Confirm{' '}
-            {pending.action === 'create'
-              ? 'new game'
-              : `${pending.action} game`}
-            : {pending.game.name}
-          </h3>
-          {['create', 'edit'].includes(pending.action) ? (
-            <>
-              <p>
-                {
-                  CARD_FORMATS.find(
-                    (format) => format.value === pending.game.cardFormat,
-                  )?.label
-                }{' '}
-                ·{' '}
-                {pending.game.hasCategories
-                  ? 'With categories'
-                  : 'Without categories'}
+        <Dialog
+          title={`Confirm ${pending.action === 'create' ? 'new game' : `${pending.action} game`}: ${pending.game.name}`}
+          onClose={() => !busy && setPending(null)}
+        >
+          <div className="review-panel" aria-label="Review game changes">
+            {error && (
+              <p className="notice error" role="alert">
+                {error}
               </p>
-              {pending.game.hasCategories && pending.game.defaultCategory && (
+            )}
+            {['create', 'edit'].includes(pending.action) ? (
+              <>
                 <p>
-                  Uncategorized cards, including removed cards, will move to “
-                  {pending.game.defaultCategory.trim()}”.
+                  {
+                    CARD_FORMATS.find(
+                      (format) => format.value === pending.game.cardFormat,
+                    )?.label
+                  }{' '}
+                  ·{' '}
+                  {pending.game.hasCategories
+                    ? 'With categories'
+                    : 'Without categories'}
                 </p>
-              )}
-              {!pending.game.hasCategories && pending.game.clearCategories && (
-                <p className="error">
-                  Category text will be cleared from every card in this game,
-                  including removed cards. This cannot be undone automatically.
-                </p>
-              )}
-            </>
-          ) : (
-            <p>
-              {pending.action === 'remove'
-                ? `This hides the game and its ${pending.game.cardCount} active cards from players. Cards and feedback are retained so you can restore the game later.`
-                : 'This returns the game to players. Individually removed cards stay in card trash.'}
-            </p>
-          )}
-          <div className="button-row">
-            <button
-              className={
-                pending.action === 'remove' ? 'btn-danger' : 'btn-primary'
-              }
-              disabled={busy || loading}
-              onClick={save}
-            >
-              {busy ? 'Saving…' : 'Confirm game changes'}
-            </button>
-            <button
-              className="btn-secondary"
-              disabled={busy}
-              onClick={() => setPending(null)}
-            >
-              Cancel
-            </button>
+                {pending.game.hasCategories && pending.game.defaultCategory && (
+                  <p>
+                    Uncategorized cards, including removed cards, will move to “
+                    {pending.game.defaultCategory.trim()}”.
+                  </p>
+                )}
+                {!pending.game.hasCategories &&
+                  pending.game.clearCategories && (
+                    <p className="error">
+                      Category text will be cleared from every card in this
+                      game, including removed cards. This cannot be undone
+                      automatically.
+                    </p>
+                  )}
+              </>
+            ) : (
+              <p>
+                {pending.action === 'remove'
+                  ? `This hides the game and its ${pending.game.cardCount} active cards from players. Cards and feedback are retained so you can restore the game later.`
+                  : 'This returns the game to players. Individually removed cards stay in card trash.'}
+              </p>
+            )}
+            <div className="button-row">
+              <button
+                className={
+                  pending.action === 'remove' ? 'btn-danger' : 'btn-primary'
+                }
+                disabled={busy || loading}
+                onClick={save}
+              >
+                {busy ? 'Saving…' : 'Confirm game changes'}
+              </button>
+              <button
+                className="btn-secondary"
+                disabled={busy}
+                onClick={() => setPending(null)}
+              >
+                Cancel
+              </button>
+            </div>
           </div>
-        </div>
+        </Dialog>
       )}
     </section>
   );

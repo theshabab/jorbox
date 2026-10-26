@@ -1,6 +1,6 @@
-import { useState } from 'react';
+import { useId, useState } from 'react';
 import CardFields from './CardFields';
-import { cardErrors } from '../utils/cardFormats';
+import { CARD_LIMITS, cardErrors } from '../utils/cardFormats';
 
 export default function BulkCardEditor({
   cards,
@@ -11,6 +11,7 @@ export default function BulkCardEditor({
 }) {
   const [rows, setRows] = useState(() => cards.map((card) => ({ ...card })));
   const [changes, setChanges] = useState({});
+  const id = useId();
   const fields = [
     'Name',
     'Description',
@@ -44,7 +45,6 @@ export default function BulkCardEditor({
         onReview(rows);
       }}
     >
-      <h3>Edit {rows.length} selected cards</h3>
       <p className="muted">
         Edit each card below, or choose fields to replace across the selection.
         Unchecked fields keep their current content.
@@ -69,17 +69,15 @@ export default function BulkCardEditor({
               Replace {field.toLowerCase()} on every selected card
             </label>
             {changes[field]?.enabled && (
-              <label>
-                New {field.toLowerCase()}
+              <div className="field">
+                <label htmlFor={`${id}-${field}`}>
+                  New {field.toLowerCase()}
+                </label>
                 <textarea
+                  id={`${id}-${field}`}
+                  aria-describedby={`${id}-${field}-help`}
                   rows={2}
-                  maxLength={
-                    field === 'Name'
-                      ? 500
-                      : field === 'Description'
-                        ? 10000
-                        : 200
-                  }
+                  maxLength={CARD_LIMITS[field]}
                   value={changes[field].value || ''}
                   onChange={(event) =>
                     setChanges({
@@ -88,8 +86,10 @@ export default function BulkCardEditor({
                     })
                   }
                 />
-                <span className="muted">An empty value clears this field.</span>
-              </label>
+                <span className="muted" id={`${id}-${field}-help`}>
+                  An empty value clears this field.
+                </span>
+              </div>
             )}
           </div>
         ))}

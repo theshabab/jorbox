@@ -7,6 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
     "preview": "vite preview",
     "dev:worker": "npm run build && wrangler dev",
     "db:generate-seed": "node scripts/seed.js",
@@ -30,12 +32,14 @@
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
+    "axe-core": "^4.14.0",
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
     "miniflare": "^5.20261001.0-alpha",
     "playwright": "^1.64.0",
+    "prettier": "^3.9.10",
     "vite": "^7.2.4",
     "wrangler": "^4.147.0"
   }

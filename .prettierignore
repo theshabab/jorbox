@@ -1,0 +1,9 @@
+dist
+node_modules
+.wrangler
+.ui-artifacts
+data
+worker/seed.sql
+worker/migrations
+package-lock.json
+*.md

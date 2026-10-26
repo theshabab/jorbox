@@ -80,10 +80,8 @@ test('duplicates, copying, categories, feedback overview and activity history in
     page.on('pageerror', (error) => errors.push(error.message));
     const button = (name) => page.getByRole('button', { name, exact: true });
     await page.goto(fixture.origin);
-    await page
-      .getByLabel('Select Game', { exact: true })
-      .selectOption(source.id);
     await button('Manage cards').click();
+    await page.locator('.game-tile').filter({ hasText: 'Source Deck' }).click();
     await button('Find duplicates').click();
     await page.getByText('1 duplicate groups · 1 extra copies').waitFor();
     await button('Select 1 extra copies').click();
@@ -94,10 +92,12 @@ test('duplicates, copying, categories, feedback overview and activity history in
       .filter({ hasText: '1 card removed.' })
       .waitFor();
     assert.equal((await getCards(source.id)).length, 3);
+    await button('Find duplicates').click();
     await page
       .getByRole('status')
       .filter({ hasText: 'No duplicate cards found.' })
       .waitFor();
+    await page.keyboard.press('Escape');
     await button('Select first 3 matching').click();
     await button('Copy selected cards').click();
     await page
@@ -138,7 +138,8 @@ test('duplicates, copying, categories, feedback overview and activity history in
     assert.ok(
       (await getCards(source.id)).every((card) => card.Category === 'Other'),
     );
-    await button('Admin reports').click();
+    await page.getByRole('button', { name: 'Close dialog' }).click();
+    await button('Reports').click();
     await page
       .getByLabel('Report game', { exact: true })
       .selectOption(source.id);
@@ -147,7 +148,7 @@ test('duplicates, copying, categories, feedback overview and activity history in
       .waitFor();
     assert.deepEqual(
       await page.locator('.report-stats strong').allTextContents(),
-      ['3', '2', '1', '1', '1'],
+      ['3', '2', '1', '1'],
     );
     await button('Feedback overview').click(); // Reopening the selected tab must refresh rather than hang.
     await page
@@ -170,7 +171,7 @@ test('duplicates, copying, categories, feedback overview and activity history in
       await page.locator('[aria-label="Card management"] tbody tr').count(),
       1,
     );
-    await button('Admin reports').click();
+    await button('Reports').click();
     await button('Activity log').click();
     await page
       .getByLabel('Report game', { exact: true })

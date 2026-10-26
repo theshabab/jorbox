@@ -32,7 +32,7 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
     page.on('pageerror', (error) => errors.push(error.message));
     const button = (name) => page.getByRole('button', { name, exact: true });
     await page.goto(fixture.origin);
-    await button('Manage games & formats').click();
+    await button('Games & formats').click();
     await button('Add a game').click();
     await page.getByLabel('Game name', { exact: true }).fill(deckName);
     await page.getByLabel('Card format').selectOption('flexible');
@@ -47,8 +47,8 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
     );
     const game = games.find((g) => g.name === deckName);
     assert.ok(game);
-    await page.getByLabel('Select Game', { exact: true }).selectOption(game.id);
     await button('Manage cards').click();
+    await page.locator('.game-tile').filter({ hasText: deckName }).click();
     await button('Add a card').click();
     await page.getByLabel('Name', { exact: true }).fill('New card');
     await page
@@ -60,15 +60,14 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
       .getByRole('status')
       .filter({ hasText: '1 card added.' })
       .waitFor();
-    await page
-      .getByLabel('CSV file')
-      .setInputFiles({
-        name: 'cards.csv',
-        mimeType: 'text/csv',
-        buffer: Buffer.from(
-          'Name,Description\nSecond card,Second browser prompt',
-        ),
-      });
+    await page.getByText('Bulk import & CSV edits').click();
+    await page.getByLabel('CSV file').setInputFiles({
+      name: 'cards.csv',
+      mimeType: 'text/csv',
+      buffer: Buffer.from(
+        'Name,Description\nSecond card,Second browser prompt',
+      ),
+    });
     await button('Review 1 new cards').click();
     await button('Confirm changes').click();
     await page
@@ -81,7 +80,21 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
     await page.getByLabel('New description').fill('Bulk edited in Chromium');
     await button('Apply replacements to draft').click();
     await button('Review all edits').click();
-    // Editing a draft after review must invalidate the confirmation.
+    // The review is modal: the draft behind it cannot change while it is open.
+    assert.ok(
+      await page
+        .locator('.bulk-card-draft')
+        .first()
+        .evaluate(
+          (node) =>
+            node.closest('dialog').matches(':modal') &&
+            document.querySelectorAll('dialog[open]').length === 2,
+        ),
+    );
+    await page
+      .locator('.review-panel')
+      .getByRole('button', { name: 'Cancel', exact: true })
+      .click();
     await page
       .locator('.bulk-card-draft')
       .first()
@@ -117,15 +130,13 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
     const download = await downloadPromise;
     assert.match(download.suggestedFilename(), /\.csv$/);
     await page.getByLabel('Import mode').selectOption('feedback');
-    await page
-      .getByLabel('CSV file')
-      .setInputFiles({
-        name: 'feedback.csv',
-        mimeType: 'text/csv',
-        buffer: Buffer.from(
-          `id,version,myVote\n${cards[0].id},${cards[0].version},-1\n${cards[1].id},${cards[1].version},0`,
-        ),
-      });
+    await page.getByLabel('CSV file').setInputFiles({
+      name: 'feedback.csv',
+      mimeType: 'text/csv',
+      buffer: Buffer.from(
+        `id,version,myVote\n${cards[0].id},${cards[0].version},-1\n${cards[1].id},${cards[1].version},0`,
+      ),
+    });
     await button('Review 2 feedback changes').click();
     await button('Confirm changes').click();
     await page
@@ -145,7 +156,7 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
       .selectOption('disliked');
     assert.equal(await page.locator('tbody tr').count(), 1);
     await page.getByLabel('My feedback', { exact: true }).selectOption('all');
-    await button('Manage games & formats').click();
+    await button('Games & formats').click();
     let row = page.getByRole('row').filter({ hasText: deckName });
     await row.getByRole('button', { name: 'Edit game', exact: true }).click();
     await page.getByLabel('Use categories').check();
@@ -175,6 +186,11 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
       .locator('form')
       .getByRole('button', { name: 'Cancel', exact: true })
       .click();
+    // Closing nested dialogs hands focus back to the button that opened them.
+    assert.equal(
+      await page.evaluate(() => document.activeElement?.textContent),
+      'Edit game',
+    );
     row = page.getByRole('row').filter({ hasText: deckName });
     await row.getByRole('button', { name: 'Edit game', exact: true }).click();
     await page.getByLabel('Use categories').uncheck();
@@ -201,13 +217,12 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
       .getByRole('status')
       .filter({ hasText: 'Game removed.' })
       .waitFor();
+    await button('Play').click();
     assert.equal(
-      await page
-        .locator('#game-select option')
-        .filter({ hasText: deckName })
-        .count(),
+      await page.locator('.game-tile').filter({ hasText: deckName }).count(),
       0,
     );
+    await button('Games & formats').click();
     await button('Show removed games').click();
     await page
       .getByRole('row')
@@ -224,8 +239,8 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
       path: resolve(artifactDir, 'game-management.png'),
       fullPage: true,
     });
-    await page.getByLabel('Select Game', { exact: true }).selectOption(game.id);
     await button('Manage cards').click();
+    await page.locator('.game-tile').filter({ hasText: deckName }).click();
     await page
       .getByRole('heading', { name: 'Manage ' + deckName, exact: true })
       .waitFor();

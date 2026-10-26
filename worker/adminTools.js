@@ -1,6 +1,6 @@
-import { fail, json, readBody } from './http.js';
+import { fail, json, readBody, statement } from './http.js';
+import { CARD_LIMITS, MAX_BULK_ROWS } from '../src/utils/cardFormats.js';
 
-const statement = (env, sql, ...values) => env.DB.prepare(sql).bind(...values);
 async function commit(env, statements) {
   try {
     await env.DB.batch(statements);
@@ -24,9 +24,11 @@ export async function copyCards(request, env, source, user, validateCard) {
   if (
     !Array.isArray(data?.cards) ||
     !data.cards.length ||
-    data.cards.length > 100
+    data.cards.length > MAX_BULK_ROWS
   )
-    fail(400, 'Select between 1 and 100 cards to copy.');
+    fail(400, `Select between 1 and ${MAX_BULK_ROWS} cards to copy.`);
+  if (data.sourceVersion !== source.version)
+    fail(409, 'Source game changed. Refresh before copying.');
   if (
     typeof data.targetId !== 'string' ||
     data.targetId === source.id ||
@@ -35,9 +37,13 @@ export async function copyCards(request, env, source, user, validateCard) {
     fail(400, 'Choose another game to copy into.');
   if (
     data.category !== undefined &&
-    (typeof data.category !== 'string' || data.category.length > 200)
+    (typeof data.category !== 'string' ||
+      data.category.length > CARD_LIMITS.Category)
   )
-    fail(400, 'Choose a category of at most 200 characters.');
+    fail(
+      400,
+      `Choose a category of at most ${CARD_LIMITS.Category} characters.`,
+    );
   const target = await statement(
     env,
     'SELECT * FROM games WHERE id=? AND deleted_at IS NULL',
@@ -112,9 +118,10 @@ export async function copyCards(request, env, source, user, validateCard) {
     ),
     statement(
       env,
-      'INSERT INTO audit_log (id,github_id,game_id,action,details) VALUES (?,?,?,?,?)',
+      'INSERT INTO audit_log (id,github_id,login,game_id,action,details) VALUES (?,?,?,?,?,?)',
       operation,
       user.github_id,
+      user.login,
       target.id,
       'copy',
       JSON.stringify({ sourceGameId: source.id, cards: copies }),
@@ -159,10 +166,10 @@ export async function renameCategory(request, env, game, user) {
     !data ||
     typeof data.from !== 'string' ||
     !data.from.trim() ||
-    data.from.length > 200 ||
+    data.from.length > CARD_LIMITS.Category ||
     typeof data.to !== 'string' ||
     !data.to.trim() ||
-    data.to.length > 200 ||
+    data.to.length > CARD_LIMITS.Category ||
     data.from === data.to.trim()
   )
     fail(
@@ -199,9 +206,10 @@ export async function renameCategory(request, env, game, user) {
     ),
     statement(
       env,
-      'INSERT INTO audit_log (id,github_id,game_id,action,details) VALUES (?,?,?,?,?)',
+      'INSERT INTO audit_log (id,github_id,login,game_id,action,details) VALUES (?,?,?,?,?,?)',
       operation,
       user.github_id,
+      user.login,
       game.id,
       'category:rename',
       JSON.stringify({
@@ -232,7 +240,7 @@ export async function activity(env, url) {
     fail(400, 'Invalid activity cursor.');
   const { results } = await statement(
     env,
-    `SELECT a.rowid AS cursor,a.id,a.github_id AS actorId,a.game_id AS gameId,g.name AS gameName,a.action,a.created_at AS createdAt,a.details FROM audit_log a LEFT JOIN games g ON g.id=a.game_id WHERE (?='' OR a.game_id=?) AND (? IS NULL OR a.rowid<?) ORDER BY a.rowid DESC LIMIT 51`,
+    `SELECT a.rowid AS cursor,a.id,a.github_id AS actorId,a.login AS actorLogin,a.game_id AS gameId,g.name AS gameName,a.action,a.created_at AS createdAt,a.details FROM audit_log a LEFT JOIN games g ON g.id=a.game_id WHERE (?='' OR a.game_id=?) AND (? IS NULL OR a.rowid<?) ORDER BY a.rowid DESC LIMIT 51`,
     gameId,
     gameId,
     before ? Number(before) : null,
@@ -250,6 +258,7 @@ export async function activity(env, url) {
       cursor: row.cursor,
       id: row.id,
       actorId: row.actorId,
+      actorLogin: row.actorLogin,
       gameId: row.gameId,
       gameName: row.gameName,
       action: row.action,
@@ -272,37 +281,44 @@ export async function activity(env, url) {
 
 export async function feedbackOverview(env, url) {
   const gameId = url.searchParams.get('game') || '';
-  const scope =
-    "g.deleted_at IS NULL AND c.deleted_at IS NULL AND (?='' OR g.id=?)";
-  const aggregates = `SELECT c.id,c.game_id AS gameId,g.name AS gameName,c.name AS Name,c.description AS Description,c.category AS Category,COUNT(v.actor) AS votes,COALESCE(SUM(v.value=1),0) AS likes,COALESCE(SUM(v.value=-1),0) AS dislikes FROM cards c JOIN games g ON g.id=c.game_id LEFT JOIN votes v ON v.card_id=c.id WHERE ${scope} GROUP BY c.id`;
-  const [totals, disliked, liked] = await env.DB.batch([
-    statement(
-      env,
-      `SELECT COUNT(*) AS cards,SUM(votes>0) AS ratedCards,COALESCE(SUM(likes),0) AS likes,COALESCE(SUM(dislikes),0) AS dislikes FROM (${aggregates})`,
-      gameId,
-      gameId,
-    ),
-    statement(
-      env,
-      `SELECT * FROM (${aggregates}) WHERE dislikes>0 ORDER BY dislikes DESC,likes ASC,id LIMIT 10`,
-      gameId,
-      gameId,
-    ),
-    statement(
-      env,
-      `SELECT * FROM (${aggregates}) WHERE likes>0 ORDER BY likes DESC,dislikes ASC,id LIMIT 10`,
-      gameId,
-      gameId,
-    ),
-  ]);
-  const summary = totals.results[0];
+  // One statement aggregates every card once; the totals and both leaderboards
+  // read the same materialized result instead of repeating the vote join.
+  const { results } = await statement(
+    env,
+    `WITH agg AS MATERIALIZED (
+      SELECT c.id,c.game_id AS gameId,g.name AS gameName,c.name AS Name,c.description AS Description,c.category AS Category,
+        COUNT(v.actor) AS votes,COALESCE(SUM(v.value=1),0) AS likes,COALESCE(SUM(v.value=-1),0) AS dislikes
+      FROM cards c JOIN games g ON g.id=c.game_id LEFT JOIN votes v ON v.card_id=c.id
+      WHERE g.deleted_at IS NULL AND c.deleted_at IS NULL AND (?='' OR g.id=?) GROUP BY c.id
+    )
+    SELECT 'summary' AS kind,NULL AS id,NULL AS gameId,NULL AS gameName,NULL AS Name,NULL AS Description,NULL AS Category,NULL AS votes,NULL AS likes,NULL AS dislikes,
+      COUNT(*) AS cards,COALESCE(SUM(votes>0),0) AS ratedCards,COALESCE(SUM(likes),0) AS totalLikes,COALESCE(SUM(dislikes),0) AS totalDislikes FROM agg
+    UNION ALL SELECT * FROM (SELECT 'disliked',*,NULL,NULL,NULL,NULL FROM agg WHERE dislikes>0 ORDER BY dislikes DESC,likes ASC,id LIMIT 10)
+    UNION ALL SELECT * FROM (SELECT 'liked',*,NULL,NULL,NULL,NULL FROM agg WHERE likes>0 ORDER BY likes DESC,dislikes ASC,id LIMIT 10)`,
+    gameId,
+    gameId,
+  ).all();
+  const totals = results.find((row) => row.kind === 'summary');
+  const card = (row) => ({
+    id: row.id,
+    gameId: row.gameId,
+    gameName: row.gameName,
+    Name: row.Name,
+    Description: row.Description,
+    Category: row.Category,
+    votes: row.votes,
+    likes: row.likes,
+    dislikes: row.dislikes,
+  });
   return json({
     summary: {
-      ...summary,
-      ratedCards: summary.ratedCards || 0,
-      unratedCards: summary.cards - (summary.ratedCards || 0),
+      cards: totals.cards,
+      ratedCards: totals.ratedCards,
+      unratedCards: totals.cards - totals.ratedCards,
+      likes: totals.totalLikes,
+      dislikes: totals.totalDislikes,
     },
-    disliked: disliked.results,
-    liked: liked.results,
+    disliked: results.filter((row) => row.kind === 'disliked').map(card),
+    liked: results.filter((row) => row.kind === 'liked').map(card),
   });
 }

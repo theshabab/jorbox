@@ -1,8 +1,19 @@
-const MAX_BODY = 512 * 1024;
+import { MAX_BODY_BYTES } from '../src/utils/cardFormats.js';
+
 export const fail = (status, message) => {
   throw Object.assign(new Error(message), { status });
 };
 export const json = (data, status = 200) => Response.json(data, { status });
+export const statement = (env, sql, ...values) =>
+  env.DB.prepare(sql).bind(...values);
+
+export function decodeSegment(value) {
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    fail(400, 'Invalid address.');
+  }
+}
 
 export async function readBody(request) {
   if (!request.headers.get('Content-Type')?.startsWith('application/json'))
@@ -15,9 +26,9 @@ export async function readBody(request) {
     const { done, value } = await reader.read();
     if (done) break;
     size += value.byteLength;
-    if (size > MAX_BODY) {
+    if (size > MAX_BODY_BYTES) {
       await reader.cancel();
-      fail(413, 'Request is too large (maximum 512 KB).');
+      fail(413, `Request is too large (maximum ${MAX_BODY_BYTES / 1024} KB).`);
     }
     chunks.push(value);
   }

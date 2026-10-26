@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { DataManager } from '../utils/DataManager';
 import { cardErrors } from '../utils/cardFormats';
+import Dialog from './Dialog';
 
 export default function CopyCards({
   sourceGame,
@@ -32,6 +33,7 @@ export default function CopyCards({
     try {
       await DataManager.copyCards(sourceGame.id, {
         cards: cards.map(({ id, version }) => ({ id, version })),
+        sourceVersion: sourceGame.version,
         targetId,
         targetVersion: target.version,
         category: category.trim(),
@@ -44,13 +46,12 @@ export default function CopyCards({
     }
   }
   return (
-    <div className="editor" aria-label="Copy selected cards">
-      <h3>Copy {cards.length} cards to another game</h3>
+    <div className="editor">
       <p className="muted">
         Copies get new IDs and start with no votes. The source cards and their
         feedback stay as they are.
       </p>
-      {error && (
+      {error && !reviewing && (
         <p className="error notice" role="alert">
           {error}
         </p>
@@ -121,23 +122,40 @@ export default function CopyCards({
         </div>
       </fieldset>
       {reviewing && (
-        <div className="review-panel" aria-label="Review copies">
-          <h3>
-            Confirm {cards.length} new cards in {target.name}
-          </h3>
-          <ul className="review-items">
-            {copies.map((card) => (
-              <li key={card.id}>
-                <strong>{card.Name || 'Description-only card'}</strong>
-                <p>{card.Description}</p>
-                {card.Category && <span>{card.Category}</span>}
-              </li>
-            ))}
-          </ul>
-          <button className="btn-primary" disabled={busy} onClick={save}>
-            {busy ? 'Copying…' : 'Confirm copies'}
-          </button>
-        </div>
+        <Dialog
+          title={`Confirm ${cards.length} new cards in ${target.name}`}
+          wide
+          onClose={() => !busy && setReviewing(false)}
+        >
+          <div className="review-panel" aria-label="Review copies">
+            {error && (
+              <p className="notice error" role="alert">
+                {error}
+              </p>
+            )}
+            <ul className="review-items">
+              {copies.map((card) => (
+                <li key={card.id}>
+                  <strong>{card.Name || 'Description-only card'}</strong>
+                  <p>{card.Description}</p>
+                  {card.Category && <span>{card.Category}</span>}
+                </li>
+              ))}
+            </ul>
+            <div className="button-row">
+              <button className="btn-primary" disabled={busy} onClick={save}>
+                {busy ? 'Copying…' : 'Confirm copies'}
+              </button>
+              <button
+                className="btn-secondary"
+                disabled={busy}
+                onClick={() => setReviewing(false)}
+              >
+                Back
+              </button>
+            </div>
+          </div>
+        </Dialog>
       )}
     </div>
   );

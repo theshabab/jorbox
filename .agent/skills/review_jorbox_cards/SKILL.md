@@ -5,12 +5,12 @@ description: A guide for reviewing, filtering, and removing cards from JorBox ga
 
 # Reviewing JorBox Cards
 
-This skill outlines the process for auditing game cards in the JorBox application (specifically within `public/data/*.csv`). The primary goal is to curate content that is **Family-Friendly**, **Halal**, and **Culturally Relevant (Pakistani/Desi)**, while removing Western-centric or inappropriate references.
+This skill outlines the process for auditing game cards in the JorBox application (specifically within `data/seed/data/*.csv`). The primary goal is to curate content that is **Family-Friendly**, **Halal**, and **Culturally Relevant (Pakistani/Desi)**, while removing Western-centric or inappropriate references.
 
 ## 1. Card Location
 *   **Game Data:** All game content is stored in CSV format in:
-    *   `/public/data/game1.csv` (Main)
-    *   `/public/data/game5.csv` (Haiwani Pattay - *Primary Focus*)
+    *   `/data/seed/data/game1.csv` (Main)
+    *   `/data/seed/data/game5.csv` (Haiwani Pattay - *Primary Focus*)
     *   Other game files as needed.
 *   **Format:** typically `Description,Category` or `Name,Description,Category`.
 
@@ -65,5 +65,5 @@ for row in reader:
 
 ## 6. Verification
 After edit/removal:
-1.  Check the total line count (`wc -l public/data/game5.csv`).
+1.  Check the total line count (`wc -l data/seed/data/game5.csv`).
 2.  Read a random sample to ensure data integrity (lines didn't shift or break CSV format).

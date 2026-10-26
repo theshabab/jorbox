@@ -1,12 +1,12 @@
 import { useMemo } from 'react';
 import { findDuplicateGroups } from '../utils/duplicates';
+import { MAX_BULK_ROWS } from '../utils/cardFormats';
 
 export default function DuplicateCards({ cards, onSelect }) {
   const groups = useMemo(() => findDuplicateGroups(cards), [cards]);
   const extras = groups.flatMap((group) => group.slice(1));
   return (
-    <div className="editor" aria-label="Duplicate card detection">
-      <h3>Duplicate card detection</h3>
+    <div className="editor">
       <p className="muted">
         Matches name, description, and category while ignoring capitalization
         and extra whitespace. Review each match before removing anything.
@@ -22,10 +22,10 @@ export default function DuplicateCards({ cards, onSelect }) {
           <button
             className="btn-secondary"
             onClick={() =>
-              onSelect(extras.slice(0, 100).map((card) => card.id))
+              onSelect(extras.slice(0, MAX_BULK_ROWS).map((card) => card.id))
             }
           >
-            Select {Math.min(100, extras.length)} extra copies
+            Select {Math.min(MAX_BULK_ROWS, extras.length)} extra copies
           </button>
           <div className="duplicate-groups">
             {groups.slice(0, 50).map((group) => (
@@ -48,7 +48,9 @@ export default function DuplicateCards({ cards, onSelect }) {
                 <button
                   className="btn-secondary"
                   onClick={() =>
-                    onSelect(group.map((card) => card.id).slice(0, 100))
+                    onSelect(
+                      group.map((card) => card.id).slice(0, MAX_BULK_ROWS),
+                    )
                   }
                 >
                   Select this group
@@ -59,7 +61,7 @@ export default function DuplicateCards({ cards, onSelect }) {
           {groups.length > 50 && (
             <p className="muted">
               Showing the first 50 groups. Extra-copy selection includes all
-              groups, up to 100 cards at a time.
+              groups, up to {MAX_BULK_ROWS} cards at a time.
             </p>
           )}
         </>

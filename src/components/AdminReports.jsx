@@ -14,6 +14,10 @@ const actionLabels = {
   'game:remove': 'Game removed',
   'game:restore': 'Game restored',
 };
+const ratedShare = ({ ratedCards, cards }) => {
+  const percent = (ratedCards / Math.max(1, cards)) * 100;
+  return `${ratedCards && percent < 1 ? '<1' : Math.round(percent)}% of cards`;
+};
 const time = (value) => new Date(value * 1000).toLocaleString();
 
 export default function AdminReports({ games, onOpenCards }) {
@@ -142,70 +146,84 @@ export default function AdminReports({ games, onOpenCards }) {
             Counts include active cards in active games. Anonymous feedback
             represents browser identities, not verified people.
           </p>
-          <div className="report-stats">
-            {[
-              ['Cards', data.summary.cards],
-              ['Rated cards', data.summary.ratedCards],
-              ['Unrated cards', data.summary.unratedCards],
-              ['Likes', data.summary.likes],
-              ['Dislikes', data.summary.dislikes],
-            ].map(([label, value]) => (
-              <div key={label}>
-                <strong>{value}</strong>
-                <span>{label}</span>
+          {data.summary.likes + data.summary.dislikes === 0 ? (
+            <p className="empty-state">
+              No feedback yet across {data.summary.cards.toLocaleString()}{' '}
+              cards. Likes and dislikes appear here once players start rating
+              cards.
+            </p>
+          ) : (
+            <>
+              <div className="report-stats">
+                {[
+                  ['Cards', data.summary.cards],
+                  [
+                    'Rated cards',
+                    data.summary.ratedCards,
+                    ratedShare(data.summary),
+                  ],
+                  ['Likes', data.summary.likes],
+                  ['Dislikes', data.summary.dislikes],
+                ].map(([label, value, note]) => (
+                  <div key={label}>
+                    <strong>{value.toLocaleString()}</strong>
+                    <span>{label}</span>
+                    {note && <span className="muted">{note}</span>}
+                  </div>
+                ))}
               </div>
-            ))}
-          </div>
-          {[
-            ['Most disliked', data.disliked],
-            ['Most liked', data.liked],
-          ].map(([title, cards]) => (
-            <div className="editor" key={title}>
-              <h3>{title}</h3>
-              {cards.length ? (
-                <div className="table-scroll">
-                  <table>
-                    <thead>
-                      <tr>
-                        <th>Card</th>
-                        <th>Game</th>
-                        <th>Likes</th>
-                        <th>Dislikes</th>
-                        <th>Actions</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {cards.map((card) => (
-                        <tr key={card.id}>
-                          <td>
-                            <strong>{card.Name}</strong>
-                            <p className="table-description">
-                              {card.Description}
-                            </p>
-                          </td>
-                          <td>{card.gameName}</td>
-                          <td>{card.likes}</td>
-                          <td>{card.dislikes}</td>
-                          <td>
-                            <button
-                              className="btn-secondary"
-                              onClick={() => open(card)}
-                            >
-                              Review this card
-                            </button>
-                          </td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
+              {[
+                ['Most disliked', data.disliked],
+                ['Most liked', data.liked],
+              ].map(([title, cards]) => (
+                <div className="editor" key={title}>
+                  <h3>{title}</h3>
+                  {cards.length ? (
+                    <div className="table-scroll">
+                      <table className="stack-table">
+                        <thead>
+                          <tr>
+                            <th>Card</th>
+                            <th>Game</th>
+                            <th>Likes</th>
+                            <th>Dislikes</th>
+                            <th>Actions</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {cards.map((card) => (
+                            <tr key={card.id}>
+                              <td>
+                                <strong>{card.Name}</strong>
+                                <p className="table-description">
+                                  {card.Description}
+                                </p>
+                              </td>
+                              <td data-label="Game">{card.gameName}</td>
+                              <td data-label="Likes">{card.likes}</td>
+                              <td data-label="Dislikes">{card.dislikes}</td>
+                              <td>
+                                <button
+                                  className="btn-secondary"
+                                  onClick={() => open(card)}
+                                >
+                                  Review this card
+                                </button>
+                              </td>
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  ) : (
+                    <p className="muted">
+                      No {title === 'Most liked' ? 'likes' : 'dislikes'} yet.
+                    </p>
+                  )}
                 </div>
-              ) : (
-                <p className="muted">
-                  No {title === 'Most liked' ? 'likes' : 'dislikes'} yet.
-                </p>
-              )}
-            </div>
-          ))}
+              ))}
+            </>
+          )}
         </>
       ) : data && tab === 'activity' ? (
         <>
@@ -217,14 +235,14 @@ export default function AdminReports({ games, onOpenCards }) {
             <p className="empty-state">No activity yet.</p>
           ) : (
             <div className="table-scroll">
-              <table>
+              <table className="stack-table">
                 <thead>
                   <tr>
                     <th>When</th>
                     <th>Change</th>
                     <th>Game</th>
                     <th>Items</th>
-                    <th>Administrator ID</th>
+                    <th>Administrator</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -247,9 +265,14 @@ export default function AdminReports({ games, onOpenCards }) {
                           </p>
                         )}
                       </td>
-                      <td>{entry.gameName || entry.gameId}</td>
-                      <td>{entry.changed}</td>
-                      <td>{entry.actorId}</td>
+                      <td data-label="Game">
+                        {entry.gameName || entry.gameId}
+                      </td>
+                      <td data-label="Items">{entry.changed}</td>
+                      <td data-label="Administrator">
+                        {entry.actorLogin || 'Unknown'}{' '}
+                        <span className="muted">({entry.actorId})</span>
+                      </td>
                     </tr>
                   ))}
                 </tbody>

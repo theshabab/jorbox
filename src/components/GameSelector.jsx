@@ -1,51 +1,29 @@
-import React from 'react';
-import { ChevronDown } from 'lucide-react';
+import { Layers } from 'lucide-react';
 
-const GameSelector = ({ games, selectedGame, onSelectGame }) => {
-    return (
-        <div className="game-selector-container" style={{ marginBottom: '2rem', textAlign: 'center' }}>
-            <label htmlFor="game-select" style={{ display: 'block', marginBottom: '0.5rem', color: 'var(--text-secondary)' }}>
-                Select Game
-            </label>
-            <div className="custom-select-wrapper" style={{ position: 'relative', display: 'inline-block', minWidth: '250px' }}>
-                <select
-                    id="game-select"
-                    value={selectedGame ? selectedGame.id : ''}
-                    onChange={(e) => {
-                        const game = games.find(g => g.id === e.target.value);
-                        onSelectGame(game);
-                    }}
-                    className="glass-panel"
-                    style={{
-                        width: '100%',
-                        padding: '12px 40px 12px 16px',
-                        appearance: 'none',
-                        color: 'var(--text-primary)',
-                        fontSize: '1rem',
-                        cursor: 'pointer'
-                    }}
-                >
-                    <option value="" disabled>Choose a game...</option>
-                    {games.map(game => (
-                        <option key={game.id} value={game.id} style={{ color: 'black' }}>
-                            {game.name}
-                        </option>
-                    ))}
-                </select>
-                <ChevronDown
-                    size={20}
-                    style={{
-                        position: 'absolute',
-                        right: '12px',
-                        top: '50%',
-                        transform: 'translateY(-50%)',
-                        pointerEvents: 'none',
-                        color: 'var(--text-secondary)'
-                    }}
-                />
-            </div>
-        </div>
-    );
-};
-
-export default GameSelector;
+// Home screen: every game as a tile with its size, so players can pick at a glance.
+export default function GameSelector({ games, onSelectGame, heading }) {
+  if (!games.length)
+    return <p className="empty-state">No games are available yet.</p>;
+  return (
+    <section className="game-picker" aria-labelledby="game-picker-heading">
+      <h2 id="game-picker-heading">{heading}</h2>
+      <ul className="game-tiles">
+        {games.map((game) => (
+          <li key={game.id}>
+            <button
+              className="game-tile glass-panel"
+              onClick={() => onSelectGame(game)}
+            >
+              <Layers size={22} aria-hidden="true" />
+              <span className="game-tile-name">{game.name}</span>
+              <span className="game-tile-meta">
+                {game.cardCount.toLocaleString()} cards
+                {game.hasCategories && ' · Categories'}
+              </span>
+            </button>
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}

@@ -7,7 +7,10 @@ Production URL: https://jorbox.haseebshah.workers.dev
 ## Features
 
 - All 16 original games and 19,420 cards, including name-only and description-only formats.
-- Persistent likes/dislikes, one vote per signed visitor cookie or signed-in GitHub account; click again to clear a vote. Anonymous feedback uses browser identity, not a verified person. Clearing cookies or using another browser can create another identity; per-IP rate limits reduce repeated abuse.
+- Persistent likes/dislikes, one vote per signed visitor cookie or signed-in GitHub account; click again to clear a vote. Counts appear after you vote. Anonymous feedback uses browser identity, not a verified person. The visitor cookie is issued when the page loads; a vote without one is rejected rather than creating a fresh identity. Each network (an IPv4 address or an IPv6 /64) can receive at most 30 new identities per hour, and votes are rate limited per network.
+- Players pick a game from tiles showing card counts, then move through the deck with Previous/Next, the ← → keys, or a swipe. The shuffled order and position survive a reload in the same tab; **Reshuffle** starts again, and the end of the deck is shown rather than silently wrapping. On phones the controls stay pinned on screen, and the screen stays awake while a deck is open (where the browser supports it). Games without cards are hidden from players.
+- Every screen has its own address (`/play/:game`, `/cards/:game`, `/games`, `/reports`), so the browser Back button, reloads, and shared links work. Signing in returns you to the screen you were on.
+- **Timer** in the play view runs a 30-second to 2-minute round for timed games such as charades. It keeps running while you move through cards, vibrates and shows “Time’s up!” at the end, and remembers the chosen length on the device.
 - GitHub OAuth with PKCE and expiring, HttpOnly server sessions. OAuth access tokens are used to verify identity and are not stored.
 - Card management restricted to `thehaseebshah` (GitHub ID `48080916`), checked on every write. Signing in alone does not grant editing access.
 - Create, rename, remove, and restore games. Configure name-only, description-only, name-and-description, or flexible cards, with optional categories.
@@ -15,7 +18,7 @@ Production URL: https://jorbox.haseebshah.workers.dev
 - Edit selected cards directly, apply reviewed replacements to selected fields, sort by feedback, and like/dislike/clear your own feedback in bulk or from CSV. Other players' votes are retained.
 - Detect duplicate cards, copy selected cards between games, rename or merge whole categories, browse administrator activity, and review feedback totals and leading cards.
 - Up to 100 cards per atomic write, maximum request/file size 512 KB. Larger CSVs must be split. Edits replace all content fields; missing fields clear their content. New imports always create new cards, including repeated content.
-- Stale versions, invalid rows, or IDs from another game reject the entire bulk change. No partial writes. Removed cards retain their content and feedback in a recoverable trash view. Every successful administrative operation records its actor and submitted rows in `audit_log`.
+- Stale versions, invalid rows, or IDs from another game reject the entire bulk change. No partial writes. Removed cards retain their content and feedback in a recoverable trash view. Every successful administrative operation records its actor, the submitted rows, and the previous card content or game settings in `audit_log`.
 
 ## Local development
 
@@ -40,41 +43,42 @@ For frontend hot reload, keep `wrangler dev` running in another terminal and run
 
 ```sh
 npm run lint
+npm run format:check   # npm run format to fix
 npm test
 npm run build
 ```
 
 Tests run against isolated real local D1 through Miniflare and mocked GitHub responses. They cover authorization, CSRF, voting, bulk transactions, stale versions, soft deletion, OAuth state/PKCE/logout, rate limiting, CSV errors, and baseline seed completeness. Production GitHub login still needs a real browser check after OAuth configuration.
 
-Run `npm run test:ui` for administrator workflows in Chromium against an ephemeral local D1 database with a test-only administrator session. It checks game/card creation, CSV import/export, bulk editing and feedback, format validation, category conversion, game removal/restoration, and mobile overflow. It uses `/usr/bin/chromium` when available; otherwise install Playwright Chromium with `npx playwright install chromium`, or set `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH`. Screenshots are written to ignored `.ui-artifacts/`. These checks never contact production or use your OAuth credentials.
+Run `npm run test:ui` for browser QA in Chromium. `tests/ui/qa.test.js` loads the full seed and checks the player flow on desktop and 320/390px phones (controls on screen, no sideways scrolling, keyboard and swipe navigation, persistence, end of deck, reduced motion), admin dialogs and focus return, before/after review, CSV round trips, the production Content-Security-Policy (no violations), and axe-core accessibility scans with no serious or critical issues. The other suites cover administrator workflows against an ephemeral local D1 database with a test-only administrator session. It checks game/card creation, CSV import/export, bulk editing and feedback, format validation, category conversion, game removal/restoration, and mobile overflow. It uses `/usr/bin/chromium` when available; otherwise install Playwright Chromium with `npx playwright install chromium`, or set `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH`. Screenshots are written to ignored `.ui-artifacts/`. These checks never contact production or use your OAuth credentials.
 
 ## Administrator workflows
 
-Sign in as the administrator, then use **Manage games & formats** to add a game or edit its name and card fields. Existing cards, including removed cards, must fit the chosen format; incompatible changes fail without saving anything. To narrow a format, first use the flexible format to edit or clear the affected fields, then select the narrower format.
+Sign in as the administrator. The section tabs are **Play**, **Manage cards**, **Games & formats**, and **Reports**. Use **Games & formats** to add a game or edit its name and card fields. Existing cards, including removed cards, must fit the chosen format; incompatible changes fail without saving anything. To narrow a format, first use the flexible format to edit or clear the affected fields, then select the narrower format.
 
 When enabling categories on an existing deck, choose a default category for all uncategorized cards, including trash. When disabling categories, explicitly choose to clear category text and review the warning; export first if you need a copy. These operations advance affected card versions, so previously exported CSVs must be refreshed.
 
 Removing a game hides the entire deck and blocks feedback and card changes. **Show removed games** lets you restore it with its cards and feedback intact. Cards individually removed before the game was removed remain in card trash afterward.
 
-Choose a game and open **Manage cards** for card operations:
+Open **Manage cards** and choose a game for card operations. The list is in deck order (oldest first). Edits, reviews, copies, duplicates and category changes open in dialogs; edit reviews show the old text struck through and the new text highlighted, so a blank CSV column cannot clear text unnoticed.
 
 - Filter by text, category, or your feedback; sort by name, likes, or dislikes. Select a page or up to the first 100 matching cards.
 - **Edit selected cards** opens a draft for each card. Optional replacements apply only to checked fields; blank replacements clear text. Review every draft before confirming. Changes are atomic, and stale versions reject the entire operation.
 - **Like selected**, **Dislike selected**, and **Clear my feedback** affect only the signed-in administrator's vote. Aggregate feedback counts cannot be imported or overwritten. Feedback changes do not advance card content versions.
 - **Export** downloads the selected cards, or all matching cards when none are selected, including IDs, content versions, aggregate counts, and `myVote`.
-- CSV import can add cards, edit existing content, or update your feedback. Content edits replace all content fields. Feedback mode requires `id`, `version`, and `myVote` (`1`, `-1`, or `0`); it ignores content and aggregate-count columns. Every CSV operation is limited to 100 rows and 512 KB. Split larger files into reviewed batches.
+- CSV import can add cards, edit existing content, or update your feedback. Content edits replace all content fields. Feedback mode requires `id`, `version`, and `myVote` (`1`, `-1`, or `0`); it ignores content and aggregate-count columns. Files saved with semicolons (common with regional spreadsheet settings) are accepted. Exports are named after the game and date. Every CSV operation is limited to 100 rows and 512 KB. Split larger files into reviewed batches.
 
 All game changes, category conversions, card changes, and bulk feedback operations record the administrator and submitted changes in `audit_log`. The game-management migration preserves the original card content and votes and infers single-field formats for existing single-field decks.
 
 ### Organization and reports
 
-- **Find duplicates** compares active cards by name, description, and category, ignoring capitalization, compatibility characters, and repeated whitespace. It suggests extra copies to select; nothing is removed automatically. One deterministic card ID is kept by default in each group. Review feedback before choosing which copy to keep. Votes stay attached to their original card, including in trash; they are not merged.
+- **Find duplicates** compares active cards by name, description, and category, ignoring capitalization, compatibility characters, and repeated whitespace. It suggests extra copies to select; nothing is removed automatically. By default the copy with the most feedback is kept, then the oldest card. Review feedback before choosing which copy to keep. Votes stay attached to their original card, including in trash; they are not merged.
 - **Copy selected cards** creates up to 100 new cards in another active game. Source content is read on the server and both decks are checked for concurrent changes. Copies start at version 1 with no feedback; source cards remain intact. Choose a destination category when needed. Uncategorized destinations omit category text from copies. Incompatible name/description formats are rejected rather than silently dropping content.
 - **Manage categories** shows active and removed card counts. A rename or merge updates every card in the source category, including trash, in one transaction. This dedicated deck-wide operation can affect more than 100 cards; it is separate from selection-based bulk editing. The reviewed count, game version, and audit revision must still match when saving. Content and feedback are preserved, card versions advance, and the old category disappears when no cards use it.
-- **Admin reports → Feedback overview** shows current card counts, rated/unrated cards, likes/dislikes, and the ten most liked and disliked cards, across active games or one selected game. Card and game trash are excluded. **Review this card** opens card management focused on that card. Anonymous counts describe browser identities, not verified people.
-- **Admin reports → Activity log** lists administrator operations newest first, with game, time, item count, and immutable administrator ID. Filter by active or removed game and paginate 50 entries at a time. Saved card payloads, OAuth/session records, and individual player votes are not exposed in the report. This is read-only history, not an undo tool.
+- **Reports → Feedback overview** shows current card counts, rated/unrated cards, likes/dislikes, and the ten most liked and disliked cards, across active games or one selected game. Card and game trash are excluded. **Review this card** opens card management focused on that card. Anonymous counts describe browser identities, not verified people.
+- **Reports → Activity log** lists administrator operations newest first, with game, time, item count, and the administrator's GitHub login (recorded at the time of the change) with their immutable ID. Filter by active or removed game and paginate 50 entries at a time. Saved card payloads, OAuth/session records, and individual player votes are not exposed in the report. This is read-only history, not an undo tool.
 
-These tools remain administrator-only. Migration `0003_admin_reports.sql` adds an audit-history index without changing existing data. The Chromium suite covers all five workflows and report navigation, in addition to the original administrator checks.
+These tools remain administrator-only. Migration `0003_admin_reports.sql` adds an audit-history index without changing existing data. Migration `0004_audit_login.sql` adds the administrator login to new audit entries; older entries show their ID only. The Chromium suite covers all five workflows and report navigation, in addition to the original administrator checks.
 
 ## GitHub sign-in
 
@@ -115,7 +119,7 @@ npm run db:migrate:remote
 npm run deploy
 ```
 
-The checked-in seed is generated from the original `public/games.json` and `public/data/*.csv` with `npm run db:generate-seed`. It uses deterministic card IDs and `INSERT OR IGNORE`, so it does not overwrite later edits or soft removals. It is an initial baseline, not a synchronization mechanism. Live card edits happen through the app, not by editing CSVs in Git. Do not store the production database, sessions, votes, or OAuth secrets in GitHub.
+The checked-in seed is generated from the original `data/seed/games.json` and `data/seed/data/*.csv` (kept outside `public/` so they are not published) with `npm run db:generate-seed`. It uses deterministic card IDs and `INSERT OR IGNORE`, so it does not overwrite later edits or soft removals. It is an initial baseline, not a synchronization mechanism. Live card edits happen through the app, not by editing CSVs in Git. Do not store the production database, sessions, votes, or OAuth secrets in GitHub.
 
 Before future schema/data changes, export a backup with `npx wrangler d1 export jorbox --remote --output=<private-backup-path>`. Database exports contain private session/identity data and should stay outside the repository.
 
@@ -147,6 +151,8 @@ Bulk requests use `{action: "import" | "edit" | "remove" | "restore" | "feedback
 
 Game requests use `{action: "create" | "edit" | "remove" | "restore", ...fields}`. Creation/edit fields are `name`, `cardFormat` (`flexible`, `name`, `description`, or `name-description`), and boolean `hasCategories`. Editing/removing/restoring requires the game's `id` and `version`. Edits optionally take `defaultCategory` when enabling categories or boolean `clearCategories` to explicitly clear categories while disabling the field. The server assigns new game IDs.
 
-Copy requests use `{cards: [{id, version}], targetId, targetVersion, category?}`. Category rename requests use `{from, to, expectedCount, gameVersion, revision}` from the category GET response; that response lists counts for each category and provides the game version and audit revision. Report game filters are optional. Activity returns `{entries, nextCursor}`; use the cursor as `before` for the next page.
+Copy requests use `{cards: [{id, version}], sourceVersion, targetId, targetVersion, category?}`. Category rename requests use `{from, to, expectedCount, gameVersion, revision}` from the category GET response; that response lists counts for each category and provides the game version and audit revision. Report game filters are optional. Activity returns `{entries, nextCursor}`; use the cursor as `before` for the next page.
 
-All SQL values are parameterized. API responses are never cached; writes require a matching Origin header. Requests and errors never log OAuth tokens or cookies.
+All SQL values are parameterized. Writes require a matching Origin header. Requests and errors never log OAuth tokens or cookies.
+
+Card and game lists send a weak `ETag` with `Cache-Control: private, no-cache`, so browsers revalidate and an unchanged deck costs a `304`; every other API response is `no-store`. Static files bypass the Worker, so their Content-Security-Policy, framing, and other security headers live in `public/_headers`. Per-minute auth, admin, and vote limits use the Workers Rate Limiting bindings in `wrangler.jsonc`; without those bindings (tests, older local setups) the Worker falls back to D1 buckets. Reads keep working without `COOKIE_SECRET`; only voting reports that feedback is unavailable.
