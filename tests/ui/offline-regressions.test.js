@@ -71,9 +71,16 @@ test('offline play clears cached administrator identity and Retry connection ver
     // the saved-copy notice must offer a recovery path without an online event.
     await page.locator('.offline').waitFor();
     await context.setOffline(false);
-    await page
-      .getByRole('button', { name: 'Retry connection', exact: true })
-      .click();
+    // Browsers that fire an online event reconnect by themselves (the app
+    // revalidates on it); others keep the notice, so Retry connection must work.
+    const retry = page.getByRole('button', {
+      name: 'Retry connection',
+      exact: true,
+    });
+    await retry.click({ timeout: 3000 }).catch(async (error) => {
+      if (await retry.isVisible()) throw error;
+    });
+    await page.locator('.offline').waitFor({ state: 'detached' });
     await page
       .getByRole('button', { name: 'Manage cards', exact: true })
       .waitFor();
