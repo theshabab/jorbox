@@ -58,7 +58,8 @@ async function open({ viewport = DESKTOP, admin = false, ...options } = {}) {
   page.on('console', (message) => {
     // CSP violations and React warnings surface as console errors. axe's own
     // probing (it fetches stylesheets and adds styles) is not the app's doing.
-    if (message.type() === 'error' && !page.axeRunning) problems.push(message.text());
+    if (message.type() === 'error' && !page.axeRunning)
+      problems.push(message.text());
   });
   await page.goto(fixture.origin);
   return { page, problems, close: () => context.close() };
@@ -80,7 +81,8 @@ async function inViewport(locator) {
 }
 async function axe(page, label) {
   // Evaluated over CDP, which the page's CSP does not apply to (inline <script> is blocked).
-  if (!(await page.evaluate(() => Boolean(window.axe)))) await page.evaluate(axeSource);
+  if (!(await page.evaluate(() => Boolean(window.axe))))
+    await page.evaluate(axeSource);
   page.axeRunning = true;
   const { violations } = await page.evaluate(() =>
     window.axe.run(document, {
@@ -95,7 +97,10 @@ async function axe(page, label) {
     ['serious', 'critical'].includes(item.impact),
   );
   assert.deepEqual(
-    serious.map((item) => `${label}: ${item.id} (${item.nodes.length}) ${item.nodes[0]?.target}`),
+    serious.map(
+      (item) =>
+        `${label}: ${item.id} (${item.nodes.length}) ${item.nodes[0]?.target}`,
+    ),
     [],
   );
 }
@@ -118,12 +123,21 @@ test('on phones the card, voting and Next fit on screen without scrolling', asyn
   for (const viewport of [PHONE, SMALL_PHONE]) {
     const { page, problems, close } = await open({ viewport, hasTouch: true });
     assert.ok(await noHorizontalScroll(page), 'home scrolls sideways');
-    await page.locator('.game-tile').filter({ hasText: 'Main' }).first().click();
+    await page
+      .locator('.game-tile')
+      .filter({ hasText: 'Main' })
+      .first()
+      .click();
     await page.locator('.playing-card').waitFor();
     assert.equal(await page.evaluate(() => scrollY), 0);
     for (const name of ['Next', 'Previous'])
-      assert.ok(await inViewport(button(page, name)), `${name} off screen at ${viewport.width}px`);
-    assert.ok(await inViewport(page.getByRole('button', { name: 'Like', exact: true })));
+      assert.ok(
+        await inViewport(button(page, name)),
+        `${name} off screen at ${viewport.width}px`,
+      );
+    assert.ok(
+      await inViewport(page.getByRole('button', { name: 'Like', exact: true })),
+    );
     assert.ok(await noHorizontalScroll(page), 'play view scrolls sideways');
     await shot(page, `play-${viewport.width}`);
     await axe(page, `play ${viewport.width}px`);
@@ -136,10 +150,16 @@ test('long card text scrolls inside the card and keeps the controls reachable', 
   const { page, close } = await open({ viewport: PHONE });
   await page.locator('.game-tile').filter({ hasText: 'Demo Deck' }).click();
   await page.locator('.playing-card').waitFor();
-  for (let i = 0; i < 4 && !(await page.getByRole('heading', { name: 'Long card' }).count()); i++)
+  for (
+    let i = 0;
+    i < 4 && !(await page.getByRole('heading', { name: 'Long card' }).count());
+    i++
+  )
     await button(page, 'Next').click();
   const description = page.locator('.card-description');
-  assert.ok(await description.evaluate((node) => node.scrollHeight > node.clientHeight));
+  assert.ok(
+    await description.evaluate((node) => node.scrollHeight > node.clientHeight),
+  );
   assert.equal(await description.getAttribute('tabindex'), '0');
   assert.ok(await inViewport(button(page, 'Next')));
   await shot(page, 'long-card-mobile');
@@ -184,10 +204,19 @@ test('a reload keeps the shuffled order and position; reshuffle starts again', a
   const { page, close } = await open();
   await page.locator('.game-tile').filter({ hasText: 'Trivia' }).click();
   for (let i = 0; i < 3; i++) await page.keyboard.press('ArrowRight');
-  const before = { name: await page.locator('.playing-card h2').textContent(), at: await position(page) };
+  const before = {
+    name: await page.locator('.playing-card h2').textContent(),
+    at: await position(page),
+  };
   await page.reload();
   await page.locator('.game-tile').filter({ hasText: 'Trivia' }).click();
-  assert.deepEqual({ name: await page.locator('.playing-card h2').textContent(), at: await position(page) }, before);
+  assert.deepEqual(
+    {
+      name: await page.locator('.playing-card h2').textContent(),
+      at: await position(page),
+    },
+    before,
+  );
   await button(page, 'Reshuffle').click();
   assert.equal(await position(page), '1 / 771');
   await close();
@@ -222,9 +251,21 @@ test('admins get deck-order lists, tabbed sections, and dialogs that open in vie
   for (const viewport of [DESKTOP, PHONE]) {
     const { page, problems, close } = await open({ viewport, admin: true });
     await button(page, 'Manage cards').click();
-    assert.equal(await button(page, 'Manage cards').getAttribute('aria-current'), 'page');
-    await page.locator('.game-tile').filter({ hasText: 'Main' }).first().click();
-    const firstRows = () => page.locator('tbody tr strong').evaluateAll((nodes) => nodes.slice(0, 5).map((node) => node.textContent));
+    assert.equal(
+      await button(page, 'Manage cards').getAttribute('aria-current'),
+      'page',
+    );
+    await page
+      .locator('.game-tile')
+      .filter({ hasText: 'Main' })
+      .first()
+      .click();
+    const firstRows = () =>
+      page
+        .locator('tbody tr strong')
+        .evaluateAll((nodes) =>
+          nodes.slice(0, 5).map((node) => node.textContent),
+        );
     await page.locator('tbody tr').first().waitFor();
     // Deck order is the stored order (Karachi is the first seeded card), stable across refreshes.
     const order = await firstRows();
@@ -233,29 +274,52 @@ test('admins get deck-order lists, tabbed sections, and dialogs that open in vie
     await page.locator('tbody tr').first().waitFor();
     assert.deepEqual(await firstRows(), order);
     // Row actions are visible on phones (stacked table, no hidden columns).
-    const remove = page.locator('tbody tr').nth(2).getByRole('button', { name: 'Remove', exact: true });
+    const remove = page
+      .locator('tbody tr')
+      .nth(2)
+      .getByRole('button', { name: 'Remove', exact: true });
     await remove.scrollIntoViewIfNeeded();
     assert.ok(await inViewport(remove), `Remove hidden at ${viewport.width}px`);
     await remove.click();
-    const dialog = page.getByRole('dialog', { name: 'Confirm 1 card to remove' });
+    const dialog = page.getByRole('dialog', {
+      name: 'Confirm 1 card to remove',
+    });
     await dialog.waitFor();
-    assert.ok(await inViewport(dialog.getByRole('button', { name: 'Confirm changes' })));
-    assert.ok(await page.evaluate(() => document.activeElement.closest('dialog') !== null));
+    assert.ok(
+      await inViewport(dialog.getByRole('button', { name: 'Confirm changes' })),
+    );
+    assert.ok(
+      await page.evaluate(
+        () => document.activeElement.closest('dialog') !== null,
+      ),
+    );
     await axe(page, `remove dialog ${viewport.width}px`);
     await page.keyboard.press('Escape');
     await dialog.waitFor({ state: 'detached' });
-    assert.equal(await page.evaluate(() => document.activeElement?.textContent), 'Remove');
+    assert.equal(
+      await page.evaluate(() => document.activeElement?.textContent),
+      'Remove',
+    );
     assert.ok(await noHorizontalScroll(page));
     await shot(page, `cards-admin-${viewport.width}`);
     await axe(page, `card manager ${viewport.width}px`);
     await button(page, 'Reports').click();
     // The seed has no votes, so the overview shows its empty state with a formatted total.
-    await page.getByText(/No feedback yet across \d{1,3}(,\d{3})+ cards/).waitFor();
+    await page
+      .getByText(/No feedback yet across \d{1,3}(,\d{3})+ cards/)
+      .waitFor();
     assert.ok(await noHorizontalScroll(page));
     await axe(page, `reports ${viewport.width}px`);
     await button(page, 'Games & formats').click();
     await page.locator('tbody tr').first().waitFor();
-    assert.ok(await inViewport(page.locator('tbody tr').first().getByRole('button', { name: 'Edit game' })));
+    assert.ok(
+      await inViewport(
+        page
+          .locator('tbody tr')
+          .first()
+          .getByRole('button', { name: 'Edit game' }),
+      ),
+    );
     await axe(page, `games ${viewport.width}px`);
     assert.deepEqual(problems, []);
     await close();
@@ -263,7 +327,10 @@ test('admins get deck-order lists, tabbed sections, and dialogs that open in vie
 });
 
 test('edit reviews show before/after text, and CSV round trips keep formula-like text', async () => {
-  const { page, problems, close } = await open({ admin: true, acceptDownloads: true });
+  const { page, problems, close } = await open({
+    admin: true,
+    acceptDownloads: true,
+  });
   await button(page, 'Manage cards').click();
   await page.locator('.game-tile').filter({ hasText: 'Demo Deck' }).click();
   const row = page.getByRole('row').filter({ hasText: 'First card' });
@@ -277,11 +344,17 @@ test('edit reviews show before/after text, and CSV round trips keep formula-like
   await review.locator('ins').filter({ hasText: '(cleared)' }).waitFor();
   await shot(page, 'edit-diff');
   await review.getByRole('button', { name: 'Cancel', exact: true }).click();
-  await page.getByRole('dialog', { name: 'Edit card' }).getByRole('button', { name: 'Close dialog' }).click();
+  await page
+    .getByRole('dialog', { name: 'Edit card' })
+    .getByRole('button', { name: 'Close dialog' })
+    .click();
   // Export the "-40" card and import it back unchanged.
   await page.getByLabel('Search cards').fill('Freezing point');
   await button(page, 'Select first 1 matching').click();
-  const [download] = await Promise.all([page.waitForEvent('download'), button(page, 'Export 1 selected cards').click()]);
+  const [download] = await Promise.all([
+    page.waitForEvent('download'),
+    button(page, 'Export 1 selected cards').click(),
+  ]);
   const csv = readFileSync(await download.path(), 'utf8');
   assert.match(csv, /'-40/);
   const file = resolve(artifactDir, 'qa-roundtrip.csv');
@@ -290,7 +363,9 @@ test('edit reviews show before/after text, and CSV round trips keep formula-like
   await page.getByLabel('Import mode').selectOption('edit');
   await page.getByLabel('CSV file').setInputFiles(file);
   await button(page, 'Review 1 updates').click();
-  const roundTrip = page.getByRole('dialog', { name: /Confirm 1 card to update/ });
+  const roundTrip = page.getByRole('dialog', {
+    name: /Confirm 1 card to update/,
+  });
   await roundTrip.getByText('0 of 1 cards change.', { exact: false }).waitFor();
   await roundTrip.getByText('No changes.').waitFor();
   assert.deepEqual(problems, []);

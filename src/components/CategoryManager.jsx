@@ -163,34 +163,34 @@ export default function CategoryManager({ game, onChanged }) {
           title={`Move “${pending.from}” to “${pending.to}”`}
           onClose={() => !busy && setPending(null)}
         >
-        <div className="review-panel" aria-label="Review category changes">
-          {error && (
-            <p className="notice error" role="alert">
-              {error}
+          <div className="review-panel" aria-label="Review category changes">
+            {error && (
+              <p className="notice error" role="alert">
+                {error}
+              </p>
+            )}
+            <p>
+              {pending.active} active cards and {pending.removed} removed cards
+              will change category. Their content and feedback stay as they are.
+              Previously exported card versions will become stale.
             </p>
-          )}
-          <p>
-            {pending.active} active cards and {pending.removed} removed cards
-            will change category. Their content and feedback stay as they are.
-            Previously exported card versions will become stale.
-          </p>
-          <div className="button-row">
-            <button
-              className="btn-primary"
-              disabled={busy || loading}
-              onClick={save}
-            >
-              {busy ? 'Saving…' : 'Confirm category changes'}
-            </button>
-            <button
-              className="btn-secondary"
-              disabled={busy}
-              onClick={() => setPending(null)}
-            >
-              Cancel category change
-            </button>
+            <div className="button-row">
+              <button
+                className="btn-primary"
+                disabled={busy || loading}
+                onClick={save}
+              >
+                {busy ? 'Saving…' : 'Confirm category changes'}
+              </button>
+              <button
+                className="btn-secondary"
+                disabled={busy}
+                onClick={() => setPending(null)}
+              >
+                Cancel category change
+              </button>
+            </div>
           </div>
-        </div>
         </Dialog>
       )}
     </div>

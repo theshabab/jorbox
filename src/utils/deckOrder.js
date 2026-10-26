@@ -36,7 +36,9 @@ export function deckOrder(gameId, cards, reshuffle = false) {
   const known = new Set(kept);
   const order = [
     ...kept,
-    ...shuffle(cards.filter((card) => !known.has(card.id)).map((card) => card.id)),
+    ...shuffle(
+      cards.filter((card) => !known.has(card.id)).map((card) => card.id),
+    ),
   ];
   write(gameId, { order, positions: stored?.positions || {} });
   return order;

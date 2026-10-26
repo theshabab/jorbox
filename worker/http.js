@@ -28,10 +28,7 @@ export async function readBody(request) {
     size += value.byteLength;
     if (size > MAX_BODY_BYTES) {
       await reader.cancel();
-      fail(
-        413,
-        `Request is too large (maximum ${MAX_BODY_BYTES / 1024} KB).`,
-      );
+      fail(413, `Request is too large (maximum ${MAX_BODY_BYTES / 1024} KB).`);
     }
     chunks.push(value);
   }

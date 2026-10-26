@@ -103,7 +103,9 @@ export default function CardManager({
   const categories = useMemo(
     () =>
       Array.from(
-        new Set([...cards, ...trash].map((card) => card.Category).filter(Boolean)),
+        new Set(
+          [...cards, ...trash].map((card) => card.Category).filter(Boolean),
+        ),
       ).sort(),
     [cards, trash],
   );

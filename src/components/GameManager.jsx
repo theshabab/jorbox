@@ -315,64 +315,66 @@ export default function GameManager({ games, onChanged }) {
           title={`Confirm ${pending.action === 'create' ? 'new game' : `${pending.action} game`}: ${pending.game.name}`}
           onClose={() => !busy && setPending(null)}
         >
-        <div className="review-panel" aria-label="Review game changes">
-          {error && (
-            <p className="notice error" role="alert">
-              {error}
-            </p>
-          )}
-          {['create', 'edit'].includes(pending.action) ? (
-            <>
-              <p>
-                {
-                  CARD_FORMATS.find(
-                    (format) => format.value === pending.game.cardFormat,
-                  )?.label
-                }{' '}
-                ·{' '}
-                {pending.game.hasCategories
-                  ? 'With categories'
-                  : 'Without categories'}
+          <div className="review-panel" aria-label="Review game changes">
+            {error && (
+              <p className="notice error" role="alert">
+                {error}
               </p>
-              {pending.game.hasCategories && pending.game.defaultCategory && (
+            )}
+            {['create', 'edit'].includes(pending.action) ? (
+              <>
                 <p>
-                  Uncategorized cards, including removed cards, will move to “
-                  {pending.game.defaultCategory.trim()}”.
+                  {
+                    CARD_FORMATS.find(
+                      (format) => format.value === pending.game.cardFormat,
+                    )?.label
+                  }{' '}
+                  ·{' '}
+                  {pending.game.hasCategories
+                    ? 'With categories'
+                    : 'Without categories'}
                 </p>
-              )}
-              {!pending.game.hasCategories && pending.game.clearCategories && (
-                <p className="error">
-                  Category text will be cleared from every card in this game,
-                  including removed cards. This cannot be undone automatically.
-                </p>
-              )}
-            </>
-          ) : (
-            <p>
-              {pending.action === 'remove'
-                ? `This hides the game and its ${pending.game.cardCount} active cards from players. Cards and feedback are retained so you can restore the game later.`
-                : 'This returns the game to players. Individually removed cards stay in card trash.'}
-            </p>
-          )}
-          <div className="button-row">
-            <button
-              className={
-                pending.action === 'remove' ? 'btn-danger' : 'btn-primary'
-              }
-              disabled={busy || loading}
-              onClick={save}
-            >
-              {busy ? 'Saving…' : 'Confirm game changes'}
-            </button>
-            <button
-              className="btn-secondary"
-              disabled={busy}
-              onClick={() => setPending(null)}
-            >
-              Cancel
-            </button>
+                {pending.game.hasCategories && pending.game.defaultCategory && (
+                  <p>
+                    Uncategorized cards, including removed cards, will move to “
+                    {pending.game.defaultCategory.trim()}”.
+                  </p>
+                )}
+                {!pending.game.hasCategories &&
+                  pending.game.clearCategories && (
+                    <p className="error">
+                      Category text will be cleared from every card in this
+                      game, including removed cards. This cannot be undone
+                      automatically.
+                    </p>
+                  )}
+              </>
+            ) : (
+              <p>
+                {pending.action === 'remove'
+                  ? `This hides the game and its ${pending.game.cardCount} active cards from players. Cards and feedback are retained so you can restore the game later.`
+                  : 'This returns the game to players. Individually removed cards stay in card trash.'}
+              </p>
+            )}
+            <div className="button-row">
+              <button
+                className={
+                  pending.action === 'remove' ? 'btn-danger' : 'btn-primary'
+                }
+                disabled={busy || loading}
+                onClick={save}
+              >
+                {busy ? 'Saving…' : 'Confirm game changes'}
+              </button>
+              <button
+                className="btn-secondary"
+                disabled={busy}
+                onClick={() => setPending(null)}
+              >
+                Cancel
+              </button>
+            </div>
           </div>
-        </div>
         </Dialog>
       )}
     </section>

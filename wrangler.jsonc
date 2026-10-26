@@ -7,26 +7,40 @@
     "directory": "./dist",
     "binding": "ASSETS",
     "not_found_handling": "single-page-application",
-    "run_worker_first": ["/api/*"]
+    "run_worker_first": ["/api/*"],
   },
-  "d1_databases": [{
-    "binding": "DB",
-    "database_name": "jorbox",
-    "database_id": "9eb382fc-4a37-410d-aeb3-dd2f212c2282",
-    "migrations_dir": "worker/migrations"
-  }],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "jorbox",
+      "database_id": "9eb382fc-4a37-410d-aeb3-dd2f212c2282",
+      "migrations_dir": "worker/migrations",
+    },
+  ],
   "vars": {
     "GITHUB_CLIENT_ID": "Ov23liPg9gdZvLUbRs9n",
     "APP_ORIGIN": "https://jorbox.haseebshah.workers.dev",
     "ADMIN_GITHUB_IDS": "48080916",
-    "FEEDBACK_REQUIRE_LOGIN": "false"
+    "FEEDBACK_REQUIRE_LOGIN": "false",
   },
   "triggers": { "crons": ["0 3 * * *"] },
   // Workers Rate Limiting keeps per-minute limits out of D1. The Worker falls back
   // to D1 buckets when these bindings are absent (tests, older local setups).
   "ratelimits": [
-    { "name": "AUTH_LIMITER", "namespace_id": "1001", "simple": { "limit": 20, "period": 60 } },
-    { "name": "ADMIN_LIMITER", "namespace_id": "1002", "simple": { "limit": 30, "period": 60 } },
-    { "name": "VOTE_LIMITER", "namespace_id": "1003", "simple": { "limit": 60, "period": 60 } }
-  ]
+    {
+      "name": "AUTH_LIMITER",
+      "namespace_id": "1001",
+      "simple": { "limit": 20, "period": 60 },
+    },
+    {
+      "name": "ADMIN_LIMITER",
+      "namespace_id": "1002",
+      "simple": { "limit": 30, "period": 60 },
+    },
+    {
+      "name": "VOTE_LIMITER",
+      "namespace_id": "1003",
+      "simple": { "limit": 60, "period": 60 },
+    },
+  ],
 }

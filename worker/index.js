@@ -38,7 +38,10 @@ const base64 = (value) =>
     .replaceAll('=', '');
 const unbase64 = (value) =>
   Uint8Array.from(
-    atob(value.replaceAll('-', '+').replaceAll('_', '/') + '='.repeat((4 - (value.length % 4)) % 4)),
+    atob(
+      value.replaceAll('-', '+').replaceAll('_', '/') +
+        '='.repeat((4 - (value.length % 4)) % 4),
+    ),
     (char) => char.charCodeAt(0),
   );
 const hash = async (value) =>
@@ -83,7 +86,11 @@ function clientNetwork(request) {
   const left = head ? head.split(':') : [];
   const right = tail ? tail.split(':') : [];
   const groups = ip.includes('::')
-    ? [...left, ...Array(Math.max(0, 8 - left.length - right.length)).fill('0'), ...right]
+    ? [
+        ...left,
+        ...Array(Math.max(0, 8 - left.length - right.length)).fill('0'),
+        ...right,
+      ]
     : left;
   return `${groups
     .slice(0, 4)
@@ -106,7 +113,9 @@ async function rateLimit(
   limit,
   { window = 60, soft = false } = {},
 ) {
-  const client = await hash(`${env.COOKIE_SECRET || ''}:${clientNetwork(request)}`);
+  const client = await hash(
+    `${env.COOKIE_SECRET || ''}:${clientNetwork(request)}`,
+  );
   const binding = window === 60 && env[LIMITER_BINDINGS[kind]];
   let allowed;
   if (binding) {
@@ -149,12 +158,15 @@ async function actor(request, env, user, { issue = false } = {}) {
   )
     return { id: null };
   const token = random();
-  const signature = base64(
-    await crypto.subtle.sign('HMAC', key, bytes(token)),
-  );
+  const signature = base64(await crypto.subtle.sign('HMAC', key, bytes(token)));
   return {
     id: `visitor:${await hash(token)}`,
-    cookie: cookie(request, 'jb_visitor', `${token}.${signature}`, VISITOR_SECONDS),
+    cookie: cookie(
+      request,
+      'jb_visitor',
+      `${token}.${signature}`,
+      VISITOR_SECONDS,
+    ),
   };
 }
 
@@ -673,7 +685,8 @@ const handlers = [
         ),
         maxBulkRows: MAX_BULK_ROWS,
       });
-      if (identity.cookie) response.headers.append('Set-Cookie', identity.cookie);
+      if (identity.cookie)
+        response.headers.append('Set-Cookie', identity.cookie);
       return response;
     },
   ],
@@ -703,10 +716,12 @@ const handlers = [
       const removed = url.searchParams.get('removed') === 'true';
       if (removed && !user?.isAdmin)
         fail(403, 'Administrator access required.');
-      const { results } = await env.DB.prepare(`SELECT g.id,g.name,g.has_categories AS hasCategories,g.card_format AS cardFormat,g.version,
+      const { results } = await env.DB.prepare(
+        `SELECT g.id,g.name,g.has_categories AS hasCategories,g.card_format AS cardFormat,g.version,
       (SELECT COUNT(*) FROM cards WHERE game_id=g.id AND deleted_at IS NULL) AS cardCount
       FROM games g WHERE g.deleted_at IS ${removed ? 'NOT ' : ''}NULL
-      ORDER BY CASE WHEN g.id GLOB 'game[0-9]*' AND SUBSTR(g.id,5) NOT GLOB '*[^0-9]*' THEN CAST(SUBSTR(g.id,5) AS INTEGER) ELSE 2147483647 END,g.name COLLATE NOCASE,g.id`).all();
+      ORDER BY CASE WHEN g.id GLOB 'game[0-9]*' AND SUBSTR(g.id,5) NOT GLOB '*[^0-9]*' THEN CAST(SUBSTR(g.id,5) AS INTEGER) ELSE 2147483647 END,g.name COLLATE NOCASE,g.id`,
+      ).all();
       return cacheable(
         request,
         results.map((game) => ({
@@ -794,11 +809,13 @@ const handlers = [
       if (removed && !user?.isAdmin)
         fail(403, 'Administrator access required.');
       const identity = await actor(request, env, user, { issue: true });
-      const { results } = await env.DB.prepare(`SELECT c.id,c.name AS Name,c.description AS Description,c.category AS Category,c.version,
+      const { results } = await env.DB.prepare(
+        `SELECT c.id,c.name AS Name,c.description AS Description,c.category AS Category,c.version,
         COALESCE(SUM(v.value=1),0) AS likes,COALESCE(SUM(v.value=-1),0) AS dislikes,
         COALESCE(MAX(CASE WHEN v.actor=? THEN v.value END),0) AS myVote
         FROM cards c LEFT JOIN votes v ON v.card_id=c.id WHERE c.game_id=? AND c.deleted_at IS ${removed ? 'NOT ' : ''}NULL
-        GROUP BY c.id ORDER BY c.rowid`)
+        GROUP BY c.id ORDER BY c.rowid`,
+      )
         .bind(identity.id, game.id)
         .all();
       return cacheable(request, results, { 'Set-Cookie': identity.cookie });
@@ -820,8 +837,7 @@ const handlers = [
       // Votes need an identity issued earlier by a page load. Minting one per vote
       // would let a cookieless script vote again on every request.
       const identity = await actor(request, env, user);
-      if (!identity.id)
-        fail(403, 'Reload the page before leaving feedback.');
+      if (!identity.id) fail(403, 'Reload the page before leaving feedback.');
       // Condition checked inside the write too, so a concurrent removal cannot accept a vote.
       const write =
         data.value === 0

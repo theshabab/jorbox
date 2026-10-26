@@ -61,15 +61,13 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
       .filter({ hasText: '1 card added.' })
       .waitFor();
     await page.getByText('Bulk import & CSV edits').click();
-    await page
-      .getByLabel('CSV file')
-      .setInputFiles({
-        name: 'cards.csv',
-        mimeType: 'text/csv',
-        buffer: Buffer.from(
-          'Name,Description\nSecond card,Second browser prompt',
-        ),
-      });
+    await page.getByLabel('CSV file').setInputFiles({
+      name: 'cards.csv',
+      mimeType: 'text/csv',
+      buffer: Buffer.from(
+        'Name,Description\nSecond card,Second browser prompt',
+      ),
+    });
     await button('Review 1 new cards').click();
     await button('Confirm changes').click();
     await page
@@ -84,7 +82,14 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
     await button('Review all edits').click();
     // The review is modal: the draft behind it cannot change while it is open.
     assert.ok(
-      await page.locator('.bulk-card-draft').first().evaluate((node) => node.closest('dialog').matches(':modal') && document.querySelectorAll('dialog[open]').length === 2),
+      await page
+        .locator('.bulk-card-draft')
+        .first()
+        .evaluate(
+          (node) =>
+            node.closest('dialog').matches(':modal') &&
+            document.querySelectorAll('dialog[open]').length === 2,
+        ),
     );
     await page
       .locator('.review-panel')
@@ -125,15 +130,13 @@ test('administrator workflows in Chromium, including mobile layout', async () =>
     const download = await downloadPromise;
     assert.match(download.suggestedFilename(), /\.csv$/);
     await page.getByLabel('Import mode').selectOption('feedback');
-    await page
-      .getByLabel('CSV file')
-      .setInputFiles({
-        name: 'feedback.csv',
-        mimeType: 'text/csv',
-        buffer: Buffer.from(
-          `id,version,myVote\n${cards[0].id},${cards[0].version},-1\n${cards[1].id},${cards[1].version},0`,
-        ),
-      });
+    await page.getByLabel('CSV file').setInputFiles({
+      name: 'feedback.csv',
+      mimeType: 'text/csv',
+      buffer: Buffer.from(
+        `id,version,myVote\n${cards[0].id},${cards[0].version},-1\n${cards[1].id},${cards[1].version},0`,
+      ),
+    });
     await button('Review 2 feedback changes').click();
     await button('Confirm changes').click();
     await page

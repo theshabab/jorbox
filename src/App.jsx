@@ -143,7 +143,9 @@ export default function App() {
   }
   function onVote(id, feedback) {
     setCards((previous) =>
-      previous.map((card) => (card.id === id ? { ...card, ...feedback } : card)),
+      previous.map((card) =>
+        card.id === id ? { ...card, ...feedback } : card,
+      ),
     );
   }
 

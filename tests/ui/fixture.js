@@ -11,7 +11,9 @@ const repositoryRoot = fileURLToPath(new URL('../../', import.meta.url));
 function staticHeaders(root) {
   const headers = {};
   let inBlock = false;
-  for (const line of readFileSync(resolve(root, '_headers'), 'utf8').split('\n')) {
+  for (const line of readFileSync(resolve(root, '_headers'), 'utf8').split(
+    '\n',
+  )) {
     if (!line.trim() || line.startsWith('#')) continue;
     if (!/^\s/.test(line)) inBlock = line.trim() === '/*';
     else if (inBlock) {
@@ -36,7 +38,11 @@ export async function startFixture({ seed = false } = {}) {
     }),
   );
   const db = await mf.getD1Database('DB');
-  for (const file of ['0001_initial.sql', '0002_game_management.sql', '0003_admin_reports.sql'])
+  for (const file of [
+    '0001_initial.sql',
+    '0002_game_management.sql',
+    '0003_admin_reports.sql',
+  ])
     await db.exec(
       readFileSync(resolve(repositoryRoot, 'worker/migrations', file), 'utf8')
         .replace(/--[^\n]*/g, '')
@@ -72,7 +78,10 @@ export async function startFixture({ seed = false } = {}) {
   ]);
   if (seed) {
     // The real 19,420-card baseline, for realistic layout and performance checks.
-    const lines = readFileSync(resolve(repositoryRoot, 'worker/seed.sql'), 'utf8')
+    const lines = readFileSync(
+      resolve(repositoryRoot, 'worker/seed.sql'),
+      'utf8',
+    )
       .split('\n')
       .filter((line) => line.startsWith('INSERT'));
     for (let i = 0; i < lines.length; i += 500)

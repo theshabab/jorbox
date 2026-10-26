@@ -148,9 +148,9 @@ export default function AdminReports({ games, onOpenCards }) {
           </p>
           {data.summary.likes + data.summary.dislikes === 0 ? (
             <p className="empty-state">
-              No feedback yet across{' '}
-              {data.summary.cards.toLocaleString()} cards. Likes and dislikes
-              appear here once players start rating cards.
+              No feedback yet across {data.summary.cards.toLocaleString()}{' '}
+              cards. Likes and dislikes appear here once players start rating
+              cards.
             </p>
           ) : (
             <>

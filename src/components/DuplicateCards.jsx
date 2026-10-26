@@ -48,7 +48,9 @@ export default function DuplicateCards({ cards, onSelect }) {
                 <button
                   className="btn-secondary"
                   onClick={() =>
-                    onSelect(group.map((card) => card.id).slice(0, MAX_BULK_ROWS))
+                    onSelect(
+                      group.map((card) => card.id).slice(0, MAX_BULK_ROWS),
+                    )
                   }
                 >
                   Select this group

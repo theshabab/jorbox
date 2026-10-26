@@ -127,34 +127,34 @@ export default function CopyCards({
           wide
           onClose={() => !busy && setReviewing(false)}
         >
-        <div className="review-panel" aria-label="Review copies">
-          {error && (
-            <p className="notice error" role="alert">
-              {error}
-            </p>
-          )}
-          <ul className="review-items">
-            {copies.map((card) => (
-              <li key={card.id}>
-                <strong>{card.Name || 'Description-only card'}</strong>
-                <p>{card.Description}</p>
-                {card.Category && <span>{card.Category}</span>}
-              </li>
-            ))}
-          </ul>
-          <div className="button-row">
-            <button className="btn-primary" disabled={busy} onClick={save}>
-              {busy ? 'Copying…' : 'Confirm copies'}
-            </button>
-            <button
-              className="btn-secondary"
-              disabled={busy}
-              onClick={() => setReviewing(false)}
-            >
-              Back
-            </button>
+          <div className="review-panel" aria-label="Review copies">
+            {error && (
+              <p className="notice error" role="alert">
+                {error}
+              </p>
+            )}
+            <ul className="review-items">
+              {copies.map((card) => (
+                <li key={card.id}>
+                  <strong>{card.Name || 'Description-only card'}</strong>
+                  <p>{card.Description}</p>
+                  {card.Category && <span>{card.Category}</span>}
+                </li>
+              ))}
+            </ul>
+            <div className="button-row">
+              <button className="btn-primary" disabled={busy} onClick={save}>
+                {busy ? 'Copying…' : 'Confirm copies'}
+              </button>
+              <button
+                className="btn-secondary"
+                disabled={busy}
+                onClick={() => setReviewing(false)}
+              >
+                Back
+              </button>
+            </div>
           </div>
-        </div>
         </Dialog>
       )}
     </div>
