@@ -4,7 +4,7 @@ React 19 + Vite frontend, served by a Cloudflare Worker with a D1 database. Prod
 
 ## Structure
 
-- `src/App.jsx`: account state, section tabs, player view and lazily loaded administrator views. `GameSelector.jsx` (game tiles), `DeckBar.jsx`, `CardViewer.jsx` (keyboard/swipe, end of deck), `Dialog.jsx` (modal dialogs with focus return), `RoundTimer.jsx`. `src/utils/route.js`: screen URLs and history; `useWakeLock.js`: keeps the screen on while playing.
+- `src/App.jsx`: account state, section tabs, player view and lazily loaded administrator views. `GameSelector.jsx` (game tiles), `DeckBar.jsx`, `CardViewer.jsx` (keyboard/swipe, end of deck), `Dialog.jsx` (modal dialogs with focus return), `RoundTimer.jsx` (timer, round tally, scoreboard), `CardText.jsx` (word chips, scales, blanks). `src/utils/useRound.js`: round and scoreboard state; `cardText.js`: text pattern detection; `route.js`: screen URLs and history; `useWakeLock.js`: keeps the screen on while playing.
 - `src/components/GameManager.jsx`: game creation, format changes, removal and restoration.
 - `src/components/CardManager.jsx`, `BulkCardEditor.jsx`, `CardFields.jsx`: card management, reviewed bulk edits, CSV workflows and personal bulk feedback.
 - `src/utils/DataManager.js`: same-origin JSON API client.

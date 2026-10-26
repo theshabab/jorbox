@@ -66,6 +66,9 @@ export default function CardManager({
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState('');
   const [message, setMessage] = useState('');
+  // Cards just removed, so the removal can be undone through a reviewed restore.
+  const [undo, setUndo] = useState(null);
+  const [importOpen, setImportOpen] = useState(false);
   const [mode, setMode] = useState('import');
   const [csvText, setCsvText] = useState('');
   const [targetCategory, setTargetCategory] = useState('');
@@ -184,24 +187,30 @@ export default function CardManager({
     );
     closePanels();
   }
-  function exportCsv() {
-    const exportRows = selection.length ? selection : filtered;
-    const blob = new Blob([exportCardCsv(exportRows)], {
-      type: 'text/csv;charset=utf-8',
-    });
+  // Readable file names, e.g. "trivia-removed-2026-10-26.csv".
+  const slug =
+    game.name
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '') || game.id;
+  function download(text, filename) {
+    const blob = new Blob([text], { type: 'text/csv;charset=utf-8' });
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    // Readable, dated file names, e.g. "trivia-removed-2026-10-26.csv".
-    const slug =
-      game.name
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, '-')
-        .replace(/^-|-$/g, '') || game.id;
-    link.download = `${slug}${removed ? '-removed' : ''}-${new Date().toISOString().slice(0, 10)}.csv`;
+    link.download = filename;
     link.click();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
   }
+  function exportCsv() {
+    download(
+      exportCardCsv(selection.length ? selection : filtered),
+      `${slug}${removed ? '-removed' : ''}-${new Date().toISOString().slice(0, 10)}.csv`,
+    );
+  }
+  // An empty CSV with exactly the columns this game uses.
+  const downloadTemplate = () =>
+    download(`${contentFields.join(',')}\n`, `${slug}-template.csv`);
   async function readCsv(event) {
     const file = event.target.files?.[0];
     setError('');
@@ -236,6 +245,16 @@ export default function CardManager({
       );
       setMessage(
         `${result.changed} card${result.changed === 1 ? '' : 's'} ${pastTense[pending.action]}.`,
+      );
+      // Removal advances each card's version by one; restoring needs the new version.
+      setUndo(
+        pending.action === 'remove'
+          ? pending.rows.map((row) => ({
+              ...pendingOriginal(row),
+              id: row.id,
+              version: row.version + 1,
+            }))
+          : null,
       );
       closePanels();
       setEditor(null);
@@ -298,6 +317,14 @@ export default function CardManager({
         {message && (
           <p className="notice success" role="status">
             {message}
+            {undo && (
+              <button
+                className="btn-secondary undo"
+                onClick={() => review('restore', undo)}
+              >
+                Undo
+              </button>
+            )}
           </p>
         )}
       </div>
@@ -429,14 +456,25 @@ export default function CardManager({
           </button>
         </div>
         {!removed && (
-          <details className="drawer import-panel">
+          <details
+            className="drawer import-panel"
+            open={importOpen}
+            onToggle={(event) => setImportOpen(event.currentTarget.open)}
+          >
             <summary>Bulk import & CSV edits</summary>
             <p className="muted">
               Upload a CSV with Name and/or Description
               {game.hasCategories ? ', and Category' : ''}. To edit existing
               cards, export them first and keep their id and version columns.
               Updates replace every content field; blank fields clear existing
-              text. You will see every change before it is saved.
+              text. You will see every change before it is saved.{' '}
+              <button
+                type="button"
+                className="link-button"
+                onClick={downloadTemplate}
+              >
+                Download a blank template
+              </button>
             </p>
             <label>
               Import mode
@@ -716,9 +754,34 @@ export default function CardManager({
             </tbody>
           </table>
         </div>
-        {!filtered.length && !locked && (
-          <p className="empty-state">No matching cards.</p>
-        )}
+        {!filtered.length &&
+          !locked &&
+          (!removed && !cards.length ? (
+            <div className="empty-state deck-empty">
+              <p>This deck has no cards yet.</p>
+              <div className="button-row">
+                <button
+                  className="btn-primary"
+                  onClick={() => {
+                    setEditor({ ...emptyCard, Category: category });
+                    closePanels();
+                  }}
+                >
+                  Add the first card
+                </button>
+                <button
+                  className="btn-secondary"
+                  onClick={() => setImportOpen(true)}
+                >
+                  Import from CSV
+                </button>
+              </div>
+            </div>
+          ) : (
+            <p className="empty-state">
+              {removed ? 'No removed cards.' : 'No matching cards.'}
+            </p>
+          ))}
         <div className="button-row pagination">
           <button
             className="btn-secondary"

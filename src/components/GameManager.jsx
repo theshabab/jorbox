@@ -9,9 +9,10 @@ const newGame = {
   hasCategories: false,
   defaultCategory: '',
   clearCategories: false,
+  revealDescription: false,
 };
 
-export default function GameManager({ games, onChanged }) {
+export default function GameManager({ games, onChanged, onOpenCards }) {
   const [editor, setEditor] = useState(null);
   const [pending, setPending] = useState(null);
   const [removed, setRemoved] = useState(false);
@@ -130,8 +131,15 @@ export default function GameManager({ games, onChanged }) {
                 <tr key={game.id}>
                   <td>
                     <strong>{game.name}</strong>
-                    {game.hasCategories && (
-                      <p className="muted">With categories</p>
+                    {(game.hasCategories || game.revealDescription) && (
+                      <p className="muted">
+                        {[
+                          game.hasCategories && 'With categories',
+                          game.revealDescription && 'Answers hidden',
+                        ]
+                          .filter(Boolean)
+                          .join(' · ')}
+                      </p>
                     )}
                   </td>
                   <td data-label="Format">
@@ -144,6 +152,15 @@ export default function GameManager({ games, onChanged }) {
                   <td data-label="Cards">{game.cardCount.toLocaleString()}</td>
                   <td>
                     <div className="row-actions">
+                      {!removed && (
+                        <button
+                          className="btn-secondary"
+                          onClick={() => onOpenCards(game)}
+                          aria-label={`Manage cards in ${game.name}`}
+                        >
+                          Cards
+                        </button>
+                      )}
                       {!removed && (
                         <button
                           className="btn-secondary"
@@ -246,6 +263,24 @@ export default function GameManager({ games, onChanged }) {
               />
               Use categories
             </label>
+            <label className="checkbox-label">
+              <input
+                type="checkbox"
+                checked={Boolean(editor.revealDescription)}
+                onChange={(event) => {
+                  setEditor({
+                    ...editor,
+                    revealDescription: event.target.checked,
+                  });
+                  setPending(null);
+                }}
+              />
+              Hide descriptions until a player taps “Reveal answer”
+            </label>
+            <p className="muted">
+              For decks where the description is the answer, such as trivia.
+              Cards with only a description always show it.
+            </p>
             {editor.hasCategories && editor.id && (
               <label>
                 Default category for uncategorized cards
@@ -333,6 +368,8 @@ export default function GameManager({ games, onChanged }) {
                   {pending.game.hasCategories
                     ? 'With categories'
                     : 'Without categories'}
+                  {pending.game.revealDescription &&
+                    ' · Answers hidden until revealed'}
                 </p>
                 {pending.game.hasCategories && pending.game.defaultCategory && (
                   <p>

@@ -1,6 +1,15 @@
 import { useEffect, useEffectEvent, useRef, useState } from 'react';
-import { ChevronLeft, ChevronRight, RotateCcw, Shuffle } from 'lucide-react';
+import {
+  Check,
+  ChevronLeft,
+  ChevronRight,
+  Eye,
+  RotateCcw,
+  Shuffle,
+  SkipForward,
+} from 'lucide-react';
 import CardFeedback from './CardFeedback';
+import { CardDescription, CardTitle } from './CardText';
 import { loadPosition, savePosition } from '../utils/deckOrder';
 import { useWakeLock } from '../utils/useWakeLock';
 
@@ -22,6 +31,8 @@ export default function CardViewer({
   session,
   onVote,
   onReshuffle,
+  revealDescription = false,
+  round = null,
 }) {
   const [index, setIndex] = useState(() => {
     const saved = loadPosition(gameId, filter);
@@ -31,6 +42,8 @@ export default function CardViewer({
     );
   });
   const [finished, setFinished] = useState(false);
+  const [revealedId, setRevealedId] = useState(null);
+  const [direction, setDirection] = useState('forward');
   useWakeLock();
   const [tilt, setTilt] = useState({ x: 0, y: 0 });
   const [tiltEnabled] = useState(canTilt);
@@ -38,12 +51,30 @@ export default function CardViewer({
   const swipe = useRef(null);
   const current = Math.min(index, Math.max(0, cards.length - 1));
   const card = cards[current];
-  const next = () =>
-    current + 1 < cards.length ? setIndex(current + 1) : setFinished(true);
+  const next = () => {
+    setDirection('forward');
+    if (current + 1 < cards.length) setIndex(current + 1);
+    else setFinished(true);
+  };
   const previous = () => {
+    setDirection('back');
     if (finished) setFinished(false);
     else if (current > 0) setIndex(current - 1);
   };
+  // During a timed round the forward/back actions score the card instead.
+  const scoring = Boolean(round?.running) && !finished;
+  const score = (got) => {
+    round.record(card, got);
+    next();
+  };
+  const forward = () => (scoring ? score(true) : next());
+  const back = () => (scoring ? score(false) : previous());
+  // Answers stay hidden only when there is a question to show above them.
+  const hidden =
+    revealDescription &&
+    Boolean(card?.Name && card?.Description) &&
+    revealedId !== card?.id;
+  const reveal = () => setRevealedId(card.id);
   const onKey = useEffectEvent((event) => {
     if (
       event.altKey ||
@@ -53,8 +84,14 @@ export default function CardViewer({
       document.querySelector('dialog[open]')
     )
       return;
-    if (event.key === 'ArrowRight') next();
-    else if (event.key === 'ArrowLeft') previous();
+    if (event.key === 'ArrowRight') forward();
+    else if (event.key === 'ArrowLeft') back();
+    else if (
+      hidden &&
+      (event.key === ' ' || event.key === 'Enter') &&
+      !(event.target instanceof HTMLButtonElement)
+    )
+      reveal();
     else return;
     event.preventDefault();
   });
@@ -95,10 +132,10 @@ export default function CardViewer({
     const dx = event.clientX - start.x;
     const dy = event.clientY - start.y;
     if (Math.abs(dx) < SWIPE_DISTANCE || Math.abs(dx) < Math.abs(dy)) return;
-    if (dx < 0) next();
-    else previous();
+    if (dx < 0) forward();
+    else back();
   }
-  const length = card.Description.length;
+  const descriptionId = `card-description-${card.id}`;
   return (
     <div className="card-viewer">
       <p className="sr-only" aria-live="polite">
@@ -129,6 +166,7 @@ export default function CardViewer({
         </div>
       ) : (
         <div
+          key={card.id}
           ref={cardRef}
           onMouseMove={handleMouseMove}
           onMouseLeave={() => setTilt({ x: 0, y: 0 })}
@@ -139,7 +177,7 @@ export default function CardViewer({
           onPointerCancel={() => {
             swipe.current = null;
           }}
-          className="glass-panel playing-card"
+          className={`glass-panel playing-card card-enter-${direction}`}
           style={
             tiltEnabled
               ? {
@@ -148,49 +186,71 @@ export default function CardViewer({
               : undefined
           }
         >
-          {card.Name && (
-            <h2 className={card.Name.length > 40 ? 'long-name' : undefined}>
-              {card.Name}
-            </h2>
-          )}
-          {card.Description && (
-            <p
-              className={`card-description${length > 900 ? ' very-long' : length > 280 ? ' long' : ''}`}
-              tabIndex={length > 280 ? 0 : undefined}
-            >
-              {card.Description}
-            </p>
-          )}
+          {card.Name && <CardTitle text={card.Name} />}
+          {card.Description &&
+            (hidden ? (
+              <button
+                className="btn-secondary reveal-button"
+                aria-expanded="false"
+                aria-controls={descriptionId}
+                onClick={reveal}
+                onPointerDown={(event) => event.stopPropagation()}
+              >
+                <Eye size={18} aria-hidden="true" /> Reveal answer
+              </button>
+            ) : (
+              <CardDescription text={card.Description} id={descriptionId} />
+            ))}
           {card.Category && (
             <span className="category-badge">{card.Category}</span>
           )}
           <span className="card-position" aria-hidden="true">
             {current + 1} / {cards.length.toLocaleString()}
           </span>
+          <span
+            className="card-progress"
+            aria-hidden="true"
+            style={{ width: `${((current + 1) / cards.length) * 100}%` }}
+          />
         </div>
       )}
-      <div className="viewer-controls">
-        <button
-          className="btn-secondary"
-          disabled={current === 0 && !finished}
-          onClick={previous}
-        >
-          <ChevronLeft size={20} aria-hidden="true" /> Previous
-        </button>
-        {!finished && (
-          <CardFeedback
-            key={card.id}
-            card={card}
-            session={session}
-            onVote={onVote}
-          />
-        )}
-        <button className="btn-primary" disabled={finished} onClick={next}>
-          Next <ChevronRight size={20} aria-hidden="true" />
-        </button>
-      </div>
+      {scoring ? (
+        <div className="viewer-controls round-controls">
+          <button className="btn-secondary" onClick={() => score(false)}>
+            <SkipForward size={20} aria-hidden="true" /> Skip
+          </button>
+          <button className="btn-primary got-it" onClick={() => score(true)}>
+            <Check size={20} aria-hidden="true" /> Got it
+          </button>
+        </div>
+      ) : (
+        <div className="viewer-controls">
+          <button
+            className="btn-secondary"
+            disabled={current === 0 && !finished}
+            onClick={previous}
+          >
+            <ChevronLeft size={20} aria-hidden="true" /> Previous
+          </button>
+          {!finished && (
+            <CardFeedback
+              key={card.id}
+              card={card}
+              session={session}
+              onVote={onVote}
+            />
+          )}
+          <button className="btn-primary" disabled={finished} onClick={next}>
+            Next <ChevronRight size={20} aria-hidden="true" />
+          </button>
+        </div>
+      )}
       <p className="viewer-hint muted">
-        Tip: use the ← → keys or swipe the card.
+        {scoring
+          ? 'Tip: → or swipe left for Got it, ← or swipe right to skip.'
+          : hidden
+            ? 'Tip: press Space to reveal; use ← → or swipe to move.'
+            : 'Tip: use the ← → keys or swipe the card.'}
       </p>
     </div>
   );

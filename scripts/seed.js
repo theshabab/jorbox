@@ -9,7 +9,7 @@ const sql = [
 let count = 0;
 for (const game of games) {
   sql.push(
-    `INSERT OR IGNORE INTO games (id,name,has_categories) VALUES (${quote(game.id)},${quote(game.name)},${Number(game.hasCategories)});`,
+    `INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES (${quote(game.id)},${quote(game.name)},${Number(game.hasCategories)},${Number(game.revealDescription === true)});`,
   );
   const parsed = Papa.parse(readFileSync(`data/seed${game.csv}`, 'utf8'), {
     header: true,

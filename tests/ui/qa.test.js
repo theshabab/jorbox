@@ -438,9 +438,9 @@ test('the round timer counts down, warns at the end, and remembers its length', 
   await page.getByRole('button', { name: 'Pause timer' }).click();
   await page.clock.runFor(5_000);
   assert.equal(await timer.textContent(), '0:18');
-  // Moving through cards keeps the timer running.
+  // Scoring cards keeps the timer running.
   await page.getByRole('button', { name: 'Start timer' }).click();
-  await button(page, 'Next').click();
+  await button(page, 'Got it').click();
   await page.clock.runFor(19_000);
   assert.equal(await timer.textContent(), 'Time’s up!');
   assert.ok(await inViewport(button(page, 'Next')));
@@ -491,4 +491,205 @@ test('players do not see empty games; administrators do', async () => {
     .click();
   await admin.page.getByText('This game has no cards yet.').waitFor();
   await admin.close();
+});
+
+test('answers stay hidden until revealed in decks that hide them', async () => {
+  const { page, problems, close } = await open({ viewport: PHONE });
+  await page.goto(`${fixture.origin}/play/game9`);
+  await page.locator('.playing-card h2').waitFor();
+  const reveal = page.getByRole('button', { name: 'Reveal answer' });
+  await reveal.waitFor();
+  assert.equal(await page.locator('.card-description').count(), 0);
+  await page.keyboard.press('Space');
+  await page.locator('.card-description').waitFor();
+  assert.equal(await reveal.count(), 0);
+  // The next card starts hidden again.
+  await page.keyboard.press('ArrowRight');
+  await page.getByRole('button', { name: 'Reveal answer' }).click();
+  await page.locator('.card-description').waitFor();
+  await axe(page, 'trivia reveal');
+  assert.deepEqual(problems, []);
+  await close();
+});
+
+test('word lists, scales and blanks are laid out for play', async () => {
+  const db = fixture.db;
+  await db.batch([
+    db
+      .prepare(
+        'INSERT INTO games (id,name,has_categories,card_format) VALUES (?,?,?,?)',
+      )
+      .bind('layouts', 'Layout Deck', 0, 'flexible'),
+    db
+      .prepare(
+        'INSERT INTO cards (id,game_id,name,description) VALUES (?,?,?,?)',
+      )
+      .bind('layout1', 'layouts', 'Karachi', 'city | Pakistan | Sindh'),
+    db
+      .prepare(
+        'INSERT INTO cards (id,game_id,name,description) VALUES (?,?,?,?)',
+      )
+      .bind(
+        'layout2',
+        'layouts',
+        'NOT LIKELY <---> VERY LIKELY',
+        'Name a movie',
+      ),
+    db
+      .prepare(
+        'INSERT INTO cards (id,game_id,name,description) VALUES (?,?,?,?)',
+      )
+      .bind('layout3', 'layouts', '', 'I accidentally called my teacher ____.'),
+  ]);
+  const { page, problems, close } = await open();
+  await page.goto(`${fixture.origin}/play/layouts`);
+  const seen = new Set();
+  for (let i = 0; i < 3; i++) {
+    await page.locator('.playing-card').waitFor();
+    if (await page.locator('.word-chips').count()) {
+      assert.deepEqual(await page.locator('.word-chips li').allTextContents(), [
+        'city',
+        'Pakistan',
+        'Sindh',
+      ]);
+      seen.add('list');
+    }
+    if (await page.locator('h2.spectrum').count()) {
+      assert.equal(
+        await page.locator('h2.spectrum').getAttribute('aria-label'),
+        'From NOT LIKELY to VERY LIKELY',
+      );
+      seen.add('scale');
+    }
+    if (await page.locator('.blank').count()) {
+      assert.equal(
+        await page.locator('.blank').getAttribute('aria-label'),
+        'blank',
+      );
+      seen.add('blank');
+    }
+    await page.keyboard.press('ArrowRight');
+  }
+  assert.deepEqual([...seen].sort(), ['blank', 'list', 'scale']);
+  assert.deepEqual(problems, []);
+  await close();
+});
+
+test('timed rounds score Got it and Skip, summarise, and award points once', async () => {
+  const { page, problems, close } = await open({ viewport: PHONE });
+  await page.clock.install();
+  await page.goto(`${fixture.origin}/play/game12`);
+  await page.locator('.playing-card').waitFor();
+  await page.getByRole('button', { name: 'Timer', exact: true }).click();
+  await page.getByLabel('Round length').selectOption('30');
+  await page.getByRole('button', { name: 'Start timer' }).click();
+  assert.equal(await button(page, 'Previous').count(), 0);
+  await button(page, 'Got it').click();
+  await button(page, 'Skip').click();
+  await page.keyboard.press('ArrowRight'); // Got it from the keyboard.
+  await page.getByText('2 got it · 1 skipped').waitFor();
+  assert.ok(await inViewport(button(page, 'Got it')));
+  await page.clock.runFor(31_000);
+  await page.getByRole('timer').filter({ hasText: 'Time’s up!' }).waitFor();
+  await page.getByText('Cards this round').click();
+  assert.equal(await page.locator('.round-summary li').count(), 3);
+  await page.getByLabel('Team 1 name').fill('Blue');
+  await button(page, '+2 to Blue').click();
+  await page.getByText('Points added.').waitFor();
+  assert.equal(await page.getByLabel('Blue score').textContent(), '2');
+  await shot(page, 'round-summary-mobile');
+  // Scores last for the evening (the browser tab).
+  await page.reload();
+  await page.getByRole('button', { name: 'Timer', exact: true }).click();
+  assert.equal(await page.getByLabel('Blue score').textContent(), '2');
+  await button(page, 'Reset scores').click();
+  assert.equal(await page.getByLabel('Blue score').textContent(), '0');
+  await axe(page, 'round panel');
+  assert.deepEqual(problems, []);
+  await close();
+});
+
+test('home offers to continue the last game; categories show their sizes', async () => {
+  const { page, close } = await open();
+  await page.goto(`${fixture.origin}/play/game1`);
+  await page.locator('.playing-card').waitFor();
+  const option = await page
+    .locator('#category-select option')
+    .nth(1)
+    .textContent();
+  assert.match(option, /^.+ \(\d+\)$/);
+  await button(page, 'All games').click();
+  await button(page, 'Continue Main').click();
+  await page.locator('.playing-card').waitFor();
+  assert.equal(new URL(page.url()).pathname, '/play/game1');
+  await close();
+});
+
+test('admins can undo a removal, download a template, and start an empty deck', async () => {
+  const { page, problems, close } = await open({
+    admin: true,
+    acceptDownloads: true,
+  });
+  await page.goto(`${fixture.origin}/games`);
+  // Games table links straight to a deck's cards.
+  await page.getByRole('button', { name: 'Manage cards in Demo Deck' }).click();
+  await page
+    .getByRole('heading', { name: 'Manage Demo Deck', exact: true })
+    .waitFor();
+  const row = page.getByRole('row').filter({ hasText: 'Second card' });
+  await row.getByRole('button', { name: 'Remove', exact: true }).click();
+  await button(page, 'Confirm changes').click();
+  await page
+    .getByRole('status')
+    .filter({ hasText: '1 card removed.' })
+    .waitFor();
+  await page
+    .getByRole('row')
+    .filter({ hasText: 'Second card' })
+    .waitFor({ state: 'detached' });
+  await button(page, 'Undo').click();
+  await page
+    .getByRole('dialog', { name: 'Confirm 1 card to restore' })
+    .getByText('Second card')
+    .waitFor();
+  await button(page, 'Confirm changes').click();
+  await page
+    .getByRole('status')
+    .filter({ hasText: '1 card restored.' })
+    .waitFor();
+  await page.getByRole('row').filter({ hasText: 'Second card' }).waitFor();
+  await page.getByText('Bulk import & CSV edits').click();
+  const [download] = await Promise.all([
+    page.waitForEvent('download'),
+    button(page, 'Download a blank template').click(),
+  ]);
+  assert.equal(download.suggestedFilename(), 'demo-deck-template.csv');
+  assert.equal(
+    readFileSync(await download.path(), 'utf8'),
+    'Name,Description\n',
+  );
+  // A new game opens on a clear empty state.
+  await button(page, 'Games & formats').click();
+  await button(page, 'Add a game').click();
+  await page.getByLabel('Game name', { exact: true }).fill('Quiz Night');
+  await page
+    .getByLabel('Hide descriptions until a player taps “Reveal answer”')
+    .check();
+  await button(page, 'Review game').click();
+  await page.getByText('Answers hidden until revealed').waitFor();
+  await button(page, 'Confirm game changes').click();
+  await page.getByRole('status').filter({ hasText: 'Game created.' }).waitFor();
+  await page
+    .getByRole('row')
+    .filter({ hasText: 'Quiz Night' })
+    .getByText('Answers hidden')
+    .waitFor();
+  await page
+    .getByRole('button', { name: 'Manage cards in Quiz Night' })
+    .click();
+  await page.getByText('This deck has no cards yet.').waitFor();
+  await button(page, 'Import from CSV').click();
+  await page.getByLabel('CSV file').waitFor();
+  assert.deepEqual(problems, []);
+  await close();
 });

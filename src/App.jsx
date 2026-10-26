@@ -9,7 +9,8 @@ import {
 } from 'react';
 import { Layers, Github } from 'lucide-react';
 import { DataManager } from './utils/DataManager';
-import { deckOrder } from './utils/deckOrder';
+import { deckOrder, lastGameId, rememberLastGame } from './utils/deckOrder';
+import { useRound, useScoreboard } from './utils/useRound';
 import {
   initialRoute,
   parseRoute,
@@ -62,6 +63,7 @@ export default function App() {
   );
 
   function selectGame(game) {
+    if (game) rememberLastGame(game.id);
     setSelectedGame(game);
     setSelectedCategory(null);
     setCards([]);
@@ -154,13 +156,18 @@ export default function App() {
     return () => window.removeEventListener('popstate', listener);
   }, []);
 
-  const categories = useMemo(
-    () =>
-      Array.from(
-        new Set(cards.map((card) => card.Category).filter(Boolean)),
-      ).sort(),
-    [cards],
-  );
+  const round = useRound();
+  const scoreboard = useScoreboard();
+  // Each category with how many cards it holds, for the category picker.
+  const categories = useMemo(() => {
+    const counts = new Map();
+    for (const card of cards)
+      if (card.Category)
+        counts.set(card.Category, (counts.get(card.Category) || 0) + 1);
+    return [...counts]
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => a.name.localeCompare(b.name));
+  }, [cards]);
   const playCards = useMemo(() => {
     const byId = new Map(cards.map((card) => [card.id, card]));
     return order
@@ -242,13 +249,32 @@ export default function App() {
       />
     );
   else if (activeView === 'games')
-    content = <GameManager games={games} onChanged={refreshGames} />;
+    content = (
+      <GameManager
+        games={games}
+        onChanged={refreshGames}
+        onOpenCards={(game) => {
+          selectGame(game);
+          setView('cards');
+        }}
+      />
+    );
   else if (!session) content = null;
   else if (!selectedGame)
     content = (
       <GameSelector
         games={activeView === 'cards' ? games : playableGames}
         onSelectGame={selectGame}
+        intro={
+          activeView === 'play'
+            ? 'Pick a deck and pass the phone around. Swipe or use the ← → keys to move between cards.'
+            : ''
+        }
+        continueGame={
+          activeView === 'play'
+            ? playableGames.find((game) => game.id === lastGameId())
+            : null
+        }
         heading={
           activeView === 'cards'
             ? 'Choose a game to manage'
@@ -275,7 +301,16 @@ export default function App() {
     content = (
       <>
         {deckBar(true)}
-        {timerOpen && <RoundTimer onClose={() => setTimerOpen(false)} />}
+        {timerOpen && (
+          <RoundTimer
+            round={round}
+            scoreboard={scoreboard}
+            onClose={() => {
+              round.reset();
+              setTimerOpen(false);
+            }}
+          />
+        )}
         {loading ? (
           <p className="empty-state" role="status">
             Shuffling the deck…
@@ -289,6 +324,8 @@ export default function App() {
             session={session}
             onVote={onVote}
             onReshuffle={reshuffle}
+            revealDescription={selectedGame.revealDescription}
+            round={timerOpen ? round : null}
           />
         )}
       </>

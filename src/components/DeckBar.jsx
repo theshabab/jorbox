@@ -44,8 +44,8 @@ export default function DeckBar({
           >
             <option value="">All categories</option>
             {categories.map((item) => (
-              <option key={item} value={item}>
-                {item}
+              <option key={item.name} value={item.name}>
+                {item.name} ({item.count.toLocaleString()})
               </option>
             ))}
           </select>

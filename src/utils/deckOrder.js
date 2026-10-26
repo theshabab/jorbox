@@ -56,3 +56,20 @@ export function savePosition(gameId, filter, cardId) {
     positions: { ...stored.positions, [filter]: cardId },
   });
 }
+
+// The last game played on this device, offered as "Continue" on the home screen.
+const LAST_KEY = 'jorbox:last-game';
+export function rememberLastGame(gameId) {
+  try {
+    localStorage.setItem(LAST_KEY, gameId);
+  } catch {
+    // Not remembered; the home screen just shows every game.
+  }
+}
+export function lastGameId() {
+  try {
+    return localStorage.getItem(LAST_KEY);
+  } catch {
+    return null;
+  }
+}

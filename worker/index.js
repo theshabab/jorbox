@@ -514,12 +514,19 @@ async function manageGame(request, env, user) {
       typeof data.clearCategories !== 'boolean'
     )
       fail(400, 'Choose whether to clear existing categories.');
+    if (
+      data.revealDescription !== undefined &&
+      typeof data.revealDescription !== 'boolean'
+    )
+      fail(400, 'Choose whether descriptions are hidden until revealed.');
     fields = {
       name: data.name.trim(),
       cardFormat: data.cardFormat,
       hasCategories: data.hasCategories,
       defaultCategory: data.defaultCategory?.trim() || '',
       clearCategories: !data.hasCategories && data.clearCategories === true,
+      // Optional so older clients keep working; an edit without it keeps the setting.
+      revealDescription: data.revealDescription,
     };
   }
   const operation = crypto.randomUUID();
@@ -540,7 +547,7 @@ async function manageGame(request, env, user) {
     statement(
       env,
       `INSERT INTO audit_log (id,github_id,login,game_id,action,details) SELECT ?,?,?,?,?,json_patch(json(?),json_object('before',
-      json(COALESCE((SELECT json_object('name',name,'cardFormat',card_format,'hasCategories',json(CASE WHEN has_categories THEN 'true' ELSE 'false' END),'version',version) FROM games WHERE id=?),'null'))))`,
+      json(COALESCE((SELECT json_object('name',name,'cardFormat',card_format,'hasCategories',json(CASE WHEN has_categories THEN 'true' ELSE 'false' END),'revealDescription',json(CASE WHEN reveal_description THEN 'true' ELSE 'false' END),'version',version) FROM games WHERE id=?),'null'))))`,
       operation,
       user.github_id,
       user.login,
@@ -554,11 +561,12 @@ async function manageGame(request, env, user) {
     statements.push(
       statement(
         env,
-        'INSERT INTO games (id,name,has_categories,card_format) VALUES (?,?,?,?)',
+        'INSERT INTO games (id,name,has_categories,card_format,reveal_description) VALUES (?,?,?,?,?)',
         id,
         fields.name,
         Number(fields.hasCategories),
         fields.cardFormat,
+        Number(fields.revealDescription === true),
       ),
     );
   } else if (action === 'edit') {
@@ -605,10 +613,13 @@ async function manageGame(request, env, user) {
     statements.push(
       statement(
         env,
-        'UPDATE games SET name=?,has_categories=?,card_format=?,version=version+1 WHERE id=?',
+        'UPDATE games SET name=?,has_categories=?,card_format=?,reveal_description=COALESCE(?,reveal_description),version=version+1 WHERE id=?',
         fields.name,
         Number(fields.hasCategories),
         fields.cardFormat,
+        fields.revealDescription === undefined
+          ? null
+          : Number(fields.revealDescription),
         id,
       ),
     );
@@ -719,7 +730,7 @@ const handlers = [
       if (removed && !user?.isAdmin)
         fail(403, 'Administrator access required.');
       const { results } = await env.DB.prepare(
-        `SELECT g.id,g.name,g.has_categories AS hasCategories,g.card_format AS cardFormat,g.version,
+        `SELECT g.id,g.name,g.has_categories AS hasCategories,g.card_format AS cardFormat,g.reveal_description AS revealDescription,g.version,
       (SELECT COUNT(*) FROM cards WHERE game_id=g.id AND deleted_at IS NULL) AS cardCount
       FROM games g WHERE g.deleted_at IS ${removed ? 'NOT ' : ''}NULL
       ORDER BY CASE WHEN g.id GLOB 'game[0-9]*' AND SUBSTR(g.id,5) NOT GLOB '*[^0-9]*' THEN CAST(SUBSTR(g.id,5) AS INTEGER) ELSE 2147483647 END,g.name COLLATE NOCASE,g.id`,
@@ -729,6 +740,7 @@ const handlers = [
         results.map((game) => ({
           ...game,
           hasCategories: Boolean(game.hasCategories),
+          revealDescription: Boolean(game.revealDescription),
         })),
       );
     },

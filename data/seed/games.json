@@ -51,7 +51,8 @@
         "id": "game9",
         "name": "Trivia",
         "csv": "/data/game9.csv",
-        "hasCategories": false
+        "hasCategories": false,
+        "revealDescription": true
     },
     {
         "id": "game10",

@@ -1426,3 +1426,47 @@ test('signing in moves anonymous votes to the account so one person counts once'
   }
   await db.prepare("DELETE FROM votes WHERE card_id='other'").run();
 });
+
+test('games can hide descriptions until revealed; edits without the flag keep it', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%'").run();
+  const game = await createGame({ name: 'Quiz' });
+  assert.equal(game.revealDescription, false);
+  assert.equal(
+    (await gameWrite('edit', { ...game, revealDescription: true })).status,
+    200,
+  );
+  let updated = (await (await request('/games')).json()).find(
+    (row) => row.id === game.id,
+  );
+  assert.equal(updated.revealDescription, true);
+  // An older client that does not send the flag must not switch it off.
+  const { revealDescription: _omit, ...legacy } = updated;
+  assert.equal(
+    (await gameWrite('edit', { ...legacy, name: 'Quiz night' })).status,
+    200,
+  );
+  updated = (await (await request('/games')).json()).find(
+    (row) => row.id === game.id,
+  );
+  assert.equal(updated.revealDescription, true);
+  assert.equal(
+    (await gameWrite('edit', { ...updated, revealDescription: 'yes' })).status,
+    400,
+  );
+  const audit = JSON.parse(
+    (
+      await db
+        .prepare(
+          "SELECT details FROM audit_log WHERE game_id=? AND action='game:edit' ORDER BY rowid DESC LIMIT 1",
+        )
+        .bind(game.id)
+        .first()
+    ).details,
+  );
+  assert.equal(audit.before.revealDescription, true);
+  assert.equal(
+    (await createGame({ name: 'Answers hidden', revealDescription: true }))
+      .revealDescription,
+    true,
+  );
+});
