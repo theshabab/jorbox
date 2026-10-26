@@ -794,18 +794,20 @@ test('players suggest cards and administrators review them from the queue', asyn
   await close();
 });
 
-test('opened decks keep working offline after the app has loaded once', async () => {
+test('a deck opened on the very first visit keeps working offline', async () => {
   const { page, close } = await open({ viewport: PHONE });
   await page.goto(`${fixture.origin}/play/game12`);
   await page.locator('.playing-card').waitFor();
-  // Wait until the service worker controls the page, then load the deck once more
-  // through it so it is saved.
-  await page.evaluate(() => navigator.serviceWorker.ready);
-  await page.reload();
-  await page.locator('.playing-card').waitFor();
-  assert.ok(
-    await page.evaluate(() => Boolean(navigator.serviceWorker.controller)),
-  );
+  // No second online load: once the worker takes control it saves what the
+  // app needs to start (session, game list and this deck).
+  await page.waitForFunction(async () => {
+    const saved = await Promise.all(
+      ['/api/session', '/api/games', '/api/games/game12/cards', '/'].map(
+        (url) => caches.match(url, { ignoreVary: true }),
+      ),
+    );
+    return saved.every(Boolean);
+  });
   const card = await page.locator('.playing-card h2').textContent();
   await page.context().setOffline(true);
   await page.reload();
@@ -815,6 +817,32 @@ test('opened decks keep working offline after the app has loaded once', async ()
   await page.getByRole('button', { name: 'Like', exact: true }).click();
   await page.getByRole('alert').filter({ hasText: 'offline' }).waitFor();
   await shot(page, 'offline-mobile');
+  await page.context().setOffline(false);
+  await close();
+});
+
+test('administrator data is never saved for offline use', async () => {
+  const { page, close } = await open({ admin: true });
+  await page.locator('.game-tile').first().waitFor();
+  await page.waitForFunction(() => Boolean(navigator.serviceWorker.controller));
+  // Opening an administrator API address directly in a tab is not an app page.
+  await page.goto(`${fixture.origin}/api/admin/suggestions`);
+  const saved = await page.evaluate(async () => {
+    const cache = await caches.open((await caches.keys())[0]);
+    const keys = (await cache.keys()).map(
+      (request) => new URL(request.url).pathname,
+    );
+    const shell = await cache.match('/');
+    return { keys, shell: shell && (await shell.text()).slice(0, 15) };
+  });
+  assert.ok(
+    saved.keys.every((path) => !path.startsWith('/api/admin')),
+    saved.keys.join(', '),
+  );
+  assert.equal(saved.shell, '<!doctype html>');
+  await page.context().setOffline(true);
+  await page.goto(`${fixture.origin}/`);
+  await page.locator('.brand').waitFor();
   await page.context().setOffline(false);
   await close();
 });

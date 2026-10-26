@@ -1,10 +1,24 @@
 // Offline support. Bump CACHE when the caching rules change.
-const CACHE = 'jorbox-v1';
+const CACHE = 'jorbox-v2';
 // Every page is the same single-page app shell.
 const SHELL = '/';
 
+// Save the app shell and the script and style files it references, so the app
+// starts offline even when the first visit loaded them before this worker ran.
 self.addEventListener('install', (event) => {
-  event.waitUntil(caches.open(CACHE).then((cache) => cache.add(SHELL)));
+  event.waitUntil(
+    (async () => {
+      const cache = await caches.open(CACHE);
+      const response = await fetch(SHELL, { cache: 'no-cache' });
+      if (!response.ok) return;
+      await cache.put(SHELL, response.clone());
+      const html = await response.text();
+      const assets = [
+        ...html.matchAll(/(?:src|href)="(\/assets\/[^"]+)"/g),
+      ].map((match) => match[1]);
+      await cache.addAll(assets);
+    })(),
+  );
   self.skipWaiting();
 });
 
@@ -30,8 +44,10 @@ self.addEventListener('fetch', (event) => {
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
-  if (request.mode === 'navigate')
-    event.respondWith(networkFirst(request, SHELL));
+  // Only app pages are the shell. Opening an API address in a tab (for example
+  // an administrator report) must never be saved as the home page.
+  if (request.mode === 'navigate' && !url.pathname.startsWith('/api/'))
+    event.respondWith(networkFirst(request, SHELL, isPage));
   else if (
     url.pathname.startsWith('/assets/') ||
     url.pathname.startsWith('/icons/')
@@ -40,12 +56,18 @@ self.addEventListener('fetch', (event) => {
   else if (playerData(url)) event.respondWith(networkFirst(request));
 });
 
+const isPage = (response) =>
+  response.headers.get('Content-Type')?.includes('text/html');
+const storable = (response) =>
+  response.ok && !/no-store/i.test(response.headers.get('Cache-Control') || '');
+
 // Fresh content when online; the last saved copy when the network fails.
-async function networkFirst(request, key = request) {
+async function networkFirst(request, key = request, accept = () => true) {
   const cache = await caches.open(CACHE);
   try {
     const response = await fetch(request);
-    if (response.ok) await cache.put(key, response.clone());
+    if (storable(response) && accept(response))
+      await cache.put(key, response.clone());
     return response;
   } catch (error) {
     // Responses vary by cookie, which a service worker cannot see; this device's
@@ -62,6 +84,6 @@ async function cacheFirst(request) {
   const saved = await cache.match(request);
   if (saved) return saved;
   const response = await fetch(request);
-  if (response.ok) await cache.put(request, response.clone());
+  if (storable(response)) await cache.put(request, response.clone());
   return response;
 }

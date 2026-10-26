@@ -746,6 +746,10 @@ const handlers = [
       });
       if (identity.cookie)
         response.headers.append('Set-Cookie', identity.cookie);
+      // Revalidated on every use, but a device may keep it so the app can start
+      // offline. Administrator endpoints stay no-store and are never kept.
+      response.headers.set('Cache-Control', 'private, no-cache');
+      response.headers.set('Vary', 'Cookie');
       return response;
     },
   ],
