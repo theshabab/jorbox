@@ -6,7 +6,23 @@ import { resolve, extname } from 'node:path';
 import worker from '../../worker/index.js';
 const repositoryRoot = fileURLToPath(new URL('../../', import.meta.url));
 
-export async function startFixture() {
+// Applies the `/*` block of dist/_headers (CSP and friends) to static responses,
+// so browser tests run under the same policy as production.
+function staticHeaders(root) {
+  const headers = {};
+  let inBlock = false;
+  for (const line of readFileSync(resolve(root, '_headers'), 'utf8').split('\n')) {
+    if (!line.trim() || line.startsWith('#')) continue;
+    if (!/^\s/.test(line)) inBlock = line.trim() === '/*';
+    else if (inBlock) {
+      const i = line.indexOf(':');
+      headers[line.slice(0, i).trim()] = line.slice(i + 1).trim();
+    }
+  }
+  return headers;
+}
+
+export async function startFixture({ seed = false } = {}) {
   const mf = new Miniflare(
     convertV4MiniflareOptions({
       workers: [
@@ -54,6 +70,14 @@ export async function startFixture() {
       )
       .bind(tokenHash, '48080916', 'thehaseebshah', 9999999999),
   ]);
+  if (seed) {
+    // The real 19,420-card baseline, for realistic layout and performance checks.
+    const lines = readFileSync(resolve(repositoryRoot, 'worker/seed.sql'), 'utf8')
+      .split('\n')
+      .filter((line) => line.startsWith('INSERT'));
+    for (let i = 0; i < lines.length; i += 500)
+      await db.batch(lines.slice(i, i + 500).map((line) => db.prepare(line)));
+  }
   let origin;
   const env = {
     DB: db,
@@ -65,11 +89,12 @@ export async function startFixture() {
     ASSETS: {
       fetch(request) {
         const root = resolve(repositoryRoot, 'dist');
+        const security = staticHeaders(root);
         const path = new URL(request.url).pathname;
         const file = resolve(root, path.slice(1));
         if (!file.startsWith(root + '/'))
           return new Response(readFileSync(root + '/index.html'), {
-            headers: { 'Content-Type': 'text/html' },
+            headers: { 'Content-Type': 'text/html', ...security },
           });
         try {
           return new Response(readFileSync(file), {
@@ -81,11 +106,12 @@ export async function startFixture() {
                   '.svg': 'image/svg+xml',
                   '.html': 'text/html',
                 }[extname(file)] || 'application/octet-stream',
+              ...security,
             },
           });
         } catch {
           return new Response(readFileSync(root + '/index.html'), {
-            headers: { 'Content-Type': 'text/html' },
+            headers: { 'Content-Type': 'text/html', ...security },
           });
         }
       },
@@ -120,6 +146,7 @@ export async function startFixture() {
   origin = `http://127.0.0.1:${server.address().port}`;
   return {
     origin,
+    db,
     stop: async () => {
       await new Promise((resolve) => server.close(resolve));
       await mf.dispose();

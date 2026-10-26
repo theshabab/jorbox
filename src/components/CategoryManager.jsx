@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { DataManager } from '../utils/DataManager';
+import Dialog from './Dialog';
 
 export default function CategoryManager({ game, onChanged }) {
   const [data, setData] = useState(null);
@@ -59,10 +60,9 @@ export default function CategoryManager({ game, onChanged }) {
     }
   }
   return (
-    <div className="editor" aria-label="Category management">
+    <div className="editor">
       <div className="manager-heading">
         <div>
-          <h3>Category manager</h3>
           <p className="muted">
             Rename a category, or merge it into an existing one. Active and
             removed cards are included.
@@ -72,7 +72,7 @@ export default function CategoryManager({ game, onChanged }) {
           Refresh categories
         </button>
       </div>
-      {error && (
+      {error && !pending && (
         <p className="notice error" role="alert">
           {error}
         </p>
@@ -159,10 +159,16 @@ export default function CategoryManager({ game, onChanged }) {
         </button>
       </fieldset>
       {pending && (
+        <Dialog
+          title={`Move “${pending.from}” to “${pending.to}”`}
+          onClose={() => !busy && setPending(null)}
+        >
         <div className="review-panel" aria-label="Review category changes">
-          <h3>
-            Move “{pending.from}” to “{pending.to}”
-          </h3>
+          {error && (
+            <p className="notice error" role="alert">
+              {error}
+            </p>
+          )}
           <p>
             {pending.active} active cards and {pending.removed} removed cards
             will change category. Their content and feedback stay as they are.
@@ -185,6 +191,7 @@ export default function CategoryManager({ game, onChanged }) {
             </button>
           </div>
         </div>
+        </Dialog>
       )}
     </div>
   );

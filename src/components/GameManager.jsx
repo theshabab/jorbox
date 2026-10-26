@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { DataManager } from '../utils/DataManager';
 import { CARD_FORMATS } from '../utils/cardFormats';
+import Dialog from './Dialog';
 
 const newGame = {
   name: '',
@@ -79,7 +80,7 @@ export default function GameManager({ games, onChanged }) {
           </p>
         </div>
       </div>
-      {error && (
+      {error && !pending && (
         <p className="notice error" role="alert">
           {error}
         </p>
@@ -115,7 +116,7 @@ export default function GameManager({ games, onChanged }) {
         </div>
         {loading && <p role="status">Loading games…</p>}
         <div className="table-scroll">
-          <table>
+          <table className="stack-table">
             <thead>
               <tr>
                 <th>Game</th>
@@ -133,16 +134,16 @@ export default function GameManager({ games, onChanged }) {
                       <p className="muted">With categories</p>
                     )}
                   </td>
-                  <td>
+                  <td data-label="Format">
                     {
                       CARD_FORMATS.find(
                         (format) => format.value === game.cardFormat,
                       )?.label
                     }
                   </td>
-                  <td>{game.cardCount}</td>
+                  <td data-label="Cards">{game.cardCount.toLocaleString()}</td>
                   <td>
-                    <div className="button-row">
+                    <div className="row-actions">
                       {!removed && (
                         <button
                           className="btn-secondary"
@@ -159,7 +160,9 @@ export default function GameManager({ games, onChanged }) {
                         </button>
                       )}
                       <button
-                        className={removed ? 'btn-secondary' : 'btn-danger'}
+                        className={
+                          removed ? 'btn-secondary' : 'btn-danger-quiet'
+                        }
                         onClick={() =>
                           review(removed ? 'restore' : 'remove', game)
                         }
@@ -178,7 +181,15 @@ export default function GameManager({ games, onChanged }) {
             No {removed ? 'removed' : 'active'} games.
           </p>
         )}
-        {editor && (
+      </fieldset>
+      {editor && (
+        <Dialog
+          title={editor.id ? 'Edit game' : 'New game'}
+          onClose={() => {
+            setEditor(null);
+            setPending(null);
+          }}
+        >
           <form
             className="editor"
             onSubmit={(event) => {
@@ -186,7 +197,6 @@ export default function GameManager({ games, onChanged }) {
               review(editor.id ? 'edit' : 'create', editor);
             }}
           >
-            <h3>{editor.id ? 'Edit game' : 'New game'}</h3>
             <label>
               Game name
               <input
@@ -298,17 +308,19 @@ export default function GameManager({ games, onChanged }) {
               </button>
             </div>
           </form>
-        )}
-      </fieldset>
+        </Dialog>
+      )}
       {pending && (
+        <Dialog
+          title={`Confirm ${pending.action === 'create' ? 'new game' : `${pending.action} game`}: ${pending.game.name}`}
+          onClose={() => !busy && setPending(null)}
+        >
         <div className="review-panel" aria-label="Review game changes">
-          <h3>
-            Confirm{' '}
-            {pending.action === 'create'
-              ? 'new game'
-              : `${pending.action} game`}
-            : {pending.game.name}
-          </h3>
+          {error && (
+            <p className="notice error" role="alert">
+              {error}
+            </p>
+          )}
           {['create', 'edit'].includes(pending.action) ? (
             <>
               <p>
@@ -361,6 +373,7 @@ export default function GameManager({ games, onChanged }) {
             </button>
           </div>
         </div>
+        </Dialog>
       )}
     </section>
   );

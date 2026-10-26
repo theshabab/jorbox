@@ -40,7 +40,9 @@ const AuroraBokehBackground = () => (
                     left: blob.left,
                     width: blob.size,
                     height: blob.size,
-                    background: blob.color,
+                    // A soft-edged gradient looks like the old 90px blur without
+                    // re-filtering a screen-sized layer on every animation frame.
+                    background: `radial-gradient(circle, ${blob.color} 0%, transparent 70%)`,
                     animation: blob.animation
                 }}
             />

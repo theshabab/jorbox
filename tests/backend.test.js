@@ -38,7 +38,7 @@ after(async () => { await mf?.dispose(); });
 test('public decks preserve partial shapes and issue a persistent visitor cookie', async () => {
   const response = await request('/games/game2/cards');
   assert.equal(response.status, 200);
-  assert.equal(response.headers.get('Cache-Control'), 'no-store');
+  assert.equal(response.headers.get('Cache-Control'), 'private, no-cache');
   assert.match(response.headers.get('Set-Cookie'), /HttpOnly; SameSite=Lax/);
   const [card] = await response.json();
   assert.equal(card.Name, ''); assert.equal(card.Description, 'Description only');
@@ -133,11 +133,17 @@ test('per-IP feedback throttling works even when cookies are reset and renews ne
   // Keep the requests in one bucket even if CI runs across a minute boundary.
   let clock = Math.floor(Date.now() / 60000) * 60000;
   t.mock.method(Date, 'now', () => clock);
-  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'vote:%'").run();
-  for (let i = 0; i < 60; i++) assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 200);
-  assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 429);
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'vote:%' OR key LIKE 'visitor:%'").run();
+  const freshVisitor = async () => (await request('/session')).headers.get('Set-Cookie').split(';')[0];
+  for (let i = 0; i < 60; i++) {
+    // Clearing cookies between votes gives a new identity, but not a new budget.
+    const cookie = i % 3 === 0 ? await freshVisitor() : undefined;
+    if (cookie) assert.equal((await request('/cards/original/vote', { data: { value: 0 }, cookie })).status, 200);
+    else assert.equal((await request('/cards/original/vote', { data: { value: 0 }, cookie: userCookie })).status, 200);
+  }
+  assert.equal((await request('/cards/original/vote', { data: { value: 0 }, cookie: userCookie })).status, 429);
   clock += 60000;
-  assert.equal((await request('/cards/original/vote', { data: { value: 0 } })).status, 200);
+  assert.equal((await request('/cards/original/vote', { data: { value: 0 }, cookie: userCookie })).status, 200);
 });
 
 const gameWrite = (action, game, options = {}) => request('/games/manage', { data: { action, ...game }, cookie: adminCookie, ...options });
@@ -286,7 +292,7 @@ test('new administrator reports, category tools, and copying reject non-admin an
   }
 });
 
-const copy = (source, target, cards, extra = {}) => request(`/games/${source.id}/cards/copy`, { cookie: adminCookie, data: { targetId: target.id, targetVersion: target.version, cards, ...extra } });
+const copy = (source, target, cards, extra = {}) => request(`/games/${source.id}/cards/copy`, { cookie: adminCookie, data: { sourceVersion: source.version, targetId: target.id, targetVersion: target.version, cards, ...extra } });
 
 test('copying cards gives new identities, preserves source votes, maps categories, and enforces formats and boundaries', async () => {
   await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%' OR key LIKE 'vote:%'").run();
@@ -324,7 +330,7 @@ test('a concurrent destination format change rolls back all copied cards and aud
     if (!raced) { raced = true; await db.prepare("UPDATE games SET card_format='description',version=version+1 WHERE id=?").bind(target.id).run(); }
     return db.batch(statements);
   }};
-  const response = await request(`/games/${source.id}/cards/copy`, { cookie: adminCookie, data: { targetId: target.id, targetVersion: 1, cards: [{ id: ids[0], version: 1 }] }, extraEnv: { DB: racingDB } });
+  const response = await request(`/games/${source.id}/cards/copy`, { cookie: adminCookie, data: { sourceVersion: 1, targetId: target.id, targetVersion: 1, cards: [{ id: ids[0], version: 1 }] }, extraEnv: { DB: racingDB } });
   assert.equal(response.status, 409);
   assert.equal((await gameCards(target)).length, 0);
   assert.equal((await db.prepare("SELECT COUNT(*) AS count FROM audit_log WHERE game_id=? AND action='copy'").bind(target.id).first()).count, 0);
@@ -396,4 +402,91 @@ test('activity history paginates without overlap, includes removed games, and hi
   await gameWrite('remove', game);
   const removed = await (await request(`/admin/activity?game=${game.id}`, { cookie: adminCookie })).json();
   assert.equal(removed.entries[0].action, 'game:remove'); assert.equal(removed.entries[0].gameName, game.name);
+});
+
+test('votes need a previously issued visitor identity, and new identities are capped per network', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'vote:%' OR key LIKE 'visitor:%'").run();
+  // A cookieless request cannot mint an identity by voting.
+  const anonymous = await request('/cards/original/vote', { data: { value: 1 } });
+  assert.equal(anonymous.status, 403);
+  assert.equal(anonymous.headers.get('Set-Cookie'), null);
+  const forged = await request('/cards/original/vote', { data: { value: 1 }, cookie: `jb_visitor=${'a'.repeat(43)}.${'b'.repeat(43)}` });
+  assert.equal(forged.status, 403);
+  // IPv6 clients share a budget across their /64.
+  const ipv6 = suffix => ({ 'CF-Connecting-IP': `2001:db8:1:2::${suffix}` });
+  let issued = 0;
+  for (let i = 0; i < 35; i++) {
+    const response = await worker.fetch(new Request(`${origin}/api/session`, { headers: ipv6(i.toString(16)) }), { ...env, DB: db });
+    if (response.headers.get('Set-Cookie')) issued++;
+    assert.equal(response.status, 200);
+  }
+  assert.equal(issued, 30);
+  const other = await worker.fetch(new Request(`${origin}/api/session`, { headers: { 'CF-Connecting-IP': '2001:db8:1:3::1' } }), { ...env, DB: db });
+  assert.ok(other.headers.get('Set-Cookie'));
+});
+
+test('reads keep working without a cookie secret; voting reports that feedback is unavailable', async () => {
+  const extraEnv = { COOKIE_SECRET: '' };
+  const session = await request('/session', { extraEnv });
+  assert.equal(session.status, 200);
+  assert.equal((await session.json()).feedbackEnabled, false);
+  const cards = await request('/games/game2/cards', { extraEnv });
+  assert.equal(cards.status, 200);
+  assert.equal((await cards.json())[0].myVote, 0);
+  assert.equal((await request('/cards/other/vote', { data: { value: 1 }, extraEnv })).status, 503);
+  assert.equal((await request('/cards/other/vote', { data: { value: 0 }, cookie: userCookie, extraEnv })).status, 200);
+});
+
+test('card and game lists support conditional requests; malformed paths are client errors', async () => {
+  const first = await request('/games/game2/cards', { cookie: userCookie });
+  const etag = first.headers.get('ETag');
+  assert.match(etag, /^W\/"/);
+  const repeat = await worker.fetch(new Request(`${origin}/api/games/game2/cards`, { headers: { Cookie: userCookie, 'If-None-Match': etag } }), { ...env, DB: db });
+  assert.equal(repeat.status, 304);
+  await request('/cards/other/vote', { data: { value: 1 }, cookie: userCookie });
+  const changed = await worker.fetch(new Request(`${origin}/api/games/game2/cards`, { headers: { Cookie: userCookie, 'If-None-Match': etag } }), { ...env, DB: db });
+  assert.equal(changed.status, 200);
+  await request('/cards/other/vote', { data: { value: 0 }, cookie: userCookie });
+  assert.equal((await request('/games/%E0%A4%A/cards')).status, 400);
+});
+
+test('audits keep previous card content and game settings; copies reject a stale source game', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'admin:%'").run();
+  const game = await createGame();
+  const { ids } = await (await gameBulk(game, 'import', [{ Name: 'Before' }])).json();
+  assert.equal((await gameBulk(game, 'edit', [{ id: ids[0], version: 1, Name: 'After' }])).status, 200);
+  const edit = JSON.parse((await db.prepare("SELECT details FROM audit_log WHERE game_id=? AND action='edit'").bind(game.id).first()).details);
+  assert.equal(edit.before[0].Name, 'Before'); assert.equal(edit.cards[0].Name, 'After');
+  assert.equal((await gameWrite('edit', { ...game, name: 'Renamed deck' })).status, 200);
+  const gameEdit = JSON.parse((await db.prepare("SELECT details FROM audit_log WHERE game_id=? AND action='game:edit'").bind(game.id).first()).details);
+  assert.equal(gameEdit.before.name, 'Test deck'); assert.equal(gameEdit.before.hasCategories, false); assert.equal(gameEdit.name, 'Renamed deck');
+  const activityReport = await (await request(`/admin/activity?game=${game.id}`, { cookie: adminCookie })).json();
+  assert.ok(!JSON.stringify(activityReport).includes('Before'));
+  const target = await createGame();
+  assert.equal((await copy(game, target, [{ id: ids[0], version: 2 }])).status, 409);
+  assert.equal((await copy({ ...game, version: 2 }, target, [{ id: ids[0], version: 2 }])).status, 201);
+});
+
+test('signing in moves anonymous votes to the account so one person counts once', async () => {
+  await db.prepare("DELETE FROM rate_limits WHERE key LIKE 'vote:%' OR key LIKE 'visitor:%' OR key LIKE 'auth:%'").run();
+  const visitor = (await request('/session')).headers.get('Set-Cookie').split(';')[0];
+  assert.equal((await request('/cards/other/vote', { data: { value: -1 }, cookie: visitor })).status, 200);
+  const start = await request('/auth/github');
+  const state = new URL(start.headers.get('Location')).searchParams.get('state');
+  const originalFetch = globalThis.fetch;
+  globalThis.fetch = async (url) => {
+    if (url === 'https://github.com/login/oauth/access_token') return Response.json({ access_token: 'github-test-token' });
+    if (url === 'https://api.github.com/user') return Response.json({ id: 777, login: 'returning-player' });
+    throw new Error('Unexpected network request');
+  };
+  try {
+    const response = await request(`/auth/github/callback?state=${state}&code=test`, { cookie: `jb_oauth=${state}; ${visitor}` });
+    assert.equal(response.status, 302);
+    const account = response.headers.getSetCookie().find(value => value.startsWith('jb_session=')).split(';')[0];
+    const [card] = await (await request('/games/game2/cards', { cookie: account })).json();
+    assert.equal(card.myVote, -1);
+    assert.equal(card.dislikes, 1);
+    assert.equal((await db.prepare("SELECT COUNT(*) AS count FROM votes WHERE card_id='other'").first()).count, 1);
+  } finally { globalThis.fetch = originalFetch; }
+  await db.prepare("DELETE FROM votes WHERE card_id='other'").run();
 });

@@ -1,70 +1,133 @@
-import { useState, useEffect, useMemo } from 'react';
+import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
 import { Layers, Github } from 'lucide-react';
 import { DataManager } from './utils/DataManager';
+import { deckOrder } from './utils/deckOrder';
 import GameSelector from './components/GameSelector';
+import DeckBar from './components/DeckBar';
 import CardViewer from './components/CardViewer';
-import CategorySelector from './components/CategorySelector';
 import AuroraBokehBackground from './components/AuroraBokehBackground';
-import CardManager from './components/CardManager';
-import GameManager from './components/GameManager';
-import AdminReports from './components/AdminReports';
 
-const shuffle = (items) => {
-  const arr = [...items];
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-};
+// Administrator screens (and the CSV parser they use) load only when opened.
+const CardManager = lazy(() => import('./components/CardManager'));
+const GameManager = lazy(() => import('./components/GameManager'));
+const AdminReports = lazy(() => import('./components/AdminReports'));
+
+const VIEWS = [
+  ['play', 'Play'],
+  ['cards', 'Manage cards'],
+  ['games', 'Games & formats'],
+  ['reports', 'Reports'],
+];
 
 export default function App() {
   const [games, setGames] = useState([]);
   const [selectedGame, setSelectedGame] = useState(null);
+  // Cards in server (deck) order; the player view applies its own shuffled order.
   const [cards, setCards] = useState([]);
+  const [order, setOrder] = useState([]);
+  const [shuffles, setShuffles] = useState(0);
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [session, setSession] = useState(null);
-  const [managing, setManaging] = useState(false);
-  const [managingGames, setManagingGames] = useState(false);
-  const [reports, setReports] = useState(false);
+  const [view, setView] = useState('play');
   const [focusCard, setFocusCard] = useState('');
   const [revision, setRevision] = useState(0);
   const [retry, setRetry] = useState(0);
+  const isAdmin = Boolean(session?.user?.isAdmin);
+  const activeView = isAdmin ? view : 'play';
 
   useEffect(() => {
     let active = true;
-    Promise.all([DataManager.fetchGames(), DataManager.fetchSession()]).then(([games, session]) => {
-      if (active) { setGames(games); setSession(session); setError(''); }
-    }).catch(error => { if (active) setError(error.message); }).finally(() => { if (active) setLoading(false); });
-    return () => { active = false; };
+    Promise.all([DataManager.fetchGames(), DataManager.fetchSession()])
+      .then(([games, session]) => {
+        if (active) {
+          setGames(games);
+          setSession(session);
+          setError('');
+        }
+      })
+      .catch((error) => {
+        if (active) setError(error.message);
+      })
+      .finally(() => {
+        if (active) setLoading(false);
+      });
+    return () => {
+      active = false;
+    };
   }, [retry]);
 
   useEffect(() => {
     if (!selectedGame) return;
     let active = true;
-    DataManager.fetchGameData(selectedGame.id).then(data => {
-      if (active) { setCards(shuffle(data)); setError(''); }
-    }).catch(error => { if (active) { setError(error.message); setCards([]); } }).finally(() => { if (active) setLoading(false); });
-    return () => { active = false; };
+    DataManager.fetchGameData(selectedGame.id)
+      .then((data) => {
+        if (active) {
+          setCards(data);
+          setOrder(deckOrder(selectedGame.id, data));
+          setError('');
+        }
+      })
+      .catch((error) => {
+        if (active) {
+          setError(error.message);
+          setCards([]);
+        }
+      })
+      .finally(() => {
+        if (active) setLoading(false);
+      });
+    return () => {
+      active = false;
+    };
   }, [selectedGame, revision]);
 
-  const categories = useMemo(() => Array.from(new Set(cards.map(card => card.Category).filter(Boolean))).sort(), [cards]);
-  const filteredCards = useMemo(() => selectedCategory ? cards.filter(card => card.Category === selectedCategory) : cards, [cards, selectedCategory]);
+  const categories = useMemo(
+    () =>
+      Array.from(
+        new Set(cards.map((card) => card.Category).filter(Boolean)),
+      ).sort(),
+    [cards],
+  );
+  const playCards = useMemo(() => {
+    const byId = new Map(cards.map((card) => [card.id, card]));
+    return order
+      .map((id) => byId.get(id))
+      .filter(
+        (card) =>
+          card && (!selectedCategory || card.Category === selectedCategory),
+      );
+  }, [cards, order, selectedCategory]);
+
   function selectGame(game) {
-    setSelectedGame(game); setSelectedCategory(null); setCards([]); setLoading(true); setManaging(false); setManagingGames(false); setReports(false); setFocusCard(''); setError('');
+    setSelectedGame(game);
+    setSelectedCategory(null);
+    setCards([]);
+    setOrder([]);
+    setLoading(Boolean(game));
+    setFocusCard('');
+    setError('');
+  }
+  function reshuffle() {
+    setOrder(deckOrder(selectedGame.id, cards, true));
+    setShuffles((value) => value + 1);
   }
   function refreshCards() {
-    setLoading(true); setRevision(value => value + 1);
-    DataManager.fetchGames().then(setGames).catch(error => setError(error.message));
+    setLoading(true);
+    setRevision((value) => value + 1);
+    DataManager.fetchGames()
+      .then(setGames)
+      .catch((error) => setError(error.message));
   }
   async function refreshGames() {
     const updated = await DataManager.fetchGames();
     setGames(updated);
     if (selectedGame) {
-      const current = updated.find(game => game.id === selectedGame.id);
-      setSelectedGame(current || null); setSelectedCategory(null); setCards([]); setManaging(false);
+      const current = updated.find((game) => game.id === selectedGame.id);
+      setSelectedGame(current || null);
+      setSelectedCategory(null);
+      setCards([]);
       setLoading(Boolean(current));
     }
   }
@@ -72,36 +135,192 @@ export default function App() {
     try {
       await DataManager.logout();
       setSession(await DataManager.fetchSession());
-      setManaging(false);
-      setManagingGames(false);
-      setReports(false);
+      setView('play');
       if (selectedGame) refreshCards();
-    } catch (error) { setError(error.message); }
+    } catch (error) {
+      setError(error.message);
+    }
   }
-  function onVote(id, feedback) { setCards(previous => previous.map(card => card.id === id ? { ...card, ...feedback } : card)); }
+  function onVote(id, feedback) {
+    setCards((previous) =>
+      previous.map((card) => (card.id === id ? { ...card, ...feedback } : card)),
+    );
+  }
 
-  return <div className="app-container">
-    <AuroraBokehBackground />
-    <header className="app-header">
-      <div className="brand"><Layers size={32} color="var(--accent-primary)" /><h1>Shabab JorBox</h1></div>
-      <p className="subtitle">Companion App</p>
-      <div className="account-bar">
-        {session?.user ? <><span>Signed in as <strong>{session.user.login}</strong>{session.user.isAdmin && ' · Administrator'}</span><button className="btn-secondary" onClick={logout}>Sign out</button></> : session?.githubEnabled ? <a className="btn-secondary" href="/api/auth/github"><Github size={18} /> Sign in with GitHub</a> : session && <span className="muted">GitHub sign-in awaits configuration.</span>}
-      </div>
-    </header>
-    <main>
-      {error && <div className="error notice" role="alert">{error} <button className="btn-secondary" onClick={() => { setLoading(true); setRetry(value => value + 1); if (selectedGame) refreshCards(); }}>Retry</button></div>}
-      {session && <GameSelector games={games} selectedGame={selectedGame} onSelectGame={selectGame} />}
-      {session?.user?.isAdmin && <div className="button-row management-toggle">
-        <button className="btn-secondary" aria-pressed={managingGames} onClick={() => { setManagingGames(value => !value); setManaging(false); setReports(false); }}>{managingGames ? 'Back to playing' : 'Manage games & formats'}</button>
-        {selectedGame && <button className="btn-secondary" aria-pressed={managing} onClick={() => { setManaging(value => !value); setManagingGames(false); setReports(false); setFocusCard(''); }}>{managing ? 'Back to playing' : 'Manage cards'}</button>}
-        <button className="btn-secondary" aria-pressed={reports} onClick={() => { setReports(value => !value); setManaging(false); setManagingGames(false); }}>{reports ? 'Back to playing' : 'Admin reports'}</button>
-      </div>}
-      {reports && session?.user?.isAdmin ? <AdminReports games={games} onOpenCards={(game, id) => { selectGame(game); setFocusCard(id); setManaging(true); }} /> : managingGames && session?.user?.isAdmin ? <GameManager games={games} onChanged={refreshGames} /> : managing && selectedGame ? <CardManager key={`${selectedGame.id}:${selectedGame.version}:${focusCard}`} game={selectedGame} games={games} cards={cards} focusCard={focusCard} onChanged={refreshCards} loading={loading} /> : loading ? <p className="empty-state" role="status">Loading…</p> : selectedGame ? <>
-        {selectedGame.hasCategories && <CategorySelector categories={categories} selectedCategory={selectedCategory} onSelectCategory={setSelectedCategory} />}
-        <CardViewer key={`${selectedGame.id}:${selectedCategory || ''}:${revision}`} cards={filteredCards} session={session} onVote={onVote} />
-      </> : !error && <p className="empty-state">Choose a game to start playing.</p>}
-    </main>
-    <footer><p>&copy; {new Date().getFullYear()} Shabab JorBox</p><p>Like or dislike cards to help improve the decks.</p></footer>
-  </div>;
+  const compact = Boolean(selectedGame) || activeView !== 'play';
+  const deckBar = (play) =>
+    selectedGame && (
+      <DeckBar
+        games={games}
+        game={selectedGame}
+        onSelectGame={selectGame}
+        onHome={() => selectGame(null)}
+        {...(play && {
+          categories: selectedGame.hasCategories ? categories : [],
+          category: selectedCategory,
+          onCategory: setSelectedCategory,
+          onReshuffle: reshuffle,
+        })}
+      />
+    );
+  let content;
+  if (activeView === 'reports')
+    content = (
+      <AdminReports
+        games={games}
+        onOpenCards={(game, id) => {
+          selectGame(game);
+          setFocusCard(id);
+          setView('cards');
+        }}
+      />
+    );
+  else if (activeView === 'games')
+    content = <GameManager games={games} onChanged={refreshGames} />;
+  else if (!session) content = null;
+  else if (!selectedGame)
+    content = (
+      <GameSelector
+        games={games}
+        onSelectGame={selectGame}
+        heading={
+          activeView === 'cards'
+            ? 'Choose a game to manage'
+            : 'Choose a game to play'
+        }
+      />
+    );
+  else if (activeView === 'cards')
+    content = (
+      <>
+        {deckBar(false)}
+        <CardManager
+          key={`${selectedGame.id}:${selectedGame.version}:${focusCard}`}
+          game={selectedGame}
+          games={games}
+          cards={cards}
+          focusCard={focusCard}
+          onChanged={refreshCards}
+          loading={loading}
+        />
+      </>
+    );
+  else
+    content = (
+      <>
+        {deckBar(true)}
+        {loading ? (
+          <p className="empty-state" role="status">
+            Shuffling the deck…
+          </p>
+        ) : (
+          <CardViewer
+            key={`${selectedGame.id}:${selectedCategory || ''}:${shuffles}`}
+            cards={playCards}
+            gameId={selectedGame.id}
+            filter={selectedCategory || ''}
+            session={session}
+            onVote={onVote}
+            onReshuffle={reshuffle}
+          />
+        )}
+      </>
+    );
+
+  return (
+    <div className="app-container">
+      <AuroraBokehBackground />
+      <header className={`app-header${compact ? ' compact' : ''}`}>
+        <h1>
+          <button
+            className="brand"
+            onClick={() => {
+              selectGame(null);
+              setView('play');
+            }}
+          >
+            <Layers
+              size={32}
+              color="var(--accent-primary)"
+              aria-hidden="true"
+            />
+            <span className="brand-name">Shabab JorBox</span>
+          </button>
+        </h1>
+        {!compact && <p className="subtitle">Companion App</p>}
+        <div className="account-bar">
+          {session?.user ? (
+            <>
+              <span>
+                Signed in as <strong>{session.user.login}</strong>
+                {isAdmin && ' · Administrator'}
+              </span>
+              <button className="btn-secondary" onClick={logout}>
+                Sign out
+              </button>
+            </>
+          ) : (
+            session?.githubEnabled && (
+              <a className="btn-secondary" href="/api/auth/github">
+                <Github size={18} aria-hidden="true" /> Sign in with GitHub
+              </a>
+            )
+          )}
+        </div>
+      </header>
+      {isAdmin && (
+        <nav className="tab-bar" aria-label="Sections">
+          {VIEWS.map(([id, label]) => (
+            <button
+              key={id}
+              className="tab"
+              aria-current={activeView === id ? 'page' : undefined}
+              onClick={() => {
+                setView(id);
+                setFocusCard('');
+              }}
+            >
+              {label}
+            </button>
+          ))}
+        </nav>
+      )}
+      <main>
+        {error && (
+          <div className="error notice" role="alert">
+            {error}{' '}
+            <button
+              className="btn-secondary"
+              onClick={() => {
+                setLoading(true);
+                setRetry((value) => value + 1);
+                if (selectedGame) refreshCards();
+              }}
+            >
+              Retry
+            </button>
+          </div>
+        )}
+        {loading && !session && !error ? (
+          <p className="empty-state" role="status">
+            Loading games…
+          </p>
+        ) : (
+          <Suspense
+            fallback={
+              <p className="empty-state" role="status">
+                Loading…
+              </p>
+            }
+          >
+            {content}
+          </Suspense>
+        )}
+      </main>
+      <footer>
+        <p>&copy; {new Date().getFullYear()} Shabab JorBox</p>
+        <p>Like or dislike cards to help improve the decks.</p>
+      </footer>
+    </div>
+  );
 }

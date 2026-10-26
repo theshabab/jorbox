@@ -23,12 +23,12 @@ test('invalid CSV gives actionable errors before an import can be applied', () =
 });
 
 test('all 16 original decks remain in the generated seed, including all partial shapes', () => {
-  const games = JSON.parse(readFileSync('public/games.json', 'utf8'));
+  const games = JSON.parse(readFileSync('data/seed/games.json', 'utf8'));
   const seed = readFileSync('worker/seed.sql', 'utf8');
   assert.equal(games.length, 16);
   let count = 0;
   for (const game of games) {
-    const parsed = Papa.parse(readFileSync(`public${game.csv}`, 'utf8'), { header: true, delimiter: ',', skipEmptyLines: 'greedy' });
+    const parsed = Papa.parse(readFileSync(`data/seed${game.csv}`, 'utf8'), { header: true, delimiter: ',', skipEmptyLines: 'greedy' });
     assert.deepEqual(parsed.errors, []);
     parsed.data.forEach((row, index) => {
       assert.ok(row.Name?.trim() || row.Description?.trim());
@@ -57,4 +57,14 @@ test('CSV follows each configured card format before upload', () => {
   assert.deepEqual(parseCardCsv('Description\nText', { cardFormat: 'description' }, 'import').errors, []);
   assert.ok(parseCardCsv('Name\nOne', { cardFormat: 'description' }, 'import').errors.length);
   assert.ok(parseCardCsv('Name\nOne', { cardFormat: 'name-description' }, 'import').errors.length);
+});
+
+test('export/import round trips keep text that starts like a spreadsheet formula', () => {
+  const game = { hasCategories: false };
+  const cards = [{ id: 'a', version: 1, Name: '-40', Description: '=SUM(1)', Category: '' }, { id: 'b', version: 2, Name: '+1 point', Description: '@everyone', Category: '' }];
+  const csv = exportCardCsv(cards);
+  assert.match(csv, /'-40/); // Still protected when opened in a spreadsheet.
+  const parsed = parseCardCsv(csv, game, 'edit');
+  assert.deepEqual(parsed.errors, []);
+  assert.deepEqual(parsed.cards.map(card => [card.Name, card.Description]), [['-40', '=SUM(1)'], ['+1 point', '@everyone']]);
 });

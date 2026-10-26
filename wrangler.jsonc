@@ -21,5 +21,12 @@
     "ADMIN_GITHUB_IDS": "48080916",
     "FEEDBACK_REQUIRE_LOGIN": "false"
   },
-  "triggers": { "crons": ["0 3 * * *"] }
+  "triggers": { "crons": ["0 3 * * *"] },
+  // Workers Rate Limiting keeps per-minute limits out of D1. The Worker falls back
+  // to D1 buckets when these bindings are absent (tests, older local setups).
+  "ratelimits": [
+    { "name": "AUTH_LIMITER", "namespace_id": "1001", "simple": { "limit": 20, "period": 60 } },
+    { "name": "ADMIN_LIMITER", "namespace_id": "1002", "simple": { "limit": 30, "period": 60 } },
+    { "name": "VOTE_LIMITER", "namespace_id": "1003", "simple": { "limit": 60, "period": 60 } }
+  ]
 }

@@ -1,5 +1,10 @@
 import Papa from 'papaparse';
-import { cardErrors } from './cardFormats.js';
+import { cardErrors, MAX_BULK_ROWS } from './cardFormats.js';
+
+// Export protects spreadsheet users by prefixing formula-like cells with an apostrophe.
+// Remove that prefix on import so an export/edit/import round trip keeps text such as "-40".
+const unescapeFormula = (value) => value.replace(/^'(?=[=+\-@\t\r])/, '');
+const cell = (value) => unescapeFormula(value?.trim() || '').trim();
 
 export function parseCardCsv(text, game, mode) {
   const parsed = Papa.parse(text, { header: true, delimiter: ',', skipEmptyLines: 'greedy', transformHeader: header => header.trim().replace(/^\uFEFF/, '') });
@@ -10,10 +15,10 @@ export function parseCardCsv(text, game, mode) {
   if (mode !== 'feedback' && !fields.includes('Name') && !fields.includes('Description')) errors.push('CSV must include Name or Description.');
   if (mode === 'feedback' && !fields.includes('myVote')) errors.push('Feedback CSV must include myVote (1 = like, -1 = dislike, 0 = clear).');
   if (!parsed.data.length) errors.push('The file contains no cards.');
-  if (parsed.data.length > 100) errors.push('Import at most 100 rows at a time. Split larger files before uploading.');
+  if (parsed.data.length > MAX_BULK_ROWS) errors.push(`Import at most ${MAX_BULK_ROWS} rows at a time. Split larger files before uploading.`);
   const ids = new Set();
   const cards = parsed.data.map((row, index) => {
-    const card = { Name: row.Name?.trim() || '', Description: row.Description?.trim() || '', Category: row.Category?.trim() || '' };
+    const card = { Name: cell(row.Name), Description: cell(row.Description), Category: cell(row.Category) };
     if (mode !== 'feedback') errors.push(...cardErrors(card, game).map(error => `Row ${index + 2}: ${error}`));
     if (mode === 'edit' || mode === 'feedback') {
       card.id = row.id?.trim();

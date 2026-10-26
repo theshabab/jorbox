@@ -1,3 +1,8 @@
+// Shared by the frontend and the Worker so client and server rules cannot drift.
+export const CARD_LIMITS = { Name: 500, Description: 10000, Category: 200 };
+export const MAX_BULK_ROWS = 100;
+export const MAX_BODY_BYTES = 512 * 1024;
+
 export const CARD_FORMATS = [
   {
     value: 'flexible',
@@ -40,11 +45,7 @@ export function cardErrors(card, game) {
     (!card.Name?.trim() || !card.Description?.trim())
   )
     errors.push('this game requires both a name and description.');
-  for (const [key, limit] of [
-    ['Name', 500],
-    ['Description', 10000],
-    ['Category', 200],
-  ]) {
+  for (const [key, limit] of Object.entries(CARD_LIMITS)) {
     if ((card[key] || '').length > limit)
       errors.push(`${key} exceeds ${limit} characters.`);
   }
