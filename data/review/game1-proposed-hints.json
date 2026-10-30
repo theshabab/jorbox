@@ -1,0 +1,4190 @@
+[
+ {
+  "id": "game1-1",
+  "Name": "Karachi",
+  "current": "A major city in Pakistan",
+  "proposed": "Pakistan's largest city and port"
+ },
+ {
+  "id": "game1-2",
+  "Name": "Lahore",
+  "current": "A major city in Pakistan",
+  "proposed": "Capital of Punjab, home of Badshahi Mosque"
+ },
+ {
+  "id": "game1-4",
+  "Name": "Rawalpindi",
+  "current": "A major city in Pakistan",
+  "proposed": "Twin city of the capital, army headquarters"
+ },
+ {
+  "id": "game1-5",
+  "Name": "Faisalabad",
+  "current": "A major city in Pakistan",
+  "proposed": "Punjab's textile hub, once Lyallpur"
+ },
+ {
+  "id": "game1-6",
+  "Name": "Multan",
+  "current": "A major city in Pakistan",
+  "proposed": "City of Saints in southern Punjab"
+ },
+ {
+  "id": "game1-7",
+  "Name": "Peshawar",
+  "current": "A major city in Pakistan",
+  "proposed": "Capital of Khyber Pakhtunkhwa"
+ },
+ {
+  "id": "game1-8",
+  "Name": "Quetta",
+  "current": "A major city in Pakistan",
+  "proposed": "Capital of Balochistan"
+ },
+ {
+  "id": "game1-9",
+  "Name": "Sialkot",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city famous for footballs and sports goods"
+ },
+ {
+  "id": "game1-10",
+  "Name": "Gujranwala",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city known as City of Wrestlers"
+ },
+ {
+  "id": "game1-11",
+  "Name": "Hyderabad",
+  "current": "A city in Pakistan",
+  "proposed": "Second-largest city of Sindh"
+ },
+ {
+  "id": "game1-12",
+  "Name": "Abbottabad",
+  "current": "A city in Pakistan",
+  "proposed": "Hill city home of Pakistan Military Academy"
+ },
+ {
+  "id": "game1-13",
+  "Name": "Murree",
+  "current": "A hill station in Pakistan",
+  "proposed": "Popular hill station near Islamabad"
+ },
+ {
+  "id": "game1-14",
+  "Name": "Sukkur",
+  "current": "A city in Pakistan",
+  "proposed": "Sindh city with a famous Indus barrage"
+ },
+ {
+  "id": "game1-15",
+  "Name": "Bahawalpur",
+  "current": "A city in Pakistan",
+  "proposed": "Former princely state city, Noor Mahal"
+ },
+ {
+  "id": "game1-16",
+  "Name": "Sargodha",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city known for citrus (kinnow)"
+ },
+ {
+  "id": "game1-17",
+  "Name": "Gujrat",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city famous for fans and pottery"
+ },
+ {
+  "id": "game1-18",
+  "Name": "Larkana",
+  "current": "A city in Pakistan",
+  "proposed": "Sindh city near Mohenjo-daro"
+ },
+ {
+  "id": "game1-19",
+  "Name": "Sheikhupura",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city with Hiran Minar, near Lahore"
+ },
+ {
+  "id": "game1-20",
+  "Name": "Jhelum",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city on its namesake river"
+ },
+ {
+  "id": "game1-21",
+  "Name": "Mardan",
+  "current": "A city in Pakistan",
+  "proposed": "Second-largest city of Khyber Pakhtunkhwa"
+ },
+ {
+  "id": "game1-22",
+  "Name": "Kasur",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city of Baba Bulleh Shah's shrine"
+ },
+ {
+  "id": "game1-23",
+  "Name": "Rahim Yar Khan",
+  "current": "A city in Pakistan",
+  "proposed": "Southern Punjab city near the Sindh border"
+ },
+ {
+  "id": "game1-24",
+  "Name": "Sahiwal",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city famous for its cattle breed"
+ },
+ {
+  "id": "game1-25",
+  "Name": "Okara",
+  "current": "A city in Pakistan",
+  "proposed": "Punjab city between Lahore and Sahiwal"
+ },
+ {
+  "id": "game1-26",
+  "Name": "Biryani",
+  "current": "A traditional rice dish",
+  "proposed": "Spiced layered rice with meat"
+ },
+ {
+  "id": "game1-27",
+  "Name": "Pulao",
+  "current": "A traditional rice dish",
+  "proposed": "Rice cooked in meat stock (yakhni)"
+ },
+ {
+  "id": "game1-28",
+  "Name": "Nihari",
+  "current": "A traditional meat stew",
+  "proposed": "Slow-cooked beef stew eaten at breakfast"
+ },
+ {
+  "id": "game1-29",
+  "Name": "Haleem",
+  "current": "A traditional meat dish",
+  "proposed": "Thick lentil, wheat and meat porridge"
+ },
+ {
+  "id": "game1-30",
+  "Name": "Karahi",
+  "current": "A traditional curry dish",
+  "proposed": "Curry cooked in a wok-like pan"
+ },
+ {
+  "id": "game1-31",
+  "Name": "Korma",
+  "current": "A traditional curry dish",
+  "proposed": "Rich meat curry with yogurt and nuts"
+ },
+ {
+  "id": "game1-32",
+  "Name": "Sajji",
+  "current": "A traditional roasted meat dish",
+  "proposed": "Balochi whole roasted lamb or chicken"
+ },
+ {
+  "id": "game1-33",
+  "Name": "Chapli Kabab",
+  "current": "A traditional kebab",
+  "proposed": "Flat minced-meat patty from Peshawar"
+ },
+ {
+  "id": "game1-34",
+  "Name": "Seekh Kabab",
+  "current": "A traditional kebab",
+  "proposed": "Minced meat grilled on skewers"
+ },
+ {
+  "id": "game1-35",
+  "Name": "Paye",
+  "current": "A traditional meat dish",
+  "proposed": "Trotters cooked in spicy gravy"
+ },
+ {
+  "id": "game1-36",
+  "Name": "Halwa Puri",
+  "current": "A traditional breakfast dish",
+  "proposed": "Sunday breakfast of semolina and fried bread"
+ },
+ {
+  "id": "game1-37",
+  "Name": "Saag",
+  "current": "A traditional vegetable dish",
+  "proposed": "Mustard greens dish from Punjab"
+ },
+ {
+  "id": "game1-38",
+  "Name": "Makki Ki Roti",
+  "current": "A traditional flatbread",
+  "proposed": "Cornflour flatbread eaten with saag"
+ },
+ {
+  "id": "game1-39",
+  "Name": "Daal Chawal",
+  "current": "A traditional lentil and rice dish",
+  "proposed": "Lentils poured over plain rice"
+ },
+ {
+  "id": "game1-40",
+  "Name": "Aloo Gosht",
+  "current": "A traditional potato and meat curry",
+  "proposed": "Everyday mutton curry with potatoes"
+ },
+ {
+  "id": "game1-41",
+  "Name": "Koftay",
+  "current": "Traditional meatballs",
+  "proposed": "Meatballs cooked in curry"
+ },
+ {
+  "id": "game1-42",
+  "Name": "Katakat",
+  "current": "A traditional street food",
+  "proposed": "Chopped organ meat clattered on a griddle"
+ },
+ {
+  "id": "game1-43",
+  "Name": "Chargha",
+  "current": "A traditional fried chicken dish",
+  "proposed": "Whole spiced chicken, steamed then fried"
+ },
+ {
+  "id": "game1-44",
+  "Name": "Tikka",
+  "current": "A traditional grilled meat",
+  "proposed": "Spiced chunks grilled on skewers"
+ },
+ {
+  "id": "game1-45",
+  "Name": "Malai Boti",
+  "current": "A traditional grilled meat",
+  "proposed": "Creamy marinated boneless chicken, grilled"
+ },
+ {
+  "id": "game1-46",
+  "Name": "Reshmi Kabab",
+  "current": "A traditional kebab",
+  "proposed": "Soft silky chicken mince skewer"
+ },
+ {
+  "id": "game1-47",
+  "Name": "Gola Kabab",
+  "current": "A traditional kebab",
+  "proposed": "Round melt-in-mouth minced meat balls"
+ },
+ {
+  "id": "game1-48",
+  "Name": "Bihari Kabab",
+  "current": "A traditional kebab",
+  "proposed": "Thin spiced beef strips, smoky flavour"
+ },
+ {
+  "id": "game1-49",
+  "Name": "Kunna",
+  "current": "A traditional meat dish",
+  "proposed": "Chiniot mutton stew cooked in clay pot"
+ },
+ {
+  "id": "game1-50",
+  "Name": "Bong Paye",
+  "current": "A traditional meat dish",
+  "proposed": "Shin-bone and trotter stew from Lahore"
+ },
+ {
+  "id": "game1-51",
+  "Name": "Salt",
+  "current": "A common spice",
+  "proposed": "White seasoning in every dish (namak)"
+ },
+ {
+  "id": "game1-52",
+  "Name": "Pepper",
+  "current": "A common spice",
+  "proposed": "Kali mirch, ground black seeds for heat"
+ },
+ {
+  "id": "game1-53",
+  "Name": "Turmeric",
+  "current": "A yellow spice",
+  "proposed": "Yellow powder, haldi"
+ },
+ {
+  "id": "game1-55",
+  "Name": "Cumin",
+  "current": "An aromatic spice",
+  "proposed": "Small seeds tempered in oil, zeera"
+ },
+ {
+  "id": "game1-56",
+  "Name": "Coriander",
+  "current": "An aromatic spice",
+  "proposed": "Dhania, seeds or fresh green leaves"
+ },
+ {
+  "id": "game1-57",
+  "Name": "Cardamom",
+  "current": "An aromatic spice",
+  "proposed": "Green pods (elaichi) used in chai"
+ },
+ {
+  "id": "game1-58",
+  "Name": "Cinnamon",
+  "current": "A sweet spice",
+  "proposed": "Sweet bark, daar cheeni"
+ },
+ {
+  "id": "game1-59",
+  "Name": "Clove",
+  "current": "An aromatic spice",
+  "proposed": "Small nail-shaped bud, laung"
+ },
+ {
+  "id": "game1-60",
+  "Name": "Nutmeg",
+  "current": "An aromatic spice",
+  "proposed": "Hard seed grated into desserts, jaifal"
+ },
+ {
+  "id": "game1-61",
+  "Name": "Saffron",
+  "current": "A precious spice",
+  "proposed": "Costly red threads, zafran"
+ },
+ {
+  "id": "game1-63",
+  "Name": "Anise",
+  "current": "An aromatic spice",
+  "proposed": "Liquorice-flavoured seeds, like saunf"
+ },
+ {
+  "id": "game1-64",
+  "Name": "Fenugreek",
+  "current": "A bitter spice",
+  "proposed": "Bitter seeds and leaves, methi"
+ },
+ {
+  "id": "game1-65",
+  "Name": "Mustard Seeds",
+  "current": "A pungent spice",
+  "proposed": "Tiny black seeds that pop, rai"
+ },
+ {
+  "id": "game1-66",
+  "Name": "Poppy Seeds",
+  "current": "A nutty spice",
+  "proposed": "Tiny white seeds, khashkhash"
+ },
+ {
+  "id": "game1-67",
+  "Name": "Sesame",
+  "current": "A nutty spice",
+  "proposed": "Seeds on naan and in til laddoo"
+ },
+ {
+  "id": "game1-68",
+  "Name": "Bay Leaf",
+  "current": "An aromatic leaf",
+  "proposed": "Dried leaf added to pulao, tez patta"
+ },
+ {
+  "id": "game1-69",
+  "Name": "Black Salt",
+  "current": "A sulfurous salt",
+  "proposed": "Pinkish sulphurous salt, kala namak"
+ },
+ {
+  "id": "game1-70",
+  "Name": "Chaat Masala",
+  "current": "A tangy spice mix",
+  "proposed": "Tangy mix sprinkled on fruit and snacks"
+ },
+ {
+  "id": "game1-71",
+  "Name": "Garam Masala",
+  "current": "A warm spice mix",
+  "proposed": "Warm blend of whole ground spices"
+ },
+ {
+  "id": "game1-72",
+  "Name": "Tamarind",
+  "current": "A sour spice",
+  "proposed": "Sour brown pods, imli"
+ },
+ {
+  "id": "game1-73",
+  "Name": "Mint",
+  "current": "A fresh herb",
+  "proposed": "Cooling herb, podina, in chutney"
+ },
+ {
+  "id": "game1-74",
+  "Name": "Basil",
+  "current": "An aromatic herb",
+  "proposed": "Fragrant leafy herb, niazbo / tulsi"
+ },
+ {
+  "id": "game1-75",
+  "Name": "Mango",
+  "current": "A tropical fruit",
+  "proposed": "King of fruits, summer favourite"
+ },
+ {
+  "id": "game1-76",
+  "Name": "Apple",
+  "current": "A common fruit",
+  "proposed": "Red or green fruit, one a day"
+ },
+ {
+  "id": "game1-77",
+  "Name": "Banana",
+  "current": "A tropical fruit",
+  "proposed": "Long yellow fruit, peeled"
+ },
+ {
+  "id": "game1-78",
+  "Name": "Orange",
+  "current": "A citrus fruit",
+  "proposed": "Round citrus named after its colour"
+ },
+ {
+  "id": "game1-79",
+  "Name": "Grapes",
+  "current": "A small fruit",
+  "proposed": "Bunches of small fruit grown on vines"
+ },
+ {
+  "id": "game1-80",
+  "Name": "Pomegranate",
+  "current": "A seeded fruit",
+  "proposed": "Fruit full of red juicy seeds, anaar"
+ },
+ {
+  "id": "game1-81",
+  "Name": "Guava",
+  "current": "A tropical fruit",
+  "proposed": "Green fruit eaten with salt, amrood"
+ },
+ {
+  "id": "game1-82",
+  "Name": "Watermelon",
+  "current": "A large fruit",
+  "proposed": "Big green fruit, red inside, tarbooz"
+ },
+ {
+  "id": "game1-83",
+  "Name": "Melon",
+  "current": "A sweet fruit",
+  "proposed": "Sweet summer fruit, kharbooza"
+ },
+ {
+  "id": "game1-84",
+  "Name": "Apricot",
+  "current": "A stone fruit",
+  "proposed": "Small orange fruit from Hunza, khubani"
+ },
+ {
+  "id": "game1-85",
+  "Name": "Peach",
+  "current": "A stone fruit",
+  "proposed": "Fuzzy-skinned stone fruit, aarhu"
+ },
+ {
+  "id": "game1-86",
+  "Name": "Plum",
+  "current": "A stone fruit",
+  "proposed": "Purple stone fruit, aloo bukhara"
+ },
+ {
+  "id": "game1-87",
+  "Name": "Pear",
+  "current": "A sweet fruit",
+  "proposed": "Bell-shaped fruit, nashpati"
+ },
+ {
+  "id": "game1-88",
+  "Name": "Strawberry",
+  "current": "A red berry",
+  "proposed": "Red fruit with seeds on outside"
+ },
+ {
+  "id": "game1-89",
+  "Name": "Cherry",
+  "current": "A small stone fruit",
+  "proposed": "Small red fruit on long stems"
+ },
+ {
+  "id": "game1-90",
+  "Name": "Lychee",
+  "current": "A tropical fruit",
+  "proposed": "White juicy fruit in a rough red shell"
+ },
+ {
+  "id": "game1-91",
+  "Name": "Papaya",
+  "current": "A tropical fruit",
+  "proposed": "Orange fruit with black seeds, papita"
+ },
+ {
+  "id": "game1-92",
+  "Name": "Pineapple",
+  "current": "A tropical fruit",
+  "proposed": "Spiky fruit with a leafy crown"
+ },
+ {
+  "id": "game1-93",
+  "Name": "Coconut",
+  "current": "A tropical fruit",
+  "proposed": "Hard hairy shell with water inside"
+ },
+ {
+  "id": "game1-94",
+  "Name": "Date",
+  "current": "A sweet dried fruit",
+  "proposed": "Fruit to break the fast, khajoor"
+ },
+ {
+  "id": "game1-95",
+  "Name": "Fig",
+  "current": "A sweet fruit",
+  "proposed": "Fruit named in a Quran surah, anjeer"
+ },
+ {
+  "id": "game1-96",
+  "Name": "Mulberry",
+  "current": "A small berry",
+  "proposed": "Small berry from a tree, shehtoot"
+ },
+ {
+  "id": "game1-97",
+  "Name": "Kinnow",
+  "current": "A citrus fruit",
+  "proposed": "Sargodha's famous winter citrus"
+ },
+ {
+  "id": "game1-98",
+  "Name": "Falsa",
+  "current": "A small berry",
+  "proposed": "Tiny purple summer berry, made into sherbet"
+ },
+ {
+  "id": "game1-99",
+  "Name": "Jamun",
+  "current": "A purple fruit",
+  "proposed": "Purple fruit that stains your tongue"
+ },
+ {
+  "id": "game1-100",
+  "Name": "Potato",
+  "current": "A root vegetable",
+  "proposed": "Starchy tuber, aloo"
+ },
+ {
+  "id": "game1-101",
+  "Name": "Onion",
+  "current": "A bulb vegetable",
+  "proposed": "Layered bulb that makes you cry, pyaz"
+ },
+ {
+  "id": "game1-102",
+  "Name": "Tomato",
+  "current": "A red vegetable",
+  "proposed": "Red base of most curries, tamatar"
+ },
+ {
+  "id": "game1-103",
+  "Name": "Garlic",
+  "current": "A pungent bulb",
+  "proposed": "Pungent white cloves, lehsan"
+ },
+ {
+  "id": "game1-104",
+  "Name": "Spinach",
+  "current": "A leafy green",
+  "proposed": "Leafy green, palak"
+ },
+ {
+  "id": "game1-105",
+  "Name": "Cauliflower",
+  "current": "A cruciferous vegetable",
+  "proposed": "White florets, gobhi"
+ },
+ {
+  "id": "game1-106",
+  "Name": "Cabbage",
+  "current": "A leafy vegetable",
+  "proposed": "Round head of tightly packed leaves, band gobhi"
+ },
+ {
+  "id": "game1-107",
+  "Name": "Carrot",
+  "current": "A root vegetable",
+  "proposed": "Orange root used in halwa, gajar"
+ },
+ {
+  "id": "game1-108",
+  "Name": "Radish",
+  "current": "A root vegetable",
+  "proposed": "White root eaten in winter, mooli"
+ },
+ {
+  "id": "game1-109",
+  "Name": "Turnip",
+  "current": "A root vegetable",
+  "proposed": "Round white-purple root, shaljam"
+ },
+ {
+  "id": "game1-110",
+  "Name": "Peas",
+  "current": "A legume",
+  "proposed": "Green pods shelled for matar pulao"
+ },
+ {
+  "id": "game1-111",
+  "Name": "Okra",
+  "current": "A green vegetable",
+  "proposed": "Slimy green pods, bhindi"
+ },
+ {
+  "id": "game1-112",
+  "Name": "Eggplant",
+  "current": "A purple vegetable",
+  "proposed": "Purple vegetable, baingan / brinjal"
+ },
+ {
+  "id": "game1-113",
+  "Name": "Cucumber",
+  "current": "A green vegetable",
+  "proposed": "Cool green salad vegetable, kheera"
+ },
+ {
+  "id": "game1-114",
+  "Name": "Zucchini",
+  "current": "A green vegetable",
+  "proposed": "Green summer squash, courgette"
+ },
+ {
+  "id": "game1-115",
+  "Name": "Pumpkin",
+  "current": "A large vegetable",
+  "proposed": "Big orange squash, kaddu"
+ },
+ {
+  "id": "game1-116",
+  "Name": "Bitter Gourd",
+  "current": "A bitter vegetable",
+  "proposed": "Bitter ridged green vegetable, karela"
+ },
+ {
+  "id": "game1-117",
+  "Name": "Bottle Gourd",
+  "current": "A green vegetable",
+  "proposed": "Long pale-green gourd, lauki / ghiya"
+ },
+ {
+  "id": "game1-118",
+  "Name": "Capsicum",
+  "current": "A bell pepper",
+  "proposed": "Bell pepper, Shimla mirch"
+ },
+ {
+  "id": "game1-119",
+  "Name": "Chili",
+  "current": "A hot pepper",
+  "proposed": "Hot green or red mirch"
+ },
+ {
+  "id": "game1-121",
+  "Name": "Lemon",
+  "current": "A citrus fruit",
+  "proposed": "Sour yellow citrus, nimbu"
+ },
+ {
+  "id": "game1-122",
+  "Name": "Beetroot",
+  "current": "A root vegetable",
+  "proposed": "Deep red root, chukandar"
+ },
+ {
+  "id": "game1-123",
+  "Name": "Shalwar",
+  "current": "Traditional pants",
+  "proposed": "Loose pants worn with a kameez"
+ },
+ {
+  "id": "game1-124",
+  "Name": "Kameez",
+  "current": "Traditional shirt",
+  "proposed": "Long tunic worn over shalwar"
+ },
+ {
+  "id": "game1-125",
+  "Name": "Kurta",
+  "current": "Traditional tunic",
+  "proposed": "Loose collarless men's tunic"
+ },
+ {
+  "id": "game1-126",
+  "Name": "Dupatta",
+  "current": "Traditional scarf",
+  "proposed": "Long scarf draped over head or shoulders"
+ },
+ {
+  "id": "game1-127",
+  "Name": "Sari",
+  "current": "Traditional dress",
+  "proposed": "Long draped cloth worn by women"
+ },
+ {
+  "id": "game1-128",
+  "Name": "Lehnga",
+  "current": "Traditional skirt",
+  "proposed": "Heavy flared bridal skirt"
+ },
+ {
+  "id": "game1-129",
+  "Name": "Sherwani",
+  "current": "Traditional coat",
+  "proposed": "Long formal coat worn by the groom"
+ },
+ {
+  "id": "game1-130",
+  "Name": "Waistcoat",
+  "current": "A sleeveless jacket",
+  "proposed": "Sleeveless jacket worn over kurta"
+ },
+ {
+  "id": "game1-131",
+  "Name": "Turban",
+  "current": "Traditional headwear",
+  "proposed": "Long cloth wrapped around the head, pagri"
+ },
+ {
+  "id": "game1-132",
+  "Name": "Scarf",
+  "current": "A neck accessory",
+  "proposed": "Cloth wrapped around the neck in winter"
+ },
+ {
+  "id": "game1-133",
+  "Name": "Shawl",
+  "current": "A warm wrap",
+  "proposed": "Large warm wrap, often wool"
+ },
+ {
+  "id": "game1-134",
+  "Name": "Ajrak",
+  "current": "Traditional printed cloth",
+  "proposed": "Sindhi block-printed cloth, red and blue"
+ },
+ {
+  "id": "game1-135",
+  "Name": "Topi",
+  "current": "Traditional cap",
+  "proposed": "Cap worn for namaz"
+ },
+ {
+  "id": "game1-136",
+  "Name": "Vest",
+  "current": "An undergarment",
+  "proposed": "Sleeveless undershirt, baniyan"
+ },
+ {
+  "id": "game1-137",
+  "Name": "Jacket",
+  "current": "Outerwear",
+  "proposed": "Short outer layer with zip or buttons"
+ },
+ {
+  "id": "game1-138",
+  "Name": "Coat",
+  "current": "Warm outerwear",
+  "proposed": "Long heavy outer layer for winter"
+ },
+ {
+  "id": "game1-139",
+  "Name": "Sweater",
+  "current": "Warm clothing",
+  "proposed": "Knitted woollen top, jersey"
+ },
+ {
+  "id": "game1-140",
+  "Name": "Socks",
+  "current": "Foot covering",
+  "proposed": "Worn on feet inside shoes, jurab"
+ },
+ {
+  "id": "game1-141",
+  "Name": "Gloves",
+  "current": "Hand covering",
+  "proposed": "Worn on hands in cold weather"
+ },
+ {
+  "id": "game1-142",
+  "Name": "Tie",
+  "current": "Neck accessory",
+  "proposed": "Knotted strip worn under a shirt collar"
+ },
+ {
+  "id": "game1-143",
+  "Name": "Belt",
+  "current": "Waist accessory",
+  "proposed": "Strap with buckle around the waist"
+ },
+ {
+  "id": "game1-144",
+  "Name": "Trousers",
+  "current": "Formal pants",
+  "proposed": "Formal pants, pant-coat"
+ },
+ {
+  "id": "game1-145",
+  "Name": "Jeans",
+  "current": "Casual pants",
+  "proposed": "Blue denim pants"
+ },
+ {
+  "id": "game1-146",
+  "Name": "Shirt",
+  "current": "Upper garment",
+  "proposed": "Buttoned top with collar and sleeves"
+ },
+ {
+  "id": "game1-147",
+  "Name": "Frock",
+  "current": "A dress",
+  "proposed": "Girl's dress, often for Eid"
+ },
+ {
+  "id": "game1-148",
+  "Name": "Chair",
+  "current": "A seating furniture",
+  "proposed": "Seat with four legs and a back"
+ },
+ {
+  "id": "game1-149",
+  "Name": "Table",
+  "current": "A flat surface furniture",
+  "proposed": "Flat top on legs for eating or working"
+ },
+ {
+  "id": "game1-150",
+  "Name": "Sofa",
+  "current": "A comfortable seating",
+  "proposed": "Cushioned seat for several people"
+ },
+ {
+  "id": "game1-151",
+  "Name": "Bed",
+  "current": "Sleeping furniture",
+  "proposed": "Furniture you sleep on, palang"
+ },
+ {
+  "id": "game1-152",
+  "Name": "Cupboard",
+  "current": "Storage furniture",
+  "proposed": "Cabinet with shelves and doors, almari"
+ },
+ {
+  "id": "game1-153",
+  "Name": "Wardrobe",
+  "current": "Clothing storage",
+  "proposed": "Tall cabinet for hanging clothes"
+ },
+ {
+  "id": "game1-154",
+  "Name": "Cabinet",
+  "current": "Storage furniture",
+  "proposed": "Cupboard with doors and shelves"
+ },
+ {
+  "id": "game1-155",
+  "Name": "Desk",
+  "current": "Work furniture",
+  "proposed": "Table for studying or office work"
+ },
+ {
+  "id": "game1-156",
+  "Name": "Stool",
+  "current": "A simple seat",
+  "proposed": "Backless seat without arms"
+ },
+ {
+  "id": "game1-157",
+  "Name": "Bench",
+  "current": "A long seat",
+  "proposed": "Long seat for several people"
+ },
+ {
+  "id": "game1-158",
+  "Name": "Bookshelf",
+  "current": "Book storage",
+  "proposed": "Shelves for keeping books"
+ },
+ {
+  "id": "game1-159",
+  "Name": "Dresser",
+  "current": "Bedroom furniture",
+  "proposed": "Chest of drawers for clothes"
+ },
+ {
+  "id": "game1-160",
+  "Name": "Mirror",
+  "current": "Reflective surface",
+  "proposed": "Glass that shows your reflection"
+ },
+ {
+  "id": "game1-161",
+  "Name": "Lamp",
+  "current": "Lighting fixture",
+  "proposed": "Bedside light with a shade"
+ },
+ {
+  "id": "game1-163",
+  "Name": "Carpet",
+  "current": "Floor covering",
+  "proposed": "Thick woven floor covering"
+ },
+ {
+  "id": "game1-164",
+  "Name": "Curtain",
+  "current": "Window covering",
+  "proposed": "Cloth hung over a window"
+ },
+ {
+  "id": "game1-165",
+  "Name": "Mattress",
+  "current": "Bed cushion",
+  "proposed": "Thick padded base of a bed"
+ },
+ {
+  "id": "game1-166",
+  "Name": "Pillow",
+  "current": "Head support",
+  "proposed": "Soft rest for your head"
+ },
+ {
+  "id": "game1-167",
+  "Name": "Cushion",
+  "current": "Soft padding",
+  "proposed": "Soft pad for a sofa"
+ },
+ {
+  "id": "game1-168",
+  "Name": "Blanket",
+  "current": "Warm covering",
+  "proposed": "Warm covering for cold nights"
+ },
+ {
+  "id": "game1-169",
+  "Name": "Sheet",
+  "current": "Bed covering",
+  "proposed": "Thin cloth spread on a bed"
+ },
+ {
+  "id": "game1-170",
+  "Name": "Cot",
+  "current": "A small bed",
+  "proposed": "Small, simple bed; a charpai"
+ },
+ {
+  "id": "game1-171",
+  "Name": "Cradle",
+  "current": "Baby bed",
+  "proposed": "Rocking bed for a baby"
+ },
+ {
+  "id": "game1-172",
+  "Name": "Recliner",
+  "current": "Comfortable chair",
+  "proposed": "Armchair that leans back"
+ },
+ {
+  "id": "game1-173",
+  "Name": "Spoon",
+  "current": "Eating utensil",
+  "proposed": "Utensil for eating soup or rice"
+ },
+ {
+  "id": "game1-174",
+  "Name": "Fork",
+  "current": "Eating utensil",
+  "proposed": "Pronged utensil for eating"
+ },
+ {
+  "id": "game1-175",
+  "Name": "Knife",
+  "current": "Cutting tool",
+  "proposed": "Sharp blade for cutting"
+ },
+ {
+  "id": "game1-176",
+  "Name": "Plate",
+  "current": "Serving dish",
+  "proposed": "Flat dish you eat from"
+ },
+ {
+  "id": "game1-177",
+  "Name": "Bowl",
+  "current": "Serving dish",
+  "proposed": "Deep, round dish for soup"
+ },
+ {
+  "id": "game1-178",
+  "Name": "Glass",
+  "current": "Drinking vessel",
+  "proposed": "Clear cup for drinking water"
+ },
+ {
+  "id": "game1-179",
+  "Name": "Cup",
+  "current": "Drinking vessel",
+  "proposed": "Small vessel with a handle, for chai"
+ },
+ {
+  "id": "game1-180",
+  "Name": "Mug",
+  "current": "Drinking vessel",
+  "proposed": "Large cup for hot drinks"
+ },
+ {
+  "id": "game1-181",
+  "Name": "Jug",
+  "current": "Pouring vessel",
+  "proposed": "Large pitcher for pouring water"
+ },
+ {
+  "id": "game1-182",
+  "Name": "Teapot",
+  "current": "Tea brewing vessel",
+  "proposed": "Spouted pot for serving chai"
+ },
+ {
+  "id": "game1-183",
+  "Name": "Pan",
+  "current": "Cooking vessel",
+  "proposed": "Shallow pan for frying"
+ },
+ {
+  "id": "game1-184",
+  "Name": "Pot",
+  "current": "Cooking vessel",
+  "proposed": "Deep vessel for cooking salan"
+ },
+ {
+  "id": "game1-185",
+  "Name": "Cooker",
+  "current": "Cooking appliance",
+  "proposed": "Pressure pot that whistles"
+ },
+ {
+  "id": "game1-186",
+  "Name": "Tawa",
+  "current": "Flat cooking pan",
+  "proposed": "Flat iron pan for roti"
+ },
+ {
+  "id": "game1-187",
+  "Name": "Rolling Pin",
+  "current": "Dough roller",
+  "proposed": "Belan; flattens dough"
+ },
+ {
+  "id": "game1-188",
+  "Name": "Grater",
+  "current": "Shredding tool",
+  "proposed": "Shreds carrots and cheese"
+ },
+ {
+  "id": "game1-189",
+  "Name": "Peeler",
+  "current": "Peeling tool",
+  "proposed": "Removes skin from potatoes"
+ },
+ {
+  "id": "game1-190",
+  "Name": "Strainer",
+  "current": "Filtering tool",
+  "proposed": "Sieve for draining or tea leaves"
+ },
+ {
+  "id": "game1-192",
+  "Name": "Tongs",
+  "current": "Gripping tool",
+  "proposed": "Two-armed tool for picking up food"
+ },
+ {
+  "id": "game1-193",
+  "Name": "Ladle",
+  "current": "Serving spoon",
+  "proposed": "Deep spoon for serving salan"
+ },
+ {
+  "id": "game1-194",
+  "Name": "Tray",
+  "current": "Serving platform",
+  "proposed": "Flat board for carrying cups"
+ },
+ {
+  "id": "game1-195",
+  "Name": "Bottle",
+  "current": "Storage container",
+  "proposed": "Narrow-necked container for water"
+ },
+ {
+  "id": "game1-196",
+  "Name": "Jar",
+  "current": "Storage container",
+  "proposed": "Glass container for achar"
+ },
+ {
+  "id": "game1-197",
+  "Name": "Container",
+  "current": "Storage vessel",
+  "proposed": "Box for storing leftovers"
+ },
+ {
+  "id": "game1-198",
+  "Name": "Lion",
+  "current": "A large cat",
+  "proposed": "King of the jungle"
+ },
+ {
+  "id": "game1-199",
+  "Name": "Tiger",
+  "current": "A striped cat",
+  "proposed": "Big orange cat with stripes"
+ },
+ {
+  "id": "game1-200",
+  "Name": "Elephant",
+  "current": "A large mammal",
+  "proposed": "Largest land animal with a trunk"
+ },
+ {
+  "id": "game1-201",
+  "Name": "Horse",
+  "current": "A riding animal",
+  "proposed": "Animal that gallops; ridden"
+ },
+ {
+  "id": "game1-202",
+  "Name": "Dog",
+  "current": "A domestic pet",
+  "proposed": "Barking guard animal"
+ },
+ {
+  "id": "game1-203",
+  "Name": "Cat",
+  "current": "A domestic pet",
+  "proposed": "Meowing house pet"
+ },
+ {
+  "id": "game1-204",
+  "Name": "Cow",
+  "current": "A farm animal",
+  "proposed": "Gives milk; says moo"
+ },
+ {
+  "id": "game1-205",
+  "Name": "Buffalo",
+  "current": "A farm animal",
+  "proposed": "Black milk animal; bhains"
+ },
+ {
+  "id": "game1-206",
+  "Name": "Goat",
+  "current": "A farm animal",
+  "proposed": "Bakra; common Eid sacrifice"
+ },
+ {
+  "id": "game1-207",
+  "Name": "Sheep",
+  "current": "A farm animal",
+  "proposed": "Woolly animal; gives wool"
+ },
+ {
+  "id": "game1-208",
+  "Name": "Camel",
+  "current": "A desert animal",
+  "proposed": "Ship of the desert"
+ },
+ {
+  "id": "game1-209",
+  "Name": "Donkey",
+  "current": "A working animal",
+  "proposed": "Stubborn animal that carries loads"
+ },
+ {
+  "id": "game1-210",
+  "Name": "Monkey",
+  "current": "A primate",
+  "proposed": "Banana-eating tree climber"
+ },
+ {
+  "id": "game1-211",
+  "Name": "Bear",
+  "current": "A large mammal",
+  "proposed": "Big furry animal that hibernates"
+ },
+ {
+  "id": "game1-212",
+  "Name": "Deer",
+  "current": "A graceful animal",
+  "proposed": "Graceful animal with antlers"
+ },
+ {
+  "id": "game1-213",
+  "Name": "Rabbit",
+  "current": "A small mammal",
+  "proposed": "Long-eared hopping animal"
+ },
+ {
+  "id": "game1-214",
+  "Name": "Fox",
+  "current": "A cunning animal",
+  "proposed": "Cunning wild animal with bushy tail"
+ },
+ {
+  "id": "game1-215",
+  "Name": "Wolf",
+  "current": "A wild canine",
+  "proposed": "Wild animal that howls in packs"
+ },
+ {
+  "id": "game1-216",
+  "Name": "Snake",
+  "current": "A reptile",
+  "proposed": "Legless reptile that slithers"
+ },
+ {
+  "id": "game1-217",
+  "Name": "Crocodile",
+  "current": "A large reptile",
+  "proposed": "Large river reptile with strong jaws"
+ },
+ {
+  "id": "game1-218",
+  "Name": "Turtle",
+  "current": "A shelled reptile",
+  "proposed": "Slow reptile with a shell"
+ },
+ {
+  "id": "game1-219",
+  "Name": "Frog",
+  "current": "An amphibian",
+  "proposed": "Croaking amphibian that jumps"
+ },
+ {
+  "id": "game1-220",
+  "Name": "Mouse",
+  "current": "A small rodent",
+  "proposed": "Small rodent that loves cheese"
+ },
+ {
+  "id": "game1-222",
+  "Name": "Squirrel",
+  "current": "A tree rodent",
+  "proposed": "Bushy-tailed tree climber"
+ },
+ {
+  "id": "game1-223",
+  "Name": "Eagle",
+  "current": "A bird of prey",
+  "proposed": "Uqaab; large bird of prey"
+ },
+ {
+  "id": "game1-224",
+  "Name": "Sparrow",
+  "current": "A small bird",
+  "proposed": "Small brown chirping bird; chiriya"
+ },
+ {
+  "id": "game1-225",
+  "Name": "Pigeon",
+  "current": "A common bird",
+  "proposed": "Kabootar; common in city squares"
+ },
+ {
+  "id": "game1-226",
+  "Name": "Parrot",
+  "current": "A colorful bird",
+  "proposed": "Green bird that can talk"
+ },
+ {
+  "id": "game1-227",
+  "Name": "Crow",
+  "current": "A black bird",
+  "proposed": "Black bird that caws"
+ },
+ {
+  "id": "game1-228",
+  "Name": "Peacock",
+  "current": "A beautiful bird",
+  "proposed": "Bird with colorful fanned tail"
+ },
+ {
+  "id": "game1-229",
+  "Name": "Hen",
+  "current": "A female chicken",
+  "proposed": "Female bird that lays eggs; murghi"
+ },
+ {
+  "id": "game1-230",
+  "Name": "Rooster",
+  "current": "A male chicken",
+  "proposed": "Male bird that crows at dawn"
+ },
+ {
+  "id": "game1-231",
+  "Name": "Duck",
+  "current": "A water bird",
+  "proposed": "Quacking water bird"
+ },
+ {
+  "id": "game1-232",
+  "Name": "Swan",
+  "current": "A graceful water bird",
+  "proposed": "White long-necked water bird"
+ },
+ {
+  "id": "game1-233",
+  "Name": "Owl",
+  "current": "A nocturnal bird",
+  "proposed": "Night bird that hoots"
+ },
+ {
+  "id": "game1-234",
+  "Name": "Hawk",
+  "current": "A bird of prey",
+  "proposed": "Sharp-eyed hunting bird; baaz"
+ },
+ {
+  "id": "game1-235",
+  "Name": "Kite",
+  "current": "A bird of prey",
+  "proposed": "Cheel; circles over cities"
+ },
+ {
+  "id": "game1-236",
+  "Name": "Ostrich",
+  "current": "A large flightless bird",
+  "proposed": "Largest bird; cannot fly"
+ },
+ {
+  "id": "game1-237",
+  "Name": "Penguin",
+  "current": "A flightless water bird",
+  "proposed": "Black-and-white bird of the ice"
+ },
+ {
+  "id": "game1-238",
+  "Name": "Flamingo",
+  "current": "A pink water bird",
+  "proposed": "Pink bird standing on one leg"
+ },
+ {
+  "id": "game1-239",
+  "Name": "Woodpecker",
+  "current": "A tree-dwelling bird",
+  "proposed": "Bird that drills tree trunks"
+ },
+ {
+  "id": "game1-240",
+  "Name": "Kingfisher",
+  "current": "A fishing bird",
+  "proposed": "Bright blue bird that dives for fish"
+ },
+ {
+  "id": "game1-241",
+  "Name": "Dove",
+  "current": "A peaceful bird",
+  "proposed": "White bird, symbol of peace"
+ },
+ {
+  "id": "game1-242",
+  "Name": "Myna",
+  "current": "A common bird",
+  "proposed": "Mimicking brown bird with yellow eyes"
+ },
+ {
+  "id": "game1-243",
+  "Name": "Chakor",
+  "current": "A game bird",
+  "proposed": "National bird of Pakistan"
+ },
+ {
+  "id": "game1-244",
+  "Name": "Partridge",
+  "current": "A game bird",
+  "proposed": "Teetar; ground game bird"
+ },
+ {
+  "id": "game1-245",
+  "Name": "Cricket",
+  "current": "A bat and ball sport",
+  "proposed": "Sport of Pakistan's 1992 World Cup win"
+ },
+ {
+  "id": "game1-246",
+  "Name": "Hockey",
+  "current": "A stick and ball sport",
+  "proposed": "National sport of Pakistan"
+ },
+ {
+  "id": "game1-247",
+  "Name": "Football",
+  "current": "A team sport",
+  "proposed": "Kicking a ball into a goal"
+ },
+ {
+  "id": "game1-248",
+  "Name": "Tennis",
+  "current": "A racket sport",
+  "proposed": "Racket sport on grass or clay courts"
+ },
+ {
+  "id": "game1-249",
+  "Name": "Squash",
+  "current": "A racket sport",
+  "proposed": "Racket sport against a wall; Jahangir Khan"
+ },
+ {
+  "id": "game1-250",
+  "Name": "Badminton",
+  "current": "A racket sport",
+  "proposed": "Racket sport with a shuttlecock"
+ },
+ {
+  "id": "game1-251",
+  "Name": "Boxing",
+  "current": "A combat sport",
+  "proposed": "Fighting with gloves in a ring"
+ },
+ {
+  "id": "game1-252",
+  "Name": "Wrestling",
+  "current": "A combat sport",
+  "proposed": "Grappling sport; kushti"
+ },
+ {
+  "id": "game1-253",
+  "Name": "Kabaddi",
+  "current": "A traditional sport",
+  "proposed": "Village tag sport, holding breath"
+ },
+ {
+  "id": "game1-254",
+  "Name": "Polo",
+  "current": "A horse sport",
+  "proposed": "Played on horseback with mallets"
+ },
+ {
+  "id": "game1-255",
+  "Name": "Golf",
+  "current": "A club and ball sport",
+  "proposed": "Hitting a small ball into holes"
+ },
+ {
+  "id": "game1-256",
+  "Name": "Swimming",
+  "current": "A water sport",
+  "proposed": "Moving through water in a pool"
+ },
+ {
+  "id": "game1-257",
+  "Name": "Running",
+  "current": "An athletic sport",
+  "proposed": "Racing on foot"
+ },
+ {
+  "id": "game1-258",
+  "Name": "Cycling",
+  "current": "A bike sport",
+  "proposed": "Racing on two pedaled wheels"
+ },
+ {
+  "id": "game1-259",
+  "Name": "Volleyball",
+  "current": "A team sport",
+  "proposed": "Hitting a ball over a high net"
+ },
+ {
+  "id": "game1-260",
+  "Name": "Basketball",
+  "current": "A team sport",
+  "proposed": "Throwing a ball through a hoop"
+ },
+ {
+  "id": "game1-261",
+  "Name": "Snooker",
+  "current": "A cue sport",
+  "proposed": "Cue sport with red and colored balls"
+ },
+ {
+  "id": "game1-262",
+  "Name": "Table Tennis",
+  "current": "A racket sport",
+  "proposed": "Ping pong"
+ },
+ {
+  "id": "game1-263",
+  "Name": "Archery",
+  "current": "A target sport",
+  "proposed": "Bow and arrow sport"
+ },
+ {
+  "id": "game1-264",
+  "Name": "Shooting",
+  "current": "A target sport",
+  "proposed": "Aiming a rifle at a target"
+ },
+ {
+  "id": "game1-265",
+  "Name": "Skiing",
+  "current": "A winter sport",
+  "proposed": "Sliding down snowy slopes"
+ },
+ {
+  "id": "game1-266",
+  "Name": "Skating",
+  "current": "A gliding sport",
+  "proposed": "Gliding on ice or wheels"
+ },
+ {
+  "id": "game1-267",
+  "Name": "Karate",
+  "current": "A martial art",
+  "proposed": "Japanese martial art of strikes"
+ },
+ {
+  "id": "game1-268",
+  "Name": "Judo",
+  "current": "A martial art",
+  "proposed": "Japanese martial art of throws"
+ },
+ {
+  "id": "game1-269",
+  "Name": "Gymnastics",
+  "current": "An athletic sport",
+  "proposed": "Flips, beams and balance routines"
+ },
+ {
+  "id": "game1-270",
+  "Name": "Badshahi Mosque",
+  "current": "A historic mosque",
+  "proposed": "Aurangzeb's grand red masjid, Lahore"
+ },
+ {
+  "id": "game1-271",
+  "Name": "Minar-e-Pakistan",
+  "current": "A national monument",
+  "proposed": "Tower in Lahore, 1940 Resolution site"
+ },
+ {
+  "id": "game1-272",
+  "Name": "Faisal Mosque",
+  "current": "A famous mosque",
+  "proposed": "Tent-shaped masjid below Margalla Hills"
+ },
+ {
+  "id": "game1-273",
+  "Name": "Lahore Fort",
+  "current": "A historic fort",
+  "proposed": "Mughal citadel by Badshahi Masjid"
+ },
+ {
+  "id": "game1-274",
+  "Name": "Shalimar Gardens",
+  "current": "Historic gardens",
+  "proposed": "Shah Jahan's terraced Mughal bagh, Lahore"
+ },
+ {
+  "id": "game1-275",
+  "Name": "Rohtas Fort",
+  "current": "A historic fort",
+  "proposed": "Sher Shah Suri's stronghold near Jhelum"
+ },
+ {
+  "id": "game1-276",
+  "Name": "Mohenjo-daro",
+  "current": "An ancient city",
+  "proposed": "Indus Valley ruins in Sindh"
+ },
+ {
+  "id": "game1-277",
+  "Name": "Harappa",
+  "current": "An ancient city",
+  "proposed": "Indus Valley ruins near Sahiwal"
+ },
+ {
+  "id": "game1-278",
+  "Name": "Taxila",
+  "current": "An ancient city",
+  "proposed": "Ancient Gandhara city near Islamabad"
+ },
+ {
+  "id": "game1-279",
+  "Name": "Hiran Minar",
+  "current": "A historic monument",
+  "proposed": "Jahangir's tower for his pet antelope"
+ },
+ {
+  "id": "game1-280",
+  "Name": "Katas Raj",
+  "current": "A historic temple complex",
+  "proposed": "Ancient temples with pond, Chakwal"
+ },
+ {
+  "id": "game1-281",
+  "Name": "Derawar Fort",
+  "current": "A desert fort",
+  "proposed": "Huge bastioned stronghold in Cholistan Desert"
+ },
+ {
+  "id": "game1-282",
+  "Name": "Ranikot Fort",
+  "current": "A large fort",
+  "proposed": "Great Wall of Sindh"
+ },
+ {
+  "id": "game1-283",
+  "Name": "Baltit Fort",
+  "current": "A mountain fort",
+  "proposed": "Old Mir's castle above Karimabad, Hunza"
+ },
+ {
+  "id": "game1-284",
+  "Name": "Altit Fort",
+  "current": "A mountain fort",
+  "proposed": "Hunza's oldest castle, about 900 years old"
+ },
+ {
+  "id": "game1-285",
+  "Name": "Noor Mahal",
+  "current": "A historic palace",
+  "proposed": "White palace in Bahawalpur"
+ },
+ {
+  "id": "game1-286",
+  "Name": "Wazir Khan Mosque",
+  "current": "A historic mosque",
+  "proposed": "Tiled Mughal masjid near Delhi Gate, Lahore"
+ },
+ {
+  "id": "game1-287",
+  "Name": "Tomb of Jahangir",
+  "current": "A historic tomb",
+  "proposed": "Mughal emperor's mausoleum in Shahdara"
+ },
+ {
+  "id": "game1-288",
+  "Name": "Mazar-e-Quaid",
+  "current": "A national monument",
+  "proposed": "Jinnah's white marble mausoleum in Karachi"
+ },
+ {
+  "id": "game1-289",
+  "Name": "Ziarat Residency",
+  "current": "A historic building",
+  "proposed": "Quaid's last residence in Balochistan"
+ },
+ {
+  "id": "game1-290",
+  "Name": "Khyber Pass",
+  "current": "A historic mountain pass",
+  "proposed": "Mountain route linking Pakistan and Afghanistan"
+ },
+ {
+  "id": "game1-292",
+  "Name": "Frere Hall",
+  "current": "A historic building",
+  "proposed": "Colonial-era building with library, Karachi"
+ },
+ {
+  "id": "game1-293",
+  "Name": "Mohatta Palace",
+  "current": "A historic palace",
+  "proposed": "Pink stone mansion museum in Clifton, Karachi"
+ },
+ {
+  "id": "game1-295",
+  "Name": "Doctor",
+  "current": "A medical professional",
+  "proposed": "Treats patients and prescribes medicine"
+ },
+ {
+  "id": "game1-296",
+  "Name": "Teacher",
+  "current": "An education professional",
+  "proposed": "Teaches students in class"
+ },
+ {
+  "id": "game1-297",
+  "Name": "Pilot",
+  "current": "An aviation professional",
+  "proposed": "Flies aeroplanes"
+ },
+ {
+  "id": "game1-298",
+  "Name": "Soldier",
+  "current": "A military professional",
+  "proposed": "Serves in the army"
+ },
+ {
+  "id": "game1-299",
+  "Name": "Police",
+  "current": "A law enforcement officer",
+  "proposed": "Enforces law; catches thieves"
+ },
+ {
+  "id": "game1-300",
+  "Name": "Lawyer",
+  "current": "A legal professional",
+  "proposed": "Argues cases in court"
+ },
+ {
+  "id": "game1-301",
+  "Name": "Judge",
+  "current": "A legal authority",
+  "proposed": "Decides cases in court"
+ },
+ {
+  "id": "game1-302",
+  "Name": "Chef",
+  "current": "A cooking professional",
+  "proposed": "Professional cook in a restaurant"
+ },
+ {
+  "id": "game1-303",
+  "Name": "Farmer",
+  "current": "An agricultural worker",
+  "proposed": "Grows crops in fields"
+ },
+ {
+  "id": "game1-304",
+  "Name": "Driver",
+  "current": "A transportation worker",
+  "proposed": "Drives cars or buses for work"
+ },
+ {
+  "id": "game1-305",
+  "Name": "Tailor",
+  "current": "A clothing maker",
+  "proposed": "Stitches clothes; darzi"
+ },
+ {
+  "id": "game1-306",
+  "Name": "Barber",
+  "current": "A hair cutting professional",
+  "proposed": "Cuts hair and shaves beards; nai"
+ },
+ {
+  "id": "game1-307",
+  "Name": "Carpenter",
+  "current": "A wood worker",
+  "proposed": "Makes furniture from wood"
+ },
+ {
+  "id": "game1-308",
+  "Name": "Plumber",
+  "current": "A pipe worker",
+  "proposed": "Fixes pipes and taps"
+ },
+ {
+  "id": "game1-309",
+  "Name": "Electrician",
+  "current": "An electrical worker",
+  "proposed": "Fixes wiring, switches and fans"
+ },
+ {
+  "id": "game1-310",
+  "Name": "Mechanic",
+  "current": "A machine worker",
+  "proposed": "Repairs car and bike engines"
+ },
+ {
+  "id": "game1-311",
+  "Name": "Painter",
+  "current": "An artist or decorator",
+  "proposed": "Paints walls and houses"
+ },
+ {
+  "id": "game1-312",
+  "Name": "Writer",
+  "current": "A content creator",
+  "proposed": "Authors books and articles"
+ },
+ {
+  "id": "game1-313",
+  "Name": "Artist",
+  "current": "A creative professional",
+  "proposed": "Creates paintings and drawings"
+ },
+ {
+  "id": "game1-315",
+  "Name": "Banker",
+  "current": "A finance professional",
+  "proposed": "Handles deposits and loans"
+ },
+ {
+  "id": "game1-316",
+  "Name": "Accountant",
+  "current": "A finance professional",
+  "proposed": "Keeps financial records and taxes"
+ },
+ {
+  "id": "game1-317",
+  "Name": "Scientist",
+  "current": "A research professional",
+  "proposed": "Does experiments in a lab"
+ },
+ {
+  "id": "game1-318",
+  "Name": "Car",
+  "current": "A personal vehicle",
+  "proposed": "Four-wheeled family vehicle"
+ },
+ {
+  "id": "game1-319",
+  "Name": "Bus",
+  "current": "A public vehicle",
+  "proposed": "Large public passenger vehicle"
+ },
+ {
+  "id": "game1-320",
+  "Name": "Truck",
+  "current": "A cargo vehicle",
+  "proposed": "Large goods carrier on highways"
+ },
+ {
+  "id": "game1-321",
+  "Name": "Bike",
+  "current": "A two-wheeler",
+  "proposed": "Motorcycle, popular two-wheeler"
+ },
+ {
+  "id": "game1-322",
+  "Name": "Cycle",
+  "current": "A pedal vehicle",
+  "proposed": "Pedal-powered two-wheeler"
+ },
+ {
+  "id": "game1-323",
+  "Name": "Rickshaw",
+  "current": "A three-wheeler",
+  "proposed": "Three-wheeled auto for hire"
+ },
+ {
+  "id": "game1-324",
+  "Name": "Chingchi",
+  "current": "A local transport",
+  "proposed": "Motorcycle rickshaw with many seats"
+ },
+ {
+  "id": "game1-325",
+  "Name": "Train",
+  "current": "A rail vehicle",
+  "proposed": "Runs on rails between stations"
+ },
+ {
+  "id": "game1-326",
+  "Name": "Airplane",
+  "current": "An air vehicle",
+  "proposed": "Flies passengers between airports"
+ },
+ {
+  "id": "game1-327",
+  "Name": "Boat",
+  "current": "A water vehicle",
+  "proposed": "Small vessel on a river or lake"
+ },
+ {
+  "id": "game1-328",
+  "Name": "Ship",
+  "current": "A large water vehicle",
+  "proposed": "Large ocean-going vessel"
+ },
+ {
+  "id": "game1-329",
+  "Name": "Van",
+  "current": "A cargo vehicle",
+  "proposed": "Boxy vehicle for passengers or goods"
+ },
+ {
+  "id": "game1-330",
+  "Name": "Taxi",
+  "current": "A hired vehicle",
+  "proposed": "Car for hire with a driver"
+ },
+ {
+  "id": "game1-331",
+  "Name": "Scooter",
+  "current": "A two-wheeler",
+  "proposed": "Small two-wheeler with a footboard"
+ },
+ {
+  "id": "game1-332",
+  "Name": "Tractor",
+  "current": "A farm vehicle",
+  "proposed": "Farm vehicle that pulls ploughs"
+ },
+ {
+  "id": "game1-333",
+  "Name": "Trolley",
+  "current": "A cargo carrier",
+  "proposed": "Wheeled cart for luggage or shopping"
+ },
+ {
+  "id": "game1-334",
+  "Name": "Ambulance",
+  "current": "An emergency vehicle",
+  "proposed": "Rushes patients to hospital"
+ },
+ {
+  "id": "game1-335",
+  "Name": "Fire Truck",
+  "current": "An emergency vehicle",
+  "proposed": "Emergency vehicle with water hoses"
+ },
+ {
+  "id": "game1-336",
+  "Name": "Police Car",
+  "current": "A law enforcement vehicle",
+  "proposed": "Patrol vehicle with a siren"
+ },
+ {
+  "id": "game1-337",
+  "Name": "Jeep",
+  "current": "An off-road vehicle",
+  "proposed": "Rugged off-road vehicle"
+ },
+ {
+  "id": "game1-338",
+  "Name": "Helicopter",
+  "current": "An air vehicle",
+  "proposed": "Aircraft with spinning rotor blades"
+ },
+ {
+  "id": "game1-339",
+  "Name": "Rocket",
+  "current": "A space vehicle",
+  "proposed": "Launches into space"
+ },
+ {
+  "id": "game1-340",
+  "Name": "Metro Bus",
+  "current": "A rapid transit",
+  "proposed": "Rapid transit on dedicated lanes"
+ },
+ {
+  "id": "game1-341",
+  "Name": "Orange Line",
+  "current": "A metro train",
+  "proposed": "Lahore's first metro train"
+ },
+ {
+  "id": "game1-342",
+  "Name": "Tonga",
+  "current": "A horse cart",
+  "proposed": "Horse-drawn carriage"
+ },
+ {
+  "id": "game1-343",
+  "Name": "Pen",
+  "current": "A writing tool",
+  "proposed": "Writes in ink"
+ },
+ {
+  "id": "game1-344",
+  "Name": "Pencil",
+  "current": "A writing tool",
+  "proposed": "Writes in graphite, can be rubbed out"
+ },
+ {
+  "id": "game1-345",
+  "Name": "Eraser",
+  "current": "A correction tool",
+  "proposed": "Rubs out pencil marks"
+ },
+ {
+  "id": "game1-346",
+  "Name": "Sharpener",
+  "current": "A pencil tool",
+  "proposed": "Puts a point on a pencil"
+ },
+ {
+  "id": "game1-347",
+  "Name": "Ruler",
+  "current": "A measuring tool",
+  "proposed": "Draws straight lines, measures length"
+ },
+ {
+  "id": "game1-348",
+  "Name": "Notebook",
+  "current": "A writing book",
+  "proposed": "Bound pages for class work"
+ },
+ {
+  "id": "game1-349",
+  "Name": "Paper",
+  "current": "Writing material",
+  "proposed": "Thin sheet you write on"
+ },
+ {
+  "id": "game1-350",
+  "Name": "Glue",
+  "current": "An adhesive",
+  "proposed": "Sticks things together"
+ },
+ {
+  "id": "game1-351",
+  "Name": "Scissors",
+  "current": "A cutting tool",
+  "proposed": "Two blades for cutting"
+ },
+ {
+  "id": "game1-352",
+  "Name": "Marker",
+  "current": "A writing tool",
+  "proposed": "Thick-tipped pen for whiteboards"
+ },
+ {
+  "id": "game1-353",
+  "Name": "Highlighter",
+  "current": "A marking tool",
+  "proposed": "Bright pen to mark text"
+ },
+ {
+  "id": "game1-354",
+  "Name": "Stapler",
+  "current": "A binding tool",
+  "proposed": "Joins papers with metal staples"
+ },
+ {
+  "id": "game1-355",
+  "Name": "Pin",
+  "current": "A fastening tool",
+  "proposed": "Small sharp metal fastener"
+ },
+ {
+  "id": "game1-356",
+  "Name": "Clip",
+  "current": "A fastening tool",
+  "proposed": "Holds papers together without holes"
+ },
+ {
+  "id": "game1-357",
+  "Name": "Tape",
+  "current": "An adhesive strip",
+  "proposed": "Sticky strip on a roll"
+ },
+ {
+  "id": "game1-358",
+  "Name": "Calculator",
+  "current": "A computing device",
+  "proposed": "Device for doing sums"
+ },
+ {
+  "id": "game1-359",
+  "Name": "Compass",
+  "current": "A drawing tool",
+  "proposed": "Draws circles in geometry box"
+ },
+ {
+  "id": "game1-360",
+  "Name": "Protractor",
+  "current": "A measuring tool",
+  "proposed": "Measures angles in geometry box"
+ },
+ {
+  "id": "game1-361",
+  "Name": "File",
+  "current": "A storage folder",
+  "proposed": "Holds loose papers in order"
+ },
+ {
+  "id": "game1-362",
+  "Name": "Folder",
+  "current": "A storage item",
+  "proposed": "Cover for keeping papers together"
+ },
+ {
+  "id": "game1-363",
+  "Name": "Envelope",
+  "current": "A letter holder",
+  "proposed": "Paper cover for posting letters"
+ },
+ {
+  "id": "game1-364",
+  "Name": "Diary",
+  "current": "A personal journal",
+  "proposed": "Daily book for personal notes"
+ },
+ {
+  "id": "game1-365",
+  "Name": "Chart",
+  "current": "A visual display",
+  "proposed": "Large sheet for school displays"
+ },
+ {
+  "id": "game1-366",
+  "Name": "Card",
+  "current": "A paper item",
+  "proposed": "Stiff paper for greetings or Eid"
+ },
+ {
+  "id": "game1-367",
+  "Name": "Ink",
+  "current": "Writing fluid",
+  "proposed": "Fluid that fills a fountain pen"
+ },
+ {
+  "id": "game1-368",
+  "Name": "Red",
+  "current": "A primary color",
+  "proposed": "Colour of blood and chillies"
+ },
+ {
+  "id": "game1-369",
+  "Name": "Blue",
+  "current": "A primary color",
+  "proposed": "Colour of a clear sky"
+ },
+ {
+  "id": "game1-370",
+  "Name": "Green",
+  "current": "A secondary color",
+  "proposed": "Colour of Pakistan's flag and leaves"
+ },
+ {
+  "id": "game1-371",
+  "Name": "Yellow",
+  "current": "A primary color",
+  "proposed": "Colour of bananas and the sun"
+ },
+ {
+  "id": "game1-372",
+  "Name": "Orange",
+  "current": "A secondary color",
+  "proposed": "Colour of a ripe kinnow"
+ },
+ {
+  "id": "game1-373",
+  "Name": "Purple",
+  "current": "A secondary color",
+  "proposed": "Mix of red and blue"
+ },
+ {
+  "id": "game1-374",
+  "Name": "Pink",
+  "current": "A light color",
+  "proposed": "Light red, like roses"
+ },
+ {
+  "id": "game1-375",
+  "Name": "Black",
+  "current": "A dark color",
+  "proposed": "Colour of a moonless night"
+ },
+ {
+  "id": "game1-376",
+  "Name": "White",
+  "current": "A light color",
+  "proposed": "Colour of snow and milk"
+ },
+ {
+  "id": "game1-377",
+  "Name": "Grey",
+  "current": "A neutral color",
+  "proposed": "Colour of ash and clouds"
+ },
+ {
+  "id": "game1-378",
+  "Name": "Brown",
+  "current": "An earth tone",
+  "proposed": "Colour of soil and wood"
+ },
+ {
+  "id": "game1-379",
+  "Name": "Maroon",
+  "current": "A dark red",
+  "proposed": "Dark reddish-brown colour"
+ },
+ {
+  "id": "game1-380",
+  "Name": "Turquoise",
+  "current": "A blue-green color",
+  "proposed": "Blue-green gemstone colour"
+ },
+ {
+  "id": "game1-381",
+  "Name": "Gold",
+  "current": "A metallic color",
+  "proposed": "Shiny metal of jewellery"
+ },
+ {
+  "id": "game1-382",
+  "Name": "Silver",
+  "current": "A metallic color",
+  "proposed": "Shiny metal colour of coins"
+ },
+ {
+  "id": "game1-383",
+  "Name": "Beige",
+  "current": "A neutral color",
+  "proposed": "Pale sandy brown"
+ },
+ {
+  "id": "game1-384",
+  "Name": "Cream",
+  "current": "A light color",
+  "proposed": "Pale yellowish-white, like malai"
+ },
+ {
+  "id": "game1-385",
+  "Name": "Indigo",
+  "current": "A deep blue",
+  "proposed": "Deep blue between blue and violet"
+ },
+ {
+  "id": "game1-386",
+  "Name": "Violet",
+  "current": "A purple shade",
+  "proposed": "Bluish-purple colour of flowers"
+ },
+ {
+  "id": "game1-387",
+  "Name": "Magenta",
+  "current": "A pink-purple",
+  "proposed": "Bright purplish-pink"
+ },
+ {
+  "id": "game1-388",
+  "Name": "Cyan",
+  "current": "A blue-green",
+  "proposed": "Bright greenish-blue"
+ },
+ {
+  "id": "game1-389",
+  "Name": "Teal",
+  "current": "A blue-green",
+  "proposed": "Dark blue-green"
+ },
+ {
+  "id": "game1-390",
+  "Name": "Olive",
+  "current": "A yellow-green",
+  "proposed": "Dull yellow-green, like the fruit"
+ },
+ {
+  "id": "game1-391",
+  "Name": "Navy",
+  "current": "A dark blue",
+  "proposed": "Very dark blue, like uniforms"
+ },
+ {
+  "id": "game1-392",
+  "Name": "Peach",
+  "current": "A light orange",
+  "proposed": "Soft orange-pink, like the fruit"
+ },
+ {
+  "id": "game1-393",
+  "Name": "Head",
+  "current": "Upper body part",
+  "proposed": "Top part of the body"
+ },
+ {
+  "id": "game1-394",
+  "Name": "Eye",
+  "current": "Vision organ",
+  "proposed": "Organ used for seeing"
+ },
+ {
+  "id": "game1-395",
+  "Name": "Ear",
+  "current": "Hearing organ",
+  "proposed": "Organ you listen with"
+ },
+ {
+  "id": "game1-396",
+  "Name": "Nose",
+  "current": "Smelling organ",
+  "proposed": "Organ used for smelling"
+ },
+ {
+  "id": "game1-397",
+  "Name": "Mouth",
+  "current": "Eating organ",
+  "proposed": "Opening used for eating and speaking"
+ },
+ {
+  "id": "game1-398",
+  "Name": "Hand",
+  "current": "Upper limb",
+  "proposed": "Ends in five fingers"
+ },
+ {
+  "id": "game1-399",
+  "Name": "Foot",
+  "current": "Lower limb",
+  "proposed": "Part you stand on"
+ },
+ {
+  "id": "game1-400",
+  "Name": "Leg",
+  "current": "Lower limb",
+  "proposed": "Limb used for walking"
+ },
+ {
+  "id": "game1-401",
+  "Name": "Arm",
+  "current": "Upper limb",
+  "proposed": "Limb from shoulder to wrist"
+ },
+ {
+  "id": "game1-402",
+  "Name": "Finger",
+  "current": "Hand part",
+  "proposed": "Five on each hand"
+ },
+ {
+  "id": "game1-403",
+  "Name": "Thumb",
+  "current": "Hand part",
+  "proposed": "Short, thick first digit"
+ },
+ {
+  "id": "game1-404",
+  "Name": "Knee",
+  "current": "Leg joint",
+  "proposed": "Joint in the middle of the leg"
+ },
+ {
+  "id": "game1-405",
+  "Name": "Elbow",
+  "current": "Arm joint",
+  "proposed": "Joint in the middle of the arm"
+ },
+ {
+  "id": "game1-406",
+  "Name": "Shoulder",
+  "current": "Upper body part",
+  "proposed": "Joint where arm meets body"
+ },
+ {
+  "id": "game1-407",
+  "Name": "Neck",
+  "current": "Upper body part",
+  "proposed": "Connects head to body"
+ },
+ {
+  "id": "game1-408",
+  "Name": "Hair",
+  "current": "Head covering",
+  "proposed": "Grows on the head"
+ },
+ {
+  "id": "game1-409",
+  "Name": "Tooth",
+  "current": "Mouth part",
+  "proposed": "Used for chewing food"
+ },
+ {
+  "id": "game1-410",
+  "Name": "Tongue",
+  "current": "Mouth part",
+  "proposed": "Used for tasting food"
+ },
+ {
+  "id": "game1-411",
+  "Name": "Lip",
+  "current": "Mouth part",
+  "proposed": "Soft edge of the mouth"
+ },
+ {
+  "id": "game1-412",
+  "Name": "Chin",
+  "current": "Face part",
+  "proposed": "Bottom point of the face"
+ },
+ {
+  "id": "game1-413",
+  "Name": "Cheek",
+  "current": "Face part",
+  "proposed": "Soft side of the face"
+ },
+ {
+  "id": "game1-414",
+  "Name": "Forehead",
+  "current": "Face part",
+  "proposed": "Face part above the eyebrows"
+ },
+ {
+  "id": "game1-415",
+  "Name": "Stomach",
+  "current": "Digestive organ",
+  "proposed": "Digests food after eating"
+ },
+ {
+  "id": "game1-416",
+  "Name": "Back",
+  "current": "Rear body part",
+  "proposed": "Rear side of the torso"
+ },
+ {
+  "id": "game1-417",
+  "Name": "Chest",
+  "current": "Front body part",
+  "proposed": "Front of the torso, holds the heart"
+ },
+ {
+  "id": "game1-418",
+  "Name": "Ring",
+  "current": "A finger ornament",
+  "proposed": "Band worn on a finger"
+ },
+ {
+  "id": "game1-419",
+  "Name": "Necklace",
+  "current": "A neck ornament",
+  "proposed": "Worn around the neck"
+ },
+ {
+  "id": "game1-420",
+  "Name": "Bangle",
+  "current": "A wrist ornament",
+  "proposed": "Glass or gold wrist circle"
+ },
+ {
+  "id": "game1-421",
+  "Name": "Earring",
+  "current": "An ear ornament",
+  "proposed": "Worn on the earlobe"
+ },
+ {
+  "id": "game1-422",
+  "Name": "Nose Pin",
+  "current": "A nose ornament",
+  "proposed": "Small stud worn on a nostril"
+ },
+ {
+  "id": "game1-423",
+  "Name": "Anklet",
+  "current": "An ankle ornament",
+  "proposed": "Worn around the ankle, often with bells"
+ },
+ {
+  "id": "game1-424",
+  "Name": "Bracelet",
+  "current": "A wrist ornament",
+  "proposed": "Chain or band worn on the wrist"
+ },
+ {
+  "id": "game1-425",
+  "Name": "Chain",
+  "current": "A neck ornament",
+  "proposed": "Thin metal links worn on the neck"
+ },
+ {
+  "id": "game1-426",
+  "Name": "Locket",
+  "current": "A pendant ornament",
+  "proposed": "Pendant that opens to hold a photo"
+ },
+ {
+  "id": "game1-427",
+  "Name": "Tiara",
+  "current": "A head ornament",
+  "proposed": "Small jewelled band worn by princesses"
+ },
+ {
+  "id": "game1-428",
+  "Name": "Crown",
+  "current": "A royal headpiece",
+  "proposed": "Worn on a king's head"
+ },
+ {
+  "id": "game1-429",
+  "Name": "Diamond",
+  "current": "A precious gem",
+  "proposed": "Hardest, sparkling precious stone"
+ },
+ {
+  "id": "game1-430",
+  "Name": "Gold",
+  "current": "A precious metal",
+  "proposed": "Yellow precious metal for jewellery"
+ },
+ {
+  "id": "game1-431",
+  "Name": "Silver",
+  "current": "A precious metal",
+  "proposed": "White precious metal, cheaper than gold"
+ },
+ {
+  "id": "game1-432",
+  "Name": "Pearl",
+  "current": "A precious gem",
+  "proposed": "Gem formed inside an oyster"
+ },
+ {
+  "id": "game1-433",
+  "Name": "Ruby",
+  "current": "A red gem",
+  "proposed": "Precious red gemstone"
+ },
+ {
+  "id": "game1-434",
+  "Name": "Emerald",
+  "current": "A green gem",
+  "proposed": "Precious green gemstone"
+ },
+ {
+  "id": "game1-435",
+  "Name": "Sapphire",
+  "current": "A blue gem",
+  "proposed": "Precious blue gemstone"
+ },
+ {
+  "id": "game1-436",
+  "Name": "Choker",
+  "current": "A neck ornament",
+  "proposed": "Necklace worn tight around the neck"
+ },
+ {
+  "id": "game1-437",
+  "Name": "Jhumka",
+  "current": "Traditional earrings",
+  "proposed": "Bell-shaped dangling earrings"
+ },
+ {
+  "id": "game1-438",
+  "Name": "Matha Patti",
+  "current": "A forehead ornament",
+  "proposed": "Bridal forehead chain with pendant"
+ },
+ {
+  "id": "game1-439",
+  "Name": "Brooch",
+  "current": "A pin ornament",
+  "proposed": "Decorative pin worn on a dupatta"
+ },
+ {
+  "id": "game1-440",
+  "Name": "Stud",
+  "current": "A small earring",
+  "proposed": "Small earring that sits on the lobe"
+ },
+ {
+  "id": "game1-441",
+  "Name": "Hoop",
+  "current": "A circular earring",
+  "proposed": "Ring-shaped earring"
+ },
+ {
+  "id": "game1-442",
+  "Name": "Sun",
+  "current": "A star",
+  "proposed": "Star that gives us daylight"
+ },
+ {
+  "id": "game1-443",
+  "Name": "Moon",
+  "current": "Earth's satellite",
+  "proposed": "Shines at night, marks Islamic months"
+ },
+ {
+  "id": "game1-444",
+  "Name": "Star",
+  "current": "A celestial body",
+  "proposed": "Twinkles in the night sky"
+ },
+ {
+  "id": "game1-445",
+  "Name": "Sky",
+  "current": "The atmosphere",
+  "proposed": "Blue above us in the daytime"
+ },
+ {
+  "id": "game1-446",
+  "Name": "Cloud",
+  "current": "Water vapor",
+  "proposed": "White and fluffy, floats in the sky"
+ },
+ {
+  "id": "game1-447",
+  "Name": "Rain",
+  "current": "Precipitation",
+  "proposed": "Water falling from clouds"
+ },
+ {
+  "id": "game1-448",
+  "Name": "Snow",
+  "current": "Frozen precipitation",
+  "proposed": "White flakes that fall in winter"
+ },
+ {
+  "id": "game1-449",
+  "Name": "Wind",
+  "current": "Moving air",
+  "proposed": "Moving air you can feel"
+ },
+ {
+  "id": "game1-450",
+  "Name": "Storm",
+  "current": "Severe weather",
+  "proposed": "Heavy wind, rain and thunder"
+ },
+ {
+  "id": "game1-451",
+  "Name": "River",
+  "current": "A water body",
+  "proposed": "Flowing water like the Indus"
+ },
+ {
+  "id": "game1-452",
+  "Name": "Sea",
+  "current": "A large water body",
+  "proposed": "Salty water body, like the Arabian"
+ },
+ {
+  "id": "game1-453",
+  "Name": "Ocean",
+  "current": "A vast water body",
+  "proposed": "Vast salt water, like the Pacific"
+ },
+ {
+  "id": "game1-454",
+  "Name": "Lake",
+  "current": "A water body",
+  "proposed": "Still water surrounded by land"
+ },
+ {
+  "id": "game1-455",
+  "Name": "Pond",
+  "current": "A small water body",
+  "proposed": "Small still water in a village"
+ },
+ {
+  "id": "game1-456",
+  "Name": "Mountain",
+  "current": "A high landform",
+  "proposed": "Very high land like K2"
+ },
+ {
+  "id": "game1-457",
+  "Name": "Hill",
+  "current": "A raised landform",
+  "proposed": "Small raised land, smaller than a mountain"
+ },
+ {
+  "id": "game1-458",
+  "Name": "Valley",
+  "current": "A low landform",
+  "proposed": "Low land between mountains"
+ },
+ {
+  "id": "game1-459",
+  "Name": "Forest",
+  "current": "A wooded area",
+  "proposed": "Large area full of trees"
+ },
+ {
+  "id": "game1-460",
+  "Name": "Tree",
+  "current": "A woody plant",
+  "proposed": "Tall plant with a trunk and branches"
+ },
+ {
+  "id": "game1-461",
+  "Name": "Flower",
+  "current": "A plant bloom",
+  "proposed": "Colourful, fragrant bloom on a plant"
+ },
+ {
+  "id": "game1-462",
+  "Name": "Grass",
+  "current": "A ground cover",
+  "proposed": "Green blades covering lawns and fields"
+ },
+ {
+  "id": "game1-463",
+  "Name": "Leaf",
+  "current": "A plant part",
+  "proposed": "Green, flat part growing on branches"
+ },
+ {
+  "id": "game1-464",
+  "Name": "Sand",
+  "current": "Fine particles",
+  "proposed": "Tiny grains found in deserts and beaches"
+ },
+ {
+  "id": "game1-465",
+  "Name": "Rock",
+  "current": "A hard mineral",
+  "proposed": "Hard lump of stone"
+ },
+ {
+  "id": "game1-467",
+  "Name": "TV",
+  "current": "A viewing device",
+  "proposed": "Screen at home for watching channels"
+ },
+ {
+  "id": "game1-468",
+  "Name": "Radio",
+  "current": "An audio device",
+  "proposed": "Device for listening to broadcast stations"
+ },
+ {
+  "id": "game1-469",
+  "Name": "Computer",
+  "current": "A computing device",
+  "proposed": "Desktop machine with monitor and CPU"
+ },
+ {
+  "id": "game1-470",
+  "Name": "Laptop",
+  "current": "A portable computer",
+  "proposed": "Portable computer that folds open"
+ },
+ {
+  "id": "game1-471",
+  "Name": "Mobile",
+  "current": "A phone device",
+  "proposed": "Handheld phone carried everywhere"
+ },
+ {
+  "id": "game1-472",
+  "Name": "Tablet",
+  "current": "A touch device",
+  "proposed": "Flat touchscreen device, bigger than phone"
+ },
+ {
+  "id": "game1-473",
+  "Name": "Speaker",
+  "current": "An audio device",
+  "proposed": "Device that makes sound louder"
+ },
+ {
+  "id": "game1-474",
+  "Name": "Headphones",
+  "current": "An audio device",
+  "proposed": "Worn over ears for private listening"
+ },
+ {
+  "id": "game1-475",
+  "Name": "Mouse",
+  "current": "A pointing device",
+  "proposed": "Clicked and moved to point on screen"
+ },
+ {
+  "id": "game1-476",
+  "Name": "Keyboard",
+  "current": "An input device",
+  "proposed": "Rows of keys for typing"
+ },
+ {
+  "id": "game1-477",
+  "Name": "Printer",
+  "current": "An output device",
+  "proposed": "Puts documents on paper from computer"
+ },
+ {
+  "id": "game1-478",
+  "Name": "Scanner",
+  "current": "An input device",
+  "proposed": "Copies paper documents into a computer"
+ },
+ {
+  "id": "game1-479",
+  "Name": "Fan",
+  "current": "A cooling device",
+  "proposed": "Spinning blades that move air"
+ },
+ {
+  "id": "game1-480",
+  "Name": "AC",
+  "current": "A cooling device",
+  "proposed": "Cools a room in summer heat"
+ },
+ {
+  "id": "game1-481",
+  "Name": "Heater",
+  "current": "A warming device",
+  "proposed": "Warms a room in winter"
+ },
+ {
+  "id": "game1-482",
+  "Name": "Fridge",
+  "current": "A cooling appliance",
+  "proposed": "Keeps food cold and fresh"
+ },
+ {
+  "id": "game1-483",
+  "Name": "Oven",
+  "current": "A cooking appliance",
+  "proposed": "Enclosed appliance for baking and roasting"
+ },
+ {
+  "id": "game1-484",
+  "Name": "Microwave",
+  "current": "A cooking appliance",
+  "proposed": "Quickly reheats food in minutes"
+ },
+ {
+  "id": "game1-485",
+  "Name": "Iron",
+  "current": "A pressing appliance",
+  "proposed": "Hot plate that removes clothes' wrinkles"
+ },
+ {
+  "id": "game1-486",
+  "Name": "Blender",
+  "current": "A mixing appliance",
+  "proposed": "Whirls fruit and ice into a liquid"
+ },
+ {
+  "id": "game1-487",
+  "Name": "Toaster",
+  "current": "A cooking appliance",
+  "proposed": "Browns bread slices"
+ },
+ {
+  "id": "game1-488",
+  "Name": "Juicer",
+  "current": "An extracting appliance",
+  "proposed": "Squeezes out juice from fruit"
+ },
+ {
+  "id": "game1-489",
+  "Name": "Watch",
+  "current": "A time device",
+  "proposed": "Tells time on your wrist"
+ },
+ {
+  "id": "game1-490",
+  "Name": "Clock",
+  "current": "A time device",
+  "proposed": "Tells time on the wall"
+ },
+ {
+  "id": "game1-491",
+  "Name": "Hammer",
+  "current": "A striking tool",
+  "proposed": "Tool for hitting nails"
+ },
+ {
+  "id": "game1-492",
+  "Name": "Nail",
+  "current": "A fastening tool",
+  "proposed": "Thin metal pin hammered into wood"
+ },
+ {
+  "id": "game1-493",
+  "Name": "Screw",
+  "current": "A fastening tool",
+  "proposed": "Threaded fastener turned into wood"
+ },
+ {
+  "id": "game1-494",
+  "Name": "Screwdriver",
+  "current": "A turning tool",
+  "proposed": "Tool that turns screws"
+ },
+ {
+  "id": "game1-495",
+  "Name": "Wrench",
+  "current": "A gripping tool",
+  "proposed": "Tool for tightening nuts and bolts"
+ },
+ {
+  "id": "game1-496",
+  "Name": "Pliers",
+  "current": "A gripping tool",
+  "proposed": "Hand tool for gripping and bending wire"
+ },
+ {
+  "id": "game1-497",
+  "Name": "Saw",
+  "current": "A cutting tool",
+  "proposed": "Toothed blade for cutting wood"
+ },
+ {
+  "id": "game1-498",
+  "Name": "Drill",
+  "current": "A boring tool",
+  "proposed": "Power tool that makes holes"
+ },
+ {
+  "id": "game1-499",
+  "Name": "Axe",
+  "current": "A chopping tool",
+  "proposed": "Tool for chopping wood"
+ },
+ {
+  "id": "game1-500",
+  "Name": "Rake",
+  "current": "A gathering tool",
+  "proposed": "Long-handled tool for gathering leaves"
+ },
+ {
+  "id": "game1-501",
+  "Name": "Hoe",
+  "current": "A gardening tool",
+  "proposed": "Garden tool for digging and weeding"
+ },
+ {
+  "id": "game1-502",
+  "Name": "Ladder",
+  "current": "A climbing tool",
+  "proposed": "Steps for climbing up high"
+ },
+ {
+  "id": "game1-503",
+  "Name": "Tape Measure",
+  "current": "A measuring tool",
+  "proposed": "Roll-out strip for measuring length"
+ },
+ {
+  "id": "game1-504",
+  "Name": "Level",
+  "current": "A leveling tool",
+  "proposed": "Bubble tool for checking straightness"
+ },
+ {
+  "id": "game1-505",
+  "Name": "Chisel",
+  "current": "A carving tool",
+  "proposed": "Sharp-edged tool for carving wood"
+ },
+ {
+  "id": "game1-506",
+  "Name": "File",
+  "current": "A smoothing tool",
+  "proposed": "Rough metal tool for smoothing edges"
+ },
+ {
+  "id": "game1-507",
+  "Name": "Clamp",
+  "current": "A holding tool",
+  "proposed": "Tool that holds pieces tightly together"
+ },
+ {
+  "id": "game1-508",
+  "Name": "Vice",
+  "current": "A holding tool",
+  "proposed": "Bench-mounted tool that grips work"
+ },
+ {
+  "id": "game1-509",
+  "Name": "Cutter",
+  "current": "A cutting tool",
+  "proposed": "Sharp blade for cutting paper or boxes"
+ },
+ {
+  "id": "game1-510",
+  "Name": "Torch",
+  "current": "A lighting tool",
+  "proposed": "Handheld light for the dark"
+ },
+ {
+  "id": "game1-511",
+  "Name": "Brush",
+  "current": "A cleaning tool",
+  "proposed": "Bristled tool for sweeping or scrubbing"
+ },
+ {
+  "id": "game1-512",
+  "Name": "Cotton",
+  "current": "A natural fabric",
+  "proposed": "Breathable plant fibre for summer clothes"
+ },
+ {
+  "id": "game1-513",
+  "Name": "Silk",
+  "current": "A luxurious fabric",
+  "proposed": "Shiny fabric made by worms"
+ },
+ {
+  "id": "game1-514",
+  "Name": "Wool",
+  "current": "A warm fabric",
+  "proposed": "Warm fibre from sheep"
+ },
+ {
+  "id": "game1-515",
+  "Name": "Lawn",
+  "current": "A light fabric",
+  "proposed": "Light, printed summer fabric for suits"
+ },
+ {
+  "id": "game1-516",
+  "Name": "Linen",
+  "current": "A natural fabric",
+  "proposed": "Crisp fabric made from flax"
+ },
+ {
+  "id": "game1-517",
+  "Name": "Khaddar",
+  "current": "A traditional fabric",
+  "proposed": "Thick handwoven cotton, worn in winter"
+ },
+ {
+  "id": "game1-518",
+  "Name": "Velvet",
+  "current": "A soft fabric",
+  "proposed": "Soft, plush fabric with a dense pile"
+ },
+ {
+  "id": "game1-519",
+  "Name": "Chiffon",
+  "current": "A sheer fabric",
+  "proposed": "Light, see-through fabric for dupattas"
+ },
+ {
+  "id": "game1-520",
+  "Name": "Georgette",
+  "current": "A sheer fabric",
+  "proposed": "Sheer, crinkly crepe fabric"
+ },
+ {
+  "id": "game1-521",
+  "Name": "Denim",
+  "current": "A sturdy fabric",
+  "proposed": "Blue cotton fabric used for jeans"
+ },
+ {
+  "id": "game1-522",
+  "Name": "Leather",
+  "current": "An animal fabric",
+  "proposed": "Material made from animal hide"
+ },
+ {
+  "id": "game1-523",
+  "Name": "Polyester",
+  "current": "A synthetic fabric",
+  "proposed": "Common wrinkle-free synthetic fabric"
+ },
+ {
+  "id": "game1-524",
+  "Name": "Rayon",
+  "current": "A synthetic fabric",
+  "proposed": "Silky fabric made from wood pulp"
+ },
+ {
+  "id": "game1-525",
+  "Name": "Satin",
+  "current": "A smooth fabric",
+  "proposed": "Glossy, smooth fabric with shiny face"
+ },
+ {
+  "id": "game1-526",
+  "Name": "Net",
+  "current": "A mesh fabric",
+  "proposed": "Open mesh fabric used for dupattas"
+ },
+ {
+  "id": "game1-527",
+  "Name": "Banarasi",
+  "current": "A traditional fabric",
+  "proposed": "Rich silk brocade from Varanasi"
+ },
+ {
+  "id": "game1-528",
+  "Name": "Jamawar",
+  "current": "A traditional fabric",
+  "proposed": "Woven paisley fabric, Kashmiri origin"
+ },
+ {
+  "id": "game1-529",
+  "Name": "Organza",
+  "current": "A sheer fabric",
+  "proposed": "Crisp, sheer fabric for formal wear"
+ },
+ {
+  "id": "game1-530",
+  "Name": "Pashmina",
+  "current": "A fine fabric",
+  "proposed": "Fine Kashmiri goat wool shawl"
+ },
+ {
+  "id": "game1-531",
+  "Name": "Jute",
+  "current": "A natural fiber",
+  "proposed": "Coarse fibre used for sacks"
+ },
+ {
+  "id": "game1-532",
+  "Name": "Nylon",
+  "current": "A synthetic fabric",
+  "proposed": "Strong synthetic used for ropes and socks"
+ },
+ {
+  "id": "game1-533",
+  "Name": "Spandex",
+  "current": "A stretchy fabric",
+  "proposed": "Very stretchy fabric for sportswear"
+ },
+ {
+  "id": "game1-534",
+  "Name": "Fleece",
+  "current": "A warm fabric",
+  "proposed": "Soft, fuzzy warm fabric for jackets"
+ },
+ {
+  "id": "game1-535",
+  "Name": "Corduroy",
+  "current": "A ribbed fabric",
+  "proposed": "Fabric with raised ridged lines"
+ },
+ {
+  "id": "game1-536",
+  "Name": "Canvas",
+  "current": "A sturdy fabric",
+  "proposed": "Heavy cloth for tents and bags"
+ },
+ {
+  "id": "game1-537",
+  "Name": "Water",
+  "current": "A clear beverage",
+  "proposed": "Clear liquid essential for life"
+ },
+ {
+  "id": "game1-538",
+  "Name": "Milk",
+  "current": "A dairy beverage",
+  "proposed": "White drink from cows and buffaloes"
+ },
+ {
+  "id": "game1-539",
+  "Name": "Tea",
+  "current": "A hot beverage",
+  "proposed": "Pakistan's favourite hot drink, chai"
+ },
+ {
+  "id": "game1-540",
+  "Name": "Coffee",
+  "current": "A hot beverage",
+  "proposed": "Hot drink brewed from roasted beans"
+ },
+ {
+  "id": "game1-541",
+  "Name": "Juice",
+  "current": "A fruit beverage",
+  "proposed": "Liquid squeezed from fruit"
+ },
+ {
+  "id": "game1-543",
+  "Name": "Lassi",
+  "current": "A yogurt beverage",
+  "proposed": "Yogurt drink, sweet or salty"
+ },
+ {
+  "id": "game1-544",
+  "Name": "Shake",
+  "current": "A blended beverage",
+  "proposed": "Thick blended drink of milk and fruit"
+ },
+ {
+  "id": "game1-545",
+  "Name": "Smoothie",
+  "current": "A blended beverage",
+  "proposed": "Thick blend of fruit and yogurt"
+ },
+ {
+  "id": "game1-546",
+  "Name": "Lemonade",
+  "current": "A citrus beverage",
+  "proposed": "Nimbu pani: sweetened citrus water"
+ },
+ {
+  "id": "game1-547",
+  "Name": "Squash",
+  "current": "A fruit concentrate",
+  "proposed": "Fruit concentrate diluted with water"
+ },
+ {
+  "id": "game1-548",
+  "Name": "Sherbet",
+  "current": "A sweet beverage",
+  "proposed": "Sweet chilled drink served at iftar"
+ },
+ {
+  "id": "game1-549",
+  "Name": "Rooh Afza",
+  "current": "A traditional beverage",
+  "proposed": "Famous red rose syrup drink"
+ },
+ {
+  "id": "game1-550",
+  "Name": "Kanji",
+  "current": "A fermented beverage",
+  "proposed": "Fermented black carrot drink"
+ },
+ {
+  "id": "game1-551",
+  "Name": "Sattu",
+  "current": "A traditional beverage",
+  "proposed": "Roasted gram flour drink"
+ },
+ {
+  "id": "game1-552",
+  "Name": "Buttermilk",
+  "current": "A dairy beverage",
+  "proposed": "Chhach: thin liquid left after churning"
+ },
+ {
+  "id": "game1-553",
+  "Name": "Green Tea",
+  "current": "A healthy beverage",
+  "proposed": "Light unfermented brew, kehwa-like"
+ },
+ {
+  "id": "game1-554",
+  "Name": "Kashmiri Chai",
+  "current": "A traditional tea",
+  "proposed": "Pink tea with nuts, winter favourite"
+ },
+ {
+  "id": "game1-555",
+  "Name": "Doodh Soda",
+  "current": "A milk soda",
+  "proposed": "Milk mixed with fizzy lemon-lime"
+ },
+ {
+  "id": "game1-556",
+  "Name": "Cold Drink",
+  "current": "A chilled beverage",
+  "proposed": "Fizzy bottled soft beverage"
+ },
+ {
+  "id": "game1-557",
+  "Name": "Energy Drink",
+  "current": "A stimulating beverage",
+  "proposed": "Caffeinated can for staying awake"
+ },
+ {
+  "id": "game1-558",
+  "Name": "Soup",
+  "current": "A hot beverage",
+  "proposed": "Hot liquid dish, eaten with spoon"
+ },
+ {
+  "id": "game1-559",
+  "Name": "Broth",
+  "current": "A liquid food",
+  "proposed": "Clear stock from boiled bones"
+ },
+ {
+  "id": "game1-561",
+  "Name": "Cocoa",
+  "current": "A chocolate beverage",
+  "proposed": "Hot chocolate drink"
+ },
+ {
+  "id": "game1-562",
+  "Name": "Gulab Jamun",
+  "current": "A sweet dessert",
+  "proposed": "Fried milk balls in sugar syrup"
+ },
+ {
+  "id": "game1-563",
+  "Name": "Barfi",
+  "current": "A milk sweet",
+  "proposed": "Dense milk fudge cut in squares"
+ },
+ {
+  "id": "game1-564",
+  "Name": "Jalebi",
+  "current": "A fried sweet",
+  "proposed": "Orange syrupy spirals, fried crisp"
+ },
+ {
+  "id": "game1-565",
+  "Name": "Laddu",
+  "current": "A round sweet",
+  "proposed": "Round ball sweet, often motichoor"
+ },
+ {
+  "id": "game1-566",
+  "Name": "Halwa",
+  "current": "A sweet dish",
+  "proposed": "Sweet of semolina, carrot or flour"
+ },
+ {
+  "id": "game1-567",
+  "Name": "Kheer",
+  "current": "A rice pudding",
+  "proposed": "Rice cooked slowly in sweet milk"
+ },
+ {
+  "id": "game1-568",
+  "Name": "Custard",
+  "current": "A creamy dessert",
+  "proposed": "Yellow creamy dessert made with powder"
+ },
+ {
+  "id": "game1-569",
+  "Name": "Cake",
+  "current": "A baked dessert",
+  "proposed": "Spongy baked treat, often iced"
+ },
+ {
+  "id": "game1-570",
+  "Name": "Pastry",
+  "current": "A baked dessert",
+  "proposed": "Small flaky, cream-filled bakery treat"
+ },
+ {
+  "id": "game1-571",
+  "Name": "Ice Cream",
+  "current": "A frozen dessert",
+  "proposed": "Frozen sweet scooped into cones"
+ },
+ {
+  "id": "game1-572",
+  "Name": "Chocolate",
+  "current": "A sweet treat",
+  "proposed": "Sweet made from cocoa"
+ },
+ {
+  "id": "game1-573",
+  "Name": "Cookie",
+  "current": "A baked treat",
+  "proposed": "Crunchy baked treat, often chocolate chip"
+ },
+ {
+  "id": "game1-574",
+  "Name": "Biscuit",
+  "current": "A baked treat",
+  "proposed": "Crisp baked snack dipped in chai"
+ },
+ {
+  "id": "game1-575",
+  "Name": "Brownie",
+  "current": "A chocolate dessert",
+  "proposed": "Dense, fudgy chocolate square"
+ },
+ {
+  "id": "game1-576",
+  "Name": "Pudding",
+  "current": "A creamy dessert",
+  "proposed": "Soft, set creamy dessert"
+ },
+ {
+  "id": "game1-577",
+  "Name": "Trifle",
+  "current": "A layered dessert",
+  "proposed": "Layers of cake, custard, fruit and jelly"
+ },
+ {
+  "id": "game1-578",
+  "Name": "Falooda",
+  "current": "A cold dessert",
+  "proposed": "Rose milk with vermicelli, basil seeds"
+ },
+ {
+  "id": "game1-579",
+  "Name": "Ras Malai",
+  "current": "A milk dessert",
+  "proposed": "Soft cheese patties in sweet milk"
+ },
+ {
+  "id": "game1-580",
+  "Name": "Cham Cham",
+  "current": "A sweet dessert",
+  "proposed": "Oval, spongy Bengali milk sweet"
+ },
+ {
+  "id": "game1-581",
+  "Name": "Sohan Halwa",
+  "current": "A traditional sweet",
+  "proposed": "Hard, nutty sweet famous from Multan"
+ },
+ {
+  "id": "game1-582",
+  "Name": "Patisa",
+  "current": "A flaky sweet",
+  "proposed": "Flaky gram-flour sweet, like soan papdi"
+ },
+ {
+  "id": "game1-583",
+  "Name": "Kalakand",
+  "current": "A milk sweet",
+  "proposed": "Grainy sweet made from milk"
+ },
+ {
+  "id": "game1-584",
+  "Name": "Zarda",
+  "current": "A sweet rice",
+  "proposed": "Sweet yellow rice with nuts"
+ },
+ {
+  "id": "game1-585",
+  "Name": "Sheer Khurma",
+  "current": "A vermicelli dessert",
+  "proposed": "Eid dessert of milk, vermicelli and dates"
+ },
+ {
+  "id": "game1-586",
+  "Name": "Sawaiyan",
+  "current": "A vermicelli dessert",
+  "proposed": "Sweet vermicelli cooked for Eid"
+ },
+ {
+  "id": "game1-587",
+  "Name": "Mother",
+  "current": "A female parent",
+  "proposed": "Ammi: a female parent"
+ },
+ {
+  "id": "game1-588",
+  "Name": "Father",
+  "current": "A male parent",
+  "proposed": "Abbu: a male parent"
+ },
+ {
+  "id": "game1-593",
+  "Name": "Grandfather",
+  "current": "A male grandparent",
+  "proposed": "Dada or Nana"
+ },
+ {
+  "id": "game1-594",
+  "Name": "Grandmother",
+  "current": "A female grandparent",
+  "proposed": "Dadi or Nani"
+ },
+ {
+  "id": "game1-595",
+  "Name": "Uncle",
+  "current": "A parent's brother",
+  "proposed": "Chacha or Mamu: parent's brother"
+ },
+ {
+  "id": "game1-596",
+  "Name": "Aunt",
+  "current": "A parent's sister",
+  "proposed": "Khala or Phuppo: parent's sister"
+ },
+ {
+  "id": "game1-597",
+  "Name": "Cousin",
+  "current": "A relative",
+  "proposed": "Child of your aunt or uncle"
+ },
+ {
+  "id": "game1-602",
+  "Name": "Father-in-law",
+  "current": "Spouse's father",
+  "proposed": "Sasur: your spouse's dad"
+ },
+ {
+  "id": "game1-603",
+  "Name": "Mother-in-law",
+  "current": "Spouse's mother",
+  "proposed": "Saas: your spouse's mum"
+ },
+ {
+  "id": "game1-604",
+  "Name": "Brother-in-law",
+  "current": "Spouse's brother",
+  "proposed": "Sister's husband or spouse's male sibling"
+ },
+ {
+  "id": "game1-605",
+  "Name": "Sister-in-law",
+  "current": "Spouse's sister",
+  "proposed": "Brother's wife or spouse's female sibling"
+ },
+ {
+  "id": "game1-606",
+  "Name": "Step-mother",
+  "current": "Father's wife",
+  "proposed": "Father's wife who is not your birth parent"
+ },
+ {
+  "id": "game1-607",
+  "Name": "Step-father",
+  "current": "Mother's husband",
+  "proposed": "Mother's husband who is not your birth parent"
+ },
+ {
+  "id": "game1-608",
+  "Name": "Grandson",
+  "current": "A child's son",
+  "proposed": "Pota or Nawasa: a child's boy"
+ },
+ {
+  "id": "game1-609",
+  "Name": "Granddaughter",
+  "current": "A child's daughter",
+  "proposed": "Poti or Nawasi: a child's girl"
+ },
+ {
+  "id": "game1-610",
+  "Name": "Ancestor",
+  "current": "A forebear",
+  "proposed": "Forefather from generations ago"
+ },
+ {
+  "id": "game1-611",
+  "Name": "Relative",
+  "current": "A family member",
+  "proposed": "Any member of your extended family"
+ },
+ {
+  "id": "game1-612",
+  "Name": "Abu Bakr",
+  "current": "First Caliph",
+  "proposed": "First Caliph of Islam"
+ },
+ {
+  "id": "game1-616",
+  "Name": "Bilal",
+  "current": "Muezzin of the Prophet",
+  "proposed": "First muezzin of Islam"
+ },
+ {
+  "id": "game1-617",
+  "Name": "Khalid ibn al-Walid",
+  "current": "Military commander",
+  "proposed": "Sword of Allah, undefeated commander"
+ },
+ {
+  "id": "game1-618",
+  "Name": "Salman al-Farsi",
+  "current": "Persian companion",
+  "proposed": "Persian companion who suggested the trench"
+ },
+ {
+  "id": "game1-619",
+  "Name": "Abu Huraira",
+  "current": "Narrator of Hadith",
+  "proposed": "Companion who narrated the most Hadith"
+ },
+ {
+  "id": "game1-620",
+  "Name": "Aisha",
+  "current": "Wife of the Prophet",
+  "proposed": "Wife of the Prophet, daughter of Abu Bakr"
+ },
+ {
+  "id": "game1-622",
+  "Name": "Fatima",
+  "current": "Daughter of the Prophet",
+  "proposed": "Daughter of the Prophet, wife of Ali"
+ },
+ {
+  "id": "game1-623",
+  "Name": "Hassan",
+  "current": "Grandson of the Prophet",
+  "proposed": "Elder grandson of the Prophet"
+ },
+ {
+  "id": "game1-624",
+  "Name": "Hussain",
+  "current": "Grandson of the Prophet",
+  "proposed": "Grandson of the Prophet, martyred at Karbala"
+ },
+ {
+  "id": "game1-626",
+  "Name": "Talha",
+  "current": "Companion of the Prophet",
+  "proposed": "Shielded the Prophet at Uhud"
+ },
+ {
+  "id": "game1-627",
+  "Name": "Zubair",
+  "current": "Companion of the Prophet",
+  "proposed": "Cousin and disciple (hawari) of the Prophet"
+ },
+ {
+  "id": "game1-628",
+  "Name": "Saad ibn Abi Waqqas",
+  "current": "Companion of the Prophet",
+  "proposed": "Archer, victor at Qadisiyyah"
+ },
+ {
+  "id": "game1-629",
+  "Name": "Abdur Rahman ibn Awf",
+  "current": "Companion of the Prophet",
+  "proposed": "Wealthy merchant, promised Paradise"
+ },
+ {
+  "id": "game1-630",
+  "Name": "Anas ibn Malik",
+  "current": "Young companion",
+  "proposed": "Served the Prophet for ten years"
+ },
+ {
+  "id": "game1-632",
+  "Name": "Muadh",
+  "current": "Scholar companion",
+  "proposed": "Scholar companion sent to Yemen"
+ },
+ {
+  "id": "game1-633",
+  "Name": "Usamah",
+  "current": "Young commander",
+  "proposed": "Young commander, son of Zaid"
+ },
+ {
+  "id": "game1-634",
+  "Name": "Ammar",
+  "current": "Early Muslim",
+  "proposed": "Son of Yasir and Sumayyah"
+ },
+ {
+  "id": "game1-635",
+  "Name": "Suhaib",
+  "current": "Roman companion",
+  "proposed": "Companion nicknamed 'the Roman'"
+ },
+ {
+  "id": "game1-636",
+  "Name": "Abu Ubaidah",
+  "current": "Trustworthy companion",
+  "proposed": "Trustworthy one (Amin) of the Ummah"
+ },
+ {
+  "id": "game1-637",
+  "Name": "Hamza",
+  "current": "Uncle of the Prophet",
+  "proposed": "Uncle of the Prophet, Lion of Allah"
+ },
+ {
+  "id": "game1-638",
+  "Name": "Abbas ibn Abdul Muttalib",
+  "current": "Uncle of the Prophet",
+  "proposed": "Uncle of the Prophet, gave pilgrims water"
+ },
+ {
+  "id": "game1-639",
+  "Name": "Jafar",
+  "current": "Cousin of the Prophet",
+  "proposed": "Cousin who spoke before the Negus"
+ },
+ {
+  "id": "game1-640",
+  "Name": "Adam",
+  "current": "First Prophet",
+  "proposed": "First Prophet and first human"
+ },
+ {
+  "id": "game1-642",
+  "Name": "Abraham",
+  "current": "Father of Prophets",
+  "proposed": "Father of Prophets, built the Kaaba"
+ },
+ {
+  "id": "game1-643",
+  "Name": "Ishmael",
+  "current": "Son of Abraham",
+  "proposed": "Son of Ibrahim, helped build the Kaaba"
+ },
+ {
+  "id": "game1-644",
+  "Name": "Isaac",
+  "current": "Son of Abraham",
+  "proposed": "Son of Ibrahim, father of Yaqub"
+ },
+ {
+  "id": "game1-645",
+  "Name": "Jacob",
+  "current": "Son of Isaac",
+  "proposed": "Son of Ishaq, also called Israel"
+ },
+ {
+  "id": "game1-646",
+  "Name": "Joseph",
+  "current": "Prophet in Egypt",
+  "proposed": "Sold by his brothers, rose in Egypt"
+ },
+ {
+  "id": "game1-647",
+  "Name": "Moses",
+  "current": "Prophet of the Torah",
+  "proposed": "Received the Torah, parted the sea"
+ },
+ {
+  "id": "game1-648",
+  "Name": "Aaron",
+  "current": "Brother of Moses",
+  "proposed": "Brother of Musa"
+ },
+ {
+  "id": "game1-649",
+  "Name": "David",
+  "current": "Prophet King",
+  "proposed": "Prophet king given the Zabur"
+ },
+ {
+  "id": "game1-650",
+  "Name": "Solomon",
+  "current": "Wise Prophet King",
+  "proposed": "Prophet king who spoke to animals"
+ },
+ {
+  "id": "game1-651",
+  "Name": "Job",
+  "current": "Patient Prophet",
+  "proposed": "Prophet famed for his patience"
+ },
+ {
+  "id": "game1-653",
+  "Name": "Elijah",
+  "current": "Prophet of Israel",
+  "proposed": "Prophet called Ilyas in the Quran"
+ },
+ {
+  "id": "game1-654",
+  "Name": "Elisha",
+  "current": "Prophet of Israel",
+  "proposed": "Prophet called Al-Yasa in the Quran"
+ },
+ {
+  "id": "game1-655",
+  "Name": "Zachariah",
+  "current": "Father of John",
+  "proposed": "Father of Prophet Yahya"
+ },
+ {
+  "id": "game1-656",
+  "Name": "Yahya",
+  "current": "Prophet and cousin",
+  "proposed": "Son of Zakariya, cousin of Isa"
+ },
+ {
+  "id": "game1-657",
+  "Name": "Jesus",
+  "current": "Prophet and Messiah",
+  "proposed": "Son of Maryam, the Messiah"
+ },
+ {
+  "id": "game1-658",
+  "Name": "Muhammad",
+  "current": "Final Prophet",
+  "proposed": "Final Prophet, Seal of the Prophets"
+ },
+ {
+  "id": "game1-659",
+  "Name": "Lot",
+  "current": "Prophet to his people",
+  "proposed": "Prophet sent to Sodom"
+ },
+ {
+  "id": "game1-660",
+  "Name": "Shuaib",
+  "current": "Prophet of Midian",
+  "proposed": "Prophet sent to Madyan"
+ },
+ {
+  "id": "game1-661",
+  "Name": "Hud",
+  "current": "Prophet to Ad",
+  "proposed": "Prophet sent to the people of Ad"
+ },
+ {
+  "id": "game1-662",
+  "Name": "Saleh",
+  "current": "Prophet to Thamud",
+  "proposed": "Prophet of the she-camel, sent to Thamud"
+ },
+ {
+  "id": "game1-663",
+  "Name": "Idris",
+  "current": "Early Prophet",
+  "proposed": "Early Prophet raised to a high station"
+ },
+ {
+  "id": "game1-664",
+  "Name": "Dhul-Kifl",
+  "current": "Righteous Prophet",
+  "proposed": "Righteous Prophet named in the Quran"
+ },
+ {
+  "id": "game1-665",
+  "Name": "Yunus",
+  "current": "Another name for Jonah",
+  "proposed": "Prophet swallowed by the whale"
+ },
+ {
+  "id": "game1-666",
+  "Name": "Allah",
+  "current": "The One God",
+  "proposed": "The One God, Creator of all"
+ },
+ {
+  "id": "game1-667",
+  "Name": "Islam",
+  "current": "The religion",
+  "proposed": "Religion of submission to Allah"
+ },
+ {
+  "id": "game1-668",
+  "Name": "Muslim",
+  "current": "A believer",
+  "proposed": "One who submits to Allah"
+ },
+ {
+  "id": "game1-669",
+  "Name": "Quran",
+  "current": "Holy Book",
+  "proposed": "Holy Book revealed to the Prophet"
+ },
+ {
+  "id": "game1-670",
+  "Name": "Hadith",
+  "current": "Prophetic sayings",
+  "proposed": "Recorded sayings of the Prophet"
+ },
+ {
+  "id": "game1-671",
+  "Name": "Sunnah",
+  "current": "Prophetic tradition",
+  "proposed": "Way and practice of the Prophet"
+ },
+ {
+  "id": "game1-672",
+  "Name": "Salah",
+  "current": "Prayer",
+  "proposed": "Five daily prayers"
+ },
+ {
+  "id": "game1-673",
+  "Name": "Zakat",
+  "current": "Charity",
+  "proposed": "Obligatory yearly charity"
+ },
+ {
+  "id": "game1-674",
+  "Name": "Sawm",
+  "current": "Fasting",
+  "proposed": "Fasting in Ramadan"
+ },
+ {
+  "id": "game1-675",
+  "Name": "Hajj",
+  "current": "Pilgrimage",
+  "proposed": "Pilgrimage to Mecca"
+ },
+ {
+  "id": "game1-679",
+  "Name": "Dua",
+  "current": "Supplication",
+  "proposed": "Supplication, asking Allah"
+ },
+ {
+  "id": "game1-680",
+  "Name": "Dhikr",
+  "current": "Remembrance",
+  "proposed": "Remembrance of Allah"
+ },
+ {
+  "id": "game1-684",
+  "Name": "Eid",
+  "current": "Islamic celebration",
+  "proposed": "Festival after Ramadan or Hajj"
+ },
+ {
+  "id": "game1-688",
+  "Name": "Masjid",
+  "current": "Mosque",
+  "proposed": "Mosque, place of prayer"
+ },
+ {
+  "id": "game1-690",
+  "Name": "Wudu",
+  "current": "Ablution",
+  "proposed": "Washing before prayer"
+ },
+ {
+  "id": "game1-692",
+  "Name": "Jerusalem",
+  "current": "Third holiest site",
+  "proposed": "City of Al-Aqsa, third holiest"
+ },
+ {
+  "id": "game1-693",
+  "Name": "Kaaba",
+  "current": "House of Allah",
+  "proposed": "Cube-shaped House of Allah"
+ },
+ {
+  "id": "game1-694",
+  "Name": "Masjid al-Haram",
+  "current": "Grand Mosque in Mecca",
+  "proposed": "Grand Mosque around the Kaaba"
+ },
+ {
+  "id": "game1-695",
+  "Name": "Masjid al-Nabawi",
+  "current": "Prophet's Mosque",
+  "proposed": "Prophet's Mosque in Medina"
+ },
+ {
+  "id": "game1-696",
+  "Name": "Al-Aqsa",
+  "current": "Farthest Mosque",
+  "proposed": "Farthest Mosque, in Jerusalem"
+ },
+ {
+  "id": "game1-697",
+  "Name": "Dome of the Rock",
+  "current": "Islamic shrine",
+  "proposed": "Golden shrine in the Al-Aqsa compound"
+ },
+ {
+  "id": "game1-698",
+  "Name": "Mount Arafat",
+  "current": "Place of standing",
+  "proposed": "Place of standing during Hajj"
+ },
+ {
+  "id": "game1-699",
+  "Name": "Mina",
+  "current": "Valley near Mecca",
+  "proposed": "Tent city of Hajj near Mecca"
+ },
+ {
+  "id": "game1-700",
+  "Name": "Muzdalifah",
+  "current": "Sacred area",
+  "proposed": "Hajj stop where pebbles are collected"
+ },
+ {
+  "id": "game1-701",
+  "Name": "Safa",
+  "current": "Hill in Mecca",
+  "proposed": "Hill where Sa'i begins"
+ },
+ {
+  "id": "game1-702",
+  "Name": "Marwa",
+  "current": "Hill in Mecca",
+  "proposed": "Hill where Sa'i ends"
+ },
+ {
+  "id": "game1-703",
+  "Name": "Zamzam",
+  "current": "Sacred well",
+  "proposed": "Sacred well in Mecca"
+ },
+ {
+  "id": "game1-704",
+  "Name": "Cave Hira",
+  "current": "Place of revelation",
+  "proposed": "Cave of the first revelation"
+ },
+ {
+  "id": "game1-705",
+  "Name": "Cave Thawr",
+  "current": "Refuge during migration",
+  "proposed": "Cave of refuge during the Hijrah"
+ },
+ {
+  "id": "game1-706",
+  "Name": "Uhud",
+  "current": "Mountain near Medina",
+  "proposed": "Mountain and battle near Medina"
+ },
+ {
+  "id": "game1-707",
+  "Name": "Badr",
+  "current": "Historic battlefield",
+  "proposed": "Site of the first great battle"
+ },
+ {
+  "id": "game1-708",
+  "Name": "Quba",
+  "current": "First mosque",
+  "proposed": "First mosque built in Islam"
+ },
+ {
+  "id": "game1-709",
+  "Name": "Jannat al-Baqi",
+  "current": "Cemetery in Medina",
+  "proposed": "Graveyard of Medina"
+ },
+ {
+  "id": "game1-711",
+  "Name": "Hudaybiyyah",
+  "current": "Treaty location",
+  "proposed": "Site of the treaty with Quraysh"
+ },
+ {
+  "id": "game1-712",
+  "Name": "Taif",
+  "current": "City near Mecca",
+  "proposed": "Hill city the Prophet visited to preach"
+ },
+ {
+  "id": "game1-713",
+  "Name": "Tabuk",
+  "current": "Northern city",
+  "proposed": "Site of the last expedition"
+ },
+ {
+  "id": "game1-714",
+  "Name": "Khaybar",
+  "current": "Historic oasis",
+  "proposed": "Fortified oasis north of Medina"
+ },
+ {
+  "id": "game1-715",
+  "Name": "Yemen",
+  "current": "Land of faith",
+  "proposed": "Land praised for faith and wisdom"
+ },
+ {
+  "id": "game1-716",
+  "Name": "Damascus",
+  "current": "Historic Islamic city",
+  "proposed": "Capital of the Umayyads"
+ },
+ {
+  "id": "game1-718",
+  "Name": "Cordoba",
+  "current": "Islamic Spain",
+  "proposed": "Capital of Muslim Spain"
+ },
+ {
+  "id": "game1-719",
+  "Name": "Salahuddin",
+  "current": "Liberator of Jerusalem",
+  "proposed": "Sultan who liberated Jerusalem"
+ },
+ {
+  "id": "game1-720",
+  "Name": "Ibn Sina",
+  "current": "Renowned physician",
+  "proposed": "Author of The Canon of Medicine"
+ },
+ {
+  "id": "game1-722",
+  "Name": "Ibn Rushd",
+  "current": "Great philosopher",
+  "proposed": "Andalusian philosopher and judge"
+ },
+ {
+  "id": "game1-723",
+  "Name": "Al-Ghazali",
+  "current": "Islamic theologian",
+  "proposed": "Theologian, Hujjat al-Islam"
+ },
+ {
+  "id": "game1-724",
+  "Name": "Ibn Battuta",
+  "current": "Great traveler",
+  "proposed": "Moroccan traveler of the world"
+ },
+ {
+  "id": "game1-725",
+  "Name": "Al-Biruni",
+  "current": "Polymath scholar",
+  "proposed": "Polymath who measured the Earth"
+ },
+ {
+  "id": "game1-726",
+  "Name": "Ibn Khaldun",
+  "current": "Historian and sociologist",
+  "proposed": "Historian who wrote the Muqaddimah"
+ },
+ {
+  "id": "game1-727",
+  "Name": "Harun al-Rashid",
+  "current": "Abbasid Caliph",
+  "proposed": "Abbasid Caliph of Baghdad"
+ },
+ {
+  "id": "game1-728",
+  "Name": "Tariq ibn Ziyad",
+  "current": "Conqueror of Spain",
+  "proposed": "Conqueror of Spain in 711"
+ },
+ {
+  "id": "game1-729",
+  "Name": "Umar ibn Abdul Aziz",
+  "current": "Pious Caliph",
+  "proposed": "Umayyad Caliph known for piety"
+ },
+ {
+  "id": "game1-730",
+  "Name": "Imam Bukhari",
+  "current": "Hadith compiler",
+  "proposed": "Compiler of the Sahih, from Bukhara"
+ },
+ {
+  "id": "game1-731",
+  "Name": "Imam Muslim",
+  "current": "Hadith compiler",
+  "proposed": "Compiler of the second Sahih"
+ },
+ {
+  "id": "game1-732",
+  "Name": "Imam Abu Hanifa",
+  "current": "Jurist and scholar",
+  "proposed": "Founder of the Hanafi school"
+ },
+ {
+  "id": "game1-733",
+  "Name": "Imam Malik",
+  "current": "Jurist and scholar",
+  "proposed": "Medina jurist, author of the Muwatta"
+ },
+ {
+  "id": "game1-734",
+  "Name": "Imam Shafi",
+  "current": "Jurist and scholar",
+  "proposed": "Jurist who wrote Al-Risala"
+ },
+ {
+  "id": "game1-735",
+  "Name": "Imam Ahmad",
+  "current": "Jurist and scholar",
+  "proposed": "Founder of the Hanbali school"
+ },
+ {
+  "id": "game1-736",
+  "Name": "Al-Farabi",
+  "current": "Philosopher",
+  "proposed": "Philosopher called 'the Second Teacher'"
+ },
+ {
+  "id": "game1-737",
+  "Name": "Ibn Taymiyyah",
+  "current": "Islamic scholar",
+  "proposed": "Damascus scholar of the 13th century"
+ },
+ {
+  "id": "game1-738",
+  "Name": "Al-Razi",
+  "current": "Physician and chemist",
+  "proposed": "Persian physician and chemist"
+ },
+ {
+  "id": "game1-739",
+  "Name": "Omar Khayyam",
+  "current": "Poet and mathematician",
+  "proposed": "Persian poet and mathematician"
+ },
+ {
+  "id": "game1-740",
+  "Name": "Fatima al-Fihri",
+  "current": "Founder of university",
+  "proposed": "Founded Al-Qarawiyyin in Fez"
+ },
+ {
+  "id": "game1-741",
+  "Name": "Nusaybah",
+  "current": "Female warrior",
+  "proposed": "Woman who defended the Prophet at Uhud"
+ }
+]

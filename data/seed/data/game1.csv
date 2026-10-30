@@ -15,7 +15,7 @@ Murree,A hill station in Pakistan,Pakistani Cities
 Sukkur,A city in Pakistan,Pakistani Cities
 Bahawalpur,A city in Pakistan,Pakistani Cities
 Sargodha,A city in Pakistan,Pakistani Cities
-Gujarat,A city in Pakistan,Pakistani Cities
+Gujrat,A city in Pakistan,Pakistani Cities
 Larkana,A city in Pakistan,Pakistani Cities
 Sheikhupura,A city in Pakistan,Pakistani Cities
 Jhelum,A city in Pakistan,Pakistani Cities
@@ -52,7 +52,6 @@ Bong Paye,A traditional meat dish,Traditional Dishes
 Salt,A common spice,Spices
 Pepper,A common spice,Spices
 Turmeric,A yellow spice,Spices
-Chili,A hot spice,Spices
 Cumin,An aromatic spice,Spices
 Coriander,An aromatic spice,Spices
 Cardamom,An aromatic spice,Spices
@@ -60,7 +59,6 @@ Cinnamon,A sweet spice,Spices
 Clove,An aromatic spice,Spices
 Nutmeg,An aromatic spice,Spices
 Saffron,A precious spice,Spices
-Garlic,A pungent spice,Spices
 Anise,An aromatic spice,Spices
 Fenugreek,A bitter spice,Spices
 Mustard Seeds,A pungent spice,Spices
@@ -118,8 +116,7 @@ Bitter Gourd,A bitter vegetable,Vegetables
 Bottle Gourd,A green vegetable,Vegetables
 Capsicum,A bell pepper,Vegetables
 Chili,A hot pepper,Vegetables
-Coriander,A fresh herb,Vegetables
-Lemon,A citrus fruit,Vegetables
+Lemon,A citrus fruit,Fruits
 Beetroot,A root vegetable,Vegetables
 Shalwar,Traditional pants,Clothing
 Kameez,Traditional shirt,Clothing
@@ -160,7 +157,6 @@ Bookshelf,Book storage,Furniture
 Dresser,Bedroom furniture,Furniture
 Mirror,Reflective surface,Furniture
 Lamp,Lighting fixture,Furniture
-Rug,Floor covering,Furniture
 Carpet,Floor covering,Furniture
 Curtain,Window covering,Furniture
 Mattress,Bed cushion,Furniture
@@ -189,7 +185,6 @@ Rolling Pin,Dough roller,Kitchen Items
 Grater,Shredding tool,Kitchen Items
 Peeler,Peeling tool,Kitchen Items
 Strainer,Filtering tool,Kitchen Items
-Sieve,Filtering tool,Kitchen Items
 Tongs,Gripping tool,Kitchen Items
 Ladle,Serving spoon,Kitchen Items
 Tray,Serving platform,Kitchen Items
@@ -219,7 +214,6 @@ Crocodile,A large reptile,Animals
 Turtle,A shelled reptile,Animals
 Frog,An amphibian,Animals
 Mouse,A small rodent,Animals
-Rat,A rodent,Animals
 Squirrel,A tree rodent,Animals
 Eagle,A bird of prey,Birds
 Sparrow,A small bird,Birds
@@ -286,13 +280,11 @@ Altit Fort,A mountain fort,Historical Places
 Noor Mahal,A historic palace,Historical Places
 Wazir Khan Mosque,A historic mosque,Historical Places
 Tomb of Jahangir,A historic tomb,Historical Places
-Tomb of Jinnah,A national monument,Historical Places
+Mazar-e-Quaid,A national monument,Historical Places
 Ziarat Residency,A historic building,Historical Places
 Khyber Pass,A historic mountain pass,Historical Places
-Clifton Fort,A coastal fort,Historical Places
 Frere Hall,A historic building,Historical Places
 Mohatta Palace,A historic palace,Historical Places
-Shahi Qila,A royal fort,Historical Places
 Doctor,A medical professional,Occupations
 Teacher,An education professional,Occupations
 Pilot,An aviation professional,Occupations
@@ -312,7 +304,6 @@ Mechanic,A machine worker,Occupations
 Painter,An artist or decorator,Occupations
 Writer,A content creator,Occupations
 Artist,A creative professional,Occupations
-Actor,A performance artist,Occupations
 Banker,A finance professional,Occupations
 Accountant,A finance professional,Occupations
 Scientist,A research professional,Occupations
@@ -340,7 +331,7 @@ Helicopter,An air vehicle,Transport
 Rocket,A space vehicle,Transport
 Metro Bus,A rapid transit,Transport
 Orange Line,A metro train,Transport
-Tongas,A horse cart,Transport
+Tonga,A horse cart,Transport
 Pen,A writing tool,Stationery
 Pencil,A writing tool,Stationery
 Eraser,A correction tool,Stationery
@@ -464,7 +455,6 @@ Grass,A ground cover,Nature
 Leaf,A plant part,Nature
 Sand,Fine particles,Nature
 Rock,A hard mineral,Nature
-Stone,A small rock,Nature
 TV,A viewing device,Electronics
 Radio,An audio device,Electronics
 Computer,A computing device,Electronics
@@ -472,7 +462,7 @@ Laptop,A portable computer,Electronics
 Mobile,A phone device,Electronics
 Tablet,A touch device,Electronics
 Speaker,An audio device,Electronics
-Headphone,An audio device,Electronics
+Headphones,An audio device,Electronics
 Mouse,A pointing device,Electronics
 Keyboard,An input device,Electronics
 Printer,An output device,Electronics
@@ -494,7 +484,7 @@ Nail,A fastening tool,Tools
 Screw,A fastening tool,Tools
 Screwdriver,A turning tool,Tools
 Wrench,A gripping tool,Tools
-Plier,A gripping tool,Tools
+Pliers,A gripping tool,Tools
 Saw,A cutting tool,Tools
 Drill,A boring tool,Tools
 Axe,A chopping tool,Tools
@@ -540,7 +530,6 @@ Milk,A dairy beverage,Beverages
 Tea,A hot beverage,Beverages
 Coffee,A hot beverage,Beverages
 Juice,A fruit beverage,Beverages
-Soda,A carbonated beverage,Beverages
 Lassi,A yogurt beverage,Beverages
 Shake,A blended beverage,Beverages
 Smoothie,A blended beverage,Beverages
@@ -558,7 +547,6 @@ Cold Drink,A chilled beverage,Beverages
 Energy Drink,A stimulating beverage,Beverages
 Soup,A hot beverage,Beverages
 Broth,A liquid food,Beverages
-Cider,A fruit beverage,Beverages
 Cocoa,A chocolate beverage,Beverages
 Gulab Jamun,A sweet dessert,Desserts
 Barfi,A milk sweet,Desserts
@@ -615,28 +603,28 @@ Umar,Second Caliph,Sahaba
 Uthman,Third Caliph,Sahaba
 Ali,Fourth Caliph,Sahaba
 Bilal,Muezzin of the Prophet,Sahaba
-Khalid,Military commander,Sahaba
-Salman,Persian companion,Sahaba
+Khalid ibn al-Walid,Military commander,Sahaba
+Salman al-Farsi,Persian companion,Sahaba
 Abu Huraira,Narrator of Hadith,Sahaba
 Aisha,Wife of the Prophet,Sahaba
 Khadija,First wife of the Prophet,Sahaba
 Fatima,Daughter of the Prophet,Sahaba
 Hassan,Grandson of the Prophet,Sahaba
 Hussain,Grandson of the Prophet,Sahaba
-Zaid,Adopted son of the Prophet,Sahaba
+Zaid ibn Harithah,Adopted son of the Prophet,Sahaba
 Talha,Companion of the Prophet,Sahaba
 Zubair,Companion of the Prophet,Sahaba
-Saad,Companion of the Prophet,Sahaba
-Abdur Rahman,Companion of the Prophet,Sahaba
-Anas,Young companion,Sahaba
-Abdullah,Son of Umar,Sahaba
+Saad ibn Abi Waqqas,Companion of the Prophet,Sahaba
+Abdur Rahman ibn Awf,Companion of the Prophet,Sahaba
+Anas ibn Malik,Young companion,Sahaba
+Abdullah ibn Masud,Companion famed for reciting the Quran,Sahaba
 Muadh,Scholar companion,Sahaba
 Usamah,Young commander,Sahaba
 Ammar,Early Muslim,Sahaba
 Suhaib,Roman companion,Sahaba
 Abu Ubaidah,Trustworthy companion,Sahaba
 Hamza,Uncle of the Prophet,Sahaba
-Abbas,Uncle of the Prophet,Sahaba
+Abbas ibn Abdul Muttalib,Uncle of the Prophet,Sahaba
 Jafar,Cousin of the Prophet,Sahaba
 Adam,First Prophet,Prophets
 Noah,Prophet of the Ark,Prophets
@@ -650,11 +638,10 @@ Aaron,Brother of Moses,Prophets
 David,Prophet King,Prophets
 Solomon,Wise Prophet King,Prophets
 Job,Patient Prophet,Prophets
-Jonah,Prophet of the Whale,Prophets
 Elijah,Prophet of Israel,Prophets
 Elisha,Prophet of Israel,Prophets
 Zachariah,Father of John,Prophets
-John,Prophet and cousin,Prophets
+Yahya,Prophet and cousin,Prophets
 Jesus,Prophet and Messiah,Prophets
 Muhammad,Final Prophet,Prophets
 Lot,Prophet to his people,Prophets
@@ -683,9 +670,6 @@ Jannah,Paradise,Islamic Terms
 Jahannam,Hell,Islamic Terms
 Ramadan,Fasting month,Islamic Terms
 Eid,Islamic celebration,Islamic Terms
-Kaaba,Sacred house,Islamic Terms
-Mecca,Holy city,Islamic Terms
-Medina,City of the Prophet,Islamic Terms
 Masjid,Mosque,Islamic Terms
 Imam,Prayer leader,Islamic Terms
 Wudu,Ablution,Islamic Terms
@@ -708,7 +692,6 @@ Uhud,Mountain near Medina,Islamic Locations
 Badr,Historic battlefield,Islamic Locations
 Quba,First mosque,Islamic Locations
 Jannat al-Baqi,Cemetery in Medina,Islamic Locations
-Mount Uhud,Mountain of martyrs,Islamic Locations
 Hudaybiyyah,Treaty location,Islamic Locations
 Taif,City near Mecca,Islamic Locations
 Tabuk,Northern city,Islamic Locations
@@ -740,4 +723,16 @@ Al-Razi,Physician and chemist,Muslim Historical Figures
 Omar Khayyam,Poet and mathematician,Muslim Historical Figures
 Fatima al-Fihri,Founder of university,Muslim Historical Figures
 Nusaybah,Female warrior,Muslim Historical Figures
-Sultan Mehmed,Conqueror of Constantinople,Muslim Historical Figures
+Sultan Mehmed Fatih,Conqueror of Constantinople,Muslim Historical Figures
+Engineer,Designs and builds machines or structures,Occupations
+Nurse,Cares for patients in a hospital,Occupations
+Shopkeeper,Runs a shop,Occupations
+Dentist,A doctor for teeth,Occupations
+Sadaqah,Voluntary charity,Islamic Terms
+Tahajjud,Optional night prayer,Islamic Terms
+Iftar,Meal that breaks the fast at sunset,Islamic Terms
+Sehri,Pre-dawn meal before fasting,Islamic Terms
+Azan,The call to prayer,Islamic Terms
+Tawaf,Circling the Kaaba seven times,Islamic Terms
+Sugarcane Juice,Fresh juice pressed from sugarcane,Beverages
+Doodh Patti,Tea brewed in milk,Beverages

@@ -71,3 +71,8 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 - The app shows each card with its value, so the order of the cards in the file doesn't matter.
 - Please check: video-game and console categories (kept family-friendly ones), US-centric ones (US coins and bills, wars, cereals, college stadiums, humid US cities), the evolution/fossil-dates category, F1 and snooker, fashion brands and soft drinks, and the surah revelation order (traditional Egyptian chronology).
 - Small categories: Best-Selling Books has 3 cards left. The pi digits category is missing its 2nd digit. Add a Field Marshal rank? Add Pakistan or Saudi Arabia to Largest Countries?
+
+## Main: partly done (742 → 737)
+
+- Applied the same removals, renames and category moves as Charades (same word list), plus the 12 new Charades cards with short hints. Fixed one wrong hint (Abdullah ibn Masud was "Son of Umar").
+- Not applied yet: specific hints for 700 cards, in `data/review/game1-proposed-hints.json`. Today's hints are generic and often shared ("Eating utensil" for both Spoon and Fork); the proposals point to one word ("Tawa: Flat iron pan for roti"). Should I apply them? It depends on how Main is played (see the question above).
