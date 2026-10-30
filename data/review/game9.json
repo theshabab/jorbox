@@ -5100,12 +5100,12 @@
    "id": "game9-464",
    "Name": "The ontological argument for the proof of God's existence is first attributed to whom?",
    "Description": "Anselm of Canterbury",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "The ontological argument for the proof of God's existence is first attributed to whom?",
     "Description": "Anselm of Canterbury"
    },
-   "note": ""
+   "note": "Debate: Obscure medieval Christian theology; nobody at the table can guess it."
   },
   {
    "id": "game9-465",
@@ -5177,12 +5177,12 @@
    "id": "game9-471",
    "Name": "Who was the first wife of King Henry VIII?",
    "Description": "Catherine of Aragon",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who was the first wife of King Henry VIII?",
     "Description": "Catherine of Aragon"
    },
-   "note": ""
+   "note": "Debate: Same answer as live idx 711 (longest-married wife), and the deck already has several Henry VIII cards."
   },
   {
    "id": "game9-472",
@@ -5252,14 +5252,14 @@
   },
   {
    "id": "game9-478",
-   "Name": "Which Louis was known as 'The Sun King of France'?",
+   "Name": "Which French king was known as \"the Sun King\"?",
    "Description": "Louis XIV",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which Louis was known as 'The Sun King of France'?",
     "Description": "Louis XIV"
    },
-   "note": ""
+   "note": "Debate: Smoother wording; the title is just \"the Sun King\"."
   },
   {
    "id": "game9-479",
@@ -5309,12 +5309,12 @@
    "id": "game9-483",
    "Name": "How old was Adolf Hitler when he died?",
    "Description": "56",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "How old was Adolf Hitler when he died?",
     "Description": "56"
    },
-   "note": ""
+   "note": "Debate: Third Hitler card in the slice (481, 504 remain); the weakest of the three."
   },
   {
    "id": "game9-484",
@@ -5452,12 +5452,12 @@
    "id": "game9-496",
    "Name": "In which country did the Eureka Rebellion of 1854 take place?",
    "Description": "Australia",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
     "Description": "Australia"
    },
-   "note": "date was wrong (1854, not 1856)"
+   "note": "Debate: Obscure Australian colonial history."
   },
   {
    "id": "game9-497",
@@ -5472,14 +5472,14 @@
   },
   {
    "id": "game9-498",
-   "Name": "Which German field marshal was known as the `Desert Fox`?",
+   "Name": "Which German field marshal was known as the \"Desert Fox\"?",
    "Description": "Erwin Rommel",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which German field marshal was known as the `Desert Fox`?",
     "Description": "Erwin Rommel"
    },
-   "note": ""
+   "note": "Debate: Replaced stray backticks with quotation marks."
   },
   {
    "id": "game9-499",
@@ -5660,13 +5660,13 @@
   {
    "id": "game9-515",
    "Name": "What is the French word for \"fish\"?",
-   "Description": "poisson",
-   "action": "keep",
+   "Description": "Poisson",
+   "action": "edit",
    "original": {
     "Name": "What is the French word for \"fish\"?",
     "Description": "poisson"
    },
-   "note": ""
+   "note": "Debate: Capitalised the answer to match the neighbouring language cards (Feiji, Adiós)."
   },
   {
    "id": "game9-516",
@@ -5716,12 +5716,12 @@
    "id": "game9-520",
    "Name": "What is the Portuguese word for \"Brazil\"?",
    "Description": "Brasil",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the Portuguese word for \"Brazil\"?",
     "Description": "Brasil"
    },
-   "note": ""
+   "note": "Debate: The question gives away the answer."
   },
   {
    "id": "game9-521",
@@ -5890,14 +5890,14 @@
   },
   {
    "id": "game9-536",
-   "Name": "In ancient Greece, what animal would a \"hippeus\" (cavalryman) own?",
+   "Name": "In ancient Greece, what animal would a \"hippeus\" own?",
    "Description": "Horse",
    "action": "edit",
    "original": {
     "Name": "In ancient Greece, if your job were a \"hippeus\" which of these would you own?",
     "Description": "Horse"
    },
-   "note": "multiple-choice leftover"
+   "note": "multiple-choice leftover; Debate: Removed the \"(cavalryman)\" hint that gave the answer away."
   },
   {
    "id": "game9-537",
@@ -5936,12 +5936,12 @@
    "id": "game9-540",
    "Name": "Which type of cutlery is most suited for eating soup?",
    "Description": "Spoon",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which type of cutlery is most suited for eating soup?",
     "Description": "Spoon"
    },
-   "note": ""
+   "note": "Debate: Too trivial for a trivia card."
   },
   {
    "id": "game9-541",
@@ -5978,14 +5978,14 @@
   },
   {
    "id": "game9-544",
-   "Name": "Which is the second largest native language spoken in Spain by numbers of speakers?",
+   "Name": "Which is the second most widely spoken native language in Spain?",
    "Description": "Catalan",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which is the second largest native language spoken in Spain by numbers of speakers?",
     "Description": "Catalan"
    },
-   "note": ""
+   "note": "Debate: Fixed awkward wording."
   },
   {
    "id": "game9-545",
@@ -6123,12 +6123,12 @@
    "id": "game9-557",
    "Name": "Is a transistor an active or a passive electrical component?",
    "Description": "Active",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of the following is NOT a passive electrical component?",
     "Description": "Transistor"
    },
-   "note": "multiple-choice leftover"
+   "note": "Debate: Weak either-or question overlapping live idx 733 (transistor)."
   },
   {
    "id": "game9-558",
@@ -6165,14 +6165,14 @@
   },
   {
    "id": "game9-561",
-   "Name": "Who made the discovery of X-rays?",
+   "Name": "Who discovered X-rays?",
    "Description": "Wilhelm Conrad Röntgen",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who made the discovery of X-rays?",
     "Description": "Wilhelm Conrad Röntgen"
    },
-   "note": ""
+   "note": "Debate: Fixed clumsy wording."
   },
   {
    "id": "game9-562",
@@ -6277,12 +6277,12 @@
    "id": "game9-571",
    "Name": "Broome is a town in which state of Australia?",
    "Description": "Western Australia",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Broome is a town in which state of Australia?",
     "Description": "Western Australia"
    },
-   "note": ""
+   "note": "Debate: Obscure Australian local geography."
   },
   {
    "id": "game9-572",
@@ -6343,12 +6343,12 @@
    "id": "game9-577",
    "Name": "Not counting the thumb, how many fingers does a human hand have?",
    "Description": "Four",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "How many fingers does a single human hand have?",
     "Description": "Four"
    },
-   "note": "ambiguous"
+   "note": "Debate: Too trivial, like the soup-spoon card."
   },
   {
    "id": "game9-578",
@@ -6365,12 +6365,12 @@
    "id": "game9-579",
    "Name": "What word represents the letter 'T' in the NATO phonetic alphabet?",
    "Description": "Tango",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What word represents the letter 'T' in the NATO phonetic alphabet?",
     "Description": "Tango"
    },
-   "note": ""
+   "note": "Debate: Repeats the NATO-alphabet format of live idx 590; one such card is enough."
   },
   {
    "id": "game9-580",
@@ -10333,6 +10333,62 @@
    "Description": "Hindu Kush",
    "action": "add",
    "note": "New card (debate): Correct Pakistani geography fact; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What was Sri Lanka called before 1972?",
+   "Description": "Ceylon",
+   "action": "add",
+   "note": "New card (debate): New card: well-known South Asian history, not in game9."
+  },
+  {
+   "id": null,
+   "Name": "What is the name of the 1947 border line between Pakistan and India, named after the British lawyer who drew it?",
+   "Description": "Radcliffe Line",
+   "action": "add",
+   "note": "New card (debate): New card: core Pakistani history."
+  },
+  {
+   "id": null,
+   "Name": "What is the name of the border line between Pakistan and Afghanistan, drawn in 1893?",
+   "Description": "Durand Line",
+   "action": "add",
+   "note": "New card (debate): New card: Pakistani geography and history."
+  },
+  {
+   "id": null,
+   "Name": "In which year did the second Ottoman siege of Vienna fail?",
+   "Description": "1683",
+   "action": "add",
+   "note": "New card (debate): New card: Muslim-world history fitting the slice's world history theme."
+  },
+  {
+   "id": null,
+   "Name": "Which 18th-century ruler of Mysore was known as the \"Tiger of Mysore\"?",
+   "Description": "Tipu Sultan",
+   "action": "add",
+   "note": "New card (debate): New card: well-known subcontinent Muslim history."
+  },
+  {
+   "id": null,
+   "Name": "Who was the last Mughal emperor, exiled to Rangoon by the British after the 1857 uprising?",
+   "Description": "Bahadur Shah Zafar",
+   "action": "add",
+   "note": "New card (debate): New card: Mughal history; challenger's grammatical wording."
+  },
+  {
+   "id": null,
+   "Name": "Which scientist is popularly known as the father of Pakistan's atomic bomb?",
+   "Description": "Dr Abdul Qadeer Khan",
+   "action": "add",
+   "note": "New card (debate): New card: Pakistani nuclear history; challenger's more accurate wording, since credit for the wider programme is disputed."
+  },
+  {
+   "id": null,
+   "Name": "What is the Arabic word for \"sun\"?",
+   "Description": "Shams",
+   "action": "add",
+   "note": "New card (debate): New card: Arabic vocabulary familiar from Surah Ash-Shams."
   }
  ]
 }

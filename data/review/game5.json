@@ -9028,7 +9028,7 @@
   {
    "id": "game5-695",
    "Name": "",
-   "Description": "What killed Old Jim?",
+   "Description": "What killed Rahim Chacha?",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -9036,7 +9036,7 @@
     "Description": "What killed Old Jim?",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Uses a local name instead of 'Old Jim'. 'Chacha' already shows his age, so 'Old' is dropped (challenger's amendment)."
   },
   {
    "id": "game5-696",
@@ -9678,7 +9678,7 @@
   {
    "id": "game5-745",
    "Name": "",
-   "Description": "Dear neighborhood uncle, our village praises your infinite wisdom with a humble offering of ____.",
+   "Description": "Respected Chaudhry Sahib, our village praises your infinite wisdom with a humble offering of ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -9686,7 +9686,7 @@
     "Description": "Dear neighborhood uncle, our village praises your infinite wisdom with a humble offering of ____.",
     "Category": "The Fourth Expansion"
    },
-   "note": ""
+   "note": "Debate: 'Neighborhood uncle' clashes with 'our village'. A village Chaudhry keeps the joke."
   },
   {
    "id": "game5-746",
@@ -10159,7 +10159,7 @@
   {
    "id": "game5-782",
    "Name": "",
-   "Description": "The votes are in, and the new high school mascot is ____.",
+   "Description": "The votes are in, and our school's new mascot is ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -10167,7 +10167,7 @@
     "Description": "The votes are in, and the new high school mascot is ____.",
     "Category": "The Second Expansion"
    },
-   "note": ""
+   "note": "Debate: Replaces the US 'high school' with a plain local school (challenger's amendment)."
   },
   {
    "id": "game5-783",
@@ -10250,7 +10250,7 @@
   {
    "id": "game5-789",
    "Name": "",
-   "Description": "When I was a kid, we used to play Cops and ____.",
+   "Description": "When I was a kid, we used to play Police and ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -10258,7 +10258,7 @@
     "Description": "When I was a kid, we used to play Cowboys and ____.",
     "Category": "The Sixth Expansion"
    },
-   "note": "removed offensive \"Indians\""
+   "note": "removed offensive \"Indians\"; Debate: Uses the local Chor-Police game. The blank still takes the robber's place."
   },
   {
    "id": "game5-790",
@@ -10289,7 +10289,7 @@
   {
    "id": "game5-792",
    "Name": "",
-   "Description": "Bilal is a lonely boy. But when he discovers a secret door in his attic, he meets a strange new friend: ____.",
+   "Description": "Bilal is a lonely boy. But when he discovers a secret door in Dada's old store room, he meets a strange new friend: ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -10297,7 +10297,7 @@
     "Description": "James is a lonely boy. But when he discovers a secret door in his attic, he meets a magical new friend: ____.",
     "Category": "The Sixth Expansion"
    },
-   "note": "localised; removed magic"
+   "note": "localised; removed magic; Debate: A store room replaces the attic, which is uncommon in Pakistani homes."
   },
   {
    "id": "game5-793",
@@ -10590,13 +10590,13 @@
    "Name": "",
    "Description": "In the hottest corner of Hell, sinners must endure ____ forever.",
    "Category": "Classic",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "In the seventh circle of Hell, sinners must endure ____ for all eternity.",
     "Category": "The Third Expansion"
    },
-   "note": "removed Dante reference"
+   "note": "Debate: The game5 rule says to remove jokes about the afterlife or hell. Joking about the punishment of sinners in jahannam does not suit a Muslim family group."
   },
   {
    "id": "game5-816",
@@ -10837,26 +10837,26 @@
    "Name": "",
    "Description": "____ really helped my dad through his midlife crisis.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ really helped my dad through his midlife crises.",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "Debate: Duplicate of 764, which has the lower idx."
   },
   {
    "id": "game5-835",
    "Name": "",
    "Description": "____ will finally put an end to load shedding.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ will finally put an end to racism.",
     "Category": ""
    },
-   "note": "avoid inviting hateful answers"
+   "note": "Debate: Duplicate of the earlier 'Load shedding will end when ____.'"
   },
   {
    "id": "game5-836",
@@ -11043,15 +11043,15 @@
   {
    "id": "game5-850",
    "Name": "",
-   "Description": "____ ____ go away. Come back another day.",
+   "Description": "____, ____, go away. Come back another day.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ ____ go away. Come back another day.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Adds commas so the line reads like the 'Rain, rain, go away' rhyme."
   },
   {
    "id": "game5-851",
@@ -11147,7 +11147,7 @@
   {
    "id": "game5-858",
    "Name": "",
-   "Description": "____ always reminds \"(insert name)\" of fun times with his/her grandma.",
+   "Description": "____ always reminds \"(insert name)\" of fun times with their nani.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -11155,7 +11155,7 @@
     "Description": "____ always reminds \"Insert Name\" of fun times with his/her grandma.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the clunky 'his/her grandma' with natural local wording."
   },
   {
    "id": "game5-859",
@@ -11370,13 +11370,13 @@
    "Name": "",
    "Description": "____ can help any friendship.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ can help any relationship",
     "Category": ""
    },
-   "note": "relationship -> friendship"
+   "note": "Debate: Near-duplicate of 871 ('____ builds trust between friends'), which has the lower idx."
   },
   {
    "id": "game5-876",
@@ -11695,13 +11695,13 @@
    "Name": "",
    "Description": "____ is a sure sign of mankind's decline.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ is a sure sign of mankind's decline.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as 737, which has the lower idx."
   },
   {
    "id": "game5-901",
@@ -101205,6 +101205,54 @@
    "Category": "Classic",
    "action": "add",
    "note": "New card (debate): A different joke from the PCB 'has banned ____' card. Cricket fits the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Our gali cricket match was called off because of ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): New local prompt. The full deck has no street-cricket card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Introducing Ludo 2.0: same rules as before, but now with ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): New local prompt. The only Ludo card is a betting prompt with a different idea."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The sign at Chacha's kiryana store says: \"Udhaar is closed. ____ is open.\"",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): Plays on the familiar shop sign about credit. The deck has no udhaar card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu refuses to hand over the TV remote unless someone brings him ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): Clean family prompt. The only remote card ('I threw my TV remote') has a different idea."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mohalla chowkidar blew his whistle all night because of ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): Clean local neighbourhood prompt. A search of the deck found no chowkidar card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My patang got tangled in ____, and now the whole mohalla is involved.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): Clean kite-flying prompt. The deck has no kite or patang card."
   }
  ]
 }

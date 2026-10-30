@@ -314,7 +314,7 @@ Truck,Goods | Load | Highway | Heavy | Art,Transport
 Bike,Motorcycle | Honda | Seventy | Helmet | Two Wheels,Transport
 Cycle,Pedal | Bicycle | Saikal | Chain | Bell,Transport
 Rickshaw,Three Wheels | Auto | Qingqi | Fare | Tuk Tuk,Transport
-Chingchi,Rickshaw | Qingqi | Motorcycle | Sawari | Cheap,Transport
+Chingchi,Rickshaw | Motorcycle | Sawari | Cheap | Shared,Transport
 Train,Railway | Station | Track | Engine | Rail,Transport
 Airplane,Jahaz | Fly | Airport | Pilot | PIA,Transport
 Boat,Kashti | Water | Row | River | Sail,Transport
@@ -327,7 +327,7 @@ Trolley,Luggage | Airport | Push | Cart | Shopping,Transport
 Ambulance,Hospital | Siren | Edhi | Emergency | Patient,Transport
 Fire Truck,Ladder | Water | Siren | Red | Aag,Transport
 Police Car,Siren | Patrol | Thana | Cop | Chase,Transport
-Jeep,Off Road | Army | Four By Four | Safari | Wrangler,Transport
+Jeep,Off Road | Army | Four By Four | Safari | Rally,Transport
 Helicopter,Propeller | Fly | Blades | Chopper | Army,Transport
 Rocket,Space | Moon | NASA | Launch | Astronaut,Transport
 Metro Bus,Lahore | Corridor | Shahbaz | Track | Station,Transport
@@ -351,7 +351,7 @@ Tape,Sticky | Scotch | Roll | Seal | Transparent,Stationery
 Calculator,Maths | Numbers | Add | Plus | Casio,Stationery
 Compass,Circle | Direction | North | Needle | Geometry,Stationery
 Protractor,Angle | Degrees | Geometry | Semicircle | Box,Stationery
-File,Documents | Papers | Office | Folder | Computer,Stationery
+File,Documents | Papers | Office | Folder | Sarkari,Stationery
 Folder,File | Documents | Papers | Computer | Organize,Stationery
 Envelope,Letter | Lifafa | Stamp | Post | Seal,Stationery
 Diary,Secrets | Daily | Write | Notes | Dear,Stationery
@@ -379,7 +379,7 @@ Indigo,Rainbow | Blue | Dark | Purple | Neel,Colors
 Violet,Purple | Rainbow | Flower | Jamni | Last,Colors
 Magenta,Pink | Purple | Bright | Printer | Hot,Colors
 Cyan,Blue | Light Blue | Aqua | Printer | Sky,Colors
-Teal,Blue | Green | Duck | Dark | Sea,Colors
+Teal,Blue | Green | Turquoise | Dark | Sea,Colors
 Olive,Green | Oil | Zaitoon | Army | Khaki,Colors
 Navy,Dark Blue | Blazer | Uniform | Sailor | Ship,Colors
 Peach,Aaru | Fruit | Pink | Orange | Light,Colors
@@ -763,3 +763,13 @@ Shah Rukn-e-Alam,Multan | Tomb | Sufi | Blue Tiles | Shrine,Historical Places
 Butcher,Qasai | Meat | Knife | Bakra Eid | Gosht,Occupations
 Postman,Dakia | Letter | Mail | Parcel | Bicycle,Occupations
 Chowkidar,Guard | Night | Gate | Whistle | Danda,Occupations
+Dhobi,Kapray | Wash | Iron | Laundry | Ghaat,Occupations
+Mochi,Joota | Shoes | Repair | Polish | Cobbler,Occupations
+Doodhwala,Milk | Bhains | Cycle | Morning | Litre,Occupations
+Gadha Gari,Donkey | Cart | Rehra | Load | Wheels,Transport
+Cable Car,Murree | Patriata | Wire | Hills | Ride,Transport
+Chalk,Blackboard | Teacher | Duster | White | Write,Stationery
+Geometry Box,Compass | Protractor | Set Square | Maths | Exam,Stationery
+Takhti,Wooden | Slate | Gaachni | Qalam | School,Stationery
+Eyebrow,Bhaun | Eye | Hair | Raise | Threading,Body Parts
+Heart,Dil | Beat | Pump | Blood | Chest,Body Parts

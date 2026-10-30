@@ -4257,7 +4257,7 @@
   {
    "id": "game2-328",
    "Name": "Chingchi",
-   "Description": "Rickshaw | Qingqi | Motorcycle | Sawari | Cheap",
+   "Description": "Rickshaw | Motorcycle | Sawari | Cheap | Shared",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4265,7 +4265,7 @@
     "Description": "vehicle | ride | wheels | travel",
     "Category": "Transport"
    },
-   "note": "Distinct from Rickshaw (motorcycle rickshaw); spelled Qingqi by brand, Chingchi is common colloquial spelling, kept"
+   "note": "Distinct from Rickshaw (motorcycle rickshaw); spelled Qingqi by brand, Chingchi is common colloquial spelling, kept; Debate: 'Qingqi' is the same word as the card name, so banning it did nothing. It is replaced with a real clue word."
   },
   {
    "id": "game2-329",
@@ -4426,7 +4426,7 @@
   {
    "id": "game2-341",
    "Name": "Jeep",
-   "Description": "Off Road | Army | Four By Four | Safari | Wrangler",
+   "Description": "Off Road | Army | Four By Four | Safari | Rally",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4434,7 +4434,7 @@
     "Description": "vehicle | ride | wheels | travel",
     "Category": "Transport"
    },
-   "note": ""
+   "note": "Debate: Replaces the US model name 'Wrangler' with 'Rally', after the well-known Cholistan and Jhal Magsi jeep rallies."
   },
   {
    "id": "game2-342",
@@ -4738,7 +4738,7 @@
   {
    "id": "game2-365",
    "Name": "File",
-   "Description": "Documents | Papers | Office | Folder | Computer",
+   "Description": "Documents | Papers | Office | Folder | Sarkari",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4746,7 +4746,7 @@
     "Description": "paper | write | school | office",
     "Category": "Stationery"
    },
-   "note": ""
+   "note": "Debate: Cuts the overlap with the Folder card's banned words and blocks the obvious government-office clue."
   },
   {
    "id": "game2-366",
@@ -5102,7 +5102,7 @@
   {
    "id": "game2-393",
    "Name": "Teal",
-   "Description": "Blue | Green | Duck | Dark | Sea",
+   "Description": "Blue | Green | Turquoise | Dark | Sea",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -5110,7 +5110,7 @@
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": "Close to Turquoise/Cyan; kept."
+   "note": "Close to Turquoise/Cyan; kept.; Debate: Teal is a common Pakistani clothing colour, so the card stays. The obscure 'Duck' clue is replaced with 'Turquoise', the obvious near-synonym."
   },
   {
    "id": "game2-394",
@@ -10047,6 +10047,86 @@
    "Category": "Occupations",
    "action": "add",
    "note": "New card (debate): An iconic local job (night watchman) that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Dhobi",
+   "Description": "Kapray | Wash | Iron | Laundry | Ghaat",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani occupation. No Dhobi, Washerman or Laundry card exists in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Mochi",
+   "Description": "Joota | Shoes | Repair | Polish | Cobbler",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Well-known street trade. No Mochi or Cobbler card exists in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Doodhwala",
+   "Description": "Milk | Bhains | Cycle | Morning | Litre",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Familiar household figure. Only the Milk, Doodh Patti and Doodh Soda cards exist, and none of them is this occupation."
+  },
+  {
+   "id": null,
+   "Name": "Gadha Gari",
+   "Description": "Donkey | Cart | Rehra | Load | Wheels",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Classic local transport that is separate from the Donkey animal card."
+  },
+  {
+   "id": null,
+   "Name": "Cable Car",
+   "Description": "Murree | Patriata | Wire | Hills | Ride",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani hill-station ride. No duplicate exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Chalk",
+   "Description": "Blackboard | Teacher | Duster | White | Write",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Common classroom item that is not in the game2 deck."
+  },
+  {
+   "id": null,
+   "Name": "Geometry Box",
+   "Description": "Compass | Protractor | Set Square | Maths | Exam",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Familiar school item that is separate from the Compass and Protractor cards."
+  },
+  {
+   "id": null,
+   "Name": "Takhti",
+   "Description": "Wooden | Slate | Gaachni | Qalam | School",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Traditional local school writing board. Its banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Eyebrow",
+   "Description": "Bhaun | Eye | Hair | Raise | Threading",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Basic body part that is missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Heart",
+   "Description": "Dil | Beat | Pump | Blood | Chest",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Basic body part that is missing from the deck."
   }
  ]
 }
