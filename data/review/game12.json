@@ -8633,6 +8633,666 @@
     "Name": "Rhino"
    },
    "note": ""
+  },
+  {
+   "id": null,
+   "Name": "Tandoor",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Rickshaw",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Dupatta",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Ludo",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Carrom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Paratha",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Naan",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Roti",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Biryani",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Nihari",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Haleem",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Lassi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Jalebi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Pakora",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Halwa",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kheer",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kulfi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Chaat",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Chutney",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Paan",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Mehndi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tasbeeh",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Jainamaz",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Topi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kurta",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Shalwar",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Khussa",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Sherwani",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Matka",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Surahi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tonga",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Iftar",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Sehri",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Eidi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Qurbani",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Goat",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Camel",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Buffalo",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Peacock",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Crow",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Mango",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Guava",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Sugarcane",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Khajoor",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Daal",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Karahi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tawa",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Handi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Loadshedding",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Generator",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Baraat",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Sehra",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Shamiana",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Darzi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Dhobi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Bazaar",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Dhaba",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Wicket",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Golgappa",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Ladoo",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Rasmalai",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Nimko",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Rusk",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Falooda",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Ajrak",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Thermos",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tiffin",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Dastarkhwan",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Minaret",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Pigeon",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Lizard",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Cockroach",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Markhor",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Train",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tractor",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Ambulance",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Motorcycle",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Chess",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kabaddi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kettle",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Iron",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Cooler",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Heater",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Doorbell",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Courtyard",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Rooftop",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Pharmacy",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Bakery",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Village",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Desert",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Pomegranate",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Watermelon",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Owl",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Masjid",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Calendar",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Doormat",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Patience",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Gratitude",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kindness",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Honesty",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Laziness",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Curiosity",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Boredom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Nostalgia",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Hospitality",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Embarrassment",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Confidence",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Forgiveness",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Loyalty",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Respect",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }

@@ -4007,6 +4007,366 @@
     "Description": "Get a player to check their zipper."
    },
    "note": "embarrassing (zipper)"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pour you a cup of chai.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to offer you the last samosa.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'JazakAllah'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of their favourite cricketer.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to teach you a word in Punjabi, Pashto, Sindhi or Balochi.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to fix your collar.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tie your shoelace for you.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to fold your dupatta or shawl for you.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to peel a kinnu or banana for you.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they ate for breakfast.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to rate the biryani out of ten.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say which Pakistani city has the best food.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the time of the next namaz.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you 'Khana khaya?' (Have you eaten?).",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to call you 'beta'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Chalo, chalte hain' (Come on, let's go).",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Uff'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Acha' three times in one conversation.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to call you 'yaar'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to make a dua for you.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pat you on the back.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pull you up from the floor by your hand.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to put a hand on your forehead to check if you have a fever.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to stand back to back with you to compare heights.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tap you on the shoulder.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you a joke.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to show you how to tie a pagri.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to show you their best bowling action.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pretend to hit a six.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to shout 'Howzat!'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to fan you with a hand fan or a piece of paper.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their full name, including any middle name.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many cousins they have.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their childhood nickname.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name their favourite Eid dish.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how much Eidi they used to get as a child.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to complain about load shedding.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Shabash!'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Wah wah!'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Kya baat hai!'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Bilkul' (Absolutely).",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you 'Pakka?' (Are you sure?).",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you 'Kya hua?' (What happened?).",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to give you directions to a place you already know how to reach.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain a recipe to you step by step.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to recommend a good tailor or darzi.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to bargain with you over the price of something you pretend to sell.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to link arms with you and walk across the room.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to hold one end of a string or dupatta while you hold the other.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to help you count how many samosas or biscuits are left.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to guess your age.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to guess how many spoons of sugar you take in your chai.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pass you a cushion.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name five fruits in ten seconds.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to spell 'Rawalpindi' out loud.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to count backwards from ten.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to work out 17 times 3 in their head.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their blood group.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Ameen'.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'SubhanAllah'.",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }

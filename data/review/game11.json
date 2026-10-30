@@ -5469,6 +5469,286 @@
     "Description": "Zombie"
    },
    "note": ""
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My mehmaan never leave before _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The UPS beeps every time _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The water tank always runs out when I _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Mosquitoes always find my _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The rickshaw always breaks down near _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My khala keeps asking about my _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never find a parking spot at _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My doodh wala keeps adding _____ to the milk!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The gas pressure drops whenever I _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every shaadi lasts too long because of _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My pile of mangoes attracts _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I lose my chappals every time I go to _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our street floods every time _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My cousin always copies my _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can't hear anything over the _____ next door!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My dupatta keeps getting stuck in _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The bijli bill went up because of _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My dhobi keeps losing my _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The guests ate all the _____ before I got any!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I'm always the one who has to _____ at dawats!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Doodh Wala",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Dhobi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bus Conductor",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Phuppo",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mali",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Electrician",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Plumber",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Car Mechanic",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Wedding Photographer",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mehndi Artist",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Tuition Teacher",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Truck Art Painter",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Sabzi Wala",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Property Dealer",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Halwai",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Traffic Warden",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Hajj Pilgrim",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Cattle Trader",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Deg Wala",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Barber",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }

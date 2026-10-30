@@ -3786,6 +3786,286 @@
     "Category": "0 to 100"
    },
    "note": "clarified"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you performed Umrah?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many keys are on your keychain right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many pairs of chappals are at your front door right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you had your phone screen replaced?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many plastic shopping bags are stuffed inside the 'bag of bags' in your kitchen?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many old ice cream tubs in your kitchen are now used to store something else?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you visited the Badshahi Mosque?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many of your school teachers can you still name?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many phone numbers do you know by heart?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many mangoes can you eat in one sitting?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you slept through Sehri?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many rotis do you usually eat with dinner?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many hours do you spend stuck in traffic in a week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been stuck in a lift?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many kites have you flown in your life?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many half-used notebooks or diaries do you own?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you said 'bas paanch minute'?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many power banks do you own?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you got lost in a new city?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many tabs are open in your phone's browser right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many biscuits do you dunk in one cup of chai?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to say 'I'm on my way' while still at home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How good are you at reading Urdu handwriting?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy eating mangoes in summer?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to save gift wrapping paper to reuse it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How afraid are you of injections?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take a nap after Sunday lunch?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to eat gol gappay from a street stall in the monsoon?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to correct an elder who is wrong?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How good are you at fixing things around the house?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wear the same outfit to two family weddings?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to answer a call from an unknown number?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy having guests stay overnight?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to go for dessert before the main course at a wedding?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to get carsick on a long drive?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How good are you at flying a kite?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you love gajar ka halwa?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to forget where you parked?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How good are you at whistling?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much does loud honking annoy you?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }
