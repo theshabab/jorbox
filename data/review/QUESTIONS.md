@@ -15,6 +15,7 @@ Answer any time; work continues meanwhile. Newest games at the bottom.
 - Trivia: remove all Greek/Norse mythology.
 - US-centric content: replace most of it with Pakistani or world equivalents.
 - Gross-out humour: keep mild ones (burps, slime); remove bathroom and toilet jokes.
+- Haiwani Pattay: political jokes naming real politicians are allowed (restored); stage magic tricks are allowed; army in-jokes, jinn, nazar and peer/baba jokes are kept; old pack-named categories are merged into "Classic".
 - Mildly dark items (coffins, guns, bombs, heaven/hell, "death by frisbee"): keep.
 
 ## Charades (Banned Words): done
@@ -118,7 +119,7 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 - Main: specific hints applied. Restored: touching missions, qawwali/national-song categories, a cleaned milli naghmay list.
 - Swept every reviewed deck for magic, pagan mythology, toilet jokes and US-only content. Trivia lost 61 mythology/US questions and gained 61 new ones. Tareekhi swapped 8 US categories for Pakistani/world ones. Daal men Kaala lost 92 US-local cards and gained 180 new facts (Pakistan, Muslim world, Islamic history, science, animals, inventions).
 
-## Haiwani Pattay: done (7,775 → 5,895)
+## Haiwani Pattay: done (7,775 → 5,935)
 
 - Cleaned to family-friendly: removed about 1,880 prompts (sexual or innuendo, bathroom, drugs and alcohol, films, songs and celebrities, real living public figures including politicians, Trump and US-only material, jokes about Islam, worship, scholars, the afterlife and other religions, tragedies, terrorism, slurs, and duplicates). Rewrote about 2,250 locally (dates → rishta meetings, bars → dhabas, $ → Rs, tattoos → mehndi, US places → Pakistani cities). Standardised the blank token to "____" and the player token to "(insert name)". Renamed "Bollywood & Drama" to "Drama Serials" and "Relationship Red Flags" to "Rishta Red Flags", and folded the small "Body Functions" category into "Awkward Moments".
 - Please check:
