@@ -42,3 +42,9 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 
 - Removed 102: film, TV, cartoon, superhero, Netflix and romance prompts; prompts whose answers would be personal names ("a teacher you remember"); and about 60 duplicates. Reworded others locally ("carnival ride" → "mela", "deep dish" → "pan pizza", "Big Wedding or Simple Nikkah?", lucky number → "pick a number").
 - Kept "Wedding or Birthday?", a honeymoon prompt, Instagram vs TikTok, and brand-slogan prompts. Any of these to drop?
+
+## GupShup: done (607 → 510)
+
+- Removed 97: questions about music, bands, concerts, songs, movies, TV, sitcoms, Netflix, celebrities, crushes, soulmates, pick-up lines, tattoos, lotteries and cursing, plus duplicates. Reworded others (date spot → where you take visiting guests, holidays → Eid, "White House" → PM House, a crore rupees instead of the lottery).
+- Kept: childhood cartoons, documentaries, rishta stories, "craziest dare", and questions about insecurities and loneliness. Any of these too much?
+- Should naat or nasheed questions replace the 12 music questions that were removed?
