@@ -2705,12 +2705,12 @@
   },
   {
    "id": "game10-301",
-   "Name": "Name a famous Pakistani you would like to meet.",
+   "Name": "Name a Pakistani cricketer you would like to meet.",
    "action": "edit",
    "original": {
     "Name": "Name a celebrity you want to meet."
    },
-   "note": "celebrity -> famous Pakistani"
+   "note": "celebrity -> famous Pakistani; QA fix"
   },
   {
    "id": "game10-302",
@@ -3119,12 +3119,12 @@
   },
   {
    "id": "game10-347",
-   "Name": "What is the best holiday of the year?",
+   "Name": "What is the best celebration of the year?",
    "action": "edit",
    "original": {
     "Name": "What is the best holiday?"
    },
-   "note": "clarified (Eid, 14 August)"
+   "note": "clarified (Eid, 14 August); QA fix"
   },
   {
    "id": "game10-348",

@@ -4418,9 +4418,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to clink their cup or glass against yours.",
+   "Description": "Get a player to swap cups with you.",
    "action": "add",
-   "note": "New card"
+   "note": "New card; QA fix"
   },
   {
    "id": null,

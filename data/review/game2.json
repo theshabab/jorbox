@@ -136,7 +136,7 @@
   {
    "id": "game2-11",
    "Name": "Hyderabad",
-   "Description": "Sindh | Bangles | Choorian | Rabri | India",
+   "Description": "Sindh | Bangles | Rabri | Pakka Qila | India",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -144,7 +144,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "QA: removed duplicate clue"
   },
   {
    "id": "game2-12",
@@ -370,7 +370,7 @@
   {
    "id": "game2-29",
    "Name": "Haleem",
-   "Description": "Daal | Wheat | Muharram | Pounded | Lentils",
+   "Description": "Daal | Wheat | Muharram | Ghotna | Meat",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -378,7 +378,7 @@
     "Description": "food | rice | meat | curry",
     "Category": "Traditional Dishes"
    },
-   "note": ""
+   "note": "QA: removed duplicate clue"
   },
   {
    "id": "game2-30",
@@ -6493,7 +6493,7 @@
   {
    "id": "game2-500",
    "Name": "Screwdriver",
-   "Description": "Turn | Twist | Bolt | Tool | Tighten",
+   "Description": "Screw | Turn | Twist | Bolt | Tighten",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6501,7 +6501,7 @@
     "Description": "tool | metal | work | fix",
     "Category": "Tools"
    },
-   "note": ""
+   "note": "QA: obvious clue instead of generic"
   },
   {
    "id": "game2-501",

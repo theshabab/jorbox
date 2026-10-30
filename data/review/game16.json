@@ -951,14 +951,14 @@
   },
   {
    "id": "game16-87",
-   "Name": "One day I wish could have lasted forever was...",
+   "Name": "One day I wish had lasted forever is...",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "One particular day/night that I wanted to last forever was...",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "wording"
+   "note": "wording; QA fix"
   },
   {
    "id": "game16-88",
@@ -5241,14 +5241,14 @@
   },
   {
    "id": "game16-477",
-   "Name": "How do you think taqdeer (destiny) and our own choices work together?",
+   "Name": "How does trusting Allah's plan (tawakkul) help you when things go wrong?",
    "Category": "Deep & ThoughtProvoking",
    "action": "edit",
    "original": {
     "Name": "Do you believe in fate, free will, or a combination of both?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": "respectful Islamic framing"
+   "note": "respectful Islamic framing; QA fix"
   },
   {
    "id": "game16-478",

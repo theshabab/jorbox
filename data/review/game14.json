@@ -2128,14 +2128,14 @@
   },
   {
    "id": "game14-194",
-   "Description": "How good are you at keeping New Year's resolutions?",
+   "Description": "How good are you at sticking to a new habit?",
    "Category": "0 to 100",
    "action": "edit",
    "original": {
     "Description": "How good are you at keeping new year resolutions?",
     "Category": "0 to 100"
    },
-   "note": "capitalization"
+   "note": "capitalization; QA fix"
   },
   {
    "id": "game14-195",
@@ -4419,10 +4419,10 @@
   },
   {
    "id": null,
-   "Description": "At what hour did you fall asleep last night?",
+   "Description": "How many hours did you sleep last night?",
    "Category": "Number",
    "action": "add",
-   "note": "New card"
+   "note": "New card; QA fix"
   },
   {
    "id": null,

@@ -12169,7 +12169,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-260','game10','Name a skill you want to learn.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-261','game10','Name a book everyone should read.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-262','game10','Name a food you can eat every day.','','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-263','game10','Name a famous Pakistani you would like to meet.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-263','game10','Name a Pakistani cricketer you would like to meet.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-264','game10','Name a place you feel safe.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-265','game10','Name a happy day in someone''s life.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-266','game10','Name a common life goal.','','');
@@ -12208,7 +12208,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-299','game10','What question do relatives always ask?','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-300','game10','What is the best surprise to get?','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-301','game10','What is the most expensive gift you can give?','','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-302','game10','What is the best holiday of the year?','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-302','game10','What is the best celebration of the year?','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-303','game10','What is the most boring day of the week?','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-304','game10','What is the best age to be?','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-305','game10','What is the most difficult job in the world?','','');
@@ -14414,7 +14414,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-445','game13','','Get a player to say ''Haye Allah!''.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-446','game13','','Get a player to say ''Allah Hafiz'' to you when nobody is leaving yet.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-447','game13','','Get a player to say ''Pakistan Zindabad!''.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-448','game13','','Get a player to clink their cup or glass against yours.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-448','game13','','Get a player to swap cups with you.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-449','game13','','Get a player to help you carry cups or plates to the kitchen.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-450','game13','','Get a player to wipe the table for you.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-451','game13','','Get a player to offer you saunf or elaichi after the meal.','');
@@ -14650,7 +14650,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-181','game14','','How many family WhatsApp groups have you muted?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-182','game14','','How likely are you to forward a ''Good Morning'' message?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-183','game14','','How many times have you forgotten to reply to a message?','Number');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-184','game14','','How good are you at keeping New Year''s resolutions?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-184','game14','','How good are you at sticking to a new habit?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-185','game14','','How likely are you to start a gym membership?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-186','game14','','How many times have you gone to the gym this month?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-187','game14','','How likely are you to skip leg day at the gym?','0 to 100');
@@ -14865,7 +14865,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-396','game14','','How many years old is your current phone?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-397','game14','','How much does a cracked phone screen bother you?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-398','game14','','How many chargers do you own?','Number');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-399','game14','','At what hour did you fall asleep last night?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-399','game14','','How many hours did you sleep last night?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-400','game14','','How much do you talk in your sleep?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-401','game14','','How many pillows do you sleep with?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-402','game14','','How likely are you to doze off as a passenger on a long car ride?','0 to 100');
@@ -16406,7 +16406,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-83','game16','What''s the most important thing to you in life?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-84','game16','What is the best gift anyone''s ever given you?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-85','game16','If you could instantly become fluent in another language, what would that language be and why?','','Ice Breakers & Fun General');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-86','game16','One day I wish could have lasted forever was...','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-86','game16','One day I wish had lasted forever is...','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-87','game16','If you had your own talk show, what would it be about?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-88','game16','What''s the best sound effect you can make? Do it.','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-89','game16','What is your favorite family tradition?','','Ice Breakers & Fun General');
@@ -16724,7 +16724,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-401','game16','What’s something you used to believe that you no longer do?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-402','game16','How have you changed the most in the last five years?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-403','game16','What is one value you will not compromise on?','','Deep & ThoughtProvoking');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-404','game16','How do you think taqdeer (destiny) and our own choices work together?','','Deep & ThoughtProvoking');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-404','game16','How does trusting Allah''s plan (tawakkul) help you when things go wrong?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-405','game16','What does “success” mean to you?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-406','game16','What is a cause or issue you are passionate about?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-407','game16','What role does faith play in your daily life?','','Deep & ThoughtProvoking');

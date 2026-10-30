@@ -5440,7 +5440,7 @@
   {
    "id": "game1-419",
    "Name": "Necklace",
-   "Description": "Worn around the neck",
+   "Description": "Chain or haar worn at the throat",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5448,7 +5448,7 @@
     "Description": "A neck ornament",
     "Category": "Jewelry"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; QA: hint contained the word"
   },
   {
    "id": "game1-420",

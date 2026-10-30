@@ -1402,14 +1402,14 @@
   },
   {
    "id": "game7-128",
-   "Description": "blowing up da birthday camel",
+   "Description": "blowing up the birthday camel",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "blowing up da birthday cello",
     "Category": "Standard Prompts"
    },
-   "note": "music instrument replaced"
+   "note": "music instrument replaced; QA: spelling"
   },
   {
    "id": "game7-129",
@@ -12732,14 +12732,14 @@
   },
   {
    "id": "game7-1158",
-   "Description": "that's one runaway caboose",
+   "Description": "that's one runaway train carriage",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "that's one loose caboose",
     "Category": "Standard Prompts"
    },
-   "note": "\"loose caboose\" is body slang"
+   "note": "\"loose caboose\" is body slang; QA: caboose is US slang with a rear-end double meaning"
   },
   {
    "id": "game7-1159",

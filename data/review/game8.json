@@ -8416,7 +8416,7 @@
   },
   {
    "id": "game8-648",
-   "Name": "Could beat you at arm wrestling <---> You could beat at arm wrestling",
+   "Name": "Would beat you at arm wrestling <---> You would beat them at arm wrestling",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
    "action": "edit",
@@ -8425,7 +8425,7 @@
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": "violence softened"
+   "note": "violence softened; QA: fixed broken grammar on right end"
   },
   {
    "id": "game8-649",

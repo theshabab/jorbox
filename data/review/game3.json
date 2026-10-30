@@ -1553,7 +1553,7 @@
   {
    "id": "game3-120",
    "Name": "Muslim Empires and Dynasties",
-   "Description": "Rashidun|Umayyad|Abbasid|Fatimid|Ayyubid|Mamluk|Seljuk|Ottoman|Safavid|Mughal|Ghaznavid|Ghori|Slave Dynasty|Khilji|Tughlaq|Lodi|Suri|Timurid|Al-Andalus|Almoravid",
+   "Description": "Rashidun|Umayyad|Abbasid|Fatimid|Ayyubid|Mamluk|Seljuk|Ottoman|Safavid|Mughal|Ghaznavid|Ghori|Slave Dynasty|Khilji|Tughlaq|Lodi|Suri|Timurid|Durrani|Almoravid",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1561,7 +1561,7 @@
     "Description": "Sealed Nectar|Lost Islamic History|Destiny Disrupted|Islam and the World|Road to Mecca|In the Footsteps of the Prophet|Muhammad|Islam|History of Arabs|History of Islam|Caliphate|Crusades|Ottomans|Mughals|Andalus|Baghdad|Cairo|Damascus|Istanbul|Mecca",
     "Category": ""
    },
-   "note": "book list was obscure and mixed with cities; refocused on Islamic history dynasties"
+   "note": "book list was obscure and mixed with cities; refocused on Islamic history dynasties; QA: Al-Andalus is a region, not a dynasty"
   },
   {
    "id": "game3-121",
@@ -3594,7 +3594,7 @@
   {
    "id": "game3-277",
    "Name": "Draw your favorite athlete.",
-   "Description": "Draw a wrestler.|Draw synchronized swimming.|Draw a juggler.|Draw a cricketer.|Draw a race car driver.|Draw a football player.|Draw a basketball player.|Draw a hockey player.|Draw a soccer player.",
+   "Description": "Draw a wrestler.|Draw synchronized swimming.|Draw a juggler.|Draw a cricketer.|Draw a race car driver.|Draw a football player.|Draw a basketball player.|Draw a hockey player.|Draw a squash player.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3602,7 +3602,7 @@
     "Description": "Draw a quidditch player.|Draw synchronized swimming.|Draw a juggler.|Draw a baseball player.|Draw a race car driver.|Draw a football player.|Draw a basketball player.|Draw a hockey player.|Draw a soccer player.",
     "Category": "Drawing 2"
    },
-   "note": "replaced quidditch; Sweep: US sport decoy replaced"
+   "note": "replaced quidditch; Sweep: US sport decoy replaced; QA: soccer duplicated football decoy"
   },
   {
    "id": "game3-278",
@@ -8677,10 +8677,10 @@
   {
    "id": null,
    "Name": "Things at a Shaadi",
-   "Description": "Dulha|Dulhan|Stage|Baraat|Nikah|Qazi|Haq Mehr|Sehra|Mehndi|Doodh Pilai|Joota Chupai|Rukhsati|Walima|Photographer|Marquee|Dhol|Biryani|Salami|Garland|Fireworks",
+   "Description": "Dulha|Dulhan|Stage|Baraat|Nikah|Qazi|Haq Mehr|Sehra|Mehndi|Doodh Pilai|Joota Chupai|Rukhsati|Walima|Photographer|Marquee|Shamiana|Biryani|Salami|Garland|Fireworks",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; QA: Dhol (music) -> Shamiana"
   },
   {
    "id": null,
