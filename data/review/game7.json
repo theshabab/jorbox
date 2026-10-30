@@ -887,12 +887,12 @@
    "id": "game7-81",
    "Description": "mortician/magician",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "mortician/magician",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: magician pun (magic)"
   },
   {
    "id": "game7-82",
@@ -1193,14 +1193,14 @@
   },
   {
    "id": "game7-109",
-   "Description": "sneezing out magic",
+   "Description": "sneezing out glitter",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "sneezing out magic",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: magic removed"
   },
   {
    "id": "game7-110",
@@ -1941,14 +1941,14 @@
   },
   {
    "id": "game7-177",
-   "Description": "cowboy eats a popsicle on hot day",
+   "Description": "camel herder eats a popsicle on a hot day",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "cowboy eats a popsicle on hot day",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: US cowboy localised"
   },
   {
    "id": "game7-178",
@@ -2216,14 +2216,14 @@
   },
   {
    "id": "game7-202",
-   "Description": "paperclip's a cowboy now",
+   "Description": "paperclip's a pirate now",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "clippy's a cowboy now",
     "Category": "Standard Prompts"
    },
-   "note": "obscure software reference"
+   "note": "obscure software reference; Sweep: US cowboy replaced"
   },
   {
    "id": "game7-203",
@@ -2823,12 +2823,12 @@
    "id": "game7-257",
    "Description": "my enchanted toilet",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "my enchanted toilet",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: magic + toilet humour"
   },
   {
    "id": "game7-258",
@@ -3349,14 +3349,14 @@
   },
   {
    "id": "game7-305",
-   "Description": "faulty magic wand",
+   "Description": "faulty TV remote",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "faulty magic wand",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: magic wand removed"
   },
   {
    "id": "game7-306",
@@ -3646,14 +3646,14 @@
   },
   {
    "id": "game7-332",
-   "Description": "we all scream for the wizard frog",
+   "Description": "we all scream for the ice cream frog",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "we all scream for the wizard frog",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: wizard removed"
   },
   {
    "id": "game7-333",
@@ -3769,12 +3769,12 @@
    "id": "game7-343",
    "Description": "Tragic Magic!?",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Tragic Magic!?",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: magic"
   },
   {
    "id": "game7-344",
@@ -5901,14 +5901,14 @@
   },
   {
    "id": "game7-537",
-   "Description": "the Trojan platypus",
+   "Description": "the platypus in a horse costume",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the Trojan platypus",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: Greek myth (Trojan horse) removed"
   },
   {
    "id": "game7-538",
@@ -6561,14 +6561,14 @@
   },
   {
    "id": "game7-597",
-   "Description": "horse fishing in america",
+   "Description": "horse fishing in the Indus",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "horse fishing in america",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: US reference localised"
   },
   {
    "id": "game7-598",
@@ -7749,25 +7749,25 @@
   },
   {
    "id": "game7-705",
-   "Description": "the sasquatch on a skateboard",
+   "Description": "the yeti on a skateboard",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "the sasquatch samba",
     "Category": "Standard Prompts"
    },
-   "note": "removed dance (samba)"
+   "note": "removed dance (samba); Sweep: US cryptid replaced with yeti"
   },
   {
    "id": "game7-706",
-   "Description": "cyclops pulling an all-nighter",
+   "Description": "one-eyed monster pulling an all-nighter",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "cyclops pulling an all-nighter",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: Greek myth (cyclops) removed"
   },
   {
    "id": "game7-707",
@@ -7958,14 +7958,14 @@
   },
   {
    "id": "game7-724",
-   "Description": "centaur hates his hooves",
+   "Description": "horse hates his hooves",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "centaur hates his hooves",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: Greek myth (centaur) removed"
   },
   {
    "id": "game7-725",
@@ -8024,14 +8024,14 @@
   },
   {
    "id": "game7-730",
-   "Description": "help, a cowboy has slapped me",
+   "Description": "help, a pirate has slapped me",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "what the eff a cowboy has slapped me",
     "Category": "Standard Prompts"
    },
-   "note": "removed profanity"
+   "note": "removed profanity; Sweep: US cowboy replaced"
   },
   {
    "id": "game7-731",
@@ -8345,12 +8345,12 @@
    "id": "game7-759",
    "Description": "koolaid man therapy with sheep",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "koolaid man therapy with sheep",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: US brand mascot; near-duplicate of sheep in therapy"
   },
   {
    "id": "game7-760",
@@ -8367,12 +8367,12 @@
    "id": "game7-761",
    "Description": "shhhh, i'm the hamburgalar now",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "shhhh, i'm the hamburgalar now",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: US brand character; duplicate of burger thief"
   },
   {
    "id": "game7-762",
@@ -8444,12 +8444,12 @@
    "id": "game7-768",
    "Description": "entourage the movie",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "entourage the movie",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: TV/film title (western/secular)"
   },
   {
    "id": "game7-769",
@@ -8576,12 +8576,12 @@
    "id": "game7-780",
    "Description": "blue man group arguing on lunch break",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "blue man group arguing on lunch break",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: music/performance group (western/secular)"
   },
   {
    "id": "game7-781",
@@ -8596,14 +8596,14 @@
   },
   {
    "id": "game7-782",
-   "Description": "centaur works at a supermarket",
+   "Description": "horse works at a supermarket",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "angel biting her toenails",
     "Category": "Standard Prompts"
    },
-   "note": "localised US store brand"
+   "note": "localised US store brand; Sweep: Greek myth (centaur) removed"
   },
   {
    "id": "game7-783",
@@ -8620,12 +8620,12 @@
    "id": "game7-784",
    "Description": "frozen princess but with meat powers",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "frozen princess but with meat powers",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: film reference (Frozen); duplicate of ice princess"
   },
   {
    "id": "game7-785",
@@ -8653,12 +8653,12 @@
    "id": "game7-787",
    "Description": "a $20 salad",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "a $20 salad",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: duplicate of the Rs 5,000 salad card"
   },
   {
    "id": "game7-788",
@@ -8763,12 +8763,12 @@
    "id": "game7-797",
    "Description": "miss peepee poopoo",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "miss peepee poopoo",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: toilet humour"
   },
   {
    "id": "game7-798",
@@ -9443,14 +9443,14 @@
   },
   {
    "id": "game7-859",
-   "Description": "magician has your report card",
+   "Description": "a pickpocket has your report card",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "magician has your report card",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: magician removed"
   },
   {
    "id": "game7-860",
@@ -9509,14 +9509,14 @@
   },
   {
    "id": "game7-865",
-   "Description": "bigfoot bolts across the beach",
+   "Description": "the yeti bolts across the beach",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "bigfoot bolts across the beach",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: US cryptid replaced with yeti"
   },
   {
    "id": "game7-866",
@@ -9927,14 +9927,14 @@
   },
   {
    "id": "game7-903",
-   "Description": "witch's broom breaking down",
+   "Description": "flying carpet breaking down",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "witch's broom breaking down",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: witch's broom removed"
   },
   {
    "id": "game7-904",
@@ -9949,14 +9949,14 @@
   },
   {
    "id": "game7-905",
-   "Description": "centaur getting his hooves shined",
+   "Description": "horse getting his hooves shined",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "centaur getting his hoofs shined",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Sweep: Greek myth (centaur) removed"
   },
   {
    "id": "game7-906",
@@ -10488,14 +10488,14 @@
   },
   {
    "id": "game7-954",
-   "Description": "that witch has given me feet for hands",
+   "Description": "that genie has given me feet for hands",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "that witch has given me feet for hands",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: witch removed"
   },
   {
    "id": "game7-955",
@@ -11500,14 +11500,14 @@
   },
   {
    "id": "game7-1046",
-   "Description": "weary scientist accepting that magic is real",
+   "Description": "weary scientist accepting that ghosts are real",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "weary scientist accepting that magic is real",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: magic removed"
   },
   {
    "id": "game7-1047",
@@ -12138,14 +12138,14 @@
   },
   {
    "id": "game7-1104",
-   "Description": "forklift mythology",
+   "Description": "forklift legends",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "forklift mythology",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: mythology wording removed"
   },
   {
    "id": "game7-1105",
@@ -13128,14 +13128,14 @@
   },
   {
    "id": "game7-1194",
-   "Description": "merlin in everyday clothes",
+   "Description": "a king in everyday clothes",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "merlin in everyday clothes",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: wizard (Merlin) removed"
   },
   {
    "id": "game7-1195",
@@ -13909,14 +13909,14 @@
   },
   {
    "id": "game7-1265",
-   "Description": "garbage rodeo",
+   "Description": "garbage parade",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "garbage rodeo",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: US rodeo replaced"
   },
   {
    "id": "game7-1266",
@@ -15108,14 +15108,14 @@
   },
   {
    "id": "game7-1374",
-   "Description": "kentucky fried phoenix",
+   "Description": "deep-fried dragon",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "kentucky fried phoenix",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Sweep: myth (phoenix) and US brand removed"
   },
   {
    "id": "game7-1375",

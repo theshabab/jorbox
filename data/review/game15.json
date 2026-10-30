@@ -7613,78 +7613,78 @@
    "Name": "$1",
    "Description": "1 dollar (George Washington)",
    "Category": "US Dollar Bills (Face Value)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "$1",
     "Description": "1",
     "Category": "US Dollar Bills (Face Value)"
    },
-   "note": "value and portrait instead of rank"
+   "note": "US-centric; replaced by Saudi Riyal Notes"
   },
   {
    "id": "game15-587",
    "Name": "$2",
    "Description": "2 dollars (Thomas Jefferson)",
    "Category": "US Dollar Bills (Face Value)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "$2",
     "Description": "2",
     "Category": "US Dollar Bills (Face Value)"
    },
-   "note": "value and portrait instead of rank"
+   "note": "US-centric; replaced by Saudi Riyal Notes"
   },
   {
    "id": "game15-588",
    "Name": "$10",
    "Description": "10 dollars (Alexander Hamilton)",
    "Category": "US Dollar Bills (Face Value)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "$10",
     "Description": "4",
     "Category": "US Dollar Bills (Face Value)"
    },
-   "note": "replaced rank 4 (gap from missing $5 card) with value"
+   "note": "US-centric; replaced by Saudi Riyal Notes"
   },
   {
    "id": "game15-589",
    "Name": "$20",
    "Description": "20 dollars (Andrew Jackson)",
    "Category": "US Dollar Bills (Face Value)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "$20",
     "Description": "5",
     "Category": "US Dollar Bills (Face Value)"
    },
-   "note": "value and portrait instead of rank"
+   "note": "US-centric; replaced by Saudi Riyal Notes"
   },
   {
    "id": "game15-590",
    "Name": "$50",
    "Description": "50 dollars (Ulysses S. Grant)",
    "Category": "US Dollar Bills (Face Value)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "$50",
     "Description": "6",
     "Category": "US Dollar Bills (Face Value)"
    },
-   "note": "value and portrait instead of rank"
+   "note": "US-centric; replaced by Saudi Riyal Notes"
   },
   {
    "id": "game15-591",
    "Name": "$100",
    "Description": "100 dollars (Benjamin Franklin)",
    "Category": "US Dollar Bills (Face Value)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "$100",
     "Description": "7",
     "Category": "US Dollar Bills (Face Value)"
    },
-   "note": "value and portrait instead of rank"
+   "note": "US-centric; replaced by Saudi Riyal Notes"
   },
   {
    "id": "game15-592",
@@ -7899,78 +7899,78 @@
    "Name": "Penny",
    "Description": "$0.01",
    "Category": "US Coins (Value)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Penny",
     "Description": "$0.01",
     "Category": "US Coins (Value)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani Coins"
   },
   {
    "id": "game15-609",
    "Name": "Nickel",
    "Description": "$0.05",
    "Category": "US Coins (Value)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Nickel",
     "Description": "$0.05",
     "Category": "US Coins (Value)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani Coins"
   },
   {
    "id": "game15-610",
    "Name": "Dime",
    "Description": "$0.10",
    "Category": "US Coins (Value)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Dime",
     "Description": "$0.10",
     "Category": "US Coins (Value)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani Coins"
   },
   {
    "id": "game15-611",
    "Name": "Quarter",
    "Description": "$0.25",
    "Category": "US Coins (Value)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Quarter",
     "Description": "$0.25",
     "Category": "US Coins (Value)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani Coins"
   },
   {
    "id": "game15-612",
    "Name": "Half Dollar",
    "Description": "$0.50",
    "Category": "US Coins (Value)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Half Dollar",
     "Description": "$0.50",
     "Category": "US Coins (Value)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani Coins"
   },
   {
    "id": "game15-613",
    "Name": "Dollar Coin",
    "Description": "$1.00",
    "Category": "US Coins (Value)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Dollar Coin",
     "Description": "$1.00",
     "Category": "US Coins (Value)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani Coins"
   },
   {
    "id": "game15-614",
@@ -8132,66 +8132,66 @@
    "id": "game15-626",
    "Name": "Lake Superior",
    "Description": "82,100 km²",
-   "Category": "Great Lakes (Area - Large to Small)",
+   "Category": "Largest Lakes in the World (Area - Large to Small)",
    "action": "edit",
    "original": {
     "Name": "Lake Superior",
     "Description": "1",
     "Category": "Great Lakes (Area - Large to Small)"
    },
-   "note": "area instead of rank"
+   "note": "area instead of rank; Great Lakes (US/Canada) widened to world lakes"
   },
   {
    "id": "game15-627",
-   "Name": "Lake Huron",
-   "Description": "59,600 km²",
-   "Category": "Great Lakes (Area - Large to Small)",
+   "Name": "Caspian Sea (lake)",
+   "Description": "371,000 km²",
+   "Category": "Largest Lakes in the World (Area - Large to Small)",
    "action": "edit",
    "original": {
     "Name": "Lake Huron",
     "Description": "2",
     "Category": "Great Lakes (Area - Large to Small)"
    },
-   "note": "area instead of rank"
+   "note": "area instead of rank; Great Lakes (US/Canada) widened to world lakes; world lake"
   },
   {
    "id": "game15-628",
-   "Name": "Lake Michigan",
-   "Description": "58,000 km²",
-   "Category": "Great Lakes (Area - Large to Small)",
+   "Name": "Lake Victoria",
+   "Description": "68,870 km²",
+   "Category": "Largest Lakes in the World (Area - Large to Small)",
    "action": "edit",
    "original": {
     "Name": "Lake Michigan",
     "Description": "3",
     "Category": "Great Lakes (Area - Large to Small)"
    },
-   "note": "area instead of rank"
+   "note": "area instead of rank; Great Lakes (US/Canada) widened to world lakes; world lake"
   },
   {
    "id": "game15-629",
-   "Name": "Lake Erie",
-   "Description": "25,700 km²",
-   "Category": "Great Lakes (Area - Large to Small)",
+   "Name": "Lake Tanganyika",
+   "Description": "32,600 km²",
+   "Category": "Largest Lakes in the World (Area - Large to Small)",
    "action": "edit",
    "original": {
     "Name": "Lake Erie",
     "Description": "4",
     "Category": "Great Lakes (Area - Large to Small)"
    },
-   "note": "area instead of rank"
+   "note": "area instead of rank; Great Lakes (US/Canada) widened to world lakes; world lake"
   },
   {
    "id": "game15-630",
-   "Name": "Lake Ontario",
-   "Description": "18,960 km²",
-   "Category": "Great Lakes (Area - Large to Small)",
+   "Name": "Lake Baikal",
+   "Description": "31,500 km²",
+   "Category": "Largest Lakes in the World (Area - Large to Small)",
    "action": "edit",
    "original": {
     "Name": "Lake Ontario",
     "Description": "5",
     "Category": "Great Lakes (Area - Large to Small)"
    },
-   "note": "area instead of rank"
+   "note": "area instead of rank; Great Lakes (US/Canada) widened to world lakes; world lake"
   },
   {
    "id": "game15-631",
@@ -9160,130 +9160,130 @@
    "Name": "Revolutionary War",
    "Description": "1775",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Revolutionary War",
     "Description": "1775",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-706",
    "Name": "War of 1812",
    "Description": "1812",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "War of 1812",
     "Description": "1812",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-707",
    "Name": "Mexican-American War",
    "Description": "1846",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Mexican-American War",
     "Description": "1846",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-708",
    "Name": "Civil War",
    "Description": "1861",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Civil War",
     "Description": "1861",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-709",
    "Name": "Spanish-American War",
    "Description": "1898",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Spanish-American War",
     "Description": "1898",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-710",
    "Name": "World War I",
    "Description": "1917 (US entry)",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "World War I",
     "Description": "1917",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": "WWI began 1914; 1917 is US entry"
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-711",
    "Name": "World War II",
    "Description": "1941 (US entry)",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "World War II",
     "Description": "1941",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": "WWII began 1939; 1941 is US entry"
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-712",
    "Name": "Korean War",
    "Description": "1950",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Korean War",
     "Description": "1950",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-713",
    "Name": "Vietnam War",
    "Description": "1955 (US combat troops 1965)",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Vietnam War",
     "Description": "1955",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": "clarified US involvement"
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-714",
    "Name": "Gulf War",
    "Description": "1990",
    "Category": "US Major Wars (Chronological Start)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Gulf War",
     "Description": "1990",
     "Category": "US Major Wars (Chronological Start)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Battles of Islamic History"
   },
   {
    "id": "game15-715",
@@ -9352,107 +9352,107 @@
   },
   {
    "id": "game15-720",
-   "Name": "O Positive",
-   "Description": "~37%",
-   "Category": "Blood Types (US Prevalence - High to Low)",
+   "Name": "B Positive",
+   "Description": "~32% (most common in Pakistan)",
+   "Category": "Blood Types (Pakistan Prevalence - High to Low)",
    "action": "edit",
    "original": {
     "Name": "O Positive",
     "Description": "1",
     "Category": "Blood Types (US Prevalence - High to Low)"
    },
-   "note": "replaced bare rank with US prevalence"
+   "note": "replaced bare rank with US prevalence; US prevalence replaced with approximate Pakistani figures (studies vary); Pakistani figure"
   },
   {
    "id": "game15-721",
-   "Name": "A Positive",
-   "Description": "~36%",
-   "Category": "Blood Types (US Prevalence - High to Low)",
+   "Name": "O Positive",
+   "Description": "~29%",
+   "Category": "Blood Types (Pakistan Prevalence - High to Low)",
    "action": "edit",
    "original": {
     "Name": "A Positive",
     "Description": "2",
     "Category": "Blood Types (US Prevalence - High to Low)"
    },
-   "note": "replaced bare rank with US prevalence"
+   "note": "replaced bare rank with US prevalence; US prevalence replaced with approximate Pakistani figures (studies vary); Pakistani figure"
   },
   {
    "id": "game15-722",
-   "Name": "B Positive",
-   "Description": "~8.5%",
-   "Category": "Blood Types (US Prevalence - High to Low)",
+   "Name": "A Positive",
+   "Description": "~22%",
+   "Category": "Blood Types (Pakistan Prevalence - High to Low)",
    "action": "edit",
    "original": {
     "Name": "B Positive",
     "Description": "3",
     "Category": "Blood Types (US Prevalence - High to Low)"
    },
-   "note": "replaced bare rank with US prevalence"
+   "note": "replaced bare rank with US prevalence; US prevalence replaced with approximate Pakistani figures (studies vary); Pakistani figure"
   },
   {
    "id": "game15-723",
-   "Name": "O Negative",
-   "Description": "~6.6%",
-   "Category": "Blood Types (US Prevalence - High to Low)",
+   "Name": "AB Positive",
+   "Description": "~8%",
+   "Category": "Blood Types (Pakistan Prevalence - High to Low)",
    "action": "edit",
    "original": {
     "Name": "O Negative",
     "Description": "4",
     "Category": "Blood Types (US Prevalence - High to Low)"
    },
-   "note": "replaced bare rank with US prevalence"
+   "note": "replaced bare rank with US prevalence; US prevalence replaced with approximate Pakistani figures (studies vary); Pakistani figure"
   },
   {
    "id": "game15-724",
    "Name": "A Negative",
    "Description": "~6.3%",
-   "Category": "Blood Types (US Prevalence - High to Low)",
-   "action": "edit",
+   "Category": "Blood Types (Pakistan Prevalence - High to Low)",
+   "action": "remove",
    "original": {
     "Name": "A Negative",
     "Description": "5",
     "Category": "Blood Types (US Prevalence - High to Low)"
    },
-   "note": "replaced bare rank with US prevalence"
+   "note": "Pakistani figures for Rh-negative types too small/uncertain to order; kept the 4 main types"
   },
   {
    "id": "game15-725",
    "Name": "AB Positive",
    "Description": "~3.4%",
-   "Category": "Blood Types (US Prevalence - High to Low)",
-   "action": "edit",
+   "Category": "Blood Types (Pakistan Prevalence - High to Low)",
+   "action": "remove",
    "original": {
     "Name": "AB Positive",
     "Description": "6",
     "Category": "Blood Types (US Prevalence - High to Low)"
    },
-   "note": "replaced bare rank with US prevalence"
+   "note": "Pakistani figures for Rh-negative types too small/uncertain to order; kept the 4 main types"
   },
   {
    "id": "game15-726",
    "Name": "B Negative",
    "Description": "~1.5%",
-   "Category": "Blood Types (US Prevalence - High to Low)",
-   "action": "edit",
+   "Category": "Blood Types (Pakistan Prevalence - High to Low)",
+   "action": "remove",
    "original": {
     "Name": "B Negative",
     "Description": "7",
     "Category": "Blood Types (US Prevalence - High to Low)"
    },
-   "note": "replaced bare rank with US prevalence"
+   "note": "Pakistani figures for Rh-negative types too small/uncertain to order; kept the 4 main types"
   },
   {
    "id": "game15-727",
    "Name": "AB Negative",
    "Description": "~0.6%",
-   "Category": "Blood Types (US Prevalence - High to Low)",
-   "action": "edit",
+   "Category": "Blood Types (Pakistan Prevalence - High to Low)",
+   "action": "remove",
    "original": {
     "Name": "AB Negative",
     "Description": "8",
     "Category": "Blood Types (US Prevalence - High to Low)"
    },
-   "note": "replaced bare rank with US prevalence"
+   "note": "Pakistani figures for Rh-negative types too small/uncertain to order; kept the 4 main types"
   },
   {
    "id": "game15-728",
@@ -10992,131 +10992,131 @@
    "id": "game15-846",
    "Name": "Narendra Modi Stadium",
    "Description": "India - 132,000",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Narendra Modi Stadium",
     "Description": "India - 132,000",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": ""
+   "note": "US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10"
   },
   {
    "id": "game15-847",
    "Name": "Rungrado 1st of May Stadium",
    "Description": "N. Korea - 114,000 (claimed)",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
    "action": "edit",
    "original": {
     "Name": "Rungrado 1st of May Stadium",
     "Description": "N. Korea - 114,000",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": "capacity is the official claim"
+   "note": "capacity is the official claim; US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10"
   },
   {
    "id": "game15-848",
-   "Name": "Michigan Stadium",
-   "Description": "USA - 107,601",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Name": "Melbourne Cricket Ground",
+   "Description": "Australia - 100,024",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Michigan Stadium",
     "Description": "USA - 107,601",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": ""
+   "note": "US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10; US college stadium replaced"
   },
   {
    "id": "game15-849",
-   "Name": "Beaver Stadium",
-   "Description": "USA - 106,572",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Name": "FNB Stadium",
+   "Description": "South Africa - 94,736",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Beaver Stadium",
     "Description": "USA - 106,572",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": ""
+   "note": "US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10; US college stadium replaced"
   },
   {
    "id": "game15-850",
-   "Name": "Ohio Stadium",
-   "Description": "USA - 102,780",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Name": "Wembley Stadium",
+   "Description": "England - 90,000",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Ohio Stadium",
     "Description": "USA - 102,780",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": ""
+   "note": "US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10; US college stadium replaced"
   },
   {
    "id": "game15-851",
-   "Name": "Kyle Field",
-   "Description": "USA - 102,733",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Name": "Lusail Stadium",
+   "Description": "Qatar - 88,966 (2022 World Cup final)",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Kyle Field",
     "Description": "USA - 102,733",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": ""
+   "note": "US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10; US college stadium replaced"
   },
   {
    "id": "game15-852",
-   "Name": "Neyland Stadium",
-   "Description": "USA - 101,915",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Name": "Bukit Jalil National Stadium",
+   "Description": "Malaysia - 87,411",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Neyland Stadium",
     "Description": "USA - 101,915",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": ""
+   "note": "US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10; US college stadium replaced"
   },
   {
    "id": "game15-853",
-   "Name": "Tiger Stadium",
-   "Description": "USA - 102,321",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Name": "Borg El Arab Stadium",
+   "Description": "Egypt - 86,000",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Tiger Stadium",
     "Description": "USA - 102,321",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": "true order: ranks before Neyland (101,915)"
+   "note": "true order: ranks before Neyland (101,915); US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10; US college stadium replaced"
   },
   {
    "id": "game15-854",
-   "Name": "Darrell K Royal–Texas Memorial Stadium",
-   "Description": "USA - 100,119",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Name": "Azadi Stadium",
+   "Description": "Iran - 78,116",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Darrell K Royal–Texas Memorial Stadium",
     "Description": "USA - 100,119",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": ""
+   "note": "US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10; US college stadium replaced"
   },
   {
    "id": "game15-855",
-   "Name": "Bryant-Denny Stadium",
-   "Description": "USA - 100,077",
-   "Category": "Largest Sports Stadiums (Capacity - High to Low)",
-   "action": "keep",
+   "Name": "Gelora Bung Karno Stadium",
+   "Description": "Indonesia - 77,193",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "edit",
    "original": {
     "Name": "Bryant-Denny Stadium",
     "Description": "USA - 100,077",
     "Category": "Largest Sports Stadiums (Capacity - High to Low)"
    },
-   "note": ""
+   "note": "US college stadiums replaced by world stadiums; renamed since list is no longer a strict top 10; US college stadium replaced"
   },
   {
    "id": "game15-856",
@@ -12381,42 +12381,42 @@
   },
   {
    "id": "game15-953",
-   "Name": "Care Bears",
-   "Description": "1983",
+   "Name": "Lego Brick",
+   "Description": "1958 (patented)",
    "Category": "Popular Toys (Release Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Care Bears",
     "Description": "1983",
     "Category": "Popular Toys (Release Year)"
    },
-   "note": ""
+   "note": "US-only toy swapped"
   },
   {
    "id": "game15-954",
-   "Name": "Ninja Turtles",
-   "Description": "1988",
+   "Name": "Hot Wheels",
+   "Description": "1968",
    "Category": "Popular Toys (Release Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Ninja Turtles",
     "Description": "1988",
     "Category": "Popular Toys (Release Year)"
    },
-   "note": ""
+   "note": "US cartoon toy swapped"
   },
   {
    "id": "game15-955",
-   "Name": "Bop It!",
-   "Description": "1996",
+   "Name": "Tamagotchi",
+   "Description": "1996 (Japan)",
    "Category": "Popular Toys (Release Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Bop It!",
     "Description": "1996",
     "Category": "Popular Toys (Release Year)"
    },
-   "note": ""
+   "note": "US-only toy swapped"
   },
   {
    "id": "game15-956",
@@ -12449,13 +12449,13 @@
    "Name": "Bratz Dolls",
    "Description": "2001",
    "Category": "Popular Toys (Release Year)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Bratz Dolls",
     "Description": "2001",
     "Category": "Popular Toys (Release Year)"
    },
-   "note": ""
+   "note": "US fashion dolls; removed"
   },
   {
    "id": "game15-959",
@@ -12472,8 +12472,8 @@
   },
   {
    "id": "game15-960",
-   "Name": "Shopkins",
-   "Description": "2014",
+   "Name": "Fidget Spinner",
+   "Description": "2017 (worldwide craze)",
    "Category": "Popular Toys (Release Year)",
    "action": "edit",
    "original": {
@@ -12481,7 +12481,7 @@
     "Description": "2015",
     "Category": "Popular Toys (Release Year)"
    },
-   "note": "Shopkins launched 2014"
+   "note": "Shopkins launched 2014; US/AU-only toy swapped"
   },
   {
    "id": "game15-961",
@@ -12797,16 +12797,16 @@
   },
   {
    "id": "game15-985",
-   "Name": "Cracker Jack",
-   "Description": "1896",
+   "Name": "Marie Biscuit",
+   "Description": "1874 (Peek Freans, London)",
    "Category": "Snack Foods (Introduction Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Cracker Jack",
     "Description": "1896",
     "Category": "Snack Foods (Introduction Year)"
    },
-   "note": ""
+   "note": "US brand swapped"
   },
   {
    "id": "game15-986",
@@ -12836,8 +12836,8 @@
   },
   {
    "id": "game15-988",
-   "Name": "Milano Cookies",
-   "Description": "1956",
+   "Name": "McVitie's Digestive",
+   "Description": "1892",
    "Category": "Snack Foods (Introduction Year)",
    "action": "edit",
    "original": {
@@ -12845,20 +12845,20 @@
     "Description": "1957",
     "Category": "Snack Foods (Introduction Year)"
    },
-   "note": "Pepperidge Farm Milano introduced 1956, not 1957"
+   "note": "Pepperidge Farm Milano introduced 1956, not 1957; US brand swapped"
   },
   {
    "id": "game15-989",
-   "Name": "Chips Ahoy!",
-   "Description": "1963",
+   "Name": "Lay's",
+   "Description": "1938 (H.W. Lay & Company)",
    "Category": "Snack Foods (Introduction Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Chips Ahoy!",
     "Description": "1963",
     "Category": "Snack Foods (Introduction Year)"
    },
-   "note": ""
+   "note": "US-only brand swapped for world brand"
   },
   {
    "id": "game15-990",
@@ -12875,29 +12875,29 @@
   },
   {
    "id": "game15-991",
-   "Name": "Fruit by the Foot",
-   "Description": "1991",
+   "Name": "Doritos",
+   "Description": "1966 (national launch)",
    "Category": "Snack Foods (Introduction Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Fruit by the Foot",
     "Description": "1991",
     "Category": "Snack Foods (Introduction Year)"
    },
-   "note": ""
+   "note": "US-only brand swapped for world brand"
   },
   {
    "id": "game15-992",
-   "Name": "Takis",
-   "Description": "1999",
+   "Name": "Kurkure",
+   "Description": "1999 (launched in India)",
    "Category": "Snack Foods (Introduction Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Takis",
     "Description": "1999",
     "Category": "Snack Foods (Introduction Year)"
    },
-   "note": ""
+   "note": "US-only brand swapped for local snack"
   },
   {
    "id": "game15-993",
@@ -13005,16 +13005,16 @@
   },
   {
    "id": "game15-1001",
-   "Name": "Chevrolet",
-   "Description": "1911",
+   "Name": "Suzuki",
+   "Description": "1909 (as a loom maker; first car 1955)",
    "Category": "Car Brands (Founding Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Chevrolet",
     "Description": "1911",
     "Category": "Car Brands (Founding Year)"
    },
-   "note": ""
+   "note": "US brand swapped"
   },
   {
    "id": "game15-1002",
@@ -13785,16 +13785,16 @@
   },
   {
    "id": "game15-1061",
-   "Name": "Chrysler Building",
-   "Description": "1930",
+   "Name": "Minar-e-Pakistan",
+   "Description": "1968",
    "Category": "World Buildings By Completion",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Chrysler Building",
     "Description": "1930",
     "Category": "World Buildings By Completion"
    },
-   "note": ""
+   "note": "US building swapped for Pakistani landmark"
   },
   {
    "id": "game15-1062",
@@ -14175,16 +14175,16 @@
   },
   {
    "id": "game15-1091",
-   "Name": "Cotton Gin",
-   "Description": "1793",
+   "Name": "Watt's Steam Engine",
+   "Description": "1769 (patented)",
    "Category": "Inventions by Year",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Cotton Gin",
     "Description": "1793",
     "Category": "Inventions by Year"
    },
-   "note": ""
+   "note": "US-centric invention swapped"
   },
   {
    "id": "game15-1092",
@@ -14656,8 +14656,8 @@
   },
   {
    "id": "game15-1128",
-   "Name": "Richard Nixon",
-   "Description": "1969 (took office)",
+   "Name": "Zulfikar Ali Bhutto",
+   "Description": "1971 (became President)",
    "Category": "Modern Leaders by Rise To Power",
    "action": "edit",
    "original": {
@@ -14665,7 +14665,7 @@
     "Description": "1968",
     "Category": "Modern Leaders by Rise To Power"
    },
-   "note": "elected 1968, took office 1969"
+   "note": "elected 1968, took office 1969; US president swapped for Pakistani leader"
   },
   {
    "id": "game15-1129",
@@ -17438,16 +17438,16 @@
   },
   {
    "id": "game15-1342",
-   "Name": "George Washington",
-   "Description": "6'2\"",
+   "Name": "Charles de Gaulle",
+   "Description": "6'5\" (1.96 m)",
    "Category": "Heights of Historical Figures",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "George Washington",
     "Description": "6'2\"",
     "Category": "Heights of Historical Figures"
    },
-   "note": ""
+   "note": "US president swapped for world figure"
   },
   {
    "id": "game15-1343",
@@ -18310,106 +18310,106 @@
   {
    "id": "game15-1409",
    "Name": "Hair dryer",
-   "Description": "140 °F",
-   "Category": "Maximum Heat (Fahrenheit)",
+   "Description": "60 °C",
+   "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
     "Name": "Hair dryer",
     "Description": "140",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from Fahrenheit; Celsius"
   },
   {
    "id": "game15-1410",
    "Name": "Boiling water",
-   "Description": "212 °F",
-   "Category": "Maximum Heat (Fahrenheit)",
+   "Description": "100 °C",
+   "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
     "Name": "Boiling water",
     "Description": "212",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from Fahrenheit; Celsius"
   },
   {
    "id": "game15-1411",
    "Name": "Sauna",
-   "Description": "~195 °F (about 90 °C)",
-   "Category": "Maximum Heat (Fahrenheit)",
+   "Description": "~90 °C",
+   "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
     "Name": "Sauna",
     "Description": "260",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "sauna is typically 160-195 °F, not 260; it now comes before boiling water"
+   "note": "sauna is typically 160-195 °F, not 260; it now comes before boiling water; converted from Fahrenheit; Celsius"
   },
   {
    "id": "game15-1412",
    "Name": "Clothes iron",
-   "Description": "400 °F",
-   "Category": "Maximum Heat (Fahrenheit)",
+   "Description": "~200 °C",
+   "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
     "Name": "Clothes iron",
     "Description": "400",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from Fahrenheit; Celsius"
   },
   {
    "id": "game15-1413",
    "Name": "Gas oven",
-   "Description": "550 °F",
-   "Category": "Maximum Heat (Fahrenheit)",
+   "Description": "~290 °C",
+   "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
     "Name": "Gas oven",
     "Description": "550",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from Fahrenheit; Celsius"
   },
   {
    "id": "game15-1414",
    "Name": "Bunsen burner",
-   "Description": "2,700 °F",
-   "Category": "Maximum Heat (Fahrenheit)",
+   "Description": "~1,500 °C",
+   "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
     "Name": "Bunsen burner",
     "Description": "2,700",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from Fahrenheit; Celsius"
   },
   {
    "id": "game15-1415",
    "Name": "Light bulb filament",
-   "Description": "4,600 °F",
-   "Category": "Maximum Heat (Fahrenheit)",
+   "Description": "~2,500 °C",
+   "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
     "Name": "Light bulb filament",
     "Description": "4,600",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from Fahrenheit; Celsius"
   },
   {
    "id": "game15-1416",
    "Name": "Sun's Core",
-   "Description": "27,000,000 °F",
-   "Category": "Maximum Heat (Fahrenheit)",
+   "Description": "~15,000,000 °C",
+   "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
     "Name": "Sun’s Core",
     "Description": "27,000,000",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from Fahrenheit; Celsius"
   },
   {
    "id": "game15-1417",
@@ -18674,124 +18674,124 @@
   {
    "id": "game15-1437",
    "Name": "Lake Victoria",
-   "Description": "26,590 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "68,870 km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Lake Victoria",
     "Description": "26,590",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1438",
    "Name": "Mediterranean Sea",
-   "Description": "970,000 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "~2.5 million km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Mediterranean Sea",
     "Description": "970,000",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1439",
    "Name": "Caribbean Sea",
-   "Description": "1,063,000 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "~2.75 million km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Caribbean Sea",
     "Description": "1,063,000",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1440",
    "Name": "Arabian Sea",
-   "Description": "1,491,000 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "~3.86 million km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Arabian Sea",
     "Description": "1,491,000",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1441",
    "Name": "Arctic Ocean",
-   "Description": "5,427,000 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "~14 million km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Arctic Ocean",
     "Description": "5,427,000",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1442",
    "Name": "Southern Ocean",
-   "Description": "7,849,000 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "~20.3 million km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Southern Ocean",
     "Description": "7,849,000",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1443",
    "Name": "Indian Ocean",
-   "Description": "27,240,000 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "~70.6 million km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Indian Ocean",
     "Description": "27,240,000",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1444",
    "Name": "Atlantic Ocean",
-   "Description": "41,105,000 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "~106 million km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Atlantic Ocean",
     "Description": "41,105,000",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1445",
    "Name": "Pacific Ocean",
-   "Description": "63,800,000 sq mi",
-   "Category": "Bodies of Water By Size (Sq Miles)",
+   "Description": "~165 million km²",
+   "Category": "Bodies of Water By Size (km²)",
    "action": "edit",
    "original": {
     "Name": "Pacific Ocean",
     "Description": "63,800,000",
     "Category": "Bodies of Water By Size (Sq Miles)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; converted from square miles; km²"
   },
   {
    "id": "game15-1446",
-   "Name": "White-Tailed Deer",
-   "Description": "3.5 ft (shoulder)",
+   "Name": "Markhor",
+   "Description": "About 1 m (shoulder)",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18799,12 +18799,12 @@
     "Description": "3.5 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; metric; local animal where US-only"
   },
   {
    "id": "game15-1447",
    "Name": "Bison",
-   "Description": "6 ft (shoulder)",
+   "Description": "About 1.8 m (shoulder)",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18812,12 +18812,12 @@
     "Description": "6 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; metric; local animal where US-only"
   },
   {
    "id": "game15-1448",
-   "Name": "Alaskan Moose",
-   "Description": "7.5 ft (shoulder)",
+   "Name": "Moose",
+   "Description": "About 2.3 m (shoulder)",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18825,25 +18825,25 @@
     "Description": "7.5 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; metric; local animal where US-only"
   },
   {
    "id": "game15-1449",
    "Name": "Ostrich",
-   "Description": "9 ft",
+   "Description": "About 2.7 m",
    "Category": "Animal Heights",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Ostrich",
     "Description": "9 ft",
     "Category": "Animal Heights"
    },
-   "note": ""
+   "note": "metric; local animal where US-only"
   },
   {
    "id": "game15-1450",
    "Name": "Brown Bear",
-   "Description": "10 ft (standing on hind legs)",
+   "Description": "About 3 m (standing on hind legs)",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18851,12 +18851,12 @@
     "Description": "10 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; metric; local animal where US-only"
   },
   {
    "id": "game15-1451",
    "Name": "African Elephant",
-   "Description": "13 ft (shoulder)",
+   "Description": "About 4 m (shoulder)",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18864,12 +18864,12 @@
     "Description": "13 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; metric; local animal where US-only"
   },
   {
    "id": "game15-1452",
    "Name": "Giraffe",
-   "Description": "15-18 ft",
+   "Description": "4.6-5.5 m",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18877,7 +18877,7 @@
     "Description": "15 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; metric; local animal where US-only"
   },
   {
    "id": "game15-1453",
@@ -19077,7 +19077,7 @@
   {
    "id": "game15-1468",
    "Name": "Black Mamba",
-   "Description": "12.5 mph",
+   "Description": "20 km/h",
    "Category": "Land Animal Speeds",
    "action": "edit",
    "original": {
@@ -19085,12 +19085,12 @@
     "Description": "12 mph",
     "Category": "Land Animal Speeds"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; km/h"
   },
   {
    "id": "game15-1469",
    "Name": "Human",
-   "Description": "28 mph (Usain Bolt)",
+   "Description": "45 km/h (Usain Bolt)",
    "Category": "Land Animal Speeds",
    "action": "edit",
    "original": {
@@ -19098,25 +19098,25 @@
     "Description": "28 mph - Usain Bolt",
     "Category": "Land Animal Speeds"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; km/h"
   },
   {
    "id": "game15-1470",
    "Name": "Grizzly Bear",
-   "Description": "35 mph",
+   "Description": "56 km/h",
    "Category": "Land Animal Speeds",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Grizzly Bear",
     "Description": "35 mph",
     "Category": "Land Animal Speeds"
    },
-   "note": ""
+   "note": "km/h"
   },
   {
    "id": "game15-1471",
    "Name": "Giraffe",
-   "Description": "37 mph",
+   "Description": "60 km/h",
    "Category": "Land Animal Speeds",
    "action": "edit",
    "original": {
@@ -19124,51 +19124,51 @@
     "Description": "38 mph",
     "Category": "Land Animal Speeds"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; km/h"
   },
   {
    "id": "game15-1472",
    "Name": "Ostrich",
-   "Description": "45 mph",
+   "Description": "72 km/h",
    "Category": "Land Animal Speeds",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Ostrich",
     "Description": "45 mph",
     "Category": "Land Animal Speeds"
    },
-   "note": ""
+   "note": "km/h"
   },
   {
    "id": "game15-1473",
    "Name": "Lion",
-   "Description": "50 mph",
+   "Description": "80 km/h",
    "Category": "Land Animal Speeds",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Lion",
     "Description": "50 mph",
     "Category": "Land Animal Speeds"
    },
-   "note": ""
+   "note": "km/h"
   },
   {
    "id": "game15-1474",
    "Name": "Horse",
-   "Description": "55 mph",
+   "Description": "88 km/h",
    "Category": "Land Animal Speeds",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Horse",
     "Description": "55 mph",
     "Category": "Land Animal Speeds"
    },
-   "note": ""
+   "note": "km/h"
   },
   {
    "id": "game15-1475",
    "Name": "Cheetah",
-   "Description": "70 mph",
+   "Description": "112 km/h",
    "Category": "Land Animal Speeds",
    "action": "edit",
    "original": {
@@ -19176,7 +19176,7 @@
     "Description": "75 mph",
     "Category": "Land Animal Speeds"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; km/h"
   },
   {
    "id": "game15-1476",
@@ -20418,78 +20418,78 @@
    "Name": "Cheerios",
    "Description": "1 g",
    "Category": "Cereals By Sugar Per Serving",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Cheerios",
     "Description": "1 g",
     "Category": "Cereals By Sugar Per Serving"
    },
-   "note": ""
+   "note": "US cereal brands; replaced by Fruits - Sugar per 100 g"
   },
   {
    "id": "game15-1572",
    "Name": "Rice Krispies",
    "Description": "4 g",
    "Category": "Cereals By Sugar Per Serving",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Rice Krispies",
     "Description": "4 g",
     "Category": "Cereals By Sugar Per Serving"
    },
-   "note": ""
+   "note": "US cereal brands; replaced by Fruits - Sugar per 100 g"
   },
   {
    "id": "game15-1573",
    "Name": "Corn Flakes",
    "Description": "4 g",
    "Category": "Cereals By Sugar Per Serving",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Corn Flakes",
     "Description": "4 g",
     "Category": "Cereals By Sugar Per Serving"
    },
-   "note": ""
+   "note": "US cereal brands; replaced by Fruits - Sugar per 100 g"
   },
   {
    "id": "game15-1574",
    "Name": "Special K",
    "Description": "5 g",
    "Category": "Cereals By Sugar Per Serving",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Special K",
     "Description": "5 g",
     "Category": "Cereals By Sugar Per Serving"
    },
-   "note": ""
+   "note": "US cereal brands; replaced by Fruits - Sugar per 100 g"
   },
   {
    "id": "game15-1575",
    "Name": "Honey Bunches of Oats",
    "Description": "6 g",
    "Category": "Cereals By Sugar Per Serving",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Honey Bunches of Oats",
     "Description": "6 g",
     "Category": "Cereals By Sugar Per Serving"
    },
-   "note": ""
+   "note": "US cereal brands; replaced by Fruits - Sugar per 100 g"
   },
   {
    "id": "game15-1576",
    "Name": "Froot Loops",
    "Description": "12 g",
    "Category": "Cereals By Sugar Per Serving",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Froot Loops",
     "Description": "12 g",
     "Category": "Cereals By Sugar Per Serving"
    },
-   "note": ""
+   "note": "US cereal brands; replaced by Fruits - Sugar per 100 g"
   },
   {
    "id": "game15-1577",
@@ -20509,13 +20509,13 @@
    "Name": "Cap'n Crunch",
    "Description": "17 g",
    "Category": "Cereals By Sugar Per Serving",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Cap’n Crunch",
     "Description": "17 g",
     "Category": "Cereals By Sugar Per Serving"
    },
-   "note": "apostrophe"
+   "note": "US cereal brands; replaced by Fruits - Sugar per 100 g"
   },
   {
    "id": "game15-1579",
@@ -21624,8 +21624,8 @@
   },
   {
    "id": "game15-1664",
-   "Name": "Katherine Johnson",
-   "Description": "1918",
+   "Name": "Abdus Salam",
+   "Description": "1926",
    "Category": "Scientists - Birth Year",
    "action": "edit",
    "original": {
@@ -21633,7 +21633,7 @@
     "Description": "1918",
     "Category": "Scientist Birthdays"
    },
-   "note": "category renamed"
+   "note": "category renamed; US-centric swapped for Pakistani Nobel physicist"
   },
   {
    "id": "game15-1665",
@@ -21663,8 +21663,8 @@
   },
   {
    "id": "game15-1667",
-   "Name": "Neil deGrasse Tyson",
-   "Description": "1958",
+   "Name": "Abdul Qadeer Khan",
+   "Description": "1936",
    "Category": "Scientists - Birth Year",
    "action": "edit",
    "original": {
@@ -21672,7 +21672,7 @@
     "Description": "1958",
     "Category": "Scientist Birthdays"
    },
-   "note": "category renamed"
+   "note": "category renamed; US TV scientist swapped for Pakistani scientist"
   },
   {
    "id": "game15-1668",
@@ -22092,8 +22092,8 @@
   },
   {
    "id": "game15-1700",
-   "Name": "Jimmy Carter",
-   "Description": "2002 - Peace",
+   "Name": "Muhammad Yunus",
+   "Description": "2006 - Peace (Bangladesh)",
    "Category": "Nobel Prize Winners (Year)",
    "action": "edit",
    "original": {
@@ -22101,7 +22101,7 @@
     "Description": "2002",
     "Category": "Nobel Prize Winners (Year)"
    },
-   "note": "field added"
+   "note": "field added; US president swapped for Muslim laureate"
   },
   {
    "id": "game15-1701",
@@ -23083,13 +23083,13 @@
    "Name": "Big Mac",
    "Description": "1967 - McDonald's (nationwide 1968)",
    "Category": "Fast Food Specialties (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Big Mac",
     "Description": "1967",
     "Category": "Fast Food Specialties (Intro Year)"
    },
-   "note": "detail added"
+   "note": "US fast-food brands; replaced by Pakistani Food Brands"
   },
   {
    "id": "game15-1777",
@@ -23109,65 +23109,65 @@
    "Name": "Chicken McNuggets",
    "Description": "1983 - McDonald's nationwide",
    "Category": "Fast Food Specialties (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "McNuggets",
     "Description": "1983",
     "Category": "Fast Food Specialties (Intro Year)"
    },
-   "note": "full name; detail"
+   "note": "US fast-food brands; replaced by Pakistani Food Brands"
   },
   {
    "id": "game15-1779",
    "Name": "Stuffed Crust Pizza",
    "Description": "1995 - Pizza Hut",
    "Category": "Fast Food Specialties (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Stuffed Crust Pizza",
     "Description": "1995",
     "Category": "Fast Food Specialties (Intro Year)"
    },
-   "note": "detail added"
+   "note": "US fast-food brands; replaced by Pakistani Food Brands"
   },
   {
    "id": "game15-1780",
    "Name": "Pumpkin Spice Latte",
    "Description": "2003 - Starbucks",
    "Category": "Fast Food Specialties (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Pumpkin Spice Latte",
     "Description": "2003",
     "Category": "Fast Food Specialties (Intro Year)"
    },
-   "note": "detail added"
+   "note": "US fast-food brands; replaced by Pakistani Food Brands"
   },
   {
    "id": "game15-1781",
    "Name": "Doritos Locos Tacos",
    "Description": "2012 - Taco Bell",
    "Category": "Fast Food Specialties (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Doritos Locos Tacos",
     "Description": "2012",
     "Category": "Fast Food Specialties (Intro Year)"
    },
-   "note": "detail added"
+   "note": "US fast-food brands; replaced by Pakistani Food Brands"
   },
   {
    "id": "game15-1782",
    "Name": "Impossible Burger",
    "Description": "2016 - Impossible Foods (plant-based)",
    "Category": "Fast Food Specialties (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Impossible Burger",
     "Description": "2016",
     "Category": "Fast Food Specialties (Intro Year)"
    },
-   "note": "detail added"
+   "note": "US fast-food brands; replaced by Pakistani Food Brands"
   },
   {
    "id": "game15-1783",
@@ -23548,16 +23548,16 @@
   },
   {
    "id": "game15-1812",
-   "Name": "Calvin Klein",
-   "Description": "1968",
+   "Name": "Gul Ahmed",
+   "Description": "1953",
    "Category": "Fashion Brands (Founding Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Calvin Klein",
     "Description": "1968",
     "Category": "Fashion Brands (Founding Year)"
    },
-   "note": ""
+   "note": "US brand swapped for Pakistani brand"
   },
   {
    "id": "game15-1813",
@@ -23574,16 +23574,16 @@
   },
   {
    "id": "game15-1814",
-   "Name": "Supreme",
-   "Description": "1994",
+   "Name": "Khaadi",
+   "Description": "1998",
    "Category": "Fashion Brands (Founding Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Supreme",
     "Description": "1994",
     "Category": "Fashion Brands (Founding Year)"
    },
-   "note": ""
+   "note": "US brand swapped for Pakistani brand"
   },
   {
    "id": "game15-1815",
@@ -23678,16 +23678,16 @@
   },
   {
    "id": "game15-1822",
-   "Name": "Potty training",
-   "Description": "24-36 months",
+   "Name": "Two-word sentences",
+   "Description": "About 24 months",
    "Category": "Childhood Milestones (Average Age)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Potty training",
     "Description": "24-36 months",
     "Category": "Childhood Milestones (Average Age)"
    },
-   "note": ""
+   "note": "toilet item swapped"
   },
   {
    "id": "game15-1823",
@@ -24094,16 +24094,16 @@
   },
   {
    "id": "game15-1854",
-   "Name": "Ranch Dressing",
-   "Description": "1949",
+   "Name": "Maggi Seasoning",
+   "Description": "1886",
    "Category": "Sauces By Invention Date",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Ranch Dressing",
     "Description": "1949",
     "Category": "Sauces By Invention Date"
    },
-   "note": ""
+   "note": "US-only sauce swapped"
   },
   {
    "id": "game15-1855",
@@ -24289,16 +24289,16 @@
   },
   {
    "id": "game15-1869",
-   "Name": "Dr Pepper",
-   "Description": "1885",
+   "Name": "Rooh Afza",
+   "Description": "1906 (Hamdard, Delhi)",
    "Category": "Soft Drinks (Introduction Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Dr Pepper",
     "Description": "1885",
     "Category": "Soft Drinks (Introduction Year)"
    },
-   "note": ""
+   "note": "US-only drink swapped for local drink"
   },
   {
    "id": "game15-1870",
@@ -25878,104 +25878,104 @@
    "Name": "Hershey's Milk Chocolate Bar",
    "Description": "1900",
    "Category": "Candy Bars (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Hershey’s Bar",
     "Description": "1900",
     "Category": "Candy Bars (Intro Year)"
    },
-   "note": "Clearer name"
+   "note": "US candy brands; replaced by Chocolate Bars (Launch Year)"
   },
   {
    "id": "game15-1992",
    "Name": "Butterfinger",
    "Description": "1923",
    "Category": "Candy Bars (Intro Year)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Butterfinger",
     "Description": "1923",
     "Category": "Candy Bars (Intro Year)"
    },
-   "note": ""
+   "note": "US candy brands; replaced by Chocolate Bars (Launch Year)"
   },
   {
    "id": "game15-1993",
    "Name": "Snickers",
    "Description": "1930",
    "Category": "Candy Bars (Intro Year)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Snickers",
     "Description": "1930",
     "Category": "Candy Bars (Intro Year)"
    },
-   "note": ""
+   "note": "US candy brands; replaced by Chocolate Bars (Launch Year)"
   },
   {
    "id": "game15-1994",
    "Name": "Almond Joy",
    "Description": "1946",
    "Category": "Candy Bars (Intro Year)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Almond Joy",
     "Description": "1946",
     "Category": "Candy Bars (Intro Year)"
    },
-   "note": ""
+   "note": "US candy brands; replaced by Chocolate Bars (Launch Year)"
   },
   {
    "id": "game15-1995",
    "Name": "Kit Kat",
    "Description": "1935",
    "Category": "Candy Bars (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Kit Kat",
     "Description": "1969",
     "Category": "Candy Bars (Intro Year)"
    },
-   "note": "Launched 1935 in UK (1969/70 was US licence); true order is 3rd, after Butterfinger"
+   "note": "US candy brands; replaced by Chocolate Bars (Launch Year)"
   },
   {
    "id": "game15-1996",
    "Name": "Whatchamacallit",
    "Description": "1978",
    "Category": "Candy Bars (Intro Year)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Whatchamacallit",
     "Description": "1978",
     "Category": "Candy Bars (Intro Year)"
    },
-   "note": ""
+   "note": "US candy brands; replaced by Chocolate Bars (Launch Year)"
   },
   {
    "id": "game15-1997",
    "Name": "Cookies ‘n’ Creme",
    "Description": "1994",
    "Category": "Candy Bars (Intro Year)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Cookies ‘n’ Creme",
     "Description": "1994",
     "Category": "Candy Bars (Intro Year)"
    },
-   "note": ""
+   "note": "US candy brands; replaced by Chocolate Bars (Launch Year)"
   },
   {
    "id": "game15-1998",
    "Name": "Take 5",
    "Description": "2004",
    "Category": "Candy Bars (Intro Year)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Take5",
     "Description": "2005",
     "Category": "Candy Bars (Intro Year)"
    },
-   "note": "Spelling; launched 2004"
+   "note": "US candy brands; replaced by Chocolate Bars (Launch Year)"
   },
   {
    "id": "game15-1999",
@@ -26122,16 +26122,16 @@
   },
   {
    "id": "game15-2010",
-   "Name": "NYC Boroughs",
+   "Name": "Pillars of Islam",
    "Description": "5",
    "Category": "How Many? (Count)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NYC Boroughs",
     "Description": "5",
     "Category": "How Many? (Count)"
    },
-   "note": ""
+   "note": "US-centric swapped"
   },
   {
    "id": "game15-2011",
@@ -26252,16 +26252,16 @@
   },
   {
    "id": "game15-2020",
-   "Name": "U.S. Census",
-   "Description": "10 years",
+   "Name": "Sunspot Cycle",
+   "Description": "About 11 years",
    "Category": "How Frequent? (Time)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "U.S. Census",
     "Description": "10 years",
     "Category": "How Frequent? (Time)"
    },
-   "note": ""
+   "note": "US-centric swapped"
   },
   {
    "id": "game15-2021",
@@ -26359,13 +26359,13 @@
    "Name": "Harry Potter",
    "Description": "7",
    "Category": "Number of Books in a Series",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Harry Potter",
     "Description": "7",
     "Category": "Number of Books in a Series"
    },
-   "note": ""
+   "note": "magic (wizards)"
   },
   {
    "id": "game15-2029",
@@ -26499,16 +26499,16 @@
   },
   {
    "id": "game15-2039",
-   "Name": "American Football",
+   "Name": "Cricket (Fielding Side)",
    "Description": "11",
    "Category": "Most Players on the Field (Per Team)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "American Football",
     "Description": "11",
     "Category": "Most Players on the Field (Per Team)"
    },
-   "note": ""
+   "note": "US sport swapped for cricket"
   },
   {
    "id": "game15-2040",
@@ -27308,117 +27308,117 @@
    "Name": "Muggsy Bogues",
    "Description": "5'3\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Muggsy Bogues",
     "Description": "5'3\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2102",
    "Name": "Spud Webb",
    "Description": "5'6\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Spud Webb",
     "Description": "5'6\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2103",
    "Name": "Chris Paul",
    "Description": "6'0\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Chris Paul",
     "Description": "6'0\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2104",
    "Name": "Stephen Curry",
    "Description": "6'2\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Stephen Curry",
     "Description": "6'2\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2105",
    "Name": "Michael Jordan",
    "Description": "6'6\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Michael Jordan",
     "Description": "6'6\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2106",
    "Name": "Larry Bird",
    "Description": "6'9\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Larry Bird",
     "Description": "6'9\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2107",
    "Name": "Giannis Antetokounmpo",
    "Description": "6'11\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Giannis Antetokounmpo",
     "Description": "6'11\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2108",
    "Name": "Dirk Nowitzki",
    "Description": "7'0\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Dirk Nowitzki",
     "Description": "7'0\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2109",
    "Name": "Yao Ming",
    "Description": "7'6\"",
    "Category": "NBA Player Heights",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Yao Ming",
     "Description": "7'6\"",
     "Category": "NBA Player Heights"
    },
-   "note": ""
+   "note": "US-centric (NBA); replaced by Mountain Passes of Pakistan"
   },
   {
    "id": "game15-2110",
@@ -27542,104 +27542,104 @@
    "Name": "Las Vegas",
    "Description": "28%",
    "Category": "Most Humid U.S. Cities (%)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Las Vegas",
     "Description": "28%",
     "Category": "Most Humid U.S. Cities (%)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani cities by population and altitude"
   },
   {
    "id": "game15-2120",
    "Name": "Phoenix",
    "Description": "34.5%",
    "Category": "Most Humid U.S. Cities (%)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Phoenix",
     "Description": "34.5%",
     "Category": "Most Humid U.S. Cities (%)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani cities by population and altitude"
   },
   {
    "id": "game15-2121",
    "Name": "Boston",
    "Description": "64.5%",
    "Category": "Most Humid U.S. Cities (%)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Boston",
     "Description": "64.5%",
     "Category": "Most Humid U.S. Cities (%)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani cities by population and altitude"
   },
   {
    "id": "game15-2122",
    "Name": "Chicago",
    "Description": "70%",
    "Category": "Most Humid U.S. Cities (%)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Chicago",
     "Description": "70%",
     "Category": "Most Humid U.S. Cities (%)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani cities by population and altitude"
   },
   {
    "id": "game15-2123",
    "Name": "Seattle",
    "Description": "73%",
    "Category": "Most Humid U.S. Cities (%)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Seattle",
     "Description": "73%",
     "Category": "Most Humid U.S. Cities (%)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani cities by population and altitude"
   },
   {
    "id": "game15-2124",
    "Name": "New Orleans",
    "Description": "74.5%",
    "Category": "Most Humid U.S. Cities (%)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "New Orleans",
     "Description": "74.5%",
     "Category": "Most Humid U.S. Cities (%)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani cities by population and altitude"
   },
   {
    "id": "game15-2125",
    "Name": "San Francisco",
    "Description": "78%",
    "Category": "Most Humid U.S. Cities (%)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "San Francisco",
     "Description": "78%",
     "Category": "Most Humid U.S. Cities (%)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani cities by population and altitude"
   },
   {
    "id": "game15-2126",
    "Name": "Juneau",
    "Description": "79.5%",
    "Category": "Most Humid U.S. Cities (%)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Juneau",
     "Description": "79.5%",
     "Category": "Most Humid U.S. Cities (%)"
    },
-   "note": ""
+   "note": "US-centric; replaced by Pakistani cities by population and altitude"
   },
   {
    "id": "game15-2127",
@@ -27913,6 +27913,518 @@
     "Category": "Most Popular Plushies"
    },
    "note": "time-sensitive, unverifiable popularity percentages"
+  },
+  {
+   "id": null,
+   "Name": "10 Paisa",
+   "Description": "Rs 0.10 (old coin, no longer used)",
+   "Category": "Pakistani Coins (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "25 Paisa",
+   "Description": "Rs 0.25 (old coin, no longer used)",
+   "Category": "Pakistani Coins (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "50 Paisa",
+   "Description": "Rs 0.50 (old coin, no longer used)",
+   "Category": "Pakistani Coins (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "1 Rupee Coin",
+   "Description": "Re 1",
+   "Category": "Pakistani Coins (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "2 Rupee Coin",
+   "Description": "Rs 2",
+   "Category": "Pakistani Coins (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "5 Rupee Coin",
+   "Description": "Rs 5",
+   "Category": "Pakistani Coins (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "10 Rupee Coin",
+   "Description": "Rs 10",
+   "Category": "Pakistani Coins (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "1 Riyal",
+   "Description": "SAR 1",
+   "Category": "Saudi Riyal Notes (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "5 Riyal",
+   "Description": "SAR 5",
+   "Category": "Saudi Riyal Notes (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "10 Riyal",
+   "Description": "SAR 10",
+   "Category": "Saudi Riyal Notes (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "50 Riyal",
+   "Description": "SAR 50",
+   "Category": "Saudi Riyal Notes (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "100 Riyal",
+   "Description": "SAR 100",
+   "Category": "Saudi Riyal Notes (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "500 Riyal",
+   "Description": "SAR 500",
+   "Category": "Saudi Riyal Notes (Value)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Battle of Yarmouk",
+   "Description": "636 CE - Byzantines defeated in Syria",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Conquest of Sindh",
+   "Description": "712 CE - Muhammad bin Qasim",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Battle of Talas",
+   "Description": "751 CE - Abbasids vs Tang China",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Battle of Manzikert",
+   "Description": "1071 CE - Seljuqs defeat Byzantines",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Battle of Hattin",
+   "Description": "1187 CE - Salahuddin Ayyubi",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Battle of Ain Jalut",
+   "Description": "1260 CE - Mamluks stop the Mongols",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Conquest of Constantinople",
+   "Description": "1453 CE - Sultan Mehmed II",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "First Battle of Panipat",
+   "Description": "1526 CE - Babur founds Mughal rule",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Avocado",
+   "Description": "About 0.7 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Strawberry",
+   "Description": "About 4.9 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Watermelon",
+   "Description": "About 6.2 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Apple",
+   "Description": "About 10.4 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Banana",
+   "Description": "About 12.2 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Mango",
+   "Description": "About 13.7 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Grapes",
+   "Description": "About 15.5 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Dates (Medjool)",
+   "Description": "About 66 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Mitchell's",
+   "Description": "1933 - Renala Khurd",
+   "Category": "Pakistani Food Brands (Founding Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tapal Tea",
+   "Description": "1947 - Karachi",
+   "Category": "Pakistani Food Brands (Founding Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Shezan",
+   "Description": "1964 - Lahore",
+   "Category": "Pakistani Food Brands (Founding Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "National Foods",
+   "Description": "1970 - Karachi",
+   "Category": "Pakistani Food Brands (Founding Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Shan Foods",
+   "Description": "1981 - Karachi",
+   "Category": "Pakistani Food Brands (Founding Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Cadbury Dairy Milk",
+   "Description": "1905",
+   "Category": "Chocolate Bars (Launch Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Toblerone",
+   "Description": "1908",
+   "Category": "Chocolate Bars (Launch Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Snickers",
+   "Description": "1930",
+   "Category": "Chocolate Bars (Launch Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Mars Bar",
+   "Description": "1932",
+   "Category": "Chocolate Bars (Launch Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kit Kat",
+   "Description": "1935 (as Chocolate Crisp)",
+   "Category": "Chocolate Bars (Launch Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Galaxy",
+   "Description": "1960",
+   "Category": "Chocolate Bars (Launch Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kinder Bueno",
+   "Description": "1990",
+   "Category": "Chocolate Bars (Launch Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Kinder Joy",
+   "Description": "2001",
+   "Category": "Chocolate Bars (Launch Year)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Khyber Pass",
+   "Description": "About 1,070 m",
+   "Category": "Mountain Passes of Pakistan (Altitude - Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Bolan Pass",
+   "Description": "About 1,790 m (highest point)",
+   "Category": "Mountain Passes of Pakistan (Altitude - Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Lowari Pass",
+   "Description": "About 3,118 m",
+   "Category": "Mountain Passes of Pakistan (Altitude - Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Shandur Pass",
+   "Description": "About 3,738 m",
+   "Category": "Mountain Passes of Pakistan (Altitude - Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Babusar Pass",
+   "Description": "About 4,173 m",
+   "Category": "Mountain Passes of Pakistan (Altitude - Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Khunjerab Pass",
+   "Description": "About 4,693 m (border with China)",
+   "Category": "Mountain Passes of Pakistan (Altitude - Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Karachi",
+   "Description": "~18.9 million",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Lahore",
+   "Description": "~13.0 million",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Faisalabad",
+   "Description": "~3.7 million",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Rawalpindi",
+   "Description": "~3.4 million",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Gujranwala",
+   "Description": "~2.4 million",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Multan",
+   "Description": "~2.2 million",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Quetta",
+   "Description": "~1.6 million",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Islamabad",
+   "Description": "~1.1 million (city)",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Karachi",
+   "Description": "About 8 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Lahore",
+   "Description": "About 217 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Peshawar",
+   "Description": "About 331 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Islamabad",
+   "Description": "About 540 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Gilgit",
+   "Description": "About 1,500 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Quetta",
+   "Description": "About 1,680 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Skardu",
+   "Description": "About 2,228 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Murree",
+   "Description": "About 2,291 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }
