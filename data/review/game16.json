@@ -148,14 +148,14 @@
   },
   {
    "id": "game16-14",
-   "Name": "Was there any kind of candy or sweet that you didn't like to get as a kid?",
+   "Name": "Which toffee or sweet did you hate getting as a kid?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Was there any kind of candy or sweet that you didn't like to get as a kid?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Tighter wording with the local word 'toffee'"
   },
   {
    "id": "game16-15",
@@ -238,12 +238,12 @@
    "id": "game16-22",
    "Name": "What was your favorite game to play when you were growing up?",
    "Category": "Ice Breakers & Fun General",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What was your favorite TV show when you were growing up?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "TV/pop culture reworded"
+   "note": "Debate: Same question as the live Desi card 'What is your favorite childhood game (e.g., Oonch Neech, Kho Kho)?', which is the better version"
   },
   {
    "id": "game16-23",
@@ -271,12 +271,12 @@
    "id": "game16-25",
    "Name": "Name your favorite children's story.",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Name your favorite children's story.",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'What was your favorite book as a child?'"
   },
   {
    "id": "game16-26",
@@ -348,12 +348,12 @@
    "id": "game16-32",
    "Name": "Who do you admire the most?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who do you admire the most?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of idx 53 'Who has been the biggest inspiration in your life? Why?'"
   },
   {
    "id": "game16-33",
@@ -425,12 +425,12 @@
    "id": "game16-39",
    "Name": "What's your favorite sport?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What's your favorite sport?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Already covered by the sports-to-play and sports-to-watch cards"
   },
   {
    "id": "game16-40",
@@ -621,14 +621,14 @@
   },
   {
    "id": "game16-57",
-   "Name": "What is something you have lost that you have never found, or were tremendously relieved when you did find it?",
+   "Name": "What is something you lost and never found, or were hugely relieved to finally find?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is something you have lost that you have never found, or were tremendously relieved when you did find it?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Shorter, clearer wording"
   },
   {
    "id": "game16-58",
@@ -720,25 +720,25 @@
   },
   {
    "id": "game16-66",
-   "Name": "What kind of toothpaste do you use?",
+   "Name": "Do you squeeze the toothpaste from the middle or the end? Defend yourself.",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What kind of toothpaste do you use?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Turns a dead-end brand question into a debate"
   },
   {
    "id": "game16-67",
-   "Name": "If you could drive/ride/or fly anything to school/work, what would it be? Why?",
+   "Name": "If you could drive, ride or fly anything to school or work, what would it be? Why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you could drive/ride/or fly anything to school/work, what would it be? Why?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Fixes broken slash punctuation"
   },
   {
    "id": "game16-68",
@@ -755,12 +755,12 @@
    "id": "game16-69",
    "Name": "What scares you the most?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What scares you the most?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'What is your biggest fear?'"
   },
   {
    "id": "game16-70",
@@ -865,23 +865,23 @@
    "id": "game16-79",
    "Name": "What is your favorite time of day?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is your favorite time of day?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of idx 61 'What is your very favorite part of your day?'"
   },
   {
    "id": "game16-80",
    "Name": "What is your favorite winter activity?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is your favorite winter activity?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Covered by the summer/winter activities and winter food/drink cards"
   },
   {
    "id": "game16-81",
@@ -953,12 +953,12 @@
    "id": "game16-87",
    "Name": "One day I wish had lasted forever is...",
    "Category": "Ice Breakers & Fun General",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "One particular day/night that I wanted to last forever was...",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "wording; QA fix"
+   "note": "Debate: Broken grammar; same meaning as 'You have to relive one day of your life forever. Which day do you choose?'"
   },
   {
    "id": "game16-88",
@@ -995,14 +995,14 @@
   },
   {
    "id": "game16-91",
-   "Name": "Tell about the last time you had to ask for help.",
+   "Name": "Tell us about the last time you had to ask for help.",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Tell about the last time you had to ask for help.",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Grammar fix"
   },
   {
    "id": "game16-92",
@@ -1050,14 +1050,14 @@
   },
   {
    "id": "game16-96",
-   "Name": "If you were to be a natural element, which would you rather be: earth, wind, fire, or water?",
+   "Name": "If you were a natural element, which would you be: earth, air, fire, or water? Why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you were to be a natural element, which would you rather be: earth, wind, fire, or water?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Fixes awkward grammar; standard four elements"
   },
   {
    "id": "game16-97",
@@ -1105,14 +1105,14 @@
   },
   {
    "id": "game16-101",
-   "Name": "What's your favorite tea or coffee spot?",
+   "Name": "What's your favorite chai dhaba or coffee spot?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What's your favorite tea or coffee spot?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Natural local frame"
   },
   {
    "id": "game16-102",
@@ -7379,6 +7379,41 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who taught you to read the Quran, and what do you remember about those lessons?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Respectful worship-related personal question (allowed); no such card in the deck"
+  },
+  {
+   "id": null,
+   "Name": "What's your best memory from a trip up north (Murree, Swat, Naran, Hunza)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Past-trip memory complementing the 'which northern area would you visit first' card; placed with the other Pakistan-specific cards"
+  },
+  {
+   "id": null,
+   "Name": "What's your best bargaining story from a bazaar?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A haggling story is distinct from the existing 'best bargain' card; very desi"
+  },
+  {
+   "id": null,
+   "Name": "What was your best hiding spot in chupan chupai (hide and seek)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Specific, fun childhood prompt; not a duplicate of the favorite-childhood-game card"
+  },
+  {
+   "id": null,
+   "Name": "Chaunsa, Sindhri or Anwar Ratol: which mango is the best? Defend your pick.",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Real Pakistani mango varieties; friendly debate distinct from the 'name a new mango' card"
   }
  ]
 }

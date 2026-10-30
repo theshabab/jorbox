@@ -644,12 +644,12 @@
   },
   {
    "id": "game10-72",
-   "Name": "Snakes and Ladders: Snake bites you or you miss a ladder?",
+   "Name": "Snakes and Ladders: Which is worse, a snake bite or missing a ladder?",
    "action": "edit",
    "original": {
     "Name": "Ludo: Snake bites you OR You miss a ladder?"
    },
-   "note": "Ludo has no snakes or ladders"
+   "note": "Ludo has no snakes or ladders; Debate: Makes clear the card asks which outcome is worse; 'worse' fits both options better than 'hurts more' (challenger's amendment)."
   },
   {
    "id": "game10-73",
@@ -5438,6 +5438,48 @@
    "Name": "Name an animal with stripes or spots.",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a dish made from Bakra Eid meat.",
+   "action": "add",
+   "note": "New card (debate): Local Eid prompt with strong common answers (kaleji, karahi, BBQ, nihari, paye); no existing card asks this."
+  },
+  {
+   "id": null,
+   "Name": "Lays or Kurkure?",
+   "action": "add",
+   "note": "New card (debate): Familiar local snack choice in the deck's either/or style; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name a sound you hear on a Pakistani street.",
+   "action": "add",
+   "note": "New card (debate): Clear common answers (horns, azaan, hawkers, rickshaw engines); distinct from the relaxing-sound and animal-sound cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a dish that is always cooked at a dawat.",
+   "action": "add",
+   "note": "New card (debate): Strong overlapping answers (biryani, qorma, kheer); the wedding either/or card and the guest-snacks card are not duplicates."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do while stuck in traffic.",
+   "action": "add",
+   "note": "New card (debate): Relatable prompt with clustered answers (use the phone, honk, get angry); no similar card."
+  },
+  {
+   "id": null,
+   "Name": "Name something people bring when visiting a sick relative.",
+   "action": "add",
+   "note": "New card (debate): Real desi custom with tight answers (fruit, juice, biscuits); distinct from the 'best thing to eat when sick' card."
+  },
+  {
+   "id": null,
+   "Name": "Name something every Pakistani home keeps in a drawer.",
+   "action": "add",
+   "note": "New card (debate): Funny, relatable prompt with converging answers (plastic shoppers, old chargers, Panadol); no duplicate."
   }
  ]
 }

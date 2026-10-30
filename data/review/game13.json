@@ -23,21 +23,21 @@
   },
   {
    "id": "game13-3",
-   "Description": "Get a well-known saying wrong and get another player to correct you.",
+   "Description": "Say a well-known muhavra (saying) wrong and get a player to correct you.",
    "action": "edit",
    "original": {
     "Description": "Get a movie quote wrong and get another player to correct you."
    },
-   "note": "movie quote (film/pop culture)"
+   "note": "movie quote (film/pop culture); Debate: Fixes the awkward grammar and gives the card a local frame. 'Saying' replaces 'proverb' because a muhavra is an idiom, not strictly a proverb."
   },
   {
    "id": "game13-4",
-   "Description": "Get a player to high-five you twice in one day.",
-   "action": "keep",
+   "Description": "Get a player to high-five you twice in one evening.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to high-five you twice in one day."
    },
-   "note": ""
+   "note": "Debate: The game runs over one evening."
   },
   {
    "id": "game13-5",
@@ -104,12 +104,12 @@
   },
   {
    "id": "game13-12",
-   "Description": "Make something and get a player to wear it.",
-   "action": "keep",
+   "Description": "Make a paper crown and get a player to wear it.",
+   "action": "edit",
    "original": {
     "Description": "Make something and get a player to wear it."
    },
-   "note": ""
+   "note": "Debate: 'Make something' is too vague. The challenger's version avoids overlapping the existing 'put on a hat' card."
   },
   {
    "id": "game13-13",
@@ -492,11 +492,11 @@
   {
    "id": "game13-55",
    "Description": "Get a player to correct your pronunciation of 'Keys'.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to correct your pronunciation of 'Keys'."
    },
-   "note": ""
+   "note": "Debate: 'Keys' cannot plausibly be mispronounced, and keys already appear in other cards."
   },
   {
    "id": "game13-56",
@@ -590,12 +590,12 @@
   },
   {
    "id": "game13-66",
-   "Description": "Get a player to repeat a famous advertising slogan.",
+   "Description": "Get a player to repeat a famous Pakistani TV advertisement slogan.",
    "action": "edit",
    "original": {
     "Description": "Get a player to recite a line from a commercial."
    },
-   "note": "clarity"
+   "note": "clarity; Debate: Local frame pointing players to familiar ads."
   },
   {
    "id": "game13-67",
@@ -744,11 +744,11 @@
   {
    "id": "game13-83",
    "Description": "Get a player to smell headphones.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to smell headphones."
    },
-   "note": ""
+   "note": "Debate: Unhygienic and off-putting filler among the many 'smell an object' cards."
   },
   {
    "id": "game13-84",
@@ -834,20 +834,20 @@
   {
    "id": "game13-93",
    "Description": "Get a player to touch your hair.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to touch your hair."
    },
-   "note": "Restored: touching allowed"
+   "note": "Debate: Near-duplicate of 'Get a player to straighten your hair'."
   },
   {
    "id": "game13-94",
    "Description": "Get a player to touch your back.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to touch your back."
    },
-   "note": "Restored: touching allowed"
+   "note": "Debate: Near-duplicate of 'Get a player to pat you on the back'."
   },
   {
    "id": "game13-95",
@@ -951,11 +951,11 @@
   {
    "id": "game13-106",
    "Description": "Get a player to touch your shoulder.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to touch your shoulder."
    },
-   "note": "Restored: touching allowed"
+   "note": "Debate: Near-duplicate of the existing 'Get a player to tap you on the shoulder' card. The proposed edit would have made an exact duplicate."
   },
   {
    "id": "game13-107",
@@ -4727,6 +4727,42 @@
    "Description": "Get a player to say the same word as you at the same moment.",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to rate your chai out of ten.",
+   "action": "add",
+   "note": "New card (debate): Distinct chai mission that fits a family gathering."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to do an impression of a cricket commentator.",
+   "action": "add",
+   "note": "New card (debate): Local, playable, and different from 'do an impression of you'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to dip a biscuit in their chai.",
+   "action": "add",
+   "note": "New card (debate): Familiar chai-time habit that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which dish their ammi makes best.",
+   "action": "add",
+   "note": "New card (debate): Warm family mission that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain the rules of Ludo to you.",
+   "action": "add",
+   "note": "New card (debate): Popular local board game that follows the cricket-rules pattern without duplicating it."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to offer you a lift home.",
+   "action": "add",
+   "note": "New card (debate): Clear, harmless end-of-evening gesture."
   }
  ]
 }
