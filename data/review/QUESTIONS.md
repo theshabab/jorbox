@@ -11,3 +11,8 @@ Answer any time; work continues meanwhile. Newest games at the bottom.
 ## Main: how is it played?
 
 Main has almost the same 742 words as Charades, each with a short generic hint ("A major city in Pakistan", "A racket sport"). What do players do with these cards? Until you answer, I'll only fix spelling, factual errors, duplicates and Western/secular cards there, not redesign the hints.
+
+## Trivia
+
+- About 40 of the first 100 cards are Greek/Norse mythology (gods, monsters). Keep them as general knowledge, trim them, or remove all mythology? Kept for now.
+- "O Canada" (a national anthem) was kept. National-anthem questions: OK, or count them as music?
