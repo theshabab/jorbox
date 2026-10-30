@@ -1397,7 +1397,7 @@
   {
    "id": "game2-108",
    "Name": "Radish",
-   "Description": "Mooli | White | Paratha | Gas | Root",
+   "Description": "Mooli | White | Paratha | Crunchy | Root",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1405,7 +1405,7 @@
     "Description": "vegetable | green | salad | cook",
     "Category": "Vegetables"
    },
-   "note": ""
+   "note": "Sweep: replaced US/film/myth/bathroom hint word"
   },
   {
    "id": "game2-109",
@@ -2918,7 +2918,7 @@
   {
    "id": "game2-225",
    "Name": "Sparrow",
-   "Description": "Chirya | Small | Brown | Chirp | Jack",
+   "Description": "Chirya | Small | Brown | Chirp | Nest",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2926,7 +2926,7 @@
     "Description": "bird | fly | feather | nest",
     "Category": "Birds"
    },
-   "note": ""
+   "note": "Sweep: replaced US/film/myth/bathroom hint word"
   },
   {
    "id": "game2-226",
@@ -3425,7 +3425,7 @@
   {
    "id": "game2-264",
    "Name": "Basketball",
-   "Description": "Hoop | NBA | Dribble | Slam Dunk | Basket",
+   "Description": "Hoop | Tall | Dribble | Slam Dunk | Basket",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3433,7 +3433,7 @@
     "Description": "sport | game | player | similar",
     "Category": "Sports"
    },
-   "note": "Replaced foreign athlete names"
+   "note": "Replaced foreign athlete names; Sweep: replaced US/film/myth/bathroom hint word"
   },
   {
    "id": "game2-265",
@@ -3685,7 +3685,7 @@
   {
    "id": "game2-284",
    "Name": "Katas Raj",
-   "Description": "Hindu | Temple | Chakwal | Pond | Shiva",
+   "Description": "Hindu | Temple | Chakwal | Pond | Salt Range",
    "Category": "Historical Places",
    "action": "edit",
    "original": {
@@ -3693,7 +3693,7 @@
     "Description": "Katas | historic | old | monument",
     "Category": "Historical Places"
    },
-   "note": ""
+   "note": "Sweep: replaced US/film/myth/bathroom hint word"
   },
   {
    "id": "game2-285",
@@ -4621,7 +4621,7 @@
   {
    "id": "game2-356",
    "Name": "Marker",
-   "Description": "Whiteboard | Permanent | Thick | Pen | Dollar",
+   "Description": "Whiteboard | Permanent | Thick | Pen | Ink",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4629,7 +4629,7 @@
     "Description": "paper | write | school | office",
     "Category": "Stationery"
    },
-   "note": ""
+   "note": "Sweep: replaced US/film/myth/bathroom hint word"
   },
   {
    "id": "game2-357",
