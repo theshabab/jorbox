@@ -320,13 +320,13 @@
    "Name": "Provinces and Divisions of Pakistan",
    "Description": "Punjab|Sindh|KPK|Balochistan|Gilgit Baltistan|AJK|Islamabad|Lahore Division|Karachi Division|Peshawar Division|Quetta Division|Multan Division|Rawalpindi Division|Faisalabad Division|Gujranwala Division|Bahawalpur Division|Sargodha Division|Sukkur Division|Hyderabad Division",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Pakistani Provinces",
     "Description": "Punjab|Sindh|KPK|Balochistan|Gilgit Baltistan|AJK|FATA|Islamabad|Lahore Division|Karachi Division|Peshawar Division|Quetta Division|Multan Division|Rawalpindi Division|Faisalabad Division|Gujranwala Division|Bahawalpur Division|Sargodha Division|Sukkur Division|Hyderabad Division",
     "Category": ""
    },
-   "note": "list is mostly divisions; renamed; FATA removed (merged into KPK 2018)"
+   "note": "Debate: The 'X Division' entries repeat city names and make poor secret words; only 7 provinces/territories would be left, below the 10-word minimum"
   },
   {
    "id": "game3-26",
@@ -645,13 +645,13 @@
    "Name": "Balochi Words",
    "Description": "Waja|Brat|Gohar|Mat|Pit|Bach|Jan|Log|Mulk|Koh|Darya|Zamin|Aap|Aas|Gwath|Hak|Insaaf|Mehr|Wafa|Zind",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Balochi Words",
     "Description": "Waja|Brat|Gohar|Mat|Pit|Bach|Jan|Log|Mulk|Koh|Darya|Zamin|Aap|Aas|Gwath|Hak|Insaaf|Mehr|Wafa|Zind",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Too obscure: most players cannot recognise or give clues for Gwath, Brat or Pit, and the rest are ordinary Urdu words"
   },
   {
    "id": "game3-51",

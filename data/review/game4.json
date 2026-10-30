@@ -1487,16 +1487,16 @@
   },
   {
    "id": "game4-115",
-   "Name": "A Horse",
-   "Description": "A German Pentathlon coach was thrown out of the 2021 Tokyo Olympics for allegedly punching ____.",
-   "Category": "The Olympics",
-   "action": "keep",
+   "Name": "a horse",
+   "Description": "German modern pentathlon coach Kim Raisner was thrown out of the 2021 Tokyo Olympics for allegedly punching ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "A Horse",
     "Description": "A German Pentathlon coach was thrown out of the 2021 Tokyo Olympics for allegedly punching ____.",
     "Category": "The Olympics"
    },
-   "note": ""
+   "note": "Debate: Accuracy (modern pentathlon), names the coach, and makes the Name lower case like the other cards."
   },
   {
    "id": "game4-116",
@@ -2307,15 +2307,15 @@
   {
    "id": "game4-178",
    "Name": "Botox",
-   "Description": "Saudi authorities disqualified nearly 40 camels from the 2021 King Abdulaziz Camel Festival when it was discovered some breeders had given their animals ____.",
-   "Category": "Hump Day",
-   "action": "keep",
+   "Description": "Saudi authorities disqualified more than 40 camels from the 2021 King Abdulaziz Camel Festival when it was discovered some breeders had given their animals ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Botox",
     "Description": "Saudi authorities disqualified nearly 40 camels from the 2021 King Abdulaziz Camel Festival when it was discovered some breeders had given their animals ____.",
     "Category": "Hump Day"
    },
-   "note": ""
+   "note": "Debate: Fact fix: 43 camels were disqualified in 2021."
   },
   {
    "id": "game4-179",
@@ -2334,14 +2334,14 @@
    "id": "game4-180",
    "Name": "grow a mustache",
    "Description": "When the rich and eccentric Henry Budd died in 1862, he left his vast fortune to his two sons, on one strange condition: They must never ____.",
-   "Category": "Will  Power",
-   "action": "keep",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "grow a mustache",
     "Description": "When the rich and eccentric Henry Budd died in 1862, he left his vast fortune to his two sons, on one strange condition: They must never ____.",
     "Category": "Will  Power"
    },
-   "note": ""
+   "note": "Debate: Removes the double space in the category."
   },
   {
    "id": "game4-181",
@@ -2464,14 +2464,14 @@
    "id": "game4-190",
    "Name": "a piece of a rocket",
    "Description": "In 1997, Lottie Williams of Tulsa, Oklahoma, was out for a walk when she was hit on the shoulder by ____ falling from space.",
-   "Category": "Stroll Suprises",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "NASA rocket debris",
     "Description": "In 1997, a woman in Tulsa, Oklahoma, was taking a stroll when she was suddenly struck by something remarkable. The culprit? She was hit by ____.",
     "Category": "Stroll Suprises"
    },
-   "note": "it was a US Air Force Delta II rocket, not NASA"
+   "note": "it was a US Air Force Delta II rocket, not NASA; Debate: Fixes the category spelling."
   },
   {
    "id": "game4-191",
@@ -2735,16 +2735,16 @@
   },
   {
    "id": "game4-211",
-   "Name": "Your Face",
-   "Description": "Introduced in 2017, The Tea Terrace in London features weird futuristic technology so that you can now drink ____.",
-   "Category": "Drink Tech",
-   "action": "keep",
+   "Name": "your own face",
+   "Description": "In 2017, The Tea Terrace in London began using futuristic printing technology so customers could drink a cappuccino topped with ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Your Face",
     "Description": "Introduced in 2017, The Tea Terrace in London features weird futuristic technology so that you can now drink ____.",
     "Category": "Drink Tech"
    },
-   "note": ""
+   "note": "Debate: Clearer wording, in the past tense because the café has closed (challenger's amendment)."
   },
   {
    "id": "game4-212",
@@ -2893,14 +2893,14 @@
    "id": "game4-223",
    "Name": "squirrels",
    "Description": "According to the American Public Power Association, one of the most common causes of power outages in the US is ____.",
-   "Category": "Power Rangers",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "squirrels",
     "Description": "According to the American Public Power Association, most power outages in the Chicago area are caused by ____.",
     "Category": "Power Rangers"
    },
-   "note": "overstated claim softened"
+   "note": "overstated claim softened; Debate: 'Power Rangers' is a TV pun. 'Power Cuts' is neutral and familiar to Pakistani players."
   },
   {
    "id": "game4-224",
@@ -2971,14 +2971,14 @@
    "id": "game4-229",
    "Name": "Edible Book",
    "Description": "Every April 1, people around the world bake and craft works of art shaped like books for International ____ Day.",
-   "Category": "French Arts",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "edible book",
     "Description": "April 1 isn’t just for April Fool’s Day! It’s also a whimsical holiday, started by a French artist, called ____ Day.",
     "Category": "French Arts"
    },
-   "note": "removed April Fool's reference; attribution simplified"
+   "note": "removed April Fool's reference; attribution simplified; Debate: 'French Arts' did not fit the card."
   },
   {
    "id": "game4-230",
@@ -11120,6 +11120,78 @@
    "Category": "Enough About You",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "robots",
+   "Description": "Since the mid-2000s, camel races in Qatar and the UAE have used remote-controlled ____ as jockeys instead of children.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true Gulf fact that is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "passports",
+   "Description": "In the UAE, falcons can be issued their very own ____ so they can travel abroad with their owners.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true fact about falcon passports, separate from the falcon hospital card."
+  },
+  {
+   "id": null,
+   "Name": "underwater",
+   "Description": "In 2009, President Mohamed Nasheed of the Maldives held a cabinet meeting ____ to warn the world about rising sea levels.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true political stunt that is not the same fact as the Maldives elevation card."
+  },
+  {
+   "id": null,
+   "Name": "argan trees",
+   "Description": "In Morocco, goats are famous for climbing all the way up ____ to munch on the fruit.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true and surprising animal fact."
+  },
+  {
+   "id": null,
+   "Name": "schoolgirl",
+   "Description": "Japan's remote Kami-Shirataki train station stayed open until 2016 for just one regular passenger: a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true, touching and family-friendly fact."
+  },
+  {
+   "id": null,
+   "Name": "plastic bottles",
+   "Description": "In 2014, special street machines appeared in Istanbul that released food for stray dogs and cats whenever people recycled ____ in them.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true Turkish invention, in past tense and food-focused (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "date palm",
+   "Description": "Saudi Arabia's Al-Ahsa Oasis holds a Guinness World Record as the largest self-contained oasis on Earth, with more than 2.5 million ____ trees.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card from the Muslim world. Judge's wording: Guinness records it as the largest 'self-contained' oasis."
+  },
+  {
+   "id": null,
+   "Name": "ATM",
+   "Description": "At the Khunjerab Pass on the Pakistan-China border, the National Bank of Pakistan runs the world's highest ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Pakistani record that is not a duplicate of the Khunjerab Pass card."
+  },
+  {
+   "id": null,
+   "Name": "desert",
+   "Description": "The Uzbek town of Moynaq was once a busy fishing port on the Aral Sea; today its old fishing boats sit rusting in the middle of a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a striking, true fact from Central Asia."
   }
  ]
 }

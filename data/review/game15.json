@@ -19,7 +19,7 @@
   {
    "id": "game15-2",
    "Name": "Ali ibn Abi Talib",
-   "Description": "First child to accept Islam (aged about 10)",
+   "Description": "2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10",
    "Category": "Sahabas - Order of Accepting Islam",
    "action": "edit",
    "original": {
@@ -27,25 +27,25 @@
     "Description": "First youth/child",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": "clearer"
+   "note": "clearer; Debate: Adds a sortable position that matches Ibn Ishaq's order: Khadijah, Ali, Zayd, Abu Bakr."
   },
   {
    "id": "game15-3",
    "Name": "Zayd ibn Harithah",
-   "Description": "First freed slave",
+   "Description": "3rd (per Ibn Ishaq) - first freed slave to accept Islam",
    "Category": "Sahabas - Order of Accepting Islam",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Zayd ibn Harithah",
     "Description": "First freed slave",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": ""
+   "note": "Debate: Adds a sortable position and clearer wording."
   },
   {
    "id": "game15-4",
    "Name": "Abu Bakr as-Siddiq",
-   "Description": "First free adult man to accept Islam",
+   "Description": "4th (per Ibn Ishaq) - first free adult man to accept Islam",
    "Category": "Sahabas - Order of Accepting Islam",
    "action": "edit",
    "original": {
@@ -53,12 +53,12 @@
     "Description": "First free man",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": "clearer"
+   "note": "clearer; Debate: Adds a sortable position."
   },
   {
    "id": "game15-5",
    "Name": "Uthman ibn Affan",
-   "Description": "Early convert, brought to Islam by Abu Bakr",
+   "Description": "5th (per Ibn Ishaq) - brought to Islam by Abu Bakr",
    "Category": "Sahabas - Order of Accepting Islam",
    "action": "edit",
    "original": {
@@ -66,64 +66,64 @@
     "Description": "accepted early",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": "informative description"
+   "note": "informative description; Debate: Ibn Ishaq lists Uthman first among Abu Bakr's converts. Matches the positional style and orders him after Abu Bakr."
   },
   {
    "id": "game15-6",
    "Name": "Zubayr ibn al-Awwam",
    "Description": "Early convert, brought to Islam by Abu Bakr",
    "Category": "Sahabas - Order of Accepting Islam",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Zubayr ibn al-Awwam",
     "Description": "accepted early",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": "informative description"
+   "note": "Debate: Identical description to other Abu Bakr converts, so no order can be given."
   },
   {
    "id": "game15-7",
    "Name": "Abdur-Rahman ibn Awf",
    "Description": "Early convert, brought to Islam by Abu Bakr",
    "Category": "Sahabas - Order of Accepting Islam",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "AbdurRahman ibn Awf",
     "Description": "accepted early",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": "spelling; informative description"
+   "note": "Debate: Unsortable tie."
   },
   {
    "id": "game15-8",
    "Name": "Sa'd ibn Abi Waqqas",
    "Description": "Early convert, brought to Islam by Abu Bakr",
    "Category": "Sahabas - Order of Accepting Islam",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Sa'd ibn Abi Waqqas",
     "Description": "accepted early",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": "informative description"
+   "note": "Debate: Unsortable tie."
   },
   {
    "id": "game15-9",
    "Name": "Talha ibn Ubaydillah",
    "Description": "Early convert, brought to Islam by Abu Bakr",
    "Category": "Sahabas - Order of Accepting Islam",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Talha ibn Ubaydillah",
     "Description": "accepted early",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": "informative description"
+   "note": "Debate: Unsortable tie."
   },
   {
    "id": "game15-10",
    "Name": "Umar ibn al-Khattab",
-   "Description": "Accepted later, ~6th year of Prophethood",
+   "Description": "6th year of Prophethood - just days after Hamza",
    "Category": "Sahabas - Order of Accepting Islam",
    "action": "edit",
    "original": {
@@ -131,7 +131,7 @@
     "Description": "accepted later, ~6th year of Prophethood",
     "Category": "Sahabas - Order of Accepting Islam"
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: Orders Umar against the new Hamza card (widely reported as about three days after Hamza)."
   },
   {
    "id": "game15-11",
@@ -279,7 +279,7 @@
   {
    "id": "game15-22",
    "Name": "Windmill",
-   "Description": "9th Century - Sistan, Persia",
+   "Description": "c. 950 CE - Sistan, described by al-Istakhri",
    "Category": "Muslim Inventions & Contributions - Chronological",
    "action": "edit",
    "original": {
@@ -287,12 +287,12 @@
     "Description": "7th-9th Century",
     "Category": "Muslim Inventions - Chronological"
    },
-   "note": "category renamed; specific value (true order: after astrolabe)"
+   "note": "category renamed; specific value (true order: after astrolabe); Debate: Challenger amendment: give the famous card an orderable date instead of removing it. It sorts between Kerosene c. 900 and Surgical Instruments c. 1000."
   },
   {
    "id": "game15-23",
    "Name": "Astrolabe",
-   "Description": "8th Century - Al-Fazari, first Muslim astrolabe",
+   "Description": "c. 770 CE - Al-Fazari, first Muslim astrolabe",
    "Category": "Muslim Inventions & Contributions - Chronological",
    "action": "edit",
    "original": {
@@ -300,12 +300,12 @@
     "Description": "777 CE - Al-Fazari",
     "Category": "Muslim Inventions - Chronological"
    },
-   "note": "astrolabe is Greek in origin; '777 CE' unverifiable"
+   "note": "astrolabe is Greek in origin; '777 CE' unverifiable; Debate: '8th Century' is ambiguous next to House of Wisdom c. 800. Al-Fazari died c. 777."
   },
   {
    "id": "game15-24",
    "Name": "House of Wisdom",
-   "Description": "Early 9th Century - Baghdad, under al-Ma'mun",
+   "Description": "c. 800 CE - Baghdad, founded under Harun al-Rashid",
    "Category": "Muslim Inventions & Contributions - Chronological",
    "action": "edit",
    "original": {
@@ -313,7 +313,7 @@
     "Description": "c. 810 CE",
     "Category": "Muslim Inventions - Chronological"
    },
-   "note": "category renamed; clearer value"
+   "note": "category renamed; clearer value; Debate: Challenger amendment: al-Khwarizmi wrote Algebra (c. 820) at the House of Wisdom, so dating the House c. 830 would mislead players."
   },
   {
    "id": "game15-25",
@@ -434,16 +434,16 @@
   },
   {
    "id": "game15-34",
-   "Name": "Idrisid Dynasty",
-   "Description": "788 CE",
+   "Name": "Delhi Sultanate",
+   "Description": "1206 CE",
    "Category": "Muslim Empires - Chronological Start",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Idrisid Dynasty",
     "Description": "788 CE",
     "Category": "Muslim Empires - Chronological Start"
    },
-   "note": ""
+   "note": "Debate: Replaces the obscure Idrisid dynasty with a South Asian empire players know. It sorts uniquely between Ayyubid (1171) and Mamluk (1250)."
   },
   {
    "id": "game15-35",
@@ -28425,6 +28425,62 @@
    "Category": "Pakistani Cities by Altitude (Low to High)",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Hamza ibn Abd al-Muttalib",
+   "Description": "6th year of Prophethood - just days before Umar",
+   "Category": "Sahabas - Order of Accepting Islam",
+   "action": "add",
+   "note": "New card (debate): Famous, clearly dated convert."
+  },
+  {
+   "id": null,
+   "Name": "Khalid ibn al-Walid",
+   "Description": "8 AH (Safar) - before the Conquest of Makkah",
+   "Category": "Sahabas - Order of Accepting Islam",
+   "action": "add",
+   "note": "New card (debate): Famous late convert with a clear date."
+  },
+  {
+   "id": null,
+   "Name": "Abu Sufyan ibn Harb",
+   "Description": "8 AH (Ramadan) - at the Conquest of Makkah",
+   "Category": "Sahabas - Order of Accepting Islam",
+   "action": "add",
+   "note": "New card (debate): Clearly dated last item, after Khalid."
+  },
+  {
+   "id": null,
+   "Name": "Ghazwa of Hunayn",
+   "Description": "8 AH (Shawwal) - right after the Conquest of Makkah",
+   "Category": "Ghazwas - Chronological Order",
+   "action": "add",
+   "note": "New card (debate): A major ghazwa that was missing; it sorts between Makkah and Tabuk."
+  },
+  {
+   "id": null,
+   "Name": "Coffee as a Drink",
+   "Description": "15th Century - Sufis of Yemen",
+   "Category": "Muslim Inventions & Contributions - Chronological",
+   "action": "add",
+   "note": "New card (debate): Well-documented contribution and clearly the latest item."
+  },
+  {
+   "id": null,
+   "Name": "Ghaznavid Empire",
+   "Description": "977 CE",
+   "Category": "Muslim Empires - Chronological Start",
+   "action": "add",
+   "note": "New card (debate): Locally relevant empire founded under Sabuktigin. It sorts between Fatimid (909) and Seljuq (1037)."
+  },
+  {
+   "id": null,
+   "Name": "Field Marshal",
+   "Description": "11th - 5-star rank (Ayub Khan, Asim Munir)",
+   "Category": "Army Ranks (Pakistan) - Ascending Order",
+   "action": "add",
+   "note": "New card (debate): Real Pakistani 5-star rank (Ayub Khan from 1959, Asim Munir from May 2025). It is an army in-joke the owner allows."
   }
  ]
 }
