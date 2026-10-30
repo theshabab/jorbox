@@ -1,0 +1,36 @@
+name: Retire the GitHub Pages copy
+
+# The app moved to Cloudflare and needs its backend, which GitHub Pages cannot
+# run. This replaces the old static copy at theshabab.github.io/jorbox with a
+# page that sends visitors to the real site and asks search engines not to
+# index it. Run it manually; nothing else publishes to GitHub Pages any more.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  retire:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - name: Build the redirect page
+        run: |
+          mkdir -p retired
+          cp pages-redirect/index.html retired/index.html
+          cp pages-redirect/index.html retired/404.html
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
+        with:
+          path: retired
+      - id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5
