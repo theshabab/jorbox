@@ -4066,6 +4066,706 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy eating paye?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times a week do you eat daal?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take the biggest boti from the serving dish?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many spoons of sugar do you put in your chai?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you like karela (bitter gourd)?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many different fruits did you eat this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to finish the leftovers in the fridge before anyone else?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you tried to cook biryani yourself?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy eating with your hands?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many glasses of lassi do you drink in a typical week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many people live in your house?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many nieces and nephews do you have?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to be the one who answers the doorbell at home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times did you call your parents last week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to win an argument with your mother?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many of your relatives' phone numbers are saved in your phone?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do your younger siblings or cousins listen to you?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many of your great-grandparents can you name?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to fall asleep on the sofa at a relative's house?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been mistaken for a sibling or cousin?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many schools have you studied at?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times were you made class monitor?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much did you enjoy Urdu class at school?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times were you sent out of class?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely were you to finish your homework in the school van or bus?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many hours do you spend on your studies or work on a typical weekday?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to reply to a work or school message on a holiday?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many minutes early do you usually arrive for an exam or meeting?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much did you fear your school principal?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many sick days did you take last year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many cities in Pakistan have you visited?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy train journeys?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many hours long was the longest road trip you have taken?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to buy souvenirs for everyone back home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you seen snowfall?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to fall asleep during a long bus journey?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been to the beach?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you want to visit the Hunza Valley?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many different airports have you been to?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been on a boat?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "What is your phone's battery percentage right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many missed calls do you have right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep your phone on silent all day?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many voice notes did you send yesterday?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to send a voice note instead of typing?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many screenshots are on your phone right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to use your phone at the dinner table?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many years old is your current phone?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much does a cracked phone screen bother you?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many chargers do you own?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "At what hour did you fall asleep last night?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you talk in your sleep?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many pillows do you sleep with?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to doze off as a passenger on a long car ride?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many minutes does it usually take you to fall asleep?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you need total darkness to sleep?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times do you usually wake up during the night?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to sleep with the fan on even in winter?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many push-ups can you do in a row?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How good are you at badminton?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you played cricket this month?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How good are you at bowling a googly?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many kilometres did you walk this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy watching hockey?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many football matches have you played this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How good are you at table tennis?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many seconds can you hold a plank?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many dishes did you wash yesterday?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to make your bed in the morning?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times did you sweep or mop this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy buying sabzi from the market?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times this week were you sent to the shop for something someone forgot?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to disappear when someone says there is work to do?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How good are you at cutting onions without crying?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many water bottles are in your fridge right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many dates do you usually eat at iftar?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many pakoras do you usually eat at iftar?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to go to the Chand Raat bazaar?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many people gave you Eidi last Eid?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many new outfits did you get for last Eid?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy helping with qurbani on Eid-ul-Adha?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many houses did you visit on the first day of last Eid?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to go back to sleep straight after Fajr in Ramadan?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many glasses of Rooh Afza do you drink at iftar?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you look forward to sheer khurma on Eid?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to put on mehndi on Chand Raat?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many minutes before iftar do you sit at the table waiting?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you prefer winter over summer?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times a day do you look in the mirror?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to eat dessert straight from the fridge at midnight?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many minutes does it take you to get ready to go out?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy sitting in the sun on a winter afternoon?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many pens are in your bag or drawer right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep the receipt for everything you buy?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times did you check the weather this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to sit in the same spot every time at home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy window shopping?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many minutes can you sit without looking at your phone?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to cancel plans at the last minute?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many times a week do you eat something sweet after dinner?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }

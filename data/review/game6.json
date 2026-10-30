@@ -2540,6 +2540,456 @@
    "Description": "Things You Get Sent to Buy From the Dukaan",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Blue",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Brown",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Bounce",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Float",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Bitter",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Salty",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things Made of Metal",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things Made of Plastic",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things Made of Cloth",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Chicken",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Dahi (Yogurt)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You Put in Chaat",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Lunch Box",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Animals Mentioned in the Quran",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Sunnah Habits",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Famous Masjids Around the World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things Teachers Say",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Excuses for Not Doing Homework",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things Abbu Says",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Cricket Terms",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Gym",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Car Parts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You See on a Pakistani Road",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things at a Bus Adda",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Hotel Room",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things at a Zoo",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Playground",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things at a Bank",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things at a Tailor's Shop",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things on a Pakistani Chhat (Rooftop)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things About Pakistani Summer",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things About Pakistani Winter",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Natural Disasters",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in Space",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Desert",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Jungle",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Village (Gaon)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Illnesses",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Types of Doctors",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Jobs at a School",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "People Who Come to Your Door",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Wake You Up",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things People Lose",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things Siblings Fight Over",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You Do When Mehmaan Are Coming",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Good Deeds (Nekiyan)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You Do on Jummah",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Open and Close",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You Wear on Your Head",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things the Kabadi Wala Buys",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Keep Getting More Expensive",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Pakistani Mango Varieties",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Types of Kebabs",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Types of Parathas",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Sauces and Chutneys",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Fast Food Items",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Lakes in Pakistan",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Valleys in Pakistan",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Famous World Landmarks",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Oceans and Seas",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Jobs That Need a Uniform",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in an Exam Hall",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You Take on a Picnic",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in an Aeroplane",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Fast",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Slow",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Have Seeds",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You Can Peel",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things With Shells",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Baby Animals",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Animal Sounds",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You See on 14 August",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You See During Bakra Eid",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Science Lab",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Units of Measurement",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }

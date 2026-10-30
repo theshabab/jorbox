@@ -5749,6 +5749,356 @@
    "Description": "Barber",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My nani's WhatsApp forwards are full of _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The ceiling fan makes a strange noise whenever I _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always fall asleep during _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The cricket ball always lands in _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My ammi hides the good _____ for guests!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My little brother always finishes my _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our generator is too loud during _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never fit all my _____ into one suitcase!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The neighbours' rooftop is always full of _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every iftar, I eat too many _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My Eidi always disappears on _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never find my other _____ when I'm late for school!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The dust storm covered my _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My abbu won't change the TV channel from _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I spend every Sunday doing _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The washing machine keeps eating my _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I keep missing Fajr because of _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My school van always stops for _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The street dogs chase me whenever I _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My biscuits always break when I _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our exam hall is way too _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a way to keep _____ out of the kitchen!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The fridge is always full of _____ that nobody eats!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My cousins always fight over _____!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never decide where to _____ on weekends!",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Farmer",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Pharmacist",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Dentist",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Pilot",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Kiryana Store Owner",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mochi (Cobbler)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Tandoor Wala",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Gol Gappay Wala",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Rescue 1122 Worker",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Madrassa Student",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Dakiya (Postman)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Cable Operator",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Chacha",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mamu",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Dulha (Groom)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Gym Trainer",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Cyclist",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Barf Wala",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Ride-Hailing Driver",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Software Engineer",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Muezzin",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bakery Owner",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Numberdar",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Hakeem",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Cricket Groundsman",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }
