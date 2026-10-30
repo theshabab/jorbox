@@ -2933,13 +2933,13 @@
    "Name": "",
    "Description": "I avoid aunties because they always ask about ____.",
    "Category": "Aunties",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I avoid aunties because they always ask about ____.",
     "Category": "Aunties"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of 223 (the thing aunties always ask about); keep lower id."
   },
   {
    "id": "game5-227",
@@ -3050,13 +3050,13 @@
    "Name": "",
    "Description": "The most toxic aunty behavior is ____.",
    "Category": "Aunties",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The most toxic aunty behavior is ____.",
     "Category": "Aunties"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of 231 'I can't stand aunties who ____' (the aunty's worst habit); keep lower id."
   },
   {
    "id": "game5-236",
@@ -3347,15 +3347,15 @@
   {
    "id": "game5-258",
    "Name": "",
-   "Description": "Load shedding during Ramadan is ____.",
+   "Description": "Load shedding at sehri time means ____.",
    "Category": "Load Shedding",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Load shedding during Ramadan is ____.",
     "Category": "Load Shedding"
    },
-   "note": ""
+   "note": "Debate: More concrete; joke stays on load shedding."
   },
   {
    "id": "game5-259",
@@ -3685,15 +3685,15 @@
   {
    "id": "game5-284",
    "Name": "",
-   "Description": "I got blamed for ____ that my sibling did.",
+   "Description": "I got blamed for ____, but my sibling did it.",
    "Category": "Sibling Rivalry",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I got blamed for ____ that my sibling did.",
     "Category": "Sibling Rivalry"
    },
-   "note": ""
+   "note": "Debate: Clumsy grammar reworded."
   },
   {
    "id": "game5-285",
@@ -4062,15 +4062,15 @@
   {
    "id": "game5-313",
    "Name": "",
-   "Description": "Pakistani economy is ruined by ____.",
+   "Description": "Pakistan's economy is ruined by ____.",
    "Category": "Money Problems",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Pakistani economy is ruined by ____.",
     "Category": "Money Problems"
    },
-   "note": ""
+   "note": "Debate: Grammar fix."
   },
   {
    "id": "game5-314",
@@ -4181,13 +4181,13 @@
    "Name": "",
    "Description": "Pakistani inflation is caused by ____.",
    "Category": "Money Problems",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Pakistani inflation is caused by ____.",
     "Category": "Money Problems"
    },
-   "note": ""
+   "note": "Debate: Same answer space as 312 and 314; the deck also has 'The real cause of inflation is ____'."
   },
   {
    "id": "game5-323",
@@ -4413,28 +4413,28 @@
   {
    "id": "game5-340",
    "Name": "",
-   "Description": "What if Pakistan was ruled by ____?",
+   "Description": "What if Pakistan were ruled by ____?",
    "Category": "Absurd Scenarios",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What if Pakistan was ruled by ____?",
     "Category": "Absurd Scenarios"
    },
-   "note": ""
+   "note": "Debate: Subjunctive fix."
   },
   {
    "id": "game5-341",
    "Name": "",
-   "Description": "In an alternate universe ____ is the national dish.",
+   "Description": "In an alternate universe, ____ is the national dish.",
    "Category": "Absurd Scenarios",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In an alternate universe ____ is the national dish.",
     "Category": "Absurd Scenarios"
    },
-   "note": ""
+   "note": "Debate: Comma after introductory phrase."
   },
   {
    "id": "game5-342",
@@ -4465,15 +4465,15 @@
   {
    "id": "game5-344",
    "Name": "",
-   "Description": "If I could time travel I would ____.",
+   "Description": "If I could time travel, I would ____.",
    "Category": "Absurd Scenarios",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If I could time travel I would ____.",
     "Category": "Absurd Scenarios"
    },
-   "note": ""
+   "note": "Debate: Comma after conditional clause."
   },
   {
    "id": "game5-345",
@@ -4517,15 +4517,15 @@
   {
    "id": "game5-348",
    "Name": "",
-   "Description": "If animals could talk they would complain about ____.",
+   "Description": "If animals could talk, they would complain about ____.",
    "Category": "Absurd Scenarios",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If animals could talk they would complain about ____.",
     "Category": "Absurd Scenarios"
    },
-   "note": ""
+   "note": "Debate: Comma after conditional clause."
   },
   {
    "id": "game5-349",
@@ -4569,15 +4569,15 @@
   {
    "id": "game5-352",
    "Name": "",
-   "Description": "If I ruled the world I would ban ____.",
+   "Description": "If I ruled the world, I would ban ____.",
    "Category": "Absurd Scenarios",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If I ruled the world I would ban ____.",
     "Category": "Absurd Scenarios"
    },
-   "note": ""
+   "note": "Debate: Comma after conditional clause."
   },
   {
    "id": "game5-353",
@@ -4595,15 +4595,15 @@
   {
    "id": "game5-354",
    "Name": "",
-   "Description": "In 100 years Pakistan will be known for ____.",
+   "Description": "In 100 years, Pakistan will be known for ____.",
    "Category": "Absurd Scenarios",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In 100 years Pakistan will be known for ____.",
     "Category": "Absurd Scenarios"
    },
-   "note": ""
+   "note": "Debate: Comma after introductory phrase."
   },
   {
    "id": "game5-355",
@@ -4779,13 +4779,13 @@
    "Name": "",
    "Description": "Pakistani dramas are obsessed with ____.",
    "Category": "Drama Serials",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Pakistani dramas are obsessed with ____.",
     "Category": "Bollywood & Drama"
    },
-   "note": ""
+   "note": "Debate: Same answer space (stock drama tropes) as 360 'Every Pakistani drama has ____' and other 'every drama needs/includes' cards; keep lower id."
   },
   {
    "id": "game5-369",
@@ -4907,7 +4907,7 @@
   {
    "id": "game5-378",
    "Name": "",
-   "Description": "I secretly love ____.",
+   "Description": "I secretly love the drama villain because ____.",
    "Category": "Drama Serials",
    "action": "edit",
    "original": {
@@ -4915,7 +4915,7 @@
     "Description": "I secretly love ____.",
     "Category": "Bollywood & Drama"
    },
-   "note": ""
+   "note": "Debate: Vague prompt tied to its category."
   },
   {
    "id": "game5-379",
@@ -4946,15 +4946,15 @@
   {
    "id": "game5-381",
    "Name": "",
-   "Description": "I actually believe in ____.",
+   "Description": "I actually believe the conspiracy that ____.",
    "Category": "Conspiracy Theories",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I actually believe in ____.",
     "Category": "Conspiracy Theories"
    },
-   "note": ""
+   "note": "Debate: Tied to the conspiracy theme, away from religious-belief answers."
   },
   {
    "id": "game5-382",
@@ -5089,15 +5089,15 @@
   {
    "id": "game5-392",
    "Name": "",
-   "Description": "The earth is flat because of ____.",
+   "Description": "The flat-earthers' strongest proof is ____.",
    "Category": "Conspiracy Theories",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The earth is flat because of ____.",
     "Category": "Conspiracy Theories"
    },
-   "note": ""
+   "note": "Debate: Original states a false claim; reframed as a conspiracy joke."
   },
   {
    "id": "game5-393",
@@ -5466,15 +5466,15 @@
   {
    "id": "game5-421",
    "Name": "",
-   "Description": "The most viral meme is ____.",
+   "Description": "The most overused Pakistani meme is ____.",
    "Category": "Internet Culture",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The most viral meme is ____.",
     "Category": "Internet Culture"
    },
-   "note": ""
+   "note": "Debate: Flat trivia question given a local, funnier angle."
   },
   {
    "id": "game5-422",
@@ -5505,7 +5505,7 @@
   {
    "id": "game5-424",
    "Name": "",
-   "Description": "The most annoying TikToker is ____.",
+   "Description": "The most annoying type of TikToker is the one who ____.",
    "Category": "Internet Culture",
    "action": "edit",
    "original": {
@@ -5513,7 +5513,7 @@
     "Description": "The most annoying tiktoker is ____.",
     "Category": "Internet Culture"
    },
-   "note": "Spelling"
+   "note": "Spelling; Debate: Avoids naming real living people."
   },
   {
    "id": "game5-425",
@@ -101077,6 +101077,78 @@
     "Category": "Suno Bolo"
    },
    "note": ""
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The UPS died right in the middle of ____.",
+   "Category": "Load Shedding",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: open-ended blank instead of a self-answering 'because'."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "This month's bijli bill charged me extra for ____.",
+   "Category": "Load Shedding",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: 'bijli bill' is accurate nationwide; WAPDA no longer issues household bills."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The neighbour's generator always starts right when ____.",
+   "Category": "Load Shedding",
+   "action": "add",
+   "note": "New card (debate): New relatable load-shedding card; no generator card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The external examiner's only question in my viva was ____.",
+   "Category": "Student Life",
+   "action": "add",
+   "note": "New card (debate): New university card; no viva card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mohalla doctor gives an injection for everything, even ____.",
+   "Category": "Medical Mishaps",
+   "action": "add",
+   "note": "New card (debate): Classic desi clinic joke; no injection card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My sibling and I fought over the AC remote until ____.",
+   "Category": "Sibling Rivalry",
+   "action": "add",
+   "note": "New card (debate): Relatable sibling fight; distinct from the TV remote card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The aunty asked my salary and then immediately ____.",
+   "Category": "Aunties",
+   "action": "add",
+   "note": "New card (debate): Reaction joke, not another aunty-question duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Every drama villain is finally defeated by ____.",
+   "Category": "Drama Serials",
+   "action": "add",
+   "note": "New card (debate): Accurate drama trope; no villain-defeat card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Daewoo hostess's announcement before departure included ____.",
+   "Category": "Travel Disasters",
+   "action": "add",
+   "note": "New card (debate): Local bus-travel joke, distinct from existing Daewoo smell/seat cards."
   }
  ]
 }

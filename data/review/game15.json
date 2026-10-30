@@ -1903,8 +1903,8 @@
   },
   {
    "id": "game15-147",
-   "Name": "Dome of the Rock",
-   "Description": "691 CE (completed)",
+   "Name": "Dome of the Rock (Qubbat as-Sakhrah)",
+   "Description": "691 CE (completed; shrine on the Al-Aqsa compound, not the mosque itself)",
    "Category": "Famous Mosques Construction (Chronological - Estimated)",
    "action": "edit",
    "original": {
@@ -1912,7 +1912,7 @@
     "Description": "691 CE",
     "Category": "Famous Mosques Construction (Chronological - Estimated)"
    },
-   "note": "clarified"
+   "note": "clarified; Debate: Islamic accuracy: the Dome of the Rock is a shrine, not a mosque, and is often confused with Al-Aqsa. The date and ordering stay the same."
   },
   {
    "id": "game15-148",
@@ -28481,6 +28481,86 @@
    "Category": "Army Ranks (Pakistan) - Ascending Order",
    "action": "add",
    "note": "New card (debate): Real Pakistani 5-star rank (Ayub Khan from 1959, Asim Munir from May 2025). It is an army in-joke the owner allows."
+  },
+  {
+   "id": null,
+   "Name": "Dhul Qa'dah",
+   "Description": "11th month",
+   "Category": "Islamic Months (Chronological)",
+   "action": "add",
+   "note": "New card (debate): The category stops at Shawwal (10th). Dhul Qa'dah is the 11th month and is not elsewhere in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Dhul Hijjah",
+   "Description": "12th month (month of Hajj)",
+   "Category": "Islamic Months (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Completes the Islamic year."
+  },
+  {
+   "id": null,
+   "Name": "Australia (beat New Zealand in final)",
+   "Description": "2015",
+   "Category": "Cricket World Cup Winners (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Adds the missing 2015 winner (MCG final). The name is unique in the category."
+  },
+  {
+   "id": null,
+   "Name": "England (beat New Zealand in final)",
+   "Description": "2019",
+   "Category": "Cricket World Cup Winners (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Adds the missing 2019 winner (Lord's final)."
+  },
+  {
+   "id": null,
+   "Name": "Australia (beat India in Ahmedabad final)",
+   "Description": "2023",
+   "Category": "Cricket World Cup Winners (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment. Adds the 2023 winner, and the venue keeps the card distinct from the identical 2003 'Australia (beat India in final)' card (idx 122)."
+  },
+  {
+   "id": null,
+   "Name": "Asif Ali Zardari",
+   "Description": "2008 (first term; again from 2024)",
+   "Category": "Presidents of Pakistan - Chronological",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment. Adds Zardari after Musharraf and notes his 2024 return without a duplicate card."
+  },
+  {
+   "id": null,
+   "Name": "Mamnoon Hussain",
+   "Description": "2013",
+   "Category": "Presidents of Pakistan - Chronological",
+   "action": "add",
+   "note": "New card (debate): Missing president (took office September 2013)."
+  },
+  {
+   "id": null,
+   "Name": "Arif Alvi",
+   "Description": "2018",
+   "Category": "Presidents of Pakistan - Chronological",
+   "action": "add",
+   "note": "New card (debate): Missing president (took office September 2018)."
+  },
+  {
+   "id": null,
+   "Name": "Wazir Khan Mosque",
+   "Description": "1641 CE (completed, Lahore)",
+   "Category": "Famous Mosques Construction (Chronological - Estimated)",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani mosque, completed around 1641-42. It fits between Al-Azhar (970) and Badshahi (1673) and is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Al-Qadr",
+   "Description": "5 ayat",
+   "Category": "Shortest Surahs (Ayat Count - Ascending)",
+   "action": "add",
+   "note": "New card (debate): Al-Qadr has 5 ayat and is missing, even though the category already reaches 6-ayat surahs."
   }
  ]
 }

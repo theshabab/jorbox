@@ -200,7 +200,6 @@ Name,Description,Category
 ,Eid day starts with ____.,Eid Traditions
 ,The most annoying aunty question is ____.,Aunties
 ,Aunties at weddings are obsessed with ____.,Aunties
-,I avoid aunties because they always ask about ____.,Aunties
 ,Aunties think the solution to everything is ____.,Aunties
 ,The aunty WhatsApp group is full of ____.,Aunties
 ,Aunties love to gossip about ____.,Aunties
@@ -208,7 +207,6 @@ Name,Description,Category
 ,I can't stand aunties who ____.,Aunties
 ,Aunties think every problem is caused by ____.,Aunties
 ,Aunties judge you based on ____.,Aunties
-,The most toxic aunty behavior is ____.,Aunties
 ,Aunties are experts at ____.,Aunties
 ,University students survive on ____.,Student Life
 ,The worst part of university is ____.,Student Life
@@ -231,7 +229,7 @@ Name,Description,Category
 ,Load shedding in summer means ____.,Load Shedding
 ,Pakistani summers are unbearable because of ____.,Load Shedding
 ,I invested in ____ because of load shedding.,Load Shedding
-,Load shedding during Ramadan is ____.,Load Shedding
+,Load shedding at sehri time means ____.,Load Shedding
 ,The government blames load shedding on ____.,Load Shedding
 ,I lost ____ because of load shedding.,Load Shedding
 ,The load shedding schedule is as reliable as ____.,Load Shedding
@@ -254,7 +252,7 @@ Name,Description,Category
 ,I fainted because of ____.,Medical Mishaps
 ,The worst medical experience was ____.,Medical Mishaps
 ,My sibling always gets away with ____.,Sibling Rivalry
-,I got blamed for ____ that my sibling did.,Sibling Rivalry
+,"I got blamed for ____, but my sibling did it.",Sibling Rivalry
 ,My brother/sister is annoying because of ____.,Sibling Rivalry
 ,Sibling fights are always about ____.,Sibling Rivalry
 ,My parents love my sibling more because of ____.,Sibling Rivalry
@@ -281,7 +279,7 @@ Name,Description,Category
 ,I'm broke because of ____.,Money Problems
 ,The worst financial decision was ____.,Money Problems
 ,I wasted money on ____.,Money Problems
-,Pakistani economy is ruined by ____.,Money Problems
+,Pakistan's economy is ruined by ____.,Money Problems
 ,I can't afford ____ anymore.,Money Problems
 ,The rupee is falling because of ____.,Money Problems
 ,I'm saving money for ____.,Money Problems
@@ -289,7 +287,6 @@ Name,Description,Category
 ,I went into debt because of ____.,Money Problems
 ,Rich people waste money on ____.,Money Problems
 ,The fastest way to go broke is ____.,Money Problems
-,Pakistani inflation is caused by ____.,Money Problems
 ,I'm hiding ____ from my spouse.,Money Problems
 ,The best way to save money is ____.,Money Problems
 ,The worst fashion trend is ____.,Fashion Fails
@@ -304,21 +301,21 @@ Name,Description,Category
 ,The most overpriced clothing item is ____.,Fashion Fails
 ,I can't believe ____ is back in style.,Fashion Fails
 ,I spent a fortune on a ____ that I wore only once.,Fashion Fails
-,What if Pakistan was ruled by ____?,Absurd Scenarios
-,In an alternate universe ____ is the national dish.,Absurd Scenarios
+,What if Pakistan were ruled by ____?,Absurd Scenarios
+,"In an alternate universe, ____ is the national dish.",Absurd Scenarios
 ,I would trade my kidney for ____.,Absurd Scenarios
 ,The zombie apocalypse would be caused by ____.,Absurd Scenarios
-,If I could time travel I would ____.,Absurd Scenarios
+,"If I could time travel, I would ____.",Absurd Scenarios
 ,The cure for all problems is ____.,Absurd Scenarios
 ,"If I were an animal, I would be ____.",Absurd Scenarios
 ,The secret to world peace is ____.,Absurd Scenarios
-,If animals could talk they would complain about ____.,Absurd Scenarios
+,"If animals could talk, they would complain about ____.",Absurd Scenarios
 ,The weirdest superpower would be ____.,Absurd Scenarios
 ,I would survive on a desert island with ____.,Absurd Scenarios
 ,The most useless invention is ____.,Absurd Scenarios
-,If I ruled the world I would ban ____.,Absurd Scenarios
+,"If I ruled the world, I would ban ____.",Absurd Scenarios
 ,The strangest job in Pakistan would be ____.,Absurd Scenarios
-,In 100 years Pakistan will be known for ____.,Absurd Scenarios
+,"In 100 years, Pakistan will be known for ____.",Absurd Scenarios
 ,The worst way to wake up is ____.,Absurd Scenarios
 ,If I had superpowers I would use them for ____.,Absurd Scenarios
 ,The most bizarre law Pakistan should pass is ____.,Absurd Scenarios
@@ -328,17 +325,16 @@ Name,Description,Category
 ,I stopped watching dramas because of ____.,Drama Serials
 ,Pakistani drama moms are always ____.,Drama Serials
 ,The most unrealistic thing in Pakistani dramas is ____.,Drama Serials
-,Pakistani dramas are obsessed with ____.,Drama Serials
 ,I'm addicted to watching ____.,Drama Serials
 ,Every saas-bahu drama includes ____.,Drama Serials
 ,I judge people who watch ____.,Drama Serials
 ,The most dramatic scene ever was ____.,Drama Serials
 ,Pakistani morning shows are full of ____.,Drama Serials
 ,The worst drama ending was ____.,Drama Serials
-,I secretly love ____.,Drama Serials
+,I secretly love the drama villain because ____.,Drama Serials
 ,The government is hiding ____.,Conspiracy Theories
 ,The real reason for ____ is a conspiracy.,Conspiracy Theories
-,I actually believe in ____.,Conspiracy Theories
+,I actually believe the conspiracy that ____.,Conspiracy Theories
 ,Pakistan is secretly controlled by ____.,Conspiracy Theories
 ,Aliens are responsible for ____.,Conspiracy Theories
 ,The moon landing was faked using ____.,Conspiracy Theories
@@ -348,7 +344,7 @@ Name,Description,Category
 ,They're putting ____ in the water.,Conspiracy Theories
 ,The media is covering up ____.,Conspiracy Theories
 ,5G towers are actually ____.,Conspiracy Theories
-,The earth is flat because of ____.,Conspiracy Theories
+,The flat-earthers' strongest proof is ____.,Conspiracy Theories
 ,My aunty believes in ____.,Conspiracy Theories
 ,WhatsApp forwards claim that ____ will cure everything.,Conspiracy Theories
 ,My childhood was ruined by ____.,Childhood Trauma
@@ -365,9 +361,9 @@ Name,Description,Category
 ,Pakistani kids were traumatized by ____.,Childhood Trauma
 ,The chittar was nothing compared to ____.,Childhood Trauma
 ,I developed trust issues because of ____.,Childhood Trauma
-,The most viral meme is ____.,Internet Culture
+,The most overused Pakistani meme is ____.,Internet Culture
 ,Twitter is toxic because of ____.,Internet Culture
-,The most annoying TikToker is ____.,Internet Culture
+,The most annoying type of TikToker is the one who ____.,Internet Culture
 ,TikTok ruined ____.,Internet Culture
 ,The internet was a mistake because of ____.,Internet Culture
 ,I spent 5 hours scrolling through ____.,Internet Culture
@@ -5926,3 +5922,12 @@ the sound of a wrong answer buzzer on a game show,don’t use words!,Suno Bolo
 ,the trickle of an old water fountain,Suno Bolo
 ,telling someone to wait up,Suno Bolo
 ,chant a business-related word,Suno Bolo
+,The UPS died right in the middle of ____.,Load Shedding
+,This month's bijli bill charged me extra for ____.,Load Shedding
+,The neighbour's generator always starts right when ____.,Load Shedding
+,The external examiner's only question in my viva was ____.,Student Life
+,"The mohalla doctor gives an injection for everything, even ____.",Medical Mishaps
+,My sibling and I fought over the AC remote until ____.,Sibling Rivalry
+,The aunty asked my salary and then immediately ____.,Aunties
+,Every drama villain is finally defeated by ____.,Drama Serials
+,The Daewoo hostess's announcement before departure included ____.,Travel Disasters

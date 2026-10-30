@@ -3164,16 +3164,16 @@
   },
   {
    "id": "game4-244",
-   "Name": "Screens",
-   "Description": "Caretakers of Amare, a 16 year-old gorilla living in Lincoln Park Zoo in Chicago, are trying to wean him off his unusual addiction to ____.",
-   "Category": "Great Apes",
-   "action": "keep",
+   "Name": "phone screens",
+   "Description": "Caretakers of Amare, a 16-year-old gorilla living in Lincoln Park Zoo in Chicago, are trying to wean him off his unusual addiction to ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Screens",
     "Description": "Caretakers of Amare, a 16 year-old gorilla living in Lincoln Park Zoo in Chicago, are trying to wean him off his unusual addiction to ____.",
     "Category": "Great Apes"
    },
-   "note": ""
+   "note": "Debate: The answer 'Screens' was vague and capitalised. Amare was hooked on visitors' phone screens (2023). Also hyphenated '16-year-old'."
   },
   {
    "id": "game4-245",
@@ -3203,16 +3203,16 @@
   },
   {
    "id": "game4-247",
-   "Name": "very long beard",
-   "Description": "Being famous for a record can be dangerous! In 1567, Hans Steininger, known for his extraordinary beard, died after tripping over his ____.",
-   "Category": "Record Books",
+   "Name": "beard",
+   "Description": "Being famous for a record can be dangerous! In 1567, Hans Steininger died after tripping over his own ____.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "very long beard",
     "Description": "Being a world record holder can be dangerous! Just ask Hans Steininger, who was killed by his ____.",
     "Category": "Record Books"
    },
-   "note": "accuracy: tripped over his beard"
+   "note": "accuracy: tripped over his beard; Debate: The clue 'known for his extraordinary beard' gave the answer away."
   },
   {
    "id": "game4-248",
@@ -3424,42 +3424,42 @@
   },
   {
    "id": "game4-264",
-   "Name": "Walls or Ceiling",
+   "Name": "walls or a ceiling",
    "Description": "For a few hundred Swiss francs, you can stay in an unusual \"zero-star\" hotel room in Switzerland that has no ____.",
-   "Category": "No Stars",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "Walls or Ceiling",
     "Description": "For a mere 322 euros, you can stay in an unusual 0-star hotel room in Switzerland that has no ____.",
     "Category": "No Stars"
    },
-   "note": "currency fixed (francs, not euros)"
+   "note": "currency fixed (francs, not euros); Debate: Grammar: the answer now fits 'has no ____' (Null Stern rooms)."
   },
   {
    "id": "game4-265",
    "Name": "ask to see a manager",
    "Description": "King Theseus would go viral today. He opens Act V of A Midsummer Night’s Dream by being the first fictional character to ____.",
    "Category": "Shakespeare",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "ask to see a manager",
     "Description": "King Theseus would go viral today. He opens Act V of A Midsummer Night’s Dream by being the first fictional character to ____.",
     "Category": "Shakespeare"
    },
-   "note": ""
+   "note": "Debate: Not a true fact: it is a wordplay joke on 'manager of mirth' with an unverifiable claim, and too obscure for the players."
   },
   {
    "id": "game4-266",
-   "Name": "The U.S. Military",
-   "Description": "On her 90th birthday, Italian woman Meri Mion received a free birthday cake during a local ceremony because a previous cake had been stolen by ____.",
-   "Category": "Payback",
-   "action": "keep",
+   "Name": "American soldiers",
+   "Description": "For her 90th birthday, Italian woman Meri Mion was given a cake to make up for one stolen from her family during World War II by ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "The U.S. Military",
     "Description": "On her 90th birthday, Italian woman Meri Mion received a free birthday cake during a local ceremony because a previous cake had been stolen by ____.",
     "Category": "Payback"
    },
-   "note": ""
+   "note": "Debate: Challenger's version. It makes the payback story clear without naming the US military in the clue."
   },
   {
    "id": "game4-267",
@@ -3555,15 +3555,15 @@
   {
    "id": "game4-274",
    "Name": "a llama",
-   "Description": "Mendl Weinstock kept a 5-year-old promise/threat by attending his sister’s wedding with ____ as his guest.",
-   "Category": "Final Round",
-   "action": "keep",
+   "Description": "Mendl Weinstock kept a promise he had made five years earlier by bringing ____ as his guest to his sister's wedding.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "a llama",
     "Description": "Mendl Weinstock kept a 5-year-old promise/threat by attending his sister’s wedding with ____ as his guest.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Debate: Rewords the awkward 'promise/threat' and '5-year-old promise' phrasing."
   },
   {
    "id": "game4-275",
@@ -4672,16 +4672,16 @@
   },
   {
    "id": "game4-360",
-   "Name": "Jelly Belly",
-   "Description": "Though it is small, Jelly Belly says it can take one to three weeks to make one ____ bean.",
-   "Category": "Final Round",
+   "Name": "weeks",
+   "Description": "Though it is tiny, one candy company says it can take one to three ____ to make a single jelly bean.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "Jelly Belly",
     "Description": "Though it’s small, CEO Lisa Brasher says it can take up to two weeks to make one ____.",
     "Category": "Final Round"
    },
-   "note": "clarity"
+   "note": "clarity; Debate: Challenger's version. The old blank was answered by the clue itself ('____ bean'). Blanking the time makes the card bluffable."
   },
   {
    "id": "game4-361",
@@ -4712,15 +4712,15 @@
   {
    "id": "game4-363",
    "Name": "snowflake",
-   "Description": "Allegedly recorded by the U.S. Army at Fort Keogh, the world’s largest ____ was 15 inches across.",
-   "Category": "Final Round",
-   "action": "keep",
+   "Description": "According to a rancher at Fort Keogh, Montana, the largest ____ ever reported fell there in 1887 and was 15 inches across.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "snowflake",
     "Description": "Allegedly recorded by the U.S. Army at Fort Keogh, the world’s largest ____ was 15 inches across.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Debate: Challenger's version. The source is an unverified rancher's account, not a US Army record."
   },
   {
    "id": "game4-364",
@@ -5037,15 +5037,15 @@
   {
    "id": "game4-388",
    "Name": "____",
-   "Description": "You get to pick the next book for our book club! What are you picking?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "You get to pick one book that everyone here has to read! What are you picking?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "You get to pick the next book for our book club! What are you picking?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Most family groups have no book club; the new wording works for anyone."
   },
   {
    "id": "game4-389",
@@ -5193,15 +5193,15 @@
   {
    "id": "game4-400",
    "Name": "____",
-   "Description": "A sure fire phrase that would cheer you up is \"____\".",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "A surefire phrase that would cheer you up is \"____\".",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "A sure fire phrase that would cheer you up is \"____\".",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Spelling fix."
   },
   {
    "id": "game4-401",
@@ -11192,6 +11192,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New card: a striking, true fact from Central Asia."
+  },
+  {
+   "id": null,
+   "Name": "pigeon",
+   "Description": "In 2020, police in Indian-administered Kashmir took a ____ into custody on suspicion of spying for Pakistan.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true (Kathua, May 2020) and funny India-Pakistan story."
+  },
+  {
+   "id": null,
+   "Name": "ammunition",
+   "Description": "During World War II, a Syrian brown bear named Wojtek was enlisted in the Polish army and helped soldiers carry ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true animal and army story; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "major general",
+   "Description": "In 2023, Sir Nils Olav III, a king penguin living at Edinburgh Zoo, was promoted to the rank of ____ in the Norwegian King's Guard.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true fact (August 2023 promotion)."
+  },
+  {
+   "id": null,
+   "Name": "stationmaster",
+   "Description": "From 2007 until her death in 2015, a cat named Tama served as the official ____ of Kishi Station in Japan.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true animal job story."
+  },
+  {
+   "id": null,
+   "Name": "dolls",
+   "Description": "In the shrinking Japanese village of Nagoro, life-size ____ now outnumber the living residents.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true and odd fact about a village."
+  },
+  {
+   "id": null,
+   "Name": "Ceylon (now Sri Lanka)",
+   "Description": "In 1960, ____ became the first country in the world to have a female prime minister, Sirimavo Bandaranaike.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version. A South Asian first; 'now called ____' made the answer too easy to guess."
+  },
+  {
+   "id": null,
+   "Name": "buffaloes",
+   "Description": "In 2018, as part of a drive to cut government spending, Pakistan's Prime Minister House auctioned off eight ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true (September 2018) and funny Pakistani political fact; the owner allows politics."
+  },
+  {
+   "id": null,
+   "Name": "emus",
+   "Description": "In 1932, Australia sent soldiers armed with machine guns to fight a 'war' against ____, and lost.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version of the Emu War card. It drops the 'birds' hint and is a different fact from the existing emu card."
   }
  ]
 }
