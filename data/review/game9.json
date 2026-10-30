@@ -3538,12 +3538,12 @@
    "id": "game9-322",
    "Name": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
    "Description": "Shepard Tone",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
     "Description": "Shepard Tone"
    },
-   "note": ""
+   "note": "Debate: A niche music and psychoacoustics term that is too obscure for party trivia."
   },
   {
    "id": "game9-323",
@@ -3780,12 +3780,12 @@
    "id": "game9-344",
    "Name": "Which Canadian province has Charlottetown as its capital?",
    "Description": "Prince Edward Island",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which Canadian province has Charlottetown as its capital?",
     "Description": "Prince Edward Island"
    },
-   "note": ""
+   "note": "Debate: Same answer as card 287 (Canada's smallest province), and the deck already has many Canada cards."
   },
   {
    "id": "game9-345",
@@ -3857,12 +3857,12 @@
    "id": "game9-351",
    "Name": "Which Russian exclave borders Poland and Lithuania?",
    "Description": "Kaliningrad",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which Russian oblast forms a border with Poland?",
     "Description": "Kaliningrad"
    },
-   "note": "wording"
+   "note": "Debate: Same answer as the Königsberg card (753)."
   },
   {
    "id": "game9-352",
@@ -3923,12 +3923,12 @@
    "id": "game9-357",
    "Name": "In which English county is Stonehenge?",
    "Description": "Wiltshire",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "In which English county is Stonehenge?",
     "Description": "Wiltshire"
    },
-   "note": ""
+   "note": "Debate: English-county trivia is UK-local and means little to this audience, and the deck already has the Portsmouth/Hampshire county card. P2 replaced the Irish county card for the same reason."
   },
   {
    "id": "game9-358",
@@ -3976,14 +3976,14 @@
   },
   {
    "id": "game9-362",
-   "Name": "How many counties are in the Republic of Ireland?",
-   "Description": "26",
+   "Name": "How many provinces does Pakistan have?",
+   "Description": "4 (Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan)",
    "action": "edit",
    "original": {
     "Name": "How many counties in the Republic of Ireland.",
     "Description": "26"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: The Irish county count means little to Pakistani players. Pakistan's province count is accurate and no other card asks it; the existing card only asks which province is largest."
   },
   {
    "id": "game9-363",
@@ -4341,34 +4341,34 @@
    "id": "game9-395",
    "Name": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
    "Description": "Abnormal shrimp",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
     "Description": "Abnormal Shrimp"
    },
-   "note": "capitalisation"
+   "note": "Debate: Answering it needs the Latin/Greek meaning of a fossil's name, which is too obscure for party trivia. P3 and P8 were removed on the same grounds."
   },
   {
    "id": "game9-396",
-   "Name": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
-   "Description": "The presence or absence of a nucleus",
-   "action": "keep",
+   "Name": "What is the biggest difference between a eukaryotic cell and a prokaryotic cell?",
+   "Description": "Eukaryotic cells have a nucleus; prokaryotic cells do not",
+   "action": "edit",
    "original": {
     "Name": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
     "Description": "The presence or absence of a nucleus"
    },
-   "note": ""
+   "note": "Debate: The current card ends in a colon instead of asking a question. The rewrite is a proper question and the answer is still correct."
   },
   {
    "id": "game9-397",
    "Name": "Which element in haemoglobin makes blood red?",
    "Description": "Iron",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The element involved in making human blood red is which of the following?",
     "Description": "Iron"
    },
-   "note": "wording"
+   "note": "Debate: Near-duplicate of card 553 (iron-containing protein haemoglobin), and the deck also has the Fe = Iron card."
   },
   {
    "id": "game9-398",
@@ -4462,12 +4462,12 @@
    "id": "game9-406",
    "Name": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
    "Description": "Zambia & Zimbabwe",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
     "Description": "Zambia & Zimbabwe"
    },
-   "note": ""
+   "note": "Debate: Overlaps card 762 (Zimbabwe was formerly Rhodesia); one Rhodesia card is enough."
   },
   {
    "id": "game9-407",
@@ -4814,12 +4814,12 @@
    "id": "game9-438",
    "Name": "Conservation of energy and momentum both follow from which theorem linking symmetry and conservation laws?",
    "Description": "Noether's theorem",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
     "Description": "Noether's Theorem"
    },
-   "note": "wording"
+   "note": "Debate: Graduate-level physics that is too obscure for party play."
   },
   {
    "id": "game9-439",
@@ -10277,6 +10277,62 @@
    "Description": "Siachen Glacier",
    "action": "add",
    "note": "New card (debate): Well-known Pakistani geography and army-related fact, not yet in the deck. The challenger's wording is accurate: Siachen lies beyond the end of the Line of Control."
+  },
+  {
+   "id": null,
+   "Name": "Which 11th-century Muslim scholar measured the Earth's radius from a hilltop at Nandana, in today's Jhelum district?",
+   "Description": "Al-Biruni",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani and Muslim history-of-science fact that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which 8th-century Muslim scholar is often called the father of chemistry?",
+   "Description": "Jabir ibn Hayyan",
+   "action": "add",
+   "note": "New card (debate): Well-known Muslim-world science fact, hedged with 'often called'; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which is the largest Muslim-majority country by area?",
+   "Description": "Kazakhstan",
+   "action": "add",
+   "note": "New card (debate): Correct: Kazakhstan (about 2.72 million km²) is larger than Algeria (2.38 million km²). This is not a duplicate; the other Kazakhstan card is about Baikonur."
+  },
+  {
+   "id": null,
+   "Name": "Which strait links the Red Sea to the Gulf of Aden?",
+   "Description": "Bab-el-Mandeb",
+   "action": "add",
+   "note": "New card (debate): Correct, and it goes with the existing Hormuz, Gibraltar, Bosphorus and Bering cards without duplicating them."
+  },
+  {
+   "id": null,
+   "Name": "Which Timurid ruler and astronomer built a great observatory in Samarkand in the 1420s?",
+   "Description": "Ulugh Beg",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim history-of-science fact; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which 9th-century inventor from Muslim Spain is said to have made one of the first glider flights?",
+   "Description": "Abbas ibn Firnas",
+   "action": "add",
+   "note": "New card (debate): Well-known Muslim-world trivia, properly hedged; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which town in Balochistan recorded 53.7°C in May 2017, one of the hottest temperatures reliably measured in Asia?",
+   "Description": "Turbat",
+   "action": "add",
+   "note": "New card (debate): The WMO verified this reading. It is a local Pakistani fact that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Tirich Mir in Chitral is the highest peak of which mountain range?",
+   "Description": "Hindu Kush",
+   "action": "add",
+   "note": "New card (debate): Correct Pakistani geography fact; not in the deck."
   }
  ]
 }

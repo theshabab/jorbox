@@ -1475,7 +1475,7 @@
   {
    "id": "game1-114",
    "Name": "Zucchini",
-   "Description": "Green summer squash, courgette",
+   "Description": "Long green squash, chappan kaddu",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1483,7 +1483,7 @@
     "Description": "A green vegetable",
     "Category": "Vegetables"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Local name replaces British 'courgette'."
   },
   {
    "id": "game1-115",
@@ -1501,7 +1501,7 @@
   {
    "id": "game1-116",
    "Name": "Bitter Gourd",
-   "Description": "Karela",
+   "Description": "Karela; bumpy green sabzi most kids hate",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1509,7 +1509,7 @@
     "Description": "A bitter vegetable",
     "Category": "Vegetables"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger amendment: karela is bumpy/warty, not ridged (ridged is tori)."
   },
   {
    "id": "game1-117",
@@ -1865,7 +1865,7 @@
   {
    "id": "game1-144",
    "Name": "Trousers",
-   "Description": "Formal pants, pant-coat",
+   "Description": "Full-length formal pants worn to the office",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1873,7 +1873,7 @@
     "Description": "Formal pants",
     "Category": "Clothing"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Clearer hint than the tacked-on 'pant-coat'."
   },
   {
    "id": "game1-145",
@@ -1969,7 +1969,7 @@
   {
    "id": "game1-152",
    "Name": "Cupboard",
-   "Description": "Cabinet with shelves and doors, almari",
+   "Description": "Almari with shelves and doors for storing things",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -1977,12 +1977,12 @@
     "Description": "Storage furniture",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Hint used another card's name (Cabinet); completes the P3/P4 disambiguation."
   },
   {
    "id": "game1-153",
    "Name": "Wardrobe",
-   "Description": "Tall cabinet for hanging clothes",
+   "Description": "Tall closet with a rail for hanging clothes",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -1990,12 +1990,12 @@
     "Description": "Clothing storage",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Removes another card's word; distinct from Cupboard."
   },
   {
    "id": "game1-154",
    "Name": "Cabinet",
-   "Description": "Cupboard with doors and shelves",
+   "Description": "Wall-mounted storage with doors in the kitchen",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2003,7 +2003,7 @@
     "Description": "Storage furniture",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint used another card's name and duplicated Cupboard's hint."
   },
   {
    "id": "game1-155",
@@ -2060,7 +2060,7 @@
   {
    "id": "game1-159",
    "Name": "Dresser",
-   "Description": "Chest of drawers for clothes",
+   "Description": "Dressing table with mirror and drawers",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2068,7 +2068,7 @@
     "Description": "Bedroom furniture",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Uses the local Pakistani sense of the word."
   },
   {
    "id": "game1-160",
@@ -2372,7 +2372,7 @@
   {
    "id": "game1-183",
    "Name": "Pan",
-   "Description": "Shallow pan for frying",
+   "Description": "Shallow long-handled vessel for frying eggs",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2380,12 +2380,12 @@
     "Description": "Cooking vessel",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained the word itself."
   },
   {
    "id": "game1-184",
    "Name": "Pot",
-   "Description": "Deep vessel for cooking salan",
+   "Description": "Deep vessel for cooking salan, degchi",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2393,7 +2393,7 @@
     "Description": "Cooking vessel",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds accurate local name."
   },
   {
    "id": "game1-185",
@@ -2463,7 +2463,7 @@
   {
    "id": "game1-190",
    "Name": "Strainer",
-   "Description": "Sieve for draining or tea leaves",
+   "Description": "Sieve that catches tea leaves, chhalni",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2471,7 +2471,7 @@
     "Description": "Filtering tool",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes broken grammar; adds local name."
   },
   {
    "id": "game1-191",
@@ -2489,7 +2489,7 @@
   {
    "id": "game1-192",
    "Name": "Tongs",
-   "Description": "Two-armed tool for picking up food",
+   "Description": "Chimta; picks up hot roti or coals",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2497,7 +2497,7 @@
     "Description": "Gripping tool",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: More specific, local hint."
   },
   {
    "id": "game1-193",
@@ -2606,7 +2606,7 @@
   {
    "id": "game1-201",
    "Name": "Horse",
-   "Description": "Animal that gallops; ridden",
+   "Description": "Galloping animal that pulls a tonga",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2614,7 +2614,7 @@
     "Description": "A riding animal",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes awkward wording; local identifier."
   },
   {
    "id": "game1-202",
@@ -9744,6 +9744,86 @@
    "Category": "Beverages",
    "action": "add",
    "note": "Same new card as Charades"
+  },
+  {
+   "id": null,
+   "Name": "Markhor",
+   "Description": "Pakistan's national animal with spiral horns",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Iconic Pakistani animal; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Giraffe",
+   "Description": "Tallest animal, with a very long neck",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Well-known, easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Lizard",
+   "Description": "Chhipkali that crawls on walls",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Familiar household creature."
+  },
+  {
+   "id": null,
+   "Name": "Corn",
+   "Description": "Bhutta, roasted on coals by street vendors",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Popular local street food; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Sweet Potato",
+   "Description": "Shakarkandi, roasted and sold in winter",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Familiar winter street snack."
+  },
+  {
+   "id": null,
+   "Name": "Chappal",
+   "Description": "Open slipper, the ammi's weapon of choice",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Classic desi footwear and harmless family in-joke; no footwear card exists."
+  },
+  {
+   "id": null,
+   "Name": "Hijab",
+   "Description": "Headscarf worn by Muslim women",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Common, respectful, distinct from Dupatta/Scarf."
+  },
+  {
+   "id": null,
+   "Name": "Kettle",
+   "Description": "Electric pot that boils water for tea",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Everyday item; distinct from Teapot (serving chai)."
+  },
+  {
+   "id": null,
+   "Name": "Mortar and Pestle",
+   "Description": "Hamam dasta for pounding garlic and spices",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Traditional desi kitchen tool."
+  },
+  {
+   "id": null,
+   "Name": "Takht",
+   "Description": "Low wooden platform for sitting, with a dari",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "New card (debate): Traditional Pakistani furniture, distinct from charpai."
   }
  ]
 }
