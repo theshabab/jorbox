@@ -8327,66 +8327,66 @@
    "id": "game4-641",
    "Name": "bomb",
    "Description": "Earlier on the day Archduke Franz Ferdinand was assassinated, another attempt failed when a ____ bounced off the back of his car.",
-   "Category": "Get Wrecked",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "a bomb or convertible",
     "Description": "Before Archduke Franz Ferdinand was killed, there was a previous assassination attempt in which a ____ bounced off his ____.",
     "Category": "Get Wrecked"
    },
-   "note": "two blanks; single blank, accuracy"
+   "note": "two blanks; single blank, accuracy; Debate: Moves the card out of the one-card leftover category 'Get Wrecked' into the existing History Oddities group."
   },
   {
    "id": "game4-642",
    "Name": "close a window",
    "Description": "Legend has it that during Isaac Newton's time as a member of Parliament, his only recorded words were a request to an usher to ____.",
-   "Category": "Official Business",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "close a window",
     "Description": "During Isaac Newton’s time as a member of Parliament, he uttered only one sentence ever: He asked a nearby usher to ____.",
     "Category": "Official Business"
    },
-   "note": "flagged as legend"
+   "note": "flagged as legend; Debate: Moves the card out of the one-card leftover category 'Official Business' into History Oddities."
   },
   {
    "id": "game4-643",
    "Name": "listen to his poetry",
-   "Description": "When he was 25, Julius Caesar was kidnapped by pirates. In captivity he demanded they raise his ransom, made them keep quiet while he slept and made them ____.",
-   "Category": "Carpe Diem",
+   "Description": "When he was about 25, Julius Caesar was kidnapped by pirates. In captivity he demanded they raise his ransom, made them keep quiet while he slept and made them ____.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "listen to his poetry",
     "Description": "When he was 25, Julius Caesar was kidnapped by pirates. During his time in captivity he forced the pirates to increase his ransom, keep quiet while he slept and ____.",
     "Category": "Carpe Diem"
    },
-   "note": "wording"
+   "note": "wording; Debate: Moves the card into History Oddities and says 'about 25', because his age at the time is approximate."
   },
   {
    "id": "game4-644",
    "Name": "baldness",
-   "Description": "Rulers, they're just like us! According to Roman historians, Julius Caesar was very self-conscious about his ____.",
-   "Category": "Heads of State",
+   "Description": "According to Roman historians, Julius Caesar was very self-conscious about his ____.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "comb over",
     "Description": "Dictators, they’re just like us! According to historians, the Roman ruler Julius Caesar was extremely self conscious about his ____.",
     "Category": "Heads of State"
    },
-   "note": "answer: baldness (he combed hair forward to hide it)"
+   "note": "answer: baldness (he combed hair forward to hide it); Debate: Challenger's amendment: drops the US celebrity-magazine catchphrase without adding a laurel-wreath clue that points to the answer, and moves the card into History Oddities."
   },
   {
    "id": "game4-645",
    "Name": "a 300% mortality rate",
    "Description": "In a famous (possibly exaggerated) story, 19th-century English surgeon Robert Liston once performed an operation with ____.",
-   "Category": "Medical Experts",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "a 300% mortality rate",
     "Description": "In a truly bizarre day at the hospital, Dr. Robert Liston, infamous English surgeon of the 19th century, once conducted a surgery with ____.",
     "Category": "Medical Experts"
    },
-   "note": "flagged as story; wording"
+   "note": "flagged as story; wording; Debate: Moves the card out of the one-card leftover category 'Medical Experts' into History Oddities."
   },
   {
    "id": "game4-646",
@@ -11312,6 +11312,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Challenger amendment: blank the duration instead of the obvious 'head'; mildly dark is allowed."
+  },
+  {
+   "id": null,
+   "Name": "army",
+   "Description": "The word \"Urdu\" comes from the Turkic word \"ordu\", which means ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true, surprising word origin that is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "deer",
+   "Description": "Near Sheikhupura, Mughal emperor Jahangir built a tall minaret as a memorial to his favourite pet ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: the Hiran Minar card mentions only the minaret, which is firmly Jahangir's, and uses 'deer', the answer local players would give."
+  },
+  {
+   "id": null,
+   "Name": "Hindu Kush",
+   "Description": "Tirich Mir in Chitral is the highest mountain of the ____ range.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a correct geography fact that does not repeat any existing card."
+  },
+  {
+   "id": null,
+   "Name": "Morocco",
+   "Description": "The red felt cap called the fez takes its name from a city in ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a true Muslim-world name origin with strong fake answers such as Turkey."
+  },
+  {
+   "id": null,
+   "Name": "king",
+   "Description": "The chess word \"checkmate\" comes from the Persian phrase \"shah mat\", meaning \"the ____ is helpless\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: the standard Persian origin of 'checkmate'; the deck has no chess card yet."
+  },
+  {
+   "id": null,
+   "Name": "lungs",
+   "Description": "In the 13th century, the Muslim physician Ibn al-Nafis became the first to correctly describe how blood flows through the ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: Ibn al-Nafis's description of pulmonary circulation is well established, and the deck does not cover it."
+  },
+  {
+   "id": null,
+   "Name": "sociology",
+   "Description": "The 14th-century North African scholar Ibn Khaldun is often called the father of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card: a well-known fact about Islamic scholarship that the deck does not cover."
+  },
+  {
+   "id": null,
+   "Name": "481",
+   "Description": "After Mehmed II conquered Constantinople in 1453, the Hagia Sophia served as a mosque for ____ years before it was turned into a museum in 1934.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: an exact number (1453 to 1934) suits bluffing better than a fuzzy 'almost 500'."
   }
  ]
 }
