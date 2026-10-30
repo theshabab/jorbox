@@ -4020,14 +4020,14 @@
   },
   {
    "id": "game16-366",
-   "Name": "What’s the best way to travel? (Plane, car, train, etc.)",
+   "Name": "What's the best way to travel: plane, train, Daewoo bus or a family road trip by car?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What’s the best way to travel? (Plane, car, train, etc.)",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Localised options for the same question; it doesn't duplicate 364 or 685."
   },
   {
    "id": "game16-367",
@@ -4253,12 +4253,12 @@
    "id": "game16-387",
    "Name": "What do you think the next big technological advance will be?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What do you think the next big technological advance will be?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Same meaning as 384, and it also overlaps 155 and 387."
   },
   {
    "id": "game16-388",
@@ -4295,14 +4295,14 @@
   },
   {
    "id": "game16-391",
-   "Name": "What is your favorite shirt?",
+   "Name": "What is your favorite outfit for Eid or a wedding?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is your favorite shirt?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: 'Favorite shirt' was flat; the local hook gets better answers and doesn't duplicate 60 or 426."
   },
   {
    "id": "game16-392",
@@ -4418,12 +4418,12 @@
    "id": "game16-402",
    "Name": "What personal goals do you have?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What personal goals do you have?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: A vaguer version of 402; the goals cluster has plenty of cards."
   },
   {
    "id": "game16-403",
@@ -4614,14 +4614,14 @@
   },
   {
    "id": "game16-420",
-   "Name": "What’s the most refreshing thing on a hot summer day?",
+   "Name": "What's the most refreshing thing on a hot summer day (lassi, gola ganda, a dip in the nehar)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What’s the most refreshing thing on a hot summer day?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Accurate local examples make it easier to answer."
   },
   {
    "id": "game16-421",
@@ -4669,14 +4669,14 @@
   },
   {
    "id": "game16-425",
-   "Name": "What is the biggest holiday for your family?",
+   "Name": "How does your family spend Eid day, from morning to night?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the biggest holiday for your family?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: For this audience 'biggest holiday' always gets the answer Eid. The new angle isn't covered by 425, 428, 614 or 629."
   },
   {
    "id": "game16-426",
@@ -4768,14 +4768,14 @@
   },
   {
    "id": "game16-434",
-   "Name": "What do you think of standardized tests?",
+   "Name": "What do you think of board exams and entry tests like MDCAT and ECAT?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What do you think of standardized tests?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Replaces US wording with Pakistani equivalents, and the facts are correct."
   },
   {
    "id": "game16-435",
@@ -4988,14 +4988,14 @@
   },
   {
    "id": "game16-454",
-   "Name": "When people make mistakes about food, do you feel the need to correct them?",
+   "Name": "When someone gets a dish wrong (calling pulao biryani!), do you have to correct them?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "When people make mistakes about food, do you feel the need to correct them?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Clearer wording with a funny local example; same idea."
   },
   {
    "id": "game16-455",
@@ -7519,6 +7519,41 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): A fresh book angle, different from 300 and 514."
+  },
+  {
+   "id": null,
+   "Name": "Would you rather spend a week in the mountains of Hunza or by the sea in Gwadar?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Accurate, fun mountains-or-sea choice; 624 only compares northern areas."
+  },
+  {
+   "id": null,
+   "Name": "What do you think of students using AI chatbots to do their homework?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Current debate; no AI card exists in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "What was the worst result card you ever had to show your parents?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable, funny school story; no result-card question exists."
+  },
+  {
+   "id": null,
+   "Name": "Did you go to tuition or an academy after school? What was it like?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Very Pakistani experience; no tuition card exists in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Ramadan habit or tradition do you wish you could keep all year?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Respectful worship-related question that differs from 609 and 643."
   }
  ]
 }

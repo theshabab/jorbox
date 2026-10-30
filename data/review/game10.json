@@ -3497,12 +3497,12 @@
   },
   {
    "id": "game10-389",
-   "Name": "Which large animal would be the best pet if it was tiny?",
-   "action": "keep",
+   "Name": "Which large animal would be the best pet if it were tiny?",
+   "action": "edit",
    "original": {
     "Name": "Which large animal would be the best pet if it was tiny?"
    },
-   "note": ""
+   "note": "Debate: Grammar: subjunctive 'were'."
   },
   {
    "id": "game10-390",
@@ -3524,12 +3524,12 @@
   },
   {
    "id": "game10-392",
-   "Name": "What is the most interesting fictional creature?",
-   "action": "keep",
+   "Name": "Name a creature from fairy tales.",
+   "action": "edit",
    "original": {
     "Name": "What is the most interesting fictional creature?"
    },
-   "note": ""
+   "note": "Debate: Clearer survey prompt (dragon, pari, dev, unicorn) that avoids calling jinn fictional. The owner allows fairy tales and monsters."
   },
   {
    "id": "game10-393",
@@ -3614,12 +3614,12 @@
   },
   {
    "id": "game10-402",
-   "Name": "What color makes a beautiful sunset?",
-   "action": "keep",
+   "Name": "Name a color you see in a sunset.",
+   "action": "edit",
    "original": {
     "Name": "What color makes a beautiful sunset?"
    },
-   "note": ""
+   "note": "Debate: More natural wording with several matching answers."
   },
   {
    "id": "game10-403",
@@ -3696,11 +3696,11 @@
   {
    "id": "game10-411",
    "Name": "What is the best form of transport?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the best form of transport?"
    },
-   "note": ""
+   "note": "Debate: Duplicate of card 14 'What is the best way to travel?'."
   },
   {
    "id": "game10-412",
@@ -3749,12 +3749,12 @@
   },
   {
    "id": "game10-417",
-   "Name": "Which job is most helpful on an island?",
-   "action": "keep",
+   "Name": "Which job would be most useful if you were stranded on an island?",
+   "action": "edit",
    "original": {
     "Name": "Which job is most helpful on an island?"
    },
-   "note": ""
+   "note": "Debate: Makes the island scenario clear."
   },
   {
    "id": "game10-418",
@@ -3767,12 +3767,12 @@
   },
   {
    "id": "game10-419",
-   "Name": "What is a lame super power?",
-   "action": "keep",
+   "Name": "Name a useless superpower.",
+   "action": "edit",
    "original": {
     "Name": "What is a lame super power?"
    },
-   "note": ""
+   "note": "Debate: Fixes the 'super power' spelling and replaces the slang 'lame'. Not a duplicate of 150."
   },
   {
    "id": "game10-420",
@@ -3938,12 +3938,12 @@
   },
   {
    "id": "game10-438",
-   "Name": "Name a plant with spikes.",
-   "action": "keep",
+   "Name": "Name a plant with thorns.",
+   "action": "edit",
    "original": {
     "Name": "Name a plant with spikes."
    },
-   "note": ""
+   "note": "Debate: 'Thorns' (kaante) is the natural word."
   },
   {
    "id": "game10-439",
@@ -3983,12 +3983,12 @@
   },
   {
    "id": "game10-443",
-   "Name": "Name a habit someone might have.",
-   "action": "keep",
+   "Name": "Name a good habit.",
+   "action": "edit",
    "original": {
     "Name": "Name a habit someone might have."
    },
-   "note": ""
+   "note": "Debate: The original was too vague and overlapped 443, 152 and 198. This version gets distinct common answers."
   },
   {
    "id": "game10-444",
@@ -4019,12 +4019,12 @@
   },
   {
    "id": "game10-447",
-   "Name": "What does a knight need?",
-   "action": "keep",
+   "Name": "What did a warrior in the old days need?",
+   "action": "edit",
    "original": {
     "Name": "What does a knight need?"
    },
-   "note": ""
+   "note": "Debate: Replaces the European knight frame and keeps the idea (sword, horse, shield, armour)."
   },
   {
    "id": "game10-448",
@@ -4101,11 +4101,11 @@
   {
    "id": "game10-456",
    "Name": "What is a common twist in a story?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is a common twist in a story?"
    },
-   "note": ""
+   "note": "Debate: Too vague for answers to match, and it mostly draws on film and drama plot tropes."
   },
   {
    "id": "game10-457",
@@ -4118,12 +4118,12 @@
   },
   {
    "id": "game10-458",
-   "Name": "Which historical civilization is interesting?",
-   "action": "keep",
+   "Name": "Name an ancient civilization.",
+   "action": "edit",
    "original": {
     "Name": "Which historical civilization is interesting?"
    },
-   "note": ""
+   "note": "Debate: Turns an opinion question into a proper survey prompt (Indus Valley, Egyptian, Roman)."
   },
   {
    "id": "game10-459",
@@ -4136,12 +4136,12 @@
   },
   {
    "id": "game10-460",
-   "Name": "Name a famous artist.",
-   "action": "keep",
+   "Name": "Name a famous painter or calligrapher.",
+   "action": "edit",
    "original": {
     "Name": "Name a famous artist."
    },
-   "note": ""
+   "note": "Debate: In Pakistani usage 'artist' usually means an actor or singer, which invites showbiz answers. This gets Sadequain, Gulgee, Chughtai and da Vinci."
   },
   {
    "id": "game10-461",
@@ -4271,12 +4271,12 @@
   },
   {
    "id": "game10-475",
-   "Name": "Where is an adventure story set?",
-   "action": "keep",
+   "Name": "Where might an adventure story take place?",
+   "action": "edit",
    "original": {
     "Name": "Where is an adventure story set?"
    },
-   "note": ""
+   "note": "Debate: Clearer wording (jungle, island, desert, cave)."
   },
   {
    "id": "game10-476",
@@ -4334,21 +4334,21 @@
   },
   {
    "id": "game10-482",
-   "Name": "What can you use as a baby toy?",
-   "action": "keep",
+   "Name": "Name something a baby plays with.",
+   "action": "edit",
    "original": {
     "Name": "What can you use as a baby toy?"
    },
-   "note": ""
+   "note": "Debate: Clearer, more natural wording."
   },
   {
    "id": "game10-483",
-   "Name": "Name a famous folk tale or legend.",
+   "Name": "Name a famous children's story (kahani).",
    "action": "edit",
    "original": {
     "Name": "Name a famous legend."
    },
-   "note": "Pakistani-friendly framing"
+   "note": "Pakistani-friendly framing; Debate: Challenger's amendment: dropping 'folk tale' keeps players away from romance legends (Heer Ranjha, Sohni Mahiwal) and points them to Umro Ayyar, Ali Baba, Sindbad and the thirsty crow."
   },
   {
    "id": "game10-484",
@@ -5582,6 +5582,60 @@
    "Name": "Ride: Rickshaw or Online Cab?",
    "action": "add",
    "note": "New card (debate): Local everyday choice in the 'Ride:' X-or-Y style. The challenger's brand-neutral version will not date as ride-hailing apps change."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal mentioned in the Quran.",
+   "action": "add",
+   "note": "New card (debate): Accurate Islamic-knowledge prompt with common answers (camel, cow, elephant, ant, bee, spider, dog)."
+  },
+  {
+   "id": null,
+   "Name": "Name a companion (Sahabi) of the Prophet (PBUH).",
+   "action": "add",
+   "note": "New card (debate): Respectful, well established and answers converge (Abu Bakr, Umar, Usman, Ali, Bilal RA). Not a depiction, and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal you see at the zoo.",
+   "action": "add",
+   "note": "New card (debate): Easy prompt with answers that match. Not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name a natural disaster.",
+   "action": "add",
+   "note": "New card (debate): Clear answers that Pakistani players know (flood, earthquake, cyclone)."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal that lays eggs.",
+   "action": "add",
+   "note": "New card (debate): Simple prompt whose answers overlap. Card 31 is about cooking eggs."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous Muslim scientist from history.",
+   "action": "add",
+   "note": "New card (debate): Muslim-world counterpart to 468 with accurate answers (Ibn Sina, Al-Khwarizmi, Ibn al-Haytham)."
+  },
+  {
+   "id": null,
+   "Name": "Name a desert in the world.",
+   "action": "add",
+   "note": "New card (debate): Geography prompt with local answers (Thar, Cholistan) and world ones. 397 asks about associations, so this is different."
+  },
+  {
+   "id": null,
+   "Name": "Name something you need to fly a kite (patang).",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani pastime with clear answers (dor, charkhi, wind)."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous Muslim ruler or conqueror.",
+   "action": "add",
+   "note": "New card (debate): History prompt with common answers (Salahuddin, Muhammad bin Qasim, Tipu Sultan), broader than 139 (Mughal emperors)."
   }
  ]
 }

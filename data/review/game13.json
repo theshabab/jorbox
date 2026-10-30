@@ -3056,12 +3056,12 @@
   },
   {
    "id": "game13-340",
-   "Description": "Get a player to ask 'Are you crazy?'.",
-   "action": "keep",
+   "Description": "Get a player to ask 'Pagal ho kya?' (Are you crazy?).",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask 'Are you crazy?'."
    },
-   "note": ""
+   "note": "Debate: More natural local phrasing, glossed like the deck's other Urdu phrase cards. No other card uses it."
   },
   {
    "id": "game13-341",
@@ -3417,11 +3417,11 @@
   {
    "id": "game13-380",
    "Description": "Get a player to pass you the salt/pepper.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to pass you the salt/pepper."
    },
-   "note": ""
+   "note": "Debate: Means the same as the existing card 'Get a player to offer you some salt.'"
   },
   {
    "id": "game13-381",
@@ -3479,21 +3479,21 @@
   },
   {
    "id": "game13-387",
-   "Description": "Get a player to blow on their food.",
-   "action": "keep",
+   "Description": "Get a player to complain that their food is too hot.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to blow on their food."
    },
-   "note": ""
+   "note": "Debate: Narrations discourage blowing on food and drink, so this keeps the hot-food idea without that action."
   },
   {
    "id": "game13-388",
    "Description": "Get a player to use a spoon instead of a fork.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to use a spoon instead of a fork."
    },
-   "note": ""
+   "note": "Debate: Trivial at Pakistani meals, where spoons are the default, so the mission does not work."
   },
   {
    "id": "game13-389",
@@ -3687,11 +3687,11 @@
   {
    "id": "game13-410",
    "Description": "Get a player to lose a game of Rock, Paper, Scissors.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to lose a game of Rock, Paper, Scissors."
    },
-   "note": ""
+   "note": "Debate: Mostly luck, and it only extends 408, which is already a Rock, Paper, Scissors mission."
   },
   {
    "id": "game13-411",
@@ -3704,12 +3704,12 @@
   },
   {
    "id": "game13-412",
-   "Description": "Get a player to shake your hand with their left hand.",
-   "action": "keep",
+   "Description": "Get a player to shake your hand with both hands.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to shake your hand with their left hand."
    },
-   "note": ""
+   "note": "Debate: A left-hand handshake is impolite in Pakistani etiquette. The two-handed handshake is a familiar respectful greeting and differs from the plain handshake card. Uses the challenger's shorter wording."
   },
   {
    "id": "game13-413",
@@ -4853,6 +4853,36 @@
    "Description": "Get a player to turn down the TV volume or switch it off.",
    "action": "add",
    "note": "New card (debate): A household action that is different from 'hand you the TV remote'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you 'Kya scene hai?' (What's up?).",
+   "action": "add",
+   "note": "New card (debate): Common local phrase that is not in the deck. Glossed like the other Urdu phrase cards (challenger's version)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about the last shaadi they went to.",
+   "action": "add",
+   "note": "New card (debate): Natural family-gathering topic. No shaadi or wedding card was found in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Bohat aala!' (Excellent!).",
+   "action": "add",
+   "note": "New card (debate): Common local praise phrase, glossed, and not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to rate your handwriting out of ten.",
+   "action": "add",
+   "note": "New card (debate): A new, easy-to-hide mission that matches the deck's existing 'rate X out of ten' format."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to show you their batting stance.",
+   "action": "add",
+   "note": "New card (debate): Doable without a bat, and adds a cricket action mission (challenger's version)."
   }
  ]
 }
