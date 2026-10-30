@@ -87,3 +87,8 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 - Word-list cards: removed actor, drama, Bollywood, cartoon, influencer, YouTuber, FM radio and national-song lists, duplicate topics, an "Islamic Organizations" list that contained militant groups, and lists too thin to play (Pillars of Islam/Iman, Prayer Times). Cleaned lists (Christmas, Easter, Diwali, Holi and Basant out of Festivals; music and romance words out of Punjabi Words) and rebuilt broken ones ("Head|Shoulders" fragments).
 - Prompt cards: removed film, song, celebrity, dating, tattoo and Disney prompts and depictions of prophets (Garden of Eden, Last Supper). Localised many prompts and decoys (Thanksgiving → Eid dinner, bacon → karela, $ → Rs, baseball → cricket, prom → walima).
 - Please check: Pakistani Politicians (includes Altaf Hussain), shrine and Sufi saint names, skirts and dresses in clothing lists, milli naghmay (counted as music, removed), genie, magic wand, werewolf, vampire and churail prompts, birthday-themed prompts.
+
+## Daal men Kaala: done (646 → about 360)
+
+- Removed about 290: every Movie Questions card, nearly all Fan Questions (unverifiable anecdotes), celebrity, music and TV facts, crude facts, Christmas and New Year cards, tarot and fortune-telling, Salman Rushdie, and facts that couldn't be verified. Corrected many facts (gold toilet value, Kaavan the elephant → Cambodia, Radboud University is in the Netherlands, Kim Jong Il's "hamburger"). Personal "Enough About You" questions were localised.
+- The deck is now small, and what's left leans towards US news oddities. Should I write new bluffing facts (Pakistan, Muslim world, science, history), or apply a stricter "too US-local" bar first?
