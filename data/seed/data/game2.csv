@@ -52,7 +52,6 @@ Bong Paye,Bone Marrow | Nalli | Beef | Lahore | Shank,Traditional Dishes
 Salt,Namak | Sea | Salty | White | Pinch,Spices
 Pepper,Kali Mirch | Black | Sneeze | Salt | Grinder,Spices
 Turmeric,Haldi | Yellow | Mayun | Doodh | Stain,Spices
-Chili,Mirch | Red | Hot | Spicy | Green,Spices
 Cumin,Zeera | Jeera | Seeds | Raita | Tarka,Spices
 Coriander,Dhania | Leaves | Green | Garnish | Chutney,Spices
 Cardamom,Elaichi | Green | Chai | Pod | Kheer,Spices
@@ -60,7 +59,6 @@ Cinnamon,Darchini | Bark | Stick | Roll | Brown,Spices
 Clove,Laung | Toothache | Biryani | Nail | Oil,Spices
 Nutmeg,Jaifal | Brown | Grated | Mace | Seed,Spices
 Saffron,Zafran | Expensive | Kesar | Orange | Strands,Spices
-Garlic,Lehsan | Ginger | Smell | Cloves | White,Spices
 Anise,Saunf | Star | Licorice | Seeds | Digestion,Spices
 Fenugreek,Methi | Bitter | Leaves | Seeds | Aloo,Spices
 Mustard Seeds,Rai | Sarson | Yellow | Black | Tarka,Spices
@@ -118,9 +116,7 @@ Bitter Gourd,Karela | Kadwa | Green | Diabetes | Spiky,Vegetables
 Bottle Gourd,Lauki | Ghiya | Green | Long | Halwa,Vegetables
 Capsicum,Shimla Mirch | Bell Pepper | Green | Pizza | Stuffed,Vegetables
 Chili,Mirch | Spicy | Hot | Green | Red,Vegetables
-Coriander,Dhania | Garnish | Leaves | Green | Chutney,Vegetables
-Mint,Podina | Chutney | Fresh | Leaves | Raita,Vegetables
-Lemon,Nimbu | Sour | Yellow | Juice | Khatta,Vegetables
+Lemon,Nimbu | Sour | Yellow | Juice | Khatta,Fruits
 Beetroot,Chukandar | Red | Purple | Salad | Juice,Vegetables
 Shalwar,Kameez | Pajama | Trousers | Nara | Baggy,Clothing
 Kameez,Shalwar | Shirt | Kurta | Long | Suit,Clothing
@@ -161,7 +157,6 @@ Bookshelf,Books | Library | Shelves | Read | Rack,Furniture
 Dresser,Drawers | Clothes | Mirror | Makeup | Bedroom,Furniture
 Mirror,Shesha | Reflection | Face | Glass | Look,Furniture
 Lamp,Light | Bulb | Table | Shade | Night,Furniture
-Rug,Floor | Mat | Small | Dari | Persian,Furniture
 Carpet,Qaleen | Floor | Persian | Wall To Wall | Vacuum,Furniture
 Curtain,Parda | Window | Cloth | Rod | Close,Furniture
 Mattress,Bed | Sleep | Foam | Gadda | Spring,Furniture
@@ -190,7 +185,6 @@ Rolling Pin,Belan | Roti | Dough | Atta | Flat,Kitchen Items
 Grater,Carrot | Cheese | Kaddu Kash | Shred | Grate,Kitchen Items
 Peeler,Peel | Potato | Skin | Chilka | Carrot,Kitchen Items
 Strainer,Chhanni | Chai | Tea | Pasta | Holes,Kitchen Items
-Sieve,Chalni | Flour | Atta | Holes | Mesh,Kitchen Items
 Tongs,Chimta | Grab | Pick | Hot | BBQ,Kitchen Items
 Ladle,Spoon | Soup | Serve | Daig | Big,Kitchen Items
 Tray,Serve | Tea | Carry | Waiter | Guests,Kitchen Items
@@ -220,7 +214,6 @@ Crocodile,Magarmach | River | Jaws | Tears | Alligator,Animals
 Turtle,Kachwa | Shell | Slow | Rabbit | Race,Animals
 Frog,Maindak | Jump | Pond | Croak | Green,Animals
 Mouse,Choohi | Cheese | Computer | Cat | Small,Animals
-Rat,Chooha | Cat | Trap | Sewer | Plague,Animals
 Squirrel,Gilehri | Nuts | Tree | Stripes | Tail,Animals
 Eagle,Uqaab | Shaheen | Iqbal | Prey | Fly,Birds
 Sparrow,Chirya | Small | Brown | Chirp | Jack,Birds
@@ -249,20 +242,20 @@ Chakor,National Bird | Pakistan | Partridge | Moon | Mountains,Birds
 Partridge,Teetar | Fight | Hunting | Brown | Chakor,Birds
 Cricket,Bat | Babar | Wicket | Imran Khan | World Cup,Sports
 Hockey,Stick | National Game | Goal | Field | Ice,Sports
-Football,Goal | Messi | Ronaldo | Kick | FIFA,Sports
-Tennis,Racket | Federer | Wimbledon | Court | Net,Sports
+Football,Goal | Goalkeeper | Penalty | Kick | FIFA,Sports
+Tennis,Racket | Serve | Wimbledon | Court | Net,Sports
 Squash,Jahangir Khan | Wall | Racket | Jansher | Court,Sports
 Badminton,Shuttlecock | Racket | Net | Chirya | Shuttle,Sports
 Boxing,Punch | Gloves | Ring | Muhammad Ali | Knockout,Sports
 Wrestling,Kushti | Pin | Pehalwan | Gama | Akhara,Sports
 Kabaddi,Punjab | Breath | Touch | Raid | Village,Sports
 Polo,Horse | Mallet | Shandur | Gilgit | Ghora,Sports
-Golf,Hole | Club | Tiger Woods | Course | Putt,Sports
-Swimming,Pool | Water | Tairna | Dive | Phelps,Sports
-Running,Daurna | Race | Track | Marathon | Bolt,Sports
+Golf,Hole | Club | Caddy | Course | Putt,Sports
+Swimming,Pool | Water | Tairna | Dive | Laps,Sports
+Running,Daurna | Race | Track | Marathon | Sprint,Sports
 Cycling,Bicycle | Cycle | Pedal | Tour | Helmet,Sports
 Volleyball,Net | Spike | Beach | Smash | Serve,Sports
-Basketball,Hoop | NBA | Dribble | Jordan | Basket,Sports
+Basketball,Hoop | NBA | Dribble | Slam Dunk | Basket,Sports
 Snooker,Cue | Table | Pocket | Mohammad Yousaf | Balls,Sports
 Table Tennis,Ping Pong | Paddle | Net | China | Bat,Sports
 Archery,Bow | Arrow | Target | Teer | Kaman,Sports
@@ -290,13 +283,11 @@ Altit Fort,Hunza | Karimabad | Mir | Qila | Baltit,Historical Places
 Noor Mahal,Bahawalpur | Nawab | Palace | White | Abbasi,Historical Places
 Wazir Khan Mosque,Lahore | Tiles | Delhi Gate | Shah Jahan | Masjid,Historical Places
 Tomb of Jahangir,Shahdara | Lahore | Nur Jahan | Mughal | Ravi,Historical Places
-Tomb of Jinnah,Mazar-e-Quaid | Karachi | Quaid | White | Founder,Historical Places
+Mazar-e-Quaid,Jinnah | Karachi | Tomb | White | Founder,Historical Places
 Ziarat Residency,Quaid | Balochistan | Juniper | Last Days | Quetta,Historical Places
 Khyber Pass,Peshawar | Afghanistan | Torkham | Landi Kotal | Mountains,Historical Places
-Clifton Fort,Karachi | Sea | Beach | Cannon | Qila,Historical Places
 Frere Hall,Karachi | British | Sadequain | Library | Victorian,Historical Places
 Mohatta Palace,Karachi | Clifton | Fatima Jinnah | Museum | Pink,Historical Places
-Shahi Qila,Lahore | Mughal | Akbar | Sheesh Mahal | Badshahi,Historical Places
 Doctor,Hospital | Stethoscope | Daktar | Patient | Medicine,Occupations
 Teacher,School | Ustad | Class | Students | Homework,Occupations
 Pilot,Plane | Fly | Cockpit | Airport | Captain,Occupations
@@ -316,7 +307,6 @@ Mechanic,Car | Repair | Engine | Garage | Workshop,Occupations
 Painter,Paint | Brush | Wall | Rang | Colour,Occupations
 Writer,Book | Author | Pen | Novel | Likhna,Occupations
 Artist,Paint | Drawing | Canvas | Brush | Creative,Occupations
-Actor,Film | Drama | Hero | Movie | Acting,Occupations
 Banker,Bank | Money | Paisa | Loan | Account,Occupations
 Accountant,Hisaab | Tax | Numbers | CA | Audit,Occupations
 Scientist,Lab | Experiment | Einstein | Research | Science,Occupations
@@ -469,7 +459,6 @@ Grass,Ghaas | Green | Lawn | Cow | Field,Nature
 Leaf,Patta | Green | Branch | Autumn | Fall,Nature
 Sand,Rait | Beach | Desert | Thar | Castle,Nature
 Rock,Pathar | Hard | Boulder | Heavy | Throw,Nature
-Stone,Pathar | Hard | Pebble | Throw | Kidney,Nature
 TV,Television | Remote | Channel | News | Cricket,Electronics
 Radio,FM | Station | News | Commentary | Signal,Electronics
 Computer,PC | Monitor | Desktop | Internet | Windows,Electronics
@@ -505,7 +494,6 @@ Saw,Wood | Cut | Teeth | Carpenter | Aari,Tools
 Drill,Hole | Wall | Bit | Screw | Machine,Tools
 Axe,Kulhari | Wood | Chop | Tree | Lumberjack,Tools
 Shovel,Dig | Soil | Sand | Belcha | Hole,Tools
-Spade,Dig | Garden | Soil | Cards | Hole,Tools
 Rake,Leaves | Garden | Grass | Teeth | Collect,Tools
 Hoe,Farmer | Field | Soil | Kudaal | Weeds,Tools
 Ladder,Climb | Steps | Seedhi | Roof | Up,Tools
@@ -550,7 +538,6 @@ Milk,Doodh | Cow | White | Buffalo | Calcium,Beverages
 Tea,Chai | Doodh Patti | Cup | Kettle | Biscuit,Beverages
 Coffee,Caffeine | Beans | Brown | Bitter | Nescafe,Beverages
 Juice,Orange | Fresh | Squeeze | Fruit | Apple,Beverages
-Soda,Fizzy | Coke | Pepsi | Bottle | Gas,Beverages
 Lassi,Dahi | Yogurt | Punjab | Meethi | Namkeen,Beverages
 Shake,Milk | Banana | Mango | Blender | Thick,Beverages
 Smoothie,Blender | Fruit | Yogurt | Thick | Healthy,Beverages
@@ -568,7 +555,6 @@ Cold Drink,Coke | Pepsi | Fizzy | Bottle | Soda,Beverages
 Energy Drink,Red Bull | Sting | Caffeine | Can | Wings,Beverages
 Soup,Yakhni | Chicken | Corn | Bowl | Winter,Beverages
 Broth,Yakhni | Bones | Stock | Chicken | Soup,Beverages
-Cider,Apple | Fermented | Vinegar | Autumn | Juice,Beverages
 Cocoa,Chocolate | Hot | Powder | Milk | Brown,Beverages
 Gulab Jamun,Shira | Brown | Round | Syrup | Mithai,Desserts
 Barfi,Mithai | Square | Khoya | Silver | Box,Desserts
@@ -625,28 +611,28 @@ Umar,Farooq | Second | Caliph | Justice | Jerusalem,Sahaba
 Uthman,Ghani | Third | Caliph | Quran | Dhun Nurayn,Sahaba
 Ali,Fourth | Haider | Fatima | Cousin | Khaybar,Sahaba
 Bilal,Azaan | Muezzin | Ahad | Slave | Abyssinia,Sahaba
-Khalid,Sword | Saifullah | Walid | General | Undefeated,Sahaba
-Salman,Farsi | Persia | Trench | Khandaq | Seeker,Sahaba
+Khalid ibn al-Walid,Sword | Saifullah | Yarmouk | General | Undefeated,Sahaba
+Salman al-Farsi,Persia | Trench | Khandaq | Seeker | Isfahan,Sahaba
 Abu Huraira,Cats | Kitten | Hadith | Narrator | Memory,Sahaba
 Aisha,Wife | Abu Bakr | Hadith | Mother | Siddiqa,Sahaba
 Khadija,First | Wife | Merchant | Business | Believer,Sahaba
 Fatima,Daughter | Zahra | Ali | Hassan | Hussain,Sahaba
 Hassan,Grandson | Ali | Fatima | Elder | Hussain,Sahaba
 Hussain,Karbala | Grandson | Muharram | Ashura | Ali,Sahaba
-Zaid,Adopted | Haritha | Mutah | Usamah | Freed,Sahaba
+Zaid ibn Harithah,Adopted | Khadijah | Mutah | Usamah | Freed,Sahaba
 Talha,Uhud | Shield | Hand | Ashara | Ubaidullah,Sahaba
 Zubair,Awwam | Hawari | Disciple | Asma | Ashara,Sahaba
-Saad,Waqqas | Arrow | Archer | Qadisiyyah | Persia,Sahaba
-Abdur Rahman,Awf | Rich | Merchant | Wealth | Ashara,Sahaba
-Anas,Servant | Malik | Hadith | Ten Years | Young,Sahaba
-Abdullah,Servant | Allah | Masud | Umar | Abbas,Sahaba
+Saad ibn Abi Waqqas,Arrow | Archer | Qadisiyyah | Persia | Ashara,Sahaba
+Abdur Rahman ibn Awf,Rich | Merchant | Wealth | Ashara | Caravan,Sahaba
+Anas ibn Malik,Servant | Hadith | Ten Years | Young | Basra,Sahaba
+Abdullah ibn Masud,Quran | Reciter | Kufa | Shepherd | Short,Sahaba
 Muadh,Jabal | Yemen | Knowledge | Halal | Haram,Sahaba
 Usamah,Zaid | Young | Commander | Army | Beloved,Sahaba
 Ammar,Yasir | Sumayyah | Torture | Martyr | Siffin,Sahaba
 Suhaib,Rumi | Roman | Wealth | Profitable | Hijrah,Sahaba
 Abu Ubaidah,Ameen | Trustworthy | Jarrah | Syria | Plague,Sahaba
 Hamza,Uncle | Lion | Uhud | Shaheed | Hunter,Sahaba
-Abbas,Uncle | Zamzam | Water | Pilgrims | Badr,Sahaba
+Abbas ibn Abdul Muttalib,Uncle | Zamzam | Water | Pilgrims | Badr,Sahaba
 Jafar,Wings | Tayyar | Abyssinia | Najashi | Ali,Sahaba
 Adam,First | Human | Hawwa | Clay | Jannah,Prophets
 Noah,Nuh | Ark | Flood | Boat | Animals,Prophets
@@ -660,11 +646,10 @@ Aaron,Harun | Musa | Brother | Bani Israel | Firaun,Prophets
 David,Dawud | Jalut | Zabur | Iron | Sulaiman,Prophets
 Solomon,Sulaiman | Jinn | Ants | Hudhud | Dawud,Prophets
 Job,Ayyub | Sabr | Patience | Illness | Disease,Prophets
-Jonah,Yunus | Whale | Fish | Belly | Dua,Prophets
 Elijah,Ilyas | Al-Yasa | Baal | Idols | Bani Israel,Prophets
 Elisha,Al-Yasa | Ilyas | Elijah | Successor | Bani Israel,Prophets
 Zachariah,Zakariya | Yahya | Maryam | Old Age | Mihrab,Prophets
-John,Yahya | Zakariya | Isa | Cousin | Son,Prophets
+Yahya,Zakariya | Isa | Cousin | Son | Old Age,Prophets
 Jesus,Isa | Maryam | Masih | Injeel | Return,Prophets
 Muhammad,Last Prophet | Makkah | Madinah | Quran | Abdullah,Prophets
 Lot,Lut | Sodom | Ibrahim | Wife | Stones,Prophets
@@ -693,9 +678,6 @@ Jannah,Heaven | Paradise | Garden | Reward | Firdaus,Islamic Terms
 Jahannam,Hell | Fire | Dozakh | Aag | Punishment,Islamic Terms
 Ramadan,Roza | Fasting | Month | Iftar | Sehri,Islamic Terms
 Eid,Fitr | Adha | Mubarak | Sewaiyan | Celebration,Islamic Terms
-Kaaba,Makkah | Black | Tawaf | Qibla | House,Islamic Terms
-Mecca,Kaaba | Hajj | Saudi | Holy | Birthplace,Islamic Terms
-Medina,Masjid Nabawi | Hijrah | Saudi | Ansar | Green Dome,Islamic Terms
 Masjid,Mosque | Namaz | Minaret | Azan | Pray,Islamic Terms
 Imam,Leads | Namaz | Masjid | Front | Molvi,Islamic Terms
 Wudu,Wash | Water | Namaz | Ablution | Hands,Islamic Terms
@@ -719,7 +701,6 @@ Uhud,Battle | Archers | Hamza | Mountain | Madinah,Islamic Locations
 Badr,Battle | First | 313 | Ramadan | Victory,Islamic Locations
 Quba,First | Masjid | Madinah | Hijrah | Umrah,Islamic Locations
 Jannat al-Baqi,Graveyard | Madinah | Qabristan | Sahaba | Buried,Islamic Locations
-Mount Uhud,Battle | Archers | Hamza | Madinah | Mountain,Islamic Locations
 Hudaybiyyah,Treaty | Sulh | Peace | Ten Years | Umrah,Islamic Locations
 Taif,Stones | Hills | Roses | Thaqif | Cool,Islamic Locations
 Tabuk,Expedition | Romans | Last | Heat | Saudi,Islamic Locations
@@ -751,4 +732,16 @@ Al-Razi,Rhazes | Medicine | Doctor | Smallpox | Chemistry,Muslim Historical Figu
 Omar Khayyam,Poet | Rubaiyat | Calendar | Maths | Persian,Muslim Historical Figures
 Fatima al-Fihri,University | Morocco | Fez | Qarawiyyin | Founder,Muslim Historical Figures
 Nusaybah,Uhud | Shield | Sahabiyah | Warrior | Umm Ammarah,Muslim Historical Figures
-Sultan Mehmed,Constantinople | Ottoman | Fatih | Conqueror | Istanbul,Muslim Historical Figures
+Sultan Mehmed Fatih,Constantinople | Ottoman | Byzantine | Conqueror | Istanbul,Muslim Historical Figures
+Engineer,Muhandis | Bridge | Build | UET | Design,Occupations
+Nurse,Hospital | Injection | Doctor | Patient | Ward,Occupations
+Shopkeeper,Dukandar | Shop | Sell | Counter | Customer,Occupations
+Dentist,Teeth | Daant | Filling | Chair | Drill,Occupations
+Sadaqah,Charity | Give | Poor | Voluntary | Khairat,Islamic Terms
+Tahajjud,Night | Prayer | Wake | Nafl | Late,Islamic Terms
+Iftar,Ramzan | Fast | Sunset | Dates | Pakoray,Islamic Terms
+Sehri,Ramzan | Morning | Before Fajr | Paratha | Wake Up,Islamic Terms
+Azan,Call | Prayer | Muazzin | Bilal | Allahu Akbar,Islamic Terms
+Tawaf,Kaaba | Seven | Circle | Hajj | Umrah,Islamic Terms
+Sugarcane Juice,Ganna | Ras | Machine | Summer | Ginger,Beverages
+Doodh Patti,Chai | Milk | Tea | Dhaba | Strong,Beverages
