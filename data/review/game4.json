@@ -5531,28 +5531,28 @@
   {
    "id": "game4-426",
    "Name": "____",
-   "Description": "Think of a cringey moment from your life that still bothers you, what did it involve?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "Think of a cringey moment from your life that still bothers you. What did it involve?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "Think of a cringey moment from your life that still bothers you, what did it involve?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Fix comma splice."
   },
   {
    "id": "game4-427",
    "Name": "____",
-   "Description": "What must a perfect night in include?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "What must a perfect cosy night at home include?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "What must a perfect night in include?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Clearer, less Western phrasing than 'night in'."
   },
   {
    "id": "game4-428",
@@ -5609,15 +5609,15 @@
   {
    "id": "game4-432",
    "Name": "____",
-   "Description": "What piece of clothing or accessory makes you feel super confident or - at least - more confident?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "What piece of clothing or accessory makes you feel super confident?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "What piece of clothing or accessory makes you feel super confident or - at least - more confident?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Remove clumsy aside."
   },
   {
    "id": "game4-433",
@@ -5804,28 +5804,28 @@
   {
    "id": "game4-447",
    "Name": "____",
-   "Description": "What is something you will NEVER put in your mouth again!",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "What is something you will NEVER put in your mouth again?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "What is something you will NEVER put in your mouth again!",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Question needs a question mark."
   },
   {
    "id": "game4-448",
    "Name": "____",
-   "Description": "Think of a weird/harmless superstition you had as a kid... what did it involve?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "Think of a weird but harmless superstition you had as a kid. What was it?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "Think of a weird/harmless superstition you had as a kid... what did it involve?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Tidy punctuation and wording."
   },
   {
    "id": "game4-449",
@@ -5921,15 +5921,15 @@
   {
    "id": "game4-456",
    "Name": "____",
-   "Description": "What’s a business you have saved on your phone? (Or should have because you use it so often)",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "Which shop or service's number is saved on your phone because you use it so often?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "What’s a business you have saved on your phone? (Or should have because you use it so often)",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Original wording was unclear."
   },
   {
    "id": "game4-457",
@@ -6246,15 +6246,15 @@
   {
    "id": "game4-481",
    "Name": "____",
-   "Description": "Which fictional character do you really feel sorry for, one who had a really rough time?",
-   "Category": "Enough About You",
+   "Description": "Which character from a story or book do you really feel sorry for because they had such a rough time?",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "____",
     "Description": "What fictional character do you really feel sorry for? One that you felt had a really rough time? Or the one that makes you cry?",
     "Category": "Enough About You"
    },
-   "note": "wording"
+   "note": "wording; Debate: Steer away from film/TV characters and smooth grammar."
   },
   {
    "id": "game4-482",
@@ -6402,15 +6402,15 @@
   {
    "id": "game4-493",
    "Name": "____",
-   "Description": "What is a dish you make that you feel is uniquely yours? (Because you make it all the time or add something special to it?)",
-   "Category": "Enough About You",
+   "Description": "What is a dish you make that feels uniquely yours? (Maybe you make it all the time, or you add something special.)",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "____",
     "Description": "What is a dish you make you feel is uniquely yours? (Because you make it all the time or add something special to the recipe?)",
     "Category": "Enough About You"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Fix awkward question inside parentheses."
   },
   {
    "id": "game4-494",
@@ -6454,15 +6454,15 @@
   {
    "id": "game4-497",
    "Name": "____",
-   "Description": "What was featured in one of the better dreams you can remember having?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "What happened in one of the best dreams you can remember having?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "What was featured in one of the better dreams you can remember having?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: 'What was featured in one of the better dreams' is awkward."
   },
   {
    "id": "game4-498",
@@ -6519,15 +6519,15 @@
   {
    "id": "game4-502",
    "Name": "____",
-   "Description": "Think of a moment where you acted somewhat - or very - heroic... name one element of that story?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "Think of a moment when you acted a little (or very) heroic. What was one detail of that story?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "Think of a moment where you acted somewhat - or very - heroic... name one element of that story?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Fix broken grammar."
   },
   {
    "id": "game4-503",
@@ -7832,28 +7832,28 @@
   {
    "id": "game4-603",
    "Name": "the old and lonely",
-   "Description": "Futuristic Headline from the New Yorker: \"What Robots Can — And Can’t — Do for ____\"",
-   "Category": "Automation",
+   "Description": "Headline from the New Yorker: \"What Robots Can — And Can’t — Do for ____\"",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "The Old and Lonely",
     "Description": "Futuristic Headline from the New Yorker: \"What Robots Can — And Can’t — Do for ____\"",
     "Category": "Automation"
    },
-   "note": "answer case"
+   "note": "answer case; Debate: Drop misleading 'Futuristic' label; it is a real 2021 New Yorker headline."
   },
   {
    "id": "game4-604",
    "Name": "a bat",
-   "Description": "Headline from Sky News: \"Bird of the year controversy after contest is won by ____\"",
-   "Category": "Headlines",
-   "action": "keep",
+   "Description": "Headline from Sky News about New Zealand's annual vote: \"Bird of the year controversy after contest is won by ____\"",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "a bat",
     "Description": "Headline from Sky News: \"Bird of the year controversy after contest is won by ____\"",
     "Category": "Headlines"
    },
-   "note": ""
+   "note": "Debate: Add context (NZ Bird of the Year 2021, won by the long-tailed bat)."
   },
   {
    "id": "game4-605",
@@ -8079,15 +8079,15 @@
   {
    "id": "game4-622",
    "Name": "hamburger",
-   "Description": "Believable Headline from the New York Post: \"North Korea claims Kim Jong Un’s dad invented the ____\"",
-   "Category": "Inventors",
+   "Description": "Headline from the New York Post: \"North Korea claims Kim Jong Un’s dad invented the ____\"",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "Burrito",
     "Description": "Believable Headline from the New York Post: \"North Korea claims Kim Jong Un’s dad invented the ____\"",
     "Category": "Inventors"
    },
-   "note": "fact fix: the 2011/2017 claim was the hamburger, not burrito"
+   "note": "fact fix: the 2011/2017 claim was the hamburger, not burrito; Debate: Drop the confusing sarcastic 'Believable' label."
   },
   {
    "id": "game4-623",
@@ -11256,6 +11256,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Challenger's version of the Emu War card. It drops the 'birds' hint and is a different fact from the existing emu card."
+  },
+  {
+   "id": null,
+   "Name": "horse",
+   "Description": "Roman historians claimed that Emperor Caligula planned to make his favourite ____ a consul.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Famous bizarre-politics fact (Suetonius, Cassius Dio); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "20",
+   "Description": "In 2017, a Japanese railway company formally apologised because one of its trains left the station ____ seconds early.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True viral headline (Tsukuba Express, Nov 2017); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "flag",
+   "Description": "In 2012, 24,200 people at Lahore's National Hockey Stadium set a Guinness World Record by forming the largest human national ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Verified Pakistani record fact; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Happiness",
+   "Description": "Instead of measuring progress only by GDP, Bhutan officially measures its Gross National ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-known world fact that still bluffs; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "sparrows",
+   "Description": "In 1958, China's 'Four Pests' campaign had people bang pots and pans so that ____ could never land and would drop from exhaustion.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Surprising true history fact; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "541",
+   "Description": "After its 2010 election, Belgium went ____ days without a formal government, a world record at the time.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: qualify 'record' since the 2018-2020 Belgian crisis ran longer."
+  },
+  {
+   "id": null,
+   "Name": "18",
+   "Description": "In 1945, a Colorado chicken named Mike lived for about ____ months after a farmer cut off most of his head.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: blank the duration instead of the obvious 'head'; mildly dark is allowed."
   }
  ]
 }

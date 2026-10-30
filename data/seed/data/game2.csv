@@ -206,13 +206,13 @@ Monkey,Bandar | Banana | Tree | Madari | Jump,Animals
 Bear,Bhaloo | Honey | Hug | Teddy | Polar,Animals
 Deer,Hiran | Antlers | Fast | Spots | Jungle,Animals
 Rabbit,Khargosh | Carrot | Ears | Hop | White,Animals
-Fox,Lomri | Clever | Cunning | Grapes | Red,Animals
+Fox,Lomri | Clever | Khatte Angoor | Tail | Red,Animals
 Wolf,Bhediya | Howl | Moon | Pack | Jungle,Animals
 Snake,Saanp | Poison | Hiss | Cobra | Bite,Animals
 Crocodile,Magarmach | River | Jaws | Tears | Alligator,Animals
 Turtle,Kachwa | Shell | Slow | Rabbit | Race,Animals
 Frog,Maindak | Jump | Pond | Croak | Green,Animals
-Mouse,Choohi | Cheese | Computer | Cat | Small,Animals
+Mouse,Chooha | Cheese | Computer | Cat | Small,Animals
 Squirrel,Gilehri | Nuts | Tree | Stripes | Tail,Animals
 Eagle,Uqaab | Shaheen | Iqbal | Prey | Fly,Birds
 Sparrow,Chirya | Small | Brown | Chirp | Nest,Birds
@@ -221,7 +221,7 @@ Parrot,Tota | Green | Talk | Copy | Mitthu,Birds
 Crow,Kawwa | Black | Caw | Clever | Guest,Birds
 Peacock,Mor | Tail | Feathers | Rain | Colourful,Birds
 Hen,Murghi | Egg | Chicken | Anda | Farm,Birds
-Rooster,Murgha | Morning | Cock | Crow | Wake Up,Birds
+Rooster,Murgha | Kukroo-koo | Morning | Crow | Wake Up,Birds
 Duck,Batakh | Quack | Water | Pond | Swim,Birds
 Swan,Hans | White | Lake | Long Neck | Graceful,Birds
 Owl,Ullu | Night | Wise | Idiot | Hoot,Birds
@@ -278,7 +278,6 @@ Katas Raj,Hindu | Temple | Chakwal | Pond | Salt Range,Historical Places
 Derawar Fort,Cholistan | Bahawalpur | Desert | Qila | Walls,Historical Places
 Ranikot Fort,Great Wall | Sindh | Jamshoro | Qila | Walls,Historical Places
 Baltit Fort,Hunza | Karimabad | Mir | Qila | Altit,Historical Places
-Altit Fort,Hunza | Karimabad | Mir | Qila | Baltit,Historical Places
 Noor Mahal,Bahawalpur | Nawab | Palace | White | Abbasi,Historical Places
 Wazir Khan Mosque,Lahore | Tiles | Delhi Gate | Shah Jahan | Masjid,Historical Places
 Tomb of Jahangir,Shahdara | Lahore | Nur Jahan | Mughal | Ravi,Historical Places
@@ -754,3 +753,13 @@ Khussa,Shoes | Punjabi | Embroidered | Multan | Jutti,Clothing
 Peshawari Chappal,Sandal | Peshawar | Leather | Imran Khan | Pathan,Clothing
 Matka,Clay | Water | Pot | Cool | Ghara,Kitchen Items
 Mosquito,Machar | Bite | Dengue | Buzz | Blood,Animals
+Markhor,National Animal | Goat | Horns | Mountains | Chitral,Animals
+Leopard,Tendua | Spots | Margalla | Snow | Cat,Animals
+Crane,Koonj | Migration | Long Neck | Flock | Winter,Birds
+Carrom,Board | Striker | Queen | Pocket | Powder,Sports
+Gilli Danda,Stick | Street | Village | Hit | Cricket,Sports
+Makli Necropolis,Thatta | Graves | Sindh | Tombs | UNESCO,Historical Places
+Shah Rukn-e-Alam,Multan | Tomb | Sufi | Blue Tiles | Shrine,Historical Places
+Butcher,Qasai | Meat | Knife | Bakra Eid | Gosht,Occupations
+Postman,Dakia | Letter | Mail | Parcel | Bicycle,Occupations
+Chowkidar,Guard | Night | Gate | Whistle | Danda,Occupations

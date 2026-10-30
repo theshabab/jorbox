@@ -199,13 +199,13 @@ ____,What is a word or phrase you would HATE to hear whispered in your ear? One 
 ____,"What’s the best purchase you’ve made recently that was under Rs. 2,000?",Enough About You
 ____,What is your own unique measure of success in life? You’ll know you’ve made it when you ____.,Enough About You
 ____,What’s a word or phrase you use WAY too much?,Enough About You
-____,"Think of a cringey moment from your life that still bothers you, what did it involve?",Enough About You
-____,What must a perfect night in include?,Enough About You
+____,Think of a cringey moment from your life that still bothers you. What did it involve?,
+____,What must a perfect cosy night at home include?,
 ____,"Finish this sentence: ""People should spend less time ____.""",Enough About You
 ____,Name one special thing about your hometown.,Enough About You
 ____,"If you had to sum up your whole life in just two words, what would they be?",Enough About You
 ____,What’s a book from your childhood you’ve probably read more than once?,Enough About You
-____,What piece of clothing or accessory makes you feel super confident or - at least - more confident?,Enough About You
+____,What piece of clothing or accessory makes you feel super confident?,
 ____,"If you met an alien, what one item would you gift them to show off humanity?",Enough About You
 ____,"If we did a funny gift exchange right now, what would you bring? (Can’t think of anything? Name the last weird gift you bought.)",Enough About You
 ____,"If you had to eat your way through a mountain made of one food, what food would you choose?",Enough About You
@@ -219,15 +219,15 @@ ____,"Finish this sentence: ""I’m proud of my ____.""",Enough About You
 ____,"If you had to adopt an everyday smell as your signature scent, what would you choose?",Enough About You
 ____,What’s a quick piece of advice that’s always stuck with you?,Enough About You
 ____,What job would you perform in a post-apocalyptic society?,Enough About You
-____,What is something you will NEVER put in your mouth again!,Enough About You
-____,Think of a weird/harmless superstition you had as a kid... what did it involve?,Enough About You
+____,What is something you will NEVER put in your mouth again?,
+____,Think of a weird but harmless superstition you had as a kid. What was it?,
 ____,"If you won an award, who would you DEFINITELY mention in your acceptance speech?",Enough About You
 ____,"If we all moved to future colonies on Mars, what would you miss most about Earth?",Enough About You
 ____,What’s a topic you could give a two-hour talk on?,Enough About You
 ____,What’s something you enjoy at least once a week just for yourself?,Enough About You
 ____,What’s one way you give back to your community?,Enough About You
 ____,What’s something people assume about you when they first meet you?,Enough About You
-____,What’s a business you have saved on your phone? (Or should have because you use it so often),Enough About You
+____,Which shop or service's number is saved on your phone because you use it so often?,
 ____,What’s the last thing you had delivered to your house?,Enough About You
 ____,What’s something you can’t go a single day without doing or eating?,Enough About You
 ____,"What’s something you’ve placed in a time capsule, or would like to put in one?",Enough About You
@@ -248,7 +248,7 @@ ____,What’s a sound that you find soothing?,Enough About You
 ____,"If you could design a new phone app, what would you want it to do?",Enough About You
 ____,"Fill in the blank: In my friend group, I’m known as ""the ____ one"".",Enough About You
 ____,What’s something that makes you crack up every time you see it?,Enough About You
-____,"Which fictional character do you really feel sorry for, one who had a really rough time?",Enough About You
+____,Which character from a story or book do you really feel sorry for because they had such a rough time?,
 ____,"If you had to be trapped in a building, shop or attraction for 48 hours, where would you want it to be?",Enough About You
 ____,"If you had really fun kids’ pyjamas, what character or animal would you want on them?",Enough About You
 ____,What’s a question you never want to know the answer to?,Enough About You
@@ -258,16 +258,16 @@ ____,"If you were an article of clothing, what would you be?",Enough About You
 ____,"The last time you did a really big cleaning project, what were you really hesitant to throw out?",Enough About You
 ____,"When was the last time you cheated, or were tempted to cheat, in a game?",Enough About You
 ____,What is something you did half-heartedly that you really wish you had given your all?,Enough About You
-____,What is a dish you make that you feel is uniquely yours? (Because you make it all the time or add something special to it?),Enough About You
+____,"What is a dish you make that feels uniquely yours? (Maybe you make it all the time, or you add something special.)",
 ____,What is a simple task you ALWAYS nail perfectly?,Enough About You
 ____,What toy should every kid have at some point in their life?,Enough About You
 ____,What is something - even if it’s small - that makes you optimistic about the future?,Enough About You
-____,What was featured in one of the better dreams you can remember having?,Enough About You
+____,What happened in one of the best dreams you can remember having?,
 ____,"When you were bored in school, what would you usually daydream about?",Enough About You
 ____,What’s a job you ALMOST had (one you wanted or interviewed for) but didn’t get?,Enough About You
 ____,What’s a compliment you’ve received that really stuck with you? What did they say?,Enough About You
 ____,Where was the oddest place you’ve ever had a VERY serious conversation with a parent?,Enough About You
-____,Think of a moment where you acted somewhat - or very - heroic... name one element of that story?,Enough About You
+____,Think of a moment when you acted a little (or very) heroic. What was one detail of that story?,
 ____,What bad habit was fairly difficult for you to give up?,Enough About You
 ____,"What book did you never finish, or put down halfway through, because you really weren’t enjoying it?",Enough About You
 ____,"What was the last thing you fixed, repaired or put together?",Enough About You
@@ -278,8 +278,8 @@ ____,"Think about something REALLY creepy you found in an old storeroom, attic o
 jetpack,"In 2020, airline pilots approaching Los Angeles airport reported seeing a man flying a ____ at around 3,000 feet.",Headlines
 rock,"In 2012, Britain admitted that its spies in Moscow had used a fake ____ hiding electronics to secretly pass on information.",Foreign Military Technology
 reproduce,"Headline from USA Today: ""Scientists made tiny xenobots out of frog cells. Now they say those robots can ____.""",Advanced Robotics
-the old and lonely,"Futuristic Headline from the New Yorker: ""What Robots Can — And Can’t — Do for ____""",Automation
-a bat,"Headline from Sky News: ""Bird of the year controversy after contest is won by ____""",Headlines
+the old and lonely,"Headline from the New Yorker: ""What Robots Can — And Can’t — Do for ____""",
+a bat,"Headline from Sky News about New Zealand's annual vote: ""Bird of the year controversy after contest is won by ____""",
 Monkey mummy,"Bizarre Headline from The Mercury News: ""____ found in old department store grabs the spotlight""",Renovations
 too-small pants,"Thought-provoking headline from The Atlantic: ""The Nasty Logistics of Returning Your ____""",Logistics
 Onion,"Headline from Buzzfeed: ""Eat From This Curated Brunch Menu And We'll Reveal What Type Of ____ You Are""",Headlines
@@ -289,7 +289,7 @@ doing pull-ups,"Headline from Huffington Post: ""American Airlines Removes Passe
 Uber Ride,"Relatable Headline from CNN: ""Man accidentally orders $1,600 ____""",Financial Antics
 MMA fighting,"Intriguing Headline from VICE News: ""Brazilian Politicians Are Now Settling Disputes With ____""",Political Solutions
 acrylic fingernails,"Headline from New York Post: ""Times Square’s First Fountain Features 400,000 ____""",Fountains
-hamburger,"Believable Headline from the New York Post: ""North Korea claims Kim Jong Un’s dad invented the ____""",Inventors
+hamburger,"Headline from the New York Post: ""North Korea claims Kim Jong Un’s dad invented the ____""",
 drive,"Headline from Reuters: ""Like a fish out of water? Israeli team trains goldfish to ____""",New Talents
 men's underwear,"Perplexing Headline from CNN: ""Is a recession coming? Alan Greenspan says the answer is in ____""",Economics
 a blanket,"Humorous Headline from Newsweek: ""Man Hilariously Fails to Evade Cops by Hiding Under ____""",Fugitivity
@@ -660,3 +660,10 @@ dolls,"In the shrinking Japanese village of Nagoro, life-size ____ now outnumber
 Ceylon (now Sri Lanka),"In 1960, ____ became the first country in the world to have a female prime minister, Sirimavo Bandaranaike.",
 buffaloes,"In 2018, as part of a drive to cut government spending, Pakistan's Prime Minister House auctioned off eight ____.",
 emus,"In 1932, Australia sent soldiers armed with machine guns to fight a 'war' against ____, and lost.",
+horse,Roman historians claimed that Emperor Caligula planned to make his favourite ____ a consul.,
+20,"In 2017, a Japanese railway company formally apologised because one of its trains left the station ____ seconds early.",
+flag,"In 2012, 24,200 people at Lahore's National Hockey Stadium set a Guinness World Record by forming the largest human national ____.",
+Happiness,"Instead of measuring progress only by GDP, Bhutan officially measures its Gross National ____.",
+sparrows,"In 1958, China's 'Four Pests' campaign had people bang pots and pans so that ____ could never land and would drop from exhaustion.",
+541,"After its 2010 election, Belgium went ____ days without a formal government, a world record at the time.",
+18,"In 1945, a Colorado chicken named Mike lived for about ____ months after a farmer cut off most of his head.",

@@ -6311,7 +6311,7 @@
   {
    "id": "game5-486",
    "Name": "",
-   "Description": "My nani's ghost keeps ____.",
+   "Description": "The ghost in my nani's old house keeps ____.",
    "Category": "Supernatural",
    "action": "edit",
    "original": {
@@ -6319,7 +6319,7 @@
     "Description": "My grandmother's ghost ____.",
     "Category": "Supernatural"
    },
-   "note": "Localised"
+   "note": "Localised; Debate: Ghosts are allowed, but a joke about a dead grandmother's ghost is too close to an afterlife joke about a family member. The haunted-house joke stays."
   },
   {
    "id": "game5-487",
@@ -6599,13 +6599,13 @@
    "Name": "",
    "Description": "The worst decision I made was choosing ____.",
    "Category": "Bad Life Choices",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The worst decision was choosing ____.",
     "Category": "Bad Life Choices"
    },
-   "note": "Grammar"
+   "note": "Debate: Same meaning and category as idx 498 'My worst life choice was ____.', which has the lower id."
   },
   {
    "id": "game5-509",
@@ -7091,7 +7091,7 @@
   {
    "id": "game5-546",
    "Name": "",
-   "Description": "FIA guidelines now prohibit ____ on airplanes.",
+   "Description": "The Civil Aviation Authority now prohibits ____ on airplanes.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7099,12 +7099,12 @@
     "Description": "FIA guidelines now prohibit ____ on airplanes.",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "Debate: The FIA handles immigration and crime, not in-flight rules. The CAA is the correct body."
   },
   {
    "id": "game5-547",
    "Name": "",
-   "Description": "Just once, I'd like to hear you say \"Thanks, Mom. Thanks for ____.\"",
+   "Description": "Just once, I'd like to hear you say \"Thanks, Ammi. Thanks for ____.\"",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7112,12 +7112,12 @@
     "Description": "Just once, I'd like to hear you say \"Thanks, Mom. Thanks for ____.\"",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "Debate: Challenger's missed issue: localizes Mom to Ammi, matching P6."
   },
   {
    "id": "game5-548",
    "Name": "",
-   "Description": "Daddy, why is mommy crying?",
+   "Description": "Abbu, why is Ammi crying?",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7125,7 +7125,7 @@
     "Description": "Daddy, why is mommy crying?",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "Debate: Localizes Daddy/mommy to Abbu/Ammi."
   },
   {
    "id": "game5-549",
@@ -7182,7 +7182,7 @@
   {
    "id": "game5-553",
    "Name": "",
-   "Description": "50% of all marriages end in ____.",
+   "Description": "50% of all rishta meetings end in ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7190,7 +7190,7 @@
     "Description": "50% of all marriages end in ____.",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "Debate: Avoids divorce answers and is funnier for local players."
   },
   {
    "id": "game5-554",
@@ -7286,7 +7286,7 @@
   {
    "id": "game5-561",
    "Name": "",
-   "Description": "____. Betcha can't have just one!",
+   "Description": "____. Bet you can't have just one!",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7294,7 +7294,7 @@
     "Description": "____. Betcha can't have just one!",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: idx 560 (game5-561) has the lower id, so this card stays with the spelling fixed. game5-1181 should be removed when that slice is reviewed."
   },
   {
    "id": "game5-562",
@@ -7624,7 +7624,7 @@
   {
    "id": "game5-587",
    "Name": "",
-   "Description": "Hey guys, welcome to Nando's! Would you like to start the night off right with ____?",
+   "Description": "Hey guys, welcome to Nando's! Would you like to start your meal off right with ____?",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7632,7 +7632,7 @@
     "Description": "Hey guys, welcome to Nando's! Would you like to start the night off right with ____?",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "Debate: 'Start the night off right' is a drinks cue. The meal wording keeps the joke."
   },
   {
    "id": "game5-588",
@@ -7676,7 +7676,7 @@
   {
    "id": "game5-591",
    "Name": "",
-   "Description": "What's that smell?",
+   "Description": "What's that smell coming from the kitchen?",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7684,7 +7684,7 @@
     "Description": "What's that smell?",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "Debate: A bare 'What's that smell?' invites toilet answers, which the owner bans."
   },
   {
    "id": "game5-592",
@@ -7715,7 +7715,7 @@
   {
    "id": "game5-594",
    "Name": "",
-   "Description": "What would grandma find disturbing, yet oddly charming?",
+   "Description": "What would Nani find disturbing, yet oddly charming?",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7723,7 +7723,7 @@
     "Description": "What would grandma find disturbing, yet oddly charming?",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "Debate: Challenger's missed issue: localizes grandma to Nani."
   },
   {
    "id": "game5-595",
@@ -7819,7 +7819,7 @@
   {
    "id": "game5-602",
    "Name": "",
-   "Description": "Why are my hands so sticky?",
+   "Description": "Why are my hands so sticky after the dawat?",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7827,7 +7827,7 @@
     "Description": "Why am I sticky?",
     "Category": "Base Game"
    },
-   "note": "clarified to avoid crude answers"
+   "note": "clarified to avoid crude answers; Debate: Removes the innuendo setup by tying the answers to food."
   },
   {
    "id": "game5-603",
@@ -7899,13 +7899,13 @@
    "Name": "",
    "Description": "What's the government using to inspire rural students to succeed?",
    "Category": "Classic",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What's the government using to inspire rural students to suceed?",
     "Category": "Canadian Conversion Pack"
    },
-   "note": "spelling"
+   "note": "Debate: Same joke as idx 557, which has the lower id."
   },
   {
    "id": "game5-609",
@@ -7925,13 +7925,13 @@
    "Name": "",
    "Description": "PTV presents ____: the story of ____.",
    "Category": "Classic",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "CTV presents ____, the store of ____.",
     "Category": "Canadian Conversion Pack"
    },
-   "note": "fixed broken Canadian reference"
+   "note": "Debate: Same template as idx 583 (Hum TV presents), which has the lower id."
   },
   {
    "id": "game5-611",
@@ -7949,7 +7949,7 @@
   {
    "id": "game5-612",
    "Name": "",
-   "Description": "Pakistan Zindabad! We will always stand on guard for ____.",
+   "Description": "Pakistan Zindabad! Our brave jawans will always stand guard over ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7957,7 +7957,7 @@
     "Description": "Pak Sarzameen, we stand on guard for ____.",
     "Category": "Canadian Conversion Pack"
    },
-   "note": "removed Canadian anthem parody"
+   "note": "removed Canadian anthem parody; Debate: Replaces a leftover line from the Canadian anthem. Army in-jokes are allowed."
   },
   {
    "id": "game5-613",
@@ -8313,7 +8313,7 @@
   {
    "id": "game5-640",
    "Name": "",
-   "Description": "Ew. Grandpa smells like ____.",
+   "Description": "Ew. Nana Abbu smells like ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8321,7 +8321,7 @@
     "Description": "Ew. Grandpa smells like ____.",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Localizes Grandpa to Nana Abbu."
   },
   {
    "id": "game5-641",
@@ -8625,7 +8625,7 @@
   {
    "id": "game5-664",
    "Name": "",
-   "Description": "Hey, check out my YouTube channel! It's called \"Rage Against ____.\"",
+   "Description": "Hey, check out my YouTube channel! It's called \"Ammi Reacts to ____.\"",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8633,12 +8633,12 @@
     "Description": "Hey, check out my band! We're called \"Rage Against ____.\"",
     "Category": "Family Edition"
    },
-   "note": "band -> YouTube channel"
+   "note": "band -> YouTube channel; Debate: 'Rage Against ____' points to a rock band. Replaced with a local YouTube joke."
   },
   {
    "id": "game5-665",
    "Name": "",
-   "Description": "Moms love ____.",
+   "Description": "Every Ammi loves ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8646,7 +8646,7 @@
     "Description": "Moms love ____.",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Challenger's missed issue: localizes Moms. 'Every Ammi loves' reads more naturally than 'Ammis love'."
   },
   {
    "id": "game5-666",
@@ -8833,7 +8833,7 @@
   {
    "id": "game5-680",
    "Name": "",
-   "Description": "Whoa there, partner! Looks like ____ spooked my horse.",
+   "Description": "Whoa, whoa! Looks like ____ spooked the tonga horse.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8841,7 +8841,7 @@
     "Description": "Whoa there, partner! Looks like ____ spooked my horse.",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Replaces the US cowboy frame with a familiar local tonga scene."
   },
   {
    "id": "game5-681",
@@ -101149,6 +101149,62 @@
    "Category": "Travel Disasters",
    "action": "add",
    "note": "New card (debate): Local bus-travel joke, distinct from existing Daewoo smell/seat cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nani's foolproof cure for nazar: burn some red chillies and ____.",
+   "Category": "Supernatural",
+   "action": "add",
+   "note": "New card (debate): Burning red chillies against nazar is a real, well-known desi practice. The deck has only one other nazar prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi says the jinn living in the old peepal tree outside really hates ____.",
+   "Category": "Supernatural",
+   "action": "add",
+   "note": "New card (debate): A common superstition, and a different joke from the existing jinn cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Never walk past the qabristan at night, especially if you're carrying ____.",
+   "Category": "Supernatural",
+   "action": "add",
+   "note": "New card (debate): A familiar, mildly spooky superstition. It does not mock the dead and has no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I always say \"bas paanch minute mein pohanch raha hoon\" when I'm actually ____.",
+   "Category": "Toxic Traits",
+   "action": "add",
+   "note": "New card (debate): Very relatable desi toxic trait in natural Roman Urdu. Not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I keep a secret list of every relative who ever ____.",
+   "Category": "Toxic Traits",
+   "action": "add",
+   "note": "New card (debate): A different, family-based setup from 'I hold grudges over ____'."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I took career advice from the rishta aunty, and now I'm ____.",
+   "Category": "Bad Life Choices",
+   "action": "add",
+   "note": "New card (debate): Clean, and different from the other cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Breaking news: the PCB has replaced the entire cricket team with ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): A different joke from the PCB 'has banned ____' card. Cricket fits the deck."
   }
  ]
 }

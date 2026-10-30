@@ -2788,7 +2788,7 @@
   {
    "id": "game2-215",
    "Name": "Fox",
-   "Description": "Lomri | Clever | Cunning | Grapes | Red",
+   "Description": "Lomri | Clever | Khatte Angoor | Tail | Red",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2796,7 +2796,7 @@
     "Description": "animal | wild | mammal | zoo",
     "Category": "Animals"
    },
-   "note": ""
+   "note": "Debate: Clever and Cunning were synonyms that wasted a slot. Khatte Angoor is the local sour-grapes clue and Tail is a natural one."
   },
   {
    "id": "game2-216",
@@ -2866,7 +2866,7 @@
   {
    "id": "game2-221",
    "Name": "Mouse",
-   "Description": "Choohi | Cheese | Computer | Cat | Small",
+   "Description": "Chooha | Cheese | Computer | Cat | Small",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2874,7 +2874,7 @@
     "Description": "animal | wild | mammal | zoo",
     "Category": "Animals"
    },
-   "note": ""
+   "note": "Debate: Spelling fix: Chooha is the everyday word. Choohi means a female mouse."
   },
   {
    "id": "game2-222",
@@ -2996,7 +2996,7 @@
   {
    "id": "game2-231",
    "Name": "Rooster",
-   "Description": "Murgha | Morning | Cock | Crow | Wake Up",
+   "Description": "Murgha | Kukroo-koo | Morning | Crow | Wake Up",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3004,7 +3004,7 @@
     "Description": "bird | fly | feather | nest",
     "Category": "Birds"
    },
-   "note": ""
+   "note": "Debate: Replaces the giggle-prone 'Cock' with the rooster's call, which is the obvious clue."
   },
   {
    "id": "game2-232",
@@ -3739,13 +3739,13 @@
    "Name": "Altit Fort",
    "Description": "Hunza | Karimabad | Mir | Qila | Baltit",
    "Category": "Historical Places",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Altit Fort",
     "Description": "Altit | historic | old | monument",
     "Category": "Historical Places"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of Baltit Fort with the same banned words. It is less known and hard to tell apart in charades."
   },
   {
    "id": "game2-289",
@@ -9967,6 +9967,86 @@
    "Category": "Animals",
    "action": "add",
    "note": "New card (debate): Relatable, easy to act out, and not in the deck; Animals has 24 cards."
+  },
+  {
+   "id": null,
+   "Name": "Markhor",
+   "Description": "National Animal | Goat | Horns | Mountains | Chitral",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Pakistan's national animal is missing from the deck. The facts are correct."
+  },
+  {
+   "id": null,
+   "Name": "Leopard",
+   "Description": "Tendua | Spots | Margalla | Snow | Cat",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): A well-known big cat that is not in the deck, with the local Margalla leopard hook."
+  },
+  {
+   "id": null,
+   "Name": "Crane",
+   "Description": "Koonj | Migration | Long Neck | Flock | Winter",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): The koonj is a beloved winter migrant in local poetry and is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Carrom",
+   "Description": "Board | Striker | Queen | Pocket | Powder",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): A classic Pakistani household game that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Gilli Danda",
+   "Description": "Stick | Street | Village | Hit | Cricket",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): A traditional street game that is not in the deck. Uses the challenger's amendment: Cricket ('desi cricket') is a stronger ban than Wood."
+  },
+  {
+   "id": null,
+   "Name": "Makli Necropolis",
+   "Description": "Thatta | Graves | Sindh | Tombs | UNESCO",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): A major UNESCO heritage site in Sindh that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Shah Rukn-e-Alam",
+   "Description": "Multan | Tomb | Sufi | Blue Tiles | Shrine",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Multan's signature landmark is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Butcher",
+   "Description": "Qasai | Meat | Knife | Bakra Eid | Gosht",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): An everyday local job with a fitting Bakra Eid angle. Occupations is a thin category."
+  },
+  {
+   "id": null,
+   "Name": "Postman",
+   "Description": "Dakia | Letter | Mail | Parcel | Bicycle",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): A familiar occupation that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Chowkidar",
+   "Description": "Guard | Night | Gate | Whistle | Danda",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): An iconic local job (night watchman) that is not in the deck."
   }
  ]
 }
