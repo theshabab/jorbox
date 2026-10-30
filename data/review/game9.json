@@ -2273,12 +2273,12 @@
    "id": "game9-207",
    "Name": "Which is the longest bone in the human body?",
    "Description": "Femur",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which is the longest bone in the human body?",
     "Description": "Femur"
    },
-   "note": ""
+   "note": "Duplicate of: What is the longest and strongest bone in the human body?"
   },
   {
    "id": "game9-208",
@@ -3868,12 +3868,12 @@
    "id": "game9-352",
    "Name": "What is the capital of Turkey?",
    "Description": "Ankara",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of the following is NOT a capital city?",
     "Description": "Sydney"
    },
-   "note": "relied on missing options; Australia capital asked elsewhere"
+   "note": "Duplicate of: What is the name of the capital of Turkey?"
   },
   {
    "id": "game9-353",
@@ -3945,12 +3945,12 @@
    "id": "game9-359",
    "Name": "What is the largest country, by area, that has only one time zone?",
    "Description": "China",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the largest country, by area, that has only one time zone?",
     "Description": "China"
    },
-   "note": ""
+   "note": "Duplicate of: How many time zones does China have?"
   },
   {
    "id": "game9-360",
@@ -4429,12 +4429,12 @@
    "id": "game9-403",
    "Name": "How many time zones are in Russia?",
    "Description": "11",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "How many time zones are in Russia?",
     "Description": "11"
    },
-   "note": ""
+   "note": "Duplicate of: How many timezones does Russia have?"
   },
   {
    "id": "game9-404",
@@ -4495,12 +4495,12 @@
    "id": "game9-409",
    "Name": "What is the longest river in Europe?",
    "Description": "Volga",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the longest river in Europe?",
     "Description": "Volga"
    },
-   "note": ""
+   "note": "Duplicate of: What is the longest river in Europe?"
   },
   {
    "id": "game9-410",
@@ -4836,12 +4836,12 @@
    "id": "game9-440",
    "Name": "How many planets are there in the Solar System?",
    "Description": "8",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "How many planets are there in the Solar System?",
     "Description": "8"
    },
-   "note": ""
+   "note": "Duplicate of: How many planets are in our Solar System?"
   },
   {
    "id": "game9-441",
@@ -6970,12 +6970,12 @@
    "id": "game9-634",
    "Name": "In which war did the atomic bombings of Hiroshima and Nagasaki occur?",
    "Description": "World War II",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "In which war did the atomic bombings of Hiroshima and Nagasaki occur?",
     "Description": "World War II"
    },
-   "note": ""
+   "note": "Duplicate of: During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?"
   },
   {
    "id": "game9-635",
@@ -7993,12 +7993,12 @@
    "id": "game9-727",
    "Name": "What is known as the \"powerhouse\" of the eukaryotic cell?",
    "Description": "Mitochondria",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is the \"powerhouse\" of the Eukaryotic animal cell?",
     "Description": "Mitochondria"
    },
-   "note": "wording"
+   "note": "Duplicate of: What is the powerhouse of the cell?"
   },
   {
    "id": "game9-728",
@@ -8081,12 +8081,12 @@
    "id": "game9-735",
    "Name": "About what percentage of the Earth's surface is covered by water?",
    "Description": "About 71%",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "About what percentage of the Earth's surface is water?",
     "Description": "70%"
    },
-   "note": "more accurate figure"
+   "note": "Duplicate of: Roughly what percentage of Earth's surface is covered by water?"
   },
   {
    "id": "game9-736",
@@ -8136,12 +8136,12 @@
    "id": "game9-740",
    "Name": "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch is located on which Welsh island?",
    "Description": "Anglesey",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch is located on which Welsh island?",
     "Description": "Anglesey"
    },
-   "note": ""
+   "note": "Duplicate of: The village with the very long name \"Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch\" is in which country?"
   },
   {
    "id": "game9-741",
@@ -8180,12 +8180,12 @@
    "id": "game9-744",
    "Name": "What is the largest country in the world by area?",
    "Description": "Russia",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is the largest country in the world?",
     "Description": "Russia"
    },
-   "note": "clarified"
+   "note": "Duplicate of: What is the largest country in the world by area?"
   },
   {
    "id": "game9-745",
@@ -8202,12 +8202,12 @@
    "id": "game9-746",
    "Name": "What is the most populous Muslim-majority country in the world?",
    "Description": "Indonesia",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is the largest Muslim country in the world?",
     "Description": "Indonesia"
    },
-   "note": "ambiguous: largest by area is Kazakhstan"
+   "note": "Duplicate of: Which country has the world's largest Muslim population?"
   },
   {
    "id": "game9-747",
@@ -8433,12 +8433,12 @@
    "id": "game9-767",
    "Name": "What tiny principality lies between Spain and France?",
    "Description": "Andorra",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What tiny principality lies between Spain and France?",
     "Description": "Andorra"
    },
-   "note": ""
+   "note": "Duplicate of: Which small country lies in the Pyrenees between France and Spain?"
   },
   {
    "id": "game9-768",
@@ -8507,29 +8507,8 @@
   },
   {
    "id": null,
-   "Name": "In which Hijri year was the Battle of Badr fought?",
-   "Description": "2 AH",
-   "action": "add",
-   "note": "replacement: broader mix"
-  },
-  {
-   "id": null,
-   "Name": "Which Ottoman sultan conquered Constantinople in 1453?",
-   "Description": "Mehmed II",
-   "action": "add",
-   "note": "replacement: broader mix"
-  },
-  {
-   "id": null,
    "Name": "Which Muslim scientist wrote the \"Book of Optics\"?",
    "Description": "Ibn al-Haytham",
-   "action": "add",
-   "note": "replacement: broader mix"
-  },
-  {
-   "id": null,
-   "Name": "What is the chemical symbol for gold?",
-   "Description": "Au",
    "action": "add",
    "note": "replacement: broader mix"
   },
@@ -8584,22 +8563,8 @@
   },
   {
    "id": null,
-   "Name": "Which mountain pass links Pakistan and Afghanistan near Peshawar?",
-   "Description": "Khyber Pass",
-   "action": "add",
-   "note": "replacement: broader mix"
-  },
-  {
-   "id": null,
    "Name": "Who was the first caliph of Islam?",
    "Description": "Abu Bakr (RA)",
-   "action": "add",
-   "note": "replacement: broader mix"
-  },
-  {
-   "id": null,
-   "Name": "Roughly how fast does light travel in a vacuum?",
-   "Description": "About 300,000 km per second",
    "action": "add",
    "note": "replacement: broader mix"
   },
@@ -8656,13 +8621,6 @@
    "id": null,
    "Name": "In which city is the shrine of Data Ganj Bakhsh (Ali Hujwiri)?",
    "Description": "Lahore",
-   "action": "add",
-   "note": "replacement: Pakistani/Islamic/science/geography"
-  },
-  {
-   "id": null,
-   "Name": "What is the longest river in Africa?",
-   "Description": "Nile",
    "action": "add",
    "note": "replacement: Pakistani/Islamic/science/geography"
   },
@@ -8733,13 +8691,6 @@
    "id": null,
    "Name": "In which year CE did the Hijrah from Makkah to Madinah take place?",
    "Description": "622 CE",
-   "action": "add",
-   "note": "replacement for removed card"
-  },
-  {
-   "id": null,
-   "Name": "Mohenjo-daro in Sindh was a city of which ancient civilisation?",
-   "Description": "Indus Valley Civilisation",
    "action": "add",
    "note": "replacement for removed card"
   },
@@ -8822,27 +8773,6 @@
   },
   {
    "id": null,
-   "Name": "In which year CE did the Hijrah to Madinah take place?",
-   "Description": "622",
-   "action": "add",
-   "note": "replacement: Pakistan/Islamic/science/geography"
-  },
-  {
-   "id": null,
-   "Name": "Which Ottoman sultan conquered Constantinople in 1453?",
-   "Description": "Mehmed II (al-Fatih)",
-   "action": "add",
-   "note": "replacement: Pakistan/Islamic/science/geography"
-  },
-  {
-   "id": null,
-   "Name": "In 1187, which Muslim leader retook Jerusalem from the Crusaders?",
-   "Description": "Salahuddin Ayyubi",
-   "action": "add",
-   "note": "replacement: Pakistan/Islamic/science/geography"
-  },
-  {
-   "id": null,
    "Name": "What is the closest star to Earth?",
    "Description": "The Sun",
    "action": "add",
@@ -8901,13 +8831,6 @@
    "id": null,
    "Name": "In which district of Balochistan did Pakistan conduct its 1998 nuclear tests?",
    "Description": "Chagai",
-   "action": "add",
-   "note": "replacement for removed US/off-topic card"
-  },
-  {
-   "id": null,
-   "Name": "Which poet is known as the \"Poet of the East\" (Shair-e-Mashriq)?",
-   "Description": "Allama Muhammad Iqbal",
    "action": "add",
    "note": "replacement for removed US/off-topic card"
   },
@@ -9088,22 +9011,8 @@
   },
   {
    "id": null,
-   "Name": "Which Ottoman sultan conquered Constantinople in 1453?",
-   "Description": "Mehmed II (the Conqueror)",
-   "action": "add",
-   "note": "replacement: Pakistani/Islamic/science/geography"
-  },
-  {
-   "id": null,
    "Name": "Which Umayyad caliph built the Dome of the Rock in Jerusalem?",
    "Description": "Abd al-Malik ibn Marwan",
-   "action": "add",
-   "note": "replacement: Pakistani/Islamic/science/geography"
-  },
-  {
-   "id": null,
-   "Name": "The Strait of Gibraltar is named after which Muslim commander?",
-   "Description": "Tariq ibn Ziyad",
    "action": "add",
    "note": "replacement: Pakistani/Islamic/science/geography"
   },
@@ -9113,6 +9022,806 @@
    "Description": "Na",
    "action": "add",
    "note": "replacement: Pakistani/Islamic/science/geography"
+  },
+  {
+   "id": null,
+   "Name": "What is the national bird of Pakistan?",
+   "Description": "Chukar partridge",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the national tree of Pakistan?",
+   "Description": "Deodar (Himalayan cedar)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani city is known as the \"City of Saints\"?",
+   "Description": "Multan",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Khyber Pakhtunkhwa?",
+   "Description": "Peshawar",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Balochistan?",
+   "Description": "Quetta",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which desert lies in the south-east of Sindh, along the border with India?",
+   "Description": "Thar Desert",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which lake in Sindh is the largest freshwater lake in Pakistan?",
+   "Description": "Manchar Lake",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which high plateau in Gilgit-Baltistan is known as the \"Land of Giants\"?",
+   "Description": "Deosai Plains",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which deep-sea port lies on the Balochistan coast?",
+   "Description": "Gwadar",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which river flows past Lahore?",
+   "Description": "Ravi",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which sea lies to the south of Pakistan?",
+   "Description": "Arabian Sea",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani city is world-famous for making footballs and sports goods?",
+   "Description": "Sialkot",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which ancient city near Islamabad is a UNESCO site famous for its Gandhara ruins?",
+   "Description": "Taxila",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Mughal emperor's tomb is at Shahdara Bagh in Lahore?",
+   "Description": "Jahangir",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the name of Quaid-e-Azam's mausoleum in Karachi?",
+   "Description": "Mazar-e-Quaid",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What does the name \"Pakistan\" mean?",
+   "Description": "Land of the pure",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who coined the name \"Pakistan\" in 1933?",
+   "Description": "Choudhry Rahmat Ali",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which title was given to Fatima Jinnah?",
+   "Description": "Madar-e-Millat (Mother of the Nation)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who founded the Muhammadan Anglo-Oriental College at Aligarh in 1875?",
+   "Description": "Sir Syed Ahmad Khan",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which year was the All-India Muslim League founded?",
+   "Description": "1906",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which year did Pakistan adopt its first constitution?",
+   "Description": "1956",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Sindhi Sufi poet wrote the \"Shah Jo Risalo\"?",
+   "Description": "Shah Abdul Latif Bhittai",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani humanitarian founded one of the world's largest volunteer ambulance networks?",
+   "Description": "Abdul Sattar Edhi",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which year did Pakistan win the Cricket World Cup?",
+   "Description": "1992",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which city was the 1992 Cricket World Cup final played?",
+   "Description": "Melbourne",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Pakistan won the first-ever men's Hockey World Cup in which year?",
+   "Description": "1971",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which year did Pakistan win the ICC T20 World Cup in England?",
+   "Description": "2009",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani fast bowler was nicknamed the \"Rawalpindi Express\"?",
+   "Description": "Shoaib Akhtar",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who became the first bowler to take 400 wickets in one-day internationals?",
+   "Description": "Wasim Akram",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who scored Pakistan's first Test triple century, 337 against the West Indies in 1958?",
+   "Description": "Hanif Mohammad",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani squash player won the British Open ten years in a row?",
+   "Description": "Jahangir Khan",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani squash player won the World Open a record eight times?",
+   "Description": "Jansher Khan",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the longest surah of the Quran?",
+   "Description": "Al-Baqarah",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the shortest surah of the Quran?",
+   "Description": "Al-Kawthar",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which surah of the Quran does not begin with Bismillah?",
+   "Description": "At-Tawbah",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which surah of the Quran is named after a woman?",
+   "Description": "Maryam",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Into how many juz (paras) is the Quran divided?",
+   "Description": "30",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which month was the Quran first revealed?",
+   "Description": "Ramadan",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What was the first word of the Quran revealed to the Prophet (PBUH)?",
+   "Description": "Iqra (Read)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which angel brought the revelation to the Prophet Muhammad (PBUH)?",
+   "Description": "Jibreel (Gabriel)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What was the name of the Prophet Muhammad's (PBUH) mother?",
+   "Description": "Aminah bint Wahb",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who was the first muezzin of Islam?",
+   "Description": "Bilal ibn Rabah (RA)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which was the first mosque built by the Prophet (PBUH), on his arrival near Madinah?",
+   "Description": "Masjid Quba",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet was swallowed by a great fish?",
+   "Description": "Yunus (AS)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet built the Ark?",
+   "Description": "Nuh (AS)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet is given the title Khalilullah (Friend of Allah)?",
+   "Description": "Ibrahim (AS)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet was given command over the wind and the jinn?",
+   "Description": "Sulaiman (AS)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which battle of 3 AH was fought at a mountain just north of Madinah?",
+   "Description": "Battle of Uhud",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which battle did the Muslims defend Madinah by digging a trench?",
+   "Description": "Battle of the Trench (Khandaq)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which Hijri year did the Muslims peacefully conquer Makkah?",
+   "Description": "8 AH",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which caliph introduced the Hijri calendar?",
+   "Description": "Umar ibn al-Khattab (RA)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who was the fourth Rightly Guided Caliph?",
+   "Description": "Ali ibn Abi Talib (RA)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the name of the blessed well inside the Masjid al-Haram in Makkah?",
+   "Description": "Zamzam",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the black cloth that covers the Kaaba called?",
+   "Description": "Kiswah",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "The year in which Khadijah (RA) and Abu Talib died is known by what name?",
+   "Description": "Aam al-Huzn (Year of Sorrow)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which companion was given the title \"Sayfullah\" (the Sword of Allah)?",
+   "Description": "Khalid ibn al-Walid (RA)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "How many fard rakats are in the Fajr prayer?",
+   "Description": "Two",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who founded al-Qarawiyyin in Fez, the oldest continuously operating university?",
+   "Description": "Fatima al-Fihri",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which city became the first major Ottoman capital after its capture in 1326?",
+   "Description": "Bursa",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "The Mezquita, the great mosque of Al-Andalus, is in which Spanish city?",
+   "Description": "Córdoba",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which battle in 1526 allowed Babur to found the Mughal Empire?",
+   "Description": "First Battle of Panipat",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which 14th-century scholar wrote the \"Muqaddimah\" and is seen as a founder of sociology?",
+   "Description": "Ibn Khaldun",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which 12th-century Muslim engineer described the famous \"elephant clock\"?",
+   "Description": "Al-Jazari",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Andalusian surgeon is often called the father of modern surgery?",
+   "Description": "Al-Zahrawi (Albucasis)",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Istanbul's Sultan Ahmed Mosque is popularly known by what name?",
+   "Description": "The Blue Mosque",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "The historic Silk Road city of Samarkand is in which country?",
+   "Description": "Uzbekistan",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which strait links the Persian Gulf to the Gulf of Oman?",
+   "Description": "Strait of Hormuz",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Morocco?",
+   "Description": "Rabat",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Azerbaijan?",
+   "Description": "Baku",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Iran?",
+   "Description": "Tehran",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which planet is known as the Red Planet?",
+   "Description": "Mars",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which planet is best known for its bright ring system?",
+   "Description": "Saturn",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the freezing point of water in degrees Fahrenheit?",
+   "Description": "32°F",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which metal is liquid at room temperature?",
+   "Description": "Mercury",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which vitamin does the skin make when exposed to sunlight?",
+   "Description": "Vitamin D",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "How many hearts does an octopus have?",
+   "Description": "Three",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the tallest animal in the world?",
+   "Description": "Giraffe",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the largest living bird?",
+   "Description": "Ostrich",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which animal is called the \"ship of the desert\"?",
+   "Description": "Camel",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What do bees collect from flowers to make honey?",
+   "Description": "Nectar",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the process by which water vapour turns into liquid water?",
+   "Description": "Condensation",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who invented the printing press with movable metal type in about 1440?",
+   "Description": "Johannes Gutenberg",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who made the first powered aeroplane flight in 1903?",
+   "Description": "The Wright brothers",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who invented the World Wide Web?",
+   "Description": "Tim Berners-Lee",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who invented dynamite?",
+   "Description": "Alfred Nobel",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "How many degrees do the interior angles of a triangle add up to?",
+   "Description": "180",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the value of pi to two decimal places?",
+   "Description": "3.14",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the square root of 144?",
+   "Description": "12",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "How many seconds are there in one hour?",
+   "Description": "3,600",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is an eight-sided shape called?",
+   "Description": "Octagon",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the highest mountain in Africa?",
+   "Description": "Mount Kilimanjaro",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the longest river in Asia?",
+   "Description": "Yangtze",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which desert covers much of Mongolia and northern China?",
+   "Description": "Gobi Desert",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the lowest point on dry land on Earth?",
+   "Description": "The shores of the Dead Sea",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which European country is shaped like a boot?",
+   "Description": "Italy",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is a word that reads the same backwards and forwards called?",
+   "Description": "Palindrome",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "How many letters are there in the Arabic alphabet?",
+   "Description": "28",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which calligraphic style is Urdu usually written?",
+   "Description": "Nastaliq",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What does the Arabic word \"kitab\" mean?",
+   "Description": "Book",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which language has the most native speakers in the world?",
+   "Description": "Mandarin Chinese",
+   "Category": "",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }
