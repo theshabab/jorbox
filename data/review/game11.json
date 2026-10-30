@@ -3097,13 +3097,13 @@
   {
    "id": "game11-282",
    "Name": "Problem",
-   "Description": "I wish I had an invisibility cloak for my _____!",
+   "Description": "I wish I could make my _____ invisible!",
    "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could invisible-cloak my _____!"
    },
-   "note": "grammar"
+   "note": "grammar; Sweep: invisibility cloak (magic) removed"
   },
   {
    "id": "game11-283",
@@ -4736,13 +4736,13 @@
   {
    "id": "game11-431",
    "Name": "Customer",
-   "Description": "Magician",
-   "action": "keep",
+   "Description": "Madari",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Magician"
    },
-   "note": ""
+   "note": "Sweep: magician replaced with local street performer"
   },
   {
    "id": "game11-432",
@@ -5419,12 +5419,12 @@
    "id": "game11-493",
    "Name": "Customer",
    "Description": "Witch",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Witch"
    },
-   "note": ""
+   "note": "Sweep: magic (witch)"
   },
   {
    "id": "game11-494",
@@ -5441,12 +5441,12 @@
    "id": "game11-495",
    "Name": "Customer",
    "Description": "Wizard",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Wizard"
    },
-   "note": ""
+   "note": "Sweep: magic (wizard)"
   },
   {
    "id": "game11-496",
