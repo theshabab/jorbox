@@ -48,3 +48,8 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 - Removed 97: questions about music, bands, concerts, songs, movies, TV, sitcoms, Netflix, celebrities, crushes, soulmates, pick-up lines, tattoos, lotteries and cursing, plus duplicates. Reworded others (date spot → where you take visiting guests, holidays → Eid, "White House" → PM House, a crore rupees instead of the lottery).
 - Kept: childhood cartoons, documentaries, rishta stories, "craziest dare", and questions about insecurities and loneliness. Any of these too much?
 - Should naat or nasheed questions replace the 12 music questions that were removed?
+
+## Karobari: done (497 → 460)
+
+- Removed 37, mostly duplicate Problem cards, plus Hippie, Rapper, Lottery Winner, Secret Admirer, Cupid, Missionary, Amputee, Tailgater, Surfer and Little Red Riding Hood. Swapped Western customers for local ones: Quarterback → Cricket Captain, Pro Wrestler → Pehlwan, Cowboy → Shepherd, Bouncer → Security Guard, Dumpster Diver → Kabari Wala, Fortune Teller → Weather Forecaster, and so on. Fixed a broken word ("I've Humsafar three jobs" → "lost").
+- Kept fantasy customers (Ghost, Witch, Wizard, Vampire, Zombie, Pharaoh) and Executioner. Should witches and wizards go because of sihr?

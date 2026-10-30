@@ -1,0 +1,5474 @@
+{
+ "game": "game11",
+ "name": "Karobari",
+ "baseCommit": "3f43360",
+ "cards": [
+  {
+   "id": "game11-1",
+   "Name": "Problem",
+   "Description": "I could really use a smaller _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I could really use a smaller _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-2",
+   "Name": "Problem",
+   "Description": "I wish _____ were more fun!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish _____ were more fun!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-3",
+   "Name": "Problem",
+   "Description": "I would like to support _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I would like to support _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-4",
+   "Name": "Problem",
+   "Description": "I would like to know when _____ happens!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I would like to know when _____ happens!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-5",
+   "Name": "Problem",
+   "Description": "I want people to know about my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want people to know about my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-6",
+   "Name": "Problem",
+   "Description": "I keep ruining _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I keep ruining _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-7",
+   "Name": "Problem",
+   "Description": "I’ve always wanted to explore _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’ve always wanted to explore _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-8",
+   "Name": "Problem",
+   "Description": "I’m tired of getting _____ every single day!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m tired of getting _____ every single day!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-9",
+   "Name": "Problem",
+   "Description": "I wish I were more _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I was more _____!"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game11-10",
+   "Name": "Problem",
+   "Description": "I keep getting _____ on me!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I keep getting _____ on me!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-11",
+   "Name": "Problem",
+   "Description": "I am not looking forward to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I am not looking forward to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-12",
+   "Name": "Problem",
+   "Description": "_____ just doesn’t satisfy me anymore!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ just doesn’t satisfy me anymore!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-13",
+   "Name": "Problem",
+   "Description": "I’m tired of people borrowing my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m tired of people borrowing my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-14",
+   "Name": "Problem",
+   "Description": "I never know what to buy for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I never know what to buy for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-15",
+   "Name": "Problem",
+   "Description": "I keep getting interrupted when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I keep getting interrupted when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-16",
+   "Name": "Problem",
+   "Description": "I require a very fancy _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I require a very fancy _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-17",
+   "Name": "Problem",
+   "Description": "There’s a real risk I might _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "There’s a real risk I might _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-18",
+   "Name": "Problem",
+   "Description": "I never know how much to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I never know how much to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-19",
+   "Name": "Problem",
+   "Description": "I can’t hold on to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t hold on to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-20",
+   "Name": "Problem",
+   "Description": "I need to change _____, now!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need to change _____, now!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-21",
+   "Name": "Problem",
+   "Description": "I can’t stand how slow _____ is!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t stand how slow _____ is!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-22",
+   "Name": "Problem",
+   "Description": "People are always staring at my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "People are always staring at my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-23",
+   "Name": "Problem",
+   "Description": "I miss the good ol’ days of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I miss the good ol’ days of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-24",
+   "Name": "Problem",
+   "Description": "My _____ leaks!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My _____ leaks!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-25",
+   "Name": "Problem",
+   "Description": "I want to be the first person to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to be the first person to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-26",
+   "Name": "Problem",
+   "Description": "I wish I had the energy to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I had the energy to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-27",
+   "Name": "Problem",
+   "Description": "My spouse keeps forgetting my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My spouse keeps forgetting my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-28",
+   "Name": "Problem",
+   "Description": "I need a place just for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a place just for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-29",
+   "Name": "Problem",
+   "Description": "I need to organize _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need to organize _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-30",
+   "Name": "Problem",
+   "Description": "I think my parents might be getting _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I think my parents might be getting _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-31",
+   "Name": "Problem",
+   "Description": "_____ is just too crowded.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ is just too crowded."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-32",
+   "Name": "Problem",
+   "Description": "There’s never enough time to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "There’s never enough time to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-33",
+   "Name": "Problem",
+   "Description": "I hate getting older because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate getting older because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-34",
+   "Name": "Problem",
+   "Description": "My job needs more _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My job needs more _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-35",
+   "Name": "Problem",
+   "Description": "I always forget _____ when I travel!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I always forget _____ when I travel!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-36",
+   "Name": "Problem",
+   "Description": "I’m only happy when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m only happy when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-37",
+   "Name": "Problem",
+   "Description": "I get so sleepy when I have to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I get so sleepy when I have to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-38",
+   "Name": "Problem",
+   "Description": "When I get angry, I _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "When I get angry, I _____!!!"
+   },
+   "note": "punctuation"
+  },
+  {
+   "id": "game11-39",
+   "Name": "Problem",
+   "Description": "My house always smells like _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My house always smells like _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-40",
+   "Name": "Problem",
+   "Description": "Wild animals keep eating my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Wild animals keep eating my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-41",
+   "Name": "Problem",
+   "Description": "My vacations are always ruined by _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My vacations are always ruined by _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-42",
+   "Name": "Problem",
+   "Description": "I want to get in shape while I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to get in shape while I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-43",
+   "Name": "Problem",
+   "Description": "I regret that I never _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I regret that I never _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-44",
+   "Name": "Problem",
+   "Description": "_____ always makes me cry!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ always make me cry!"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game11-45",
+   "Name": "Problem",
+   "Description": "I’m worried I’m not prepared for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m worried I’m not prepared for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-46",
+   "Name": "Problem",
+   "Description": "I want to safely _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to safely _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-47",
+   "Name": "Problem",
+   "Description": "I want to help the environment while I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to help the environment while I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-48",
+   "Name": "Problem",
+   "Description": "I have trouble climbing _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I have trouble climbing _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-49",
+   "Name": "Problem",
+   "Description": "I need to defend myself from _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need to defend myself from _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-50",
+   "Name": "Problem",
+   "Description": "When I speak in public, I _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "When I speak in public, I _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-51",
+   "Name": "Problem",
+   "Description": "I’m tired of having my son explain _____ to me!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m tired of having my son explain _____ to me!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-52",
+   "Name": "Problem",
+   "Description": "I hate rishta hunting because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate rishta hunting because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-53",
+   "Name": "Problem",
+   "Description": "I don’t invite people over because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I don’t invite people over because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-54",
+   "Name": "Problem",
+   "Description": "I need a way to get out of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a way to get out of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-55",
+   "Name": "Problem",
+   "Description": "I wish my kids would _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish my kids would _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-56",
+   "Name": "Problem",
+   "Description": "As I get older, I need more _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "As I get older, I need more _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-57",
+   "Name": "Problem",
+   "Description": "I can’t sleep without _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t sleep without _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-58",
+   "Name": "Problem",
+   "Description": "Constant _____ is stressing me out!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Constant _____ is stressing me out!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-59",
+   "Name": "Problem",
+   "Description": "I dread the Eid holidays because of _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I dread the holidays because of _____!"
+   },
+   "note": "local frame"
+  },
+  {
+   "id": "game11-60",
+   "Name": "Problem",
+   "Description": "I don’t enjoy _____ anymore!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I don’t enjoy _____ anymore!"
+   },
+   "note": "duplicate of game11-12"
+  },
+  {
+   "id": "game11-61",
+   "Name": "Problem",
+   "Description": "I mess up my job interviews when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I mess up my job interviews when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-62",
+   "Name": "Problem",
+   "Description": "I can’t get _____ out of my clothes!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t get _____ out of my clothes!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-63",
+   "Name": "Problem",
+   "Description": "I want to _____ like I used to!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to _____ like I used to!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-64",
+   "Name": "Problem",
+   "Description": "I’m tired of my spouse taking my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m tired of my spouse taking my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-65",
+   "Name": "Problem",
+   "Description": "I just want to _____ all day!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I just want to _____ all day!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-66",
+   "Name": "Problem",
+   "Description": "I waste too much time _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I waste too much time _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-67",
+   "Name": "Problem",
+   "Description": "I’m scared to start _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m scared to start _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-68",
+   "Name": "Problem",
+   "Description": "I’m dissatisfied with the quality of _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m dissatisfied with the quality of _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-69",
+   "Name": "Problem",
+   "Description": "I have a terrible relationship with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I have a terrible relationship with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-70",
+   "Name": "Problem",
+   "Description": "I have to get up in the middle of the night to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I have to get up in the middle of the night to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-71",
+   "Name": "Problem",
+   "Description": "I’m disgusted by _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m disgusted by _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-72",
+   "Name": "Problem",
+   "Description": "I’m angry about _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m angry about _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-73",
+   "Name": "Problem",
+   "Description": "I’m too tired to _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m too tired to _____!"
+   },
+   "note": "duplicate of game11-26"
+  },
+  {
+   "id": "game11-74",
+   "Name": "Problem",
+   "Description": "_____ happens too frequently.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ happens too frequently."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-75",
+   "Name": "Problem",
+   "Description": "I am obsessed with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I am obsessed with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-76",
+   "Name": "Problem",
+   "Description": "I think _____ is just too dangerous!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I think _____ is just too dangerous!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-77",
+   "Name": "Problem",
+   "Description": "I want to walk and _____ at the same time!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to walk and _____ at the same time!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-78",
+   "Name": "Problem",
+   "Description": "I can never find a good _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can never find a good _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-79",
+   "Name": "Problem",
+   "Description": "All I do is work on my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "All I do is work on my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-80",
+   "Name": "Problem",
+   "Description": "I’m due in court, but I have a _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m due in court, but I have a _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-81",
+   "Name": "Problem",
+   "Description": "_____ is too cold!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ is too cold!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-82",
+   "Name": "Problem",
+   "Description": "I’m tired of endless _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m tired of endless _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-83",
+   "Name": "Problem",
+   "Description": "There’s always a _____ outside my window!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "There’s always a _____ outside my window!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-84",
+   "Name": "Problem",
+   "Description": "I really need access to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I really need access to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-85",
+   "Name": "Problem",
+   "Description": "I wish I knew more about _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I knew more about _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-86",
+   "Name": "Problem",
+   "Description": "I hate that everyone calls me _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate that everyone calls me _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-87",
+   "Name": "Problem",
+   "Description": "I want to be in the _____ Hall of Fame!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to be in the _____ Hall of Fame!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-88",
+   "Name": "Problem",
+   "Description": "I love having a pool but I hate _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I love having a pool but I hate _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-89",
+   "Name": "Problem",
+   "Description": "My lunch break is always interrupted by _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My lunch break is always interrupted by _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-90",
+   "Name": "Problem",
+   "Description": "I worry about running into _____ in a dark alley!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I worry about running into _____ in a dark alley!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-91",
+   "Name": "Problem",
+   "Description": "I’m scared of finding _____ in my storeroom!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m scared of finding _____ in my basement!"
+   },
+   "note": "basements are rare in Pakistan"
+  },
+  {
+   "id": "game11-92",
+   "Name": "Problem",
+   "Description": "My cat won’t stop _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My cat won’t stop _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-93",
+   "Name": "Problem",
+   "Description": "I always _____ at weddings!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I always _____ at weddings!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-94",
+   "Name": "Problem",
+   "Description": "I always get hungry while I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I always get hungry while I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-95",
+   "Name": "Problem",
+   "Description": "I wish I could reuse _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could reuse _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-96",
+   "Name": "Problem",
+   "Description": "I hate shopping because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate shopping because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-97",
+   "Name": "Problem",
+   "Description": "I can’t stop thinking about _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t stop thinking about _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-98",
+   "Name": "Problem",
+   "Description": "My family needs more _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My family needs more _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-99",
+   "Name": "Problem",
+   "Description": "Nothing embarrasses me more than _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Nothing embarrasses me more than _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-100",
+   "Name": "Problem",
+   "Description": "I want to drive and _____ at the same time!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to drive and _____ at the same time!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-101",
+   "Name": "Problem",
+   "Description": "I can’t sleep because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t sleep because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-102",
+   "Name": "Problem",
+   "Description": "I don’t trust _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I don’t trust _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-103",
+   "Name": "Problem",
+   "Description": "I have too many _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I have too many _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-104",
+   "Name": "Problem",
+   "Description": "I wish I could meet _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could meet _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-105",
+   "Name": "Problem",
+   "Description": "I need to get _____, fast!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need to get _____, fast!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-106",
+   "Name": "Problem",
+   "Description": "I have too many _____ lying around my house!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I have too many _____ lying around my house!"
+   },
+   "note": "duplicate of 103"
+  },
+  {
+   "id": "game11-107",
+   "Name": "Problem",
+   "Description": "The worst part of work is _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "The worst part of work is _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-108",
+   "Name": "Problem",
+   "Description": "I can’t relax because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t relax because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-109",
+   "Name": "Problem",
+   "Description": "I wish I knew what it was like to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I knew what it was like to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-110",
+   "Name": "Problem",
+   "Description": "I’m tired of hearing about _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m tired of hearing about _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-111",
+   "Name": "Problem",
+   "Description": "I’m always attracting _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m always attracting _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-112",
+   "Name": "Problem",
+   "Description": "I’m constantly cleaning my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m constantly cleaning my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-113",
+   "Name": "Problem",
+   "Description": "I would love to _____ like a professional!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I would love to _____ like a professional!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-114",
+   "Name": "Problem",
+   "Description": "I want to live like _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to live like _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-115",
+   "Name": "Problem",
+   "Description": "I wish I could get my _____ back!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could get my _____ back!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-116",
+   "Name": "Problem",
+   "Description": "The worst part of winter is _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "The worst part of winter is _____!!!"
+   },
+   "note": "punctuation"
+  },
+  {
+   "id": "game11-117",
+   "Name": "Problem",
+   "Description": "I find _____ to be incredibly dangerous!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I find _____ to be incredibly dangerous!"
+   },
+   "note": "duplicate of 76"
+  },
+  {
+   "id": "game11-118",
+   "Name": "Problem",
+   "Description": "My biggest fear is _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My biggest fear is _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-119",
+   "Name": "Problem",
+   "Description": "It’s embarrassing to be at a wedding and not have _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "It’s embarrassing to be at a wedding and not have _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-120",
+   "Name": "Problem",
+   "Description": "I hate going camping because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate going camping because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-121",
+   "Name": "Problem",
+   "Description": "I annoy people when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I annoy people when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-122",
+   "Name": "Problem",
+   "Description": "I’m always losing my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m always losing my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-123",
+   "Name": "Problem",
+   "Description": "I’m tired of not being able to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m tired of not being able to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-124",
+   "Name": "Problem",
+   "Description": "In five years, we’ll all say “We should’ve stopped _____.”",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "In five years, we’ll all say “We should’ve stopped _____.”"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-125",
+   "Name": "Problem",
+   "Description": "There’s gotta be a way to make _____ less boring!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "There’s gotta be a way to make _____ less boring!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-126",
+   "Name": "Problem",
+   "Description": "I would get more work done if I didn’t have to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I would get more work done if I didn’t have to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-127",
+   "Name": "Problem",
+   "Description": "My garden is infested with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My garden is infested with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-128",
+   "Name": "Problem",
+   "Description": "They won’t let me take my _____ on airplanes!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "They won’t let me take my _____ on airplanes!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-129",
+   "Name": "Problem",
+   "Description": "My kids won’t leave _____ alone!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My kids won’t leave _____ alone!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-130",
+   "Name": "Problem",
+   "Description": "My baby needs to learn to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My baby needs to learn to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-131",
+   "Name": "Problem",
+   "Description": "I want to make my own _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to make my own _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-132",
+   "Name": "Problem",
+   "Description": "Why can’t _____ be cheaper?!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Why can’t _____ be cheaper?!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-133",
+   "Name": "Problem",
+   "Description": "I hate to fly because of _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate to fly because of _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-134",
+   "Name": "Problem",
+   "Description": "_____ keeps me from working out!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ keeps me from working out!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-135",
+   "Name": "Problem",
+   "Description": "I find _____ to be straight-up confusing.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I find _____ to be straight-up confusing."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-136",
+   "Name": "Problem",
+   "Description": "I’m always tired because I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m always tired because I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-137",
+   "Name": "Problem",
+   "Description": "I want to always have _____ with me!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to always have _____ with me!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-138",
+   "Name": "Problem",
+   "Description": "I need more _____ in my diet.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need more _____ in my diet."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-139",
+   "Name": "Problem",
+   "Description": "Every time I open my phone, I see _____.",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "Every time I turn on the tv, I see _____."
+   },
+   "note": "TV reference"
+  },
+  {
+   "id": "game11-140",
+   "Name": "Problem",
+   "Description": "People always ask me for _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "People always ask me for _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-141",
+   "Name": "Problem",
+   "Description": "_____ keep appearing on my doorstep!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ keep appearing on my doorstep!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-142",
+   "Name": "Problem",
+   "Description": "I’m always craving _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m always craving _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-143",
+   "Name": "Problem",
+   "Description": "I can never remember my _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can never remember my _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-144",
+   "Name": "Problem",
+   "Description": "I’m constantly running from _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m constantly running from _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-145",
+   "Name": "Problem",
+   "Description": "I find _____ to be very disagreeable.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I find _____ to be very disagreeable."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-146",
+   "Name": "Problem",
+   "Description": "I absolutely hate the sound of _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I absolutely hate the sound of _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-147",
+   "Name": "Problem",
+   "Description": "I wish _____ were more accessible.",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish _____ was more accessible."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game11-148",
+   "Name": "Problem",
+   "Description": "_____ terrifies me!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ terrifies me!"
+   },
+   "note": "duplicate of 118"
+  },
+  {
+   "id": "game11-149",
+   "Name": "Problem",
+   "Description": "I’m embarrassed to love _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m embarrassed to love _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-150",
+   "Name": "Problem",
+   "Description": "I keep getting arrested for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I keep getting arrested for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-151",
+   "Name": "Problem",
+   "Description": "I really miss _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I really miss _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-152",
+   "Name": "Problem",
+   "Description": "My _____ keeps coming back!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My _____ keeps coming back!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-153",
+   "Name": "Problem",
+   "Description": "I want to _____ with my family!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to _____ with my family!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-154",
+   "Name": "Problem",
+   "Description": "I can never get caught up on _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can never get caught up on _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-155",
+   "Name": "Problem",
+   "Description": "I wish I knew what is was like to be _____.",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I knew what is was like to be _____."
+   },
+   "note": "duplicate of 109"
+  },
+  {
+   "id": "game11-156",
+   "Name": "Problem",
+   "Description": "I hate waiting more than five minutes for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate waiting more than five minutes for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-157",
+   "Name": "Problem",
+   "Description": "I wish I could always be in _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could always be in _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-158",
+   "Name": "Problem",
+   "Description": "I hate to eat _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate to eat _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-159",
+   "Name": "Problem",
+   "Description": "I want to learn more about _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to learn more about _____!"
+   },
+   "note": "duplicate of 85"
+  },
+  {
+   "id": "game11-160",
+   "Name": "Problem",
+   "Description": "I want to see more _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to see more _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-161",
+   "Name": "Problem",
+   "Description": "_____ are too tall!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "_____ are too tall!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-162",
+   "Name": "Problem",
+   "Description": "I don’t look good in _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I don’t look good in _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-163",
+   "Name": "Problem",
+   "Description": "I never have a _____ when I need one!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I never have a _____ when I need one!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-164",
+   "Name": "Problem",
+   "Description": "Whenever I host a dinner, _____ shows up!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "Whenever I host a dinner _____ shows up!"
+   },
+   "note": "punctuation"
+  },
+  {
+   "id": "game11-165",
+   "Name": "Problem",
+   "Description": "I hate going to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate going to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-166",
+   "Name": "Problem",
+   "Description": "My friends are too busy with their _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My friends are too busy with their _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-167",
+   "Name": "Problem",
+   "Description": "Everywhere I look, I see _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Everywhere I look, I see _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-168",
+   "Name": "Problem",
+   "Description": "I don’t like amusement parks because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I don’t like amusement parks because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-169",
+   "Name": "Problem",
+   "Description": "I have a hard time finding _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I have a hard time finding _____!"
+   },
+   "note": "duplicate of 78"
+  },
+  {
+   "id": "game11-170",
+   "Name": "Problem",
+   "Description": "I want everyone to see _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want everyone to see _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-171",
+   "Name": "Problem",
+   "Description": "I want to cover up _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to cover up _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-172",
+   "Name": "Problem",
+   "Description": "I need a shortcut for _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a way to cheat _____!"
+   },
+   "note": "avoid cheating"
+  },
+  {
+   "id": "game11-173",
+   "Name": "Problem",
+   "Description": "I’m afraid of choking on _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m afraid of choking on _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-174",
+   "Name": "Problem",
+   "Description": "I don’t want to think about _____ again!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I don’t want to think about _____ again!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-175",
+   "Name": "Problem",
+   "Description": "I hate the taste of _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate the taste of _____!"
+   },
+   "note": "duplicate of 158"
+  },
+  {
+   "id": "game11-176",
+   "Name": "Problem",
+   "Description": "My coworkers never _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My coworkers never _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-177",
+   "Name": "Problem",
+   "Description": "I suspect my neighbor is _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I suspect my neighbor is _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-178",
+   "Name": "Problem",
+   "Description": "I cracked my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I cracked my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-179",
+   "Name": "Problem",
+   "Description": "I need a more powerful _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a more powerful _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-180",
+   "Name": "Problem",
+   "Description": "I hate _____ by myself!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate _____ by myself!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-181",
+   "Name": "Problem",
+   "Description": "Nobody will _____ me anymore!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Nobody will _____ me anymore!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-182",
+   "Name": "Problem",
+   "Description": "I have a hard time keeping _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I have a hard time keeping _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-183",
+   "Name": "Problem",
+   "Description": "I spilled _____ everywhere!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I spilled _____, everywhere!"
+   },
+   "note": "punctuation"
+  },
+  {
+   "id": "game11-184",
+   "Name": "Problem",
+   "Description": "I want to know about the latest _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to know about the latest _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-185",
+   "Name": "Problem",
+   "Description": "My relatives left a bunch of _____ at my house!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My relatives left a bunch of _____ at my house!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-186",
+   "Name": "Problem",
+   "Description": "There’s a hole in my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "There’s a hole in my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-187",
+   "Name": "Problem",
+   "Description": "I can’t avoid _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t avoid _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-188",
+   "Name": "Problem",
+   "Description": "I keep putting off _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I keep putting off _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-189",
+   "Name": "Problem",
+   "Description": "My _____ grows too fast!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My _____ grows too fast!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-190",
+   "Name": "Problem",
+   "Description": "I can’t see _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t see _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-191",
+   "Name": "Problem",
+   "Description": "I’m always getting stuck with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m always getting stuck with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-192",
+   "Name": "Problem",
+   "Description": "I want to impress people with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to impress people with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-193",
+   "Name": "Problem",
+   "Description": "My _____ keeps getting wet!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My _____ keeps getting wet!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-194",
+   "Name": "Problem",
+   "Description": "I can’t quite reach _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can’t quite reach _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-195",
+   "Name": "Problem",
+   "Description": "I’m having a hard time grasping _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m having a hard time grasping _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-196",
+   "Name": "Problem",
+   "Description": "I want to slowly get involved in _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to get slowly involved in _____"
+   },
+   "note": "wording/punctuation"
+  },
+  {
+   "id": "game11-197",
+   "Name": "Problem",
+   "Description": "I wish everyone would _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish everyone would _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-198",
+   "Name": "Problem",
+   "Description": "I need a way to measure _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a way to measure _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-199",
+   "Name": "Problem",
+   "Description": "I want to pay tribute to _____.",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to pay tribute to _____."
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-200",
+   "Name": "Problem",
+   "Description": "I seriously need to reduce my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I seriously need to reduce my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-201",
+   "Name": "Problem",
+   "Description": "All I want is to be _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "All I want is to be _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-202",
+   "Name": "Problem",
+   "Description": "I need to catch _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need to catch _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-203",
+   "Name": "Problem",
+   "Description": "I want to prove _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to prove _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-204",
+   "Name": "Problem",
+   "Description": "I wish I could _____ faster!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could _____ faster!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-205",
+   "Name": "Problem",
+   "Description": "I hate it when my _____ smells!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate it when my _____ smells!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-206",
+   "Name": "Problem",
+   "Description": "I’ll scream if I have to _____ again!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’ll scream if I have to _____ again!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-207",
+   "Name": "Problem",
+   "Description": "I’m always sore because I _____ too much!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m always sore because I _____ too much!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-208",
+   "Name": "Problem",
+   "Description": "I get grossed out by _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I get grossed out by _____!"
+   },
+   "note": "duplicate of game11-71 (disgusted by)"
+  },
+  {
+   "id": "game11-209",
+   "Name": "Problem",
+   "Description": "I’m way too old to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m way too old to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-210",
+   "Name": "Problem",
+   "Description": "People tell me I _____ too much!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "People tell me I _____ too much!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-211",
+   "Name": "Problem",
+   "Description": "I don’t want to _____ anymore!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I don’t want to _____ anymore!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-212",
+   "Name": "Problem",
+   "Description": "I hate talking during _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate talking during _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-213",
+   "Name": "Problem",
+   "Description": "My _____ is gonna kill me one of these days!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My _____ is gonna kill me one of these days!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-214",
+   "Name": "Problem",
+   "Description": "I hate having to _____ in the morning!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I hate having to _____ in the morning!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-215",
+   "Name": "Problem",
+   "Description": "People keep giving me _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "People keep giving me _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-216",
+   "Name": "Problem",
+   "Description": "I need an easier _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need an easier _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-217",
+   "Name": "Problem",
+   "Description": "It’s getting harder and harder to find _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "It’s getting harder and harder to find _____!"
+   },
+   "note": "duplicate of game11-169 (hard time finding)"
+  },
+  {
+   "id": "game11-218",
+   "Name": "Problem",
+   "Description": "I’ve lost three jobs because I _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’ve Humsafar three jobs because I _____!"
+   },
+   "note": "fixed corrupted word"
+  },
+  {
+   "id": "game11-219",
+   "Name": "Problem",
+   "Description": "I wish I were more comfortable _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I were more comfortable _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-220",
+   "Name": "Problem",
+   "Description": "I’m trying to quit _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m trying to quit _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-221",
+   "Name": "Problem",
+   "Description": "I’m always sad after _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I’m always sad after _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-222",
+   "Name": "Problem",
+   "Description": "I have no social life because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I have no social life because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-223",
+   "Name": "Problem",
+   "Description": "I can't eat biryani without _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can't eat biryani without _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-224",
+   "Name": "Problem",
+   "Description": "Load shedding always happens when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Load shedding always happens when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-225",
+   "Name": "Problem",
+   "Description": "My ammi always scolds me for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My ammi always scolds me for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-226",
+   "Name": "Problem",
+   "Description": "I need a way to spot _____ at weddings!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a way to spot _____ at weddings!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-227",
+   "Name": "Problem",
+   "Description": "Traffic is terrible because of _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Traffic is terrible because of _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-228",
+   "Name": "Problem",
+   "Description": "I wish I could bargain for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could bargain for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-229",
+   "Name": "Problem",
+   "Description": "I need a robot to handle my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a robot to handle my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-230",
+   "Name": "Problem",
+   "Description": "Rishta aunties are obsessed with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Rishta aunties are obsessed with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-231",
+   "Name": "Problem",
+   "Description": "I can't survive the summer without _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can't survive the summer without _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-232",
+   "Name": "Problem",
+   "Description": "I need an invention to hide my _____ from guests!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need an invention to hide my _____ from guests!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-233",
+   "Name": "Problem",
+   "Description": "My tailor always ruins my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My tailor always ruins my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-234",
+   "Name": "Problem",
+   "Description": "I wish there was an app for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish there was an app for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-235",
+   "Name": "Problem",
+   "Description": "I need a way to smuggle _____ into the house!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a way to smuggle _____ into the house!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-236",
+   "Name": "Problem",
+   "Description": "Desi parents never understand _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Desi parents never understand _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-237",
+   "Name": "Problem",
+   "Description": "I need a fast lane for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a fast lane for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-238",
+   "Name": "Problem",
+   "Description": "I wish I could filter out _____ from my life!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could filter out _____ from my life!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-239",
+   "Name": "Problem",
+   "Description": "I need a mute button for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a mute button for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-240",
+   "Name": "Problem",
+   "Description": "I want to automate _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to automate _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-241",
+   "Name": "Problem",
+   "Description": "My life would be perfect if I could just _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My life would be perfect if I could just _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-242",
+   "Name": "Problem",
+   "Description": "I can never find a matching _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can never find a matching _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-243",
+   "Name": "Problem",
+   "Description": "I need a safer way to eat _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a safer way to eat _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-244",
+   "Name": "Problem",
+   "Description": "My chai is always too _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My chai is always too _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-245",
+   "Name": "Problem",
+   "Description": "I wish I could carry _____ in my pocket!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could carry _____ in my pocket!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-246",
+   "Name": "Problem",
+   "Description": "I need a waterproof _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a waterproof _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-247",
+   "Name": "Problem",
+   "Description": "I'm tired of untangling my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I'm tired of untangling my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-248",
+   "Name": "Problem",
+   "Description": "I need a silent _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a silent _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-249",
+   "Name": "Problem",
+   "Description": "I wish my phone could _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish my phone could _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-250",
+   "Name": "Problem",
+   "Description": "I need a device to find my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a device to find my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-251",
+   "Name": "Problem",
+   "Description": "I want to instantly clean my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I want to instantly clean my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-252",
+   "Name": "Problem",
+   "Description": "I need a lock for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a lock for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-253",
+   "Name": "Problem",
+   "Description": "I wish I could skip _____ at family gatherings!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could skip _____ at family gatherings!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-254",
+   "Name": "Problem",
+   "Description": "My chappals always break when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My chappals always break when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-255",
+   "Name": "Problem",
+   "Description": "I need a way to protect my _____ from the smog!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a way to protect my _____ from the smog!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-256",
+   "Name": "Problem",
+   "Description": "Rickshaw drivers always overcharge for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "Rickshaw drivers always overcharge for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-257",
+   "Name": "Problem",
+   "Description": "I can't believe my phuppo said _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I can't believe my phuppo said _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-258",
+   "Name": "Problem",
+   "Description": "My wifi only works when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My wifi only works when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-259",
+   "Name": "Problem",
+   "Description": "I need an alarm clock that feels like _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need an alarm clock that feels like _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-260",
+   "Name": "Problem",
+   "Description": "I wish I could eat _____ without gaining weight!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could eat _____ without gaining weight!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-261",
+   "Name": "Problem",
+   "Description": "My laundry pile looks like a _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My laundry pile looks like a _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-262",
+   "Name": "Problem",
+   "Description": "I need a drone to deliver my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a drone to deliver my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-263",
+   "Name": "Problem",
+   "Description": "I wish my car could fly over _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish my car could fly over _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-264",
+   "Name": "Problem",
+   "Description": "The shopkeeper refused to return my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "The shopkeeper refused to return my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-265",
+   "Name": "Problem",
+   "Description": "I need a secret compartment for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a secret compartment for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-266",
+   "Name": "Problem",
+   "Description": "My boss always calls when I'm _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My boss always calls when I'm _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-267",
+   "Name": "Problem",
+   "Description": "I wish I could teleport away from _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could teleport away from _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-268",
+   "Name": "Problem",
+   "Description": "I need a universal remote for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a universal remote for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-269",
+   "Name": "Problem",
+   "Description": "My neighbor's kid keeps stealing my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My neighbor's kid keeps stealing my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-270",
+   "Name": "Problem",
+   "Description": "I wish I could pause time to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could pause time to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-271",
+   "Name": "Problem",
+   "Description": "I need a robot that can make perfect _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a robot that can make perfect _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-272",
+   "Name": "Problem",
+   "Description": "My phone battery dies whenever I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My phone battery dies whenever I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-273",
+   "Name": "Problem",
+   "Description": "I wish I could mute my _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could mute my _____!"
+   },
+   "note": "duplicate of game11-239 (mute button)"
+  },
+  {
+   "id": "game11-274",
+   "Name": "Problem",
+   "Description": "I need a self-cleaning _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a self-cleaning _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-275",
+   "Name": "Problem",
+   "Description": "My bank account cries when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My bank account cries when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-276",
+   "Name": "Problem",
+   "Description": "I wish I could trade my _____ for a pizza!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could trade my _____ for a pizza!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-277",
+   "Name": "Problem",
+   "Description": "I need a pocket-sized _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a pocket-sized _____!"
+   },
+   "note": "duplicate of game11-245 (pocket)"
+  },
+  {
+   "id": "game11-278",
+   "Name": "Problem",
+   "Description": "My haircut looks like a _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My haircut looks like a _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-279",
+   "Name": "Problem",
+   "Description": "I wish I could speed up _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could speed up _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-280",
+   "Name": "Problem",
+   "Description": "I need a translator for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a translator for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-281",
+   "Name": "Problem",
+   "Description": "My shoes always smell like _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My shoes always smell like _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-282",
+   "Name": "Problem",
+   "Description": "I wish I had an invisibility cloak for my _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could invisible-cloak my _____!"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game11-283",
+   "Name": "Problem",
+   "Description": "I need a GPS tracker for my _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a GPS tracker for my _____!"
+   },
+   "note": "duplicate of game11-250 (device to find my)"
+  },
+  {
+   "id": "game11-284",
+   "Name": "Problem",
+   "Description": "My tea gets cold when I _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My tea gets cold when I _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-285",
+   "Name": "Problem",
+   "Description": "I wish I could download _____ directly to my brain!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could download _____ directly to my brain!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-286",
+   "Name": "Problem",
+   "Description": "I need a machine that folds _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a machine that folds _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-287",
+   "Name": "Problem",
+   "Description": "My umbrella always flips inside out during _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My umbrella always flips inside out during _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-288",
+   "Name": "Problem",
+   "Description": "I wish I could unsubscribe from _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could unsubscribe from _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-289",
+   "Name": "Problem",
+   "Description": "I need a smart mirror that tells me _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a smart mirror that tells me _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-290",
+   "Name": "Problem",
+   "Description": "My socks always disappear in the _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My socks always disappear in the _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-291",
+   "Name": "Problem",
+   "Description": "I wish I could pay for things with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could pay for things with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-292",
+   "Name": "Problem",
+   "Description": "I need a device that detects _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a device that detects _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-293",
+   "Name": "Problem",
+   "Description": "My brain freezes when I see _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My brain freezes when I see _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-294",
+   "Name": "Problem",
+   "Description": "I wish I could Ctrl+Z my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could Ctrl+Z my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-295",
+   "Name": "Problem",
+   "Description": "I need a shield against _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a shield against _____!"
+   },
+   "note": "duplicate of game11-49 (defend myself from)"
+  },
+  {
+   "id": "game11-296",
+   "Name": "Problem",
+   "Description": "My pillow gets too hot during _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "My pillow is never cool enough for _____!"
+   },
+   "note": "unclear wording"
+  },
+  {
+   "id": "game11-297",
+   "Name": "Problem",
+   "Description": "I wish I could block _____ in real life!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could block _____ in real life!"
+   },
+   "note": "duplicate of game11-238 (filter out of my life)"
+  },
+  {
+   "id": "game11-298",
+   "Name": "Problem",
+   "Description": "I need a lie detector for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a lie detector for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-299",
+   "Name": "Problem",
+   "Description": "My cat judges me for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My cat judges me for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-300",
+   "Name": "Problem",
+   "Description": "I wish I could summon _____ with a snap!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could summon _____ with a snap!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-301",
+   "Name": "Problem",
+   "Description": "I need a portable _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a portable _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-302",
+   "Name": "Problem",
+   "Description": "My weekends are ruined by _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My weekends are ruined by _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-303",
+   "Name": "Problem",
+   "Description": "I wish I could duplicate my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could duplicate my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-304",
+   "Name": "Problem",
+   "Description": "I need a stain remover for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a stain remover for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-305",
+   "Name": "Problem",
+   "Description": "My leftovers always taste like _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My leftovers always taste like _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-306",
+   "Name": "Problem",
+   "Description": "I wish I could delete _____ from my memory!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could delete _____ from my memory!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-307",
+   "Name": "Problem",
+   "Description": "I need a password manager for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a password manager for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-308",
+   "Name": "Problem",
+   "Description": "My alarm clock sounds like a _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "My alarm clock sounds like a _____!"
+   },
+   "note": "near-duplicate of game11-259 (alarm clock)"
+  },
+  {
+   "id": "game11-309",
+   "Name": "Problem",
+   "Description": "I wish I could customize my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could customize my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-310",
+   "Name": "Problem",
+   "Description": "I need a filter for _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a filter for _____!"
+   },
+   "note": "near-duplicate of game11-238 (filter out)"
+  },
+  {
+   "id": "game11-311",
+   "Name": "Problem",
+   "Description": "My wallet is allergic to _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My wallet is allergic to _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-312",
+   "Name": "Problem",
+   "Description": "I wish I could upgrade my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could upgrade my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-313",
+   "Name": "Problem",
+   "Description": "I need a turbo button for _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a turbo button for _____!"
+   },
+   "note": "near-duplicate of game11-279/237 (speed up)"
+  },
+  {
+   "id": "game11-314",
+   "Name": "Problem",
+   "Description": "My mood depends on _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My mood depends on _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-315",
+   "Name": "Problem",
+   "Description": "I wish I could send _____ to space!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could send _____ to space!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-316",
+   "Name": "Problem",
+   "Description": "I need a refund for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a refund for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-317",
+   "Name": "Problem",
+   "Description": "My shadow looks like a _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My shadow looks like a _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-318",
+   "Name": "Problem",
+   "Description": "I wish I could fast forward through _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could fast forward through _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-319",
+   "Name": "Problem",
+   "Description": "I need a backup plan for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a backup plan for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-320",
+   "Name": "Problem",
+   "Description": "My dream job involves _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My dream job involves _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-321",
+   "Name": "Problem",
+   "Description": "I wish I could re-roll my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could re-roll my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-322",
+   "Name": "Problem",
+   "Description": "I need a tutorial for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a tutorial for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-323",
+   "Name": "Problem",
+   "Description": "My handwriting looks like _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My handwriting looks like _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-324",
+   "Name": "Problem",
+   "Description": "I wish I could auto-correct my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could auto-correct my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-325",
+   "Name": "Problem",
+   "Description": "I need a magnifying glass for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a magnifying glass for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-326",
+   "Name": "Problem",
+   "Description": "My patience runs out when _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My patience runs out when _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-327",
+   "Name": "Problem",
+   "Description": "I wish I could swap lives with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could swap lives with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-328",
+   "Name": "Problem",
+   "Description": "I need a safety net for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a safety net for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-329",
+   "Name": "Problem",
+   "Description": "My reflection shows me _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My reflection shows me _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-330",
+   "Name": "Problem",
+   "Description": "I wish I could freeze _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could freeze _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-331",
+   "Name": "Problem",
+   "Description": "I need a mute button for my _____!",
+   "action": "remove",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a mute button for my _____!"
+   },
+   "note": "duplicate of game11-239 (mute button)"
+  },
+  {
+   "id": "game11-332",
+   "Name": "Problem",
+   "Description": "My secrets are safe with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My secrets are safe with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-333",
+   "Name": "Problem",
+   "Description": "I wish I could google my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could google my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-334",
+   "Name": "Problem",
+   "Description": "I need a hashtag for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a hashtag for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-335",
+   "Name": "Problem",
+   "Description": "My phone gallery is full of _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "My playlist is full of _____!"
+   },
+   "note": "music removed (playlist)"
+  },
+  {
+   "id": "game11-336",
+   "Name": "Problem",
+   "Description": "I wish I could repost my _____!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could retweet my _____!"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game11-337",
+   "Name": "Problem",
+   "Description": "I need a charger for my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a charger for my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-338",
+   "Name": "Problem",
+   "Description": "My inbox is flooding with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My inbox is flooding with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-339",
+   "Name": "Problem",
+   "Description": "I wish I could unfollow _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could unfollow _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-340",
+   "Name": "Problem",
+   "Description": "I need a status update for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a status update for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-341",
+   "Name": "Problem",
+   "Description": "My profile picture needs more _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My profile picture needs more _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-342",
+   "Name": "Problem",
+   "Description": "I wish I could like my own _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could like my own _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-343",
+   "Name": "Problem",
+   "Description": "I need a notification for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a notification for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-344",
+   "Name": "Problem",
+   "Description": "My timeline is clogged with _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My timeline is clogged with _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-345",
+   "Name": "Problem",
+   "Description": "I wish I could share my _____ with everyone!",
+   "action": "edit",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could share _____!"
+   },
+   "note": "clarified vague wording"
+  },
+  {
+   "id": "game11-346",
+   "Name": "Problem",
+   "Description": "I need a direct message from _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a direct message from _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-347",
+   "Name": "Problem",
+   "Description": "My followers want more _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My followers want more _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-348",
+   "Name": "Problem",
+   "Description": "I wish I could trend for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could trend for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-349",
+   "Name": "Problem",
+   "Description": "I need a verified badge for _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a verified badge for _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-350",
+   "Name": "Problem",
+   "Description": "My bio says I love _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "My bio says I love _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-351",
+   "Name": "Problem",
+   "Description": "I wish I could live stream my _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I wish I could live stream my _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-352",
+   "Name": "Problem",
+   "Description": "I need a filter that hides _____!",
+   "action": "keep",
+   "original": {
+    "Name": "Problem",
+    "Description": "I need a filter that hides _____!"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-353",
+   "Name": "Customer",
+   "Description": "Street Vendor",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Actor"
+   },
+   "note": "film/pop culture customer replaced"
+  },
+  {
+   "id": "game11-354",
+   "Name": "Customer",
+   "Description": "Alien Abductee",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Alien Abductee"
+   },
+   "note": "overlaps Alien; obscure"
+  },
+  {
+   "id": "game11-355",
+   "Name": "Customer",
+   "Description": "Alien",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Alien"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-356",
+   "Name": "Customer",
+   "Description": "Amputee",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Amputee"
+   },
+   "note": "insensitive"
+  },
+  {
+   "id": "game11-357",
+   "Name": "Customer",
+   "Description": "Astronaut",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Astronaut"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-358",
+   "Name": "Customer",
+   "Description": "Artist",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Artist"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-359",
+   "Name": "Customer",
+   "Description": "Babysitter",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Babysitter"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-360",
+   "Name": "Customer",
+   "Description": "Cafe Server",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Cafe Server"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-361",
+   "Name": "Customer",
+   "Description": "Bank Robber",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Bank Robber"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-362",
+   "Name": "Customer",
+   "Description": "Biker",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Biker"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-363",
+   "Name": "Customer",
+   "Description": "Chai Wala",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Beach Bum"
+   },
+   "note": "Western-only customer replaced"
+  },
+  {
+   "id": "game11-364",
+   "Name": "Customer",
+   "Description": "Billionaire",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Billionaire"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-365",
+   "Name": "Customer",
+   "Description": "Beggar",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Beggar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-366",
+   "Name": "Customer",
+   "Description": "Rishta Aunty",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Meeting Rishta"
+   },
+   "note": "clarified unclear customer"
+  },
+  {
+   "id": "game11-367",
+   "Name": "Customer",
+   "Description": "Yeti",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Big Foot"
+   },
+   "note": "Western myth replaced with better-known one"
+  },
+  {
+   "id": "game11-368",
+   "Name": "Customer",
+   "Description": "Security Guard",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Bouncer"
+   },
+   "note": "club bouncer replaced"
+  },
+  {
+   "id": "game11-369",
+   "Name": "Customer",
+   "Description": "Bride",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Bridesmaid"
+   },
+   "note": "Western wedding role replaced"
+  },
+  {
+   "id": "game11-370",
+   "Name": "Customer",
+   "Description": "Hostel Warden",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Camp Counselor"
+   },
+   "note": "Western-only customer replaced"
+  },
+  {
+   "id": "game11-371",
+   "Name": "Customer",
+   "Description": "Camel Rider",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Bull Fighter"
+   },
+   "note": "Western-only customer replaced"
+  },
+  {
+   "id": "game11-372",
+   "Name": "Customer",
+   "Description": "Camper",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Camper"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-373",
+   "Name": "Customer",
+   "Description": "Bungee Jumper",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Bungee Jumper"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-374",
+   "Name": "Customer",
+   "Description": "Caveman",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Caveman"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-375",
+   "Name": "Customer",
+   "Description": "Castaway",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Castaway"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-376",
+   "Name": "Customer",
+   "Description": "Cricket Commentator",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Cheerleader"
+   },
+   "note": "Western-only customer replaced"
+  },
+  {
+   "id": "game11-377",
+   "Name": "Customer",
+   "Description": "Chef",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Chef"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-378",
+   "Name": "Customer",
+   "Description": "Class Clown",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Class Clown"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-379",
+   "Name": "Customer",
+   "Description": "Cricket Coach",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Coach"
+   },
+   "note": "made locally relevant"
+  },
+  {
+   "id": "game11-380",
+   "Name": "Customer",
+   "Description": "Clown",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Clown"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-381",
+   "Name": "Customer",
+   "Description": "Coal Miner",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Coal Miner"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-382",
+   "Name": "Customer",
+   "Description": "Shepherd",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Cowboy"
+   },
+   "note": "Western-only customer replaced"
+  },
+  {
+   "id": "game11-383",
+   "Name": "Customer",
+   "Description": "Comedian",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Comedian"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-384",
+   "Name": "Customer",
+   "Description": "Cupid",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Cupid"
+   },
+   "note": "western/secular (romance myth)"
+  },
+  {
+   "id": "game11-385",
+   "Name": "Customer",
+   "Description": "Couch Potato",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Couch Potato"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-386",
+   "Name": "Customer",
+   "Description": "Dad",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Dad"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-387",
+   "Name": "Customer",
+   "Description": "Dictator",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Dictator"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-388",
+   "Name": "Customer",
+   "Description": "Daredevil",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Dare Devil"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game11-389",
+   "Name": "Customer",
+   "Description": "Drill Sergeant",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Drill Sergeant"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-390",
+   "Name": "Customer",
+   "Description": "Diva",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Diva"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-391",
+   "Name": "Customer",
+   "Description": "Kabari Wala",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Dumpster Diver"
+   },
+   "note": "Western-only customer replaced"
+  },
+  {
+   "id": "game11-392",
+   "Name": "Customer",
+   "Description": "Doctor",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Doctor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-393",
+   "Name": "Customer",
+   "Description": "Executioner",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Executioner"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-394",
+   "Name": "Customer",
+   "Description": "Dog",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Dog"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-395",
+   "Name": "Customer",
+   "Description": "Firefighter",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Fire Fighter"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game11-396",
+   "Name": "Customer",
+   "Description": "Tailor",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Fashion Model"
+   },
+   "note": "fashion model replaced"
+  },
+  {
+   "id": "game11-397",
+   "Name": "Customer",
+   "Description": "Weather Forecaster",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Fortune Teller"
+   },
+   "note": "fortune telling is impermissible; replaced"
+  },
+  {
+   "id": "game11-398",
+   "Name": "Customer",
+   "Description": "Fisherman",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Fisherman"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-399",
+   "Name": "Customer",
+   "Description": "Geek",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Geek"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-400",
+   "Name": "Customer",
+   "Description": "College Student",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "College Student"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-401",
+   "Name": "Customer",
+   "Description": "Gladiator",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Gladiator"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-402",
+   "Name": "Customer",
+   "Description": "Investor",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Investor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-403",
+   "Name": "Customer",
+   "Description": "Grandma",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Grandma"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-404",
+   "Name": "Customer",
+   "Description": "Goon",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Goon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-405",
+   "Name": "Customer",
+   "Description": "School Dropout",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "High School Dropout"
+   },
+   "note": "Pakistani school terms"
+  },
+  {
+   "id": "game11-406",
+   "Name": "Customer",
+   "Description": "Ghost",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Ghost"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-407",
+   "Name": "Customer",
+   "Description": "Hippie",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Hippie"
+   },
+   "note": "western/secular (hippie counterculture)"
+  },
+  {
+   "id": "game11-408",
+   "Name": "Customer",
+   "Description": "Girl Guide",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Girl Scout"
+   },
+   "note": "Pakistani equivalent of Girl Scout"
+  },
+  {
+   "id": "game11-409",
+   "Name": "Customer",
+   "Description": "Hitchhiker",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Hitch Hiker"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game11-410",
+   "Name": "Customer",
+   "Description": "Grave Robber",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Grave Robber"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-411",
+   "Name": "Customer",
+   "Description": "Hobo",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Hobo"
+   },
+   "note": "duplicate of game11-365 Beggar"
+  },
+  {
+   "id": "game11-412",
+   "Name": "Customer",
+   "Description": "Haunted House Actor",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Haunted House Actor"
+   },
+   "note": "western/secular (Halloween)"
+  },
+  {
+   "id": "game11-413",
+   "Name": "Customer",
+   "Description": "Immigrant",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Immigrant"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-414",
+   "Name": "Customer",
+   "Description": "Matric Student",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "High School Student"
+   },
+   "note": "Pakistani school terms"
+  },
+  {
+   "id": "game11-415",
+   "Name": "Customer",
+   "Description": "Insomniac",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Insomniac"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-416",
+   "Name": "Customer",
+   "Description": "Hostage",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Hostage"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-417",
+   "Name": "Customer",
+   "Description": "Nursery Kid",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Kindergartener"
+   },
+   "note": "Pakistani school terms"
+  },
+  {
+   "id": "game11-418",
+   "Name": "Customer",
+   "Description": "Hunter",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Hunter"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-419",
+   "Name": "Customer",
+   "Description": "Lifeguard",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Life Guard"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game11-420",
+   "Name": "Customer",
+   "Description": "Janitor",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Janitor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-421",
+   "Name": "Customer",
+   "Description": "Last Person on Earth",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Last Person On Earth"
+   },
+   "note": "capitalization"
+  },
+  {
+   "id": "game11-422",
+   "Name": "Customer",
+   "Description": "Best Friends",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Best Friends"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-423",
+   "Name": "Customer",
+   "Description": "Lawyer",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Lawyer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-424",
+   "Name": "Customer",
+   "Description": "Woodcutter",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Lumberjack"
+   },
+   "note": "more familiar than Lumberjack"
+  },
+  {
+   "id": "game11-425",
+   "Name": "Customer",
+   "Description": "Little Red Ridinghood",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Little Red Ridinghood"
+   },
+   "note": "Western-only fairy tale character"
+  },
+  {
+   "id": "game11-426",
+   "Name": "Customer",
+   "Description": "Maalish Wala",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Masseuse"
+   },
+   "note": "replaced Masseuse with familiar street masseur"
+  },
+  {
+   "id": "game11-427",
+   "Name": "Customer",
+   "Description": "Lottery Winner",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Lottery Winner"
+   },
+   "note": "gambling (lottery)"
+  },
+  {
+   "id": "game11-428",
+   "Name": "Customer",
+   "Description": "Missionary",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Missionary"
+   },
+   "note": "Christian missionary; not a fit"
+  },
+  {
+   "id": "game11-429",
+   "Name": "Customer",
+   "Description": "Mad Scientist",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Mad Scientist"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-430",
+   "Name": "Customer",
+   "Description": "Mob Boss",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Mob Boss"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-431",
+   "Name": "Customer",
+   "Description": "Magician",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Magician"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-432",
+   "Name": "Customer",
+   "Description": "Nanny",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Nanny"
+   },
+   "note": "duplicate of game11-359 Babysitter"
+  },
+  {
+   "id": "game11-433",
+   "Name": "Customer",
+   "Description": "Monk",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Monk"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-434",
+   "Name": "Customer",
+   "Description": "Commando",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Navy Seal"
+   },
+   "note": "replaced US-specific Navy Seal"
+  },
+  {
+   "id": "game11-435",
+   "Name": "Customer",
+   "Description": "Gravedigger",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Mortician"
+   },
+   "note": "more familiar than Mortician"
+  },
+  {
+   "id": "game11-436",
+   "Name": "Customer",
+   "Description": "Newlywed",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Newlywed"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-437",
+   "Name": "Customer",
+   "Description": "Ninja",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Ninja"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-438",
+   "Name": "Customer",
+   "Description": "Newspaper Hawker",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Paper Boy"
+   },
+   "note": "replaced Western Paper Boy"
+  },
+  {
+   "id": "game11-439",
+   "Name": "Customer",
+   "Description": "Nurse",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Nurse"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-440",
+   "Name": "Customer",
+   "Description": "Pharaoh",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Pharaoh"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-441",
+   "Name": "Customer",
+   "Description": "Olympic Athlete",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Olympic Athlete"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-442",
+   "Name": "Customer",
+   "Description": "Pirate",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Pirate"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-443",
+   "Name": "Customer",
+   "Description": "News Reporter",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Paparazzi"
+   },
+   "note": "replaced celebrity-culture Paparazzi"
+  },
+  {
+   "id": "game11-444",
+   "Name": "Customer",
+   "Description": "Food Delivery Rider",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Pizza Deliverer"
+   },
+   "note": "more general/local"
+  },
+  {
+   "id": "game11-445",
+   "Name": "Customer",
+   "Description": "Social Butterfly",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Social butterfly"
+   },
+   "note": "capitalization"
+  },
+  {
+   "id": "game11-446",
+   "Name": "Customer",
+   "Description": "Police Officer",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Police Officer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-447",
+   "Name": "Customer",
+   "Description": "Dinner Host",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Dinner Host"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-448",
+   "Name": "Customer",
+   "Description": "Poet",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Poet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-449",
+   "Name": "Customer",
+   "Description": "Politician",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Politician"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-450",
+   "Name": "Customer",
+   "Description": "Prisoner of War",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Prisoner of War"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-451",
+   "Name": "Customer",
+   "Description": "Pregnant Woman",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Pregnant Woman"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-452",
+   "Name": "Customer",
+   "Description": "Prison Guard",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Prison Guard"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-453",
+   "Name": "Customer",
+   "Description": "Imam",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Imam"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-454",
+   "Name": "Customer",
+   "Description": "Pehlwan",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Pro Wrestler"
+   },
+   "note": "replaced WWE-style Pro Wrestler with desi wrestler"
+  },
+  {
+   "id": "game11-455",
+   "Name": "Customer",
+   "Description": "Princess",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Princess"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-456",
+   "Name": "Customer",
+   "Description": "Cricket Captain",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Quarterback"
+   },
+   "note": "replaced American football Quarterback"
+  },
+  {
+   "id": "game11-457",
+   "Name": "Customer",
+   "Description": "Rioter",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Rioter"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-458",
+   "Name": "Customer",
+   "Description": "Protester",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Protester"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-459",
+   "Name": "Customer",
+   "Description": "Robot",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Robot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-460",
+   "Name": "Customer",
+   "Description": "Queen",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Queen"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-461",
+   "Name": "Customer",
+   "Description": "Rapper",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Rapper"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game11-462",
+   "Name": "Customer",
+   "Description": "Roommate",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Roommate"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-463",
+   "Name": "Customer",
+   "Description": "Umpire",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Referee"
+   },
+   "note": "cricket frame"
+  },
+  {
+   "id": "game11-464",
+   "Name": "Customer",
+   "Description": "School Van Driver",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "School Bus Driver"
+   },
+   "note": "Pakistani frame"
+  },
+  {
+   "id": "game11-465",
+   "Name": "Customer",
+   "Description": "Mountaineer",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Rock Climber"
+   },
+   "note": "more familiar (K2 climbers)"
+  },
+  {
+   "id": "game11-466",
+   "Name": "Customer",
+   "Description": "Soldier",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Soldier"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-467",
+   "Name": "Customer",
+   "Description": "Runaway",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Runaway"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-468",
+   "Name": "Customer",
+   "Description": "Space Colonist",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Space Colonist"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-469",
+   "Name": "Customer",
+   "Description": "Gift Giver",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Gift Giver"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-470",
+   "Name": "Customer",
+   "Description": "Cricket Fan",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Sports Fan"
+   },
+   "note": "Pakistani frame"
+  },
+  {
+   "id": "game11-471",
+   "Name": "Customer",
+   "Description": "Secret Admirer",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Secret Admirer"
+   },
+   "note": "romance"
+  },
+  {
+   "id": "game11-472",
+   "Name": "Customer",
+   "Description": "Sports Mascot",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Sports Mascot"
+   },
+   "note": "Western-only (sports mascot)"
+  },
+  {
+   "id": "game11-473",
+   "Name": "Customer",
+   "Description": "Senior Citizen",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Senior Citizen"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-474",
+   "Name": "Customer",
+   "Description": "Spy",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Spy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-475",
+   "Name": "Customer",
+   "Description": "Snowman",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Snowman"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-476",
+   "Name": "Customer",
+   "Description": "Substitute Teacher",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Substitute Teacher"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-477",
+   "Name": "Customer",
+   "Description": "Tailgater",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Tailgater"
+   },
+   "note": "Western-only (tailgating)"
+  },
+  {
+   "id": "game11-478",
+   "Name": "Customer",
+   "Description": "Flight Attendant",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Stewardess"
+   },
+   "note": "modern term"
+  },
+  {
+   "id": "game11-479",
+   "Name": "Customer",
+   "Description": "Tarzan",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Tarzan"
+   },
+   "note": "western pop culture (Tarzan)"
+  },
+  {
+   "id": "game11-480",
+   "Name": "Customer",
+   "Description": "Superhero",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Super Hero"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game11-481",
+   "Name": "Customer",
+   "Description": "Rickshaw Driver",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Taxi Driver"
+   },
+   "note": "Pakistani frame"
+  },
+  {
+   "id": "game11-482",
+   "Name": "Customer",
+   "Description": "Surfer",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Surfer"
+   },
+   "note": "Western-only (surfing)"
+  },
+  {
+   "id": "game11-483",
+   "Name": "Customer",
+   "Description": "Teenager",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Teenager"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-484",
+   "Name": "Customer",
+   "Description": "Teacher",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Teacher"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-485",
+   "Name": "Customer",
+   "Description": "Tourist",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Tourist"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-486",
+   "Name": "Customer",
+   "Description": "President",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "The President"
+   },
+   "note": "removed article"
+  },
+  {
+   "id": "game11-487",
+   "Name": "Customer",
+   "Description": "Vampire",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Vampire"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-488",
+   "Name": "Customer",
+   "Description": "Therapist",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Therapist"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-489",
+   "Name": "Customer",
+   "Description": "Villain",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Villain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-490",
+   "Name": "Customer",
+   "Description": "Toddler",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Toddler"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-491",
+   "Name": "Customer",
+   "Description": "Waitress",
+   "action": "remove",
+   "original": {
+    "Name": "Customer",
+    "Description": "Waitress"
+   },
+   "note": "duplicate of game11-360 Cafe Server"
+  },
+  {
+   "id": "game11-492",
+   "Name": "Customer",
+   "Description": "Treasure Hunter",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Treasure Hunter"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-493",
+   "Name": "Customer",
+   "Description": "Witch",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Witch"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-494",
+   "Name": "Customer",
+   "Description": "Environmentalist",
+   "action": "edit",
+   "original": {
+    "Name": "Customer",
+    "Description": "Tree Hugger"
+   },
+   "note": "clearer than Tree Hugger"
+  },
+  {
+   "id": "game11-495",
+   "Name": "Customer",
+   "Description": "Wizard",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Wizard"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-496",
+   "Name": "Customer",
+   "Description": "Trucker",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Trucker"
+   },
+   "note": ""
+  },
+  {
+   "id": "game11-497",
+   "Name": "Customer",
+   "Description": "Zombie",
+   "action": "keep",
+   "original": {
+    "Name": "Customer",
+    "Description": "Zombie"
+   },
+   "note": ""
+  }
+ ]
+}
