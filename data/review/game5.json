@@ -242,13 +242,13 @@
    "Name": "",
    "Description": "The struggle of living in Pakistan is ____.",
    "Category": "Pakistani Problems",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The struggle of living in Pakistan is ____.",
     "Category": "Pakistani Problems"
    },
-   "note": ""
+   "note": "Debate: Same meaning as #15 'The most Pakistani problem is ____' and #20; keep lower ids."
   },
   {
    "id": "game5-20",
@@ -279,15 +279,15 @@
   {
    "id": "game5-22",
    "Name": "",
-   "Description": "I moved to Pakistan and all I got was ____.",
+   "Description": "I visited Pakistan and all I brought back was ____.",
    "Category": "Pakistani Problems",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I moved to Pakistan and all I got was ____.",
     "Category": "Pakistani Problems"
    },
-   "note": ""
+   "note": "Debate: Challenger's shorter amendment: replaces the T-shirt-slogan calque with a natural visit framing that works for local and diaspora players."
   },
   {
    "id": "game5-23",
@@ -567,13 +567,13 @@
    "Name": "",
    "Description": "I'm hiding ____ from my parents.",
    "Category": "Parents",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I'm hiding ____ from my parents.",
     "Category": "Parents"
    },
-   "note": ""
+   "note": "Debate: Duplicate of #35 'I can never tell my parents about ____.'"
   },
   {
    "id": "game5-45",
@@ -632,13 +632,13 @@
    "Name": "",
    "Description": "Pakistani weddings would be incomplete without ____.",
    "Category": "Wedding Drama",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Pakistani weddings would be incomplete without ____.",
     "Category": "Wedding Drama"
    },
-   "note": ""
+   "note": "Debate: Draws the same answers as #46 'Every Pakistani wedding has ____.'"
   },
   {
    "id": "game5-50",
@@ -697,13 +697,13 @@
    "Name": "",
    "Description": "The wedding was ruined by ____.",
    "Category": "Wedding Drama",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The wedding was ruined by ____.",
     "Category": "Wedding Drama"
    },
-   "note": ""
+   "note": "Debate: Duplicate of #45 (worst thing at a Pakistani wedding) and #47 (drama caused by)."
   },
   {
    "id": "game5-55",
@@ -957,13 +957,13 @@
    "Name": "",
    "Description": "The Ramadan struggle is real when ____.",
    "Category": "Ramadan Life",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The Ramadan struggle is real when ____.",
     "Category": "Ramadan Life"
    },
-   "note": ""
+   "note": "Debate: Weaker duplicate of #60 'The hardest part of Ramadan is ____.'"
   },
   {
    "id": "game5-75",
@@ -1282,13 +1282,13 @@
    "Name": "",
    "Description": "The deal breaker for the rishta was ____.",
    "Category": "Rishta Culture",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The deal breaker for the rishta was ____.",
     "Category": "Rishta Culture"
    },
-   "note": ""
+   "note": "Debate: Duplicate of #90 'The rishta was rejected because of ____.'"
   },
   {
    "id": "game5-100",
@@ -2322,13 +2322,13 @@
    "Name": "",
    "Description": "Family gatherings would be better without ____.",
    "Category": "Family Gatherings",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Family gatherings would be better without ____.",
     "Category": "Family Gatherings"
    },
-   "note": ""
+   "note": "Debate: Duplicate of #170 'Family reunions are ruined by ____' and #168."
   },
   {
    "id": "game5-180",
@@ -2593,15 +2593,15 @@
   {
    "id": "game5-200",
    "Name": "",
-   "Description": "Babar Azam needs to work on ____.",
+   "Description": "Our star batsman really needs to work on ____.",
    "Category": "Cricket Fever",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Babar Azam needs to work on ____.",
     "Category": "Cricket Fever"
    },
-   "note": ""
+   "note": "Debate: Removes a real living public figure (Babar Azam, not a politician) but keeps the joke."
   },
   {
    "id": "game5-201",
@@ -2619,15 +2619,15 @@
   {
    "id": "game5-202",
    "Name": "",
-   "Description": "The most annoying cricket commentator is ____.",
+   "Description": "The most annoying thing cricket commentators keep saying is ____.",
    "Category": "Cricket Fever",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The most annoying cricket commentator is ____.",
     "Category": "Cricket Fever"
    },
-   "note": ""
+   "note": "Debate: The original asks players to name and mock a real living commentator; the new version targets catchphrases instead."
   },
   {
    "id": "game5-203",
@@ -2738,13 +2738,13 @@
    "Name": "",
    "Description": "Eid is ruined by ____.",
    "Category": "Eid Traditions",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Eid is ruined by ____.",
     "Category": "Eid Traditions"
    },
-   "note": ""
+   "note": "Debate: Same meaning as #171 'The worst part of Eid is ____'; keep lower id."
   },
   {
    "id": "game5-212",

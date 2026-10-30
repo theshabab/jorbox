@@ -8,7 +8,7 @@ Multan,Mango | Saints | Shrines | Heat | Sohan Halwa,Pakistani Cities
 Peshawar,KPK | Pathan | Qissa Khwani | Chapli Kabab | Khyber,Pakistani Cities
 Quetta,Balochistan | Capital | Cold | Hazara | Dry Fruit,Pakistani Cities
 Sialkot,Football | Sports Goods | Iqbal | Cricket Bats | Export,Pakistani Cities
-Gujranwala,Pehlwan | Wrestlers | Food | Fans | Punjab,Pakistani Cities
+Gujranwala,Pehlwan | Wrestlers | Food | GT Road | Punjab,Pakistani Cities
 Hyderabad,Sindh | Bangles | Rabri | Pakka Qila | India,Pakistani Cities
 Abbottabad,PMA | Army | Kakul | Hills | Hazara,Pakistani Cities
 Murree,Hill Station | Snow | Mall Road | Pindi | Holiday,Pakistani Cities
@@ -19,8 +19,8 @@ Gujrat,Fans | Pottery | Chenab | Punjab | Chaudhry,Pakistani Cities
 Larkana,Bhutto | Mohenjo-daro | Sindh | PPP | Garhi Khuda Bakhsh,Pakistani Cities
 Sheikhupura,Lahore | Punjab | Industry | Hiran Minar | Jahangir,Pakistani Cities
 Jhelum,River | Army | Rohtas Fort | GT Road | Soldiers,Pakistani Cities
-Mardan,KPK | Pathan | Pashtun | Peshawar | Takht Bhai,Pakistani Cities
-Kasur,Bulleh Shah | Methi | Border | Zainab | Falooda,Pakistani Cities
+Mardan,KPK | Pathan | Sugarcane | Peshawar | Takht Bhai,Pakistani Cities
+Kasur,Bulleh Shah | Methi | Border | Andrassay | Falooda,Pakistani Cities
 Rahim Yar Khan,Sheikh Zayed | Cotton | Sugar | South Punjab | Bahawalpur,Pakistani Cities
 Sahiwal,Cow | Buffalo | Harappa | Milk | Montgomery,Pakistani Cities
 Okara,Potato | Farming | Punjab | Renala | Sahiwal,Pakistani Cities
@@ -49,28 +49,28 @@ Gola Kabab,Round | Soft | Mince | Karachi | Melt,Traditional Dishes
 Bihari Kabab,Karachi | Thread | Beef | Papaya | Smoky,Traditional Dishes
 Kunna,Chiniot | Clay Pot | Mutton | Matka | Slow Cooked,Traditional Dishes
 Bong Paye,Bone Marrow | Nalli | Beef | Lahore | Shank,Traditional Dishes
-Salt,Namak | Sea | Salty | White | Pinch,Spices
+Salt,Namak | Sea | Khewra | White | Pinch,Spices
 Pepper,Kali Mirch | Black | Sneeze | Salt | Grinder,Spices
 Turmeric,Haldi | Yellow | Mayun | Doodh | Stain,Spices
-Cumin,Zeera | Jeera | Seeds | Raita | Tarka,Spices
+Cumin,Zeera | Seeds | Raita | Tarka | Daal,Spices
 Coriander,Dhania | Leaves | Green | Garnish | Chutney,Spices
 Cardamom,Elaichi | Green | Chai | Pod | Kheer,Spices
-Cinnamon,Darchini | Bark | Stick | Roll | Brown,Spices
+Cinnamon,Darchini | Bark | Stick | Qehwa | Brown,Spices
 Clove,Laung | Toothache | Biryani | Nail | Oil,Spices
 Nutmeg,Jaifal | Brown | Grated | Mace | Seed,Spices
 Saffron,Zafran | Expensive | Kesar | Orange | Strands,Spices
-Anise,Saunf | Star | Licorice | Seeds | Digestion,Spices
+Fennel,Saunf | Green | Seeds | Digestion | Mouth Freshener,Spices
 Fenugreek,Methi | Bitter | Leaves | Seeds | Aloo,Spices
 Mustard Seeds,Rai | Sarson | Yellow | Black | Tarka,Spices
 Poppy Seeds,Khashkhash | Tiny | White | Halwa | Flower,Spices
-Sesame,Til | Seeds | Oil | Tahini | Bun,Spices
+Sesame,Til | Seeds | Oil | Rewri | Bun,Spices
 Bay Leaf,Tez Patta | Dry | Pulao | Biryani | Aromatic,Spices
 Black Salt,Kala Namak | Pink | Chaat | Smell | Egg,Spices
 Chaat Masala,Tangy | Fruit | Dahi Baray | Sprinkle | Shan,Spices
 Garam Masala,Mix | Shan | National | Blend | Curry,Spices
 Tamarind,Imli | Sour | Chutney | Brown | Pods,Spices
 Mint,Pudina | Chutney | Fresh | Raita | Green,Spices
-Basil,Tulsi | Pesto | Italian | Pizza | Leaves,Spices
+Basil,Niazbo | Tukh Malanga | Pesto | Pizza | Leaves,Spices
 Mango,Aam | King | Summer | Sindhri | Chaunsa,Fruits
 Apple,Red | Seb | Newton | iPhone | Doctor,Fruits
 Banana,Kela | Yellow | Monkey | Peel | Dozen,Fruits
@@ -86,7 +86,7 @@ Plum,Aloo Bukhara | Purple | Sour | Dried | Prune,Fruits
 Pear,Nashpati | Green | Shape | Juicy | Bulb,Fruits
 Strawberry,Red | Seeds | Cream | Milkshake | Berry,Fruits
 Cherry,Red | Cake | Top | Stem | Pair,Fruits
-Lychee,Litchi | Pink | Shell | White | Seed,Fruits
+Lychee,Pink | Shell | White | Seed | Summer,Fruits
 Papaya,Papita | Orange | Seeds | Stomach | Green,Fruits
 Pineapple,Ananas | Spiky | Yellow | Crown | Pizza,Fruits
 Coconut,Nariyal | Water | Shell | Palm | Hairy,Fruits

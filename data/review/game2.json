@@ -123,7 +123,7 @@
   {
    "id": "game2-10",
    "Name": "Gujranwala",
-   "Description": "Pehlwan | Wrestlers | Food | Fans | Punjab",
+   "Description": "Pehlwan | Wrestlers | Food | GT Road | Punjab",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -131,7 +131,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: 'Fans' is Gujrat's signature clue (card 16), so swap it for GT Road. Keep the Urdu/English Pehlwan/Wrestlers pair, as the deck does elsewhere."
   },
   {
    "id": "game2-11",
@@ -266,7 +266,7 @@
   {
    "id": "game2-21",
    "Name": "Mardan",
-   "Description": "KPK | Pathan | Pashtun | Peshawar | Takht Bhai",
+   "Description": "KPK | Pathan | Sugarcane | Peshawar | Takht Bhai",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -274,12 +274,12 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: Pathan and Pashtun are the same word in two forms. Mardan's sugarcane and sugar mills give an accurate replacement."
   },
   {
    "id": "game2-22",
    "Name": "Kasur",
-   "Description": "Bulleh Shah | Methi | Border | Zainab | Falooda",
+   "Description": "Bulleh Shah | Methi | Border | Andrassay | Falooda",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -287,7 +287,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: 'Zainab' points to a child rape-murder case, well beyond 'mildly dark'. Kasuri andarsay is a well-known local sweet."
   },
   {
    "id": "game2-23",
@@ -656,7 +656,7 @@
   {
    "id": "game2-51",
    "Name": "Salt",
-   "Description": "Namak | Sea | Salty | White | Pinch",
+   "Description": "Namak | Sea | Khewra | White | Pinch",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -664,7 +664,7 @@
     "Description": "spice | powder | flavor | cooking",
     "Category": "Spices"
    },
-   "note": ""
+   "note": "Debate: 'Salty' contains the answer, so that slot did nothing. Khewra salt mine is a famous Pakistani link."
   },
   {
    "id": "game2-52",
@@ -708,7 +708,7 @@
   {
    "id": "game2-55",
    "Name": "Cumin",
-   "Description": "Zeera | Jeera | Seeds | Raita | Tarka",
+   "Description": "Zeera | Seeds | Raita | Tarka | Daal",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -716,7 +716,7 @@
     "Description": "spice | powder | flavor | cooking",
     "Category": "Spices"
    },
-   "note": ""
+   "note": "Debate: Zeera and Jeera are two spellings of the same word. Daal is a natural clue."
   },
   {
    "id": "game2-56",
@@ -747,7 +747,7 @@
   {
    "id": "game2-58",
    "Name": "Cinnamon",
-   "Description": "Darchini | Bark | Stick | Roll | Brown",
+   "Description": "Darchini | Bark | Stick | Qehwa | Brown",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -755,7 +755,7 @@
     "Description": "spice | powder | flavor | cooking",
     "Category": "Spices"
    },
-   "note": ""
+   "note": "Debate: Darchini qehwa is a common local link; cinnamon rolls are a Western reference."
   },
   {
    "id": "game2-59",
@@ -811,8 +811,8 @@
   },
   {
    "id": "game2-63",
-   "Name": "Anise",
-   "Description": "Saunf | Star | Licorice | Seeds | Digestion",
+   "Name": "Fennel",
+   "Description": "Saunf | Green | Seeds | Digestion | Mouth Freshener",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -820,7 +820,7 @@
     "Description": "spice | powder | flavor | cooking",
     "Category": "Spices"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: saunf is fennel, not anise, so drop the star-anise words. Name it 'Fennel' so that 'Seeds' still works as a banned word."
   },
   {
    "id": "game2-64",
@@ -864,7 +864,7 @@
   {
    "id": "game2-67",
    "Name": "Sesame",
-   "Description": "Til | Seeds | Oil | Tahini | Bun",
+   "Description": "Til | Seeds | Oil | Rewri | Bun",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -872,7 +872,7 @@
     "Description": "spice | powder | flavor | cooking",
     "Category": "Spices"
    },
-   "note": ""
+   "note": "Debate: Rewri, the local sesame candy, is far better known locally than tahini."
   },
   {
    "id": "game2-68",
@@ -955,7 +955,7 @@
   {
    "id": "game2-74",
    "Name": "Basil",
-   "Description": "Tulsi | Pesto | Italian | Pizza | Leaves",
+   "Description": "Niazbo | Tukh Malanga | Pesto | Pizza | Leaves",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -963,7 +963,7 @@
     "Description": "spice | powder | flavor | cooking",
     "Category": "Spices"
    },
-   "note": "Herb rather than spice; category acceptable"
+   "note": "Herb rather than spice; category acceptable; Debate: Accurate local names: niazbo is basil and tukh malanga is basil seed. This gives a Pakistani frame."
   },
   {
    "id": "game2-75",
@@ -1163,7 +1163,7 @@
   {
    "id": "game2-90",
    "Name": "Lychee",
-   "Description": "Litchi | Pink | Shell | White | Seed",
+   "Description": "Pink | Shell | White | Seed | Summer",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1171,7 +1171,7 @@
     "Description": "fruit | sweet | juice | tree",
     "Category": "Fruits"
    },
-   "note": ""
+   "note": "Debate: 'Litchi' is just another spelling of the answer. Summer is the lychee season."
   },
   {
    "id": "game2-91",

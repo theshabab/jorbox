@@ -105,13 +105,13 @@
   {
    "id": "game9-10",
    "Name": "Who founded the Lego Group?",
-   "Description": "Ole Kirk Kristiansen",
+   "Description": "Ole Kirk Christiansen",
    "action": "edit",
    "original": {
     "Name": "Who is the founder of \"The Lego Group\"?",
     "Description": "Ole Kirk Christiansen"
    },
-   "note": "official spelling"
+   "note": "official spelling; Debate: The founder spelled his name Christiansen. The Kristiansen spelling came later in the family."
   },
   {
    "id": "game9-11",
@@ -247,25 +247,25 @@
   },
   {
    "id": "game9-23",
-   "Name": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+   "Name": "What is the name for South Asian food cooked over charcoal in a clay oven?",
    "Description": "Tandoori",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the name given to Indian food cooked over charcoal in a clay oven?",
     "Description": "Tandoori"
    },
-   "note": ""
+   "note": "Debate: The tandoor is as Pakistani as it is Indian, so this frame is accurate and closer to home for players."
   },
   {
    "id": "game9-24",
    "Name": "Which airline owned the plane that crashed off the coast of Nova Scotia in 1998?",
    "Description": "Swissair",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
     "Description": "Swiss Air"
    },
-   "note": "spelling, grammar"
+   "note": "Debate: An obscure regional air disaster that is also a grim question for a party game."
   },
   {
    "id": "game9-25",
@@ -1074,12 +1074,12 @@
    "id": "game9-98",
    "Name": "What is the official German name of the Swiss Federal Railways?",
    "Description": "Schweizerische Bundesbahnen",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the official German name of the Swiss Federal Railways?",
     "Description": "Schweizerische Bundesbahnen"
    },
-   "note": ""
+   "note": "Debate: Too obscure, and the long German answer is impractical to say aloud."
   },
   {
    "id": "game9-99",
@@ -1393,12 +1393,12 @@
    "id": "game9-127",
    "Name": "On a London Underground map, what colour is the Circle Line?",
    "Description": "Yellow",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "On a London Underground map, what colour is the Circle Line?",
     "Description": "Yellow"
    },
-   "note": ""
+   "note": "Debate: Too local to London."
   },
   {
    "id": "game9-128",
@@ -1611,14 +1611,14 @@
   },
   {
    "id": "game9-147",
-   "Name": "What is the name of the only remaining Grand Duchy in the world ?",
+   "Name": "What is the name of the only remaining Grand Duchy in the world?",
    "Description": "Luxembourg",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the name of the only remaining Grand Duchy in the world ?",
     "Description": "Luxembourg"
    },
-   "note": ""
+   "note": "Debate: Removes the stray space before the question mark."
   },
   {
    "id": "game9-148",
@@ -1655,14 +1655,14 @@
   },
   {
    "id": "game9-151",
-   "Name": "What is the common term for bovine spongiform encephalopathy (BSE)?",
-   "Description": "Mad Cow disease",
-   "action": "keep",
+   "Name": "What is the common name for bovine spongiform encephalopathy (BSE)?",
+   "Description": "Mad cow disease",
+   "action": "edit",
    "original": {
     "Name": "What is the common term for bovine spongiform encephalopathy (BSE)?",
     "Description": "Mad Cow disease"
    },
-   "note": ""
+   "note": "Debate: Fixes the capitalisation and the wording."
   },
   {
    "id": "game9-152",
@@ -1677,14 +1677,14 @@
   },
   {
    "id": "game9-153",
-   "Name": "Hippocampus is the Latin name for which marine creature?",
+   "Name": "Hippocampus is the scientific genus name for which marine creature?",
    "Description": "Seahorse",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Hippocampus is the Latin name for which marine creature?",
     "Description": "Seahorse"
    },
-   "note": ""
+   "note": "Debate: Hippocampus is a genus name of Greek origin, not simply a Latin name."
   },
   {
    "id": "game9-154",
@@ -1721,25 +1721,25 @@
   },
   {
    "id": "game9-157",
-   "Name": "What is the scientific name of the Common Chimpanzee?",
+   "Name": "What is the scientific name of the common chimpanzee?",
    "Description": "Pan troglodytes",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the scientific name of the Common Chimpanzee?",
     "Description": "Pan troglodytes"
    },
-   "note": ""
+   "note": "Debate: A common animal name should not be capitalised."
   },
   {
    "id": "game9-158",
    "Name": "What is the world's longest venomous snake?",
-   "Description": "King Cobra",
-   "action": "keep",
+   "Description": "King cobra",
+   "action": "edit",
    "original": {
     "Name": "What is the world's longest venomous snake?",
     "Description": "King Cobra"
    },
-   "note": ""
+   "note": "Debate: Fixes the capitalisation of the common name."
   },
   {
    "id": "game9-159",
@@ -1776,36 +1776,36 @@
   },
   {
    "id": "game9-162",
-   "Name": "The dish Fugu, is made from what family of fish?",
+   "Name": "The Japanese dish fugu is made from which kind of fish?",
    "Description": "Pufferfish",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "The dish Fugu, is made from what family of fish?",
     "Description": "Pufferfish"
    },
-   "note": ""
+   "note": "Debate: Fixes the stray comma and the awkward wording."
   },
   {
    "id": "game9-163",
-   "Name": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+   "Name": "A carnivorous animal eats flesh. What does a nucivorous animal eat?",
    "Description": "Nuts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
     "Description": "Nuts"
    },
-   "note": ""
+   "note": "Debate: Fixes the comma splice."
   },
   {
    "id": "game9-164",
-   "Name": "The now-extinct thylacine (Tasmanian tiger) last survived where?",
+   "Name": "The thylacine, an extinct striped meat-eating marsupial, last survived on which island?",
    "Description": "Tasmania, Australia",
    "action": "edit",
    "original": {
     "Name": "The now extinct species \"Thylacine\" was native to where?",
     "Description": "Tasmania, Australia"
    },
-   "note": "it also lived on mainland Australia and New Guinea"
+   "note": "it also lived on mainland Australia and New Guinea; Debate: The '(Tasmanian tiger)' hint gave away the answer."
   },
   {
    "id": "game9-165",
@@ -10249,6 +10249,27 @@
    "Description": "Buenos Aires",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "The Indus river dolphin, found in Pakistan, is almost completely what?",
+   "Description": "Blind",
+   "action": "add",
+   "note": "New card (debate): An accurate local animal fact (the dolphin's eyes have no lens) and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the collective noun for a group of owls?",
+   "Description": "Parliament",
+   "action": "add",
+   "note": "New card (debate): Correct, fits the existing collective-noun cards, and no owl card exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Counting its overseas territories, which country has the most time zones?",
+   "Description": "France (12, or 13 with its Antarctic claim)",
+   "action": "add",
+   "note": "New card (debate): The challenger's amended version: it notes the 12/13 ambiguity so players do not argue over the count, and it pairs with the China time-zone card."
   }
  ]
 }
