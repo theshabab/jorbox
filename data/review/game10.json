@@ -5138,6 +5138,306 @@
    "Name": "Name a reason to visit a tailor.",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you order at a dhaba.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you do during loadshedding.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you bargain for at a bazaar.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you always find at Nani's house.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a dish made with mutton.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something on the iftar table.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something people eat at sehri.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a prophet mentioned in the Quran.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name one of the five pillars of Islam.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name one of the five daily prayers.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a city in Saudi Arabia.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a city in Khyber Pakhtunkhwa.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a city in Balochistan.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a national symbol of Pakistan.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a famous Urdu poet.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something painted on a Pakistani truck.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you find in a drawing room.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something served to guests when they visit.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you do on Jummah.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name an Arabic word used in everyday Urdu.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something kids do in summer vacations.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something in a first aid kit.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a Pakistani clothing brand.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a brand of cooking oil or ghee.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a popular boy's name in Pakistan.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a popular girl's name in Pakistan.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you see in a doctor's clinic.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a sign that guests are about to leave.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a nickname every family has someone called.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something Ammi says when she is angry.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something used to get rid of mosquitoes.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a fruit that goes in fruit chaat.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a filling for a stuffed paratha.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name an ingredient in biryani.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a lake in Pakistan.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a place where you wait in a long line.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a bill you pay every month.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something whose price keeps going up.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a snack people eat in winter.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a language spoken in Pakistan.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a leader of the Pakistan Movement.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you see on 14 August.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you lend but never get back.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name an excuse to skip school.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something you do when the internet goes down.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a famous Pakistani sportsperson who is not a cricketer.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name something students do the night before an exam.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a bird that cannot fly.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name a common surname in Pakistan.",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Name an animal with stripes or spots.",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }
