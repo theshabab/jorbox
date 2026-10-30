@@ -3122,6 +3122,48 @@
    "Description": "Things That Are Furry or Hairy",
    "action": "add",
    "note": "New card (debate): New texture category; many answers (cat, sheep, teddy bear, beard, moustache, carpet, blanket, coconut, kiwi)."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Pink",
+   "action": "add",
+   "note": "New card (debate): The deck has other colour cards but none for pink. Players have many everyday answers: gulab, falooda, Rooh Afza milk, buddhi ke baal, flamingo."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Purple",
+   "action": "add",
+   "note": "New card (debate): No purple card exists. Plenty of local answers: baingan, jamun, falsa, angoor, aloo bukhara, chukandar, kaali gajar."
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Gosht (Mutton or Beef)",
+   "action": "add",
+   "note": "New card (debate): Completes the 'Dishes Made With' set (Aloo, Anday, Chicken, Qeema, Dahi). Huge answer pool: nihari, haleem, paye, korma, karahi, sajji, pulao."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do in the Morning",
+   "action": "add",
+   "note": "New card (debate): Pairs with 'Things You Do Before Going to Sleep' without duplicating it or 'Things That Wake You Up'. Universal answers: Fajr, chai, brushing teeth, paratha."
+  },
+  {
+   "id": null,
+   "Description": "Things That Break Easily",
+   "action": "add",
+   "note": "New card (debate): Fits the deck's object-property cards and overlaps only partly with 'Things Made of Glass'. Answers include anday, crockery, mobile screens, biscuits, pencil lead."
+  },
+  {
+   "id": null,
+   "Description": "Excuses for Not Answering the Phone",
+   "action": "add",
+   "note": "New card (debate): The answers differ from the existing excuse cards (late, homework, dawat) and are relatable and funny: battery dead, phone on silent, in namaz, no signal."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Hard (Not Soft)",
+   "action": "add",
+   "note": "New card (debate): Counterpart to 'Things That Are Soft'. '(Not Soft)' makes the physical meaning clear. The challenger's 'Hard to Touch' would mean 'difficult to touch' and make the card harder to understand."
   }
  ]
 }

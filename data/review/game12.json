@@ -3758,12 +3758,12 @@
   },
   {
    "id": "game12-418",
-   "Name": "Paste",
-   "action": "keep",
+   "Name": "Toothpaste",
+   "action": "edit",
    "original": {
     "Name": "Paste"
    },
-   "note": ""
+   "note": "Debate: 'Paste' is vague; Toothpaste is clear, drawable and not already in the deck"
   },
   {
    "id": "game12-419",
@@ -9455,6 +9455,66 @@
    "Name": "Gate",
    "action": "add",
    "note": "New card (debate): Simple everyday noun that is easy to draw; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Lunchbox",
+   "action": "add",
+   "note": "New card (debate): Everyday school item, easy to draw; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Lollipop",
+   "action": "add",
+   "note": "New card (debate): Distinct, drawable treat; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Microwave",
+   "action": "add",
+   "note": "New card (debate): Common kitchen appliance; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Passport",
+   "action": "add",
+   "note": "New card (debate): Familiar object, good for describing; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Pakol",
+   "action": "add",
+   "note": "New card (debate): Iconic Chitrali/Pashtun cap, local frame; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Parcel",
+   "action": "add",
+   "note": "New card (debate): Everyday delivery noun, easy to mime; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Mosquito Coil",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani household item, distinct from Mosquito; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Muezzin",
+   "action": "add",
+   "note": "New card (debate): Owner-allowed respectful person noun (gives the azan); not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Penguin",
+   "action": "add",
+   "note": "New card (debate): Popular, actable animal; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Lighthouse",
+   "action": "add",
+   "note": "New card (debate): Distinctive drawable object; not in deck"
   }
  ]
 }

@@ -3910,14 +3910,14 @@
   },
   {
    "id": "game7-356",
-   "Description": "mozzarella stick waterskiing on marinara lake",
+   "Description": "a pakora waterskiing on a lake of imli chutney",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "mozz stick waterskiing on marinara Lake",
     "Category": "Standard Prompts"
    },
-   "note": "spelling/capitalisation"
+   "note": "spelling/capitalisation; Debate: Lightly localises a Western snack; the absurd waterskiing image stays."
   },
   {
    "id": "game7-357",
@@ -3954,14 +3954,14 @@
   },
   {
    "id": "game7-360",
-   "Description": "please, m'lord, cream for to calm my skin",
+   "Description": "please, m'lord, some cream to calm my skin",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "please, m'lord, cream for to calm my skin",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fixes broken grammar ('cream for to calm') and keeps the m'lord silliness."
   },
   {
    "id": "game7-361",
@@ -4020,14 +4020,14 @@
   },
   {
    "id": "game7-366",
-   "Description": "The forest of gramps",
+   "Description": "a forest of grandpas",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "The forest of gramps",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Clearer and easier to draw than 'The forest of gramps', which uses Western slang."
   },
   {
    "id": "game7-367",
@@ -4097,14 +4097,14 @@
   },
   {
    "id": "game7-373",
-   "Description": "Sir Garbanzo",
+   "Description": "Sir Chana, knight of the chaat",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "saint garbanzo",
     "Category": "Standard Prompts"
    },
-   "note": "removed saint"
+   "note": "removed saint; Debate: 'Garbanzo' is a US word; a chana knight is local and easier to draw."
   },
   {
    "id": "game7-374",
@@ -4262,14 +4262,14 @@
   },
   {
    "id": "game7-388",
-   "Description": "another face under her bangs",
+   "Description": "another face hiding under her fringe",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "another face under her bangs",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Bangs' is US usage; 'fringe' is the local word and the wording is clearer."
   },
   {
    "id": "game7-389",
@@ -4691,14 +4691,14 @@
   },
   {
    "id": "game7-427",
-   "Description": "a litter box shaped like the titanic",
+   "Description": "a cat bed shaped like the Titanic",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "a litter box shaped like the titanic",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: A litter box is a toilet joke, which the owner bans; the shape joke stays and 'Titanic' is now capitalised."
   },
   {
    "id": "game7-428",
@@ -4713,14 +4713,14 @@
   },
   {
    "id": "game7-429",
-   "Description": "your honour, i plead hilarious",
+   "Description": "your honour, I plead hilarious",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "your honor i plead hilarious",
     "Category": "Standard Prompts"
    },
-   "note": "punctuation/spelling"
+   "note": "punctuation/spelling; Debate: Spelling: the pronoun 'I' should be capitalised."
   },
   {
    "id": "game7-430",
@@ -4735,14 +4735,14 @@
   },
   {
    "id": "game7-431",
-   "Description": "doc, will i ever chomp chomp again?",
+   "Description": "doc, will I ever chomp chomp again?",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "doc, will i ever chomp chomp again?",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Spelling: the pronoun 'I' should be capitalised."
   },
   {
    "id": "game7-432",
@@ -4900,14 +4900,14 @@
   },
   {
    "id": "game7-446",
-   "Description": "shazia! stop accessorizing!",
+   "Description": "Shazia! stop accessorizing!",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "shannon! stop accessorizing!",
     "Category": "Standard Prompts"
    },
-   "note": "localised name"
+   "note": "localised name; Debate: Spelling: the name 'Shazia' should be capitalised."
   },
   {
    "id": "game7-447",
@@ -4966,14 +4966,14 @@
   },
   {
    "id": "game7-452",
-   "Description": "so drowsy at brunch",
+   "Description": "dozing off face-first into the halwa puri",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "so drowsy at brunch",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: More local and easier to draw than 'so drowsy at brunch'."
   },
   {
    "id": "game7-453",
@@ -5010,14 +5010,14 @@
   },
   {
    "id": "game7-456",
-   "Description": "the scorpion chorus",
+   "Description": "the scorpion tug-of-war team",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the scorpion chorus",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Chorus' means singing, which the no-music rule bans. 'Debate' would nearly repeat idx 1028, so this uses a different group activity and keeps the group-of-scorpions joke."
   },
   {
    "id": "game7-457",
@@ -18733,6 +18733,62 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): A new barber-and-wool joke, distinct from 'sheep in a therapy session' and 'rock paper barber shears'."
+  },
+  {
+   "id": null,
+   "Description": "a parrot telling the guests all the family's secrets",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New drawable desi household scene, not a duplicate (the only parrot card is about gum)."
+  },
+  {
+   "id": null,
+   "Description": "a rooster with a snooze button",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New simple, clean, absurd animal prompt; the deck has no rooster or alarm card."
+  },
+  {
+   "id": null,
+   "Description": "a mouse driving a truck-art lorry",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local truck-art image with an absurd twist; it differs from the existing truck cards."
+  },
+  {
+   "id": null,
+   "Description": "a cockroach in a superhero cape flying at the guests",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New familiar household-panic scene; clean and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a lassi so thick the spoon stands up by itself",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local food joke; the deck has no lassi card."
+  },
+  {
+   "id": null,
+   "Description": "a kite stuck in a tree, still trying to cut the other kites",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New kite-fighting card that keeps the stubborn stuck-kite joke without needing the word 'pench' or showing an impossible pench; it differs from the existing kite cards."
+  },
+  {
+   "id": null,
+   "Description": "Dada Abbu's walking stick secretly used as a cricket bat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New affectionate family-and-cricket scene; easy to draw."
+  },
+  {
+   "id": null,
+   "Description": "the cricket ball hits Uncle's car window. Everyone runs.",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New classic gali-cricket moment in the style of idx 343; mild and clean."
   }
  ]
 }
