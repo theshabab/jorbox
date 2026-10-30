@@ -73,12 +73,12 @@
    "id": "game9-7",
    "Name": "What does the F stand for in the FBI?",
    "Description": "Federal",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What does the F stand for in the FBI?",
     "Description": "Federal"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-8",
@@ -337,12 +337,12 @@
    "id": "game9-31",
    "Name": "Which soft drink was introduced first: Coca-Cola, Pepsi or Dr Pepper?",
    "Description": "Dr Pepper",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of the following carbonated soft drinks were introduced first?",
     "Description": "Dr. Pepper"
    },
-   "note": "added the missing options"
+   "note": "added the missing options; US-centric"
   },
   {
    "id": "game9-32",
@@ -447,12 +447,12 @@
    "id": "game9-41",
    "Name": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
    "Description": "Spruce Goose",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
     "Description": "Spruce Goose"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-42",
@@ -491,12 +491,12 @@
    "id": "game9-45",
    "Name": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
    "Description": "Hewlett-Packard",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
     "Description": "Hewlett-Packard"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-46",
@@ -546,34 +546,34 @@
    "id": "game9-50",
    "Name": "Who was the Roman god of war?",
    "Description": "Mars",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The ancient Roman god of war was commonly known as which of the following?",
     "Description": "Mars"
    },
-   "note": "removed \"which of the following\""
+   "note": "removed \"which of the following\"; mythology"
   },
   {
    "id": "game9-51",
    "Name": "Which giant wolf in Norse mythology was a son of Loki?",
    "Description": "Fenrir",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Who is the God Loki's son?",
     "Description": "Fenrir"
    },
-   "note": "Loki had several sons; ambiguous"
+   "note": "Loki had several sons; ambiguous; mythology"
   },
   {
    "id": "game9-52",
    "Name": "In Norse mythology, the god Baldr was killed by a weapon made from which plant?",
    "Description": "Mistletoe",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",
     "Description": "Mistletoe"
    },
-   "note": "Hodr threw it, not Loki"
+   "note": "Hodr threw it, not Loki; mythology"
   },
   {
    "id": "game9-53",
@@ -590,34 +590,34 @@
    "id": "game9-54",
    "Name": "In Greek mythology, Persephone must return to the underworld because she had eaten what kind of seeds?",
    "Description": "Pomegranate",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "In Greek mythology, Persephone must return to the underworld because she had eaten what kind of seeds?",
     "Description": "Pomegranate"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-55",
    "Name": "A minotaur is half human half what?",
    "Description": "Bull",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "A minotaur is half human half what?",
     "Description": "Bull"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-56",
    "Name": "A hippogriff has the front half of an eagle and the back half of which animal?",
    "Description": "Horse",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
     "Description": "A Horse"
    },
-   "note": "simplified"
+   "note": "simplified; mythology"
   },
   {
    "id": "game9-57",
@@ -656,199 +656,199 @@
    "id": "game9-60",
    "Name": "In Greek mythology, who led the Argonauts in search of the Golden Fleece?",
    "Description": "Jason",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
     "Description": "Jason"
    },
-   "note": "grammar"
+   "note": "grammar; mythology"
   },
   {
    "id": "game9-61",
    "Name": "The Greek god Poseidon was the god of what?",
    "Description": "The Sea",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The greek god Poseidon was the god of what?",
     "Description": "The Sea"
    },
-   "note": "capitalization"
+   "note": "capitalization; mythology"
   },
   {
    "id": "game9-62",
    "Name": "Hel was the daughter of which Norse Mythological figure?",
    "Description": "Loki",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Hel was the daughter of which Norse Mythological figure?",
     "Description": "Loki"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-63",
    "Name": "Who was the King of Gods in Ancient Greek mythology?",
    "Description": "Zeus",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who was the King of Gods in Ancient Greek mythology?",
     "Description": "Zeus"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-64",
    "Name": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
    "Description": "Set",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
     "Description": "Set"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-65",
    "Name": "What is the name of the Greek god of blacksmiths?",
    "Description": "Hephaestus",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the name of the Greek god of blacksmiths?",
     "Description": "Hephaestus"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-66",
    "Name": "What is the name of the first man in Norse mythology?",
    "Description": "Ask",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is the name of the first human being in Norse mythology?",
     "Description": "Ask"
    },
-   "note": "clarity"
+   "note": "clarity; mythology"
   },
   {
    "id": "game9-67",
    "Name": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
    "Description": "Nidhogg",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
     "Description": "Nidhogg"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-68",
    "Name": "What was the punishment of Sisyphus in Greek mythology?",
    "Description": "Rolling a boulder up a hill forever",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What was the punishment for Sysiphus's craftiness?",
     "Description": "Cursed to roll a boulder up a hill for eternity."
    },
-   "note": "spelling, shorter"
+   "note": "spelling, shorter; mythology"
   },
   {
    "id": "game9-69",
    "Name": "Which daughter of King Minos helped Theseus escape the Labyrinth?",
    "Description": "Ariadne",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "In Greek Mythology, who was the daughter of King Minos?",
     "Description": "Ariadne"
    },
-   "note": "Minos had several daughters; ambiguous"
+   "note": "Minos had several daughters; ambiguous; mythology"
   },
   {
    "id": "game9-70",
    "Name": "Name the three Fates of Greek mythology.",
    "Description": "Clotho, Lachesis and Atropos",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of the following is not one of the Greek Fates?",
     "Description": "Narcissus"
    },
-   "note": "options were missing"
+   "note": "options were missing; mythology"
   },
   {
    "id": "game9-71",
    "Name": "According to Maori tradition, which island nation did Kupe discover under a \"long white cloud\"?",
    "Description": "New Zealand",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
     "Description": "New Zealand"
    },
-   "note": "clarity"
+   "note": "clarity; mythology"
   },
   {
    "id": "game9-72",
    "Name": "Which mythological creature is half man and half horse?",
    "Description": "Centaur",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of these mythological creatures is said to be half-man and half-horse?",
     "Description": "Centaur"
    },
-   "note": "removed \"which of these\""
+   "note": "removed \"which of these\"; mythology"
   },
   {
    "id": "game9-73",
    "Name": "In Greek mythology, who did Hippomenes defeat in a footrace?",
    "Description": "Atalanta",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Who did Hippomenes defeat in a footrace?",
     "Description": "Atalanta"
    },
-   "note": "context"
+   "note": "context; mythology"
   },
   {
    "id": "game9-74",
    "Name": "How many heads does Cerberus have?",
    "Description": "3",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "How many heads does Cerberus have?",
     "Description": "3"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-75",
    "Name": "Hera was the Greek goddess of what?",
    "Description": "Marriage",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Hera is god of...",
     "Description": "Marriage"
    },
-   "note": "goddess, wording"
+   "note": "goddess, wording; mythology"
   },
   {
    "id": "game9-76",
    "Name": "Talos, the mythical giant bronze man, was the protector of which island?",
    "Description": "Crete",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Talos, the mythical giant bronze man, was the protector of which island?",
     "Description": "Crete"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-77",
    "Name": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
    "Description": "Orpheus",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
     "Description": "Orpheus"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-78",
@@ -865,23 +865,23 @@
    "id": "game9-79",
    "Name": "The Nike brand takes its name from the Greek goddess of what?",
    "Description": "Victory",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The Nike apparel and footwear brand takes it's name from the Greek goddess of what?",
     "Description": "Victory"
    },
-   "note": "grammar"
+   "note": "grammar; mythology"
   },
   {
    "id": "game9-80",
    "Name": "In Greek Mythology, who killed Achilles?",
    "Description": "Paris",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "In Greek Mythology, who killed Achilles?",
     "Description": "Paris"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-81",
@@ -898,34 +898,34 @@
    "id": "game9-82",
    "Name": "Which two-faced Roman god of beginnings gives January its name?",
    "Description": "Janus",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of these Roman gods doesn't have a counterpart in Greek mythology?",
     "Description": "Janus"
    },
-   "note": "options were missing"
+   "note": "options were missing; mythology"
   },
   {
    "id": "game9-83",
    "Name": "In the Epic of Gilgamesh, what is the name of Gilgamesh's wild-man companion?",
    "Description": "Enkidu",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of the following Mesopotamian mythological figures was NOT a deity?",
     "Description": "Enkidu"
    },
-   "note": "options were missing"
+   "note": "options were missing; mythology"
   },
   {
    "id": "game9-84",
    "Name": "This Greek goddess's name was chosen for the dwarf planet responsible for discord on Pluto's classification amongst astronomers.",
    "Description": "Eris",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "This Greek goddess's name was chosen for the dwarf planet responsible for discord on Pluto's classification amongst astronomers.",
     "Description": "Eris"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-85",
@@ -942,34 +942,34 @@
    "id": "game9-86",
    "Name": "Who was the Greek personification of death?",
    "Description": "Thanatos",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is the name of the Greek god of peaceful deaths?",
     "Description": "Thanatos"
    },
-   "note": "clarity"
+   "note": "clarity; mythology"
   },
   {
    "id": "game9-87",
    "Name": "Who was the Roman god of fire?",
    "Description": "Vulcan",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who was the Roman god of fire?",
     "Description": "Vulcan"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-88",
    "Name": "Which Greek goddess tossed a golden apple marked \"for the fairest\" among the gods?",
    "Description": "Eris",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which greek god/goddess tossed a golden apple with the words \"for the fairest\" into the middle of the feast of the gods?",
     "Description": "Eris"
    },
-   "note": "wording"
+   "note": "wording; mythology"
   },
   {
    "id": "game9-89",
@@ -986,34 +986,34 @@
    "id": "game9-90",
    "Name": "In most traditions, who was the wife of Zeus?",
    "Description": "Hera",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "In most traditions, who was the wife of Zeus?",
     "Description": "Hera"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-91",
    "Name": "Which Greek god kept the same name in Roman mythology?",
    "Description": "Apollo",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Who was the only god from Greece who did not get a name change in Rome?",
     "Description": "Apollo"
    },
-   "note": "wording"
+   "note": "wording; mythology"
   },
   {
    "id": "game9-92",
    "Name": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
    "Description": "Spider",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
     "Description": "Spider"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-93",
@@ -1030,45 +1030,45 @@
    "id": "game9-94",
    "Name": "In Norse Mythology, what is the name of the symbol commonly referred to as the \"Tree of Life\"?",
    "Description": "Yggdrasil",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "In Norse Mythology, what is the name of the symbol commonly referred to as the \"Tree of Life\"?",
     "Description": "Yggdrasil"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-95",
    "Name": "Which Norse God has a horse named Sleipnir?",
    "Description": "Odin",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which Norse God has a horse named Sleipnir?",
     "Description": "Odin"
    },
-   "note": ""
+   "note": "mythology"
   },
   {
    "id": "game9-96",
    "Name": "Which Greek goddess was the goddess of wisdom and battle strategy?",
    "Description": "Athena",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
     "Description": "Athena"
    },
-   "note": "wording"
+   "note": "wording; mythology"
   },
   {
    "id": "game9-97",
    "Name": "Which mythological creatures have women's faces and vultures' bodies?",
    "Description": "Harpies",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What mytological creatures have women's faces and vultures' bodies?",
     "Description": "Harpies"
    },
-   "note": "spelling"
+   "note": "spelling; mythology"
   },
   {
    "id": "game9-98",
@@ -1514,12 +1514,12 @@
    "id": "game9-138",
    "Name": "Which US state has the highest population?",
    "Description": "California",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which US state has the highest population?",
     "Description": "California"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-139",
@@ -2614,12 +2614,12 @@
    "id": "game9-238",
    "Name": "Which desert is the only desert in the world where the \"Saguaro\" cactus grows indigenously?",
    "Description": "The Sonoran Desert",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which desert is the only desert in the world where the \"Saguaro\" cactus grows indigenously?",
     "Description": "The Sonoran Desert"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-239",
@@ -3142,12 +3142,12 @@
    "id": "game9-286",
    "Name": "What is the Capital of the United States?",
    "Description": "Washington, D.C.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the Capital of the United States?",
     "Description": "Washington, D.C."
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-287",
@@ -3725,12 +3725,12 @@
    "id": "game9-339",
    "Name": "Where is the \"Sonoran Desert\" located?",
    "Description": "North America",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Where is the \"Sonoran Desert\" located?",
     "Description": "North America"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-340",
@@ -4484,12 +4484,12 @@
    "id": "game9-408",
    "Name": "What North American tourist attraction is served by the \"Maid of the Mist\" tour company?",
    "Description": "Niagara Falls",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What North American tourist attraction is served by the \"Maid of the Mist\" tour company?",
     "Description": "Niagara Falls"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-409",
@@ -4891,12 +4891,12 @@
    "id": "game9-445",
    "Name": "Which Greek god is the counterpart of the Roman god Neptune?",
    "Description": "Poseidon",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Neptune's greek name was...",
     "Description": "Poseidon"
    },
-   "note": "wording"
+   "note": "wording; mythology"
   },
   {
    "id": "game9-446",
@@ -5331,12 +5331,12 @@
    "id": "game9-485",
    "Name": "Who was the only US President to be elected four times?",
    "Description": "Franklin Roosevelt",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who was the only US President to be elected four times?",
     "Description": "Franklin Roosevelt"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-486",
@@ -5958,12 +5958,12 @@
    "id": "game9-542",
    "Name": "What does the \"G\" mean in \"G-Man\"?",
    "Description": "Government",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What does the \"G\" mean in \"G-Man\"?",
     "Description": "Government"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-543",
@@ -6035,12 +6035,12 @@
    "id": "game9-549",
    "Name": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
    "Description": "Reactivity (instability)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
     "Description": "Reactivity"
    },
-   "note": "precision"
+   "note": "precision; US-centric"
   },
   {
    "id": "game9-550",
@@ -6222,12 +6222,12 @@
    "id": "game9-566",
    "Name": "Which ocean borders the west coast of the United States?",
    "Description": "Pacific",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which ocean borders the west coast of the United States?",
     "Description": "Pacific"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-567",
@@ -7157,12 +7157,12 @@
    "id": "game9-651",
    "Name": "Bob and Mike Bryan were well known brothers in which sport?",
    "Description": "Tennis",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Bob and Mike Bryan were well known brothers in which sport?",
     "Description": "Tennis"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-652",
@@ -7256,12 +7256,12 @@
    "id": "game9-660",
    "Name": "Death Valley's Badwater Basin, North America's lowest point, lies how far below sea level?",
    "Description": "282 feet (86 m)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Death Valley's Badwater Basin is North America's point of lowest elevation at how many feet below sea level?",
     "Description": "282 feet"
    },
-   "note": "added metric"
+   "note": "added metric; US-centric"
   },
   {
    "id": "game9-661",
@@ -7421,12 +7421,12 @@
    "id": "game9-675",
    "Name": "Which American architect designed the Guggenheim Museum in New York?",
    "Description": "Frank Lloyd Wright",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Frank Lloyd Wright was the architect behind what famous building?",
     "Description": "The Guggenheim"
    },
-   "note": "original ambiguous (Wright designed many famous buildings)"
+   "note": "original ambiguous (Wright designed many famous buildings); US-centric"
   },
   {
    "id": "game9-676",
@@ -7608,12 +7608,12 @@
    "id": "game9-692",
    "Name": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
    "Description": "USS Pueblo",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
     "Description": "USS Pueblo"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-693",
@@ -7861,12 +7861,12 @@
    "id": "game9-715",
    "Name": "The Pantheon in Rome was originally a temple dedicated to which gods?",
    "Description": "All the gods of ancient Rome",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The pantheon in Rome was used to worship what god?",
     "Description": "Any god they wanted"
    },
-   "note": "clarified question and answer"
+   "note": "clarified question and answer; mythology"
   },
   {
    "id": "game9-716",
@@ -7894,23 +7894,23 @@
    "id": "game9-718",
    "Name": "Which building in Washington was set on fire by British troops in August 1814?",
    "Description": "The White House",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which building was set aflame on August 24th, 1812?",
     "Description": "The White House"
    },
-   "note": "fixed year (1814, not 1812)"
+   "note": "fixed year (1814, not 1812); US-centric"
   },
   {
    "id": "game9-719",
    "Name": "Who was the first president of the United States?",
    "Description": "George Washington",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who was the first president of the United States?",
     "Description": "George Washington"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-720",
@@ -8444,12 +8444,12 @@
    "id": "game9-768",
    "Name": "If soccer is called football in England, what is American football called in England?",
    "Description": "American football",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "If soccer is called football in England, what is American football called in England?",
     "Description": "American football"
    },
-   "note": ""
+   "note": "US-centric"
   },
   {
    "id": "game9-769",
@@ -9820,6 +9820,433 @@
    "Name": "Which language has the most native speakers in the world?",
    "Description": "Mandarin Chinese",
    "Category": "",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Sindh?",
+   "Description": "Karachi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Punjab, Pakistan?",
+   "Description": "Lahore",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Gilgit-Baltistan?",
+   "Description": "Gilgit",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Mughal garden in Lahore is a UNESCO World Heritage Site together with Lahore Fort?",
+   "Description": "Shalimar Gardens",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the currency of Pakistan?",
+   "Description": "Pakistani rupee",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which border crossing near Lahore is famous for its daily flag-lowering ceremony?",
+   "Description": "Wagah",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who was the first woman to become Prime Minister of Pakistan?",
+   "Description": "Benazir Bhutto",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which year did East Pakistan become the independent country of Bangladesh?",
+   "Description": "1971",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the Urdu name of Pakistan's national anthem?",
+   "Description": "Qaumi Taranah",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which river joins the Indus at Attock?",
+   "Description": "Kabul River",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "K2 is part of which mountain range?",
+   "Description": "Karakoram",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Lahore Fort is also known by what name?",
+   "Description": "Shahi Qila",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which salt mine in Punjab's Salt Range is one of the largest in the world?",
+   "Description": "Khewra Salt Mine",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the largest city in Pakistan by population?",
+   "Description": "Karachi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which was Pakistan's first motorway, linking Lahore and Islamabad?",
+   "Description": "M-2",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "The Hunza Valley is in which region of Pakistan?",
+   "Description": "Gilgit-Baltistan",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Islamic month comes straight after Ramadan?",
+   "Description": "Shawwal",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which city is Masjid an-Nabawi, the Prophet's Mosque?",
+   "Description": "Madinah",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who was the second Rightly Guided Caliph?",
+   "Description": "Umar ibn al-Khattab (RA)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which city was the capital of the Umayyad Caliphate?",
+   "Description": "Damascus",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Ottoman sultan is known as \"the Magnificent\"?",
+   "Description": "Suleiman I",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which 1071 battle did the Seljuk Turks defeat the Byzantine army?",
+   "Description": "Battle of Manzikert",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which 1260 battle saw the Mamluks stop the Mongol advance into Egypt?",
+   "Description": "Battle of Ain Jalut",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which year did the Mongols sack Baghdad, ending the Abbasid Caliphate there?",
+   "Description": "1258",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Muslim dynasty built the Alhambra palace in Granada?",
+   "Description": "Nasrid dynasty",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Who was the first wife of the Prophet Muhammad (PBUH)?",
+   "Description": "Khadijah bint Khuwaylid (RA)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which city was the Prophet Muhammad (PBUH) born?",
+   "Description": "Makkah",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the Prophet's (PBUH) night journey from Makkah to Jerusalem called?",
+   "Description": "Al-Isra",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which 636 CE battle opened Syria to the Muslims, under Khalid ibn al-Walid (RA)?",
+   "Description": "Battle of Yarmouk",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which battle in about 636 CE led to the Muslim conquest of Persian Iraq?",
+   "Description": "Battle of al-Qadisiyyah",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which dynasty founded the city of Cairo in 969 CE?",
+   "Description": "Fatimid dynasty",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which Delhi Sultanate ruler began building the Qutub Minar?",
+   "Description": "Qutb ud-Din Aibak",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which sultan of Ghazni is famous for his 17 expeditions into India?",
+   "Description": "Mahmud of Ghazni",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "How many pillars of Islam are there?",
+   "Description": "Five",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "The Islamic (Hijri) calendar follows the cycles of what?",
+   "Description": "The Moon",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Saudi Arabia?",
+   "Description": "Riyadh",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Egypt?",
+   "Description": "Cairo",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Afghanistan?",
+   "Description": "Kabul",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Bangladesh?",
+   "Description": "Dhaka",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Jordan?",
+   "Description": "Amman",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Qatar?",
+   "Description": "Doha",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "In which city is the Burj Khalifa, the world's tallest building?",
+   "Description": "Dubai",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which island country, with Malé as its capital, is made up of about 1,200 coral islands?",
+   "Description": "Maldives",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which mountain range stretches across Morocco, Algeria and Tunisia?",
+   "Description": "Atlas Mountains",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the huge sand desert in the south of the Arabian Peninsula called?",
+   "Description": "Rub' al Khali (the Empty Quarter)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the chemical symbol for potassium?",
+   "Description": "K",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the chemical symbol for silver?",
+   "Description": "Ag",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the SI unit of force?",
+   "Description": "Newton",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the SI unit of power?",
+   "Description": "Watt",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which blood cells help the body fight infection?",
+   "Description": "White blood cells",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the pH of pure water at 25°C?",
+   "Description": "7",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "How many teeth does a typical adult human have, including wisdom teeth?",
+   "Description": "32",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the scientific study of earthquakes called?",
+   "Description": "Seismology",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which is the smallest planet in the Solar System?",
+   "Description": "Mercury",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What does a barometer measure?",
+   "Description": "Air pressure",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the longest river in South America?",
+   "Description": "Amazon",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Canada?",
+   "Description": "Ottawa",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Kenya?",
+   "Description": "Nairobi",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Which strait separates Asia from North America?",
+   "Description": "Bering Strait",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the largest country in South America?",
+   "Description": "Brazil",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Argentina?",
+   "Description": "Buenos Aires",
    "action": "add",
    "note": "New card"
   }
