@@ -1,7 +1,7 @@
 Description,Category
 How interested are you in living on the first Mars colony?,0 to 100
-How comfortable are you with elderly people?,0 to 100
-How many times per year do you go to the cinema?,Number
+How much do you enjoy sitting with your elders?,0 to 100
+How many picnics do you go on in a year?,Number
 What is your ideal number of vacation days per year?,Number
 How likely are you to become a spy?,0 to 100
 How much do you love Chai?,0 to 100
@@ -16,17 +16,15 @@ How likely are you to check your phone immediately after waking up?,0 to 100
 How much do you enjoy family gatherings?,0 to 100
 How likely are you to forget a friend's birthday?,0 to 100
 How obsessed are you with cricket?,0 to 100
-How much time do you spend on social media daily?,0 to 100
 How likely are you to eat the last piece of pizza without asking?,0 to 100
 How much do you trust a street food vendor's hygiene?,0 to 100
 How likely are you to recommend a restaurant you've never been to?,0 to 100
-To what degree would you describe yourself as a 'Sore Loser'?,0 to 100
-How many years of your life would you give up to speak every language?,Number
+How much of a 'Sore Loser' are you?,0 to 100
+How many years would you spend studying to be able to speak every language?,Number
 How likely are you to laugh at a serious moment?,0 to 100
 How much do you hate waking up early?,0 to 100
 How many first cousins do you have?,Number
 How many unread emails are in your inbox right now?,Number
-How many times have you watched '3 Idiots'?,Number
 How many pairs of shoes do you own?,Number
 How many weddings did you attend last year?,Number
 How many hours of sleep did you get last night?,Number
@@ -51,7 +49,7 @@ How many apps do you have installed on your phone?,Number
 How many selfies do you take in a week?,Number
 How many pairs of sunglasses do you own?,Number
 How many times have you cooked a full meal this month?,Number
-How many alarming clocks do you set to wake up?,Number
+How many alarms do you set to wake up?,Number
 How many cricket matches have you watched live in a stadium?,Number
 How many times have you run out of fuel?,Number
 How many pets have you owned in your life?,Number
@@ -64,10 +62,9 @@ How many weird nicknames do you have?,Number
 How many hours a day do you spend watching reels/TikToks?,Number
 How many times have you changed your hairstyle this year?,Number
 How many items are currently in your online shopping cart?,Number
-How many times have you re-watched your favorite TV show?,Number
 How many times have you won a trophy or medal?,Number
 How many times have you been on TV?,Number
-How many times have you met a celebrity?,Number
+How many times have you met a famous cricketer?,Number
 How many times have you forgotten someone's name immediately after meeting them?,Number
 How many times have you bought something you never used?,Number
 How many times have you successfully flipped a bottle?,Number
@@ -84,44 +81,39 @@ How many times have you had a flat tire?,Number
 How many times have you jump-started a car?,Number
 How many times have you ridden a motorbike without a helmet?,Number
 How many times have you driven a manual car?,Number
-How many times have you taken a tuk-tuk/rickshaw?,Number
+How many times have you ridden in a rickshaw or Qingqi this month?,Number
 How many times have you sat on the roof of a bus or car?,Number
 How many samosas can you eat in one sitting?,Number
-How many plates of Biryani is your record?,Number
+What is your record for plates of Biryani in one sitting?,Number
 How many Gulab Jamuns can you fit in your mouth?,Number
 How many parathas do you eat for breakfast?,Number
 How many times do you drink coffee in a week?,Number
 How many times have you donated to charity this year?,Number
 How many times have you helped a stranger?,Number
 How many times have you spoken in public (speech/presentation)?,Number
-How many times have you performed on stage?,Number
-How many times have you won a competition?,Number
-How many times have you been rejected?,Number
+How many times have you been rejected for a job or admission?,Number
 How many times have you quit a job?,Number
 How many times have you pulled an all-nighter?,Number
 How many times have you slept for more than 12 hours straight?,Number
 How many times have you had lucid dreams?,Number
-How many times have you wished on a shooting star?,Number
-How many times have you won a lottery or raffle?,Number
+How many shooting stars have you seen?,Number
 How many times have you saved someone's life?,Number
 How many times have you been in a physical fight?,Number
-How many times have you stitched a wound?,Number
+How many times have you needed stitches?,Number
 How many times have you fainted?,Number
 How many times have you had surgery?,Number
 How many times have you dyed your hair?,Number
-How many times have you grown a beard?,Number
-How many times have you pierced your ears?,Number
-How many tattoos do you have?,Number
+How many times have you had your ears pierced?,Number
 How many allergies do you have?,Number
 How many phobias do you have?,Number
 How many meaningful conversations have you had this week?,Number
-How many times have you said 'I love you' today?,Number
+How many times have you said 'thank you' today?,Number
 How likely are you to pick up a spider?,0 to 100
 How much do you believe in aliens?,0 to 100
 How good are you at math without a calculator?,0 to 100
 How messy is your room right now?,0 to 100
 How likely are you to skydive?,0 to 100
-How much do you enjoy horror movies?,0 to 100
+How much do you enjoy scary stories?,0 to 100
 How good are you at keeping plants alive?,0 to 100
 How likely are you to return a wallet you found?,0 to 100
 How much do you care about what others think of you?,0 to 100
@@ -133,17 +125,15 @@ How patient are you?,0 to 100
 How competitive are you?,0 to 100
 How superstitious are you?,0 to 100
 How good is your sense of direction?,0 to 100
-How likely are you to be the life of the party?,0 to 100
+How likely are you to be the life of a family gathering?,0 to 100
 How much do you enjoy solitude?,0 to 100
 How likely are you to impulse buy?,0 to 100
 How much do you procrastinate?,0 to 100
 How organized are you?,0 to 100
 How good are you at remembering dates?,0 to 100
-How likely are you to sing in karaoke?,0 to 100
 How much do you love rainy days?,0 to 100
 How likely are you to adopt a stray animal?,0 to 100
 How good are you at keeping secrets?,0 to 100
-How likely are you to binge-watch a series in one day?,0 to 100
 How adventurous are you with food?,0 to 100
 How afraid are you of the dark?,0 to 100
 How likely are you to break your phone screen?,0 to 100
@@ -163,7 +153,7 @@ How creative are you?,0 to 100
 How logical are you?,0 to 100
 How emotional are you?,0 to 100
 How likely are you to move to another country?,0 to 100
-How much do you like your job/studies?,0 to 100
+How much do you like your work or studies?,0 to 100
 How confident are you in your looks?,0 to 100
 How much do you regret your last big purchase?,0 to 100
 How comfortable are you with silence?,0 to 100
@@ -180,10 +170,10 @@ How likely are you to learn a new language this year?,0 to 100
 How good are you at haggling?,0 to 100
 How likely are you to wear traditional clothes daily?,0 to 100
 How comfortable are you with spicy food?,0 to 100
-How many weddings have you been a host for?,Number
+How many family weddings have you helped organize?,Number
 How likely are you to arrive on time for a 'Desi' event?,0 to 100
-How many times have you been to a 'Mela' (Fair)?,Number
-How good are you at making round Rotis?,0 to 100
+How many times have you been to a mela (fair)?,Number
+How good are you at making round rotis?,0 to 100
 How likely are you to watch a cricket match replay?,0 to 100
 How many cricket bats have you owned?,Number
 How much do you enjoy street cricket?,0 to 100
@@ -192,10 +182,10 @@ How many times have you broken a window playing cricket?,Number
 How many family WhatsApp groups have you muted?,Number
 How likely are you to forward a 'Good Morning' message?,0 to 100
 How many times have you forgotten to reply to a message?,Number
-How good are you at keeping new year resolutions?,0 to 100
+How good are you at keeping New Year's resolutions?,0 to 100
 How likely are you to start a gym membership?,0 to 100
 How many times have you gone to the gym this month?,Number
-How unlikely are you to skip leg day?,0 to 100
+How likely are you to skip leg day at the gym?,0 to 100
 How much do you trust online reviews?,0 to 100
 How likely are you to try a new gadget without reading the manual?,0 to 100
 How many apps do you have that you never use?,Number
@@ -213,15 +203,8 @@ How good are you at board games?,0 to 100
 How likely are you to cheat at Ludo?,0 to 100
 How many times have you flipped the Ludo board in anger?,Number
 How much do you enjoy playing Carrom?,0 to 100
-How good are you at Antakshari?,0 to 100
-How likely are you to sing in public?,0 to 100
-How many songs do you know all the lyrics to?,Number
-How much do you enjoy classical music?,0 to 100
-How likely are you to attend a Qawwali night?,0 to 100
-How many concerts have you attended?,Number
-How good are you at dancing at weddings?,0 to 100
-How likely are you to lead a Mehndi dance?,0 to 100
-How many pairs of 'Khussas' do you own?,Number
+How likely are you to attend a Mushaira?,0 to 100
+How many pairs of khussas do you own?,Number
 How much do you enjoy wearing heavy jewelry?,0 to 100
 How likely are you to wear a Sherwani casually?,0 to 100
 How many ties do you own?,Number
@@ -236,13 +219,13 @@ How much do you hate ironing?,0 to 100
 How likely are you to do laundry on weekends?,0 to 100
 How many loads of laundry do you do per week?,Number
 How good are you at folding fitted sheets?,0 to 100
-How likely are you to hire a cleaner?,0 to 100
+How likely are you to hire a maasi for cleaning?,0 to 100
 How messy is your car right now?,0 to 100
 How likely are you to wash your car yourself?,0 to 100
 How many times have you washed your car this month?,Number
 How likely are you to fix a flat tire yourself?,0 to 100
 How good are you at basic car maintenance?,0 to 100
-How likely are you to drive a manual transmission?,0 to 100
+How likely are you to drive a manual car?,0 to 100
 How many road trips have you taken this year?,Number
 How much do you enjoy long drives?,0 to 100
 How likely are you to get road rage?,0 to 100
@@ -268,28 +251,13 @@ How good are you at Sudoku?,0 to 100
 How likely are you to finish a crossword puzzle?,0 to 100
 How many riddles do you know by heart?,Number
 How good are you at telling jokes?,0 to 100
-How likely are you to be the class clown?,0 to 100
+How likely were you to be the class clown?,0 to 100
 How many pranks have you successfully pulled?,Number
-How much do you enjoy watching comedy shows?,0 to 100
 How likely are you to laugh at your own jokes?,0 to 100
 How good are you at impressions?,0 to 100
 How likely are you to participate in a play?,0 to 100
-How many movies have you watched in a theater this year?,Number
-How much do you enjoy 3D movies?,0 to 100
-How likely are you to cry during a sad movie scene?,0 to 100
-How many times have you walked out of a movie?,Number
-How likely are you to spoil a movie for others?,0 to 100
-How good are you at predicting movie plot twists?,0 to 100
-How likely are you to watch a movie without checking ratings?,0 to 100
-How much do you enjoy documentaries?,0 to 100
-How likely are you to watch a foreign language film?,0 to 100
-How many TV series are you currently watching?,Number
-How likely are you to cancel plans to watch TV?,0 to 100
-How good are you at handling spoilers?,0 to 100
-How likely are you to rewatch The Office?,0 to 100
-How much do you enjoy reality TV?,0 to 100
-How likely are you to vote in a reality show?,0 to 100
-How many cooking shows do you watch?,Number
+How much do you enjoy watching documentaries?,0 to 100
+How many cooking videos do you watch in a week?,Number
 How likely are you to try a recipe from TikTok?,0 to 100
 How good are you at baking?,0 to 100
 How likely are you to burn toast?,0 to 100
@@ -298,30 +266,27 @@ How much do you love coffee?,0 to 100
 How likely are you to drink black coffee?,0 to 100
 How good are you at making latte art?,0 to 100
 How many different types of tea have you tried?,Number
-How likely are you to drink Green Tea for health?,0 to 100
+How likely are you to drink green tea for health?,0 to 100
 How much do you enjoy fast food?,0 to 100
 How likely are you to order a salad at a burger joint?,0 to 100
-How many slices of pizza is your limit?,Number
 How good are you at using chopsticks?,0 to 100
 How likely are you to try sushi?,0 to 100
-How much do you enjoy spicy food?,0 to 100
 How likely are you to add extra hot sauce?,0 to 100
-How many types of pickle (Achaar) do you like?,Number
+How many types of achaar (pickle) do you like?,Number
 How good are you at making omelets?,0 to 100
 How likely are you to skip breakfast?,0 to 100
-How many liters of water do you drink daily?,Number
 How good are you at staying hydrated?,0 to 100
 How likely are you to carry a water bottle everywhere?,0 to 100
 How much do you enjoy fizzy drinks?,0 to 100
 How likely are you to give up sugar?,0 to 100
-How many days have you gone without dessert?,Number
+What is the most days in a row you have gone without eating anything sweet?,Number
 How good are you at resisting chocolate?,0 to 100
 How likely are you to eat ice cream in winter?,0 to 100
-How much do you enjoy examining old photos?,0 to 100
+How much do you enjoy looking through old photos?,0 to 100
 How likely are you to print your digital photos?,0 to 100
 How many photo albums do you have?,Number
 How good are you at remembering childhood memories?,0 to 100
-How likely are you to keep old letters/cards?,0 to 100
+How likely are you to keep old letters and Eid cards?,0 to 100
 How sentimental are you?,0 to 100
 How likely are you to cry at a graduation?,0 to 100
 How much do you value family traditions?,0 to 100
@@ -334,7 +299,6 @@ How likely are you to milk a cow?,0 to 100
 How many times have you ridden a horse?,Number
 How good are you at gardening?,0 to 100
 How likely are you to grow your own vegetables?,0 to 100
-How many indoor plants do you have?,Number
 How much do you enjoy nature walks?,0 to 100
 How likely are you to go camping?,0 to 100
 How good are you at setting up a tent?,0 to 100
@@ -342,4 +306,4 @@ How likely are you to go fishing?,0 to 100
 How many fish have you caught?,Number
 How much do you enjoy swimming?,0 to 100
 How likely are you to dive into the deep end?,0 to 100
-How good are you at floating?,0 to 100
+How good are you at floating in water?,0 to 100

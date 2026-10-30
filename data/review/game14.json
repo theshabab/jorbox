@@ -1,0 +1,3791 @@
+{
+ "game": "game14",
+ "name": "Dilchasp Haqaiq",
+ "baseCommit": "3f43360",
+ "cards": [
+  {
+   "id": "game14-1",
+   "Description": "How interested are you in living on the first Mars colony?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How interested are you in living on the first Mars colony?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-2",
+   "Description": "How much do you enjoy sitting with your elders?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How comfortable are you with elderly people?",
+    "Category": "0 to 100"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game14-3",
+   "Description": "How many picnics do you go on in a year?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times per year do you go to the cinema?",
+    "Category": "Number"
+   },
+   "note": "cinema replaced (film content)"
+  },
+  {
+   "id": "game14-4",
+   "Description": "What is your ideal number of vacation days per year?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "What is your ideal number of vacation days per year?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-5",
+   "Description": "How likely are you to become a spy?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to become a spy?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-6",
+   "Description": "How much do you love Chai?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you love Chai?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-7",
+   "Description": "How afraid are you of a 'Chipkali' (Lizard)?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How afraid are you of a 'Chipkali' (Lizard)?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-8",
+   "Description": "How good are you at bargaining in the market?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at bargaining in the market?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-9",
+   "Description": "How strict were your parents while growing up?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How strict were your parents while growing up?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-10",
+   "Description": "How likely are you to arrive late to a wedding?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to arrive late to a wedding?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-11",
+   "Description": "How much spice can you handle in your food?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much spice can you handle in your food?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-12",
+   "Description": "How likely are you to complain about the food at a Daawat?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to complain about the food at a Daawat?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-13",
+   "Description": "How much do you panic when the electricity goes (Load Shedding)?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you panic when the electricity goes (Load Shedding)?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-14",
+   "Description": "How likely are you to check your phone immediately after waking up?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to check your phone immediately after waking up?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-15",
+   "Description": "How much do you enjoy family gatherings?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy family gatherings?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-16",
+   "Description": "How likely are you to forget a friend's birthday?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to forget a friend's birthday?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-17",
+   "Description": "How obsessed are you with cricket?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How obsessed are you with cricket?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-18",
+   "Description": "How much time do you spend on social media daily?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How much time do you spend on social media daily?",
+    "Category": "0 to 100"
+   },
+   "note": "duplicate of reels/TikTok time question"
+  },
+  {
+   "id": "game14-19",
+   "Description": "How likely are you to eat the last piece of pizza without asking?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to eat the last piece of pizza without asking?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-20",
+   "Description": "How much do you trust a street food vendor's hygiene?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you trust a street food vendor's hygiene?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-21",
+   "Description": "How likely are you to recommend a restaurant you've never been to?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to recommend a restaurant you've never been to?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-22",
+   "Description": "How much of a 'Sore Loser' are you?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "To what degree would you describe yourself as a 'Sore Loser'?",
+    "Category": "0 to 100"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game14-23",
+   "Description": "How many years would you spend studying to be able to speak every language?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many years of your life would you give up to speak every language?",
+    "Category": "Number"
+   },
+   "note": "avoid trading years of life"
+  },
+  {
+   "id": "game14-24",
+   "Description": "How likely are you to laugh at a serious moment?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to laugh at a serious moment?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-25",
+   "Description": "How much do you hate waking up early?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you hate waking up early?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-26",
+   "Description": "How many first cousins do you have?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many first cousins do you have?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-27",
+   "Description": "How many unread emails are in your inbox right now?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many unread emails are in your inbox right now?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-28",
+   "Description": "How many times have you watched '3 Idiots'?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many times have you watched '3 Idiots'?",
+    "Category": "Number"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-29",
+   "Description": "How many pairs of shoes do you own?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many pairs of shoes do you own?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-30",
+   "Description": "How many weddings did you attend last year?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many weddings did you attend last year?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-31",
+   "Description": "How many hours of sleep did you get last night?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many hours of sleep did you get last night?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-32",
+   "Description": "How many photos are in your phone's camera roll?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many photos are in your phone's camera roll?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-33",
+   "Description": "How many times have you been to the Northern Areas?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you been to the Northern Areas?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-34",
+   "Description": "How many languages can you speak fluently?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many languages can you speak fluently?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-35",
+   "Description": "How many different cities have you lived in?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many different cities have you lived in?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-36",
+   "Description": "How many WhatsApp groups are you currently in?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many WhatsApp groups are you currently in?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-37",
+   "Description": "How many cups of Chai do you drink in a typical day?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many cups of Chai do you drink in a typical day?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-38",
+   "Description": "How many suits/kurtas do you own?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many suits/kurtas do you own?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-39",
+   "Description": "How many contacts are saved in your phone?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many contacts are saved in your phone?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-40",
+   "Description": "How many times have you broken a bone?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you broken a bone?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-41",
+   "Description": "How many countries have you visited?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many countries have you visited?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-42",
+   "Description": "How many years have you been using a smartphone?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many years have you been using a smartphone?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-43",
+   "Description": "How many followers do you have on your main social media account?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many followers do you have on your main social media account?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-44",
+   "Description": "How many books did you read last year?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many books did you read last year?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-45",
+   "Description": "How many times do you eat out (restaurant/takeout) per week?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times do you eat out (restaurant/takeout) per week?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-46",
+   "Description": "How many siblings do you have?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many siblings do you have?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-47",
+   "Description": "How many years have you known your best friend?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many years have you known your best friend?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-48",
+   "Description": "How many times have you lost your wallet or phone?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you lost your wallet or phone?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-49",
+   "Description": "How many apps do you have installed on your phone?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many apps do you have installed on your phone?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-50",
+   "Description": "How many selfies do you take in a week?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many selfies do you take in a week?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-51",
+   "Description": "How many pairs of sunglasses do you own?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many pairs of sunglasses do you own?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-52",
+   "Description": "How many times have you cooked a full meal this month?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you cooked a full meal this month?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-53",
+   "Description": "How many alarms do you set to wake up?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many alarming clocks do you set to wake up?",
+    "Category": "Number"
+   },
+   "note": "fixed 'alarming clocks'"
+  },
+  {
+   "id": "game14-54",
+   "Description": "How many cricket matches have you watched live in a stadium?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many cricket matches have you watched live in a stadium?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-55",
+   "Description": "How many times have you run out of fuel?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you run out of fuel?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-56",
+   "Description": "How many pets have you owned in your life?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many pets have you owned in your life?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-57",
+   "Description": "How many times have you been on a plane?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you been on a plane?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-58",
+   "Description": "How many plants are in your house?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many plants are in your house?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-59",
+   "Description": "How many scars do you have?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many scars do you have?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-60",
+   "Description": "How many slices of pizza can you eat in one sitting?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many slices of pizza can you eat in one sitting?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-61",
+   "Description": "How many glasses of water do you drink daily?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many glasses of water do you drink daily?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-62",
+   "Description": "How many weird nicknames do you have?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many weird nicknames do you have?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-63",
+   "Description": "How many hours a day do you spend watching reels/TikToks?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many hours a day do you spend watching reels/TikToks?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-64",
+   "Description": "How many times have you changed your hairstyle this year?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you changed your hairstyle this year?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-65",
+   "Description": "How many items are currently in your online shopping cart?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many items are currently in your online shopping cart?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-66",
+   "Description": "How many times have you re-watched your favorite TV show?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many times have you re-watched your favorite TV show?",
+    "Category": "Number"
+   },
+   "note": "western/secular (TV show)"
+  },
+  {
+   "id": "game14-67",
+   "Description": "How many times have you won a trophy or medal?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you won a trophy or medal?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-68",
+   "Description": "How many times have you been on TV?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you been on TV?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-69",
+   "Description": "How many times have you met a famous cricketer?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times have you met a celebrity?",
+    "Category": "Number"
+   },
+   "note": "celebrity replaced with local equivalent"
+  },
+  {
+   "id": "game14-70",
+   "Description": "How many times have you forgotten someone's name immediately after meeting them?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you forgotten someone's name immediately after meeting them?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-71",
+   "Description": "How many times have you bought something you never used?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you bought something you never used?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-72",
+   "Description": "How many times have you successfully flipped a bottle?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you successfully flipped a bottle?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-73",
+   "Description": "How many times have you corrected someone's grammar?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you corrected someone's grammar?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-74",
+   "Description": "How many times have you eaten ice cream for breakfast?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you eaten ice cream for breakfast?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-75",
+   "Description": "How many times have you taken a photo of your food before eating?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you taken a photo of your food before eating?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-76",
+   "Description": "How many times have you eaten Biryani with a spoon instead of hands?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you eaten Biryani with a spoon instead of hands?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-77",
+   "Description": "How many times have you incorrectly plugged in a USB?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you incorrectly plugged in a USB?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-78",
+   "Description": "How many times have you missed a flight or train?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you missed a flight or train?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-79",
+   "Description": "How many times have you lost your luggage?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you lost your luggage?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-80",
+   "Description": "How many times have you parallel parked perfectly on the first try?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you parallel parked perfectly on the first try?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-81",
+   "Description": "How many times have you been pulled over by traffic police?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you been pulled over by traffic police?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-82",
+   "Description": "How many times have you had a flat tire?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you had a flat tire?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-83",
+   "Description": "How many times have you jump-started a car?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you jump-started a car?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-84",
+   "Description": "How many times have you ridden a motorbike without a helmet?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you ridden a motorbike without a helmet?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-85",
+   "Description": "How many times have you driven a manual car?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you driven a manual car?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-86",
+   "Description": "How many times have you ridden in a rickshaw or Qingqi this month?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times have you taken a tuk-tuk/rickshaw?",
+    "Category": "Number"
+   },
+   "note": "local wording, answerable count"
+  },
+  {
+   "id": "game14-87",
+   "Description": "How many times have you sat on the roof of a bus or car?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you sat on the roof of a bus or car?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-88",
+   "Description": "How many samosas can you eat in one sitting?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many samosas can you eat in one sitting?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-89",
+   "Description": "What is your record for plates of Biryani in one sitting?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many plates of Biryani is your record?",
+    "Category": "Number"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game14-90",
+   "Description": "How many Gulab Jamuns can you fit in your mouth?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many Gulab Jamuns can you fit in your mouth?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-91",
+   "Description": "How many parathas do you eat for breakfast?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many parathas do you eat for breakfast?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-92",
+   "Description": "How many times do you drink coffee in a week?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times do you drink coffee in a week?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-93",
+   "Description": "How many times have you donated to charity this year?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you donated to charity this year?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-94",
+   "Description": "How many times have you helped a stranger?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you helped a stranger?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-95",
+   "Description": "How many times have you spoken in public (speech/presentation)?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you spoken in public (speech/presentation)?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-96",
+   "Description": "How many times have you performed on stage?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many times have you performed on stage?",
+    "Category": "Number"
+   },
+   "note": "overlaps public speaking; stage performance"
+  },
+  {
+   "id": "game14-97",
+   "Description": "How many times have you won a competition?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many times have you won a competition?",
+    "Category": "Number"
+   },
+   "note": "duplicate of trophy/medal question"
+  },
+  {
+   "id": "game14-98",
+   "Description": "How many times have you been rejected for a job or admission?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times have you been rejected?",
+    "Category": "Number"
+   },
+   "note": "avoid romance implication"
+  },
+  {
+   "id": "game14-99",
+   "Description": "How many times have you quit a job?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you quit a job?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-100",
+   "Description": "How many times have you pulled an all-nighter?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you pulled an all-nighter?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-101",
+   "Description": "How many times have you slept for more than 12 hours straight?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you slept for more than 12 hours straight?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-102",
+   "Description": "How many times have you had lucid dreams?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you had lucid dreams?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-103",
+   "Description": "How many shooting stars have you seen?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times have you wished on a shooting star?",
+    "Category": "Number"
+   },
+   "note": "removed wishing (superstition)"
+  },
+  {
+   "id": "game14-104",
+   "Description": "How many times have you won a lottery or raffle?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many times have you won a lottery or raffle?",
+    "Category": "Number"
+   },
+   "note": "lottery/raffle is gambling"
+  },
+  {
+   "id": "game14-105",
+   "Description": "How many times have you saved someone's life?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you saved someone's life?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-106",
+   "Description": "How many times have you been in a physical fight?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you been in a physical fight?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-107",
+   "Description": "How many times have you needed stitches?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times have you stitched a wound?",
+    "Category": "Number"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game14-108",
+   "Description": "How many times have you fainted?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you fainted?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-109",
+   "Description": "How many times have you had surgery?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you had surgery?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-110",
+   "Description": "How many times have you dyed your hair?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you dyed your hair?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-111",
+   "Description": "How many times have you grown a beard?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many times have you grown a beard?",
+    "Category": "Number"
+   },
+   "note": "not answerable by everyone"
+  },
+  {
+   "id": "game14-112",
+   "Description": "How many times have you had your ears pierced?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times have you pierced your ears?",
+    "Category": "Number"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game14-113",
+   "Description": "How many tattoos do you have?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many tattoos do you have?",
+    "Category": "Number"
+   },
+   "note": "tattoos: content rule"
+  },
+  {
+   "id": "game14-114",
+   "Description": "How many allergies do you have?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many allergies do you have?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-115",
+   "Description": "How many phobias do you have?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many phobias do you have?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-116",
+   "Description": "How many meaningful conversations have you had this week?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many meaningful conversations have you had this week?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-117",
+   "Description": "How many times have you said 'thank you' today?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times have you said 'I love you' today?",
+    "Category": "Number"
+   },
+   "note": "romance reworded"
+  },
+  {
+   "id": "game14-118",
+   "Description": "How likely are you to pick up a spider?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to pick up a spider?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-119",
+   "Description": "How much do you believe in aliens?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you believe in aliens?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-120",
+   "Description": "How good are you at math without a calculator?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at math without a calculator?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-121",
+   "Description": "How messy is your room right now?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How messy is your room right now?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-122",
+   "Description": "How likely are you to skydive?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to skydive?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-123",
+   "Description": "How much do you enjoy scary stories?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How much do you enjoy horror movies?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular: horror movies reworded"
+  },
+  {
+   "id": "game14-124",
+   "Description": "How good are you at keeping plants alive?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at keeping plants alive?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-125",
+   "Description": "How likely are you to return a wallet you found?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to return a wallet you found?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-126",
+   "Description": "How much do you care about what others think of you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you care about what others think of you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-127",
+   "Description": "How likely are you to hold a grudge?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to hold a grudge?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-128",
+   "Description": "How good are you at lying?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at lying?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-129",
+   "Description": "How much do you enjoy shopping?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy shopping?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-130",
+   "Description": "How likely are you to cry at a wedding?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to cry at a wedding?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-131",
+   "Description": "How patient are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How patient are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-132",
+   "Description": "How competitive are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How competitive are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-133",
+   "Description": "How superstitious are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How superstitious are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-134",
+   "Description": "How good is your sense of direction?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good is your sense of direction?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-135",
+   "Description": "How likely are you to be the life of a family gathering?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How likely are you to be the life of the party?",
+    "Category": "0 to 100"
+   },
+   "note": "party reworded"
+  },
+  {
+   "id": "game14-136",
+   "Description": "How much do you enjoy solitude?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy solitude?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-137",
+   "Description": "How likely are you to impulse buy?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to impulse buy?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-138",
+   "Description": "How much do you procrastinate?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you procrastinate?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-139",
+   "Description": "How organized are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How organized are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-140",
+   "Description": "How good are you at remembering dates?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at remembering dates?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-141",
+   "Description": "How likely are you to sing in karaoke?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to sing in karaoke?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular: karaoke/music"
+  },
+  {
+   "id": "game14-142",
+   "Description": "How much do you love rainy days?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you love rainy days?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-143",
+   "Description": "How likely are you to adopt a stray animal?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to adopt a stray animal?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-144",
+   "Description": "How good are you at keeping secrets?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at keeping secrets?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-145",
+   "Description": "How likely are you to binge-watch a series in one day?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to binge-watch a series in one day?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular: binge-watching TV"
+  },
+  {
+   "id": "game14-146",
+   "Description": "How adventurous are you with food?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How adventurous are you with food?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-147",
+   "Description": "How afraid are you of the dark?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How afraid are you of the dark?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-148",
+   "Description": "How likely are you to break your phone screen?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to break your phone screen?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-149",
+   "Description": "How much do you know about politics?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you know about politics?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-150",
+   "Description": "How good are you at saving money?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at saving money?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-151",
+   "Description": "How likely are you to give up your seat for an elderly person?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to give up your seat for an elderly person?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-152",
+   "Description": "How much do you enjoy cooking?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy cooking?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-153",
+   "Description": "How likely are you to read the terms and conditions?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to read the terms and conditions?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-154",
+   "Description": "How much do you trust the news?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you trust the news?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-155",
+   "Description": "How good are you at public speaking?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at public speaking?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-156",
+   "Description": "How likely are you to initiate a conversation?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to initiate a conversation?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-157",
+   "Description": "How much do you value brand names?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you value brand names?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-158",
+   "Description": "How likely are you to delete social media?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to delete social media?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-159",
+   "Description": "How happy are you right now?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How happy are you right now?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-160",
+   "Description": "How lucky do you consider yourself?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How lucky do you consider yourself?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-161",
+   "Description": "How creative are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How creative are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-162",
+   "Description": "How logical are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How logical are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-163",
+   "Description": "How emotional are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How emotional are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-164",
+   "Description": "How likely are you to move to another country?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to move to another country?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-165",
+   "Description": "How much do you like your work or studies?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How much do you like your job/studies?",
+    "Category": "0 to 100"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game14-166",
+   "Description": "How confident are you in your looks?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How confident are you in your looks?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-167",
+   "Description": "How much do you regret your last big purchase?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you regret your last big purchase?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-168",
+   "Description": "How comfortable are you with silence?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How comfortable are you with silence?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-169",
+   "Description": "How likely are you to share your food?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to share your food?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-170",
+   "Description": "How much do you gossip?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you gossip?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-171",
+   "Description": "How likely are you to confront someone?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to confront someone?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-172",
+   "Description": "How good a driver are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good a driver are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-173",
+   "Description": "How much do you know about history?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you know about history?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-174",
+   "Description": "How fit are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How fit are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-175",
+   "Description": "How likely are you to help someone move house?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to help someone move house?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-176",
+   "Description": "How much do you love chocolate?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you love chocolate?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-177",
+   "Description": "How likely are you to become famous?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to become famous?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-178",
+   "Description": "How likely are you to learn a new language this year?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to learn a new language this year?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-179",
+   "Description": "How good are you at haggling?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at haggling?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-180",
+   "Description": "How likely are you to wear traditional clothes daily?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to wear traditional clothes daily?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-181",
+   "Description": "How comfortable are you with spicy food?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How comfortable are you with spicy food?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-182",
+   "Description": "How many family weddings have you helped organize?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many weddings have you been a host for?",
+    "Category": "Number"
+   },
+   "note": "unclear wording"
+  },
+  {
+   "id": "game14-183",
+   "Description": "How likely are you to arrive on time for a 'Desi' event?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to arrive on time for a 'Desi' event?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-184",
+   "Description": "How many times have you been to a mela (fair)?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many times have you been to a 'Mela' (Fair)?",
+    "Category": "Number"
+   },
+   "note": "formatting"
+  },
+  {
+   "id": "game14-185",
+   "Description": "How good are you at making round rotis?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How good are you at making round Rotis?",
+    "Category": "0 to 100"
+   },
+   "note": "capitalization"
+  },
+  {
+   "id": "game14-186",
+   "Description": "How likely are you to watch a cricket match replay?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to watch a cricket match replay?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-187",
+   "Description": "How many cricket bats have you owned?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many cricket bats have you owned?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-188",
+   "Description": "How much do you enjoy street cricket?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy street cricket?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-189",
+   "Description": "How likely are you to argue about cricket rules?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to argue about cricket rules?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-190",
+   "Description": "How many times have you broken a window playing cricket?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you broken a window playing cricket?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-191",
+   "Description": "How many family WhatsApp groups have you muted?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many family WhatsApp groups have you muted?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-192",
+   "Description": "How likely are you to forward a 'Good Morning' message?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to forward a 'Good Morning' message?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-193",
+   "Description": "How many times have you forgotten to reply to a message?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you forgotten to reply to a message?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-194",
+   "Description": "How good are you at keeping New Year's resolutions?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How good are you at keeping new year resolutions?",
+    "Category": "0 to 100"
+   },
+   "note": "capitalization"
+  },
+  {
+   "id": "game14-195",
+   "Description": "How likely are you to start a gym membership?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to start a gym membership?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-196",
+   "Description": "How many times have you gone to the gym this month?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you gone to the gym this month?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-197",
+   "Description": "How likely are you to skip leg day at the gym?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How unlikely are you to skip leg day?",
+    "Category": "0 to 100"
+   },
+   "note": "confusing double negative"
+  },
+  {
+   "id": "game14-198",
+   "Description": "How much do you trust online reviews?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you trust online reviews?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-199",
+   "Description": "How likely are you to try a new gadget without reading the manual?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to try a new gadget without reading the manual?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-200",
+   "Description": "How many apps do you have that you never use?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many apps do you have that you never use?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-201",
+   "Description": "How good are you at taking selfies?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at taking selfies?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-202",
+   "Description": "How likely are you to post a picture without a filter?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to post a picture without a filter?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-203",
+   "Description": "How many social media accounts do you have?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many social media accounts do you have?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-204",
+   "Description": "How likely are you to go viral?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to go viral?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-205",
+   "Description": "How many times have you changed your profile picture this month?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you changed your profile picture this month?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-206",
+   "Description": "How much do you enjoy watching vlogs?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy watching vlogs?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-207",
+   "Description": "How likely are you to start a YouTube channel?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to start a YouTube channel?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-208",
+   "Description": "How good are you at video editing?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at video editing?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-209",
+   "Description": "How likely are you to play video games all weekend?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to play video games all weekend?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-210",
+   "Description": "How many gaming consoles have you owned?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many gaming consoles have you owned?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-211",
+   "Description": "How good are you at board games?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at board games?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-212",
+   "Description": "How likely are you to cheat at Ludo?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to cheat at Ludo?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-213",
+   "Description": "How many times have you flipped the Ludo board in anger?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you flipped the Ludo board in anger?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-214",
+   "Description": "How much do you enjoy playing Carrom?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy playing Carrom?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-215",
+   "Description": "How good are you at Antakshari?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How good are you at Antakshari?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (music/singing game)"
+  },
+  {
+   "id": "game14-216",
+   "Description": "How likely are you to sing in public?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to sing in public?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (music/singing)"
+  },
+  {
+   "id": "game14-217",
+   "Description": "How many songs do you know all the lyrics to?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many songs do you know all the lyrics to?",
+    "Category": "Number"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game14-218",
+   "Description": "How much do you enjoy classical music?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How much do you enjoy classical music?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game14-219",
+   "Description": "How likely are you to attend a Mushaira?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How likely are you to attend a Qawwali night?",
+    "Category": "0 to 100"
+   },
+   "note": "Qawwali (music) changed to Mushaira"
+  },
+  {
+   "id": "game14-220",
+   "Description": "How many concerts have you attended?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many concerts have you attended?",
+    "Category": "Number"
+   },
+   "note": "western/secular (concerts)"
+  },
+  {
+   "id": "game14-221",
+   "Description": "How good are you at dancing at weddings?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How good are you at dancing at weddings?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (dancing)"
+  },
+  {
+   "id": "game14-222",
+   "Description": "How likely are you to lead a Mehndi dance?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to lead a Mehndi dance?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (dancing)"
+  },
+  {
+   "id": "game14-223",
+   "Description": "How many pairs of khussas do you own?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many pairs of 'Khussas' do you own?",
+    "Category": "Number"
+   },
+   "note": "removed stray quotes"
+  },
+  {
+   "id": "game14-224",
+   "Description": "How much do you enjoy wearing heavy jewelry?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy wearing heavy jewelry?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-225",
+   "Description": "How likely are you to wear a Sherwani casually?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to wear a Sherwani casually?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-226",
+   "Description": "How many ties do you own?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many ties do you own?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-227",
+   "Description": "How good are you at tying a tie?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at tying a tie?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-228",
+   "Description": "How likely are you to wear sneakers with Shalwar Kameez?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to wear sneakers with Shalwar Kameez?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-229",
+   "Description": "How much do you care about fashion trends?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you care about fashion trends?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-230",
+   "Description": "How likely are you to design your own clothes?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to design your own clothes?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-231",
+   "Description": "How many times have you visited a tailor this month?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you visited a tailor this month?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-232",
+   "Description": "How good are you at sewing a button?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at sewing a button?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-233",
+   "Description": "How likely are you to iron your clothes immediately after washing?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to iron your clothes immediately after washing?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-234",
+   "Description": "How much do you hate ironing?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you hate ironing?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-235",
+   "Description": "How likely are you to do laundry on weekends?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to do laundry on weekends?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-236",
+   "Description": "How many loads of laundry do you do per week?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many loads of laundry do you do per week?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-237",
+   "Description": "How good are you at folding fitted sheets?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at folding fitted sheets?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-238",
+   "Description": "How likely are you to hire a maasi for cleaning?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How likely are you to hire a cleaner?",
+    "Category": "0 to 100"
+   },
+   "note": "local equivalent of cleaner"
+  },
+  {
+   "id": "game14-239",
+   "Description": "How messy is your car right now?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How messy is your car right now?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-240",
+   "Description": "How likely are you to wash your car yourself?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to wash your car yourself?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-241",
+   "Description": "How many times have you washed your car this month?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you washed your car this month?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-242",
+   "Description": "How likely are you to fix a flat tire yourself?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to fix a flat tire yourself?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-243",
+   "Description": "How good are you at basic car maintenance?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at basic car maintenance?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-244",
+   "Description": "How likely are you to drive a manual car?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How likely are you to drive a manual transmission?",
+    "Category": "0 to 100"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game14-245",
+   "Description": "How many road trips have you taken this year?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many road trips have you taken this year?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-246",
+   "Description": "How much do you enjoy long drives?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy long drives?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-247",
+   "Description": "How likely are you to get road rage?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to get road rage?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-248",
+   "Description": "How good are you at navigating without GPS?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at navigating without GPS?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-249",
+   "Description": "How likely are you to ask for directions?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to ask for directions?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-250",
+   "Description": "How much do you trust Google Maps ETA?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you trust Google Maps ETA?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-251",
+   "Description": "How likely are you to travel solo?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to travel solo?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-252",
+   "Description": "How many continents have you visited?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many continents have you visited?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-253",
+   "Description": "How likely are you to try exotic street food?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to try exotic street food?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-254",
+   "Description": "How adventurous are you on vacation?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How adventurous are you on vacation?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-255",
+   "Description": "How likely are you to overpack for a trip?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to overpack for a trip?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-256",
+   "Description": "How many suitcases do you usually take for a week-long trip?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many suitcases do you usually take for a week-long trip?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-257",
+   "Description": "How good are you at packing efficiently?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at packing efficiently?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-258",
+   "Description": "How likely are you to arrive at the airport 4 hours early?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to arrive at the airport 4 hours early?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-259",
+   "Description": "How much do you enjoy flying?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy flying?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-260",
+   "Description": "How likely are you to sleep on a plane?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to sleep on a plane?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-261",
+   "Description": "How many unread books are on your shelf?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many unread books are on your shelf?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-262",
+   "Description": "How likely are you to read a book in one sitting?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to read a book in one sitting?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-263",
+   "Description": "How good are you at writing poetry?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at writing poetry?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-264",
+   "Description": "How likely are you to write a book someday?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to write a book someday?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-265",
+   "Description": "How much do you enjoy solving puzzles?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy solving puzzles?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-266",
+   "Description": "How good are you at Sudoku?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at Sudoku?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-267",
+   "Description": "How likely are you to finish a crossword puzzle?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to finish a crossword puzzle?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-268",
+   "Description": "How many riddles do you know by heart?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many riddles do you know by heart?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-269",
+   "Description": "How good are you at telling jokes?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at telling jokes?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-270",
+   "Description": "How likely were you to be the class clown?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How likely are you to be the class clown?",
+    "Category": "0 to 100"
+   },
+   "note": "tense fix"
+  },
+  {
+   "id": "game14-271",
+   "Description": "How many pranks have you successfully pulled?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many pranks have you successfully pulled?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-272",
+   "Description": "How much do you enjoy watching comedy shows?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How much do you enjoy watching comedy shows?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (TV/pop culture)"
+  },
+  {
+   "id": "game14-273",
+   "Description": "How likely are you to laugh at your own jokes?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to laugh at your own jokes?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-274",
+   "Description": "How good are you at impressions?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at impressions?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-275",
+   "Description": "How likely are you to participate in a play?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to participate in a play?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-276",
+   "Description": "How many movies have you watched in a theater this year?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many movies have you watched in a theater this year?",
+    "Category": "Number"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-277",
+   "Description": "How much do you enjoy 3D movies?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How much do you enjoy 3D movies?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-278",
+   "Description": "How likely are you to cry during a sad movie scene?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to cry during a sad movie scene?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-279",
+   "Description": "How many times have you walked out of a movie?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many times have you walked out of a movie?",
+    "Category": "Number"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-280",
+   "Description": "How likely are you to spoil a movie for others?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to spoil a movie for others?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-281",
+   "Description": "How good are you at predicting movie plot twists?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How good are you at predicting movie plot twists?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-282",
+   "Description": "How likely are you to watch a movie without checking ratings?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to watch a movie without checking ratings?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-283",
+   "Description": "How much do you enjoy watching documentaries?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How much do you enjoy documentaries?",
+    "Category": "0 to 100"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game14-284",
+   "Description": "How likely are you to watch a foreign language film?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to watch a foreign language film?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game14-285",
+   "Description": "How many TV series are you currently watching?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many TV series are you currently watching?",
+    "Category": "Number"
+   },
+   "note": "western/secular (TV)"
+  },
+  {
+   "id": "game14-286",
+   "Description": "How likely are you to cancel plans to watch TV?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to cancel plans to watch TV?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (TV)"
+  },
+  {
+   "id": "game14-287",
+   "Description": "How good are you at handling spoilers?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How good are you at handling spoilers?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (film/TV spoilers)"
+  },
+  {
+   "id": "game14-288",
+   "Description": "How likely are you to rewatch The Office?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to rewatch The Office?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (Western TV show)"
+  },
+  {
+   "id": "game14-289",
+   "Description": "How much do you enjoy reality TV?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How much do you enjoy reality TV?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (reality TV)"
+  },
+  {
+   "id": "game14-290",
+   "Description": "How likely are you to vote in a reality show?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How likely are you to vote in a reality show?",
+    "Category": "0 to 100"
+   },
+   "note": "western/secular (reality TV)"
+  },
+  {
+   "id": "game14-291",
+   "Description": "How many cooking videos do you watch in a week?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many cooking shows do you watch?",
+    "Category": "Number"
+   },
+   "note": "TV show changed to videos; clearer count"
+  },
+  {
+   "id": "game14-292",
+   "Description": "How likely are you to try a recipe from TikTok?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to try a recipe from TikTok?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-293",
+   "Description": "How good are you at baking?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at baking?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-294",
+   "Description": "How likely are you to burn toast?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to burn toast?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-295",
+   "Description": "How many cups of tea do you drink in a day?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many cups of tea do you drink in a day?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-296",
+   "Description": "How much do you love coffee?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you love coffee?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-297",
+   "Description": "How likely are you to drink black coffee?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to drink black coffee?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-298",
+   "Description": "How good are you at making latte art?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at making latte art?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-299",
+   "Description": "How many different types of tea have you tried?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many different types of tea have you tried?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-300",
+   "Description": "How likely are you to drink green tea for health?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How likely are you to drink Green Tea for health?",
+    "Category": "0 to 100"
+   },
+   "note": "capitalisation"
+  },
+  {
+   "id": "game14-301",
+   "Description": "How much do you enjoy fast food?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy fast food?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-302",
+   "Description": "How likely are you to order a salad at a burger joint?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to order a salad at a burger joint?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-303",
+   "Description": "How many slices of pizza is your limit?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many slices of pizza is your limit?",
+    "Category": "Number"
+   },
+   "note": "duplicate of game14-60 (pizza slices)"
+  },
+  {
+   "id": "game14-304",
+   "Description": "How good are you at using chopsticks?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at using chopsticks?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-305",
+   "Description": "How likely are you to try sushi?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to try sushi?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-306",
+   "Description": "How much do you enjoy spicy food?",
+   "Category": "0 to 100",
+   "action": "remove",
+   "original": {
+    "Description": "How much do you enjoy spicy food?",
+    "Category": "0 to 100"
+   },
+   "note": "duplicate of game14-11/181 (spicy food)"
+  },
+  {
+   "id": "game14-307",
+   "Description": "How likely are you to add extra hot sauce?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to add extra hot sauce?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-308",
+   "Description": "How many types of achaar (pickle) do you like?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many types of pickle (Achaar) do you like?",
+    "Category": "Number"
+   },
+   "note": "capitalization/wording"
+  },
+  {
+   "id": "game14-309",
+   "Description": "How good are you at making omelets?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at making omelets?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-310",
+   "Description": "How likely are you to skip breakfast?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to skip breakfast?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-311",
+   "Description": "How many liters of water do you drink daily?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many liters of water do you drink daily?",
+    "Category": "Number"
+   },
+   "note": "duplicate of game14-61 (daily water)"
+  },
+  {
+   "id": "game14-312",
+   "Description": "How good are you at staying hydrated?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at staying hydrated?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-313",
+   "Description": "How likely are you to carry a water bottle everywhere?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to carry a water bottle everywhere?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-314",
+   "Description": "How much do you enjoy fizzy drinks?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy fizzy drinks?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-315",
+   "Description": "How likely are you to give up sugar?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to give up sugar?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-316",
+   "Description": "What is the most days in a row you have gone without eating anything sweet?",
+   "Category": "Number",
+   "action": "edit",
+   "original": {
+    "Description": "How many days have you gone without dessert?",
+    "Category": "Number"
+   },
+   "note": "clarified wording"
+  },
+  {
+   "id": "game14-317",
+   "Description": "How good are you at resisting chocolate?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at resisting chocolate?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-318",
+   "Description": "How likely are you to eat ice cream in winter?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to eat ice cream in winter?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-319",
+   "Description": "How much do you enjoy looking through old photos?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How much do you enjoy examining old photos?",
+    "Category": "0 to 100"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game14-320",
+   "Description": "How likely are you to print your digital photos?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to print your digital photos?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-321",
+   "Description": "How many photo albums do you have?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many photo albums do you have?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-322",
+   "Description": "How good are you at remembering childhood memories?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at remembering childhood memories?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-323",
+   "Description": "How likely are you to keep old letters and Eid cards?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How likely are you to keep old letters/cards?",
+    "Category": "0 to 100"
+   },
+   "note": "local frame, wording"
+  },
+  {
+   "id": "game14-324",
+   "Description": "How sentimental are you?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How sentimental are you?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-325",
+   "Description": "How likely are you to cry at a graduation?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to cry at a graduation?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-326",
+   "Description": "How much do you value family traditions?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you value family traditions?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-327",
+   "Description": "How likely are you to host a family dinner?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to host a family dinner?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-328",
+   "Description": "How many cousins can you name in 30 seconds?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many cousins can you name in 30 seconds?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-329",
+   "Description": "How good are you at keeping in touch with relatives?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at keeping in touch with relatives?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-330",
+   "Description": "How likely are you to visit your hometown?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to visit your hometown?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-331",
+   "Description": "How much do you enjoy village life?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy village life?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-332",
+   "Description": "How likely are you to milk a cow?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to milk a cow?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-333",
+   "Description": "How many times have you ridden a horse?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many times have you ridden a horse?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-334",
+   "Description": "How good are you at gardening?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at gardening?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-335",
+   "Description": "How likely are you to grow your own vegetables?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to grow your own vegetables?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-336",
+   "Description": "How many indoor plants do you have?",
+   "Category": "Number",
+   "action": "remove",
+   "original": {
+    "Description": "How many indoor plants do you have?",
+    "Category": "Number"
+   },
+   "note": "duplicate of game14-58 (plants at home)"
+  },
+  {
+   "id": "game14-337",
+   "Description": "How much do you enjoy nature walks?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy nature walks?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-338",
+   "Description": "How likely are you to go camping?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to go camping?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-339",
+   "Description": "How good are you at setting up a tent?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How good are you at setting up a tent?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-340",
+   "Description": "How likely are you to go fishing?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to go fishing?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-341",
+   "Description": "How many fish have you caught?",
+   "Category": "Number",
+   "action": "keep",
+   "original": {
+    "Description": "How many fish have you caught?",
+    "Category": "Number"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-342",
+   "Description": "How much do you enjoy swimming?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How much do you enjoy swimming?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-343",
+   "Description": "How likely are you to dive into the deep end?",
+   "Category": "0 to 100",
+   "action": "keep",
+   "original": {
+    "Description": "How likely are you to dive into the deep end?",
+    "Category": "0 to 100"
+   },
+   "note": ""
+  },
+  {
+   "id": "game14-344",
+   "Description": "How good are you at floating in water?",
+   "Category": "0 to 100",
+   "action": "edit",
+   "original": {
+    "Description": "How good are you at floating?",
+    "Category": "0 to 100"
+   },
+   "note": "clarified"
+  }
+ ]
+}

@@ -1,0 +1,2125 @@
+{
+ "game": "game6",
+ "name": "Categories Game",
+ "baseCommit": "3f43360",
+ "cards": [
+  {
+   "id": "game6-1",
+   "Description": "Pakistani Cities",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Cities"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-2",
+   "Description": "Islamic Prophets",
+   "action": "keep",
+   "original": {
+    "Description": "Islamic Prophets"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-3",
+   "Description": "Fruits",
+   "action": "keep",
+   "original": {
+    "Description": "Fruits"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-4",
+   "Description": "Vegetables",
+   "action": "keep",
+   "original": {
+    "Description": "Vegetables"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-5",
+   "Description": "Animals",
+   "action": "keep",
+   "original": {
+    "Description": "Animals"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-6",
+   "Description": "Birds",
+   "action": "keep",
+   "original": {
+    "Description": "Birds"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-7",
+   "Description": "Pakistani Dishes",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Dishes"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-8",
+   "Description": "Desserts",
+   "action": "keep",
+   "original": {
+    "Description": "Desserts"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-9",
+   "Description": "Spices",
+   "action": "keep",
+   "original": {
+    "Description": "Spices"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-10",
+   "Description": "Colors",
+   "action": "keep",
+   "original": {
+    "Description": "Colors"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-11",
+   "Description": "Countries",
+   "action": "keep",
+   "original": {
+    "Description": "Countries"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-12",
+   "Description": "Oceans",
+   "action": "remove",
+   "original": {
+    "Description": "Oceans"
+   },
+   "note": "too narrow (5 oceans)"
+  },
+  {
+   "id": "game6-13",
+   "Description": "Mountains and Peaks",
+   "action": "edit",
+   "original": {
+    "Description": "Mountains"
+   },
+   "note": "clearer"
+  },
+  {
+   "id": "game6-14",
+   "Description": "Rivers",
+   "action": "keep",
+   "original": {
+    "Description": "Rivers"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-15",
+   "Description": "Flowers",
+   "action": "keep",
+   "original": {
+    "Description": "Flowers"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-16",
+   "Description": "Trees",
+   "action": "keep",
+   "original": {
+    "Description": "Trees"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-17",
+   "Description": "Sports",
+   "action": "keep",
+   "original": {
+    "Description": "Sports"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-18",
+   "Description": "Cricket Players",
+   "action": "keep",
+   "original": {
+    "Description": "Cricket Players"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-19",
+   "Description": "Football Teams",
+   "action": "keep",
+   "original": {
+    "Description": "Football Teams"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-20",
+   "Description": "Professions",
+   "action": "keep",
+   "original": {
+    "Description": "Professions"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-21",
+   "Description": "School Subjects",
+   "action": "keep",
+   "original": {
+    "Description": "School Subjects"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-22",
+   "Description": "Body Parts",
+   "action": "keep",
+   "original": {
+    "Description": "Body Parts"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-23",
+   "Description": "Clothing Items",
+   "action": "keep",
+   "original": {
+    "Description": "Clothing Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-24",
+   "Description": "Household Items",
+   "action": "keep",
+   "original": {
+    "Description": "Household Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-25",
+   "Description": "Kitchen Utensils",
+   "action": "keep",
+   "original": {
+    "Description": "Kitchen Utensils"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-26",
+   "Description": "Furniture",
+   "action": "keep",
+   "original": {
+    "Description": "Furniture"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-27",
+   "Description": "Electronic Devices",
+   "action": "keep",
+   "original": {
+    "Description": "Electronic Devices"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-28",
+   "Description": "Vehicles",
+   "action": "keep",
+   "original": {
+    "Description": "Vehicles"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-29",
+   "Description": "Pakistani Provinces",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Provinces"
+   },
+   "note": "too narrow (4 provinces)"
+  },
+  {
+   "id": "game6-30",
+   "Description": "Capitals of Countries",
+   "action": "keep",
+   "original": {
+    "Description": "Capitals of Countries"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-31",
+   "Description": "Languages",
+   "action": "keep",
+   "original": {
+    "Description": "Languages"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-32",
+   "Description": "Currencies",
+   "action": "keep",
+   "original": {
+    "Description": "Currencies"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-33",
+   "Description": "Months",
+   "action": "keep",
+   "original": {
+    "Description": "Months"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-34",
+   "Description": "Days of the Week",
+   "action": "remove",
+   "original": {
+    "Description": "Days of the Week"
+   },
+   "note": "too narrow (7 answers)"
+  },
+  {
+   "id": "game6-35",
+   "Description": "Seasons",
+   "action": "remove",
+   "original": {
+    "Description": "Seasons"
+   },
+   "note": "too narrow (4 seasons)"
+  },
+  {
+   "id": "game6-36",
+   "Description": "Weather Conditions",
+   "action": "keep",
+   "original": {
+    "Description": "Weather Conditions"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-37",
+   "Description": "Emotions",
+   "action": "keep",
+   "original": {
+    "Description": "Emotions"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-38",
+   "Description": "Pakistani Politicians",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Politicians"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-39",
+   "Description": "Historical Figures",
+   "action": "keep",
+   "original": {
+    "Description": "Historical Figures"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-40",
+   "Description": "Islamic Scholars",
+   "action": "keep",
+   "original": {
+    "Description": "Islamic Scholars"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-41",
+   "Description": "Companions of the Prophet (Sahaba)",
+   "action": "edit",
+   "original": {
+    "Description": "Companions of Prophet Muhammad"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game6-42",
+   "Description": "Surah Names",
+   "action": "keep",
+   "original": {
+    "Description": "Surah Names"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-43",
+   "Description": "Islamic Terms",
+   "action": "keep",
+   "original": {
+    "Description": "Islamic Terms"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-44",
+   "Description": "Famous Masjids in Pakistan",
+   "action": "edit",
+   "original": {
+    "Description": "Masjids in Pakistan"
+   },
+   "note": "clearer; batch02 has similar 'Pakistani Mosques'"
+  },
+  {
+   "id": "game6-45",
+   "Description": "Pakistani Universities",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Universities"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-46",
+   "Description": "Pakistani Brands",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Brands"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-47",
+   "Description": "Pakistani News Channels",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani TV Channels"
+   },
+   "note": "avoid TV entertainment"
+  },
+  {
+   "id": "game6-48",
+   "Description": "Pakistani Newspapers",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Newspapers"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-49",
+   "Description": "Pakistani Poets",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Poets"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-50",
+   "Description": "Urdu Words",
+   "action": "keep",
+   "original": {
+    "Description": "Urdu Words"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-51",
+   "Description": "Punjabi Words",
+   "action": "keep",
+   "original": {
+    "Description": "Punjabi Words"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-52",
+   "Description": "Pashto Words",
+   "action": "keep",
+   "original": {
+    "Description": "Pashto Words"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-53",
+   "Description": "Sindhi Words",
+   "action": "keep",
+   "original": {
+    "Description": "Sindhi Words"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-54",
+   "Description": "Balochi Words",
+   "action": "remove",
+   "original": {
+    "Description": "Balochi Words"
+   },
+   "note": "too obscure for most players"
+  },
+  {
+   "id": "game6-55",
+   "Description": "Pakistani Festivals",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Festivals"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-56",
+   "Description": "Islamic Months",
+   "action": "keep",
+   "original": {
+    "Description": "Islamic Months"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-57",
+   "Description": "Prayer Times",
+   "action": "remove",
+   "original": {
+    "Description": "Prayer Times"
+   },
+   "note": "too narrow (5 prayers); overlaps Types of Salah"
+  },
+  {
+   "id": "game6-58",
+   "Description": "Types of Salah",
+   "action": "keep",
+   "original": {
+    "Description": "Types of Salah"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-59",
+   "Description": "Pillars of Islam",
+   "action": "remove",
+   "original": {
+    "Description": "Pillars of Islam"
+   },
+   "note": "too narrow (5 answers)"
+  },
+  {
+   "id": "game6-60",
+   "Description": "Pillars of Iman",
+   "action": "remove",
+   "original": {
+    "Description": "Pillars of Iman"
+   },
+   "note": "too narrow (6 answers)"
+  },
+  {
+   "id": "game6-61",
+   "Description": "Names of Allah",
+   "action": "keep",
+   "original": {
+    "Description": "Names of Allah"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-62",
+   "Description": "Pakistani Cricketers",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Cricketers"
+   },
+   "note": "duplicate of Cricket Players"
+  },
+  {
+   "id": "game6-63",
+   "Description": "Pakistani Actors",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Actors"
+   },
+   "note": "western/secular (film/TV/music)"
+  },
+  {
+   "id": "game6-64",
+   "Description": "Pakistani Actresses",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Actresses"
+   },
+   "note": "western/secular (film/TV/music)"
+  },
+  {
+   "id": "game6-65",
+   "Description": "Pakistani Singers",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Singers"
+   },
+   "note": "western/secular (film/TV/music)"
+  },
+  {
+   "id": "game6-66",
+   "Description": "Pakistani Songs",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Songs"
+   },
+   "note": "western/secular (film/TV/music)"
+  },
+  {
+   "id": "game6-67",
+   "Description": "Pakistani Dramas",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Dramas"
+   },
+   "note": "western/secular (film/TV/music)"
+  },
+  {
+   "id": "game6-68",
+   "Description": "Bollywood Movies",
+   "action": "remove",
+   "original": {
+    "Description": "Bollywood Movies"
+   },
+   "note": "western/secular (film/TV/music)"
+  },
+  {
+   "id": "game6-69",
+   "Description": "Bollywood Actors",
+   "action": "remove",
+   "original": {
+    "Description": "Bollywood Actors"
+   },
+   "note": "western/secular (film/TV/music)"
+  },
+  {
+   "id": "game6-70",
+   "Description": "Bollywood Actresses",
+   "action": "remove",
+   "original": {
+    "Description": "Bollywood Actresses"
+   },
+   "note": "western/secular (film/TV/music)"
+  },
+  {
+   "id": "game6-71",
+   "Description": "Pakistani Food Streets",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Food Streets"
+   },
+   "note": "too narrow/obscure"
+  },
+  {
+   "id": "game6-72",
+   "Description": "Lahore Landmarks",
+   "action": "keep",
+   "original": {
+    "Description": "Lahore Landmarks"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-73",
+   "Description": "Karachi Landmarks",
+   "action": "keep",
+   "original": {
+    "Description": "Karachi Landmarks"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-74",
+   "Description": "Islamabad Landmarks",
+   "action": "keep",
+   "original": {
+    "Description": "Islamabad Landmarks"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-75",
+   "Description": "Peshawar Landmarks",
+   "action": "keep",
+   "original": {
+    "Description": "Peshawar Landmarks"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-76",
+   "Description": "Quetta Landmarks",
+   "action": "remove",
+   "original": {
+    "Description": "Quetta Landmarks"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-77",
+   "Description": "Mithai (Pakistani Sweets)",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Sweets"
+   },
+   "note": "distinguish from Desserts"
+  },
+  {
+   "id": "game6-78",
+   "Description": "Pakistani Snacks",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Snacks"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-79",
+   "Description": "Pakistani Beverages",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Beverages"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-80",
+   "Description": "Tea Varieties",
+   "action": "keep",
+   "original": {
+    "Description": "Tea Varieties"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-81",
+   "Description": "Coffee Types",
+   "action": "keep",
+   "original": {
+    "Description": "Coffee Types"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-82",
+   "Description": "Milk Products",
+   "action": "keep",
+   "original": {
+    "Description": "Milk Products"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-83",
+   "Description": "Grains",
+   "action": "keep",
+   "original": {
+    "Description": "Grains"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-84",
+   "Description": "Pulses (Daals)",
+   "action": "edit",
+   "original": {
+    "Description": "Pulses"
+   },
+   "note": "clearer"
+  },
+  {
+   "id": "game6-85",
+   "Description": "Nuts",
+   "action": "remove",
+   "original": {
+    "Description": "Nuts"
+   },
+   "note": "duplicate of Dry Fruits"
+  },
+  {
+   "id": "game6-86",
+   "Description": "Dry Fruits",
+   "action": "keep",
+   "original": {
+    "Description": "Dry Fruits"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-87",
+   "Description": "Herbs",
+   "action": "keep",
+   "original": {
+    "Description": "Herbs"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-88",
+   "Description": "Vegetables Used in Curry",
+   "action": "remove",
+   "original": {
+    "Description": "Vegetables Used in Curry"
+   },
+   "note": "duplicate of Vegetables"
+  },
+  {
+   "id": "game6-89",
+   "Description": "Meat Types",
+   "action": "keep",
+   "original": {
+    "Description": "Meat Types"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-90",
+   "Description": "Fish Types",
+   "action": "keep",
+   "original": {
+    "Description": "Fish Types"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-91",
+   "Description": "Bread Types",
+   "action": "keep",
+   "original": {
+    "Description": "Bread Types"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-92",
+   "Description": "Rice Dishes",
+   "action": "keep",
+   "original": {
+    "Description": "Rice Dishes"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-93",
+   "Description": "Pakistani Breakfast Items",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Breakfast Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-94",
+   "Description": "Pakistani Street Food",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Street Food"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-95",
+   "Description": "Iftar Foods",
+   "action": "edit",
+   "original": {
+    "Description": "Ramadan Special Foods"
+   },
+   "note": "clearer"
+  },
+  {
+   "id": "game6-96",
+   "Description": "Eid Dishes",
+   "action": "keep",
+   "original": {
+    "Description": "Eid Dishes"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-97",
+   "Description": "Wedding Menu Items",
+   "action": "keep",
+   "original": {
+    "Description": "Wedding Menu Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-98",
+   "Description": "Pakistani Achaar (Pickles)",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Pickles"
+   },
+   "note": "clearer"
+  },
+  {
+   "id": "game6-99",
+   "Description": "Pakistani Chutneys",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Chutneys"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-100",
+   "Description": "Pakistani Salads",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Salads"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-101",
+   "Description": "Cooking Methods",
+   "action": "keep",
+   "original": {
+    "Description": "Cooking Methods"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-102",
+   "Description": "Kitchen Appliances",
+   "action": "keep",
+   "original": {
+    "Description": "Kitchen Appliances"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-103",
+   "Description": "Cooking Oils",
+   "action": "keep",
+   "original": {
+    "Description": "Cooking Oils"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-104",
+   "Description": "Pakistani Spice Mixes",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Spice Mixes"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-105",
+   "Description": "Traditional Pakistani Clothes",
+   "action": "keep",
+   "original": {
+    "Description": "Traditional Pakistani Clothes"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-106",
+   "Description": "Men's Clothing",
+   "action": "keep",
+   "original": {
+    "Description": "Men's Clothing"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-107",
+   "Description": "Women's Clothing",
+   "action": "keep",
+   "original": {
+    "Description": "Women's Clothing"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-108",
+   "Description": "Children's Clothing",
+   "action": "remove",
+   "original": {
+    "Description": "Children's Clothing"
+   },
+   "note": "too narrow; overlaps Clothing Items"
+  },
+  {
+   "id": "game6-109",
+   "Description": "Footwear",
+   "action": "keep",
+   "original": {
+    "Description": "Footwear"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-110",
+   "Description": "Fashion Accessories",
+   "action": "edit",
+   "original": {
+    "Description": "Accessories"
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game6-111",
+   "Description": "Jewelry Items",
+   "action": "keep",
+   "original": {
+    "Description": "Jewelry Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-112",
+   "Description": "Fabrics",
+   "action": "keep",
+   "original": {
+    "Description": "Fabrics"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-113",
+   "Description": "Embroidery Types",
+   "action": "keep",
+   "original": {
+    "Description": "Embroidery Types"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-114",
+   "Description": "Pakistani Crafts",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Crafts"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-115",
+   "Description": "Pakistani Art Forms",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Art Forms"
+   },
+   "note": "too narrow; overlaps Pakistani Crafts"
+  },
+  {
+   "id": "game6-116",
+   "Description": "Musical Instruments",
+   "action": "remove",
+   "original": {
+    "Description": "Musical Instruments"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game6-117",
+   "Description": "Pakistani Folk Dances",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Folk Dances"
+   },
+   "note": "western/secular (dancing)"
+  },
+  {
+   "id": "game6-118",
+   "Description": "Pakistani Wedding Traditions",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Wedding Traditions"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-119",
+   "Description": "Pakistani Boys' Names",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Baby Names (Boys)"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game6-120",
+   "Description": "Pakistani Girls' Names",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Baby Names (Girls)"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game6-121",
+   "Description": "Family Relations",
+   "action": "keep",
+   "original": {
+    "Description": "Family Relations"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-122",
+   "Description": "Household Chores",
+   "action": "keep",
+   "original": {
+    "Description": "Household Chores"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-123",
+   "Description": "Cleaning Supplies",
+   "action": "keep",
+   "original": {
+    "Description": "Cleaning Supplies"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-124",
+   "Description": "Bathroom Items",
+   "action": "keep",
+   "original": {
+    "Description": "Bathroom Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-125",
+   "Description": "Bedroom Items",
+   "action": "keep",
+   "original": {
+    "Description": "Bedroom Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-126",
+   "Description": "Living Room Items",
+   "action": "keep",
+   "original": {
+    "Description": "Living Room Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-127",
+   "Description": "Garden Items",
+   "action": "keep",
+   "original": {
+    "Description": "Garden Items"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-128",
+   "Description": "Tools",
+   "action": "keep",
+   "original": {
+    "Description": "Tools"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-129",
+   "Description": "Office Supplies",
+   "action": "keep",
+   "original": {
+    "Description": "Office Supplies"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-130",
+   "Description": "School Supplies",
+   "action": "keep",
+   "original": {
+    "Description": "School Supplies"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-131",
+   "Description": "Stationery Items",
+   "action": "remove",
+   "original": {
+    "Description": "Stationery Items"
+   },
+   "note": "duplicate of Office/School Supplies"
+  },
+  {
+   "id": "game6-132",
+   "Description": "Book Genres",
+   "action": "edit",
+   "original": {
+    "Description": "Books Genres"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game6-133",
+   "Description": "Pakistani Authors",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Authors"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-134",
+   "Description": "Islamic Books",
+   "action": "keep",
+   "original": {
+    "Description": "Islamic Books"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-135",
+   "Description": "Quran Translations",
+   "action": "remove",
+   "original": {
+    "Description": "Quran Translations"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-136",
+   "Description": "Hadith Collections",
+   "action": "remove",
+   "original": {
+    "Description": "Hadith Collections"
+   },
+   "note": "too narrow; overlaps Islamic Books"
+  },
+  {
+   "id": "game6-137",
+   "Description": "Islamic History Books",
+   "action": "remove",
+   "original": {
+    "Description": "Islamic History Books"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-138",
+   "Description": "Events in Pakistani History",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani History Events"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game6-139",
+   "Description": "Pakistan Movement Leaders",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Independence Leaders"
+   },
+   "note": "accurate wording"
+  },
+  {
+   "id": "game6-140",
+   "Description": "Pakistani National Symbols",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani National Symbols"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-141",
+   "Description": "Pakistani National Songs",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani National Songs"
+   },
+   "note": "western/secular (songs)"
+  },
+  {
+   "id": "game6-142",
+   "Description": "Pakistani Flags and Emblems",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Flags and Emblems"
+   },
+   "note": "duplicate of Pakistani National Symbols"
+  },
+  {
+   "id": "game6-143",
+   "Description": "Military Ranks",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Military Ranks"
+   },
+   "note": "broader, more answers"
+  },
+  {
+   "id": "game6-144",
+   "Description": "Pakistani Government Departments",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Government Departments"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-145",
+   "Description": "Pakistani Ministries",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Ministries"
+   },
+   "note": "duplicate of Government Departments"
+  },
+  {
+   "id": "game6-146",
+   "Description": "Pakistani Courts",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Courts"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-147",
+   "Description": "Pakistani Laws",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Laws"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-148",
+   "Description": "Pakistani Public Holidays",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Holidays"
+   },
+   "note": "distinguish from Festivals"
+  },
+  {
+   "id": "game6-149",
+   "Description": "Pakistani Cultural Events",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Cultural Events"
+   },
+   "note": "duplicate of Pakistani Festivals"
+  },
+  {
+   "id": "game6-150",
+   "Description": "Pakistani Sports Teams",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Sports Teams"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-151",
+   "Description": "Pakistani Stadiums",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Stadiums"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-152",
+   "Description": "Parks in Pakistan",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Parks"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game6-153",
+   "Description": "Pakistani Museums",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Museums"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-154",
+   "Description": "Pakistani Monuments and Landmarks",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Monuments"
+   },
+   "note": "broader"
+  },
+  {
+   "id": "game6-155",
+   "Description": "Pakistani Archaeological Sites",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Archaeological Sites"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-156",
+   "Description": "Pakistani Hill Stations",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Hill Stations"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-157",
+   "Description": "Pakistani Beaches",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Beaches"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-158",
+   "Description": "Pakistani Deserts",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Deserts"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-159",
+   "Description": "Pakistani Forests",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Forests"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-160",
+   "Description": "Animals Found in Pakistan",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Wildlife"
+   },
+   "note": "clearer"
+  },
+  {
+   "id": "game6-161",
+   "Description": "Pakistani National Parks",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani National Parks"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-162",
+   "Description": "Endangered Species in Pakistan",
+   "action": "remove",
+   "original": {
+    "Description": "Endangered Species in Pakistan"
+   },
+   "note": "too narrow; overlaps Wildlife"
+  },
+  {
+   "id": "game6-163",
+   "Description": "Pakistani Birds",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Birds"
+   },
+   "note": "duplicate of Birds"
+  },
+  {
+   "id": "game6-164",
+   "Description": "Insects",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Insects"
+   },
+   "note": "Pakistani frame unnecessary"
+  },
+  {
+   "id": "game6-165",
+   "Description": "Reptiles",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Reptiles"
+   },
+   "note": "Pakistani frame unnecessary"
+  },
+  {
+   "id": "game6-166",
+   "Description": "Sea Creatures",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Marine Life"
+   },
+   "note": "broader, clearer"
+  },
+  {
+   "id": "game6-167",
+   "Description": "Pakistani Flora",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Flora"
+   },
+   "note": "duplicate of Flowers/Trees"
+  },
+  {
+   "id": "game6-168",
+   "Description": "Crops Grown in Pakistan",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Crops"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game6-169",
+   "Description": "Pakistani Exports",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Export Products"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game6-170",
+   "Description": "Pakistani Import Products",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Import Products"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-171",
+   "Description": "Pakistani Industries",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Industries"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-172",
+   "Description": "Pakistani Stock Exchange Companies",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Stock Exchange Companies"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-173",
+   "Description": "Pakistani Banks",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Banks"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-174",
+   "Description": "Pakistani Mobile Networks",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Mobile Networks"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-175",
+   "Description": "Pakistani Internet Providers",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Internet Providers"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-176",
+   "Description": "Pakistani Airlines",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Airlines"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-177",
+   "Description": "Railway Stations in Pakistan",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Railways Stations"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game6-178",
+   "Description": "Pakistani Highways",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Highways"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-179",
+   "Description": "Pakistani Canals",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Canals"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-180",
+   "Description": "Dams in Pakistan",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Dams"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game6-181",
+   "Description": "Pakistani Power Plants",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Power Plants"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-182",
+   "Description": "Famous Pakistani Hospitals",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Hospitals"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game6-183",
+   "Description": "Pakistani Medical Colleges",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Medical Colleges"
+   },
+   "note": "duplicate of Pakistani Universities"
+  },
+  {
+   "id": "game6-184",
+   "Description": "Pakistani Engineering Universities",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Engineering Universities"
+   },
+   "note": "duplicate of Pakistani Universities"
+  },
+  {
+   "id": "game6-185",
+   "Description": "Pakistani Business Schools",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Business Schools"
+   },
+   "note": "duplicate of Pakistani Universities"
+  },
+  {
+   "id": "game6-186",
+   "Description": "Pakistani Schools",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Schools"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-187",
+   "Description": "Pakistani Colleges",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Colleges"
+   },
+   "note": "duplicate of Universities/Schools"
+  },
+  {
+   "id": "game6-188",
+   "Description": "Pakistani Research Institutes",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Research Institutes"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-189",
+   "Description": "Pakistani NGOs",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani NGOs"
+   },
+   "note": "duplicate of Pakistani Charities"
+  },
+  {
+   "id": "game6-190",
+   "Description": "Pakistani Charities and Welfare Trusts",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Charities"
+   },
+   "note": "wording; merged NGOs idea"
+  },
+  {
+   "id": "game6-191",
+   "Description": "Pakistani Mosques",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Mosques"
+   },
+   "note": "duplicate of Masjids in Pakistan"
+  },
+  {
+   "id": "game6-192",
+   "Description": "Sufi Shrines in Pakistan",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Shrines"
+   },
+   "note": "clearer"
+  },
+  {
+   "id": "game6-193",
+   "Description": "Pakistani Religious Scholars",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Religious Scholars"
+   },
+   "note": "duplicate of Islamic Scholars"
+  },
+  {
+   "id": "game6-194",
+   "Description": "Pakistani Sufi Saints",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Sufi Saints"
+   },
+   "note": "duplicate of Sufi Shrines"
+  },
+  {
+   "id": "game6-195",
+   "Description": "Pakistani Islamic Organizations",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Islamic Organizations"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-196",
+   "Description": "Pakistani Youth Organizations",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Youth Organizations"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-197",
+   "Description": "Pakistani Women's Organizations",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Women's Organizations"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-198",
+   "Description": "Pakistani Sports Federations",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Sports Federations"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-199",
+   "Description": "Pakistani Media Houses",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Media Houses"
+   },
+   "note": "duplicate of TV Channels/Newspapers"
+  },
+  {
+   "id": "game6-200",
+   "Description": "Pakistani Advertising Agencies",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Advertising Agencies"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-201",
+   "Description": "Pakistani Clothing Brands",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Fashion Designers"
+   },
+   "note": "designers too narrow/celebrity; brands widely known"
+  },
+  {
+   "id": "game6-202",
+   "Description": "Pakistani Makeup Brands",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Makeup Brands"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-203",
+   "Description": "Soap and Shampoo Brands",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Skincare Products"
+   },
+   "note": "few Pakistani skincare brands; broadened"
+  },
+  {
+   "id": "game6-204",
+   "Description": "Pakistani Hair Care Products",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Hair Care Products"
+   },
+   "note": "duplicate of soap/shampoo card"
+  },
+  {
+   "id": "game6-205",
+   "Description": "Perfume and Attar Scents",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Perfumes"
+   },
+   "note": "few known Pakistani perfume brands; reframed"
+  },
+  {
+   "id": "game6-206",
+   "Description": "Pakistani Handicrafts",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Handicrafts"
+   },
+   "note": "duplicate of Pakistani Crafts"
+  },
+  {
+   "id": "game6-207",
+   "Description": "Pakistani Souvenirs",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Souvenirs"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-208",
+   "Description": "Pakistani Traditional Games",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Traditional Games"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-209",
+   "Description": "Pakistani Card Games",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Card Games"
+   },
+   "note": "too narrow; gambling-adjacent"
+  },
+  {
+   "id": "game6-210",
+   "Description": "Board Games",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Board Games"
+   },
+   "note": "few Pakistani-specific board games"
+  },
+  {
+   "id": "game6-211",
+   "Description": "Pakistani Children's Games",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Children's Games"
+   },
+   "note": "duplicate of Pakistani Traditional Games"
+  },
+  {
+   "id": "game6-212",
+   "Description": "Toys",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Toys"
+   },
+   "note": "few Pakistani-specific toys"
+  },
+  {
+   "id": "game6-213",
+   "Description": "Pakistani Cartoons",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Cartoons"
+   },
+   "note": "too narrow; TV/pop culture"
+  },
+  {
+   "id": "game6-214",
+   "Description": "Pakistani Comics",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Comics"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game6-215",
+   "Description": "Pakistani Magazines",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Magazines"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": "game6-216",
+   "Description": "Pakistani Apps and Websites",
+   "action": "edit",
+   "original": {
+    "Description": "Pakistani Websites"
+   },
+   "note": "merged apps and websites"
+  },
+  {
+   "id": "game6-217",
+   "Description": "Pakistani Apps",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Apps"
+   },
+   "note": "merged into Pakistani Apps and Websites"
+  },
+  {
+   "id": "game6-218",
+   "Description": "Pakistani Social Media Influencers",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Social Media Influencers"
+   },
+   "note": "western/secular: celebrity/pop culture"
+  },
+  {
+   "id": "game6-219",
+   "Description": "Pakistani YouTubers",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani YouTubers"
+   },
+   "note": "western/secular: celebrity/pop culture"
+  },
+  {
+   "id": "game6-220",
+   "Description": "Pakistani Bloggers",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Bloggers"
+   },
+   "note": "too obscure; pop culture"
+  },
+  {
+   "id": "game6-221",
+   "Description": "Pakistani Podcasts",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Podcasts"
+   },
+   "note": "too obscure; pop culture"
+  },
+  {
+   "id": "game6-222",
+   "Description": "Pakistani Radio Stations",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Radio Stations"
+   },
+   "note": "music-focused; too narrow"
+  },
+  {
+   "id": "game6-223",
+   "Description": "Pakistani Music Genres",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Music Genres"
+   },
+   "note": "western/secular: music"
+  },
+  {
+   "id": "game6-224",
+   "Description": "Pakistani Qawwali Singers",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Qawwali Singers"
+   },
+   "note": "western/secular: singers"
+  },
+  {
+   "id": "game6-225",
+   "Description": "Pakistani Naat Khawans",
+   "action": "keep",
+   "original": {
+    "Description": "Pakistani Naat Khawans"
+   },
+   "note": ""
+  },
+  {
+   "id": "game6-226",
+   "Description": "Pakistani Nasheed Artists",
+   "action": "remove",
+   "original": {
+    "Description": "Pakistani Nasheed Artists"
+   },
+   "note": "too narrow"
+  },
+  {
+   "id": null,
+   "Description": "Car Brands",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Mobile Phone Brands",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Green",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Round",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Sweet",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Cold",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Fridge",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things in a Hospital",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things That Fly",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things With Wheels",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things Found in a Masjid",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Things You Pack for Travel",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Gharelu Totkay (Home Remedies)",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Shapes",
+   "action": "add",
+   "note": "New card"
+  }
+ ]
+}
