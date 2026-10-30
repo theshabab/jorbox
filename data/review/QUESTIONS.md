@@ -64,3 +64,10 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 
 - Jasoosi Club, NaqshNigar, Dil ki Sun, Daal men Kaala and Haiwani Pattay look copied from commercial games (Jackbox's Push The Button, Drawful, Fibbage and Quiplash; Cards Against Humanity). The Cards Against Humanity text is CC BY-NC-SA (non-commercial only, attribution required); Jackbox prompts are copyrighted. Fine for a private family app, but worth knowing if JorBox ever goes public or commercial.
 - Haiwani Pattay (7,775 cards) is adult humour by design. Under the no-Western/secular rule most of it would be removed. I'm doing it last. Should I clean it to family-friendly (it will shrink a lot), or leave it as an adults-only deck?
+
+## Tareekhi: done (2,147 → about 1,400)
+
+- Removed about 60 whole categories: films, TV, music, celebrities, superheroes, Harry Potter, Star Wars, zodiac, poker, tarot, wedding anniversaries, outdated or unverifiable rankings (popular plushies, favourite colours, Indeed salaries, Taco Bell prices) and duplicate categories. Bare rank numbers ("3", "AS") were replaced with real values (years, sizes, distances), and many facts were fixed (Everest 8,849 m, US larger than China by total area, Finland 1917, Hyundai 1967, and others).
+- The app shows each card with its value, so the order of the cards in the file doesn't matter.
+- Please check: video-game and console categories (kept family-friendly ones), US-centric ones (US coins and bills, wars, cereals, college stadiums, humid US cities), the evolution/fossil-dates category, F1 and snooker, fashion brands and soft drinks, and the surah revelation order (traditional Egyptian chronology).
+- Small categories: Best-Selling Books has 3 cards left. The pi digits category is missing its 2nd digit. Add a Field Marshal rank? Add Pakistan or Saudi Arabia to Largest Countries?
