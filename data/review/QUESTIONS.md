@@ -112,3 +112,18 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 
 - Removed about 200 prompts: music, dance, films and TV (Shrek, Harry Potter, Game of Thrones), celebrities, romance, flirting and innuendo, body and toilet humour, gore, prompts mocking religion (pope, hell, "new religion", prayer pun), astrology, crystal balls, pork, and broken or unclear prompts. Rewrote others locally (sausages → seekh kebabs, Walmart greeter → supermarket guard, tattoo → mehndi, horchata → rooh afza, $ → Rs). Friend Mode prompts keep the <PLAYER> token and are now affectionate, not mean.
 - Please check: witches, wizards, ghosts, vampires-turned-churail, fairy tales (Little Red Riding Hood, Merlin), mildly dark prompts ("comfy cozy coffin", "death by frisbee"), mild burp and gross-out humour, "bee buying pollen in a dark alley", "kentucky fried phoenix", "marriage! it's fine". Prompts are all lowercase. Should I switch them to sentence case?
+
+## Follow-up after the owner's decisions: done
+
+- Main: specific hints applied. Restored: touching missions, qawwali/national-song categories, a cleaned milli naghmay list.
+- Swept every reviewed deck for magic, pagan mythology, toilet jokes and US-only content. Trivia lost 61 mythology/US questions and gained 61 new ones. Tareekhi swapped 8 US categories for Pakistani/world ones. Daal men Kaala lost 92 US-local cards and gained 180 new facts (Pakistan, Muslim world, Islamic history, science, animals, inventions).
+
+## Haiwani Pattay: done (7,775 → 5,895)
+
+- Cleaned to family-friendly: removed about 1,880 prompts (sexual or innuendo, bathroom, drugs and alcohol, films, songs and celebrities, real living public figures including politicians, Trump and US-only material, jokes about Islam, worship, scholars, the afterlife and other religions, tragedies, terrorism, slurs, and duplicates). Rewrote about 2,250 locally (dates → rishta meetings, bars → dhabas, $ → Rs, tattoos → mehndi, US places → Pakistani cities). Standardised the blank token to "____" and the player token to "(insert name)". Renamed "Bollywood & Drama" to "Drama Serials" and "Relationship Red Flags" to "Rishta Red Flags", and folded the small "Body Functions" category into "Awkward Moments".
+- Please check:
+  - Pakistani army in-jokes (Havaldar, Subedar, ACR, Corps Commanders).
+  - Jinn, nazar and peer/baba jokes.
+  - Allama Iqbal and the late Zubaida Aapa named in prompts.
+  - General "the PM" jokes without a name (kept).
+  - The leftover pack names as categories ("The Fifth Expansion", "Canadian Conversion Pack"). Should these become a single "Classic" category?
