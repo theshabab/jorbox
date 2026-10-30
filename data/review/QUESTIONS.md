@@ -31,3 +31,9 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 
 - Removed 36: film/TV/music/dancing questions (Antakshari, concerts, cinema, dramas), gambling, tattoos, duplicates. Rewrote others locally (cinema → picnics, "life of the party" → "life of a family gathering", celebrity → famous cricketer).
 - Kept: watching documentaries, a TikTok-recipe question, selfies and follower counts. OK?
+
+## Phansna Nahi: done (445 → 368)
+
+- Removed 77: touching missions (shoulder, knee, hair, massage, fixing a collar or dupatta), clothing (buttons, belts, tucking in shirts), singing, humming, dancing, blowing a kiss, winking, bowing, unsafe or embarrassing ones (burping, cracking necks, standing on chairs), vague "hold your patience" cards, and duplicates. Reworded others locally ("Bless you" → "Yarhamuk Allah", movie quotes → Iqbal or a muhavra, bets → challenges).
+- Should hand games (thumb wrestling, arm wrestling) or light touches between players of the same gender be allowed? Removed for now.
+- Kept: selfie missions, ad slogans and "hide under a table". OK?

@@ -1,0 +1,4012 @@
+{
+ "game": "game13",
+ "name": "Phansna Nahi",
+ "baseCommit": "3f43360",
+ "cards": [
+  {
+   "id": "game13-1",
+   "Description": "Stick this card underneath some food. Get a player to take the food and reveal the card.",
+   "action": "keep",
+   "original": {
+    "Description": "Stick this card underneath some food. Get a player to take the food and reveal the card."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-2",
+   "Description": "Get a player to compliment your hair.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to complement your hair."
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game13-3",
+   "Description": "Get a well-known saying wrong and get another player to correct you.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a movie quote wrong and get another player to correct you."
+   },
+   "note": "movie quote (film/pop culture)"
+  },
+  {
+   "id": "game13-4",
+   "Description": "Get a player to high-five you twice in one day.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to high-five you twice in one day."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-5",
+   "Description": "Hide this card in a jar. Get a player to open it.",
+   "action": "keep",
+   "original": {
+    "Description": "Hide this card in a jar. Get a player to open it."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-6",
+   "Description": "Get a player to correct your spelling.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your spelling."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-7",
+   "Description": "Get a player to say “you’re not ugly.”",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say “you’re not ugly.”"
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-8",
+   "Description": "Get a player to hit you.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hit you."
+   },
+   "note": "unsafe (hitting)"
+  },
+  {
+   "id": "game13-9",
+   "Description": "Get a player to ask if you are crying.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are crying."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-10",
+   "Description": "Get a player to confess to a harmless childhood prank.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to admit to a crime."
+   },
+   "note": "crime reframed as harmless"
+  },
+  {
+   "id": "game13-11",
+   "Description": "Get a player to tie a knot in a balloon.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tie a knot in a balloon."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-12",
+   "Description": "Make something and get a player to wear it.",
+   "action": "keep",
+   "original": {
+    "Description": "Make something and get a player to wear it."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-13",
+   "Description": "Make a player yawn.",
+   "action": "keep",
+   "original": {
+    "Description": "Make a player yawn."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-14",
+   "Description": "Tell a player something is voice activated. Get them to try it.",
+   "action": "keep",
+   "original": {
+    "Description": "Tell a player something is voice activated. Get them to try it."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-15",
+   "Description": "Hide this card in a player's belongings without being caught.",
+   "action": "edit",
+   "original": {
+    "Description": "Hide this card on a player without being caught."
+   },
+   "note": "avoid touching a player"
+  },
+  {
+   "id": "game13-16",
+   "Description": "Get a player to do an impression of you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to do an impression of you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-17",
+   "Description": "Get a player to whistle.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to wolf whistle."
+   },
+   "note": "wolf whistle is a catcall"
+  },
+  {
+   "id": "game13-18",
+   "Description": "Get a player to say something in a different language.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say something in a different language."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-19",
+   "Description": "Get a player to say “game over.”",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say “game over.”"
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-20",
+   "Description": "Get a player to give you a thumbs-up.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to swear at you using a hand signal."
+   },
+   "note": "profanity"
+  },
+  {
+   "id": "game13-21",
+   "Description": "Get a player to try to cure your fake hiccups.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to try and cure your “hiccups”"
+   },
+   "note": "grammar/clarity"
+  },
+  {
+   "id": "game13-22",
+   "Description": "Make up a word and get another player to ask you what it means.",
+   "action": "keep",
+   "original": {
+    "Description": "Make up a word and get another player to ask you what it means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-23",
+   "Description": "Get a player to show you a photo of a cat.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to show you a photo of a cat."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-24",
+   "Description": "Get a player to shake your hand.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to shake your hand."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-25",
+   "Description": "Get a player to hold your patience for a moment.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hold your patience for a moment."
+   },
+   "note": "nonsensical (\"hold your patience\")"
+  },
+  {
+   "id": "game13-26",
+   "Description": "Get a player to swap seats with you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to swap seats with you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-27",
+   "Description": "Get a player to tell you a story about their favorite teacher.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell you a story about their favorite teacher."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-28",
+   "Description": "Get a player to check the time for you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to check the time for you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-29",
+   "Description": "Get a player to read a news headline out loud.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to recite a line from a news headline."
+   },
+   "note": "clarity"
+  },
+  {
+   "id": "game13-30",
+   "Description": "Get a player to correct your pronunciation of 'Status'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Status'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-31",
+   "Description": "Get a player to smell a cushion.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a cushion."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-32",
+   "Description": "Get a player to compliment your perfume or attar.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to compliment your perfume/cologne."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-33",
+   "Description": "Get a player to recite a line of Allama Iqbal's poetry.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to recite a line from a meme."
+   },
+   "note": "meme (pop culture)"
+  },
+  {
+   "id": "game13-34",
+   "Description": "Get a player to admit they dislike slow internet.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they dislike slow internet."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-35",
+   "Description": "Get a player to smell a notebook.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a notebook."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-36",
+   "Description": "Get a player to high-five you for solving a problem.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to high-five you because of solving a problem."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-37",
+   "Description": "Get a player to help you find your missing patience.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to help you find your missing patience."
+   },
+   "note": "nonsensical (\"missing patience\")"
+  },
+  {
+   "id": "game13-38",
+   "Description": "Get a player to compliment your bracelet.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your bracelet."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-39",
+   "Description": "Get a player to high-five you for a good idea.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to high-five you because of a good idea."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-40",
+   "Description": "Get a player to correct your pronunciation of 'Wallet'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Wallet'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-41",
+   "Description": "Hide this card in a bag or coat pocket and get a player to find it.",
+   "action": "edit",
+   "original": {
+    "Description": "Hide this card inside a pocket (without them noticing) and get a player to find it."
+   },
+   "note": "clarity; avoid player's pocket"
+  },
+  {
+   "id": "game13-42",
+   "Description": "Get a player to hold your voice for a moment.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hold your voice for a moment."
+   },
+   "note": "nonsensical (\"hold your voice\")"
+  },
+  {
+   "id": "game13-43",
+   "Description": "Get a player to correct your pronunciation of 'Internet'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Internet'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-44",
+   "Description": "Get a player to offer you a toothpick.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you a toothpick."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-45",
+   "Description": "Hide this card under a laptop and get a player to find it.",
+   "action": "edit",
+   "original": {
+    "Description": "Hide this card inside under a laptop and get a player to find it."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-46",
+   "Description": "Get a player to show you a photo of a baby.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to show you a photo of a baby."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-47",
+   "Description": "Get a player to ask you why you are holding a set of keys.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a set of keys."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-48",
+   "Description": "Get a player to correct your pronunciation of 'AC'.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'AC'."
+   },
+   "note": "unclear (\"AC\" pronunciation)"
+  },
+  {
+   "id": "game13-49",
+   "Description": "Get a player to ask you why you are holding a tissue.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a tissue."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-50",
+   "Description": "Get a player to say the word 'Chai'.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to say the word 'Song'."
+   },
+   "note": "music word"
+  },
+  {
+   "id": "game13-51",
+   "Description": "Get a player to show you a photo of nature.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to show you a photo of nature."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-52",
+   "Description": "Get a player to smell a fruit.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a fruit."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-53",
+   "Description": "Get a player to offer you a napkin.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you a napkin."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-54",
+   "Description": "Get a player to help you find your missing manners.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to help you find your missing manners."
+   },
+   "note": "nonsensical (\"missing manners\")"
+  },
+  {
+   "id": "game13-55",
+   "Description": "Get a player to correct your pronunciation of 'Keys'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Keys'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-56",
+   "Description": "Get a player to ask if you are feeling bored.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are feeling bored."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-57",
+   "Description": "Get a player to help you find your missing shoes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to help you find your missing shoes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-58",
+   "Description": "Get a player to give you a fist bump.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to touch your finger."
+   },
+   "note": "touching"
+  },
+  {
+   "id": "game13-59",
+   "Description": "Get a player to ask if you are feeling happy.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are feeling happy."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-60",
+   "Description": "Get a player to agree that weekends are too short.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that weekends are too short."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-61",
+   "Description": "Get a player to offer you a biscuit.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you a biscuit."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-62",
+   "Description": "Get a player to offer you some fruit.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you some fruit."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-63",
+   "Description": "Get a player to guess your favorite dessert.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to guess your favorite dessert."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-64",
+   "Description": "Get a player to admit they dislike waking up early.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they dislike waking up early."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-65",
+   "Description": "Get a player to compliment your manners.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your manners."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-66",
+   "Description": "Get a player to repeat a famous advertising slogan.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to recite a line from a commercial."
+   },
+   "note": "clarity"
+  },
+  {
+   "id": "game13-67",
+   "Description": "Get a player to show you a photo from a trip.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to show you a photo of a vacation."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-68",
+   "Description": "Get a player to tell you a story about their morning routine.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell you a story about their morning routine."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-69",
+   "Description": "Get a player to guess your favorite drink.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to guess your favorite drink."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-70",
+   "Description": "Get a player to hold your cup of chai for a moment.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to hold your perfume/cologne for a moment."
+   },
+   "note": "perfume/cologne holding was odd"
+  },
+  {
+   "id": "game13-71",
+   "Description": "Get a player to show you a photo of snow.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to show you a photo of snow."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-72",
+   "Description": "Get a player to guess your favorite subject.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to guess your favorite subject."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-73",
+   "Description": "Get a player to ask if you are feeling annoyed.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are feeling annoyed."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-74",
+   "Description": "Get a player to agree that cricket is intense.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that cricket is intense."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-75",
+   "Description": "Get a player to tell you a story about their childhood.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell you a story about their childhood."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-76",
+   "Description": "Get a player to tell you a story about a talent they have.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to tell you a story about their talent."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-77",
+   "Description": "Get a player to ask if you are feeling surprised.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are feeling surprised."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-78",
+   "Description": "Get a player to hold your sense of humor for a moment.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hold your sense of humor for a moment."
+   },
+   "note": "nonsensical (\"hold your sense of humor\")"
+  },
+  {
+   "id": "game13-79",
+   "Description": "Get a player to explain what 'happiness' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'happiness' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-80",
+   "Description": "Get a player to say the word 'Update'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say the word 'Update'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-81",
+   "Description": "Get a player to compliment your phone case.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your phone case."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-82",
+   "Description": "Get a player to admit they dislike homework.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they dislike homework."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-83",
+   "Description": "Get a player to smell headphones.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell headphones."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-84",
+   "Description": "Get a player to agree that cats are cute.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that cats are cute."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-85",
+   "Description": "Get a player to admit they dislike mosquitoes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they dislike mosquitoes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-86",
+   "Description": "Get a player to say the word 'Keys'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say the word 'Keys'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-87",
+   "Description": "Get a player to compliment your storytelling.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your storytelling."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-88",
+   "Description": "Get a player to tell you a story about their worst injury.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell you a story about their worst injury."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-89",
+   "Description": "Get a player to touch your arm.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to touch your arm."
+   },
+   "note": "touching"
+  },
+  {
+   "id": "game13-90",
+   "Description": "Get a player to agree that summer is better than winter.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that summer is better than winter."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-91",
+   "Description": "Get a player to explain what 'failure' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'failure' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-92",
+   "Description": "Get a player to smell a bag.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a bag."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-93",
+   "Description": "Get a player to touch your hair.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to touch your hair."
+   },
+   "note": "touching"
+  },
+  {
+   "id": "game13-94",
+   "Description": "Get a player to touch your back.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to touch your back."
+   },
+   "note": "touching"
+  },
+  {
+   "id": "game13-95",
+   "Description": "Get a player to hold your phone for a moment.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to hold your shoes for a moment."
+   },
+   "note": "holding shoes is disrespectful"
+  },
+  {
+   "id": "game13-96",
+   "Description": "Get a player to help you find your missing bracelet.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to help you find your missing bracelet."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-97",
+   "Description": "Get a player to tell you a story about their best trip.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell you a story about their best trip."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-98",
+   "Description": "Hide this card under a plate and get a player to find it.",
+   "action": "edit",
+   "original": {
+    "Description": "Hide this card inside under a plate and get a player to find it."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-99",
+   "Description": "Get a player to smell a vegetable.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a vegetable."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-100",
+   "Description": "Get a player to say the word 'Cricket'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say the word 'Cricket'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-101",
+   "Description": "Get a player to show you a photo of their pet.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to show you a photo of their pet."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-102",
+   "Description": "Get a player to admit they dislike losing things.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to admit they dislike loosing things."
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game13-103",
+   "Description": "Get a player to admit they dislike waiting in line.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they dislike waiting in line."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-104",
+   "Description": "Get a player to offer you some salt.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you some salt."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-105",
+   "Description": "Get a player to ask you why you are holding a spoon.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a spoon."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-106",
+   "Description": "Get a player to touch your shoulder.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to touch your shoulder."
+   },
+   "note": "touching rule"
+  },
+  {
+   "id": "game13-107",
+   "Description": "Get a player to high-five you for being on time.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to high-five you because of being on time."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-108",
+   "Description": "Get a player to compliment your cooking.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your cooking."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-109",
+   "Description": "Get a player to explain what 'global warming' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'global warming' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-110",
+   "Description": "Get a player to smell a glass.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a glass."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-111",
+   "Description": "Get a player to smell a spoon.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a spoon."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-112",
+   "Description": "Get a player to agree that smartphones are addictive.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that smartphones are addictive."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-113",
+   "Description": "Get a player to ask you why you are holding headphones.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding headphones."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-114",
+   "Description": "Get a player to tell you about their weekend plans.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to tell you a story about their weekend plans."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-115",
+   "Description": "Get a player to guess your favorite holiday destination.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to guess your favorite holiday."
+   },
+   "note": "avoid Western holidays"
+  },
+  {
+   "id": "game13-116",
+   "Description": "Get a player to show you a photo of rain.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to show you a photo of rain."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-117",
+   "Description": "Get a player to touch your ear.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to touch your ear."
+   },
+   "note": "touching rule"
+  },
+  {
+   "id": "game13-118",
+   "Description": "Get a player to explain what 'marriage' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'marriage' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-119",
+   "Description": "Get a player to guess your favorite city.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to guess your favorite movie."
+   },
+   "note": "film/pop culture"
+  },
+  {
+   "id": "game13-120",
+   "Description": "Get a player to offer you some water.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you some water."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-121",
+   "Description": "Get a player to show you a selfie.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to show you a photo of themselves (a selfie)."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-122",
+   "Description": "Get a player to correct your pronunciation of 'Gym'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Gym'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-123",
+   "Description": "Hide this card under a table and get a player to find it.",
+   "action": "edit",
+   "original": {
+    "Description": "Hide this card inside under a table and get a player to find it."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-124",
+   "Description": "Get a player to help you find your missing watch.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to help you find your missing watch."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-125",
+   "Description": "Get a player to explain what 'politics' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'politics' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-126",
+   "Description": "Get a player to say the word 'Biryani'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say the word 'Biryani'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-127",
+   "Description": "Get a player to high-five you for winning a small challenge.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to high-five you because of winning a small bet."
+   },
+   "note": "gambling (bet)"
+  },
+  {
+   "id": "game13-128",
+   "Description": "Get a player to tell you a story about their first job.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell you a story about their first job."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-129",
+   "Description": "Get a player to compliment your glasses.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your glasses."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-130",
+   "Description": "Get a player to offer you a bite of their food.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you a bite of their food."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-131",
+   "Description": "Get a player to high-five you for finding something lost.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to high-five you because of finding something lost."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-132",
+   "Description": "Get a player to ask you why you are holding a shoe.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a shoe."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-133",
+   "Description": "Get a player to explain what 'AI' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'AI' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-134",
+   "Description": "Get a player to smell a bottle of water.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a bottle of water."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-135",
+   "Description": "Get a player to high-five you for saving money.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to high-five you because of saving money."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-136",
+   "Description": "Get a player to ask you why you are holding a bottle of water.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a bottle of water."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-137",
+   "Description": "Get a player to smell a piece of paper.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a piece of paper."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-138",
+   "Description": "Get a player to compliment your shoes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your shoes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-139",
+   "Description": "Get a player to show you a photo of food.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to show you a photo of food."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-140",
+   "Description": "Get a player to hold your handwriting for a moment.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hold your handwriting for a moment."
+   },
+   "note": "broken (abstract object)"
+  },
+  {
+   "id": "game13-141",
+   "Description": "Get a player to offer you a piece of gum.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you a piece of gum."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-142",
+   "Description": "Get a player to touch your elbow.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to touch your elbow."
+   },
+   "note": "touching rule"
+  },
+  {
+   "id": "game13-143",
+   "Description": "Get a player to help you find your missing cooking.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to help you find your missing cooking."
+   },
+   "note": "broken (abstract object)"
+  },
+  {
+   "id": "game13-144",
+   "Description": "Get a player to say the word 'Samosa'.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to say the word 'Movie'."
+   },
+   "note": "film/pop culture"
+  },
+  {
+   "id": "game13-145",
+   "Description": "Get a player to admit they dislike cold tea.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they dislike cold tea."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-146",
+   "Description": "Get a player to say the word 'Summer'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say the word 'Summer'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-147",
+   "Description": "Get a player to ask if you are feeling excited.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are feeling excited."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-148",
+   "Description": "Get a player to tell you whether they are scared of spiders.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to tell you a story about their fear of spiders."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-149",
+   "Description": "Get a player to touch your knee.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to touch your knee."
+   },
+   "note": "touching rule"
+  },
+  {
+   "id": "game13-150",
+   "Description": "Get a player to high-five you for fixing something.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to high-five you because of fixing something."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-151",
+   "Description": "Get a player to admit they dislike traffic jams.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they dislike traffic jams."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-152",
+   "Description": "Get a player to explain what 'the internet' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'the internet' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-153",
+   "Description": "Get a player to ask if you are feeling dizzy.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are feeling dizzy."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-154",
+   "Description": "Get a player to say the word 'Password'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say the word 'Password'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-155",
+   "Description": "Get a player to recite a line of poetry.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to recite a line from a movie."
+   },
+   "note": "film/pop culture"
+  },
+  {
+   "id": "game13-156",
+   "Description": "Get a player to say the word 'Mango'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say the word 'Mango'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-157",
+   "Description": "Get a player to correct your pronunciation of 'Glitch'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Glitch'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-158",
+   "Description": "Get a player to correct your pronunciation of 'Mouse'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Mouse'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-159",
+   "Description": "Get a player to hold your ring for a moment.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to hold your ring for a moment."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-160",
+   "Description": "Get a player to agree that sleeping is the best hobby.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that sleeping is the best hobby."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-161",
+   "Description": "Get a player to correct your pronunciation of 'Watch'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Watch'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-162",
+   "Description": "Get a player to ask if you are feeling cold.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are feeling cold."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-163",
+   "Description": "Get a player to explain what 'blockchain' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'blockchain' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-164",
+   "Description": "Get a player to compliment your shirt.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your shirt."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-165",
+   "Description": "Get a player to ask you why you are holding a cushion.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a cushion."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-166",
+   "Description": "Get a player to recite a famous proverb (muhavra).",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to recite a line from a song (recite lyrics)."
+   },
+   "note": "music/lyrics"
+  },
+  {
+   "id": "game13-167",
+   "Description": "Get a player to help you find your missing sense of humor.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to help you find your missing sense of humor."
+   },
+   "note": "unclear; abstract object"
+  },
+  {
+   "id": "game13-168",
+   "Description": "Get a player to explain what 'inflation' means.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain what 'inflation' means."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-169",
+   "Description": "Hide this card on a chair and get a player to find it.",
+   "action": "edit",
+   "original": {
+    "Description": "Hide this card inside on a chair and get a player to find it."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-170",
+   "Description": "Get a player to ask you why you are holding a bag.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a bag."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-171",
+   "Description": "Get a player to correct your pronunciation of 'Camera'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Camera'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-172",
+   "Description": "Get a player to correct your pronunciation of 'Tomato'.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Song'."
+   },
+   "note": "music word"
+  },
+  {
+   "id": "game13-173",
+   "Description": "Get a player to correct your pronunciation of 'Shoes'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Shoes'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-174",
+   "Description": "Get a player to smell a set of keys.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a set of keys."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-175",
+   "Description": "Get a player to ask if you are feeling sick.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are feeling sick."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-176",
+   "Description": "Get a player to agree that prices are too high.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that prices are too high."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-177",
+   "Description": "Get a player to ask you why you are holding a charger.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a charger."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-178",
+   "Description": "Get a player to compliment your necklace.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to compliment your necklace."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-179",
+   "Description": "Get a player to smell a toy.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to smell a toy."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-180",
+   "Description": "Get a player to ask you why you are holding a piece of paper.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a piece of paper."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-181",
+   "Description": "Hide this card inside a bag and get a player to find it.",
+   "action": "keep",
+   "original": {
+    "Description": "Hide this card inside a bag and get a player to find it."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-182",
+   "Description": "Hide this card inside a magazine and get a player to find it.",
+   "action": "edit",
+   "original": {
+    "Description": "Hide this card inside inside a magazine and get a player to find it."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-183",
+   "Description": "Get a player to ask you why you are holding a glass.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a glass."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-184",
+   "Description": "Get a player to correct your pronunciation of 'Chai'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct your pronunciation of 'Chai'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-185",
+   "Description": "Get a player to guess your favorite season.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to guess your favorite season."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-186",
+   "Description": "Get a player to agree that math is hard.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that math is hard."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-187",
+   "Description": "Get a player to say the word 'Message'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say the word 'Message'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-188",
+   "Description": "Get a player to hold your storytelling for a moment.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hold your storytelling for a moment."
+   },
+   "note": "broken (abstract object)"
+  },
+  {
+   "id": "game13-189",
+   "Description": "Get a player to help you find your missing voice.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to help you find your missing voice."
+   },
+   "note": "unclear; abstract object"
+  },
+  {
+   "id": "game13-190",
+   "Description": "Get a player to ask you why you are holding a pen.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you why you are holding a pen."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-191",
+   "Description": "Get a player to say 'I am so confused'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I am so confused'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-192",
+   "Description": "Get a player to ask 'What are you doing?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'What are you doing?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-193",
+   "Description": "Get a player to tell you to be quiet.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell you to be quiet."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-194",
+   "Description": "Get a player to offer to take a photo of you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer to take a photo of you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-195",
+   "Description": "Get a player to ask if you have lost weight.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you have lost weight."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-196",
+   "Description": "Get a player to touch their own nose while talking to you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to touch their own nose while talking to you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-197",
+   "Description": "Get a player to say your name three times in one sentence.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say your name three times in one sentence."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-198",
+   "Description": "Get a player to go for a high-five with you, then leave them hanging.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to high-five you, then leave them hanging."
+   },
+   "note": "clarity"
+  },
+  {
+   "id": "game13-199",
+   "Description": "Get a player to ask to borrow your phone.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask to borrow your phone."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-200",
+   "Description": "Get a player to say 'MashAllah'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'MashAllah'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-201",
+   "Description": "Get a player to say 'InshAllah'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'InshAllah'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-202",
+   "Description": "Get a player to adjust their clothes because of you.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to adjust their clothes because of you."
+   },
+   "note": "unclear; about clothes"
+  },
+  {
+   "id": "game13-203",
+   "Description": "Get a player to yawn by yawning yourself.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to yawn by yawning yourself."
+   },
+   "note": "duplicate of game13-13"
+  },
+  {
+   "id": "game13-204",
+   "Description": "Get a player to say 'I'm bored'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I'm bored'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-205",
+   "Description": "Get a player to ask what time it is.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask what time it is."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-206",
+   "Description": "Get a player to laugh at a joke that wasn't funny.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to laugh at a joke that wasn't funny."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-207",
+   "Description": "Get a player to say 'I don't get it'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I don't get it'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-208",
+   "Description": "Get a player to explain the rules of cricket to you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to explain the rules of cricket to you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-209",
+   "Description": "Get a player to mention a politician's name.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to mention a politician's name."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-210",
+   "Description": "Get a player to complain about the weather.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to complain about the weather."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-211",
+   "Description": "Get a player to check their phone notifications.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to check their phone notifications."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-212",
+   "Description": "Get a player to say 'Oh my God'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Oh my God'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-213",
+   "Description": "Get a player to ask for the WiFi password.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask for the WiFi password."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-214",
+   "Description": "Get a player to mention a brand name.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to mention a brand name."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-215",
+   "Description": "Get a player to correct a fake fact you say.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correct a fake fact you say."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-216",
+   "Description": "Get a player to agree to a fake plan for next week.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree to a fake plan for next week."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-217",
+   "Description": "Get a player to say 'No way!'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'No way!'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-218",
+   "Description": "Get a player to ask you to repeat yourself.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you to repeat yourself."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-219",
+   "Description": "Get a player to say 'Seriously?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Seriously?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-220",
+   "Description": "Get a player to ask where you bought your shoes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask where you bought your shoes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-221",
+   "Description": "Get a player to pick up something you dropped.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to pick up something you dropped."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-222",
+   "Description": "Get a player to hold the door for you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to hold the door for you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-223",
+   "Description": "Get a player to say 'Thank you'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Thank you'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-224",
+   "Description": "Get a player to say 'Sorry'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Sorry'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-225",
+   "Description": "Get a player to ask if you are okay.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask if you are okay."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-226",
+   "Description": "Get a player to look at the ceiling.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to look at the ceiling."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-227",
+   "Description": "Get a player to scratch their head.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to scratch their head."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-228",
+   "Description": "Get a player to fix their hair.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to fix their hair."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-229",
+   "Description": "Get a player to say 'Wow'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Wow'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-230",
+   "Description": "Get a player to ask 'Who is that?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Who is that?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-231",
+   "Description": "Get a player to admit they are hungry.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they are hungry."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-232",
+   "Description": "Get a player to say 'I'm full'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I'm full'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-233",
+   "Description": "Get a player to ask for a charger.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask for a charger."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-234",
+   "Description": "Get a player to mention 'Biryani'.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to mention 'Biryani'."
+   },
+   "note": "duplicate of game13-126"
+  },
+  {
+   "id": "game13-235",
+   "Description": "Get a player to say the word 'Chai'.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to say 'Chai'."
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game13-236",
+   "Description": "Get a player to ask 'Are we playing a game?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Are we playing a game?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-237",
+   "Description": "Get a player to say 'I forgot'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I forgot'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-238",
+   "Description": "Get a player to say 'I remember'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I remember'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-239",
+   "Description": "Get a player to ask 'Why?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Why?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-240",
+   "Description": "Get a player to say 'I don't know'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I don't know'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-241",
+   "Description": "Get a player to ask something about a piece of paper.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to ask something about a piece of paper."
+   },
+   "note": "vague; near-duplicate of game13-180"
+  },
+  {
+   "id": "game13-242",
+   "Description": "Get a player to say something about Bill.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to say something about Bill."
+   },
+   "note": "unclear"
+  },
+  {
+   "id": "game13-243",
+   "Description": "Get a player to say something about a fruit.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to say something about a fruit."
+   },
+   "note": "too vague"
+  },
+  {
+   "id": "game13-244",
+   "Description": "Get a player to shout something about a pen.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to shout something about a pen."
+   },
+   "note": "too vague"
+  },
+  {
+   "id": "game13-245",
+   "Description": "Get a player to ask something about a shoe.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to ask something about a shoe."
+   },
+   "note": "vague; near-duplicate of game13-132"
+  },
+  {
+   "id": "game13-246",
+   "Description": "Stand in a corner for 30 seconds without explaining why, until someone asks if you are okay.",
+   "action": "keep",
+   "original": {
+    "Description": "Stand in a corner for 30 seconds without explaining why, until someone asks if you are okay."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-247",
+   "Description": "Get a player to fix your collar or dupatta.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to fix your collar or dupatta."
+   },
+   "note": "physical contact/clothes"
+  },
+  {
+   "id": "game13-248",
+   "Description": "Get a player to offer you their seat.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to offer you their seat."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-249",
+   "Description": "Start a round of applause and get at least two players to join in.",
+   "action": "keep",
+   "original": {
+    "Description": "Start a round of applause and get at least two players to join in."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-250",
+   "Description": "Get a player to ask 'Is that new?' about something you are wearing.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Is that new?' about something you are wearing."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-251",
+   "Description": "Get a player to pick up a piece of trash you 'accidentally' dropped.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to pick up a piece of trash you 'accidentally' dropped."
+   },
+   "note": "duplicate of game13-221"
+  },
+  {
+   "id": "game13-252",
+   "Description": "Convince a player that their phone is ringing or vibrating.",
+   "action": "edit",
+   "original": {
+    "Description": "Convince a player that their phone is ringing/vibrating."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-253",
+   "Description": "Fake a sneeze, say 'Alhamdulillah', and get a player to reply 'Yarhamuk Allah'.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to say 'Bless you' after you fake a sneeze."
+   },
+   "note": "Islamic sneeze etiquette instead of 'Bless you'"
+  },
+  {
+   "id": "game13-254",
+   "Description": "Get a player to ask you to take a photo of them.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you to take a photo of them."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-255",
+   "Description": "Get a player to agree to trade shoes with you for a minute.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree to trade shoes with you for a minute."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-256",
+   "Description": "Get a player to smell your sleeve.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to smell your sleeve."
+   },
+   "note": "awkward/immodest closeness"
+  },
+  {
+   "id": "game13-257",
+   "Description": "Get a player to untie a knot you tied in a piece of string or a napkin.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to untie a knot you tied in a piece of string/napkin."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-258",
+   "Description": "Get a player to help you 'search' for a contact lens you didn't lose.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to help you 'search' for a contact lens you didn't lose."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-259",
+   "Description": "Get a player to correctly guess a number you are thinking of (1-10).",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to correctly guess a number you are thinking of (1-10)."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-260",
+   "Description": "Get a player to give you a fist bump.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to give you a 'knuckle sandwich' (fist bump)."
+   },
+   "note": "'knuckle sandwich' means a punch"
+  },
+  {
+   "id": "game13-261",
+   "Description": "Get a player to hold your finger for 5 seconds.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hold your finger for 5 seconds."
+   },
+   "note": "physical contact; near-duplicate of game13-58"
+  },
+  {
+   "id": "game13-262",
+   "Description": "Get a player to wipe something off your face.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to wipe something off your face."
+   },
+   "note": "physical contact"
+  },
+  {
+   "id": "game13-263",
+   "Description": "Get a player to ask 'What's that smell?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'What's that smell?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-264",
+   "Description": "Get a player to say the alphabet backwards (at least 5 letters).",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to recite the alphabet backwards (at least 5 letters)."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-265",
+   "Description": "Get a player to thumb wrestle with you.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to thumb wrestle with you."
+   },
+   "note": "physical contact beyond handshake"
+  },
+  {
+   "id": "game13-266",
+   "Description": "Get a player to dab.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to dab."
+   },
+   "note": "western/secular (dance move)"
+  },
+  {
+   "id": "game13-267",
+   "Description": "Get a player to salute you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to salute you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-268",
+   "Description": "Get a player to touch their toes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to touch their toes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-269",
+   "Description": "Get a player to make an animal sound.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to make a specific animal sound."
+   },
+   "note": "clearer"
+  },
+  {
+   "id": "game13-270",
+   "Description": "Get a player to guess your shoe size correctly.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to guess your shoe size correctly."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-271",
+   "Description": "Get a player to try on your glasses.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to try on your glasses."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-272",
+   "Description": "Get a player to check your pulse.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to check your pulse."
+   },
+   "note": "physical contact"
+  },
+  {
+   "id": "game13-273",
+   "Description": "Get a player to say 'MashAllah' about something you did.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to say 'MashAllah' about something you did."
+   },
+   "note": "duplicate of game13-200"
+  },
+  {
+   "id": "game13-274",
+   "Description": "Get a player to offer to pour you water.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to offer to pour you water."
+   },
+   "note": "duplicate of game13-120"
+  },
+  {
+   "id": "game13-275",
+   "Description": "Get a player to say 'Nazar lag gayi' (it caught the evil eye).",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to say 'Nazar lag gayi' (Evil eye hit)."
+   },
+   "note": "translation"
+  },
+  {
+   "id": "game13-276",
+   "Description": "Get a player to ask 'Where are you going?' when you stand up.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Where are you going?' when you stand up."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-277",
+   "Description": "Get a player to tell you to sit up straight.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to correct your posture."
+   },
+   "note": "avoid physical contact"
+  },
+  {
+   "id": "game13-278",
+   "Description": "Get a player to ask you to pass the tissues.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask you to pass the tissues."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-279",
+   "Description": "Get a player to agree that 'Chai is life'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to agree that 'Chai is life'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-280",
+   "Description": "Get a player to complain about the heat/cold.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to complain about the heat/cold."
+   },
+   "note": "duplicate of game13-210"
+  },
+  {
+   "id": "game13-281",
+   "Description": "Get a player to ask 'Who cooked this?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Who cooked this?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-282",
+   "Description": "Get a player to check if there is food in your teeth.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to check if there is food in your teeth."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-283",
+   "Description": "Get a player to massage your shoulders.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to massage your shoulders."
+   },
+   "note": "physical contact"
+  },
+  {
+   "id": "game13-284",
+   "Description": "Get a player to crack their knuckles.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to crack their knuckles."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-285",
+   "Description": "Get a player to wink at you.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to wink at you."
+   },
+   "note": "flirting"
+  },
+  {
+   "id": "game13-286",
+   "Description": "Get a player to stick their tongue out.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to stick their tongue out."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-287",
+   "Description": "Get a player to cross their eyes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to cross their eyes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-288",
+   "Description": "Get a player to hold their breath for 10 seconds.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to hold their breath for 10 seconds."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-289",
+   "Description": "Get a player to spin around in a circle.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to spin around in a circle."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-290",
+   "Description": "Get a player to do a squat.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to do a squat."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-291",
+   "Description": "Get a player to balance a spoon on their nose.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to balance a spoon on their nose."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-292",
+   "Description": "Get a player to make up a secret handshake with you.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to create a handshake with you."
+   },
+   "note": "clearer"
+  },
+  {
+   "id": "game13-293",
+   "Description": "Get a player to sign their autograph on a piece of paper.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to sign their autograph on a piece of paper."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-294",
+   "Description": "Get a player to draw a smiley face on your hand.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to draw a smiley face on your hand."
+   },
+   "note": "physical contact"
+  },
+  {
+   "id": "game13-295",
+   "Description": "Get a player to clean your glasses for you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to clean your glasses for you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-296",
+   "Description": "Get a player to tie your shoelace (or pretend to).",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to tie your shoelace (or pretend to)."
+   },
+   "note": "physical contact; embarrassing"
+  },
+  {
+   "id": "game13-297",
+   "Description": "Get a player to button/unbutton a button on your shirt.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to button/unbutton a button on your shirt."
+   },
+   "note": "clothes being undone"
+  },
+  {
+   "id": "game13-298",
+   "Description": "Get a player to straighten your hair.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to straighten your hair."
+   },
+   "note": "physical contact"
+  },
+  {
+   "id": "game13-299",
+   "Description": "Get a player to removing lint from your clothes.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to removing lint from your clothes."
+   },
+   "note": "physical contact; grammar broken"
+  },
+  {
+   "id": "game13-300",
+   "Description": "Get a player to comment on your height.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to comment on your height."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-301",
+   "Description": "Get a player to compare hand sizes with you.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to compare hand sizes with you."
+   },
+   "note": "touching (palm to palm)"
+  },
+  {
+   "id": "game13-302",
+   "Description": "Get a player to arm wrestle you.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to arm wrestle you."
+   },
+   "note": "physical contact beyond handshake"
+  },
+  {
+   "id": "game13-303",
+   "Description": "Get a player to have a staring contest with you for 10 seconds.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to stare contest with you for 10 seconds."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-304",
+   "Description": "Get a player to say 'I give up'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I give up'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-305",
+   "Description": "Get a player to admit they are tired.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to admit they are tired."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-306",
+   "Description": "Get a player to check the expiry date on a food item.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to check the expiry date on a food item."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-307",
+   "Description": "Get a player to open a bottle/jar for you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to open a bottle/jar for you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-308",
+   "Description": "Get a player to close a door/window for you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to close a door/window for you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-309",
+   "Description": "Get a player to turn on/off a fan or light.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to turn on/off a fan or light."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-310",
+   "Description": "Get a player to fetch you a charger.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to fetch you a charger."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-311",
+   "Description": "Get a player to move their chair closer to you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to move their chair closer to you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-312",
+   "Description": "Get a player to save a number in their phone.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to save a number in their phone."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-313",
+   "Description": "Get a player to delete a photo.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to delete a photo."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-314",
+   "Description": "Get a player to change their ringtone.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to change their ringtone."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-315",
+   "Description": "Get a player to put their phone on silent.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to put their phone on silent."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-316",
+   "Description": "Get a player to show you their wallpaper.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to show you their wallpaper."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-317",
+   "Description": "Get a player to take a selfie with you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to take a selfie with you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-318",
+   "Description": "Get a player to record a voice note.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to record a voice note."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-319",
+   "Description": "Get a player to send a blank message.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to send a blank message."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-320",
+   "Description": "Get a player to read out a message on your phone.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to read a text message out loud."
+   },
+   "note": "avoid reading their private texts"
+  },
+  {
+   "id": "game13-321",
+   "Description": "Get a player to guess the price of an item you are holding.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to guess the price of an item you are holding."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-322",
+   "Description": "Get a player to count how many people are in the room.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to count how many people are in the room."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-323",
+   "Description": "Get a player to name 3 colors in the room.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to name 3 colors in the room."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-324",
+   "Description": "Get a player to find something red.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to find something red."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-325",
+   "Description": "Get a player to touch something made of wood.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to touch something made of wood."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-326",
+   "Description": "Get a player to stand on one leg.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to stand on one leg."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-327",
+   "Description": "Get a player to hop three times.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to hop three times."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-328",
+   "Description": "Get a player to clap their hands.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to clap their hands."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-329",
+   "Description": "Get a player to snap their fingers.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to snap their fingers."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-330",
+   "Description": "Get a player to whistle.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to whistle."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-331",
+   "Description": "Get a player to hum a song.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hum a song."
+   },
+   "note": "music"
+  },
+  {
+   "id": "game13-332",
+   "Description": "Get a player to tap their foot.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tap their foot."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-333",
+   "Description": "Get a player to scratch their nose.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to scratch their nose."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-334",
+   "Description": "Get a player to rub their eyes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to rub their eyes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-335",
+   "Description": "Get a player to cover their mouth.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to cover their mouth."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-336",
+   "Description": "Get a player to touch their ear.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to touch their ear."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-337",
+   "Description": "Get a player to pull their earlobes (Tauba style).",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to pull their earlobes (Tauba style)."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-338",
+   "Description": "Get a player to say 'Astaghfirullah'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Astaghfirullah'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-339",
+   "Description": "Get a player to say 'Bas kar do' (Stop it).",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Bas kar do' (Stop it)."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-340",
+   "Description": "Get a player to ask 'Are you crazy?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Are you crazy?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-341",
+   "Description": "Get a player to tell you to sit down.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell you to sit down."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-342",
+   "Description": "Get a player to offer you food from their plate.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to offer you food from their plate."
+   },
+   "note": "duplicate of game13-130"
+  },
+  {
+   "id": "game13-343",
+   "Description": "Get a player to hide something for you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to hide something for you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-344",
+   "Description": "Get a player to find a hidden coin.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to find a hidden coin."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-345",
+   "Description": "Get a player to solve a riddle.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to guess a riddle correctly."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-346",
+   "Description": "Get a player to fail at a tongue twister.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to fail at a tongue twister."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-347",
+   "Description": "Get a player to say 'My bad'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'My bad'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-348",
+   "Description": "Get a player to apologize for interrupting you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to apologize for interrupting you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-349",
+   "Description": "Get a player to accept a challenge from you.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to agree to a bet."
+   },
+   "note": "avoid betting"
+  },
+  {
+   "id": "game13-350",
+   "Description": "Get a player to shake on a deal.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to shake on a deal."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-351",
+   "Description": "Get a player to promise something.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to promise something."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-352",
+   "Description": "Get a player to say 'Sach mein!' (Really!).",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to swear (promise) they are telling the truth."
+   },
+   "note": "near-duplicate of 351; reworded"
+  },
+  {
+   "id": "game13-353",
+   "Description": "Get a player to cross their fingers.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to cross their fingers."
+   },
+   "note": "western superstition gesture"
+  },
+  {
+   "id": "game13-354",
+   "Description": "Get a player to give you a thumbs up.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to give you a thumbs up."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-355",
+   "Description": "Get a player to make a 'peace' sign.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to make a 'peace' sign."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-356",
+   "Description": "Get a player to make a heart shape with their hands.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to make a heart shape with their hands."
+   },
+   "note": "romantic gesture"
+  },
+  {
+   "id": "game13-357",
+   "Description": "Get a player to facepalm.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to facepalm."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-358",
+   "Description": "Get a player to roll their eyes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to roll their eyes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-359",
+   "Description": "Get a player to shrug their shoulders.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to shrug their shoulders."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-360",
+   "Description": "Get a player to nod in agreement.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to nod in agreement."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-361",
+   "Description": "Get a player to shake their head 'no'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to shake their head 'no'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-362",
+   "Description": "Get a player to look at their watch/phone for time.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to look at their watch/phone for time."
+   },
+   "note": "duplicate of game13-28"
+  },
+  {
+   "id": "game13-363",
+   "Description": "Get a player to ask 'What time is it?'.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to ask 'What time is it?'."
+   },
+   "note": "duplicate of game13-205"
+  },
+  {
+   "id": "game13-364",
+   "Description": "Get a player to say 'It's late'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'It's late'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-365",
+   "Description": "Get a player to say 'It's early'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'It's early'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-366",
+   "Description": "Get a player to yawn loudly.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to yawn loudly."
+   },
+   "note": "duplicate of game13-13"
+  },
+  {
+   "id": "game13-367",
+   "Description": "Get a player to stretch their arms.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to stretch their arms."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-368",
+   "Description": "Get a player to crack their neck.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to crack their neck."
+   },
+   "note": "unsafe; similar to game13-284"
+  },
+  {
+   "id": "game13-369",
+   "Description": "Get a player to adjust their glasses.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to adjust their glasses."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-370",
+   "Description": "Get a player to fix their hair in a reflection.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to fix their hair in a reflection."
+   },
+   "note": "duplicate of game13-228"
+  },
+  {
+   "id": "game13-371",
+   "Description": "Get a player to check their teeth in a reflection.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to check their teeth in a reflection."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-372",
+   "Description": "Get a player to ask 'Do I look okay?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Do I look okay?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-373",
+   "Description": "Get a player to ask 'Does this match?'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask 'Does this match?'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-374",
+   "Description": "Get a player to ask to borrow your pen.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to borrow a pen."
+   },
+   "note": "clarity"
+  },
+  {
+   "id": "game13-375",
+   "Description": "Get a player to write something down for you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to write something down for you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-376",
+   "Description": "Get a player to draw a circle.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to draw a circle."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-377",
+   "Description": "Get a player to tear a piece of paper.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tear a piece of paper."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-378",
+   "Description": "Get a player to make a paper airplane.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to fold a paper airplane."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-379",
+   "Description": "Get a player to throw something in the trash for you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to throw something in the trash for you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-380",
+   "Description": "Get a player to pass you the salt/pepper.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to pass you the salt/pepper."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-381",
+   "Description": "Get a player to fill your glass.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to fill your glass."
+   },
+   "note": "duplicate of game13-274"
+  },
+  {
+   "id": "game13-382",
+   "Description": "Get a player to taste your chai and check the sugar.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to take a sip of your drink."
+   },
+   "note": "hygiene; Pakistani frame"
+  },
+  {
+   "id": "game13-383",
+   "Description": "Get a player to guess the ingredients in a dish.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to guess the ingredients in a dish."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-384",
+   "Description": "Get a player to complain about the spice level.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to complain about the spice level."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-385",
+   "Description": "Get a player to say 'It's too hot'.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to say 'It's too hot'."
+   },
+   "note": "duplicate of game13-280"
+  },
+  {
+   "id": "game13-386",
+   "Description": "Get a player to say 'It's too cold'.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to say 'It's too cold'."
+   },
+   "note": "duplicate of game13-280"
+  },
+  {
+   "id": "game13-387",
+   "Description": "Get a player to blow on their food.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to blow on their food."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-388",
+   "Description": "Get a player to use a spoon instead of a fork.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to use a spoon instead of a fork."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-389",
+   "Description": "Get a player to eat with their hands.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to eat with their hands."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-390",
+   "Description": "Get a player to lick their fingers.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to lick their fingers."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-391",
+   "Description": "Get a player to burp (and excuse themselves).",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to burp (and excuse themselves)."
+   },
+   "note": "embarrassing"
+  },
+  {
+   "id": "game13-392",
+   "Description": "Get a player to say 'Alhamdulillah'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Alhamdulillah'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-393",
+   "Description": "Get a player to say 'Bismillah' before eating.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Bismillah' before eating."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-394",
+   "Description": "Get a player to ask for seconds.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to ask for seconds."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-395",
+   "Description": "Get a player to refuse more food.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to refuse more food."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-396",
+   "Description": "Get a player to say 'I'm stuffed'.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to say 'I'm stuffed'."
+   },
+   "note": "duplicate of game13-232"
+  },
+  {
+   "id": "game13-397",
+   "Description": "Get a player to loosen their belt/pants.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to loosen their belt/pants."
+   },
+   "note": "clothes being undone"
+  },
+  {
+   "id": "game13-398",
+   "Description": "Get a player to pat their stomach.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to pat their stomach."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-399",
+   "Description": "Get a player to say 'I need to diet'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'I need to diet'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-400",
+   "Description": "Get a player to talk about their workout.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to talk about their workout."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-401",
+   "Description": "Get a player to flex a muscle.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to flex a muscle."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-402",
+   "Description": "Get a player to tell you how they got a scar.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to show a scar."
+   },
+   "note": "showing a scar may need uncovering skin; reworded"
+  },
+  {
+   "id": "game13-403",
+   "Description": "Get a player to tell a story about a bruise.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to tell a story about a bruise."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-404",
+   "Description": "Get a player to complain about a headache.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to complain about a headache."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-405",
+   "Description": "Get a player to ask for a Panadol or other medicine.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to ask for a Panadol/medicine."
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game13-406",
+   "Description": "Get a player to massage their own temples.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to massage their own temples."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-407",
+   "Description": "Get a player to close their eyes for 5 seconds.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to close their eyes for 5 seconds."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-408",
+   "Description": "Get a player to guess what you are holding behind your back.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to guess what you are holding behind your back."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-409",
+   "Description": "Get a player to play Rock, Paper, Scissors with you.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to play Rock, Paper, Scissors with you."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-410",
+   "Description": "Get a player to lose a game of Rock, Paper, Scissors.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to lose a game of Rock, Paper, Scissors."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-411",
+   "Description": "Get a player to high-five you with their left hand.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to high-five you with their left hand."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-412",
+   "Description": "Get a player to shake your hand with their left hand.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to shake your hand with their left hand."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-413",
+   "Description": "Get a player to fist bump you and make an explosion noise.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to fist bump you involved an explosion noise."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game13-414",
+   "Description": "Get a player to say 'Boom'.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to say 'Boom'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-415",
+   "Description": "Get a player to mimic your accent.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to mimic your accent."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-416",
+   "Description": "Get a player to speak in a whisper.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to speak in a whisper."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-417",
+   "Description": "Get a player to shout a word.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to shout a word."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-418",
+   "Description": "Get a player to sing a line from a song.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to sing a line from a song."
+   },
+   "note": "western/secular (singing)"
+  },
+  {
+   "id": "game13-419",
+   "Description": "Get a player to hum a specific tune.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to hum a specific tune."
+   },
+   "note": "music; duplicate of game13-331"
+  },
+  {
+   "id": "game13-420",
+   "Description": "Get a player to guess a song you are humming.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to guess a song you are humming."
+   },
+   "note": "music"
+  },
+  {
+   "id": "game13-421",
+   "Description": "Get a player to drum their fingers on the table.",
+   "action": "edit",
+   "original": {
+    "Description": "Get a player to tap a rhythm on the table."
+   },
+   "note": "removed music framing"
+  },
+  {
+   "id": "game13-422",
+   "Description": "Get a player to dance (even just a wiggle).",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to dance (even just a wiggle)."
+   },
+   "note": "western/secular (dancing)"
+  },
+  {
+   "id": "game13-423",
+   "Description": "Get a player to snap their fingers along to a beat.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to snap their fingers along to a beat."
+   },
+   "note": "music; duplicate of game13-329"
+  },
+  {
+   "id": "game13-424",
+   "Description": "Get a player to clap after a speech.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to clap after a speech."
+   },
+   "note": "duplicate of game13-328"
+  },
+  {
+   "id": "game13-425",
+   "Description": "Get a player to raise their hand.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to raise their hand."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-426",
+   "Description": "Get a player to put their hands in the air.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to put their hands in the air."
+   },
+   "note": "duplicate of game13-425"
+  },
+  {
+   "id": "game13-427",
+   "Description": "Get a player to wave goodbye.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to wave goodbye."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-428",
+   "Description": "Get a player to blow a kiss.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to blow a kiss."
+   },
+   "note": "immodest (blowing a kiss)"
+  },
+  {
+   "id": "game13-429",
+   "Description": "Get a player to bow.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to bow."
+   },
+   "note": "bowing to people is discouraged in Islam"
+  },
+  {
+   "id": "game13-430",
+   "Description": "Get a player to curtsy.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to curtsy."
+   },
+   "note": "western (curtsy)"
+  },
+  {
+   "id": "game13-431",
+   "Description": "Get a player to salute.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to salute."
+   },
+   "note": "duplicate of game13-267"
+  },
+  {
+   "id": "game13-432",
+   "Description": "Get a player to march in place.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to march in place."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-433",
+   "Description": "Get a player to walk backwards.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to walk backwards."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-434",
+   "Description": "Get a player to jump.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to jump."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-435",
+   "Description": "Get a player to sit on the floor.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to sit on the floor."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-436",
+   "Description": "Get a player to stand on a chair.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to stand on a chair."
+   },
+   "note": "unsafe"
+  },
+  {
+   "id": "game13-437",
+   "Description": "Get a player to hide under a table.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to hide under a table."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-438",
+   "Description": "Get a player to put something on their head.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to put something on their head."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-439",
+   "Description": "Get a player to wear sunglasses inside.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to wear sunglasses inside."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-440",
+   "Description": "Get a player to put on a hat.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to put on a hat."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-441",
+   "Description": "Get a player to take off their shoes.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to take off their shoes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-442",
+   "Description": "Get a player to wear socks with sandals.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to wear socks with sandals."
+   },
+   "note": "impractical/obscure"
+  },
+  {
+   "id": "game13-443",
+   "Description": "Get a player to roll up their sleeves.",
+   "action": "keep",
+   "original": {
+    "Description": "Get a player to roll up their sleeves."
+   },
+   "note": ""
+  },
+  {
+   "id": "game13-444",
+   "Description": "Get a player to tuck in their shirt.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to tuck in their shirt."
+   },
+   "note": "clothing adjustment; awkward"
+  },
+  {
+   "id": "game13-445",
+   "Description": "Get a player to check their zipper.",
+   "action": "remove",
+   "original": {
+    "Description": "Get a player to check their zipper."
+   },
+   "note": "embarrassing (zipper)"
+  }
+ ]
+}
