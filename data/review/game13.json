@@ -2354,12 +2354,12 @@
   },
   {
    "id": "game13-262",
-   "Description": "Get a player to wipe something off your face.",
-   "action": "keep",
+   "Description": "Get a player to tell you that you have something on your face.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to wipe something off your face."
    },
-   "note": "Restored: touching allowed"
+   "note": "Restored: touching allowed; Debate: Wiping someone's face is close, intimate touching, beyond the handshake/high-five limit between genders in GAMES.md. The new version keeps the fake-smudge trick and does not repeat the 'food in teeth' card."
   },
   {
    "id": "game13-263",
@@ -2471,12 +2471,12 @@
   },
   {
    "id": "game13-275",
-   "Description": "Get a player to say 'Nazar lag gayi' (it caught the evil eye).",
+   "Description": "Get a player to say 'Nazar lag gayi' (the evil eye struck).",
    "action": "edit",
    "original": {
     "Description": "Get a player to say 'Nazar lag gayi' (Evil eye hit)."
    },
-   "note": "translation"
+   "note": "translation; Debate: Uses the challenger's version. It is a closer and more natural gloss than both the original and P2, and does not add 'someone's'."
   },
   {
    "id": "game13-276",
@@ -2678,12 +2678,12 @@
   },
   {
    "id": "game13-298",
-   "Description": "Get a player to straighten your hair.",
-   "action": "keep",
+   "Description": "Get a player to tell you your hair is messy.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to straighten your hair."
    },
-   "note": "Restored: touching allowed"
+   "note": "Restored: touching allowed; Debate: Avoids touching someone's hair, which is intimate, and the unclear word 'straighten'. It is the opposite of 'compliment your hair', so it is not a duplicate."
   },
   {
    "id": "game13-299",
@@ -2813,12 +2813,12 @@
   },
   {
    "id": "game13-313",
-   "Description": "Get a player to delete a photo.",
-   "action": "keep",
+   "Description": "Get a player to delete a photo from their phone.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to delete a photo."
    },
-   "note": ""
+   "note": "Debate: Small clarity fix."
   },
   {
    "id": "game13-314",
@@ -2840,12 +2840,12 @@
   },
   {
    "id": "game13-316",
-   "Description": "Get a player to show you their wallpaper.",
-   "action": "keep",
+   "Description": "Get a player to show you their phone wallpaper.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to show you their wallpaper."
    },
-   "note": ""
+   "note": "Debate: Makes it clear this is the phone wallpaper, not the room's."
   },
   {
    "id": "game13-317",
@@ -2867,12 +2867,12 @@
   },
   {
    "id": "game13-319",
-   "Description": "Get a player to send a blank message.",
-   "action": "keep",
+   "Description": "Get a player to send you a WhatsApp message with just one emoji.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to send a blank message."
    },
-   "note": ""
+   "note": "Debate: Messaging apps will not send an empty message, so the original cannot be done. The new mission is clear and doable."
   },
   {
    "id": "game13-320",
@@ -4805,6 +4805,54 @@
    "Description": "Get a player to agree that Pakistan will win the next cricket match.",
    "action": "add",
    "note": "New card (debate): Fits the 'agree that X' set with a local topic; names the sport (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to forward you a WhatsApp message.",
+   "action": "add",
+   "note": "New card (debate): A new phone mission that is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to rub their hands together.",
+   "action": "add",
+   "note": "New card (debate): A simple body action; different from 'rub their eyes'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to cross their arms.",
+   "action": "add",
+   "note": "New card (debate): A simple body action; different from 'stretch their arms', 'link arms' and 'cross their eyes'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to look out of the window.",
+   "action": "add",
+   "note": "New card (debate): A new, doable action; different from 'close a door/window'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Tauba tauba!'.",
+   "action": "add",
+   "note": "New card (debate): The deck only has the earlobe gesture. Getting someone to say the words is a separate desi phrase mission."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask 'Kaun aaya hai?' (Who's here?) after you pretend to hear the doorbell.",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's version with the standard Roman Urdu spelling 'aaya'. A familiar gathering moment."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their phone's screen time for today.",
+   "action": "add",
+   "note": "New card (debate): A harmless phone mission that is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to turn down the TV volume or switch it off.",
+   "action": "add",
+   "note": "New card (debate): A household action that is different from 'hand you the TV remote'."
   }
  ]
 }

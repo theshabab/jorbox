@@ -2482,12 +2482,12 @@
    "id": "game16-226",
    "Name": "What is the most annoying habit someone can have?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the most annoying habit someone can have?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Same as 36 (My biggest pet peeve is...); 236 and 241 cover the rest."
   },
   {
    "id": "game16-227",
@@ -2689,14 +2689,14 @@
   },
   {
    "id": "game16-245",
-   "Name": "What is your guilty pleasure?",
+   "Name": "What is your guilty-pleasure food or habit (late-night paratha, a third cup of chai)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is your guilty pleasure?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: The examples steer answers toward clean, family-friendly fun."
   },
   {
    "id": "game16-246",
@@ -2713,12 +2713,12 @@
    "id": "game16-247",
    "Name": "If you could learn the answer to one question about your future, what would the question be?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "If you could learn the answer to one question about your future, what would the question be?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of 512 (truth to one question) and 115 (know the future); it also brushes against fortune-telling."
   },
   {
    "id": "game16-248",
@@ -2757,12 +2757,12 @@
    "id": "game16-251",
    "Name": "What trends did you follow when you were younger?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What trends did you follow when you were younger?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 564 (craziest fashion trend you followed), 393 and 214."
   },
   {
    "id": "game16-252",
@@ -2790,12 +2790,12 @@
    "id": "game16-254",
    "Name": "What do you do to improve your mood when you are in a bad mood?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What do you do to improve your mood when you are in a bad mood?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 195 (What do you do to get rid of stress?)."
   },
   {
    "id": "game16-255",
@@ -2812,12 +2812,12 @@
    "id": "game16-256",
    "Name": "What are some things you want to accomplish before you die?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What are some things you want to accomplish before you die?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 113 (What's on the top of your bucket list?), which is still live."
   },
   {
    "id": "game16-257",
@@ -2865,14 +2865,14 @@
   },
   {
    "id": "game16-261",
-   "Name": "What’s the best pet name you can come up with for a specific type of pet?",
+   "Name": "If you had to look after the qurbani goat before Eid, what would you name it?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What’s the best pet name you can come up with for a specific type of pet?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: The original was awkward and overlapped 135; the local qurbani goat version is funnier."
   },
   {
    "id": "game16-262",
@@ -2931,36 +2931,36 @@
   },
   {
    "id": "game16-267",
-   "Name": "What are some strange beliefs that some people have?",
+   "Name": "What is the strangest superstition you have heard from an elder (e.g., an itchy palm means money is coming)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What are some strange beliefs that some people have?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: The vague 'strange beliefs' invites mocking people's faith; this keeps the idea as a light, familiar desi superstition prompt."
   },
   {
    "id": "game16-268",
-   "Name": "Who would be the worst person to be stuck in an elevator with?",
+   "Name": "Who would be the worst person to be stuck in a lift with during load shedding?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who would be the worst person to be stuck in an elevator with?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Uses the local word 'lift' and adds a recognisable Pakistani twist."
   },
   {
    "id": "game16-269",
    "Name": "What was the best birthday wish or gift you’ve ever received?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What was the best birthday wish or gift you’ve ever received?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 84 (best gift anyone's ever given you)."
   },
   {
    "id": "game16-270",
@@ -3010,12 +3010,12 @@
    "id": "game16-274",
    "Name": "What cartoons did you watch as a child?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What cartoons did you watch as a child?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: western/secular: TV/pop culture; 214 and 294 already cover childhood favourites."
   },
   {
    "id": "game16-275",
@@ -3329,12 +3329,12 @@
    "id": "game16-303",
    "Name": "What book has changed one of your long-held opinions?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What book has changed one of your long-held opinions?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 514 (a book that changed your perspective) and close to 300."
   },
   {
    "id": "game16-304",
@@ -3349,14 +3349,14 @@
   },
   {
    "id": "game16-305",
-   "Name": "What was the worst book you had to read for school?",
+   "Name": "Which school textbook did you find the most boring, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What was the worst book you had to read for school?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Pakistani schools assign textbooks, so this is easier to relate to."
   },
   {
    "id": "game16-306",
@@ -3373,12 +3373,12 @@
    "id": "game16-307",
    "Name": "Now that indie publishing has become easier, have books gotten better or worse?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Now that indie publishing has become easier, have books gotten better or worse?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Too obscure for the audience."
   },
   {
    "id": "game16-308",
@@ -3604,12 +3604,12 @@
    "id": "game16-328",
    "Name": "What are the best and worst things about the app store you use?",
    "Category": "Ice Breakers & Fun General",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What’re the best and worst things about the marketplace where you get your apps?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "grammar/clarity"
+   "note": "Debate: Dull and covered by 321, 323 and 335."
   },
   {
    "id": "game16-329",
@@ -3646,14 +3646,14 @@
   },
   {
    "id": "game16-332",
-   "Name": "Do you text more or call more? Why?",
+   "Name": "Voice notes, texts or calls: which do you prefer, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do you text more or call more? Why?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Adds voice notes, the very desi option."
   },
   {
    "id": "game16-333",
@@ -3670,12 +3670,12 @@
    "id": "game16-334",
    "Name": "What do you wish your phone could do?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What do you wish your phone could do?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 329 (mysterious app) and 97 (invent a gadget)."
   },
   {
    "id": "game16-335",
@@ -3723,14 +3723,14 @@
   },
   {
    "id": "game16-339",
-   "Name": "What was your first smartphone?",
+   "Name": "What was your first mobile phone? (Nokia 3310, anyone?)",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What was your first smartphone?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Broader and more nostalgic; works for all ages."
   },
   {
    "id": "game16-340",
@@ -3756,14 +3756,14 @@
   },
   {
    "id": "game16-342",
-   "Name": "Who are some of your favorite athletes?",
+   "Name": "Who is your favorite Pakistani cricketer or athlete of all time?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who are some of your favorite athletes?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Sets it apart from 344 and makes it local."
   },
   {
    "id": "game16-343",
@@ -3868,12 +3868,12 @@
    "id": "game16-352",
    "Name": "Which sport is the most exciting to watch?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which sport is the most exciting to watch?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Draws the same answers as 340 (What sports do you like to watch?)."
   },
   {
    "id": "game16-353",
@@ -3890,12 +3890,12 @@
    "id": "game16-354",
    "Name": "What’s the worst fast food restaurant?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What’s the worst fast food restaurant?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 357, and it amounts to brand-bashing."
   },
   {
    "id": "game16-355",
@@ -3945,12 +3945,12 @@
    "id": "game16-359",
    "Name": "If you opened a restaurant, what kind of food would you serve?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "If you opened a restaurant, what kind of food would you serve?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 630 (If you opened a dhaba, what would be on the menu?)."
   },
   {
    "id": "game16-360",
@@ -7463,6 +7463,62 @@
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
    "note": "New card (debate): New card: a warm childhood memory, different from 641 (what makes a good neighbour)"
+  },
+  {
+   "id": null,
+   "Name": "Which gully cricket rule from your childhood was the most unfair (one tip one hand, the bat owner can't be out)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): A nostalgic local sports question that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which sport do you think Pakistan could become world champions in next?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A new sports opinion question with a local frame."
+  },
+  {
+   "id": null,
+   "Name": "Which Urdu poet or writer would you most like to have chai with (Iqbal, Ghalib, Faiz)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Gives the book cluster a local angle; the deck has no poet question."
+  },
+  {
+   "id": null,
+   "Name": "What is the longest train or bus journey you have taken in Pakistan?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Pairs with 364 (plane trip) and invites travel stories; new."
+  },
+  {
+   "id": null,
+   "Name": "Which app helps you most with your deen (Quran, prayer times, Qibla finder)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): An app question with a worship angle the owner allows; new."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing a waiter or dhaba wala has ever said to you?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): A local restaurant story prompt; the challenger's amendment avoids joking about child workers ('chhotu')."
+  },
+  {
+   "id": null,
+   "Name": "What is your go-to order when you can't decide what to eat at a dhaba or restaurant?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A light restaurant question that is easy to answer; new."
+  },
+  {
+   "id": null,
+   "Name": "Which book would you gift to every teenager, and why?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A fresh book angle, different from 300 and 514."
   }
  ]
 }

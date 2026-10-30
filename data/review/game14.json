@@ -2557,14 +2557,14 @@
   },
   {
    "id": "game14-233",
-   "Description": "How likely are you to iron your clothes immediately after washing?",
+   "Description": "How likely are you to iron your clothes in a rush right before leaving?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to iron your clothes immediately after washing?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: More relatable than ironing straight after washing, and different from idx 233."
   },
   {
    "id": "game14-234",
@@ -2601,14 +2601,14 @@
   },
   {
    "id": "game14-237",
-   "Description": "How good are you at folding fitted sheets?",
+   "Description": "How good are you at putting a cover on a razai (quilt)?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How good are you at folding fitted sheets?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Replaces the Western fitted-sheet struggle with the local version."
   },
   {
    "id": "game14-238",
@@ -2887,14 +2887,14 @@
   },
   {
    "id": "game14-263",
-   "Description": "How good are you at writing poetry?",
+   "Description": "How good are you at writing poetry (shayari)?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How good are you at writing poetry?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: A small, natural Roman Urdu touch."
   },
   {
    "id": "game14-264",
@@ -3008,14 +3008,14 @@
   },
   {
    "id": "game14-274",
-   "Description": "How good are you at impressions?",
+   "Description": "How good are you at doing impressions of people?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How good are you at impressions?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Makes clear what 'impressions' means."
   },
   {
    "id": "game14-275",
@@ -3241,12 +3241,12 @@
    "id": "game14-295",
    "Description": "How many cups of tea do you drink in a day?",
    "Category": "Number",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How many cups of tea do you drink in a day?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Duplicate of idx 36 'How many cups of Chai do you drink in a typical day?'."
   },
   {
    "id": "game14-296",
@@ -3272,14 +3272,14 @@
   },
   {
    "id": "game14-298",
-   "Description": "How good are you at making latte art?",
+   "Description": "How good are you at making chai?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How good are you at making latte art?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Few players have tried latte art. Making chai is local, and no other card asks about this skill (idx 5 asks how much you love chai)."
   },
   {
    "id": "game14-299",
@@ -4885,6 +4885,69 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Memorable, harmless personal count; not in the deck"
+  },
+  {
+   "id": null,
+   "Description": "What is the most relatives that have come to the airport to see you off or welcome you back?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's version. It keeps the desi airport joke without assuming the player has flown."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to still be chasing your tailor for your Eid clothes on Chaand Raat?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's version asks about the player, not the tailor. Different from idx 230 (tailor visits)."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you had to thread your shalwar's nala back in with a safety pin?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A clean, very local clothing struggle that is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at chess?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Fits the board game cards. No chess card exists in the cards I could check."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to pack mithai or mangoes in your suitcase when flying?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): A desi packing habit, different from the existing packing cards (idx 254-256)."
+  },
+  {
+   "id": null,
+   "Description": "How many prayer mats (jai-namaz) are in your house?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A clean worship-related household count. Uses the challenger's more common spelling."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to quote a sher at the perfect moment in a conversation?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local flavour, and different from writing poetry (idx 262) and attending a mushaira (idx 218)."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to be the one taking the family photo instead of being in it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable, and different from the existing photo cards (31, 318-320)."
+  },
+  {
+   "id": null,
+   "Description": "How many times has a relative asked 'Pehchana mujhe?' when you had no idea who they were?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A classic family-gathering moment. Not a duplicate of idx 328 or the other relatives cards."
   }
  ]
 }
