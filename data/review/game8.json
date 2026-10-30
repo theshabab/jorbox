@@ -2788,7 +2788,7 @@
   {
    "id": "game8-215",
    "Name": "TOTAL NONSENSE <---> EXPERT",
-   "Description": "Write a piece of advice that is this convincing that you know what you’re talking about",
+   "Description": "Write a piece of advice that sounds this much like you know what you're talking about",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -2796,7 +2796,7 @@
     "Description": "Write a piece of advice that is this convincing that you know what you’re talking about",
     "Category": "Writing"
    },
-   "note": "removed profanity (BS)"
+   "note": "removed profanity (BS); Debate: Fix awkward grammar of the task"
   },
   {
    "id": "game8-216",
@@ -2840,15 +2840,15 @@
   {
    "id": "game8-219",
    "Name": "NO BIG DEAL <---> SO AWKWARD!",
-   "Description": "Write a text message that would be this embarrassing if sent to the wrong person",
+   "Description": "Write a text message that would be this embarrassing if sent to the family WhatsApp group by mistake",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NO BIG DEAL <---> SO AWKWARD!",
     "Description": "Write a text message that would be this embarrassing if sent to the wrong person",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Local frame; steers away from romantic 'wrong person' answers"
   },
   {
    "id": "game8-220",
@@ -2891,29 +2891,29 @@
   },
   {
    "id": "game8-223",
-   "Name": "VERY BADLY <---> GREAT RHYMING",
+   "Name": "NO RHYME <---> PERFECT RHYME",
    "Description": "Write the first line of a rishta profile that rhymes this well",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "VERY BADLY <---> GREAT RHYMING",
     "Description": "Write the first line of a rishta profile that rhymes this well",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: 'VERY BADLY' is an unclear scale end; clear opposites"
   },
   {
    "id": "game8-224",
-   "Name": "TERRIBLE <---> PERFECT",
+   "Name": "VERY NAUGHTY <---> PERFECTLY BEHAVED",
    "Description": "Make up a nickname for a dog that is this well behaved",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "TERRIBLE <---> PERFECT",
     "Description": "Make up a nickname for a dog that is this well behaved",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Scale now describes behaviour, matching the task"
   },
   {
    "id": "game8-225",
@@ -2982,7 +2982,7 @@
   },
   {
    "id": "game8-230",
-   "Name": "NO PEHLWAN <---> PRO PEHLWAN",
+   "Name": "NOT A PEHLWAN <---> TOTAL PEHLWAN",
    "Description": "Write a text message that is this likely to have been written by a pehlwan (wrestler)",
    "Category": "Writing",
    "action": "edit",
@@ -2991,20 +2991,20 @@
     "Description": "Write a text message that is this likely to have been written by a pro wrestler",
     "Category": "Writing"
    },
-   "note": "localised pro wrestler to pehlwan"
+   "note": "localised pro wrestler to pehlwan; Debate: Clearer scale ends"
   },
   {
    "id": "game8-231",
-   "Name": "BAD ADVICE <---> VERY USEFUL",
+   "Name": "USELESS <---> VERY USEFUL",
    "Description": "Write a piece of advice that would be this useful to an astronaut",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "BAD ADVICE <---> VERY USEFUL",
     "Description": "Write a piece of advice that would be this useful to an astronaut",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: 'BAD ADVICE' and 'VERY USEFUL' were not clear opposites"
   },
   {
    "id": "game8-232",
@@ -3074,28 +3074,28 @@
   {
    "id": "game8-237",
    "Name": "SILENT <---> SO LOUD",
-   "Description": "Make up a name for a cafe that is this loud",
+   "Description": "Make up a name for a chai dhaba that is this loud",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "SILENT <---> SO LOUD",
     "Description": "Make up a name for a cafe that is this loud",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Pakistani frame for a generic cafe"
   },
   {
    "id": "game8-238",
-   "Name": "RESTAURANT <---> FURNITURE",
+   "Name": "OBVIOUSLY FOOD <---> SOUNDS LIKE FURNITURE",
    "Description": "Make up a name for a restaurant that people are this likely to think is a furniture store",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "RESTAURANT <---> FURNITURE",
     "Description": "Make up a name for a restaurant that people are this likely to think is a furniture store",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: RESTAURANT/FURNITURE ends were unclear"
   },
   {
    "id": "game8-239",
@@ -3229,16 +3229,16 @@
   },
   {
    "id": "game8-249",
-   "Name": "BAD <---> VERY WELL-DRAWN",
+   "Name": "BADLY DRAWN <---> VERY WELL-DRAWN",
    "Description": "Draw a face, but make it exactly this well-drawn",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "BAD <---> VERY WELL-DRAWN",
     "Description": "Draw a face, but make it exactly this well-drawn",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Vague left end 'BAD' made the direct opposite"
   },
   {
    "id": "game8-250",
@@ -3531,13 +3531,13 @@
    "Name": "NOT LIKELY <---> VERY LIKELY",
    "Description": "Draw a clown that is this likely to squirt you with a flower",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "NOT LIKELY <---> VERY LIKELY",
     "Description": "Draw a clown that is this likely to squirt you with a flower",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Obscure Western circus gag; clown cards are overrepresented"
   },
   {
    "id": "game8-273",
@@ -3583,13 +3583,13 @@
    "Name": "10 YEARS OLD <---> 100 YEARS OLD",
    "Description": "Draw a clown that is this many years old",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "10 YEARS OLD <---> 100 YEARS OLD",
     "Description": "Draw a clown that is this many years old",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Redundant with face-age card 249 and other clown cards"
   },
   {
    "id": "game8-277",
@@ -3762,16 +3762,16 @@
   },
   {
    "id": "game8-290",
-   "Name": "NEVER EVER WINS <---> WINS A GAME",
-   "Description": "Draw a logo for a made-up sports team that is this likely to ever win a game",
+   "Name": "NEVER WINS <---> WINS EVERYTHING",
+   "Description": "Draw a logo for a made-up cricket team that wins this often",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NEVER EVER WINS <---> WINS A GAME",
     "Description": "Draw a logo for a made-up sports team that is this likely to ever win a game",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Opposite scale ends; local cricket frame; task matches scale (challenger amendment)"
   },
   {
    "id": "game8-291",
@@ -4152,8 +4152,8 @@
   },
   {
    "id": "game8-320",
-   "Name": "NOT KILLER <---> DEFINITELY KILLER",
-   "Description": "Draw a pet that is this likely to be named Killer",
+   "Name": "NOT A SHERU <---> DEFINITELY SHERU",
+   "Description": "Draw a pet that is this likely to be named Sheru",
    "Category": "Drawing",
    "action": "edit",
    "original": {
@@ -4161,7 +4161,7 @@
     "Description": "Draw a pet that is this likely to be named Killer",
     "Category": "Drawing"
    },
-   "note": "slang DEF spelled out"
+   "note": "slang DEF spelled out; Debate: Localize the 'Killer' pet-name joke with the common desi pet name, avoiding the Jungle Book reference (challenger amendment)"
   },
   {
    "id": "game8-321",
@@ -4204,8 +4204,8 @@
   },
   {
    "id": "game8-324",
-   "Name": "NOT LIKELY <---> TOTAL BOOKWORM",
-   "Description": "Draw a backpack that is this likely to belong to a bookworm",
+   "Name": "NOT A BOOKWORM <---> TOTAL BOOKWORM",
+   "Description": "Draw a school bag that is this likely to belong to a bookworm",
    "Category": "Drawing",
    "action": "edit",
    "original": {
@@ -4213,7 +4213,7 @@
     "Description": "Draw a tattoo that is this likely to be on a youth scholar",
     "Category": "Drawing"
    },
-   "note": "broken tattoo/youth scholar card rewritten"
+   "note": "broken tattoo/youth scholar card rewritten; Debate: Clear opposite ends; local wording"
   },
   {
    "id": "game8-325",
@@ -8966,6 +8966,62 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Mild family-dynamics humour; no phupho card exists."
+  },
+  {
+   "id": null,
+   "Name": "INNOCENT <---> GUILTY",
+   "Description": "Draw a cat that is this likely to have stolen the boti from the kitchen",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New local animal drawing card"
+  },
+  {
+   "id": null,
+   "Name": "NO SCREAM <---> LOUDEST SCREAM",
+   "Description": "Draw a cockroach that would make Ammi scream this loudly",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable desi moment; scale measures the scream (challenger amendment)"
+  },
+  {
+   "id": null,
+   "Name": "KEEPS QUIET <---> TELLS EVERYONE",
+   "Description": "Draw a parrot that is this likely to repeat family gossip in front of guests",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fits bird theme; local family humour"
+  },
+  {
+   "id": null,
+   "Name": "MILDLY ANNOYED <---> FURIOUS",
+   "Description": "Write a text message from Abbu who is this angry about the electricity bill",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable local text-message card"
+  },
+  {
+   "id": null,
+   "Name": "KEEPS SECRETS <---> TOTAL CHUGHAL KHOR",
+   "Description": "Make up a nickname for a cousin who is this likely to tell on everyone",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Nickname theme with a desi twist"
+  },
+  {
+   "id": null,
+   "Name": "FULL SIGNAL <---> NO SIGNAL",
+   "Description": "Draw a logo for a made-up mobile network that is this likely to lose signal",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fits made-up logo theme; local and relatable"
+  },
+  {
+   "id": null,
+   "Name": "FOCUSED <---> TOTALLY DISTRACTED",
+   "Description": "Draw a haircut given by a barber who was this distracted by the cricket match on TV",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Distinct haircut card with local twist"
   }
  ]
 }

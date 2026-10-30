@@ -2757,12 +2757,12 @@
    "id": "game11-251",
    "Name": "Problem",
    "Description": "I want to instantly clean my _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I want to instantly clean my _____!"
    },
-   "note": ""
+   "note": "Debate: Same meaning as 'I'm constantly cleaning my _____!' and 'I need a self-cleaning _____!' (idx 273), both live"
   },
   {
    "id": "game11-252",
@@ -3065,12 +3065,12 @@
    "id": "game11-279",
    "Name": "Problem",
    "Description": "I wish I could speed up _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could speed up _____!"
    },
-   "note": ""
+   "note": "Debate: Same prompt as 'I wish I could fast forward through _____!' (idx 317), which is more vivid"
   },
   {
    "id": "game11-280",
@@ -3307,12 +3307,12 @@
    "id": "game11-301",
    "Name": "Problem",
    "Description": "I need a portable _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I need a portable _____!"
    },
-   "note": ""
+   "note": "Debate: Duplicates 'I need a pocket-sized _____!', 'I wish I could carry _____ in my pocket!' (244) and 'I want to always have _____ with me!' (136)"
   },
   {
    "id": "game11-302",
@@ -6204,6 +6204,76 @@
    "Description": "Our gali cricket match always gets stopped because of _____!",
    "action": "add",
    "note": "New card (debate): Street-cricket problem about what interrupts the match. It is distinct from 'The cricket ball always lands in _____!'."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My abbu turns off the AC whenever I _____!",
+   "action": "add",
+   "note": "New card (debate): New desi household problem; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My roti always comes out shaped like _____!",
+   "action": "add",
+   "note": "New card (debate): Well-known desi kitchen joke; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The mechanic says my car needs a new _____ every time!",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani problem; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Petrol prices go up every time I _____!",
+   "action": "add",
+   "note": "New card (debate): Topical local problem; politics allowed; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My chachu always cheats at _____!",
+   "action": "add",
+   "note": "New card (debate): Family game-night problem; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a way to carry _____ on a motorcycle!",
+   "action": "add",
+   "note": "New card (debate): Classic desi motorcycle-loading problem; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every trip to the bazaar, I come back with too many _____!",
+   "action": "add",
+   "note": "New card (debate): Local shopping problem; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My nephews break my _____ every time they visit!",
+   "action": "add",
+   "note": "New card (debate): Family-visit problem; distinct from 268 (neighbor's kid stealing)"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I keep dropping my phone on my face while watching _____ in bed!",
+   "action": "add",
+   "note": "New card (debate): Phone-in-bed problem; challenger's noun-blank wording allows more varied fills"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My ammi can hear me _____ from three rooms away!",
+   "action": "add",
+   "note": "New card (debate): Affectionate desi-parent problem; distinct from 224 (scolding)"
   }
  ]
 }

@@ -200,24 +200,24 @@ Cat,Meowing house pet,Animals
 Cow,Gives milk; says moo,Animals
 Buffalo,Black milk animal; bhains,Animals
 Goat,Bakra; common Eid sacrifice,Animals
-Sheep,Woolly animal; gives wool,Animals
+Sheep,"Bheyr; woolly animal, dumba for Eid",Animals
 Camel,Ship of the desert,Animals
 Donkey,Stubborn animal that carries loads,Animals
 Monkey,Banana-eating tree climber,Animals
 Bear,Big furry animal that hibernates,Animals
-Deer,Graceful animal with antlers,Animals
+Deer,Hiran; graceful animal with antlers,Animals
 Rabbit,Long-eared hopping animal,Animals
 Fox,Cunning wild animal with bushy tail,Animals
 Wolf,Wild animal that howls in packs,Animals
 Snake,Legless reptile that slithers,Animals
-Crocodile,Large river reptile with strong jaws,Animals
+Crocodile,Magarmach; huge reptile with strong jaws,Animals
 Turtle,Slow reptile with a shell,Animals
 Frog,Croaking amphibian that jumps,Animals
-Mouse,Small rodent that loves cheese,Animals
-Squirrel,Bushy-tailed tree climber,Animals
+Mouse,Choha; small rodent that cats chase,Animals
+Squirrel,Gilehri; bushy-tailed tree climber,Animals
 Eagle,Uqaab; large bird of prey,Birds
 Sparrow,Small brown chirping bird; chiriya,Birds
-Pigeon,Kabootar; common in city squares,Birds
+Pigeon,Kabootar; kept and flown from rooftops,Birds
 Parrot,Green bird that can talk,Birds
 Crow,Black bird that caws,Birds
 Peacock,Bird with colorful fanned tail,Birds
@@ -225,7 +225,7 @@ Hen,Female bird that lays eggs; murghi,Birds
 Rooster,Male bird that crows at dawn,Birds
 Duck,Quacking water bird,Birds
 Swan,White long-necked water bird,Birds
-Owl,Night bird that hoots,Birds
+Owl,Ullu; night bird that hoots,Birds
 Hawk,Sharp-eyed hunting bird; baaz,Birds
 Kite,Cheel; circles over cities,Birds
 Ostrich,Largest bird; cannot fly,Birds
@@ -234,7 +234,7 @@ Flamingo,Pink bird standing on one leg,Birds
 Woodpecker,Bird that drills tree trunks,Birds
 Kingfisher,Bright blue bird that dives for fish,Birds
 Dove,"White bird, symbol of peace",Birds
-Myna,Mimicking brown bird with yellow eyes,Birds
+Myna,Brown mimic bird; yellow beak and eye-patch,Birds
 Chakor,National bird of Pakistan,Birds
 Partridge,Teetar; ground game bird,Birds
 Cricket,Sport of Pakistan's 1992 World Cup win,Sports
@@ -250,14 +250,14 @@ Polo,Played on horseback with mallets,Sports
 Golf,Hitting a small ball into holes,Sports
 Swimming,Moving through water in a pool,Sports
 Running,Racing on foot,Sports
-Cycling,Racing on two pedaled wheels,Sports
+Cycling,Racing on a pedalled two-wheeler,Sports
 Volleyball,Hitting a ball over a high net,Sports
 Basketball,Throwing a ball through a hoop,Sports
 Snooker,Cue sport with red and colored balls,Sports
 Table Tennis,Ping pong,Sports
 Archery,Bow and arrow sport,Sports
 Shooting,Aiming a rifle at a target,Sports
-Skiing,Sliding down snowy slopes,Sports
+Skiing,"Sliding down snowy slopes, e.g. Malam Jabba",Sports
 Skating,Gliding on ice or wheels,Sports
 Karate,Japanese martial art of strikes,Sports
 Judo,Japanese martial art of throws,Sports
@@ -275,18 +275,18 @@ Hiran Minar,Jahangir's tower for his pet antelope,Historical Places
 Katas Raj,"Ancient temples with pond, Chakwal",Historical Places
 Derawar Fort,Huge bastioned stronghold in Cholistan Desert,Historical Places
 Ranikot Fort,Great Wall of Sindh,Historical Places
-Baltit Fort,"Old Mir's castle above Karimabad, Hunza",Historical Places
+Baltit Fort,Hunza Mirs' old castle above Karimabad,Historical Places
 Altit Fort,"Hunza's oldest castle, about 900 years old",Historical Places
 Noor Mahal,White palace in Bahawalpur,Historical Places
 Wazir Khan Mosque,"Tiled Mughal masjid near Delhi Gate, Lahore",Historical Places
 Tomb of Jahangir,Mughal emperor's mausoleum in Shahdara,Historical Places
 Mazar-e-Quaid,Jinnah's white marble mausoleum in Karachi,Historical Places
-Ziarat Residency,Quaid's last residence in Balochistan,Historical Places
+Ziarat Residency,"Balochistan lodge of Quaid's final summer, 1948",Historical Places
 Khyber Pass,Mountain route linking Pakistan and Afghanistan,Historical Places
 Frere Hall,"Colonial-era building with library, Karachi",Historical Places
 Mohatta Palace,"Pink stone mansion museum in Clifton, Karachi",Historical Places
 Doctor,Treats patients and prescribes medicine,Occupations
-Teacher,Teaches students in class,Occupations
+Teacher,Ustad; gives lessons and checks homework,Occupations
 Pilot,Flies aeroplanes,Occupations
 Soldier,Serves in the army,Occupations
 Police,Enforces law; catches thieves,Occupations
@@ -294,10 +294,10 @@ Lawyer,Argues cases in court,Occupations
 Judge,Decides cases in court,Occupations
 Chef,Professional cook in a restaurant,Occupations
 Farmer,Grows crops in fields,Occupations
-Driver,Drives cars or buses for work,Occupations
+Driver,Paid to steer the family car or a bus,Occupations
 Tailor,Stitches clothes; darzi,Occupations
 Barber,Cuts hair and shaves beards; nai,Occupations
-Carpenter,Makes furniture from wood,Occupations
+Carpenter,Barhai/tarkhan; makes furniture from wood,Occupations
 Plumber,Fixes pipes and taps,Occupations
 Electrician,"Fixes wiring, switches and fans",Occupations
 Mechanic,Repairs car and bike engines,Occupations

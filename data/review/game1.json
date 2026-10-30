@@ -2684,7 +2684,7 @@
   {
    "id": "game1-207",
    "Name": "Sheep",
-   "Description": "Woolly animal; gives wool",
+   "Description": "Bheyr; woolly animal, dumba for Eid",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2692,7 +2692,7 @@
     "Description": "A farm animal",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint repeated itself; adds the local name and the Eid link."
   },
   {
    "id": "game1-208",
@@ -2749,7 +2749,7 @@
   {
    "id": "game1-212",
    "Name": "Deer",
-   "Description": "Graceful animal with antlers",
+   "Description": "Hiran; graceful animal with antlers",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2757,7 +2757,7 @@
     "Description": "A graceful animal",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the common Urdu name."
   },
   {
    "id": "game1-213",
@@ -2814,7 +2814,7 @@
   {
    "id": "game1-217",
    "Name": "Crocodile",
-   "Description": "Large river reptile with strong jaws",
+   "Description": "Magarmach; huge reptile with strong jaws",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2822,7 +2822,7 @@
     "Description": "A large reptile",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the local name."
   },
   {
    "id": "game1-218",
@@ -2853,7 +2853,7 @@
   {
    "id": "game1-220",
    "Name": "Mouse",
-   "Description": "Small rodent that loves cheese",
+   "Description": "Choha; small rodent that cats chase",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2861,7 +2861,7 @@
     "Description": "A small rodent",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Local name instead of the cartoon cheese cliche."
   },
   {
    "id": "game1-221",
@@ -2879,7 +2879,7 @@
   {
    "id": "game1-222",
    "Name": "Squirrel",
-   "Description": "Bushy-tailed tree climber",
+   "Description": "Gilehri; bushy-tailed tree climber",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2887,7 +2887,7 @@
     "Description": "A tree rodent",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Local name sets it apart from Monkey's hint."
   },
   {
    "id": "game1-223",
@@ -2918,7 +2918,7 @@
   {
    "id": "game1-225",
    "Name": "Pigeon",
-   "Description": "Kabootar; common in city squares",
+   "Description": "Kabootar; kept and flown from rooftops",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2926,7 +2926,7 @@
     "Description": "A common bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger amendment: local kabootar-baazi image without tying it to Lahore."
   },
   {
    "id": "game1-226",
@@ -3022,7 +3022,7 @@
   {
    "id": "game1-233",
    "Name": "Owl",
-   "Description": "Night bird that hoots",
+   "Description": "Ullu; night bird that hoots",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3030,7 +3030,7 @@
     "Description": "A nocturnal bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the well-known local name."
   },
   {
    "id": "game1-234",
@@ -3139,7 +3139,7 @@
   {
    "id": "game1-242",
    "Name": "Myna",
-   "Description": "Mimicking brown bird with yellow eyes",
+   "Description": "Brown mimic bird; yellow beak and eye-patch",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3147,7 +3147,7 @@
     "Description": "A common bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fact fix: the bird has a yellow bill and yellow eye-patch, not yellow eyes."
   },
   {
    "id": "game1-243",
@@ -3347,7 +3347,7 @@
   {
    "id": "game1-258",
    "Name": "Cycling",
-   "Description": "Racing on two pedaled wheels",
+   "Description": "Racing on a pedalled two-wheeler",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3355,7 +3355,7 @@
     "Description": "A bike sport",
     "Category": "Sports"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes awkward wording."
   },
   {
    "id": "game1-259",
@@ -3438,7 +3438,7 @@
   {
    "id": "game1-265",
    "Name": "Skiing",
-   "Description": "Sliding down snowy slopes",
+   "Description": "Sliding down snowy slopes, e.g. Malam Jabba",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3446,7 +3446,7 @@
     "Description": "A winter sport",
     "Category": "Sports"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds a well-known Pakistani ski resort."
   },
   {
    "id": "game1-266",
@@ -3672,7 +3672,7 @@
   {
    "id": "game1-283",
    "Name": "Baltit Fort",
-   "Description": "Old Mir's castle above Karimabad, Hunza",
+   "Description": "Hunza Mirs' old castle above Karimabad",
    "Category": "Historical Places",
    "action": "edit",
    "original": {
@@ -3680,7 +3680,7 @@
     "Description": "A mountain fort",
     "Category": "Historical Places"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes the awkward 'Old Mir's' wording."
   },
   {
    "id": "game1-284",
@@ -3750,7 +3750,7 @@
   {
    "id": "game1-289",
    "Name": "Ziarat Residency",
-   "Description": "Quaid's last residence in Balochistan",
+   "Description": "Balochistan lodge of Quaid's final summer, 1948",
    "Category": "Historical Places",
    "action": "edit",
    "original": {
@@ -3758,7 +3758,7 @@
     "Description": "A historic building",
     "Category": "Historical Places"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger amendment: accurate (he died in Karachi) and keeps the location, so the hint still points to the place."
   },
   {
    "id": "game1-290",
@@ -3841,7 +3841,7 @@
   {
    "id": "game1-296",
    "Name": "Teacher",
-   "Description": "Teaches students in class",
+   "Description": "Ustad; gives lessons and checks homework",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3849,7 +3849,7 @@
     "Description": "An education professional",
     "Category": "Occupations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained the word itself."
   },
   {
    "id": "game1-297",
@@ -3945,7 +3945,7 @@
   {
    "id": "game1-304",
    "Name": "Driver",
-   "Description": "Drives cars or buses for work",
+   "Description": "Paid to steer the family car or a bus",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3953,7 +3953,7 @@
     "Description": "A transportation worker",
     "Category": "Occupations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained the word itself."
   },
   {
    "id": "game1-305",
@@ -3984,7 +3984,7 @@
   {
    "id": "game1-307",
    "Name": "Carpenter",
-   "Description": "Makes furniture from wood",
+   "Description": "Barhai/tarkhan; makes furniture from wood",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3992,7 +3992,7 @@
     "Description": "A wood worker",
     "Category": "Occupations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger amendment: gives both the Urdu and the Punjabi local names."
   },
   {
    "id": "game1-308",
