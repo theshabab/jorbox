@@ -53,3 +53,9 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 
 - Removed 37, mostly duplicate Problem cards, plus Hippie, Rapper, Lottery Winner, Secret Admirer, Cupid, Missionary, Amputee, Tailgater, Surfer and Little Red Riding Hood. Swapped Western customers for local ones: Quarterback → Cricket Captain, Pro Wrestler → Pehlwan, Cowboy → Shepherd, Bouncer → Security Guard, Dumpster Diver → Kabari Wala, Fortune Teller → Weather Forecaster, and so on. Fixed a broken word ("I've Humsafar three jobs" → "lost").
 - Kept fantasy customers (Ghost, Witch, Wizard, Vampire, Zombie, Pharaoh) and Executioner. Should witches and wizards go because of sihr?
+
+## Nouns: done (959 → 850)
+
+- Removed 109: crude words (Bra, Butt, Fart, Zit, Underwear, Puke), music, dance and party words (Concert, Flute, Trumpet, Tambourine, Boom Box, Party, Pinata), alcohol (Wine Glass, Alcohol), Christmas items, Bikini, Tattoo, Angel, Magic, Wand, Romance, Love, Murder, Idiot, brand names, and plural or near duplicates (Keys/Key, Telephone/Phone, Trash/Garbage). Pakistani wording: Baseball Bat → Cricket Bat, Soccer Ball → Football, Q-Tips → Cotton Buds.
+- Abstract nouns (Courage, Envy, Hope, Peace) are kept. Tell me if the deck should be concrete nouns only.
+- Kept, please confirm: Swimsuit, Pregnancy, Potty, Gun, Grenade, Bomb, Bullet, Coffin, Corpse, Ghost, Fairy, Heaven, Hell, Shrine, Statue, Sculpture, Skirt, Dice, Lighter, Matches, Microphone, Cowboy Hat, Rodeo, Tuxedo, Circus.

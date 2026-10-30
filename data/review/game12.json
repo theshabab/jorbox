@@ -1,0 +1,8638 @@
+{
+ "game": "game12",
+ "name": "Nouns",
+ "baseCommit": "3f43360",
+ "cards": [
+  {
+   "id": "game12-1",
+   "Name": "Acid",
+   "action": "keep",
+   "original": {
+    "Name": "Acid"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-2",
+   "Name": "Adventure",
+   "action": "remove",
+   "original": {
+    "Name": "Adventure"
+   },
+   "note": "abstract, not a concrete noun"
+  },
+  {
+   "id": "game12-3",
+   "Name": "Air",
+   "action": "keep",
+   "original": {
+    "Name": "Air"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-4",
+   "Name": "Alarm",
+   "action": "keep",
+   "original": {
+    "Name": "Alarm"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-5",
+   "Name": "Soda",
+   "action": "keep",
+   "original": {
+    "Name": "Soda"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-6",
+   "Name": "Alert",
+   "action": "remove",
+   "original": {
+    "Name": "Alert"
+   },
+   "note": "not a concrete noun; overlaps Alarm"
+  },
+  {
+   "id": "game12-7",
+   "Name": "Alien",
+   "action": "keep",
+   "original": {
+    "Name": "Alien"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-8",
+   "Name": "Anchor",
+   "action": "keep",
+   "original": {
+    "Name": "Anchor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-9",
+   "Name": "Angel",
+   "action": "remove",
+   "original": {
+    "Name": "Angel"
+   },
+   "note": "Islamic: angels should not be depicted/drawn"
+  },
+  {
+   "id": "game12-10",
+   "Name": "Anger",
+   "action": "keep",
+   "original": {
+    "Name": "Anger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-11",
+   "Name": "Animal",
+   "action": "keep",
+   "original": {
+    "Name": "Animal"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-12",
+   "Name": "Antenna",
+   "action": "keep",
+   "original": {
+    "Name": "Antenna"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-13",
+   "Name": "Armor",
+   "action": "keep",
+   "original": {
+    "Name": "Armor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-14",
+   "Name": "Art",
+   "action": "keep",
+   "original": {
+    "Name": "Art"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-15",
+   "Name": "Avalanche",
+   "action": "keep",
+   "original": {
+    "Name": "Avalanche"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-16",
+   "Name": "Award",
+   "action": "keep",
+   "original": {
+    "Name": "Award"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-17",
+   "Name": "Axe",
+   "action": "keep",
+   "original": {
+    "Name": "Axe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-18",
+   "Name": "Baby",
+   "action": "keep",
+   "original": {
+    "Name": "Baby"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-19",
+   "Name": "Crispy Chicken",
+   "action": "remove",
+   "original": {
+    "Name": "Crispy Chicken"
+   },
+   "note": "not a single noun; duplicate of Chicken (game12-112)"
+  },
+  {
+   "id": "game12-20",
+   "Name": "Bacteria",
+   "action": "keep",
+   "original": {
+    "Name": "Bacteria"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-21",
+   "Name": "Bag",
+   "action": "keep",
+   "original": {
+    "Name": "Bag"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-22",
+   "Name": "Bait",
+   "action": "keep",
+   "original": {
+    "Name": "Bait"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-23",
+   "Name": "Ball",
+   "action": "keep",
+   "original": {
+    "Name": "Ball"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-24",
+   "Name": "Balloon",
+   "action": "keep",
+   "original": {
+    "Name": "Balloon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-25",
+   "Name": "Banana",
+   "action": "keep",
+   "original": {
+    "Name": "Banana"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-26",
+   "Name": "Bandana",
+   "action": "keep",
+   "original": {
+    "Name": "Bandana"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-27",
+   "Name": "Banner",
+   "action": "keep",
+   "original": {
+    "Name": "Banner"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-28",
+   "Name": "Cafe",
+   "action": "keep",
+   "original": {
+    "Name": "Cafe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-29",
+   "Name": "Barricade",
+   "action": "keep",
+   "original": {
+    "Name": "Barricade"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-30",
+   "Name": "Basket",
+   "action": "keep",
+   "original": {
+    "Name": "Basket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-31",
+   "Name": "Bath",
+   "action": "keep",
+   "original": {
+    "Name": "Bath"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-32",
+   "Name": "Battle",
+   "action": "keep",
+   "original": {
+    "Name": "Battle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-33",
+   "Name": "Bazooka",
+   "action": "keep",
+   "original": {
+    "Name": "Bazooka"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-34",
+   "Name": "Beach",
+   "action": "keep",
+   "original": {
+    "Name": "Beach"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-35",
+   "Name": "Beads",
+   "action": "keep",
+   "original": {
+    "Name": "Beads"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-36",
+   "Name": "Beard",
+   "action": "keep",
+   "original": {
+    "Name": "Beard"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-37",
+   "Name": "Bed",
+   "action": "keep",
+   "original": {
+    "Name": "Bed"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-38",
+   "Name": "Bell",
+   "action": "keep",
+   "original": {
+    "Name": "Bell"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-39",
+   "Name": "Belly",
+   "action": "keep",
+   "original": {
+    "Name": "Belly"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-40",
+   "Name": "Belt",
+   "action": "keep",
+   "original": {
+    "Name": "Belt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-41",
+   "Name": "Berry",
+   "action": "keep",
+   "original": {
+    "Name": "Berry"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-42",
+   "Name": "Bib",
+   "action": "keep",
+   "original": {
+    "Name": "Bib"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-43",
+   "Name": "Bicycle",
+   "action": "keep",
+   "original": {
+    "Name": "Bicycle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-44",
+   "Name": "Swimsuit",
+   "action": "keep",
+   "original": {
+    "Name": "Swimsuit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-45",
+   "Name": "Biscuit",
+   "action": "keep",
+   "original": {
+    "Name": "Biscuit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-46",
+   "Name": "Bladder",
+   "action": "keep",
+   "original": {
+    "Name": "Bladder"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-47",
+   "Name": "Blanket",
+   "action": "keep",
+   "original": {
+    "Name": "Blanket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-48",
+   "Name": "Blender",
+   "action": "keep",
+   "original": {
+    "Name": "Blender"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-49",
+   "Name": "Blimp",
+   "action": "keep",
+   "original": {
+    "Name": "Blimp"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-50",
+   "Name": "Blizzard",
+   "action": "keep",
+   "original": {
+    "Name": "Blizzard"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-51",
+   "Name": "Blood",
+   "action": "keep",
+   "original": {
+    "Name": "Blood"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-52",
+   "Name": "Board",
+   "action": "keep",
+   "original": {
+    "Name": "Board"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-53",
+   "Name": "Boat",
+   "action": "keep",
+   "original": {
+    "Name": "Boat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-54",
+   "Name": "Body",
+   "action": "keep",
+   "original": {
+    "Name": "Body"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-55",
+   "Name": "Bomb",
+   "action": "keep",
+   "original": {
+    "Name": "Bomb"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-56",
+   "Name": "Bone",
+   "action": "keep",
+   "original": {
+    "Name": "Bone"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-57",
+   "Name": "Bonfire",
+   "action": "keep",
+   "original": {
+    "Name": "Bonfire"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-58",
+   "Name": "Booger",
+   "action": "keep",
+   "original": {
+    "Name": "Booger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-59",
+   "Name": "Book",
+   "action": "keep",
+   "original": {
+    "Name": "Book"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-60",
+   "Name": "Boomerang",
+   "action": "keep",
+   "original": {
+    "Name": "Boomerang"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-61",
+   "Name": "Boots",
+   "action": "keep",
+   "original": {
+    "Name": "Boots"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-62",
+   "Name": "Bottle",
+   "action": "keep",
+   "original": {
+    "Name": "Bottle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-63",
+   "Name": "Bowl",
+   "action": "keep",
+   "original": {
+    "Name": "Bowl"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-64",
+   "Name": "Box",
+   "action": "keep",
+   "original": {
+    "Name": "Box"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-65",
+   "Name": "Boy",
+   "action": "keep",
+   "original": {
+    "Name": "Boy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-66",
+   "Name": "Bra",
+   "action": "remove",
+   "original": {
+    "Name": "Bra"
+   },
+   "note": "inappropriate for family play"
+  },
+  {
+   "id": "game12-67",
+   "Name": "Bracelet",
+   "action": "keep",
+   "original": {
+    "Name": "Bracelet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-68",
+   "Name": "Brain",
+   "action": "keep",
+   "original": {
+    "Name": "Brain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-69",
+   "Name": "Brick",
+   "action": "keep",
+   "original": {
+    "Name": "Brick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-70",
+   "Name": "Bridge",
+   "action": "keep",
+   "original": {
+    "Name": "Bridge"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-71",
+   "Name": "Broom",
+   "action": "keep",
+   "original": {
+    "Name": "Broom"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-72",
+   "Name": "Brush",
+   "action": "keep",
+   "original": {
+    "Name": "Brush"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-73",
+   "Name": "Bubble",
+   "action": "keep",
+   "original": {
+    "Name": "Bubble"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-74",
+   "Name": "Bucket",
+   "action": "keep",
+   "original": {
+    "Name": "Bucket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-75",
+   "Name": "Buckle",
+   "action": "keep",
+   "original": {
+    "Name": "Buckle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-76",
+   "Name": "Buddy",
+   "action": "remove",
+   "original": {
+    "Name": "Buddy"
+   },
+   "note": "duplicate meaning of Friend (game12-234)"
+  },
+  {
+   "id": "game12-77",
+   "Name": "Bullet",
+   "action": "keep",
+   "original": {
+    "Name": "Bullet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-78",
+   "Name": "Bunny",
+   "action": "keep",
+   "original": {
+    "Name": "Bunny"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-79",
+   "Name": "Burp",
+   "action": "keep",
+   "original": {
+    "Name": "Burp"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-80",
+   "Name": "Bus",
+   "action": "keep",
+   "original": {
+    "Name": "Bus"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-81",
+   "Name": "Bush",
+   "action": "keep",
+   "original": {
+    "Name": "Bush"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-82",
+   "Name": "Butt",
+   "action": "remove",
+   "original": {
+    "Name": "Butt"
+   },
+   "note": "crude"
+  },
+  {
+   "id": "game12-83",
+   "Name": "Butter",
+   "action": "keep",
+   "original": {
+    "Name": "Butter"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-84",
+   "Name": "Butterfly",
+   "action": "keep",
+   "original": {
+    "Name": "Butterfly"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-85",
+   "Name": "Button",
+   "action": "keep",
+   "original": {
+    "Name": "Button"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-86",
+   "Name": "Buzzer",
+   "action": "keep",
+   "original": {
+    "Name": "Buzzer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-87",
+   "Name": "Cactus",
+   "action": "keep",
+   "original": {
+    "Name": "Cactus"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-88",
+   "Name": "Caffeine",
+   "action": "edit",
+   "original": {
+    "Name": "Caffine"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-89",
+   "Name": "Cage",
+   "action": "keep",
+   "original": {
+    "Name": "Cage"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-90",
+   "Name": "Camera",
+   "action": "keep",
+   "original": {
+    "Name": "Camera"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-91",
+   "Name": "Candle",
+   "action": "keep",
+   "original": {
+    "Name": "Candle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-92",
+   "Name": "Candy",
+   "action": "keep",
+   "original": {
+    "Name": "Candy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-93",
+   "Name": "Cane",
+   "action": "keep",
+   "original": {
+    "Name": "Cane"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-94",
+   "Name": "Cannon",
+   "action": "keep",
+   "original": {
+    "Name": "Cannon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-95",
+   "Name": "Canoe",
+   "action": "keep",
+   "original": {
+    "Name": "Canoe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-96",
+   "Name": "Canteen",
+   "action": "keep",
+   "original": {
+    "Name": "Canteen"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-97",
+   "Name": "Cap",
+   "action": "keep",
+   "original": {
+    "Name": "Cap"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-98",
+   "Name": "Cape",
+   "action": "keep",
+   "original": {
+    "Name": "Cape"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-99",
+   "Name": "Car",
+   "action": "keep",
+   "original": {
+    "Name": "Car"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-100",
+   "Name": "Card",
+   "action": "keep",
+   "original": {
+    "Name": "Card"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-101",
+   "Name": "Carpet",
+   "action": "keep",
+   "original": {
+    "Name": "Carpet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-102",
+   "Name": "Carrot",
+   "action": "keep",
+   "original": {
+    "Name": "Carrot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-103",
+   "Name": "Suitcase",
+   "action": "edit",
+   "original": {
+    "Name": "Case"
+   },
+   "note": "clarified vague word"
+  },
+  {
+   "id": "game12-104",
+   "Name": "Catapult",
+   "action": "keep",
+   "original": {
+    "Name": "Catapult"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-105",
+   "Name": "Cave",
+   "action": "keep",
+   "original": {
+    "Name": "Cave"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-106",
+   "Name": "Chain",
+   "action": "keep",
+   "original": {
+    "Name": "Chain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-107",
+   "Name": "Chair",
+   "action": "keep",
+   "original": {
+    "Name": "Chair"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-108",
+   "Name": "Chalk",
+   "action": "keep",
+   "original": {
+    "Name": "Chalk"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-109",
+   "Name": "Charm",
+   "action": "remove",
+   "original": {
+    "Name": "Charm"
+   },
+   "note": "ambiguous; amulet/charm conflicts with Islamic content"
+  },
+  {
+   "id": "game12-110",
+   "Name": "Cheese",
+   "action": "keep",
+   "original": {
+    "Name": "Cheese"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-111",
+   "Name": "Chest",
+   "action": "keep",
+   "original": {
+    "Name": "Chest"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-112",
+   "Name": "Chicken",
+   "action": "keep",
+   "original": {
+    "Name": "Chicken"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-113",
+   "Name": "Chili",
+   "action": "keep",
+   "original": {
+    "Name": "Chili"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-114",
+   "Name": "Chip",
+   "action": "keep",
+   "original": {
+    "Name": "Chip"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-115",
+   "Name": "Chocolate",
+   "action": "keep",
+   "original": {
+    "Name": "Chocolate"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-116",
+   "Name": "Circus",
+   "action": "keep",
+   "original": {
+    "Name": "Circus"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-117",
+   "Name": "Clamp",
+   "action": "keep",
+   "original": {
+    "Name": "Clamp"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-118",
+   "Name": "Claw",
+   "action": "keep",
+   "original": {
+    "Name": "Claw"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-119",
+   "Name": "Cliff",
+   "action": "keep",
+   "original": {
+    "Name": "Cliff"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-120",
+   "Name": "Cloak",
+   "action": "keep",
+   "original": {
+    "Name": "Cloak"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-121",
+   "Name": "Clock",
+   "action": "keep",
+   "original": {
+    "Name": "Clock"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-122",
+   "Name": "Closet",
+   "action": "keep",
+   "original": {
+    "Name": "Closet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-123",
+   "Name": "Cloud",
+   "action": "keep",
+   "original": {
+    "Name": "Cloud"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-124",
+   "Name": "Club",
+   "action": "keep",
+   "original": {
+    "Name": "Club"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-125",
+   "Name": "Coat",
+   "action": "keep",
+   "original": {
+    "Name": "Coat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-126",
+   "Name": "Coffin",
+   "action": "keep",
+   "original": {
+    "Name": "Coffin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-127",
+   "Name": "Coin",
+   "action": "keep",
+   "original": {
+    "Name": "Coin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-128",
+   "Name": "Collar",
+   "action": "keep",
+   "original": {
+    "Name": "Collar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-129",
+   "Name": "Compass",
+   "action": "keep",
+   "original": {
+    "Name": "Compass"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-130",
+   "Name": "Computer",
+   "action": "keep",
+   "original": {
+    "Name": "Computer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-131",
+   "Name": "Concert",
+   "action": "remove",
+   "original": {
+    "Name": "Concert"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game12-132",
+   "Name": "Cone",
+   "action": "keep",
+   "original": {
+    "Name": "Cone"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-133",
+   "Name": "Cookie",
+   "action": "keep",
+   "original": {
+    "Name": "Cookie"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-134",
+   "Name": "Corpse",
+   "action": "keep",
+   "original": {
+    "Name": "Corpse"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-135",
+   "Name": "Costume",
+   "action": "keep",
+   "original": {
+    "Name": "Costume"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-136",
+   "Name": "Couch",
+   "action": "keep",
+   "original": {
+    "Name": "Couch"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-137",
+   "Name": "Coupon",
+   "action": "keep",
+   "original": {
+    "Name": "Coupon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-138",
+   "Name": "Courage",
+   "action": "keep",
+   "original": {
+    "Name": "Courage"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-139",
+   "Name": "Cream",
+   "action": "keep",
+   "original": {
+    "Name": "Cream"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-140",
+   "Name": "Crowd",
+   "action": "keep",
+   "original": {
+    "Name": "Crowd"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-141",
+   "Name": "Crown",
+   "action": "keep",
+   "original": {
+    "Name": "Crown"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-142",
+   "Name": "Crystal",
+   "action": "keep",
+   "original": {
+    "Name": "Crystal"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-143",
+   "Name": "Cuddle",
+   "action": "remove",
+   "original": {
+    "Name": "Cuddle"
+   },
+   "note": "romance; verb-like"
+  },
+  {
+   "id": "game12-144",
+   "Name": "Cup",
+   "action": "keep",
+   "original": {
+    "Name": "Cup"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-145",
+   "Name": "Curse",
+   "action": "remove",
+   "original": {
+    "Name": "Curse"
+   },
+   "note": "abstract"
+  },
+  {
+   "id": "game12-146",
+   "Name": "Curtain",
+   "action": "keep",
+   "original": {
+    "Name": "Curtain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-147",
+   "Name": "Cushion",
+   "action": "keep",
+   "original": {
+    "Name": "Cushion"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-148",
+   "Name": "Dagger",
+   "action": "keep",
+   "original": {
+    "Name": "Dagger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-149",
+   "Name": "Dance",
+   "action": "remove",
+   "original": {
+    "Name": "Dance"
+   },
+   "note": "western/secular"
+  },
+  {
+   "id": "game12-150",
+   "Name": "Danger",
+   "action": "keep",
+   "original": {
+    "Name": "Danger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-151",
+   "Name": "Dare",
+   "action": "remove",
+   "original": {
+    "Name": "Dare"
+   },
+   "note": "abstract; not a concrete noun"
+  },
+  {
+   "id": "game12-152",
+   "Name": "Dart",
+   "action": "keep",
+   "original": {
+    "Name": "Dart"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-153",
+   "Name": "Death",
+   "action": "keep",
+   "original": {
+    "Name": "Death"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-154",
+   "Name": "Debt",
+   "action": "keep",
+   "original": {
+    "Name": "Debt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-155",
+   "Name": "Decoy",
+   "action": "keep",
+   "original": {
+    "Name": "Decoy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-156",
+   "Name": "Desire",
+   "action": "remove",
+   "original": {
+    "Name": "Desire"
+   },
+   "note": "abstract; romance connotation"
+  },
+  {
+   "id": "game12-157",
+   "Name": "Desk",
+   "action": "keep",
+   "original": {
+    "Name": "Desk"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-158",
+   "Name": "Detector",
+   "action": "keep",
+   "original": {
+    "Name": "Detector"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-159",
+   "Name": "Diamond",
+   "action": "keep",
+   "original": {
+    "Name": "Diamond"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-160",
+   "Name": "Diaper",
+   "action": "keep",
+   "original": {
+    "Name": "Diaper"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-161",
+   "Name": "Diary",
+   "action": "keep",
+   "original": {
+    "Name": "Diary"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-162",
+   "Name": "Dinosaur",
+   "action": "keep",
+   "original": {
+    "Name": "Dinosaur"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-163",
+   "Name": "Dirt",
+   "action": "keep",
+   "original": {
+    "Name": "Dirt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-164",
+   "Name": "Discipline",
+   "action": "keep",
+   "original": {
+    "Name": "Discipline"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-165",
+   "Name": "Disease",
+   "action": "keep",
+   "original": {
+    "Name": "Disease"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-166",
+   "Name": "Dispenser",
+   "action": "keep",
+   "original": {
+    "Name": "Dispenser"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-167",
+   "Name": "Doll",
+   "action": "keep",
+   "original": {
+    "Name": "Doll"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-168",
+   "Name": "Dolphin",
+   "action": "keep",
+   "original": {
+    "Name": "Dolphin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-169",
+   "Name": "Donkey",
+   "action": "keep",
+   "original": {
+    "Name": "Donkey"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-170",
+   "Name": "Doom",
+   "action": "keep",
+   "original": {
+    "Name": "Doom"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-171",
+   "Name": "Door",
+   "action": "keep",
+   "original": {
+    "Name": "Door"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-172",
+   "Name": "Doubt",
+   "action": "keep",
+   "original": {
+    "Name": "Doubt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-173",
+   "Name": "Dragon",
+   "action": "keep",
+   "original": {
+    "Name": "Dragon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-174",
+   "Name": "Dream",
+   "action": "keep",
+   "original": {
+    "Name": "Dream"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-175",
+   "Name": "Dress",
+   "action": "keep",
+   "original": {
+    "Name": "Dress"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-176",
+   "Name": "Drill",
+   "action": "keep",
+   "original": {
+    "Name": "Drill"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-177",
+   "Name": "Drone",
+   "action": "keep",
+   "original": {
+    "Name": "Drone"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-178",
+   "Name": "Drool",
+   "action": "keep",
+   "original": {
+    "Name": "Drool"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-179",
+   "Name": "Drum",
+   "action": "keep",
+   "original": {
+    "Name": "Drum"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-180",
+   "Name": "Dumpster",
+   "action": "keep",
+   "original": {
+    "Name": "Dumpster"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-181",
+   "Name": "Dung",
+   "action": "keep",
+   "original": {
+    "Name": "Dung"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-182",
+   "Name": "Dungeon",
+   "action": "keep",
+   "original": {
+    "Name": "Dungeon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-183",
+   "Name": "Dust",
+   "action": "keep",
+   "original": {
+    "Name": "Dust"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-184",
+   "Name": "Ear",
+   "action": "keep",
+   "original": {
+    "Name": "Ear"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-185",
+   "Name": "Egg",
+   "action": "keep",
+   "original": {
+    "Name": "Egg"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-186",
+   "Name": "Elephant",
+   "action": "keep",
+   "original": {
+    "Name": "Elephant"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-187",
+   "Name": "Emergency",
+   "action": "keep",
+   "original": {
+    "Name": "Emergency"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-188",
+   "Name": "Energy",
+   "action": "keep",
+   "original": {
+    "Name": "Energy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-189",
+   "Name": "Envelope",
+   "action": "keep",
+   "original": {
+    "Name": "Envelope"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-190",
+   "Name": "Envy",
+   "action": "keep",
+   "original": {
+    "Name": "Envy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-191",
+   "Name": "Eraser",
+   "action": "keep",
+   "original": {
+    "Name": "Eraser"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-192",
+   "Name": "Escape",
+   "action": "keep",
+   "original": {
+    "Name": "Escape"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-193",
+   "Name": "Excuse",
+   "action": "keep",
+   "original": {
+    "Name": "Excuse"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-194",
+   "Name": "Exercise",
+   "action": "keep",
+   "original": {
+    "Name": "Exercise"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-195",
+   "Name": "Eye",
+   "action": "keep",
+   "original": {
+    "Name": "Eye"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-196",
+   "Name": "Face",
+   "action": "keep",
+   "original": {
+    "Name": "Face"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-197",
+   "Name": "Fact",
+   "action": "keep",
+   "original": {
+    "Name": "Fact"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-198",
+   "Name": "Factory",
+   "action": "keep",
+   "original": {
+    "Name": "Factory"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-199",
+   "Name": "Failure",
+   "action": "keep",
+   "original": {
+    "Name": "Failure"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-200",
+   "Name": "Fairy",
+   "action": "keep",
+   "original": {
+    "Name": "Fairy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-201",
+   "Name": "Faith",
+   "action": "keep",
+   "original": {
+    "Name": "Faith"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-202",
+   "Name": "Family",
+   "action": "keep",
+   "original": {
+    "Name": "Family"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-203",
+   "Name": "Fan",
+   "action": "keep",
+   "original": {
+    "Name": "Fan"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-204",
+   "Name": "Fanny",
+   "action": "remove",
+   "original": {
+    "Name": "Fanny"
+   },
+   "note": "crude slang"
+  },
+  {
+   "id": "game12-205",
+   "Name": "Fantasy",
+   "action": "keep",
+   "original": {
+    "Name": "Fantasy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-206",
+   "Name": "Farm",
+   "action": "keep",
+   "original": {
+    "Name": "Farm"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-207",
+   "Name": "Fart",
+   "action": "remove",
+   "original": {
+    "Name": "Fart"
+   },
+   "note": "crude"
+  },
+  {
+   "id": "game12-208",
+   "Name": "Fate",
+   "action": "keep",
+   "original": {
+    "Name": "Fate"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-209",
+   "Name": "Faucet",
+   "action": "keep",
+   "original": {
+    "Name": "Faucet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-210",
+   "Name": "Fear",
+   "action": "keep",
+   "original": {
+    "Name": "Fear"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-211",
+   "Name": "Feather",
+   "action": "keep",
+   "original": {
+    "Name": "Feather"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-212",
+   "Name": "Fence",
+   "action": "keep",
+   "original": {
+    "Name": "Fence"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-213",
+   "Name": "Fever",
+   "action": "keep",
+   "original": {
+    "Name": "Fever"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-214",
+   "Name": "Film",
+   "action": "remove",
+   "original": {
+    "Name": "Film"
+   },
+   "note": "western/secular (film/pop culture); also duplicate of Movie"
+  },
+  {
+   "id": "game12-215",
+   "Name": "Finger",
+   "action": "keep",
+   "original": {
+    "Name": "Finger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-216",
+   "Name": "Fire",
+   "action": "keep",
+   "original": {
+    "Name": "Fire"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-217",
+   "Name": "Fish",
+   "action": "keep",
+   "original": {
+    "Name": "Fish"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-218",
+   "Name": "Fitness",
+   "action": "keep",
+   "original": {
+    "Name": "Fitness"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-219",
+   "Name": "Flag",
+   "action": "keep",
+   "original": {
+    "Name": "Flag"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-220",
+   "Name": "Flame",
+   "action": "remove",
+   "original": {
+    "Name": "Flame"
+   },
+   "note": "duplicate of Fire"
+  },
+  {
+   "id": "game12-221",
+   "Name": "Flesh",
+   "action": "keep",
+   "original": {
+    "Name": "Flesh"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-222",
+   "Name": "Floss",
+   "action": "keep",
+   "original": {
+    "Name": "Floss"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-223",
+   "Name": "Flower",
+   "action": "keep",
+   "original": {
+    "Name": "Flower"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-224",
+   "Name": "Fluid",
+   "action": "remove",
+   "original": {
+    "Name": "Fluid"
+   },
+   "note": "vague, hard to describe or draw"
+  },
+  {
+   "id": "game12-225",
+   "Name": "Flute",
+   "action": "remove",
+   "original": {
+    "Name": "Flute"
+   },
+   "note": "western/secular (music instrument)"
+  },
+  {
+   "id": "game12-226",
+   "Name": "Foam",
+   "action": "keep",
+   "original": {
+    "Name": "Foam"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-227",
+   "Name": "Fog",
+   "action": "keep",
+   "original": {
+    "Name": "Fog"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-228",
+   "Name": "Food",
+   "action": "keep",
+   "original": {
+    "Name": "Food"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-229",
+   "Name": "Foot",
+   "action": "keep",
+   "original": {
+    "Name": "Foot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-230",
+   "Name": "Forest",
+   "action": "keep",
+   "original": {
+    "Name": "Forest"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-231",
+   "Name": "Fork",
+   "action": "keep",
+   "original": {
+    "Name": "Fork"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-232",
+   "Name": "Fountain",
+   "action": "keep",
+   "original": {
+    "Name": "Fountain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-233",
+   "Name": "Freedom",
+   "action": "keep",
+   "original": {
+    "Name": "Freedom"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-234",
+   "Name": "Friend",
+   "action": "keep",
+   "original": {
+    "Name": "Friend"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-235",
+   "Name": "Friendship",
+   "action": "remove",
+   "original": {
+    "Name": "Friendship"
+   },
+   "note": "duplicate of Friend"
+  },
+  {
+   "id": "game12-236",
+   "Name": "Fruit",
+   "action": "keep",
+   "original": {
+    "Name": "Fruit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-237",
+   "Name": "Fuel",
+   "action": "keep",
+   "original": {
+    "Name": "Fuel"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-238",
+   "Name": "Funeral",
+   "action": "keep",
+   "original": {
+    "Name": "Funeral"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-239",
+   "Name": "Fur",
+   "action": "keep",
+   "original": {
+    "Name": "Fur"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-240",
+   "Name": "Future",
+   "action": "keep",
+   "original": {
+    "Name": "Future"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-241",
+   "Name": "Fuzz",
+   "action": "remove",
+   "original": {
+    "Name": "Fuzz"
+   },
+   "note": "vague/obscure"
+  },
+  {
+   "id": "game12-242",
+   "Name": "Galaxy",
+   "action": "keep",
+   "original": {
+    "Name": "Galaxy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-243",
+   "Name": "Game",
+   "action": "keep",
+   "original": {
+    "Name": "Game"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-244",
+   "Name": "Garbage",
+   "action": "keep",
+   "original": {
+    "Name": "Garbage"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-245",
+   "Name": "Garden",
+   "action": "keep",
+   "original": {
+    "Name": "Garden"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-246",
+   "Name": "Gas",
+   "action": "keep",
+   "original": {
+    "Name": "Gas"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-247",
+   "Name": "Gem",
+   "action": "keep",
+   "original": {
+    "Name": "Gem"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-248",
+   "Name": "Germ",
+   "action": "keep",
+   "original": {
+    "Name": "Germ"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-249",
+   "Name": "Geyser",
+   "action": "keep",
+   "original": {
+    "Name": "Geyser"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-250",
+   "Name": "Ghost",
+   "action": "keep",
+   "original": {
+    "Name": "Ghost"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-251",
+   "Name": "Giggle",
+   "action": "keep",
+   "original": {
+    "Name": "Giggle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-252",
+   "Name": "Glasses",
+   "action": "keep",
+   "original": {
+    "Name": "Glasses"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-253",
+   "Name": "Glitter",
+   "action": "keep",
+   "original": {
+    "Name": "Glitter"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-254",
+   "Name": "Glory",
+   "action": "keep",
+   "original": {
+    "Name": "Glory"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-255",
+   "Name": "Glove",
+   "action": "keep",
+   "original": {
+    "Name": "Glove"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-256",
+   "Name": "Glue",
+   "action": "keep",
+   "original": {
+    "Name": "Glue"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-257",
+   "Name": "Goggles",
+   "action": "keep",
+   "original": {
+    "Name": "Goggles"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-258",
+   "Name": "Gorilla",
+   "action": "keep",
+   "original": {
+    "Name": "Gorilla"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-259",
+   "Name": "Gossip",
+   "action": "keep",
+   "original": {
+    "Name": "Gossip"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-260",
+   "Name": "Gown",
+   "action": "keep",
+   "original": {
+    "Name": "Gown"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-261",
+   "Name": "Grass",
+   "action": "keep",
+   "original": {
+    "Name": "Grass"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-262",
+   "Name": "Grave",
+   "action": "keep",
+   "original": {
+    "Name": "Grave"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-263",
+   "Name": "Gravity",
+   "action": "keep",
+   "original": {
+    "Name": "Gravity"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-264",
+   "Name": "Gravy",
+   "action": "keep",
+   "original": {
+    "Name": "Gravy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-265",
+   "Name": "Grease",
+   "action": "keep",
+   "original": {
+    "Name": "Grease"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-266",
+   "Name": "Greed",
+   "action": "keep",
+   "original": {
+    "Name": "Greed"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-267",
+   "Name": "Grenade",
+   "action": "keep",
+   "original": {
+    "Name": "Grenade"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-268",
+   "Name": "Grief",
+   "action": "keep",
+   "original": {
+    "Name": "Grief"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-269",
+   "Name": "Grill",
+   "action": "keep",
+   "original": {
+    "Name": "Grill"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-270",
+   "Name": "Guilt",
+   "action": "keep",
+   "original": {
+    "Name": "Guilt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-271",
+   "Name": "Gum",
+   "action": "keep",
+   "original": {
+    "Name": "Gum"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-272",
+   "Name": "Gun",
+   "action": "keep",
+   "original": {
+    "Name": "Gun"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-273",
+   "Name": "Hair",
+   "action": "keep",
+   "original": {
+    "Name": "Hair"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-274",
+   "Name": "Hammer",
+   "action": "keep",
+   "original": {
+    "Name": "Hammer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-275",
+   "Name": "Hammock",
+   "action": "keep",
+   "original": {
+    "Name": "Hammock"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-276",
+   "Name": "Hamster",
+   "action": "keep",
+   "original": {
+    "Name": "Hamster"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-277",
+   "Name": "Hand",
+   "action": "keep",
+   "original": {
+    "Name": "Hand"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-278",
+   "Name": "Handcuffs",
+   "action": "keep",
+   "original": {
+    "Name": "Handcuffs"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-279",
+   "Name": "Handle",
+   "action": "keep",
+   "original": {
+    "Name": "Handle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-280",
+   "Name": "Harmonica",
+   "action": "remove",
+   "original": {
+    "Name": "Harmonica"
+   },
+   "note": "western/secular (music instrument)"
+  },
+  {
+   "id": "game12-281",
+   "Name": "Harmony",
+   "action": "remove",
+   "original": {
+    "Name": "Harmony"
+   },
+   "note": "western/secular (music) and abstract"
+  },
+  {
+   "id": "game12-282",
+   "Name": "Harness",
+   "action": "keep",
+   "original": {
+    "Name": "Harness"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-283",
+   "Name": "Hat",
+   "action": "keep",
+   "original": {
+    "Name": "Hat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-284",
+   "Name": "Hatchet",
+   "action": "remove",
+   "original": {
+    "Name": "Hatchet"
+   },
+   "note": "duplicate of Axe (game12-17)"
+  },
+  {
+   "id": "game12-285",
+   "Name": "Head",
+   "action": "keep",
+   "original": {
+    "Name": "Head"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-286",
+   "Name": "Heart",
+   "action": "keep",
+   "original": {
+    "Name": "Heart"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-287",
+   "Name": "Heaven",
+   "action": "keep",
+   "original": {
+    "Name": "Heaven"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-288",
+   "Name": "Hell",
+   "action": "keep",
+   "original": {
+    "Name": "Hell"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-289",
+   "Name": "Helmet",
+   "action": "keep",
+   "original": {
+    "Name": "Helmet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-290",
+   "Name": "Hole",
+   "action": "keep",
+   "original": {
+    "Name": "Hole"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-291",
+   "Name": "Honey",
+   "action": "keep",
+   "original": {
+    "Name": "Honey"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-292",
+   "Name": "Hood",
+   "action": "keep",
+   "original": {
+    "Name": "Hood"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-293",
+   "Name": "Hoodie",
+   "action": "keep",
+   "original": {
+    "Name": "Hoodie"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-294",
+   "Name": "Hook",
+   "action": "keep",
+   "original": {
+    "Name": "Hook"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-295",
+   "Name": "Hoop",
+   "action": "keep",
+   "original": {
+    "Name": "Hoop"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-296",
+   "Name": "Hope",
+   "action": "keep",
+   "original": {
+    "Name": "Hope"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-297",
+   "Name": "Hormone",
+   "action": "keep",
+   "original": {
+    "Name": "Hormone"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-298",
+   "Name": "Horn",
+   "action": "keep",
+   "original": {
+    "Name": "Horn"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-299",
+   "Name": "Horse",
+   "action": "keep",
+   "original": {
+    "Name": "Horse"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-300",
+   "Name": "Hose",
+   "action": "keep",
+   "original": {
+    "Name": "Hose"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-301",
+   "Name": "House",
+   "action": "keep",
+   "original": {
+    "Name": "House"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-302",
+   "Name": "Hug",
+   "action": "keep",
+   "original": {
+    "Name": "Hug"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-303",
+   "Name": "Hurricane",
+   "action": "keep",
+   "original": {
+    "Name": "Hurricane"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-304",
+   "Name": "Ice",
+   "action": "keep",
+   "original": {
+    "Name": "Ice"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-305",
+   "Name": "Idiot",
+   "action": "remove",
+   "original": {
+    "Name": "Idiot"
+   },
+   "note": "insult, not suitable"
+  },
+  {
+   "id": "game12-306",
+   "Name": "Ink",
+   "action": "keep",
+   "original": {
+    "Name": "Ink"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-307",
+   "Name": "Insect",
+   "action": "keep",
+   "original": {
+    "Name": "Insect"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-308",
+   "Name": "Island",
+   "action": "keep",
+   "original": {
+    "Name": "Island"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-309",
+   "Name": "Jacket",
+   "action": "keep",
+   "original": {
+    "Name": "Jacket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-310",
+   "Name": "Jar",
+   "action": "keep",
+   "original": {
+    "Name": "Jar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-311",
+   "Name": "Jello",
+   "action": "remove",
+   "original": {
+    "Name": "Jello"
+   },
+   "note": "brand name; duplicate of Jelly"
+  },
+  {
+   "id": "game12-312",
+   "Name": "Jelly",
+   "action": "keep",
+   "original": {
+    "Name": "Jelly"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-313",
+   "Name": "Jewel",
+   "action": "keep",
+   "original": {
+    "Name": "Jewel"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-314",
+   "Name": "Jewelry",
+   "action": "remove",
+   "original": {
+    "Name": "Jewelry"
+   },
+   "note": "duplicate of Jewel"
+  },
+  {
+   "id": "game12-315",
+   "Name": "Joke",
+   "action": "keep",
+   "original": {
+    "Name": "Joke"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-316",
+   "Name": "Joy",
+   "action": "keep",
+   "original": {
+    "Name": "Joy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-317",
+   "Name": "Juice",
+   "action": "keep",
+   "original": {
+    "Name": "Juice"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-318",
+   "Name": "Jungle",
+   "action": "keep",
+   "original": {
+    "Name": "Jungle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-319",
+   "Name": "Junk",
+   "action": "keep",
+   "original": {
+    "Name": "Junk"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-320",
+   "Name": "Karate",
+   "action": "keep",
+   "original": {
+    "Name": "Karate"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-321",
+   "Name": "Key",
+   "action": "keep",
+   "original": {
+    "Name": "Key"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-322",
+   "Name": "Kit",
+   "action": "remove",
+   "original": {
+    "Name": "Kit"
+   },
+   "note": "unclear/vague"
+  },
+  {
+   "id": "game12-323",
+   "Name": "Kite",
+   "action": "keep",
+   "original": {
+    "Name": "Kite"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-324",
+   "Name": "Kitten",
+   "action": "keep",
+   "original": {
+    "Name": "Kitten"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-325",
+   "Name": "Knife",
+   "action": "keep",
+   "original": {
+    "Name": "Knife"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-326",
+   "Name": "Lace",
+   "action": "keep",
+   "original": {
+    "Name": "Lace"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-327",
+   "Name": "Ladder",
+   "action": "keep",
+   "original": {
+    "Name": "Ladder"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-328",
+   "Name": "Lady",
+   "action": "keep",
+   "original": {
+    "Name": "Lady"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-329",
+   "Name": "Lake",
+   "action": "keep",
+   "original": {
+    "Name": "Lake"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-330",
+   "Name": "Lamp",
+   "action": "keep",
+   "original": {
+    "Name": "Lamp"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-331",
+   "Name": "Lantern",
+   "action": "keep",
+   "original": {
+    "Name": "Lantern"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-332",
+   "Name": "Lasso",
+   "action": "keep",
+   "original": {
+    "Name": "Lasso"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-333",
+   "Name": "Laugh",
+   "action": "keep",
+   "original": {
+    "Name": "Laugh"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-334",
+   "Name": "Lava",
+   "action": "keep",
+   "original": {
+    "Name": "Lava"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-335",
+   "Name": "Leaf",
+   "action": "keep",
+   "original": {
+    "Name": "Leaf"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-336",
+   "Name": "Leash",
+   "action": "keep",
+   "original": {
+    "Name": "Leash"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-337",
+   "Name": "Leg",
+   "action": "keep",
+   "original": {
+    "Name": "Leg"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-338",
+   "Name": "Light",
+   "action": "keep",
+   "original": {
+    "Name": "Light"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-339",
+   "Name": "Lightning",
+   "action": "keep",
+   "original": {
+    "Name": "Lightning"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-340",
+   "Name": "Lip",
+   "action": "keep",
+   "original": {
+    "Name": "Lip"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-341",
+   "Name": "Lock",
+   "action": "keep",
+   "original": {
+    "Name": "Lock"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-342",
+   "Name": "Locker",
+   "action": "keep",
+   "original": {
+    "Name": "Locker"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-343",
+   "Name": "Lotion",
+   "action": "keep",
+   "original": {
+    "Name": "Lotion"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-344",
+   "Name": "Love",
+   "action": "remove",
+   "original": {
+    "Name": "Love"
+   },
+   "note": "abstract; romance-adjacent"
+  },
+  {
+   "id": "game12-345",
+   "Name": "Machine",
+   "action": "keep",
+   "original": {
+    "Name": "Machine"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-346",
+   "Name": "Magic",
+   "action": "remove",
+   "original": {
+    "Name": "Magic"
+   },
+   "note": "sihr/magic not suitable"
+  },
+  {
+   "id": "game12-347",
+   "Name": "Magnet",
+   "action": "keep",
+   "original": {
+    "Name": "Magnet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-348",
+   "Name": "Man",
+   "action": "keep",
+   "original": {
+    "Name": "Man"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-349",
+   "Name": "Map",
+   "action": "keep",
+   "original": {
+    "Name": "Map"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-350",
+   "Name": "Marker",
+   "action": "keep",
+   "original": {
+    "Name": "Marker"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-351",
+   "Name": "Marriage",
+   "action": "keep",
+   "original": {
+    "Name": "Marriage"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-352",
+   "Name": "Marshmallow",
+   "action": "keep",
+   "original": {
+    "Name": "Marshmallow"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-353",
+   "Name": "Mask",
+   "action": "keep",
+   "original": {
+    "Name": "Mask"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-354",
+   "Name": "Massage",
+   "action": "keep",
+   "original": {
+    "Name": "Massage"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-355",
+   "Name": "Mattress",
+   "action": "keep",
+   "original": {
+    "Name": "Mattress"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-356",
+   "Name": "Maze",
+   "action": "keep",
+   "original": {
+    "Name": "Maze"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-357",
+   "Name": "Meat",
+   "action": "keep",
+   "original": {
+    "Name": "Meat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-358",
+   "Name": "Medicine",
+   "action": "keep",
+   "original": {
+    "Name": "Medicine"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-359",
+   "Name": "Memory",
+   "action": "keep",
+   "original": {
+    "Name": "Memory"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-360",
+   "Name": "Message",
+   "action": "keep",
+   "original": {
+    "Name": "Message"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-361",
+   "Name": "Milk",
+   "action": "keep",
+   "original": {
+    "Name": "Milk"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-362",
+   "Name": "Mint",
+   "action": "keep",
+   "original": {
+    "Name": "Mint"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-363",
+   "Name": "Miracle",
+   "action": "keep",
+   "original": {
+    "Name": "Miracle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-364",
+   "Name": "Mirror",
+   "action": "keep",
+   "original": {
+    "Name": "Mirror"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-365",
+   "Name": "Missile",
+   "action": "keep",
+   "original": {
+    "Name": "Missile"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-366",
+   "Name": "Mist",
+   "action": "keep",
+   "original": {
+    "Name": "Mist"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-367",
+   "Name": "Mistake",
+   "action": "keep",
+   "original": {
+    "Name": "Mistake"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-368",
+   "Name": "Mitten",
+   "action": "keep",
+   "original": {
+    "Name": "Mitten"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-369",
+   "Name": "Money",
+   "action": "keep",
+   "original": {
+    "Name": "Money"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-370",
+   "Name": "Monkey",
+   "action": "keep",
+   "original": {
+    "Name": "Monkey"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-371",
+   "Name": "Monster",
+   "action": "keep",
+   "original": {
+    "Name": "Monster"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-372",
+   "Name": "Mood",
+   "action": "keep",
+   "original": {
+    "Name": "Mood"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-373",
+   "Name": "Moon",
+   "action": "keep",
+   "original": {
+    "Name": "Moon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-374",
+   "Name": "Mop",
+   "action": "keep",
+   "original": {
+    "Name": "Mop"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-375",
+   "Name": "Mosquito",
+   "action": "keep",
+   "original": {
+    "Name": "Mosquito"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-376",
+   "Name": "Motor",
+   "action": "keep",
+   "original": {
+    "Name": "Motor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-377",
+   "Name": "Mountain",
+   "action": "keep",
+   "original": {
+    "Name": "Mountain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-378",
+   "Name": "Mouth",
+   "action": "keep",
+   "original": {
+    "Name": "Mouth"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-379",
+   "Name": "Movie",
+   "action": "remove",
+   "original": {
+    "Name": "Movie"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game12-380",
+   "Name": "Mud",
+   "action": "keep",
+   "original": {
+    "Name": "Mud"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-381",
+   "Name": "Mug",
+   "action": "keep",
+   "original": {
+    "Name": "Mug"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-382",
+   "Name": "Murder",
+   "action": "remove",
+   "original": {
+    "Name": "Murder"
+   },
+   "note": "violent, unsuitable for family play"
+  },
+  {
+   "id": "game12-383",
+   "Name": "Muscle",
+   "action": "keep",
+   "original": {
+    "Name": "Muscle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-384",
+   "Name": "Music",
+   "action": "remove",
+   "original": {
+    "Name": "Music"
+   },
+   "note": "western/secular"
+  },
+  {
+   "id": "game12-385",
+   "Name": "Musket",
+   "action": "keep",
+   "original": {
+    "Name": "Musket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-386",
+   "Name": "Mustache",
+   "action": "keep",
+   "original": {
+    "Name": "Mustache"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-387",
+   "Name": "Mystery",
+   "action": "keep",
+   "original": {
+    "Name": "Mystery"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-388",
+   "Name": "Nap",
+   "action": "keep",
+   "original": {
+    "Name": "Nap"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-389",
+   "Name": "Napkin",
+   "action": "keep",
+   "original": {
+    "Name": "Napkin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-390",
+   "Name": "Needle",
+   "action": "keep",
+   "original": {
+    "Name": "Needle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-391",
+   "Name": "Nest",
+   "action": "keep",
+   "original": {
+    "Name": "Nest"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-392",
+   "Name": "Net",
+   "action": "keep",
+   "original": {
+    "Name": "Net"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-393",
+   "Name": "News",
+   "action": "keep",
+   "original": {
+    "Name": "News"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-394",
+   "Name": "Night",
+   "action": "keep",
+   "original": {
+    "Name": "Night"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-395",
+   "Name": "Nightmare",
+   "action": "keep",
+   "original": {
+    "Name": "Nightmare"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-396",
+   "Name": "Noise",
+   "action": "keep",
+   "original": {
+    "Name": "Noise"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-397",
+   "Name": "Noodle",
+   "action": "keep",
+   "original": {
+    "Name": "Noodle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-398",
+   "Name": "Nose",
+   "action": "keep",
+   "original": {
+    "Name": "Nose"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-399",
+   "Name": "Ocean",
+   "action": "keep",
+   "original": {
+    "Name": "Ocean"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-400",
+   "Name": "Odour",
+   "action": "edit",
+   "original": {
+    "Name": "Odor"
+   },
+   "note": "British spelling used in Pakistan"
+  },
+  {
+   "id": "game12-401",
+   "Name": "Oil",
+   "action": "keep",
+   "original": {
+    "Name": "Oil"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-402",
+   "Name": "Oven",
+   "action": "keep",
+   "original": {
+    "Name": "Oven"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-403",
+   "Name": "Oxygen",
+   "action": "keep",
+   "original": {
+    "Name": "Oxygen"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-404",
+   "Name": "Pad",
+   "action": "remove",
+   "original": {
+    "Name": "Pad"
+   },
+   "note": "ambiguous; Notepad exists (game12-828)"
+  },
+  {
+   "id": "game12-405",
+   "Name": "Paddle",
+   "action": "keep",
+   "original": {
+    "Name": "Paddle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-406",
+   "Name": "Pail",
+   "action": "remove",
+   "original": {
+    "Name": "Pail"
+   },
+   "note": "duplicate of Bucket (game12-74)"
+  },
+  {
+   "id": "game12-407",
+   "Name": "Pain",
+   "action": "keep",
+   "original": {
+    "Name": "Pain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-408",
+   "Name": "Paint",
+   "action": "keep",
+   "original": {
+    "Name": "Paint"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-409",
+   "Name": "Pajamas",
+   "action": "keep",
+   "original": {
+    "Name": "Pajamas"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-410",
+   "Name": "Panda",
+   "action": "keep",
+   "original": {
+    "Name": "Panda"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-411",
+   "Name": "Pants",
+   "action": "keep",
+   "original": {
+    "Name": "Pants"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-412",
+   "Name": "Paper",
+   "action": "keep",
+   "original": {
+    "Name": "Paper"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-413",
+   "Name": "Parachute",
+   "action": "keep",
+   "original": {
+    "Name": "Parachute"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-414",
+   "Name": "Parade",
+   "action": "keep",
+   "original": {
+    "Name": "Parade"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-415",
+   "Name": "Parrot",
+   "action": "keep",
+   "original": {
+    "Name": "Parrot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-416",
+   "Name": "Party",
+   "action": "remove",
+   "original": {
+    "Name": "Party"
+   },
+   "note": "western/secular"
+  },
+  {
+   "id": "game12-417",
+   "Name": "Passion",
+   "action": "keep",
+   "original": {
+    "Name": "Passion"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-418",
+   "Name": "Paste",
+   "action": "keep",
+   "original": {
+    "Name": "Paste"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-419",
+   "Name": "Patch",
+   "action": "keep",
+   "original": {
+    "Name": "Patch"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-420",
+   "Name": "Paw",
+   "action": "keep",
+   "original": {
+    "Name": "Paw"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-421",
+   "Name": "Peace",
+   "action": "keep",
+   "original": {
+    "Name": "Peace"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-422",
+   "Name": "Pearl",
+   "action": "keep",
+   "original": {
+    "Name": "Pearl"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-423",
+   "Name": "Pen",
+   "action": "keep",
+   "original": {
+    "Name": "Pen"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-424",
+   "Name": "Penalty",
+   "action": "keep",
+   "original": {
+    "Name": "Penalty"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-425",
+   "Name": "Pepper",
+   "action": "keep",
+   "original": {
+    "Name": "Pepper"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-426",
+   "Name": "Perfume",
+   "action": "keep",
+   "original": {
+    "Name": "Perfume"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-427",
+   "Name": "Permit",
+   "action": "keep",
+   "original": {
+    "Name": "Permit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-428",
+   "Name": "Pet",
+   "action": "keep",
+   "original": {
+    "Name": "Pet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-429",
+   "Name": "Phone",
+   "action": "keep",
+   "original": {
+    "Name": "Phone"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-430",
+   "Name": "Photo",
+   "action": "keep",
+   "original": {
+    "Name": "Photo"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-431",
+   "Name": "Pickle",
+   "action": "keep",
+   "original": {
+    "Name": "Pickle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-432",
+   "Name": "Picnic",
+   "action": "keep",
+   "original": {
+    "Name": "Picnic"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-433",
+   "Name": "Picture",
+   "action": "remove",
+   "original": {
+    "Name": "Picture"
+   },
+   "note": "duplicate of Photo (game12-430)"
+  },
+  {
+   "id": "game12-434",
+   "Name": "Pill",
+   "action": "keep",
+   "original": {
+    "Name": "Pill"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-435",
+   "Name": "Pillow",
+   "action": "keep",
+   "original": {
+    "Name": "Pillow"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-436",
+   "Name": "Pimple",
+   "action": "keep",
+   "original": {
+    "Name": "Pimple"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-437",
+   "Name": "Pin",
+   "action": "keep",
+   "original": {
+    "Name": "Pin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-438",
+   "Name": "Pinata",
+   "action": "remove",
+   "original": {
+    "Name": "Pinata"
+   },
+   "note": "western/secular party item"
+  },
+  {
+   "id": "game12-439",
+   "Name": "Pipe",
+   "action": "keep",
+   "original": {
+    "Name": "Pipe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-440",
+   "Name": "Pit",
+   "action": "keep",
+   "original": {
+    "Name": "Pit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-441",
+   "Name": "Pity",
+   "action": "keep",
+   "original": {
+    "Name": "Pity"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-442",
+   "Name": "Plate",
+   "action": "keep",
+   "original": {
+    "Name": "Plate"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-443",
+   "Name": "Pleasure",
+   "action": "keep",
+   "original": {
+    "Name": "Pleasure"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-444",
+   "Name": "Plug",
+   "action": "keep",
+   "original": {
+    "Name": "Plug"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-445",
+   "Name": "Plunger",
+   "action": "keep",
+   "original": {
+    "Name": "Plunger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-446",
+   "Name": "Pocket",
+   "action": "keep",
+   "original": {
+    "Name": "Pocket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-447",
+   "Name": "Poison",
+   "action": "keep",
+   "original": {
+    "Name": "Poison"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-448",
+   "Name": "Pole",
+   "action": "keep",
+   "original": {
+    "Name": "Pole"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-449",
+   "Name": "Poncho",
+   "action": "keep",
+   "original": {
+    "Name": "Poncho"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-450",
+   "Name": "Pool",
+   "action": "keep",
+   "original": {
+    "Name": "Pool"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-451",
+   "Name": "Poop",
+   "action": "remove",
+   "original": {
+    "Name": "Poop"
+   },
+   "note": "crude; duplicate of Dung (game12-181)"
+  },
+  {
+   "id": "game12-452",
+   "Name": "Popcorn",
+   "action": "keep",
+   "original": {
+    "Name": "Popcorn"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-453",
+   "Name": "Popsicle",
+   "action": "keep",
+   "original": {
+    "Name": "Popsicle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-454",
+   "Name": "Poster",
+   "action": "keep",
+   "original": {
+    "Name": "Poster"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-455",
+   "Name": "Potion",
+   "action": "keep",
+   "original": {
+    "Name": "Potion"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-456",
+   "Name": "Potty",
+   "action": "keep",
+   "original": {
+    "Name": "Potty"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-457",
+   "Name": "Pouch",
+   "action": "keep",
+   "original": {
+    "Name": "Pouch"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-458",
+   "Name": "Powder",
+   "action": "keep",
+   "original": {
+    "Name": "Powder"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-459",
+   "Name": "Prank",
+   "action": "keep",
+   "original": {
+    "Name": "Prank"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-460",
+   "Name": "Prayer",
+   "action": "keep",
+   "original": {
+    "Name": "Prayer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-461",
+   "Name": "Pregnancy",
+   "action": "keep",
+   "original": {
+    "Name": "Pregnancy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-462",
+   "Name": "Pride",
+   "action": "keep",
+   "original": {
+    "Name": "Pride"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-463",
+   "Name": "Prize",
+   "action": "keep",
+   "original": {
+    "Name": "Prize"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-464",
+   "Name": "Probe",
+   "action": "keep",
+   "original": {
+    "Name": "Probe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-465",
+   "Name": "Promise",
+   "action": "keep",
+   "original": {
+    "Name": "Promise"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-466",
+   "Name": "Protein",
+   "action": "keep",
+   "original": {
+    "Name": "Protein"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-467",
+   "Name": "Pudding",
+   "action": "keep",
+   "original": {
+    "Name": "Pudding"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-468",
+   "Name": "Puddle",
+   "action": "keep",
+   "original": {
+    "Name": "Puddle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-469",
+   "Name": "Puke",
+   "action": "remove",
+   "original": {
+    "Name": "Puke"
+   },
+   "note": "crude"
+  },
+  {
+   "id": "game12-470",
+   "Name": "Pump",
+   "action": "keep",
+   "original": {
+    "Name": "Pump"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-471",
+   "Name": "Pumpkin",
+   "action": "keep",
+   "original": {
+    "Name": "Pumpkin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-472",
+   "Name": "Puppet",
+   "action": "keep",
+   "original": {
+    "Name": "Puppet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-473",
+   "Name": "Puppy",
+   "action": "keep",
+   "original": {
+    "Name": "Puppy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-474",
+   "Name": "Purse",
+   "action": "keep",
+   "original": {
+    "Name": "Purse"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-475",
+   "Name": "Putty",
+   "action": "keep",
+   "original": {
+    "Name": "Putty"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-476",
+   "Name": "Puzzle",
+   "action": "keep",
+   "original": {
+    "Name": "Puzzle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-477",
+   "Name": "Radar",
+   "action": "keep",
+   "original": {
+    "Name": "Radar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-478",
+   "Name": "Radiation",
+   "action": "keep",
+   "original": {
+    "Name": "Radiation"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-479",
+   "Name": "Radio",
+   "action": "keep",
+   "original": {
+    "Name": "Radio"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-480",
+   "Name": "Raft",
+   "action": "keep",
+   "original": {
+    "Name": "Raft"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-481",
+   "Name": "Rag",
+   "action": "keep",
+   "original": {
+    "Name": "Rag"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-482",
+   "Name": "Rage",
+   "action": "keep",
+   "original": {
+    "Name": "Rage"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-483",
+   "Name": "Rain",
+   "action": "keep",
+   "original": {
+    "Name": "Rain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-484",
+   "Name": "Rake",
+   "action": "keep",
+   "original": {
+    "Name": "Rake"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-485",
+   "Name": "Razor",
+   "action": "keep",
+   "original": {
+    "Name": "Razor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-486",
+   "Name": "Reality",
+   "action": "keep",
+   "original": {
+    "Name": "Reality"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-487",
+   "Name": "Recipe",
+   "action": "keep",
+   "original": {
+    "Name": "Recipe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-488",
+   "Name": "Regret",
+   "action": "keep",
+   "original": {
+    "Name": "Regret"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-489",
+   "Name": "Remote",
+   "action": "keep",
+   "original": {
+    "Name": "Remote"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-490",
+   "Name": "Rescue",
+   "action": "keep",
+   "original": {
+    "Name": "Rescue"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-491",
+   "Name": "Revenge",
+   "action": "keep",
+   "original": {
+    "Name": "Revenge"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-492",
+   "Name": "Ribbon",
+   "action": "keep",
+   "original": {
+    "Name": "Ribbon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-493",
+   "Name": "Ring",
+   "action": "keep",
+   "original": {
+    "Name": "Ring"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-494",
+   "Name": "Riot",
+   "action": "keep",
+   "original": {
+    "Name": "Riot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-495",
+   "Name": "River",
+   "action": "keep",
+   "original": {
+    "Name": "River"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-496",
+   "Name": "Road",
+   "action": "keep",
+   "original": {
+    "Name": "Road"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-497",
+   "Name": "Robe",
+   "action": "keep",
+   "original": {
+    "Name": "Robe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-498",
+   "Name": "Robot",
+   "action": "keep",
+   "original": {
+    "Name": "Robot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-499",
+   "Name": "Rock",
+   "action": "keep",
+   "original": {
+    "Name": "Rock"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-500",
+   "Name": "Rocket",
+   "action": "keep",
+   "original": {
+    "Name": "Rocket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-501",
+   "Name": "Rodeo",
+   "action": "keep",
+   "original": {
+    "Name": "Rodeo"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-502",
+   "Name": "Romance",
+   "action": "remove",
+   "original": {
+    "Name": "Romance"
+   },
+   "note": "western/secular (romance)"
+  },
+  {
+   "id": "game12-503",
+   "Name": "Rope",
+   "action": "keep",
+   "original": {
+    "Name": "Rope"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-504",
+   "Name": "Rubber",
+   "action": "keep",
+   "original": {
+    "Name": "Rubber"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-505",
+   "Name": "Rug",
+   "action": "keep",
+   "original": {
+    "Name": "Rug"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-506",
+   "Name": "Rumor",
+   "action": "keep",
+   "original": {
+    "Name": "Rumor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-507",
+   "Name": "Sack",
+   "action": "keep",
+   "original": {
+    "Name": "Sack"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-508",
+   "Name": "Saddle",
+   "action": "keep",
+   "original": {
+    "Name": "Saddle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-509",
+   "Name": "Safety",
+   "action": "keep",
+   "original": {
+    "Name": "Safety"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-510",
+   "Name": "Salad",
+   "action": "keep",
+   "original": {
+    "Name": "Salad"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-511",
+   "Name": "Sand",
+   "action": "keep",
+   "original": {
+    "Name": "Sand"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-512",
+   "Name": "Sandwich",
+   "action": "keep",
+   "original": {
+    "Name": "Sandwich"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-513",
+   "Name": "Satellite",
+   "action": "keep",
+   "original": {
+    "Name": "Satellite"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-514",
+   "Name": "Sauce",
+   "action": "keep",
+   "original": {
+    "Name": "Sauce"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-515",
+   "Name": "Sauna",
+   "action": "keep",
+   "original": {
+    "Name": "Sauna"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-516",
+   "Name": "Kebab",
+   "action": "keep",
+   "original": {
+    "Name": "Kebab"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-517",
+   "Name": "Saw",
+   "action": "keep",
+   "original": {
+    "Name": "Saw"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-518",
+   "Name": "Scarf",
+   "action": "keep",
+   "original": {
+    "Name": "Scarf"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-519",
+   "Name": "School",
+   "action": "keep",
+   "original": {
+    "Name": "School"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-520",
+   "Name": "Scoop",
+   "action": "keep",
+   "original": {
+    "Name": "Scoop"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-521",
+   "Name": "Scooter",
+   "action": "keep",
+   "original": {
+    "Name": "Scooter"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-522",
+   "Name": "Scream",
+   "action": "keep",
+   "original": {
+    "Name": "Scream"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-523",
+   "Name": "Sculpture",
+   "action": "keep",
+   "original": {
+    "Name": "Sculpture"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-524",
+   "Name": "Seat",
+   "action": "keep",
+   "original": {
+    "Name": "Seat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-525",
+   "Name": "Secret",
+   "action": "keep",
+   "original": {
+    "Name": "Secret"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-526",
+   "Name": "Security",
+   "action": "keep",
+   "original": {
+    "Name": "Security"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-527",
+   "Name": "Seed",
+   "action": "keep",
+   "original": {
+    "Name": "Seed"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-528",
+   "Name": "Sensor",
+   "action": "keep",
+   "original": {
+    "Name": "Sensor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-529",
+   "Name": "Shadow",
+   "action": "keep",
+   "original": {
+    "Name": "Shadow"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-530",
+   "Name": "Shame",
+   "action": "keep",
+   "original": {
+    "Name": "Shame"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-531",
+   "Name": "Shampoo",
+   "action": "keep",
+   "original": {
+    "Name": "Shampoo"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-532",
+   "Name": "Sheet",
+   "action": "keep",
+   "original": {
+    "Name": "Sheet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-533",
+   "Name": "Shell",
+   "action": "keep",
+   "original": {
+    "Name": "Shell"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-534",
+   "Name": "Shield",
+   "action": "keep",
+   "original": {
+    "Name": "Shield"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-535",
+   "Name": "Shirt",
+   "action": "keep",
+   "original": {
+    "Name": "Shirt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-536",
+   "Name": "Shoes",
+   "action": "keep",
+   "original": {
+    "Name": "Shoes"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-537",
+   "Name": "Shovel",
+   "action": "keep",
+   "original": {
+    "Name": "Shovel"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-538",
+   "Name": "Shower",
+   "action": "keep",
+   "original": {
+    "Name": "Shower"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-539",
+   "Name": "Shrine",
+   "action": "keep",
+   "original": {
+    "Name": "Shrine"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-540",
+   "Name": "Signal",
+   "action": "keep",
+   "original": {
+    "Name": "Signal"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-541",
+   "Name": "Silence",
+   "action": "keep",
+   "original": {
+    "Name": "Silence"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-542",
+   "Name": "Siren",
+   "action": "keep",
+   "original": {
+    "Name": "Siren"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-543",
+   "Name": "Skeleton",
+   "action": "keep",
+   "original": {
+    "Name": "Skeleton"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-544",
+   "Name": "Skin",
+   "action": "keep",
+   "original": {
+    "Name": "Skin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-545",
+   "Name": "Skirt",
+   "action": "keep",
+   "original": {
+    "Name": "Skirt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-546",
+   "Name": "Skull",
+   "action": "keep",
+   "original": {
+    "Name": "Skull"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-547",
+   "Name": "Skunk",
+   "action": "keep",
+   "original": {
+    "Name": "Skunk"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-548",
+   "Name": "Sky",
+   "action": "keep",
+   "original": {
+    "Name": "Sky"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-549",
+   "Name": "Sled",
+   "action": "keep",
+   "original": {
+    "Name": "Sled"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-550",
+   "Name": "Sleep",
+   "action": "keep",
+   "original": {
+    "Name": "Sleep"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-551",
+   "Name": "Slide",
+   "action": "keep",
+   "original": {
+    "Name": "Slide"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-552",
+   "Name": "Slime",
+   "action": "keep",
+   "original": {
+    "Name": "Slime"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-553",
+   "Name": "Slipper",
+   "action": "keep",
+   "original": {
+    "Name": "Slipper"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-554",
+   "Name": "Smile",
+   "action": "keep",
+   "original": {
+    "Name": "Smile"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-555",
+   "Name": "Smoke",
+   "action": "keep",
+   "original": {
+    "Name": "Smoke"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-556",
+   "Name": "Smoothie",
+   "action": "keep",
+   "original": {
+    "Name": "Smoothie"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-557",
+   "Name": "Snake",
+   "action": "keep",
+   "original": {
+    "Name": "Snake"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-558",
+   "Name": "Snore",
+   "action": "keep",
+   "original": {
+    "Name": "Snore"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-559",
+   "Name": "Snot",
+   "action": "keep",
+   "original": {
+    "Name": "Snot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-560",
+   "Name": "Snow",
+   "action": "keep",
+   "original": {
+    "Name": "Snow"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-561",
+   "Name": "Soap",
+   "action": "keep",
+   "original": {
+    "Name": "Soap"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-562",
+   "Name": "Socks",
+   "action": "keep",
+   "original": {
+    "Name": "Socks"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-563",
+   "Name": "Sofa",
+   "action": "keep",
+   "original": {
+    "Name": "Sofa"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-564",
+   "Name": "Song",
+   "action": "remove",
+   "original": {
+    "Name": "Song"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game12-565",
+   "Name": "Soup",
+   "action": "keep",
+   "original": {
+    "Name": "Soup"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-566",
+   "Name": "Souvenir",
+   "action": "keep",
+   "original": {
+    "Name": "Souvenir"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-567",
+   "Name": "Space",
+   "action": "keep",
+   "original": {
+    "Name": "Space"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-568",
+   "Name": "Spaghetti",
+   "action": "keep",
+   "original": {
+    "Name": "Spaghetti"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-569",
+   "Name": "Spear",
+   "action": "keep",
+   "original": {
+    "Name": "Spear"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-570",
+   "Name": "Spider",
+   "action": "keep",
+   "original": {
+    "Name": "Spider"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-571",
+   "Name": "Spike",
+   "action": "keep",
+   "original": {
+    "Name": "Spike"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-572",
+   "Name": "Spirit",
+   "action": "keep",
+   "original": {
+    "Name": "Spirit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-573",
+   "Name": "Spit",
+   "action": "keep",
+   "original": {
+    "Name": "Spit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-574",
+   "Name": "Sponge",
+   "action": "keep",
+   "original": {
+    "Name": "Sponge"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-575",
+   "Name": "Spray",
+   "action": "keep",
+   "original": {
+    "Name": "Spray"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-576",
+   "Name": "Spring",
+   "action": "keep",
+   "original": {
+    "Name": "Spring"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-577",
+   "Name": "Stage",
+   "action": "keep",
+   "original": {
+    "Name": "Stage"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-578",
+   "Name": "Stain",
+   "action": "keep",
+   "original": {
+    "Name": "Stain"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-579",
+   "Name": "Star",
+   "action": "keep",
+   "original": {
+    "Name": "Star"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-580",
+   "Name": "Statue",
+   "action": "keep",
+   "original": {
+    "Name": "Statue"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-581",
+   "Name": "Steroid",
+   "action": "remove",
+   "original": {
+    "Name": "Steroid"
+   },
+   "note": "drug-related"
+  },
+  {
+   "id": "game12-582",
+   "Name": "Stew",
+   "action": "keep",
+   "original": {
+    "Name": "Stew"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-583",
+   "Name": "Stick",
+   "action": "keep",
+   "original": {
+    "Name": "Stick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-584",
+   "Name": "Sticker",
+   "action": "keep",
+   "original": {
+    "Name": "Sticker"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-585",
+   "Name": "Stool",
+   "action": "keep",
+   "original": {
+    "Name": "Stool"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-586",
+   "Name": "Storm",
+   "action": "keep",
+   "original": {
+    "Name": "Storm"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-587",
+   "Name": "Story",
+   "action": "keep",
+   "original": {
+    "Name": "Story"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-588",
+   "Name": "Stove",
+   "action": "keep",
+   "original": {
+    "Name": "Stove"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-589",
+   "Name": "Strap",
+   "action": "keep",
+   "original": {
+    "Name": "Strap"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-590",
+   "Name": "Straw",
+   "action": "keep",
+   "original": {
+    "Name": "Straw"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-591",
+   "Name": "Street",
+   "action": "keep",
+   "original": {
+    "Name": "Street"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-592",
+   "Name": "Stress",
+   "action": "keep",
+   "original": {
+    "Name": "Stress"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-593",
+   "Name": "String",
+   "action": "keep",
+   "original": {
+    "Name": "String"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-594",
+   "Name": "Sugar",
+   "action": "keep",
+   "original": {
+    "Name": "Sugar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-595",
+   "Name": "Suit",
+   "action": "keep",
+   "original": {
+    "Name": "Suit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-596",
+   "Name": "Sun",
+   "action": "keep",
+   "original": {
+    "Name": "Sun"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-597",
+   "Name": "Surgery",
+   "action": "keep",
+   "original": {
+    "Name": "Surgery"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-598",
+   "Name": "Surprise",
+   "action": "keep",
+   "original": {
+    "Name": "Surprise"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-599",
+   "Name": "Sushi",
+   "action": "keep",
+   "original": {
+    "Name": "Sushi"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-600",
+   "Name": "Swamp",
+   "action": "keep",
+   "original": {
+    "Name": "Swamp"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-601",
+   "Name": "Sweat",
+   "action": "keep",
+   "original": {
+    "Name": "Sweat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-602",
+   "Name": "Sweater",
+   "action": "keep",
+   "original": {
+    "Name": "Sweater"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-603",
+   "Name": "Swing",
+   "action": "keep",
+   "original": {
+    "Name": "Swing"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-604",
+   "Name": "Switch",
+   "action": "keep",
+   "original": {
+    "Name": "Switch"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-605",
+   "Name": "Sword",
+   "action": "keep",
+   "original": {
+    "Name": "Sword"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-606",
+   "Name": "Syrup",
+   "action": "keep",
+   "original": {
+    "Name": "Syrup"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-607",
+   "Name": "Table",
+   "action": "keep",
+   "original": {
+    "Name": "Table"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-608",
+   "Name": "Taco",
+   "action": "keep",
+   "original": {
+    "Name": "Taco"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-609",
+   "Name": "Tail",
+   "action": "keep",
+   "original": {
+    "Name": "Tail"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-610",
+   "Name": "Tambourine",
+   "action": "remove",
+   "original": {
+    "Name": "Tambourine"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game12-611",
+   "Name": "Tank",
+   "action": "keep",
+   "original": {
+    "Name": "Tank"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-612",
+   "Name": "Tape",
+   "action": "keep",
+   "original": {
+    "Name": "Tape"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-613",
+   "Name": "Tar",
+   "action": "keep",
+   "original": {
+    "Name": "Tar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-614",
+   "Name": "Tarp",
+   "action": "keep",
+   "original": {
+    "Name": "Tarp"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-615",
+   "Name": "Taser",
+   "action": "remove",
+   "original": {
+    "Name": "Taser"
+   },
+   "note": "obscure; weapon"
+  },
+  {
+   "id": "game12-616",
+   "Name": "Tattoo",
+   "action": "remove",
+   "original": {
+    "Name": "Tattoo"
+   },
+   "note": "not permissible in Islam"
+  },
+  {
+   "id": "game12-617",
+   "Name": "Tax",
+   "action": "keep",
+   "original": {
+    "Name": "Tax"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-618",
+   "Name": "Team",
+   "action": "keep",
+   "original": {
+    "Name": "Team"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-619",
+   "Name": "Tear",
+   "action": "keep",
+   "original": {
+    "Name": "Tear"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-620",
+   "Name": "Telephone",
+   "action": "remove",
+   "original": {
+    "Name": "Telephone"
+   },
+   "note": "duplicate of Phone (game12-429)"
+  },
+  {
+   "id": "game12-621",
+   "Name": "Telescope",
+   "action": "keep",
+   "original": {
+    "Name": "Telescope"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-622",
+   "Name": "Tent",
+   "action": "keep",
+   "original": {
+    "Name": "Tent"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-623",
+   "Name": "Therapy",
+   "action": "keep",
+   "original": {
+    "Name": "Therapy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-624",
+   "Name": "Thorn",
+   "action": "keep",
+   "original": {
+    "Name": "Thorn"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-625",
+   "Name": "Throat",
+   "action": "keep",
+   "original": {
+    "Name": "Throat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-626",
+   "Name": "Throne",
+   "action": "keep",
+   "original": {
+    "Name": "Throne"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-627",
+   "Name": "Ticket",
+   "action": "keep",
+   "original": {
+    "Name": "Ticket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-628",
+   "Name": "Tickle",
+   "action": "remove",
+   "original": {
+    "Name": "Tickle"
+   },
+   "note": "verb-like, not a concrete noun"
+  },
+  {
+   "id": "game12-629",
+   "Name": "Tie",
+   "action": "keep",
+   "original": {
+    "Name": "Tie"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-630",
+   "Name": "Tiger",
+   "action": "keep",
+   "original": {
+    "Name": "Tiger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-631",
+   "Name": "Time",
+   "action": "keep",
+   "original": {
+    "Name": "Time"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-632",
+   "Name": "Toe",
+   "action": "keep",
+   "original": {
+    "Name": "Toe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-633",
+   "Name": "Tofu",
+   "action": "keep",
+   "original": {
+    "Name": "Tofu"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-634",
+   "Name": "Toilet",
+   "action": "keep",
+   "original": {
+    "Name": "Toilet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-635",
+   "Name": "Tomb",
+   "action": "keep",
+   "original": {
+    "Name": "Tomb"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-636",
+   "Name": "Tongue",
+   "action": "keep",
+   "original": {
+    "Name": "Tongue"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-637",
+   "Name": "Tooth",
+   "action": "keep",
+   "original": {
+    "Name": "Tooth"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-638",
+   "Name": "Torch",
+   "action": "keep",
+   "original": {
+    "Name": "Torch"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-639",
+   "Name": "Tornado",
+   "action": "keep",
+   "original": {
+    "Name": "Tornado"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-640",
+   "Name": "Torpedo",
+   "action": "keep",
+   "original": {
+    "Name": "Torpedo"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-641",
+   "Name": "Towel",
+   "action": "keep",
+   "original": {
+    "Name": "Towel"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-642",
+   "Name": "Tower",
+   "action": "keep",
+   "original": {
+    "Name": "Tower"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-643",
+   "Name": "Toy",
+   "action": "keep",
+   "original": {
+    "Name": "Toy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-644",
+   "Name": "Traffic",
+   "action": "keep",
+   "original": {
+    "Name": "Traffic"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-645",
+   "Name": "Trail",
+   "action": "keep",
+   "original": {
+    "Name": "Trail"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-646",
+   "Name": "Training",
+   "action": "keep",
+   "original": {
+    "Name": "Training"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-647",
+   "Name": "Trampoline",
+   "action": "keep",
+   "original": {
+    "Name": "Trampoline"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-648",
+   "Name": "Trap",
+   "action": "keep",
+   "original": {
+    "Name": "Trap"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-649",
+   "Name": "Trash",
+   "action": "remove",
+   "original": {
+    "Name": "Trash"
+   },
+   "note": "duplicate of Garbage (game12-244)"
+  },
+  {
+   "id": "game12-650",
+   "Name": "Tray",
+   "action": "keep",
+   "original": {
+    "Name": "Tray"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-651",
+   "Name": "Treadmill",
+   "action": "keep",
+   "original": {
+    "Name": "Treadmill"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-652",
+   "Name": "Treasure",
+   "action": "keep",
+   "original": {
+    "Name": "Treasure"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-653",
+   "Name": "Tree",
+   "action": "keep",
+   "original": {
+    "Name": "Tree"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-654",
+   "Name": "Trick",
+   "action": "keep",
+   "original": {
+    "Name": "Trick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-655",
+   "Name": "Trigger",
+   "action": "keep",
+   "original": {
+    "Name": "Trigger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-656",
+   "Name": "Trophy",
+   "action": "keep",
+   "original": {
+    "Name": "Trophy"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-657",
+   "Name": "Truck",
+   "action": "keep",
+   "original": {
+    "Name": "Truck"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-658",
+   "Name": "Trumpet",
+   "action": "remove",
+   "original": {
+    "Name": "Trumpet"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game12-659",
+   "Name": "Trust",
+   "action": "keep",
+   "original": {
+    "Name": "Trust"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-660",
+   "Name": "Truth",
+   "action": "keep",
+   "original": {
+    "Name": "Truth"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-661",
+   "Name": "Tsunami",
+   "action": "keep",
+   "original": {
+    "Name": "Tsunami"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-662",
+   "Name": "Tub",
+   "action": "keep",
+   "original": {
+    "Name": "Tub"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-663",
+   "Name": "Tube",
+   "action": "keep",
+   "original": {
+    "Name": "Tube"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-664",
+   "Name": "Tummy",
+   "action": "remove",
+   "original": {
+    "Name": "Tummy"
+   },
+   "note": "duplicate of Belly (game12-39)"
+  },
+  {
+   "id": "game12-665",
+   "Name": "Tumor",
+   "action": "keep",
+   "original": {
+    "Name": "Tumor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-666",
+   "Name": "Tunnel",
+   "action": "keep",
+   "original": {
+    "Name": "Tunnel"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-667",
+   "Name": "Turtle",
+   "action": "keep",
+   "original": {
+    "Name": "Turtle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-668",
+   "Name": "Tutu",
+   "action": "remove",
+   "original": {
+    "Name": "Tutu"
+   },
+   "note": "western/secular (dance)"
+  },
+  {
+   "id": "game12-669",
+   "Name": "Tuxedo",
+   "action": "keep",
+   "original": {
+    "Name": "Tuxedo"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-670",
+   "Name": "TV",
+   "action": "edit",
+   "original": {
+    "Name": "Tv"
+   },
+   "note": "abbreviation capitalized; kept over later Television (game12-723)"
+  },
+  {
+   "id": "game12-671",
+   "Name": "Umbrella",
+   "action": "keep",
+   "original": {
+    "Name": "Umbrella"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-672",
+   "Name": "Underwear",
+   "action": "remove",
+   "original": {
+    "Name": "Underwear"
+   },
+   "note": "inappropriate for family play"
+  },
+  {
+   "id": "game12-673",
+   "Name": "Unicorn",
+   "action": "keep",
+   "original": {
+    "Name": "Unicorn"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-674",
+   "Name": "Uniform",
+   "action": "keep",
+   "original": {
+    "Name": "Uniform"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-675",
+   "Name": "Urge",
+   "action": "keep",
+   "original": {
+    "Name": "Urge"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-676",
+   "Name": "Urinal",
+   "action": "remove",
+   "original": {
+    "Name": "Urinal"
+   },
+   "note": "crude"
+  },
+  {
+   "id": "game12-677",
+   "Name": "Vacation",
+   "action": "keep",
+   "original": {
+    "Name": "Vacation"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-678",
+   "Name": "Vaccine",
+   "action": "keep",
+   "original": {
+    "Name": "Vaccine"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-679",
+   "Name": "Vacuum",
+   "action": "keep",
+   "original": {
+    "Name": "Vacuum"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-680",
+   "Name": "Vapor",
+   "action": "keep",
+   "original": {
+    "Name": "Vapor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-681",
+   "Name": "Vault",
+   "action": "keep",
+   "original": {
+    "Name": "Vault"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-682",
+   "Name": "Velcro",
+   "action": "remove",
+   "original": {
+    "Name": "Velcro"
+   },
+   "note": "brand name"
+  },
+  {
+   "id": "game12-683",
+   "Name": "Vest",
+   "action": "keep",
+   "original": {
+    "Name": "Vest"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-684",
+   "Name": "Victory",
+   "action": "keep",
+   "original": {
+    "Name": "Victory"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-685",
+   "Name": "Video",
+   "action": "keep",
+   "original": {
+    "Name": "Video"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-686",
+   "Name": "Vine",
+   "action": "keep",
+   "original": {
+    "Name": "Vine"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-687",
+   "Name": "Virus",
+   "action": "keep",
+   "original": {
+    "Name": "Virus"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-688",
+   "Name": "Vision",
+   "action": "keep",
+   "original": {
+    "Name": "Vision"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-689",
+   "Name": "Vitamin",
+   "action": "keep",
+   "original": {
+    "Name": "Vitamin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-690",
+   "Name": "Voice",
+   "action": "keep",
+   "original": {
+    "Name": "Voice"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-691",
+   "Name": "Volcano",
+   "action": "keep",
+   "original": {
+    "Name": "Volcano"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-692",
+   "Name": "Vomit",
+   "action": "remove",
+   "original": {
+    "Name": "Vomit"
+   },
+   "note": "crude/gross"
+  },
+  {
+   "id": "game12-693",
+   "Name": "Wagon",
+   "action": "keep",
+   "original": {
+    "Name": "Wagon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-694",
+   "Name": "Wall",
+   "action": "keep",
+   "original": {
+    "Name": "Wall"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-695",
+   "Name": "Wand",
+   "action": "remove",
+   "original": {
+    "Name": "Wand"
+   },
+   "note": "magic wand; sihr/magic not suitable"
+  },
+  {
+   "id": "game12-696",
+   "Name": "War",
+   "action": "keep",
+   "original": {
+    "Name": "War"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-697",
+   "Name": "Water",
+   "action": "keep",
+   "original": {
+    "Name": "Water"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-698",
+   "Name": "Wax",
+   "action": "keep",
+   "original": {
+    "Name": "Wax"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-699",
+   "Name": "Web",
+   "action": "keep",
+   "original": {
+    "Name": "Web"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-700",
+   "Name": "Wheel",
+   "action": "keep",
+   "original": {
+    "Name": "Wheel"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-701",
+   "Name": "Whip",
+   "action": "keep",
+   "original": {
+    "Name": "Whip"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-702",
+   "Name": "Whistle",
+   "action": "keep",
+   "original": {
+    "Name": "Whistle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-703",
+   "Name": "Wig",
+   "action": "keep",
+   "original": {
+    "Name": "Wig"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-704",
+   "Name": "Wind",
+   "action": "keep",
+   "original": {
+    "Name": "Wind"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-705",
+   "Name": "Window",
+   "action": "keep",
+   "original": {
+    "Name": "Window"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-706",
+   "Name": "Wings",
+   "action": "keep",
+   "original": {
+    "Name": "Wings"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-707",
+   "Name": "Wire",
+   "action": "keep",
+   "original": {
+    "Name": "Wire"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-708",
+   "Name": "Wisdom",
+   "action": "keep",
+   "original": {
+    "Name": "Wisdom"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-709",
+   "Name": "Wish",
+   "action": "keep",
+   "original": {
+    "Name": "Wish"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-710",
+   "Name": "Work",
+   "action": "keep",
+   "original": {
+    "Name": "Work"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-711",
+   "Name": "Worm",
+   "action": "keep",
+   "original": {
+    "Name": "Worm"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-712",
+   "Name": "Yarn",
+   "action": "keep",
+   "original": {
+    "Name": "Yarn"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-713",
+   "Name": "Yawn",
+   "action": "keep",
+   "original": {
+    "Name": "Yawn"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-714",
+   "Name": "Zit",
+   "action": "remove",
+   "original": {
+    "Name": "Zit"
+   },
+   "note": "crude slang; duplicate of Pimple (game12-436)"
+  },
+  {
+   "id": "game12-715",
+   "Name": "Candy Wrapper",
+   "action": "keep",
+   "original": {
+    "Name": "Candy Wrapper"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-716",
+   "Name": "Candlestick",
+   "action": "keep",
+   "original": {
+    "Name": "Candlestick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-717",
+   "Name": "Nail File",
+   "action": "edit",
+   "original": {
+    "Name": "Nail Filer"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-718",
+   "Name": "Boom Box",
+   "action": "remove",
+   "original": {
+    "Name": "Boom Box"
+   },
+   "note": "western/secular (music)"
+  },
+  {
+   "id": "game12-719",
+   "Name": "Wine Glass",
+   "action": "remove",
+   "original": {
+    "Name": "Wine Glass"
+   },
+   "note": "western/secular (alcohol)"
+  },
+  {
+   "id": "game12-720",
+   "Name": "Toothpick",
+   "action": "keep",
+   "original": {
+    "Name": "Toothpick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-721",
+   "Name": "Locket",
+   "action": "keep",
+   "original": {
+    "Name": "Locket"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-722",
+   "Name": "Salt Shaker",
+   "action": "keep",
+   "original": {
+    "Name": "Salt Shaker"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-723",
+   "Name": "Television",
+   "action": "remove",
+   "original": {
+    "Name": "Television"
+   },
+   "note": "duplicate of Tv (game12-670)"
+  },
+  {
+   "id": "game12-724",
+   "Name": "Snow Globe",
+   "action": "edit",
+   "original": {
+    "Name": "Snowglobe"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-725",
+   "Name": "Toilet Paper Tube",
+   "action": "keep",
+   "original": {
+    "Name": "Toilet Paper Tube"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-726",
+   "Name": "Tomato",
+   "action": "keep",
+   "original": {
+    "Name": "Tomato"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-727",
+   "Name": "Carrots",
+   "action": "remove",
+   "original": {
+    "Name": "Carrots"
+   },
+   "note": "duplicate of Carrot (game12-102)"
+  },
+  {
+   "id": "game12-728",
+   "Name": "Monitor",
+   "action": "keep",
+   "original": {
+    "Name": "Monitor"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-729",
+   "Name": "CD",
+   "action": "edit",
+   "original": {
+    "Name": "Game Cd"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game12-730",
+   "Name": "Bottle Cap",
+   "action": "keep",
+   "original": {
+    "Name": "Bottle Cap"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-731",
+   "Name": "Pocket Knife",
+   "action": "edit",
+   "original": {
+    "Name": "Pocketknife"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-732",
+   "Name": "Tissues",
+   "action": "keep",
+   "original": {
+    "Name": "Tissues"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-733",
+   "Name": "Clothes",
+   "action": "keep",
+   "original": {
+    "Name": "Clothes"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-734",
+   "Name": "Necklace",
+   "action": "keep",
+   "original": {
+    "Name": "Necklace"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-735",
+   "Name": "Toothbrush",
+   "action": "keep",
+   "original": {
+    "Name": "Toothbrush"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-736",
+   "Name": "Cricket Bat",
+   "action": "edit",
+   "original": {
+    "Name": "Baseball Bat"
+   },
+   "note": "Pakistani frame"
+  },
+  {
+   "id": "game12-737",
+   "Name": "Shopping Bag",
+   "action": "keep",
+   "original": {
+    "Name": "Shopping Bag"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-738",
+   "Name": "Keychain",
+   "action": "edit",
+   "original": {
+    "Name": "Key Chain"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-739",
+   "Name": "Matches",
+   "action": "keep",
+   "original": {
+    "Name": "Matches"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-740",
+   "Name": "Sketch Pad",
+   "action": "keep",
+   "original": {
+    "Name": "Sketch Pad"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-741",
+   "Name": "Garden Spade",
+   "action": "keep",
+   "original": {
+    "Name": "Garden Spade"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-742",
+   "Name": "Sheet Of Paper",
+   "action": "remove",
+   "original": {
+    "Name": "Sheet Of Paper"
+   },
+   "note": "duplicate of Paper (game12-412)"
+  },
+  {
+   "id": "game12-743",
+   "Name": "Wooden Spoon",
+   "action": "keep",
+   "original": {
+    "Name": "Wooden Spoon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-744",
+   "Name": "Incense Holder",
+   "action": "keep",
+   "original": {
+    "Name": "Incense Holder"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-745",
+   "Name": "Ladle",
+   "action": "keep",
+   "original": {
+    "Name": "Ladle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-746",
+   "Name": "Lion",
+   "action": "keep",
+   "original": {
+    "Name": "Lion"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-747",
+   "Name": "Hairbrush",
+   "action": "edit",
+   "original": {
+    "Name": "Hair Brush"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-748",
+   "Name": "Scotch Tape",
+   "action": "remove",
+   "original": {
+    "Name": "Scotch Tape"
+   },
+   "note": "brand name; duplicate of Tape (game12-612)"
+  },
+  {
+   "id": "game12-749",
+   "Name": "Cars",
+   "action": "remove",
+   "original": {
+    "Name": "Cars"
+   },
+   "note": "duplicate of Car (game12-99)"
+  },
+  {
+   "id": "game12-750",
+   "Name": "Ice Cream Stick",
+   "action": "keep",
+   "original": {
+    "Name": "Ice Cream Stick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-751",
+   "Name": "Football",
+   "action": "edit",
+   "original": {
+    "Name": "Soccer Ball"
+   },
+   "note": "Pakistani usage"
+  },
+  {
+   "id": "game12-752",
+   "Name": "Drawer",
+   "action": "keep",
+   "original": {
+    "Name": "Drawer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-753",
+   "Name": "Cow",
+   "action": "keep",
+   "original": {
+    "Name": "Cow"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-754",
+   "Name": "Shirt Button",
+   "action": "remove",
+   "original": {
+    "Name": "Shirt Button"
+   },
+   "note": "duplicate of Button (game12-85)"
+  },
+  {
+   "id": "game12-755",
+   "Name": "Squirrel",
+   "action": "keep",
+   "original": {
+    "Name": "Squirrel"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-756",
+   "Name": "Hand Fan",
+   "action": "keep",
+   "original": {
+    "Name": "Hand Fan"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-757",
+   "Name": "Candy Cane",
+   "action": "remove",
+   "original": {
+    "Name": "Candy Cane"
+   },
+   "note": "western/secular (Christmas)"
+  },
+  {
+   "id": "game12-758",
+   "Name": "Cotton Buds",
+   "action": "edit",
+   "original": {
+    "Name": "Q-Tips"
+   },
+   "note": "brand name"
+  },
+  {
+   "id": "game12-759",
+   "Name": "Safety Pin",
+   "action": "keep",
+   "original": {
+    "Name": "Safety Pin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-760",
+   "Name": "Beef",
+   "action": "keep",
+   "original": {
+    "Name": "Beef"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-761",
+   "Name": "Game Cartridge",
+   "action": "remove",
+   "original": {
+    "Name": "Game Cartridge"
+   },
+   "note": "obscure/dated"
+  },
+  {
+   "id": "game12-762",
+   "Name": "Flood",
+   "action": "keep",
+   "original": {
+    "Name": "Flood"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-763",
+   "Name": "Baking Soda",
+   "action": "keep",
+   "original": {
+    "Name": "Baking Soda"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-764",
+   "Name": "Hand Bag",
+   "action": "remove",
+   "original": {
+    "Name": "Hand Bag"
+   },
+   "note": "duplicate of Purse (game12-474)"
+  },
+  {
+   "id": "game12-765",
+   "Name": "Teapot",
+   "action": "edit",
+   "original": {
+    "Name": "Tea Pot"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-766",
+   "Name": "Ice Cream",
+   "action": "edit",
+   "original": {
+    "Name": "Carton Of Ice Cream"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game12-767",
+   "Name": "Water Bottle",
+   "action": "keep",
+   "original": {
+    "Name": "Water Bottle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-768",
+   "Name": "Rat",
+   "action": "keep",
+   "original": {
+    "Name": "Rat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-769",
+   "Name": "Toy Boat",
+   "action": "keep",
+   "original": {
+    "Name": "Toy Boat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-770",
+   "Name": "Lip Balm",
+   "action": "keep",
+   "original": {
+    "Name": "Lip Balm"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-771",
+   "Name": "Cell Phone",
+   "action": "remove",
+   "original": {
+    "Name": "Cell Phone"
+   },
+   "note": "duplicate of Phone (game12-429)"
+  },
+  {
+   "id": "game12-772",
+   "Name": "Hourglass",
+   "action": "edit",
+   "original": {
+    "Name": "Sandglass"
+   },
+   "note": "more common word"
+  },
+  {
+   "id": "game12-773",
+   "Name": "Conditioner",
+   "action": "keep",
+   "original": {
+    "Name": "Conditioner"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-774",
+   "Name": "Fly Swatter",
+   "action": "edit",
+   "original": {
+    "Name": "Flyswatter"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-775",
+   "Name": "Clay Pot",
+   "action": "keep",
+   "original": {
+    "Name": "Clay Pot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-776",
+   "Name": "Catalogue",
+   "action": "keep",
+   "original": {
+    "Name": "Catalogue"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-777",
+   "Name": "Hair Tie",
+   "action": "keep",
+   "original": {
+    "Name": "Hair Tie"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-778",
+   "Name": "Canvas",
+   "action": "keep",
+   "original": {
+    "Name": "Canvas"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-779",
+   "Name": "Bananas",
+   "action": "remove",
+   "original": {
+    "Name": "Bananas"
+   },
+   "note": "duplicate of Banana (game12-25)"
+  },
+  {
+   "id": "game12-780",
+   "Name": "Sharpie",
+   "action": "remove",
+   "original": {
+    "Name": "Sharpie"
+   },
+   "note": "brand name; duplicate of Marker (game12-350)"
+  },
+  {
+   "id": "game12-781",
+   "Name": "Cement Stone",
+   "action": "remove",
+   "original": {
+    "Name": "Cement Stone"
+   },
+   "note": "duplicate of Brick (game12-69)"
+  },
+  {
+   "id": "game12-782",
+   "Name": "Coffee Pot",
+   "action": "keep",
+   "original": {
+    "Name": "Coffee Pot"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-783",
+   "Name": "Lipstick",
+   "action": "keep",
+   "original": {
+    "Name": "Lipstick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-784",
+   "Name": "Bandage",
+   "action": "edit",
+   "original": {
+    "Name": "Roll Of Gauze"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game12-785",
+   "Name": "Pie",
+   "action": "keep",
+   "original": {
+    "Name": "Pie"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-786",
+   "Name": "Toy Plane",
+   "action": "keep",
+   "original": {
+    "Name": "Toy Plane"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-787",
+   "Name": "Leg Warmers",
+   "action": "remove",
+   "original": {
+    "Name": "Leg Warmers"
+   },
+   "note": "obscure/western fashion"
+  },
+  {
+   "id": "game12-788",
+   "Name": "Lighter",
+   "action": "keep",
+   "original": {
+    "Name": "Lighter"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-789",
+   "Name": "Keys",
+   "action": "remove",
+   "original": {
+    "Name": "Keys"
+   },
+   "note": "duplicate of Key (game12-321)"
+  },
+  {
+   "id": "game12-790",
+   "Name": "Crayon",
+   "action": "edit",
+   "original": {
+    "Name": "Crayons"
+   },
+   "note": "singular"
+  },
+  {
+   "id": "game12-791",
+   "Name": "Glass",
+   "action": "keep",
+   "original": {
+    "Name": "Glass"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-792",
+   "Name": "Charger",
+   "action": "edit",
+   "original": {
+    "Name": "Ipod Charger"
+   },
+   "note": "brand name"
+  },
+  {
+   "id": "game12-793",
+   "Name": "Washcloth",
+   "action": "keep",
+   "original": {
+    "Name": "Washcloth"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-794",
+   "Name": "Mouse Pad",
+   "action": "keep",
+   "original": {
+    "Name": "Mouse Pad"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-795",
+   "Name": "Sunscreen",
+   "action": "keep",
+   "original": {
+    "Name": "Sunscreen"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-796",
+   "Name": "Battery",
+   "action": "edit",
+   "original": {
+    "Name": "Few Batteries"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game12-797",
+   "Name": "Comic Book",
+   "action": "keep",
+   "original": {
+    "Name": "Comic Book"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-798",
+   "Name": "Tin Can",
+   "action": "keep",
+   "original": {
+    "Name": "Tin Can"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-799",
+   "Name": "Lampshade",
+   "action": "edit",
+   "original": {
+    "Name": "Lamp Shade"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-800",
+   "Name": "Lime",
+   "action": "keep",
+   "original": {
+    "Name": "Lime"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-801",
+   "Name": "Nut",
+   "action": "keep",
+   "original": {
+    "Name": "Nut"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-802",
+   "Name": "Pony",
+   "action": "keep",
+   "original": {
+    "Name": "Pony"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-803",
+   "Name": "Incense Stick",
+   "action": "edit",
+   "original": {
+    "Name": "Stick Of Incense"
+   },
+   "note": "clearer/standard spelling: was Stick Of Incense"
+  },
+  {
+   "id": "game12-804",
+   "Name": "Flowers",
+   "action": "remove",
+   "original": {
+    "Name": "Flowers"
+   },
+   "note": "duplicate of Flower (223)"
+  },
+  {
+   "id": "game12-805",
+   "Name": "Plastic Fork",
+   "action": "remove",
+   "original": {
+    "Name": "Plastic Fork"
+   },
+   "note": "near-duplicate of Fork (231)"
+  },
+  {
+   "id": "game12-806",
+   "Name": "Handbasket",
+   "action": "remove",
+   "original": {
+    "Name": "Handbasket"
+   },
+   "note": "near-duplicate of Basket (30)"
+  },
+  {
+   "id": "game12-807",
+   "Name": "Dice",
+   "action": "edit",
+   "original": {
+    "Name": "Pair Of Dice"
+   },
+   "note": "clearer/standard spelling: was Pair Of Dice"
+  },
+  {
+   "id": "game12-808",
+   "Name": "Elf",
+   "action": "remove",
+   "original": {
+    "Name": "Elf"
+   },
+   "note": "western fantasy/Christmas figure"
+  },
+  {
+   "id": "game12-809",
+   "Name": "Frog",
+   "action": "keep",
+   "original": {
+    "Name": "Frog"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-810",
+   "Name": "Stop Sign",
+   "action": "keep",
+   "original": {
+    "Name": "Stop Sign"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-811",
+   "Name": "Nail",
+   "action": "keep",
+   "original": {
+    "Name": "Nail"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-812",
+   "Name": "Rabbit",
+   "action": "keep",
+   "original": {
+    "Name": "Rabbit"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-813",
+   "Name": "Cork",
+   "action": "keep",
+   "original": {
+    "Name": "Cork"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-814",
+   "Name": "Candy Bar",
+   "action": "keep",
+   "original": {
+    "Name": "Candy Bar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-815",
+   "Name": "Markers",
+   "action": "remove",
+   "original": {
+    "Name": "Markers"
+   },
+   "note": "duplicate of Marker (350)"
+  },
+  {
+   "id": "game12-816",
+   "Name": "Pepper Shaker",
+   "action": "keep",
+   "original": {
+    "Name": "Pepper Shaker"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-817",
+   "Name": "Model Car",
+   "action": "keep",
+   "original": {
+    "Name": "Model Car"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-818",
+   "Name": "Quartz Crystal",
+   "action": "remove",
+   "original": {
+    "Name": "Quartz Crystal"
+   },
+   "note": "near-duplicate of Crystal (142)"
+  },
+  {
+   "id": "game12-819",
+   "Name": "Mp3 Player",
+   "action": "remove",
+   "original": {
+    "Name": "Mp3 Player"
+   },
+   "note": "western/secular (music player)"
+  },
+  {
+   "id": "game12-820",
+   "Name": "Thermometer",
+   "action": "keep",
+   "original": {
+    "Name": "Thermometer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-821",
+   "Name": "Spatula",
+   "action": "keep",
+   "original": {
+    "Name": "Spatula"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-822",
+   "Name": "Jam Jar",
+   "action": "edit",
+   "original": {
+    "Name": "Jar Of Jam"
+   },
+   "note": "clearer/standard spelling: was Jar Of Jam"
+  },
+  {
+   "id": "game12-823",
+   "Name": "Screw",
+   "action": "keep",
+   "original": {
+    "Name": "Screw"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-824",
+   "Name": "Pickle Jar",
+   "action": "edit",
+   "original": {
+    "Name": "Jar Of Pickles"
+   },
+   "note": "clearer/standard spelling: was Jar Of Pickles"
+  },
+  {
+   "id": "game12-825",
+   "Name": "Video Game",
+   "action": "edit",
+   "original": {
+    "Name": "Video Games"
+   },
+   "note": "clearer/standard spelling: was Video Games"
+  },
+  {
+   "id": "game12-826",
+   "Name": "Pencil Holder",
+   "action": "keep",
+   "original": {
+    "Name": "Pencil Holder"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-827",
+   "Name": "Zipper",
+   "action": "keep",
+   "original": {
+    "Name": "Zipper"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-828",
+   "Name": "Notepad",
+   "action": "keep",
+   "original": {
+    "Name": "Notepad"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-829",
+   "Name": "Cd",
+   "action": "remove",
+   "original": {
+    "Name": "Cd"
+   },
+   "note": "near-duplicate of Game Cd (729)"
+  },
+  {
+   "id": "game12-830",
+   "Name": "Feather Duster",
+   "action": "keep",
+   "original": {
+    "Name": "Feather Duster"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-831",
+   "Name": "Fishing Hook",
+   "action": "keep",
+   "original": {
+    "Name": "Fishing Hook"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-832",
+   "Name": "Quilt",
+   "action": "keep",
+   "original": {
+    "Name": "Quilt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-833",
+   "Name": "Castle",
+   "action": "keep",
+   "original": {
+    "Name": "Castle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-834",
+   "Name": "Bow",
+   "action": "keep",
+   "original": {
+    "Name": "Bow"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-835",
+   "Name": "Face Wash",
+   "action": "keep",
+   "original": {
+    "Name": "Face Wash"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-836",
+   "Name": "Ice Cube",
+   "action": "keep",
+   "original": {
+    "Name": "Ice Cube"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-837",
+   "Name": "Bonesaw",
+   "action": "remove",
+   "original": {
+    "Name": "Bonesaw"
+   },
+   "note": "gory/obscure; Saw (517) exists"
+  },
+  {
+   "id": "game12-838",
+   "Name": "Pearl Necklace",
+   "action": "keep",
+   "original": {
+    "Name": "Pearl Necklace"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-839",
+   "Name": "Chocolates",
+   "action": "remove",
+   "original": {
+    "Name": "Chocolates"
+   },
+   "note": "duplicate of Chocolate (115)"
+  },
+  {
+   "id": "game12-840",
+   "Name": "Sailboat",
+   "action": "keep",
+   "original": {
+    "Name": "Sailboat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-841",
+   "Name": "Cards",
+   "action": "remove",
+   "original": {
+    "Name": "Cards"
+   },
+   "note": "duplicate of Card (100)"
+  },
+  {
+   "id": "game12-842",
+   "Name": "Egg Timer",
+   "action": "keep",
+   "original": {
+    "Name": "Egg Timer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-843",
+   "Name": "Tongs",
+   "action": "keep",
+   "original": {
+    "Name": "Tongs"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-844",
+   "Name": "Microphone",
+   "action": "keep",
+   "original": {
+    "Name": "Microphone"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-845",
+   "Name": "Apple",
+   "action": "keep",
+   "original": {
+    "Name": "Apple"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-846",
+   "Name": "Sandpaper",
+   "action": "edit",
+   "original": {
+    "Name": "Sand Paper"
+   },
+   "note": "clearer/standard spelling: was Sand Paper"
+  },
+  {
+   "id": "game12-847",
+   "Name": "Wallet",
+   "action": "keep",
+   "original": {
+    "Name": "Wallet"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-848",
+   "Name": "Comb",
+   "action": "keep",
+   "original": {
+    "Name": "Comb"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-849",
+   "Name": "Jigsaw Puzzle",
+   "action": "keep",
+   "original": {
+    "Name": "Jigsaw Puzzle"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-850",
+   "Name": "Cowboy Hat",
+   "action": "keep",
+   "original": {
+    "Name": "Cowboy Hat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-851",
+   "Name": "Elevator",
+   "action": "keep",
+   "original": {
+    "Name": "Elevator"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-852",
+   "Name": "Broccoli",
+   "action": "keep",
+   "original": {
+    "Name": "Broccoli"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-853",
+   "Name": "Baseball Cap",
+   "action": "edit",
+   "original": {
+    "Name": "Baseball Hat"
+   },
+   "note": "clearer/standard spelling: was Baseball Hat"
+  },
+  {
+   "id": "game12-854",
+   "Name": "Cucumber",
+   "action": "keep",
+   "original": {
+    "Name": "Cucumber"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-855",
+   "Name": "Flashlight",
+   "action": "keep",
+   "original": {
+    "Name": "Flashlight"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-856",
+   "Name": "Teddy Bear",
+   "action": "edit",
+   "original": {
+    "Name": "Teddies"
+   },
+   "note": "clearer/standard spelling: was Teddies"
+  },
+  {
+   "id": "game12-857",
+   "Name": "Alcohol",
+   "action": "remove",
+   "original": {
+    "Name": "Alcohol"
+   },
+   "note": "western/secular (alcohol)"
+  },
+  {
+   "id": "game12-858",
+   "Name": "Hanger",
+   "action": "keep",
+   "original": {
+    "Name": "Hanger"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-859",
+   "Name": "Screwdriver",
+   "action": "keep",
+   "original": {
+    "Name": "Screwdriver"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-860",
+   "Name": "Cotton Balls",
+   "action": "keep",
+   "original": {
+    "Name": "Cotton Balls"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-861",
+   "Name": "Cookie Tin",
+   "action": "keep",
+   "original": {
+    "Name": "Cookie Tin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-862",
+   "Name": "Hair Ribbon",
+   "action": "keep",
+   "original": {
+    "Name": "Hair Ribbon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-863",
+   "Name": "Eyeliner",
+   "action": "edit",
+   "original": {
+    "Name": "Eye Liner"
+   },
+   "note": "clearer/standard spelling: was Eye Liner"
+  },
+  {
+   "id": "game12-864",
+   "Name": "Baseball",
+   "action": "keep",
+   "original": {
+    "Name": "Baseball"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-865",
+   "Name": "Seeds",
+   "action": "remove",
+   "original": {
+    "Name": "Seeds"
+   },
+   "note": "duplicate of Seed (527)"
+  },
+  {
+   "id": "game12-866",
+   "Name": "Dominoes",
+   "action": "edit",
+   "original": {
+    "Name": "Domino Set"
+   },
+   "note": "clearer/standard spelling: was Domino Set"
+  },
+  {
+   "id": "game12-867",
+   "Name": "Hairpin",
+   "action": "edit",
+   "original": {
+    "Name": "Hair Pin"
+   },
+   "note": "clearer/standard spelling: was Hair Pin"
+  },
+  {
+   "id": "game12-868",
+   "Name": "Grocery List",
+   "action": "keep",
+   "original": {
+    "Name": "Grocery List"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-869",
+   "Name": "Spoon",
+   "action": "keep",
+   "original": {
+    "Name": "Spoon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-870",
+   "Name": "Bow Tie",
+   "action": "keep",
+   "original": {
+    "Name": "Bow Tie"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-871",
+   "Name": "Seat Belt",
+   "action": "keep",
+   "original": {
+    "Name": "Seat Belt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-872",
+   "Name": "Dictionary",
+   "action": "keep",
+   "original": {
+    "Name": "Dictionary"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-873",
+   "Name": "Pinecone",
+   "action": "keep",
+   "original": {
+    "Name": "Pinecone"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-874",
+   "Name": "Zebra",
+   "action": "keep",
+   "original": {
+    "Name": "Zebra"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-875",
+   "Name": "Giraffe",
+   "action": "keep",
+   "original": {
+    "Name": "Giraffe"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-876",
+   "Name": "Bread",
+   "action": "keep",
+   "original": {
+    "Name": "Bread"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-877",
+   "Name": "Thread",
+   "action": "keep",
+   "original": {
+    "Name": "Thread"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-878",
+   "Name": "Multitool",
+   "action": "keep",
+   "original": {
+    "Name": "Multitool"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-879",
+   "Name": "Tissue Box",
+   "action": "remove",
+   "original": {
+    "Name": "Tissue Box"
+   },
+   "note": "near-duplicate of Tissues (732)"
+  },
+  {
+   "id": "game12-880",
+   "Name": "Shoelace",
+   "action": "edit",
+   "original": {
+    "Name": "Shoe Lace"
+   },
+   "note": "clearer/standard spelling: was Shoe Lace"
+  },
+  {
+   "id": "game12-881",
+   "Name": "Masking Tape",
+   "action": "edit",
+   "original": {
+    "Name": "Roll Of Masking Tape"
+   },
+   "note": "clearer/standard spelling: was Roll Of Masking Tape"
+  },
+  {
+   "id": "game12-882",
+   "Name": "Binoculars",
+   "action": "keep",
+   "original": {
+    "Name": "Binoculars"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-883",
+   "Name": "Egg Beater",
+   "action": "keep",
+   "original": {
+    "Name": "Egg Beater"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-884",
+   "Name": "Octopus",
+   "action": "keep",
+   "original": {
+    "Name": "Octopus"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-885",
+   "Name": "Toy Robot",
+   "action": "remove",
+   "original": {
+    "Name": "Toy Robot"
+   },
+   "note": "near-duplicate of Robot (498)"
+  },
+  {
+   "id": "game12-886",
+   "Name": "Toe Ring",
+   "action": "keep",
+   "original": {
+    "Name": "Toe Ring"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-887",
+   "Name": "Steak Knife",
+   "action": "keep",
+   "original": {
+    "Name": "Steak Knife"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-888",
+   "Name": "Vase",
+   "action": "keep",
+   "original": {
+    "Name": "Vase"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-889",
+   "Name": "Craft Book",
+   "action": "keep",
+   "original": {
+    "Name": "Craft Book"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-890",
+   "Name": "Necktie",
+   "action": "keep",
+   "original": {
+    "Name": "Necktie"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-891",
+   "Name": "Can Of Peas",
+   "action": "keep",
+   "original": {
+    "Name": "Can Of Peas"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-892",
+   "Name": "Dog",
+   "action": "keep",
+   "original": {
+    "Name": "Dog"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-893",
+   "Name": "Rubber Stamp",
+   "action": "keep",
+   "original": {
+    "Name": "Rubber Stamp"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-894",
+   "Name": "Bear",
+   "action": "keep",
+   "original": {
+    "Name": "Bear"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-895",
+   "Name": "Trucks",
+   "action": "remove",
+   "original": {
+    "Name": "Trucks"
+   },
+   "note": "duplicate of Truck (657)"
+  },
+  {
+   "id": "game12-896",
+   "Name": "Spice Bottle",
+   "action": "remove",
+   "original": {
+    "Name": "Spice Bottle"
+   },
+   "note": "near-duplicate of Spice (897)"
+  },
+  {
+   "id": "game12-897",
+   "Name": "Spice",
+   "action": "keep",
+   "original": {
+    "Name": "Spice"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-898",
+   "Name": "Football",
+   "action": "remove",
+   "original": {
+    "Name": "Football"
+   },
+   "note": "Duplicate of Football (game12-751)"
+  },
+  {
+   "id": "game12-899",
+   "Name": "Notebook",
+   "action": "keep",
+   "original": {
+    "Name": "Notebook"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-900",
+   "Name": "Spinning Top",
+   "action": "edit",
+   "original": {
+    "Name": "Toy Top"
+   },
+   "note": "clearer/standard spelling: was Toy Top"
+  },
+  {
+   "id": "game12-901",
+   "Name": "Ocarina",
+   "action": "remove",
+   "original": {
+    "Name": "Ocarina"
+   },
+   "note": "obscure musical instrument"
+  },
+  {
+   "id": "game12-902",
+   "Name": "Laser Pointer",
+   "action": "keep",
+   "original": {
+    "Name": "Laser Pointer"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-903",
+   "Name": "Christmas Ornament",
+   "action": "remove",
+   "original": {
+    "Name": "Christmas Ornament"
+   },
+   "note": "western holiday"
+  },
+  {
+   "id": "game12-904",
+   "Name": "Dove",
+   "action": "keep",
+   "original": {
+    "Name": "Dove"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-905",
+   "Name": "Whale",
+   "action": "keep",
+   "original": {
+    "Name": "Whale"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-906",
+   "Name": "Credit Card",
+   "action": "keep",
+   "original": {
+    "Name": "Credit Card"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-907",
+   "Name": "Tennis Ball",
+   "action": "keep",
+   "original": {
+    "Name": "Tennis Ball"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-908",
+   "Name": "Bikini",
+   "action": "remove",
+   "original": {
+    "Name": "Bikini"
+   },
+   "note": "content rule"
+  },
+  {
+   "id": "game12-909",
+   "Name": "Kangaroo",
+   "action": "keep",
+   "original": {
+    "Name": "Kangaroo"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-910",
+   "Name": "Pills",
+   "action": "remove",
+   "original": {
+    "Name": "Pills"
+   },
+   "note": "dup of Pill (434)"
+  },
+  {
+   "id": "game12-911",
+   "Name": "Rubber Band",
+   "action": "keep",
+   "original": {
+    "Name": "Rubber Band"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-912",
+   "Name": "Tweezers",
+   "action": "keep",
+   "original": {
+    "Name": "Tweezers"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-913",
+   "Name": "Loudspeaker",
+   "action": "edit",
+   "original": {
+    "Name": "Speakers"
+   },
+   "note": "avoid music-speaker sense"
+  },
+  {
+   "id": "game12-914",
+   "Name": "Can of Beans",
+   "action": "edit",
+   "original": {
+    "Name": "Can Of Beans"
+   },
+   "note": "title case"
+  },
+  {
+   "id": "game12-915",
+   "Name": "Cat",
+   "action": "keep",
+   "original": {
+    "Name": "Cat"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-916",
+   "Name": "Pencil",
+   "action": "keep",
+   "original": {
+    "Name": "Pencil"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-917",
+   "Name": "Wall Socket",
+   "action": "edit",
+   "original": {
+    "Name": "Outlet"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game12-918",
+   "Name": "Earrings",
+   "action": "keep",
+   "original": {
+    "Name": "Earrings"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-919",
+   "Name": "Paper Clip",
+   "action": "edit",
+   "original": {
+    "Name": "Paperclip"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-920",
+   "Name": "Magnifying Glass",
+   "action": "keep",
+   "original": {
+    "Name": "Magnifying Glass"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-921",
+   "Name": "Fake Flowers",
+   "action": "remove",
+   "original": {
+    "Name": "Fake Flowers"
+   },
+   "note": "near-dup of Flower/Flowers"
+  },
+  {
+   "id": "game12-922",
+   "Name": "Toy Soldier",
+   "action": "keep",
+   "original": {
+    "Name": "Toy Soldier"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-923",
+   "Name": "Light Bulb",
+   "action": "keep",
+   "original": {
+    "Name": "Light Bulb"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-924",
+   "Name": "Rolling Pin",
+   "action": "keep",
+   "original": {
+    "Name": "Rolling Pin"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-925",
+   "Name": "Crayon",
+   "action": "remove",
+   "original": {
+    "Name": "Crayon"
+   },
+   "note": "dup of Crayons (790)"
+  },
+  {
+   "id": "game12-926",
+   "Name": "Bookmark",
+   "action": "keep",
+   "original": {
+    "Name": "Bookmark"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-927",
+   "Name": "Trash Bag",
+   "action": "keep",
+   "original": {
+    "Name": "Trash Bag"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-928",
+   "Name": "Pocket Watch",
+   "action": "edit",
+   "original": {
+    "Name": "Pocketwatch"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-929",
+   "Name": "Scallop Shell",
+   "action": "remove",
+   "original": {
+    "Name": "Scallop Shell"
+   },
+   "note": "dup of Shell (533)"
+  },
+  {
+   "id": "game12-930",
+   "Name": "Salt",
+   "action": "keep",
+   "original": {
+    "Name": "Salt"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-931",
+   "Name": "Ice Pick",
+   "action": "keep",
+   "original": {
+    "Name": "Ice Pick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-932",
+   "Name": "Strainer",
+   "action": "edit",
+   "original": {
+    "Name": "Pasta Strainer"
+   },
+   "note": "simpler, local usage"
+  },
+  {
+   "id": "game12-933",
+   "Name": "Matchbook",
+   "action": "remove",
+   "original": {
+    "Name": "Matchbook"
+   },
+   "note": "near-dup of Matches (739)"
+  },
+  {
+   "id": "game12-934",
+   "Name": "Graph Paper",
+   "action": "edit",
+   "original": {
+    "Name": "Grid Paper"
+   },
+   "note": "common term"
+  },
+  {
+   "id": "game12-935",
+   "Name": "Shawl",
+   "action": "keep",
+   "original": {
+    "Name": "Shawl"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-936",
+   "Name": "Hand Mirror",
+   "action": "remove",
+   "original": {
+    "Name": "Hand Mirror"
+   },
+   "note": "dup of Mirror (364)"
+  },
+  {
+   "id": "game12-937",
+   "Name": "Sandal",
+   "action": "keep",
+   "original": {
+    "Name": "Sandal"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-938",
+   "Name": "Clothespin",
+   "action": "edit",
+   "original": {
+    "Name": "Clothes Pin"
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game12-939",
+   "Name": "Lemon",
+   "action": "keep",
+   "original": {
+    "Name": "Lemon"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-940",
+   "Name": "Music Cd",
+   "action": "remove",
+   "original": {
+    "Name": "Music Cd"
+   },
+   "note": "dup of Cd (829); music"
+  },
+  {
+   "id": "game12-941",
+   "Name": "Cookie Jar",
+   "action": "keep",
+   "original": {
+    "Name": "Cookie Jar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-942",
+   "Name": "Spectacles",
+   "action": "remove",
+   "original": {
+    "Name": "Spectacles"
+   },
+   "note": "dup of Glasses (252)"
+  },
+  {
+   "id": "game12-943",
+   "Name": "Glow Stick",
+   "action": "keep",
+   "original": {
+    "Name": "Glow Stick"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-944",
+   "Name": "Wrench",
+   "action": "keep",
+   "original": {
+    "Name": "Wrench"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-945",
+   "Name": "Whipped Cream",
+   "action": "keep",
+   "original": {
+    "Name": "Whipped Cream"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-946",
+   "Name": "Marble",
+   "action": "keep",
+   "original": {
+    "Name": "Marble"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-947",
+   "Name": "Jar of Peanut Butter",
+   "action": "edit",
+   "original": {
+    "Name": "Jar Of Peanut Butter"
+   },
+   "note": "title case"
+  },
+  {
+   "id": "game12-948",
+   "Name": "Scissors",
+   "action": "keep",
+   "original": {
+    "Name": "Scissors"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-949",
+   "Name": "Picture Frame",
+   "action": "keep",
+   "original": {
+    "Name": "Picture Frame"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-950",
+   "Name": "Rusty Nail",
+   "action": "remove",
+   "original": {
+    "Name": "Rusty Nail"
+   },
+   "note": "dup of Nail (811); also a cocktail name"
+  },
+  {
+   "id": "game12-951",
+   "Name": "Acorn",
+   "action": "keep",
+   "original": {
+    "Name": "Acorn"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-952",
+   "Name": "Small Pouch",
+   "action": "remove",
+   "original": {
+    "Name": "Small Pouch"
+   },
+   "note": "dup of Pouch (457)"
+  },
+  {
+   "id": "game12-953",
+   "Name": "Nail Clippers",
+   "action": "keep",
+   "original": {
+    "Name": "Nail Clippers"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-954",
+   "Name": "Wristwatch",
+   "action": "keep",
+   "original": {
+    "Name": "Wristwatch"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-955",
+   "Name": "Purse/Bag",
+   "action": "remove",
+   "original": {
+    "Name": "Purse/Bag"
+   },
+   "note": "dup of Purse (474)/Bag (21)"
+  },
+  {
+   "id": "game12-956",
+   "Name": "Ipod",
+   "action": "remove",
+   "original": {
+    "Name": "Ipod"
+   },
+   "note": "brand name"
+  },
+  {
+   "id": "game12-957",
+   "Name": "Sticky Note",
+   "action": "keep",
+   "original": {
+    "Name": "Sticky Note"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-958",
+   "Name": "Crowbar",
+   "action": "keep",
+   "original": {
+    "Name": "Crowbar"
+   },
+   "note": ""
+  },
+  {
+   "id": "game12-959",
+   "Name": "Rhino",
+   "action": "keep",
+   "original": {
+    "Name": "Rhino"
+   },
+   "note": ""
+  }
+ ]
+}
