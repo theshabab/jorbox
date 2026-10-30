@@ -15,11 +15,11 @@
   {
    "id": "game12-2",
    "Name": "Adventure",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Name": "Adventure"
    },
-   "note": "abstract, not a concrete noun"
+   "note": "Restored: abstract nouns are allowed"
   },
   {
    "id": "game12-3",
@@ -1302,11 +1302,11 @@
   {
    "id": "game12-145",
    "Name": "Curse",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Name": "Curse"
    },
-   "note": "abstract"
+   "note": "Restored: abstract nouns are allowed"
   },
   {
    "id": "game12-146",
@@ -1356,11 +1356,11 @@
   {
    "id": "game12-151",
    "Name": "Dare",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Name": "Dare"
    },
-   "note": "abstract; not a concrete noun"
+   "note": "Restored: abstract nouns are allowed"
   },
   {
    "id": "game12-152",

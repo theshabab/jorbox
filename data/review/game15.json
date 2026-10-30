@@ -11680,7 +11680,7 @@
   {
    "id": "game15-899",
    "Name": "Nafea Faa Ipoipo",
-   "Description": "~$210M (Gauguin, 2014)",
+   "Description": "~$210M (Gauguin, private sale)",
    "Category": "Most Expensive Paintings (Sold Price - High to Low)",
    "action": "edit",
    "original": {
@@ -11688,7 +11688,7 @@
     "Description": "Gauguin",
     "Category": "Most Expensive Paintings (Sold Price - High to Low)"
    },
-   "note": "replaced artist-only description with reported sale price and year"
+   "note": "replaced artist-only description with reported sale price; sale year disputed (2014/2015) so omitted"
   },
   {
    "id": "game15-900",
@@ -13851,7 +13851,7 @@
   {
    "id": "game15-1066",
    "Name": "London",
-   "Description": "43 AD",
+   "Description": "c. 47 AD (Roman Londinium)",
    "Category": "World Cities By Date Founded",
    "action": "edit",
    "original": {
@@ -13859,7 +13859,7 @@
     "Description": "43",
     "Category": "World Cities By Date Founded"
    },
-   "note": "era added"
+   "note": "Londinium founded c. AD 47, a few years after the AD 43 invasion"
   },
   {
    "id": "game15-1067",

@@ -9,7 +9,7 @@ Peshawar,KPK | Pathan | Qissa Khwani | Chapli Kabab | Khyber,Pakistani Cities
 Quetta,Balochistan | Capital | Cold | Hazara | Dry Fruit,Pakistani Cities
 Sialkot,Football | Sports Goods | Iqbal | Cricket Bats | Export,Pakistani Cities
 Gujranwala,Pehlwan | Wrestlers | Food | Fans | Punjab,Pakistani Cities
-Hyderabad,Sindh | Bangles | Choorian | Rabri | India,Pakistani Cities
+Hyderabad,Sindh | Bangles | Rabri | Pakka Qila | India,Pakistani Cities
 Abbottabad,PMA | Army | Kakul | Hills | Hazara,Pakistani Cities
 Murree,Hill Station | Snow | Mall Road | Pindi | Holiday,Pakistani Cities
 Sukkur,Indus | Barrage | Sindh | Dates | Bridge,Pakistani Cities
@@ -27,7 +27,7 @@ Okara,Potato | Farming | Punjab | Renala | Sahiwal,Pakistani Cities
 Biryani,Rice | Chawal | Masala | Sindhi | Eid,Traditional Dishes
 Pulao,Rice | Chawal | Yakhni | Biryani | Peshawari,Traditional Dishes
 Nihari,Breakfast | Nalli | Shank | Old Delhi | Slow Cooked,Traditional Dishes
-Haleem,Daal | Wheat | Muharram | Pounded | Lentils,Traditional Dishes
+Haleem,Daal | Wheat | Muharram | Ghotna | Meat,Traditional Dishes
 Karahi,Chicken | Wok | Tomato | Highway | Mutton,Traditional Dishes
 Korma,Yogurt | Dahi | Shaadi | Gravy | White,Traditional Dishes
 Sajji,Balochi | Whole Chicken | Skewer | Lamb | Roast,Traditional Dishes
@@ -487,7 +487,7 @@ Clock,Ghari | Wall | Time | Alarm | Tick,Electronics
 Hammer,Hathora | Nail | Hit | Bang | Carpenter,Tools
 Nail,Keel | Hammer | Sharp | Wall | Wood,Tools
 Screw,Twist | Screwdriver | Bolt | Turn | Wood,Tools
-Screwdriver,Turn | Twist | Bolt | Tool | Tighten,Tools
+Screwdriver,Screw | Turn | Twist | Bolt | Tighten,Tools
 Wrench,Spanner | Nut | Bolt | Tighten | Plumber,Tools
 Pliers,Plas | Grip | Wire | Bend | Electrician,Tools
 Saw,Wood | Cut | Teeth | Carpenter | Aari,Tools

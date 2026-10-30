@@ -838,7 +838,7 @@
   {
    "id": "game1-65",
    "Name": "Mustard Seeds",
-   "Description": "Tiny black seeds that pop, rai",
+   "Description": "Tiny rai used in tarka",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -851,7 +851,7 @@
   {
    "id": "game1-66",
    "Name": "Poppy Seeds",
-   "Description": "Tiny white seeds, khashkhash",
+   "Description": "Khashkhash, used in halwa",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -877,7 +877,7 @@
   {
    "id": "game1-68",
    "Name": "Bay Leaf",
-   "Description": "Dried leaf added to pulao, tez patta",
+   "Description": "Tez patta in pulao",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -890,7 +890,7 @@
   {
    "id": "game1-69",
    "Name": "Black Salt",
-   "Description": "Pinkish sulphurous salt, kala namak",
+   "Description": "Kala namak, smells of eggs",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -1501,7 +1501,7 @@
   {
    "id": "game1-116",
    "Name": "Bitter Gourd",
-   "Description": "Bitter ridged green vegetable, karela",
+   "Description": "Karela",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1514,7 +1514,7 @@
   {
    "id": "game1-117",
    "Name": "Bottle Gourd",
-   "Description": "Long pale-green gourd, lauki / ghiya",
+   "Description": "Lauki, long and pale green",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -9145,7 +9145,7 @@
   {
    "id": "game1-704",
    "Name": "Cave Hira",
-   "Description": "Cave of the first revelation",
+   "Description": "Where the first revelation came, on Jabal al-Nour",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9158,7 +9158,7 @@
   {
    "id": "game1-705",
    "Name": "Cave Thawr",
-   "Description": "Cave of refuge during the Hijrah",
+   "Description": "Hiding place during the Hijrah",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9732,7 +9732,7 @@
   {
    "id": null,
    "Name": "Sugarcane Juice",
-   "Description": "Fresh juice pressed from sugarcane",
+   "Description": "Sweet ganne ka ras, pressed fresh",
    "Category": "Beverages",
    "action": "add",
    "note": "Same new card as Charades"

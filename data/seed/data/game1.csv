@@ -61,11 +61,11 @@ Nutmeg,"Hard seed grated into desserts, jaifal",Spices
 Saffron,"Costly red threads, zafran",Spices
 Anise,"Liquorice-flavoured seeds, like saunf",Spices
 Fenugreek,"Bitter seeds and leaves, methi",Spices
-Mustard Seeds,"Tiny black seeds that pop, rai",Spices
-Poppy Seeds,"Tiny white seeds, khashkhash",Spices
+Mustard Seeds,Tiny rai used in tarka,Spices
+Poppy Seeds,"Khashkhash, used in halwa",Spices
 Sesame,Seeds on naan and in til laddoo,Spices
-Bay Leaf,"Dried leaf added to pulao, tez patta",Spices
-Black Salt,"Pinkish sulphurous salt, kala namak",Spices
+Bay Leaf,Tez patta in pulao,Spices
+Black Salt,"Kala namak, smells of eggs",Spices
 Chaat Masala,Tangy mix sprinkled on fruit and snacks,Spices
 Garam Masala,Warm blend of whole ground spices,Spices
 Tamarind,"Sour brown pods, imli",Spices
@@ -112,8 +112,8 @@ Eggplant,"Purple vegetable, baingan / brinjal",Vegetables
 Cucumber,"Cool green salad vegetable, kheera",Vegetables
 Zucchini,"Green summer squash, courgette",Vegetables
 Pumpkin,"Big orange squash, kaddu",Vegetables
-Bitter Gourd,"Bitter ridged green vegetable, karela",Vegetables
-Bottle Gourd,"Long pale-green gourd, lauki / ghiya",Vegetables
+Bitter Gourd,Karela,Vegetables
+Bottle Gourd,"Lauki, long and pale green",Vegetables
 Capsicum,"Bell pepper, Shimla mirch",Vegetables
 Chili,Hot green or red mirch,Vegetables
 Lemon,"Sour yellow citrus, nimbu",Fruits
@@ -408,7 +408,7 @@ Stomach,Digests food after eating,Body Parts
 Back,Rear side of the torso,Body Parts
 Chest,"Front of the torso, holds the heart",Body Parts
 Ring,Band worn on a finger,Jewelry
-Necklace,Worn around the neck,Jewelry
+Necklace,Chain or haar worn at the throat,Jewelry
 Bangle,Glass or gold wrist circle,Jewelry
 Earring,Worn on the earlobe,Jewelry
 Nose Pin,Small stud worn on a nostril,Jewelry
@@ -686,8 +686,8 @@ Muzdalifah,Hajj stop where pebbles are collected,Islamic Locations
 Safa,Hill where Sa'i begins,Islamic Locations
 Marwa,Hill where Sa'i ends,Islamic Locations
 Zamzam,Sacred well in Mecca,Islamic Locations
-Cave Hira,Cave of the first revelation,Islamic Locations
-Cave Thawr,Cave of refuge during the Hijrah,Islamic Locations
+Cave Hira,"Where the first revelation came, on Jabal al-Nour",Islamic Locations
+Cave Thawr,Hiding place during the Hijrah,Islamic Locations
 Uhud,Mountain and battle near Medina,Islamic Locations
 Badr,Site of the first great battle,Islamic Locations
 Quba,First mosque built in Islam,Islamic Locations
@@ -734,5 +734,5 @@ Iftar,Meal that breaks the fast at sunset,Islamic Terms
 Sehri,Pre-dawn meal before fasting,Islamic Terms
 Azan,The call to prayer,Islamic Terms
 Tawaf,Circling the Kaaba seven times,Islamic Terms
-Sugarcane Juice,Fresh juice pressed from sugarcane,Beverages
+Sugarcane Juice,"Sweet ganne ka ras, pressed fresh",Beverages
 Doodh Patti,Tea brewed in milk,Beverages
