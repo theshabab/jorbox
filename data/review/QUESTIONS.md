@@ -81,3 +81,9 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 
 - Removed 42: celebrity, film, TV, Star Wars and music cards, gore (cooking humans), dating ("ex text"), mocking looks, and scales whose ends aren't opposites or that repeat other cards. Rewrote about 150: movie tasks → books, stories or dishes; tattoo tasks → mehndi or truck-art designs; Western references → local ones ($ → Rs, Halloween costume → school-play costume, potluck BBQ → dawat).
 - Please check: political scales (Conservative ↔ Liberal, Capitalist ↔ Socialist), cult and biker-gang cards, clown, vampire, ghost, wild-west and cowboy cards, mild toilet humour, and Dog person ↔ Cat person. Many scales only have the generic task "Think of something that falls on this scale". Should they get specific tasks?
+
+## Jasoosi Club: done (667 → about 520)
+
+- Word-list cards: removed actor, drama, Bollywood, cartoon, influencer, YouTuber, FM radio and national-song lists, duplicate topics, an "Islamic Organizations" list that contained militant groups, and lists too thin to play (Pillars of Islam/Iman, Prayer Times). Cleaned lists (Christmas, Easter, Diwali, Holi and Basant out of Festivals; music and romance words out of Punjabi Words) and rebuilt broken ones ("Head|Shoulders" fragments).
+- Prompt cards: removed film, song, celebrity, dating, tattoo and Disney prompts and depictions of prophets (Garden of Eden, Last Supper). Localised many prompts and decoys (Thanksgiving → Eid dinner, bacon → karela, $ → Rs, baseball → cricket, prom → walima).
+- Please check: Pakistani Politicians (includes Altaf Hussain), shrine and Sufi saint names, skirts and dresses in clothing lists, milli naghmay (counted as music, removed), genie, magic wand, werewolf, vampire and churail prompts, birthday-themed prompts.
