@@ -2112,11 +2112,11 @@
   {
    "id": "game13-235",
    "Description": "Get a player to say the word 'Chai'.",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "Get a player to say 'Chai'."
    },
-   "note": "clearer wording"
+   "note": "Duplicate of game13-50"
   },
   {
    "id": "game13-236",
@@ -2337,11 +2337,11 @@
   {
    "id": "game13-260",
    "Description": "Get a player to give you a fist bump.",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "Get a player to give you a 'knuckle sandwich' (fist bump)."
    },
-   "note": "'knuckle sandwich' means a punch"
+   "note": "Duplicate of game13-58"
   },
   {
    "id": "game13-261",
@@ -2967,11 +2967,11 @@
   {
    "id": "game13-330",
    "Description": "Get a player to whistle.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to whistle."
    },
-   "note": ""
+   "note": "Duplicate of game13-17"
   },
   {
    "id": "game13-331",
@@ -3183,11 +3183,11 @@
   {
    "id": "game13-354",
    "Description": "Get a player to give you a thumbs up.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to give you a thumbs up."
    },
-   "note": ""
+   "note": "Duplicate of game13-20"
   },
   {
    "id": "game13-355",

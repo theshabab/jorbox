@@ -128,3 +128,22 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
   - Allama Iqbal and the late Zubaida Aapa named in prompts.
   - General "the PM" jokes without a name (kept).
   - The leftover pack names as categories ("The Fifth Expansion", "Canadian Conversion Pack"). Should these become a single "Classic" category?
+
+## New cards: done
+
+About 1,190 new cards for the decks that shrank most or were smallest:
+
+| Deck | Added | Now |
+|---|---|---|
+| Categories Game | 145 | 301 |
+| Daal men Kaala | 160 | 645 |
+| Jasoosi Club | 125 | 665 |
+| GupShup | 100 | 610 |
+| Aik Rangi Soch | 150 | 552 |
+| Nouns | 110 | 957 |
+| Phansna Nahi | 120 | 499 |
+| Dilchasp Haqaiq | 140 | 448 |
+| Karobari | 90 | 548 |
+| Dil ki Sun | 45 | 652 |
+
+- Please check: Hajj/Umrah and Sehri questions in Dilchasp Haqaiq; "Hajj Pilgrim" and "Muezzin" as Karobari customers; "Fireworks" in Jasoosi Club's shaadi list; "Things That Keep Getting More Expensive" (lightly political) in Categories Game.
