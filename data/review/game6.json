@@ -2519,9 +2519,9 @@
   },
   {
    "id": null,
-   "Description": "Pakistani Cricket Grounds",
+   "Description": "Cricket Stadiums Around the World",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Pakistani grounds alone give too few well-known answers; widening keeps Gaddafi/National/Pindi and adds Lord's, MCG, Sharjah, Dubai, Eden Gardens and others."
   },
   {
    "id": null,
@@ -3068,6 +3068,60 @@
    "Description": "Restaurants and Food Chains in Pakistan",
    "action": "add",
    "note": "New card (debate): The challenger's version of P10. It gives players in every city answers (KFC, McDonald's, Savour Foods, Student Biryani, OPTP, Broadway, Cheezious, Kababjees, Bundu Khan) and drops Monal Islamabad, which was demolished in 2024. Different from Fast Food Items and Pakistani Brands."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Square",
+   "action": "add",
+   "note": "New card (debate): New shape category (deck has only Round and Shapes); many everyday answers like tiles, carrom board, ludo board, chessboard, napkin and window."
+  },
+  {
+   "id": null,
+   "Description": "Things Dadi Says",
+   "action": "add",
+   "note": "New card (debate): Fits the Ammi Says/Abbu Says family-humour series; no Dadi card exists and Dadi lines have their own flavour."
+  },
+  {
+   "id": null,
+   "Description": "Things That Smell Bad",
+   "action": "add",
+   "note": "New card (debate): Counterpart to Things That Smell Good with many clean answers (garbage, rotten eggs, fish market, burnt food, diesel smoke)."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Sunday Bazaar",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani market setting; challenger's amendment uses 'Sunday Bazaar', the name used across the country, instead of the regional 'Itwar' with a clumsy gloss."
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Qeema",
+   "action": "add",
+   "note": "New card (debate): Completes the Dishes Made With series; many answers (keema matar, aloo keema, karela keema, keema naan, samosa, kofta, seekh kebab, cutlets)."
+  },
+  {
+   "id": null,
+   "Description": "Excuses for Leaving a Dawat Early",
+   "action": "add",
+   "note": "New card (debate): New local, family-friendly excuses angle that does not duplicate the late/homework excuse cards."
+  },
+  {
+   "id": null,
+   "Description": "Things You Hear at Night",
+   "action": "add",
+   "note": "New card (debate): Sensory category with many answers (crickets, dogs barking, chowkidar's whistle, generator, AC, mosquitoes, horns); distinct from Things You Hear at a Dhaba."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do Before Going to Sleep",
+   "action": "add",
+   "note": "New card (debate): Everyday routine not covered in the deck; many answers including Islamic ones (wudu, Ayat ul Kursi, the Three Quls, dusting the bed)."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Furry or Hairy",
+   "action": "add",
+   "note": "New card (debate): New texture category; many answers (cat, sheep, teddy bear, beard, moustache, carpet, blanket, coconut, kiwi)."
   }
  ]
 }

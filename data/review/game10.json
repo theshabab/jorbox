@@ -2102,12 +2102,12 @@
   },
   {
    "id": "game10-234",
-   "Name": "Name something you collect.",
-   "action": "keep",
+   "Name": "Name something kids collect as a hobby.",
+   "action": "edit",
    "original": {
     "Name": "Name something you collect."
    },
-   "note": ""
+   "note": "Debate: 'Something you collect' is too personal to match on. Kids' collections (stamps, coins, cards, marbles) give shared answers."
   },
   {
    "id": "game10-235",
@@ -2265,11 +2265,11 @@
   {
    "id": "game10-252",
    "Name": "Food: Home-cooked or Restaurant?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Food: Home-cooked or Restaurant?"
    },
-   "note": ""
+   "note": "Debate: Duplicate of the existing 'Dinner: Eat Out or Eat at Home?'."
   },
   {
    "id": "game10-253",
@@ -2363,12 +2363,12 @@
   },
   {
    "id": "game10-263",
-   "Name": "Drink: Water or Soda?",
-   "action": "keep",
+   "Name": "Drink: Water or Cold Drink?",
+   "action": "edit",
    "original": {
     "Name": "Drink: Water or Soda?"
    },
-   "note": ""
+   "note": "Debate: 'Cold drink' is the local term, and the deck already uses it."
   },
   {
    "id": "game10-264",
@@ -2390,12 +2390,12 @@
   },
   {
    "id": "game10-266",
-   "Name": "Event: Wedding or Birthday?",
-   "action": "keep",
+   "Name": "Wedding Function: Baraat or Walima?",
+   "action": "edit",
    "original": {
     "Name": "Event: Wedding or Birthday?"
    },
-   "note": ""
+   "note": "Debate: The birthday side is close to the no-parties rule. Baraat vs Walima, the challenger's version, keeps the choice without foregrounding the mehndi's dancing and songs."
   },
   {
    "id": "game10-267",
@@ -2625,11 +2625,11 @@
   {
    "id": "game10-292",
    "Name": "Dinner: Early or Late?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Dinner: Early or Late?"
    },
-   "note": ""
+   "note": "Debate: Near duplicate of 154 'What is the best time to eat dinner?'. Both ask the same thing."
   },
   {
    "id": "game10-293",
@@ -2697,20 +2697,20 @@
   {
    "id": "game10-300",
    "Name": "Name a food you can eat every day.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Name a food you can eat every day."
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'What food could you eat every day forever?'. The deck has it (seed game10.csv line 329, about live idx 353, just past this slice), so the challenger's search of cards 0-344 missed it."
   },
   {
    "id": "game10-301",
    "Name": "Name a Pakistani cricketer you would like to meet.",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Name a celebrity you want to meet."
    },
-   "note": "celebrity -> famous Pakistani; QA fix"
+   "note": "Debate: Near duplicate of 225 'Name a famous cricketer.'; Pakistani players give the same answers to both."
   },
   {
    "id": "game10-302",
@@ -2760,11 +2760,11 @@
   {
    "id": "game10-307",
    "Name": "Name a lesson parents always teach.",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Name a lesson you learned."
    },
-   "note": "too vague; made answerable"
+   "note": "Debate: Gets the same answers as 340 'What advice do elders always give?'."
   },
   {
    "id": "game10-308",
@@ -2786,12 +2786,12 @@
   },
   {
    "id": "game10-310",
-   "Name": "Name a cricket team you support.",
+   "Name": "Name a PSL team you support.",
    "action": "edit",
    "original": {
     "Name": "Name a team you support."
    },
-   "note": "clarified"
+   "note": "clarified; Debate: As written nearly everyone answers 'Pakistan'. PSL franchises give a few common answers to match on."
   },
   {
    "id": "game10-311",
@@ -5534,6 +5534,54 @@
    "Name": "Name something you do when guests arrive without warning.",
    "action": "add",
    "note": "New card (debate): Funny prompt about the host's scramble (tidy the drawing room, send someone for samosas, change clothes). Distinct from 'served to guests'."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous naat khawan.",
+   "action": "add",
+   "note": "New card (debate): Naats are allowed and there are clear common answers. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous milli naghma.",
+   "action": "add",
+   "note": "New card (debate): Milli naghmay are allowed and well known. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous Pakistani politician.",
+   "action": "add",
+   "note": "New card (debate): Politics is allowed and answers converge strongly. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of patakha (firework).",
+   "action": "add",
+   "note": "New card (debate): Fireworks are allowed, with common local answers (anaar, phuljhari, chakri)."
+  },
+  {
+   "id": null,
+   "Name": "Name a rank in the Pakistan Army.",
+   "action": "add",
+   "note": "New card (debate): Army theme is allowed and the ranks are widely known, so answers match."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do to ward off nazar.",
+   "action": "add",
+   "note": "New card (debate): Nazar is allowed, very local, and has common answers (kala teeka, sadqa, dam)."
+  },
+  {
+   "id": null,
+   "Name": "Taraweeh: Masjid or Home?",
+   "action": "add",
+   "note": "New card (debate): Worship-related this-or-that (allowed) in the slice's X-or-Y style. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Ride: Rickshaw or Online Cab?",
+   "action": "add",
+   "note": "New card (debate): Local everyday choice in the 'Ride:' X-or-Y style. The challenger's brand-neutral version will not date as ride-hailing apps change."
   }
  ]
 }

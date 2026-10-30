@@ -2814,11 +2814,11 @@
   {
    "id": "game12-313",
    "Name": "Jewel",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Jewel"
    },
-   "note": ""
+   "note": "Debate: Same meaning as Gem (idx 246); the deck also has Jewelry, Diamond and Pearl."
   },
   {
    "id": "game12-314",
@@ -9389,6 +9389,72 @@
    "Name": "Chandelier",
    "action": "add",
    "note": "New card (debate): Easy to draw and common in shaadi halls; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Miswak",
+   "action": "add",
+   "note": "New card (debate): Familiar Sunnah tooth-cleaning stick, easy to act out, and not in the deck. Floss (idx 221) is a valid dental noun and stays as it is (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Hiccup",
+   "action": "add",
+   "note": "New card (debate): Easy to act out and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Jinn",
+   "action": "add",
+   "note": "New card (debate): The owner allows jinn jokes; not in the deck (no Jinn or Genie)."
+  },
+  {
+   "id": null,
+   "Name": "Ghee",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani kitchen noun that is also standard English; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Garlic",
+   "action": "add",
+   "note": "New card (debate): Common concrete noun that is easy to draw; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Falcon",
+   "action": "add",
+   "note": "New card (debate): The shaheen is well known in Pakistan; the deck has no falcon, eagle or hawk."
+  },
+  {
+   "id": null,
+   "Name": "Chowkidar",
+   "action": "add",
+   "note": "New card (debate): Familiar local figure that is fun to act out; no Guard or Watchman in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Hand Pump",
+   "action": "add",
+   "note": "New card (debate): The village nalka, easy to draw. The standard two-word spelling keeps it distinct from the existing Pump card (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Cart",
+   "action": "add",
+   "note": "New card (debate): Street vendor's cart (thela) or hand cart. It is an English word, so it suits this all-English deck better than 'Thela' (challenger's amendment). Not in the deck: only Game Cartridge and Carton of Ice Cream are."
+  },
+  {
+   "id": null,
+   "Name": "Hail",
+   "action": "add",
+   "note": "New card (debate): Weather noun to go with Fog, Hurricane and the others; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Gate",
+   "action": "add",
+   "note": "New card (debate): Simple everyday noun that is easy to draw; not in the deck."
   }
  ]
 }
