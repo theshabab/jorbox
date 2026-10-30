@@ -952,24 +952,24 @@
   {
    "id": "game11-87",
    "Name": "Problem",
-   "Description": "I want to be in the _____ Hall of Fame!",
-   "action": "keep",
+   "Description": "I want to get into the Guinness World Records for _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I want to be in the _____ Hall of Fame!"
    },
-   "note": ""
+   "note": "Debate: '_____ Hall of Fame' is an awkward US-style blank. Guinness World Records is world-famous and gives a better blank to pitch for."
   },
   {
    "id": "game11-88",
    "Name": "Problem",
-   "Description": "I love having a pool but I hate _____!",
-   "action": "keep",
+   "Description": "I love sleeping on the chhat in summer but I hate _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I love having a pool but I hate _____!"
    },
-   "note": ""
+   "note": "Debate: Challenger's amended version. Private pools are rare in Pakistan, and sleeping on the roof in summer is a familiar desi experience. It does not repeat the existing neighbours' rooftop card."
   },
   {
    "id": "game11-89",
@@ -6099,6 +6099,48 @@
    "Description": "Cricket Groundsman",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our Bakra Eid goat keeps eating my _____!",
+   "action": "add",
+   "note": "New card (debate): A distinctly local Bakra Eid problem with an open blank. The live deck has no goat or qurbani problem card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My split AC drips water all over my _____!",
+   "action": "add",
+   "note": "New card (debate): A common Pakistani summer complaint that no live card covers. 'My _____ leaks!' is generic and different."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My kite always gets stuck in _____!",
+   "action": "add",
+   "note": "New card (debate): A local kite-flying problem. The live deck has no kite card, and the blank works well."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The milk always boils over while I _____!",
+   "action": "add",
+   "note": "New card (debate): A familiar kitchen problem with an open blank. It is different from the doodh wala adulteration card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never finish my _____ before Sehri ends!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version. The original almost repeated 'I keep missing Fajr because of _____!'. This is a separate Ramadan time-pressure problem."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I'm always the one sent to the dukaan for _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version uses the local word dukaan instead of the British 'corner shop'. A relatable desi chore that the deck does not already have."
   }
  ]
 }

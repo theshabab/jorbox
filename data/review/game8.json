@@ -200,16 +200,16 @@
   },
   {
    "id": "game8-16",
-   "Name": "CHEESY <---> VERY POETIC",
+   "Name": "NOT POETIC <---> GHALIB LEVEL",
    "Description": "Write the first line of a rishta profile for someone who is this poetic",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "CHEESY <---> VERY POETIC",
     "Description": "Write the first line of a rishta profile for someone who is this poetic",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: CHEESY and VERY POETIC are not opposites; clear scale with a local touch"
   },
   {
    "id": "game8-17",
@@ -369,7 +369,7 @@
   },
   {
    "id": "game8-29",
-   "Name": "KINDA INTERESTING <---> VERY BORING",
+   "Name": "GRIPPING <---> VERY BORING",
    "Description": "Make up a title for a book that would probably be this boring",
    "Category": "Writing",
    "action": "edit",
@@ -378,7 +378,7 @@
     "Description": "Make up a title for a book that would be probably be this boring",
     "Category": "Writing"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: KINDA INTERESTING was a weak opposite of VERY BORING"
   },
   {
    "id": "game8-30",
@@ -500,7 +500,7 @@
   {
    "id": "game8-39",
    "Name": "NOT LIKELY <---> VERY LIKELY",
-   "Description": "Make up a name for a restaurant that's this likely to be shut down by the food authority",
+   "Description": "Make up a name for a restaurant that's this likely to be sealed by the Punjab Food Authority",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -508,7 +508,7 @@
     "Description": "Make up a name for a restaurant that's this likely to be shut down for health code violations",
     "Category": "Writing"
    },
-   "note": "localised"
+   "note": "localised; Debate: Generic food authority becomes the familiar local raid joke"
   },
   {
    "id": "game8-40",
@@ -564,16 +564,16 @@
   },
   {
    "id": "game8-44",
-   "Name": "BARELY HATE IT <---> REALLY REALLY HATE IT",
-   "Description": "Make up a name for a restaurant where the waitstaff hates working there this much",
+   "Name": "LOVE IT <---> REALLY REALLY HATE IT",
+   "Description": "Make up a name for a restaurant where the waiters hate working there this much",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "BARELY HATE IT <---> REALLY REALLY HATE IT",
     "Description": "Make up a name for a restaurant where the waitstaff hates working there this much",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: BARELY HATE IT had no clear low end; 'waitstaff' is US wording"
   },
   {
    "id": "game8-45",
@@ -604,15 +604,15 @@
   {
    "id": "game8-47",
    "Name": "NOT LIKELY <---> VERY LIKELY",
-   "Description": "Make up a title for a book that is this likely to be in a famous book club",
+   "Description": "Make up a title for a book that is this likely to be sold at every railway station bookstall",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT LIKELY <---> VERY LIKELY",
     "Description": "Make up a title for a book that is this likely to be in a famous book club",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: US book-club reference replaced with the local railway bookstall"
   },
   {
    "id": "game8-48",
@@ -642,16 +642,16 @@
   },
   {
    "id": "game8-50",
-   "Name": "NOT LIKELY <---> VERY LIKELY",
-   "Description": "Make up a name for a restaurant that is this likely to serve \"exotic meats\"",
+   "Name": "NOT LIKELY <---> DEFINITELY DONKEY",
+   "Description": "Make up a name for a restaurant that is this likely to be secretly serving donkey meat",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT LIKELY <---> VERY LIKELY",
     "Description": "Make up a name for a restaurant that is this likely to serve \"exotic meats\"",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: 'Exotic meats' invites haram-meat answers; the donkey-meat scandal is a familiar local joke"
   },
   {
    "id": "game8-51",
@@ -837,16 +837,16 @@
   },
   {
    "id": "game8-65",
-   "Name": "NOT IN OFFICE <---> POPULAR OFFICE MUG",
-   "Description": "Make up a catchphrase that is this likely to be on a coffee mug in an office",
+   "Name": "NOT ON A MUG <---> ON EVERY OFFICE MUG",
+   "Description": "Make up a catchphrase that is this likely to be printed on a chai mug in an office",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT IN OFFICE <---> POPULAR OFFICE MUG",
     "Description": "Make up a catchphrase that is this likely to be on a coffee mug in an office",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Cleaner opposite ends; chai instead of coffee"
   },
   {
    "id": "game8-66",
@@ -916,20 +916,20 @@
   {
    "id": "game8-71",
    "Name": "NOT LIKELY <---> VERY LIKELY",
-   "Description": "Make up a name that is this likely to be a medieval European monarch",
+   "Description": "Make up a name that is this likely to belong to a Mughal emperor",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT LIKELY <---> VERY LIKELY",
     "Description": "Make up a name that is this likely to be a medieval European monarch",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Mughal names are a better local fit and easier to make up and guess"
   },
   {
    "id": "game8-72",
    "Name": "DECENT <---> VERY ANNOYING",
-   "Description": "Make up a catchphrase for a relative at a family dinner who is this annoying",
+   "Description": "Make up a catchphrase for a relative at a family dawat who is this annoying",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -937,20 +937,20 @@
     "Description": "Make up a catchphrase for a sitcom character who is this annoying",
     "Category": "Writing"
    },
-   "note": "sitcom -> relative"
+   "note": "sitcom -> relative; Debate: Family dinner becomes the local family dawat"
   },
   {
    "id": "game8-73",
-   "Name": "NOT RAD <---> HELLA RAD",
-   "Description": "Make up a catchphrase that is this likely to be said by someone on a skateboard",
+   "Name": "CAREFUL RIDER <---> FULL ONE-WHEELING",
+   "Description": "Make up a catchphrase yelled by a motorbike rider who is this reckless",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT RAD <---> HELLA RAD",
     "Description": "Make up a catchphrase that is this likely to be said by someone on a skateboard",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Replaces US slang and skateboarding with one-wheeling; the challenger's wording makes the task match the recklessness scale"
   },
   {
    "id": "game8-74",
@@ -967,16 +967,16 @@
   },
   {
    "id": "game8-75",
-   "Name": "PRETTY COOL <---> VERY PASSIVE-AGGRESSIVE",
+   "Name": "STRAIGHTFORWARD <---> VERY PASSIVE-AGGRESSIVE",
    "Description": "Write the first line of a rishta profile for someone who is this passive-aggressive",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "PRETTY COOL <---> VERY PASSIVE-AGGRESSIVE",
     "Description": "Write the first line of a rishta profile for someone who is this passive-aggressive",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: PRETTY COOL is not the opposite of passive-aggressive"
   },
   {
    "id": "game8-76",
@@ -1084,16 +1084,16 @@
   },
   {
    "id": "game8-84",
-   "Name": "HUH? <---> PROBABLY REAL",
-   "Description": "Make up a name for a country that's this realistic-sounding",
+   "Name": "OBVIOUSLY FAKE <---> SOUNDS REAL",
+   "Description": "Make up a name for a country that sounds this real",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "HUH? <---> PROBABLY REAL",
     "Description": "Make up a name for a country that's this realistic-sounding",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: (Challenger missed issue C2) HUH? is not a clear opposite of PROBABLY REAL"
   },
   {
    "id": "game8-85",
@@ -1318,29 +1318,29 @@
   },
   {
    "id": "game8-102",
-   "Name": "APOLITICAL <---> FIGHT THE POWER",
-   "Description": "Make up a name for a politician whose message is this political",
+   "Name": "CALM <---> FIERY",
+   "Description": "Make up a slogan for a political party whose speeches are this fiery",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "APOLITICAL <---> FIGHT THE POWER",
     "Description": "Make up a name for a politician whose message is this political",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: (Challenger missed issue C1) 'Fight the Power' is a song title and the old scale made little sense; keeps the politics idea with clear ends"
   },
   {
    "id": "game8-103",
    "Name": "SO SAFE <---> SO DANGEROUS",
    "Description": "Make up a name for a place that would be this dangerous to visit",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "SO SAFE <---> SO DANGEROUS",
     "Description": "Make up a name for a place that would be this dangerous to visit",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Same safe/dangerous place-name scale as card 96, just reversed"
   },
   {
    "id": "game8-104",
@@ -8838,6 +8838,86 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "BORING <---> IRRESISTIBLE",
+   "Description": "Write a sabzi-wala's loudspeaker announcement that is this tempting",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local street-life writing prompt"
+  },
+  {
+   "id": null,
+   "Name": "CASUAL PLAYER <---> HARDCORE GAMER",
+   "Description": "Make up a PUBG username for someone who is this obsessed with the game",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Video games are allowed; PUBG is very popular locally"
+  },
+  {
+   "id": null,
+   "Name": "NO EMOJIS <---> 50 EMOJIS",
+   "Description": "Write a Facebook post by an uncle that would have this many emojis",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Social media is allowed; recognisable local joke"
+  },
+  {
+   "id": null,
+   "Name": "ORDERLY QUEUE <---> ROTI KHUL GAYI!",
+   "Description": "Draw a wedding buffet line that is this chaotic",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Famous Pakistani wedding joke; adds a drawing card"
+  },
+  {
+   "id": null,
+   "Name": "JUST A SHADOW <---> DEFINITELY A JINN",
+   "Description": "Draw a shadow in an old haveli that is this likely to be a jinn",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Jinn jokes are allowed; clear, drawable scale"
+  },
+  {
+   "id": null,
+   "Name": "NO PROTECTION <---> MAX NAZAR PROTECTION",
+   "Description": "Draw a new car decorated to ward off nazar this strongly",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Nazar jokes are allowed; very recognisable local scene"
+  },
+  {
+   "id": null,
+   "Name": "ORIGINAL BRAND <---> TOTAL KNOCK-OFF",
+   "Description": "Make up a brand name that is this likely to be a fake copy sold in a local bazaar",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Familiar local knock-off humour"
+  },
+  {
+   "id": null,
+   "Name": "NO PROMISES <---> 100% A* GUARANTEED",
+   "Description": "Make up a name for a tuition academy that promises results this boldly",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani school-life theme"
+  },
+  {
+   "id": null,
+   "Name": "CALM DEBATE <---> FULL DRAMA",
+   "Description": "Write a headline for a political talk show episode that is this dramatic",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Politics is allowed; local TV-news humour without naming a show"
+  },
+  {
+   "id": null,
+   "Name": "EMPTY ROAD <---> TOTAL GRIDLOCK",
+   "Description": "Draw a Karachi road that is this jammed",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Recognisable local scene; the challenger dropped 'rush hour', which contradicted the empty end"
   }
  ]
 }

@@ -9,7 +9,6 @@ How afraid are you of a 'Chipkali' (Lizard)?,0 to 100
 How good are you at bargaining in the market?,0 to 100
 How strict were your parents while growing up?,0 to 100
 How likely are you to arrive late to a wedding?,0 to 100
-How much spice can you handle in your food?,0 to 100
 How likely are you to complain about the food at a Daawat?,0 to 100
 How much do you panic when the electricity goes (Load Shedding)?,0 to 100
 How likely are you to check your phone immediately after waking up?,0 to 100
@@ -27,7 +26,6 @@ How many first cousins do you have?,Number
 How many unread emails are in your inbox right now?,Number
 How many pairs of shoes do you own?,Number
 How many weddings did you attend last year?,Number
-How many hours of sleep did you get last night?,Number
 How many photos are in your phone's camera roll?,Number
 How many times have you been to the Northern Areas?,Number
 How many languages can you speak fluently?,Number
@@ -51,7 +49,7 @@ How many pairs of sunglasses do you own?,Number
 How many times have you cooked a full meal this month?,Number
 How many alarms do you set to wake up?,Number
 How many cricket matches have you watched live in a stadium?,Number
-How many times have you run out of fuel?,Number
+How many times have you run out of petrol on the road?,Number
 How many pets have you owned in your life?,Number
 How many times have you been on a plane?,Number
 How many plants are in your house?,Number
@@ -67,26 +65,25 @@ How many times have you been on TV?,Number
 How many times have you met a famous cricketer?,Number
 How many times have you forgotten someone's name immediately after meeting them?,Number
 How many times have you bought something you never used?,Number
-How many times have you successfully flipped a bottle?,Number
+How many bottle flips in a row can you land?,Number
 How many times have you corrected someone's grammar?,Number
 How many times have you eaten ice cream for breakfast?,Number
 How many times have you taken a photo of your food before eating?,Number
 How many times have you eaten Biryani with a spoon instead of hands?,Number
-How many times have you incorrectly plugged in a USB?,Number
 How many times have you missed a flight or train?,Number
 How many times have you lost your luggage?,Number
 How many times have you parallel parked perfectly on the first try?,Number
-How many times have you been pulled over by traffic police?,Number
+How many traffic challans have you received?,Number
 How many times have you had a flat tire?,Number
-How many times have you jump-started a car?,Number
+How many times have you had to give a car a 'dhakka start'?,Number
 How many times have you ridden a motorbike without a helmet?,Number
-How many times have you driven a manual car?,Number
+How old were you when you first drove a car or motorbike?,Number
 How many times have you ridden in a rickshaw or Qingqi this month?,Number
 How many times have you sat on the roof of a bus or car?,Number
 How many samosas can you eat in one sitting?,Number
 What is your record for plates of Biryani in one sitting?,Number
 How many Gulab Jamuns can you fit in your mouth?,Number
-How many parathas do you eat for breakfast?,Number
+How many parathas can you eat at one breakfast?,Number
 How many times do you drink coffee in a week?,Number
 How many times have you donated to charity this year?,Number
 How many times have you helped a stranger?,Number
@@ -447,3 +444,13 @@ How much do you enjoy window shopping?,0 to 100
 How many minutes can you sit without looking at your phone?,Number
 How likely are you to cancel plans at the last minute?,0 to 100
 How many times a week do you eat something sweet after dinner?,Number
+How many gol gappay can you eat in one go?,Number
+How many surahs can you recite from memory?,Number
+How many minutes does your family spend saying goodbye at the door after a visit?,Number
+How many times a day do you say 'InshaAllah'?,Number
+How likely are you to hide in your room when unexpected guests arrive?,0 to 100
+How many times have you sent a message to the wrong WhatsApp chat?,Number
+How many mosquito bites did you get this week?,Number
+How likely are you to get a second plate at a wedding before others get their first?,0 to 100
+How many times have you stopped at a roadside dhaba this year?,Number
+How much do you enjoy listening to qawwali?,0 to 100

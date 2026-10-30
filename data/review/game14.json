@@ -117,12 +117,12 @@
    "id": "game14-11",
    "Description": "How much spice can you handle in your food?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How much spice can you handle in your food?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'How comfortable are you with spicy food?' (idx 180) and 'How much do you enjoy spicy food?'."
   },
   {
    "id": "game14-12",
@@ -337,12 +337,12 @@
    "id": "game14-31",
    "Description": "How many hours of sleep did you get last night?",
    "Category": "Number",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How many hours of sleep did you get last night?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'How many hours did you sleep last night?' (idx 434)."
   },
   {
    "id": "game14-32",
@@ -599,14 +599,14 @@
   },
   {
    "id": "game14-55",
-   "Description": "How many times have you run out of fuel?",
+   "Description": "How many times have you run out of petrol on the road?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you run out of fuel?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Local word, clearer situation, same idea."
   },
   {
    "id": "game14-56",
@@ -786,14 +786,14 @@
   },
   {
    "id": "game14-72",
-   "Description": "How many times have you successfully flipped a bottle?",
+   "Description": "How many bottle flips in a row can you land?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you successfully flipped a bottle?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: A record in a row can be answered; a lifetime count cannot."
   },
   {
    "id": "game14-73",
@@ -843,12 +843,12 @@
    "id": "game14-77",
    "Description": "How many times have you incorrectly plugged in a USB?",
    "Category": "Number",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How many times have you incorrectly plugged in a USB?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Impossible to count; answer is always 'countless'."
   },
   {
    "id": "game14-78",
@@ -885,14 +885,14 @@
   },
   {
    "id": "game14-81",
-   "Description": "How many times have you been pulled over by traffic police?",
+   "Description": "How many traffic challans have you received?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you been pulled over by traffic police?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: 'Pulled over' is a US phrase; challan is the local equivalent."
   },
   {
    "id": "game14-82",
@@ -907,14 +907,14 @@
   },
   {
    "id": "game14-83",
-   "Description": "How many times have you jump-started a car?",
+   "Description": "How many times have you had to give a car a 'dhakka start'?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you jump-started a car?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Jump-starting is uncommon locally; a dhakka start is the familiar situation (challenger's amendment)."
   },
   {
    "id": "game14-84",
@@ -929,14 +929,14 @@
   },
   {
    "id": "game14-85",
-   "Description": "How many times have you driven a manual car?",
+   "Description": "How old were you when you first drove a car or motorbike?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you driven a manual car?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Counting times driving a manual car is meaningless locally (most cars are manual); idx 243 already covers manual cars."
   },
   {
    "id": "game14-86",
@@ -995,14 +995,14 @@
   },
   {
    "id": "game14-91",
-   "Description": "How many parathas do you eat for breakfast?",
+   "Description": "How many parathas can you eat at one breakfast?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many parathas do you eat for breakfast?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: A record is more fun to guess and matches the other food-record cards."
   },
   {
    "id": "game14-92",
@@ -4766,6 +4766,76 @@
    "Category": "Number",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "How many gol gappay can you eat in one go?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local food-record card; idx 371 asks likelihood, not count."
+  },
+  {
+   "id": null,
+   "Description": "How many surahs can you recite from memory?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Respectful worship question allowed by the owner; no similar card."
+  },
+  {
+   "id": null,
+   "Description": "How many minutes does your family spend saying goodbye at the door after a visit?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani family moment; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times a day do you say 'InshaAllah'?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Light, respectful everyday habit question; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to hide in your room when unexpected guests arrive?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable local household scenario; distinct from idx 376."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you sent a message to the wrong WhatsApp chat?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fits the phone/WhatsApp cards; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many mosquito bites did you get this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Familiar local nuisance; easy and funny to guess."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to get a second plate at a wedding before others get their first?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Shaadi food-rush humour; challenger's tighter wording; distinct from idx 377/386."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you stopped at a roadside dhaba this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local travel/food question; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy listening to qawwali?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Qawwali is allowed and the old qawwali card was changed to Mushaira."
   }
  ]
 }
