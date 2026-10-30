@@ -76,3 +76,8 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 
 - Applied the same removals, renames and category moves as Charades (same word list), plus the 12 new Charades cards with short hints. Fixed one wrong hint (Abdullah ibn Masud was "Son of Umar").
 - Not applied yet: specific hints for 700 cards, in `data/review/game1-proposed-hints.json`. Today's hints are generic and often shared ("Eating utensil" for both Spoon and Fork); the proposals point to one word ("Tawa: Flat iron pan for roti"). Should I apply them? It depends on how Main is played (see the question above).
+
+## Dil ki Sun: done (652 → 610)
+
+- Removed 42: celebrity, film, TV, Star Wars and music cards, gore (cooking humans), dating ("ex text"), mocking looks, and scales whose ends aren't opposites or that repeat other cards. Rewrote about 150: movie tasks → books, stories or dishes; tattoo tasks → mehndi or truck-art designs; Western references → local ones ($ → Rs, Halloween costume → school-play costume, potluck BBQ → dawat).
+- Please check: political scales (Conservative ↔ Liberal, Capitalist ↔ Socialist), cult and biker-gang cards, clown, vampire, ghost, wild-west and cowboy cards, mild toilet humour, and Dog person ↔ Cat person. Many scales only have the generic task "Think of something that falls on this scale". Should they get specific tasks?
