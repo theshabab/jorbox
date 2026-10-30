@@ -1301,12 +1301,12 @@
   },
   {
    "id": "game13-145",
-   "Description": "Get a player to admit they dislike cold tea.",
-   "action": "keep",
+   "Description": "Get a player to admit they dislike chai that has gone cold.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to admit they dislike cold tea."
    },
-   "note": ""
+   "note": "Debate: Local 'chai' wording, keeping the set's 'admit they dislike' phrasing (challenger amendment)."
   },
   {
    "id": "game13-146",
@@ -1625,12 +1625,12 @@
   },
   {
    "id": "game13-181",
-   "Description": "Hide this card inside a bag and get a player to find it.",
-   "action": "keep",
+   "Description": "Hide this card inside a tissue box and get a player to find it.",
+   "action": "edit",
    "original": {
     "Description": "Hide this card inside a bag and get a player to find it."
    },
-   "note": ""
+   "note": "Debate: Duplicates the earlier 'in a bag or coat pocket' hiding card; a tissue box is a fresh, doable hiding spot."
   },
   {
    "id": "game13-182",
@@ -1904,12 +1904,12 @@
   },
   {
    "id": "game13-212",
-   "Description": "Get a player to say 'Oh my God'.",
-   "action": "keep",
+   "Description": "Get a player to say 'Kamaal hai!'.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to say 'Oh my God'."
    },
-   "note": ""
+   "note": "Debate: 'Oh my God' is a Western exclamation that casually uses God's name; a Roman Urdu exclamation fits the deck and does not duplicate 'Haye Allah!'."
   },
   {
    "id": "game13-213",
@@ -4763,6 +4763,48 @@
    "Description": "Get a player to offer you a lift home.",
    "action": "add",
    "note": "New card (debate): Clear, harmless end-of-evening gesture."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a tasbeeh.",
+   "action": "add",
+   "note": "New card (debate): Fits the 'why are you holding X' set with a common Muslim household item; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Nihari'.",
+   "action": "add",
+   "note": "New card (debate): Matches the food-word cards with a well-known Pakistani dish not yet in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to correct your pronunciation of 'Quetta'.",
+   "action": "add",
+   "note": "New card (debate): Local pronunciation-correction mission; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain what the IMF does.",
+   "action": "add",
+   "note": "New card (debate): Fits the 'explain what X means' set; politics/economics allowed by the owner."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit that cold water makes wudu tough in winter.",
+   "action": "add",
+   "note": "New card (debate): Relatable worship-related personal mission; the complaint targets the cold water, not the act of worship (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to guess who your favourite cricketer is.",
+   "action": "add",
+   "note": "New card (debate): Fits the 'guess your favorite X' set; distinct from the card asking for the player's own favourite cricketer."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to agree that Pakistan will win the next cricket match.",
+   "action": "add",
+   "note": "New card (debate): Fits the 'agree that X' set with a local topic; names the sport (challenger amendment)."
   }
  ]
 }

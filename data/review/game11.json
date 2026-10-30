@@ -1590,13 +1590,13 @@
   {
    "id": "game11-145",
    "Name": "Problem",
-   "Description": "I find _____ to be very disagreeable.",
-   "action": "keep",
+   "Description": "I'm allergic to _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I find _____ to be very disagreeable."
    },
-   "note": ""
+   "note": "Debate: Stiff wording that nearly repeats 134. An allergy complaint is clearer, and 'My wallet is allergic to _____!' is only a joke on the same word, so it is not a duplicate."
   },
   {
    "id": "game11-146",
@@ -1799,13 +1799,13 @@
   {
    "id": "game11-164",
    "Name": "Problem",
-   "Description": "Whenever I host a dinner, _____ shows up!",
+   "Description": "Whenever I host a dawat, _____ shows up!",
    "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "Whenever I host a dinner _____ shows up!"
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: Uses the natural local word. It does not duplicate 'I'm always the one who has to _____ at dawats!'."
   },
   {
    "id": "game11-165",
@@ -2141,23 +2141,23 @@
    "id": "game11-195",
    "Name": "Problem",
    "Description": "I’m having a hard time grasping _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I’m having a hard time grasping _____!"
    },
-   "note": ""
+   "note": "Debate: Same meaning as 134 'I find _____ to be straight-up confusing.' (I don't understand X), so it is a duplicate under the rules."
   },
   {
    "id": "game11-196",
    "Name": "Problem",
-   "Description": "I want to slowly get involved in _____!",
+   "Description": "I want to get into _____ but don't know where to start!",
    "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I want to get slowly involved in _____"
    },
-   "note": "wording/punctuation"
+   "note": "wording/punctuation; Debate: Keeps the meaning of the awkward 'slowly get involved in' but reads naturally."
   },
   {
    "id": "game11-197",
@@ -2228,13 +2228,13 @@
   {
    "id": "game11-203",
    "Name": "Problem",
-   "Description": "I want to prove _____!",
-   "action": "keep",
+   "Description": "I want to prove _____ wrong!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I want to prove _____!"
    },
-   "note": ""
+   "note": "Debate: The original blank had no clear meaning. 'Wrong' gives it a target."
   },
   {
    "id": "game11-204",
@@ -6141,6 +6141,69 @@
    "Description": "I'm always the one sent to the dukaan for _____!",
    "action": "add",
    "note": "New card (debate): Challenger's amended version uses the local word dukaan instead of the British 'corner shop'. A relatable desi chore that the deck does not already have."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My mehndi always smudges right before _____!",
+   "action": "add",
+   "note": "New card (debate): Familiar Eid and wedding problem. The deck has a Mehndi Artist customer but no mehndi Problem card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never get a seat on the _____!",
+   "action": "add",
+   "note": "New card (debate): Everyday transport complaint. The deck has nothing similar."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always get thirsty during roza because of _____!",
+   "action": "add",
+   "note": "New card (debate): Respectful Ramadan problem whose blank is the cause. It is distinct from the existing iftar and Sehri cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every Bakra Eid, the mandi wala overcharges me for _____!",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's amended wording, which avoids reading 'cheated on' as infidelity. Pairs with the Cattle Trader customer and is distinct from the goat card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My hostel food tastes like _____!",
+   "action": "add",
+   "note": "New card (debate): Student complaint that pairs with the Hostel Warden customer. The deck does not cover it."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The pressure cooker whistle always scares my _____!",
+   "action": "add",
+   "note": "New card (debate): Familiar desi kitchen problem that is distinct from 145 ('I hate the sound of _____')."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My school bag is heavier than my _____!",
+   "action": "add",
+   "note": "New card (debate): Familiar school complaint with room for a comparison joke. It is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always burn the _____ when I cook!",
+   "action": "add",
+   "note": "New card (debate): Simple, open cooking problem. No existing card is about burning food."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our gali cricket match always gets stopped because of _____!",
+   "action": "add",
+   "note": "New card (debate): Street-cricket problem about what interrupts the match. It is distinct from 'The cricket ball always lands in _____!'."
   }
  ]
 }

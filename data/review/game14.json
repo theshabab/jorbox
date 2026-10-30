@@ -1347,14 +1347,14 @@
   },
   {
    "id": "game14-123",
-   "Description": "How much do you enjoy scary stories?",
+   "Description": "How much do you enjoy hearing scary jinn stories?",
    "Category": "0 to 100",
    "action": "edit",
    "original": {
     "Description": "How much do you enjoy horror movies?",
     "Category": "0 to 100"
    },
-   "note": "western/secular: horror movies reworded"
+   "note": "western/secular: horror movies reworded; Debate: Owner-allowed jinn theme gives local flavour to a generic card"
   },
   {
    "id": "game14-124",
@@ -1424,14 +1424,14 @@
   },
   {
    "id": "game14-130",
-   "Description": "How likely are you to cry at a wedding?",
+   "Description": "How likely are you to cry at a rukhsati?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to cry at a wedding?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Local frame: the rukhsati is when people actually cry at a desi wedding; no overlap with the late-arrival wedding card"
   },
   {
    "id": "game14-131",
@@ -1919,14 +1919,14 @@
   },
   {
    "id": "game14-175",
-   "Description": "How likely are you to help someone move house?",
+   "Description": "How likely are you to help a relative shift house?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to help someone move house?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Local phrasing ('shift house') and family frame"
   },
   {
    "id": "game14-176",
@@ -1965,12 +1965,12 @@
    "id": "game14-179",
    "Description": "How good are you at haggling?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How good are you at haggling?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Duplicate of card 7 'How good are you at bargaining in the market?'"
   },
   {
    "id": "game14-180",
@@ -2040,14 +2040,14 @@
   },
   {
    "id": "game14-186",
-   "Description": "How likely are you to watch a cricket match replay?",
+   "Description": "How likely are you to rewatch the highlights of a cricket match you already watched live?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to watch a cricket match replay?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Original 'match replay' was vague; new wording names a recognisable habit"
   },
   {
    "id": "game14-187",
@@ -2073,14 +2073,14 @@
   },
   {
    "id": "game14-189",
-   "Description": "How likely are you to argue about cricket rules?",
+   "Description": "How likely are you to argue about the rules in gully cricket?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to argue about cricket rules?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Local, funnier scenario that sits with the street-cricket cards"
   },
   {
    "id": "game14-190",
@@ -2117,14 +2117,14 @@
   },
   {
    "id": "game14-193",
-   "Description": "How many times have you forgotten to reply to a message?",
-   "Category": "Number",
-   "action": "keep",
+   "Description": "How likely are you to leave a message on 'seen' and forget to reply?",
+   "Category": "0 to 100",
+   "action": "edit",
    "original": {
     "Description": "How many times have you forgotten to reply to a message?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Uncountable as a Number; works as a likelihood question keeping the idea"
   },
   {
    "id": "game14-194",
@@ -4836,6 +4836,55 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Qawwali is allowed and the old qawwali card was changed to Mushaira."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to believe a WhatsApp forward without checking it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Familiar family-group joke; distinct from the good-morning forward card"
+  },
+  {
+   "id": null,
+   "Description": "How many WhatsApp statuses did you post this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Countable social media card not already in the deck"
+  },
+  {
+   "id": null,
+   "Description": "How many hours of screen time did your phone show yesterday?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Checkable phone-habit number; not a duplicate of other phone cards"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to drop your phone on your face while using it in bed?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Funny phone mishap; likelihood form because nobody counts how often it happens (challenger amendment)"
+  },
+  {
+   "id": null,
+   "Description": "How many times this year has a relative told you that you've become kamzor (weak)?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Classic desi family remark; Urdu word leads since it carries the joke (challenger amendment)"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been to the dentist?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Countable health card fitting with stitches/fainted/surgery; not in the deck"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been stung by a bee or wasp?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Memorable, harmless personal count; not in the deck"
   }
  ]
 }
