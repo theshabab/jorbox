@@ -37,3 +37,8 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 - Removed 77: touching missions (shoulder, knee, hair, massage, fixing a collar or dupatta), clothing (buttons, belts, tucking in shirts), singing, humming, dancing, blowing a kiss, winking, bowing, unsafe or embarrassing ones (burping, cracking necks, standing on chairs), vague "hold your patience" cards, and duplicates. Reworded others locally ("Bless you" → "Yarhamuk Allah", movie quotes → Iqbal or a muhavra, bets → challenges).
 - Should hand games (thumb wrestling, arm wrestling) or light touches between players of the same gender be allowed? Removed for now.
 - Kept: selfie missions, ad slogans and "hide under a table". OK?
+
+## Aik Rangi Soch: done (504 → 402)
+
+- Removed 102: film, TV, cartoon, superhero, Netflix and romance prompts; prompts whose answers would be personal names ("a teacher you remember"); and about 60 duplicates. Reworded others locally ("carnival ride" → "mela", "deep dish" → "pan pizza", "Big Wedding or Simple Nikkah?", lucky number → "pick a number").
+- Kept "Wedding or Birthday?", a honeymoon prompt, Instagram vs TikTok, and brand-slogan prompts. Any of these to drop?

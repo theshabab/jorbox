@@ -1,0 +1,4543 @@
+{
+ "game": "game10",
+ "name": "Aik Rangi Soch",
+ "baseCommit": "3f43360",
+ "cards": [
+  {
+   "id": "game10-1",
+   "Name": "Name a fruit that is yellow.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a fruit that is yellow."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-2",
+   "Name": "What is the best flavor of ice cream?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best flavor of ice cream?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-3",
+   "Name": "What is the most popular sport in the world?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most popular sport in the world?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-4",
+   "Name": "What do you wear to a wedding?",
+   "action": "keep",
+   "original": {
+    "Name": "What do you wear to a wedding?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-5",
+   "Name": "Name a common household pet.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a common household pet."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-6",
+   "Name": "What is a good time to wake up?",
+   "action": "keep",
+   "original": {
+    "Name": "What is a good time to wake up?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-7",
+   "Name": "What is the best day of the week?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best day of the week?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-8",
+   "Name": "Name a color in a rainbow.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a color in a rainbow."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-9",
+   "Name": "What is the first thing you drink in the morning?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the first thing you drink in the morning?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-10",
+   "Name": "What is the best pizza topping?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best pizza topping?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-11",
+   "Name": "Name a famous superhero.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a famous superhero."
+   },
+   "note": "western/secular: film/pop culture"
+  },
+  {
+   "id": "game10-12",
+   "Name": "What is the best season?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best season?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-13",
+   "Name": "What is a common excuse for being late?",
+   "action": "keep",
+   "original": {
+    "Name": "What is a common excuse for being late?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-14",
+   "Name": "Name a vegetable you put in a salad.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a vegetable you put in a salad."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-15",
+   "Name": "What is the best way to travel?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best way to travel?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-16",
+   "Name": "Name a subject everyone hates in school.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a subject everyone hates in school."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-17",
+   "Name": "What is the most useful app on your phone?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most useful app on your phone?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-18",
+   "Name": "Name a drink you have with dinner.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a drink you have with dinner."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-19",
+   "Name": "What is the first thing you do when you get home?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the first thing you do when you get home?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-20",
+   "Name": "Name a famous fast food chain.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous fast food chain."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-21",
+   "Name": "What is the best cold drink?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best cold drink?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-22",
+   "Name": "Name something you find in a bathroom.",
+   "action": "edit",
+   "original": {
+    "Name": "Name something specific you find in a bathroom."
+   },
+   "note": "removed stray word"
+  },
+  {
+   "id": "game10-23",
+   "Name": "Name a sound an animal makes.",
+   "action": "edit",
+   "original": {
+    "Name": "What does a cat say?"
+   },
+   "note": "original had only one answer"
+  },
+  {
+   "id": "game10-24",
+   "Name": "Name a game you played as a child.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a game you played as a child."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-25",
+   "Name": "What is the best part of a burger?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best part of a burger?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-26",
+   "Name": "Name a fruit that is red.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a fruit that is red."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-27",
+   "Name": "What is the best thing to do on a weekend?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best thing to do on a weekend?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-28",
+   "Name": "Name a place you go to relax.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a place you go to relax."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-29",
+   "Name": "What is the scariest animal?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the scariest animal?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-30",
+   "Name": "Name a chocolate brand.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a chocolate brand."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-31",
+   "Name": "What is the best type of cake?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best type of cake?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-32",
+   "Name": "What is the best way to cook eggs?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best way to cook eggs?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-33",
+   "Name": "What is the most boring chore?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most boring chore?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-34",
+   "Name": "Name a job that pays well.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a job that pays well?"
+   },
+   "note": "punctuation"
+  },
+  {
+   "id": "game10-35",
+   "Name": "Name a bird people keep as a pet.",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best breed of dog?"
+   },
+   "note": "dog breeds not widely known; kept pet idea"
+  },
+  {
+   "id": "game10-36",
+   "Name": "Name a country you want to visit.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a country you want to visit."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-37",
+   "Name": "What is the best time to go to bed?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best time to go to bed?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-38",
+   "Name": "Name a famous cartoon character.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a famous cartoon character."
+   },
+   "note": "western/secular: TV cartoons"
+  },
+  {
+   "id": "game10-39",
+   "Name": "What is the best thing about winter?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best thing about winter?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-40",
+   "Name": "Name something you find in a kitchen.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you find in a kitchen."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-41",
+   "Name": "What is the best gift to receive?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best gift to receive?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-42",
+   "Name": "Name a flower everyone likes.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a flower everyone likes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-43",
+   "Name": "What is the most popular color for a car?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most popular color for a car?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-44",
+   "Name": "Name a fruit juice flavor.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a fruit juice flavor."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-45",
+   "Name": "What is the best snack for a long car journey?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best thing to eat at a movies?"
+   },
+   "note": "removed cinema setting"
+  },
+  {
+   "id": "game10-46",
+   "Name": "Name a famous board game.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous board game."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-47",
+   "Name": "What is the most annoying insect?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most annoying insect?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-48",
+   "Name": "Name something yellow.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something yellow."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-49",
+   "Name": "Biryani: With Aloo or Without?",
+   "action": "keep",
+   "original": {
+    "Name": "Biryani: With Aloo or Without?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-50",
+   "Name": "Winter or Summer?",
+   "action": "keep",
+   "original": {
+    "Name": "Winter or Summer?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-51",
+   "Name": "Cats or Dogs?",
+   "action": "keep",
+   "original": {
+    "Name": "Cats or Dogs?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-52",
+   "Name": "Chai or Coffee?",
+   "action": "keep",
+   "original": {
+    "Name": "Chai or Coffee?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-53",
+   "Name": "Karachi or Lahore?",
+   "action": "keep",
+   "original": {
+    "Name": "Karachi or Lahore?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-54",
+   "Name": "Sweet or Salty Lassi?",
+   "action": "keep",
+   "original": {
+    "Name": "Sweet or Salty Lassi?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-55",
+   "Name": "Morning Person or Night Owl?",
+   "action": "keep",
+   "original": {
+    "Name": "Morning Person or Night Owl?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-56",
+   "Name": "iPhone or Android?",
+   "action": "edit",
+   "original": {
+    "Name": "iphone or Android?"
+   },
+   "note": "capitalization"
+  },
+  {
+   "id": "game10-57",
+   "Name": "Window Seat or Aisle Seat?",
+   "action": "keep",
+   "original": {
+    "Name": "Window Seat or Aisle Seat?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-58",
+   "Name": "Pepsi or Coke?",
+   "action": "keep",
+   "original": {
+    "Name": "Pepsi or Coke?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-59",
+   "Name": "Samosa or Pakora?",
+   "action": "keep",
+   "original": {
+    "Name": "Samosa or Pakora?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-60",
+   "Name": "Cricket or Football?",
+   "action": "keep",
+   "original": {
+    "Name": "Cricket or Football?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-61",
+   "Name": "Chicken or Beef?",
+   "action": "keep",
+   "original": {
+    "Name": "Chicken or Beef?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-62",
+   "Name": "Rich and Sad or Poor and Happy?",
+   "action": "edit",
+   "original": {
+    "Name": "Rich and Sad OR Poor and Happy?"
+   },
+   "note": "capitalization"
+  },
+  {
+   "id": "game10-63",
+   "Name": "Wedding Food: Biryani or Qorma?",
+   "action": "keep",
+   "original": {
+    "Name": "Wedding Food: Biryani or Qorma?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-64",
+   "Name": "Dinner: Eat Out or Eat at Home?",
+   "action": "edit",
+   "original": {
+    "Name": "Watching Movies: At Home or Cinema?"
+   },
+   "note": "removed movie setting"
+  },
+  {
+   "id": "game10-65",
+   "Name": "Eid ul Fitr (Meethi Eid) or Eid ul Adha (Bakra Eid)?",
+   "action": "keep",
+   "original": {
+    "Name": "Eid ul Fitr (Meethi Eid) or Eid ul Adha (Bakra Eid)?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-66",
+   "Name": "Call or Text?",
+   "action": "keep",
+   "original": {
+    "Name": "Call or Text?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-67",
+   "Name": "City Life or Village Life?",
+   "action": "keep",
+   "original": {
+    "Name": "City Life or Village Life?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-68",
+   "Name": "Spicy Food or Mild Food?",
+   "action": "keep",
+   "original": {
+    "Name": "Spicy Food or Mild Food?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-69",
+   "Name": "Kheer or Gajar Ka Halwa?",
+   "action": "keep",
+   "original": {
+    "Name": "Kheer or Gajar Ka Halwa?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-70",
+   "Name": "Instagram or TikTok?",
+   "action": "keep",
+   "original": {
+    "Name": "Instagram or TikTok?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-71",
+   "Name": "Online Shopping or Mall Shopping?",
+   "action": "keep",
+   "original": {
+    "Name": "Online Shopping or Mall Shopping?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-72",
+   "Name": "Snakes and Ladders: Snake bites you or you miss a ladder?",
+   "action": "edit",
+   "original": {
+    "Name": "Ludo: Snake bites you OR You miss a ladder?"
+   },
+   "note": "Ludo has no snakes or ladders"
+  },
+  {
+   "id": "game10-73",
+   "Name": "Paratha or Toast for breakfast?",
+   "action": "keep",
+   "original": {
+    "Name": "Paratha or Toast for breakfast?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-74",
+   "Name": "Vanilla or Chocolate Ice Cream?",
+   "action": "keep",
+   "original": {
+    "Name": "Vanilla or Chocolate Ice Cream?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-75",
+   "Name": "Rain: Love it or Hate it?",
+   "action": "keep",
+   "original": {
+    "Name": "Rain: Love it or Hate it?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-76",
+   "Name": "Formal Clothes or Pajamas?",
+   "action": "keep",
+   "original": {
+    "Name": "Formal Clothes or Pajamas?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-77",
+   "Name": "Mangoes: Sindhri or Chaunsa?",
+   "action": "keep",
+   "original": {
+    "Name": "Mangoes: Sindhri or Chaunsa?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-78",
+   "Name": "Travel: Mountains or Beach?",
+   "action": "edit",
+   "original": {
+    "Name": "Travel: Mountains or Peach?"
+   },
+   "note": "spelling (Peach)"
+  },
+  {
+   "id": "game10-79",
+   "Name": "Gulab Jamun or Barfi?",
+   "action": "keep",
+   "original": {
+    "Name": "Gulab Jamun or Barfi?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-80",
+   "Name": "Cash or Card?",
+   "action": "edit",
+   "original": {
+    "Name": "Paper Money or Credit Card?"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game10-81",
+   "Name": "Reading a Book or Watching a Video?",
+   "action": "keep",
+   "original": {
+    "Name": "Reading a Book or Watching a Video?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-82",
+   "Name": "Pizza: Thin Crust or Pan Pizza?",
+   "action": "edit",
+   "original": {
+    "Name": "Pizza: Thin Crust or Deep Dish?"
+   },
+   "note": "deep dish not common in Pakistan"
+  },
+  {
+   "id": "game10-83",
+   "Name": "Sleep with Fan ON or OFF (in winter)?",
+   "action": "keep",
+   "original": {
+    "Name": "Sleep with Fan ON or OFF (in winter)?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-84",
+   "Name": "Joint Family or Nuclear Family?",
+   "action": "keep",
+   "original": {
+    "Name": "Joint Family or Nuclear Family?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-85",
+   "Name": "Driving: Manual or Automatic?",
+   "action": "keep",
+   "original": {
+    "Name": "Driving: Manual or Automatic?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-86",
+   "Name": "Shawarma or Burger?",
+   "action": "keep",
+   "original": {
+    "Name": "Shawarma or Burger?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-87",
+   "Name": "Glasses or Contact Lenses?",
+   "action": "edit",
+   "original": {
+    "Name": "Glasses or Lenses?"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game10-88",
+   "Name": "Long Hair or Short Hair?",
+   "action": "keep",
+   "original": {
+    "Name": "Long Hair or Short Hair?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-89",
+   "Name": "Baking or Cooking?",
+   "action": "keep",
+   "original": {
+    "Name": "Baking or Cooking?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-90",
+   "Name": "Gold or Silver Jewelry?",
+   "action": "keep",
+   "original": {
+    "Name": "Gold or Silver Jewelry?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-91",
+   "Name": "Scary Stories or Funny Stories?",
+   "action": "edit",
+   "original": {
+    "Name": "Horror Movie or Comedy Movie?"
+   },
+   "note": "removed movie content"
+  },
+  {
+   "id": "game10-92",
+   "Name": "Laptop or Tablet?",
+   "action": "keep",
+   "original": {
+    "Name": "Laptop or Tablet?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-93",
+   "Name": "Waking up: Alarm or Mom yelling?",
+   "action": "keep",
+   "original": {
+    "Name": "Waking up: Alarm or Mom yelling?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-94",
+   "Name": "Big Wedding or Simple Nikkah?",
+   "action": "edit",
+   "original": {
+    "Name": "Wedding or Simple Nikkah?"
+   },
+   "note": "clearer contrast"
+  },
+  {
+   "id": "game10-95",
+   "Name": "Ice Cream Cup or Cone?",
+   "action": "keep",
+   "original": {
+    "Name": "Ice Cream Cup or Cone?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-96",
+   "Name": "Black or White Car?",
+   "action": "keep",
+   "original": {
+    "Name": "Black or White Car?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-97",
+   "Name": "Eating with Spoon or Hands?",
+   "action": "keep",
+   "original": {
+    "Name": "Eating with Spoon or Hands?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-98",
+   "Name": "Netflix or YouTube?",
+   "action": "remove",
+   "original": {
+    "Name": "Netflix or YouTube?"
+   },
+   "note": "western/secular: TV streaming"
+  },
+  {
+   "id": "game10-99",
+   "Name": "Name a vegetable kids hate eating.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a vegetable kids hate eating."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-100",
+   "Name": "Name something you find in a messy car.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you find in a messy car."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-101",
+   "Name": "Name a famous Pakistani drama.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a famous Pakistani drama."
+   },
+   "note": "TV/pop culture (dramas)"
+  },
+  {
+   "id": "game10-102",
+   "Name": "Name a brand of biscuits.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a brand of biscuits."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-103",
+   "Name": "Name something present at every wedding.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something present at every wedding."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-104",
+   "Name": "Name a place where you have to be quiet.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a place where you have to be quiet."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-105",
+   "Name": "Name a popular Pizza topping.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a popular Pizza topping."
+   },
+   "note": "duplicate of game10-10 (pizza topping)"
+  },
+  {
+   "id": "game10-106",
+   "Name": "Name something people forget to pack for travel.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something people forget to pack for travel."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-107",
+   "Name": "Name a country starting with 'A'.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a country starting with 'A'."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-108",
+   "Name": "Name something you eat with ketchup.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you eat with ketchup."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-109",
+   "Name": "Name a large animal.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a large animal."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-110",
+   "Name": "Name a reason people are late to work.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a reason people are late to work."
+   },
+   "note": "duplicate of game10-13 (reason for being late)"
+  },
+  {
+   "id": "game10-111",
+   "Name": "Name something you do before going to sleep.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you do before going to sleep."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-112",
+   "Name": "Name a fruit with seeds inside.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a fruit with seeds inside."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-113",
+   "Name": "Name something you find in a lady's purse.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you find in a lady's purse."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-114",
+   "Name": "Name a type of daal (lentil).",
+   "action": "edit",
+   "original": {
+    "Name": "Name a type of Dall (Lentil)."
+   },
+   "note": "spelling"
+  },
+  {
+   "id": "game10-115",
+   "Name": "Name a flavor of chips.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a flavor of chips."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-116",
+   "Name": "Name something that smells good.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something that smells good."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-117",
+   "Name": "Name a subject taught in school.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a subject taught in school."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-118",
+   "Name": "Name a color of a car.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a color of a car."
+   },
+   "note": "duplicate of game10-43 (car colour)"
+  },
+  {
+   "id": "game10-119",
+   "Name": "Name something you buy from a bakery.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you buy from a bakery."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-120",
+   "Name": "Name a noisy household appliance.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a noisy household appliance."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-121",
+   "Name": "Name a game played with a ball.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a game played with a ball."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-122",
+   "Name": "Name something you eat at breakfast.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you eat at breakfast."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-123",
+   "Name": "Name a chore you hate doing.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a chore you hate doing."
+   },
+   "note": "duplicate of game10-33 (disliked chore)"
+  },
+  {
+   "id": "game10-124",
+   "Name": "Name something you find in a fridge.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you find in a fridge."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-125",
+   "Name": "Name a picnic spot.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a picnic spot."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-126",
+   "Name": "Name a sweet dish made with milk.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a sweet dish made with milk."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-127",
+   "Name": "Name a mode of public transport.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a mode of public transport."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-128",
+   "Name": "Name something you wear in winter.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you wear in winter."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-129",
+   "Name": "Name a fast food restaurant chain.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a fast food restaurant chain."
+   },
+   "note": "duplicate of game10-20 (fast food chain)"
+  },
+  {
+   "id": "game10-130",
+   "Name": "Name something you can break easily.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you can break easily."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-131",
+   "Name": "Name a gift you give to a baby.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a gift you give to a baby."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-132",
+   "Name": "Name something green.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something green."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-133",
+   "Name": "Name something sticky.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something sticky."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-134",
+   "Name": "Name a common phobia (fear).",
+   "action": "keep",
+   "original": {
+    "Name": "Name a common phobia (fear)."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-135",
+   "Name": "Name something that uses batteries.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something that uses batteries."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-136",
+   "Name": "Name a fruit you peel before eating.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a fruit you peel before eating."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-137",
+   "Name": "Name something you do on a Sunday.",
+   "action": "remove",
+   "original": {
+    "Name": "Name something you do on a Sunday."
+   },
+   "note": "duplicate of game10-27 (weekend activity)"
+  },
+  {
+   "id": "game10-138",
+   "Name": "Name a ride at a mela or funfair.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a ride at a carnival."
+   },
+   "note": "Pakistani frame"
+  },
+  {
+   "id": "game10-139",
+   "Name": "Name something made of wood.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something made of wood."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-140",
+   "Name": "Name a famous Mughal Emperor.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous Mughal Emperor."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-141",
+   "Name": "Name something you find in a bathroom.",
+   "action": "remove",
+   "original": {
+    "Name": "Name something you find in a bathroom."
+   },
+   "note": "duplicate of game10-22 (bathroom)"
+  },
+  {
+   "id": "game10-142",
+   "Name": "Name a month with 31 days.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a month with 31 days."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-143",
+   "Name": "Name something you cook in a pan.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you cook in a pan."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-144",
+   "Name": "Name a cartoon character.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a cartoon character."
+   },
+   "note": "duplicate of game10-38 (cartoon character)"
+  },
+  {
+   "id": "game10-145",
+   "Name": "Name something you drink from a straw.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you drink from a straw."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-146",
+   "Name": "Name a type of flower.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a type of flower."
+   },
+   "note": "duplicate of game10-42 (flower)"
+  },
+  {
+   "id": "game10-147",
+   "Name": "Name something you find in a classroom.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you find in a classroom."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-148",
+   "Name": "What is the best age to get married?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best age to get married?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-149",
+   "Name": "Who is usually the favorite child in a family?",
+   "action": "edit",
+   "original": {
+    "Name": "Who is the favorite child in a family?"
+   },
+   "note": "clarity"
+  },
+  {
+   "id": "game10-150",
+   "Name": "What is the most boring hobby?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most boring hobby?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-151",
+   "Name": "If you could have any superpower, what would it be?",
+   "action": "edit",
+   "original": {
+    "Name": "If you could have any superpower what would it be?"
+   },
+   "note": "punctuation"
+  },
+  {
+   "id": "game10-152",
+   "Name": "What is the ideal amount of Eidi to receive?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the ideal amount of Eidi to receive?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-153",
+   "Name": "What is the most annoying habit a guest can have?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most annoying habit a guest can have?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-154",
+   "Name": "At what age does youth end?",
+   "action": "edit",
+   "original": {
+    "Name": "At what age does \"Youth\" end?"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game10-155",
+   "Name": "What is the best time to eat dinner?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best time to eat dinner?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-156",
+   "Name": "What is the worst gift to receive?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the worst gift to receive?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-157",
+   "Name": "How late is acceptable on \"Pakistani Standard Time\"?",
+   "action": "edit",
+   "original": {
+    "Name": "How late is acceptable for \"Standard Time\"?"
+   },
+   "note": "clarity"
+  },
+  {
+   "id": "game10-158",
+   "Name": "What is the hardest subject in school?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the hardest subject in school?"
+   },
+   "note": "duplicate of game10-16 (school subject)"
+  },
+  {
+   "id": "game10-159",
+   "Name": "What is the best part of a wedding?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best part of a wedding?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-160",
+   "Name": "Which relative is the most judgmental?",
+   "action": "keep",
+   "original": {
+    "Name": "Which relative is the most judgmental?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-161",
+   "Name": "What is the perfect weather temperature?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the perfect weather temperature?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-162",
+   "Name": "Who gossips the most in a family?",
+   "action": "keep",
+   "original": {
+    "Name": "Who gossips the most in a family?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-163",
+   "Name": "What is the most useful profession?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most useful job profession?"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game10-164",
+   "Name": "What is the scariest insect?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the scariest insect?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-165",
+   "Name": "What is the most overrated food?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most overrated food?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-166",
+   "Name": "What is an acceptable length for a phone call?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the acceptable duration for a phone call?"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game10-167",
+   "Name": "How many cups of chai is \"too much\"?",
+   "action": "keep",
+   "original": {
+    "Name": "How many cups of chai is \"too much\"?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-168",
+   "Name": "What is the most important quality in a friend?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most important quality in a friend?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-169",
+   "Name": "What is the best car color for resale value?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best car color for resale value?"
+   },
+   "note": "duplicate of game10-43 (car colour)"
+  },
+  {
+   "id": "game10-170",
+   "Name": "What is the coolest job to have?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the coolest job to have?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-171",
+   "Name": "What is the worst vegetable?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the worst vegetable?"
+   },
+   "note": "duplicate of game10-99 (disliked vegetable)"
+  },
+  {
+   "id": "game10-172",
+   "Name": "Who is the funniest person in your family?",
+   "action": "keep",
+   "original": {
+    "Name": "Who is the funniest person in your family?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-173",
+   "Name": "What is the best ice cream flavor?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best ice cream flavor?"
+   },
+   "note": "duplicate of game10-2 (ice cream flavor)"
+  },
+  {
+   "id": "game10-174",
+   "Name": "What is the most relaxing sound?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most relaxing sound?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-175",
+   "Name": "Where is the best place to go for a honeymoon?",
+   "action": "keep",
+   "original": {
+    "Name": "Where is the best place to go for a honeymoon?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-176",
+   "Name": "What is the most difficult language to learn?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most difficult language to learn?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-177",
+   "Name": "What is the best feeling in the world?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best feeling in the world?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-178",
+   "Name": "What is the most useless thing you learned in school?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most useless thing you learned in school?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-179",
+   "Name": "What is the best snack for a movie?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best snack for a movie?"
+   },
+   "note": "duplicate of game10-45 (movie snack)"
+  },
+  {
+   "id": "game10-180",
+   "Name": "How much money is \"Rich\"?",
+   "action": "keep",
+   "original": {
+    "Name": "How much money is \"Rich\"?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-181",
+   "Name": "What is the most stressful thing about weddings?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most stressful thing about weddings?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-182",
+   "Name": "Who cooks the best food in the family?",
+   "action": "keep",
+   "original": {
+    "Name": "Who cooks the best food in the family?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-183",
+   "Name": "What is the best fruit of all time?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best fruit of all time?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-184",
+   "Name": "What is the worst household chore?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the worst household chore?"
+   },
+   "note": "duplicate of game10-33 (disliked chore)"
+  },
+  {
+   "id": "game10-185",
+   "Name": "What is the best show on TV right now?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best show on TV right now?"
+   },
+   "note": "TV/pop culture"
+  },
+  {
+   "id": "game10-186",
+   "Name": "What is the most beautiful city?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most beautiful city?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-187",
+   "Name": "Pick a number between 1 and 10.",
+   "action": "edit",
+   "original": {
+    "Name": "What is the lucky number?"
+   },
+   "note": "unclear, avoid \"lucky\" superstition"
+  },
+  {
+   "id": "game10-188",
+   "Name": "What is the best drink for a hot day?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best drink for a hot day?"
+   },
+   "note": "duplicate of game10-21 (cold drink)"
+  },
+  {
+   "id": "game10-189",
+   "Name": "Who is the smartest person you know?",
+   "action": "keep",
+   "original": {
+    "Name": "Who is the smartest person you know?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-190",
+   "Name": "What is the best chocolate bar?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best chocolate bar?"
+   },
+   "note": "duplicate of game10-30 (chocolate)"
+  },
+  {
+   "id": "game10-191",
+   "Name": "What is the worst thing to forget at home?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the worst thing to forget at home?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-192",
+   "Name": "What is the most exciting sport to watch?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most exciting sport to watch?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-193",
+   "Name": "What is the scariest movie villain?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the scariest movie villain?"
+   },
+   "note": "film/pop culture"
+  },
+  {
+   "id": "game10-194",
+   "Name": "What is the best smell in the world?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best smell in the world?"
+   },
+   "note": "duplicate of game10-116 (good smell)"
+  },
+  {
+   "id": "game10-195",
+   "Name": "What is the most important meal of the day?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most important meal of the day?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-196",
+   "Name": "What do you dip a samosa in?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best topping for a samosa?"
+   },
+   "note": "samosas have no toppings"
+  },
+  {
+   "id": "game10-197",
+   "Name": "Name something you find in a student's bag.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you find in a student's bag."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-198",
+   "Name": "What is the most popular street food?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most popular street food?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-199",
+   "Name": "Name a habit that annoys parents the most.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a habit that annoys parents the most."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-200",
+   "Name": "What is the best brand of tea?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best brand of tea?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-201",
+   "Name": "Name a fruit you eat in summer.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a fruit you eat in summer."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-202",
+   "Name": "What is the best vehicle for a road trip?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best vehicle for a road trip?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-203",
+   "Name": "Name a common wedding gift.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a common wedding gift."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-204",
+   "Name": "What is the most comfortable footwear?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most comfortable footwear?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-205",
+   "Name": "Name a place you avoid going to.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a place you avoid going to."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-206",
+   "Name": "What is the best sweet to gift someone?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best sweet to gift someone?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-207",
+   "Name": "Name a Pakistani news channel.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a TV channel everyone watches."
+   },
+   "note": "TV pop culture reframed"
+  },
+  {
+   "id": "game10-208",
+   "Name": "What is the best way to spend a rainy day?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best way to spend a rainy day?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-209",
+   "Name": "Name something you lose easily.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you lose easily."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-210",
+   "Name": "What is the most useful kitchen appliance?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most useful kitchen appliance?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-211",
+   "Name": "Name a vegetable used in every curry.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a vegetable used in every curry."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-212",
+   "Name": "What is the best color for a dress?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best color for a dress?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-213",
+   "Name": "Name a subject that is easy to pass.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a subject that is easy to pass."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-214",
+   "Name": "What is the best dry fruit?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best dry fruit?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-215",
+   "Name": "What is the best thing to drink in winter?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best thing to drink in winter?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-216",
+   "Name": "Name a game you play on your phone.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a game you play on your phone."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-217",
+   "Name": "What is the most expensive thing you own?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most expensive thing you own?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-218",
+   "Name": "Name a place to go for a walk.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a place to go for a walk."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-219",
+   "Name": "What is the best hairstyle?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best hairstyle?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-220",
+   "Name": "Name a common reason for a fight.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a common reason for a fight."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-221",
+   "Name": "What is the best flavor of juice?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best flavor of juice?"
+   },
+   "note": "duplicate of 44 (juice flavor)"
+  },
+  {
+   "id": "game10-222",
+   "Name": "Name a shop you visit often.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a shop you visit often."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-223",
+   "Name": "What is the best way to relax after work?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best way to relax after work?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-224",
+   "Name": "Name something you do on Eid.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you do on Eid."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-225",
+   "Name": "What is the best type of rice dish?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best type of rice dish?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-226",
+   "Name": "Name a famous cricketer.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous cricketer."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-227",
+   "Name": "What is the best time to visit the market?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best time to visit the market?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-228",
+   "Name": "Name a color you dislike.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a color you dislike."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-229",
+   "Name": "What is the best thing about your city?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best thing about your city?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-230",
+   "Name": "Name a common street game.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a common street game."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-231",
+   "Name": "What is the best type of roti or naan?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best type of bread (Roti/Naan)?"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game10-232",
+   "Name": "Name a famous news anchor.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a famous news anchor."
+   },
+   "note": "TV/celebrity"
+  },
+  {
+   "id": "game10-233",
+   "Name": "What is the best fruit for breakfast?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best fruit for breakfast?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-234",
+   "Name": "Name something you collect.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you collect."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-235",
+   "Name": "What is the best mobile network?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best mobile network?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-236",
+   "Name": "Name a place you went for a school trip.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a place you went for a school trip."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-237",
+   "Name": "What is the best type of weather?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best type of weather?"
+   },
+   "note": "duplicate of 161 (perfect weather)"
+  },
+  {
+   "id": "game10-238",
+   "Name": "Name a chore you are good at.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a chore you are good at."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-239",
+   "Name": "What is the best thing to eat when sick?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best thing to eat when sick?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-240",
+   "Name": "Name a famous landmark in Pakistan.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a famous landmark."
+   },
+   "note": "Pakistani frame for common answers"
+  },
+  {
+   "id": "game10-241",
+   "Name": "What is the best fictional character?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best fictional character?"
+   },
+   "note": "pop culture"
+  },
+  {
+   "id": "game10-242",
+   "Name": "Name something you are afraid of.",
+   "action": "remove",
+   "original": {
+    "Name": "Name something you are afraid of."
+   },
+   "note": "duplicate of 134 (phobia)"
+  },
+  {
+   "id": "game10-243",
+   "Name": "What is the best board game for families?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best board game for families?"
+   },
+   "note": "duplicate of 46 (board game)"
+  },
+  {
+   "id": "game10-244",
+   "Name": "Name a website you visit daily.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a website you visit daily."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-245",
+   "Name": "Bun Kebab or Burger?",
+   "action": "keep",
+   "original": {
+    "Name": "Bun Kebab or Burger?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-246",
+   "Name": "Shopping: Online or In-store?",
+   "action": "remove",
+   "original": {
+    "Name": "Shopping: Online or In-store?"
+   },
+   "note": "duplicate of 71"
+  },
+  {
+   "id": "game10-247",
+   "Name": "Wedding: Day or Night?",
+   "action": "keep",
+   "original": {
+    "Name": "Wedding: Day or Night?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-248",
+   "Name": "Tea: Strong or Milky?",
+   "action": "keep",
+   "original": {
+    "Name": "Tea: Strong or Milky?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-249",
+   "Name": "Travel: Car or Train?",
+   "action": "keep",
+   "original": {
+    "Name": "Travel: Car or Train?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-250",
+   "Name": "Money: Save or Spend?",
+   "action": "keep",
+   "original": {
+    "Name": "Money: Save or Spend?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-251",
+   "Name": "Movie: Action or Romantic?",
+   "action": "remove",
+   "original": {
+    "Name": "Movie: Action or Romantic?"
+   },
+   "note": "film/romance"
+  },
+  {
+   "id": "game10-252",
+   "Name": "Food: Home-cooked or Restaurant?",
+   "action": "keep",
+   "original": {
+    "Name": "Food: Home-cooked or Restaurant?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-253",
+   "Name": "Friends: Few close ones or Many acquaintances?",
+   "action": "keep",
+   "original": {
+    "Name": "Friends: Few close ones or Many acquaintances?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-254",
+   "Name": "Work: Morning shift or Evening shift?",
+   "action": "keep",
+   "original": {
+    "Name": "Work: Morning shift or Evening shift?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-255",
+   "Name": "Clothes: Branded or Local?",
+   "action": "keep",
+   "original": {
+    "Name": "Clothes: Branded or Local?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-256",
+   "Name": "Shoes: Sandals or Sneakers?",
+   "action": "keep",
+   "original": {
+    "Name": "Shoes: Sandals or Sneakers?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-257",
+   "Name": "Eid: First day or Second day?",
+   "action": "keep",
+   "original": {
+    "Name": "Eid: First day or Second day?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-258",
+   "Name": "Gift: Money or Present?",
+   "action": "keep",
+   "original": {
+    "Name": "Gift: Money or Present?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-259",
+   "Name": "Weather: Cloudy or Sunny?",
+   "action": "keep",
+   "original": {
+    "Name": "Weather: Cloudy or Sunny?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-260",
+   "Name": "Study: Group study or Alone?",
+   "action": "keep",
+   "original": {
+    "Name": "Study: Group study or Alone?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-261",
+   "Name": "Hair: Oiled or Styled?",
+   "action": "keep",
+   "original": {
+    "Name": "Hair: Oiled or Styled?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-262",
+   "Name": "Food: Spicy or Sweet?",
+   "action": "keep",
+   "original": {
+    "Name": "Food: Spicy or Sweet?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-263",
+   "Name": "Drink: Water or Soda?",
+   "action": "keep",
+   "original": {
+    "Name": "Drink: Water or Soda?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-264",
+   "Name": "Exercise: Gym or Walk?",
+   "action": "keep",
+   "original": {
+    "Name": "Exercise: Gym or Walk?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-265",
+   "Name": "Sleep: Early or Late?",
+   "action": "remove",
+   "original": {
+    "Name": "Sleep: Early or Late?"
+   },
+   "note": "duplicate of 55 (morning/night)"
+  },
+  {
+   "id": "game10-266",
+   "Name": "Event: Wedding or Birthday?",
+   "action": "keep",
+   "original": {
+    "Name": "Event: Wedding or Birthday?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-267",
+   "Name": "News: TV or Social Media?",
+   "action": "keep",
+   "original": {
+    "Name": "News: TV or Social Media?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-268",
+   "Name": "Ride: Bike or Car?",
+   "action": "keep",
+   "original": {
+    "Name": "Ride: Bike or Car?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-269",
+   "Name": "Vacation: Beach or Mountains?",
+   "action": "remove",
+   "original": {
+    "Name": "Vacation: Beach or Mountains?"
+   },
+   "note": "duplicate of 78 (mountains/beach)"
+  },
+  {
+   "id": "game10-270",
+   "Name": "Game: Indoor or Outdoor?",
+   "action": "keep",
+   "original": {
+    "Name": "Game: Indoor or Outdoor?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-271",
+   "Name": "Shopping: Alone or With friends?",
+   "action": "keep",
+   "original": {
+    "Name": "Shopping: Alone or With friends?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-272",
+   "Name": "Message: Voice Note or Text?",
+   "action": "keep",
+   "original": {
+    "Name": "Message: Voice Note or Text?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-273",
+   "Name": "Photos: Posed or Candid?",
+   "action": "keep",
+   "original": {
+    "Name": "Photos: Posed or Candid?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-274",
+   "Name": "Seat: Front or Back (in car)?",
+   "action": "keep",
+   "original": {
+    "Name": "Seat: Front or Back (in car)?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-275",
+   "Name": "Payment: Cash or Card?",
+   "action": "remove",
+   "original": {
+    "Name": "Payment: Cash or Card?"
+   },
+   "note": "duplicate of 80 (cash/card)"
+  },
+  {
+   "id": "game10-276",
+   "Name": "Bag: Backpack or Shoulder bag?",
+   "action": "keep",
+   "original": {
+    "Name": "Bag: Backpack or Shoulder bag?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-277",
+   "Name": "Watch: Analog or Digital?",
+   "action": "keep",
+   "original": {
+    "Name": "Watch: Analog or Digital?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-278",
+   "Name": "Internet: Wi-Fi or Data?",
+   "action": "keep",
+   "original": {
+    "Name": "Internet: Wi-Fi or Data?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-279",
+   "Name": "Laptop: Mac or Windows?",
+   "action": "keep",
+   "original": {
+    "Name": "Laptop: Mac or Windows?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-280",
+   "Name": "Language: Urdu or English?",
+   "action": "keep",
+   "original": {
+    "Name": "Language: Urdu or English?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-281",
+   "Name": "Rice: Spoon or Hands?",
+   "action": "remove",
+   "original": {
+    "Name": "Rice: Spoon or Hands?"
+   },
+   "note": "duplicate of 97 (spoon/hands)"
+  },
+  {
+   "id": "game10-282",
+   "Name": "Movie: Cinema or Netflix?",
+   "action": "remove",
+   "original": {
+    "Name": "Movie: Cinema or Netflix?"
+   },
+   "note": "film; duplicate of 64"
+  },
+  {
+   "id": "game10-283",
+   "Name": "Sweets: Mithai or Cake?",
+   "action": "keep",
+   "original": {
+    "Name": "Sweets: Mithai or Cake?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-284",
+   "Name": "Fruit: Mango or Apple?",
+   "action": "keep",
+   "original": {
+    "Name": "Fruit: Mango or Apple?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-285",
+   "Name": "Vegetable: Potato or Spinach?",
+   "action": "keep",
+   "original": {
+    "Name": "Vegetable: Potato or Spinach?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-286",
+   "Name": "Color: Black or White?",
+   "action": "keep",
+   "original": {
+    "Name": "Color: Black or White?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-287",
+   "Name": "Season: Spring or Autumn?",
+   "action": "keep",
+   "original": {
+    "Name": "Season: Spring or Autumn?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-288",
+   "Name": "Pet: Bird or Cat?",
+   "action": "keep",
+   "original": {
+    "Name": "Pet: Bird or Cat?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-289",
+   "Name": "Home: Apartment or House?",
+   "action": "edit",
+   "original": {
+    "Name": "House: Apartment or House?"
+   },
+   "note": "label repeated the option"
+  },
+  {
+   "id": "game10-290",
+   "Name": "Career: Own Business or Salaried Job?",
+   "action": "edit",
+   "original": {
+    "Name": "Job: Business or Salary?"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game10-291",
+   "Name": "Family: Large or Small?",
+   "action": "keep",
+   "original": {
+    "Name": "Family: Large or Small?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-292",
+   "Name": "Dinner: Early or Late?",
+   "action": "keep",
+   "original": {
+    "Name": "Dinner: Early or Late?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-293",
+   "Name": "Name a reason to be happy.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a reason to be happy."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-294",
+   "Name": "Name something you can cook.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you can cook."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-295",
+   "Name": "Name a place you want to live.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a place you want to live."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-296",
+   "Name": "Name a person you admire.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a person you admire."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-297",
+   "Name": "Name a skill you want to learn.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a skill you want to learn."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-298",
+   "Name": "Name a book everyone should read.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a book everyone should read."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-299",
+   "Name": "Name a movie that makes you cry.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a movie that makes you cry."
+   },
+   "note": "film"
+  },
+  {
+   "id": "game10-300",
+   "Name": "Name a food you can eat every day.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a food you can eat every day."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-301",
+   "Name": "Name a famous Pakistani you would like to meet.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a celebrity you want to meet."
+   },
+   "note": "celebrity -> famous Pakistani"
+  },
+  {
+   "id": "game10-302",
+   "Name": "Name a place you feel safe.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a place you feel safe."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-303",
+   "Name": "Name a happy day in someone's life.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a memory you cherish."
+   },
+   "note": "too personal; made answerable"
+  },
+  {
+   "id": "game10-304",
+   "Name": "Name a common life goal.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a goal you have."
+   },
+   "note": "too personal; made answerable"
+  },
+  {
+   "id": "game10-305",
+   "Name": "Name a fear you overcame.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a fear you overcame."
+   },
+   "note": "duplicate of game10-134/242 (fears)"
+  },
+  {
+   "id": "game10-306",
+   "Name": "Name a common mistake students make in exams.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a mistake you made."
+   },
+   "note": "too personal; made answerable"
+  },
+  {
+   "id": "game10-307",
+   "Name": "Name a lesson parents always teach.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a lesson you learned."
+   },
+   "note": "too vague; made answerable"
+  },
+  {
+   "id": "game10-308",
+   "Name": "Name a hobby you enjoy.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a hobby you enjoy."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-309",
+   "Name": "Name a sport you like to play.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a sport you like to play."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-310",
+   "Name": "Name a cricket team you support.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a team you support."
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-311",
+   "Name": "Name a gadget you want.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a gadget you want."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-312",
+   "Name": "Name a car you like.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a car you like."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-313",
+   "Name": "Name a feature of your dream house.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a house you dream of."
+   },
+   "note": "awkward wording"
+  },
+  {
+   "id": "game10-314",
+   "Name": "Name a job you would hate.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a job you would hate."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-315",
+   "Name": "Name a school subject you loved.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a subject you loved."
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-316",
+   "Name": "Name a teacher you remember.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a teacher you remember."
+   },
+   "note": "answers are personal names; no matching"
+  },
+  {
+   "id": "game10-317",
+   "Name": "Name a friend you miss.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a friend you miss."
+   },
+   "note": "answers are personal names; no matching"
+  },
+  {
+   "id": "game10-318",
+   "Name": "Name a game you are good at.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a game you won."
+   },
+   "note": "too personal; made answerable"
+  },
+  {
+   "id": "game10-319",
+   "Name": "Name a gift you give to your mother.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a gift you gave."
+   },
+   "note": "too vague; made answerable"
+  },
+  {
+   "id": "game10-320",
+   "Name": "Name a popular place in northern Pakistan for a trip.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a trip you took."
+   },
+   "note": "too personal; made answerable"
+  },
+  {
+   "id": "game10-321",
+   "Name": "Name a city you like.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a city you like."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-322",
+   "Name": "Name a country you dislike.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a country you dislike."
+   },
+   "note": "negative/divisive prompt"
+  },
+  {
+   "id": "game10-323",
+   "Name": "Name a food you hate.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a food you hate."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-324",
+   "Name": "Name a drink you love.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a drink you love."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-325",
+   "Name": "Name a color you wear often.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a color you wear often."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-326",
+   "Name": "Name a brand you trust.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a brand you trust."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-327",
+   "Name": "Name a shop you like.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a shop you like."
+   },
+   "note": "duplicate of game10-222"
+  },
+  {
+   "id": "game10-328",
+   "Name": "Name a famous mall in Pakistan.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a mall you visit."
+   },
+   "note": "made answerable"
+  },
+  {
+   "id": "game10-329",
+   "Name": "Name a famous park in your city.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a park you go to."
+   },
+   "note": "made answerable"
+  },
+  {
+   "id": "game10-330",
+   "Name": "Name a restaurant you recommend.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a restaurant you recommend."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-331",
+   "Name": "Name a dish you cook well.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a dish you cook well."
+   },
+   "note": "duplicate of game10-294"
+  },
+  {
+   "id": "game10-332",
+   "Name": "Name a dessert you crave.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a dessert you crave."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-333",
+   "Name": "Name a snack you buy.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a snack you buy."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-334",
+   "Name": "Name a fruit you dislike.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a fruit you dislike."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-335",
+   "Name": "Name a vegetable you love.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a vegetable you love."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-336",
+   "Name": "Name a spice every Pakistani kitchen has.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a spice you use."
+   },
+   "note": "made answerable"
+  },
+  {
+   "id": "game10-337",
+   "Name": "Name a flower you like.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a flower you like."
+   },
+   "note": "duplicate of game10-42/146"
+  },
+  {
+   "id": "game10-338",
+   "Name": "Name a tree that gives fruit.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a tree you know."
+   },
+   "note": "too vague"
+  },
+  {
+   "id": "game10-339",
+   "Name": "Name a bird you see in your city.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a bird you see."
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-340",
+   "Name": "Name an animal you like.",
+   "action": "keep",
+   "original": {
+    "Name": "Name an animal you like."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-341",
+   "Name": "What advice do elders always give?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best advice you received?"
+   },
+   "note": "made answerable"
+  },
+  {
+   "id": "game10-342",
+   "Name": "What is the most difficult decision in life?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most difficult decision?"
+   },
+   "note": "incomplete"
+  },
+  {
+   "id": "game10-343",
+   "Name": "What is the best compliment to receive?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best compliment?"
+   },
+   "note": "incomplete"
+  },
+  {
+   "id": "game10-344",
+   "Name": "What question do relatives always ask?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most annoying question?"
+   },
+   "note": "made answerable"
+  },
+  {
+   "id": "game10-345",
+   "Name": "What is the best surprise to get?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best surprise?"
+   },
+   "note": "incomplete"
+  },
+  {
+   "id": "game10-346",
+   "Name": "What is the most expensive gift you can give?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most expensive gift?"
+   },
+   "note": "incomplete"
+  },
+  {
+   "id": "game10-347",
+   "Name": "What is the best holiday of the year?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best holiday?"
+   },
+   "note": "clarified (Eid, 14 August)"
+  },
+  {
+   "id": "game10-348",
+   "Name": "What is the most boring day of the week?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most boring day?"
+   },
+   "note": "incomplete"
+  },
+  {
+   "id": "game10-349",
+   "Name": "What is the best age to be?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best age?"
+   },
+   "note": "incomplete"
+  },
+  {
+   "id": "game10-350",
+   "Name": "What is the most difficult job in the world?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most difficult job?"
+   },
+   "note": "incomplete"
+  },
+  {
+   "id": "game10-351",
+   "Name": "What is the best restaurant?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best restaurant?"
+   },
+   "note": "duplicate of game10-330"
+  },
+  {
+   "id": "game10-352",
+   "Name": "What is the best movie?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best movie?"
+   },
+   "note": "western/secular (film)"
+  },
+  {
+   "id": "game10-353",
+   "Name": "What is the most famous book?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most famous book?"
+   },
+   "note": "duplicate of game10-298"
+  },
+  {
+   "id": "game10-354",
+   "Name": "What is the best city?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best city?"
+   },
+   "note": "duplicate of game10-186"
+  },
+  {
+   "id": "game10-355",
+   "Name": "What is the most beautiful place in Pakistan?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most beautiful place?"
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-356",
+   "Name": "What is the best country?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best country?"
+   },
+   "note": "near-duplicate of game10-36/295; vague"
+  },
+  {
+   "id": "game10-357",
+   "Name": "What is the most expensive car brand?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most expensive car?"
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-358",
+   "Name": "What is the best phone brand?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best phone?"
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-359",
+   "Name": "What is the most useful gadget?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most useful gadget?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-360",
+   "Name": "What is the best app?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best app?"
+   },
+   "note": "duplicate of game10-17"
+  },
+  {
+   "id": "game10-361",
+   "Name": "What is the most annoying ad?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most annoying ad?"
+   },
+   "note": "TV/pop culture; answers too varied"
+  },
+  {
+   "id": "game10-362",
+   "Name": "What is the best game?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best game?"
+   },
+   "note": "too vague; overlaps game10-24/46/216"
+  },
+  {
+   "id": "game10-363",
+   "Name": "What is the most popular sport?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most popular sport?"
+   },
+   "note": "duplicate of game10-3"
+  },
+  {
+   "id": "game10-364",
+   "Name": "What is the best team?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best team?"
+   },
+   "note": "duplicate of game10-310"
+  },
+  {
+   "id": "game10-365",
+   "Name": "What is the most famous player?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most famous player?"
+   },
+   "note": "duplicate of game10-226"
+  },
+  {
+   "id": "game10-366",
+   "Name": "What is the most famous cricket stadium in Pakistan?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best stadium?"
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-367",
+   "Name": "What is the most exciting cricket match to watch?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most exciting match?"
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-368",
+   "Name": "What is the best goal?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best goal?"
+   },
+   "note": "too vague"
+  },
+  {
+   "id": "game10-369",
+   "Name": "What is the most memorable moment?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most memorable moment?"
+   },
+   "note": "too vague"
+  },
+  {
+   "id": "game10-370",
+   "Name": "What is the most beautiful flower?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most beautiful flower?"
+   },
+   "note": "duplicate of game10-42/337"
+  },
+  {
+   "id": "game10-371",
+   "Name": "What is the best tree?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best tree?"
+   },
+   "note": "too vague; overlaps game10-338"
+  },
+  {
+   "id": "game10-372",
+   "Name": "What is the most dangerous animal?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most dangerous animal?"
+   },
+   "note": "duplicate of game10-29"
+  },
+  {
+   "id": "game10-373",
+   "Name": "What is the best pet?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best pet?"
+   },
+   "note": "duplicate of game10-5"
+  },
+  {
+   "id": "game10-374",
+   "Name": "What is the most loyal animal?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most loyal animal?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-375",
+   "Name": "What is the best bird?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best bird?"
+   },
+   "note": "duplicate of game10-339"
+  },
+  {
+   "id": "game10-376",
+   "Name": "What is the most colorful bird?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most colorful bird?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-377",
+   "Name": "What is the best fish to eat?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best fish?"
+   },
+   "note": "clarified"
+  },
+  {
+   "id": "game10-378",
+   "Name": "What is the most dangerous fish?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most dangerous fish?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-379",
+   "Name": "What is the best fruit?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best fruit?"
+   },
+   "note": "duplicate of game10-183"
+  },
+  {
+   "id": "game10-380",
+   "Name": "What is the most delicious fruit?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most delicious fruit?"
+   },
+   "note": "duplicate of game10-183"
+  },
+  {
+   "id": "game10-381",
+   "Name": "What is the best vegetable?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best vegetable?"
+   },
+   "note": "duplicate of game10-335"
+  },
+  {
+   "id": "game10-382",
+   "Name": "What is the healthiest vegetable?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most healthy vegetable?"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game10-383",
+   "Name": "What is the best drink?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best drink?"
+   },
+   "note": "duplicate of game10-324"
+  },
+  {
+   "id": "game10-384",
+   "Name": "What is the most refreshing drink?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most refreshing drink?"
+   },
+   "note": "duplicate of game10-188"
+  },
+  {
+   "id": "game10-385",
+   "Name": "What is the best dessert?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best dessert?"
+   },
+   "note": "duplicate of game10-332"
+  },
+  {
+   "id": "game10-386",
+   "Name": "What is the most sweet dessert?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most sweet dessert?"
+   },
+   "note": "duplicate of game10-332; grammar"
+  },
+  {
+   "id": "game10-387",
+   "Name": "What is the best snack?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best snack?"
+   },
+   "note": "duplicate of game10-333"
+  },
+  {
+   "id": "game10-388",
+   "Name": "What is the spiciest snack?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the most spicy snack?"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game10-389",
+   "Name": "Which large animal would be the best pet if it was tiny?",
+   "action": "keep",
+   "original": {
+    "Name": "Which large animal would be the best pet if it was tiny?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-390",
+   "Name": "If you were a pet, what kind would you be?",
+   "action": "edit",
+   "original": {
+    "Name": "If you were a pet what kind would you be?"
+   },
+   "note": "punctuation"
+  },
+  {
+   "id": "game10-391",
+   "Name": "What is the worst possible pet?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the worst possible pet?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-392",
+   "Name": "What is the most interesting fictional creature?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most interesting fictional creature?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-393",
+   "Name": "Which fictional creature would be best to ride?",
+   "action": "remove",
+   "original": {
+    "Name": "Which fictional creature would be best to ride?"
+   },
+   "note": "near-duplicate of game10-392/395"
+  },
+  {
+   "id": "game10-394",
+   "Name": "What is the most beautiful animal?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most beautiful animal?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-395",
+   "Name": "If you could safely ride any animal, which would it be?",
+   "action": "edit",
+   "original": {
+    "Name": "If you could safely ride any animal which one?"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game10-396",
+   "Name": "Where is a good place for a picnic?",
+   "action": "remove",
+   "original": {
+    "Name": "Where is a good place for a picnic?"
+   },
+   "note": "duplicate of game10-125"
+  },
+  {
+   "id": "game10-397",
+   "Name": "Name a place you should avoid going to.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a place you should avoid going to."
+   },
+   "note": "duplicate of game10-205"
+  },
+  {
+   "id": "game10-398",
+   "Name": "What do you associate with the desert?",
+   "action": "keep",
+   "original": {
+    "Name": "What do you associate with the desert?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-399",
+   "Name": "Which is the best planet other than Earth?",
+   "action": "edit",
+   "original": {
+    "Name": "Which is the best planet apart from Earth?"
+   },
+   "note": "wording"
+  },
+  {
+   "id": "game10-400",
+   "Name": "What would you take on a trip to space?",
+   "action": "keep",
+   "original": {
+    "Name": "What would you take on a trip to space?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-401",
+   "Name": "What is a good color for a car?",
+   "action": "remove",
+   "original": {
+    "Name": "What is a good color for a car?"
+   },
+   "note": "duplicate of an earlier card (43)"
+  },
+  {
+   "id": "game10-402",
+   "Name": "What color makes a beautiful sunset?",
+   "action": "keep",
+   "original": {
+    "Name": "What color makes a beautiful sunset?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-403",
+   "Name": "Name something red.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something red."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-404",
+   "Name": "What is the best breakfast food?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best breakfast food?"
+   },
+   "note": "duplicate of an earlier card (122)"
+  },
+  {
+   "id": "game10-405",
+   "Name": "What food could you eat every day forever?",
+   "action": "edit",
+   "original": {
+    "Name": "What food could you live on forever?"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game10-406",
+   "Name": "What food would you eat only out of politeness?",
+   "action": "keep",
+   "original": {
+    "Name": "What food would you eat only out of politeness?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-407",
+   "Name": "Name a bone in the human body.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a bone in the human body."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-408",
+   "Name": "Which animal body part would be cool to have?",
+   "action": "keep",
+   "original": {
+    "Name": "Which animal body part would be cool to have?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-409",
+   "Name": "Which movie character would you like to meet?",
+   "action": "remove",
+   "original": {
+    "Name": "Which movie character would you like to meet?"
+   },
+   "note": "western/secular (film/TV/pop culture)"
+  },
+  {
+   "id": "game10-410",
+   "Name": "Who is the most memorable movie villain?",
+   "action": "remove",
+   "original": {
+    "Name": "Who is the most memorable movie villain?"
+   },
+   "note": "western/secular (film/TV/pop culture)"
+  },
+  {
+   "id": "game10-411",
+   "Name": "What is the best form of transport?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the best form of transport?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-412",
+   "Name": "What would be a super villain's vehicle?",
+   "action": "remove",
+   "original": {
+    "Name": "What would be a super villain's vehicle?"
+   },
+   "note": "western/secular (superhero pop culture), few common answers"
+  },
+  {
+   "id": "game10-413",
+   "Name": "What is the nicest smell?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the nicest smell?"
+   },
+   "note": "duplicate of an earlier card (194)"
+  },
+  {
+   "id": "game10-414",
+   "Name": "Name a food that tastes sour.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a food that tastes sour."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-415",
+   "Name": "Name something that makes a lot of noise.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something that makes a lot of noise."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-416",
+   "Name": "Which profession is the most interesting?",
+   "action": "remove",
+   "original": {
+    "Name": "Which profession is the most interesting?"
+   },
+   "note": "duplicate of an earlier card (170)"
+  },
+  {
+   "id": "game10-417",
+   "Name": "Which job is most helpful on an island?",
+   "action": "keep",
+   "original": {
+    "Name": "Which job is most helpful on an island?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-418",
+   "Name": "What super power would you like to have?",
+   "action": "remove",
+   "original": {
+    "Name": "What super power would you like to have?"
+   },
+   "note": "duplicate of an earlier card (151)"
+  },
+  {
+   "id": "game10-419",
+   "Name": "What is a lame super power?",
+   "action": "keep",
+   "original": {
+    "Name": "What is a lame super power?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-420",
+   "Name": "Name something you find in a cave.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something you find in a cave."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-421",
+   "Name": "Name something handed down as an heirloom.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something handed down as an heirloom."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-422",
+   "Name": "Name a currency other than the rupee.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a currency with a cool name."
+   },
+   "note": "clearer, more common answers"
+  },
+  {
+   "id": "game10-423",
+   "Name": "What word might a wizard say?",
+   "action": "remove",
+   "original": {
+    "Name": "What word might a wizard say?"
+   },
+   "note": "western/secular (wizards/magic)"
+  },
+  {
+   "id": "game10-424",
+   "Name": "What is a word you associate with home?",
+   "action": "keep",
+   "original": {
+    "Name": "What is a word you associate with home?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-425",
+   "Name": "Name a country known for its history.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a country known for its history."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-426",
+   "Name": "Which country has the best name?",
+   "action": "keep",
+   "original": {
+    "Name": "Which country has the best name?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-427",
+   "Name": "If you were tiny, where would you live?",
+   "action": "edit",
+   "original": {
+    "Name": "If you were tiny where would you live?"
+   },
+   "note": "punctuation"
+  },
+  {
+   "id": "game10-428",
+   "Name": "Name something that is better smaller.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something that is better smaller."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-429",
+   "Name": "Name something people do once in a lifetime.",
+   "action": "edit",
+   "original": {
+    "Name": "Name something people do once in a life."
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game10-430",
+   "Name": "Name an activity people look forward to.",
+   "action": "keep",
+   "original": {
+    "Name": "Name an activity people look forward to."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-431",
+   "Name": "Which school subject is the most useful?",
+   "action": "keep",
+   "original": {
+    "Name": "Which school subject is the most useful?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-432",
+   "Name": "What is something you can learn by yourself?",
+   "action": "keep",
+   "original": {
+    "Name": "What is something you can learn by yourself?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-433",
+   "Name": "Who is the best cartoon character?",
+   "action": "remove",
+   "original": {
+    "Name": "Who is the best cartoon character?"
+   },
+   "note": "duplicate of an earlier card (38)"
+  },
+  {
+   "id": "game10-434",
+   "Name": "Name a catchphrase from a cartoon.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a catchphrase from a cartoon."
+   },
+   "note": "western/secular (film/TV/pop culture)"
+  },
+  {
+   "id": "game10-435",
+   "Name": "Name a popular board game.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a popular board game."
+   },
+   "note": "duplicate of an earlier card (46)"
+  },
+  {
+   "id": "game10-436",
+   "Name": "Which card suit is the best?",
+   "action": "remove",
+   "original": {
+    "Name": "Which card suit is the best?"
+   },
+   "note": "western/secular (playing cards, gambling association)"
+  },
+  {
+   "id": "game10-437",
+   "Name": "Name a common herb.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a common herb."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-438",
+   "Name": "Name a plant with spikes.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a plant with spikes."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-439",
+   "Name": "What weather is most interesting to watch?",
+   "action": "keep",
+   "original": {
+    "Name": "What weather is most interesting to watch?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-440",
+   "Name": "What is the most spectacular thing in nature?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the most spectacular thing in nature?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-441",
+   "Name": "Name something very valuable.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something very valuable."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-442",
+   "Name": "What would you buy if it were cheap?",
+   "action": "edit",
+   "original": {
+    "Name": "What would you buy if it was cheap?"
+   },
+   "note": "grammar"
+  },
+  {
+   "id": "game10-443",
+   "Name": "Name a habit someone might have.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a habit someone might have."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-444",
+   "Name": "Name something people find hard to stop doing.",
+   "action": "edit",
+   "original": {
+    "Name": "Name something addictive but not illegal."
+   },
+   "note": "avoid drug/illegal framing"
+  },
+  {
+   "id": "game10-445",
+   "Name": "Name something strong.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something strong."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-446",
+   "Name": "Name something square.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something square."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-447",
+   "Name": "What does a knight need?",
+   "action": "keep",
+   "original": {
+    "Name": "What does a knight need?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-448",
+   "Name": "What is something people often lose?",
+   "action": "remove",
+   "original": {
+    "Name": "What is something people often lose?"
+   },
+   "note": "duplicate of an earlier card (209)"
+  },
+  {
+   "id": "game10-449",
+   "Name": "Name a useful invention that doesn't exist.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a useful invention that doesn't exist."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-450",
+   "Name": "What is the best invention of the last 100 years?",
+   "action": "edit",
+   "original": {
+    "Name": "What is the best thing since sliced bread?"
+   },
+   "note": "replace Western idiom"
+  },
+  {
+   "id": "game10-451",
+   "Name": "What is the best kids show?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the best kids show?"
+   },
+   "note": "western/secular (film/TV/pop culture)"
+  },
+  {
+   "id": "game10-452",
+   "Name": "Name a TV show that inspires costumes.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a TV show that inspires costumes."
+   },
+   "note": "western/secular (film/TV/pop culture)"
+  },
+  {
+   "id": "game10-453",
+   "Name": "Name a movie with a good sequel.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a movie with a good sequel."
+   },
+   "note": "western/secular (film/TV/pop culture)"
+  },
+  {
+   "id": "game10-454",
+   "Name": "What is the most inspiring movie?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most inspiring movie?"
+   },
+   "note": "western/secular (film/TV/pop culture)"
+  },
+  {
+   "id": "game10-455",
+   "Name": "Name a famous author.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous author."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-456",
+   "Name": "What is a common twist in a story?",
+   "action": "keep",
+   "original": {
+    "Name": "What is a common twist in a story?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-457",
+   "Name": "Who in history would you like to meet?",
+   "action": "keep",
+   "original": {
+    "Name": "Who in history would you like to meet?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-458",
+   "Name": "Which historical civilization is interesting?",
+   "action": "keep",
+   "original": {
+    "Name": "Which historical civilization is interesting?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-459",
+   "Name": "Name a famous work of art.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous work of art."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-460",
+   "Name": "Name a famous artist.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous artist."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-461",
+   "Name": "Name something unexpected.",
+   "action": "remove",
+   "original": {
+    "Name": "Name something unexpected."
+   },
+   "note": "too vague, no common answers"
+  },
+  {
+   "id": "game10-462",
+   "Name": "What do people do when surprised?",
+   "action": "keep",
+   "original": {
+    "Name": "What do people do when surprised?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-463",
+   "Name": "Where would you find water?",
+   "action": "keep",
+   "original": {
+    "Name": "Where would you find water?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-464",
+   "Name": "Name something that comes out of the ground.",
+   "action": "keep",
+   "original": {
+    "Name": "Name something that comes out of the ground."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-465",
+   "Name": "Name a cheap hobby.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a cheap hobby."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-466",
+   "Name": "Name something people collect.",
+   "action": "remove",
+   "original": {
+    "Name": "Name something people collect."
+   },
+   "note": "duplicate of an earlier card (234)"
+  },
+  {
+   "id": "game10-467",
+   "Name": "What is a slow way to communicate?",
+   "action": "keep",
+   "original": {
+    "Name": "What is a slow way to communicate?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-468",
+   "Name": "Name a type of non-verbal communication.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a type of non-verbal communication."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-469",
+   "Name": "Name a famous scientist.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous scientist."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-470",
+   "Name": "Name a source of power.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a source of power."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-471",
+   "Name": "Where might a map lead?",
+   "action": "keep",
+   "original": {
+    "Name": "Where might a map lead?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-472",
+   "Name": "What warning is written on old maps?",
+   "action": "remove",
+   "original": {
+    "Name": "What warning is written on old maps?"
+   },
+   "note": "too obscure"
+  },
+  {
+   "id": "game10-473",
+   "Name": "What makes someone scream?",
+   "action": "keep",
+   "original": {
+    "Name": "What makes someone scream?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-474",
+   "Name": "Why might a building collapse?",
+   "action": "keep",
+   "original": {
+    "Name": "Why might a building collapse?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-475",
+   "Name": "Where is an adventure story set?",
+   "action": "keep",
+   "original": {
+    "Name": "Where is an adventure story set?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-476",
+   "Name": "Name a place that might be abandoned.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a place that might be abandoned."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-477",
+   "Name": "Why would an alien visit Earth?",
+   "action": "keep",
+   "original": {
+    "Name": "Why would an alien visit Earth?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-478",
+   "Name": "How might an alien say hello?",
+   "action": "keep",
+   "original": {
+    "Name": "How might an alien say hello?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-479",
+   "Name": "What is the most exciting sport?",
+   "action": "remove",
+   "original": {
+    "Name": "What is the most exciting sport?"
+   },
+   "note": "duplicate of an earlier card (192)"
+  },
+  {
+   "id": "game10-480",
+   "Name": "Name a sport without a ball.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a sport without a ball."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-481",
+   "Name": "What can you use string for?",
+   "action": "keep",
+   "original": {
+    "Name": "What can you use string for?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-482",
+   "Name": "What can you use as a baby toy?",
+   "action": "keep",
+   "original": {
+    "Name": "What can you use as a baby toy?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-483",
+   "Name": "Name a famous folk tale or legend.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a famous legend."
+   },
+   "note": "Pakistani-friendly framing"
+  },
+  {
+   "id": "game10-484",
+   "Name": "Name a nursery rhyme character.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a nursery rhyme character."
+   },
+   "note": "western/secular, Western-only (nursery rhymes)"
+  },
+  {
+   "id": "game10-485",
+   "Name": "What do you put on a wall?",
+   "action": "keep",
+   "original": {
+    "Name": "What do you put on a wall?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-486",
+   "Name": "What is a good housewarming gift?",
+   "action": "keep",
+   "original": {
+    "Name": "What is a good housewarming gift?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-487",
+   "Name": "What is a good wedding present?",
+   "action": "remove",
+   "original": {
+    "Name": "What is a good wedding present?"
+   },
+   "note": "duplicate of an earlier card (203)"
+  },
+  {
+   "id": "game10-488",
+   "Name": "Where is a romantic place to propose?",
+   "action": "remove",
+   "original": {
+    "Name": "Where is a romantic place to propose?"
+   },
+   "note": "western/secular (romance)"
+  },
+  {
+   "id": "game10-489",
+   "Name": "Name a quick exercise.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a quick exercise."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-490",
+   "Name": "Name a common illness that is not serious.",
+   "action": "edit",
+   "original": {
+    "Name": "Name an illness that is not fatal."
+   },
+   "note": "clearer, less grim wording"
+  },
+  {
+   "id": "game10-491",
+   "Name": "Name a famous comedian.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a famous comedian."
+   },
+   "note": "western/secular (celebrity)"
+  },
+  {
+   "id": "game10-492",
+   "Name": "Name something funny people forward on WhatsApp.",
+   "action": "edit",
+   "original": {
+    "Name": "Name something funny on the internet."
+   },
+   "note": "local framing, clearer"
+  },
+  {
+   "id": "game10-493",
+   "Name": "What do you buy at a hardware store?",
+   "action": "keep",
+   "original": {
+    "Name": "What do you buy at a hardware store?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-494",
+   "Name": "Name something you buy in pairs.",
+   "action": "edit",
+   "original": {
+    "Name": "Name something you buy 2 of."
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game10-495",
+   "Name": "Name a toy popular long ago.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a toy popular long ago."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-496",
+   "Name": "Name a dangerous toy.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a dangerous toy."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-497",
+   "Name": "Name a movie snack besides popcorn.",
+   "action": "remove",
+   "original": {
+    "Name": "Name a movie snack besides popcorn."
+   },
+   "note": "duplicate of an earlier card (179)"
+  },
+  {
+   "id": "game10-498",
+   "Name": "What is the healthiest fast food?",
+   "action": "keep",
+   "original": {
+    "Name": "What is the healthiest fast food?"
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-499",
+   "Name": "Name a machine without electricity.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a machine without electricity."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-500",
+   "Name": "What modern technology would amaze someone from the 1800s?",
+   "action": "edit",
+   "original": {
+    "Name": "What tech would impress someone from 1800?"
+   },
+   "note": "clearer wording"
+  },
+  {
+   "id": "game10-501",
+   "Name": "What sound does a firecracker make?",
+   "action": "edit",
+   "original": {
+    "Name": "What noise does a bomb make?"
+   },
+   "note": "bomb reworded to firecracker (sensitive topic), same idea"
+  },
+  {
+   "id": "game10-502",
+   "Name": "What sound does a light saber make?",
+   "action": "remove",
+   "original": {
+    "Name": "What sound does a light saber make?"
+   },
+   "note": "western/secular: Star Wars film reference"
+  },
+  {
+   "id": "game10-503",
+   "Name": "Name a famous shoe brand.",
+   "action": "keep",
+   "original": {
+    "Name": "Name a famous shoe brand."
+   },
+   "note": ""
+  },
+  {
+   "id": "game10-504",
+   "Name": "Name a famous brand slogan.",
+   "action": "edit",
+   "original": {
+    "Name": "Name a brand slogan."
+   },
+   "note": "added 'famous' so it has common answers"
+  }
+ ]
+}
