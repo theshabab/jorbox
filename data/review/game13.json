@@ -798,11 +798,11 @@
   {
    "id": "game13-89",
    "Description": "Get a player to touch your arm.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to touch your arm."
    },
-   "note": "touching"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-90",
@@ -834,20 +834,20 @@
   {
    "id": "game13-93",
    "Description": "Get a player to touch your hair.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to touch your hair."
    },
-   "note": "touching"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-94",
    "Description": "Get a player to touch your back.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to touch your back."
    },
-   "note": "touching"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-95",
@@ -951,11 +951,11 @@
   {
    "id": "game13-106",
    "Description": "Get a player to touch your shoulder.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to touch your shoulder."
    },
-   "note": "touching rule"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-107",
@@ -1050,11 +1050,11 @@
   {
    "id": "game13-117",
    "Description": "Get a player to touch your ear.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to touch your ear."
    },
-   "note": "touching rule"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-118",
@@ -1275,11 +1275,11 @@
   {
    "id": "game13-142",
    "Description": "Get a player to touch your elbow.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to touch your elbow."
    },
-   "note": "touching rule"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-143",
@@ -1338,11 +1338,11 @@
   {
    "id": "game13-149",
    "Description": "Get a player to touch your knee.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to touch your knee."
    },
-   "note": "touching rule"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-150",
@@ -2355,11 +2355,11 @@
   {
    "id": "game13-262",
    "Description": "Get a player to wipe something off your face.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to wipe something off your face."
    },
-   "note": "physical contact"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-263",
@@ -2382,11 +2382,11 @@
   {
    "id": "game13-265",
    "Description": "Get a player to thumb wrestle with you.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to thumb wrestle with you."
    },
-   "note": "physical contact beyond handshake"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-266",
@@ -2445,11 +2445,11 @@
   {
    "id": "game13-272",
    "Description": "Get a player to check your pulse.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to check your pulse."
    },
-   "note": "physical contact"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-273",
@@ -2643,11 +2643,11 @@
   {
    "id": "game13-294",
    "Description": "Get a player to draw a smiley face on your hand.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to draw a smiley face on your hand."
    },
-   "note": "physical contact"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-295",
@@ -2679,20 +2679,20 @@
   {
    "id": "game13-298",
    "Description": "Get a player to straighten your hair.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to straighten your hair."
    },
-   "note": "physical contact"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-299",
-   "Description": "Get a player to removing lint from your clothes.",
-   "action": "remove",
+   "Description": "Get a player to remove lint from your clothes.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to removing lint from your clothes."
    },
-   "note": "physical contact; grammar broken"
+   "note": "Restored: touching allowed; grammar fixed"
   },
   {
    "id": "game13-300",
@@ -2706,20 +2706,20 @@
   {
    "id": "game13-301",
    "Description": "Get a player to compare hand sizes with you.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to compare hand sizes with you."
    },
-   "note": "touching (palm to palm)"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-302",
    "Description": "Get a player to arm wrestle you.",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Get a player to arm wrestle you."
    },
-   "note": "physical contact beyond handshake"
+   "note": "Restored: touching allowed"
   },
   {
    "id": "game13-303",

@@ -1605,15 +1605,15 @@
   {
    "id": "game3-124",
    "Name": "Pakistani National Songs",
-   "Description": "Qaumi Tarana|Dil Dil Pakistan|Jeevay Jeevay|Mera Paigham|Watan Ki Mitti|Khayal Rakhna|Hum Zinda Qaum Hain|Ye Watan Tumhara Hai|Is Parcham Ke Saye Talay|Sohni Dharti|Jug Jug Jeeyo|Pakistan Pakistan|Hum Aik Hain|Mera Iman Pakistan|Tera Pakistan Hai|Dil Na Lagay|Junoon Se|Jazba|Josh|Passion",
+   "Description": "Qaumi Tarana|Dil Dil Pakistan|Jeevay Jeevay Pakistan|Mera Paigham Pakistan|Watan Ki Mitti|Khayal Rakhna|Hum Zinda Qaum Hain|Ye Watan Tumhara Hai|Is Parcham Ke Saye Talay|Sohni Dharti|Jug Jug Jeeyo|Hum Aik Hain|Ae Watan Ke Sajeelay Jawano|Ae Rah-e-Haq Ke Shaheedo",
    "Category": "",
-   "action": "remove",
+   "action": "edit",
    "original": {
     "Name": "Pakistani National Songs",
     "Description": "Qaumi Tarana|Dil Dil Pakistan|Jeevay Jeevay|Mera Paigham|Watan Ki Mitti|Khayal Rakhna|Hum Zinda Qaum Hain|Ye Watan Tumhara Hai|Is Parcham Ke Saye Talay|Sohni Dharti|Jug Jug Jeeyo|Pakistan Pakistan|Hum Aik Hain|Mera Iman Pakistan|Tera Pakistan Hai|Dil Na Lagay|Junoon Se|Jazba|Josh|Passion",
     "Category": ""
    },
-   "note": "western/secular: national songs (music); list also had junk words"
+   "note": "Restored: milli naghmay allowed; list cleaned"
   },
   {
    "id": "game3-125",

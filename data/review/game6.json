@@ -1266,11 +1266,11 @@
   {
    "id": "game6-141",
    "Description": "Pakistani National Songs",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Pakistani National Songs"
    },
-   "note": "western/secular (songs)"
+   "note": "Restored: allowed by deck owner"
   },
   {
    "id": "game6-142",
@@ -2013,11 +2013,11 @@
   {
    "id": "game6-224",
    "Description": "Pakistani Qawwali Singers",
-   "action": "remove",
+   "action": "keep",
    "original": {
     "Description": "Pakistani Qawwali Singers"
    },
-   "note": "western/secular: singers"
+   "note": "Restored: allowed by deck owner"
   },
   {
    "id": "game6-225",
