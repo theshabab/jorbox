@@ -446,12 +446,12 @@
   },
   {
    "id": "game6-50",
-   "Description": "Urdu Words",
-   "action": "keep",
+   "Description": "Urdu Muhavray and Kahawatein (Idioms and Proverbs)",
+   "action": "edit",
    "original": {
     "Description": "Urdu Words"
    },
-   "note": ""
+   "note": "Debate: For Urdu speakers 'Urdu Words' never runs out, so no one ever fails. Muhavray (idioms) and kahawatein (proverbs) keep the card in Urdu, make it a real challenge and still have many well-known answers. The challenger's amended English gloss matches both terms."
   },
   {
    "id": "game6-51",
@@ -492,11 +492,11 @@
   {
    "id": "game6-55",
    "Description": "Pakistani Festivals",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Pakistani Festivals"
    },
-   "note": ""
+   "note": "Debate: Overlaps the live 'Pakistani Public Holidays' card (the Eids, 14 August, Milad). Once those are taken, only a handful of well-known answers are left."
   },
   {
    "id": "game6-56",
@@ -2990,6 +2990,48 @@
    "Description": "Units of Measurement",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Description": "Battles in Islamic History",
+   "action": "add",
+   "note": "New card (debate): Accurate, with many well-known answers (Badr, Uhud, Khandaq, Khaibar, Hunain, Yarmouk, Qadisiyyah, Hattin, Ain Jalut). Nothing like it is in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Occasions When We Say a Dua",
+   "action": "add",
+   "note": "New card (debate): An everyday Islamic theme with many answers (eating, sleeping, travelling, leaving home, entering the masjid, after wudu). It is different from Good Deeds and Sunnah Habits."
+  },
+  {
+   "id": null,
+   "Description": "Types of Halwa",
+   "action": "add",
+   "note": "New card (debate): Has about 10 well-known Pakistani answers (gajar, suji, besan, sohan, anday, badam, kaddu, chanay ki daal, habshi). It is not a duplicate of Mithai or Desserts."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Deep-Fried",
+   "action": "add",
+   "note": "New card (debate): A broad, easy card with many answers (pakoray, samosay, jalebi, puri, kachori, fries, fried fish, nimko). It is not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things Ammi Saves for Mehmaan",
+   "action": "add",
+   "note": "New card (debate): Relatable desi humour. It asks for items, not actions, so it does not duplicate 'Things You Do When Mehmaan Are Coming'."
+  },
+  {
+   "id": null,
+   "Description": "Things Pakistanis Reuse",
+   "action": "add",
+   "note": "New card (debate): Funny and relatable, with many answers (ice cream tubs, biscuit tins as sewing boxes, shopping bags, jam jars, old shirts as pochay). Nothing like it is in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Rooms and Parts of a House",
+   "action": "add",
+   "note": "New card (debate): Has many answers (sehan, chhat, verandah, drawing room, store, garage, balcony, staircase). The existing room cards ask for objects, not rooms."
   }
  ]
 }

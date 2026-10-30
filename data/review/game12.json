@@ -113,12 +113,12 @@
   },
   {
    "id": "game12-13",
-   "Name": "Armor",
-   "action": "keep",
+   "Name": "Armour",
+   "action": "edit",
    "original": {
     "Name": "Armor"
    },
-   "note": ""
+   "note": "Debate: British spelling, as used in Pakistan and in the earlier Odour fix."
   },
   {
    "id": "game12-14",
@@ -140,12 +140,12 @@
   },
   {
    "id": "game12-16",
-   "Name": "Award",
-   "action": "keep",
+   "Name": "Medal",
+   "action": "edit",
    "original": {
     "Name": "Award"
    },
-   "note": ""
+   "note": "Debate: Award means the same as the live Prize card and overlaps Trophy. Medal keeps the winning idea and is not in the deck."
   },
   {
    "id": "game12-17",
@@ -392,12 +392,12 @@
   },
   {
    "id": "game12-44",
-   "Name": "Swimsuit",
-   "action": "keep",
+   "Name": "Life Jacket",
+   "action": "edit",
    "original": {
     "Name": "Swimsuit"
    },
-   "note": ""
+   "note": "Debate: Swimsuit is too close to the banned bikini for a family audience. Life Jacket keeps the water idea, is not in the deck and is easy to act out."
   },
   {
    "id": "game12-45",
@@ -410,12 +410,12 @@
   },
   {
    "id": "game12-46",
-   "Name": "Bladder",
-   "action": "keep",
+   "Name": "Kidney",
+   "action": "edit",
    "original": {
     "Name": "Bladder"
    },
-   "note": ""
+   "note": "Debate: Bladder invites the toilet jokes the owner banned. Kidney keeps the body-organ slot and is not in the deck."
   },
   {
    "id": "game12-47",
@@ -437,12 +437,12 @@
   },
   {
    "id": "game12-49",
-   "Name": "Blimp",
-   "action": "keep",
+   "Name": "Hot Air Balloon",
+   "action": "edit",
    "original": {
     "Name": "Blimp"
    },
-   "note": ""
+   "note": "Debate: A blimp is little known in Pakistan. Hot Air Balloon is familiar, easy to draw and different from Balloon."
   },
   {
    "id": "game12-50",
@@ -519,11 +519,11 @@
   {
    "id": "game12-58",
    "Name": "Booger",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Booger"
    },
-   "note": ""
+   "note": "Debate: Means the same as Snot, which is live (game12-559), and is the cruder of the two."
   },
   {
    "id": "game12-59",
@@ -699,11 +699,11 @@
   {
    "id": "game12-78",
    "Name": "Bunny",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Bunny"
    },
-   "note": ""
+   "note": "Debate: Means the same as Rabbit, which is live (game12-812)."
   },
   {
    "id": "game12-79",
@@ -824,12 +824,12 @@
   },
   {
    "id": "game12-92",
-   "Name": "Candy",
-   "action": "keep",
+   "Name": "Toffee",
+   "action": "edit",
    "original": {
     "Name": "Candy"
    },
-   "note": ""
+   "note": "Debate: Candy overlaps the live Candy Bar and Candy Wrapper cards and is the US word. Toffee is the local word and is not in the deck."
   },
   {
    "id": "game12-93",
@@ -9293,6 +9293,42 @@
    "Name": "Respect",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Bangles",
+   "action": "add",
+   "note": "New card (debate): Familiar local accessory, distinct from Bracelet. Not in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Chai",
+   "action": "add",
+   "note": "New card (debate): The national drink. The live deck has only Teapot and Kettle, no Tea or Chai card."
+  },
+  {
+   "id": null,
+   "Name": "Shuttlecock",
+   "action": "add",
+   "note": "New card (debate): Common local game item. There is no badminton, racket or shuttle card in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Gilli Danda",
+   "action": "add",
+   "note": "New card (debate): Classic South Asian street game that is good to act out. Not in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Pressure Cooker",
+   "action": "add",
+   "note": "New card (debate): Found in every desi kitchen, and its whistle is easy to act out. There is no cooker card in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Wheelbarrow",
+   "action": "add",
+   "note": "New card (debate): Concrete, easy-to-draw noun known everywhere. There is no wheelbarrow or cart card in the live deck."
   }
  ]
 }

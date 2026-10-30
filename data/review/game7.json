@@ -181,14 +181,14 @@
   },
   {
    "id": "game7-17",
-   "Description": "cranberry sauce all over the yoga studio",
+   "Description": "ketchup all over the yoga studio",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "cramberry sauce all over the yoga studio",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Cranberry sauce is a US Thanksgiving item. Ketchup keeps the messy visual and appears nowhere else in the deck."
   },
   {
    "id": "game7-18",
@@ -401,14 +401,14 @@
   },
   {
    "id": "game7-37",
-   "Description": "cheese fondue friday",
+   "Description": "nihari sunday",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "cheese fondue friday",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fondue is obscure to these players. Sunday nihari is a familiar local equivalent and can be drawn. No other card mentions nihari."
   },
   {
    "id": "game7-38",
@@ -436,12 +436,12 @@
    "id": "game7-40",
    "Description": "toilet paper in the wind",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "toilet paper in the wind",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The owner banned toilet and bathroom humour, and the joke depends on toilet paper."
   },
   {
    "id": "game7-41",
@@ -491,12 +491,12 @@
    "id": "game7-45",
    "Description": "this is how you make fertilizer",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "this is how you make fertilizer",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The obvious drawing is manure, which falls under the bathroom-humour ban. Rewriting it would lose the punchline."
   },
   {
    "id": "game7-46",
@@ -511,14 +511,14 @@
   },
   {
    "id": "game7-47",
-   "Description": "bow to clouds",
+   "Description": "shaking hands with a cloud",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "bow to clouds",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Bowing to clouds is awkward for a Muslim audience. A handshake keeps the whimsical image."
   },
   {
    "id": "game7-48",
@@ -698,14 +698,14 @@
   },
   {
    "id": "game7-64",
-   "Description": "smiley face made out of baby rattle snakes",
+   "Description": "smiley face made out of baby rattlesnakes",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "smiley face made out of baby rattle snakes",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Spelling: 'rattlesnake' is one word. 'Rattle snakes' could be read as snakes made of baby rattles."
   },
   {
    "id": "game7-65",
@@ -720,14 +720,14 @@
   },
   {
    "id": "game7-66",
-   "Description": "a mouse with no ears no eyes and no tail",
+   "Description": "a mouse with no ears, no eyes and no tail",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "a mouse with no ears no eyes and no tail",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Adds the commas the list needs so the prompt is easy to read."
   },
   {
    "id": "game7-67",
@@ -874,14 +874,14 @@
   },
   {
    "id": "game7-80",
-   "Description": "mission: p.i.g.",
+   "Description": "mission: b.i.l.l.i.",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "mission: p.i.g.",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces the pig imagery with a cat (billi) and keeps the spy-acronym gag."
   },
   {
    "id": "game7-81",
@@ -929,14 +929,14 @@
   },
   {
    "id": "game7-85",
-   "Description": "rival chimney sweeps",
+   "Description": "rival rickshaw drivers",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "rival chimneysweeps",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Chimney sweeps are a Western reference. Rickshaw drivers are a local image, and no rickshaw card exists."
   },
   {
    "id": "game7-86",
@@ -1116,14 +1116,14 @@
   },
   {
    "id": "game7-102",
-   "Description": "no *you're* out of order",
+   "Description": "no, YOU'RE out of order",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "no *you're* out of order",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the literal markdown asterisks and adds the missing comma."
   },
   {
    "id": "game7-103",
@@ -18537,6 +18537,76 @@
     "Category": "Friend Mode Prompts"
    },
    "note": ""
+  },
+  {
+   "id": null,
+   "Description": "a rickshaw with wings, still stuck in traffic",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, absurd and drawable. The full deck has no rickshaw card, and this is a different joke from 'rival rickshaw drivers'."
+  },
+  {
+   "id": null,
+   "Description": "ceiling fan spinning so fast the house takes off",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A relatable desi-summer visual gag. No card mentions a ceiling fan."
+  },
+  {
+   "id": null,
+   "Description": "load-shedding during the last over",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A recognisable Pakistani frustration paired with cricket. It is drawable and not duplicated."
+  },
+  {
+   "id": null,
+   "Description": "a mango holding a tiny umbrella",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Cute, easy to draw and in the deck's style. No mango card exists."
+  },
+  {
+   "id": null,
+   "Description": "a jalebi lost in its own loops",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A funny local food image with no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Ammi's chappal flying in slow motion",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): An affectionate desi in-joke and an easy action scene to draw. The two existing slipper cards are unrelated."
+  },
+  {
+   "id": null,
+   "Description": "a buffalo relaxing in a swimming pool",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A local animal in a silly setting. No buffalo card exists."
+  },
+  {
+   "id": null,
+   "Description": "a pakora staring out the window, waiting for rain",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's amended wording. It is shorter and does not repeat P14's umbrella gag."
+  },
+  {
+   "id": null,
+   "Description": "a pressure cooker whistling a warning",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Turns a familiar kitchen object into a character. The only other 'pressure' card (peer pressure to grow a beard) is unrelated."
+  },
+  {
+   "id": null,
+   "Description": "a goat who thinks he's the VIP of the mandi",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A clean cattle-market joke. It is different from the existing goat cards, and no mandi card exists."
   }
  ]
 }
