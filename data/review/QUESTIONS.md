@@ -59,3 +59,8 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 - Removed 109: crude words (Bra, Butt, Fart, Zit, Underwear, Puke), music, dance and party words (Concert, Flute, Trumpet, Tambourine, Boom Box, Party, Pinata), alcohol (Wine Glass, Alcohol), Christmas items, Bikini, Tattoo, Angel, Magic, Wand, Romance, Love, Murder, Idiot, brand names, and plural or near duplicates (Keys/Key, Telephone/Phone, Trash/Garbage). Pakistani wording: Baseball Bat → Cricket Bat, Soccer Ball → Football, Q-Tips → Cotton Buds.
 - Abstract nouns (Courage, Envy, Hope, Peace) are kept. Tell me if the deck should be concrete nouns only.
 - Kept, please confirm: Swimsuit, Pregnancy, Potty, Gun, Grenade, Bomb, Bullet, Coffin, Corpse, Ghost, Fairy, Heaven, Hell, Shrine, Statue, Sculpture, Skirt, Dice, Lighter, Matches, Microphone, Cowboy Hat, Rodeo, Tuxedo, Circus.
+
+## Games built on commercial party-game content
+
+- Jasoosi Club, NaqshNigar, Dil ki Sun, Daal men Kaala and Haiwani Pattay look copied from commercial games (Jackbox's Push The Button, Drawful, Fibbage and Quiplash; Cards Against Humanity). The Cards Against Humanity text is CC BY-NC-SA (non-commercial only, attribution required); Jackbox prompts are copyrighted. Fine for a private family app, but worth knowing if JorBox ever goes public or commercial.
+- Haiwani Pattay (7,775 cards) is adult humour by design. Under the no-Western/secular rule most of it would be removed. I'm doing it last. Should I clean it to family-friendly (it will shrink a lot), or leave it as an adults-only deck?
