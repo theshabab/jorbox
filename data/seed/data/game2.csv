@@ -1,754 +1,754 @@
 Name,Description,Category
-Karachi,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Lahore,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Islamabad,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Rawalpindi,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Faisalabad,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Multan,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Peshawar,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Quetta,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Sialkot,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Gujranwala,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Hyderabad,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Abbottabad,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Murree,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Sukkur,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Bahawalpur,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Sargodha,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Gujarat,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Larkana,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Sheikhupura,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Jhelum,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Mardan,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Kasur,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Rahim Yar Khan,Rahim | city | Pakistan | Sindh,Pakistani Cities
-Sahiwal,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Okara,city | Pakistan | Sindh | Punjab,Pakistani Cities
-Biryani,food | rice | meat | curry,Traditional Dishes
-Pulao,food | rice | meat | curry,Traditional Dishes
-Nihari,food | rice | meat | curry,Traditional Dishes
-Haleem,food | rice | meat | curry,Traditional Dishes
-Karahi,food | rice | meat | curry,Traditional Dishes
-Korma,food | rice | meat | curry,Traditional Dishes
-Sajji,food | rice | meat | curry,Traditional Dishes
-Chapli Kabab,Chapli | food | rice | meat,Traditional Dishes
-Seekh Kabab,Seekh | food | rice | meat,Traditional Dishes
-Paye,food | rice | meat | curry,Traditional Dishes
-Halwa Puri,Halwa | food | rice | meat,Traditional Dishes
-Saag,food | rice | meat | curry,Traditional Dishes
-Makki Ki Roti,Makki | food | rice | meat,Traditional Dishes
-Daal Chawal,Daal | food | rice | meat,Traditional Dishes
-Aloo Gosht,Aloo | food | rice | meat,Traditional Dishes
-Koftay,food | rice | meat | curry,Traditional Dishes
-Katakat,food | rice | meat | curry,Traditional Dishes
-Chargha,food | rice | meat | curry,Traditional Dishes
-Tikka,food | rice | meat | curry,Traditional Dishes
-Malai Boti,Malai | food | rice | meat,Traditional Dishes
-Reshmi Kabab,Reshmi | food | rice | meat,Traditional Dishes
-Gola Kabab,Gola | food | rice | meat,Traditional Dishes
-Bihari Kabab,Bihari | food | rice | meat,Traditional Dishes
-Kunna,food | rice | meat | curry,Traditional Dishes
-Bong Paye,Bong | food | rice | meat,Traditional Dishes
-Salt,spice | powder | flavor | cooking,Spices
-Pepper,spice | powder | flavor | cooking,Spices
-Turmeric,spice | powder | flavor | cooking,Spices
-Chili,spice | powder | flavor | cooking,Spices
-Cumin,spice | powder | flavor | cooking,Spices
-Coriander,spice | powder | flavor | cooking,Spices
-Cardamom,spice | powder | flavor | cooking,Spices
-Cinnamon,spice | powder | flavor | cooking,Spices
-Clove,spice | powder | flavor | cooking,Spices
-Nutmeg,spice | powder | flavor | cooking,Spices
-Saffron,spice | powder | flavor | cooking,Spices
-Garlic,spice | powder | flavor | cooking,Spices
-Anise,spice | powder | flavor | cooking,Spices
-Fenugreek,spice | powder | flavor | cooking,Spices
-Mustard Seeds,Mustard | spice | powder | flavor,Spices
-Poppy Seeds,Poppy | spice | powder | flavor,Spices
-Sesame,spice | powder | flavor | cooking,Spices
-Bay Leaf,Bay | spice | powder | flavor,Spices
-Black Salt,Black | spice | powder | flavor,Spices
-Chaat Masala,Chaat | spice | powder | flavor,Spices
-Garam Masala,Garam | spice | powder | flavor,Spices
-Tamarind,spice | powder | flavor | cooking,Spices
-Mint,spice | powder | flavor | cooking,Spices
-Basil,spice | powder | flavor | cooking,Spices
-Mango,fruit | sweet | juice | tree,Fruits
-Apple,fruit | sweet | juice | tree,Fruits
-Banana,fruit | sweet | juice | tree,Fruits
-Orange,fruit | sweet | juice | tree,Fruits
-Grapes,fruit | sweet | juice | tree,Fruits
-Pomegranate,fruit | sweet | juice | tree,Fruits
-Guava,fruit | sweet | juice | tree,Fruits
-Watermelon,fruit | sweet | juice | tree,Fruits
-Melon,fruit | sweet | juice | tree,Fruits
-Apricot,fruit | sweet | juice | tree,Fruits
-Peach,fruit | sweet | juice | tree,Fruits
-Plum,fruit | sweet | juice | tree,Fruits
-Pear,fruit | sweet | juice | tree,Fruits
-Strawberry,fruit | sweet | juice | tree,Fruits
-Cherry,fruit | sweet | juice | tree,Fruits
-Lychee,fruit | sweet | juice | tree,Fruits
-Papaya,fruit | sweet | juice | tree,Fruits
-Pineapple,fruit | sweet | juice | tree,Fruits
-Coconut,fruit | sweet | juice | tree,Fruits
-Date,fruit | sweet | juice | tree,Fruits
-Fig,fruit | sweet | juice | tree,Fruits
-Mulberry,fruit | sweet | juice | tree,Fruits
-Kinnow,fruit | sweet | juice | tree,Fruits
-Falsa,fruit | sweet | juice | tree,Fruits
-Jamun,fruit | sweet | juice | tree,Fruits
-Potato,vegetable | green | salad | cook,Vegetables
-Onion,vegetable | green | salad | cook,Vegetables
-Tomato,vegetable | green | salad | cook,Vegetables
-Garlic,vegetable | green | salad | cook,Vegetables
-Spinach,vegetable | green | salad | cook,Vegetables
-Cauliflower,vegetable | green | salad | cook,Vegetables
-Cabbage,vegetable | green | salad | cook,Vegetables
-Carrot,vegetable | green | salad | cook,Vegetables
-Radish,vegetable | green | salad | cook,Vegetables
-Turnip,vegetable | green | salad | cook,Vegetables
-Peas,vegetable | green | salad | cook,Vegetables
-Okra,vegetable | green | salad | cook,Vegetables
-Eggplant,vegetable | green | salad | cook,Vegetables
-Cucumber,vegetable | green | salad | cook,Vegetables
-Zucchini,vegetable | green | salad | cook,Vegetables
-Pumpkin,vegetable | green | salad | cook,Vegetables
-Bitter Gourd,Bitter | vegetable | green | salad,Vegetables
-Bottle Gourd,Bottle | vegetable | green | salad,Vegetables
-Capsicum,vegetable | green | salad | cook,Vegetables
-Chili,vegetable | green | salad | cook,Vegetables
-Coriander,vegetable | green | salad | cook,Vegetables
-Mint,vegetable | green | salad | cook,Vegetables
-Lemon,vegetable | green | salad | cook,Vegetables
-Beetroot,vegetable | green | salad | cook,Vegetables
-Shalwar,wear | dress | traditional | cloth,Clothing
-Kameez,wear | dress | traditional | cloth,Clothing
-Kurta,wear | dress | traditional | cloth,Clothing
-Dupatta,wear | dress | traditional | cloth,Clothing
-Sari,wear | dress | traditional | cloth,Clothing
-Lehnga,wear | dress | traditional | cloth,Clothing
-Sherwani,wear | dress | traditional | cloth,Clothing
-Waistcoat,wear | dress | traditional | cloth,Clothing
-Turban,wear | dress | traditional | cloth,Clothing
-Scarf,wear | dress | traditional | cloth,Clothing
-Shawl,wear | dress | traditional | cloth,Clothing
-Ajrak,wear | dress | traditional | cloth,Clothing
-Topi,wear | dress | traditional | cloth,Clothing
-Vest,wear | dress | traditional | cloth,Clothing
-Jacket,wear | dress | traditional | cloth,Clothing
-Coat,wear | dress | traditional | cloth,Clothing
-Sweater,wear | dress | traditional | cloth,Clothing
-Socks,wear | dress | traditional | cloth,Clothing
-Gloves,wear | dress | traditional | cloth,Clothing
-Tie,wear | dress | traditional | cloth,Clothing
-Belt,wear | dress | traditional | cloth,Clothing
-Trousers,wear | dress | traditional | cloth,Clothing
-Jeans,wear | dress | traditional | cloth,Clothing
-Shirt,wear | dress | traditional | cloth,Clothing
-Frock,wear | dress | traditional | cloth,Clothing
-Chair,furniture | wood | sit | home,Furniture
-Table,furniture | wood | sit | home,Furniture
-Sofa,furniture | wood | sit | home,Furniture
-Bed,furniture | wood | sit | home,Furniture
-Cupboard,furniture | wood | sit | home,Furniture
-Wardrobe,furniture | wood | sit | home,Furniture
-Cabinet,furniture | wood | sit | home,Furniture
-Desk,furniture | wood | sit | home,Furniture
-Stool,furniture | wood | sit | home,Furniture
-Bench,furniture | wood | sit | home,Furniture
-Bookshelf,furniture | wood | sit | home,Furniture
-Dresser,furniture | wood | sit | home,Furniture
-Mirror,furniture | wood | sit | home,Furniture
-Lamp,furniture | wood | sit | home,Furniture
-Rug,furniture | wood | sit | home,Furniture
-Carpet,furniture | wood | sit | home,Furniture
-Curtain,furniture | wood | sit | home,Furniture
-Mattress,furniture | wood | sit | home,Furniture
-Pillow,furniture | wood | sit | home,Furniture
-Cushion,furniture | wood | sit | home,Furniture
-Blanket,furniture | wood | sit | home,Furniture
-Sheet,furniture | wood | sit | home,Furniture
-Cot,furniture | wood | sit | home,Furniture
-Cradle,furniture | wood | sit | home,Furniture
-Recliner,furniture | wood | sit | home,Furniture
-Spoon,kitchen | cook | metal | utensil,Kitchen Items
-Fork,kitchen | cook | metal | utensil,Kitchen Items
-Knife,kitchen | cook | metal | utensil,Kitchen Items
-Plate,kitchen | cook | metal | utensil,Kitchen Items
-Bowl,kitchen | cook | metal | utensil,Kitchen Items
-Glass,kitchen | cook | metal | utensil,Kitchen Items
-Cup,kitchen | cook | metal | utensil,Kitchen Items
-Mug,kitchen | cook | metal | utensil,Kitchen Items
-Jug,kitchen | cook | metal | utensil,Kitchen Items
-Teapot,kitchen | cook | metal | utensil,Kitchen Items
-Pan,kitchen | cook | metal | utensil,Kitchen Items
-Pot,kitchen | cook | metal | utensil,Kitchen Items
-Cooker,kitchen | metal | utensil | similar,Kitchen Items
-Tawa,kitchen | cook | metal | utensil,Kitchen Items
-Rolling Pin,Rolling | kitchen | cook | metal,Kitchen Items
-Grater,kitchen | cook | metal | utensil,Kitchen Items
-Peeler,kitchen | cook | metal | utensil,Kitchen Items
-Strainer,kitchen | cook | metal | utensil,Kitchen Items
-Sieve,kitchen | cook | metal | utensil,Kitchen Items
-Tongs,kitchen | cook | metal | utensil,Kitchen Items
-Ladle,kitchen | cook | metal | utensil,Kitchen Items
-Tray,kitchen | cook | metal | utensil,Kitchen Items
-Bottle,kitchen | cook | metal | utensil,Kitchen Items
-Jar,kitchen | cook | metal | utensil,Kitchen Items
-Container,kitchen | cook | metal | utensil,Kitchen Items
-Lion,animal | wild | mammal | zoo,Animals
-Tiger,animal | wild | mammal | zoo,Animals
-Elephant,animal | wild | mammal | zoo,Animals
-Horse,animal | wild | mammal | zoo,Animals
-Dog,animal | wild | mammal | zoo,Animals
-Cat,animal | wild | mammal | zoo,Animals
-Cow,animal | wild | mammal | zoo,Animals
-Buffalo,animal | wild | mammal | zoo,Animals
-Goat,animal | wild | mammal | zoo,Animals
-Sheep,animal | wild | mammal | zoo,Animals
-Camel,animal | wild | mammal | zoo,Animals
-Donkey,animal | wild | mammal | zoo,Animals
-Monkey,animal | wild | mammal | zoo,Animals
-Bear,animal | wild | mammal | zoo,Animals
-Deer,animal | wild | mammal | zoo,Animals
-Rabbit,animal | wild | mammal | zoo,Animals
-Fox,animal | wild | mammal | zoo,Animals
-Wolf,animal | wild | mammal | zoo,Animals
-Snake,animal | wild | mammal | zoo,Animals
-Crocodile,animal | wild | mammal | zoo,Animals
-Turtle,animal | wild | mammal | zoo,Animals
-Frog,animal | wild | mammal | zoo,Animals
-Mouse,animal | wild | mammal | zoo,Animals
-Rat,animal | wild | mammal | zoo,Animals
-Squirrel,animal | wild | mammal | zoo,Animals
-Eagle,bird | fly | feather | nest,Birds
-Sparrow,bird | fly | feather | nest,Birds
-Pigeon,bird | fly | feather | nest,Birds
-Parrot,bird | fly | feather | nest,Birds
-Crow,bird | fly | feather | nest,Birds
-Peacock,bird | fly | feather | nest,Birds
-Hen,bird | fly | feather | nest,Birds
-Rooster,bird | fly | feather | nest,Birds
-Duck,bird | fly | feather | nest,Birds
-Swan,bird | fly | feather | nest,Birds
-Owl,bird | fly | feather | nest,Birds
-Hawk,bird | fly | feather | nest,Birds
-Kite,bird | fly | feather | nest,Birds
-Vulture,bird | fly | feather | nest,Birds
-Ostrich,bird | fly | feather | nest,Birds
-Penguin,bird | fly | feather | nest,Birds
-Flamingo,bird | fly | feather | nest,Birds
-Woodpecker,bird | fly | feather | nest,Birds
-Kingfisher,bird | fly | feather | nest,Birds
-Cuckoo,bird | fly | feather | nest,Birds
-Dove,bird | fly | feather | nest,Birds
-Myna,bird | fly | feather | nest,Birds
-Bulbul,bird | fly | feather | nest,Birds
-Chakor,bird | fly | feather | nest,Birds
-Partridge,bird | fly | feather | nest,Birds
-Cricket,sport | game | ball | player,Sports
-Hockey,sport | game | ball | player,Sports
-Football,sport | game | player | similar,Sports
-Tennis,sport | game | ball | player,Sports
-Squash,sport | game | ball | player,Sports
-Badminton,sport | game | ball | player,Sports
-Boxing,sport | game | ball | player,Sports
-Wrestling,sport | game | ball | player,Sports
-Kabaddi,sport | game | ball | player,Sports
-Polo,sport | game | ball | player,Sports
-Golf,sport | game | ball | player,Sports
-Swimming,sport | game | ball | player,Sports
-Running,sport | game | ball | player,Sports
-Cycling,sport | game | ball | player,Sports
-Volleyball,sport | game | player | similar,Sports
-Basketball,sport | game | player | similar,Sports
-Snooker,sport | game | ball | player,Sports
-Table Tennis,Table | sport | game | ball,Sports
-Archery,sport | game | ball | player,Sports
-Shooting,sport | game | ball | player,Sports
-Skiing,sport | game | ball | player,Sports
-Skating,sport | game | ball | player,Sports
-Karate,sport | game | ball | player,Sports
-Judo,sport | game | ball | player,Sports
-Gymnastics,sport | game | ball | player,Sports
-Badshahi Mosque,Badshahi | historic | old | monument,Historical Places
-Minar-e-Pakistan,Minar | historic | old | monument,Historical Places
-Faisal Mosque,Faisal | historic | old | monument,Historical Places
-Lahore Fort,Lahore | historic | old | monument,Historical Places
-Shalimar Gardens,Shalimar | historic | old | monument,Historical Places
-Rohtas Fort,Rohtas | historic | old | monument,Historical Places
-Mohenjo-daro,Mohenjo | historic | old | monument,Historical Places
-Harappa,historic | old | monument | ancient,Historical Places
-Taxila,historic | old | monument | ancient,Historical Places
-Hiran Minar,Hiran | historic | old | monument,Historical Places
-Katas Raj,Katas | historic | old | monument,Historical Places
-Derawar Fort,Derawar | historic | old | monument,Historical Places
-Ranikot Fort,Ranikot | historic | old | monument,Historical Places
-Baltit Fort,Baltit | historic | old | monument,Historical Places
-Altit Fort,Altit | historic | old | monument,Historical Places
-Noor Mahal,Noor | historic | old | monument,Historical Places
-Wazir Khan Mosque,Wazir | historic | old | monument,Historical Places
-Tomb of Jahangir,Tomb | historic | old | monument,Historical Places
-Tomb of Jinnah,Tomb | historic | old | monument,Historical Places
-Ziarat Residency,Ziarat | historic | old | monument,Historical Places
-Khyber Pass,Khyber | historic | old | monument,Historical Places
-Clifton Fort,Clifton | historic | old | monument,Historical Places
-Frere Hall,Frere | historic | old | monument,Historical Places
-Mohatta Palace,Mohatta | historic | old | monument,Historical Places
-Shahi Qila,Shahi | historic | old | monument,Historical Places
-Doctor,job | work | professional | career,Occupations
-Teacher,job | work | professional | career,Occupations
-Pilot,job | work | professional | career,Occupations
-Soldier,job | work | professional | career,Occupations
-Police,job | work | professional | career,Occupations
-Lawyer,job | work | professional | career,Occupations
-Judge,job | work | professional | career,Occupations
-Chef,job | work | professional | career,Occupations
-Farmer,job | work | professional | career,Occupations
-Driver,job | work | professional | career,Occupations
-Tailor,job | work | professional | career,Occupations
-Barber,job | work | professional | career,Occupations
-Carpenter,job | work | professional | career,Occupations
-Plumber,job | work | professional | career,Occupations
-Electrician,job | work | professional | career,Occupations
-Mechanic,job | work | professional | career,Occupations
-Painter,job | work | professional | career,Occupations
-Writer,job | work | professional | career,Occupations
-Artist,job | work | professional | career,Occupations
-Actor,job | work | professional | career,Occupations
-Banker,job | work | professional | career,Occupations
-Accountant,job | work | professional | career,Occupations
-Scientist,job | work | professional | career,Occupations
-Car,vehicle | ride | wheels | travel,Transport
-Bus,vehicle | ride | wheels | travel,Transport
-Truck,vehicle | ride | wheels | travel,Transport
-Bike,vehicle | ride | wheels | travel,Transport
-Cycle,vehicle | ride | wheels | travel,Transport
-Rickshaw,vehicle | ride | wheels | travel,Transport
-Chingchi,vehicle | ride | wheels | travel,Transport
-Train,vehicle | ride | wheels | travel,Transport
-Airplane,vehicle | ride | wheels | travel,Transport
-Boat,vehicle | ride | wheels | travel,Transport
-Ship,vehicle | ride | wheels | travel,Transport
-Van,vehicle | ride | wheels | travel,Transport
-Taxi,vehicle | ride | wheels | travel,Transport
-Scooter,vehicle | ride | wheels | travel,Transport
-Tractor,vehicle | ride | wheels | travel,Transport
-Trolley,vehicle | ride | wheels | travel,Transport
-Ambulance,vehicle | ride | wheels | travel,Transport
-Fire Truck,Fire | vehicle | ride | wheels,Transport
-Police Car,Police | vehicle | ride | wheels,Transport
-Jeep,vehicle | ride | wheels | travel,Transport
-Helicopter,vehicle | ride | wheels | travel,Transport
-Rocket,vehicle | ride | wheels | travel,Transport
-Metro Bus,Metro | vehicle | ride | wheels,Transport
-Orange Line,Orange | vehicle | ride | wheels,Transport
-Tongas,vehicle | ride | wheels | travel,Transport
-Pen,paper | write | school | office,Stationery
-Pencil,paper | write | school | office,Stationery
-Eraser,paper | write | school | office,Stationery
-Sharpener,paper | write | school | office,Stationery
-Ruler,paper | write | school | office,Stationery
-Notebook,paper | write | school | office,Stationery
-Paper,write | school | office | similar,Stationery
-Glue,paper | write | school | office,Stationery
-Scissors,paper | write | school | office,Stationery
-Marker,paper | write | school | office,Stationery
-Highlighter,paper | write | school | office,Stationery
-Stapler,paper | write | school | office,Stationery
-Pin,paper | write | school | office,Stationery
-Clip,paper | write | school | office,Stationery
-Tape,paper | write | school | office,Stationery
-Calculator,paper | write | school | office,Stationery
-Compass,paper | write | school | office,Stationery
-Protractor,paper | write | school | office,Stationery
-File,paper | write | school | office,Stationery
-Folder,paper | write | school | office,Stationery
-Envelope,paper | write | school | office,Stationery
-Diary,paper | write | school | office,Stationery
-Chart,paper | write | school | office,Stationery
-Card,paper | write | school | office,Stationery
-Ink,paper | write | school | office,Stationery
-Red,color | paint | bright | shade,Colors
-Blue,color | paint | bright | shade,Colors
-Green,color | paint | bright | shade,Colors
-Yellow,color | paint | bright | shade,Colors
-Orange,color | paint | bright | shade,Colors
-Purple,color | paint | bright | shade,Colors
-Pink,color | paint | bright | shade,Colors
-Black,color | paint | bright | shade,Colors
-White,color | paint | bright | shade,Colors
-Grey,color | paint | bright | shade,Colors
-Brown,color | paint | bright | shade,Colors
-Maroon,color | paint | bright | shade,Colors
-Turquoise,color | paint | bright | shade,Colors
-Gold,color | paint | bright | shade,Colors
-Silver,color | paint | bright | shade,Colors
-Beige,color | paint | bright | shade,Colors
-Cream,color | paint | bright | shade,Colors
-Indigo,color | paint | bright | shade,Colors
-Violet,color | paint | bright | shade,Colors
-Magenta,color | paint | bright | shade,Colors
-Cyan,color | paint | bright | shade,Colors
-Teal,color | paint | bright | shade,Colors
-Olive,color | paint | bright | shade,Colors
-Navy,color | paint | bright | shade,Colors
-Peach,color | paint | bright | shade,Colors
-Head,body | human | anatomy | organ,Body Parts
-Eye,body | human | anatomy | organ,Body Parts
-Ear,body | human | anatomy | organ,Body Parts
-Nose,body | human | anatomy | organ,Body Parts
-Mouth,body | human | anatomy | organ,Body Parts
-Hand,body | human | anatomy | organ,Body Parts
-Foot,body | human | anatomy | organ,Body Parts
-Leg,body | human | anatomy | organ,Body Parts
-Arm,body | human | anatomy | organ,Body Parts
-Finger,body | human | anatomy | organ,Body Parts
-Thumb,body | human | anatomy | organ,Body Parts
-Knee,body | human | anatomy | organ,Body Parts
-Elbow,body | human | anatomy | organ,Body Parts
-Shoulder,body | human | anatomy | organ,Body Parts
-Neck,body | human | anatomy | organ,Body Parts
-Hair,body | human | anatomy | organ,Body Parts
-Tooth,body | human | anatomy | organ,Body Parts
-Tongue,body | human | anatomy | organ,Body Parts
-Lip,body | human | anatomy | organ,Body Parts
-Chin,body | human | anatomy | organ,Body Parts
-Cheek,body | human | anatomy | organ,Body Parts
-Forehead,body | human | anatomy | organ,Body Parts
-Stomach,body | human | anatomy | organ,Body Parts
-Back,body | human | anatomy | organ,Body Parts
-Chest,body | human | anatomy | organ,Body Parts
-Ring,gold | wear | shiny | precious,Jewelry
-Necklace,gold | wear | shiny | precious,Jewelry
-Bangle,gold | wear | shiny | precious,Jewelry
-Earring,gold | wear | shiny | precious,Jewelry
-Nose Pin,Nose | gold | wear | shiny,Jewelry
-Anklet,gold | wear | shiny | precious,Jewelry
-Bracelet,gold | wear | shiny | precious,Jewelry
-Chain,gold | wear | shiny | precious,Jewelry
-Locket,gold | wear | shiny | precious,Jewelry
-Tiara,gold | wear | shiny | precious,Jewelry
-Crown,gold | wear | shiny | precious,Jewelry
-Diamond,gold | wear | shiny | precious,Jewelry
-Gold,wear | shiny | precious | similar,Jewelry
-Silver,gold | wear | shiny | precious,Jewelry
-Pearl,gold | wear | shiny | precious,Jewelry
-Ruby,gold | wear | shiny | precious,Jewelry
-Emerald,gold | wear | shiny | precious,Jewelry
-Sapphire,gold | wear | shiny | precious,Jewelry
-Choker,gold | wear | shiny | precious,Jewelry
-Jhumka,gold | wear | shiny | precious,Jewelry
-Matha Patti,Matha | gold | wear | shiny,Jewelry
-Brooch,gold | wear | shiny | precious,Jewelry
-Pendant,gold | wear | shiny | precious,Jewelry
-Stud,gold | wear | shiny | precious,Jewelry
-Hoop,gold | wear | shiny | precious,Jewelry
-Sun,natural | outdoor | earth | sky,Nature
-Moon,natural | outdoor | earth | sky,Nature
-Star,natural | outdoor | earth | sky,Nature
-Sky,natural | outdoor | earth | similar,Nature
-Cloud,natural | outdoor | earth | sky,Nature
-Rain,natural | outdoor | earth | sky,Nature
-Snow,natural | outdoor | earth | sky,Nature
-Wind,natural | outdoor | earth | sky,Nature
-Storm,natural | outdoor | earth | sky,Nature
-River,natural | outdoor | earth | sky,Nature
-Sea,natural | outdoor | earth | sky,Nature
-Ocean,natural | outdoor | earth | sky,Nature
-Lake,natural | outdoor | earth | sky,Nature
-Pond,natural | outdoor | earth | sky,Nature
-Mountain,natural | outdoor | earth | sky,Nature
-Hill,natural | outdoor | earth | sky,Nature
-Valley,natural | outdoor | earth | sky,Nature
-Forest,natural | outdoor | earth | sky,Nature
-Tree,natural | outdoor | earth | sky,Nature
-Flower,natural | outdoor | earth | sky,Nature
-Grass,natural | outdoor | earth | sky,Nature
-Leaf,natural | outdoor | earth | sky,Nature
-Sand,natural | outdoor | earth | sky,Nature
-Rock,natural | outdoor | earth | sky,Nature
-Stone,natural | outdoor | earth | sky,Nature
-TV,electric | device | screen | battery,Electronics
-Radio,electric | device | screen | battery,Electronics
-Computer,electric | device | screen | battery,Electronics
-Laptop,electric | device | screen | battery,Electronics
-Mobile,electric | device | screen | battery,Electronics
-Tablet,electric | device | screen | battery,Electronics
-Camera,electric | device | screen | battery,Electronics
-Speaker,electric | device | screen | battery,Electronics
-Headphone,electric | device | screen | battery,Electronics
-Mouse,electric | device | screen | battery,Electronics
-Keyboard,electric | device | screen | battery,Electronics
-Printer,electric | device | screen | battery,Electronics
-Scanner,electric | device | screen | battery,Electronics
-Fan,electric | device | screen | battery,Electronics
-AC,electric | device | screen | battery,Electronics
-Heater,electric | device | screen | battery,Electronics
-Fridge,electric | device | screen | battery,Electronics
-Oven,electric | device | screen | battery,Electronics
-Microwave,electric | device | screen | battery,Electronics
-Iron,electric | device | screen | battery,Electronics
-Blender,electric | device | screen | battery,Electronics
-Toaster,electric | device | screen | battery,Electronics
-Juicer,electric | device | screen | battery,Electronics
-Watch,electric | device | screen | battery,Electronics
-Clock,electric | device | screen | battery,Electronics
-Hammer,tool | metal | work | fix,Tools
-Nail,tool | metal | work | fix,Tools
-Screw,tool | metal | work | fix,Tools
-Screwdriver,tool | metal | work | fix,Tools
-Wrench,tool | metal | work | fix,Tools
-Plier,tool | metal | work | fix,Tools
-Saw,tool | metal | work | fix,Tools
-Drill,tool | metal | work | fix,Tools
-Axe,tool | metal | work | fix,Tools
-Shovel,tool | metal | work | fix,Tools
-Spade,tool | metal | work | fix,Tools
-Rake,tool | metal | work | fix,Tools
-Hoe,tool | metal | work | fix,Tools
-Ladder,tool | metal | work | fix,Tools
-Tape Measure,Tape | tool | metal | work,Tools
-Level,tool | metal | work | fix,Tools
-Chisel,tool | metal | work | fix,Tools
-File,tool | metal | work | fix,Tools
-Clamp,tool | metal | work | fix,Tools
-Vice,tool | metal | work | fix,Tools
-Cutter,tool | metal | work | fix,Tools
-Scissor,tool | metal | work | fix,Tools
-Knife,tool | metal | work | fix,Tools
-Torch,tool | metal | work | fix,Tools
-Brush,tool | metal | work | fix,Tools
-Cotton,cloth | material | soft | weave,Fabrics
-Silk,cloth | material | soft | weave,Fabrics
-Wool,cloth | material | soft | weave,Fabrics
-Lawn,cloth | material | soft | weave,Fabrics
-Linen,cloth | material | soft | weave,Fabrics
-Khaddar,cloth | material | soft | weave,Fabrics
-Velvet,cloth | material | soft | weave,Fabrics
-Chiffon,cloth | material | soft | weave,Fabrics
-Georgette,cloth | material | soft | weave,Fabrics
-Denim,cloth | material | soft | weave,Fabrics
-Leather,cloth | material | soft | weave,Fabrics
-Polyester,cloth | material | soft | weave,Fabrics
-Rayon,cloth | material | soft | weave,Fabrics
-Satin,cloth | material | soft | weave,Fabrics
-Net,cloth | material | soft | weave,Fabrics
-Banarasi,cloth | material | soft | weave,Fabrics
-Jamawar,cloth | material | soft | weave,Fabrics
-Organza,cloth | material | soft | weave,Fabrics
-Pashmina,cloth | material | soft | weave,Fabrics
-Jute,cloth | material | soft | weave,Fabrics
-Nylon,cloth | material | soft | weave,Fabrics
-Spandex,cloth | material | soft | weave,Fabrics
-Fleece,cloth | material | soft | weave,Fabrics
-Corduroy,cloth | material | soft | weave,Fabrics
-Canvas,cloth | material | soft | weave,Fabrics
-Water,drink | liquid | cup | hot,Beverages
-Milk,drink | liquid | cup | hot,Beverages
-Tea,drink | liquid | cup | hot,Beverages
-Coffee,drink | liquid | cup | hot,Beverages
-Juice,drink | liquid | cup | hot,Beverages
-Soda,drink | liquid | cup | hot,Beverages
-Lassi,drink | liquid | cup | hot,Beverages
-Shake,drink | liquid | cup | hot,Beverages
-Smoothie,drink | liquid | cup | hot,Beverages
-Lemonade,drink | liquid | cup | hot,Beverages
-Squash,drink | liquid | cup | hot,Beverages
-Sherbet,drink | liquid | cup | hot,Beverages
-Rooh Afza,Rooh | drink | liquid | cup,Beverages
-Kanji,drink | liquid | cup | hot,Beverages
-Sattu,drink | liquid | cup | hot,Beverages
-Buttermilk,drink | liquid | cup | hot,Beverages
-Green Tea,Green | drink | liquid | cup,Beverages
-Kashmiri Chai,Kashmiri | drink | liquid | cup,Beverages
-Doodh Soda,Doodh | drink | liquid | cup,Beverages
-Cold Drink,Cold | liquid | cup | hot,Beverages
-Energy Drink,Energy | liquid | cup | hot,Beverages
-Soup,drink | liquid | cup | hot,Beverages
-Broth,drink | liquid | cup | hot,Beverages
-Cider,drink | liquid | cup | hot,Beverages
-Cocoa,drink | liquid | cup | hot,Beverages
-Gulab Jamun,Gulab | sweet | sugar | eat,Desserts
-Barfi,sweet | sugar | eat | delicious,Desserts
-Jalebi,sweet | sugar | eat | delicious,Desserts
-Laddu,sweet | sugar | eat | delicious,Desserts
-Halwa,sweet | sugar | eat | delicious,Desserts
-Kheer,sweet | sugar | eat | delicious,Desserts
-Custard,sweet | sugar | eat | delicious,Desserts
-Cake,sweet | sugar | eat | delicious,Desserts
-Pastry,sweet | sugar | eat | delicious,Desserts
-Ice Cream,Ice | sweet | sugar | eat,Desserts
-Chocolate,sweet | sugar | eat | delicious,Desserts
-Cookie,sweet | sugar | eat | delicious,Desserts
-Biscuit,sweet | sugar | eat | delicious,Desserts
-Brownie,sweet | sugar | eat | delicious,Desserts
-Pudding,sweet | sugar | eat | delicious,Desserts
-Trifle,sweet | sugar | eat | delicious,Desserts
-Falooda,sweet | sugar | eat | delicious,Desserts
-Ras Malai,Ras | sweet | sugar | eat,Desserts
-Cham Cham,Cham | sweet | sugar | eat,Desserts
-Sohan Halwa,Sohan | sweet | sugar | eat,Desserts
-Patisa,sweet | sugar | eat | delicious,Desserts
-Kalakand,sweet | sugar | eat | delicious,Desserts
-Zarda,sweet | sugar | eat | delicious,Desserts
-Sheer Khurma,Sheer | sweet | sugar | eat,Desserts
-Sawaiyan,sweet | sugar | eat | delicious,Desserts
-Mother,family | relative | blood | relation,Family Relations
-Father,family | relative | blood | relation,Family Relations
-Brother,family | relative | blood | relation,Family Relations
-Sister,family | relative | blood | relation,Family Relations
-Son,family | relative | blood | relation,Family Relations
-Daughter,family | relative | blood | relation,Family Relations
-Grandfather,family | relative | blood | relation,Family Relations
-Grandmother,family | relative | blood | relation,Family Relations
-Uncle,family | relative | blood | relation,Family Relations
-Aunt,family | relative | blood | relation,Family Relations
-Cousin,family | relative | blood | relation,Family Relations
-Nephew,family | relative | blood | relation,Family Relations
-Niece,family | relative | blood | relation,Family Relations
-Husband,family | relative | blood | relation,Family Relations
-Wife,family | relative | blood | relation,Family Relations
-Father-in-law,Father | family | relative | blood,Family Relations
-Mother-in-law,Mother | family | relative | blood,Family Relations
-Brother-in-law,Brother | family | relative | blood,Family Relations
-Sister-in-law,Sister | family | relative | blood,Family Relations
-Step-mother,Step | family | relative | blood,Family Relations
-Step-father,Step | family | relative | blood,Family Relations
-Grandson,family | relative | blood | relation,Family Relations
-Granddaughter,family | relative | blood | relation,Family Relations
-Ancestor,family | relative | blood | relation,Family Relations
-Relative,family | blood | relation | similar,Family Relations
-Abu Bakr,Abu | companion | Prophet | Caliph,Sahaba
-Umar,companion | Prophet | Caliph | Muslim,Sahaba
-Uthman,companion | Prophet | Caliph | Muslim,Sahaba
-Ali,companion | Prophet | Caliph | Muslim,Sahaba
-Bilal,companion | Prophet | Caliph | Muslim,Sahaba
-Khalid,companion | Prophet | Caliph | Muslim,Sahaba
-Salman,companion | Prophet | Caliph | Muslim,Sahaba
-Abu Huraira,Abu | companion | Prophet | Caliph,Sahaba
-Aisha,companion | Prophet | Caliph | Muslim,Sahaba
-Khadija,companion | Prophet | Caliph | Muslim,Sahaba
-Fatima,companion | Prophet | Caliph | Muslim,Sahaba
-Hassan,companion | Prophet | Caliph | Muslim,Sahaba
-Hussain,companion | Prophet | Caliph | Muslim,Sahaba
-Zaid,companion | Prophet | Caliph | Muslim,Sahaba
-Talha,companion | Prophet | Caliph | Muslim,Sahaba
-Zubair,companion | Prophet | Caliph | Muslim,Sahaba
-Saad,companion | Prophet | Caliph | Muslim,Sahaba
-Abdur Rahman,Abdur | companion | Prophet | Caliph,Sahaba
-Anas,companion | Prophet | Caliph | Muslim,Sahaba
-Abdullah,companion | Prophet | Caliph | Muslim,Sahaba
-Muadh,companion | Prophet | Caliph | Muslim,Sahaba
-Usamah,companion | Prophet | Caliph | Muslim,Sahaba
-Ammar,companion | Prophet | Caliph | Muslim,Sahaba
-Suhaib,companion | Prophet | Caliph | Muslim,Sahaba
-Abu Ubaidah,Abu | companion | Prophet | Caliph,Sahaba
-Hamza,companion | Prophet | Caliph | Muslim,Sahaba
-Abbas,companion | Prophet | Caliph | Muslim,Sahaba
-Jafar,companion | Prophet | Caliph | Muslim,Sahaba
-Adam,prophet | messenger | Allah | revelation,Prophets
-Noah,prophet | messenger | Allah | revelation,Prophets
-Abraham,prophet | messenger | Allah | revelation,Prophets
-Ishmael,prophet | messenger | Allah | revelation,Prophets
-Isaac,prophet | messenger | Allah | revelation,Prophets
-Jacob,prophet | messenger | Allah | revelation,Prophets
-Joseph,prophet | messenger | Allah | revelation,Prophets
-Moses,prophet | messenger | Allah | revelation,Prophets
-Aaron,prophet | messenger | Allah | revelation,Prophets
-David,prophet | messenger | Allah | revelation,Prophets
-Solomon,prophet | messenger | Allah | revelation,Prophets
-Job,prophet | messenger | Allah | revelation,Prophets
-Jonah,prophet | messenger | Allah | revelation,Prophets
-Elijah,prophet | messenger | Allah | revelation,Prophets
-Elisha,prophet | messenger | Allah | revelation,Prophets
-Zachariah,prophet | messenger | Allah | revelation,Prophets
-John,prophet | messenger | Allah | revelation,Prophets
-Jesus,prophet | messenger | Allah | revelation,Prophets
-Muhammad,prophet | messenger | Allah | revelation,Prophets
-Lot,prophet | messenger | Allah | revelation,Prophets
-Shuaib,prophet | messenger | Allah | revelation,Prophets
-Hud,prophet | messenger | Allah | revelation,Prophets
-Saleh,prophet | messenger | Allah | revelation,Prophets
-Idris,prophet | messenger | Allah | revelation,Prophets
-Dhul-Kifl,Dhul | prophet | messenger | Allah,Prophets
-Yunus,prophet | messenger | Allah | revelation,Prophets
-Allah,Islam | Muslim | Arabic | religious,Islamic Terms
-Islam,Muslim | Arabic | religious | similar,Islamic Terms
-Muslim,Islam | Arabic | religious | similar,Islamic Terms
-Quran,Islam | Muslim | Arabic | religious,Islamic Terms
-Hadith,Islam | Muslim | Arabic | religious,Islamic Terms
-Sunnah,Islam | Muslim | Arabic | religious,Islamic Terms
-Salah,Islam | Muslim | Arabic | religious,Islamic Terms
-Zakat,Islam | Muslim | Arabic | religious,Islamic Terms
-Sawm,Islam | Muslim | Arabic | religious,Islamic Terms
-Hajj,Islam | Muslim | Arabic | religious,Islamic Terms
-Shahada,Islam | Muslim | Arabic | religious,Islamic Terms
-Iman,Islam | Muslim | Arabic | religious,Islamic Terms
-Taqwa,Islam | Muslim | Arabic | religious,Islamic Terms
-Dua,Islam | Muslim | Arabic | religious,Islamic Terms
-Dhikr,Islam | Muslim | Arabic | religious,Islamic Terms
-Jannah,Islam | Muslim | Arabic | religious,Islamic Terms
-Jahannam,Islam | Muslim | Arabic | religious,Islamic Terms
-Ramadan,Islam | Muslim | Arabic | religious,Islamic Terms
-Eid,Islam | Muslim | Arabic | religious,Islamic Terms
-Kaaba,Islam | Muslim | Arabic | religious,Islamic Terms
-Mecca,Islam | Muslim | Arabic | religious,Islamic Terms
-Medina,Islam | Muslim | Arabic | religious,Islamic Terms
-Masjid,Islam | Muslim | Arabic | religious,Islamic Terms
-Imam,Islam | Muslim | Arabic | religious,Islamic Terms
-Wudu,Islam | Muslim | Arabic | religious,Islamic Terms
-Mecca,mosque | holy | pilgrimage | similar,Islamic Locations
-Medina,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Jerusalem,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Kaaba,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Masjid al-Haram,Masjid | mosque | holy | Mecca,Islamic Locations
-Masjid al-Nabawi,Masjid | mosque | holy | Mecca,Islamic Locations
-Al-Aqsa,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Dome of the Rock,Dome | mosque | holy | Mecca,Islamic Locations
-Mount Arafat,Mount | mosque | holy | Mecca,Islamic Locations
-Mina,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Muzdalifah,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Safa,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Marwa,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Zamzam,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Cave Hira,Cave | mosque | holy | Mecca,Islamic Locations
-Cave Thawr,Cave | mosque | holy | Mecca,Islamic Locations
-Uhud,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Badr,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Quba,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Jannat al-Baqi,Jannat | mosque | holy | Mecca,Islamic Locations
-Mount Uhud,Mount | mosque | holy | Mecca,Islamic Locations
-Hudaybiyyah,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Taif,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Tabuk,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Khaybar,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Yemen,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Damascus,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Baghdad,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Cordoba,mosque | holy | Mecca | pilgrimage,Islamic Locations
-Salahuddin,scholar | Islamic | famous | history,Muslim Historical Figures
-Ibn Sina,Ibn | scholar | Islamic | famous,Muslim Historical Figures
-Al-Khwarizmi,scholar | Islamic | famous | history,Muslim Historical Figures
-Ibn Rushd,Ibn | scholar | Islamic | famous,Muslim Historical Figures
-Al-Ghazali,scholar | Islamic | famous | history,Muslim Historical Figures
-Ibn Battuta,Ibn | scholar | Islamic | famous,Muslim Historical Figures
-Al-Biruni,scholar | Islamic | famous | history,Muslim Historical Figures
-Ibn Khaldun,Ibn | scholar | Islamic | famous,Muslim Historical Figures
-Harun al-Rashid,Harun | scholar | Islamic | famous,Muslim Historical Figures
-Tariq ibn Ziyad,Tariq | scholar | Islamic | famous,Muslim Historical Figures
-Umar ibn Abdul Aziz,Umar | scholar | Islamic | famous,Muslim Historical Figures
-Imam Bukhari,Imam | scholar | Islamic | famous,Muslim Historical Figures
-Imam Muslim,Imam | scholar | Islamic | famous,Muslim Historical Figures
-Imam Abu Hanifa,Imam | scholar | Islamic | famous,Muslim Historical Figures
-Imam Malik,Imam | scholar | Islamic | famous,Muslim Historical Figures
-Imam Shafi,Imam | scholar | Islamic | famous,Muslim Historical Figures
-Imam Ahmad,Imam | scholar | Islamic | famous,Muslim Historical Figures
-Al-Farabi,scholar | Islamic | famous | history,Muslim Historical Figures
-Ibn Taymiyyah,Ibn | scholar | Islamic | famous,Muslim Historical Figures
-Al-Razi,scholar | Islamic | famous | history,Muslim Historical Figures
-Omar Khayyam,Omar | scholar | Islamic | famous,Muslim Historical Figures
-Fatima al-Fihri,Fatima | scholar | Islamic | famous,Muslim Historical Figures
-Nusaybah,scholar | Islamic | famous | history,Muslim Historical Figures
-Sultan Mehmed,Sultan | scholar | Islamic | famous,Muslim Historical Figures
+Karachi,Sea | Quaid | Sindh | Port | Biggest,Pakistani Cities
+Lahore,Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food,Pakistani Cities
+Islamabad,Capital | Faisal Mosque | Margalla | Pindi | Government,Pakistani Cities
+Rawalpindi,Pindi | Army | GHQ | Twin City | Islamabad,Pakistani Cities
+Faisalabad,Textile | Clock Tower | Ghanta Ghar | Lyallpur | Manchester,Pakistani Cities
+Multan,Mango | Saints | Shrines | Heat | Sohan Halwa,Pakistani Cities
+Peshawar,KPK | Pathan | Qissa Khwani | Chapli Kabab | Khyber,Pakistani Cities
+Quetta,Balochistan | Capital | Cold | Hazara | Dry Fruit,Pakistani Cities
+Sialkot,Football | Sports Goods | Iqbal | Cricket Bats | Export,Pakistani Cities
+Gujranwala,Pehlwan | Wrestlers | Food | Fans | Punjab,Pakistani Cities
+Hyderabad,Sindh | Bangles | Choorian | Rabri | India,Pakistani Cities
+Abbottabad,PMA | Army | Kakul | Hills | Hazara,Pakistani Cities
+Murree,Hill Station | Snow | Mall Road | Pindi | Holiday,Pakistani Cities
+Sukkur,Indus | Barrage | Sindh | Dates | Bridge,Pakistani Cities
+Bahawalpur,Nawab | Noor Mahal | Desert | Cholistan | Darbar Mahal,Pakistani Cities
+Sargodha,Air Force | Kinnow | Oranges | Shaheen | Punjab,Pakistani Cities
+Gujrat,Fans | Pottery | Chenab | Punjab | Chaudhry,Pakistani Cities
+Larkana,Bhutto | Mohenjo-daro | Sindh | PPP | Garhi Khuda Bakhsh,Pakistani Cities
+Sheikhupura,Lahore | Punjab | Industry | Hiran Minar | Jahangir,Pakistani Cities
+Jhelum,River | Army | Rohtas Fort | GT Road | Soldiers,Pakistani Cities
+Mardan,KPK | Pathan | Pashtun | Peshawar | Takht Bhai,Pakistani Cities
+Kasur,Bulleh Shah | Methi | Border | Zainab | Falooda,Pakistani Cities
+Rahim Yar Khan,Sheikh Zayed | Cotton | Sugar | South Punjab | Bahawalpur,Pakistani Cities
+Sahiwal,Cow | Buffalo | Harappa | Milk | Montgomery,Pakistani Cities
+Okara,Potato | Farming | Punjab | Renala | Sahiwal,Pakistani Cities
+Biryani,Rice | Chawal | Masala | Sindhi | Eid,Traditional Dishes
+Pulao,Rice | Chawal | Yakhni | Biryani | Peshawari,Traditional Dishes
+Nihari,Breakfast | Nalli | Shank | Old Delhi | Slow Cooked,Traditional Dishes
+Haleem,Daal | Wheat | Muharram | Pounded | Lentils,Traditional Dishes
+Karahi,Chicken | Wok | Tomato | Highway | Mutton,Traditional Dishes
+Korma,Yogurt | Dahi | Shaadi | Gravy | White,Traditional Dishes
+Sajji,Balochi | Whole Chicken | Skewer | Lamb | Roast,Traditional Dishes
+Chapli Kabab,Peshawar | Flat | Mince | Tomato | Pathan,Traditional Dishes
+Seekh Kabab,Skewer | Mince | BBQ | Long | Coal,Traditional Dishes
+Paye,Trotters | Feet | Legs | Breakfast | Naan,Traditional Dishes
+Halwa Puri,Breakfast | Sunday | Chana | Sooji | Fried,Traditional Dishes
+Saag,Sarson | Mustard | Spinach | Punjab | Green,Traditional Dishes
+Makki Ki Roti,Corn | Saag | Sarson | Punjab | Butter,Traditional Dishes
+Daal Chawal,Lentils | Rice | Simple | Achaar | Ghar,Traditional Dishes
+Aloo Gosht,Potato | Meat | Mutton | Shorba | Salan,Traditional Dishes
+Koftay,Meatballs | Mince | Qeema | Balls | Gravy,Traditional Dishes
+Katakat,Brain | Kidney | Tawa | Noise | Organs,Traditional Dishes
+Chargha,Chicken | Lahore | Whole | Fried | Steamed,Traditional Dishes
+Tikka,BBQ | Chicken | Boti | Coal | Red,Traditional Dishes
+Malai Boti,Cream | Chicken | BBQ | White | Boneless,Traditional Dishes
+Reshmi Kabab,Silky | Soft | Chicken | Mince | Cream,Traditional Dishes
+Gola Kabab,Round | Soft | Mince | Karachi | Melt,Traditional Dishes
+Bihari Kabab,Karachi | Thread | Beef | Papaya | Smoky,Traditional Dishes
+Kunna,Chiniot | Clay Pot | Mutton | Matka | Slow Cooked,Traditional Dishes
+Bong Paye,Bone Marrow | Nalli | Beef | Lahore | Shank,Traditional Dishes
+Salt,Namak | Sea | Salty | White | Pinch,Spices
+Pepper,Kali Mirch | Black | Sneeze | Salt | Grinder,Spices
+Turmeric,Haldi | Yellow | Mayun | Doodh | Stain,Spices
+Chili,Mirch | Red | Hot | Spicy | Green,Spices
+Cumin,Zeera | Jeera | Seeds | Raita | Tarka,Spices
+Coriander,Dhania | Leaves | Green | Garnish | Chutney,Spices
+Cardamom,Elaichi | Green | Chai | Pod | Kheer,Spices
+Cinnamon,Darchini | Bark | Stick | Roll | Brown,Spices
+Clove,Laung | Toothache | Biryani | Nail | Oil,Spices
+Nutmeg,Jaifal | Brown | Grated | Mace | Seed,Spices
+Saffron,Zafran | Expensive | Kesar | Orange | Strands,Spices
+Garlic,Lehsan | Ginger | Smell | Cloves | White,Spices
+Anise,Saunf | Star | Licorice | Seeds | Digestion,Spices
+Fenugreek,Methi | Bitter | Leaves | Seeds | Aloo,Spices
+Mustard Seeds,Rai | Sarson | Yellow | Black | Tarka,Spices
+Poppy Seeds,Khashkhash | Tiny | White | Halwa | Flower,Spices
+Sesame,Til | Seeds | Oil | Tahini | Bun,Spices
+Bay Leaf,Tez Patta | Dry | Pulao | Biryani | Aromatic,Spices
+Black Salt,Kala Namak | Pink | Chaat | Smell | Egg,Spices
+Chaat Masala,Tangy | Fruit | Dahi Baray | Sprinkle | Shan,Spices
+Garam Masala,Mix | Shan | National | Blend | Curry,Spices
+Tamarind,Imli | Sour | Chutney | Brown | Pods,Spices
+Mint,Pudina | Chutney | Fresh | Raita | Green,Spices
+Basil,Tulsi | Pesto | Italian | Pizza | Leaves,Spices
+Mango,Aam | King | Summer | Sindhri | Chaunsa,Fruits
+Apple,Red | Seb | Newton | iPhone | Doctor,Fruits
+Banana,Kela | Yellow | Monkey | Peel | Dozen,Fruits
+Orange,Malta | Color | Peel | Citrus | Juice,Fruits
+Grapes,Angoor | Bunch | Kishmish | Green | Vine,Fruits
+Pomegranate,Anaar | Seeds | Red | Dana | Juice,Fruits
+Guava,Amrood | Green | Seeds | Chaat | Parrot,Fruits
+Watermelon,Tarbooz | Red | Green | Seeds | Summer,Fruits
+Melon,Kharbooza | Orange | Summer | Seeds | Sweet,Fruits
+Apricot,Khubani | Hunza | Dried | Orange | Gilgit,Fruits
+Peach,Aaru | Fuzzy | Swat | Soft | Pink,Fruits
+Plum,Aloo Bukhara | Purple | Sour | Dried | Prune,Fruits
+Pear,Nashpati | Green | Shape | Juicy | Bulb,Fruits
+Strawberry,Red | Seeds | Cream | Milkshake | Berry,Fruits
+Cherry,Red | Cake | Top | Stem | Pair,Fruits
+Lychee,Litchi | Pink | Shell | White | Seed,Fruits
+Papaya,Papita | Orange | Seeds | Stomach | Green,Fruits
+Pineapple,Ananas | Spiky | Yellow | Crown | Pizza,Fruits
+Coconut,Nariyal | Water | Shell | Palm | Hairy,Fruits
+Date,Khajoor | Ramzan | Iftar | Arabia | Ajwa,Fruits
+Fig,Anjeer | Dried | Seeds | Surah | Purple,Fruits
+Mulberry,Shehtoot | Purple | Silk | Stain | Tree,Fruits
+Kinnow,Sargodha | Orange | Malta | Winter | Peel,Fruits
+Falsa,Purple | Sharbat | Summer | Small | Sour,Fruits
+Jamun,Purple | Tongue | Black | Salt | Monsoon,Fruits
+Potato,Aloo | Fries | Chips | Mash | Samosa,Vegetables
+Onion,Pyaz | Cry | Tears | Layers | Purple,Vegetables
+Tomato,Tamatar | Red | Ketchup | Sauce | Salad,Vegetables
+Garlic,Lehsan | Smell | Breath | Adrak | Cloves,Vegetables
+Spinach,Palak | Iron | Leaves | Saag | Green,Vegetables
+Cauliflower,Gobhi | White | Aloo Gobi | Florets | Broccoli,Vegetables
+Cabbage,Band Gobhi | Leaves | Round | Coleslaw | Layers,Vegetables
+Carrot,Gajar | Orange | Rabbit | Halwa | Eyes,Vegetables
+Radish,Mooli | White | Paratha | Gas | Root,Vegetables
+Turnip,Shaljam | Purple | Root | White | Winter,Vegetables
+Peas,Matar | Green | Pod | Pulao | Round,Vegetables
+Okra,Bhindi | Ladyfinger | Slimy | Green | Fry,Vegetables
+Eggplant,Baingan | Brinjal | Purple | Bharta | Aubergine,Vegetables
+Cucumber,Kheera | Green | Raita | Cool | Salad,Vegetables
+Zucchini,Green | Courgette | Lauki | Squash | Long,Vegetables
+Pumpkin,Kaddu | Orange | Big | Halwa | Round,Vegetables
+Bitter Gourd,Karela | Kadwa | Green | Diabetes | Spiky,Vegetables
+Bottle Gourd,Lauki | Ghiya | Green | Long | Halwa,Vegetables
+Capsicum,Shimla Mirch | Bell Pepper | Green | Pizza | Stuffed,Vegetables
+Chili,Mirch | Spicy | Hot | Green | Red,Vegetables
+Coriander,Dhania | Garnish | Leaves | Green | Chutney,Vegetables
+Mint,Podina | Chutney | Fresh | Leaves | Raita,Vegetables
+Lemon,Nimbu | Sour | Yellow | Juice | Khatta,Vegetables
+Beetroot,Chukandar | Red | Purple | Salad | Juice,Vegetables
+Shalwar,Kameez | Pajama | Trousers | Nara | Baggy,Clothing
+Kameez,Shalwar | Shirt | Kurta | Long | Suit,Clothing
+Kurta,Kameez | Shalwar | Men | Eid | Shirt,Clothing
+Dupatta,Chunni | Scarf | Head | Women | Shoulder,Clothing
+Sari,India | Wrap | Saree | Blouse | Six Yards,Clothing
+Lehnga,Bride | Wedding | Choli | Skirt | Heavy,Clothing
+Sherwani,Groom | Dulha | Wedding | Long Coat | Quaid,Clothing
+Waistcoat,Koti | Sleeveless | Kurta | Buttons | Suit,Clothing
+Turban,Pagri | Head | Sikh | Wrap | Pathan,Clothing
+Scarf,Neck | Muffler | Winter | Wool | Wrap,Clothing
+Shawl,Chaadar | Winter | Wool | Kashmiri | Wrap,Clothing
+Ajrak,Sindh | Sindhi | Block Print | Red | Topi,Clothing
+Topi,Cap | Head | Namaz | Jinnah | Sindhi,Clothing
+Vest,Baniyan | Undershirt | Sleeveless | White | Inner,Clothing
+Jacket,Leather | Zip | Winter | Denim | Pockets,Clothing
+Coat,Winter | Long | Lab | Pant | Warm,Clothing
+Sweater,Wool | Winter | Knit | Jersey | Warm,Clothing
+Socks,Feet | Juraab | Shoes | Pair | Smell,Clothing
+Gloves,Hands | Dastaane | Fingers | Winter | Boxing,Clothing
+Tie,Neck | Knot | Office | Shirt | Suit,Clothing
+Belt,Waist | Buckle | Leather | Pants | Kamar,Clothing
+Trousers,Pants | Pant | Legs | Formal | Office,Clothing
+Jeans,Denim | Blue | Pants | Torn | Tight,Clothing
+Shirt,Kameez | Buttons | Collar | Sleeves | Formal,Clothing
+Frock,Girls | Dress | Little | Skirt | Eid,Clothing
+Chair,Kursi | Sit | Legs | Seat | Table,Furniture
+Table,Mez | Chair | Dining | Legs | Top,Furniture
+Sofa,Couch | Drawing Room | Sit | Cushions | Comfortable,Furniture
+Bed,Sleep | Bedroom | Charpai | Mattress | Pillow,Furniture
+Cupboard,Almari | Kitchen | Doors | Shelves | Store,Furniture
+Wardrobe,Almari | Clothes | Hangers | Bedroom | Doors,Furniture
+Cabinet,Drawers | Kitchen | Shelf | Medicine | Doors,Furniture
+Desk,Study | Table | Office | Laptop | Chair,Furniture
+Stool,Seat | Three Legs | No Back | Small | Peerhi,Furniture
+Bench,Park | Long | Seat | School | Bus Stop,Furniture
+Bookshelf,Books | Library | Shelves | Read | Rack,Furniture
+Dresser,Drawers | Clothes | Mirror | Makeup | Bedroom,Furniture
+Mirror,Shesha | Reflection | Face | Glass | Look,Furniture
+Lamp,Light | Bulb | Table | Shade | Night,Furniture
+Rug,Floor | Mat | Small | Dari | Persian,Furniture
+Carpet,Qaleen | Floor | Persian | Wall To Wall | Vacuum,Furniture
+Curtain,Parda | Window | Cloth | Rod | Close,Furniture
+Mattress,Bed | Sleep | Foam | Gadda | Spring,Furniture
+Pillow,Takiya | Head | Sleep | Bed | Soft,Furniture
+Cushion,Sofa | Soft | Gaddi | Sit | Cover,Furniture
+Blanket,Razai | Kambal | Winter | Warm | Cover,Furniture
+Sheet,Chadar | Bed | Cover | Cotton | Bedsheet,Furniture
+Cot,Baby | Bed | Charpai | Small | Camping,Furniture
+Cradle,Jhoola | Baby | Rock | Sleep | Swing,Furniture
+Recliner,Chair | Lean Back | Relax | Footrest | Comfortable,Furniture
+Spoon,Chamach | Eat | Soup | Tea | Stir,Kitchen Items
+Fork,Kanta | Eat | Prongs | Spoon | Knife,Kitchen Items
+Knife,Churi | Cut | Sharp | Chop | Blade,Kitchen Items
+Plate,Thaali | Dinner | Eat | Round | Dish,Kitchen Items
+Bowl,Pyala | Soup | Cereal | Round | Deep,Kitchen Items
+Glass,Gilaas | Water | Drink | Pani | Clear,Kitchen Items
+Cup,Tea | Chai | Saucer | Handle | Coffee,Kitchen Items
+Mug,Coffee | Handle | Big | Cup | Tea,Kitchen Items
+Jug,Water | Pour | Pitcher | Lassi | Handle,Kitchen Items
+Teapot,Chai | Kettle | Pour | Spout | Lid,Kitchen Items
+Pan,Fry | Frying | Handle | Non Stick | Egg,Kitchen Items
+Pot,Handi | Degchi | Cook | Boil | Lid,Kitchen Items
+Cooker,Pressure | Whistle | Steam | Gas | Daal,Kitchen Items
+Tawa,Roti | Chapati | Paratha | Flat | Iron,Kitchen Items
+Rolling Pin,Belan | Roti | Dough | Atta | Flat,Kitchen Items
+Grater,Carrot | Cheese | Kaddu Kash | Shred | Grate,Kitchen Items
+Peeler,Peel | Potato | Skin | Chilka | Carrot,Kitchen Items
+Strainer,Chhanni | Chai | Tea | Pasta | Holes,Kitchen Items
+Sieve,Chalni | Flour | Atta | Holes | Mesh,Kitchen Items
+Tongs,Chimta | Grab | Pick | Hot | BBQ,Kitchen Items
+Ladle,Spoon | Soup | Serve | Daig | Big,Kitchen Items
+Tray,Serve | Tea | Carry | Waiter | Guests,Kitchen Items
+Bottle,Water | Drink | Plastic | Cap | Pani,Kitchen Items
+Jar,Lid | Glass | Pickle | Achar | Jam,Kitchen Items
+Container,Box | Tupperware | Plastic | Lid | Store,Kitchen Items
+Lion,Sher | King | Jungle | Roar | Mane,Animals
+Tiger,Baagh | Stripes | Orange | Jungle | Bengal,Animals
+Elephant,Haathi | Trunk | Tusks | Big Ears | Grey,Animals
+Horse,Ghora | Ride | Tonga | Race | Saddle,Animals
+Dog,Kutta | Bark | Pet | Loyal | Bone,Animals
+Cat,Billi | Meow | Pet | Milk | Whiskers,Animals
+Cow,Gaye | Milk | Moo | Eid | Beef,Animals
+Buffalo,Bhains | Milk | Black | Horns | Eid,Animals
+Goat,Bakra | Eid | Qurbani | Mutton | Beard,Animals
+Sheep,Bhed | Wool | Dumba | Lamb | Baa,Animals
+Camel,Oont | Desert | Hump | Arab | Thar,Animals
+Donkey,Gadha | Stupid | Load | Dhenchu | Cart,Animals
+Monkey,Bandar | Banana | Tree | Madari | Jump,Animals
+Bear,Bhaloo | Honey | Hug | Teddy | Polar,Animals
+Deer,Hiran | Antlers | Fast | Spots | Jungle,Animals
+Rabbit,Khargosh | Carrot | Ears | Hop | White,Animals
+Fox,Lomri | Clever | Cunning | Grapes | Red,Animals
+Wolf,Bhediya | Howl | Moon | Pack | Jungle,Animals
+Snake,Saanp | Poison | Hiss | Cobra | Bite,Animals
+Crocodile,Magarmach | River | Jaws | Tears | Alligator,Animals
+Turtle,Kachwa | Shell | Slow | Rabbit | Race,Animals
+Frog,Maindak | Jump | Pond | Croak | Green,Animals
+Mouse,Choohi | Cheese | Computer | Cat | Small,Animals
+Rat,Chooha | Cat | Trap | Sewer | Plague,Animals
+Squirrel,Gilehri | Nuts | Tree | Stripes | Tail,Animals
+Eagle,Uqaab | Shaheen | Iqbal | Prey | Fly,Birds
+Sparrow,Chirya | Small | Brown | Chirp | Jack,Birds
+Pigeon,Kabootar | Roof | Message | Grey | Daana,Birds
+Parrot,Tota | Green | Talk | Copy | Mitthu,Birds
+Crow,Kawwa | Black | Caw | Clever | Guest,Birds
+Peacock,Mor | Tail | Feathers | Rain | Colourful,Birds
+Hen,Murghi | Egg | Chicken | Anda | Farm,Birds
+Rooster,Murgha | Morning | Cock | Crow | Wake Up,Birds
+Duck,Batakh | Quack | Water | Pond | Swim,Birds
+Swan,Hans | White | Lake | Long Neck | Graceful,Birds
+Owl,Ullu | Night | Wise | Idiot | Hoot,Birds
+Hawk,Baaz | Prey | Hunt | Falcon | Eyes,Birds
+Kite,Cheel | Patang | Sky | Circle | Prey,Birds
+Vulture,Gidh | Dead | Carcass | Bald | Scavenger,Birds
+Ostrich,Shuturmurgh | Biggest | Egg | Sand | Run,Birds
+Penguin,Ice | Black And White | Antarctica | Waddle | Cold,Birds
+Flamingo,Pink | One Leg | Long Legs | Lake | Shrimp,Birds
+Woodpecker,Tree | Peck | Beak | Hole | Knock,Birds
+Kingfisher,Fish | Dive | Blue | River | Beak,Birds
+Cuckoo,Koel | Voice | Clock | Crazy | Black,Birds
+Dove,Fakhta | Peace | White | Olive | Pigeon,Birds
+Myna,Maina | Talk | Yellow Beak | Brown | Tota,Birds
+Bulbul,Chirp | Nightingale | Garden | Flower | Poetry,Birds
+Chakor,National Bird | Pakistan | Partridge | Moon | Mountains,Birds
+Partridge,Teetar | Fight | Hunting | Brown | Chakor,Birds
+Cricket,Bat | Babar | Wicket | Imran Khan | World Cup,Sports
+Hockey,Stick | National Game | Goal | Field | Ice,Sports
+Football,Goal | Messi | Ronaldo | Kick | FIFA,Sports
+Tennis,Racket | Federer | Wimbledon | Court | Net,Sports
+Squash,Jahangir Khan | Wall | Racket | Jansher | Court,Sports
+Badminton,Shuttlecock | Racket | Net | Chirya | Shuttle,Sports
+Boxing,Punch | Gloves | Ring | Muhammad Ali | Knockout,Sports
+Wrestling,Kushti | Pin | Pehalwan | Gama | Akhara,Sports
+Kabaddi,Punjab | Breath | Touch | Raid | Village,Sports
+Polo,Horse | Mallet | Shandur | Gilgit | Ghora,Sports
+Golf,Hole | Club | Tiger Woods | Course | Putt,Sports
+Swimming,Pool | Water | Tairna | Dive | Phelps,Sports
+Running,Daurna | Race | Track | Marathon | Bolt,Sports
+Cycling,Bicycle | Cycle | Pedal | Tour | Helmet,Sports
+Volleyball,Net | Spike | Beach | Smash | Serve,Sports
+Basketball,Hoop | NBA | Dribble | Jordan | Basket,Sports
+Snooker,Cue | Table | Pocket | Mohammad Yousaf | Balls,Sports
+Table Tennis,Ping Pong | Paddle | Net | China | Bat,Sports
+Archery,Bow | Arrow | Target | Teer | Kaman,Sports
+Shooting,Gun | Target | Bullet | Rifle | Aim,Sports
+Skiing,Snow | Mountain | Slope | Poles | Naltar,Sports
+Skating,Ice | Skates | Rink | Wheels | Roller,Sports
+Karate,Black Belt | Kick | Chop | Martial Arts | Japan,Sports
+Judo,Throw | Belt | Japanese | Grip | Mat,Sports
+Gymnastics,Flip | Olympics | Balance | Beam | Flexible,Sports
+Badshahi Mosque,Lahore | Aurangzeb | Mughal | Masjid | Red,Historical Places
+Minar-e-Pakistan,Lahore | Resolution | 1940 | Iqbal Park | Tower,Historical Places
+Faisal Mosque,Islamabad | Margalla | Saudi | King | Masjid,Historical Places
+Lahore Fort,Shahi Qila | Akbar | Sheesh Mahal | Mughal | Badshahi,Historical Places
+Shalimar Gardens,Lahore | Shah Jahan | Bagh | Fountains | Mughal,Historical Places
+Rohtas Fort,Jhelum | Sher Shah Suri | Qila | Gates | Walls,Historical Places
+Mohenjo-daro,Indus | Larkana | Sindh | Priest King | Ruins,Historical Places
+Harappa,Indus | Sahiwal | Civilization | Ruins | Ravi,Historical Places
+Taxila,Gandhara | Buddha | Rawalpindi | Museum | Ruins,Historical Places
+Hiran Minar,Sheikhupura | Jahangir | Deer | Tower | Pond,Historical Places
+Katas Raj,Hindu | Temple | Chakwal | Pond | Shiva,Historical Places
+Derawar Fort,Cholistan | Bahawalpur | Desert | Qila | Walls,Historical Places
+Ranikot Fort,Great Wall | Sindh | Jamshoro | Qila | Walls,Historical Places
+Baltit Fort,Hunza | Karimabad | Mir | Qila | Altit,Historical Places
+Altit Fort,Hunza | Karimabad | Mir | Qila | Baltit,Historical Places
+Noor Mahal,Bahawalpur | Nawab | Palace | White | Abbasi,Historical Places
+Wazir Khan Mosque,Lahore | Tiles | Delhi Gate | Shah Jahan | Masjid,Historical Places
+Tomb of Jahangir,Shahdara | Lahore | Nur Jahan | Mughal | Ravi,Historical Places
+Tomb of Jinnah,Mazar-e-Quaid | Karachi | Quaid | White | Founder,Historical Places
+Ziarat Residency,Quaid | Balochistan | Juniper | Last Days | Quetta,Historical Places
+Khyber Pass,Peshawar | Afghanistan | Torkham | Landi Kotal | Mountains,Historical Places
+Clifton Fort,Karachi | Sea | Beach | Cannon | Qila,Historical Places
+Frere Hall,Karachi | British | Sadequain | Library | Victorian,Historical Places
+Mohatta Palace,Karachi | Clifton | Fatima Jinnah | Museum | Pink,Historical Places
+Shahi Qila,Lahore | Mughal | Akbar | Sheesh Mahal | Badshahi,Historical Places
+Doctor,Hospital | Stethoscope | Daktar | Patient | Medicine,Occupations
+Teacher,School | Ustad | Class | Students | Homework,Occupations
+Pilot,Plane | Fly | Cockpit | Airport | Captain,Occupations
+Soldier,Army | Fauji | Gun | Uniform | War,Occupations
+Police,Thana | Chor | Uniform | Arrest | Challan,Occupations
+Lawyer,Wakeel | Court | Case | Black Coat | Client,Occupations
+Judge,Court | Hammer | Verdict | Justice | Jaj,Occupations
+Chef,Cook | Kitchen | Khansama | Hat | Apron,Occupations
+Farmer,Kisan | Fields | Crops | Village | Tractor,Occupations
+Driver,Car | Steering | Chauffeur | Licence | Gaari,Occupations
+Tailor,Darzi | Stitch | Kapray | Silai | Measurement,Occupations
+Barber,Nai | Hair | Haircut | Shave | Salon,Occupations
+Carpenter,Wood | Furniture | Tarkhan | Hammer | Saw,Occupations
+Plumber,Pipe | Leak | Water | Tap | Bathroom,Occupations
+Electrician,Wire | Bijli | Current | Light | Shock,Occupations
+Mechanic,Car | Repair | Engine | Garage | Workshop,Occupations
+Painter,Paint | Brush | Wall | Rang | Colour,Occupations
+Writer,Book | Author | Pen | Novel | Likhna,Occupations
+Artist,Paint | Drawing | Canvas | Brush | Creative,Occupations
+Actor,Film | Drama | Hero | Movie | Acting,Occupations
+Banker,Bank | Money | Paisa | Loan | Account,Occupations
+Accountant,Hisaab | Tax | Numbers | CA | Audit,Occupations
+Scientist,Lab | Experiment | Einstein | Research | Science,Occupations
+Car,Gaari | Drive | Suzuki | Corolla | Four Wheels,Transport
+Bus,Passengers | Stop | Conductor | Big | Daewoo,Transport
+Truck,Goods | Load | Highway | Heavy | Art,Transport
+Bike,Motorcycle | Honda | Seventy | Helmet | Two Wheels,Transport
+Cycle,Pedal | Bicycle | Saikal | Chain | Bell,Transport
+Rickshaw,Three Wheels | Auto | Qingqi | Fare | Tuk Tuk,Transport
+Chingchi,Rickshaw | Qingqi | Motorcycle | Sawari | Cheap,Transport
+Train,Railway | Station | Track | Engine | Rail,Transport
+Airplane,Jahaz | Fly | Airport | Pilot | PIA,Transport
+Boat,Kashti | Water | Row | River | Sail,Transport
+Ship,Sea | Jahaz | Anchor | Port | Captain,Transport
+Van,Hiace | Suzuki | Carry | School | Passengers,Transport
+Taxi,Uber | Careem | Yellow | Fare | Meter,Transport
+Scooter,Vespa | Two Wheels | Kick | Electric | Small,Transport
+Tractor,Farmer | Kisan | Fields | Trolley | Massey,Transport
+Trolley,Luggage | Airport | Push | Cart | Shopping,Transport
+Ambulance,Hospital | Siren | Edhi | Emergency | Patient,Transport
+Fire Truck,Ladder | Water | Siren | Red | Aag,Transport
+Police Car,Siren | Patrol | Thana | Cop | Chase,Transport
+Jeep,Off Road | Army | Four By Four | Safari | Wrangler,Transport
+Helicopter,Propeller | Fly | Blades | Chopper | Army,Transport
+Rocket,Space | Moon | NASA | Launch | Astronaut,Transport
+Metro Bus,Lahore | Corridor | Shahbaz | Track | Station,Transport
+Orange Line,Lahore | Train | Metro | Shahbaz | Track,Transport
+Tonga,Horse | Ghora | Cart | Old Lahore | Kochwan,Transport
+Pen,Ink | Write | Ballpoint | Likhna | Paper,Stationery
+Pencil,Lead | Write | Eraser | Sharpener | Draw,Stationery
+Eraser,Rubber | Mistake | Pencil | Rub | Clean,Stationery
+Sharpener,Pencil | Sharp | Tip | Shavings | Blade,Stationery
+Ruler,Scale | Line | Straight | Measure | Inches,Stationery
+Notebook,Copy | Pages | Lines | Spiral | Homework,Stationery
+Paper,Kaghaz | Sheet | A4 | Page | Print,Stationery
+Glue,Sticky | Stick | Gond | Elfy | UHU,Stationery
+Scissors,Cut | Qainchi | Blades | Sharp | Craft,Stationery
+Marker,Whiteboard | Permanent | Thick | Pen | Dollar,Stationery
+Highlighter,Yellow | Neon | Mark | Underline | Notes,Stationery
+Stapler,Pins | Staple | Punch | Clip | Attach,Stationery
+Pin,Sharp | Prick | Needle | Safety | Board,Stationery
+Clip,Paper | Binder | Hold | Hair | Metal,Stationery
+Tape,Sticky | Scotch | Roll | Seal | Transparent,Stationery
+Calculator,Maths | Numbers | Add | Plus | Casio,Stationery
+Compass,Circle | Direction | North | Needle | Geometry,Stationery
+Protractor,Angle | Degrees | Geometry | Semicircle | Box,Stationery
+File,Documents | Papers | Office | Folder | Computer,Stationery
+Folder,File | Documents | Papers | Computer | Organize,Stationery
+Envelope,Letter | Lifafa | Stamp | Post | Seal,Stationery
+Diary,Secrets | Daily | Write | Notes | Dear,Stationery
+Chart,Paper | Graph | Poster | Project | Pie,Stationery
+Card,Shaadi | Greeting | Eid | Visiting | ID,Stationery
+Ink,Pen | Fountain | Blue | Siyahi | Printer,Stationery
+Red,Laal | Blood | Apple | Danger | Rose,Colors
+Blue,Neela | Sky | Sea | Ocean | Jeans,Colors
+Green,Hara | Pakistan | Grass | Leaves | Flag,Colors
+Yellow,Peela | Banana | Sun | Lemon | Mango,Colors
+Orange,Narangi | Fruit | Carrot | Kinnow | Juice,Colors
+Purple,Jamni | Grapes | Brinjal | Violet | Baingani,Colors
+Pink,Gulabi | Girls | Candy Floss | Rose | Light Red,Colors
+Black,Kala | Dark | Night | Coal | Hair,Colors
+White,Safaid | Milk | Snow | Clouds | Shalwar,Colors
+Grey,Silver | Ash | Clouds | Elephant | Hair,Colors
+Brown,Bhoora | Chocolate | Wood | Coffee | Soil,Colors
+Maroon,Dark Red | Bridal | Beetroot | Burgundy | Lehnga,Colors
+Turquoise,Blue | Green | Sea | Feroza | Stone,Colors
+Gold,Sona | Jewelry | Medal | First | Shiny,Colors
+Silver,Chandi | Second | Medal | Metal | Grey,Colors
+Beige,Skin | Khaki | Light Brown | Sand | Camel,Colors
+Cream,Malai | Off White | Butter | Milk | Face,Colors
+Indigo,Rainbow | Blue | Dark | Purple | Neel,Colors
+Violet,Purple | Rainbow | Flower | Jamni | Last,Colors
+Magenta,Pink | Purple | Bright | Printer | Hot,Colors
+Cyan,Blue | Light Blue | Aqua | Printer | Sky,Colors
+Teal,Blue | Green | Duck | Dark | Sea,Colors
+Olive,Green | Oil | Zaitoon | Army | Khaki,Colors
+Navy,Dark Blue | Blazer | Uniform | Sailor | Ship,Colors
+Peach,Aaru | Fruit | Pink | Orange | Light,Colors
+Head,Sar | Brain | Hair | Top | Skull,Body Parts
+Eye,Aankh | See | Look | Glasses | Blink,Body Parts
+Ear,Kaan | Behra | Listen | Jhumka | Sound,Body Parts
+Nose,Naak | Smell | Breathe | Sneeze | Face,Body Parts
+Mouth,Munh | Eat | Talk | Lips | Teeth,Body Parts
+Hand,Haath | Fingers | Palm | Wave | Wrist,Body Parts
+Foot,Pair | Toes | Walk | Shoe | Heel,Body Parts
+Leg,Taang | Walk | Knee | Thigh | Run,Body Parts
+Arm,Baazu | Elbow | Hand | Muscle | Shoulder,Body Parts
+Finger,Ungli | Ring | Point | Nail | Five,Body Parts
+Thumb,Angutha | Finger | Thumbs Up | Short | Like,Body Parts
+Knee,Ghutna | Leg | Bend | Kneel | Joint,Body Parts
+Elbow,Kohni | Arm | Bend | Joint | Funny Bone,Body Parts
+Shoulder,Kandha | Shrug | Arm | Neck | Carry,Body Parts
+Neck,Gardan | Head | Throat | Scarf | Giraffe,Body Parts
+Hair,Baal | Head | Comb | Haircut | Shampoo,Body Parts
+Tooth,Daant | Brush | Dentist | Bite | Cavity,Body Parts
+Tongue,Zubaan | Taste | Lick | Mouth | Talk,Body Parts
+Lip,Hont | Mouth | Lipstick | Smile | Chapstick,Body Parts
+Chin,Thodi | Face | Beard | Jaw | Below,Body Parts
+Cheek,Gaal | Face | Pinch | Dimple | Blush,Body Parts
+Forehead,Matha | Face | Head | Sajda | Eyebrows,Body Parts
+Stomach,Pet | Hungry | Food | Belly | Ache,Body Parts
+Back,Kamar | Spine | Behind | Front | Pain,Body Parts
+Chest,Seena | Heart | Lungs | Front | Breathe,Body Parts
+Ring,Angoothi | Finger | Engagement | Diamond | Nikah,Jewelry
+Necklace,Haar | Neck | Chain | Pendant | Gold,Jewelry
+Bangle,Choori | Wrist | Glass | Kangan | Mehndi,Jewelry
+Earring,Bali | Lobe | Jhumka | Pierce | Stud,Jewelry
+Nose Pin,Nath | Laung | Koka | Pierce | Bride,Jewelry
+Anklet,Payal | Ankle | Foot | Silver | Bells,Jewelry
+Bracelet,Wrist | Kara | Hand | Chain | Charm,Jewelry
+Chain,Zanjeer | Neck | Links | Gold | Lock,Jewelry
+Locket,Pendant | Photo | Open | Neck | Heart,Jewelry
+Tiara,Princess | Head | Crown | Bride | Queen,Jewelry
+Crown,King | Queen | Head | Taj | Throne,Jewelry
+Diamond,Heera | Ring | Sparkle | Expensive | Carat,Jewelry
+Gold,Sona | Yellow | Tola | Medal | Zakat,Jewelry
+Silver,Chandi | Grey | Second | Medal | Spoon,Jewelry
+Pearl,Moti | White | Oyster | Sea | Necklace,Jewelry
+Ruby,Laal | Red | Stone | Gem | Yaqoot,Jewelry
+Emerald,Zamurrad | Green | Stone | Gem | Panna,Jewelry
+Sapphire,Neelam | Blue | Stone | Gem | Precious,Jewelry
+Choker,Neck | Tight | Necklace | Short | Bridal,Jewelry
+Jhumka,Ear | Bell | Earring | Hanging | Bali,Jewelry
+Matha Patti,Forehead | Tikka | Bride | Head | Chain,Jewelry
+Brooch,Pin | Dupatta | Coat | Badge | Safety Pin,Jewelry
+Pendant,Locket | Chain | Necklace | Hang | Neck,Jewelry
+Stud,Ear | Small | Earring | Diamond | Nose,Jewelry
+Hoop,Circle | Ring | Earring | Bali | Round,Jewelry
+Sun,Sooraj | Hot | Day | Light | Morning,Nature
+Moon,Chaand | Night | Eid | Crescent | Full,Nature
+Star,Sitara | Night | Twinkle | Sky | Shine,Nature
+Sky,Aasmaan | Blue | Clouds | Up | Birds,Nature
+Cloud,Baadal | Sky | White | Rain | Grey,Nature
+Rain,Baarish | Water | Umbrella | Monsoon | Drops,Nature
+Snow,Barf | White | Cold | Murree | Winter,Nature
+Wind,Hawa | Blow | Air | Breeze | Kite,Nature
+Storm,Toofan | Thunder | Lightning | Wind | Cyclone,Nature
+River,Darya | Indus | Ravi | Flow | Bridge,Nature
+Sea,Samandar | Beach | Waves | Salty | Clifton,Nature
+Ocean,Samandar | Pacific | Atlantic | Deep | Whale,Nature
+Lake,Jheel | Saiful Muluk | Boat | Still | Water,Nature
+Pond,Talab | Small | Ducks | Frogs | Village,Nature
+Mountain,Pahar | K2 | Everest | Peak | Climb,Nature
+Hill,Pahari | Small | Slope | Murree | Climb,Nature
+Valley,Waadi | Swat | Hunza | Between | Mountains,Nature
+Forest,Jungle | Trees | Animals | Wood | Dense,Nature
+Tree,Darakht | Leaves | Branches | Trunk | Roots,Nature
+Flower,Phool | Rose | Petals | Smell | Garden,Nature
+Grass,Ghaas | Green | Lawn | Cow | Field,Nature
+Leaf,Patta | Green | Branch | Autumn | Fall,Nature
+Sand,Rait | Beach | Desert | Thar | Castle,Nature
+Rock,Pathar | Hard | Boulder | Heavy | Throw,Nature
+Stone,Pathar | Hard | Pebble | Throw | Kidney,Nature
+TV,Television | Remote | Channel | News | Cricket,Electronics
+Radio,FM | Station | News | Commentary | Signal,Electronics
+Computer,PC | Monitor | Desktop | Internet | Windows,Electronics
+Laptop,Computer | Portable | Lap | Apple | Charger,Electronics
+Mobile,Phone | Call | Message | Smartphone | iPhone,Electronics
+Tablet,iPad | Big Phone | Touch | Screen | Kids,Electronics
+Camera,Photo | Picture | Click | Lens | Selfie,Electronics
+Speaker,Sound | Loud | Volume | Bluetooth | Bass,Electronics
+Headphones,Ears | Listen | Wire | Bluetooth | Earphones,Electronics
+Mouse,Click | Cursor | Computer | Scroll | Chooha,Electronics
+Keyboard,Type | Keys | Letters | Computer | Buttons,Electronics
+Printer,Print | Paper | Ink | Copy | Office,Electronics
+Scanner,Scan | Copy | Document | PDF | Barcode,Electronics
+Fan,Pankha | Ceiling | Air | Spin | Garmi,Electronics
+AC,Air Conditioner | Cold | Cool | Summer | Bill,Electronics
+Heater,Warm | Garam | Winter | Gas | Cold,Electronics
+Fridge,Refrigerator | Cold | Freezer | Ice | Kitchen,Electronics
+Oven,Bake | Cake | Kitchen | Hot | Roti,Electronics
+Microwave,Heat | Garam | Leftovers | Popcorn | Kitchen,Electronics
+Iron,Istri | Clothes | Press | Wrinkles | Kapray,Electronics
+Blender,Shake | Mix | Smoothie | Lassi | Grind,Electronics
+Toaster,Bread | Toast | Breakfast | Pop | Slice,Electronics
+Juicer,Juice | Fruit | Orange | Squeeze | Fresh,Electronics
+Watch,Ghari | Wrist | Time | Hands | Smartwatch,Electronics
+Clock,Ghari | Wall | Time | Alarm | Tick,Electronics
+Hammer,Hathora | Nail | Hit | Bang | Carpenter,Tools
+Nail,Keel | Hammer | Sharp | Wall | Wood,Tools
+Screw,Twist | Screwdriver | Bolt | Turn | Wood,Tools
+Screwdriver,Turn | Twist | Bolt | Tool | Tighten,Tools
+Wrench,Spanner | Nut | Bolt | Tighten | Plumber,Tools
+Pliers,Plas | Grip | Wire | Bend | Electrician,Tools
+Saw,Wood | Cut | Teeth | Carpenter | Aari,Tools
+Drill,Hole | Wall | Bit | Screw | Machine,Tools
+Axe,Kulhari | Wood | Chop | Tree | Lumberjack,Tools
+Shovel,Dig | Soil | Sand | Belcha | Hole,Tools
+Spade,Dig | Garden | Soil | Cards | Hole,Tools
+Rake,Leaves | Garden | Grass | Teeth | Collect,Tools
+Hoe,Farmer | Field | Soil | Kudaal | Weeds,Tools
+Ladder,Climb | Steps | Seedhi | Roof | Up,Tools
+Tape Measure,Inch | Length | Feet | Darzi | Roll,Tools
+Level,Bubble | Straight | Flat | Spirit | Wall,Tools
+Chisel,Hammer | Wood | Carve | Stone | Sculpt,Tools
+File,Rub | Smooth | Nails | Rough | Metal,Tools
+Clamp,Hold | Tight | Squeeze | Grip | Table,Tools
+Vice,Grip | Hold | Table | Jaws | Workshop,Tools
+Cutter,Blade | Box | Paper | Sharp | Slide,Tools
+Scissors,Kainchi | Cut | Paper | Cloth | Blades,Tools
+Knife,Chhuri | Cut | Kitchen | Sharp | Blade,Tools
+Torch,Light | Battery | Dark | Loadshedding | Flashlight,Tools
+Brush,Paint | Teeth | Hair | Bristles | Wall,Tools
+Cotton,Kapaas | Summer | Plant | White | Crop,Fabrics
+Silk,Resham | Worm | Shiny | Smooth | China,Fabrics
+Wool,Oon | Sheep | Sweater | Winter | Knit,Fabrics
+Lawn,Summer | Suit | Print | Sale | Brand,Fabrics
+Linen,Flax | Wrinkle | Summer | Sheets | Breathable,Fabrics
+Khaddar,Winter | Thick | Handloom | Coarse | Suit,Fabrics
+Velvet,Makhmal | Soft | Smooth | Winter | Shawl,Fabrics
+Chiffon,Sheer | Dupatta | Light | Flowy | Thin,Fabrics
+Georgette,Sheer | Crinkle | Dupatta | Flowy | Saree,Fabrics
+Denim,Jeans | Blue | Jacket | Thick | Cotton,Fabrics
+Leather,Chamra | Shoes | Jacket | Belt | Animal,Fabrics
+Polyester,Synthetic | Plastic | Sweat | Wrinkle | Cheap,Fabrics
+Rayon,Synthetic | Viscose | Silk | Shiny | Smooth,Fabrics
+Satin,Shiny | Smooth | Silky | Glossy | Pillowcase,Fabrics
+Net,Holes | Mesh | Dupatta | Sheer | Fishing,Fabrics
+Banarasi,Saree | Zari | Gold | India | Bridal,Fabrics
+Jamawar,Shawl | Kashmir | Pattern | Bridal | Embroidered,Fabrics
+Organza,Sheer | Stiff | Dupatta | Crisp | Shiny,Fabrics
+Pashmina,Shawl | Kashmir | Goat | Winter | Warm,Fabrics
+Jute,Sack | Bori | Rope | Bengal | Rough,Fabrics
+Nylon,Synthetic | Stretch | Rope | Plastic | Socks,Fabrics
+Spandex,Stretch | Lycra | Tight | Elastic | Gym,Fabrics
+Fleece,Sheep | Warm | Winter | Jacket | Fuzzy,Fabrics
+Corduroy,Lines | Ridges | Trousers | Ribbed | Thick,Fabrics
+Canvas,Painting | Tent | Shoes | Thick | Bag,Fabrics
+Water,Paani | Thirsty | Bottle | Glass | Tap,Beverages
+Milk,Doodh | Cow | White | Buffalo | Calcium,Beverages
+Tea,Chai | Doodh Patti | Cup | Kettle | Biscuit,Beverages
+Coffee,Caffeine | Beans | Brown | Bitter | Nescafe,Beverages
+Juice,Orange | Fresh | Squeeze | Fruit | Apple,Beverages
+Soda,Fizzy | Coke | Pepsi | Bottle | Gas,Beverages
+Lassi,Dahi | Yogurt | Punjab | Meethi | Namkeen,Beverages
+Shake,Milk | Banana | Mango | Blender | Thick,Beverages
+Smoothie,Blender | Fruit | Yogurt | Thick | Healthy,Beverages
+Lemonade,Nimbu | Lemon | Sour | Sugar | Pani,Beverages
+Squash,Concentrate | Orange | Dilute | Bottle | Mix,Beverages
+Sherbet,Sharbat | Iftar | Sugar | Pink | Garmi,Beverages
+Rooh Afza,Hamdard | Red | Sharbat | Ramzan | Iftar,Beverages
+Kanji,Carrot | Black Carrot | Fermented | Purple | Winter,Beverages
+Sattu,Chana | Flour | Roasted | Punjab | Summer,Beverages
+Buttermilk,Chaach | Lassi | Dahi | Namkeen | Butter,Beverages
+Green Tea,Healthy | Leaves | Kehwa | Weight Loss | Bag,Beverages
+Kashmiri Chai,Pink | Gulabi | Pista | Kashmir | Shadi,Beverages
+Doodh Soda,Milk | Sprite | Lahore | Fizzy | Bottle,Beverages
+Cold Drink,Coke | Pepsi | Fizzy | Bottle | Soda,Beverages
+Energy Drink,Red Bull | Sting | Caffeine | Can | Wings,Beverages
+Soup,Yakhni | Chicken | Corn | Bowl | Winter,Beverages
+Broth,Yakhni | Bones | Stock | Chicken | Soup,Beverages
+Cider,Apple | Fermented | Vinegar | Autumn | Juice,Beverages
+Cocoa,Chocolate | Hot | Powder | Milk | Brown,Beverages
+Gulab Jamun,Shira | Brown | Round | Syrup | Mithai,Desserts
+Barfi,Mithai | Square | Khoya | Silver | Box,Desserts
+Jalebi,Orange | Spiral | Syrup | Crispy | Fried,Desserts
+Laddu,Round | Ball | Yellow | Motichoor | Mithai,Desserts
+Halwa,Suji | Gajar | Ghee | Puri | Nashta,Desserts
+Kheer,Rice | Chawal | Doodh | Milk | Eid,Desserts
+Custard,Yellow | Powder | Milk | Fruit | Jelly,Desserts
+Cake,Birthday | Candles | Bake | Slice | Icing,Desserts
+Pastry,Cream | Slice | Bakery | Layers | Small,Desserts
+Ice Cream,Cone | Cold | Kulfi | Scoop | Summer,Desserts
+Chocolate,Cadbury | Dairy Milk | Brown | Cocoa | Bar,Desserts
+Cookie,Chocolate Chip | Bake | Crunchy | Jar | Round,Desserts
+Biscuit,Chai | Dip | Packet | Rusk | Peek Freans,Desserts
+Brownie,Chocolate | Square | Fudge | Bake | Gooey,Desserts
+Pudding,Bread | Caramel | Wobbly | Bowl | Spoon,Desserts
+Trifle,Custard | Jelly | Cream | Sponge | Layers,Desserts
+Falooda,Seviyan | Basil Seeds | Ice Cream | Rose | Glass,Desserts
+Ras Malai,Cream | Milk | Pista | Doodh | Spongy,Desserts
+Cham Cham,Bengali | Oval | Coconut | Pink | Syrup,Desserts
+Sohan Halwa,Multan | Tin | Nuts | Hard | Ghee,Desserts
+Patisa,Flaky | Sohan Papdi | Square | Box | Thread,Desserts
+Kalakand,Milk | Khoya | Paneer | Square | Mithai,Desserts
+Zarda,Rice | Yellow | Colorful | Shadi | Chawal,Desserts
+Sheer Khurma,Eid | Seviyan | Dates | Khajoor | Milk,Desserts
+Sawaiyan,Seviyan | Eid | Vermicelli | Noodles | Breakfast,Desserts
+Mother,Ammi | Maa | Jannat | Feet | Mom,Family Relations
+Father,Abbu | Abba | Dad | Baba | Papa,Family Relations
+Brother,Bhai | Bhaiya | Sibling | Bro | Elder,Family Relations
+Sister,Behen | Baji | Apa | Sibling | Sis,Family Relations
+Son,Beta | Boy | Child | Parents | Daughter,Family Relations
+Daughter,Beti | Girl | Child | Parents | Son,Family Relations
+Grandfather,Dada | Nana | Old | Baba | Pota,Family Relations
+Grandmother,Dadi | Nani | Old | Amma | Stories,Family Relations
+Uncle,Chacha | Mamu | Khalu | Phupha | Taya,Family Relations
+Aunt,Khala | Phuphi | Chachi | Mumani | Tai,Family Relations
+Cousin,Uncle | Aunt | Chachazad | Khalazad | Child,Family Relations
+Nephew,Bhatija | Bhanja | Brother | Sister | Boy,Family Relations
+Niece,Bhatiji | Bhanji | Brother | Sister | Girl,Family Relations
+Husband,Shohar | Miyan | Wife | Married | Nikah,Family Relations
+Wife,Biwi | Begum | Husband | Married | Nikah,Family Relations
+Father-in-law,Sasur | Husband | Wife | Abbu | Married,Family Relations
+Mother-in-law,Saas | Husband | Wife | Ammi | Bahu,Family Relations
+Brother-in-law,Saala | Devar | Behnoi | Jeeja | Spouse,Family Relations
+Sister-in-law,Saali | Nand | Bhabhi | Spouse | Married,Family Relations
+Step-mother,Sauteli | Ammi | Second | Remarried | Father,Family Relations
+Step-father,Sautela | Abbu | Second | Remarried | Mother,Family Relations
+Grandson,Pota | Nawasa | Dada | Nana | Boy,Family Relations
+Granddaughter,Poti | Nawasi | Dadi | Nani | Girl,Family Relations
+Ancestor,Forefathers | Lineage | Past | Generations | Buzurg,Family Relations
+Relative,Rishtedar | Family | Khandan | Cousin | Blood,Family Relations
+Abu Bakr,Siddiq | First | Caliph | Cave | Hijrah,Sahaba
+Umar,Farooq | Second | Caliph | Justice | Jerusalem,Sahaba
+Uthman,Ghani | Third | Caliph | Quran | Dhun Nurayn,Sahaba
+Ali,Fourth | Haider | Fatima | Cousin | Khaybar,Sahaba
+Bilal,Azaan | Muezzin | Ahad | Slave | Abyssinia,Sahaba
+Khalid,Sword | Saifullah | Walid | General | Undefeated,Sahaba
+Salman,Farsi | Persia | Trench | Khandaq | Seeker,Sahaba
+Abu Huraira,Cats | Kitten | Hadith | Narrator | Memory,Sahaba
+Aisha,Wife | Abu Bakr | Hadith | Mother | Siddiqa,Sahaba
+Khadija,First | Wife | Merchant | Business | Believer,Sahaba
+Fatima,Daughter | Zahra | Ali | Hassan | Hussain,Sahaba
+Hassan,Grandson | Ali | Fatima | Elder | Hussain,Sahaba
+Hussain,Karbala | Grandson | Muharram | Ashura | Ali,Sahaba
+Zaid,Adopted | Haritha | Mutah | Usamah | Freed,Sahaba
+Talha,Uhud | Shield | Hand | Ashara | Ubaidullah,Sahaba
+Zubair,Awwam | Hawari | Disciple | Asma | Ashara,Sahaba
+Saad,Waqqas | Arrow | Archer | Qadisiyyah | Persia,Sahaba
+Abdur Rahman,Awf | Rich | Merchant | Wealth | Ashara,Sahaba
+Anas,Servant | Malik | Hadith | Ten Years | Young,Sahaba
+Abdullah,Servant | Allah | Masud | Umar | Abbas,Sahaba
+Muadh,Jabal | Yemen | Knowledge | Halal | Haram,Sahaba
+Usamah,Zaid | Young | Commander | Army | Beloved,Sahaba
+Ammar,Yasir | Sumayyah | Torture | Martyr | Siffin,Sahaba
+Suhaib,Rumi | Roman | Wealth | Profitable | Hijrah,Sahaba
+Abu Ubaidah,Ameen | Trustworthy | Jarrah | Syria | Plague,Sahaba
+Hamza,Uncle | Lion | Uhud | Shaheed | Hunter,Sahaba
+Abbas,Uncle | Zamzam | Water | Pilgrims | Badr,Sahaba
+Jafar,Wings | Tayyar | Abyssinia | Najashi | Ali,Sahaba
+Adam,First | Human | Hawwa | Clay | Jannah,Prophets
+Noah,Nuh | Ark | Flood | Boat | Animals,Prophets
+Abraham,Ibrahim | Fire | Kaaba | Sacrifice | Khalilullah,Prophets
+Ishmael,Ismail | Ibrahim | Zamzam | Hajra | Sacrifice,Prophets
+Isaac,Ishaq | Ibrahim | Sarah | Yaqub | Son,Prophets
+Jacob,Yaqub | Yusuf | Israel | Twelve Sons | Ishaq,Prophets
+Joseph,Yusuf | Well | Brothers | Egypt | Dream,Prophets
+Moses,Musa | Firaun | Staff | Sea | Egypt,Prophets
+Aaron,Harun | Musa | Brother | Bani Israel | Firaun,Prophets
+David,Dawud | Jalut | Zabur | Iron | Sulaiman,Prophets
+Solomon,Sulaiman | Jinn | Ants | Hudhud | Dawud,Prophets
+Job,Ayyub | Sabr | Patience | Illness | Disease,Prophets
+Jonah,Yunus | Whale | Fish | Belly | Dua,Prophets
+Elijah,Ilyas | Al-Yasa | Baal | Idols | Bani Israel,Prophets
+Elisha,Al-Yasa | Ilyas | Elijah | Successor | Bani Israel,Prophets
+Zachariah,Zakariya | Yahya | Maryam | Old Age | Mihrab,Prophets
+John,Yahya | Zakariya | Isa | Cousin | Son,Prophets
+Jesus,Isa | Maryam | Masih | Injeel | Return,Prophets
+Muhammad,Last Prophet | Makkah | Madinah | Quran | Abdullah,Prophets
+Lot,Lut | Sodom | Ibrahim | Wife | Stones,Prophets
+Shuaib,Madyan | Scales | Weights | Cheating | Trade,Prophets
+Hud,Aad | Wind | Iram | Storm | Tall,Prophets
+Saleh,Thamud | Camel | Rock | Houses | Earthquake,Prophets
+Idris,Enoch | Pen | Writing | Tailor | Raised,Prophets
+Dhul-Kifl,Sabr | Patience | Promise | Pledge | Quran,Prophets
+Yunus,Whale | Fish | Machli | Belly | Dua,Prophets
+Allah,God | Khuda | Rab | One | Creator,Islamic Terms
+Islam,Religion | Deen | Muslim | Quran | Peace,Islamic Terms
+Muslim,Islam | Believer | Musalman | Follower | Ummah,Islamic Terms
+Quran,Book | Kitab | Recite | Surah | Allah,Islamic Terms
+Hadith,Sayings | Prophet | Bukhari | Narration | Sunnah,Islamic Terms
+Sunnah,Prophet | Practice | Way | Hadith | Nafl,Islamic Terms
+Salah,Namaz | Prayer | Five | Sajda | Pray,Islamic Terms
+Zakat,Charity | Poor | Wealth | 2.5 Percent | Pillar,Islamic Terms
+Sawm,Roza | Fast | Ramadan | Hungry | Sehri,Islamic Terms
+Hajj,Makkah | Kaaba | Pilgrimage | Ihram | Arafat,Islamic Terms
+Shahada,Kalma | Testimony | La Ilaha | Witness | Pillar,Islamic Terms
+Iman,Faith | Belief | Momin | Heart | Trust,Islamic Terms
+Taqwa,Fear | Piety | Muttaqi | Mindful | God-Conscious,Islamic Terms
+Dua,Pray | Ask | Hands | Ameen | Request,Islamic Terms
+Dhikr,Tasbeeh | Remember | SubhanAllah | Beads | Allah,Islamic Terms
+Jannah,Heaven | Paradise | Garden | Reward | Firdaus,Islamic Terms
+Jahannam,Hell | Fire | Dozakh | Aag | Punishment,Islamic Terms
+Ramadan,Roza | Fasting | Month | Iftar | Sehri,Islamic Terms
+Eid,Fitr | Adha | Mubarak | Sewaiyan | Celebration,Islamic Terms
+Kaaba,Makkah | Black | Tawaf | Qibla | House,Islamic Terms
+Mecca,Kaaba | Hajj | Saudi | Holy | Birthplace,Islamic Terms
+Medina,Masjid Nabawi | Hijrah | Saudi | Ansar | Green Dome,Islamic Terms
+Masjid,Mosque | Namaz | Minaret | Azan | Pray,Islamic Terms
+Imam,Leads | Namaz | Masjid | Front | Molvi,Islamic Terms
+Wudu,Wash | Water | Namaz | Ablution | Hands,Islamic Terms
+Mecca,Kaaba | Hajj | Saudi | Qibla | Haram,Islamic Locations
+Medina,Prophet | Hijrah | Nabawi | Saudi | Ansar,Islamic Locations
+Jerusalem,Aqsa | Quds | Palestine | Dome | Isra,Islamic Locations
+Kaaba,Black Stone | Tawaf | Cube | Qibla | Makkah,Islamic Locations
+Masjid al-Haram,Kaaba | Makkah | Biggest | Tawaf | Hajj,Islamic Locations
+Masjid al-Nabawi,Madinah | Green Dome | Prophet | Rawdah | Second,Islamic Locations
+Al-Aqsa,Jerusalem | Palestine | Quds | First Qibla | Isra,Islamic Locations
+Dome of the Rock,Golden | Jerusalem | Aqsa | Miraj | Palestine,Islamic Locations
+Mount Arafat,Hajj | Day | Jabal Rahmah | Standing | Khutbah,Islamic Locations
+Mina,Tents | Jamarat | Stoning | Hajj | Shaytan,Islamic Locations
+Muzdalifah,Pebbles | Night | Hajj | Open Sky | Between,Islamic Locations
+Safa,Marwa | Sa'i | Hajar | Hill | Run,Islamic Locations
+Marwa,Safa | Sa'i | Hajar | Hill | Seven,Islamic Locations
+Zamzam,Water | Well | Ismail | Hajar | Holy Water,Islamic Locations
+Cave Hira,Wahi | Jibreel | Iqra | Jabal Noor | First,Islamic Locations
+Cave Thawr,Spider | Abu Bakr | Hijrah | Hide | Quraysh,Islamic Locations
+Uhud,Battle | Archers | Hamza | Mountain | Madinah,Islamic Locations
+Badr,Battle | First | 313 | Ramadan | Victory,Islamic Locations
+Quba,First | Masjid | Madinah | Hijrah | Umrah,Islamic Locations
+Jannat al-Baqi,Graveyard | Madinah | Qabristan | Sahaba | Buried,Islamic Locations
+Mount Uhud,Battle | Archers | Hamza | Madinah | Mountain,Islamic Locations
+Hudaybiyyah,Treaty | Sulh | Peace | Ten Years | Umrah,Islamic Locations
+Taif,Stones | Hills | Roses | Thaqif | Cool,Islamic Locations
+Tabuk,Expedition | Romans | Last | Heat | Saudi,Islamic Locations
+Khaybar,Fort | Battle | Ali | Gate | Dates,Islamic Locations
+Yemen,Sanaa | Saba | Coffee | Arabia | Aden,Islamic Locations
+Damascus,Syria | Umayyad | Sham | Capital | Oldest,Islamic Locations
+Baghdad,Iraq | Abbasid | Tigris | Wisdom | Caliphs,Islamic Locations
+Cordoba,Spain | Andalus | Mezquita | Umayyad | Mosque,Islamic Locations
+Salahuddin,Ayyubi | Crusades | Jerusalem | Sultan | Kurdish,Muslim Historical Figures
+Ibn Sina,Avicenna | Medicine | Canon | Doctor | Persian,Muslim Historical Figures
+Al-Khwarizmi,Algebra | Algorithm | Maths | Baghdad | Numbers,Muslim Historical Figures
+Ibn Rushd,Averroes | Philosopher | Aristotle | Cordoba | Judge,Muslim Historical Figures
+Al-Ghazali,Ihya | Sufism | Philosophy | Hujjatul Islam | Tus,Muslim Historical Figures
+Ibn Battuta,Traveller | Morocco | Journey | Rihla | Explorer,Muslim Historical Figures
+Al-Biruni,Earth | Radius | India | Ghazni | Astronomer,Muslim Historical Figures
+Ibn Khaldun,Muqaddimah | Sociology | History | Tunisia | Asabiyyah,Muslim Historical Figures
+Harun al-Rashid,Abbasid | Caliph | Baghdad | Wisdom | Golden Age,Muslim Historical Figures
+Tariq ibn Ziyad,Gibraltar | Spain | Boats | Burn | Andalus,Muslim Historical Figures
+Umar ibn Abdul Aziz,Umayyad | Fifth | Caliph | Just | Zakat,Muslim Historical Figures
+Imam Bukhari,Sahih | Hadith | Bukhara | Uzbekistan | Collection,Muslim Historical Figures
+Imam Muslim,Sahih | Hadith | Nishapur | Second | Bukhari,Muslim Historical Figures
+Imam Abu Hanifa,Hanafi | Fiqh | Madhab | Kufa | Numan,Muslim Historical Figures
+Imam Malik,Muwatta | Madinah | Madhab | Fiqh | North Africa,Muslim Historical Figures
+Imam Shafi,Madhab | Fiqh | Egypt | Usul | Third,Muslim Historical Figures
+Imam Ahmad,Hanbal | Musnad | Baghdad | Madhab | Fourth,Muslim Historical Figures
+Al-Farabi,Second Teacher | Philosophy | Logic | Aristotle | Kazakhstan,Muslim Historical Figures
+Ibn Taymiyyah,Damascus | Shaykh al-Islam | Mongols | Hanbali | Fatwa,Muslim Historical Figures
+Al-Razi,Rhazes | Medicine | Doctor | Smallpox | Chemistry,Muslim Historical Figures
+Omar Khayyam,Poet | Rubaiyat | Calendar | Maths | Persian,Muslim Historical Figures
+Fatima al-Fihri,University | Morocco | Fez | Qarawiyyin | Founder,Muslim Historical Figures
+Nusaybah,Uhud | Shield | Sahabiyah | Warrior | Umm Ammarah,Muslim Historical Figures
+Sultan Mehmed,Constantinople | Ottoman | Fatih | Conqueror | Istanbul,Muslim Historical Figures
