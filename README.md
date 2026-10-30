@@ -133,7 +133,9 @@ The checked-in seed is generated from the original `data/seed/games.json` and `d
 
 Before future schema/data changes, export a backup with `npx wrangler d1 export jorbox --remote --output=<private-backup-path>`. Database exports contain private session/identity data and should stay outside the repository.
 
-The GitHub Actions workflow verifies every PR and main push. Deployment on main is enabled only when repository variable `CLOUDFLARE_ENABLED=true`, repository variable `CLOUDFLARE_ACCOUNT_ID`, and secret `CLOUDFLARE_API_TOKEN` are configured. The Cloudflare token needs Workers Scripts Edit and D1 Edit for the target account. Runtime OAuth/cookie secrets stay in Cloudflare; CI does not need them. Automatic deployments apply schema migrations but never rerun the seed. The old GitHub Pages deployment workflow has been replaced with Cloudflare deployment.
+The GitHub Actions workflow verifies every PR and main push. Once the repository secret `CLOUDFLARE_API_TOKEN` exists, every push to main (and every manual run of **Verify and deploy to Cloudflare** on main) applies D1 migrations, deploys the Worker and frontend, and then checks that production serves the new release; without the secret the run stays green and its summary says it was not deployed. The token needs Workers Scripts Edit and D1 Edit for the account. Set the repository variable `CLOUDFLARE_ACCOUNT_ID` only if the token covers more than one account. Runtime OAuth/cookie secrets stay in Cloudflare; CI does not need them. Automatic deployments apply schema migrations but never rerun the seed.
+
+GitHub Pages no longer hosts the app (it cannot run the backend). The manual **Retire the GitHub Pages copy** workflow replaces the old static copy at theshabab.github.io/jorbox with a page that redirects to the Cloudflare site; to remove it entirely, unpublish it under the repository's Settings → Pages.
 
 A daily Worker cron deletes expired sessions, OAuth states, and rate-limit buckets. Cards, votes, and audit history are retained.
 

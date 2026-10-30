@@ -34,16 +34,50 @@ jobs:
         with:
           name: admin-ui-screenshots
           path: .ui-artifacts/
+          # The folder name starts with a dot, which upload-artifact skips by default.
+          include-hidden-files: true
           if-no-files-found: ignore
+      # Deploys whenever the CLOUDFLARE_API_TOKEN repository secret exists: every
+      # push to main, and manual runs of this workflow on main. Without the secret
+      # the run stays green and its summary says deployment was skipped.
+      - name: Check deployment credentials
+        id: deploy
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::Not deployed: add the CLOUDFLARE_API_TOKEN repository secret to deploy to Cloudflare."
+            echo "### Not deployed" >> "$GITHUB_STEP_SUMMARY"
+            echo "Add the \`CLOUDFLARE_API_TOKEN\` repository secret (Workers Scripts Edit and D1 Edit) to deploy main to Cloudflare." >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Apply D1 migrations
-        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && vars.CLOUDFLARE_ENABLED == 'true'
+        if: steps.deploy.outputs.enabled == 'true'
         run: npm run db:migrate:remote
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          # Optional: Wrangler finds the account itself when the token covers one.
           CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
       - name: Deploy Worker and frontend
-        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && vars.CLOUDFLARE_ENABLED == 'true'
+        if: steps.deploy.outputs.enabled == 'true'
         run: npx wrangler deploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+      # Fails the run if production is not serving this release's API.
+      - name: Check production
+        if: steps.deploy.outputs.enabled == 'true'
+        run: |
+          origin=https://jorbox.haseebshah.workers.dev
+          for attempt in 1 2 3 4 5 6; do
+            if curl -fsS "$origin/api/games" | grep -q '"revealDescription"' &&
+              [ "$(curl -s -o /dev/null -w '%{http_code}' "$origin/api/admin/suggestions")" = 401 ]; then
+              echo "### Deployed to $origin" >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo "::error::$origin is not serving this release."
+          exit 1
