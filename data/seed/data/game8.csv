@@ -34,14 +34,14 @@ SAFE <---> GETS YOU KILLED,Write a piece of advice that is this likely to get yo
 NOT A SCAM <---> TOTALLY A SCAM,Write a piece of advice that is this likely to be part of an investment scam,Writing
 NOT COOL <---> COOLEST IN TOWN,Write a piece of advice that is this likely to make you the coolest person in town,Writing
 10 YEARS OLD <---> 100 YEARS OLD,Write a piece of advice that would be useful to someone this many years old,Writing
-NOT HELPFUL <---> VERY MAGICALLY HELPFUL,Write a piece of advice that would be this helpful when ruling a magical kingdom,Writing
+NOT HELPFUL <---> VERY HELPFUL,Write a piece of advice that would be this helpful when ruling a kingdom,Writing
 NOT MEAN <---> VERY MEAN,Make up a name for a restaurant where the waiters are this mean to you,Writing
 NOT LIKELY <---> VERY LIKELY,Make up a name for a restaurant that's this likely to be shut down by the food authority,Writing
 NOT POPULAR <---> COOL TEENS LUV IT!,Make up a name for a restaurant that is this popular with cool teens,Writing
 DEF OFFERS MEAT <---> ONLY VEGETARIAN,Make up a name for a restaurant that is this likely to only offer vegetarian options,Writing
 10 MINUTES <---> 100 MINUTES,Make up a name for a restaurant where you'd have to wait this many minutes to get a table,Writing
 BARELY HATE IT <---> REALLY REALLY HATE IT,Make up a name for a restaurant where the waitstaff hates working there this much,Writing
-NOT LIKELY <---> WANTED!!!,Make up a name of a person who is this likely to be on a wanted poster in the wild west,Writing
+NOT LIKELY <---> WANTED!!!,Make up a name of a person who is this likely to be on a police wanted poster,Writing
 THE 1950s <---> THE 2040s,Make up a title for a novel set during this decade,Writing
 NOT LIKELY <---> VERY LIKELY,Make up a title for a book that is this likely to be in a famous book club,Writing
 NORMAL & BORING <---> EPIC FANTASY,Make up a title for a book that is this likely to be an epic fantasy,Writing
@@ -74,10 +74,10 @@ THEY’RE LYING <---> THEY READ IT,Make up a title for a book that people are th
 NOT LIKELY <---> VERY DADLY,Make up a title for a book that you’re this likely to buy for a dad,Writing
 NOT A SPY <---> TOTAL SPY,Make up a name for someone who is this likely to be a spy,Writing
 NOT LIKELY <---> STORYBOOK HERO,Make up a name for a person who is this likely to be the hero of a children's storybook,Writing
-NOT A COWBOY <---> TOTAL COWBOY,Write a piece of advice that is this likely to have been written by a cowboy,Writing
+NOT A SHEPHERD <---> TOTAL SHEPHERD,Write a piece of advice that is this likely to have been written by a mountain shepherd,Writing
 NOT A CHEF <---> TRES CHEF,Write a piece of advice that is this likely to have been written by a French chef,Writing
 INACCURATE <---> ACCURATE,Make up a title for a textbook that is probably this accurate,Writing
-NOT MAGICAL <---> MAGICALLY MAGICAL,Make up a name for a fantasy land that is this magical,Writing
+NOT DREAMY <---> TOTALLY DREAMY,Make up a name for a fairy-tale land that is this dreamy,Writing
 HUH? <---> PROBABLY REAL,Make up a name for a country that's this realistic-sounding,Writing
 INEXPENSIVE <---> VERY EXPENSIVE,Make up a name for a perfume that costs this much,Writing
 SMELLS FINE <---> SMELLS TERRIBLE,Make up a name for a perfume that would smell this terrible,Writing
@@ -188,7 +188,7 @@ TERRIBLE <---> VERY HELPFUL,Write a piece of advice that would be this helpful f
 NOT MANLY <---> TOO MANLY,Make up a name for a cologne that’s this manly,Writing
 ADULT NAMED IT <---> CHILD NAMED IT,Make up a name for a perfume that is this likely to have been named by a child,Writing
 AHMEDS HATE IT <---> AHMEDS LOVE IT,Make up a name for a cologne that is this popular with people named Ahmed,Writing
-NO MAGIC <---> FULL OF MAGIC,Make up a name for a perfume that is this magical,Writing
+NOT FANCY <---> SUPER FANCY,Make up a name for a perfume that is this fancy,Writing
 AWFEL SPELER <---> GREAT SPELLER,Write the first line of a rishta profile for someone who is this good at spelling,Writing
 TOO EASY <---> TOO HARD,Make up a title for a trivia game that is this challenging,Writing
 SUPER CHILL <---> VERY STRICT,Make up a nickname for a boss who is this strict,Writing
@@ -244,7 +244,6 @@ CAN'T TALK <---> TOTALLY TALKS,Draw a pet that is this likely to be able to talk
 UNCOOL OWNER <---> VERY COOL OWNER,Draw a pet that probably has an owner that is this cool,Drawing
 LEGAL <---> VERY ILLEGAL,Draw a pet that would be this illegal to own,Drawing
 NOT GREAT <---> SPORTS PRO,Draw a pet that is this great at sports,Drawing
-NOT LIKELY <---> PEE EVERYWHERE,Draw a pet that is this likely to pee in your house,Drawing
 NOT FLUFFY <---> VERY FLUFFY,Draw a pet that is this fluffy,Drawing
 GOOD PET <---> DISAPPOINTING PET,Draw a pet that is this disappointing,Drawing
 HAPPY <---> VERY SAD,Draw a clown that is this sad,Drawing
@@ -257,7 +256,6 @@ WEAK <---> VERY MUSCULAR,Draw a clown that is this muscular,Drawing
 NOT SHADY <---> VERY VERY SHADY,Draw a bird that looks this shady,Drawing
 NOT AFRAID <---> TERRIFIED OF FLYING,Draw a bird that is this afraid of flying,Drawing
 NOT DELICIOUS <---> VERY VERY DELICIOUS,Draw a bird that looks this delicious,Drawing
-NOT LIKELY <---> WILL POOP,Draw a bird that looks this likely to poop on your car,Drawing
 NOT STINKY <---> VERY VERY STINKY,Draw a bird that looks this stinky,Drawing
 NOT ANNOYED <---> VERY VERY ANNOYED,Draw a bird that looks this annoyed,Drawing
 NOT AN AIRLINE <---> DEF AN AIRLINE,Draw a logo for a made-up company that is this likely to be an airline,Drawing
@@ -387,7 +385,7 @@ GRANDMA NAY <---> GRANDMA YAY,Draw a snack that is this likely to be in a grandm
 "JUST A FROG <---> WOW, A PRINCE!",Draw a frog that is this likely to actually be a prince,Drawing
 NO SURPRISE <---> SURPRISE!,Draw a cake that is this likely to have a surprise hidden inside it,Drawing
 EMPTY MOUTH <---> HIDING SOMETHING,Draw a dog that is this likely to be hiding something in its mouth,Drawing
-NO CLUE <---> TECH WIZARD,Draw a monster that is this computer-savvy,Drawing
+NO CLUE <---> TECH GENIUS,Draw a monster that is this computer-savvy,Drawing
 DON’T TRUST <---> OK TO TRUST,Draw the face of a person who is this trustworthy,Drawing
 KINDA COOL <---> WAY NERDY,Draw a truck art design that is this nerdy,Drawing
 NO FUN <---> VERY PLAYFUL,Draw a snake that is this playful,Drawing
@@ -428,7 +426,6 @@ STILL COOL <---> SO EMBARRASSING,Draw a toy that would be this embarrassing for 
 NO CAFFEINE <---> VERY CAFFEINATED,Draw a robot that is this caffeinated,Drawing
 ALL ROBOT <---> ALL TRUCK,Draw a robot that is this far along in turning into a truck,Drawing
 1/2 STAR <---> 5 STARS,Draw a circus clown that would get this many stars in online reviews,Drawing
-NO NEED TO GO <---> EMERGENCY,Draw a clown that has to go to the bathroom this badly,Drawing
 UGLY EYES <---> BEAUTIFUL EYES,Draw a bug with eyes this beautiful,Drawing
 NOT SCARY <---> TERRIFYING,Draw a monster that is this scary from the waist down,Drawing
 EASY TO SHOP <---> IMPOSSIBLE,Draw a clown that is this likely to have trouble buying clown shoes,Drawing

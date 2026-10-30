@@ -104,7 +104,7 @@ Spinach,Palak | Iron | Leaves | Saag | Green,Vegetables
 Cauliflower,Gobhi | White | Aloo Gobi | Florets | Broccoli,Vegetables
 Cabbage,Band Gobhi | Leaves | Round | Coleslaw | Layers,Vegetables
 Carrot,Gajar | Orange | Rabbit | Halwa | Eyes,Vegetables
-Radish,Mooli | White | Paratha | Gas | Root,Vegetables
+Radish,Mooli | White | Paratha | Crunchy | Root,Vegetables
 Turnip,Shaljam | Purple | Root | White | Winter,Vegetables
 Peas,Matar | Green | Pod | Pulao | Round,Vegetables
 Okra,Bhindi | Ladyfinger | Slimy | Green | Fry,Vegetables
@@ -216,7 +216,7 @@ Frog,Maindak | Jump | Pond | Croak | Green,Animals
 Mouse,Choohi | Cheese | Computer | Cat | Small,Animals
 Squirrel,Gilehri | Nuts | Tree | Stripes | Tail,Animals
 Eagle,Uqaab | Shaheen | Iqbal | Prey | Fly,Birds
-Sparrow,Chirya | Small | Brown | Chirp | Jack,Birds
+Sparrow,Chirya | Small | Brown | Chirp | Nest,Birds
 Pigeon,Kabootar | Roof | Message | Grey | Daana,Birds
 Parrot,Tota | Green | Talk | Copy | Mitthu,Birds
 Crow,Kawwa | Black | Caw | Clever | Guest,Birds
@@ -255,7 +255,7 @@ Swimming,Pool | Water | Tairna | Dive | Laps,Sports
 Running,Daurna | Race | Track | Marathon | Sprint,Sports
 Cycling,Bicycle | Cycle | Pedal | Tour | Helmet,Sports
 Volleyball,Net | Spike | Beach | Smash | Serve,Sports
-Basketball,Hoop | NBA | Dribble | Slam Dunk | Basket,Sports
+Basketball,Hoop | Tall | Dribble | Slam Dunk | Basket,Sports
 Snooker,Cue | Table | Pocket | Mohammad Yousaf | Balls,Sports
 Table Tennis,Ping Pong | Paddle | Net | China | Bat,Sports
 Archery,Bow | Arrow | Target | Teer | Kaman,Sports
@@ -275,7 +275,7 @@ Mohenjo-daro,Indus | Larkana | Sindh | Priest King | Ruins,Historical Places
 Harappa,Indus | Sahiwal | Civilization | Ruins | Ravi,Historical Places
 Taxila,Gandhara | Buddha | Rawalpindi | Museum | Ruins,Historical Places
 Hiran Minar,Sheikhupura | Jahangir | Deer | Tower | Pond,Historical Places
-Katas Raj,Hindu | Temple | Chakwal | Pond | Shiva,Historical Places
+Katas Raj,Hindu | Temple | Chakwal | Pond | Salt Range,Historical Places
 Derawar Fort,Cholistan | Bahawalpur | Desert | Qila | Walls,Historical Places
 Ranikot Fort,Great Wall | Sindh | Jamshoro | Qila | Walls,Historical Places
 Baltit Fort,Hunza | Karimabad | Mir | Qila | Altit,Historical Places
@@ -344,7 +344,7 @@ Notebook,Copy | Pages | Lines | Spiral | Homework,Stationery
 Paper,Kaghaz | Sheet | A4 | Page | Print,Stationery
 Glue,Sticky | Stick | Gond | Elfy | UHU,Stationery
 Scissors,Cut | Qainchi | Blades | Sharp | Craft,Stationery
-Marker,Whiteboard | Permanent | Thick | Pen | Dollar,Stationery
+Marker,Whiteboard | Permanent | Thick | Pen | Ink,Stationery
 Highlighter,Yellow | Neon | Mark | Underline | Notes,Stationery
 Stapler,Pins | Staple | Punch | Clip | Attach,Stationery
 Pin,Sharp | Prick | Needle | Safety | Board,Stationery

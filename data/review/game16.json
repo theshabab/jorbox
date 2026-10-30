@@ -3580,14 +3580,14 @@
   },
   {
    "id": "game16-326",
-   "Name": "Which app seemed like magic the first time you used it?",
+   "Name": "Which app amazed you the first time you used it?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which app seemed like magic the first time you used it?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Sweep: magic wording removed"
   },
   {
    "id": "game16-327",
@@ -4273,14 +4273,14 @@
   },
   {
    "id": "game16-389",
-   "Name": "What piece of technology would look like magic to people 500 years ago?",
+   "Name": "What piece of technology would amaze people from 500 years ago?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "What piece of technology would look like magic to people in medieval Europe?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "more general frame"
+   "note": "more general frame; Sweep: magic wording removed"
   },
   {
    "id": "game16-390",

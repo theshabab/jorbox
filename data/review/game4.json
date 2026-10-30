@@ -99,13 +99,13 @@
    "Name": "The Sidewalk",
    "Description": "In November 2018, four men in Youngstown, Ohio, were arrested for stealing ____ from a local neighborhood.",
    "Category": "Crimes & Criminals",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "The Sidewalk",
     "Description": "In November 2018, four men in Youngstown, Ohio, were arrested for stealing ____ from a local neighborhood.",
     "Category": "Crimes & Criminals"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-9",
@@ -125,13 +125,13 @@
    "Name": "Butchering or Deer Carcass",
    "Description": "According to the Board of Cosmetic Arts, a North Carolina salon will not be penalized after a nail tech was videotaped ____ a ____ on the salon floor.",
    "Category": "Cosmetics",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Butchering or Deer Carcass",
     "Description": "According the Board of Cosmetic Arts, a North Carolina salon will not be penalized after a nail tech was videotaped ____ a ____ on the salon floor.",
     "Category": "Cosmetics"
    },
-   "note": "grammar"
+   "note": "grammar; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-11",
@@ -177,13 +177,13 @@
    "Name": "boomerangs",
    "Description": "World-class athlete and personal injury lawyer Betsylew Miale-Gix was arrested at a Connecticut airport because her luggage was filled with dozens of ____.",
    "Category": "TSA Troubles",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "boomerangs",
     "Description": "World-class athlete and personal injury lawyer Betsylew Miale-Gix was arrested at a Connecticut airport because her luggage was filled with dozens of ____.",
     "Category": "TSA Troubles"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-15",
@@ -242,13 +242,13 @@
    "Name": "Feces or Money",
    "Description": "Cho Jae-weon, a professor at the Ulsan National Institute of Science and Technology in South Korea, has designed an eco-friendly mechanism that turns ____ into ____.",
    "Category": "Transformation",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Feces or Money",
     "Description": "Cho Jae-weon, a professor at the Ulsan National Institute of Science and Technology in South Korea, has designed an eco-friendly mechanism that turns ____ into ____.",
     "Category": "Transformation"
    },
-   "note": ""
+   "note": "Sweep: toilet humour"
   },
   {
    "id": "game4-20",
@@ -307,13 +307,13 @@
    "Name": "The Moon Landing",
    "Description": "The Ohio State Fair is famous for their butter sculptures, and in 2019 they depicted ____ entirely in dairy products.",
    "Category": "So Much Butter",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "The Moon Landing",
     "Description": "The Ohio State Fair is famous for their butter sculptures, and in 2019 they depicted ____ entirely in dairy products.",
     "Category": "So Much Butter"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-25",
@@ -411,26 +411,26 @@
    "Name": "door hinges",
    "Description": "In Roman mythology, Cardea was the goddess of ____.",
    "Category": "Gods & Monsters",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "door hinges",
     "Description": "In need of unique divine intervention? You may want to pray to Cardea, the Roman goddess of ____.",
     "Category": "Gods & Monsters"
    },
-   "note": "removed \"pray to\" a pagan goddess"
+   "note": "removed \"pray to\" a pagan goddess; Sweep: mythology"
   },
   {
    "id": "game4-33",
    "Name": "black licorice",
    "Description": "In 2020, a Massachusetts construction worker died after experiencing heart rhythm problems caused by consuming too much ____.",
    "Category": "Rhythm",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "black licorice",
     "Description": "In 2020, a Massachusetts construction worker died after experiencing heart rhythm problems caused by consuming too much ____.",
     "Category": "Rhythm"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-34",
@@ -502,13 +502,13 @@
    "Name": "mud or baseballs",
    "Description": "What secret is Jim Bintliff hiding? For decades, his family has been the sole provider of a mysterious ____ you put on ____.",
    "Category": "Dynasties",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "mud or baseballs",
     "Description": "What secret is Jim Bintliff hiding? For decades, his family has been the sole provider of a mysterious ____ you put on ____.",
     "Category": "Dynasties"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-40",
@@ -541,26 +541,26 @@
    "Name": "cicadas",
    "Description": "In June 2021, a plane carrying journalists covering President Biden's first trip abroad was delayed due to mechanical issues caused by ____.",
    "Category": "Air Force Fun",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "cicadas",
     "Description": "In June 2021, a plane carrying journalists covering President Biden's first trip abroad was delayed due to mechanical issues caused by ____.",
     "Category": "Air Force Fun"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-43",
    "Name": "toilet",
    "Description": "Haewoojae, a house built in South Korea in 2007, was designed to resemble a giant ____.",
    "Category": "House Hunters",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "toilet",
     "Description": "Haewoojae, a house built in South Korea in 2007, was designed to resemble a giant ____.",
     "Category": "House Hunters"
    },
-   "note": ""
+   "note": "Sweep: toilet humour"
   },
   {
    "id": "game4-44",
@@ -580,13 +580,13 @@
    "Name": "giant snails",
    "Description": "In 2021, a woman’s luggage was confiscated at the Houston airport when authorities discovered she was carrying fresh leaves, beef and 15 ____.",
    "Category": "Air Travel",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "giant snails",
     "Description": "In 2021, a woman’s luggage was confiscated at the Houston airport when authorities discovered she was carrying fresh leaves, beef and 15 ____.",
     "Category": "Air Travel"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-46",
@@ -749,13 +749,13 @@
    "Name": "insurance",
    "Description": "If you’re ever in Tuscaloosa, Alabama, consider making a pilgrimage to one of America’s hidden gems: the ____ Hall of Fame Museum.",
    "Category": "Tuscaloosa",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "insurance",
     "Description": "If you’re ever in Tuscaloosa, Alabama, consider making a pilgrimage to one of America’s hidden gems: the ____ Hall of Fame Museum.",
     "Category": "Tuscaloosa"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-59",
@@ -827,13 +827,13 @@
    "Name": "Pigeons or Cowboy Hats",
    "Description": "In 2019, there were a number of sightings in Las Vegas of ____ with ____ glued to them.",
    "Category": "Sin City",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Pigeons or Cowboy Hats",
     "Description": "In 2019, there were a number of sightings in Las Vegas of ____ with ____ glued to them.",
     "Category": "Sin City"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-65",
@@ -853,26 +853,26 @@
    "Name": "littering",
    "Description": "The slogan \"Don’t Mess With Texas\" originated as part of a state campaign to discourage ____.",
    "Category": "State Slogans",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "littering",
     "Description": "The slogan \"Don’t Mess With Texas\" originated as part of a state campaign to discourage ____.",
     "Category": "State Slogans"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-67",
    "Name": "toilet paper",
    "Description": "Authorities used a Facebook post to remind the residents of Newport, Oregon, that they cannot call 9-1-1 just because they need ____.",
    "Category": "Emergencies",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "toilet paper",
     "Description": "Authorities used a Facebook post to remind the residents of Newport, Oregon, that they cannot call 9-1-1 just because they need ____.",
     "Category": "Emergencies"
    },
-   "note": ""
+   "note": "Sweep: toilet humour"
   },
   {
    "id": "game4-68",
@@ -983,13 +983,13 @@
    "Name": "miniature donkey",
    "Description": "For a mere $50, you can spice up your boring video-conference call with the help of Francie and Marc Dunlap’s ____.",
    "Category": "Entrepreneurs",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "miniature donkey",
     "Description": "For a mere $50, you can spice up your boring video-conference call with the help of Francie and Marc Dunlap’s ____.",
     "Category": "Entrepreneurs"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-77",
@@ -1035,13 +1035,13 @@
    "Name": "Freckles",
    "Description": "Staff at an American seafood restaurant were so struck by the beauty of a rare live lobster that they spared him from the cooking pot and named him ____.",
    "Category": "Marine Life",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Freckles",
     "Description": "Staff at a Virginia seafood restaurant were so struck by the beauty of a live lobster that they decided to spare him from the cooking pot, and named him ____.",
     "Category": "Marine Life"
    },
-   "note": "removed unverified state detail; grammar"
+   "note": "removed unverified state detail; grammar; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-81",
@@ -1061,26 +1061,26 @@
    "Name": "Dude Chilling",
    "Description": "Due to pesky thieves, the Vancouver Park Board keeps having to replace the sign marking the awesomely named \"____ Park.\"",
    "Category": "Vandalism",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Dude Chilling",
     "Description": "Due to pesky thieves, the Vancouver Park Board keeps having to replace the sign marking the awesomely named \"____ Park.\"",
     "Category": "Vandalism"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-83",
    "Name": "Bigfoot",
    "Description": "Every October, the small town of Jefferson, Texas, hosts the annual Texas ____ Conference.",
    "Category": "Meetup",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Bigfoot",
     "Description": "Do anything exciting on October 15-16, 2021? If you were in Jefferson, TX, chances are good that you attended the Annual Texas ____ Conference.",
     "Category": "Meetup"
    },
-   "note": "removed dated reference"
+   "note": "removed dated reference; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-84",
@@ -1152,13 +1152,13 @@
    "Name": "barber pole",
    "Description": "Hey, good for them! Forest Grove, Oregon, is home to the World’s Tallest ____.",
    "Category": "Sightseeing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "barber pole",
     "Description": "Hey, good for them! Forest Grove, Oregon, is home to the World’s Tallest ____.",
     "Category": "Sightseeing"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-90",
@@ -1178,13 +1178,13 @@
    "Name": "Buddhas",
    "Description": "Near Missoula, Montana, visitors can tour a garden built from 2000 onward called the \"Garden of One Thousand ____.\"",
    "Category": "Tourism",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Buddhas",
     "Description": "Visit beautiful Missoula, Montana! Come for the scenery, stay for an attraction completed in 2000 entitled \"Garden of One Thousand ____.\"",
     "Category": "Tourism"
    },
-   "note": "garden is in Arlee near Missoula; wording"
+   "note": "garden is in Arlee near Missoula; wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-92",
@@ -1254,7 +1254,7 @@
   {
    "id": "game4-97",
    "Name": "A half marathon",
-   "Description": "A two-and-a-half-year-old dog named Ludivine was let out by her owner to relieve herself and promptly ran ____.",
+   "Description": "A two-and-a-half-year-old dog named Ludivine was let out of the house by her owner and promptly ran ____.",
    "Category": "Pet Stories",
    "action": "edit",
    "original": {
@@ -1262,7 +1262,7 @@
     "Description": "A two-and-half-year-old pup named Ludivine was let out by her owner to go pee and was promptly carried away by ____.",
     "Category": "Pet Stories"
    },
-   "note": "she ran in the race; wording"
+   "note": "she ran in the race; wording; Sweep: removed bathroom reference"
   },
   {
    "id": "game4-98",
@@ -1308,13 +1308,13 @@
    "Name": "Wizard",
    "Description": "In 2021, after more than 20 years of service, the city of Christchurch, New Zealand, fired Ian Brackenbury Channell as the city's official ____.",
    "Category": "Civic Duties",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Wizard",
     "Description": "In 2021, after nearly 20 years of service, the city of Christchurch, New Zealand, fired Ian Brackenbury Channell as the city's official ____.",
     "Category": "Civic Duties"
    },
-   "note": "fixed length of service"
+   "note": "fixed length of service; Sweep: magic/witch content"
   },
   {
    "id": "game4-102",
@@ -1334,13 +1334,13 @@
    "Name": "Grandparent",
    "Description": "The town of Greensburg, Indiana, USA, tried to attract remote workers by offering cash, a year's YMCA membership and a free ____.",
    "Category": "Small Town Perks",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Grandparent",
     "Description": "The city of Greensburg, Indiana, is enticing remote workers to move there by giving away $7,000, a year membership to the YMCA and a free ____.",
     "Category": "Small Town Perks"
    },
-   "note": "removed uncertain dollar amount"
+   "note": "removed uncertain dollar amount; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-104",
@@ -1360,26 +1360,26 @@
    "Name": "tyre",
    "Description": "In 2021, after trying for two years, Colorado wildlife officers finally removed a ____ that had been stuck around a wild elk's neck.",
    "Category": "Wanted Criminals",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "tire or an elk",
     "Description": "In the fall of 2021, after attempting for two years, Colorado Parks and Wildlife officers were able to retrieve a stolen ____ from ____.",
     "Category": "Wanted Criminals"
    },
-   "note": "fixed two-blank/garbled wording"
+   "note": "fixed two-blank/garbled wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-106",
    "Name": "America",
    "Description": "In 2019, a solid gold working toilet worth about $6 million was stolen from England's Blenheim Palace. The artwork was titled \"____.\"",
    "Category": "Art Heists",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "America",
     "Description": "A 66-year-old man was arrested for stealing a toilet from England's Blenheim Palace. The functioning gold toilet is actually an art piece, worth $1.25 million, entitled \"____.\"",
     "Category": "Art Heists"
    },
-   "note": "fixed value; reworded"
+   "note": "fixed value; reworded; Sweep: toilet humour"
   },
   {
    "id": "game4-107",
@@ -1477,13 +1477,13 @@
    "Name": "Calvin Coolidge",
    "Description": "The first photo sent across the ocean by radio facsimile, in 1924, an early form of the fax machine, was a portrait of US President ____.",
    "Category": "Fax Of Life",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Calvin Coolidge",
     "Description": "The first photo transmitted by transoceanic radio facsimile, a precursor to the modern fax machine, was a glamour shot of none other than ____.",
     "Category": "Fax Of Life"
    },
-   "note": "clarified wording"
+   "note": "clarified wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-115",
@@ -1503,26 +1503,26 @@
    "Name": "live goldfish",
    "Description": "Harvard student Lothrop Withington Jr. started a nationwide craze in 1939 when he swallowed a ____ on a dare.",
    "Category": "Odds & Trends",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "live goldfish",
     "Description": "Harvard student Lothrop Withington Jr. kicked off a nationwide craze in 1939 after he ate a ____ on a dare.",
     "Category": "Odds & Trends"
    },
-   "note": "wording"
+   "note": "wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-117",
    "Name": "gas prices",
    "Description": "H. David Werder set a record by spending 439 days sitting on a flagpole. Why was he there? He was protesting ____.",
    "Category": "Flagpole Sitta",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "gas prices",
     "Description": "H. David Werder set a record by spending 439 days sitting on a flagpole. Why was he there? He was protesting ____.",
     "Category": "Flagpole Sitta"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-118",
@@ -1607,52 +1607,52 @@
    "Name": "Arm Barn",
    "Description": "In 2021, PETA urged Major League Baseball to stop referring to the place where pitchers warm up as the \"bullpen,\" as it is insensitive to cows, and instead refer to it as the ____.",
    "Category": "Sport Terms",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Arm Barn",
     "Description": "In 2021, PETA urged Major League Baseball to stop referring to the place where pitchers warm up as the \"bullpen,\" as it is insensitive to cows, and instead refer to it as the ____.",
     "Category": "Sport Terms"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-125",
    "Name": "gravestones",
    "Description": "Keep your eyes peeled during takeoff from Savannah/Hilton Head International Airport in Georgia, USA! Two ____ are permanently set into one of its runways.",
    "Category": "Plane Truth",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "gravestones",
     "Description": "Keep your eyes peeled during takeoff from the Hilton Head Airport in Savannah, GA! If you look closely, you can see two ____ permanently placed in the runway.",
     "Category": "Plane Truth"
    },
-   "note": "fixed airport name"
+   "note": "fixed airport name; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-126",
    "Name": "Caw-Caw",
    "Description": "Famed artist Jackson Pollock wasn’t just a major figure in American art. He was also the proud papa of a pet crow named ____.",
    "Category": "Art History",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Caw-Caw",
     "Description": "Famed artist Jackson Pollock wasn’t just a major figure in American art. He was also the proud papa of a pet crow named ____.",
     "Category": "Art History"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-127",
    "Name": "Land O'Corn",
    "Description": "If you were traveling from Chicago to Iowa from 1941 to 1967, there’s a good chance you would have taken the local train, colorfully named \"The ____.\"",
    "Category": "Trains!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Land O'Corn",
     "Description": "If you were traveling from Chicago to Iowa from 1941 to 1967, there’s a good chance you would have taken the local train, colorfully named \"The ____.\"",
     "Category": "Trains!"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-128",
@@ -1711,13 +1711,13 @@
    "Name": "a tanning bed",
    "Description": "Marty Cordova, an outfielder for the Baltimore Orioles, got some press in 2002 when he was seriously injured while attempting to use ____.",
    "Category": "America's Pastime",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "a tanning bed",
     "Description": "Marty Cordova, an outfielder for the Baltimore Orioles, got some press in 2002 when he was seriously injured while attempting to use ____.",
     "Category": "America's Pastime"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-133",
@@ -1815,13 +1815,13 @@
    "Name": "witch",
    "Description": "Christine O’Donnell lost her bid for the Senate in 2010 after hitching her campaign to an unusual slogan: \"I’m Not A ____, I’m You.\"",
    "Category": "Smear Campaigns",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "witch",
     "Description": "Christine O’Donnell lost her bid for the Senate in 2010 after hitching her campaign to an unusual slogan: \"I’m Not A ____, I’m You.\"",
     "Category": "Smear Campaigns"
    },
-   "note": ""
+   "note": "Sweep: magic/witch content"
   },
   {
    "id": "game4-141",
@@ -1841,13 +1841,13 @@
    "Name": "coffee break",
    "Description": "Swing by Stoughton, WI, which claims to be the birthplace of the office staple, the ____.",
    "Category": "Viva Wisconsin!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "coffee break",
     "Description": "Swing by Stoughton, WI, which claims to be the birthplace of the office staple, the ____.",
     "Category": "Viva Wisconsin!"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-143",
@@ -1893,13 +1893,13 @@
    "Name": "Live Turkeys",
    "Description": "For over seven decades, the town of Yellville, Arkansas, celebrated an event where an aeroplane dropped ____ onto a crowd.",
    "Category": "Small-Town Pride",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Live Turkeys",
     "Description": "For over seven decades, the town of Yellville, Arkansas, celebrated an event where an aeroplane dropped ____ onto a crowd.",
     "Category": "Small-Town Pride"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-147",
@@ -1932,13 +1932,13 @@
    "Name": "a banana tree",
    "Description": "Florida man Bryan Raymond, of Fort Myers, protested an infamous pothole by planting ____ in it.",
    "Category": "Holes",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "a banana tree",
     "Description": "Florida man Bryan Raymond, a resident of Fort Myers, took matters into his own hands when he filled in an infamous pothole with ____.",
     "Category": "Holes"
    },
-   "note": "wording"
+   "note": "wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-150",
@@ -1971,13 +1971,13 @@
    "Name": "Soil",
    "Description": "Bill Dilworth of New York maintains the second floor apartment at 141 Wooster Street that is filled with 250 cubic yards of ____.",
    "Category": "Rental Space",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Soil",
     "Description": "Bill Dilworth of New York maintains the second floor apartment at 141 Wooster Street that is filled with 250 cubic yards of ____.",
     "Category": "Rental Space"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-153",
@@ -2036,13 +2036,13 @@
    "Name": "clotheslines",
    "Description": "In 2009, Vermont, USA, passed a law protecting its citizens' right to use ____.",
    "Category": "Laws & Orders",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "clotheslines",
     "Description": "Finally government gets something done. In 2009, Vermont passed a law upholding their citizens' God-given right to own ____.",
     "Category": "Laws & Orders"
    },
-   "note": "toned down wording"
+   "note": "toned down wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-158",
@@ -2088,13 +2088,13 @@
    "Name": "post office",
    "Description": "At just seven by eight feet, the building in Ochopee, Florida, is the USA's smallest ____.",
    "Category": "Road Trip!",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "post office",
     "Description": "ROAD TRIP! At just seven by eight feet, Ochopee, Florida is home to the country's smallest ____.",
     "Category": "Road Trip!"
    },
-   "note": "wording"
+   "note": "wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-162",
@@ -2205,26 +2205,26 @@
    "Name": "An alligator",
    "Description": "Pennsylvania man Joie Henney says he dealt with his depression with the help of ____, which he keeps as an emotional support animal.",
    "Category": "Mental Health",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "An alligator",
     "Description": "Joie Henney, a former ESPN TV host, claims that he was able to address his depression with the help of ____.",
     "Category": "Mental Health"
    },
-   "note": "clarified"
+   "note": "clarified; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-171",
    "Name": "Goats",
    "Description": "The McVeigh's Gauntlet golf course at Silvies Valley Ranch in Oregon, USA, uses special caddies who are all ____.",
    "Category": "Special Help",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Goats",
     "Description": "The Mcveigh's Gauntlet golf course at Silvies Valley Ranch in Oregon employs special caddies who are all ____.",
     "Category": "Special Help"
    },
-   "note": "spelling"
+   "note": "spelling; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-172",
@@ -2296,13 +2296,13 @@
    "Name": "bees",
    "Description": "In 2015, a lorry crashed in Lynnwood, Washington, USA, spilling millions of ____ onto the road.",
    "Category": "Traffic Jams",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "bees",
     "Description": "In 2015, a semi-truck crashed in Coeur d’Alene, Idaho, dumping millions of ____ onto the interstate.",
     "Category": "Traffic Jams"
    },
-   "note": "fixed location"
+   "note": "fixed location; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-178",
@@ -2348,13 +2348,13 @@
    "Name": "Garbage",
    "Description": "Students at Santa Clara University in California can take an environmental science class called \"The Joy of ____.\"",
    "Category": "Pure Class",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Joy or Garbage",
     "Description": "Students at Santa Clara University have the opportunity to take an environmental science class with the interesting name \"The ____ of ____.\"",
     "Category": "Pure Class"
    },
-   "note": "fixed two-blank wording"
+   "note": "fixed two-blank wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-182",
@@ -2387,13 +2387,13 @@
    "Name": "potato",
    "Description": "In Idaho, USA, you can rent an Airbnb inside a 6-ton, 28-foot-long model of a ____.",
    "Category": "Vacation Homes",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "potato",
     "Description": "In the American midwest, there exists an Airbnb that is inside a 6-ton, 28-foot-long model of a ____.",
     "Category": "Vacation Homes"
    },
-   "note": "Idaho is not in the Midwest"
+   "note": "Idaho is not in the Midwest; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-185",
@@ -2452,13 +2452,13 @@
    "Name": "Lawyers",
    "Description": "While they are certainly the butt of many jokes, you can save them on the second Tuesday in April, which is International Be Kind To ____ Day.",
    "Category": "Forced Kindness",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Lawyers",
     "Description": "While they are certainly the butt of many jokes, you can save them on the second Tuesday in April, which is International Be Kind To ____ Day.",
     "Category": "Forced Kindess"
    },
-   "note": "fixed category spelling"
+   "note": "fixed category spelling; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-190",
@@ -2478,26 +2478,26 @@
    "Name": "jousting",
    "Description": "Did you know the official state sport of Maryland, USA, is ____?",
    "Category": "American Sports",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "jousting",
     "Description": "We all know about Florida, but Maryland has its own weird quirks. Did you know the official state sport of Maryland is ____?",
     "Category": "American Sports"
    },
-   "note": "wording"
+   "note": "wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-192",
    "Name": "tape",
    "Description": "The PSTC is a non-profit organization in North America fiercely dedicated to improving the quality of ____.",
    "Category": "Non-Profits",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "tape",
     "Description": "The PSTC is a non-profit organization in North America fiercely dedicated to improving the quality of ____.",
     "Category": "Non-Profits"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-193",
@@ -2595,13 +2595,13 @@
    "Name": "Goat",
    "Description": "In February 2022, Deputy David Parnell was chasing after an assault suspect when, to his surprise, a local ____ came to his aid.",
    "Category": "Hot Pursuit",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Goat",
     "Description": "In February 2022, Deputy David Parnell was chasing after an assault suspect when, to his surprise, a local ____ came to his aid.",
     "Category": "Hot Pursuit"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-201",
@@ -2621,13 +2621,13 @@
    "Name": "A Snowman",
    "Description": "To give kids a new experience, Robin Hughes, a teacher at the Florida Southshore Charter Academy, had her sister mail her ____.",
    "Category": "Learning Is Fun!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "A Snowman",
     "Description": "To give kids a new experience, Robin Hughes, a teacher at the Florida Southshore Charter Academy, had her sister mail her ____.",
     "Category": "Learning Is Fun!"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-203",
@@ -2673,13 +2673,13 @@
    "Name": "live reptiles",
    "Description": "In March 2022, a U.S. citizen was arrested at the Mexican/American border. Why? Authorities found 52 ____ on his body.",
    "Category": "Border Crossings",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "live reptiles",
     "Description": "In March 2022, a U.S. citizen was arrested at the Mexican/American border. Why? Authorities found 52 ____ on his body.",
     "Category": "Border Crossings"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-207",
@@ -2699,13 +2699,13 @@
    "Name": "crossbow",
    "Description": "A Florida man became briefly famous in early 2022 for an unbelievable theft: He shoved an entire ____ down his pants.",
    "Category": "Southern Men",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "crossbow",
     "Description": "A Florida man became briefly famous in early 2022 for an unbelievable theft: He shoved an entire ____ down his pants.",
     "Category": "Southern Men"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-209",
@@ -2803,13 +2803,13 @@
    "Name": "Chocolate Milk",
    "Description": "In 2022, students in Vacaville, California, took to protesting an unusual issue: their school's ____ ban.",
    "Category": "Unheard Voices",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Chocolate Milk",
     "Description": "In 2022, students in Vacaville, California, took to protesting an unusual issue: their school's ____ ban.",
     "Category": "Unheard Voices"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-217",
@@ -2829,13 +2829,13 @@
    "Name": "NFL Stadium soil",
    "Description": "In 2022, you could get some unique limited-edition chips from Lay’s that were grown in ____.",
    "Category": "Limited Editions",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "NFL Stadium soil",
     "Description": "In 2022, you could get some unique limited-edition chips from Lay’s that were grown in ____.",
     "Category": "Limited Editions"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-219",
@@ -2906,14 +2906,14 @@
    "id": "game4-224",
    "Name": "a volcano",
    "Description": "The Montaña Mágica Hotel in Chile is no ordinary hotel! It is shaped like ____, with a waterfall pouring down its sides.",
-   "Category": "Magic Hotel",
+   "Category": "Odd Hotels",
    "action": "edit",
    "original": {
     "Name": "in a volcano",
     "Description": "The Montaña Mágica Hotel in Chile is no ordinary hotel! It has one major draw: It’s ____.",
     "Category": "Magic Hotel"
    },
-   "note": "fact fixed: shaped like a volcano, not inside one"
+   "note": "fact fixed: shaped like a volcano, not inside one; Sweep: category renamed (no magic)"
   },
   {
    "id": "game4-225",
@@ -2998,13 +2998,13 @@
    "Name": "Guard Donkeys",
    "Description": "In a peculiar attempt to protect his cows from packs of hungry wolves, a cattle rancher in Northern Colorado tried using ____.",
    "Category": "Modern Cowboys",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Guard Donkeys",
     "Description": "In a peculiar attempt to protect his cows from packs of hungry wolves, a cattle rancher in Northern Colorado tried using ____.",
     "Category": "Modern Cowboys"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-232",
@@ -3063,13 +3063,13 @@
    "Name": "Chicken",
    "Description": "The Church by the Sea in Madeira Beach, Florida, went viral after a photographer captured a special angle of its steeple, and earned the nickname of \"The ____ Church.\"",
    "Category": "Church & Steeple",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Chicken",
     "Description": "The Church by the Sea in Madeira Beach, Florida, went viral after a photographer captured a special angle of its steeple, and earned the nickname of \"The ____ Church.\"",
     "Category": "Church & Steeple"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-237",
@@ -3128,13 +3128,13 @@
    "Name": "Cementland",
    "Description": "An unorthodox amusement park outside St. Louis, Missouri that was never completed, because its owner was crushed by a bulldozer, was called ____.",
    "Category": "Unfinished",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "cementland",
     "Description": "An unorthodox amusement park outside St. Louis, Missouri that was never completed, because its owner was crushed by a bulldozer, was called ____.",
     "Category": "Unfinished"
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-242",
@@ -3219,52 +3219,52 @@
    "Name": "Taco Bell Fire Sauce",
    "Description": "Jeremy Taylor was found after five days of being snowbound in his SUV. A surprising Facebook comment he made after his rescue: \"____ Saves Lives.\"",
    "Category": "Cryptic Messages",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Taco Bell Fire Sauce",
     "Description": "Jeremy Taylor was found after five days of being snowbound in his SUV. A surprising Facebook comment he made after his rescue: \"____ Saves Lives.\"",
     "Category": "Cryptic Messages"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-249",
    "Name": "Diet Cokes",
    "Description": "It’s not uncommon in Florida, but a Naples couple was shocked to meet an 8-foot alligator in their garage attacking their ____.",
    "Category": "Florida",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Diet Cokes",
     "Description": "It’s not uncommon in Florida, but a Naples couple was shocked to meet an 8-foot alligator in their garage attacking their ____.",
     "Category": "Florida"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-250",
    "Name": "McDonald’s French Fries",
    "Description": "During renovations to their ranch home, the Jones family of Crystal Lake, Illinois, opened a wall to shockingly discover ____.",
    "Category": "Ranch Homes",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "McDonald’s French Fries",
     "Description": "During renovations to their ranch home, the Jones family of Crystal Lake, Illinois, opened a wall to shockingly discover ____.",
     "Category": "Ranch Homes"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-251",
    "Name": "mow the lawn",
    "Description": "In April 2022, before stealing from a homeowner in Port Arthur, Texas, a burglar was kind enough to ____.",
    "Category": "Good Deeds",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "mow the lawn",
     "Description": "In April 2022, before stealing from a homeowner in Port Arthur, Texas, a burglar was kind enough to ____.",
     "Category": "Good Deeds"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-252",
@@ -3349,13 +3349,13 @@
    "Name": "burritos",
    "Description": "In 2022, students at Johns Hopkins University invented a special tape specifically designed to hold ____ together.",
    "Category": "Special Tape",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "burritos",
     "Description": "In 2022, students at Johns Hopkins University invented a special tape specifically designed to hold ____ together.",
     "Category": "Special Tape"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-259",
@@ -3388,26 +3388,26 @@
    "Name": "pregnant sea lion",
    "Description": "Workers on the Omni La Costa golf course in the spring of 2022 had to call the authorities on the very cozy ____ found sleeping on the greens.",
    "Category": "Golfin’",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "pregnant sea lion",
     "Description": "Workers on the Omni La Costa golf course in the spring of 2022 had to call the authorities on the very cozy ____ found sleeping on the greens.",
     "Category": "Golfin’"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-262",
    "Name": "cockroach",
    "Description": "Florida man Edward Archbold met an unfortunate end in 2012 when he choked, quite literally, during a ____-eating contest.",
    "Category": "Choking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "cockroach",
     "Description": "Florida man Edward Archbold met an unfortunate end in 2012 when he choked, quite literally, during a ____-eating contest.",
     "Category": "Choking"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-263",
@@ -3661,13 +3661,13 @@
    "Name": "a live kangaroo",
    "Description": "Sara Greer returned to her home in Lapeer County, Michigan, and was stunned to see ____ in her driveway.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "a live kangaroo",
     "Description": "Sara Greer returned to her home in Lapeer County, Michigan, and was stunned to see ____ in her driveway.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-283",
@@ -3687,26 +3687,26 @@
    "Name": "frozen iguanas",
    "Description": "In April 2022, The Miami Herald asked a big question: Do Florida car insurance companies cover accidents caused by ____?",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "frozen iguanas",
     "Description": "In April 2022, The Miami Herald asked a big question: Do Florida car insurance companies cover accidents caused by ____?",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-285",
    "Name": "defending himself in court",
    "Description": "Dr. Scott Green came under investigation for performing surgery and ____ at the same time.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "defending himself in court",
     "Description": "Dr. Scott Green came under investigation for performing surgery and ____ at the same time.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-286",
@@ -3726,13 +3726,13 @@
    "Name": "Orphans",
    "Description": "Due to their offbeat jerseys, the boys high school basketball team in Centralia, Illinois, are named the ____.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Orphans",
     "Description": "Due to their offbeat jerseys, the boys high school basketball team in Centralia, Illinois, are named the ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-288",
@@ -3788,8 +3788,8 @@
   },
   {
    "id": "game4-292",
-   "Name": "making popcorn",
-   "Description": "According to zookeepers, if a bearcat has urinated nearby, the smell might make you think someone is ____.",
+   "Name": "buttered popcorn",
+   "Description": "According to zookeepers, the binturong, or bearcat, gives off a scent that smells just like ____.",
    "Category": "Final Round",
    "action": "edit",
    "original": {
@@ -3797,7 +3797,7 @@
     "Description": "According to zookeepers, if a bearcat has urinated nearby, the smell might make you think someone is ____.",
     "Category": "Final Round"
    },
-   "note": "wording"
+   "note": "wording; Sweep: removed urine reference"
   },
   {
    "id": "game4-293",
@@ -3817,13 +3817,13 @@
    "Name": "a bridge",
    "Description": "In 2021, a 63-year-old Ohio man was accused of paying a local trucking company to help him steal ____.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "a bridge",
     "Description": "In 2021, a 63-year-old Ohio man was accused of paying a local trucking company to help him steal ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-295",
@@ -3843,13 +3843,13 @@
    "Name": "Brief Emotion",
    "Description": "In a 2021 viral post, a U.S. woman revealed a medical bill where she was charged $11 for one ”____.”",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Brief Emotion",
     "Description": "In a 2021 viral post, a U.S. woman revealed a medical bill where she was charged $11 for one ”____.”",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-297",
@@ -3869,13 +3869,13 @@
    "Name": "creepy dolls",
    "Description": "A Texas coastal survey led by Jace Tunnell was shocked to discover dozens of ____ washed up on the beach.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "creepy dolls",
     "Description": "A Texas coastal survey led by Jace Tunnell was shocked to discover dozens of ____ washed up on the beach.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-299",
@@ -3960,13 +3960,13 @@
    "Name": "Heaven-O",
    "Description": "In 1997, Kleberg County, Texas, voted to replace the word \"Hello\" with the new greeting \"____.\"",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Heaven-O",
     "Description": "In 1997, Kleberg County, Texas, voted to replace the word \"Hello\" with the new greeting \"____.\"",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-306",
@@ -4064,13 +4064,13 @@
    "Name": "ice cream trucks",
    "Description": "Residents of Aurora, Colorado, cheered as their city council repealed a 65-year ban on ____.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "ice cream trucks",
     "Description": "Residents of Aurora, Colorado, cheered as their city council repealed a 65-year ban on ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-314",
@@ -4220,13 +4220,13 @@
    "Name": "give victims advance notice",
    "Description": "In January 1973, a bill was introduced in the Texas legislature requiring criminals to ____.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "give victims advance notice",
     "Description": "In January 1973, a bill was introduced in the Texas legislature requiring criminals to ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-326",
@@ -4272,13 +4272,13 @@
    "Name": "underwater",
    "Description": "Rob Doyle may just have the coolest job ever; he’s Florida’s first ____ pizza delivery guy.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "underwater",
     "Description": "Rob Doyle may just have the coolest job ever; he’s Florida’s first ____ pizza delivery guy.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-330",
@@ -4324,26 +4324,26 @@
    "Name": "wake him up",
    "Description": "In 2020, streamer Jakey Boehm earned thousands of dollars a month by letting social media users ____ while he slept.",
    "Category": "Final Round",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "wake him up",
     "Description": "In 2020, Jakey Boehm made about $49,000 a month by letting social media users ____.",
     "Category": "Final Round"
    },
-   "note": "removed unverified figure"
+   "note": "removed unverified figure; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-334",
    "Name": "Table Setting",
    "Description": "A popular contest that has been an LA County Fair tradition for decades: competitive ____.",
    "Category": "Final Round",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Table Setting",
     "Description": "The popular sport that’s been an LA County Fair tradition for over 90 years: competitive ____.",
     "Category": "Final Round"
    },
-   "note": "wording"
+   "note": "wording; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-335",
@@ -4363,13 +4363,13 @@
    "Name": "raw onions",
    "Description": "An acquired taste, the Hemingway sandwich is a combination of peanut butter and ____.",
    "Category": "Final Round",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "raw onions",
     "Description": "An acquired taste, The Hemmingway sandwich is a combination of peanut butter and ____.",
     "Category": "Final Round"
    },
-   "note": "spelling"
+   "note": "spelling; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-337",
@@ -4792,13 +4792,13 @@
    "Name": "I am a bully",
    "Description": "In 2012, an Ohio judge sentenced a man to stand at an intersection wearing a sign that read \"____.\"",
    "Category": "Final Round",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "I am a bully",
     "Description": "In 2018, an Ohio judge sentenced a man to stand at an intersection wearing a sign that read \"____.\"",
     "Category": "Final Round"
    },
-   "note": "corrected year"
+   "note": "corrected year; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-370",
@@ -4831,13 +4831,13 @@
    "Name": "cracking a whip",
    "Description": "In October 2021, the city council of Reno, Nevada, voted 6-1 to ban ____ downtown.",
    "Category": "Final Round",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "cracking a whip",
     "Description": "In October 2021, Reno’s City Council, in a 6-1 vote, banned ____ downtown.",
     "Category": "Final Round"
    },
-   "note": "added state"
+   "note": "added state; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-373",
@@ -4987,13 +4987,13 @@
    "Name": "giant African land snails",
    "Description": "Part of Florida’s Pasco County was put under quarantine in 2022 after someone spotted ____.",
    "Category": "Final Round",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "a giant snail",
     "Description": "Florida’s Pasco County was forced to quarantine in 2022 after someone spotted ____.",
     "Category": "Final Round"
    },
-   "note": "accuracy"
+   "note": "accuracy; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-385",
@@ -7704,13 +7704,13 @@
    "Name": "buzzards",
    "Description": "The town of Hinckley, Ohio, USA, has a special spring tradition: every March it celebrates the return of ____ to the town.",
    "Category": "Fan Questions",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "buzzards",
     "Description": "I’m Tommy and my hometown of Hinckley, Ohio, has a very special spring tradition. Every year, we celebrate ____ coming to town.",
     "Category": "Fan Questions"
    },
-   "note": "removed made-up fan persona; fact verified (Buzzard Day)"
+   "note": "removed made-up fan persona; fact verified (Buzzard Day); Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-594",
@@ -7821,13 +7821,13 @@
    "Name": "run for Vermont governor",
    "Description": "Enlightening Headline from NBC News: \"14-year-old boy uses legal quirk to ____\"",
    "Category": "Today's Youth",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "run for Vermont governor",
     "Description": "Enlightening Headline from NBC News: \"14-year-old boy uses legal quirk to ____\"",
     "Category": "Today's Youth"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-603",
@@ -7860,26 +7860,26 @@
    "Name": "peanut butter",
    "Description": "Headline from the AP: \"New Mexico State to drop parking citations [in exchange] for ____\"",
    "Category": "Headlines",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "peanut butter",
     "Description": "Headline from the AP: \"New Mexico State to drop parking citations [in exchange] for ____\"",
     "Category": "Headlines"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-606",
    "Name": "Teletubby",
    "Description": "Headline from The Morning Call: \"Man in ____ costume breaks into home, steals Chinese food\"",
    "Category": "Late Night Snack",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Teletubby",
     "Description": "Headline from The Morning Call: \"Man in ____ costume breaks into home, steals Chinese food\"",
     "Category": "Late Night Snack"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-607",
@@ -7951,26 +7951,26 @@
    "Name": "half-eaten sandwich",
    "Description": "Headline from New York Post: \"Man Has Kept Richard Nixon’s ____ for 60 Years\"",
    "Category": "Sacred Mementos",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "half-eaten sandwich",
     "Description": "Headline from New York Post: \"Man Has Kept Richard Nixon’s ____ for 60 Years\"",
     "Category": "Sacred Mementos"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-613",
    "Name": "toilet",
    "Description": "Shocking Headline from NPR: “Why America Is Losing The ____ Race”",
    "Category": "Headlines",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "toilet",
     "Description": "Shocking Headline from NPR: “Why America Is Losing The ____ Race”",
     "Category": "Headlines"
    },
-   "note": ""
+   "note": "Sweep: toilet humour"
   },
   {
    "id": "game4-614",
@@ -8003,13 +8003,13 @@
    "Name": "drawer",
    "Description": "Exciting Headline from CBS News: \"Massachusetts Most Wanted suspect found hiding in ____\"",
    "Category": "Hide And Seek",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "drawer",
     "Description": "Exciting Headline from CBS News: \"Massachusetts Most Wanted suspect found hiding in ____\"",
     "Category": "Hide And Seek"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-617",
@@ -8029,13 +8029,13 @@
    "Name": "Giant Rat",
    "Description": "Headline from NPR: \"How A Beloved ____ Won Free Speech Rights\"",
    "Category": "The First Amendment",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Giant Rat",
     "Description": "Headline from NPR: \"How A Beloved ____ Won Free Speech Rights\"",
     "Category": "The First Amendment"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-619",
@@ -8055,13 +8055,13 @@
    "Name": "another lobster truck",
    "Description": "Ridiculous Headline from New York Post: \"Thief hijacks van of lobsters, crashes into ____\"",
    "Category": "The Bold and the Shellfish",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "another lobster truck",
     "Description": "Ridiculous Headline from New York Post: \"Thief hijacks van of lobsters, crashes into ____\"",
     "Category": "The Bold and the Shellfish"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-621",
@@ -8159,13 +8159,13 @@
    "Name": "Colander",
    "Description": "Headline from FOX 5 New York: \"Arizona man’s driver’s license features a photo of him wearing ____\"",
    "Category": "American Apparel",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Colander",
     "Description": "Headline from FOX 5 New York: \"Arizona man’s driver’s license features a photo of him wearing ____\"",
     "Category": "American Apparel"
    },
-   "note": ""
+   "note": "Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-629",
@@ -8224,13 +8224,13 @@
    "Name": "the number of strawberries in Pop-Tarts",
    "Description": "Headline from NBC New York: \"Judge Tosses NYC Customer Lawsuit Complaining About ____\"",
    "Category": "Objection!",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Number of Strawberries in Pop-Tarts",
     "Description": "Headline from NBC New York: \"Judge Tosses NYC Customer Lawsuit Complaining About ____\"",
     "Category": "Objection!"
    },
-   "note": "answer case"
+   "note": "answer case; Sweep: too US-local for Pakistani players"
   },
   {
    "id": "game4-634",
@@ -8400,6 +8400,1446 @@
     "Category": "Royal Behavior"
    },
    "note": "Unsuitable for family play"
+  },
+  {
+   "id": null,
+   "Name": "Savage",
+   "Description": "K2, the world's second-highest mountain, is nicknamed the \"____ Mountain\" by climbers.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Naked",
+   "Description": "The name Nanga Parbat literally means \"____ Mountain\".",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Khunjerab",
+   "Description": "The Karakoram Highway crosses from Pakistan into China at the ____ Pass, one of the highest paved border crossings in the world.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "earth",
+   "Description": "Tarbela Dam on the Indus River is the world's largest ____-filled dam.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Sialkot",
+   "Description": "The Brazuca, the official ball of the 2014 FIFA World Cup, was made in the Pakistani city of ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "surgical",
+   "Description": "Besides footballs, the city of Sialkot is one of the world's biggest exporters of ____ instruments.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "mosque",
+   "Description": "Deep inside the Khewra Salt Mine, visitors can see a small ____ built entirely from salt bricks.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Salt",
+   "Description": "Most of the \"Himalayan pink salt\" sold around the world is actually mined in Pakistan's ____ Range.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Giants",
+   "Description": "The high Deosai Plains in Gilgit-Baltistan are known locally as the \"Land of ____\".",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "polo",
+   "Description": "The Shandur Pass, at about 3,700 metres, is home to the world's highest ____ ground.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "goat",
+   "Description": "Pakistan's national animal, the markhor, is a wild ____ with corkscrew-shaped horns.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "partridge",
+   "Description": "Pakistan's national bird, the chukar, is a type of ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Jasmine",
+   "Description": "Pakistan's national flower is ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "deodar",
+   "Description": "Pakistan's national tree is the ____ cedar.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "blind",
+   "Description": "The Indus river dolphin is practically ____, so it finds its way using echolocation.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Bath",
+   "Description": "Mohenjo-daro, built around 2500 BC, had a large public water tank that archaeologists call the Great ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Dead",
+   "Description": "The name Mohenjo-daro is usually translated as \"Mound of the ____\".",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "tent",
+   "Description": "Islamabad's Faisal Mosque, designed by Turkish architect Vedat Dalokay, was shaped to look like a desert ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Karachi",
+   "Description": "Before Islamabad was built in the 1960s, Pakistan's capital was ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "ambulance",
+   "Description": "In 1997, Guinness World Records listed the Edhi Foundation as running the world's largest volunteer ____ network.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "17",
+   "Description": "Malala Yousafzai became the youngest-ever Nobel Prize winner at the age of ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Melbourne",
+   "Description": "Pakistan won the 1992 Cricket World Cup in a final played in ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "four",
+   "Description": "Pakistan has won the men's Hockey World Cup a record ____ times.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "555",
+   "Description": "Squash legend Jahangir Khan once went unbeaten for over five years, winning ____ matches in a row.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "mirrors",
+   "Description": "The Sheesh Mahal inside Lahore Fort is famous for walls and ceilings covered in thousands of tiny ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Aurangzeb",
+   "Description": "Lahore's Badshahi Mosque was built in 1673 by the Mughal emperor ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Oman",
+   "Description": "The port city of Gwadar belonged to ____ until Pakistan bought it in 1958.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "minorities",
+   "Description": "The white stripe on Pakistan's flag stands for the country's religious ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Sher Shah Suri",
+   "Description": "The massive Rohtas Fort near Jhelum was built by the Afghan ruler ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "graveyards",
+   "Description": "Makli, near Thatta in Sindh, is one of the largest ____ in the world, with hundreds of thousands of tombs.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "motorway",
+   "Description": "Opened in 1997, the Lahore–Islamabad M-2 was the first ____ in South Asia.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "landslide",
+   "Description": "Hunza's turquoise Attabad Lake did not exist until a huge ____ blocked the Hunza River in 2010.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "lawyer",
+   "Description": "Before founding Pakistan, Muhammad Ali Jinnah trained in London at Lincoln's Inn to become a ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Germany",
+   "Description": "Allama Iqbal earned his doctorate in philosophy from a university in ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Shah Jahan",
+   "Description": "Lahore's Shalimar Gardens were built by ____, the same Mughal emperor who built the Taj Mahal.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "161.3",
+   "Description": "In 2003, Shoaib Akhtar bowled the fastest delivery ever recorded in cricket, at ____ km/h.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "9",
+   "Description": "In 2004, Pakistani schoolgirl Arfa Karim became the world's youngest Microsoft Certified Professional at just ____ years old.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Hope",
+   "Description": "In Balochistan's Hingol National Park stands a natural rock formation called the \"Princess of ____\".",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Cathedral",
+   "Description": "The jagged Passu Cones in Gilgit-Baltistan are also known as the Passu ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Indus",
+   "Description": "The word \"India\" ultimately comes from the name of the ____ River, which flows through Pakistan.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Cambridge",
+   "Description": "The name \"Pakistan\" was coined in 1933 by Choudhry Rahmat Ali while he was a student at ____ University.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Rudyard Kipling",
+   "Description": "Zamzama, the giant cannon outside the Lahore Museum, is also called \"Kim's Gun\" after a novel by ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Gama",
+   "Description": "Wrestler Ghulam Muhammad Baksh, never defeated in a career of more than 50 years, is remembered as \"The Great ____\".",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Nandana",
+   "Description": "In the 11th century, al-Biruni estimated the size of the Earth by taking measurements from a hilltop fort at ____, in today's Punjab, Pakistan.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "glaciers",
+   "Description": "Pakistan has more than 7,000 ____, more than almost any country outside the polar regions.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Ayub Ommaya",
+   "Description": "The Ommaya reservoir, a device that delivers medicine straight into the brain, was invented by Pakistani neurosurgeon ____.",
+   "Category": "Pakistan Facts",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Fatima al-Fihri",
+   "Description": "The world's oldest university still operating, al-Qarawiyyin in Fez, Morocco, was founded in 859 by a woman named ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "continents",
+   "Description": "Istanbul is the only major city in the world that lies on two ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Indonesia",
+   "Description": "The country with the largest Muslim population in the world is ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "minutes",
+   "Description": "Because of its height, residents on the top floors of Dubai's Burj Khalifa are told to break their Ramadan fast a few ____ later than people on the ground.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "gold",
+   "Description": "The Kiswah, the black cloth that covers the Kaaba, is embroidered with ____ and silver thread and replaced every year.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "1.5",
+   "Description": "The Maldives is the lowest country on Earth, with an average height of only about ____ metres above sea level.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "1,788",
+   "Description": "The Sultan of Brunei's palace, the largest residential palace in the world, has about ____ rooms.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Algiers",
+   "Description": "The world's tallest minaret, at 265 metres, belongs to the Great Mosque of ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Atlantic Ocean",
+   "Description": "Part of Casablanca's Hassan II Mosque is built out over the ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "mud",
+   "Description": "The Great Mosque of Djenné in Mali is the largest building in the world made of ____ bricks.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "gold",
+   "Description": "When Mansa Musa of Mali passed through Cairo on his way to Hajj in 1324, he gave away so much ____ that its value there crashed for years.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "30",
+   "Description": "The Moroccan explorer Ibn Battuta spent nearly ____ years travelling across Africa, Asia and the Middle East.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Yemen",
+   "Description": "Coffee first became popular in 15th-century ____, where Sufis drank it to stay awake for night prayers.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "turban",
+   "Description": "The word \"tulip\" is thought to come from the Persian and Turkish word for ____, because of the flower's shape.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "rivers",
+   "Description": "Saudi Arabia is the largest country in the world with no permanent ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "dinar",
+   "Description": "The world's highest-valued currency unit is the Kuwaiti ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Quarter",
+   "Description": "Arabia's Rub' al Khali, the largest continuous sand desert on Earth, is called the Empty ____ in English.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "star",
+   "Description": "The floor plan of Malaysia's Petronas Towers is based on an Islamic eight-pointed ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "dive",
+   "Description": "Every summer, young men in Mostar, Bosnia, keep up a centuries-old tradition: they ____ off the Ottoman-era Old Bridge into the river.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Iran",
+   "Description": "The world's largest hand-knotted carpet, in Abu Dhabi's Sheikh Zayed Grand Mosque, was woven in ____.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Mosques",
+   "Description": "Dhaka, the capital of Bangladesh, is nicknamed the \"City of ____\".",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Fatimid",
+   "Description": "Cairo's Al-Azhar, one of the oldest universities in the world, was founded in 970 by the ____ dynasty.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "17,000",
+   "Description": "Indonesia is made up of more than ____ islands.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "seas",
+   "Description": "The name Bahrain means \"two ____\" in Arabic.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "dragon",
+   "Description": "Yemen's Socotra island is home to the umbrella-shaped \"____'s blood tree\", which oozes red sap.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Arab",
+   "Description": "The 2022 FIFA World Cup in Qatar was the first World Cup ever held in the ____ world.",
+   "Category": "Muslim World",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "al-Khwarizmi",
+   "Description": "The word \"algorithm\" comes from the name of the 9th-century Muslim mathematician ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "restoration",
+   "Description": "The word \"algebra\" comes from the Arabic \"al-jabr\", meaning the \"____ of broken parts\".",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "mad",
+   "Description": "Ibn al-Haytham, the father of optics, reportedly pretended to be ____ to escape an impossible order from the Fatimid caliph.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "tail",
+   "Description": "After gliding with feathered wings in 9th-century Córdoba, Abbas ibn Firnas hurt his back on landing and blamed it on not having a ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "elephant",
+   "Description": "In 1206, the engineer al-Jazari described a famous water clock shaped like an ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "200",
+   "Description": "The Andalusian surgeon al-Zahrawi described more than ____ surgical instruments in his 10th-century medical encyclopedia.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Wisdom",
+   "Description": "In Abbasid Baghdad, scholars at the House of ____ translated Greek, Persian and Indian books into Arabic.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "ink",
+   "Description": "When the Mongols sacked Baghdad in 1258, so many books were thrown into the Tigris that the river was said to run black with ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "1187",
+   "Description": "Salahuddin Ayyubi recaptured Jerusalem from the Crusaders in the year ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "21",
+   "Description": "Sultan Mehmed II conquered Constantinople in 1453 when he was just ____ years old.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "land",
+   "Description": "To get past a giant chain blocking the Golden Horn in 1453, the Ottomans moved dozens of warships over ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "17",
+   "Description": "Muhammad bin Qasim was only about ____ years old when he led the Umayyad army into Sindh in 711.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tariq",
+   "Description": "The name \"Gibraltar\" comes from the Arabic \"Jabal Tariq\", meaning \"Mountain of ____\".",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Umar",
+   "Description": "The Islamic Hijri calendar was introduced during the caliphate of ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "nurse",
+   "Description": "Rufaida al-Aslamia, who set up a tent to treat the wounded in the time of the Prophet (PBUH), is often called the first Muslim ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "asteroid",
+   "Description": "Mariam al-Ijliya, a 10th-century astrolabe maker from Aleppo, has an ____ named after her.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Arabic",
+   "Description": "Many bright stars, such as Aldebaran, Altair and Rigel, have names that come from ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Timur",
+   "Description": "Ulugh Beg, who built a great observatory in Samarkand, was the grandson of the conqueror ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Uzbekistan",
+   "Description": "Babur, founder of the Mughal Empire, was born in the Fergana Valley in today's ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "read",
+   "Description": "Despite building up a huge library, Mughal emperor Akbar is believed never to have learned to ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "bimaristans",
+   "Description": "Hospitals in the medieval Islamic world, some with free care and separate wards, were called ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Muslim",
+   "Description": "Zheng He, the Chinese admiral who led giant treasure fleets across the Indian Ocean in the 1400s, was a ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "South America",
+   "Description": "The Ottoman admiral Piri Reis drew a famous world map in 1513 that shows part of the coast of ____.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "hands",
+   "Description": "In 953, the Fatimid caliph al-Mu'izz asked for a pen that would not stain his ____, leading to an early fountain pen.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Justice",
+   "Description": "Mughal emperor Jahangir hung a golden \"Chain of ____\" with bells outside his palace so any subject could call for his help.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "rockets",
+   "Description": "Tipu Sultan's iron-cased ____ impressed the British so much that they developed their own after the Mysore Wars.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "coffee",
+   "Description": "Ottoman Sultan Murad IV banned ____ in the 1600s and is said to have patrolled Istanbul in disguise to enforce it.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Talas",
+   "Description": "Muslims are said to have learned papermaking from Chinese prisoners captured at the Battle of ____ in 751.",
+   "Category": "Islamic History",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "radioactive",
+   "Description": "Bananas are very slightly ____ because they contain potassium.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "year",
+   "Description": "A single day on Venus lasts longer than its ____.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tanzania",
+   "Description": "The puzzling effect where hot water can sometimes freeze faster than cold is named after Erasto Mpemba, a schoolboy from ____.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "carbon",
+   "Description": "Diamonds and pencil \"lead\" (graphite) are made of the same element: ____.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "300",
+   "Description": "Babies are born with around ____ bones, many of which fuse together as they grow.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "8",
+   "Description": "Sunlight takes about ____ minutes to travel from the Sun to the Earth.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "15",
+   "Description": "On hot summer days, the Eiffel Tower can grow about ____ centimetres taller as its iron expands.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Sun",
+   "Description": "The centre of the Earth is roughly as hot as the surface of the ____.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "water",
+   "Description": "Saturn is less dense than ____, so in theory it would float in a big enough bathtub.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "five",
+   "Description": "A bolt of lightning can be about ____ times hotter than the surface of the Sun.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "3.8",
+   "Description": "The Moon drifts about ____ centimetres further away from the Earth every year.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Chimborazo",
+   "Description": "Because the Earth bulges at the equator, the point farthest from its centre is the top of Ecuador's Mount ____, not Everest.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "footprints",
+   "Description": "With no wind or rain on the Moon, the astronauts' ____ could stay there for millions of years.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Mars",
+   "Description": "The tallest known volcano in the solar system, Olympus Mons, is on ____.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "lakes",
+   "Description": "About 6,000 years ago, much of the Sahara was green, covered in grassland and ____.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Antarctica",
+   "Description": "The largest desert in the world is ____.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "honey",
+   "Description": "Archaeologists have found pots of ____ in ancient Egyptian tombs that were still edible after thousands of years.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "tonnes",
+   "Description": "A single teaspoon of material from a neutron star would weigh about a billion ____.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "1.3 million",
+   "Description": "The Sun is so big that about ____ Earths could fit inside it.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "green",
+   "Description": "Just as the Sun sets over a clear sea horizon, observers can sometimes see a brief, rare flash of ____ light.",
+   "Category": "Science Surprises",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "three",
+   "Description": "An octopus has ____ hearts and blue blood.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "fat",
+   "Description": "A camel's hump stores ____, not water.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "head",
+   "Description": "A shrimp's heart is located in its ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "shrimp",
+   "Description": "Flamingos are born grey and turn pink thanks to pigments in the algae and tiny ____ they eat.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "fingerprints",
+   "Description": "Koalas have ____ so similar to humans' that they could confuse a crime scene.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "hummingbird",
+   "Description": "The ____ is the only bird that can fly backwards.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "faces",
+   "Description": "Studies show crows can remember human ____ and hold a grudge for years.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "jump",
+   "Description": "Adult elephants are one of the few mammals that cannot ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "space",
+   "Description": "Tiny animals called tardigrades, or \"water bears\", have survived being exposed to outer ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "hands",
+   "Description": "Sea otters sometimes hold ____ while they sleep so they do not drift apart.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "chirp",
+   "Description": "Cheetahs cannot roar, but they can make a high-pitched ____ that sounds like a bird.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "50",
+   "Description": "A giraffe's dark blue-black tongue can be about ____ centimetres long.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "bats",
+   "Description": "The only mammals capable of true flight are ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "270",
+   "Description": "An owl can turn its head about ____ degrees.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "parliament",
+   "Description": "A group of owls is called a ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "father",
+   "Description": "In seahorses, it is the ____ that gives birth to the babies.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "70,000",
+   "Description": "The Arctic tern makes the longest migration of any animal, flying around ____ km every year.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "car",
+   "Description": "A blue whale's heart is roughly the size of a small ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "roar",
+   "Description": "Snow leopards, which live in Pakistan's northern mountains, cannot ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "feet",
+   "Description": "Butterflies taste their food with their ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "brain",
+   "Description": "An ostrich's eye is bigger than its ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "blood",
+   "Description": "Starfish have no ____; they pump seawater through their bodies instead.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "eye",
+   "Description": "Dolphins can sleep with one ____ open.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "glass",
+   "Description": "The mantis shrimp punches so hard and fast that it can crack aquarium ____.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "sweet",
+   "Description": "Cats cannot taste ____ flavours.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "peregrine falcon",
+   "Description": "Diving at over 300 km/h, the ____ is the fastest animal on Earth.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "three",
+   "Description": "Camels have ____ eyelids on each eye to protect them from blowing sand.",
+   "Category": "Animal Kingdom",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Pyramid",
+   "Description": "Cleopatra lived closer in time to the Moon landing than to the building of the Great ____ of Giza.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Aztec",
+   "Description": "Teaching at Oxford University began before the ____ Empire was even founded.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "38",
+   "Description": "The shortest war in history, between Britain and Zanzibar in 1896, lasted about ____ minutes.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Moon",
+   "Description": "Despite the popular myth, the Great Wall of China cannot be seen with the naked eye from the ____.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "20",
+   "Description": "The Eiffel Tower was only supposed to stand for ____ years before being taken down.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "116",
+   "Description": "The Hundred Years' War between England and France actually lasted ____ years.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tug of war",
+   "Description": "____ was an official Olympic sport from 1900 to 1920.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "medicine",
+   "Description": "In the 1830s, ketchup was sold in America as a ____.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "purple",
+   "Description": "Before the 1600s, most cultivated carrots were yellow or ____, not orange.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "beards",
+   "Description": "Russian Tsar Peter the Great introduced a tax on ____.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "rabbits",
+   "Description": "According to one account, Napoleon was once overrun by hundreds of ____ during a hunt held in his honour.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Philippines",
+   "Description": "Japanese soldier Hiroo Onoda kept fighting in the jungles of the ____ until 1974 because he refused to believe the war had ended.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Summer",
+   "Description": "After Indonesia's Mount Tambora erupted in 1815, the following year became known as the \"Year Without a ____\".",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "mammoths",
+   "Description": "Woolly ____ were still alive on a remote Arctic island when the Great Pyramid was being built.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "salt",
+   "Description": "The word \"salary\" is linked to the Latin word for ____.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "China",
+   "Description": "The world's first paper money was used in ____.",
+   "Category": "History Oddities",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "burrs",
+   "Description": "Velcro was invented after a Swiss engineer noticed sticky plant ____ clinging to his dog's fur.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "chocolate bar",
+   "Description": "The microwave oven was invented after engineer Percy Spencer noticed radar equipment had melted a ____ in his pocket.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "wallpaper",
+   "Description": "Bubble wrap was originally meant to be sold as textured ____.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "mould",
+   "Description": "Alexander Fleming discovered penicillin in 1928 after noticing a ____ killing bacteria on a dish he had left out.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "gun sights",
+   "Description": "Super Glue was discovered by accident during World War II while scientists were trying to make clear plastic ____.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "11",
+   "Description": "The ice lolly on a stick was invented by accident in 1905 by an ____-year-old boy who left his drink outside on a cold night.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "tram",
+   "Description": "Mary Anderson came up with windscreen wipers after a snowy ride on a ____ in New York.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "glue",
+   "Description": "Post-it Notes exist because a scientist trying to make a super-strong ____ accidentally made a weak one instead.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "moth",
+   "Description": "The first recorded computer \"bug\", in 1947, was a real ____ stuck in a relay.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "car parts",
+   "Description": "QR codes were invented in Japan in 1994 to keep track of ____.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "architecture",
+   "Description": "Ernő Rubik invented his famous cube in 1974 as a teaching tool while he was a professor of ____.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "tyres",
+   "Description": "Kevlar, used in bulletproof vests, was invented by chemist Stephanie Kwolek while she was searching for a stronger material for car ____.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Sears",
+   "Description": "Bangladeshi-American engineer Fazlur Rahman Khan, whose designs made modern skyscrapers possible, was the structural engineer of Chicago's ____ Tower.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Japan",
+   "Description": "Instant noodles were invented in 1958 by Momofuku Ando in ____.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "coffee pot",
+   "Description": "One of the world's first webcams, at Cambridge University, was set up to watch a ____.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Danish",
+   "Description": "Bluetooth technology is named after Harald Bluetooth, a 10th-century ____ king.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "paper",
+   "Description": "René Laennec made the first stethoscope in 1816 from a rolled-up tube of ____.",
+   "Category": "Inventions",
+   "action": "add",
+   "note": "New card"
   }
  ]
 }

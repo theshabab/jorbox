@@ -1616,21 +1616,21 @@
   },
   {
    "id": "game12-180",
-   "Name": "Dumpster",
-   "action": "keep",
+   "Name": "Dustbin",
+   "action": "edit",
    "original": {
     "Name": "Dumpster"
    },
-   "note": ""
+   "note": "Sweep: US term (dumpster) replaced with local word"
   },
   {
    "id": "game12-181",
    "Name": "Dung",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Dung"
    },
-   "note": ""
+   "note": "Sweep: toilet humour (dung)"
   },
   {
    "id": "game12-182",
@@ -2984,12 +2984,12 @@
   },
   {
    "id": "game12-332",
-   "Name": "Lasso",
-   "action": "keep",
+   "Name": "Charpai",
+   "action": "edit",
    "original": {
     "Name": "Lasso"
    },
-   "note": ""
+   "note": "Sweep: US cowboy item (lasso) replaced with local noun"
   },
   {
    "id": "game12-333",
@@ -4092,20 +4092,20 @@
   {
    "id": "game12-455",
    "Name": "Potion",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Potion"
    },
-   "note": ""
+   "note": "Sweep: magic (potion)"
   },
   {
    "id": "game12-456",
    "Name": "Potty",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Potty"
    },
-   "note": ""
+   "note": "Sweep: toilet humour (potty)"
   },
   {
    "id": "game12-457",
@@ -4505,12 +4505,12 @@
   },
   {
    "id": "game12-501",
-   "Name": "Rodeo",
-   "action": "keep",
+   "Name": "Mela",
+   "action": "edit",
    "original": {
     "Name": "Rodeo"
    },
-   "note": ""
+   "note": "Sweep: US-only (rodeo) replaced with local noun"
   },
   {
    "id": "game12-502",
@@ -5468,12 +5468,12 @@
   },
   {
    "id": "game12-608",
-   "Name": "Taco",
-   "action": "keep",
+   "Name": "Samosa",
+   "action": "edit",
    "original": {
     "Name": "Taco"
    },
-   "note": ""
+   "note": "Sweep: Mexican/US food (taco) replaced with local noun"
   },
   {
    "id": "game12-609",
@@ -7646,12 +7646,12 @@
   },
   {
    "id": "game12-850",
-   "Name": "Cowboy Hat",
-   "action": "keep",
+   "Name": "Pagri",
+   "action": "edit",
    "original": {
     "Name": "Cowboy Hat"
    },
-   "note": ""
+   "note": "Sweep: US-only (cowboy hat) replaced with local noun"
   },
   {
    "id": "game12-851",
@@ -7772,12 +7772,12 @@
   },
   {
    "id": "game12-864",
-   "Name": "Baseball",
-   "action": "keep",
+   "Name": "Hockey Stick",
+   "action": "edit",
    "original": {
     "Name": "Baseball"
    },
-   "note": ""
+   "note": "Sweep: US sport (baseball) replaced"
   },
   {
    "id": "game12-865",
