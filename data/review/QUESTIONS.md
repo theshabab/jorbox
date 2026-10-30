@@ -16,6 +16,7 @@ Answer any time; work continues meanwhile. Newest games at the bottom.
 - US-centric content: replace most of it with Pakistani or world equivalents.
 - Gross-out humour: keep mild ones (burps, slime); remove bathroom and toilet jokes.
 - Haiwani Pattay: political jokes naming real politicians are allowed (restored); stage magic tricks are allowed; army in-jokes, jinn, nazar and peer/baba jokes are kept; old pack-named categories are merged into "Classic".
+- Worship-related personal questions (Umrah, Hajj, Sehri) in Dilchasp Haqaiq, "Hajj Pilgrim" and "Muezzin" Karobari customers, and "Fireworks" in the shaadi word list are all kept.
 - Mildly dark items (coffins, guns, bombs, heaven/hell, "death by frisbee"): keep.
 
 ## Charades (Banned Words): done

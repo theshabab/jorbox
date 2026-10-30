@@ -2736,9 +2736,9 @@
   {
    "id": "game3-211",
    "Name": "Draw a fun boat.",
-   "Description": "Draw a whale spout.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the <i>Titanic</i>.|Draw a duck boat.",
+   "Description": "Draw a whale spout.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the Titanic.|Draw a duck boat.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw a fun boat.",
     "Description": "Draw a whale spout.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the <i>Titanic</i>.|Draw a duck boat.",
@@ -3022,7 +3022,7 @@
   {
    "id": "game3-233",
    "Name": "Draw running late.",
-   "Description": "Draw <i>The Scream</i>.|Draw arriving early.|Draw crazy driving.|Draw speed walking.|Draw an explosion.|Draw an alarm clock.|Draw lying in bed.|Draw a coffin.|Draw “hurry, hurry, hurry!”",
+   "Description": "Draw The Scream.|Draw arriving early.|Draw crazy driving.|Draw speed walking.|Draw an explosion.|Draw an alarm clock.|Draw lying in bed.|Draw a coffin.|Draw “hurry, hurry, hurry!”",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3542,7 +3542,7 @@
   {
    "id": "game3-273",
    "Name": "Draw your favorite dinosaur.",
-   "Description": "Draw a small turtle.|Draw a beaver.|Draw a really big dog.|Draw a vegetarian dinosaur.|Draw a big monster bird.|Draw a <i>Velociraptor</i>.|Draw a <i>T. rex</i>.|Draw a big lizard.|Draw an upright alligator.",
+   "Description": "Draw a small turtle.|Draw a beaver.|Draw a really big dog.|Draw a vegetarian dinosaur.|Draw a big monster bird.|Draw a Velociraptor.|Draw a T. rex.|Draw a big lizard.|Draw an upright alligator.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3607,7 +3607,7 @@
   {
    "id": "game3-278",
    "Name": "Draw Leonardo da Vinci.",
-   "Description": "Draw an old inventor.|Draw a bearded scientist.|Draw an old-timey painter.|Draw the <i>Mona Lisa</i>.|Draw Michelangelo.|Draw Galileo.|Draw Julius Caesar.",
+   "Description": "Draw an old inventor.|Draw a bearded scientist.|Draw an old-timey painter.|Draw the Mona Lisa.|Draw Michelangelo.|Draw Galileo.|Draw Julius Caesar.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
