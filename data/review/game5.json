@@ -7403,7 +7403,7 @@
   {
    "id": "game5-570",
    "Name": "",
-   "Description": "____ + ____\\n= ____.",
+   "Description": "____ + ____ = ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7411,7 +7411,7 @@
     "Description": "____ + ____\\n= ____.",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "QA: removed literal \\n token"
   },
   {
    "id": "game5-571",
@@ -7702,7 +7702,7 @@
   {
    "id": "game5-593",
    "Name": "",
-   "Description": "This is the way the world ends\\nThis is the way the world ends\\nNot with a bang but with ____.",
+   "Description": "This is the way the world ends. This is the way the world ends. Not with a bang but with ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7710,7 +7710,7 @@
     "Description": "This is the way the world ends\\nThis is the way the world ends\\nNot with a bang but with ____.",
     "Category": "Base Game"
    },
-   "note": ""
+   "note": "QA: removed literal \\n tokens"
   },
   {
    "id": "game5-594",
@@ -8118,7 +8118,7 @@
   {
    "id": "game5-625",
    "Name": "",
-   "Description": "MY NAME CHUNGO.\\nCHUNGO LOVE ____.",
+   "Description": "MY NAME CHUNGO. CHUNGO LOVE ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8126,7 +8126,7 @@
     "Description": "MY NAME CHUNGO.\\nCHUNGO LOVE ____.",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "QA: removed literal \\n token"
   },
   {
    "id": "game5-626",
@@ -35327,7 +35327,7 @@
   {
    "id": "game5-2718",
    "Name": "",
-   "Description": "I lost at Ludo, so now I owe my cousin ____.",
+   "Description": "I lost at Ludo, so now my cousin is making me ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -35335,7 +35335,7 @@
     "Description": "I ran out of money, so I started betting ____ at the Ludo game.",
     "Category": ""
    },
-   "note": "Removed betting"
+   "note": "Removed betting; QA: removed betting/owing implication"
   },
   {
    "id": "game5-2719",
@@ -41138,7 +41138,7 @@
   {
    "id": "game5-3165",
    "Name": "",
-   "Description": "In a new novel by Umera Ahmed, a young girl's life is turned upside down by ____.",
+   "Description": "In a new digest novel, a young girl's life is turned upside down by ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -41146,7 +41146,7 @@
     "Description": "In a new novel by Umera Ahmed, a young girl tragically falls in love with ____.",
     "Category": ""
    },
-   "note": "removed romance"
+   "note": "removed romance; QA: removed real living author"
   },
   {
    "id": "game5-3166",
@@ -72390,7 +72390,7 @@
   {
    "id": "game5-5569",
    "Name": "",
-   "Description": "What made watching the drama serial with my parents awkward?",
+   "Description": "What made the long car ride with my parents awkward?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -72398,7 +72398,7 @@
     "Description": "What made watching the movie with my parents awkward?",
     "Category": ""
    },
-   "note": "movie -> drama serial"
+   "note": "movie -> drama serial; QA: drama-with-parents version invited romantic-scene answers"
   },
   {
    "id": "game5-5570",
@@ -76472,7 +76472,7 @@
   {
    "id": "game5-5883",
    "Name": "",
-   "Description": "When I was being searched at the airport, the FIA officer remarked, \"____.\"",
+   "Description": "When my luggage was searched at the airport, the customs officer remarked, \"____.\"",
    "Category": "",
    "action": "edit",
    "original": {
@@ -76480,7 +76480,7 @@
     "Description": "when I was being frisked, the FIA agent remarked ____",
     "Category": ""
    },
-   "note": "frisked -> searched; punctuation"
+   "note": "frisked -> searched; punctuation; QA: body-search framing invited crude answers"
   },
   {
    "id": "game5-5884",
@@ -82166,7 +82166,7 @@
   {
    "id": "game5-6321",
    "Name": "",
-   "Description": "He doesn't know it but I love ____.",
+   "Description": "Abba doesn't know it but I secretly love ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -82174,7 +82174,7 @@
     "Description": "HE DOESN'T KNOW IT BUT I LOVE ____.",
     "Category": ""
    },
-   "note": "case"
+   "note": "case; QA: avoid crush reading"
   },
   {
    "id": "game5-6322",
@@ -88185,7 +88185,7 @@
   {
    "id": "game5-6784",
    "Name": "",
-   "Description": "First, the Grinch stole Eid. But he went too far when he stole ____",
+   "Description": "First, the neighbour's cat stole the Eid sweets. But it went too far when it stole ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -88193,7 +88193,7 @@
     "Description": "First, the Grinch stole Eid. But he went too far when he stole <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; QA: Grinch is a Christmas character"
   },
   {
    "id": "game5-6785",

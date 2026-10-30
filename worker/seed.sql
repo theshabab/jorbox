@@ -15696,7 +15696,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-775','game15','Salvator Mundi','$450M (da Vinci, 2017)','Most Expensive Paintings (Sold Price - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-776','game15','Interchange','~$300M (de Kooning, 2015)','Most Expensive Paintings (Sold Price - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-777','game15','The Card Players','~$250M (Cézanne, 2011)','Most Expensive Paintings (Sold Price - High to Low)');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-778','game15','Nafea Faa Ipoipo','~$210M (Gauguin, 2014)','Most Expensive Paintings (Sold Price - High to Low)');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-778','game15','Nafea Faa Ipoipo','~$210M (Gauguin, private sale)','Most Expensive Paintings (Sold Price - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-779','game15','Number 17A','~$200M (Pollock, 2015)','Most Expensive Paintings (Sold Price - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-780','game15','The Standard Bearer','~$198M (Rembrandt, 2022)','Most Expensive Paintings (Sold Price - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-781','game15','Portraits of Maerten Soolmans and Oopjen Coppit','~$180M (Rembrandt, 2016)','Most Expensive Paintings (Sold Price - High to Low)');
@@ -15742,7 +15742,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-821','game15','Beijing','c. 1045 BC','World Cities By Date Founded');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-822','game15','Rome','753 BC','World Cities By Date Founded');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-823','game15','Paris','c. 250 BC','World Cities By Date Founded');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-824','game15','London','43 AD','World Cities By Date Founded');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-824','game15','London','c. 47 AD (Roman Londinium)','World Cities By Date Founded');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-825','game15','Baghdad','762 AD','World Cities By Date Founded');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-826','game15','Moscow','1147 (first recorded)','World Cities By Date Founded');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-827','game15','New York City','1624 (as New Amsterdam)','World Cities By Date Founded');
