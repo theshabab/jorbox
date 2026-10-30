@@ -2725,65 +2725,65 @@
    "Name": "Pacific Ocean",
    "Description": "~165 million km²",
    "Category": "Largest Oceans (Area)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Pacific Ocean",
     "Description": "1",
     "Category": "Largest Oceans (Area)"
    },
-   "note": "bare rank replaced with area"
+   "note": "Debate: Duplicates the same ocean and value in 'Bodies of Water By Size (km²)'"
   },
   {
    "id": "game15-211",
    "Name": "Atlantic Ocean",
    "Description": "~106 million km²",
    "Category": "Largest Oceans (Area)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Atlantic Ocean",
     "Description": "2",
     "Category": "Largest Oceans (Area)"
    },
-   "note": "bare rank replaced with area"
+   "note": "Debate: Duplicates the same ocean in 'Bodies of Water By Size (km²)'"
   },
   {
    "id": "game15-212",
    "Name": "Indian Ocean",
    "Description": "~71 million km²",
    "Category": "Largest Oceans (Area)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Indian Ocean",
     "Description": "3",
     "Category": "Largest Oceans (Area)"
    },
-   "note": "bare rank replaced with area"
+   "note": "Debate: Duplicates the same ocean in 'Bodies of Water By Size (km²)'"
   },
   {
    "id": "game15-213",
    "Name": "Southern Ocean",
    "Description": "~20 million km²",
    "Category": "Largest Oceans (Area)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Southern Ocean",
     "Description": "4",
     "Category": "Largest Oceans (Area)"
    },
-   "note": "bare rank replaced with area"
+   "note": "Debate: Duplicates the same ocean in 'Bodies of Water By Size (km²)'"
   },
   {
    "id": "game15-214",
    "Name": "Arctic Ocean",
    "Description": "~14 million km²",
    "Category": "Largest Oceans (Area)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Arctic Ocean",
     "Description": "5",
     "Category": "Largest Oceans (Area)"
    },
-   "note": "bare rank replaced with area"
+   "note": "Debate: Duplicates the same ocean in 'Bodies of Water By Size (km²)'"
   },
   {
    "id": "game15-215",
@@ -2800,16 +2800,16 @@
   },
   {
    "id": "game15-216",
-   "Name": "Email",
-   "Description": "1971",
+   "Name": "First Network Email",
+   "Description": "1971 (Ray Tomlinson, ARPANET)",
    "Category": "Internet Milestones (Chronological)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Email",
     "Description": "1971",
     "Category": "Internet Milestones (Chronological)"
    },
-   "note": ""
+   "note": "Debate: Names the 1971 milestone, the first email between networked computers. Email on a single computer existed earlier, so 'First Email' alone would be inaccurate."
   },
   {
    "id": "game15-217",
@@ -3282,7 +3282,7 @@
   {
    "id": "game15-253",
    "Name": "Embryo",
-   "Description": "Weeks 2-8 of pregnancy",
+   "Description": "Weeks 2-8 after fertilisation",
    "Category": "Life Stages (Human - Chronological)",
    "action": "edit",
    "original": {
@@ -3290,12 +3290,12 @@
     "Description": "2",
     "Category": "Life Stages (Human - Chronological)"
    },
-   "note": "bare rank replaced with stage timing"
+   "note": "bare rank replaced with stage timing; Debate: The embryonic period is counted from fertilisation, not in pregnancy weeks"
   },
   {
    "id": "game15-254",
    "Name": "Fetus",
-   "Description": "Week 9 to birth",
+   "Description": "Week 9 after fertilisation to birth",
    "Category": "Life Stages (Human - Chronological)",
    "action": "edit",
    "original": {
@@ -3303,7 +3303,7 @@
     "Description": "3",
     "Category": "Life Stages (Human - Chronological)"
    },
-   "note": "bare rank replaced with stage timing"
+   "note": "bare rank replaced with stage timing; Debate: Uses the same fertilisation-based counting as the corrected Embryo card"
   },
   {
    "id": "game15-255",
@@ -3854,7 +3854,7 @@
   {
    "id": "game15-297",
    "Name": "Snail",
-   "Description": "0.01 m/s",
+   "Description": "~0.001 m/s (about 1 mm/s)",
    "Category": "Speeds (Slow to Fast, Approx.)",
    "action": "edit",
    "original": {
@@ -3862,7 +3862,7 @@
     "Description": "0.01 m/s",
     "Category": "Speeds (Ascending order approx)"
    },
-   "note": "category name clarified"
+   "note": "category name clarified; Debate: A garden snail moves at about 1 mm/s, so 0.01 m/s was about 10 times too fast; the order does not change"
   },
   {
    "id": "game15-298",
@@ -28561,6 +28561,46 @@
    "Category": "Shortest Surahs (Ayat Count - Ascending)",
    "action": "add",
    "note": "New card (debate): Al-Qadr has 5 ayat and is missing, even though the category already reaches 6-ayat surahs."
+  },
+  {
+   "id": null,
+   "Name": "Hazaar",
+   "Description": "1,000",
+   "Category": "Desi Numbers (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): New local category using the lakh/crore system; no such category exists in the deck yet"
+  },
+  {
+   "id": null,
+   "Name": "Lakh",
+   "Description": "1,00,000 (100 thousand)",
+   "Category": "Desi Numbers (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): New Desi Numbers item; value is correct"
+  },
+  {
+   "id": null,
+   "Name": "Crore",
+   "Description": "1,00,00,000 (10 million)",
+   "Category": "Desi Numbers (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): New Desi Numbers item; value is correct"
+  },
+  {
+   "id": null,
+   "Name": "Arab",
+   "Description": "1,00,00,00,000 (1 billion)",
+   "Category": "Desi Numbers (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): New Desi Numbers item; value is correct"
+  },
+  {
+   "id": null,
+   "Name": "Kharab",
+   "Description": "1,00,00,00,00,000 (100 billion)",
+   "Category": "Desi Numbers (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): New Desi Numbers item (100 arab); value is correct"
   }
  ]
 }

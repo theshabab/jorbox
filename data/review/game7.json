@@ -2502,14 +2502,14 @@
   },
   {
    "id": "game7-228",
-   "Description": "get down from the chandelier if ur human",
+   "Description": "get down from the chandelier if you're human",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "get down from the chandelier if ur human",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fixes the text-speak 'ur'. The joke is unchanged."
   },
   {
    "id": "game7-229",
@@ -2535,14 +2535,14 @@
   },
   {
    "id": "game7-231",
-   "Description": "real thick soda pop",
+   "Description": "real thick cold drink",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "real thick soda pop",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces the American 'soda pop' with the Pakistani 'cold drink'. Still easy to draw."
   },
   {
    "id": "game7-232",
@@ -2601,14 +2601,14 @@
   },
   {
    "id": "game7-237",
-   "Description": "no one is sad at the olive bar",
+   "Description": "no one is sad at the chaat stall",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "no one is sad at the olive bar",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: An olive bar is a Western supermarket thing. A chaat stall keeps the cheerful food-counter joke."
   },
   {
    "id": "game7-238",
@@ -2625,12 +2625,12 @@
    "id": "game7-239",
    "Description": "we all have skin! no one doesn't, except him",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "we all have skin! no one doesn't, except him",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The only literal drawing is a skinless person (gore/body humour), and the wording is confusing. A rewrite can't keep the idea."
   },
   {
    "id": "game7-240",
@@ -2733,14 +2733,14 @@
   },
   {
    "id": "game7-249",
-   "Description": "high-fructose corn scissors",
+   "Description": "sugar-coated scissors",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "high-fructose corn scissors",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'High-fructose corn scissors' is a pun on a US product that Pakistani players won't recognise. The sugary version keeps the absurd food-on-scissors image."
   },
   {
    "id": "game7-250",
@@ -3263,12 +3263,12 @@
    "id": "game7-297",
    "Description": "proud father to beautiful hole",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "proud father to beautiful hole",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: A meme that means nothing out of context, and 'hole' invites crude fake titles in a mixed family group."
   },
   {
    "id": "game7-298",
@@ -18677,6 +18677,62 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): A clean animal-job gag and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a chowkidar sleeping with one eye open",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A local, drawable scene. The full deck has no chowkidar or watchman card (only 'the supermarket guard hates you')."
+  },
+  {
+   "id": null,
+   "Description": "a chipkali doing push-ups on the ceiling",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A familiar household sight made into a gag. The existing lizard and gecko cards are different jokes."
+  },
+  {
+   "id": null,
+   "Description": "a kulfi melting faster than you can eat it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): The deck has no kulfi card. Its melting cards are different jokes, and this one is local and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a bakra hiding behind the curtain a week before Eid",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A gentle, relatable Eid ul Adha joke. The deck has no bakra card."
+  },
+  {
+   "id": null,
+   "Description": "a crow stealing clothes off the washing line",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): An everyday rooftop scene. The existing crow and scarecrow cards are different jokes."
+  },
+  {
+   "id": null,
+   "Description": "a donkey cart overtaking a sports car",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A funny local road scene. The existing donkey cards (rooh afza, donkey moon) are different jokes."
+  },
+  {
+   "id": null,
+   "Description": "an ant carrying away a whole samosa",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A tiny-animal-versus-big-food gag. It differs from the existing ant cards and 'samosa with a lil newt in it'."
+  },
+  {
+   "id": null,
+   "Description": "a sheep at the barber asking for a fade",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A new barber-and-wool joke, distinct from 'sheep in a therapy session' and 'rock paper barber shears'."
   }
  ]
 }

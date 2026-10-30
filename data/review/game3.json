@@ -3178,15 +3178,15 @@
   {
    "id": "game3-245",
    "Name": "Draw a food fight.",
-   "Description": "Draw throwing up.|Draw a pie fight.|Draw fruit being thrown.|Draw a messy kitchen.|Draw World War II.|Draw sound asleep.",
+   "Description": "Draw a pillow fight.|Draw fruit being thrown.|Draw a messy kitchen.|Draw a snowball fight.|Draw a water balloon fight.|Draw a kitchen fire.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw a food fight.",
     "Description": "Draw throwing up.|Draw a pie fight.|Draw fruit being thrown.|Draw a messy kitchen.|Draw World War II.|Draw sound asleep.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Challenger's version: drops gross/irrelevant decoys and the old 'pie fight', and adds no new decoy that is itself a food fight."
   },
   {
    "id": "game3-246",
@@ -3204,7 +3204,7 @@
   {
    "id": "game3-247",
    "Name": "Draw how the dinosaurs died.",
-   "Description": "Draw a dinosaur skeleton.|Draw something scary.|Draw lightning.|Draw a mad baby.|Draw a dinosaur becoming a bird.|Draw a comet.|Draw the ice age.|Draw a volcano.|Draw a flood.",
+   "Description": "Draw a dinosaur skeleton.|Draw something scary.|Draw lightning.|Draw a dinosaur becoming a bird.|Draw a comet.|Draw the ice age.|Draw a volcano.|Draw a flood.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3212,7 +3212,7 @@
     "Description": "Draw <i>Jurassic Park</i>.|Draw something scary.|Draw lightning.|Draw a mad baby.|Draw a dinosaur becoming a bird.|Draw a comet.|Draw the ice age.|Draw a volcano.|Draw a flood.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Jurassic Park"
+   "note": "replaced Jurassic Park; Debate: Remove the irrelevant 'mad baby' decoy."
   },
   {
    "id": "game3-248",
@@ -3230,7 +3230,7 @@
   {
    "id": "game3-249",
    "Name": "Draw a werewolf.",
-   "Description": "Draw a dog wearing glasses.|Draw a ferocious bear.|Draw a scary bear.|Draw an agitated Yeti.",
+   "Description": "Draw a dog wearing glasses.|Draw a ferocious bear.|Draw a wolf howling at the moon.|Draw an agitated Yeti.|Draw a very hairy man.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3238,7 +3238,7 @@
     "Description": "Draw a dog wearing glasses.|Draw a ferocious bear.|Draw a scary bear.|Draw an agitated Bigfoot.",
     "Category": "Drawing 2"
    },
-   "note": "Sweep: US cryptid replaced with Yeti"
+   "note": "Sweep: US cryptid replaced with Yeti; Debate: Replace the duplicate bear decoy with closer werewolf-like decoys."
   },
   {
    "id": "game3-250",
@@ -3412,7 +3412,7 @@
   {
    "id": "game3-263",
    "Name": "Draw one of your fears.",
-   "Description": "Draw something expensive.|Draw a good time.|Draw a happy family.|Draw a scary animal.|Draw a doll.|Draw a fear.|Draw a nightmare you’ve had.|Draw an animal.|Draw an airplane.",
+   "Description": "Draw something expensive.|Draw a good time.|Draw a happy family.|Draw a scary animal.|Draw a doll.|Draw a dentist’s chair.|Draw a nightmare you’ve had.|Draw an animal.|Draw an airplane.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3420,7 +3420,7 @@
     "Description": "Draw something expensive.|Draw a good time.|Draw people in love.|Draw a scary animal.|Draw a doll.|Draw a fear.|Draw a nightmare you’ve had.|Draw an animal.|Draw an airplane.",
     "Category": "Drawing 2"
    },
-   "note": "replaced people in love"
+   "note": "replaced people in love; Debate: 'Draw a fear.' meant the same as the real prompt."
   },
   {
    "id": "game3-264",
@@ -3464,15 +3464,15 @@
   {
    "id": "game3-267",
    "Name": "Draw a handshake.",
-   "Description": "Draw a knife fight.|Draw a thumb war.|Draw a high five.|Draw two people holding hands.|Draw a fist bump.|Draw two people waving at each other.",
+   "Description": "Draw an arm wrestling match.|Draw a thumb war.|Draw a high five.|Draw two people holding hands.|Draw a fist bump.|Draw two people waving at each other.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw a handshake.",
     "Description": "Draw a knife fight.|Draw a thumb war.|Draw a high five.|Draw two people holding hands.|Draw a fist bump.|Draw two people waving at each other.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Replace the violent 'knife fight' with a closer hand-contact decoy."
   },
   {
    "id": "game3-268",
@@ -3503,7 +3503,7 @@
   {
    "id": "game3-270",
    "Name": "Draw a plumber.",
-   "Description": "Draw an Italian person.|Draw a guy with a mustache.|Draw a mechanic.|Draw an electrician.|Draw a tap leaking.",
+   "Description": "Draw a guy with a wrench.|Draw a guy with a mustache.|Draw a mechanic.|Draw an electrician.|Draw a tap leaking.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3511,7 +3511,7 @@
     "Description": "Draw the Pringles mascot|Draw Danny Devito.|Draw an Italian person|Draw <i>Mario Kart</i>.|Draw a plumber.|Draw racoon Mario.|Draw <i>Dr. Mario</i>.|Draw Luigi.|Draw a guy with a mustache.",
     "Category": "Drawing 2"
    },
-   "note": "video game character -> plumber"
+   "note": "video game character -> plumber; Debate: Drop the 'Italian person' stereotype from the video game."
   },
   {
    "id": "game3-271",
@@ -3685,15 +3685,15 @@
   {
    "id": "game3-284",
    "Name": "Draw the last thing you ate.",
-   "Description": "Draw a childhood pet.|Draw a body part.|Draw something expensive.",
+   "Description": "Draw a drink you love.|Draw something from your fridge.|Draw a kitchen utensil.|Draw a dish you can cook.|Draw something expensive.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw the last thing you ate.",
     "Description": "Draw a childhood pet.|Draw a body part.|Draw something expensive.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Judge's amendment: the old decoys were too far off, but 'favorite food'/'breakfast'/'snack' would let any food drawing pass this personal prompt. These are close but still distinguishable."
   },
   {
    "id": "game3-285",
@@ -3711,7 +3711,7 @@
   {
    "id": "game3-286",
    "Name": "Draw an award-winning biryani.",
-   "Description": "Draw a dessert.|Draw a wedding feast.|Draw your favorite farm animal.|Draw a cooking competition.",
+   "Description": "Draw a dessert.|Draw a wedding feast.|Draw a big pot of pulao.|Draw a cooking competition.|Draw a plate of nihari.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3719,7 +3719,7 @@
     "Description": "Draw a dessert.|Draw a wedding cake.|Draw your favorite farm animal.",
     "Category": "Drawing 2"
    },
-   "note": "state fair pie -> local"
+   "note": "state fair pie -> local; Debate: Replace the irrelevant farm-animal decoy with close local dishes."
   },
   {
    "id": "game3-287",
@@ -4049,7 +4049,7 @@
   {
    "id": "game3-312",
    "Name": "Draw a natural disaster.",
-   "Description": "Draw a car accident.|Draw an earthquake.|Draw a horrible storm.|Draw a hurricane.|Draw a barn on fire.|Draw a flood.",
+   "Description": "Draw a car accident.|Draw an earthquake.|Draw a horrible storm.|Draw a cyclone.|Draw a haystack on fire.|Draw a flood.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4057,7 +4057,7 @@
     "Description": "Draw a car accident.|Draw a fart blowing a fancy person’s hat off.|Draw Mary Poppins and her umbrella.|Draw an earthquake.|Draw an action movie scene.|Draw a horrible storm.|Draw a hurricane.|Draw a barn on fire.|Draw Noah’s Ark.",
     "Category": "Drawing 2"
    },
-   "note": "removed crude, film and Noah’s Ark decoys"
+   "note": "removed crude, film and Noah’s Ark decoys; Debate: Light localization."
   },
   {
    "id": "game3-313",
@@ -4153,7 +4153,7 @@
   {
    "id": "game3-320",
    "Name": "Draw a bowl of your favorite cereal.",
-   "Description": "Draw a mug of cocoa and marshmallows.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of cornflakes.|Draw a mascot stealing a bowl of cereal.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a glass of milk.",
+   "Description": "Draw a mug of hot chocolate.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of cornflakes.|Draw a mascot stealing a bowl of cereal.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a glass of milk.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4161,7 +4161,7 @@
     "Description": "Draw a mug of cocoa and marshmallows.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of Cheerios.|Draw a mascot stealing a bowl of cereal.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a handful of Cherrios.",
     "Category": "Drawing 2"
    },
-   "note": "brand names -> cornflakes; typo"
+   "note": "brand names -> cornflakes; typo; Debate: Drop the marshmallows (gelatin)."
   },
   {
    "id": "game3-321",
@@ -4257,15 +4257,15 @@
   {
    "id": "game3-328",
    "Name": "Draw a bear.",
-   "Description": "Draw a Teddy bear.|Draw a cartoon bear.|Draw a ferocious bear.",
+   "Description": "Draw a teddy bear.|Draw a cartoon bear.|Draw a ferocious bear.|Draw a gorilla.|Draw a lion.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw a bear.",
     "Description": "Draw a Teddy bear.|Draw a cartoon bear.|Draw a ferocious bear.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Challenger missed-issue: fix the capitalization and add decoys. Uses 'lion' instead of 'panda', because a panda is a bear and the jasoos could not be caught."
   },
   {
    "id": "game3-329",
@@ -4556,7 +4556,7 @@
   {
    "id": "game3-351",
    "Name": "If I had to say a catchphrase every time I entered a room, I’d say...",
-   "Description": "Something you might whisper to your spouse is...|Something you might say at a funeral is...|Something you might say when eating something delicious is...|Something you might say when you win a game is...|Something you might say at work is...|Something you might yell while jumping into a pool is...|Something you might yell to inspire a boxer would be...|Something you might yell at a bad dog would be...|Something you might yell at a cricket match is...",
+   "Description": "Something you might whisper in a library is...|Something you might say at a funeral is...|Something you might say when eating something delicious is...|Something you might say when you win a game is...|Something you might say at work is...|Something you might yell while jumping into a pool is...|Something you might yell to inspire a boxer would be...|Something you might yell at a bad dog would be...|Something you might yell at a cricket match is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4564,7 +4564,7 @@
     "Description": "Something you might whisper to your spouse is...|Something you might say at a funeral...|Something you might say when eating something delicious is...|Your favorite movie catchphrase is...|Something you might say at work is...|Something you might yell while jumping into a pool is...|Something you might yell to inspire a boxer would be...|Something you might yell at a bad dog would be...|Something you might yell at a football game is...",
     "Category": "Writing"
    },
-   "note": "movie catchphrase decoy replaced; football -> cricket; grammar"
+   "note": "movie catchphrase decoy replaced; football -> cricket; grammar; Debate: Challenger missed-issue: the spouse-whisper decoy invites romantic answers."
   },
   {
    "id": "game3-352",
@@ -4699,7 +4699,7 @@
   {
    "id": "game3-362",
    "Name": "The best thing to dip a french fry into is...",
-   "Description": "The best kind of dip to serve at a dawat is...|The best snack food is...|The best thing to dip tortilla chips into is...|The best thing to dip a chicken nugget into is...|The best thing to put on a hamburger is...|The best thing to dip a potato chip into is...|The best thing to put on a hot dog is...|The grossest thing in your refrigerator is...|The best thing to eat with your fingers is...",
+   "Description": "The best kind of dip to serve at a dawat is...|The best snack food is...|The best thing to dip a pakora into is...|The best thing to dip a chicken nugget into is...|The best thing to put on a hamburger is...|The best thing to dip a potato chip into is...|The best thing to put in a bun kabab is...|The grossest thing in your refrigerator is...|The best thing to eat with your fingers is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4707,7 +4707,7 @@
     "Description": "The best kind of dip to serve at a party is...|The best snack food is...|The best thing to dip tortilla chips into is...|The best thing to dip a chicken nugget into is...|The best thing to put on a hamburger is...|The best thing to dip a potato chip into is...|The best thing to put on a hot dog is...|The grossest thing in your refrigerator is...|The best thing to eat with your fingers is...",
     "Category": "Writing"
    },
-   "note": "party -> dawat"
+   "note": "party -> dawat; Debate: Localize US decoys."
   },
   {
    "id": "game3-363",
@@ -4790,7 +4790,7 @@
   {
    "id": "game3-369",
    "Name": "When I think of autumn, I think of...",
-   "Description": "When I think of Rio de Janeiro, I think of...|When I think about the beach, I think of...|When I think of trees, I think of...|When I think of pumpkins, I think of...|When I think of the monsoon, I think of...|When I think of winter, I think of...|When I think of barbecuing, I think of...",
+   "Description": "When I think of spring, I think of...|When I think about the beach, I think of...|When I think of trees, I think of...|When I think of the monsoon, I think of...|When I think of winter, I think of...|When I think of the school year starting, I think of...|When I think of barbecuing, I think of...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4798,7 +4798,7 @@
     "Description": "When I think of Rio de Janeiro, I think of...|When I think about the beach, I think of...|When I think of trees, I think of...|When I think of pumpkins, I think of...|When I think of social media, I think of...|When I think of winter, I think of...|When I think of Halloween, I think of...|When I think of Thanksgiving, I think of...|When I think of barbecuing, I think of...",
     "Category": "Writing"
    },
-   "note": "Halloween/Thanksgiving/social media decoys replaced"
+   "note": "Halloween/Thanksgiving/social media decoys replaced; Debate: Replace the random Rio and the Halloween-leaning 'pumpkins' with season decoys."
   },
   {
    "id": "game3-370",
@@ -9769,6 +9769,62 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): Everyday local job with bluffable decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a Pakistani truck.",
+   "Description": "Draw a bus full of passengers.|Draw a fire engine.|Draw a school van.|Draw a tractor trolley.|Draw a water tanker.|Draw a loaded donkey cart.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New local drawing card; no truck drawing prompt exists (Truck only appears as a topic-list word)."
+  },
+  {
+   "id": null,
+   "Name": "Draw a bakra mandi.",
+   "Description": "Draw a qurbani goat.|Draw a Sunday bazaar.|Draw a farm.|Draw a zoo.|Draw a cow on a rooftop.|Draw a crowded parking lot.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New Eid ul Adha drawing card."
+  },
+  {
+   "id": null,
+   "Name": "Draw a gol gappay stall.",
+   "Description": "Draw a samosa pakora stall.|Draw a chai dhaba.|Draw a fruit chaat cart.|Draw a bun kabab stand.|Draw an ice cream cart.|Draw a juice corner.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger's version with stall-type decoys only."
+  },
+  {
+   "id": null,
+   "Name": "Draw a walima.",
+   "Description": "Draw an aqiqah dinner.|Draw a baraat arriving.|Draw an Eid dinner.|Draw a long buffet queue.|Draw a nikah.|Draw a family reunion.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger's fix (removes 'wedding feast', which is a walima), but uses 'aqiqah dinner' instead of 'mehndi' to avoid evoking dancing."
+  },
+  {
+   "id": null,
+   "Name": "Draw a pressure cooker about to burst.",
+   "Description": "Draw a volcano.|Draw a gas cylinder.|Draw a kitchen fire.|Draw a steaming pot.|Draw a balloon about to pop.|Draw an angry chef.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New funny household drawing card."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about Chand Raat is...",
+   "Description": "The best thing about Eid is...|The best thing about Ramadan is...|The worst thing about shopping before Eid is...|The best thing about a wedding is...|Something I always buy at the last minute is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local Writing card."
+  },
+  {
+   "id": null,
+   "Name": "The first thing I do when the power comes back is...",
+   "Description": "The first thing I do when I wake up is...|The first thing I do when I get home is...|The first thing I do when the Wi-Fi stops working is...|The first thing I do when guests arrive is...|The best thing about load-shedding is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New relatable load-shedding card."
   }
  ]
 }
