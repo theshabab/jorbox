@@ -92,3 +92,8 @@ Main has almost the same 742 words as Charades, each with a short generic hint (
 
 - Removed about 290: every Movie Questions card, nearly all Fan Questions (unverifiable anecdotes), celebrity, music and TV facts, crude facts, Christmas and New Year cards, tarot and fortune-telling, Salman Rushdie, and facts that couldn't be verified. Corrected many facts (gold toilet value, Kaavan the elephant → Cambodia, Radboud University is in the Netherlands, Kim Jong Il's "hamburger"). Personal "Enough About You" questions were localised.
 - The deck is now small, and what's left leans towards US news oddities. Should I write new bluffing facts (Pakistan, Muslim world, science, history), or apply a stricter "too US-local" bar first?
+
+## NaqshNigar: done (1,685 → about 1,480)
+
+- Removed about 200 prompts: music, dance, films and TV (Shrek, Harry Potter, Game of Thrones), celebrities, romance, flirting and innuendo, body and toilet humour, gore, prompts mocking religion (pope, hell, "new religion", prayer pun), astrology, crystal balls, pork, and broken or unclear prompts. Rewrote others locally (sausages → seekh kebabs, Walmart greeter → supermarket guard, tattoo → mehndi, horchata → rooh afza, $ → Rs). Friend Mode prompts keep the <PLAYER> token and are now affectionate, not mean.
+- Please check: witches, wizards, ghosts, vampires-turned-churail, fairy tales (Little Red Riding Hood, Merlin), mildly dark prompts ("comfy cozy coffin", "death by frisbee"), mild burp and gross-out humour, "bee buying pollen in a dark alley", "kentucky fried phoenix", "marriage! it's fine". Prompts are all lowercase. Should I switch them to sentence case?
