@@ -1004,12 +1004,12 @@
   },
   {
    "id": "game10-112",
-   "Name": "Name a fruit with seeds inside.",
-   "action": "keep",
+   "Name": "Name a fruit with lots of seeds.",
+   "action": "edit",
    "original": {
     "Name": "Name a fruit with seeds inside."
    },
-   "note": ""
+   "note": "Debate: Almost every fruit has seeds, so the current prompt scatters answers. 'Lots of seeds' narrows them (pomegranate, watermelon, guava, papaya)."
   },
   {
    "id": "game10-113",
@@ -1121,12 +1121,12 @@
   },
   {
    "id": "game10-125",
-   "Name": "Name a picnic spot.",
-   "action": "keep",
+   "Name": "Name a popular picnic spot in Pakistan.",
+   "action": "edit",
    "original": {
     "Name": "Name a picnic spot."
    },
-   "note": ""
+   "note": "Debate: The bare prompt was too vague. Adding Pakistan gives shared answers (Murree, Clifton Beach, Margalla Hills, Jallo Park)."
   },
   {
    "id": "game10-126",
@@ -1409,12 +1409,12 @@
   },
   {
    "id": "game10-157",
-   "Name": "How late is acceptable on \"Pakistani Standard Time\"?",
+   "Name": "How many minutes late is still on time in \"Pakistani Standard Time\"?",
    "action": "edit",
    "original": {
     "Name": "How late is acceptable for \"Standard Time\"?"
    },
-   "note": "clarity"
+   "note": "clarity; Debate: Clearer wording that asks for a number players can match, and it keeps the joke."
   },
   {
    "id": "game10-158",
@@ -1544,12 +1544,12 @@
   },
   {
    "id": "game10-172",
-   "Name": "Who is the funniest person in your family?",
-   "action": "keep",
+   "Name": "Which relative is always the funniest at family gatherings?",
+   "action": "edit",
    "original": {
     "Name": "Who is the funniest person in your family?"
    },
-   "note": ""
+   "note": "Debate: Asking for a relative type instead of a personal name gives matchable answers (chacha, mamu, khala, cousin). It matches the style of 'Which relative is the most judgmental?'"
   },
   {
    "id": "game10-173",
@@ -1616,12 +1616,12 @@
   },
   {
    "id": "game10-180",
-   "Name": "How much money is \"Rich\"?",
-   "action": "keep",
+   "Name": "How much money makes someone \"rich\"?",
+   "action": "edit",
    "original": {
     "Name": "How much money is \"Rich\"?"
    },
-   "note": ""
+   "note": "Debate: Fixes the awkward grammar and the wrong capital in \"Rich\"."
   },
   {
    "id": "game10-181",
@@ -1698,11 +1698,11 @@
   {
    "id": "game10-189",
    "Name": "Who is the smartest person you know?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who is the smartest person you know?"
    },
-   "note": ""
+   "note": "Debate: Answers are private names that players cannot match. The famous-scientist and genius prompts already cover this theme."
   },
   {
    "id": "game10-190",
@@ -1769,12 +1769,12 @@
   },
   {
    "id": "game10-197",
-   "Name": "Name something you find in a student's bag.",
-   "action": "keep",
+   "Name": "Name something students borrow from a classmate.",
+   "action": "edit",
    "original": {
     "Name": "Name something you find in a student's bag."
    },
-   "note": ""
+   "note": "Debate: The current card is a near-duplicate of the school-bag card. I used the challenger's version because the proposed 'students always lose' would duplicate 'Name something you lose easily.' (208). The borrowing angle gives shared answers (pencil, eraser, sharpener, pen, notes)."
   },
   {
    "id": "game10-198",
@@ -1841,12 +1841,12 @@
   },
   {
    "id": "game10-205",
-   "Name": "Name a place you avoid going to.",
-   "action": "keep",
+   "Name": "Name a place people never want to go.",
+   "action": "edit",
    "original": {
     "Name": "Name a place you avoid going to."
    },
-   "note": ""
+   "note": "Debate: Clearer wording with common answers (hospital, dentist, police station, court). The duplicate 'avoid going to' card is already removed."
   },
   {
    "id": "game10-206",
@@ -1949,12 +1949,12 @@
   },
   {
    "id": "game10-217",
-   "Name": "What is the most expensive thing you own?",
-   "action": "keep",
+   "Name": "What is the most expensive thing most families own?",
+   "action": "edit",
    "original": {
     "Name": "What is the most expensive thing you own?"
    },
-   "note": ""
+   "note": "Debate: The personal 'you own' wording scattered the answers. The family wording gives shared ones (house, car, gold)."
   },
   {
    "id": "game10-218",
@@ -1976,12 +1976,12 @@
   },
   {
    "id": "game10-220",
-   "Name": "Name a common reason for a fight.",
-   "action": "keep",
+   "Name": "Name a common reason siblings fight.",
+   "action": "edit",
    "original": {
     "Name": "Name a common reason for a fight."
    },
-   "note": ""
+   "note": "Debate: More specific, funnier and matchable (TV remote, front seat, phone, last piece of food)."
   },
   {
    "id": "game10-221",
@@ -5480,6 +5480,60 @@
    "Name": "Name something every Pakistani home keeps in a drawer.",
    "action": "add",
    "note": "New card (debate): Funny, relatable prompt with converging answers (plastic shoppers, old chargers, Panadol); no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do during Ramazan.",
+   "action": "add",
+   "note": "New card (debate): Respectful prompt with shared answers (fasting, taraweeh, Quran recitation, iftar). The deck covers Ramazan food but not Ramazan activities."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of mithai.",
+   "action": "add",
+   "note": "New card (debate): Open local-sweets prompt with clear answers (gulab jamun, barfi, laddu, jalebi). Distinct from the 'best sweet to gift' card and the choice cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of achaar (pickle).",
+   "action": "add",
+   "note": "New card (debate): Pakistani kitchen staple with clear answers (mango, lemon, mixed, chilli). Not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a shot a batsman plays in cricket.",
+   "action": "add",
+   "note": "New card (debate): Popular cricket theme, distinct from the ways-to-get-out card. The answers are real shots (cover drive, pull, sweep, helicopter)."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do on the rooftop.",
+   "action": "add",
+   "note": "New card (debate): Desi everyday-life prompt with shared answers (fly kites, dry clothes, sleep in summer, look for the moon). Not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something sold by a thela wala.",
+   "action": "add",
+   "note": "New card (debate): Local street-life prompt with shared answers (fruit, chana chaat, bhutta, gol gappay). Not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal you see on Pakistani roads.",
+   "action": "add",
+   "note": "New card (debate): Funny, relatable prompt with matchable answers (donkey, cow, dog, camel, buffalo). Distinct from the farm-animal and wild-animal cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something you eat with chai.",
+   "action": "add",
+   "note": "New card (debate): Open chai-snack prompt with shared answers (biscuits, rusk, samosa, pakora). Distinct from the 'add to chai' card and the rusk-or-biscuits card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do when guests arrive without warning.",
+   "action": "add",
+   "note": "New card (debate): Funny prompt about the host's scramble (tidy the drawing room, send someone for samosas, change clothes). Distinct from 'served to guests'."
   }
  ]
 }

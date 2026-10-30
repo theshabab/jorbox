@@ -1151,12 +1151,12 @@
    "id": "game16-105",
    "Name": "Do you have a favorite memory?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Do you have a favorite memory?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'What is one of your happiest memories?', and it is a weaker yes/no question"
   },
   {
    "id": "game16-106",
@@ -1239,23 +1239,23 @@
    "id": "game16-113",
    "Name": "What are you most excited about for the future?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What are you most excited about for the future?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'What are you most looking forward to in the future?'"
   },
   {
    "id": "game16-114",
    "Name": "What’s on the top of your bucket list?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What’s on the top of your bucket list?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'What are some things you want to accomplish before you die?' (a bucket list by definition)"
   },
   {
    "id": "game16-115",
@@ -1402,14 +1402,14 @@
   },
   {
    "id": "game16-128",
-   "Name": "Why are pizzas usually round?",
+   "Name": "Why do you think pizzas are usually round? Give us your funniest theory.",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Why are pizzas usually round?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: As written it is trivia. The challenger's version keeps the original idea and asks for playful theories, while the pizza-box rewrite also had a factual answer"
   },
   {
    "id": "game16-129",
@@ -1424,14 +1424,14 @@
   },
   {
    "id": "game16-130",
-   "Name": "Are you still scared of monsters (or Jinns)?",
+   "Name": "Were you scared of jinns or monsters as a kid? Are you still?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Are you still scared of monsters (or Jinns)?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Smoother wording, and it no longer assumes the player is still scared"
   },
   {
    "id": "game16-131",
@@ -1448,12 +1448,12 @@
    "id": "game16-132",
    "Name": "What’s the weirdest fact you know?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What’s the weirdest fact you know?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'What's a weird fact you happen to know?'"
   },
   {
    "id": "game16-133",
@@ -1622,14 +1622,14 @@
   },
   {
    "id": "game16-148",
-   "Name": "What’s the best knock-knock joke you know?",
+   "Name": "What's the best clean joke you know by heart? Tell it!",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What’s the best knock-knock joke you know?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Knock-knock jokes are a niche Western format; asking for any clean joke keeps the idea"
   },
   {
    "id": "game16-149",
@@ -1712,34 +1712,34 @@
    "id": "game16-156",
    "Name": "What invention do you think will be popular in 20 years?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What invention do you think will be popular in 20 years?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Same question as 'What do you think the next big technological advance will be?'; other cards also cover future technology"
   },
   {
    "id": "game16-157",
-   "Name": "What blog or website are you embarrassed to admit you love?",
+   "Name": "What YouTube channel or app are you embarrassed to admit you love?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What blog or website are you embarrassed to admit you love?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Replaces the dated 'blog or website'; social media is allowed"
   },
   {
    "id": "game16-158",
    "Name": "What do you never leave the house without?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What do you never leave the house without?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'What do you bring with you everywhere you go?'"
   },
   {
    "id": "game16-159",
@@ -1941,25 +1941,25 @@
   },
   {
    "id": "game16-177",
-   "Name": "If you wrote a book, what would it be called?",
+   "Name": "If you wrote your autobiography, what would the title be?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you wrote a book, what would it be called?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: An autobiography title is a sharper, more personal and funnier prompt"
   },
   {
    "id": "game16-178",
    "Name": "If you had to use a fake name, what fake name would you make up?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "If you had to use a fake name, what fake name would you make up?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Same question as 'If you had to change your name, what would your new name be?'; nicknames are covered elsewhere"
   },
   {
    "id": "game16-179",
@@ -1985,14 +1985,14 @@
   },
   {
    "id": "game16-181",
-   "Name": "If you had to wear a hat every day for the rest of your life, what type of hat would it be?",
+   "Name": "If you had to wear a hat every day for the rest of your life, what type would it be (e.g., topi, pagri, Jinnah cap)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you had to wear a hat every day for the rest of your life, what type of hat would it be?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Adds familiar local examples in the deck's '(e.g., ...)' style"
   },
   {
    "id": "game16-182",
@@ -2018,14 +2018,14 @@
   },
   {
    "id": "game16-184",
-   "Name": "If you were Prime Minister, what would you change about the decorations in the PM House?",
+   "Name": "If you were Prime Minister for one day, what is the first thing you would change?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "If you were the president, what would you change about the decorations in the White House?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Pakistani frame"
+   "note": "Pakistani frame; Debate: The PM House decorations question was odd; this version is clearer and politics is allowed"
   },
   {
    "id": "game16-185",
@@ -2053,12 +2053,12 @@
    "id": "game16-187",
    "Name": "If you could turn the ocean into a liquid other than water, which one would you pick?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "If you could turn the ocean into a liquid other than water, which one would you pick?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Same joke as 124 (a pool of anything) and 145"
   },
   {
    "id": "game16-188",
@@ -2372,12 +2372,12 @@
    "id": "game16-216",
    "Name": "If you could have any animal as a pet, what animal would you choose?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "If you could have any animal as a pet, what animal would you choose?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 105, the more interesting pet question"
   },
   {
    "id": "game16-217",
@@ -2471,12 +2471,12 @@
    "id": "game16-225",
    "Name": "Who had the biggest impact on the person you have become?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who had the biggest impact on the person you have become?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'Who has been the biggest inspiration in your life? Why?' (53)"
   },
   {
    "id": "game16-226",
@@ -7414,6 +7414,55 @@
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
    "note": "New card (debate): Real Pakistani mango varieties; friendly debate distinct from the 'name a new mango' card"
+  },
+  {
+   "id": null,
+   "Name": "Have you ever flown a kite? What was your best (or worst) pecha?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): New card: kite-flying memories are classic local nostalgia, and the deck has no kite card"
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest line you have seen painted on the back of a truck or rickshaw?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): New card: truck and rickshaw poetry is a well-loved local in-joke"
+  },
+  {
+   "id": null,
+   "Name": "Which cricket match do you remember watching with the whole family?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): New card: a shared family memory, different from 535 (signature move)"
+  },
+  {
+   "id": null,
+   "Name": "What video game are you best at, and who in the family can beat you at it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): New card: video games are allowed, and 324 and 350 cover only phone and sports games"
+  },
+  {
+   "id": null,
+   "Name": "Which emoji do you use way too much?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): New card: a light, quick ice-breaker; the deck has no emoji card"
+  },
+  {
+   "id": null,
+   "Name": "Who in your family sends the most 'Good Morning' flower messages?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): New card: a familiar family WhatsApp habit, different from 626"
+  },
+  {
+   "id": null,
+   "Name": "Which neighbour's house did you always run to as a kid, and why?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): New card: a warm childhood memory, different from 641 (what makes a good neighbour)"
   }
  ]
 }

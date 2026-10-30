@@ -79,7 +79,7 @@ test('all 16 original decks remain in the generated seed, including all partial 
     (seed.match(/INSERT OR IGNORE INTO cards/g) || []).length,
     count,
   );
-  assert.equal(count, 17026);
+  assert.equal(count, 17036);
 });
 
 test('CSV feedback round-trips personal votes and validates values and identities', () => {

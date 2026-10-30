@@ -1436,12 +1436,12 @@
   },
   {
    "id": "game6-160",
-   "Description": "Animals Found in Pakistan",
+   "Description": "Wild Animals of Pakistan",
    "action": "edit",
    "original": {
     "Description": "Pakistani Wildlife"
    },
-   "note": "clearer"
+   "note": "clearer; Debate: 'Animals Found in Pakistan' nearly duplicates Animals (4). Limiting it to wild animals gives it its own answers: markhor, snow leopard, Indus dolphin, ibex, urial, chinkara, bears, jackal, mugger crocodile."
   },
   {
    "id": "game6-161",
@@ -1616,12 +1616,12 @@
   },
   {
    "id": "game6-180",
-   "Description": "Dams in Pakistan",
+   "Description": "Dams and Barrages in Pakistan",
    "action": "edit",
    "original": {
     "Description": "Pakistani Dams"
    },
-   "note": "wording"
+   "note": "wording; Debate: Most people know only a handful of dams. Adding the real Indus barrages (Sukkur, Kotri, Guddu, Taunsa, Chashma, Jinnah, Panjnad) gives enough answers to play."
   },
   {
    "id": "game6-181",
@@ -2280,8 +2280,8 @@
   {
    "id": null,
    "Description": "Things in a School Bag",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Nearly the same card as School Supplies (129). Its other answers are covered by Things in a Lunch Box, Things in a Classroom and Things in an Exam Hall."
   },
   {
    "id": null,
@@ -3032,6 +3032,42 @@
    "Description": "Rooms and Parts of a House",
    "action": "add",
    "note": "New card (debate): Has many answers (sehan, chhat, verandah, drawing room, store, garage, balcony, staircase). The existing room cards ask for objects, not rooms."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Orange",
+   "action": "add",
+   "note": "New card (debate): The colour series has Green, Yellow, Red, White, Black, Blue and Brown but no Orange. Easy answers: kinnow, carrot, papaya, jalebi, marigold, Fanta, tiger."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Heavy",
+   "action": "add",
+   "note": "New card (debate): A new property card with plenty of local answers (gas cylinder, deg, almirah, fridge, sack of wheat, truck). Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things With Legs (Not Animals)",
+   "action": "add",
+   "note": "New card (debate): The challenger's version of P7. Leaving out animals stops it from turning into the Animals card and keeps the household-object spirit of the With Buttons/Handles/Holes cards: charpai, chair, table, stool, takht, ironing stand, tripod, peerhi."
+  },
+  {
+   "id": null,
+   "Description": "Things With Lids (Dhakkan)",
+   "action": "add",
+   "note": "New card (debate): A household-object card with a local feel (pateela, pressure cooker, tiffin, deg, kettle, achaar jar, thermos). Different from Things You Can Fill With Water."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Shiny",
+   "action": "add",
+   "note": "New card (debate): An easy, funny property card (gold, mirror, bangles, steel utensils, coins, new Eid shoes, a bald head). Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Restaurants and Food Chains in Pakistan",
+   "action": "add",
+   "note": "New card (debate): The challenger's version of P10. It gives players in every city answers (KFC, McDonald's, Savour Foods, Student Biryani, OPTP, Broadway, Cheezious, Kababjees, Bundu Khan) and drops Monal Islamabad, which was demolished in 2024. Different from Fast Food Items and Pakistani Brands."
   }
  ]
 }
