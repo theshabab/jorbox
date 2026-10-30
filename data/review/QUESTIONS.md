@@ -2,6 +2,21 @@
 
 Answer any time; work continues meanwhile. Newest games at the bottom.
 
+## Decisions (answered)
+
+- Haiwani Pattay: clean it to family-friendly.
+- Main: apply the specific hints.
+- Fantasy: remove magic (witches, wizards, wands, spells); keep ghosts, genies, monsters and fairy tales.
+- Daal men Kaala: write new bluffing facts with a stricter "too US-local" bar.
+- Music: qawwali, milli naghmay, naats and nasheeds are all allowed.
+- Video games, consoles and social media: keep.
+- Politics: keep politicians and political scales.
+- Touching between players in Phansna Nahi missions is OK.
+- Trivia: remove all Greek/Norse mythology.
+- US-centric content: replace most of it with Pakistani or world equivalents.
+- Gross-out humour: keep mild ones (burps, slime); remove bathroom and toilet jokes.
+- Mildly dark items (coffins, guns, bombs, heaven/hell, "death by frisbee"): keep.
+
 ## Charades (Banned Words): done
 
 - Applied: 19 removals, 12 new cards (Occupations, Islamic Terms, Beverages), renames, foreign athlete names swapped out. Pakistani sports legends (Imran Khan, Babar, Jahangir Khan) and Muhammad Ali are kept as banned words. Tell me if they should go too.
