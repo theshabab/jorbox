@@ -26346,13 +26346,13 @@
    "Name": "Lord of the Rings",
    "Description": "6 books (in 3 volumes)",
    "Category": "Number of Books in a Series",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Lord of the Rings",
     "Description": "6",
     "Category": "Number of Books in a Series"
    },
-   "note": "clarified that LOTR is 3 volumes / 6 books"
+   "note": "Magic (wizards)"
   },
   {
    "id": "game15-2028",

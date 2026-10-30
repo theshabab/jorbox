@@ -473,16 +473,16 @@
   },
   {
    "id": "game8-37",
-   "Name": "NOT HELPFUL <---> VERY MAGICALLY HELPFUL",
-   "Description": "Write a piece of advice that would be this helpful when ruling a magical kingdom",
+   "Name": "NOT HELPFUL <---> VERY HELPFUL",
+   "Description": "Write a piece of advice that would be this helpful when ruling a kingdom",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT HELPFUL <---> VERY MAGICALLY HELPFUL",
     "Description": "Write a piece of advice that would be this helpful when ruling a magical kingdom",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Sweep: magic removed"
   },
   {
    "id": "game8-38",
@@ -578,15 +578,15 @@
   {
    "id": "game8-45",
    "Name": "NOT LIKELY <---> WANTED!!!",
-   "Description": "Make up a name of a person who is this likely to be on a wanted poster in the wild west",
+   "Description": "Make up a name of a person who is this likely to be on a police wanted poster",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT LIKELY <---> WANTED!!!",
     "Description": "Make up a name of a person who is this likely to be on a wanted poster in the wild west",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Sweep: US wild west localised"
   },
   {
    "id": "game8-46",
@@ -1032,16 +1032,16 @@
   },
   {
    "id": "game8-80",
-   "Name": "NOT A COWBOY <---> TOTAL COWBOY",
-   "Description": "Write a piece of advice that is this likely to have been written by a cowboy",
+   "Name": "NOT A SHEPHERD <---> TOTAL SHEPHERD",
+   "Description": "Write a piece of advice that is this likely to have been written by a mountain shepherd",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT A COWBOY <---> TOTAL COWBOY",
     "Description": "Write a piece of advice that is this likely to have been written by a cowboy",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Sweep: US cowboy localised"
   },
   {
    "id": "game8-81",
@@ -1071,8 +1071,8 @@
   },
   {
    "id": "game8-83",
-   "Name": "NOT MAGICAL <---> MAGICALLY MAGICAL",
-   "Description": "Make up a name for a fantasy land that is this magical",
+   "Name": "NOT DREAMY <---> TOTALLY DREAMY",
+   "Description": "Make up a name for a fairy-tale land that is this dreamy",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -1080,7 +1080,7 @@
     "Description": "Make up a name for a fantasy land that is magical",
     "Category": "Writing"
    },
-   "note": "missing \"this\""
+   "note": "missing \"this\"; Sweep: magic removed"
   },
   {
    "id": "game8-84",
@@ -2644,16 +2644,16 @@
   },
   {
    "id": "game8-204",
-   "Name": "NO MAGIC <---> FULL OF MAGIC",
-   "Description": "Make up a name for a perfume that is this magical",
+   "Name": "NOT FANCY <---> SUPER FANCY",
+   "Description": "Make up a name for a perfume that is this fancy",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NO MAGIC <---> FULL OF MAGIC",
     "Description": "Make up a name for a perfume that is this magical",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Sweep: magic removed"
   },
   {
    "id": "game8-205",
@@ -3466,13 +3466,13 @@
    "Name": "NOT LIKELY <---> PEE EVERYWHERE",
    "Description": "Draw a pet that is this likely to pee in your house",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "NOT LIKELY <---> PEE EVERYWHERE",
     "Description": "Draw a pet that is this likely to pee in your house",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Sweep: toilet humour"
   },
   {
    "id": "game8-268",
@@ -3635,13 +3635,13 @@
    "Name": "NOT LIKELY <---> WILL POOP",
    "Description": "Draw a bird that looks this likely to poop on your car",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "NOT LIKELY <---> WILL POOP",
     "Description": "Draw a bird that looks this likely to poop on your car",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Sweep: toilet humour"
   },
   {
    "id": "game8-281",
@@ -5348,7 +5348,7 @@
   },
   {
    "id": "game8-412",
-   "Name": "NO CLUE <---> TECH WIZARD",
+   "Name": "NO CLUE <---> TECH GENIUS",
    "Description": "Draw a monster that is this computer-savvy",
    "Category": "Drawing",
    "action": "edit",
@@ -5357,7 +5357,7 @@
     "Description": "Draw a monster that is this computer-savvy",
     "Category": "Drawing"
    },
-   "note": "obscure word (Luddite)"
+   "note": "obscure word (Luddite); Sweep: wizard wording removed"
   },
   {
    "id": "game8-413",
@@ -5884,13 +5884,13 @@
    "Name": "NO NEED TO GO <---> EMERGENCY",
    "Description": "Draw a clown that has to go to the bathroom this badly",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "NO NEED TO GO <---> EMERGENCY",
     "Description": "Draw a clown that has to go to the bathroom this badly",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Sweep: toilet humour"
   },
   {
    "id": "game8-454",
