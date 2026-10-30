@@ -84,15 +84,15 @@
   {
    "id": "game3-7",
    "Name": "Desserts",
-   "Description": "Gulab Jamun|Jalebi|Barfi|Ras Malai|Kheer|Zarda|Gajar Ka Halwa|Sohan Halwa|Laddu|Cham Cham|Rasgulla|Falooda|Kulfi|Sheer Khurma|Custard|Cake|Pastry|Brownie|Ice Cream|Pudding",
+   "Description": "Kheer|Zarda|Shahi Tukray|Falooda|Kulfi|Sheer Khurma|Custard|Trifle|Cake|Pastry|Brownie|Ice Cream|Pudding|Jelly|Lab e Shireen|Rabri|Cheesecake|Donut|Kunafa",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Desserts",
     "Description": "Gulab Jamun|Jalebi|Barfi|Ras Malai|Kheer|Zarda|Gajar Ka Halwa|Sohan Halwa|Laddu|Cham Cham|Rasgulla|Falooda|Kulfi|Sheer Khurma|Custard|Cake|Pastry|Brownie|Ice Cream|Pudding",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Mostly repeated the Pakistani Sweets card; now about after-meal desserts. Challenger's version, which leaves out Firni because it is already on Sweets."
   },
   {
    "id": "game3-8",
@@ -162,7 +162,7 @@
   {
    "id": "game3-13",
    "Name": "Trees",
-   "Description": "Banyan|Neem|Peepal|Oak|Pine|Maple|Palm|Coconut|Mango Tree|Apple Tree|Shisham|Willow|Birch|Cedar|Redwood|Kikar|Eucalyptus|Acacia|Baobab|Cypress",
+   "Description": "Banyan|Neem|Peepal|Oak|Pine|Maple|Palm|Coconut|Mango Tree|Apple Tree|Shisham|Willow|Birch|Cedar|Deodar|Kikar|Eucalyptus|Chinar|Baobab|Cypress",
    "Category": "",
    "action": "edit",
    "original": {
@@ -170,7 +170,7 @@
     "Description": "Banyan|Neem|Peepal|Oak|Pine|Maple|Palm|Coconut|Mango Tree|Apple Tree|Cherry Blossom|Willow|Birch|Cedar|Redwood|Sequoia|Eucalyptus|Acacia|Baobab|Cypress",
     "Category": ""
    },
-   "note": "Cherry Blossom (flower) and Sequoia (dup of Redwood) replaced with Shisham, Kikar"
+   "note": "Cherry Blossom (flower) and Sequoia (dup of Redwood) replaced with Shisham, Kikar; Debate: Acacia is the same tree as Kikar; Deodar (the national tree) and Chinar replace Redwood, which few players know"
   },
   {
    "id": "game3-14",
@@ -214,15 +214,15 @@
   {
    "id": "game3-17",
    "Name": "School Subjects",
-   "Description": "Math|Science|English|Urdu|History|Geography|Physics|Chemistry|Biology|Computer|Islamiat|Art|PE|Social Studies|Economics|Accounting|Business|Psychology|Sociology|Philosophy",
+   "Description": "Math|Science|English|Urdu|History|Geography|Physics|Chemistry|Biology|Computer|Islamiat|Art|PE|Social Studies|Economics|Accounting|Business|Psychology|Sociology|Pakistan Studies",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "School Subjects",
     "Description": "Math|Science|English|Urdu|History|Geography|Physics|Chemistry|Biology|Computer|Islamiat|Art|PE|Social Studies|Economics|Accounting|Business|Psychology|Sociology|Philosophy",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Pakistan Studies is a compulsory local subject; Philosophy is rarely taught in schools"
   },
   {
    "id": "game3-18",
@@ -253,28 +253,28 @@
   {
    "id": "game3-20",
    "Name": "Household Items",
-   "Description": "Chair|Table|Bed|Sofa|Cupboard|Mirror|Clock|Lamp|Fan|AC|Heater|Fridge|Oven|Stove|Washing Machine|Iron|Vacuum|Broom|Mop|Bucket",
+   "Description": "Mirror|Clock|Lamp|Fan|AC|Heater|Geyser|UPS|Water Cooler|Washing Machine|Iron|Vacuum|Broom|Mop|Bucket|Torch|Extension Board|Doormat|Curtains|Dustbin",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Household Items",
     "Description": "Chair|Table|Bed|Sofa|Cupboard|Mirror|Clock|Lamp|Fan|AC|Heater|Fridge|Oven|Stove|Washing Machine|Iron|Vacuum|Broom|Mop|Bucket",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removed furniture and kitchen appliances that repeat other cards (Fridge included) and added local household items"
   },
   {
    "id": "game3-21",
    "Name": "Kitchen Utensils",
-   "Description": "Spoon|Fork|Knife|Plate|Bowl|Glass|Cup|Mug|Jug|Pot|Pan|Cooker|Tray|Grater|Peeler|Whisk|Ladle|Tongs|Strainer|Rolling Pin",
+   "Description": "Spoon|Fork|Knife|Plate|Bowl|Glass|Cup|Mug|Jug|Degchi|Tawa|Cooker|Tray|Grater|Peeler|Karahi|Ladle|Chimta|Strainer|Rolling Pin",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Kitchen Utensils",
     "Description": "Spoon|Fork|Knife|Plate|Bowl|Glass|Cup|Mug|Jug|Pot|Pan|Cooker|Tray|Grater|Peeler|Whisk|Ladle|Tongs|Strainer|Rolling Pin",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Pot/Pan/Whisk/Tongs replaced with the local Degchi/Tawa/Karahi/Chimta"
   },
   {
    "id": "game3-22",
@@ -382,16 +382,16 @@
   },
   {
    "id": "game3-30",
-   "Name": "Days of the Week",
-   "Description": "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Jummah|Hafta|Itwar|Peer|Mangal|Budh|Jumerat|Weekend|Weekday|Holiday|Working Day|Off Day|Half Day",
+   "Name": "Days",
+   "Description": "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Weekend|Holiday|Working Day|Half Day|Chand Raat|Eid Day|Exam Day|Result Day|Birthday|Wedding Day",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Days of the Week",
     "Description": "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Jummah|Hafta|Itwar|Peer|Mangal|Budh|Jumerat|Weekend|Weekday|Holiday|Working Day|Off Day|Half Day",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The Urdu day names repeated the English ones (Peer = Monday, etc.). Card renamed so day types and special days belong to the topic; Weekday/Off Day dropped as near-duplicates of Working Day/Holiday"
   },
   {
    "id": "game3-31",
@@ -422,15 +422,15 @@
   {
    "id": "game3-33",
    "Name": "Emotions",
-   "Description": "Happy|Sad|Angry|Excited|Scared|Nervous|Bored|Tired|Surprised|Confused|Proud|Jealous|Shy|Guilty|Lonely|Hopeful|Grateful|Loved|Hated|Anxious",
+   "Description": "Happy|Sad|Angry|Excited|Scared|Nervous|Bored|Tired|Surprised|Confused|Proud|Jealous|Shy|Guilty|Lonely|Hopeful|Grateful|Loved|Embarrassed|Anxious",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Emotions",
     "Description": "Happy|Sad|Angry|Excited|Scared|Nervous|Bored|Tired|Surprised|Confused|Proud|Jealous|Shy|Guilty|Lonely|Hopeful|Grateful|Loved|Hated|Anxious",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Hated' is not something you feel; Embarrassed is a clear emotion"
   },
   {
    "id": "game3-34",
@@ -461,7 +461,7 @@
   {
    "id": "game3-36",
    "Name": "Islamic Scholars",
-   "Description": "Tariq Jameel|Zakir Naik|Israr Ahmed|Taqi Usmani|Maulana Maududi|Tahir ul Qadri|Ilyas Qadri|Imam Bukhari|Imam Abu Hanifa|Mufti Menk|Nouman Ali Khan|Yasir Qadhi|Omar Suleiman|Hamza Yusuf|Bilal Philips|Yusuf Estes|Ahmed Deedat|Shabir Ally|Imam Ghazali|Assim Al-Hakeem",
+   "Description": "Tariq Jameel|Zakir Naik|Israr Ahmed|Taqi Usmani|Maulana Maududi|Tahir ul Qadri|Ilyas Qadri|Imam Bukhari|Imam Abu Hanifa|Mufti Menk|Nouman Ali Khan|Yasir Qadhi|Omar Suleiman|Hamza Yusuf|Bilal Philips|Imam Shafi|Ahmed Deedat|Imam Malik|Imam Ghazali|Assim Al-Hakeem",
    "Category": "",
    "action": "edit",
    "original": {
@@ -469,7 +469,7 @@
     "Description": "Tariq Jameel|Zakir Naik|Israr Ahmed|Taqi Usmani|Maududi|Tahul Qadri|Ilyas Qadri|Saeed Anwar|Junaid Jamshed|Mufti Menk|Nouman Ali Khan|Yasir Qadhi|Omar Suleiman|Hamza Yusuf|Bilal Philips|Yusuf Estes|Ahmed Deedat|Shabir Ally|Haitham al-Haddad|Assim Al-Hakeem",
     "Category": ""
    },
-   "note": "fixed Tahir ul Qadri spelling; Saeed Anwar/Junaid Jamshed are not scholars; obscure name replaced"
+   "note": "fixed Tahir ul Qadri spelling; Saeed Anwar/Junaid Jamshed are not scholars; obscure name replaced; Debate: Yusuf Estes and Shabir Ally are little known in Pakistan; replaced with Imam Shafi and Imam Malik"
   },
   {
    "id": "game3-37",
@@ -838,7 +838,7 @@
   {
    "id": "game3-65",
    "Name": "Famous Food Spots in Pakistan",
-   "Description": "Gawalmandi|Fort Road|Burns Road|Hussainabad|Melody|Namak Mandi|Qissa Khwani|Anarkali|MM Alam Road|Boat Basin|Port Grand|Do Darya|Saidpur Village|Monal|Liberty Market",
+   "Description": "Gawalmandi|Fort Road|Burns Road|Hussainabad|Melody|Namak Mandi|Qissa Khwani|Anarkali|MM Alam Road|Boat Basin|Port Grand|Do Darya|Saidpur Village|Lakshmi Chowk|Liberty Market",
    "Category": "",
    "action": "edit",
    "original": {
@@ -846,7 +846,7 @@
     "Description": "Gawalmandi|Fort Road|Burns Road|Hussainabad|Melody|Namak Mandi|Qissa Khwani|Anarkali|Liberty|MM Alam|Boat Basin|Port Grand|Do Darya|Saidpur|Monal|Pir Sohawa|Food Street|Dhabas|Cafes|Restaurants",
     "Category": ""
    },
-   "note": "removed generic filler (Food Street, Dhabas, Cafes, Restaurants); renamed as list mixes streets and spots"
+   "note": "removed generic filler (Food Street, Dhabas, Cafes, Restaurants); renamed as list mixes streets and spots; Debate: Monal Islamabad was demolished in 2024 on Supreme Court orders; Lakshmi Chowk is a classic Lahore food spot"
   },
   {
    "id": "game3-66",
@@ -877,28 +877,28 @@
   {
    "id": "game3-68",
    "Name": "Islamabad Landmarks",
-   "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Monal|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|F9 Park|Margalla Hills|Trail 3|Trail 5|Secretariat|Parliament",
+   "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Constitution Avenue|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|F9 Park|Margalla Hills|Trail 3|Trail 5|Secretariat|Parliament",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Islamabad Landmarks",
     "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Monal|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|F9 Park|Margalla Hills|Trail 3|Trail 5|Secretariat|Parliament",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Monal restaurant no longer exists (demolished in 2024)"
   },
   {
    "id": "game3-69",
    "Name": "Peshawar Landmarks",
-   "Description": "Qissa Khwani|Bala Hissar|Mahabat Khan|Chowk Yadgar|Sethi House|Peshawar Museum|Islamia College|Khyber Pass|Jamrud Fort|Bab e Khyber|Hayatabad|Saddar|University Road|BRT|Karkhano|Tatara Park|Bagh e Naran|Shahi Bagh|Wazir Bagh|Cunningham Clock",
+   "Description": "Qissa Khwani|Bala Hissar|Mahabat Khan Masjid|Chowk Yadgar|Sethi House|Peshawar Museum|Islamia College|Khyber Pass|Jamrud Fort|Bab e Khyber|Hayatabad|Saddar|University Road|BRT|Karkhano|Tatara Park|Bagh e Naran|Shahi Bagh|Wazir Bagh|Cunningham Clock",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Peshawar Landmarks",
     "Description": "Qissa Khwani|Bala Hissar|Mahabat Khan|Chowk Yadgar|Sethi House|Peshawar Museum|Islamia College|Khyber Pass|Jamrud Fort|Bab e Khyber|Hayatabad|Saddar|University Road|BRT|Karkhano|Tatara Park|Bagh e Naran|Shahi Bagh|Wazir Bagh|Cunningham Clock",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Mahabat Khan' alone names a person; the landmark is the masjid"
   },
   {
    "id": "game3-70",
@@ -929,15 +929,15 @@
   {
    "id": "game3-72",
    "Name": "Pakistani Beverages",
-   "Description": "Lassi|Chai|Coffee|Juice|Shake|Smoothie|Soda|Water|Rooh Afza|Jam e Shirin|Squash|Lemonade|Skanjabeen|Doodh Soda|Rabri Doodh|Badam Milk|Thadal|Sattu|Ganne Ka Ras|Nariyal Pani",
+   "Description": "Lassi|Chai|Coffee|Juice|Shake|Falsay ka Sharbat|Soda|Kashmiri Chai|Rooh Afza|Jam e Shirin|Squash|Lemonade|Skanjabeen|Doodh Soda|Rabri Doodh|Badam Milk|Thadal|Sattu|Ganne Ka Ras|Nariyal Pani",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Pakistani Beverages",
     "Description": "Lassi|Chai|Coffee|Juice|Shake|Smoothie|Soda|Water|Rooh Afza|Jam e Shirin|Squash|Lemonade|Skanjabeen|Doodh Soda|Rabri Doodh|Badam Milk|Thadal|Sattu|Ganne Ka Ras|Nariyal Pani",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Generic Water/Smoothie replaced with Pakistani drinks"
   },
   {
    "id": "game3-73",
@@ -994,7 +994,7 @@
   {
    "id": "game3-77",
    "Name": "Dry Fruits",
-   "Description": "Almond|Pistachio|Cashew|Walnut|Chilgoza|Raisin|Date|Fig|Dried Apricot|Peanut|Dried Coconut|Chuhara|Munakka|Prune|Cranberry",
+   "Description": "Almond|Pistachio|Cashew|Walnut|Chilgoza|Raisin|Hazelnut|Fig|Dried Apricot|Peanut|Dried Coconut|Chuhara|Munakka|Prune|Cranberry",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1002,7 +1002,7 @@
     "Description": "Date|Fig|Raisin|Apricot|Prune|Currant|Sultana|Cranberry|Blueberry|Cherry|Mango|Pineapple|Papaya|Kiwi|Apple|Banana|Strawberry|Peach|Pear|Melon",
     "Category": ""
    },
-   "note": "list was mostly fresh fruit; rewritten to actual dry fruits"
+   "note": "list was mostly fresh fruit; rewritten to actual dry fruits; Debate: Date and Chuhara (a dried date) were duplicates; Date replaced with Hazelnut"
   },
   {
    "id": "game3-78",
@@ -1020,7 +1020,7 @@
   {
    "id": "game3-79",
    "Name": "Meat Types",
-   "Description": "Chicken|Beef|Mutton|Lamb|Goat|Fish|Prawn|Crab|Lobster|Duck|Turkey|Quail|Rabbit|Camel|Deer|Ostrich|Buffalo",
+   "Description": "Chicken|Beef|Mutton|Lamb|Teetar|Fish|Prawn|Crab|Lobster|Duck|Turkey|Quail|Rabbit|Camel|Deer|Ostrich|Buffalo",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1028,12 +1028,12 @@
     "Description": "Chicken|Beef|Mutton|Lamb|Goat|Fish|Prawn|Shrimp|Crab|Lobster|Duck|Turkey|Quail|Rabbit|Camel|Deer|Ostrich|Buffalo|Cow|Sheep",
     "Category": ""
    },
-   "note": "Shrimp dup of Prawn; Cow/Sheep are animals not meat"
+   "note": "Shrimp dup of Prawn; Cow/Sheep are animals not meat; Debate: In Pakistan, Goat and Mutton are the same meat; Goat replaced with Teetar"
   },
   {
    "id": "game3-80",
    "Name": "Fish Types",
-   "Description": "Rohu|Palla|Mahseer|Trout|Salmon|Tuna|Cod|Sardine|Mackerel|Hilsa|Catfish|Carp|Tilapia|Surmai|Snapper|Grouper|Rawas|Pomfret|Shark",
+   "Description": "Rohu|Palla|Mahseer|Trout|Salmon|Tuna|Cod|Sardine|Mackerel|Sea Bass|Catfish|Carp|Tilapia|Surmai|Snapper|Grouper|Rawas|Pomfret|Shark",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1041,12 +1041,12 @@
     "Description": "Rohu|Palla|Mahseer|Trout|Salmon|Tuna|Cod|Sardine|Mackerel|Hilsa|Catfish|Carp|Tilapia|Bass|Snapper|Grouper|Sole|Pomfret|Shark|Whale",
     "Category": ""
    },
-   "note": "Whale is not a fish; local Surmai, Rawas added"
+   "note": "Whale is not a fish; local Surmai, Rawas added; Debate: Hilsa is the same fish as Palla. Sea Bass replaces it, not Singhara, because Singhara is itself a catfish and Catfish is already on the list"
   },
   {
    "id": "game3-81",
    "Name": "Bread Types",
-   "Description": "Roti|Naan|Paratha|Chapati|Puri|Kulcha|Sheermal|Taftan|Roghni Naan|Khamiri Roti|Pita|Bun|Toast|Loaf|Baguette|Croissant|Bagel|Muffin|Scone",
+   "Description": "Roti|Naan|Paratha|Chapati|Puri|Kulcha|Sheermal|Taftan|Roghni Naan|Khamiri Roti|Pita|Bun|Toast|Loaf|Baguette|Croissant|Bakarkhani|Garlic Bread|Kandahari Naan",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1054,7 +1054,7 @@
     "Description": "Roti|Naan|Paratha|Chapati|Puri|Kulcha|Sheermal|Taftan|Roghn|Khamiri|Pita|Bun|Toast|Slice|Loaf|Baguette|Croissant|Bagel|Muffin|Scone",
     "Category": ""
    },
-   "note": "fixed Roghni Naan; Slice dup removed"
+   "note": "fixed Roghni Naan; Slice dup removed; Debate: Muffin is not bread and Bagel/Scone are little known. Challenger's version uses Garlic Bread instead of Tandoori Roti, which repeats Roti"
   },
   {
    "id": "game3-82",
@@ -1085,7 +1085,7 @@
   {
    "id": "game3-84",
    "Name": "Pakistani Street Food",
-   "Description": "Gol Gappay|Chana Chaat|Dahi Baray|Samosa|Pakora|Bun Kebab|Shawarma|Roll|Fries|Bhutta|Peanuts|Popcorn|Ice Cream|Kulfi|Falooda|Juice|Shake|Soda|Tea|Coffee",
+   "Description": "Gol Gappay|Chana Chaat|Dahi Baray|Samosa|Pakora|Bun Kebab|Shawarma|Roll|Fries|Bhutta|Peanuts|Popcorn|Ice Cream|Kulfi|Falooda|Kachori|Gola Ganda|Anda Shami Burger|Tea|Chicken Corn Soup",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1093,7 +1093,7 @@
     "Description": "Gol Gappay|Chana Chaat|Dahi Baray|Samosa|Pakora|Bun Kebab|Shawarma|Roll|Fries|Corn|Peanuts|Popcorn|Ice Cream|Kulfi|Falooda|Juice|Shake|Soda|Tea|Coffee",
     "Category": ""
    },
-   "note": "Corn -> Bhutta"
+   "note": "Corn -> Bhutta; Debate: Generic Juice/Shake/Soda/Coffee replaced with real Pakistani street foods"
   },
   {
    "id": "game3-85",
@@ -1150,7 +1150,7 @@
   {
    "id": "game3-89",
    "Name": "Pakistani Chutneys",
-   "Description": "Mint|Coriander|Imli|Date|Tomato|Garlic|Onion|Mango|Apple|Plum|Apricot|Raita|Peanut|Coconut|Red Chili",
+   "Description": "Mint|Coriander|Imli|Date|Tomato|Garlic|Onion|Mango|Apple|Plum|Apricot|Anardana|Peanut|Coconut|Red Chili",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1158,7 +1158,7 @@
     "Description": "Mint|Coriander|Imli|Date|Tomato|Garlic|Onion|Mango|Apple|Plum|Apricot|Yogurt|Raita|Green|Red|Sweet|Sour|Spicy|Hot|Tangy",
     "Category": ""
    },
-   "note": "removed adjective filler and Yogurt"
+   "note": "removed adjective filler and Yogurt; Debate: Raita is not a chutney; Anardana chutney is"
   },
   {
    "id": "game3-90",
@@ -1280,7 +1280,7 @@
   {
    "id": "game3-99",
    "Name": "Footwear",
-   "Description": "Sandal|Slipper|Shoe|Boot|Jogger|Sneaker|Heel|Flat|Khussa|Peshawari Chappal|Kolhapuri|Loafer|Moccasin|Oxford|Hawai Chappal|Wedge",
+   "Description": "Sandal|Slipper|Shoe|Boot|Jogger|Sneaker|Heel|Flat|Khussa|Peshawari Chappal|Kolhapuri|Loafer|Kheri|School Shoes|Hawai Chappal|Wedge",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1288,7 +1288,7 @@
     "Description": "Sandal|Slipper|Shoe|Boot|Jogger|Sneaker|Heel|Flat|Khussa|Peshawari Chappal|Kolhapuri|Pump|Wedge|Loafer|Moccasin|Oxford|Derby|Brogue|Monk|Bootie",
     "Category": ""
    },
-   "note": "obscure shoe styles removed; Hawai Chappal added"
+   "note": "obscure shoe styles removed; Hawai Chappal added; Debate: Moccasin/Oxford, which few players know, replaced with familiar local footwear"
   },
   {
    "id": "game3-100",
@@ -9673,6 +9673,38 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Spices",
+   "Description": "Haldi|Zeera|Dhania|Lal Mirch|Kali Mirch|Elaichi|Laung|Darchini|Tej Patta|Saunf|Methi Dana|Rai|Kalonji|Ajwain|Javitri|Jaifal|Badiyan|Zafran|Amchur|Anardana",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Single spices are a new topic beside Pakistani Spice Mixes. Challenger's version, with Anardana instead of Namak (salt is not a spice)"
+  },
+  {
+   "id": null,
+   "Name": "Mango Varieties",
+   "Description": "Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Desi Aam",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A very Pakistani topic with no existing card. Sufaid/Kala Chaunsa dropped as near-duplicates of Chaunsa, Totapuri as mainly Indian, and the challenger's 'Collector' as unverified"
+  },
+  {
+   "id": null,
+   "Name": "Cricket Terms",
+   "Description": "Googly|Yorker|Bouncer|Doosra|No Ball|Wide|LBW|Run Out|Stumped|Hat-trick|Duck|Century|Sixer|Boundary|Maiden Over|Reverse Swing|Super Over|Free Hit|Powerplay|Follow On",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): For a cricket-mad audience; separate from Cricket Players and Things at a Cricket Match"
+  },
+  {
+   "id": null,
+   "Name": "Biscuits",
+   "Description": "Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Pakistani Snacks already covers crisps, so this card is biscuits only. Challenger's version without Tiger, which may not be a Pakistani brand"
   }
  ]
 }
