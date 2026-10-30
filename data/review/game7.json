@@ -1369,14 +1369,14 @@
   },
   {
    "id": "game7-125",
-   "Description": "trickle down economics ;)",
+   "Description": "trickle-down economics",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "trickle down economics ;)",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the toilet-humour wink. The pun still works and can be drawn."
   },
   {
    "id": "game7-126",
@@ -1556,14 +1556,14 @@
   },
   {
    "id": "game7-142",
-   "Description": "The Boss?",
+   "Description": "who's the real boss of this house?",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "The Boss?",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The old prompt was vague and is a singer's nickname. The new one is a clean family joke that can be drawn."
   },
   {
    "id": "game7-143",
@@ -1798,14 +1798,14 @@
   },
   {
    "id": "game7-164",
-   "Description": "a very....sticky.....situation",
+   "Description": "a very... sticky... situation",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "a very....sticky.....situation",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Punctuation fix only."
   },
   {
    "id": "game7-165",
@@ -1930,14 +1930,14 @@
   },
   {
    "id": "game7-176",
-   "Description": "french toast...in france!",
+   "Description": "french toast... in france!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "french toast...in france!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Spacing fix, consistent with P3."
   },
   {
    "id": "game7-177",
@@ -2095,14 +2095,14 @@
   },
   {
    "id": "game7-191",
-   "Description": "uh, your web cam is on",
+   "Description": "uh, your webcam is on in the online class",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "uh, your web cam is on",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fixes the spelling and puts it in a clean, relatable setting."
   },
   {
    "id": "game7-192",
@@ -2183,14 +2183,14 @@
   },
   {
    "id": "game7-199",
-   "Description": "mascot ego death",
+   "Description": "mascot identity crisis",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "mascot ego death",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces a psychedelic-drug term with a clean one and keeps the joke."
   },
   {
    "id": "game7-200",
@@ -2271,14 +2271,14 @@
   },
   {
    "id": "game7-207",
-   "Description": "alligator doesn't know anyone at the wedding",
+   "Description": "crocodile doesn't know anyone at the shaadi",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "alligator doesn't know anyone at the party",
     "Category": "Standard Prompts"
    },
-   "note": "party -> wedding"
+   "note": "party -> wedding; Debate: Light localisation. Mugger crocodiles are native to Pakistan, and the joke is unchanged."
   },
   {
    "id": "game7-208",
@@ -2359,14 +2359,14 @@
   },
   {
    "id": "game7-215",
-   "Description": "remember pet rocks?",
+   "Description": "taking my pet rock for a walk",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "remember pet rocks?",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the need to know a 1970s US fad. Now easy to draw."
   },
   {
    "id": "game7-216",
@@ -18607,6 +18607,76 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): A clean cattle-market joke. It is different from the existing goat cards, and no mandi card exists."
+  },
+  {
+   "id": null,
+   "Description": "the family WhatsApp group at 3 a.m.",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Social media is allowed. Relatable, drawable and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a cat napping on the warm UPS",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A cute local household scene and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a gol gappa too big to fit in anyone's mouth",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A local food sight gag and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "guests arriving two hours late, as usual",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A well-known desi-time joke that can be drawn."
+  },
+  {
+   "id": null,
+   "Description": "five hands reaching for the last shami kabab",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A dawat scene that is easy to draw and different from the existing kebab cards."
+  },
+  {
+   "id": null,
+   "Description": "a dhaba chef flipping parathas into orbit",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A strong local visual gag."
+  },
+  {
+   "id": null,
+   "Description": "the generator only starts after you kick it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A relatable load-shedding scene that can be drawn."
+  },
+  {
+   "id": null,
+   "Description": "a mosquito in armour vs. the mosquito coil",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local and drawable, and a different joke from the existing mosquito card."
+  },
+  {
+   "id": null,
+   "Description": "a cow on the motorway asking for directions",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A silly local animal scene."
+  },
+  {
+   "id": null,
+   "Description": "a crocodile dentist promising to be very, very gentle",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A clean animal-job gag and not a duplicate."
   }
  ]
 }

@@ -1540,7 +1540,7 @@
   {
    "id": "game3-119",
    "Name": "Hadith Collections",
-   "Description": "Sahih Bukhari|Sahih Muslim|Jami Tirmidhi|Sunan Abu Dawood|Sunan Nasai|Sunan Ibn Majah|Muwatta Imam Malik|Musnad Ahmad|Riyad us Saliheen|Mishkat al Masabih|Bulugh al Maram|Arbaeen Nawawi|Shamail Tirmidhi|Al Adab al Mufrad|Hisn al Muslim|Al Lulu wal Marjan|Sunan Darimi",
+   "Description": "Sahih Bukhari|Sahih Muslim|Jami Tirmidhi|Sunan Abu Dawood|Sunan Nasai|Sunan Ibn Majah|Muwatta Imam Malik|Musnad Ahmad|Riyad us Saliheen|Mishkat al Masabih|Bulugh al Maram|Arbaeen Nawawi|Shamail Tirmidhi|Al Adab al Mufrad|Al Lulu wal Marjan|Sunan Darimi",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1548,7 +1548,7 @@
     "Description": "Bukhari|Muslim|Tirmidhi|Abu Dawood|Nasai|Ibn Majah|Muwatta|Musnad|Riyad us Saliheen|Mishkat|Bulugh al Maram|Forty Hadith|Shamail|Adab al Mufrad|Hisn al Muslim|Fortress of Muslim|Gardens of Righteous|Pearls and Coral|Selection|Summary",
     "Category": ""
    },
-   "note": "removed English duplicates (Fortress of Muslim, Gardens of Righteous) and junk (Selection, Summary); full names"
+   "note": "removed English duplicates (Fortress of Muslim, Gardens of Righteous) and junk (Selection, Summary); full names; Debate: Hisn al Muslim is a dua book, not a hadith collection."
   },
   {
    "id": "game3-120",
@@ -1644,7 +1644,7 @@
   {
    "id": "game3-127",
    "Name": "Pakistani Government Departments",
-   "Description": "Police|Army|Navy|Air Force|Rangers|FC|FIA|NAB|FBR|NADRA|Passport Office|Customs|Excise|Traffic Police|Motorway Police|Pakistan Railways|PIA|WAPDA|SNGPL|PTCL",
+   "Description": "Police|Army|Navy|Air Force|Rangers|FC|FIA|NAB|FBR|NADRA|Passport Office|Customs|Excise|Traffic Police|Motorway Police|Pakistan Railways|Election Commission|WAPDA|SNGPL|Pakistan Post",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1652,7 +1652,7 @@
     "Description": "Police|Army|Navy|Air Force|Rangers|FC|FIA|NAB|FBR|Nadra|Passport|Customs|Excise|Traffic|Motorway|Railway|PIA|Wapda|SNGPL|PTCL",
     "Category": ""
    },
-   "note": "capitalisation and clearer names"
+   "note": "capitalisation and clearer names; Debate: PIA (privatised) and PTCL (Etisalat-run) are no longer plain government departments; replaced with Election Commission and Pakistan Post."
   },
   {
    "id": "game3-128",
@@ -1735,7 +1735,7 @@
   {
    "id": "game3-134",
    "Name": "Pakistani Parks",
-   "Description": "Fatima Jinnah Park|Lake View Park|Ayub Park|Jallo Park|Gulshan e Iqbal Park|Askari Park|Safari Park|Hill Park|Race Course Park|Model Town Park|Shalimar Gardens|Bagh e Jinnah|Jilani Park|Daman e Koh|Shakarparian|Rose and Jasmine Garden|Bagh Ibn e Qasim|Greater Iqbal Park|Japanese Park|Liaquat Bagh",
+   "Description": "Fatima Jinnah Park|Lake View Park|Ayub Park|Jallo Park|Gulshan e Iqbal Park|Askari Park|Safari Park|Hill Park|Race Course Park|Model Town Park|Shalimar Gardens|Bagh e Jinnah|Daman e Koh|Shakarparian|Rose and Jasmine Garden|Bagh Ibn e Qasim|Greater Iqbal Park|Japanese Park|Liaquat Bagh",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1743,7 +1743,7 @@
     "Description": "Fatima Jinnah|Lake View|Ayub|Jallo|Gulshan e Iqbal|Askari|Safari|Hill|Race Course|Model Town|Shalimar|Bagh e Jinnah|Lawrence|Company|Liaquat|Benazir|Nawaz|Shahbaz|Imran|Zardari",
     "Category": ""
    },
-   "note": "removed politician names (Nawaz, Imran, Zardari...); full park names"
+   "note": "removed politician names (Nawaz, Imran, Zardari...); full park names; Debate: Jilani Park is the same park as Race Course Park."
   },
   {
    "id": "game3-135",
@@ -1800,7 +1800,7 @@
   {
    "id": "game3-139",
    "Name": "Pakistani Beaches",
-   "Description": "Clifton|Seaview|Hawksbay|Sandspit|French Beach|Turtle Beach|Paradise Point|Manora|Cape Monze|Mubarak Village|Gadani|Kund Malir|Ormara|Pasni|Gwadar|Jiwani|Astola Island|Sonmiani|Charna Island",
+   "Description": "Seaview|Hawksbay|Sandspit|French Beach|Turtle Beach|Paradise Point|Manora|Cape Monze|Mubarak Village|Gadani|Kund Malir|Ormara|Pasni|Gwadar|Jiwani|Astola Island|Sonmiani|Charna Island",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1808,7 +1808,7 @@
     "Description": "Clifton|Seaview|Hawksbay|Sandspit|French|Turtle|Paradise|Manora|Cape Monze|Mubarak|Gadani|Kund Malir|Ormara|Pasni|Gwadar|Jiwani|Astola|Sonmiani|Dam|Khori",
     "Category": ""
    },
-   "note": "full names; removed unclear Dam/Khori"
+   "note": "full names; removed unclear Dam/Khori; Debate: Clifton beach and Seaview are the same beach."
   },
   {
    "id": "game3-140",
@@ -1917,7 +1917,7 @@
   {
    "id": "game3-148",
    "Name": "Pakistani Marine Life",
-   "Description": "Fish|Crab|Lobster|Prawn|Shrimp|Squid|Octopus|Jellyfish|Starfish|Sea Urchin|Coral|Sponge|Sea Anemone|Shark|Ray|Whale|Dolphin|Porpoise|Turtle|Sea Snake",
+   "Description": "Fish|Crab|Lobster|Prawn|Seahorse|Squid|Octopus|Jellyfish|Starfish|Sea Urchin|Coral|Sponge|Sea Anemone|Shark|Ray|Whale|Dolphin|Porpoise|Turtle|Sea Snake",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1925,7 +1925,7 @@
     "Description": "Fish|Crab|Lobster|Prawn|Shrimp|Squid|Octopus|Jellyfish|Starfish|Urchin|Coral|Sponge|Anemone|Shark|Ray|Whale|Dolphin|Porpoise|Turtle|Snake",
     "Category": ""
    },
-   "note": "clarity (Sea Urchin, Sea Snake)"
+   "note": "clarity (Sea Urchin, Sea Snake); Debate: Prawn and Shrimp are both 'jhinga' locally; replaced Shrimp with Seahorse."
   },
   {
    "id": "game3-149",
@@ -2021,7 +2021,7 @@
   {
    "id": "game3-156",
    "Name": "Mobile Networks and Packages",
-   "Description": "Jazz|Zong|Ufone|Telenor|Warid|Mobilink|SCO|Onic|SIM|Balance|Load|Package|Missed Call|SMS|4G|5G|Signal|Prepaid|Postpaid|Data",
+   "Description": "Jazz|Zong|Ufone|Telenor|Scratch Card|Roaming|SCO|Onic|SIM|Balance|Load|Package|Missed Call|SMS|4G|5G|Signal|Prepaid|Postpaid|Data",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2029,7 +2029,7 @@
     "Description": "Jazz|Telenor|Zong|Ufone|Warid|Paktel|Instaphone|Mobilink|Sco|Vwireless|3G|4G|5G|LTE|GSM|CDMA|Prepaid|Postpaid|Sim|Data",
     "Category": ""
    },
-   "note": "too few real networks; broadened topic, removed obscure names"
+   "note": "too few real networks; broadened topic, removed obscure names; Debate: Mobilink rebranded to Jazz and Warid merged into Jazz, so the three were effectively one word; replaced Mobilink and Warid."
   },
   {
    "id": "game3-157",
@@ -2320,7 +2320,7 @@
   {
    "id": "game3-179",
    "Name": "Makeup Brands",
-   "Description": "Masarrat Misbah|Luscious|Rivaj|Medora|Christine|Sweet Touch|Kryolan|MAC|Huda Beauty|Morphe|Color Studio|Essence|Maybelline|L'Oreal|Rimmel|Revlon|Lakme|ST London|Nabila|Atiqa Odho",
+   "Description": "Masarrat Misbah|Luscious|Rivaj|Medora|Christine|Sweet Touch|Kryolan|MAC|Huda Beauty|Morphe|Color Studio|Essence|Maybelline|L'Oreal|Rimmel|Revlon|Lakme|ST London|Nabila|Flormar",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2328,7 +2328,7 @@
     "Description": "Masarrat|Misbah|Nabila|Luscious|Atiqa|Odho|Rivaj|Medora|Christine|Sweet|Touch|Kryolan|Mac|Huda|Anastasia|Morphe|Color|Pop|Essence|Maybelline",
     "Category": ""
    },
-   "note": "joined split names; renamed (many are international)"
+   "note": "joined split names; renamed (many are international); Debate: Replaced the actress-named Atiqa Odho line with Flormar, a widely sold makeup brand."
   },
   {
    "id": "game3-180",
@@ -2488,8 +2488,8 @@
   },
   {
    "id": "game3-192",
-   "Name": "Pakistani Apps",
-   "Description": "Careem|Uber|Bykea|Foodpanda|Cheetay|Airlift|Swvl|inDrive|Yango|Easypaisa|JazzCash|NayaPay|SadaPay|Zindigi|HBL Mobile|UBL Digital|MCB Live|Alfa|Meezan Mobile|Askari Mobile",
+   "Name": "Popular Apps in Pakistan",
+   "Description": "Careem|Bykea|Foodpanda|Cheetay|inDrive|Yango|Daraz|OLX|PakWheels|Easypaisa|JazzCash|NayaPay|SadaPay|Zindigi|HBL Mobile|UBL Digital|MCB Live|Alfa|Meezan Mobile|Askari Mobile",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2497,7 +2497,7 @@
     "Description": "Careem|Uber|Bykea|Foodpanda|Cheetay|Airlift|Swvl|InDriver|Yango|EasyPaisa|JazzCash|Nayapay|Sadapay|Zindigi|HBL|UBL|MCB|Alfalah|Meezan|Askari",
     "Category": ""
    },
-   "note": "app name spelling; bank names -> their apps"
+   "note": "app name spelling; bank names -> their apps; Debate: Uber, Airlift and Swvl left Pakistan in 2022; replaced with Daraz, OLX, PakWheels, and renamed the card because inDrive, Yango and Foodpanda are not Pakistani apps."
   },
   {
    "id": "game3-193",
@@ -2697,7 +2697,7 @@
   {
    "id": "game3-208",
    "Name": "Draw a bottle of shampoo.",
-   "Description": "Draw a bottle of bubble bath.|Draw a bottle of rat poison.|Draw a jar of pickles.|Draw a fire extinguisher.|Draw washing your hair.|Draw a bottle of soap.|Draw dish soap.|Draw a bottle of honey.|Draw a spray can of whipped cream.",
+   "Description": "Draw a bottle of hair oil.|Draw a bottle of rat poison.|Draw a jar of pickles.|Draw a fire extinguisher.|Draw washing your hair.|Draw a bottle of soap.|Draw dish soap.|Draw a bottle of honey.|Draw a bottle of ketchup.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2705,7 +2705,7 @@
     "Description": "Draw a bottle of bubble bath.|Draw a bottle of rat poison.|Draw a jar of pickles.|Draw a fire extinguisher.|Draw washing your hair.|Draw a bottle of soap.|Draw dish soap.|Draw maple syrup.|Draw a spray can of whipped cream.",
     "Category": "Drawing 2"
    },
-   "note": "maple syrup -> honey"
+   "note": "maple syrup -> honey; Debate: Replaced Western bubble bath and whipped cream decoys; ketchup instead of conditioner, which would be drawn the same as shampoo."
   },
   {
    "id": "game3-209",
@@ -2736,7 +2736,7 @@
   {
    "id": "game3-211",
    "Name": "Draw a fun boat.",
-   "Description": "Draw a whale spout.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the Titanic.|Draw a duck boat.",
+   "Description": "Draw a whale spout.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the Titanic.|Draw a paddle boat.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2744,7 +2744,7 @@
     "Description": "Draw a whale spout.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the <i>Titanic</i>.|Draw a duck boat.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: 'Duck boat' is a US tour vehicle; replaced with paddle boat."
   },
   {
    "id": "game3-212",
@@ -2814,7 +2814,7 @@
   {
    "id": "game3-217",
    "Name": "Draw Balochistan.",
-   "Description": "Draw the desert.|Draw a camel caravan.|Draw a shepherd with goats.|Draw Sindh.|Draw a scuba mask.|Draw a mountain.",
+   "Description": "Draw the desert.|Draw a camel caravan.|Draw a shepherd with goats.|Draw Sindh.|Draw a coastal highway.|Draw a mountain.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2822,7 +2822,7 @@
     "Description": "Draw <i>Candy Land</i>.|Draw a scuba mask.|Draw a cowboy.|Draw a rodeo.|Draw Arizona.|Draw the desert.",
     "Category": "Drawing 2"
    },
-   "note": "localised from Texas; Sweep: US cowboy decoy replaced"
+   "note": "localised from Texas; Sweep: US cowboy decoy replaced; Debate: Replaced the unrelated scuba mask decoy with a close one (Makran coastal highway)."
   },
   {
    "id": "game3-218",
@@ -2840,7 +2840,7 @@
   {
    "id": "game3-219",
    "Name": "Draw your second favorite holiday.",
-   "Description": "Draw Independence Day.|Draw winter.|Draw a tree.|Draw a gift.|Draw a day off from school.|Draw your favorite holiday.|Draw your birthday.|Draw the moon landing.|Draw a family trip.",
+   "Description": "Draw Independence Day.|Draw Eid shopping.|Draw a long weekend.|Draw a gift.|Draw a day off from school.|Draw your favorite holiday.|Draw your birthday.|Draw the moon landing.|Draw a family trip.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2848,7 +2848,7 @@
     "Description": "Draw Arbor Day.|Draw winter.|Draw a tree.|Draw a gift.|Draw a tax refund.|Draw your favorite holiday.|Draw your birthday.|Draw the moon landing.|Draw romance.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Arbor Day, tax refund, romance"
+   "note": "replaced Arbor Day, tax refund, romance; Debate: Winter/tree/gift decoys pointed to Christmas; replaced winter and tree with local holiday decoys."
   },
   {
    "id": "game3-220",
@@ -9705,6 +9705,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Pakistani Snacks already covers crisps, so this card is biscuits only. Challenger's version without Tiger, which may not be a Pakistani brand"
+  },
+  {
+   "id": null,
+   "Name": "Pakistani Lakes",
+   "Description": "Saiful Muluk|Attabad Lake|Rawal Lake|Keenjhar Lake|Manchar Lake|Hanna Lake|Satpara Lake|Sheosar Lake|Lulusar Lake|Kachura Lake|Borith Lake|Banjosa Lake|Haleji Lake|Khanpur Lake|Kallar Kahar Lake|Ansoo Lake|Mahodand Lake|Namal Lake|Uchhali Lake|Dudipatsar Lake",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local geography topic (no lakes card in the deck); challenger's version swaps obscure Rush and Karambar lakes for better-known Namal and Uchhali."
+  },
+  {
+   "id": null,
+   "Name": "Pakistani Mountains and Peaks",
+   "Description": "K2|Nanga Parbat|Rakaposhi|Tirich Mir|Broad Peak|Gasherbrum|Masherbrum|Ladyfinger Peak|Passu Cones|Diran|Haramosh|Makra Peak|Trango Towers|Malika Parbat|Musa ka Musalla|Mukshpuri|Margalla Hills|Chiltan|Takht e Sulaiman|Tilla Jogian",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local geography topic; challenger's version removes the Takht e Sulaiman/Koh e Sulaiman overlap and obscure Spantik."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Bank",
+   "Description": "Cashier|Counter|Queue|Token|Security Guard|ATM|Cheque Book|Deposit Slip|Passbook|Locker|Signature|CNIC Copy|Branch Manager|Cash Counting Machine|Pen on a Chain|Utility Bills|Account Opening Form|Waiting Chairs|Stamp|Receipt",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable everyday-place card; no bank-places card in game3."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Post Office",
+   "Description": "Letter|Envelope|Postage Stamp|Parcel|Postman|Post Box|Address|Postal Code|Money Order|Registered Post|Urgent Mail|Tracking Number|Weighing Scale|Postcard|Postmark|Postal Order|Sorting Rack|Courier Bike|Pension Day|Return to Sender",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Everyday local place; challenger's post-specific words replace generic ones shared with the bank/office cards, and 'Speed Post' (an Indian service name) is changed to Postal Order."
+  },
+  {
+   "id": null,
+   "Name": "Things in a Government Office",
+   "Description": "Files|Stamp|Clerk|Peon|Queue|Token|Signature|Attested Copies|Photocopy|Stamp Paper|Thumb Impression|Form|Notice Board|Register|Waiting Bench|Chai|Ceiling Fan|Lunch Break|Officer's Chair|Come Tomorrow",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Funny, relatable Pakistani setting; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Zoo",
+   "Description": "Lion|Tiger|Elephant|Monkey|Bear|Deer|Zebra|Giraffe|Ostrich|Peacock|Crocodile|Snake House|Bird Aviary|Cage|Zookeeper|Ticket Window|Peanuts|Do Not Feed Sign|Ice Cream Cart|School Trip",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family-friendly place topic; no zoo card in game3."
+  },
+  {
+   "id": null,
+   "Name": "Draw a markhor.",
+   "Description": "Draw a goat.|Draw an ibex.|Draw a deer.|Draw a ram.|Draw a unicorn.|Draw a mountain goat on a cliff.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local drawing prompt (national animal) with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a postman.",
+   "Description": "Draw a delivery rider.|Draw a letter.|Draw a traffic warden.|Draw a courier van.|Draw a milkman on a bicycle.|Draw a security guard.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Everyday local job with bluffable decoys."
   }
  ]
 }

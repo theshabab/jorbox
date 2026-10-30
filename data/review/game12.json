@@ -1094,12 +1094,12 @@
   },
   {
    "id": "game12-122",
-   "Name": "Closet",
-   "action": "keep",
+   "Name": "Cupboard",
+   "action": "edit",
    "original": {
     "Name": "Closet"
    },
-   "note": ""
+   "note": "Debate: Closet is the US word; Cupboard is the local word and is not in the deck."
   },
   {
    "id": "game12-123",
@@ -1221,11 +1221,11 @@
   {
    "id": "game12-136",
    "Name": "Couch",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Couch"
    },
-   "note": ""
+   "note": "Debate: Same meaning as the live Sofa card; Sofa is the usual Pakistani word."
   },
   {
    "id": "game12-137",
@@ -1418,12 +1418,12 @@
   },
   {
    "id": "game12-158",
-   "Name": "Detector",
-   "action": "keep",
+   "Name": "Metal Detector",
+   "action": "edit",
    "original": {
     "Name": "Detector"
    },
-   "note": ""
+   "note": "Debate: Detector alone is vague; Metal Detector is a clear object and is not in the deck."
   },
   {
    "id": "game12-159",
@@ -1490,12 +1490,12 @@
   },
   {
    "id": "game12-166",
-   "Name": "Dispenser",
-   "action": "keep",
+   "Name": "Water Dispenser",
+   "action": "edit",
    "original": {
     "Name": "Dispenser"
    },
-   "note": ""
+   "note": "Debate: Dispenser alone is vague; Water Dispenser is common and different enough from Cooler."
   },
   {
    "id": "game12-167",
@@ -1877,12 +1877,12 @@
   },
   {
    "id": "game12-209",
-   "Name": "Faucet",
-   "action": "keep",
+   "Name": "Tap",
+   "action": "edit",
    "original": {
     "Name": "Faucet"
    },
-   "note": ""
+   "note": "Debate: Faucet is the US word; Tap is the local word and is not in the deck."
   },
   {
    "id": "game12-210",
@@ -9329,6 +9329,66 @@
    "Name": "Wheelbarrow",
    "action": "add",
    "note": "New card (debate): Concrete, easy-to-draw noun known everywhere. There is no wheelbarrow or cart card in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Crocodile",
+   "action": "add",
+   "note": "New card (debate): Well-known animal; neither Crocodile nor Alligator is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Earthquake",
+   "action": "add",
+   "note": "New card (debate): Easy to act out and relevant locally; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Exam",
+   "action": "add",
+   "note": "New card (debate): Relatable; neither Exam nor Test is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Fridge",
+   "action": "add",
+   "note": "New card (debate): Everyday object; neither Fridge nor Refrigerator is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Firecracker",
+   "action": "add",
+   "note": "New card (debate): The owner allows fireworks; no Firecracker or Fireworks card exists."
+  },
+  {
+   "id": null,
+   "Name": "Chulha",
+   "action": "add",
+   "note": "New card (debate): A well-known Pakistani household word that fits Tandoor, Tawa and Handi; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Cradle",
+   "action": "add",
+   "note": "New card (debate): Drawable object; neither Cradle nor Crib is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Eclipse",
+   "action": "add",
+   "note": "New card (debate): Drawable sky event; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Calculator",
+   "action": "add",
+   "note": "New card (debate): Common, easy to draw; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Chandelier",
+   "action": "add",
+   "note": "New card (debate): Easy to draw and common in shaadi halls; not in the deck."
   }
  ]
 }
