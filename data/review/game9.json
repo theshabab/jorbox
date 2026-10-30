@@ -2194,25 +2194,25 @@
   },
   {
    "id": "game9-200",
-   "Name": "What is the official name of the star located closest to the North Celestial Pole?",
+   "Name": "What is the name of the North Star, which sits almost directly above Earth's North Pole?",
    "Description": "Polaris",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the official name of the star located closest to the North Celestial Pole?",
     "Description": "Polaris"
    },
-   "note": ""
+   "note": "Debate: Clearer wording with the same correct answer."
   },
   {
    "id": "game9-201",
-   "Name": "An organism described as \"heliotropic\" tends to move towards what?",
+   "Name": "A plant described as \"heliotropic\" turns to face what?",
    "Description": "The Sun (sunlight)",
    "action": "edit",
    "original": {
     "Name": "An organism described as \"heliotropic\" has a tendancy to move towards which of these things?",
     "Description": "Light"
    },
-   "note": "spelling; clearer answer"
+   "note": "spelling; clearer answer; Debate: Heliotropism means turning to track the sun, mostly in plants. It does not mean moving towards it."
   },
   {
    "id": "game9-202",
@@ -2293,14 +2293,14 @@
   },
   {
    "id": "game9-209",
-   "Name": "Which type of rock is created by intense heat AND pressure?",
+   "Name": "Which type of rock forms when existing rock is changed by intense heat and pressure?",
    "Description": "Metamorphic",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which type of rock is created by intense heat AND pressure?",
     "Description": "Metamorphic"
    },
-   "note": ""
+   "note": "Debate: More precise wording without the odd capitals."
   },
   {
    "id": "game9-210",
@@ -2328,12 +2328,12 @@
    "id": "game9-212",
    "Name": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
    "Description": "Gauss's Law",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
     "Description": "Gauss's Law"
    },
-   "note": ""
+   "note": "Debate: University-level physics, too obscure for a family party deck."
   },
   {
    "id": "game9-213",
@@ -2458,14 +2458,14 @@
   },
   {
    "id": "game9-224",
-   "Name": "A positron is an antiparticle of a what?",
+   "Name": "A positron is the antiparticle of which particle?",
    "Description": "Electron",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A positron is an antiparticle of a what?",
     "Description": "Electron"
    },
-   "note": ""
+   "note": "Debate: Grammar fix."
   },
   {
    "id": "game9-225",
@@ -2524,14 +2524,14 @@
   },
   {
    "id": "game9-230",
-   "Name": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
-   "Description": "Cretaceous-Paleogene",
-   "action": "keep",
+   "Name": "Which mass extinction, caused by an asteroid impact about 66 million years ago, wiped out the non-avian dinosaurs?",
+   "Description": "The Cretaceous–Paleogene (K–Pg, or K–T) extinction",
+   "action": "edit",
    "original": {
     "Name": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
     "Description": "Cretaceous-Paleogene"
    },
-   "note": ""
+   "note": "Debate: Fact fix: the impact killed all non-avian dinosaurs, not most of them. The answer now also gives the familiar K–T name."
   },
   {
    "id": "game9-231",
@@ -2623,14 +2623,14 @@
   },
   {
    "id": "game9-239",
-   "Name": "The 'Islets of Langerhans' is found in which human organ?",
+   "Name": "The 'Islets of Langerhans' are found in which human organ?",
    "Description": "Pancreas",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "The 'Islets of Langerhans' is found in which human organ?",
     "Description": "Pancreas"
    },
-   "note": ""
+   "note": "Debate: Grammar: plural subject."
   },
   {
    "id": "game9-240",
@@ -2801,12 +2801,12 @@
    "id": "game9-255",
    "Name": "What is the smallest country in the world?",
    "Description": "Vatican City",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the smallest country in the world?",
     "Description": "Vatican City"
    },
-   "note": ""
+   "note": "Debate: Effectively a duplicate: card 125's question already gives this fact."
   },
   {
    "id": "game9-256",
@@ -3063,14 +3063,14 @@
   },
   {
    "id": "game9-279",
-   "Name": "In which English county is the city of Portsmouth?",
-   "Description": "Hampshire",
-   "action": "keep",
+   "Name": "What is the capital of Azad Jammu and Kashmir?",
+   "Description": "Muzaffarabad",
+   "action": "edit",
    "original": {
     "Name": "In which English county is the city of Portsmouth?",
     "Description": "Hampshire"
    },
-   "note": ""
+   "note": "Debate: Replaces a UK-county question with local geography. The proposer's Gwadar version duplicated card 856. Muzaffarabad is not in the deck yet."
   },
   {
    "id": "game9-280",
@@ -3098,12 +3098,12 @@
    "id": "game9-282",
    "Name": "What is the name of rocky region that spans most of eastern Canada?",
    "Description": "Canadian Shield",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the name of rocky region that spans most of eastern Canada?",
     "Description": "Canadian Shield"
    },
-   "note": ""
+   "note": "Debate: Obscure North American geography with broken grammar, in a deck that already has many Canada questions."
   },
   {
    "id": "game9-283",
@@ -3261,14 +3261,14 @@
   },
   {
    "id": "game9-297",
-   "Name": "Which large, diamond-shaped muscle of the upper back is named after its shape?",
+   "Name": "Which large muscle of the upper back and neck is named after its trapezium (four-sided) shape?",
    "Description": "Trapezius",
    "action": "edit",
    "original": {
     "Name": "Which of the following is a major muscle of the back?",
     "Description": "Trapezius"
    },
-   "note": "rewritten: options missing"
+   "note": "rewritten: options missing; Debate: 'Diamond-shaped' points to the rhomboid. The trapezius is named after the trapezium."
   },
   {
    "id": "game9-298",
@@ -10270,6 +10270,13 @@
    "Description": "France (12, or 13 with its Antarctic claim)",
    "action": "add",
    "note": "New card (debate): The challenger's amended version: it notes the 12/13 ambiguity so players do not argue over the count, and it pairs with the China time-zone card."
+  },
+  {
+   "id": null,
+   "Name": "Which disputed glacier in the Karakoram, fought over by Pakistan and India since 1984, is called the world's highest battlefield?",
+   "Description": "Siachen Glacier",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani geography and army-related fact, not yet in the deck. The challenger's wording is accurate: Siachen lies beyond the end of the Line of Control."
   }
  ]
 }

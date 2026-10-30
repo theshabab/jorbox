@@ -1410,7 +1410,7 @@
   {
    "id": "game2-109",
    "Name": "Turnip",
-   "Description": "Shaljam | Purple | Root | White | Winter",
+   "Description": "Shaljam | Purple | Root | Winter | Gosht",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1418,7 +1418,7 @@
     "Description": "vegetable | green | salad | cook",
     "Category": "Vegetables"
    },
-   "note": ""
+   "note": "Debate: Replaces the second colour clue with the natural local association, shaljam gosht."
   },
   {
    "id": "game2-110",
@@ -1657,7 +1657,7 @@
   {
    "id": "game2-128",
    "Name": "Sari",
-   "Description": "India | Wrap | Saree | Blouse | Six Yards",
+   "Description": "India | Wrap | Bangladesh | Blouse | Six Yards",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1665,7 +1665,7 @@
     "Description": "wear | dress | traditional | cloth",
     "Category": "Clothing"
    },
-   "note": "Common spelling is also \"Saree\"; kept as Sari."
+   "note": "Common spelling is also \"Saree\"; kept as Sari.; Debate: Saree was just another spelling of the target word."
   },
   {
    "id": "game2-129",
@@ -1748,7 +1748,7 @@
   {
    "id": "game2-135",
    "Name": "Ajrak",
-   "Description": "Sindh | Sindhi | Block Print | Red | Topi",
+   "Description": "Sindh | Block Print | Red | Topi | Shawl",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1756,7 +1756,7 @@
     "Description": "wear | dress | traditional | cloth",
     "Category": "Clothing"
    },
-   "note": ""
+   "note": "Debate: Sindh and Sindhi were the same banned word; Shawl is a natural clue."
   },
   {
    "id": "game2-136",
@@ -1878,7 +1878,7 @@
   {
    "id": "game2-145",
    "Name": "Trousers",
-   "Description": "Pants | Pant | Legs | Formal | Office",
+   "Description": "Pants | Legs | Formal | Office | Jeans",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1886,7 +1886,7 @@
     "Description": "wear | dress | traditional | cloth",
     "Category": "Clothing"
    },
-   "note": ""
+   "note": "Debate: Pants and Pant were the same word; replaced one with Jeans."
   },
   {
    "id": "game2-146",
@@ -1984,13 +1984,13 @@
    "Name": "Cupboard",
    "Description": "Almari | Kitchen | Doors | Shelves | Store",
    "Category": "Furniture",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Cupboard",
     "Description": "furniture | wood | sit | home",
     "Category": "Furniture"
    },
-   "note": ""
+   "note": "Debate: Means nearly the same as Cabinet (154) and shares Almari with Wardrobe (153); Charpai is added to Furniture in its place."
   },
   {
    "id": "game2-154",
@@ -2072,8 +2072,8 @@
   },
   {
    "id": "game2-160",
-   "Name": "Dresser",
-   "Description": "Drawers | Clothes | Mirror | Makeup | Bedroom",
+   "Name": "Dressing Table",
+   "Description": "Mirror | Makeup | Drawers | Bedroom | Comb",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2081,12 +2081,12 @@
     "Description": "furniture | wood | sit | home",
     "Category": "Furniture"
    },
-   "note": ""
+   "note": "Debate: Dresser is a US term; Pakistani homes say dressing table."
   },
   {
    "id": "game2-161",
    "Name": "Mirror",
-   "Description": "Shesha | Reflection | Face | Glass | Look",
+   "Description": "Sheesha | Reflection | Face | Glass | Look",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2094,7 +2094,7 @@
     "Description": "furniture | wood | sit | home",
     "Category": "Furniture"
    },
-   "note": "Not really furniture; acceptable as household item."
+   "note": "Not really furniture; acceptable as household item.; Debate: Spelling: Shesha corrected to Sheesha."
   },
   {
    "id": "game2-162",
@@ -2203,7 +2203,7 @@
   {
    "id": "game2-170",
    "Name": "Sheet",
-   "Description": "Chadar | Bed | Cover | Cotton | Bedsheet",
+   "Description": "Chadar | Bed | Cover | Cotton | Bistar",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2211,7 +2211,7 @@
     "Description": "furniture | wood | sit | home",
     "Category": "Furniture"
    },
-   "note": "Bedding, not furniture; \"Sheet\" is ambiguous (paper sheet)."
+   "note": "Bedding, not furniture; \"Sheet\" is ambiguous (paper sheet).; Debate: Bedsheet contained the target word; replaced it with Bistar."
   },
   {
    "id": "game2-171",
@@ -2229,7 +2229,7 @@
   {
    "id": "game2-172",
    "Name": "Cradle",
-   "Description": "Jhoola | Baby | Rock | Sleep | Swing",
+   "Description": "Jhoola | Baby | Rock | Sleep | Lori",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2237,7 +2237,7 @@
     "Description": "furniture | wood | sit | home",
     "Category": "Furniture"
    },
-   "note": ""
+   "note": "Debate: Jhoola and Swing were the same word. Replaced Swing with Lori (lullaby), a stronger local clue than the challenger's Mother."
   },
   {
    "id": "game2-173",
@@ -2320,7 +2320,7 @@
   {
    "id": "game2-179",
    "Name": "Glass",
-   "Description": "Gilaas | Water | Drink | Pani | Clear",
+   "Description": "Gilaas | Water | Drink | Clear | Kaanch",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2328,12 +2328,12 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": ""
+   "note": "Debate: Water and Pani were the same word; Kaanch is a strong banned word."
   },
   {
    "id": "game2-180",
    "Name": "Cup",
-   "Description": "Tea | Chai | Saucer | Handle | Coffee",
+   "Description": "Tea | Mug | Saucer | Handle | Coffee",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2341,7 +2341,7 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": ""
+   "note": "Debate: Tea and Chai were the same word; replaced Chai with Mug."
   },
   {
    "id": "game2-181",
@@ -2385,7 +2385,7 @@
   {
    "id": "game2-184",
    "Name": "Pan",
-   "Description": "Fry | Frying | Handle | Non Stick | Egg",
+   "Description": "Fry | Handle | Non Stick | Egg | Omelette",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2393,7 +2393,7 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": ""
+   "note": "Debate: Fry and Frying were the same word; replaced one with Omelette."
   },
   {
    "id": "game2-185",
@@ -2424,7 +2424,7 @@
   {
    "id": "game2-187",
    "Name": "Tawa",
-   "Description": "Roti | Chapati | Paratha | Flat | Iron",
+   "Description": "Roti | Paratha | Flat | Iron | Hot",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2432,7 +2432,7 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": ""
+   "note": "Debate: Roti and Chapati are the same thing; replaced Chapati with Hot."
   },
   {
    "id": "game2-188",
@@ -2450,7 +2450,7 @@
   {
    "id": "game2-189",
    "Name": "Grater",
-   "Description": "Carrot | Cheese | Kaddu Kash | Shred | Grate",
+   "Description": "Carrot | Cheese | Kaddu Kash | Shred | Mooli",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2458,7 +2458,7 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": ""
+   "note": "Debate: Grate was the root of the target word; replaced it with Mooli (grated mooli for parathas)."
   },
   {
    "id": "game2-190",
@@ -2476,7 +2476,7 @@
   {
    "id": "game2-191",
    "Name": "Strainer",
-   "Description": "Chhanni | Chai | Tea | Pasta | Holes",
+   "Description": "Chhanni | Chai | Pasta | Holes | Filter",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2484,7 +2484,7 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": "Overlaps with Sieve; consider keeping only one."
+   "note": "Overlaps with Sieve; consider keeping only one.; Debate: Chai and Tea were the same word; replaced one with Filter."
   },
   {
    "id": "game2-192",
@@ -2541,7 +2541,7 @@
   {
    "id": "game2-196",
    "Name": "Bottle",
-   "Description": "Water | Drink | Plastic | Cap | Pani",
+   "Description": "Water | Plastic | Cap | Cold Drink | Feeder",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2549,12 +2549,12 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": ""
+   "note": "Debate: Water and Pani were the same word; Cold Drink and Feeder are natural local clues."
   },
   {
    "id": "game2-197",
    "Name": "Jar",
-   "Description": "Lid | Glass | Pickle | Achar | Jam",
+   "Description": "Lid | Glass | Pickle | Honey | Jam",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2562,7 +2562,7 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": ""
+   "note": "Debate: Pickle and Achar were the same word; replaced Achar with Honey."
   },
   {
    "id": "game2-198",
@@ -9887,6 +9887,86 @@
    "Category": "Beverages",
    "action": "add",
    "note": "New card"
+  },
+  {
+   "id": null,
+   "Name": "Tinda",
+   "Description": "Gourd | Round | Green | Small | Sabzi",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani vegetable that is not in the deck; Vegetables has only 21 cards."
+  },
+  {
+   "id": null,
+   "Name": "Ginger",
+   "Description": "Adrak | Lehsan | Root | Chai | Spicy",
+   "Category": "Spices",
+   "action": "add",
+   "note": "New card (debate): Staple not in the deck (as challenger amended). It fits Spices, which has only 22 cards, while Vegetables already gets three new cards."
+  },
+  {
+   "id": null,
+   "Name": "Corn",
+   "Description": "Makai | Bhutta | Yellow | Cob | Rain",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Not in this deck; rainy-day bhutta is a well-loved local scene."
+  },
+  {
+   "id": null,
+   "Name": "Mushroom",
+   "Description": "Khumbi | Umbrella | Fungus | White | Pizza",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Common vegetable that is not in the deck and is easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Charpai",
+   "Description": "Bed | Rope | Village | Four Legs | Sleep",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "New card (debate): Iconic Pakistani furniture; until now it appeared only as a banned word on Bed and Cot."
+  },
+  {
+   "id": null,
+   "Name": "Abaya",
+   "Description": "Burqa | Black | Women | Long | Cover",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Common Muslim garment missing from Clothing."
+  },
+  {
+   "id": null,
+   "Name": "Khussa",
+   "Description": "Shoes | Punjabi | Embroidered | Multan | Jutti",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Traditional Pakistani footwear; the deck has no footwear cards."
+  },
+  {
+   "id": null,
+   "Name": "Peshawari Chappal",
+   "Description": "Sandal | Peshawar | Leather | Imran Khan | Pathan",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Famous local footwear (as challenger amended), without banning both Kaptaan and Imran Khan, which are the same association."
+  },
+  {
+   "id": null,
+   "Name": "Matka",
+   "Description": "Clay | Water | Pot | Cool | Ghara",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Classic clay water pot (as challenger amended), without the Clay/Mitti duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Mosquito",
+   "Description": "Machar | Bite | Dengue | Buzz | Blood",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Relatable, easy to act out, and not in the deck; Animals has 24 cards."
   }
  ]
 }

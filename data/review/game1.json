@@ -318,7 +318,7 @@
   {
    "id": "game1-25",
    "Name": "Okara",
-   "Description": "Punjab city between Lahore and Sahiwal",
+   "Description": "Punjab potato-growing city near Sahiwal",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -326,7 +326,7 @@
     "Description": "A city in Pakistan",
     "Category": "Pakistani Cities"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Gives a real identifying feature (Okara is a major potato district) instead of only a location."
   },
   {
    "id": "game1-26",
@@ -812,7 +812,7 @@
   {
    "id": "game1-63",
    "Name": "Anise",
-   "Description": "Liquorice-flavoured seeds, like saunf",
+   "Description": "Liquorice-flavoured seeds, anisoon, saunf's cousin",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -820,7 +820,7 @@
     "Description": "An aromatic spice",
     "Category": "Spices"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Uses the correct Urdu name (anisoon). Saunf is fennel, so it stays only as a comparison."
   },
   {
    "id": "game1-64",
@@ -916,7 +916,7 @@
   {
    "id": "game1-71",
    "Name": "Garam Masala",
-   "Description": "Warm blend of whole ground spices",
+   "Description": "Warming ground spice mix, added at the end",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -924,7 +924,7 @@
     "Description": "A warm spice mix",
     "Category": "Spices"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger's amended version. Garam masala is used as a ground mix, so 'whole-spice blend' would mislead."
   },
   {
    "id": "game1-72",
@@ -955,7 +955,7 @@
   {
    "id": "game1-74",
    "Name": "Basil",
-   "Description": "Fragrant leafy herb, niazbo / tulsi",
+   "Description": "Fragrant herb, niazbo; its seeds go in falooda",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -963,7 +963,7 @@
     "Description": "An aromatic herb",
     "Category": "Spices"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Drops the Hindu-ritual 'tulsi' reference. Tukh malanga (falooda seeds) are sweet-basil seeds, so the falooda clue is accurate and local."
   },
   {
    "id": "game1-75",
@@ -981,7 +981,7 @@
   {
    "id": "game1-76",
    "Name": "Apple",
-   "Description": "Red or green fruit, one a day",
+   "Description": "Crunchy red fruit from Quetta and Swat, seb",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -989,12 +989,12 @@
     "Description": "A common fruit",
     "Category": "Fruits"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Replaces the Western 'one a day' saying with a local clue (Quetta and Swat) and the Urdu name."
   },
   {
    "id": "game1-77",
    "Name": "Banana",
-   "Description": "Long yellow fruit, peeled",
+   "Description": "Long yellow fruit you peel, kela",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1002,12 +1002,12 @@
     "Description": "A tropical fruit",
     "Category": "Fruits"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name and makes the wording read more naturally."
   },
   {
    "id": "game1-78",
    "Name": "Orange",
-   "Description": "Round citrus named after its colour",
+   "Description": "Round juicy citrus, malta or sangtara",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1015,12 +1015,12 @@
     "Description": "A citrus fruit",
     "Category": "Fruits"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes the backwards claim: the colour is named after the fruit. Adds the familiar local names."
   },
   {
    "id": "game1-79",
    "Name": "Grapes",
-   "Description": "Bunches of small fruit grown on vines",
+   "Description": "Bunches of small vine fruit, angoor",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1028,7 +1028,7 @@
     "Description": "A small fruit",
     "Category": "Fruits"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name and is shorter."
   },
   {
    "id": "game1-80",
@@ -1150,7 +1150,7 @@
   {
    "id": "game1-89",
    "Name": "Cherry",
-   "Description": "Small red fruit on long stems",
+   "Description": "Small red stalked fruit, gilas",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1158,7 +1158,7 @@
     "Description": "A small stone fruit",
     "Category": "Fruits"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the standard local name, gilas."
   },
   {
    "id": "game1-90",

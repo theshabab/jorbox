@@ -105,7 +105,7 @@ Cauliflower,Gobhi | White | Aloo Gobi | Florets | Broccoli,Vegetables
 Cabbage,Band Gobhi | Leaves | Round | Coleslaw | Layers,Vegetables
 Carrot,Gajar | Orange | Rabbit | Halwa | Eyes,Vegetables
 Radish,Mooli | White | Paratha | Crunchy | Root,Vegetables
-Turnip,Shaljam | Purple | Root | White | Winter,Vegetables
+Turnip,Shaljam | Purple | Root | Winter | Gosht,Vegetables
 Peas,Matar | Green | Pod | Pulao | Round,Vegetables
 Okra,Bhindi | Ladyfinger | Slimy | Green | Fry,Vegetables
 Eggplant,Baingan | Brinjal | Purple | Bharta | Aubergine,Vegetables
@@ -122,14 +122,14 @@ Shalwar,Kameez | Pajama | Trousers | Nara | Baggy,Clothing
 Kameez,Shalwar | Shirt | Kurta | Long | Suit,Clothing
 Kurta,Kameez | Shalwar | Men | Eid | Shirt,Clothing
 Dupatta,Chunni | Scarf | Head | Women | Shoulder,Clothing
-Sari,India | Wrap | Saree | Blouse | Six Yards,Clothing
+Sari,India | Wrap | Bangladesh | Blouse | Six Yards,Clothing
 Lehnga,Bride | Wedding | Choli | Skirt | Heavy,Clothing
 Sherwani,Groom | Dulha | Wedding | Long Coat | Quaid,Clothing
 Waistcoat,Koti | Sleeveless | Kurta | Buttons | Suit,Clothing
 Turban,Pagri | Head | Sikh | Wrap | Pathan,Clothing
 Scarf,Neck | Muffler | Winter | Wool | Wrap,Clothing
 Shawl,Chaadar | Winter | Wool | Kashmiri | Wrap,Clothing
-Ajrak,Sindh | Sindhi | Block Print | Red | Topi,Clothing
+Ajrak,Sindh | Block Print | Red | Topi | Shawl,Clothing
 Topi,Cap | Head | Namaz | Jinnah | Sindhi,Clothing
 Vest,Baniyan | Undershirt | Sleeveless | White | Inner,Clothing
 Jacket,Leather | Zip | Winter | Denim | Pockets,Clothing
@@ -139,7 +139,7 @@ Socks,Feet | Juraab | Shoes | Pair | Smell,Clothing
 Gloves,Hands | Dastaane | Fingers | Winter | Boxing,Clothing
 Tie,Neck | Knot | Office | Shirt | Suit,Clothing
 Belt,Waist | Buckle | Leather | Pants | Kamar,Clothing
-Trousers,Pants | Pant | Legs | Formal | Office,Clothing
+Trousers,Pants | Legs | Formal | Office | Jeans,Clothing
 Jeans,Denim | Blue | Pants | Torn | Tight,Clothing
 Shirt,Kameez | Buttons | Collar | Sleeves | Formal,Clothing
 Frock,Girls | Dress | Little | Skirt | Eid,Clothing
@@ -147,15 +147,14 @@ Chair,Kursi | Sit | Legs | Seat | Table,Furniture
 Table,Mez | Chair | Dining | Legs | Top,Furniture
 Sofa,Couch | Drawing Room | Sit | Cushions | Comfortable,Furniture
 Bed,Sleep | Bedroom | Charpai | Mattress | Pillow,Furniture
-Cupboard,Almari | Kitchen | Doors | Shelves | Store,Furniture
 Wardrobe,Almari | Clothes | Hangers | Bedroom | Doors,Furniture
 Cabinet,Drawers | Kitchen | Shelf | Medicine | Doors,Furniture
 Desk,Study | Table | Office | Laptop | Chair,Furniture
 Stool,Seat | Three Legs | No Back | Small | Peerhi,Furniture
 Bench,Park | Long | Seat | School | Bus Stop,Furniture
 Bookshelf,Books | Library | Shelves | Read | Rack,Furniture
-Dresser,Drawers | Clothes | Mirror | Makeup | Bedroom,Furniture
-Mirror,Shesha | Reflection | Face | Glass | Look,Furniture
+Dressing Table,Mirror | Makeup | Drawers | Bedroom | Comb,Furniture
+Mirror,Sheesha | Reflection | Face | Glass | Look,Furniture
 Lamp,Light | Bulb | Table | Shade | Night,Furniture
 Carpet,Qaleen | Floor | Persian | Wall To Wall | Vacuum,Furniture
 Curtain,Parda | Window | Cloth | Rod | Close,Furniture
@@ -163,33 +162,33 @@ Mattress,Bed | Sleep | Foam | Gadda | Spring,Furniture
 Pillow,Takiya | Head | Sleep | Bed | Soft,Furniture
 Cushion,Sofa | Soft | Gaddi | Sit | Cover,Furniture
 Blanket,Razai | Kambal | Winter | Warm | Cover,Furniture
-Sheet,Chadar | Bed | Cover | Cotton | Bedsheet,Furniture
+Sheet,Chadar | Bed | Cover | Cotton | Bistar,Furniture
 Cot,Baby | Bed | Charpai | Small | Camping,Furniture
-Cradle,Jhoola | Baby | Rock | Sleep | Swing,Furniture
+Cradle,Jhoola | Baby | Rock | Sleep | Lori,Furniture
 Recliner,Chair | Lean Back | Relax | Footrest | Comfortable,Furniture
 Spoon,Chamach | Eat | Soup | Tea | Stir,Kitchen Items
 Fork,Kanta | Eat | Prongs | Spoon | Knife,Kitchen Items
 Knife,Churi | Cut | Sharp | Chop | Blade,Kitchen Items
 Plate,Thaali | Dinner | Eat | Round | Dish,Kitchen Items
 Bowl,Pyala | Soup | Cereal | Round | Deep,Kitchen Items
-Glass,Gilaas | Water | Drink | Pani | Clear,Kitchen Items
-Cup,Tea | Chai | Saucer | Handle | Coffee,Kitchen Items
+Glass,Gilaas | Water | Drink | Clear | Kaanch,Kitchen Items
+Cup,Tea | Mug | Saucer | Handle | Coffee,Kitchen Items
 Mug,Coffee | Handle | Big | Cup | Tea,Kitchen Items
 Jug,Water | Pour | Pitcher | Lassi | Handle,Kitchen Items
 Teapot,Chai | Kettle | Pour | Spout | Lid,Kitchen Items
-Pan,Fry | Frying | Handle | Non Stick | Egg,Kitchen Items
+Pan,Fry | Handle | Non Stick | Egg | Omelette,Kitchen Items
 Pot,Handi | Degchi | Cook | Boil | Lid,Kitchen Items
 Cooker,Pressure | Whistle | Steam | Gas | Daal,Kitchen Items
-Tawa,Roti | Chapati | Paratha | Flat | Iron,Kitchen Items
+Tawa,Roti | Paratha | Flat | Iron | Hot,Kitchen Items
 Rolling Pin,Belan | Roti | Dough | Atta | Flat,Kitchen Items
-Grater,Carrot | Cheese | Kaddu Kash | Shred | Grate,Kitchen Items
+Grater,Carrot | Cheese | Kaddu Kash | Shred | Mooli,Kitchen Items
 Peeler,Peel | Potato | Skin | Chilka | Carrot,Kitchen Items
-Strainer,Chhanni | Chai | Tea | Pasta | Holes,Kitchen Items
+Strainer,Chhanni | Chai | Pasta | Holes | Filter,Kitchen Items
 Tongs,Chimta | Grab | Pick | Hot | BBQ,Kitchen Items
 Ladle,Spoon | Soup | Serve | Daig | Big,Kitchen Items
 Tray,Serve | Tea | Carry | Waiter | Guests,Kitchen Items
-Bottle,Water | Drink | Plastic | Cap | Pani,Kitchen Items
-Jar,Lid | Glass | Pickle | Achar | Jam,Kitchen Items
+Bottle,Water | Plastic | Cap | Cold Drink | Feeder,Kitchen Items
+Jar,Lid | Glass | Pickle | Honey | Jam,Kitchen Items
 Container,Box | Tupperware | Plastic | Lid | Store,Kitchen Items
 Lion,Sher | King | Jungle | Roar | Mane,Animals
 Tiger,Baagh | Stripes | Orange | Jungle | Bengal,Animals
@@ -745,3 +744,13 @@ Azan,Call | Prayer | Muazzin | Bilal | Allahu Akbar,Islamic Terms
 Tawaf,Kaaba | Seven | Circle | Hajj | Umrah,Islamic Terms
 Sugarcane Juice,Ganna | Ras | Machine | Summer | Ginger,Beverages
 Doodh Patti,Chai | Milk | Tea | Dhaba | Strong,Beverages
+Tinda,Gourd | Round | Green | Small | Sabzi,Vegetables
+Ginger,Adrak | Lehsan | Root | Chai | Spicy,Spices
+Corn,Makai | Bhutta | Yellow | Cob | Rain,Vegetables
+Mushroom,Khumbi | Umbrella | Fungus | White | Pizza,Vegetables
+Charpai,Bed | Rope | Village | Four Legs | Sleep,Furniture
+Abaya,Burqa | Black | Women | Long | Cover,Clothing
+Khussa,Shoes | Punjabi | Embroidered | Multan | Jutti,Clothing
+Peshawari Chappal,Sandal | Peshawar | Leather | Imran Khan | Pathan,Clothing
+Matka,Clay | Water | Pot | Cool | Ghara,Kitchen Items
+Mosquito,Machar | Bite | Dengue | Buzz | Blood,Animals
