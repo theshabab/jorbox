@@ -1067,12 +1067,12 @@
   },
   {
    "id": "game13-119",
-   "Description": "Get a player to guess your favorite city.",
+   "Description": "Get a player to guess your favourite city.",
    "action": "edit",
    "original": {
     "Description": "Get a player to guess your favorite movie."
    },
-   "note": "film/pop culture"
+   "note": "film/pop culture; Debate: Uses the British spelling 'favourite', like the rest of the deck."
   },
   {
    "id": "game13-120",
@@ -1328,12 +1328,12 @@
   },
   {
    "id": "game13-148",
-   "Description": "Get a player to tell you whether they are scared of spiders.",
+   "Description": "Get a player to tell you whether they are scared of cockroaches.",
    "action": "edit",
    "original": {
     "Description": "Get a player to tell you a story about their fear of spiders."
    },
-   "note": "wording"
+   "note": "wording; Debate: Cockroaches are the more local fear. Keeping 'tell you whether' means the mission can still be done when the player isn't scared (challenger's amendment)."
   },
   {
    "id": "game13-149",
@@ -1652,21 +1652,21 @@
   },
   {
    "id": "game13-184",
-   "Description": "Get a player to correct your pronunciation of 'Chai'.",
-   "action": "keep",
+   "Description": "Get a player to correct your pronunciation of 'Gujranwala'.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to correct your pronunciation of 'Chai'."
    },
-   "note": ""
+   "note": "Debate: The old card overlapped with 'say the word Chai' (idx 49), and no one believes you can mispronounce chai. The Quetta card sets a precedent for city names."
   },
   {
    "id": "game13-185",
-   "Description": "Get a player to guess your favorite season.",
-   "action": "keep",
+   "Description": "Get a player to guess your favourite season.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to guess your favorite season."
    },
-   "note": ""
+   "note": "Debate: Uses the British spelling 'favourite', like the rest of the deck."
   },
   {
    "id": "game13-186",
@@ -1769,12 +1769,12 @@
   },
   {
    "id": "game13-197",
-   "Description": "Get a player to say your name three times in one sentence.",
-   "action": "keep",
+   "Description": "Get a player to say your name three times in one conversation.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to say your name three times in one sentence."
    },
-   "note": ""
+   "note": "Debate: 'Three times in one sentence' is almost impossible to steer. 'One conversation' matches the deck's own wording."
   },
   {
    "id": "game13-198",
@@ -1868,12 +1868,12 @@
   },
   {
    "id": "game13-208",
-   "Description": "Get a player to explain the rules of cricket to you.",
-   "action": "keep",
+   "Description": "Get a player to explain the LBW rule in cricket to you.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to explain the rules of cricket to you."
    },
-   "note": ""
+   "note": "Debate: Pakistani players won't believe you don't know the basic rules of cricket. Asking about LBW is believable and funnier."
   },
   {
    "id": "game13-209",
@@ -5291,6 +5291,36 @@
    "Description": "Get a player to agree that a flying chappal from ammi is the most accurate weapon in Pakistan.",
    "action": "add",
    "note": "New card (debate): Classic affectionate family joke; fits the 'agree' missions; no chappal card exists"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Jalebi'.",
+   "action": "add",
+   "note": "New card (debate): A local-food 'say the word' card. There is no Jalebi card in the deck yet."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a thermos.",
+   "action": "add",
+   "note": "New card (debate): A new household object for the 'why are you holding' cards. Not in the deck yet."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a chimta (tongs).",
+   "action": "add",
+   "note": "New card (debate): A kitchen object that goes with the belan and pressure cooker lid cards. Not in the deck yet."
+  },
+  {
+   "id": null,
+   "Description": "Hide this card in the fruit bowl and get a player to find it.",
+   "action": "add",
+   "note": "New card (debate): A hiding spot the deck hasn't used yet."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Chalo theek hai' (Okay, fine).",
+   "action": "add",
+   "note": "New card (debate): A common Urdu phrase that is easy to steer someone into saying. It is different from 'Chalo, chalte hain'."
   }
  ]
 }

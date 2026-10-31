@@ -5,14 +5,14 @@
  "cards": [
   {
    "id": "game16-1",
-   "Name": "What is your favorite kitchen utensil?",
+   "Name": "What is your favorite kitchen utensil (belan, chimta, pressure cooker), and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is your favorite kitchen utensil?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Desi examples and a 'why' make a flat question livelier."
   },
   {
    "id": "game16-2",
@@ -71,14 +71,14 @@
   },
   {
    "id": "game16-7",
-   "Name": "What was the best thing that happened to you this weekend?",
+   "Name": "What was the best thing that happened to you this week?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What was the best thing that happened to you this weekend?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: 'This week' works on any day and no longer overlaps the weekend cards."
   },
   {
    "id": "game16-8",
@@ -282,12 +282,12 @@
    "id": "game16-26",
    "Name": "If you could spend 15 minutes with any person, living or not, who would it be and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "If you could spend 15 minutes with any person, living or not, who would it be and why?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of the live card 'If you could call up anyone in the world and have a one-hour conversation, who would you call?'"
   },
   {
    "id": "game16-27",
@@ -414,12 +414,12 @@
    "id": "game16-38",
    "Name": "How would you like to be remembered?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "How would you like to be remembered?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of the live Deep & ThoughtProvoking card 'What legacy do you want to leave behind?'"
   },
   {
    "id": "game16-39",
@@ -665,14 +665,14 @@
   },
   {
    "id": "game16-61",
-   "Name": "Describe your favorite pair of comfortable clothes.",
+   "Name": "Describe your favorite comfy outfit for lounging at home.",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Describe your favorite pair of comfortable clothes.",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Fixes the awkward phrase 'pair of comfortable clothes'."
   },
   {
    "id": "game16-62",
@@ -786,14 +786,14 @@
   },
   {
    "id": "game16-72",
-   "Name": "What is your favorite way to express yourself?",
+   "Name": "What is your favorite way to express yourself: writing, drawing, cooking, talking, or something else?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is your favorite way to express yourself?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Examples make a vague question answerable."
   },
   {
    "id": "game16-73",
@@ -819,14 +819,14 @@
   },
   {
    "id": "game16-75",
-   "Name": "What are your favorite pizza toppings?",
+   "Name": "What are your favorite pizza toppings: chicken tikka, fajita, extra cheese, or something else?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What are your favorite pizza toppings?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Adds familiar Pakistani pizza options."
   },
   {
    "id": "game16-76",
@@ -885,14 +885,14 @@
   },
   {
    "id": "game16-81",
-   "Name": "If you could take back something hurtful you've once said to someone, what would it be?",
-   "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "Name": "If you could take back something hurtful you once said to someone, what would it be?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "edit",
    "original": {
     "Name": "If you could take back something hurtful you've once said to someone, what would it be?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Grammar fix and moved to Deep & ThoughtProvoking."
   },
   {
    "id": "game16-82",
@@ -909,23 +909,23 @@
    "id": "game16-83",
    "Name": "What do you look for in a friend?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What do you look for in a friend?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Same meaning as the live card 'What do you value most in a friendship?'"
   },
   {
    "id": "game16-84",
    "Name": "What's the most important thing to you in life?",
-   "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "edit",
    "original": {
     "Name": "What's the most important thing to you in life?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: A reflective question that belongs in Deep & ThoughtProvoking."
   },
   {
    "id": "game16-85",
@@ -1171,14 +1171,14 @@
   },
   {
    "id": "game16-107",
-   "Name": "Would you rather spend the day at a museum or on a nature trail?",
+   "Name": "Would you rather spend the day at a museum or hiking a trail in the hills (like the Margallas)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Would you rather spend the day at a museum or on a nature trail?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Local frame for the nature option."
   },
   {
    "id": "game16-108",
@@ -8142,6 +8142,55 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card (debate): Creative naming prompt distinct from the existing 'funniest WhatsApp message' card."
+  },
+  {
+   "id": null,
+   "Name": "If you could borrow one animal's ability for a day (a cheetah's speed, an owl's night vision, a camel's ability to go days without water), which would you pick?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): New imaginative question with accurate animal examples; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "If you could ask any animal one question and get an honest answer, which animal would you ask and what would you ask it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Playful new question distinct from existing animal cards."
+  },
+  {
+   "id": null,
+   "Name": "How would you praise someone's cooking without using the words 'tasty' or 'mazay ka'?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Funny desi performance prompt; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "If you could be the world's best at one everyday task (parking, folding clothes, peeling oranges, tying a dupatta), which would it be?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable icebreaker distinct from 'best at' and 'weird talent' cards."
+  },
+  {
+   "id": null,
+   "Name": "If you could have chai with yourself 20 years from now, what would you ask?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Reflective new question distinct from the ten-years and younger-self cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the strangest compliment you have ever received?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Funny counterpart to the 'best compliment' card."
+  },
+  {
+   "id": null,
+   "Name": "If you could rename one fruit or vegetable, which would it be and what would you call it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Quick silly naming question with no overlap."
   }
  ]
 }

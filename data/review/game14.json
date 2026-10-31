@@ -3019,14 +3019,14 @@
   },
   {
    "id": "game14-275",
-   "Description": "How likely are you to participate in a play?",
+   "Description": "How likely were you to take part in a school drama or tableau?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to participate in a play?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: 'Participate in a play' is vague. School dramas and tableaux are the local experience and match the past-tense school cards."
   },
   {
    "id": "game14-276",
@@ -3624,14 +3624,14 @@
   },
   {
    "id": "game14-330",
-   "Description": "How likely are you to visit your hometown?",
+   "Description": "How likely are you to visit your family's ancestral village or hometown in the next 12 months?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to visit your hometown?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Clearer for players who still live in their hometown. The rolling window avoids 'this year' running out, since only two months of the year are left."
   },
   {
    "id": "game14-331",
@@ -5487,6 +5487,41 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): A clean count that anyone can answer. It is different from 352 (phone numbers by heart)."
+  },
+  {
+   "id": null,
+   "Description": "How many times has a load of laundry turned your white clothes pink or blue?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A relatable, clean count that fits the laundry cards. No similar card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many glasses of fresh ganna (sugarcane) juice have you had this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A local drink that goes with the Rooh Afza, lassi and chai cards. There is no ganna card yet."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at tying a pagri (turban) properly?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): A local counterpart to the tie-tying card that fits the wedding clothes cards. It does not duplicate any existing card."
+  },
+  {
+   "id": null,
+   "Description": "How many empty gadget or shoe boxes are you keeping 'just in case'?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A familiar household hoarding habit that goes with the bag-of-bags and old-letters cards. It does not duplicate any existing card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to still have your old school report cards somewhere at home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Fits the nostalgia cards. It differs from 'hidden a bad result card', which asks about hiding a result, not keeping old report cards."
   }
  ]
 }
