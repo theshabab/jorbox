@@ -23,12 +23,12 @@
   },
   {
    "id": "game13-3",
-   "Description": "Say a well-known muhavra (saying) wrong and get a player to correct you.",
+   "Description": "Say a well-known muhavra (idiom) wrong and get a player to correct you.",
    "action": "edit",
    "original": {
     "Description": "Get a movie quote wrong and get another player to correct you."
    },
-   "note": "movie quote (film/pop culture); Debate: Fixes the awkward grammar and gives the card a local frame. 'Saying' replaces 'proverb' because a muhavra is an idiom, not strictly a proverb."
+   "note": "movie quote (film/pop culture); Debate: Fixes the awkward grammar and gives the card a local frame. 'Saying' replaces 'proverb' because a muhavra is an idiom, not strictly a proverb.; Debate: A muhavra is an idiom; 'idiom' is the accurate gloss and keeps it distinct from the kahawat (proverb) card"
   },
   {
    "id": "game13-4",
@@ -59,12 +59,12 @@
   },
   {
    "id": "game13-7",
-   "Description": "Get a player to say “you’re not ugly.”",
-   "action": "keep",
+   "Description": "Get a player to say 'You're not ugly.'",
+   "action": "edit",
    "original": {
     "Description": "Get a player to say “you’re not ugly.”"
    },
-   "note": ""
+   "note": "Debate: Curly quotes and lowercase do not match the deck's straight-quote, capitalised say-card format"
   },
   {
    "id": "game13-8",
@@ -158,21 +158,21 @@
   },
   {
    "id": "game13-18",
-   "Description": "Get a player to say something in a different language.",
-   "action": "keep",
+   "Description": "Get a player to say something in a language other than Urdu or English (e.g. Punjabi, Pashto, Sindhi or Arabic).",
+   "action": "edit",
    "original": {
     "Description": "Get a player to say something in a different language."
    },
-   "note": ""
+   "note": "Debate: Original is trivial because Urdu and English are both spoken anyway; challenger's version keeps the idea and can be judged clearly, unlike 'pure Urdu' which invites arguments over loanwords"
   },
   {
    "id": "game13-19",
-   "Description": "Get a player to say “game over.”",
-   "action": "keep",
+   "Description": "Get a player to say 'Game over.'",
+   "action": "edit",
    "original": {
     "Description": "Get a player to say “game over.”"
    },
-   "note": ""
+   "note": "Debate: Curly quotes and lowercase do not match the deck's say-card format"
   },
   {
    "id": "game13-20",
@@ -528,11 +528,11 @@
   {
    "id": "game13-59",
    "Description": "Get a player to ask if you are feeling happy.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to ask if you are feeling happy."
    },
-   "note": ""
+   "note": "Debate: Odd question to draw out; near-duplicate of the other 'ask if you are feeling...' cards"
   },
   {
    "id": "game13-60",
@@ -662,12 +662,12 @@
   },
   {
    "id": "game13-74",
-   "Description": "Get a player to agree that cricket is intense.",
-   "action": "keep",
+   "Description": "Get a player to agree that a Pakistan vs India match is more stressful than exams.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to agree that cricket is intense."
    },
-   "note": ""
+   "note": "Debate: Sharper, relatable local claim instead of the bland 'cricket is intense'; no duplicate"
   },
   {
    "id": "game13-75",
@@ -689,12 +689,12 @@
   },
   {
    "id": "game13-77",
-   "Description": "Get a player to ask if you are feeling surprised.",
-   "action": "keep",
+   "Description": "Get a player to ask you why you look so shocked.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask if you are feeling surprised."
    },
-   "note": ""
+   "note": "Debate: Nobody asks 'are you feeling surprised'; challenger's natural wording keeps a playable mission"
   },
   {
    "id": "game13-78",
@@ -825,11 +825,11 @@
   {
    "id": "game13-92",
    "Description": "Get a player to smell a bag.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to smell a bag."
    },
-   "note": ""
+   "note": "Debate: Weak, awkward filler among many interchangeable 'smell an object' cards"
   },
   {
    "id": "game13-93",
@@ -896,21 +896,21 @@
   },
   {
    "id": "game13-100",
-   "Description": "Get a player to say the word 'Cricket'.",
-   "action": "keep",
+   "Description": "Get a player to say the word 'Googly'.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to say the word 'Cricket'."
    },
-   "note": ""
+   "note": "Debate: 'Cricket' comes up by itself and the deck has many cricket cards; 'Googly' needs real steering"
   },
   {
    "id": "game13-101",
    "Description": "Get a player to show you a photo of their pet.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to show you a photo of their pet."
    },
-   "note": ""
+   "note": "Debate: Often unplayable because many players have no pet; the cat-photo card (idx 22) covers it"
   },
   {
    "id": "game13-102",
@@ -987,20 +987,20 @@
   {
    "id": "game13-110",
    "Description": "Get a player to smell a glass.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to smell a glass."
    },
-   "note": ""
+   "note": "Debate: Duplicates the 'smell an object' pattern; the strange-smelling bottle card does it better"
   },
   {
    "id": "game13-111",
    "Description": "Get a player to smell a spoon.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to smell a spoon."
    },
-   "note": ""
+   "note": "Debate: Weak filler duplicating the 'smell an object' pattern"
   },
   {
    "id": "game13-112",
@@ -1031,12 +1031,12 @@
   },
   {
    "id": "game13-115",
-   "Description": "Get a player to guess your favorite holiday destination.",
+   "Description": "Get a player to guess your favourite holiday destination.",
    "action": "edit",
    "original": {
     "Description": "Get a player to guess your favorite holiday."
    },
-   "note": "avoid Western holidays"
+   "note": "avoid Western holidays; Debate: British 'favourite' is the deck norm (cards 26, 62, 68, 71)"
   },
   {
    "id": "game13-116",
@@ -5261,6 +5261,36 @@
    "Description": "Get a player to tell you which car they would buy if money were no problem.",
    "action": "add",
    "note": "New card (debate): An easy conversation mission; no car card exists, and it is different enough from the dream-house card."
+  },
+  {
+   "id": null,
+   "Description": "Hide this card in a player's shoe by the front door so they find it when they put it on.",
+   "action": "add",
+   "note": "New card (debate): Fits the shoes-off-at-the-door habit; challenger's wording makes clear whose shoe and when it is found"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit their home has a shopper full of other shoppers.",
+   "action": "add",
+   "note": "New card (debate): Well-known desi household joke; natural 'admit' mission; not in the deck"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit the biscuit tin at their home is full of sewing supplies, not biscuits.",
+   "action": "add",
+   "note": "New card (debate): Famous desi household joke; not in the deck"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit their family keeps special crockery that only comes out for guests.",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani household joke; not in the deck"
+  },
+  {
+   "id": null,
+   "Description": "Get a player to agree that a flying chappal from ammi is the most accurate weapon in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Classic affectionate family joke; fits the 'agree' missions; no chappal card exists"
   }
  ]
 }

@@ -1281,25 +1281,25 @@
   },
   {
    "id": "game14-117",
-   "Description": "How many times have you said 'thank you' today?",
+   "Description": "How many times have you said 'thank you' or 'JazakAllah' today?",
    "Category": "Number",
    "action": "edit",
    "original": {
     "Description": "How many times have you said 'I love you' today?",
     "Category": "Number"
    },
-   "note": "romance reworded"
+   "note": "romance reworded; Debate: Small Muslim-frame localization; the count question is unchanged and it does not duplicate the InshaAllah card (487)."
   },
   {
    "id": "game14-118",
-   "Description": "How likely are you to pick up a spider?",
+   "Description": "How likely are you to pick up a spider with your bare hands?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to pick up a spider?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Clearer, and it spreads the answers more."
   },
   {
    "id": "game14-119",
@@ -2009,12 +2009,12 @@
    "id": "game14-183",
    "Description": "How likely are you to arrive on time for a 'Desi' event?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How likely are you to arrive on time for a 'Desi' event?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: The reverse of live card 9 ('arrive late to a wedding'), and card 360 ('bas paanch minute') also covers Desi lateness."
   },
   {
    "id": "game14-184",
@@ -2163,12 +2163,12 @@
    "id": "game14-197",
    "Description": "How likely are you to skip leg day at the gym?",
    "Category": "0 to 100",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "How unlikely are you to skip leg day?",
     "Category": "0 to 100"
    },
-   "note": "confusing double negative"
+   "note": "Debate: It relies on Western gym slang and assumes the player goes to a gym, and the next two cards (194, 195) already cover the gym."
   },
   {
    "id": "game14-198",
@@ -5438,6 +5438,55 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): A countable travel item; the deck has no hiking count."
+  },
+  {
+   "id": null,
+   "Description": "How many naats or nasheeds can you recite from memory?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Allowed theme and a real count. Only the surah card is close, and it asks something different."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to leave a family WhatsApp group after an argument?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable and new. The deck's WhatsApp cards cover groups joined, muted, wrong chat, forwards and statuses, but not leaving."
+  },
+  {
+   "id": null,
+   "Description": "How many 'Mubarak ho, aap ka inaam nikla hai' prize scam calls or SMS have you received this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: a count spreads the answers better than a 'fall for' question, where nearly everyone answers near 0, and it avoids overlap with card 494 (believing forwards)."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to stay up past 2 a.m. to watch Pakistan play cricket?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): A specific behaviour that differs from the cricket obsession (16) and highlights (185) cards."
+  },
+  {
+   "id": null,
+   "Description": "How many people in your family can beat you at Carrom?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A count others can guess and argue over. Card 213 only asks how much you enjoy Carrom."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been caught 'online' on WhatsApp after saying you were going to sleep?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean and not a duplicate of any WhatsApp or sleep card."
+  },
+  {
+   "id": null,
+   "Description": "How many of your passwords do you remember without saving them anywhere?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A clean count that anyone can answer. It is different from 352 (phone numbers by heart)."
   }
  ]
 }

@@ -6607,9 +6607,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "The whole masjid stares at me when my _____ goes off during namaz!",
+   "Description": "My phone always rings in the middle of namaz, and it's always _____ calling!",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment: the blank now allows many answers (phone, alarm, stomach) instead of only 'namaz'."
+   "note": "New card (debate): Challenger's amendment: the blank now allows many answers (phone, alarm, stomach) instead of only 'namaz'.; Debate: The original blank only had one answer (phone). The new blank keeps the namaz setting and is open-ended, and it differs from the boss-calls card."
   },
   {
    "id": null,
@@ -6799,6 +6799,55 @@
    "Description": "My dadi keeps feeding me _____ even after I say I'm full!",
    "action": "add",
    "note": "New card (debate): An affectionate complaint about being overfed, different from the nani 'I look weak' card."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Water Tanker Driver",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani customer. The deck has only a tanker Problem card."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Chaat Wala",
+   "action": "add",
+   "note": "New card (debate): Familiar street-food seller with no existing card."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bhabhi",
+   "action": "add",
+   "note": "New card (debate): Familiar family customer that sits with Phuppo, Chacha and Mamu. Not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Nana Abbu",
+   "action": "add",
+   "note": "New card (debate): Pairs with Dadi Amma. The deck has no Nana customer card."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bus Hostess",
+   "action": "add",
+   "note": "New card (debate): Recognisable from intercity coaches and different from Flight Attendant and Bus Conductor."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My little brother always tells ammi about my _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable sibling complaint that differs from the little-brother-eats-my-food card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "By the time I reach the walima buffet, there's only _____ left!",
+   "action": "add",
+   "note": "New card (debate): Classic wedding-buffet joke with no buffet card in the deck. Uses the challenger's wording, where the guest goes to the buffet."
   }
  ]
 }

@@ -102,8 +102,8 @@ How many times have you had your ears pierced?,Number
 How many allergies do you have?,Number
 How many phobias do you have?,Number
 How many meaningful conversations have you had this week?,Number
-How many times have you said 'thank you' today?,Number
-How likely are you to pick up a spider?,0 to 100
+How many times have you said 'thank you' or 'JazakAllah' today?,Number
+How likely are you to pick up a spider with your bare hands?,0 to 100
 How much do you believe in aliens?,0 to 100
 How good are you at math without a calculator?,0 to 100
 How messy is your room right now?,0 to 100
@@ -164,7 +164,6 @@ How likely are you to learn a new language this year?,0 to 100
 How likely are you to wear traditional clothes daily?,0 to 100
 How comfortable are you with spicy food?,0 to 100
 How many family weddings have you helped organize?,Number
-How likely are you to arrive on time for a 'Desi' event?,0 to 100
 How many times have you been to a mela (fair)?,Number
 How good are you at making round rotis?,0 to 100
 How likely are you to rewatch the highlights of a cricket match you already watched live?,0 to 100
@@ -178,7 +177,6 @@ How likely are you to leave a message on 'seen' and forget to reply?,0 to 100
 How good are you at sticking to a new habit?,0 to 100
 How likely are you to join a gym and stop going within a month?,0 to 100
 How many times have you gone to the gym this month?,Number
-How likely are you to skip leg day at the gym?,0 to 100
 How much do you trust online reviews?,0 to 100
 How likely are you to try a new gadget without reading the manual?,0 to 100
 How many apps do you have that you never use?,Number
@@ -531,3 +529,10 @@ How likely are you to blame nazar when something goes wrong?,0 to 100
 How many times did you pray Fajr on time this week?,Number
 How many times did your phone battery die completely this week?,Number
 How many hills or mountains have you climbed to the top of on foot?,Number
+How many naats or nasheeds can you recite from memory?,Number
+How likely are you to leave a family WhatsApp group after an argument?,0 to 100
+"How many 'Mubarak ho, aap ka inaam nikla hai' prize scam calls or SMS have you received this year?",Number
+How likely are you to stay up past 2 a.m. to watch Pakistan play cricket?,0 to 100
+How many people in your family can beat you at Carrom?,Number
+How many times have you been caught 'online' on WhatsApp after saying you were going to sleep?,Number
+How many of your passwords do you remember without saving them anywhere?,Number
