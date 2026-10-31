@@ -1364,12 +1364,12 @@
   },
   {
    "id": "game10-152",
-   "Name": "What is the ideal amount of Eidi to receive?",
-   "action": "keep",
+   "Name": "What is the ideal amount of Eidi to receive (in rupees)?",
+   "action": "edit",
    "original": {
     "Name": "What is the ideal amount of Eidi to receive?"
    },
-   "note": ""
+   "note": "Debate: Adds the unit so numeric answers can match, consistent with idx 160, 165 and 179."
   },
   {
    "id": "game10-153",
@@ -6134,6 +6134,54 @@
    "Name": "Name a fruit that is green.",
    "action": "add",
    "note": "New card (debate): Completes the yellow/red fruit prompts (idx 0, 25) and gives different answers from 'Name something green.'"
+  },
+  {
+   "id": null,
+   "Name": "Name a punishment teachers give in school.",
+   "action": "add",
+   "note": "New card (debate): No duplicate in the deck; strong shared Pakistani answers (murga banna, standing outside the class, hands up)."
+  },
+  {
+   "id": null,
+   "Name": "Name a race at a school sports day.",
+   "action": "add",
+   "note": "New card (debate): Nostalgic local prompt with clustered answers (sack race, spoon race, three-legged race); no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name something kept in the biscuit tin at home instead of biscuits.",
+   "action": "add",
+   "note": "New card (debate): Well-known desi household joke with strong common answers; distinct from 'something Ammi saves only for guests'."
+  },
+  {
+   "id": null,
+   "Name": "How many rotis does a normal person eat in one meal?",
+   "action": "add",
+   "note": "New card (debate): Number prompt with tight clustering; does not duplicate the roti type/ingredient cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the right age to get your first mobile phone?",
+   "action": "add",
+   "note": "New card (debate): Distinct number opinion prompt; existing phone cards ask about apps, brands and excuses."
+  },
+  {
+   "id": null,
+   "Name": "By what time should guests leave a dawat?",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording of P8; clock-time answers cluster and it complements 'sign that guests are about to leave'."
+  },
+  {
+   "id": null,
+   "Name": "Name something kids beg for when out shopping with their parents.",
+   "action": "add",
+   "note": "New card (debate): Relatable family prompt with common answers (toys, chips, juice, ice cream); no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the most guests a 'small' wedding can have?",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment gives a clear upper bound so guest counts are comparable; not a duplicate of 'Big Wedding or Simple Nikkah?'."
   }
  ]
 }

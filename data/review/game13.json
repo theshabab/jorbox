@@ -2327,12 +2327,12 @@
   },
   {
    "id": "game13-259",
-   "Description": "Get a player to correctly guess a number you are thinking of (1-10).",
-   "action": "keep",
+   "Description": "Get a player to guess a number you are thinking of between 1 and 10 (they get three tries).",
+   "action": "edit",
    "original": {
     "Description": "Get a player to correctly guess a number you are thinking of (1-10)."
    },
-   "note": ""
+   "note": "Debate: Less pure luck and clearer wording than '(1-10)'."
   },
   {
    "id": "game13-260",
@@ -2426,12 +2426,12 @@
   },
   {
    "id": "game13-270",
-   "Description": "Get a player to guess your shoe size correctly.",
-   "action": "keep",
+   "Description": "Get a player to guess your shoe size (within one size counts).",
+   "action": "edit",
    "original": {
     "Description": "Get a player to guess your shoe size correctly."
    },
-   "note": ""
+   "note": "Debate: Makes the mission realistically completable."
   },
   {
    "id": "game13-271",
@@ -2471,12 +2471,12 @@
   },
   {
    "id": "game13-275",
-   "Description": "Get a player to say 'Nazar lag gayi' (the evil eye struck).",
+   "Description": "Get a player to say 'Nazar lag gayi' (The evil eye got it).",
    "action": "edit",
    "original": {
     "Description": "Get a player to say 'Nazar lag gayi' (Evil eye hit)."
    },
-   "note": "translation; Debate: Uses the challenger's version. It is a closer and more natural gloss than both the original and P2, and does not add 'someone's'."
+   "note": "translation; Debate: Uses the challenger's version. It is a closer and more natural gloss than both the original and P2, and does not add 'someone's'.; Debate: Challenger's amended gloss is more literal and natural than both the original and the proposal."
   },
   {
    "id": "game13-276",
@@ -2759,30 +2759,30 @@
   },
   {
    "id": "game13-307",
-   "Description": "Get a player to open a bottle/jar for you.",
-   "action": "keep",
+   "Description": "Get a player to open a bottle or jar for you.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to open a bottle/jar for you."
    },
-   "note": ""
+   "note": "Debate: Replace slash with 'or'."
   },
   {
    "id": "game13-308",
-   "Description": "Get a player to close a door/window for you.",
-   "action": "keep",
+   "Description": "Get a player to close a door or window for you.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to close a door/window for you."
    },
-   "note": ""
+   "note": "Debate: Replace slash with 'or'."
   },
   {
    "id": "game13-309",
-   "Description": "Get a player to turn on/off a fan or light.",
-   "action": "keep",
+   "Description": "Get a player to switch a fan or light on or off for you.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to turn on/off a fan or light."
    },
-   "note": ""
+   "note": "Debate: Removes slashes; 'for you' matches sibling favour cards."
   },
   {
    "id": "game13-310",
@@ -2903,12 +2903,12 @@
   },
   {
    "id": "game13-323",
-   "Description": "Get a player to name 3 colors in the room.",
-   "action": "keep",
+   "Description": "Get a player to name three colours they can see in the room.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to name 3 colors in the room."
    },
-   "note": ""
+   "note": "Debate: British spelling consistent with deck; clearer wording."
   },
   {
    "id": "game13-324",
@@ -3092,12 +3092,12 @@
   },
   {
    "id": "game13-344",
-   "Description": "Get a player to find a hidden coin.",
-   "action": "keep",
+   "Description": "Hide a coin and get a player to find it.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to find a hidden coin."
    },
-   "note": ""
+   "note": "Debate: Clarifies who hides the coin, matching the deck's other hide-and-find cards."
   },
   {
    "id": "game13-345",
@@ -5321,6 +5321,48 @@
    "Description": "Get a player to say 'Chalo theek hai' (Okay, fine).",
    "action": "add",
    "note": "New card (debate): A common Urdu phrase that is easy to steer someone into saying. It is different from 'Chalo, chalte hain'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to play one round of Name, Place, Animal, Thing with you.",
+   "action": "add",
+   "note": "New card (debate): Well-known local paper game; no similar card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pat their pockets to check for their phone or wallet.",
+   "action": "add",
+   "note": "New card (debate): Subtle, harmless body-action mission; not a duplicate (card 40 is hiding this card in a pocket)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to put their phone face down on the table.",
+   "action": "add",
+   "note": "New card (debate): Easy subtle phone mission; distinct from silent-mode and notification cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Hain?' (Huh?).",
+   "action": "add",
+   "note": "New card (debate): Common Urdu reaction; no existing card uses it."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to set an alarm or reminder on their phone for you.",
+   "action": "add",
+   "note": "New card (debate): New phone-favour mission; no alarm/reminder card exists in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Lo ji!' (There you go!).",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani exclamation not yet in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to wipe their phone screen on their sleeve or kameez.",
+   "action": "add",
+   "note": "New card (debate): Subtle, harmless action with a local touch; distinct from card 515 (wipe the table)."
   }
  ]
 }

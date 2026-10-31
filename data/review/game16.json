@@ -1303,14 +1303,14 @@
   },
   {
    "id": "game16-119",
-   "Name": "Do you like cities or remote places better?",
+   "Name": "Do you prefer busy cities or quiet places like a village or the mountains?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do you like cities or remote places better?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Clearer and more relatable than 'remote places'."
   },
   {
    "id": "game16-120",
@@ -1336,14 +1336,14 @@
   },
   {
    "id": "game16-122",
-   "Name": "Do you prefer cooking dinner or going out?",
+   "Name": "Do you prefer a home-cooked dinner or eating out?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do you prefer cooking dinner or going out?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: More natural wording, same meaning."
   },
   {
    "id": "game16-123",
@@ -1567,25 +1567,25 @@
   },
   {
    "id": "game16-143",
-   "Name": "What dessert would you compare your best friend to?",
+   "Name": "Which mithai or dessert would you compare your best friend to, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What dessert would you compare your best friend to?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Desi frame plus a 'why' to get a real answer."
   },
   {
    "id": "game16-144",
-   "Name": "Is a burger a sandwich? (Or is a Bun Kebab a burger?)",
+   "Name": "Is a bun kebab just a desi burger? Defend your answer.",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Is a burger a sandwich? (Or is a Bun Kebab a burger?)",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Replaces the US burger-vs-sandwich meme with the local debate the card already hinted at."
   },
   {
    "id": "game16-145",
@@ -2249,25 +2249,25 @@
   },
   {
    "id": "game16-205",
-   "Name": "Do you have any pets? What are their names?",
+   "Name": "Do you have any pets (a cat, a parrot, some chickens, even a goat)? What are their names?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do you have any pets? What are their names?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: local examples with consistent wording."
   },
   {
    "id": "game16-206",
    "Name": "Where did you go last weekend?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Where did you go last weekend?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Dull near-duplicate of the weekend cards (198, 200, and 6)."
   },
   {
    "id": "game16-207",
@@ -2414,14 +2414,14 @@
   },
   {
    "id": "game16-220",
-   "Name": "Are you a very organized person?",
+   "Name": "Are you a very organized person, or do you have a 'system' only you understand?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Are you a very organized person?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Turns a flat yes/no into a funnier prompt on the same topic."
   },
   {
    "id": "game16-221",
@@ -8191,6 +8191,62 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Quick silly naming question with no overlap."
+  },
+  {
+   "id": null,
+   "Name": "Lahore smog, Karachi humidity or Islamabad hailstorms: which weather would you least like to live with, and why?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Accurate, desi-flavoured weather debate; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "The person on your right picks any topic: give a one-minute speech on it right now, no preparation. Go!",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment avoids duplicating card 47 and makes it a table activity."
+  },
+  {
+   "id": null,
+   "Name": "What is your go-to excuse for leaving a dawat early?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable desi humour; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "If animals could vote, which animal would win the election in Pakistan, and what would its first promise be?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Light political humour the owner allows; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "If you could swap jobs for a day with someone in your mohalla (the doodh wala, the chowkidar, the kiryana store uncle), who would it be?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment uses more familiar mohalla figures; distinct from family-only card 175."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing you have seen someone do to cross a flooded street after heavy rain?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Very Pakistani story prompt; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "If your phone battery could only last one hour a day, which hour would you choose and why?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Fresh angle among the phone cards."
+  },
+  {
+   "id": null,
+   "Name": "Which desi skill would you love to master overnight: perfectly round rotis, bargaining like a pro, or parking in a packed bazaar?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Playful local skill question, distinct from the generic skill card."
   }
  ]
 }
