@@ -29516,20 +29516,20 @@
   {
    "id": "game5-2271",
    "Name": "",
-   "Description": "Honey, Mommy and Daddy love you very much. But apparently Mommy loves ____ more than she loves Daddy.",
+   "Description": "Beta, Ammi and Abbu love you very much. But apparently Ammi loves ____ more than she loves Abbu.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Honey, Mommy and Daddy love you very much. But apparently Mommy loves ____ more than she loves Daddy.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localises the Western 'Honey, Mommy and Daddy' framing."
   },
   {
    "id": "game5-2272",
    "Name": "",
-   "Description": "Honey, there's a charge of Rs. 37,562 labelled ____ on the credit card. Can you explain it?",
+   "Description": "Begum, there's a charge of Rs. 37,562 labelled ____ on the credit card. Can you explain it?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -29537,7 +29537,7 @@
     "Description": "Honey, there is a charge for R 3 756,25 labeled ____ on the credit card. Can you explain it?",
     "Category": ""
    },
-   "note": "Local currency"
+   "note": "Local currency; Debate: Uses a local spouse address instead of 'Honey'."
   },
   {
    "id": "game5-2273",
@@ -29620,15 +29620,15 @@
   {
    "id": "game5-2279",
    "Name": "",
-   "Description": "Hoping customs don't notice ____ in your bag.",
+   "Description": "Hoping customs don't notice the ____ your Ammi packed in your bag.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Hoping customs don't notice ____ in your bag.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Steers answers away from smuggling and drugs toward family humour. It is distinct from idx 1240 (stopped at customs from Dubai)."
   },
   {
    "id": "game5-2280",
@@ -29646,7 +29646,7 @@
   {
    "id": "game5-2281",
    "Name": "",
-   "Description": "Hoping the judge will be lenient on you for ____ on the bus.",
+   "Description": "Hoping the traffic warden will let you off for ____ on the motorway.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -29654,7 +29654,7 @@
     "Description": "Hoping the Judge will be lenient on you for ____ on t he bus.",
     "Category": ""
    },
-   "note": "Typo"
+   "note": "Typo; Debate: The original 'on the bus' invites indecent answers. The challenger's version avoids repeating idx 2281 (ticket inspector)."
   },
   {
    "id": "game5-2282",
@@ -29687,13 +29687,13 @@
    "Name": "",
    "Description": "Hoping your boss will accept ____ as your reason for calling in sick.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Hoping your boss will accept ____ as your reason for calling in sick.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same answer space as idx 159 'I called in sick because of ____.', consistent with removing idx 2343."
   },
   {
    "id": "game5-2285",
@@ -29752,13 +29752,13 @@
    "Name": "",
    "Description": "Housekeeping! You want ____?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Housekeeping! You want ____?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Unclear Western film/hotel innuendo reference."
   },
   {
    "id": "game5-2290",
@@ -29867,15 +29867,15 @@
   {
    "id": "game5-2298",
    "Name": "",
-   "Description": "How did I get this restraining order?",
+   "Description": "How did I get banned from the neighbourhood kiryana store?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "How did I get this restraining order?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A restraining order is a US concept and invites creepy answers."
   },
   {
    "id": "game5-2299",
@@ -30233,13 +30233,13 @@
    "Name": "",
    "Description": "How was the universe really created?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "How was the universe really created?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites irreverent jokes about creation, a religious topic."
   },
   {
    "id": "game5-2327",
@@ -30467,13 +30467,13 @@
    "Name": "",
    "Description": "I always call in sick to work when I have a bad case of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I always call in sick to work when I have a bad case of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as idx 159 'I called in sick because of ____.'"
   },
   {
    "id": "game5-2345",
@@ -30792,13 +30792,13 @@
    "Name": "",
    "Description": "I am just the absolute best at ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I am just the absolute best at ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as idx 2353 'I am a master at ____.'"
   },
   {
    "id": "game5-2370",
@@ -30855,15 +30855,15 @@
   {
    "id": "game5-2374",
    "Name": "",
-   "Description": "I am proud and excited to announce ____ as my running mate!",
+   "Description": "I am proud and excited to announce ____ as my party's candidate for Prime Minister!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I am proud and excited to announce ____ as my running mate!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Running mate' is a US-only election concept."
   },
   {
    "id": "game5-2375",
@@ -31076,15 +31076,15 @@
   {
    "id": "game5-2391",
    "Name": "",
-   "Description": "I beat ____ all the time!",
+   "Description": "I beat ____ at Ludo all the time!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I beat ____ all the time!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A bare 'I beat ____' invites violent answers."
   },
   {
    "id": "game5-2392",
@@ -31650,13 +31650,13 @@
    "Name": "",
    "Description": "I can't possibly live without ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I can't possibly live without ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of idx 846 '____ is the one thing I can't live without.'"
   },
   {
    "id": "game5-2436",
@@ -31700,15 +31700,15 @@
   {
    "id": "game5-2439",
    "Name": "",
-   "Description": "I can't wait to fall asleep so I can once again dream I will soon ____.",
+   "Description": "I can't wait to fall asleep so I can dream that I ____ again.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I can't wait to fall asleep so I can once again dream I will soon ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes broken grammar."
   },
   {
    "id": "game5-2440",
@@ -31791,15 +31791,15 @@
   {
    "id": "game5-2446",
    "Name": "",
-   "Description": "I claimed ____ as a deduction on my taxes last year.",
+   "Description": "I declared ____ as a business expense in my FBR tax return last year.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I claimed ____ as a deduction on my taxes last year.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces US tax-deduction framing with a local one."
   },
   {
    "id": "game5-2447",
@@ -31921,15 +31921,15 @@
   {
    "id": "game5-2456",
    "Name": "",
-   "Description": "I couldn't help but give a rupee to the homeless guy with the sign: \"Will work for ____.\"",
+   "Description": "I couldn't help but give fifty rupees to the man at the traffic signal holding a sign: \"Will work for ____.\"",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I couldn't help but give a rupee to the homeless guy with the sign: \"Will work for ____.\"",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local setting and a realistic amount."
   },
   {
    "id": "game5-2457",
@@ -32116,15 +32116,15 @@
   {
    "id": "game5-2471",
    "Name": "",
-   "Description": "I didn't have any plans for the weekend until I found ____ in the attic.",
+   "Description": "I didn't have any plans for the weekend until I found ____ in the storeroom.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I didn't have any plans for the weekend until I found ____ in the attic.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Pakistani homes have storerooms, not attics. It also avoids overlap with the attic card at idx 646."
   },
   {
    "id": "game5-2472",
@@ -32298,15 +32298,15 @@
   {
    "id": "game5-2485",
    "Name": "",
-   "Description": "I don't do the Marathon, I run ____ instead.",
+   "Description": "I don't run marathons. I run ____ instead.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I don't do the Marathon, I run ____ instead.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the awkward wording and sharpens the pun."
   },
   {
    "id": "game5-2486",
@@ -32480,15 +32480,15 @@
   {
    "id": "game5-2499",
    "Name": "",
-   "Description": "I dropped my cellphone in the ____ and now it won't work anymore.",
+   "Description": "I dropped my cellphone in a pot of ____ and now it won't work anymore.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I dropped my cellphone in the ____ and now it won't work anymore.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The open blank's obvious answer is a toilet joke, which the owner disallows."
   },
   {
    "id": "game5-2500",
@@ -101549,6 +101549,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New family and social media prompt. Uses the deck's existing 'Phuppo' spelling (the challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I told everyone I was five minutes away, but I was actually still ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable desi lateness joke; no existing card covers it."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Hoping the rishta family doesn't notice the ____ hidden behind the drawing room sofa.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A distinct rishta-visit prompt; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I bargained so hard in Anarkali Bazaar that the shopkeeper threw in ____ for free.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local bargaining humour; no bargaining card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nani sent ____ to my hostel and told me to share it with all my roommates.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family/hostel theme. The challenger's wording avoids repeating the edited customs card's 'Ammi packed in your bag'."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "How did I finally convince Abbu to turn on the AC?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Classic desi summer joke; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "How did I end up as the chief guest at a school prize distribution?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fits the 'How did I...' run; no chief guest card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "How did I get banned from my cousins' gali cricket team?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local cricket humour, distinct from the existing gali cricket card."
   }
  ]
 }

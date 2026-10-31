@@ -2337,14 +2337,14 @@
   },
   {
    "id": "game9-213",
-   "Name": "Botanically speaking, is a strawberry a true berry?",
-   "Description": "No",
+   "Name": "Botanically speaking, which of these is a true berry: a strawberry or a banana?",
+   "Description": "Banana",
    "action": "edit",
    "original": {
     "Name": "Botanically speaking, which of these fruits is NOT a berry?",
     "Description": "Strawberry"
    },
-   "note": "rewritten: options missing"
+   "note": "rewritten: options missing; Debate: A two-way choice keeps the surprising fact and is a better trivia question than yes/no."
   },
   {
    "id": "game9-214",
@@ -2656,14 +2656,14 @@
   },
   {
    "id": "game9-242",
-   "Name": "What term is best associated with Sigmund Freud?",
+   "Name": "Sigmund Freud founded which method of treating the mind through talk and dream analysis?",
    "Description": "Psychoanalysis",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What term is best associated with Sigmund Freud?",
     "Description": "Psychoanalysis"
    },
-   "note": ""
+   "note": "Debate: \"Best associated with\" was vague and had several possible answers. This version has one clear answer."
   },
   {
    "id": "game9-243",
@@ -2964,14 +2964,14 @@
   },
   {
    "id": "game9-270",
-   "Name": "Which country is completely landlocked by South Africa?",
+   "Name": "Which country is completely surrounded by South Africa?",
    "Description": "Lesotho",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which country is completely landlocked by South Africa?",
     "Description": "Lesotho"
    },
-   "note": ""
+   "note": "Debate: \"Surrounded by\" is the clear, standard wording for an enclave."
   },
   {
    "id": "game9-271",
@@ -3153,12 +3153,12 @@
    "id": "game9-287",
    "Name": "What is the capital of Estonia?",
    "Description": "Tallinn",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the capital of Estonia?",
     "Description": "Tallinn"
    },
-   "note": ""
+   "note": "Debate: Reverse duplicate of card 119 (\"In which country is Tallinn located?\" = Estonia)."
   },
   {
    "id": "game9-288",
@@ -3327,14 +3327,14 @@
   },
   {
    "id": "game9-303",
-   "Name": "What is the study of the cells and tissues of plants and animals?",
+   "Name": "What is the microscopic study of the tissues of plants and animals called?",
    "Description": "Histology",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the study of the cells and tissues of plants and animals?",
     "Description": "Histology"
    },
-   "note": ""
+   "note": "Debate: Histology is the study of tissues (cells are cytology), so the question is now accurate."
   },
   {
    "id": "game9-304",
@@ -10739,6 +10739,55 @@
    "Description": "Cholistan Desert",
    "action": "add",
    "note": "New card (debate): Correct Pakistani geography, and no card on Cholistan or Derawar exists."
+  },
+  {
+   "id": null,
+   "Name": "Pakistan and which other country are the last two where wild polio is still endemic?",
+   "Description": "Afghanistan",
+   "action": "add",
+   "note": "New card (debate): Accurate local fact that goes with the polio vaccine card (204). It is not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which big cat of Pakistan's northern mountains is nicknamed the \"ghost of the mountains\"?",
+   "Description": "Snow leopard",
+   "action": "add",
+   "note": "New card (debate): Local animal trivia. The deck's only other leopard card is about Mac OS X."
+  },
+  {
+   "id": null,
+   "Name": "Which 13th-century Arab physician was the first to describe blood passing through the lungs (pulmonary circulation)?",
+   "Description": "Ibn al-Nafis",
+   "action": "add",
+   "note": "New card (debate): Accurate science fact from the Muslim world. Ibn al-Nafis is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Many bright stars, such as Aldebaran, Betelgeuse and Altair, get their names from which language?",
+   "Description": "Arabic",
+   "action": "add",
+   "note": "New card (debate): Accurate astronomy fact with a Muslim-world link. No other card covers star names."
+  },
+  {
+   "id": null,
+   "Name": "Many ants defend themselves by spraying which acid, named after the Latin word for ant?",
+   "Description": "Formic acid",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version. Formicine ants spray formic acid, while many stinging ants use other venoms, so \"ant stings contain\" was inaccurate."
+  },
+  {
+   "id": null,
+   "Name": "The Thar Desert in Sindh sits on one of the world's largest reserves of which fossil fuel?",
+   "Description": "Coal (lignite)",
+   "action": "add",
+   "note": "New card (debate): Accurate local geology fact (the Thar coalfield). No coal card exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What does a camel's hump mainly store?",
+   "Description": "Fat (not water)",
+   "action": "add",
+   "note": "New card (debate): A well-known myth-buster. The deck's camel cards (926, 1050) ask different questions."
   }
  ]
 }

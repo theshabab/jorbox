@@ -2515,7 +2515,7 @@
   {
    "id": "game2-194",
    "Name": "Ladle",
-   "Description": "Spoon | Soup | Serve | Daig | Big",
+   "Description": "Doi | Spoon | Soup | Serve | Daig",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2523,7 +2523,7 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": ""
+   "note": "Debate: 'Doi' is the common Urdu word for a ladle and the most obvious clue; it replaces the weak 'Big'."
   },
   {
    "id": "game2-195",
@@ -10511,6 +10511,86 @@
    "Category": "Fruits",
    "action": "add",
    "note": "New card (debate): Common local fruit (sharifa) not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Hijab",
+   "Description": "Head | Scarf | Cover | Pin | Abaya",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): No Hijab card in the deck. Banning 'Abaya' keeps it separate from the Abaya card (770). Respectful, everyday Muslim garment."
+  },
+  {
+   "id": null,
+   "Name": "Lungi",
+   "Description": "Dhoti | Tehband | Wrap | Waist | Checkered",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani garment that is not in the deck; the banned words are the natural synonyms and clues."
+  },
+  {
+   "id": null,
+   "Name": "Sweet Potato",
+   "Description": "Shakarkandi | Orange | Winter | Roasted | Chaat",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Well-known winter street food that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Arvi",
+   "Description": "Taro | Slimy | Root | Brown | Salan",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani vegetable that is not in the deck. An Urdu name is fine here, as with Tinda (765)."
+  },
+  {
+   "id": null,
+   "Name": "Mortar and Pestle",
+   "Description": "Hamam Dasta | Kunda | Pound | Crush | Masala",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Classic desi kitchen item with an easy pounding action; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Stove",
+   "Description": "Chulha | Gas | Burner | Flame | Cook",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Basic kitchen item the deck is missing. It is a different item from Cooker (185)."
+  },
+  {
+   "id": null,
+   "Name": "Thermos",
+   "Description": "Flask | Hot | Chai | Travel | Bottle",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Familiar chai flask that is not in the deck. It is a different item from Bottle (195) and Jug (181)."
+  },
+  {
+   "id": null,
+   "Name": "Moodha",
+   "Description": "Stool | Cane | Reed | Round | Sit",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "New card (debate): Traditional reed stool. It is a different object from Stool/Peerhi (156); not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Lizard",
+   "Description": "Chhipkali | Wall | Tail | Insects | Crawl",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): A house creature every Pakistani player knows; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Bat",
+   "Description": "Chamgadar | Night | Upside Down | Cave | Wings",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): There is no animal Bat card ('Bat' appears only as a banned word on Cricket and Table Tennis); the category makes the meaning clear."
   }
  ]
 }

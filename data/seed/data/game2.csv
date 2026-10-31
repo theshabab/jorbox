@@ -185,7 +185,7 @@ Grater,Carrot | Cheese | Kaddu Kash | Shred | Mooli,Kitchen Items
 Peeler,Peel | Potato | Skin | Chilka | Carrot,Kitchen Items
 Strainer,Chhanni | Chai | Pasta | Holes | Filter,Kitchen Items
 Tongs,Chimta | Grab | Pick | Hot | BBQ,Kitchen Items
-Ladle,Spoon | Soup | Serve | Daig | Big,Kitchen Items
+Ladle,Doi | Spoon | Soup | Serve | Daig,Kitchen Items
 Tray,Serve | Tea | Carry | Waiter | Guests,Kitchen Items
 Bottle,Water | Plastic | Cap | Cold Drink | Feeder,Kitchen Items
 Jar,Lid | Glass | Pickle | Honey | Jam,Kitchen Items
@@ -818,3 +818,13 @@ Kalonji,Black Seed | Shifa | Naan | Achaar | Onion Seeds,Spices
 Ajwain,Carom | Seeds | Stomach | Pakora | Paratha,Spices
 Loquat,Yellow | Spring | Big Seed | Sour | Juicy,Fruits
 Custard Apple,Sharifa | Green | Bumpy | Seeds | Creamy,Fruits
+Hijab,Head | Scarf | Cover | Pin | Abaya,Clothing
+Lungi,Dhoti | Tehband | Wrap | Waist | Checkered,Clothing
+Sweet Potato,Shakarkandi | Orange | Winter | Roasted | Chaat,Vegetables
+Arvi,Taro | Slimy | Root | Brown | Salan,Vegetables
+Mortar and Pestle,Hamam Dasta | Kunda | Pound | Crush | Masala,Kitchen Items
+Stove,Chulha | Gas | Burner | Flame | Cook,Kitchen Items
+Thermos,Flask | Hot | Chai | Travel | Bottle,Kitchen Items
+Moodha,Stool | Cane | Reed | Round | Sit,Furniture
+Lizard,Chhipkali | Wall | Tail | Insects | Crawl,Animals
+Bat,Chamgadar | Night | Upside Down | Cave | Wings,Animals
