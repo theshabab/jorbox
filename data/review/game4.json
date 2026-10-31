@@ -11492,10 +11492,10 @@
   {
    "id": null,
    "Name": "Kurdish",
-   "Description": "Salahuddin Ayyubi, who recaptured Jerusalem from the Crusaders in 1187, was ethnically ____.",
+   "Description": "Salahuddin Ayyubi, who recaptured Jerusalem from the Crusaders, was ethnically ____.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): An accurate, respectful Islamic history fact. The existing Salahuddin card asks for the year, not his origin.; Debate: Assign existing category Islamic History"
+   "note": "New card (debate): An accurate, respectful Islamic history fact. The existing Salahuddin card asks for the year, not his origin.; Debate: Assign existing category Islamic History; Debate: Card 726 ('Salahuddin Ayyubi recaptured Jerusalem from the Crusaders in the year ____', answer 1187) is live, and this card's 'in 1187' gives away its answer. Dropping the year fixes that and keeps the card intac"
   },
   {
    "id": null,
@@ -11960,6 +11960,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Canada's coastline is about 202,000 km and is consistently ranked longest. The card has plausible decoys, and the deck has no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "empty",
+   "Description": "The words \"zero\" and \"cipher\" both come from the Arabic \"sifr\", meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True: both words come from Arabic sifr, 'empty'. No other card in the deck covers it, and it fits the run of Arabic-origin word cards."
+  },
+  {
+   "id": null,
+   "Name": "swindler",
+   "Description": "The English word \"thug\" comes from the Hindustani \"thag\", meaning a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (thag means cheat or swindler), not a duplicate, and good for bluffing."
+  },
+  {
+   "id": null,
+   "Name": "khaat",
+   "Description": "The English word \"cot\" comes from the Hindustani word \"____\", a woven string bed.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (Anglo-Indian cot comes from khat), not a duplicate, and a local answer with charpai as a natural decoy."
+  },
+  {
+   "id": null,
+   "Name": "Mumbai",
+   "Description": "Dungarees take their name from Dongri, a neighbourhood of ____ where the thick, cheap cotton cloth was sold.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (dungri cloth, named after Dongri in Bombay/Mumbai) and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "happy",
+   "Description": "The English slang word \"cushy\", meaning easy and comfortable, comes from the Urdu word \"khush\", meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (British Army slang from khush). Card 935 shares the answer 'happy' but is about an unrelated fact, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "season",
+   "Description": "The word \"monsoon\" comes, via Portuguese, from the Arabic \"mawsim\", meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (Arabic mawsim, through Portuguese moncao), on a local topic and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Mosul",
+   "Description": "The fine, thin cotton cloth called muslin takes its name from the city of ____ in Iraq.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (French mousseline, from Italian mussolina, from Mosul). Dhaka and Baghdad make good decoys, and it is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "a bronze statue",
+   "Description": "Tombili, a chubby street cat from Istanbul's Kadikoy district, became famous online for lounging against the kerb like a person resting on a sofa. After he died in 2016, the district honoured him with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version. In the original, the blank was 'cat', which is too obvious. This version blanks the surprising honour, like the Tama and Wojtek cards. The facts are true: Tombili died in August 2016 and Kadikoy unveiled his statue in October 2016."
   }
  ]
 }

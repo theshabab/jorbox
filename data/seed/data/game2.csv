@@ -598,17 +598,17 @@ Ali,Fourth | Haider | Fatima | Cousin | Khaybar,Sahaba
 Bilal,Azaan | Muezzin | Ahad | Slave | Abyssinia,Sahaba
 Khalid ibn al-Walid,Sword | Saifullah | Yarmouk | General | Undefeated,Sahaba
 Salman al-Farsi,Persia | Trench | Khandaq | Seeker | Isfahan,Sahaba
-Abu Huraira,Cats | Kitten | Hadith | Narrator | Memory,Sahaba
+Abu Huraira,Cats | Most | Hadith | Narrator | Memory,Sahaba
 Aisha,Wife | Abu Bakr | Hadith | Mother | Siddiqa,Sahaba
-Khadija,First | Wife | Merchant | Business | Believer,Sahaba
+Khadija,First | Wife | Merchant | Believer | Fatima,Sahaba
 Fatima,Daughter | Zahra | Ali | Hassan | Hussain,Sahaba
 Hassan,Grandson | Ali | Fatima | Elder | Hussain,Sahaba
 Hussain,Karbala | Grandson | Muharram | Ashura | Ali,Sahaba
 Zaid ibn Harithah,Adopted | Freed | Usamah | Mu'tah | Quran,Sahaba
 Talha,Uhud | Shield | Hand | Ashara | Ubaidullah,Sahaba
-Zubair,Awwam | Hawari | Disciple | Asma | Ashara,Sahaba
-Saad ibn Abi Waqqas,Arrow | Archer | Qadisiyyah | Persia | Ashara,Sahaba
-Abdur Rahman ibn Awf,Rich | Merchant | Wealth | Ashara | Caravan,Sahaba
+Zubair,Awwam | Hawari | Cousin | Asma | Ashara,Sahaba
+Saad ibn Abi Waqqas,Arrow | Kufa | Qadisiyyah | Persia | Ashara,Sahaba
+Abdur Rahman ibn Awf,Rich | Merchant | Market | Ashara | Caravan,Sahaba
 Anas ibn Malik,Servant | Hadith | Ten Years | Young | Basra,Sahaba
 Abdullah ibn Masud,Quran | Reciter | Kufa | Shepherd | Short,Sahaba
 Muadh,Jabal | Yemen | Knowledge | Halal | Haram,Sahaba
@@ -623,7 +623,7 @@ Adam,First | Human | Hawwa | Clay | Jannah,Prophets
 Noah,Nuh | Ark | Flood | Boat | Animals,Prophets
 Abraham,Ibrahim | Fire | Kaaba | Sacrifice | Khalilullah,Prophets
 Ishmael,Ismail | Ibrahim | Zamzam | Hajra | Sacrifice,Prophets
-Isaac,Ishaq | Ibrahim | Sarah | Yaqub | Son,Prophets
+Isaac,Ishaq | Ibrahim | Sarah | Yaqub | Ismail,Prophets
 Jacob,Yaqub | Yusuf | Israel | Twelve Sons | Ishaq,Prophets
 Joseph,Yusuf | Well | Brothers | Egypt | Dream,Prophets
 Moses,Musa | Firaun | Staff | Sea | Egypt,Prophets
@@ -657,7 +657,7 @@ Hajj,Makkah | Kaaba | Pilgrimage | Ihram | Arafat,Islamic Terms
 Shahada,Kalma | Testimony | La Ilaha | Witness | Pillar,Islamic Terms
 Iman,Faith | Belief | Momin | Heart | Trust,Islamic Terms
 Taqwa,Fear | Piety | Muttaqi | Mindful | God-Conscious,Islamic Terms
-Dua,Pray | Ask | Hands | Ameen | Request,Islamic Terms
+Dua,Pray | Ask | Hands | Ameen | Maangna,Islamic Terms
 Dhikr,Tasbeeh | Remember | SubhanAllah | Beads | Allah,Islamic Terms
 Jannah,Heaven | Paradise | Garden | Reward | Firdaus,Islamic Terms
 Jahannam,Hell | Fire | Dozakh | Aag | Punishment,Islamic Terms
@@ -857,3 +857,13 @@ Great-grandfather,Pardada | Parnana | Grandfather | Old | Ancestor,Family Relati
 Sandpaper,Regmaal | Rough | Smooth | Rub | Wood,Tools
 Soldering Iron,Hot | Wire | Circuit | Melt | Electrician,Tools
 Wash and Wear,Men | Suit | Iron | Wrinkle | Shalwar Kameez,Fabrics
+Qibla,Direction | Kaaba | Makkah | Face | Namaz,Islamic Terms
+Nikah,Wedding | Qubool | Mehr | Shaadi | Molvi,Islamic Terms
+Aqiqah,Baby | Bakra | Hair | Seventh Day | Sacrifice,Islamic Terms
+Hafiz,Quran | Memorize | Yaad | Madrasa | Taraweeh,Islamic Terms
+Maqam Ibrahim,Footprints | Stone | Kaaba | Tawaf | Golden,Islamic Locations
+Hateem,Kaaba | Wall | Half Circle | Hijr Ismail | Inside,Islamic Locations
+Asma bint Abi Bakr,Two Belts | Abu Bakr | Cave | Food | Aisha,Sahaba
+Hafsa,Umar | Daughter | Wife | Quran | Mushaf,Sahaba
+Sumayyah,First | Martyr | Ammar | Yasir | Torture,Sahaba
+Only Child,Iklauta | Sibling | Alone | Pampered | One,Family Relations

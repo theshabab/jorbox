@@ -8170,7 +8170,7 @@
   {
    "id": "game2-629",
    "Name": "Abu Huraira",
-   "Description": "Cats | Kitten | Hadith | Narrator | Memory",
+   "Description": "Cats | Most | Hadith | Narrator | Memory",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8178,7 +8178,7 @@
     "Description": "Abu | companion | Prophet | Caliph",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: 'Kitten' repeated 'Cats'. 'The Sahabi who narrated the most hadith' is the other standard clue, so ban 'Most'."
   },
   {
    "id": "game2-630",
@@ -8196,7 +8196,7 @@
   {
    "id": "game2-631",
    "Name": "Khadija",
-   "Description": "First | Wife | Merchant | Business | Believer",
+   "Description": "First | Wife | Merchant | Believer | Fatima",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8204,7 +8204,7 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Drops 'Business', which repeated 'Merchant', and bans 'Fatima' to block the obvious 'Fatima's mother' clue."
   },
   {
    "id": "game2-632",
@@ -8274,7 +8274,7 @@
   {
    "id": "game2-637",
    "Name": "Zubair",
-   "Description": "Awwam | Hawari | Disciple | Asma | Ashara",
+   "Description": "Awwam | Hawari | Cousin | Asma | Ashara",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8282,12 +8282,12 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: 'Disciple' is just the English for 'Hawari'. Zubair was the Prophet's cousin (son of Safiyyah), so 'Cousin' is an obvious clue to ban."
   },
   {
    "id": "game2-638",
    "Name": "Saad ibn Abi Waqqas",
-   "Description": "Arrow | Archer | Qadisiyyah | Persia | Ashara",
+   "Description": "Arrow | Kufa | Qadisiyyah | Persia | Ashara",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8295,12 +8295,12 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": "Ambiguous (Saad ibn Muadh too); clues assume Saad ibn Abi Waqqas; Full name"
+   "note": "Ambiguous (Saad ibn Muadh too); clues assume Saad ibn Abi Waqqas; Full name; Debate: Drops 'Archer', which repeated 'Arrow'. He founded Kufa, so it is a real clue to ban."
   },
   {
    "id": "game2-639",
    "Name": "Abdur Rahman ibn Awf",
-   "Description": "Rich | Merchant | Wealth | Ashara | Caravan",
+   "Description": "Rich | Merchant | Market | Ashara | Caravan",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8308,7 +8308,7 @@
     "Description": "Abdur | companion | Prophet | Caliph",
     "Category": "Sahaba"
    },
-   "note": "Clues assume Abdur Rahman ibn Awf; Full name"
+   "note": "Clues assume Abdur Rahman ibn Awf; Full name; Debate: Drops 'Wealth', which repeated 'Rich', and bans 'Market' for his famous 'show me the market' story."
   },
   {
    "id": "game2-640",
@@ -8495,7 +8495,7 @@
   {
    "id": "game2-654",
    "Name": "Isaac",
-   "Description": "Ishaq | Ibrahim | Sarah | Yaqub | Son",
+   "Description": "Ishaq | Ibrahim | Sarah | Yaqub | Ismail",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8503,7 +8503,7 @@
     "Description": "prophet | messenger | Allah | revelation",
     "Category": "Prophets"
    },
-   "note": ""
+   "note": "Debate: 'Son' added nothing once 'Ibrahim' was banned. 'Ismail's brother' is a natural clue, so 'Ismail' is the better ban."
   },
   {
    "id": "game2-655",
@@ -8950,7 +8950,7 @@
   {
    "id": "game2-689",
    "Name": "Dua",
-   "Description": "Pray | Ask | Hands | Ameen | Request",
+   "Description": "Pray | Ask | Hands | Ameen | Maangna",
    "Category": "Islamic Terms",
    "action": "edit",
    "original": {
@@ -8958,7 +8958,7 @@
     "Description": "Islam | Muslim | Arabic | religious",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: Drops 'Request', which repeated 'Ask', and bans the Urdu clue in its standard Roman Urdu spelling (the challenger's amendment)."
   },
   {
    "id": "game2-690",
@@ -10903,6 +10903,86 @@
    "Category": "Fabrics",
    "action": "add",
    "note": "New card (debate): Standard Pakistani men's shalwar kameez fabric, not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Qibla",
+   "Description": "Direction | Kaaba | Makkah | Face | Namaz",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Everyday term with no card yet (it only appears as a banned word). The banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Nikah",
+   "Description": "Wedding | Qubool | Mehr | Shaadi | Molvi",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Familiar term with no card yet. 'Molvi' matches the spelling on the Imam card (idx 698) (the challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Aqiqah",
+   "Description": "Baby | Bakra | Hair | Seventh Day | Sacrifice",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Common family practice that is not in the deck. The banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Hafiz",
+   "Description": "Quran | Memorize | Yaad | Madrasa | Taraweeh",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): A word every Pakistani family knows that is not in the deck. The banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Maqam Ibrahim",
+   "Description": "Footprints | Stone | Kaaba | Tawaf | Golden",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Well-known Haram landmark that is not in the deck. The banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Hateem",
+   "Description": "Kaaba | Wall | Half Circle | Hijr Ismail | Inside",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Familiar to anyone who has done Umrah, not in the deck, and the banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Asma bint Abi Bakr",
+   "Description": "Two Belts | Abu Bakr | Cave | Food | Aisha",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Famous Sahabiyah from the Hijrah story who is not in the deck. Bans 'Aisha' (her sister) instead of 'Nitaqayn', which repeated 'Two Belts' (the challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Hafsa",
+   "Description": "Umar | Daughter | Wife | Quran | Mushaf",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Mother of the Believers who kept the compiled Quran copy. She is not in the deck and the banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Sumayyah",
+   "Description": "First | Martyr | Ammar | Yasir | Torture",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): The first martyr of Islam, who only appears as a banned word on Ammar's card. The banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Only Child",
+   "Description": "Iklauta | Sibling | Alone | Pampered | One",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): A fun, family-friendly relation word that is not in the deck."
   }
  ]
 }

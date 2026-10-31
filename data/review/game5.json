@@ -47079,33 +47079,33 @@
   {
    "id": "game5-3622",
    "Name": "",
-   "Description": "Mom fell asleep while dreaming of ____.",
+   "Description": "Ammi fell asleep on the sofa and started dreaming about ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Mom fell asleep while dreaming of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the illogical 'fell asleep while dreaming' and gives it a local frame."
   },
   {
    "id": "game5-3623",
    "Name": "",
-   "Description": "Mom grounded me for three weeks after she found out I had hung out with ____ behind the school.",
+   "Description": "Ammi grounded me for three weeks after she found out I had bunked school for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Mom grounded me for three weeks after she found out I had hung out with ____ behind the school.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Hung out with ____ behind the school' invites boyfriend or smoking answers. Bunking school keeps the grounded-for-it joke."
   },
   {
    "id": "game5-3624",
    "Name": "",
-   "Description": "Mom said \"(insert name)\" can have all the ____ they want, just don't spill any on the carpet.",
+   "Description": "Ammi told the guests they can have all the ____ they want, just don't spill any on the carpet.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -47113,7 +47113,7 @@
     "Description": "Mom said \"Insert Name\" can have all the ____ he/she wants, just don't get any on the carpet.",
     "Category": ""
    },
-   "note": "Removed innuendo"
+   "note": "Removed innuendo; Debate: Removes the awkward '(insert name)' placeholder. Gives it a home setting with guests and keeps the carpet joke."
   },
   {
    "id": "game5-3625",
@@ -47196,7 +47196,7 @@
   {
    "id": "game5-3631",
    "Name": "",
-   "Description": "Mom's to-do list: * Buy groceries * Clean up ____. * Cricket practice.",
+   "Description": "Ammi's to-do list: buy groceries, clean up ____, drop the kids at cricket practice.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -47204,20 +47204,20 @@
     "Description": "Mom’s to-do list: * Buy Groceries * Clean up ____. * Soccer Practice.",
     "Category": ""
    },
-   "note": "Localised"
+   "note": "Localised; Debate: Fixes the broken bullet-asterisk formatting and gives it a local setting."
   },
   {
    "id": "game5-3632",
    "Name": "",
    "Description": "Ammi always said, \"Life is like ____. You never know what you're going to get.\"",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Momma always said, \"Life is like ____. You never know what you're gonna get.\"",
     "Category": ""
    },
-   "note": "Localised"
+   "note": "Debate: Duplicates the lower-id 3560 'Ammi always said life is like ____.' and 2172. The film-quote tail is pop culture."
   },
   {
    "id": "game5-3633",
@@ -47391,15 +47391,15 @@
   {
    "id": "game5-3646",
    "Name": "",
-   "Description": "Most of the new activities downtown seem cool, but I absolutely refuse to try ____!",
+   "Description": "Most of the new activities at the mall seem cool, but I absolutely refuse to try ____!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Most of the new activities downtown seem cool, but I absolutely refuse to try ____!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the US-style 'downtown' with a local mall."
   },
   {
    "id": "game5-3647",
@@ -48028,15 +48028,15 @@
   {
    "id": "game5-3695",
    "Name": "",
-   "Description": "My cousin got kicked out of the house after she brought home ____.",
+   "Description": "My cousin got kicked out of the house after she brought home ____ as a pet.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My cousin got kicked out of the house after she brought home ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The original invited boyfriend answers. The pet framing keeps the joke family-friendly."
   },
   {
    "id": "game5-3696",
@@ -48067,7 +48067,7 @@
   {
    "id": "game5-3698",
    "Name": "",
-   "Description": "My friendship with my best friend is working, thanks to ____.",
+   "Description": "My friendship with my best friend has survived ten years, thanks to ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -48075,7 +48075,7 @@
     "Description": "My current relationship is working, thanks to ____.",
     "Category": ""
    },
-   "note": "Removed relationship"
+   "note": "Removed relationship; Debate: Fixes the clumsy 'is working' wording left over from the relationship original."
   },
   {
    "id": "game5-3699",
@@ -48550,13 +48550,13 @@
    "Name": "",
    "Description": "My favorite recipe for after-school snacks includes ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "My favorite recipe for after-school snacks includes ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as the lower-id 3719 'My favorite after school snack is ____.'"
   },
   {
    "id": "game5-3736",
@@ -49276,15 +49276,15 @@
   {
    "id": "game5-3791",
    "Name": "",
-   "Description": "My mom is so happy when I visit, but I'm only there to be ____.",
+   "Description": "My mom is so happy when I visit, but I'm really only there for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My mom is so happy when I visit, but I'm only there to be ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the grammar of 'only there to be ____'."
   },
   {
    "id": "game5-3792",
@@ -49302,28 +49302,28 @@
   {
    "id": "game5-3793",
    "Name": "",
-   "Description": "My Mom read my diary and found out that I really like ____.",
+   "Description": "Ammi read my diary and found out what I really think about ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My Mom read my diary and found out that I really like ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'I really like ____' invites crush answers. The rewording keeps the diary joke and gives it a local frame."
   },
   {
    "id": "game5-3794",
    "Name": "",
    "Description": "My mom said that ____ helps the medicine go down.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "My mom said that ____ helps the medicine go down.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicates the lower-id 3433 (Ammi's spoonful for the medicine) and 1326."
   },
   {
    "id": "game5-3795",
@@ -49419,7 +49419,7 @@
   {
    "id": "game5-3802",
    "Name": "",
-   "Description": "My most popular search term on Google is ____.",
+   "Description": "My most-watched YouTube video this year is about ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -49427,7 +49427,7 @@
     "Description": "My most popular search term on Google is ____",
     "Category": ""
    },
-   "note": "Punctuation"
+   "note": "Punctuation; Debate: The Google search term version invites crude answers and duplicates the existing search-history cards (13, 4892). The YouTube version is distinct and the owner allows social media."
   },
   {
    "id": "game5-3803",
@@ -49965,15 +49965,15 @@
   {
    "id": "game5-3844",
    "Name": "",
-   "Description": "My plan for dominating you begins with a ____ and ends with a ____.",
+   "Description": "My plan for beating you at Ludo begins with ____ and ends with ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My plan for dominating you begins with a ____ and ends with a ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the possible innuendo in 'dominating you' and the overlap with the world-domination card. The Ludo version is local."
   },
   {
    "id": "game5-3845",
@@ -50162,13 +50162,13 @@
    "Name": "",
    "Description": "My secret fear.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "My secret fear.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Weak prompt with no blank. Duplicates 3758 'My greatest fear is ____.'"
   },
   {
    "id": "game5-3860",
@@ -101837,6 +101837,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Clean local humour; no similar card"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi's chappal flew across the room the moment I said ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New desi family-discipline prompt. Its angle differs from 618 and 3074."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nani's cure for every illness: haldi wala doodh and ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New home-remedy prompt. No haldi card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Khala has found the perfect rishta for me. The only problem is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's gender-neutral version of the new rishta prompt. Its angle differs from 99."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi hides the good biscuits from the kids inside ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New family-home prompt. No biscuit card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu refuses to throw away ____ because \"it might come in handy one day.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New desi-dad trait prompt. No duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "At every family dawat, Mamu gives everyone a long lecture about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's authentic dawat setting. Avoids the Western wedding speech and the overlap with 1989."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My little brother's tuition teacher quit after one week because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New school-life prompt. The existing tuition cards 1519 and 2421 take different angles."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My Dadi's handbag always has toffees, Vicks and ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New grandparent prompt. No handbag, toffee or Vicks card exists."
   }
  ]
 }
