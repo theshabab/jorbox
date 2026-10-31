@@ -1292,12 +1292,12 @@
   },
   {
    "id": "game6-144",
-   "Description": "Pakistani Government Departments",
-   "action": "keep",
+   "Description": "Pakistani Government Departments and Bodies (NADRA, WAPDA...)",
+   "action": "edit",
    "original": {
     "Description": "Pakistani Government Departments"
    },
-   "note": ""
+   "note": "Debate: The examples show that bodies like NADRA and WAPDA count, not only ministries. Both sides agree, and the merged 'Ministries' card stays removed."
   },
   {
    "id": "game6-145",
@@ -1409,12 +1409,12 @@
   },
   {
    "id": "game6-157",
-   "Description": "Pakistani Beaches",
-   "action": "keep",
+   "Description": "Famous Beaches (Pakistan or Anywhere in the World)",
+   "action": "edit",
    "original": {
     "Description": "Pakistani Beaches"
    },
-   "note": ""
+   "note": "Debate: Pakistani beaches alone give most players fewer than about 8 well-known answers. Widening the card keeps the idea, and it does not overlap the live 'Things at the Beach', which is about objects."
   },
   {
    "id": "game6-158",
@@ -3614,6 +3614,48 @@
    "Description": "Motorbike Brands in Pakistan",
    "action": "add",
    "note": "New card (debate): Familiar to Pakistani players (Honda, Yamaha, Suzuki, United, Road Prince, Unique, Super Power, Hi-Speed, Super Star, Ravi, Kawasaki); card 226 covers cars only."
+  },
+  {
+   "id": null,
+   "Description": "Pakistani Sports Stars Who Aren't Cricketers (Hockey, Squash, Athletics...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment. It fills the gap next to Cricket Players, and naming the sports helps players recall hockey, squash, tennis, snooker and athletics stars without using up any names."
+  },
+  {
+   "id": null,
+   "Description": "Things That Sting or Bite",
+   "action": "add",
+   "note": "New card (debate): Many everyday answers. It asks about a behaviour, so it does not duplicate Insects or Reptiles."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Golden",
+   "action": "add",
+   "note": "New card (debate): Extends the colour series. It is not in the deck and is different from Yellow and Shiny."
+  },
+  {
+   "id": null,
+   "Description": "Famous Inventions",
+   "action": "add",
+   "note": "New card (debate): A broad general-knowledge card with many answers. It is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Famous Muslim Scientists, Doctors and Thinkers of the Past (Like Ibn Sina)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment. Pakistani school textbooks cover these figures (Al-Khwarizmi, Al-Biruni, Jabir bin Hayyan, Ibn al-Haytham, Al-Razi, Al-Zahrawi, Ibn Khaldun, Omar Khayyam). The wider frame and single example leave enough answers, and the card is distinct from Islamic Schola"
+  },
+  {
+   "id": null,
+   "Description": "Words Ending in -Wala (Doodhwala, Chaiwala...)",
+   "action": "add",
+   "note": "New card (debate): Fun Urdu wordplay with many answers. It matches the spirit of 'Words That Rhyme With Chai' and does not duplicate the Kabadi Wala or Pheriwalay cards."
+  },
+  {
+   "id": null,
+   "Description": "Things in a Library",
+   "action": "add",
+   "note": "New card (debate): A familiar place with many answers. It is not in the deck and is different from School Supplies and the classroom cards."
   }
  ]
 }

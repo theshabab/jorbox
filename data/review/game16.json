@@ -2876,14 +2876,14 @@
   },
   {
    "id": "game16-262",
-   "Name": "How often do you help others? Who do you help?",
+   "Name": "Who do you always end up helping, even when you're busy, and with what?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "How often do you help others? Who do you help?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Asking players to rate their own helpfulness invites bragging. Asking for a person and a story is warmer and plays better."
   },
   {
    "id": "game16-263",
@@ -3140,14 +3140,14 @@
   },
   {
    "id": "game16-286",
-   "Name": "Do you like documentaries? Why or why not?",
+   "Name": "What is the most interesting documentary you have watched, and what did you learn from it?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "Do you like documentaries? Why / why not?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "wording"
+   "note": "wording; Debate: A yes/no opener becomes a specific prompt that gives players something to talk about."
   },
   {
    "id": "game16-287",
@@ -3294,14 +3294,14 @@
   },
   {
    "id": "game16-300",
-   "Name": "How often do you go to the library?",
+   "Name": "Do you ever visit a library or a book bazaar (like Urdu Bazaar or a Sunday book market)? What is the best find you have picked up there?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "How often do you go to the library?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Uses the challenger's version: local book bazaars make the card relatable, and asking for a find gives more to talk about than a date."
   },
   {
    "id": "game16-301",
@@ -3811,25 +3811,25 @@
   },
   {
    "id": "game16-347",
-   "Name": "Do athletes deserve the high salaries they receive?",
+   "Name": "Do cricketers and other athletes deserve the huge salaries and PSL contracts they get?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do athletes deserve the high salaries they receive?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Gives the same debate a Pakistani cricket frame."
   },
   {
    "id": "game16-348",
-   "Name": "What defines a sport? Is fishing a sport?",
+   "Name": "What makes something a sport? Is carrom or ludo a sport? What about fishing?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What defines a sport? Is fishing a sport?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Desi examples make a better debate, and fishing stays in."
   },
   {
    "id": "game16-349",
@@ -3921,14 +3921,14 @@
   },
   {
    "id": "game16-357",
-   "Name": "What kind of interior do you like a restaurant to have?",
+   "Name": "A fancy restaurant with chandeliers and waiters in uniform, or a roadside dhaba with charpais: where would you rather eat, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What kind of interior do you like a restaurant to have?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Uses the challenger's version: a lively desi either/or that drops 'soft lighting' and its date-night feel."
   },
   {
    "id": "game16-358",
@@ -8247,6 +8247,55 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Playful local skill question, distinct from the generic skill card."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistan cricket match still hurts you the most when you think about it?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Gets a strong reaction from Pakistani players. It is a different angle from the live card about watching a match with the family."
+  },
+  {
+   "id": null,
+   "Name": "What do you do when the internet goes down at home: panic, take a nap or finally talk to your family?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A light, relatable tech question that is different from the WiFi-password and time-online cards."
+  },
+  {
+   "id": null,
+   "Name": "Who in your family takes the most selfies, and where is the strangest place they have taken one?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): A light family question about phones and social media; there is no selfie card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the most stylish thing your Nana, Nani, Dada or Dadi used to wear?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): A warm fashion question with a family angle; the existing grandparent cards cover food, lessons and holidays."
+  },
+  {
+   "id": null,
+   "Name": "If you could watch one sporting event live in the stadium, anywhere in the world, which would it be?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No card asks about attending a live sporting event."
+  },
+  {
+   "id": null,
+   "Name": "What is the most useless thing you have ever packed for a trip?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): A funny travel question that differs from the hoarding, school and airport cards."
+  },
+  {
+   "id": null,
+   "Name": "Which place in your city makes the best karahi, and what makes it better than everywhere else?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's version: a local food debate that is more open than a yes/no tail. No karahi card exists."
   }
  ]
 }

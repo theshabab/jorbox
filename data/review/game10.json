@@ -2273,12 +2273,12 @@
   },
   {
    "id": "game10-253",
-   "Name": "Friends: Few close ones or Many acquaintances?",
-   "action": "keep",
+   "Name": "Friends: A Few Close Ones or Many Acquaintances?",
+   "action": "edit",
    "original": {
     "Name": "Friends: Few close ones or Many acquaintances?"
    },
-   "note": ""
+   "note": "Debate: Fixes the grammar and Title Case."
   },
   {
    "id": "game10-254",
@@ -2300,12 +2300,12 @@
   },
   {
    "id": "game10-256",
-   "Name": "Shoes: Sandals or Sneakers?",
-   "action": "keep",
+   "Name": "Footwear: Chappal or Joggers?",
+   "action": "edit",
    "original": {
     "Name": "Shoes: Sandals or Sneakers?"
    },
-   "note": ""
+   "note": "Debate: Uses the everyday local words (chappal, joggers) that Pakistani players actually use."
   },
   {
    "id": "game10-257",
@@ -2336,12 +2336,12 @@
   },
   {
    "id": "game10-260",
-   "Name": "Study: Group study or Alone?",
-   "action": "keep",
+   "Name": "Study: In a Group or Alone?",
+   "action": "edit",
    "original": {
     "Name": "Study: Group study or Alone?"
    },
-   "note": ""
+   "note": "Debate: Removes the repeated word 'study' and matches the deck's Title Case style."
   },
   {
    "id": "game10-261",
@@ -2354,12 +2354,12 @@
   },
   {
    "id": "game10-262",
-   "Name": "Food: Spicy or Sweet?",
-   "action": "keep",
+   "Name": "Craving: Namkeen or Meetha?",
+   "action": "edit",
    "original": {
     "Name": "Food: Spicy or Sweet?"
    },
-   "note": ""
+   "note": "Debate: The local savoury-or-sweet framing is clearer and moves the card away from 'Spicy Food or Mild Food?'."
   },
   {
    "id": "game10-263",
@@ -2552,12 +2552,12 @@
   },
   {
    "id": "game10-284",
-   "Name": "Fruit: Mango or Apple?",
-   "action": "keep",
+   "Name": "Fruit: Apple or Banana?",
+   "action": "edit",
    "original": {
     "Name": "Fruit: Mango or Apple?"
    },
-   "note": ""
+   "note": "Debate: Mango vs Apple is near-unanimous for Pakistanis, and the deck already has two mango this-or-that cards."
   },
   {
    "id": "game10-285",
@@ -2615,12 +2615,12 @@
   },
   {
    "id": "game10-291",
-   "Name": "Family: Large or Small?",
-   "action": "keep",
+   "Name": "Ideal Family: Lots of Kids or Just a Few?",
+   "action": "edit",
    "original": {
     "Name": "Family: Large or Small?"
    },
-   "note": ""
+   "note": "Debate: 'Family: Large or Small?' is unclear. This asks for a preference and stays different from 'Joint Family or Nuclear Family?'."
   },
   {
    "id": "game10-292",
@@ -6182,6 +6182,54 @@
    "Name": "What is the most guests a 'small' wedding can have?",
    "action": "add",
    "note": "New card (debate): Challenger's amendment gives a clear upper bound so guest counts are comparable; not a duplicate of 'Big Wedding or Simple Nikkah?'."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous bazaar in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): A new Pakistani place card with clear common answers (Anarkali, Liberty, Saddar, Qissa Khwani). It is different from the card about bargaining at a bazaar."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous waterfall in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Fits the deck's geography set and has common answers (Sajikot, Manthoka, Jarogo, Umbrella Waterfall). The deck has no waterfall card yet."
+  },
+  {
+   "id": null,
+   "Name": "Wedding Invite: Printed Card or WhatsApp Message?",
+   "action": "add",
+   "note": "New card (debate): A new this-or-that about a real current split in Pakistani weddings. It does not overlap the existing wedding choices."
+  },
+  {
+   "id": null,
+   "Name": "Cricket Match: Watch in the Stadium or at Home?",
+   "action": "add",
+   "note": "New card (debate): A popular cricket theme with a real split. The existing stadium cards are naming prompts, not this choice."
+  },
+  {
+   "id": null,
+   "Name": "Name a job kids say they want when they grow up.",
+   "action": "add",
+   "note": "New card (debate): A classic survey prompt with strong common answers (doctor, pilot, army officer, cricketer). The deck has no such card."
+  },
+  {
+   "id": null,
+   "Name": "Name a reason traffic police stop a motorbike.",
+   "action": "add",
+   "note": "New card (debate): A funny local prompt with common answers (no helmet, one-wheeling, no papers, three riders). It is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do when the azan starts.",
+   "action": "add",
+   "note": "New card (debate): Familiar, respectful Muslim-household behaviour with common answers. The only other azan card is about loudspeaker announcements."
+  },
+  {
+   "id": null,
+   "Name": "Summer Vacation: Nani's House or Stay Home?",
+   "action": "add",
+   "note": "New card (debate): A nostalgic local this-or-that. It is different from the existing summer-vacation, Nani's-house and holiday cards."
   }
  ]
 }
