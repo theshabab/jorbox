@@ -8326,20 +8326,20 @@
   {
    "id": "game1-641",
    "Name": "Noah",
-   "Description": "Prophet of the Ark",
+   "Description": "Nuh, the Prophet who built the Ark",
    "Category": "Prophets",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Noah",
     "Description": "Prophet of the Ark",
     "Category": "Prophets"
    },
-   "note": ""
+   "note": "Debate: Adds the Quranic name Nuh. It is accurate and does not give the word away."
   },
   {
    "id": "game1-642",
    "Name": "Abraham",
-   "Description": "Father of Prophets, built the Kaaba",
+   "Description": "Ibrahim, father of Prophets, built the Kaaba",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8347,12 +8347,12 @@
     "Description": "Father of Prophets",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Ibrahim. The facts are accurate (2:127)."
   },
   {
    "id": "game1-643",
    "Name": "Ishmael",
-   "Description": "Son of Ibrahim, helped build the Kaaba",
+   "Description": "Ismail, son of Ibrahim, helped build the Kaaba",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8360,12 +8360,12 @@
     "Description": "Son of Abraham",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Ismail. Accurate."
   },
   {
    "id": "game1-644",
    "Name": "Isaac",
-   "Description": "Son of Ibrahim, father of Yaqub",
+   "Description": "Ishaq, son of Ibrahim, father of Yaqub",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8373,12 +8373,12 @@
     "Description": "Son of Abraham",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Ishaq. Accurate (11:71)."
   },
   {
    "id": "game1-645",
    "Name": "Jacob",
-   "Description": "Son of Ishaq, also called Israel",
+   "Description": "Yaqub, son of Ishaq, also called Israel",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8386,12 +8386,12 @@
     "Description": "Son of Isaac",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Yaqub. Accurate (3:93)."
   },
   {
    "id": "game1-646",
    "Name": "Joseph",
-   "Description": "Sold by his brothers, rose in Egypt",
+   "Description": "Yusuf, sold by his brothers, rose in Egypt",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8399,12 +8399,12 @@
     "Description": "Prophet in Egypt",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Yusuf. Accurate."
   },
   {
    "id": "game1-647",
    "Name": "Moses",
-   "Description": "Received the Torah, parted the sea",
+   "Description": "Musa, received the Torah, parted the sea",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8412,12 +8412,12 @@
     "Description": "Prophet of the Torah",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Musa. Accurate."
   },
   {
    "id": "game1-648",
    "Name": "Aaron",
-   "Description": "Brother of Musa",
+   "Description": "Harun, brother and helper of Musa",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8425,12 +8425,12 @@
     "Description": "Brother of Moses",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Harun and fills out a thin hint. Accurate (20:29-32)."
   },
   {
    "id": "game1-649",
    "Name": "David",
-   "Description": "Prophet king given the Zabur",
+   "Description": "Dawud, prophet king given the Zabur",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8438,12 +8438,12 @@
     "Description": "Prophet King",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Dawud. Accurate (4:163)."
   },
   {
    "id": "game1-650",
    "Name": "Solomon",
-   "Description": "Prophet king who understood birds and ants",
+   "Description": "Sulaiman, king who understood birds and ants",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8451,12 +8451,12 @@
     "Description": "Wise Prophet King",
     "Category": "Prophets"
    },
-   "note": "Specific hint; Debate: Matches Quran 27:16-19 more precisely."
+   "note": "Specific hint; Debate: Matches Quran 27:16-19 more precisely.; Debate: Adds the Quranic name Sulaiman. Accurate (27:16-19), and the Category already says Prophets."
   },
   {
    "id": "game1-651",
    "Name": "Job",
-   "Description": "Prophet famed for his patience",
+   "Description": "Ayyub, Prophet famed for his patience",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8464,7 +8464,7 @@
     "Description": "Patient Prophet",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Ayyub and avoids confusion with 'job' meaning employment."
   },
   {
    "id": "game1-652",
@@ -8508,7 +8508,7 @@
   {
    "id": "game1-655",
    "Name": "Zachariah",
-   "Description": "Father of Prophet Yahya",
+   "Description": "Zakariya, father of Prophet Yahya",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8516,7 +8516,7 @@
     "Description": "Father of John",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Zakariya. Accurate (19:7)."
   },
   {
    "id": "game1-656",
@@ -8534,7 +8534,7 @@
   {
    "id": "game1-657",
    "Name": "Jesus",
-   "Description": "Son of Maryam, the Messiah",
+   "Description": "Isa, son of Maryam, the Messiah",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8542,7 +8542,7 @@
     "Description": "Prophet and Messiah",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Isa. Accurate (3:45), and it is text only, not a depiction."
   },
   {
    "id": "game1-658",
@@ -8560,7 +8560,7 @@
   {
    "id": "game1-659",
    "Name": "Lot",
-   "Description": "Prophet sent to Sodom",
+   "Description": "Lut, the Prophet sent to Sodom",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8568,7 +8568,7 @@
     "Description": "Prophet to his people",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Quranic name Lut so the card is not read as the ordinary word 'lot'."
   },
   {
    "id": "game1-660",
@@ -8885,7 +8885,7 @@
   {
    "id": "game1-684",
    "Name": "Eid",
-   "Description": "Festival after Ramadan or Hajj",
+   "Description": "Festival ending Ramadan, or of sacrifice",
    "Category": "Islamic Terms",
    "action": "edit",
    "original": {
@@ -8893,7 +8893,7 @@
     "Description": "Islamic celebration",
     "Category": "Islamic Terms"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Corrects the facts: Eid al-Adha falls on 10 Dhul Hijjah, during the Hajj days, not after Hajj."
   },
   {
    "id": "game1-685",

@@ -9540,8 +9540,8 @@
    "Name": "SHY <---> TOTAL SHOW-OFF",
    "Description": "Draw a peacock that is this much of a show-off",
    "Category": "Drawing",
-   "action": "add",
-   "note": "New card (debate): Peacocks are common in Pakistan (Thar), and the deck has no peacock card. It fits the bird drawings."
+   "action": "remove",
+   "note": "Debate: Same card as 770 (a peacock showing off this much). Keep the lower id."
   },
   {
    "id": null,
@@ -9646,6 +9646,70 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): New card: home-remedy humour with concrete scale ends instead of the vague GENTLE <---> EXTREME (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "NO PROTOCOL <---> FULL VIP PROTOCOL",
+   "Description": "Draw a politician's convoy with this much protocol",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Pakistani political-humour drawing. The deck has no convoy or protocol card."
+  },
+  {
+   "id": null,
+   "Name": "TRAVELLING LIGHT <---> OVERWEIGHT AT CHECK-IN",
+   "Description": "Draw a suitcase coming back from Umrah packed with this many dates, tasbeehs and gifts for relatives",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Familiar family travel joke. Uses the challenger's version, because Zamzam cannot go in a suitcase (it travels as a separate sealed canister)."
+  },
+  {
+   "id": null,
+   "Name": "STRAIGHT ANSWER <---> TOTAL DODGE",
+   "Description": "Write a politician's answer to \"Where did the funds go?\" that dodges the question this much",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Political joke the owner allows. Different from 48 (memoir title), 96 (party slogan) and 643 (talk-show headline)."
+  },
+  {
+   "id": null,
+   "Name": "CALM <---> FULL EMERGENCY",
+   "Description": "Write a masjid loudspeaker announcement about a runaway Bakra Eid goat that sounds this urgent",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Real mohalla custom, and the joke is about the goat. Different from 635 (sabzi-wala announcement) and the goat drawing cards."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> FULL BARAAT SHOW",
+   "Description": "Draw a dulha's ghori that is decorated this much",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Family-friendly wedding drawing. The deck has no ghori card."
+  },
+  {
+   "id": null,
+   "Name": "3 VIEWS <---> GONE VIRAL",
+   "Description": "Write a caption for a video of Nani taking her first selfie that is this likely to go viral",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Social media is allowed. The deck has no viral or caption card."
+  },
+  {
+   "id": null,
+   "Name": "BONE DRY <---> OVERFLOWING ONTO THE STREET",
+   "Description": "Draw a rooftop water tanki that is this full when someone finally remembers the motor",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Everyday desi household joke. Uses the challenger's version, which makes the scale (how full the tank is) match the task."
+  },
+  {
+   "id": null,
+   "Name": "BARELY CLAPPING <---> FULL JOSH",
+   "Description": "Draw a qawwali group that is performing with this much josh",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): The owner allows qawwali, and the deck has no qawwali card. Josh is easy to draw."
   }
  ]
 }

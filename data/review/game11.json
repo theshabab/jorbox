@@ -171,13 +171,13 @@
   {
    "id": "game11-16",
    "Name": "Problem",
-   "Description": "I require a very fancy _____!",
-   "action": "keep",
+   "Description": "I need a really fancy _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I require a very fancy _____!"
    },
-   "note": ""
+   "note": "Debate: 'I require' reads stiffly. The challenger's version keeps the blank open for any occasion, which matters because the deck already has many shaadi cards."
   },
   {
    "id": "game11-17",
@@ -809,13 +809,13 @@
   {
    "id": "game11-74",
    "Name": "Problem",
-   "Description": "_____ happens too frequently.",
-   "action": "keep",
+   "Description": "_____ happens way too often!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "_____ happens too frequently."
    },
-   "note": ""
+   "note": "Debate: Replaces the flat 'too frequently.' with the deck's usual exclamatory complaint style."
   },
   {
    "id": "game11-75",
@@ -6848,6 +6848,76 @@
    "Description": "By the time I reach the walima buffet, there's only _____ left!",
    "action": "add",
    "note": "New card (debate): Classic wedding-buffet joke with no buffet card in the deck. Uses the challenger's wording, where the guest goes to the buffet."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My wudu water always splashes all over my _____!",
+   "action": "add",
+   "note": "New card (debate): A respectful everyday worship situation, which the owner allows. No wudu card exists, and the blank is open."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Pigeons keep building nests in my _____!",
+   "action": "add",
+   "note": "New card (debate): A household-nuisance card that avoids the droppings reading of 'ruining', which is close to the ban on bathroom jokes. It does not duplicate the Kabootar Baaz customer or the rooftop card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My neighbours always block my gate with their _____!",
+   "action": "add",
+   "note": "New card (debate): The classic neighbour-parking complaint, turned around so the blank is open. The only existing parking card is about finding a spot."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every time it rains, my _____ stops working!",
+   "action": "add",
+   "note": "New card (debate): A monsoon complaint with an open blank. It is different from the street-flooding and load-shedding cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My ride-hailing driver always cancels when I _____!",
+   "action": "add",
+   "note": "New card (debate): A familiar city frustration that pairs with the Ride-Hailing Driver customer without duplicating it."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The fruit wala always hides the rotten _____ at the bottom!",
+   "action": "add",
+   "note": "New card (debate): A recognisable bazaar trick. No fruit-seller Problem card exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The winter fog always ruins my _____!",
+   "action": "add",
+   "note": "New card (debate): Seasonal Punjab fog is different from the smog card, and no existing card mentions fog."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The bank queue always takes forever because of _____!",
+   "action": "add",
+   "note": "New card (debate): The challenger's phrasing makes the blank name a cause that a product could fix. No queue card exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My ammi never lets me throw away old _____!",
+   "action": "add",
+   "note": "New card (debate): A relatable desi habit that is distinct from the other ammi cards (scolds, hides the good things for guests, hears, sweater)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I pretend to be asleep whenever _____ calls!",
+   "action": "add",
+   "note": "New card (debate): A call-dodging complaint with an open blank. It is distinct from 'My boss always calls when I'm _____' and the existing sleep cards."
   }
  ]
 }
