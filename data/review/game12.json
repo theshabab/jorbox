@@ -5981,12 +5981,12 @@
   },
   {
    "id": "game12-665",
-   "Name": "Tumor",
-   "action": "keep",
+   "Name": "Tumour",
+   "action": "edit",
    "original": {
     "Name": "Tumor"
    },
-   "note": ""
+   "note": "Debate: The live deck already uses British spelling (Armour, Odour, Rumour). Tumor is the US spelling."
   },
   {
    "id": "game12-666",
@@ -6116,12 +6116,12 @@
   },
   {
    "id": "game12-680",
-   "Name": "Vapor",
-   "action": "keep",
+   "Name": "Vapour",
+   "action": "edit",
    "original": {
     "Name": "Vapor"
    },
-   "note": ""
+   "note": "Debate: Matches the deck's British spelling (Armour, Odour, Rumour)."
   },
   {
    "id": "game12-681",
@@ -6522,11 +6522,11 @@
   {
    "id": "game12-725",
    "Name": "Toilet Paper Tube",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Toilet Paper Tube"
    },
-   "note": ""
+   "note": "Debate: The owner has ruled out toilet jokes, and this card mainly invites them. It also overlaps Tube (662) and Tissues (731)."
   },
   {
    "id": "game12-726",
@@ -6647,12 +6647,12 @@
   },
   {
    "id": "game12-739",
-   "Name": "Matches",
-   "action": "keep",
+   "Name": "Matchbox",
+   "action": "edit",
    "original": {
     "Name": "Matches"
    },
-   "note": ""
+   "note": "Debate: In a cricket-mad group, 'Matches' could mean games. Matchbox (maachis) is clear, easy to draw and not in the deck."
   },
   {
    "id": "game12-740",
@@ -9635,6 +9635,60 @@
    "Name": "Tyre",
    "action": "add",
    "note": "New card (debate): Common object, using the local spelling. Different from Wheel and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Waistcoat",
+   "action": "add",
+   "note": "New card (debate): Common local formalwear that is not in the deck. Adding it keeps Tuxedo. It differs from Vest, which means the baniyan undershirt in Pakistani English."
+  },
+  {
+   "id": null,
+   "Name": "Rainbow",
+   "action": "add",
+   "note": "New card (debate): Easy to draw, no content issues, and not in the 1007 live cards."
+  },
+  {
+   "id": null,
+   "Name": "Umpire",
+   "action": "add",
+   "note": "New card (debate): Easy to act out with cricket signals. Neither Umpire nor Referee is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Wrestler",
+   "action": "add",
+   "note": "New card (debate): Easy to act out and ties to local pehlwani. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Walnut",
+   "action": "add",
+   "note": "New card (debate): A familiar dry fruit (akhrot) that is easy to draw. The deck has only the generic 'Nut', so it is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Well",
+   "action": "add",
+   "note": "New card (debate): A village well (kuan) is easy to draw and act out. In a Nouns deck it will be read as the noun. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Wheat",
+   "action": "add",
+   "note": "New card (debate): Pakistan's staple crop (gandum), easy to draw and describe. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Vulture",
+   "action": "add",
+   "note": "New card (debate): A well-known bird (girh) that is easy to act out. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Valley",
+   "action": "add",
+   "note": "New card (debate): A landform players know from Hunza and Swat. Not in the deck."
   }
  ]
 }

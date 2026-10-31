@@ -7729,12 +7729,12 @@
    "id": "game7-703",
    "Description": "a billion legal smiles",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "a billion legal smiles",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Unclear and cannot be drawn, with no clear joke."
   },
   {
    "id": "game7-704",
@@ -7782,14 +7782,14 @@
   },
   {
    "id": "game7-708",
-   "Description": "uncle alfredo",
+   "Description": "chacha jaan made entirely of noodles",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "uncle alfredo",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The 'uncle alfredo' pun depends on a Western sauce. The new line localises it and keeps the drawable food-person joke."
   },
   {
    "id": "game7-709",
@@ -7815,14 +7815,14 @@
   },
   {
    "id": "game7-711",
-   "Description": "patty! come down from that beanstalk",
+   "Description": "Pappu! come down from that beanstalk",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "pattyyyyyy! come down from that beanstalk",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Localises the Western name and keeps the joke."
   },
   {
    "id": "game7-712",
@@ -7892,25 +7892,25 @@
   },
   {
    "id": "game7-718",
-   "Description": "at last, gail has gone berserk",
+   "Description": "at last, Gulnaz Aunty has gone berserk",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "at last, gail has gone beserk",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Localises the Western name 'gail'."
   },
   {
    "id": "game7-719",
-   "Description": "you just missed the gravy boat",
+   "Description": "the gravy boat is sailing away without you",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "you just missed the gravy boat",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The 'gravy boat' idiom is obscure. A literal sailing scene is drawable and funny."
   },
   {
    "id": "game7-720",
@@ -7936,14 +7936,14 @@
   },
   {
    "id": "game7-722",
-   "Description": "chewing brisket for 40 years",
+   "Description": "chewing tough Eid mutton for 40 years",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "chewing brisket for 40 years",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Brisket is US-centric. Tough Eid meat is a familiar local joke."
   },
   {
    "id": "game7-723",
@@ -8136,12 +8136,12 @@
    "id": "game7-740",
    "Description": "woow you don't get punk at all...",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "woow you don't get punk at all...",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Western/secular (about punk music) and cannot be drawn."
   },
   {
    "id": "game7-741",
@@ -8213,12 +8213,12 @@
    "id": "game7-747",
    "Description": "love notes from the monster under my bed",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "love notes from the monster under my bed",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of 745 (thank-you notes from the monster under my bed), with a romance angle."
   },
   {
    "id": "game7-748",
@@ -8235,12 +8235,12 @@
    "id": "game7-749",
    "Description": "facetune the man in da moon",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "facetune the man in da moon",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 747 (photo-editing the man in the moon)."
   },
   {
    "id": "game7-750",
@@ -8257,12 +8257,12 @@
    "id": "game7-751",
    "Description": "its..edible megaphone",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "its..edible megaphone",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 749 (edible megaphone)."
   },
   {
    "id": "game7-752",
@@ -8290,12 +8290,12 @@
    "id": "game7-754",
    "Description": "french slapper",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "french slapper",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The pun relies on 'French kiss' (romance), and the card has no drawable meaning without it."
   },
   {
    "id": "game7-755",
@@ -8312,12 +8312,12 @@
    "id": "game7-756",
    "Description": "shrimp    chandeleheeeeeeaaaaar!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "shrimp    chandeleheeeeeeaaaaar!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 754 (shrimp chandelier), with garbled spelling."
   },
   {
    "id": "game7-757",
@@ -8389,23 +8389,23 @@
    "id": "game7-763",
    "Description": "game of bones",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "game of bones",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Parody of a TV title (Game of Thrones)."
   },
   {
    "id": "game7-764",
    "Description": "belly money",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "belly money",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Unclear prompt with no joke or clear image."
   },
   {
    "id": "game7-765",
@@ -8453,14 +8453,14 @@
   },
   {
    "id": "game7-769",
-   "Description": "lost in the yams",
+   "Description": "lost in the sugarcane fields",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "lost in the yams",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Yams are not local and the line copies the 'lost in the shrimp' template. Sugarcane fields are local and drawable."
   },
   {
    "id": "game7-770",
@@ -8488,12 +8488,12 @@
    "id": "game7-772",
    "Description": "the moon is a sun dog",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "the moon is a sun dog",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Relies on an obscure weather term, so guessers would be confused."
   },
   {
    "id": "game7-773",
@@ -8521,12 +8521,12 @@
    "id": "game7-775",
    "Description": "shaving tiny tim",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "shaving tiny tim",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Christmas reference (Tiny Tim from A Christmas Carol)."
   },
   {
    "id": "game7-776",
@@ -8541,14 +8541,14 @@
   },
   {
    "id": "game7-777",
-   "Description": "parts of linda have become octopus",
+   "Description": "parts of Bilal have become octopus",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "parts of linda have become octopus",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises the Western name 'linda'."
   },
   {
    "id": "game7-778",
@@ -8708,12 +8708,12 @@
    "id": "game7-792",
    "Description": "this woodchipper isn't just for wood",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "this woodchipper isn't just for wood",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Implies gore (a body in a woodchipper), which goes beyond the mildly dark content the owner allows."
   },
   {
    "id": "game7-793",
@@ -8807,12 +8807,12 @@
    "id": "game7-801",
    "Description": "floppy stomp",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "floppy stomp",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: No clear image or joke. Removing it is consistent with P1 and P14."
   },
   {
    "id": "game7-802",
@@ -8937,14 +8937,14 @@
   },
   {
    "id": "game7-813",
-   "Description": "smashing my vase bc i hate mondays",
+   "Description": "smashing my vase because i hate mondays",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "smashing my vase bc i hate the government",
     "Category": "Standard Prompts"
    },
-   "note": "political/vandalism angle softened"
+   "note": "political/vandalism angle softened; Debate: Spells out the 'bc' text-speak."
   },
   {
    "id": "game7-814",
@@ -9003,14 +9003,14 @@
   },
   {
    "id": "game7-819",
-   "Description": "lickin the polar ice caps before they're gone",
+   "Description": "licking the polar ice caps before they're gone",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "lickin the polar ice caps before they're gone",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fixes the spelling."
   },
   {
    "id": "game7-820",
@@ -18908,6 +18908,48 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Family-gathering humour with a reversal; easy to draw and not a duplicate"
+  },
+  {
+   "id": null,
+   "Description": "a charpai fitted with jet engines",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local, drawable absurd prompt."
+  },
+  {
+   "id": null,
+   "Description": "an air cooler blowing the cat across the room",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New prompt about a familiar Pakistani summer scene."
+  },
+  {
+   "id": null,
+   "Description": "a family of six and a goat on one motorbike",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New prompt on a classic local sight; funny and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a camel stuck in a lift",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New simple, drawable animal prompt."
+  },
+  {
+   "id": null,
+   "Description": "a rooftop water tank full of goldfish",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New prompt about a familiar local rooftop item."
+  },
+  {
+   "id": null,
+   "Description": "a snowman visiting Jacobabad in June",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local twist on the deck's snowman theme. Jacobabad is among the hottest cities in the world in June."
   }
  ]
 }
