@@ -12187,15 +12187,15 @@
   {
    "id": "game5-938",
    "Name": "",
-   "Description": "____ is the new black according to everyone.",
+   "Description": "____ is the new black, according to every aunty.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ is the new black according to everyone.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the missing comma and adds a local punchline."
   },
   {
    "id": "game5-939",
@@ -12291,15 +12291,15 @@
   {
    "id": "game5-946",
    "Name": "",
-   "Description": "____ is totally acceptable. If you're a freak.",
+   "Description": "____ is totally acceptable. If you're Chachu.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ is totally acceptable. If you're a freak.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'If you're a freak' invites crude answers. The relative punchline keeps the twist and suits families."
   },
   {
    "id": "game5-947",
@@ -12501,13 +12501,13 @@
    "Name": "",
    "Description": "____ keeps me from prayer.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ keeps me from prayer.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites jokes about skipping salah, which the game5 rules forbid. The owner's allowance covers sincere worship-related personal questions, not fill-in punchlines."
   },
   {
    "id": "game5-963",
@@ -12525,15 +12525,15 @@
   {
    "id": "game5-964",
    "Name": "",
-   "Description": "____ kills the mood every time.",
+   "Description": "____ kills the vibe at every family dinner.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ kills the mood every time.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Kills the mood' has a romantic or suggestive undertone. The family-dinner frame keeps the joke clean."
   },
   {
    "id": "game5-965",
@@ -12694,15 +12694,15 @@
   {
    "id": "game5-977",
    "Name": "",
-   "Description": "____ ran for president on a strong platform of using ____ as a national defense.",
+   "Description": "____ ran for Prime Minister on a strong platform of using ____ as a national defense.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ ran for president on a strong platform of using ____ as a national defense.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the US presidential campaign with a Pakistani PM run."
   },
   {
    "id": "game5-978",
@@ -13045,15 +13045,15 @@
   {
    "id": "game5-1004",
    "Name": "",
-   "Description": "____ works in mysterious ways.",
+   "Description": "Like WAPDA's billing department, ____ works in mysterious ways.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ works in mysterious ways.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The bare phrase echoes 'God works in mysterious ways' and invites jokes about God. A local bureaucracy frame keeps the joke."
   },
   {
    "id": "game5-1005",
@@ -13318,15 +13318,15 @@
   {
    "id": "game5-1025",
    "Name": "",
-   "Description": "____ is in bed with the establishment.",
+   "Description": "____ is secretly backed by the establishment.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ is in bed with the establishment.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'In bed with' has a sexual undertone in a mixed-family game. The rewrite keeps the allowed political in-joke."
   },
   {
    "id": "game5-1026",
@@ -13801,13 +13801,13 @@
    "Name": "",
    "Description": "____. It's finger lickin' good!",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____. It's finger lickin' good!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of idx 910, which uses the same KFC slogan. The higher id is removed."
   },
   {
    "id": "game5-1063",
@@ -14462,15 +14462,15 @@
   {
    "id": "game5-1113",
    "Name": "",
-   "Description": "____: The best part of waking up.",
+   "Description": "____: the best part of waking up for Sehri.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____: The best part of waking up.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Turns the US Folgers jingle into a local Ramzan moment."
   },
   {
    "id": "game5-1114",
@@ -14685,13 +14685,13 @@
    "Name": "",
    "Description": "____? Yeah, nah.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____? Yeah, nah.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Australian slang. It makes the same 'reject it' joke as 1072 and 1125."
   },
   {
    "id": "game5-1131",
@@ -101253,6 +101253,62 @@
    "Category": "Classic",
    "action": "add",
    "note": "New card (debate): Clean kite-flying prompt. The deck has no kite or patang card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____: the only thing that still works during loadshedding.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local prompt. No live card makes this loadshedding joke."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____ is the new official snack of the Pakistan cricket team.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean cricket prompt with a different angle from the existing cricket cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____. Because Ammi said so.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Short family catchphrase prompt. Not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____? Not in this economy.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable quick-reaction prompt. Not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____: the real reason the baraat showed up three hours late.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local wedding humour. No card about a late baraat exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____ is the only thing louder than an uncle on a speakerphone call.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean family humour. Not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____: now with 50% more masala!",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Desi ad-slogan prompt, different from the existing garam masala card."
   }
  ]
 }

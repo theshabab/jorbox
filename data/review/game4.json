@@ -9748,10 +9748,10 @@
   {
    "id": null,
    "Name": "11",
-   "Description": "The ice lolly on a stick was invented by accident in 1905 by an ____-year-old boy who left his drink outside on a cold night.",
-   "Category": "Inventions",
+   "Description": "The ice lolly on a stick was invented by accident in 1905 by a boy aged just ____ who left his drink outside on a cold night.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff."
   },
   {
    "id": null,
@@ -9804,10 +9804,10 @@
   {
    "id": null,
    "Name": "Sears",
-   "Description": "Bangladeshi-American engineer Fazlur Rahman Khan, whose designs made modern skyscrapers possible, was the structural engineer of Chicago's ____ Tower.",
-   "Category": "Inventions",
+   "Description": "Bangladeshi-American engineer Fazlur Rahman Khan, whose designs made modern skyscrapers possible, was the structural engineer of Chicago's ____ Tower (now called the Willis Tower).",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer."
   },
   {
    "id": null,
@@ -9852,10 +9852,10 @@
   {
    "id": null,
    "Name": "ajrak",
-   "Description": "Sindh's traditional block-printed shawl, dyed in deep red and indigo, is called an ____.",
-   "Category": "Pakistan Facts",
+   "Description": "Sindh's traditional block-printed shawl, dyed in deep red and indigo, is called the ____.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer."
   },
   {
    "id": null,
@@ -11376,6 +11376,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Challenger's amendment: an exact number (1453 to 1934) suits bluffing better than a fuzzy 'almost 500'."
+  },
+  {
+   "id": null,
+   "Name": "elephants",
+   "Description": "A single fluffy cumulus cloud can weigh about as much as 100 ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate USGS comparison (about 500 tonnes). Surprising, easy to bluff and not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "40",
+   "Description": "By slowing their heart rate, slow-moving sloths can hold their breath underwater for up to ____ minutes.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version. New animal fact without the disputed dolphin comparison."
+  },
+  {
+   "id": null,
+   "Name": "Morse",
+   "Description": "The barcode was inspired by ____ code, which its inventor stretched into lines while drawing in the sand on a beach.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-documented story about Joseph Woodland. New to the deck."
+  },
+  {
+   "id": null,
+   "Name": "trees",
+   "Description": "Scientists estimate there are more ____ on Earth than there are stars in the Milky Way.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): About 3 trillion trees against 100-400 billion stars. Accurate and new to the deck."
+  },
+  {
+   "id": null,
+   "Name": "teeth",
+   "Description": "A garden snail has thousands of tiny ____ lined up on its ribbon-like tongue.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate radula fact. The only existing snail card is about something else."
+  },
+  {
+   "id": null,
+   "Name": "steam trains",
+   "Description": "Changa Manga, near Lahore, one of the world's largest hand-planted forests, was first planted in the 1860s to supply firewood for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version. The original blank gave away its own answer. The planting's railway-fuel origin is a better bluffing hook."
+  },
+  {
+   "id": null,
+   "Name": "14",
+   "Description": "When Britain switched to the Gregorian calendar in 1752, people went to bed on 2 September and woke up on ____ September.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate odd history fact. New to the deck."
+  },
+  {
+   "id": null,
+   "Name": "snow",
+   "Description": "When Richard the Lionheart fell ill with fever during the Crusades, his enemy Salahuddin Ayyubi is said to have sent him fresh fruit and mountain ____ to cool his drinks.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A respectful, properly hedged chivalry story. It does not repeat the existing 1187 Salahuddin card."
   }
  ]
 }

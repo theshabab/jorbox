@@ -5325,13 +5325,13 @@
    "Name": "2.75G",
    "Description": "EDGE (c. 2003, upgrade between 2.5G and 3G)",
    "Category": "Mobile Network Generations (Chronological)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "2.75G",
     "Description": "EDGE",
     "Category": "Mobile Network Generations (Chronological)"
    },
-   "note": "added year; EDGE launched after first 3G but ranks between 2.5G and 3G by generation"
+   "note": "Debate: EDGE (2003) came after 3G (2001), so the card contradicts its 'Chronological' category. Removing it leaves 7 cards in correct order."
   },
   {
    "id": "game15-411",
@@ -6454,15 +6454,15 @@
   {
    "id": "game15-497",
    "Name": "Bishop",
-   "Description": "3",
+   "Description": "3 (usually rated a little above a knight)",
    "Category": "Chess Pieces (Relative Value)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Bishop",
     "Description": "3",
     "Category": "Chess Pieces (Relative Value)"
    },
-   "note": ""
+   "note": "Debate: The knight and bishop both showed 3. The common rating of the bishop as slightly stronger settles the order."
   },
   {
    "id": "game15-498",
@@ -28673,6 +28673,86 @@
    "Category": "Nintendo Home Consoles (Chronological)",
    "action": "add",
    "note": "New card (debate): The latest Nintendo console (Jun 2025). The seed's Nintendo category ends at Switch (2017), so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Fortnight",
+   "Description": "14 days",
+   "Category": "Time Units (Ascending)",
+   "action": "add",
+   "note": "New card (debate): Accurate, familiar unit that fits between Week and Month. It is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Going to Mina (Yawm al-Tarwiyah)",
+   "Description": "8 Dhul Hijjah",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version. Ihram timing differs by Hajj type, but every pilgrim goes to Mina on the 8th. Starts a new, accurate Hajj Rites category of 5 cards."
+  },
+  {
+   "id": null,
+   "Name": "Wuquf at Arafah",
+   "Description": "9 Dhul Hijjah, from midday to sunset",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Part of the new Hajj Rites category. Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Night at Muzdalifah",
+   "Description": "Night after Arafah (eve of 10 Dhul Hijjah)",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Part of the new Hajj Rites category. Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Stoning Jamarat al-Aqabah",
+   "Description": "10 Dhul Hijjah (Eid day), morning",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Part of the new Hajj Rites category. I dropped 'then Qurbani and Halq' because Qurbani is not required of Ifrad pilgrims; the date alone is accurate and enough to order the card."
+  },
+  {
+   "id": null,
+   "Name": "Stoning all three Jamarat",
+   "Description": "11-12 (or 13) Dhul Hijjah, Ayyam al-Tashreeq",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Part of the new Hajj Rites category. Accurate, and it comes last."
+  },
+  {
+   "id": null,
+   "Name": "The Hundred",
+   "Description": "100 balls per side (about 16.4 overs)",
+   "Category": "Cricket Formats (Length - Short to Long)",
+   "action": "add",
+   "note": "New card (debate): New cricket category that suits Pakistani players. Accurate twist: The Hundred is shorter than T20."
+  },
+  {
+   "id": null,
+   "Name": "T20",
+   "Description": "20 overs per side",
+   "Category": "Cricket Formats (Length - Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Part of the new Cricket Formats category."
+  },
+  {
+   "id": null,
+   "Name": "ODI",
+   "Description": "50 overs per side",
+   "Category": "Cricket Formats (Length - Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Part of the new Cricket Formats category."
+  },
+  {
+   "id": null,
+   "Name": "Test Match",
+   "Description": "Up to 5 days, two innings per side",
+   "Category": "Cricket Formats (Length - Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Part of the new Cricket Formats category."
   }
  ]
 }
