@@ -10108,10 +10108,10 @@
   {
    "id": null,
    "Name": "Andalusian",
-   "Description": "Fatima al-Fihri's sister Mariam founded the ____ Mosque in Fez, Morocco.",
-   "Category": "Islamic History",
+   "Description": "Mariam al-Fihri, whose sister founded the famous al-Qarawiyyin university, built the ____ Mosque in Fez, Morocco.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The current text names Fatima al-Fihri, which gives away the answer to the deck's al-Qarawiyyin founder card (692). The rewrite keeps her name hidden and is accurate: Mariam founded the Mosque of the Andalusians around 859."
   },
   {
    "id": null,
@@ -10540,10 +10540,10 @@
   {
    "id": null,
    "Name": "72",
-   "Description": "France's King Louis XIV holds the record for the longest reign of any major monarch: ____ years.",
-   "Category": "History Oddities",
+   "Description": "France's King Louis XIV reigned for ____ years, longer than any other king or queen in European history.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Challenger's amended version. 'Any major monarch' is vague and arguably false worldwide (Sobhuza II reigned about 82 years). 'Any monarch in Europe' would also be open to challenge (Count Bernhard VII of Lippe ruled about 81 years). 'King or queen' is a claim that holds up."
   },
   {
    "id": null,
@@ -11912,6 +11912,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): True (16 July 1990, Long March 2E, Xichang) and surprising. The deck has no space card."
+  },
+  {
+   "id": null,
+   "Name": "baking soda",
+   "Description": "Kashmiri chai gets its famous pink colour from green tea leaves and a pinch of ____ added while it is brewed.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate local food fact with good bluff potential. The deck has no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "fried",
+   "Description": "The word biryani is thought to come from the Persian \"birian\", meaning ____ before cooking.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Hedged, commonly cited etymology for a Pakistani staple. It matches the haleem, jalebi and samosa cards, and the deck has no biryani card."
+  },
+  {
+   "id": null,
+   "Name": "stigmas",
+   "Description": "Saffron, the world's most expensive spice, is made from the dried, thread-like ____ of a crocus flower.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate and surprising fact (Crocus sativus stigmas) with good bluff value. No duplicate."
+  },
+  {
+   "id": null,
+   "Name": "fragrant",
+   "Description": "The name of basmati rice, grown for centuries in the Punjab, comes from a word meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate etymology (Sanskrit/Hindi vasmati) with a local frame. The deck has no basmati card."
+  },
+  {
+   "id": null,
+   "Name": "bridges",
+   "Description": "Even though it carries more water than any other river, the Amazon has no ____ crossing its main channel.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, well-documented and surprising. It fills out the small Geography Oddities group, and the deck has no Amazon card."
+  },
+  {
+   "id": null,
+   "Name": "Canada",
+   "Description": "The country with the longest coastline in the world, more than 200,000 km, is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Canada's coastline is about 202,000 km and is consistently ranked longest. The card has plausible decoys, and the deck has no duplicate."
   }
  ]
 }

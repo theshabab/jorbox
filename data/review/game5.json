@@ -43090,13 +43090,13 @@
    "Name": "",
    "Description": "Instead of mithai, the rishta family brought ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Instead of roses, he gave me ____.",
     "Category": ""
    },
-   "note": "romance -> rishta"
+   "note": "Debate: Duplicate of lower id 2416"
   },
   {
    "id": "game5-3316",
@@ -43166,15 +43166,15 @@
   {
    "id": "game5-3321",
    "Name": "",
-   "Description": "Instructions unclear: finger stuck in ____.",
+   "Description": "Instructions unclear: head stuck in ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Instructions unclear: finger stuck in ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Finger stuck in' invites crude answers; 'head' keeps the meme and is family-friendly"
   },
   {
    "id": "game5-3322",
@@ -43259,13 +43259,13 @@
    "Name": "",
    "Description": "Is ____ an instrument?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Is ____ an instrument?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: SpongeBob/music reference (pop culture and music are banned), weak prompt without it"
   },
   {
    "id": "game5-3329",
@@ -43337,13 +43337,13 @@
    "Name": "",
    "Description": "Is that ____ stuck in your braces?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Is that ____ stuck in your braces?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as lower id 2604 'I just got some ____ stuck in my braces.'"
   },
   {
    "id": "game5-3335",
@@ -43519,13 +43519,13 @@
    "Name": "",
    "Description": "It is my belief that ____ would bring world peace.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "It is my belief that ____ would improve racial relations worldwide.",
     "Category": ""
    },
-   "note": "avoid racial answers"
+   "note": "Debate: Same meaning as lower id 346 'The secret to world peace is ____.'"
   },
   {
    "id": "game5-3349",
@@ -43597,13 +43597,13 @@
    "Name": "",
    "Description": "It took 11 years to process the paperwork, but you were finally awarded the Sitara-e-Imtiaz for ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "It may have taken 11 years to process the paperwork, but you were finally awarded the Medal of Honor for ____.",
     "Category": ""
    },
-   "note": "US medal -> Pakistani award"
+   "note": "Debate: Near-duplicate of lower id 2838"
   },
   {
    "id": "game5-3355",
@@ -45326,13 +45326,13 @@
    "Name": "",
    "Description": "Leading marriage experts suggest ____ to improve your marriage.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Leading marriage experts suggest ____ to improve your relationship.",
     "Category": ""
    },
-   "note": "Family-friendly"
+   "note": "Debate: Same meaning as lower id 3449 'Key to a healthy marriage: ____.'"
   },
   {
    "id": "game5-3488",
@@ -46080,13 +46080,13 @@
    "Name": "",
    "Description": "Love without ____ is an empty experience.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Love without ____ is an empty experience.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Twist on a Woody Allen line about sex, so it invites sexual/romance answers. The proposed chai rewrite would duplicate 124 'Chai is incomplete without ____.' (and the many other 'incomplete without' cards), so removing it is cleaner than editing"
   },
   {
    "id": "game5-3546",
@@ -46288,13 +46288,13 @@
    "Name": "",
    "Description": "Ammi always said life is like ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Mama always said life is like ____.",
     "Category": ""
    },
-   "note": "Localised"
+   "note": "Debate: Near-duplicate of lower id 2172 'Growing up, Ammi always told me life is like a box of ____.'"
   },
   {
    "id": "game5-3562",
@@ -46377,15 +46377,15 @@
   {
    "id": "game5-3568",
    "Name": "",
-   "Description": "Bilawal Bhutto's only accomplishment in the Senate was ____.",
+   "Description": "Bilawal Bhutto's only accomplishment in the National Assembly was ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Bilawal Bhutto's only accomplishment in the Senate was ____.",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Factual fix: Bilawal has been an MNA since 2018 and was never a senator"
   },
   {
    "id": "game5-3569",
@@ -46496,13 +46496,13 @@
    "Name": "",
    "Description": "Martial law was declared because ____ + ____ don't mix.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Martial law was declared because ____ + ____ don't mix.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of lower id 1765 (same two-blank martial-law setup)"
   },
   {
    "id": "game5-3578",
@@ -46936,7 +46936,7 @@
   {
    "id": "game5-3611",
    "Name": "",
-   "Description": "Michelangelo's newest painting is titled \"____.\"",
+   "Description": "A long-lost Michelangelo painting has just been found. It's titled \"____.\"",
    "Category": "",
    "action": "edit",
    "original": {
@@ -46944,7 +46944,7 @@
     "Description": "Michelangelo's newest painting is titled ____.",
     "Category": ""
    },
-   "note": "Punctuation"
+   "note": "Punctuation; Debate: Michelangelo died in 1564; a lost-painting framing keeps the joke and is accurate"
   },
   {
    "id": "game5-3612",
@@ -101765,6 +101765,78 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New angle on the well-known Murree monkeys."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Legend has it that the Lahore Fort is haunted by the ghost of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Ghosts are allowed; local landmark; existing haunted cards (479, 489) are different prompts"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Archaeologists at Mohenjo-daro have just dug up the world's oldest ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani history twist; no duplicate found"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu fixed the ceiling fan himself, and now it only spins when ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean family humour; no ceiling-fan card"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The cricket match was stopped because of rain, bad light and ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar local cricket joke; no duplicate"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Kids these days will never know the pain of downloading ____ on PTCL dial-up.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate local nostalgia; differs from existing 'Kids these days' prompts"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Me after the third dawat of the day: ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local version of the 'Me after...' pattern; existing dawat cards ask different things"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The neighbour's murgha started crowing at 3 a.m. because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Mohalla humour; no rooster card"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "It's not a real Pakistani road trip until Abbu refuses to stop for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar family road-trip joke; no duplicate"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Instead of a trophy, the winner of the mohalla cricket tournament got ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean local humour; no similar card"
   }
  ]
 }

@@ -26109,16 +26109,16 @@
   },
   {
    "id": "game15-2009",
-   "Name": "Vowels In \"Yoohoo\"",
+   "Name": "Fard Rakats in Zuhr",
    "Description": "4",
    "Category": "How Many? (Count)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Vowels In \"Yoohoo\"",
     "Description": "4",
     "Category": "How Many? (Count)"
    },
-   "note": ""
+   "note": "Debate: Replaces a weak gimmick card with an accurate, local Islamic item that keeps the value 4"
   },
   {
    "id": "game15-2010",
@@ -26216,13 +26216,13 @@
    "Name": "Eon",
    "Description": "About 1 billion years",
    "Category": "How Frequent? (Time)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Eon",
     "Description": "1 bil. years",
     "Category": "How Frequent? (Time)"
    },
-   "note": "expanded abbreviation"
+   "note": "Debate: An eon is a span of time of no fixed length, not a repeating event"
   },
   {
    "id": "game15-2018",
@@ -26408,8 +26408,8 @@
   },
   {
    "id": "game15-2032",
-   "Name": "Animorphs",
-   "Description": "54 (main series)",
+   "Name": "Famous Five (Enid Blyton)",
+   "Description": "21",
    "Category": "Number of Books in a Series",
    "action": "edit",
    "original": {
@@ -26417,7 +26417,7 @@
     "Description": "54",
     "Category": "Number of Books in a Series"
    },
-   "note": "clarified main series"
+   "note": "clarified main series; Debate: Animorphs is obscure for Pakistani players; Famous Five (21 novels) is well known and sorts cleanly between 13 and 62"
   },
   {
    "id": "game15-2033",
@@ -27188,16 +27188,16 @@
   },
   {
    "id": "game15-2092",
-   "Name": "Mean Whispers",
-   "Description": "30 dB",
+   "Name": "Whispering",
+   "Description": "About 30 dB",
    "Category": "Annoying Noises by Decibel",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Mean Whispers",
     "Description": "30 dB",
     "Category": "Annoying Noises by Decibel"
    },
-   "note": ""
+   "note": "Debate: Clearer wording, and 'About' matches the other cards"
   },
   {
    "id": "game15-2093",
@@ -27227,16 +27227,16 @@
   },
   {
    "id": "game15-2095",
-   "Name": "Leaf Blower",
-   "Description": "90 dB",
+   "Name": "Two-Stroke Rickshaw",
+   "Description": "About 90 dB",
    "Category": "Annoying Noises by Decibel",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Leaf Blower",
     "Description": "90 dB",
     "Category": "Annoying Noises by Decibel"
    },
-   "note": ""
+   "note": "Debate: A local item replaces a US suburban one and keeps the same position"
   },
   {
    "id": "game15-2096",
@@ -27919,104 +27919,104 @@
    "Name": "10 Paisa",
    "Description": "Rs 0.10 (old coin, no longer used)",
    "Category": "Pakistani Coins (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: The value is in the name, so the category has nothing to sort; the whole category is removed"
   },
   {
    "id": null,
    "Name": "25 Paisa",
    "Description": "Rs 0.25 (old coin, no longer used)",
    "Category": "Pakistani Coins (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "50 Paisa",
    "Description": "Rs 0.50 (old coin, no longer used)",
    "Category": "Pakistani Coins (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "1 Rupee Coin",
    "Description": "Re 1",
    "Category": "Pakistani Coins (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "2 Rupee Coin",
    "Description": "Rs 2",
    "Category": "Pakistani Coins (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "5 Rupee Coin",
    "Description": "Rs 5",
    "Category": "Pakistani Coins (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "10 Rupee Coin",
    "Description": "Rs 10",
    "Category": "Pakistani Coins (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "1 Riyal",
    "Description": "SAR 1",
    "Category": "Saudi Riyal Notes (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: The value is in the name, so the category has nothing to sort; the whole category is removed"
   },
   {
    "id": null,
    "Name": "5 Riyal",
    "Description": "SAR 5",
    "Category": "Saudi Riyal Notes (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "10 Riyal",
    "Description": "SAR 10",
    "Category": "Saudi Riyal Notes (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "50 Riyal",
    "Description": "SAR 50",
    "Category": "Saudi Riyal Notes (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "100 Riyal",
    "Description": "SAR 100",
    "Category": "Saudi Riyal Notes (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
    "Name": "500 Riyal",
    "Description": "SAR 500",
    "Category": "Saudi Riyal Notes (Value)",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Removed with the rest of the trivial category"
   },
   {
    "id": null,
@@ -29217,6 +29217,70 @@
    "Category": "Countries By Coastline Size (km)",
    "action": "add",
    "note": "New card (debate): The challenger's missed issue. Pakistan's coastline is 1,046 km (CIA World Factbook, the same source as the other values), which puts the home country at the low end below Madagascar."
+  },
+  {
+   "id": null,
+   "Name": "Ramadan Returns to the Same Calendar Date",
+   "Description": "About 33 years (lunar year is ~11 days shorter)",
+   "Category": "How Frequent? (Time)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: the 33-year cycle applies to the Gregorian date, not the season; sorts between Halley's Comet (76) and the sunspot cycle (11)"
+  },
+  {
+   "id": null,
+   "Name": "Pakistan General Election (Full Term)",
+   "Description": "5 years",
+   "Category": "How Frequent? (Time)",
+   "action": "add",
+   "note": "New card (debate): Local item that sorts cleanly between 7-10 years and 4 years"
+  },
+  {
+   "id": null,
+   "Name": "Surahs in the Quran",
+   "Description": "114",
+   "Category": "How Many? (Count)",
+   "action": "add",
+   "note": "New card (debate): Well-known, accurate Islamic count that sorts cleanly between 18 and 206"
+  },
+  {
+   "id": null,
+   "Name": "Kabaddi",
+   "Description": "7",
+   "Category": "Most Players on the Field (Per Team)",
+   "action": "add",
+   "note": "New card (debate): South Asian sport with a distinct value between 6 and 9"
+  },
+  {
+   "id": null,
+   "Name": "Battle of Nahavand",
+   "Description": "642 CE - Rashidun army defeats the Sasanian Persians",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate major battle that fits between 636 and 712"
+  },
+  {
+   "id": null,
+   "Name": "Third Battle of Panipat",
+   "Description": "1761 CE - Ahmad Shah Abdali defeats the Marathas",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Well-known South Asian battle that extends the timeline past 1526"
+  },
+  {
+   "id": null,
+   "Name": "Guava (Amrood)",
+   "Description": "About 8.9 g",
+   "Category": "Fruits - Sugar per 100 g (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Popular local fruit; USDA lists about 8.9 g, which falls between watermelon and apple"
+  },
+  {
+   "id": null,
+   "Name": "Hyderabad",
+   "Description": "~1.9 million",
+   "Category": "Pakistani Cities by Population (2023 Census)",
+   "action": "add",
+   "note": "New card (debate): Missing major city; the 2023 census gives about 1.92 million, which falls between Multan and Quetta"
   }
  ]
 }
