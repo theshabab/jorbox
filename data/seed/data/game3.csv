@@ -513,13 +513,13 @@ A great flood is coming and your rescue boat only has room for one more animal. 
 Your plane is going down and you have one extra parachute. You must save...,the billionaire|the parent|the surgeon,Morality
 You think your neighbour is a serial killer but you need proof. What you should do is...,tell everyone|lay a trap|break into their house,Morality
 You seriously dent a stranger’s car in a parking lot. You then...,get out of there|leave a note|try and fix it,Morality
-An ATM gives you twice the amount of money you requested. What you should do is...,keep it|turn it in|tell your grandmother,Morality
+An ATM gives you twice the amount of money you requested. What you should do is...,keep it|return it to the bank|tell your grandmother,Morality
 A ten-year-old eats a supermarket grape without paying. What you should do is...,report them|tell them to confess|give a thumbs up,Morality
 You find out the leader of your country is a space alien. But life for everyone has never been better. What you should do is...,turn them in|enjoy the ride|tip off the press,Morality
 A teammate wins your cricket final by secretly tampering with the ball. What you should do is...,turn them in|keep it secret|tip off the press,Morality
-You find out your beloved grandfather has been lying about being a war hero. What you should do is...,turn him in|keep it secret|tip off the press,Morality
-A good friend is worried they won’t graduate and asks to cheat off your test. What you should do is...,help them|refuse|turn them in,Morality
-You spot a coworker’s wedding ring in the sink. You must...,keep it|flush it and forget it|bring it to them,Morality
+You find out your beloved grandfather has been lying about being a war hero. What you should do is...,expose him to the family|keep it secret|tip off the press,Morality
+A good friend is worried they’ll fail the board exam and asks to copy from your paper. What you should do is...,help them|refuse|report them,Morality
+You spot a coworker’s wedding ring in the office sink. You must...,keep it|let it go down the drain|bring it to them,Morality
 You accidentally leave the tap running and flood a petrol pump washroom. What you should do is...,tell someone|fix it|leave a note,Morality
 Your child’s goldfish dies while they’re at school. You should then...,secretly replace it|leave it|dispose of it,Morality
 Your best friend’s spouse says your outfit looks terrible. You should...,get outraged|politely agree|change clothes immediately,Morality
@@ -533,7 +533,7 @@ You find a functioning World War II tank and then...,fight crime|sell it|tell no
 You gain the ability to turn invisible and then...,fight crime|get rich|tell no one,Morality
 You find your old roommate’s jacket in your house. It’s really expensive so you should...,drop it off|sell it online|keep it,Morality
 An old merchant gives you a doll that supposedly contains an evil spirit. You would...,keep it forever|sell it online|re-gift it,Morality
-A woman asks you to watch her purse while she goes to the restroom. You would...,refuse and leave|agree and stay|agree and leave,Morality
+A woman asks you to watch her purse while she goes to the washroom. You would...,refuse and leave|agree and stay|agree and leave,Morality
 You accidentally feed your vegetarian friend meat. You then...,confess right away|keep it secret|tell them it was paneer,Morality
 You find a coworker's secret diary. What you should do is...,read it|ignore it|return it,Morality
 Your plane is crashing and you’re one parachute short. You DON’T save...,the billionaire|the parent|the surgeon,Morality
@@ -552,8 +552,8 @@ Things at a Sunday Bazaar,Stalls|Vegetables|Fruit|Second-Hand Clothes|Shoes|Croc
 Things on a Pakistani Truck,Truck Art|Chamak Patti|Bells|Chains|Painted Eyes|Peacock|Eagle|Flowers|Poetry|Mountains|Wooden Doors|Mirrors|Horn|Headlights|Mud Flaps|Driver|Cleaner|Load|Tarpaulin|Spare Tyre,
 Things at an Airport,Runway|Terminal|Boarding Pass|Passport|Visa|Check-In Counter|Luggage|Trolley|Conveyor Belt|Security Check|Immigration|Customs|Gate|Departure Lounge|Pilot|Flight Attendant|Control Tower|Duty Free|Arrivals|Announcement,
 Things at a Dhaba,Charpai|Doodh Patti|Paratha|Daal|Karahi|Tandoor|Roti|Steel Glass|Water Jug|Truck|Waiter|Raita|Salad|Achaar|Fire|Smoke|Flies|Plastic Table|Chotu|Bill,
-Things in Ramadan,Sehri|Iftar|Roza|Taraweeh|Laylatul Qadr|Itikaf|Zakat|Fitrana|Siren|Azan|Dates|Rooh Afza|Pakoray|Fruit Chaat|Khatam ul Quran|Dua|Charity|Moon Sighting|Iftar Dawat|Sehri Wala Drum,
-Things on Hajj and Umrah,Ihram|Kaaba|Masjid al-Haram|Tawaf|Sai|Safa|Marwa|Zamzam|Hajar al-Aswad|Mina|Arafat|Muzdalifah|Rami|Talbiyah|Qurbani|Halq|Madinah|Masjid an-Nabawi|Tents|Pebbles,
+Things in Ramadan,Sehri|Iftar|Roza|Taraweeh|Laylatul Qadr|Itikaf|Zakat|Fitrana|Siren|Azan|Dates|Rooh Afza|Pakoray|Fruit Chaat|Khatam ul Quran|Dua|Jumma tul Wida|Moon Sighting|Iftar Dawat|Sehri Wala Drum,
+Things on Hajj and Umrah,Ihram|Kaaba|Masjid al-Haram|Tawaf|Sai|Safa|Marwa|Zamzam|Hajar al-Aswad|Mina|Arafat|Muzdalifah|Rami|Talbiyah|Qurbani|Halq|Madinah|Masjid an-Nabawi|Tents|Miqat,
 Things at a Barber Shop,Scissors|Comb|Razor|Trimmer|Clippers|Mirror|Chair|Cape|Shaving Foam|Brush|Spray Bottle|Hair Gel|Talcum Powder|Towel|Beard|Moustache|Head Massage|Waiting Bench|Newspaper|Hair on the Floor,
 Things in a Kiryana Store,Atta|Chawal|Cheeni|Daal|Ghee|Cooking Oil|Tea Leaves|Salt|Spices|Biscuits|Soap|Shampoo|Washing Powder|Eggs|Bread|Milk Packs|Toffees|Matchbox|Udhaar Register|Scale,
 Things in a Playground,Swing|Slide|See-Saw|Merry-Go-Round|Monkey Bars|Sandpit|Climbing Frame|Bench|Football|Cricket Bat|Ball|Cycle|Kite|Grass|Trees|Children|Ice Cream Cart|Fence|Gate|Water Tap,
@@ -568,12 +568,12 @@ Things at a Tailor's Shop,Darzi|Sewing Machine|Measuring Tape|Scissors|Thread|Ne
 Things in a Bakery,Bread|Bun|Rusk|Cake|Pastry|Patties|Cream Roll|Puff|Biscuits|Nan Khatai|Pizza|Doughnut|Muffin|Croissant|Oven|Dough|Icing|Display Counter|Birthday Candles|Baker,
 Vegetables,Aloo|Pyaz|Tamatar|Gobhi|Band Gobhi|Gajar|Mooli|Matar|Palak|Bhindi|Karela|Baingan|Lauki|Tinday|Shimla Mirch|Kheera|Shaljam|Arvi|Saag|Hari Mirch,
 Things in a Wallet or Handbag,Money|Coins|ID Card|ATM Card|Driving Licence|Receipts|Photo|Keys|Lip Balm|Comb|Mirror|Tissues|Hand Sanitiser|Pen|Phone|Charger|Sunglasses|Hair Clips|Chewing Gum|Visiting Card,
-Things in a Mechanic's Workshop,Spanner|Wrench|Screwdriver|Jack|Tyre|Engine|Battery|Grease|Engine Oil|Oil Filter|Spark Plug|Toolbox|Air Compressor|Welding|Puncture|Overalls|Rags|Chotu|Bonnet|Exhaust,
+Things in a Mechanic's Workshop,Spanner|Radiator|Screwdriver|Jack|Tyre|Engine|Battery|Grease|Engine Oil|Oil Filter|Spark Plug|Toolbox|Air Compressor|Welding|Puncture|Overalls|Rags|Chotu|Bonnet|Exhaust,
 Things at a Hotel,Reception|Room Key|Lobby|Lift|Bellboy|Luggage|Room Service|Buffet|Swimming Pool|Towels|Bathrobe|Mini Fridge|Do Not Disturb Sign|Check-In|Check-Out|Wi-Fi Password|Housekeeping|Wake-Up Call|Slippers|Bill,
 Things in a Science Lab,Beaker|Test Tube|Flask|Burner|Microscope|Slide|Magnifying Glass|Lab Coat|Goggles|Gloves|Thermometer|Funnel|Dropper|Litmus Paper|Periodic Table|Skeleton|Magnet|Battery|Chemicals|Lab Assistant,
 Things in a Fridge,Milk|Eggs|Butter|Yogurt|Water Bottles|Leftovers|Chutney|Ketchup|Lemons|Tomatoes|Green Chillies|Fruit|Cold Drink|Cheese|Ice Tray|Frozen Meat|Kebabs|Ice Cream|Medicine|Old Salan,
 Things at the Gym,Treadmill|Dumbbells|Barbell|Bench Press|Weights|Exercise Bike|Rowing Machine|Skipping Rope|Yoga Mat|Pull-Up Bar|Mirror|Trainer|Protein Shake|Water Bottle|Towel|Locker|Gloves|Sweat|Push-Ups|Squats,
-Things in a First Aid Kit,Bandage|Plaster|Cotton|Gauze|Antiseptic|Dettol|Tape|Scissors|Tweezers|Thermometer|Painkiller|Panadol|Burn Cream|Gloves|Safety Pins|Ice Pack|Sling|ORS|Ointment|Instructions,
+Things in a First Aid Kit,Bandage|Plaster|Cotton|Gauze|Antiseptic|Dettol|Tape|Scissors|Tweezers|Thermometer|Eye Drops|Panadol|Burn Cream|Gloves|Safety Pins|Ice Pack|Sling|ORS|Face Mask|Instructions,
 Things in the Northern Areas,Mountains|Glaciers|Snow|Lakes|Waterfalls|Pine Trees|Jeep|Landslide|Suspension Bridge|Yak|Apricots|Cherries|Trout|Camping|Bonfire|Hiking|Fort|Karakoram Highway|Shawl|Cold Wind,
 Things at a Picnic,Chatai|Basket|Sandwiches|Biryani|Cold Drinks|Thermos|Fruit|Chips|Cricket|Frisbee|Kite|Badminton|Ludo|Shade|Trees|Ants|Flies|Sunscreen|Photos|Rubbish Bag,
 Cars on Pakistani Roads,Mehran|Alto|Cultus|Wagon R|Swift|Bolan|Corolla|Civic|City|Vitz|Yaris|Prado|Land Cruiser|Fortuner|Hilux|Hiace|Sportage|Picanto|Cuore|Khyber,
@@ -765,3 +765,12 @@ Your neighbour parks his car in front of your gate every single night. You...,le
 You realise a shopkeeper gave you a fake Rs. 500 note in your change. You...,go back and complain|quietly spend it somewhere else|keep it as a souvenir,Morality
 Your younger sibling finds your old school report card full of bad marks. You...,bribe them to stay quiet|deny it is yours|proudly own it,Morality
 "At an iftar dinner, the host’s pakoras are burnt outside and raw inside. You...",eat them with a smile|politely skip them|offer cooking tips,Morality
+Things at a Construction Site,Bricks|Cement|Sand|Bajri|Sariya|Mistri|Mazdoor|Thekedar|Scaffolding|Crane|Concrete Mixer|Wheelbarrow|Shovel|Hard Hat|Tasla|Ladder|Tiles|Lenter|Chowkidar|Naqsha,
+Things in Gully Cricket,Tape Ball|Tennis Ball|Brick Stumps|Plastic Bat|One Tip One Hand|Broken Window|Angry Neighbour|Ball on the Roof|Passing Car|Last Man Batting|Bat Toss|Wall Hit Out|Underarm Bowling|Streetlight|Parked Bike in the Way|Gutter|Big Argument|Ammi Calling You Inside|Azan Break|Rule Changes,
+Things at a Dentist's Clinic,Dentist|Dental Chair|Drill|Mouth Mirror|Bright Light|X-Ray|Filling|Root Canal|Braces|Scaling|Cavity|Toothache|Extraction|False Teeth|Mouthwash|Rinse Cup|Numbing Injection|Waiting Room|Toothbrush|Swollen Cheek,
+Things on a Rickshaw,Driver|Meter|Back Seat|Side Curtains|Rexine Seat|Handlebar|Horn|Poetry Stickers|Decorative Lights|Rear-View Mirror|Number Plate|Smoke|Loud Engine|Fare Bargaining|Passengers|Luggage on Lap|CNG Kit|Tassels|Spare Tyre|Name Painted on the Back,
+Draw a gas cylinder.,Draw a fire extinguisher.|Draw an oxygen tank.|Draw a thermos.|Draw a water cooler.|Draw a pressure cooker.,Drawing 2
+Draw a sugarcane juice cart.,Draw a juice corner.|Draw a gola ganda stall.|Draw a sugarcane field.|Draw an ice cream cart.|Draw a chai dhaba.,Drawing 2
+Draw a dhobi ghat.,Draw a dry cleaner's shop.|Draw a long clothesline.|Draw a river.|Draw someone ironing.|Draw a washing machine.,Drawing 2
+The neighbour’s son hits a six straight through your window during gully cricket. You...,keep the ball|ask his parents to pay|join the game,Morality
+Someone ate the last mango in the fridge and only you know who it was. You...,tell Ammi|stay quiet|demand a share of the next one,Morality

@@ -16628,12 +16628,12 @@
    "id": "game7-1512",
    "Description": "<PLAYER>'s idea of a fun evening",
    "Category": "Friend Mode Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "<PLAYER>'s idea of a *fun night*",
     "Category": "Friend Mode Prompts"
    },
-   "note": "removed party connotation"
+   "note": "Debate: Near-duplicate of the earlier cards '<PLAYER>'s perfect Tuesday night' and '<PLAYER>'s idea of a perfect weekend'"
   },
   {
    "id": "game7-1513",
@@ -16650,12 +16650,12 @@
    "id": "game7-1514",
    "Description": "<PLAYER>'s idea of the perfect place",
    "Category": "Friend Mode Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "<PLAYER>'s vision of paradise",
     "Category": "Friend Mode Prompts"
    },
-   "note": "avoid depicting Paradise"
+   "note": "Debate: Same meaning as the earlier card '<PLAYER>'s utopia'"
   },
   {
    "id": "game7-1515",
@@ -16945,25 +16945,25 @@
   },
   {
    "id": "game7-1541",
-   "Description": "<PLAYER> going undercover at a high school",
+   "Description": "<PLAYER> going undercover as a student at their old school",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> going undercover at a high school",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces the US 'high school' and keeps the undercover joke"
   },
   {
    "id": "game7-1542",
    "Description": "<PLAYER> is always thinking about this",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "<PLAYER> is always thinking about this",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Same meaning as card 1543 '<PLAYER>'s current obsession' in this slice"
   },
   {
    "id": "game7-1543",
@@ -17000,25 +17000,25 @@
   },
   {
    "id": "game7-1546",
-   "Description": "the group <PLAYER> would lead",
+   "Description": "The group <PLAYER> would lead",
    "Category": "Friend Mode Prompts",
    "action": "edit",
    "original": {
     "Description": "<PLAYER> would lead this group",
     "Category": "Friend Mode Prompts"
    },
-   "note": "clearer wording"
+   "note": "clearer wording; Debate: Capitalisation fix to match the deck style"
   },
   {
    "id": "game7-1547",
-   "Description": "<PLAYER> in high school",
+   "Description": "<PLAYER> back in their Matric days",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> in high school",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Matric is the familiar Pakistani equivalent of high school"
   },
   {
    "id": "game7-1548",
@@ -17319,25 +17319,25 @@
   },
   {
    "id": "game7-1575",
-   "Description": "<PLAYER> being... patriotic???",
+   "Description": "<PLAYER> being extra patriotic on 14 August",
    "Category": "Friend Mode Prompts",
    "action": "edit",
    "original": {
     "Description": "<PLAYER> being.... patriotic ???",
     "Category": "Friend Mode Prompts"
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: A concrete local setting that is easy to draw"
   },
   {
    "id": "game7-1576",
-   "Description": "<PLAYER> is a cheap off-brand cereal mascot",
+   "Description": "<PLAYER> as the mascot of a cheap off-brand biscuit",
    "Category": "Friend Mode Prompts",
    "action": "edit",
    "original": {
     "Description": "<PLAYER> is a crappy off-brand cereal mascot",
     "Category": "Friend Mode Prompts"
    },
-   "note": "removed crude word"
+   "note": "removed crude word; Debate: Local frame; the joke is kept"
   },
   {
    "id": "game7-1577",
@@ -17385,14 +17385,14 @@
   },
   {
    "id": "game7-1581",
-   "Description": "<PLAYER> is in troouuuble for this one. moooom!!!",
+   "Description": "<PLAYER> is in troouuuble for this one. Ammiii!!!",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> is in troouuuble for this one. moooom!!!",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Ammi' is the natural local cry; capitalisation fixed"
   },
   {
    "id": "game7-1582",
@@ -17407,14 +17407,14 @@
   },
   {
    "id": "game7-1583",
-   "Description": "<PLAYER> would be \"athletic\" if this was a sport",
+   "Description": "<PLAYER> would be \"athletic\" if this were a sport",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> would be \"athletic\" if this was a sport",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Grammar: subjunctive 'were'"
   },
   {
    "id": "game7-1584",
@@ -19265,6 +19265,69 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Classic affectionate wedding food-rush scene; different from the existing wedding cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> painted on the back of a truck",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: Pakistani truck art, easy to draw and not a duplicate"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to wake up for sehri",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: a relatable Ramadan moment; the deck has no sehri card"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> dragging a stubborn bakra home from the mandi",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: a Bakra Eid scene that differs from the existing bakra cards"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> at the dhaba at 2 a.m.",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: a local late-night scene that differs from the dhaba chef card"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> on the rooftop in kite-flying season",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: a rooftop kite scene; the existing kite cards are Standard Prompts"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> when guests show up unannounced",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: classic desi household panic"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER>'s latest forward on the family WhatsApp group",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: affectionate and drawable; differs from the Standard WhatsApp card"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> the night before their exams",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: relatable; differs from the golf-cart exam card"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> lost in the Chand Raat bazaar crowd",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): New: an Eid-eve scene; the deck has no Chand Raat card"
   }
  ]
 }

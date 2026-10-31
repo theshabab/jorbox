@@ -8339,15 +8339,15 @@
   {
    "id": "game3-642",
    "Name": "An ATM gives you twice the amount of money you requested. What you should do is...",
-   "Description": "keep it|turn it in|tell your grandmother",
+   "Description": "keep it|return it to the bank|tell your grandmother",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "An ATM gives you twice the amount of money you requested. What you should do is...",
     "Description": "keep it|turn it in|tell your grandmother",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: 'Turn it in' is unclear for an ATM overpayment. 'Return it to the bank' is clear."
   },
   {
    "id": "game3-643",
@@ -8391,41 +8391,41 @@
   {
    "id": "game3-646",
    "Name": "You find out your beloved grandfather has been lying about being a war hero. What you should do is...",
-   "Description": "turn him in|keep it secret|tip off the press",
+   "Description": "expose him to the family|keep it secret|tip off the press",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "You find out your beloved grandfather has been lying about being a war hero. What you should do is...",
     "Description": "turn him in|keep it secret|tip off the press",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Nobody can be 'turned in' for lying about the past. The new option keeps the three-way dilemma."
   },
   {
    "id": "game3-647",
-   "Name": "A good friend is worried they won’t graduate and asks to cheat off your test. What you should do is...",
-   "Description": "help them|refuse|turn them in",
+   "Name": "A good friend is worried they’ll fail the board exam and asks to copy from your paper. What you should do is...",
+   "Description": "help them|refuse|report them",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A good friend is worried they won’t graduate and asks to cheat off your test. What you should do is...",
     "Description": "help them|refuse|turn them in",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Local board-exam wording replaces the US 'graduate/cheat off your test'."
   },
   {
    "id": "game3-648",
-   "Name": "You spot a coworker’s wedding ring in the sink. You must...",
-   "Description": "keep it|flush it and forget it|bring it to them",
+   "Name": "You spot a coworker’s wedding ring in the office sink. You must...",
+   "Description": "keep it|let it go down the drain|bring it to them",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "You spot a coworker’s wedding ring in the sink. You must...",
     "Description": "keep it|flush it and forget it|bring it to them",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: 'Flush it' suggests a toilet and doesn't fit a sink."
   },
   {
    "id": "game3-649",
@@ -8624,16 +8624,16 @@
   },
   {
    "id": "game3-664",
-   "Name": "A woman asks you to watch her purse while she goes to the restroom. You would...",
+   "Name": "A woman asks you to watch her purse while she goes to the washroom. You would...",
    "Description": "refuse and leave|agree and stay|agree and leave",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A woman asks you to watch her purse while she goes to the restroom. You would...",
     "Description": "refuse and leave|agree and stay|agree and leave",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: 'Restroom' is American. 'Washroom' is the local word."
   },
   {
    "id": "game3-665",
@@ -8797,18 +8797,18 @@
   {
    "id": null,
    "Name": "Things in Ramadan",
-   "Description": "Sehri|Iftar|Roza|Taraweeh|Laylatul Qadr|Itikaf|Zakat|Fitrana|Siren|Azan|Dates|Rooh Afza|Pakoray|Fruit Chaat|Khatam ul Quran|Dua|Charity|Moon Sighting|Iftar Dawat|Sehri Wala Drum",
+   "Description": "Sehri|Iftar|Roza|Taraweeh|Laylatul Qadr|Itikaf|Zakat|Fitrana|Siren|Azan|Dates|Rooh Afza|Pakoray|Fruit Chaat|Khatam ul Quran|Dua|Jumma tul Wida|Moon Sighting|Iftar Dawat|Sehri Wala Drum",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Charity overlapped Zakat and Fitrana as a secret word. Jumma tul Wida is distinct and well known."
   },
   {
    "id": null,
    "Name": "Things on Hajj and Umrah",
-   "Description": "Ihram|Kaaba|Masjid al-Haram|Tawaf|Sai|Safa|Marwa|Zamzam|Hajar al-Aswad|Mina|Arafat|Muzdalifah|Rami|Talbiyah|Qurbani|Halq|Madinah|Masjid an-Nabawi|Tents|Pebbles",
+   "Description": "Ihram|Kaaba|Masjid al-Haram|Tawaf|Sai|Safa|Marwa|Zamzam|Hajar al-Aswad|Mina|Arafat|Muzdalifah|Rami|Talbiyah|Qurbani|Halq|Madinah|Masjid an-Nabawi|Tents|Miqat",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Pebbles overlapped with Rami. Miqat is a distinct, accurate and well-known term."
   },
   {
    "id": null,
@@ -8925,10 +8925,10 @@
   {
    "id": null,
    "Name": "Things in a Mechanic's Workshop",
-   "Description": "Spanner|Wrench|Screwdriver|Jack|Tyre|Engine|Battery|Grease|Engine Oil|Oil Filter|Spark Plug|Toolbox|Air Compressor|Welding|Puncture|Overalls|Rags|Chotu|Bonnet|Exhaust",
+   "Description": "Spanner|Radiator|Screwdriver|Jack|Tyre|Engine|Battery|Grease|Engine Oil|Oil Filter|Spark Plug|Toolbox|Air Compressor|Welding|Puncture|Overalls|Rags|Chotu|Bonnet|Exhaust",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Spanner and Wrench are the same tool in Pakistani usage, so the card had synonymous secret words. Radiator replaces Wrench."
   },
   {
    "id": null,
@@ -8965,10 +8965,10 @@
   {
    "id": null,
    "Name": "Things in a First Aid Kit",
-   "Description": "Bandage|Plaster|Cotton|Gauze|Antiseptic|Dettol|Tape|Scissors|Tweezers|Thermometer|Painkiller|Panadol|Burn Cream|Gloves|Safety Pins|Ice Pack|Sling|ORS|Ointment|Instructions",
+   "Description": "Bandage|Plaster|Cotton|Gauze|Antiseptic|Dettol|Tape|Scissors|Tweezers|Thermometer|Eye Drops|Panadol|Burn Cream|Gloves|Safety Pins|Ice Pack|Sling|ORS|Face Mask|Instructions",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Painkiller/Panadol and Ointment/Burn Cream were near-duplicates. Eye Drops and Face Mask replace them (Cotton Buds would overlap with Cotton)."
   },
   {
    "id": null,
@@ -10497,6 +10497,78 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): New hospitality dilemma that stays respectful because it is about the food, not the fast. The only iftar card in the deck is a Writing prompt."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Construction Site",
+   "Description": "Bricks|Cement|Sand|Bajri|Sariya|Mistri|Mazdoor|Thekedar|Scaffolding|Crane|Concrete Mixer|Wheelbarrow|Shovel|Hard Hat|Tasla|Ladder|Tiles|Lenter|Chowkidar|Naqsha",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local topic not in the deck. Uses the familiar Lenter and Ladder instead of the obscure Lintel and Plumb Line."
+  },
+  {
+   "id": null,
+   "Name": "Things in Gully Cricket",
+   "Description": "Tape Ball|Tennis Ball|Brick Stumps|Plastic Bat|One Tip One Hand|Broken Window|Angry Neighbour|Ball on the Roof|Passing Car|Last Man Batting|Bat Toss|Wall Hit Out|Underarm Bowling|Streetlight|Parked Bike in the Way|Gutter|Big Argument|Ammi Calling You Inside|Azan Break|Rule Changes",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Very relatable Pakistani topic, separate from the cricket match and Cricket Terms cards. Uses the bat toss and drops the overlapping Lost Ball."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Dentist's Clinic",
+   "Description": "Dentist|Dental Chair|Drill|Mouth Mirror|Bright Light|X-Ray|Filling|Root Canal|Braces|Scaling|Cavity|Toothache|Extraction|False Teeth|Mouthwash|Rinse Cup|Numbing Injection|Waiting Room|Toothbrush|Swollen Cheek",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New clinic topic (the deck only has dentist as a drawing). Uses Mouth Mirror and Toothbrush in place of clumsier items."
+  },
+  {
+   "id": null,
+   "Name": "Things on a Rickshaw",
+   "Description": "Driver|Meter|Back Seat|Side Curtains|Rexine Seat|Handlebar|Horn|Poetry Stickers|Decorative Lights|Rear-View Mirror|Number Plate|Smoke|Loud Engine|Fare Bargaining|Passengers|Luggage on Lap|CNG Kit|Tassels|Spare Tyre|Name Painted on the Back",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Pakistani street topic. Speed Breakers are on the road, not on the rickshaw, so they were replaced."
+  },
+  {
+   "id": null,
+   "Name": "Draw a gas cylinder.",
+   "Description": "Draw a fire extinguisher.|Draw an oxygen tank.|Draw a thermos.|Draw a water cooler.|Draw a pressure cooker.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local household drawing whose decoys are similar shapes, so the impostor can blend in."
+  },
+  {
+   "id": null,
+   "Name": "Draw a sugarcane juice cart.",
+   "Description": "Draw a juice corner.|Draw a gola ganda stall.|Draw a sugarcane field.|Draw an ice cream cart.|Draw a chai dhaba.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Street-food drawing with close local decoys. A chai dhaba replaces the far-fetched sewing machine."
+  },
+  {
+   "id": null,
+   "Name": "Draw a dhobi ghat.",
+   "Description": "Draw a dry cleaner's shop.|Draw a long clothesline.|Draw a river.|Draw someone ironing.|Draw a washing machine.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local scene with bluffable decoys. A local dry cleaner replaces the Western laundromat."
+  },
+  {
+   "id": null,
+   "Name": "The neighbour’s son hits a six straight through your window during gully cricket. You...",
+   "Description": "keep the ball|ask his parents to pay|join the game",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean dilemma where all three options are defensible. No similar card exists."
+  },
+  {
+   "id": null,
+   "Name": "Someone ate the last mango in the fridge and only you know who it was. You...",
+   "Description": "tell Ammi|stay quiet|demand a share of the next one",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Light family dilemma that differs from the neighbour's mango tree card (785)."
   }
  ]
 }

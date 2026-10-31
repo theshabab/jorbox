@@ -2372,12 +2372,12 @@
   },
   {
    "id": "game12-264",
-   "Name": "Gravy",
-   "action": "keep",
+   "Name": "Salan",
+   "action": "edit",
    "original": {
     "Name": "Gravy"
    },
-   "note": ""
+   "note": "Debate: Gravy nearly duplicates Sauce (idx 513). Salan is a distinct, everyday Pakistani dish and is not yet in the deck."
   },
   {
    "id": "game12-265",
@@ -10007,6 +10007,66 @@
    "Name": "Eagle",
    "action": "add",
    "note": "New card (debate): Well-known animal that is not in the deck (Falcon is a separate card)."
+  },
+  {
+   "id": null,
+   "Name": "Imam",
+   "action": "add",
+   "note": "New card (debate): A familiar local figure who goes with Masjid, Muezzin and Prayer in the deck. Easy to describe (he leads the jamaat and gives the khutbah)."
+  },
+  {
+   "id": null,
+   "Name": "Hijab",
+   "action": "add",
+   "note": "New card (debate): An everyday item that is easy to mime and is different from Scarf and Dupatta. Not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Firefly",
+   "action": "add",
+   "note": "New card (debate): A drawable, nostalgic noun (jugnu) that is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Fingerprint",
+   "action": "add",
+   "note": "New card (debate): A concrete noun, familiar from NADRA and biometric SIM checks, that is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Slingshot",
+   "action": "add",
+   "note": "New card (debate): The childhood gulel is well known and easy to mime. It is different from Catapult, which is a siege weapon."
+  },
+  {
+   "id": null,
+   "Name": "Glacier",
+   "action": "add",
+   "note": "New card (debate): A drawable nature noun with a local link (Siachen, Baltoro) that is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Helicopter",
+   "action": "add",
+   "note": "New card (debate): A very actable vehicle that is missing from the deck (only Toy Plane and Drone are present)."
+  },
+  {
+   "id": null,
+   "Name": "Homework",
+   "action": "add",
+   "note": "New card (debate): A relatable everyday noun that is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Jail",
+   "action": "add",
+   "note": "New card (debate): An easy-to-act concrete noun. The deck has no Jail or Prison card."
+  },
+  {
+   "id": null,
+   "Name": "Kitchen",
+   "action": "add",
+   "note": "New card (debate): A common household place that is easy to describe and is not yet in the deck."
   }
  ]
 }
