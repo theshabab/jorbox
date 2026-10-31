@@ -2733,14 +2733,14 @@
   },
   {
    "id": "game16-249",
-   "Name": "What benefit do you bring to the group when you hang out with friends?",
+   "Name": "What role do you play in your friend group: the planner, the joker, the foodie or the one who is always late?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What benefit do you bring to the group when you hang out with friends?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: 'What benefit do you bring' is stiff and asks people to praise themselves. The role options make it light and easy to answer."
   },
   {
    "id": "game16-250",
@@ -2777,14 +2777,14 @@
   },
   {
    "id": "game16-253",
-   "Name": "What was the best period of your life so far?",
+   "Name": "What has been the best time of your life so far, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What was the best period of your life so far?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: plainer than 'best period', and with no fixed list of life stages it works for elders as well as young players."
   },
   {
    "id": "game16-254",
@@ -2866,13 +2866,13 @@
   {
    "id": "game16-261",
    "Name": "If you had to look after the qurbani goat before Eid, what would you name it?",
-   "Category": "Ice Breakers & Fun General",
+   "Category": "Desi Life & Culture Adaptations",
    "action": "edit",
    "original": {
     "Name": "What’s the best pet name you can come up with for a specific type of pet?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Debate: The original was awkward and overlapped 135; the local qurbani goat version is funnier."
+   "note": "Debate: The original was awkward and overlapped 135; the local qurbani goat version is funnier.; Debate: Desi-specific card moved to the existing Desi Life category."
   },
   {
    "id": "game16-262",
@@ -2932,24 +2932,24 @@
   {
    "id": "game16-267",
    "Name": "What is the strangest superstition you have heard from an elder (e.g., an itchy palm means money is coming)?",
-   "Category": "Ice Breakers & Fun General",
+   "Category": "Desi Life & Culture Adaptations",
    "action": "edit",
    "original": {
     "Name": "What are some strange beliefs that some people have?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Debate: The vague 'strange beliefs' invites mocking people's faith; this keeps the idea as a light, familiar desi superstition prompt."
+   "note": "Debate: The vague 'strange beliefs' invites mocking people's faith; this keeps the idea as a light, familiar desi superstition prompt.; Debate: Desi-specific card moved to the existing Desi Life category."
   },
   {
    "id": "game16-268",
    "Name": "Who would be the worst person to be stuck in a lift with during load shedding?",
-   "Category": "Ice Breakers & Fun General",
+   "Category": "Desi Life & Culture Adaptations",
    "action": "edit",
    "original": {
     "Name": "Who would be the worst person to be stuck in an elevator with?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Debate: Uses the local word 'lift' and adds a recognisable Pakistani twist."
+   "note": "Debate: Uses the local word 'lift' and adds a recognisable Pakistani twist.; Debate: Load shedding is a local topic; card moved to the Desi Life category."
   },
   {
    "id": "game16-269",
@@ -3239,14 +3239,14 @@
   },
   {
    "id": "game16-295",
-   "Name": "What was your favorite book as a child?",
+   "Name": "What was your favourite book, magazine or story series as a child (Taleem-o-Tarbiyat, Hamdard Naunehal, Inspector Jamshed)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What was your favorite book as a child?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: gives the existing childhood-book card a Pakistani angle (all examples are real) instead of adding a near-duplicate."
   },
   {
    "id": "game16-296",
@@ -3272,25 +3272,25 @@
   },
   {
    "id": "game16-298",
-   "Name": "What book genres do you like to read?",
+   "Name": "Do you prefer fiction or non-fiction, and which kinds of books do you enjoy most (novels, history, Islamic books, poetry)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What book genres do you like to read?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: merges card 301 into this one, and the examples no longer overlap."
   },
   {
    "id": "game16-299",
-   "Name": "How fast do you read?",
+   "Name": "Do you finish every book you start, or give up halfway?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "How fast do you read?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: 'How fast do you read?' gets a one-word answer; this keeps the reading-habit idea and starts a conversation."
   },
   {
    "id": "game16-300",
@@ -3307,23 +3307,23 @@
    "id": "game16-301",
    "Name": "What book has influenced you the most?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What book has influenced you the most?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Same meaning as live card 514 ('What's a book that changed your perspective on something?'), and the deck has many reading cards."
   },
   {
    "id": "game16-302",
    "Name": "Do you prefer fiction or nonfiction books?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Do you prefer fiction or nonfiction books?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of the revised 297, which now asks fiction vs non-fiction."
   },
   {
    "id": "game16-303",
@@ -3547,14 +3547,14 @@
   },
   {
    "id": "game16-323",
-   "Name": "How many apps do you have on your phone?",
+   "Name": "How many apps are on your phone, and how many do you actually use?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "How many apps do you have on your phone?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Adds a funny confession to a dull number question."
   },
   {
    "id": "game16-324",
@@ -4053,14 +4053,14 @@
   },
   {
    "id": "game16-369",
-   "Name": "What do you think of tour group packages?",
+   "Name": "Would you rather go on a group tour package (like a Northern Areas trip) or plan the whole trip yourself?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What do you think of tour group packages?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: The original was vague; this is a clear choice with a familiar local example."
   },
   {
    "id": "game16-370",
@@ -4152,14 +4152,14 @@
   },
   {
    "id": "game16-378",
-   "Name": "What do you think of staycations?",
+   "Name": "Would you rather spend a holiday exploring your own city or travelling somewhere far away?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What do you think of staycations?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Replaces the Western buzzword 'staycation' with plain words; same idea."
   },
   {
    "id": "game16-379",
@@ -7862,6 +7862,69 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Distinct from useless-talent and school-book cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the worst thing a darzi has ever done to your Eid clothes?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Relatable desi story prompt; the deck has no tailor card."
+  },
+  {
+   "id": null,
+   "Name": "Who is the family's unofficial tech support, and what is the strangest problem they have had to fix?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A family-story angle on technology; nothing similar in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Has your phone ever rung at the worst possible moment (in class, in a meeting, in the masjid)? What happened?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Funny and relatable; different from the phantom-vibration and wrong-message cards."
+  },
+  {
+   "id": null,
+   "Name": "Which restaurant dish have you tried to make at home, and how did it turn out?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A food story prompt; copying a restaurant dish makes it different from the existing cooking cards."
+  },
+  {
+   "id": null,
+   "Name": "Who is the most competitive person in your family at carrom or cricket, and how do they act when they lose?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Family-friendly sports card about behaviour, distinct from the gully-cricket and Ludo cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the most you have ever spent on one outfit, and was it worth it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Adds a spending angle on clothes that the fashion cards don't cover."
+  },
+  {
+   "id": null,
+   "Name": "What gadget from before smartphones do you secretly miss (a PTCL landline, a Casio calculator watch, a digital camera)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: every example is a real gadget, and none repeats the Nokia card."
+  },
+  {
+   "id": null,
+   "Name": "If you could make one sport compulsory in every Pakistani school, which would it be and why?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A local opinion question, distinct from the school-subject and next-sport-to-win cards."
+  },
+  {
+   "id": null,
+   "Name": "Which dish is worth travelling to another city just to eat (e.g., Peshawari chapli kabab, Multan's sohan halwa, Balochi sajji)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): The examples are accurate and the card is different from the biryani-city card."
   }
  ]
 }

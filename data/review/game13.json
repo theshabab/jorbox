@@ -2211,11 +2211,11 @@
   {
    "id": "game13-246",
    "Description": "Stand in a corner for 30 seconds without explaining why, until someone asks if you are okay.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Stand in a corner for 30 seconds without explaining why, until someone asks if you are okay."
    },
-   "note": ""
+   "note": "Debate: Same goal as card 224, breaks the 'Get a player to ...' format, and standing in a corner gives the mission away."
   },
   {
    "id": "game13-247",
@@ -2813,12 +2813,12 @@
   },
   {
    "id": "game13-313",
-   "Description": "Get a player to delete a photo from their phone.",
+   "Description": "Get a player to delete an unflattering photo of you from their phone.",
    "action": "edit",
    "original": {
     "Description": "Get a player to delete a photo."
    },
-   "note": "Debate: Small clarity fix."
+   "note": "Debate: Small clarity fix.; Debate: Gives the player a natural reason to delete the photo, so the mission can be done without looking suspicious."
   },
   {
    "id": "game13-314",
@@ -2858,12 +2858,12 @@
   },
   {
    "id": "game13-318",
-   "Description": "Get a player to record a voice note.",
-   "action": "keep",
+   "Description": "Get a player to send you a voice note.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to record a voice note."
    },
-   "note": ""
+   "note": "Debate: Sending it to you gives a clear finish that can be checked."
   },
   {
    "id": "game13-319",
@@ -2912,12 +2912,12 @@
   },
   {
    "id": "game13-324",
-   "Description": "Get a player to find something red.",
-   "action": "keep",
+   "Description": "Get a player to hand you something red.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to find something red."
    },
-   "note": ""
+   "note": "Debate: Handing it over gives a clear finish that can be checked."
   },
   {
    "id": "game13-325",
@@ -3029,12 +3029,12 @@
   },
   {
    "id": "game13-337",
-   "Description": "Get a player to pull their earlobes (Tauba style).",
-   "action": "keep",
+   "Description": "Get a player to hold their own earlobes to say sorry (kaan pakarna).",
+   "action": "edit",
    "original": {
     "Description": "Get a player to pull their earlobes (Tauba style)."
    },
-   "note": ""
+   "note": "Debate: Names and explains the local apology gesture more clearly than '(Tauba style)'."
   },
   {
    "id": "game13-338",
@@ -5105,6 +5105,36 @@
    "Description": "Get a player to ask you why you are wearing sunglasses indoors.",
    "action": "add",
    "note": "New card (debate): A visible, modest oddity for the 'ask you why' series. Unlike the one-sock version, it does not involve showing a bare foot."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to do five push-ups.",
+   "action": "add",
+   "note": "New card (debate): Harmless physical mission that is not in the deck. It fits beside the squat and hop cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Good morning' after sunset.",
+   "action": "add",
+   "note": "New card (debate): Funny slip that is easy to check and not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to spell their own name backwards out loud.",
+   "action": "add",
+   "note": "New card (debate): Not the same as the backwards-alphabet, Rawalpindi or count-backwards cards. It is harmless and easy to check."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to show you their WhatsApp status.",
+   "action": "add",
+   "note": "New card (debate): The owner allows social media missions, and this one is not in the deck. Card 29 is only about pronouncing the word 'Status'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to turn on their phone's hotspot for you.",
+   "action": "add",
+   "note": "New card (debate): A realistic favour at a gathering. It is not the same as the WiFi password or charger cards."
   }
  ]
 }

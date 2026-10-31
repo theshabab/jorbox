@@ -2228,12 +2228,12 @@
   },
   {
    "id": "game10-248",
-   "Name": "Tea: Strong or Milky?",
-   "action": "keep",
+   "Name": "Chai: Kadak or Milky?",
+   "action": "edit",
    "original": {
     "Name": "Tea: Strong or Milky?"
    },
-   "note": ""
+   "note": "Debate: The local wording (chai, kadak) sounds natural to players, and the card still differs from 'Chai or Coffee?'."
   },
   {
    "id": "game10-249",
@@ -2408,12 +2408,12 @@
   },
   {
    "id": "game10-268",
-   "Name": "Ride: Bike or Car?",
-   "action": "keep",
+   "Name": "Ride: Motorbike or Car?",
+   "action": "edit",
    "original": {
     "Name": "Ride: Bike or Car?"
    },
-   "note": ""
+   "note": "Debate: Naming the motorbike removes any doubt about bicycle versus motorbike."
   },
   {
    "id": "game10-269",
@@ -2462,12 +2462,12 @@
   },
   {
    "id": "game10-274",
-   "Name": "Seat: Front or Back (in car)?",
-   "action": "keep",
+   "Name": "Car: Front Seat or Back Seat?",
+   "action": "edit",
    "original": {
     "Name": "Seat: Front or Back (in car)?"
    },
-   "note": ""
+   "note": "Debate: Drops the clumsy '(in car)' aside and uses the deck's 'Topic: A or B?' format. 'Car Seat' could be read as a child's car seat, so this wording avoids that."
   },
   {
    "id": "game10-275",
@@ -2561,12 +2561,12 @@
   },
   {
    "id": "game10-285",
-   "Name": "Vegetable: Potato or Spinach?",
-   "action": "keep",
+   "Name": "Sabzi: Aloo or Palak?",
+   "action": "edit",
    "original": {
     "Name": "Vegetable: Potato or Spinach?"
    },
-   "note": ""
+   "note": "Debate: Uses the words players actually say and keeps the same choice."
   },
   {
    "id": "game10-286",
@@ -2633,21 +2633,21 @@
   },
   {
    "id": "game10-293",
-   "Name": "Name a reason to be happy.",
-   "action": "keep",
+   "Name": "Name something that instantly puts you in a good mood.",
+   "action": "edit",
    "original": {
     "Name": "Name a reason to be happy."
    },
-   "note": ""
+   "note": "Debate: The original was too open for a matching game. The new prompt draws common answers like chai, rain and good news."
   },
   {
    "id": "game10-294",
-   "Name": "Name something you can cook.",
-   "action": "keep",
+   "Name": "Name the first thing someone learns to cook.",
+   "action": "edit",
    "original": {
     "Name": "Name something you can cook."
    },
-   "note": ""
+   "note": "Debate: The challenger's amendment. 'Thing' rather than 'dish' keeps the most common answers (chai, anda, Maggi) valid."
   },
   {
    "id": "game10-295",
@@ -2660,12 +2660,12 @@
   },
   {
    "id": "game10-296",
-   "Name": "Name a person you admire.",
-   "action": "keep",
+   "Name": "Name a famous Pakistani you admire.",
+   "action": "edit",
    "original": {
     "Name": "Name a person you admire."
    },
-   "note": ""
+   "note": "Debate: 'A person you admire' gets personal answers that rarely match. A famous Pakistani draws shared answers like Quaid-e-Azam, Iqbal and Edhi."
   },
   {
    "id": "game10-297",
@@ -2723,12 +2723,12 @@
   },
   {
    "id": "game10-303",
-   "Name": "Name a happy day in someone's life.",
+   "Name": "Name one of the happiest days in someone's life.",
    "action": "edit",
    "original": {
     "Name": "Name a memory you cherish."
    },
-   "note": "too personal; made answerable"
+   "note": "too personal; made answerable; Debate: Clearer wording that points to common answers such as a wedding, Eid or result day."
   },
   {
    "id": "game10-304",
@@ -5858,6 +5858,60 @@
    "Name": "Name something siblings have to share at home.",
    "action": "add",
    "note": "New card (debate): Asks for shared items rather than causes of fights (219). Clear common answers (room, remote, charger)."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do at a wedding while waiting for the food.",
+   "action": "add",
+   "note": "New card (debate): A relatable wedding prompt with common answers. It does not duplicate the deck's other wedding cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do when the restaurant bill arrives.",
+   "action": "add",
+   "note": "New card (debate): A funny desi social prompt with shared answers. Nothing like it is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something you say when you hear good news.",
+   "action": "add",
+   "note": "New card (debate): Strong matching answers (MashaAllah, Alhamdulillah, Mubarak ho), with the Islamic phrases used correctly."
+  },
+  {
+   "id": null,
+   "Name": "Name a word Pakistanis say when they are shocked.",
+   "action": "add",
+   "note": "New card (debate): A fun local prompt that asks for words. The existing 'What do people do when surprised?' asks for actions."
+  },
+  {
+   "id": null,
+   "Name": "Name a Pakistani city famous for a particular food.",
+   "action": "add",
+   "note": "New card (debate): Answers cluster on Lahore, Multan, Peshawar and Karachi. It is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Roti: Tandoor or Homemade?",
+   "action": "add",
+   "note": "New card (debate): A local either-or split. It differs from the existing card that asks for the best type of roti or naan."
+  },
+  {
+   "id": null,
+   "Name": "Mango: Sliced or Choos Ke?",
+   "action": "add",
+   "note": "New card (debate): The challenger's amendment uses the natural phrase 'choos ke'. It differs from Sindhri vs Chaunsa."
+  },
+  {
+   "id": null,
+   "Name": "Sehri: Wake Up Early or At the Last Minute?",
+   "action": "add",
+   "note": "New card (debate): The challenger's grammatical version. A relatable Ramazan choice that the deck's food-only sehri cards do not cover."
+  },
+  {
+   "id": null,
+   "Name": "Holiday: Northern Areas or Abroad?",
+   "action": "add",
+   "note": "New card (debate): A real local travel split that differs from Mountains vs Beach and Hunza vs Swat."
   }
  ]
 }
