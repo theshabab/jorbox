@@ -887,6 +887,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-885','game1','Muhammad Ali Jinnah','Quaid-e-Azam, founder of Pakistan','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-886','game1','Liaquat Ali Khan','First Prime Minister, Shaheed-e-Millat','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-887','game1','Istanbul','Former Constantinople, on the Bosphorus','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-888','game1','Gilgit','Northern city on the Karakoram Highway','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-889','game1','Muzaffarabad','Capital of Azad Kashmir, where rivers meet','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-890','game1','Chiniot','Punjab city famous for carved wooden furniture','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-891','game1','Paratha','Flaky, ghee-layered flatbread for breakfast','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-892','game1','Qeema','Spiced minced meat, often with matar','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-893','game1','Khichdi','Soft rice-and-daal dish for sick days','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-894','game1','Chana Chaat','Tangy chickpea salad at iftar','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-895','game1','Star Anise','Badiyan; star-shaped spice in pulao','Spices');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-896','game1','Chikoo','Brown, grainy-sweet fruit (sapodilla)','Fruits');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-897','game1','Persimmon','Japani phal; soft orange autumn fruit','Fruits');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');
