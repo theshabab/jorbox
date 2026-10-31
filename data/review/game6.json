@@ -1265,12 +1265,12 @@
   },
   {
    "id": "game6-141",
-   "Description": "Pakistani National Songs",
-   "action": "keep",
+   "Description": "Milli Naghmay (Pakistani National Songs)",
+   "action": "edit",
    "original": {
     "Description": "Pakistani National Songs"
    },
-   "note": "Restored: allowed by deck owner"
+   "note": "Restored: allowed by deck owner; Debate: Uses the term players know, makes clear there are many answers rather than just the anthem, and follows the deck's 'Mithai (Pakistani Sweets)' style. The owner allows milli naghmay."
   },
   {
    "id": "game6-142",
@@ -1670,12 +1670,12 @@
   },
   {
    "id": "game6-186",
-   "Description": "Pakistani Schools",
-   "action": "keep",
+   "Description": "Famous Pakistani Schools and School Chains",
+   "action": "edit",
    "original": {
     "Description": "Pakistani Schools"
    },
-   "note": ""
+   "note": "Debate: Stops players reading it as school types and points them to named schools (Beaconhouse, City School, Aitchison and so on). Matches 'Famous Pakistani Hospitals'."
   },
   {
    "id": "game6-187",
@@ -2141,9 +2141,9 @@
   },
   {
    "id": null,
-   "Description": "Cold Drinks",
+   "Description": "Cold Drink Brands",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Separates it from 'Pakistani Beverages'. In Pakistan a 'cold drink' means a soda, and there are plenty of brands to name."
   },
   {
    "id": null,
@@ -2177,9 +2177,9 @@
   },
   {
    "id": null,
-   "Description": "Things That Are Hot",
+   "Description": "Things That Are Hot (Not Spicy)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Removes the overlap with 'Things That Are Spicy' and follows the deck's existing 'Hard (Not Soft)' pattern."
   },
   {
    "id": null,
@@ -3302,6 +3302,54 @@
    "Description": "Things That Go in Biryani",
    "action": "add",
    "note": "New card (debate): A fun ingredient card like Things You Put in Chaat (321), with non-spice answers (aloo, alu bukhara, dahi, piyaz, kewra, zafran) that set it apart from Spices (8)."
+  },
+  {
+   "id": null,
+   "Description": "Things in an Almari (Cupboard)",
+   "action": "add",
+   "note": "New card (debate): A relatable household card with many answers, different from 'Bedroom Items' and not already in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Transparent (See-Through)",
+   "action": "add",
+   "note": "New card (debate): A new property card with many answers. It overlaps only a little with 'Things Made of Glass'."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Long",
+   "action": "add",
+   "note": "New card (debate): An open shape card with many answers, different from 'Tall' and not already in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things Kids Collect",
+   "action": "add",
+   "note": "New card (debate): Nostalgic for families, with enough well-known answers (marbles, stamps, wrappers, cricket cards, coins, stickers); not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things a Baby Needs",
+   "action": "add",
+   "note": "New card (debate): Everyone knows the answers (feeder, Cerelac, jhoola, chusni, pram); not in the deck and different from 'Baby Animals'."
+  },
+  {
+   "id": null,
+   "Description": "Things Shopkeepers Say",
+   "action": "add",
+   "note": "New card (debate): A funny local card with many recognisable lines; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do on a Long Car Journey",
+   "action": "add",
+   "note": "New card (debate): A relatable family-trip card, different from 'Things You Pack for Travel' and 'Things in Abbu's Car'."
+  },
+  {
+   "id": null,
+   "Description": "Gully Cricket Rules and Sayings",
+   "action": "add",
+   "note": "New card (debate): I took the challenger's amended version: adding the well-known gully rules gives a bigger answer pool than catchphrases alone. It stays different from 'Cricket Terms' and 'Things at a Cricket Match'."
   }
  ]
 }

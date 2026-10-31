@@ -8223,11 +8223,11 @@
   {
    "id": "game12-914",
    "Name": "Can of Beans",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Can Of Beans"
    },
-   "note": "title case"
+   "note": "Debate: Near-duplicate of Tin Can; Western baked-beans pantry item"
   },
   {
    "id": "game12-915",
@@ -8448,11 +8448,11 @@
   {
    "id": "game12-939",
    "Name": "Lemon",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Lemon"
    },
-   "note": ""
+   "note": "Debate: Indistinguishable from the live Lime card (both nimbu) when drawn or acted"
   },
   {
    "id": "game12-940",
@@ -8466,11 +8466,11 @@
   {
    "id": "game12-941",
    "Name": "Cookie Jar",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Cookie Jar"
    },
-   "note": ""
+   "note": "Debate: Duplicates Jar, Jam Jar and Cookie; matches earlier removal of Cookie Tin"
   },
   {
    "id": "game12-942",
@@ -8502,11 +8502,11 @@
   {
    "id": "game12-945",
    "Name": "Whipped Cream",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Whipped Cream"
    },
-   "note": ""
+   "note": "Debate: Duplicates Cream and Ice Cream and is a Western dessert topping; renaming it Malai would just be another Cream duplicate"
   },
   {
    "id": "game12-946",
@@ -8520,11 +8520,11 @@
   {
    "id": "game12-947",
    "Name": "Jar of Peanut Butter",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Jar Of Peanut Butter"
    },
-   "note": "title case"
+   "note": "Debate: A phrase rather than a single noun, duplicates Jar/Jam Jar, and is US-centric"
   },
   {
    "id": "game12-948",
@@ -8786,9 +8786,9 @@
   },
   {
    "id": null,
-   "Name": "Shalwar",
+   "Name": "Shalwar Kameez",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The full national dress is a standard compound noun and easier to act out or draw than the trousers alone"
   },
   {
    "id": null,
@@ -9731,6 +9731,66 @@
    "Name": "Water Tanker",
    "action": "add",
    "note": "New card (debate): A distinctly Pakistani urban truck that is easy to describe. It is not in the deck, and Tank and Truck are different ideas."
+  },
+  {
+   "id": null,
+   "Name": "Mithai",
+   "action": "add",
+   "note": "New card (debate): Staple celebration sweets; not in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Sheer Khurma",
+   "action": "add",
+   "note": "New card (debate): Iconic Eid dish; not in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Chaand Raat",
+   "action": "add",
+   "note": "New card (debate): Well-known Eid-eve night; not in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Truck Art",
+   "action": "add",
+   "note": "New card (debate): Distinctly Pakistani and drawable; different from Truck"
+  },
+  {
+   "id": null,
+   "Name": "Bun Kabab",
+   "action": "add",
+   "note": "New card (debate): Classic street food different from Kebab"
+  },
+  {
+   "id": null,
+   "Name": "Gajra",
+   "action": "add",
+   "note": "New card (debate): Common jasmine flower bracelet; not in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Peshawari Chappal",
+   "action": "add",
+   "note": "New card (debate): Famous local footwear, different from Khussa and Sandal"
+  },
+  {
+   "id": null,
+   "Name": "Wuzu",
+   "action": "add",
+   "note": "New card (debate): Ablution is easy to act out respectfully; common Pakistani spelling; not in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Azaan",
+   "action": "add",
+   "note": "New card (debate): The call to prayer is universally known to players and is not in the deck; fits Jainamaz/Tasbeeh/Topi"
+  },
+  {
+   "id": null,
+   "Name": "Cricket Ball",
+   "action": "add",
+   "note": "New card (debate): Only Cricket Bat and Tennis Ball exist; the hard ball is an obvious local noun"
   }
  ]
 }

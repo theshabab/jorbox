@@ -1013,12 +1013,12 @@
   },
   {
    "id": "game10-113",
-   "Name": "Name something you find in a lady's purse.",
-   "action": "keep",
+   "Name": "Name something you always find in Ammi's handbag.",
+   "action": "edit",
    "original": {
     "Name": "Name something you find in a lady's purse."
    },
-   "note": ""
+   "note": "Debate: More local framing with the same common answers (tissues, keys, money, balm). Not a duplicate."
   },
   {
    "id": "game10-114",
@@ -1445,12 +1445,12 @@
   },
   {
    "id": "game10-161",
-   "Name": "What is the perfect weather temperature?",
-   "action": "keep",
+   "Name": "What is the perfect weather temperature (in °C)?",
+   "action": "edit",
    "original": {
     "Name": "What is the perfect weather temperature?"
    },
-   "note": ""
+   "note": "Debate: Pakistan uses Celsius. Naming the unit lets numeric answers match."
   },
   {
    "id": "game10-162",
@@ -1490,12 +1490,12 @@
   },
   {
    "id": "game10-166",
-   "Name": "What is an acceptable length for a phone call?",
+   "Name": "What is an acceptable length for a phone call (in minutes)?",
    "action": "edit",
    "original": {
     "Name": "What is the acceptable duration for a phone call?"
    },
-   "note": "wording"
+   "note": "wording; Debate: A fixed unit makes answers comparable."
   },
   {
    "id": "game10-167",
@@ -1616,12 +1616,12 @@
   },
   {
    "id": "game10-180",
-   "Name": "How much money makes someone \"rich\"?",
+   "Name": "How much money makes someone \"rich\" (in rupees)?",
    "action": "edit",
    "original": {
     "Name": "How much money is \"Rich\"?"
    },
-   "note": "Debate: Fixes the awkward grammar and the wrong capital in \"Rich\"."
+   "note": "Debate: Fixes the awkward grammar and the wrong capital in \"Rich\".; Debate: Naming the currency makes numeric answers comparable, and the wording is cleaner."
   },
   {
    "id": "game10-181",
@@ -1787,12 +1787,12 @@
   },
   {
    "id": "game10-199",
-   "Name": "Name a habit that annoys parents the most.",
-   "action": "keep",
+   "Name": "Name a habit of kids that annoys parents the most.",
+   "action": "edit",
    "original": {
     "Name": "Name a habit that annoys parents the most."
    },
-   "note": ""
+   "note": "Debate: Says whose habit is meant, so answers converge."
   },
   {
    "id": "game10-200",
@@ -1895,12 +1895,12 @@
   },
   {
    "id": "game10-211",
-   "Name": "Name a vegetable used in every curry.",
-   "action": "keep",
+   "Name": "Name a vegetable used in almost every salan.",
+   "action": "edit",
    "original": {
     "Name": "Name a vegetable used in every curry."
    },
-   "note": ""
+   "note": "Debate: Fixes a claim that is literally false and uses the local word. Answers stay the same."
   },
   {
    "id": "game10-212",
@@ -5822,6 +5822,42 @@
    "Name": "Winter Snack: Moongphali or Chilgoza?",
    "action": "add",
    "note": "New card (debate): A funny and very Pakistani winter choice. It is a choice card, not a duplicate of the winter snack prompt."
+  },
+  {
+   "id": null,
+   "Name": "Name something people lose at the masjid.",
+   "action": "add",
+   "note": "New card (debate): Classic, respectful local joke with strong answers. Distinct from 516 ('something you find in a masjid')."
+  },
+  {
+   "id": null,
+   "Name": "Name something Pakistanis reuse instead of throwing away.",
+   "action": "add",
+   "note": "New card (debate): Relatable, with convergent answers (ice cream tubs, shopper bags, biscuit tins). Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a fruit with a guthli (stone) inside.",
+   "action": "add",
+   "note": "New card (debate): The facts check out (mango, aloo bukhara, khajoor, peach, apricot, cherry) and the answers are clear. Different from 111 ('fruit with seeds') and 135 ('fruit you peel')."
+  },
+  {
+   "id": null,
+   "Name": "Name a common excuse for not picking up the phone.",
+   "action": "add",
+   "note": "New card (debate): The existing excuse cards (12, 647, 691) cover lateness, school and homework, not missed calls. Strong common answers."
+  },
+  {
+   "id": null,
+   "Name": "Name an appliance that pushes up the electricity bill.",
+   "action": "add",
+   "note": "New card (debate): Very local and relatable (AC, heater, iron, motor). Distinct from 640, 119 and 209."
+  },
+  {
+   "id": null,
+   "Name": "Name something siblings have to share at home.",
+   "action": "add",
+   "note": "New card (debate): Asks for shared items rather than causes of fights (219). Clear common answers (room, remote, charger)."
   }
  ]
 }
