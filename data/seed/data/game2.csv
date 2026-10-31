@@ -2,13 +2,13 @@ Name,Description,Category
 Karachi,Sea | Quaid | Sindh | Port | Biggest,Pakistani Cities
 Lahore,Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food,Pakistani Cities
 Islamabad,Capital | Faisal Mosque | Margalla | Pindi | Government,Pakistani Cities
-Rawalpindi,Pindi | Army | GHQ | Twin City | Islamabad,Pakistani Cities
-Faisalabad,Textile | Clock Tower | Ghanta Ghar | Lyallpur | Manchester,Pakistani Cities
+Rawalpindi,Raja Bazaar | Army | GHQ | Twin City | Islamabad,Pakistani Cities
+Faisalabad,Textile | Punjab | Ghanta Ghar | Lyallpur | Manchester,Pakistani Cities
 Multan,Mango | Saints | Shrines | Heat | Sohan Halwa,Pakistani Cities
 Peshawar,KPK | Pathan | Qissa Khwani | Chapli Kabab | Khyber,Pakistani Cities
 Quetta,Balochistan | Capital | Cold | Hazara | Dry Fruit,Pakistani Cities
 Sialkot,Football | Sports Goods | Iqbal | Cricket Bats | Export,Pakistani Cities
-Gujranwala,Pehlwan | Wrestlers | Food | GT Road | Punjab,Pakistani Cities
+Gujranwala,Pehlwan | Lahore | Food | GT Road | Punjab,Pakistani Cities
 Hyderabad,Sindh | Bangles | Rabri | Pakka Qila | India,Pakistani Cities
 Abbottabad,PMA | Army | Kakul | Hills | Hazara,Pakistani Cities
 Murree,Hill Station | Snow | Mall Road | Pindi | Holiday,Pakistani Cities
@@ -18,9 +18,9 @@ Sargodha,Air Force | Kinnow | Oranges | Shaheen | Punjab,Pakistani Cities
 Gujrat,Fans | Pottery | Chenab | Punjab | Chaudhry,Pakistani Cities
 Larkana,Bhutto | Mohenjo-daro | Sindh | PPP | Garhi Khuda Bakhsh,Pakistani Cities
 Sheikhupura,Lahore | Punjab | Industry | Hiran Minar | Jahangir,Pakistani Cities
-Jhelum,River | Army | Rohtas Fort | GT Road | Soldiers,Pakistani Cities
+Jhelum,River | Army | Rohtas Fort | GT Road | Mangla,Pakistani Cities
 Mardan,KPK | Pathan | Sugarcane | Peshawar | Takht Bhai,Pakistani Cities
-Kasur,Bulleh Shah | Methi | Border | Andrassay | Falooda,Pakistani Cities
+Kasur,Bulleh Shah | Methi | Border | Andarsay | Falooda,Pakistani Cities
 Rahim Yar Khan,Sheikh Zayed | Cotton | Sugar | South Punjab | Bahawalpur,Pakistani Cities
 Sahiwal,Cow | Buffalo | Harappa | Milk | Montgomery,Pakistani Cities
 Okara,Potato | Farming | Punjab | Renala | Sahiwal,Pakistani Cities
@@ -33,13 +33,13 @@ Korma,Yogurt | Dahi | Shaadi | Gravy | White,Traditional Dishes
 Sajji,Balochi | Whole Chicken | Skewer | Lamb | Roast,Traditional Dishes
 Chapli Kabab,Peshawar | Flat | Mince | Tomato | Pathan,Traditional Dishes
 Seekh Kabab,Skewer | Mince | BBQ | Long | Coal,Traditional Dishes
-Paye,Trotters | Feet | Legs | Breakfast | Naan,Traditional Dishes
+Paye,Trotters | Feet | Siri | Breakfast | Naan,Traditional Dishes
 Halwa Puri,Breakfast | Sunday | Chana | Sooji | Fried,Traditional Dishes
-Saag,Sarson | Mustard | Spinach | Punjab | Green,Traditional Dishes
-Makki Ki Roti,Corn | Saag | Sarson | Punjab | Butter,Traditional Dishes
+Saag,Sarson | Spinach | Makki | Punjab | Green,Traditional Dishes
+Makki Ki Roti,Corn | Saag | Winter | Punjab | Butter,Traditional Dishes
 Daal Chawal,Lentils | Rice | Simple | Achaar | Ghar,Traditional Dishes
 Aloo Gosht,Potato | Meat | Mutton | Shorba | Salan,Traditional Dishes
-Koftay,Meatballs | Mince | Qeema | Balls | Gravy,Traditional Dishes
+Koftay,Meatballs | Mince | Qeema | Round | Gravy,Traditional Dishes
 Katakat,Brain | Kidney | Tawa | Noise | Organs,Traditional Dishes
 Chargha,Chicken | Lahore | Whole | Fried | Steamed,Traditional Dishes
 Tikka,BBQ | Chicken | Boti | Coal | Red,Traditional Dishes
@@ -47,7 +47,7 @@ Malai Boti,Cream | Chicken | BBQ | White | Boneless,Traditional Dishes
 Reshmi Kabab,Silky | Soft | Chicken | Mince | Cream,Traditional Dishes
 Gola Kabab,Round | Soft | Mince | Karachi | Melt,Traditional Dishes
 Bihari Kabab,Karachi | Thread | Beef | Papaya | Smoky,Traditional Dishes
-Kunna,Chiniot | Clay Pot | Mutton | Matka | Slow Cooked,Traditional Dishes
+Kunna,Chiniot | Clay Pot | Mutton | Punjab | Slow Cooked,Traditional Dishes
 Bong Paye,Bone Marrow | Nalli | Beef | Lahore | Shank,Traditional Dishes
 Salt,Namak | Sea | Khewra | White | Pinch,Spices
 Pepper,Kali Mirch | Black | Sneeze | Salt | Grinder,Spices
@@ -58,7 +58,7 @@ Cardamom,Elaichi | Green | Chai | Pod | Kheer,Spices
 Cinnamon,Darchini | Bark | Stick | Qehwa | Brown,Spices
 Clove,Laung | Toothache | Biryani | Nail | Oil,Spices
 Nutmeg,Jaifal | Brown | Grated | Mace | Seed,Spices
-Saffron,Zafran | Expensive | Kesar | Orange | Strands,Spices
+Saffron,Zafran | Expensive | Zarda | Orange | Strands,Spices
 Fennel,Saunf | Green | Seeds | Digestion | Mouth Freshener,Spices
 Fenugreek,Methi | Bitter | Leaves | Seeds | Aloo,Spices
 Mustard Seeds,Rai | Sarson | Yellow | Black | Tarka,Spices
@@ -97,7 +97,7 @@ Kinnow,Sargodha | Orange | Malta | Winter | Peel,Fruits
 Falsa,Purple | Sharbat | Summer | Small | Sour,Fruits
 Jamun,Purple | Tongue | Black | Salt | Monsoon,Fruits
 Potato,Aloo | Fries | Chips | Mash | Samosa,Vegetables
-Onion,Pyaz | Cry | Tears | Layers | Purple,Vegetables
+Onion,Pyaz | Cry | Layers | Purple | Pakora,Vegetables
 Tomato,Tamatar | Red | Ketchup | Sauce | Salad,Vegetables
 Garlic,Lehsan | Smell | Breath | Adrak | Cloves,Vegetables
 Spinach,Palak | Iron | Leaves | Saag | Green,Vegetables
@@ -808,3 +808,13 @@ Geyser,Hot Water | Gas | Winter | Bath | Tank,Electronics
 Kulfi,Ice Cream | Matka | Stick | Pista | Malai,Desserts
 Allama Iqbal,Poet | Dream | Shaheen | Sialkot | Khudi,Muslim Historical Figures
 Muhammad bin Qasim,Sindh | Debal | Raja Dahir | 712 | Young,Muslim Historical Figures
+Gwadar,Port | CPEC | Balochistan | Sea | China,Pakistani Cities
+Skardu,Gilgit-Baltistan | K2 | Mountains | Shangrila | Cold Desert,Pakistani Cities
+Samosa,Triangle | Fried | Aloo | Iftar | Chutney,Traditional Dishes
+Gol Gappay,Pani Puri | Crispy | Imli | Chaat | Street,Traditional Dishes
+Shami Kabab,Daal | Mince | Fried | Round | Freezer,Traditional Dishes
+Bun Kabab,Karachi | Anda | Street | Bread | Chutney,Traditional Dishes
+Kalonji,Black Seed | Shifa | Naan | Achaar | Onion Seeds,Spices
+Ajwain,Carom | Seeds | Stomach | Pakora | Paratha,Spices
+Loquat,Yellow | Spring | Big Seed | Sour | Juicy,Fruits
+Custard Apple,Sharifa | Green | Bumpy | Seeds | Creamy,Fruits

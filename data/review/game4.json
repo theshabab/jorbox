@@ -57,16 +57,16 @@
   },
   {
    "id": "game4-5",
-   "Name": "Crow or Knife",
+   "Name": "crow / knife",
    "Description": "In May 2016, a Vancouver crime scene was nearly ruined when a ____ stole a ____.",
-   "Category": "CSI",
-   "action": "keep",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Crow or Knife",
     "Description": "In May 2016, a Vancouver crime scene was nearly ruined when a ____ stole a ____.",
     "Category": "CSI"
    },
-   "note": ""
+   "note": "Debate: Two-blank answer is both words in order, not alternatives; verified Canuck the crow incident."
   },
   {
    "id": "game4-6",
@@ -343,16 +343,16 @@
   },
   {
    "id": "game4-27",
-   "Name": "a solid or a liquid",
+   "Name": "a solid / a liquid",
    "Description": "Marc-Antoine Fardin won the 2017 Ig Nobel Prize for \"proving\" that cats can simultaneously be ____ and ____.",
-   "Category": "Kitty Science",
-   "action": "keep",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "a solid or a liquid",
     "Description": "Marc-Antoine Fardin won the 2017 Ig Nobel Prize for \"proving\" that cats can simultaneously be ____ and ____.",
     "Category": "Kitty Science"
    },
-   "note": ""
+   "note": "Debate: Both words fill the two blanks; 'or' misread as alternatives."
   },
   {
    "id": "game4-28",
@@ -785,16 +785,16 @@
   },
   {
    "id": "game4-61",
-   "Name": "sheep or a drone",
+   "Name": "sheep / a drone",
    "Description": "Unable to attend his aunt's funeral, farmer Ben Jackson of Guyra, Australia, honoured her by forming a giant heart from ____ and filming it with ____.",
-   "Category": "In Memoriam",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "sheep or a drone",
     "Description": "Unable to attend her funeral, Ben Jackson of Canberra, Australia, honored his beloved aunt by creating a large heart using ____ and ____.",
     "Category": "In Memoriam"
    },
-   "note": "location was Guyra NSW, not Canberra; clarified"
+   "note": "location was Guyra NSW, not Canberra; clarified; Debate: Both words fill the two blanks in order."
   },
   {
    "id": "game4-62",
@@ -837,16 +837,16 @@
   },
   {
    "id": "game4-65",
-   "Name": "tardiness",
-   "Description": "During the Qin Dynasty of China, harsh laws dictated that military soldiers could be executed for ____.",
-   "Category": "Ancient Rules",
-   "action": "keep",
+   "Name": "being late",
+   "Description": "According to the historian Sima Qian, a 209 BC rebellion against China's Qin Dynasty began because soldiers feared they would be executed for ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "tardiness",
     "Description": "During the Qin Dynasty of China, harsh laws dictated that military soldiers could be executed for ____.",
     "Category": "Ancient Rules"
    },
-   "note": ""
+   "note": "Debate: Excavated Qin statutes show lateness was fined; attributing the death-penalty claim to Sima Qian's account of the Dazexiang uprising makes the card accurate."
   },
   {
    "id": "game4-66",
@@ -942,28 +942,28 @@
   {
    "id": "game4-73",
    "Name": "blimps",
-   "Description": "Rarer than diamonds or pearls? First invented in 1852, there are currently only about 25 ____ left in the world.",
-   "Category": "Artifacts",
-   "action": "keep",
+   "Description": "Rarer than diamonds or pearls? Though airships were first flown in 1852, by the mid-2010s only about 25 ____ were still in service around the world.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "blimps",
     "Description": "Rarer than diamonds or pearls? First invented in 1852, there are currently only about 25 ____ left in the world.",
     "Category": "Artifacts"
    },
-   "note": ""
+   "note": "Debate: 'Currently' is stale; the ~25 figure dates from mid-2010s reporting, and Giffard's 1852 craft was an airship."
   },
   {
    "id": "game4-74",
-   "Name": "Ants or An Ant Colony",
+   "Name": "ants / an ant colony",
    "Description": "A Facebook roleplaying group called \"A group where we all pretend to be ____ in ____\" reached nearly 1.7 million members in 2020.",
-   "Category": "Roleplaying",
-   "action": "keep",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Ants or An Ant Colony",
     "Description": "A Facebook roleplaying group called \"A group where we all pretend to be ____ in ____\" reached nearly 1.7 million members in 2020.",
     "Category": "Roleplaying"
    },
-   "note": ""
+   "note": "Debate: Group name is 'ants in an ant colony'; slash format and consistent casing."
   },
   {
    "id": "game4-75",
@@ -1202,15 +1202,15 @@
   {
    "id": "game4-93",
    "Name": "Colonel Sanders",
-   "Description": "In 2018, a company gave a family $11,000 for naming their baby after ____.",
-   "Category": "Baby Names",
+   "Description": "In 2018, a fast-food chain gave an $11,000 college fund to a family who named their baby Harland, after ____.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "Colonel Sanders",
     "Description": "In 2018, a family was given $11,000 by a company for naming their daughter after ____.",
     "Category": "Baby Names"
    },
-   "note": "gender of winning baby uncertain"
+   "note": "gender of winning baby uncertain; Debate: Challenger amendment: accurate (college-fund contest for a baby named Harland) without naming KFC, which would give the answer away."
   },
   {
    "id": "game4-94",
@@ -1852,15 +1852,15 @@
   {
    "id": "game4-143",
    "Name": "sin",
-   "Description": "LaMarcus Thompson innovated & popularized the rollercoaster in the U.S. because he hoped it would distract Americans from ____.",
-   "Category": "Thrills & Spills",
-   "action": "keep",
+   "Description": "LaMarcus Thompson built and popularized the roller coaster in the U.S. because he hoped it would distract Americans from ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "sin",
     "Description": "LaMarcus Thompson innovated & popularized the rollercoaster in the U.S. because he hoped it would distract Americans from ____.",
     "Category": "Thrills & Spills"
    },
-   "note": ""
+   "note": "Debate: Wording cleanup ('innovated &', 'rollercoaster'); answer unchanged."
   },
   {
    "id": "game4-144",
@@ -11608,6 +11608,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): True and amusing (Brighton baths, 1814; styled Shampooing Surgeon to George IV). Its answer differs from the related slice cards."
+  },
+  {
+   "id": null,
+   "Name": "gold bars",
+   "Description": "In 2010, the Emirates Palace hotel in Abu Dhabi installed an ATM that dispenses ____ instead of cash.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True 'Gold to Go' ATM; Gulf weird-news fact; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "whistles",
+   "Description": "In the Turkish village of Kuşköy, people traditionally chat across mountain valleys in a \"bird language\" that turns Turkish words into ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): UNESCO-listed whistled Turkish; reworded slightly because it is Turkish encoded as whistles, not a separate language of whistles."
+  },
+  {
+   "id": null,
+   "Name": "orchids",
+   "Description": "Turkish dondurma ice cream gets its famous stretchiness from salep, a flour made from the roots of wild ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True food fact from the Muslim world; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "robot",
+   "Description": "In 2017, Saudi Arabia became the first country in the world to grant citizenship to a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (Sophia, October 2017); not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "golden eagles",
+   "Description": "In western Mongolia, Kazakh hunters ride out on horseback with trained ____ to catch foxes in winter.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True Kazakh eagle-hunting tradition in Bayan-Ölgii; good decoy space."
+  },
+  {
+   "id": null,
+   "Name": "cry",
+   "Description": "At Japan's Naki Sumo festival, sumo wrestlers hold up babies and compete to make them ____ first, which is believed to bring good health.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Real family-friendly festival; uses an existing category."
+  },
+  {
+   "id": null,
+   "Name": "motorbike",
+   "Description": "In 2017, Dubai Police unveiled a flying ____ and announced that officers would be trained to ride it.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (Hoversurf Scorpion hoverbike at GITEX 2017); distinct from jetpack/flying-car cards."
   }
  ]
 }

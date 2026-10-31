@@ -26045,7 +26045,7 @@
   {
    "id": "game5-2004",
    "Name": "",
-   "Description": "Everyone wonders if \"(insert name)'s\" mom was famous for ____ when she was young.",
+   "Description": "Nobody believes that \"(insert name)'s\" Ammi was once famous in the whole mohalla for ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -26053,20 +26053,20 @@
     "Description": "Everyone wonders if \"Insert Name's\" mom was ever involved with ____ when she was in her prime.",
     "Category": ""
    },
-   "note": "innuendo removed"
+   "note": "innuendo removed; Debate: Keeps the tease and makes it family-safe, so it no longer invites crude jokes about someone's mother."
   },
   {
    "id": "game5-2005",
    "Name": "",
-   "Description": "Everyone’s favorite new third-party JorBox expansion: ____ Against ____.",
+   "Description": "Everyone's favourite new JorBox expansion pack: ____ vs. ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Everyone’s favorite new third-party JorBox expansion: ____ Against ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the leftover Cards Against Humanity parody wording."
   },
   {
    "id": "game5-2006",
@@ -26409,15 +26409,15 @@
   {
    "id": "game5-2032",
    "Name": "",
-   "Description": "Finally opening Nawaz Sharif's 'little black box' just to find ____.",
+   "Description": "Finally cracking open Nawaz Sharif's secret London safe, only to find ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Finally opening Nawaz Sharif's 'little black box' just to find ____.",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Replaces the meaningless 'little black box' with a familiar political in-joke."
   },
   {
    "id": "game5-2033",
@@ -26513,15 +26513,15 @@
   {
    "id": "game5-2040",
    "Name": "",
-   "Description": "Flashing web pages force you to love ____.",
+   "Description": "Annoying pop-up ads keep trying to make me buy ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Flashing web pages force you to love ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Clarifies the unclear original."
   },
   {
    "id": "game5-2041",
@@ -26552,15 +26552,15 @@
   {
    "id": "game5-2043",
    "Name": "",
-   "Description": "Fluoridation was the first step. Next in our water: ____.",
+   "Description": "First they added chlorine to the WASA water. Next in our taps: ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Fluoridation was the first step. Next in our water: ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the US fluoridation conspiracy with a local tap-water joke."
   },
   {
    "id": "game5-2044",
@@ -26762,13 +26762,13 @@
    "Name": "",
    "Description": "For me, ____ is a dealbreaker.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "For me, ____ is a dealbreaker.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as the lower-id card 1124 '____? That's a dealbreaker.'"
   },
   {
    "id": "game5-2060",
@@ -26812,15 +26812,15 @@
   {
    "id": "game5-2063",
    "Name": "",
-   "Description": "For my OLX ad, I wrote that you must be ok with ____.",
+   "Description": "In my OLX ad for a hostel roommate, I wrote that you must be OK with ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "For my OLX ad, I wrote that you must be ok with ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Restores the roommate-ad setup, which was lost in localisation."
   },
   {
    "id": "game5-2064",
@@ -26955,15 +26955,15 @@
   {
    "id": "game5-2074",
    "Name": "",
-   "Description": "Forget chocolate and peanut butter… try ____ and peanut butter instead!",
+   "Description": "Forget chai and rusk… try ____ and rusk instead!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Forget chocolate and peanut butter… try ____ and peanut butter instead!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Swaps the US pairing for its desi equivalent."
   },
   {
    "id": "game5-2075",
@@ -27020,7 +27020,7 @@
   {
    "id": "game5-2079",
    "Name": "",
-   "Description": "GHQ is known as \"The Great Place\" because it provides soldiers with an endless supply of ____.",
+   "Description": "Everyone wants a posting at GHQ because of its endless supply of ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -27028,7 +27028,7 @@
     "Description": "GHQ is known as \"The Great Place\" because it provides Soldiers with an endless supply of ____.",
     "Category": ""
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: 'The Great Place' is an invented nickname for GHQ. The rewrite keeps the army joke."
   },
   {
    "id": "game5-2080",
@@ -27061,13 +27061,13 @@
    "Name": "",
    "Description": "Four out of five dentists can't be wrong! You should try ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Four out of five dentists can't be wrong! You should try ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as the earlier card 1280 '4 out of 5 dentists recommend ____.'"
   },
   {
    "id": "game5-2083",
@@ -27098,15 +27098,15 @@
   {
    "id": "game5-2085",
    "Name": "",
-   "Description": "Free trade is terrible. Free trade can be wonderful if you have smart people in office. But we have ____.",
+   "Description": "Free trade can be wonderful if you have smart people in office. Unfortunately, we have ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Free trade is terrible. Free trade can be wonderful if you have smart people in office. But we have ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the self-contradicting setup."
   },
   {
    "id": "game5-2086",
@@ -27202,20 +27202,20 @@
   {
    "id": "game5-2093",
    "Name": "",
-   "Description": "Lays® just announced that the flavor of the mystery Masala® was actually ____.",
+   "Description": "Lay's just revealed that its mystery masala flavour was actually ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Lays® just announced that the flavor of the mystery Masala® was actually ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the wording and removes the ® marks."
   },
   {
    "id": "game5-2094",
    "Name": "",
-   "Description": "Frog legs don't taste like chicken; they taste like ____.",
+   "Description": "Ostrich meat doesn't taste like chicken; it tastes like ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -27223,7 +27223,7 @@
     "Description": "Frog legs don't taste like chicken, the taste like ____.",
     "Category": ""
    },
-   "note": "typo"
+   "note": "typo; Debate: Most Pakistani Muslims consider frog not halal. Ostrich keeps the joke."
   },
   {
    "id": "game5-2095",
@@ -27280,28 +27280,28 @@
   {
    "id": "game5-2099",
    "Name": "",
-   "Description": "From Radio Pakistan, it's This Pakistani Life. Today on our program, ____. Stay with us.",
+   "Description": "From Radio Pakistan, it's the Sunday Special. Today on our programme: ____. Stay with us.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "From Radio Pakistan, it's This Pakistani Life. Today on our program, ____. Stay with us.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the parody of a US radio show that players won't recognise."
   },
   {
    "id": "game5-2100",
    "Name": "",
-   "Description": "Bundu Khan® is secretly testing a burger made with ____.",
+   "Description": "Bundu Khan is secretly testing a burger made with ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Bundu Khan® is secretly testing a burger made with ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the unnecessary ® mark."
   },
   {
    "id": "game5-2101",
@@ -27319,7 +27319,7 @@
   {
    "id": "game5-2102",
    "Name": "",
-   "Description": "FW: re: FIA WARNING!!! VIOLENT GANGS USING ____ TO RECRUIT CHILDREN!",
+   "Description": "FW: re: FIA WARNING!!! SCAMMERS NOW USING ____ TO TRICK UNCLES ON WHATSAPP!",
    "Category": "",
    "action": "edit",
    "original": {
@@ -27327,7 +27327,7 @@
     "Description": "FW: re: FBI WARNING!!! VIOLENT GANGS USING ____ TO RECRUIT CHILDREN!",
     "Category": ""
    },
-   "note": "FBI -> FIA"
+   "note": "FBI -> FIA; Debate: Gangs recruiting children is too dark for families. A WhatsApp scam warning keeps the forwarded-message joke."
   },
   {
    "id": "game5-2103",
@@ -27735,7 +27735,7 @@
   {
    "id": "game5-2134",
    "Name": "",
-   "Description": "Global warming? In the PM's opinion, it's just a concept by ____ to \"make Pakistani manufacturing non-competitive.\"",
+   "Description": "Global warming? Chacha insists it's just a hoax invented by ____ to sell more ACs.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -27743,7 +27743,7 @@
     "Description": "Global warming? In The PM's opinion, it's just a concept by ____ to \"make Pakistani manufacturing non-competitive.\"",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: The original was a leftover Trump quote wrongly attributed to the PM, which is a factual error. The uncle-sceptic frame keeps the joke."
   },
   {
    "id": "game5-2135",
@@ -27865,15 +27865,15 @@
   {
    "id": "game5-2144",
    "Name": "",
-   "Description": "Good morning, comrade! Grab a quick breakfast and meet me in the barracks for a hardcore session of ____!",
+   "Description": "Good morning, jawan! Grab a quick paratha and meet me on the parade ground for a hardcore session of ____!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Good morning, comrade! Grab a quick breakfast and meet me in the barracks for a hardcore session of ____!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Comrade' is not Pakistani army usage. 'Jawan' and 'paratha' give the card a local frame."
   },
   {
    "id": "game5-2145",
@@ -28008,15 +28008,15 @@
   {
    "id": "game5-2155",
    "Name": "",
-   "Description": "Grandma always gives us ____ when we visit.",
+   "Description": "Dadi always slips us ____ when we visit.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Grandma always gives us ____ when we visit.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Uses a Pakistani family frame."
   },
   {
    "id": "game5-2156",
@@ -28099,15 +28099,15 @@
   {
    "id": "game5-2162",
    "Name": "",
-   "Description": "Grandmother's house always smells like ____.",
+   "Description": "Nani's house always smells like ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Grandmother's house always smells like ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Uses a Pakistani family frame."
   },
   {
    "id": "game5-2163",
@@ -28541,15 +28541,15 @@
   {
    "id": "game5-2196",
    "Name": "",
-   "Description": "Having abandoned his pleas for a return to the gold standard, the Finance Minister is now promoting a ____-based economy.",
+   "Description": "Having given up on the IMF, the Finance Minister is now promoting a ____-based economy.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Having abandoned his pleas for a return to the gold standard, the Finance Minister is now promoting a ____-based economy.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the US gold-standard reference with the familiar local IMF reference."
   },
   {
    "id": "game5-2197",
@@ -29243,15 +29243,15 @@
   {
    "id": "game5-2250",
    "Name": "",
-   "Description": "High school students today just don't have a good grasp of ____.",
+   "Description": "Matric students today just don't have a good grasp of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "High school students today just don't have a good grasp of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces US high school with its local equivalent."
   },
   {
    "id": "game5-2251",
@@ -101501,6 +101501,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Local food prompt; no tandoor-wala or naan card in this deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Havaldar's punishment for being late: ten rounds of the parade ground carrying ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New army in-joke; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Rishta aunty's checklist: fair, tall, settled abroad, and ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New rishta prompt that satirises the checklist; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nobody is allowed near Nani's achaar jar ever since ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New family and food prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The real reason Chacha's old Mehran still runs: ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar local in-joke; there is no Mehran card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "ISPR's latest press release: \"Rumours about ____ are baseless.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Army in-joke, distinct from the existing ISPR cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Phuppo's WhatsApp status this week: a long poem about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New family and social media prompt. Uses the deck's existing 'Phuppo' spelling (the challenger's amendment)."
   }
  ]
 }

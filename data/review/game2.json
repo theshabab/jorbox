@@ -45,7 +45,7 @@
   {
    "id": "game2-4",
    "Name": "Rawalpindi",
-   "Description": "Pindi | Army | GHQ | Twin City | Islamabad",
+   "Description": "Raja Bazaar | Army | GHQ | Twin City | Islamabad",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -53,12 +53,12 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: Pindi is just a short form of the answer; Raja Bazaar is a real, distinct clue."
   },
   {
    "id": "game2-5",
    "Name": "Faisalabad",
-   "Description": "Textile | Clock Tower | Ghanta Ghar | Lyallpur | Manchester",
+   "Description": "Textile | Punjab | Ghanta Ghar | Lyallpur | Manchester",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -66,7 +66,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: Clock Tower and Ghanta Ghar were the same clue."
   },
   {
    "id": "game2-6",
@@ -123,7 +123,7 @@
   {
    "id": "game2-10",
    "Name": "Gujranwala",
-   "Description": "Pehlwan | Wrestlers | Food | GT Road | Punjab",
+   "Description": "Pehlwan | Lahore | Food | GT Road | Punjab",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -131,7 +131,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": "Debate: Challenger's amendment: 'Fans' is Gujrat's signature clue (card 16), so swap it for GT Road. Keep the Urdu/English Pehlwan/Wrestlers pair, as the deck does elsewhere."
+   "note": "Debate: Challenger's amendment: 'Fans' is Gujrat's signature clue (card 16), so swap it for GT Road. Keep the Urdu/English Pehlwan/Wrestlers pair, as the deck does elsewhere.; Debate: Wrestlers repeated Pehlwan; nearby Lahore is a natural clue."
   },
   {
    "id": "game2-11",
@@ -253,7 +253,7 @@
   {
    "id": "game2-20",
    "Name": "Jhelum",
-   "Description": "River | Army | Rohtas Fort | GT Road | Soldiers",
+   "Description": "River | Army | Rohtas Fort | GT Road | Mangla",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -261,7 +261,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: Soldiers repeated Army; Mangla is a distinct, accurate clue."
   },
   {
    "id": "game2-21",
@@ -279,7 +279,7 @@
   {
    "id": "game2-22",
    "Name": "Kasur",
-   "Description": "Bulleh Shah | Methi | Border | Andrassay | Falooda",
+   "Description": "Bulleh Shah | Methi | Border | Andarsay | Falooda",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -287,7 +287,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": "Debate: 'Zainab' points to a child rape-murder case, well beyond 'mildly dark'. Kasuri andarsay is a well-known local sweet."
+   "note": "Debate: 'Zainab' points to a child rape-murder case, well beyond 'mildly dark'. Kasuri andarsay is a well-known local sweet.; Debate: Spelling fix: Andrassay to Andarsay."
   },
   {
    "id": "game2-23",
@@ -448,7 +448,7 @@
   {
    "id": "game2-35",
    "Name": "Paye",
-   "Description": "Trotters | Feet | Legs | Breakfast | Naan",
+   "Description": "Trotters | Feet | Siri | Breakfast | Naan",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -456,7 +456,7 @@
     "Description": "food | rice | meat | curry",
     "Category": "Traditional Dishes"
    },
-   "note": ""
+   "note": "Debate: Legs repeated Feet; Siri (siri paye) is the obvious clue."
   },
   {
    "id": "game2-36",
@@ -474,7 +474,7 @@
   {
    "id": "game2-37",
    "Name": "Saag",
-   "Description": "Sarson | Mustard | Spinach | Punjab | Green",
+   "Description": "Sarson | Spinach | Makki | Punjab | Green",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -482,12 +482,12 @@
     "Description": "food | rice | meat | curry",
     "Category": "Traditional Dishes"
    },
-   "note": ""
+   "note": "Debate: Mustard is the translation of Sarson; Makki is the obvious pairing to ban."
   },
   {
    "id": "game2-38",
    "Name": "Makki Ki Roti",
-   "Description": "Corn | Saag | Sarson | Punjab | Butter",
+   "Description": "Corn | Saag | Winter | Punjab | Butter",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -495,7 +495,7 @@
     "Description": "Makki | food | rice | meat",
     "Category": "Traditional Dishes"
    },
-   "note": ""
+   "note": "Debate: Sarson repeated Saag; Winter is a separate clue."
   },
   {
    "id": "game2-39",
@@ -526,7 +526,7 @@
   {
    "id": "game2-41",
    "Name": "Koftay",
-   "Description": "Meatballs | Mince | Qeema | Balls | Gravy",
+   "Description": "Meatballs | Mince | Qeema | Round | Gravy",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -534,7 +534,7 @@
     "Description": "food | rice | meat | curry",
     "Category": "Traditional Dishes"
    },
-   "note": ""
+   "note": "Debate: Balls repeated Meatballs."
   },
   {
    "id": "game2-42",
@@ -630,7 +630,7 @@
   {
    "id": "game2-49",
    "Name": "Kunna",
-   "Description": "Chiniot | Clay Pot | Mutton | Matka | Slow Cooked",
+   "Description": "Chiniot | Clay Pot | Mutton | Punjab | Slow Cooked",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -638,7 +638,7 @@
     "Description": "food | rice | meat | curry",
     "Category": "Traditional Dishes"
    },
-   "note": "Somewhat regional (Chiniot); keep but may be hard for some players"
+   "note": "Somewhat regional (Chiniot); keep but may be hard for some players; Debate: Matka repeated Clay Pot."
   },
   {
    "id": "game2-50",
@@ -786,7 +786,7 @@
   {
    "id": "game2-61",
    "Name": "Saffron",
-   "Description": "Zafran | Expensive | Kesar | Orange | Strands",
+   "Description": "Zafran | Expensive | Zarda | Orange | Strands",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -794,7 +794,7 @@
     "Description": "spice | powder | flavor | cooking",
     "Category": "Spices"
    },
-   "note": ""
+   "note": "Debate: Kesar is another name for Zafran; Zarda is a distinct familiar clue."
   },
   {
    "id": "game2-62",
@@ -1306,7 +1306,7 @@
   {
    "id": "game2-101",
    "Name": "Onion",
-   "Description": "Pyaz | Cry | Tears | Layers | Purple",
+   "Description": "Pyaz | Cry | Layers | Purple | Pakora",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1314,7 +1314,7 @@
     "Description": "vegetable | green | salad | cook",
     "Category": "Vegetables"
    },
-   "note": ""
+   "note": "Debate: Tears repeated Cry; Pakora is a distinct clue."
   },
   {
    "id": "game2-102",
@@ -10431,6 +10431,86 @@
    "Category": "Muslim Historical Figures",
    "action": "add",
    "note": "New card (debate): Standard Pakistani-history figure. The facts check out: he took Debal and defeated Raja Dahir in 711-712 CE, at about 17."
+  },
+  {
+   "id": null,
+   "Name": "Gwadar",
+   "Description": "Port | CPEC | Balochistan | Sea | China",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Well-known city not in the deck; clues accurate."
+  },
+  {
+   "id": null,
+   "Name": "Skardu",
+   "Description": "Gilgit-Baltistan | K2 | Mountains | Shangrila | Cold Desert",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Adds a northern city not in the deck; clues accurate."
+  },
+  {
+   "id": null,
+   "Name": "Samosa",
+   "Description": "Triangle | Fried | Aloo | Iftar | Chutney",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Staple snack not yet a card."
+  },
+  {
+   "id": null,
+   "Name": "Gol Gappay",
+   "Description": "Pani Puri | Crispy | Imli | Chaat | Street",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Popular street food not in the deck; challenger's version drops Water, which repeats Pani."
+  },
+  {
+   "id": null,
+   "Name": "Shami Kabab",
+   "Description": "Daal | Mince | Fried | Round | Freezer",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Common household kabab not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Bun Kabab",
+   "Description": "Karachi | Anda | Street | Bread | Chutney",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Karachi's classic street snack, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Kalonji",
+   "Description": "Black Seed | Shifa | Naan | Achaar | Onion Seeds",
+   "Category": "Spices",
+   "action": "add",
+   "note": "New card (debate): Common spice not in the deck; amended because Nigella and Black Seed are the same clue, so Nigella became Onion Seeds (another common name)."
+  },
+  {
+   "id": null,
+   "Name": "Ajwain",
+   "Description": "Carom | Seeds | Stomach | Pakora | Paratha",
+   "Category": "Spices",
+   "action": "add",
+   "note": "New card (debate): Common household spice not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Loquat",
+   "Description": "Yellow | Spring | Big Seed | Sour | Juicy",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Common local fruit not in the deck; amended because Lokaat is just the answer said in Urdu (the same problem as Pindi), so it was replaced with Juicy."
+  },
+  {
+   "id": null,
+   "Name": "Custard Apple",
+   "Description": "Sharifa | Green | Bumpy | Seeds | Creamy",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Common local fruit (sharifa) not in the deck."
   }
  ]
 }
