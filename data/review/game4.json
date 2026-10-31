@@ -11604,10 +11604,10 @@
   {
    "id": null,
    "Name": "Shampooing",
-   "Description": "Sake Dean Mahomed later ran a bathhouse in Brighton and was appointed \"____ Surgeon\" to King George IV.",
+   "Description": "Sake Dean Mahomed, a Muslim traveller from Patna who settled in England, later ran a bathhouse in Brighton and was appointed \"____ Surgeon\" to King George IV.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): True and amusing (Brighton baths, 1814; styled Shampooing Surgeon to George IV). Its answer differs from the related slice cards."
+   "note": "New card (debate): True and amusing (Brighton baths, 1814; styled Shampooing Surgeon to George IV). Its answer differs from the related slice cards.; Debate: Adds context. Used the challenger's version because the proposer's wording gave away the answer to idx 1038 (Indian restaurant)."
   },
   {
    "id": null,
@@ -11727,7 +11727,7 @@
    "Description": "What kind of message in the family WhatsApp group makes you groan every single time?",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Relatable local personal question; no duplicate."
+   "note": "New card (debate): Relatable local personal question; no duplicate.; Debate: Most personal '____' cards in the deck (261 of 275) use 'Enough About You'. Fourteen are still uncategorised, so 'every other card' is not literally true."
   },
   {
    "id": null,
@@ -11735,7 +11735,7 @@
    "Description": "If you got stuck in a lift during loadshedding, which relative would you call first?",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Funny, Pakistan-framed personal question; distinct from card 958."
+   "note": "New card (debate): Funny, Pakistan-framed personal question; distinct from card 958.; Debate: Same reason as P2: it matches the deck's dominant category for personal questions."
   },
   {
    "id": null,
@@ -12020,10 +12020,74 @@
   {
    "id": null,
    "Name": "a bronze statue",
-   "Description": "Tombili, a chubby street cat from Istanbul's Kadikoy district, became famous online for lounging against the kerb like a person resting on a sofa. After he died in 2016, the district honoured him with ____.",
+   "Description": "Tombili, a chubby street cat from Istanbul's Kadıköy district, became famous online for lounging against the kerb like a person resting on a sofa. After he died in 2016, the district honoured him with ____.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's amended version. In the original, the blank was 'cat', which is too obvious. This version blanks the surprising honour, like the Tama and Wojtek cards. The facts are true: Tombili died in August 2016 and Kadikoy unveiled his statue in October 2016."
+   "note": "New card (debate): Challenger's amended version. In the original, the blank was 'cat', which is too obvious. This version blanks the surprising honour, like the Tama and Wojtek cards. The facts are true: Tombili died in August 2016 and Kadikoy unveiled his statue in October 2016.; Debate: Spelling: Kadıköy needs its Turkish letters, matching Kuşköy in idx 1048."
+  },
+  {
+   "id": null,
+   "Name": "gravel",
+   "Description": "The word \"sugar\" reached English through the Arabic \"sukkar\", which came from a Sanskrit word meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate: Sanskrit sharkara means grit or gravel, and it passed through Persian and Arabic. Good bluff. The deck has no sugar card."
+  },
+  {
+   "id": null,
+   "Name": "notification",
+   "Description": "The English word \"tariff\" comes from the Arabic \"ta'rif\", meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Arabic etymology (via Italian tariffa). Not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "bench",
+   "Description": "The word \"sofa\" came into English via Turkish from the Arabic \"suffa\", meaning a long ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Arabic etymology. Not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "letter",
+   "Description": "The English word \"chit\", meaning a short note or an IOU, comes from the Hindustani word for a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Used the challenger's version. Quoting 'chitthi' would let Urdu speakers read off the answer and kill the bluff."
+  },
+  {
+   "id": null,
+   "Name": "tying",
+   "Description": "The word \"bandana\" comes from a Hindustani name for cloth that was dyed after ____ it into lots of tiny knots.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Used the challenger's version. Quoting 'bandhna' would give the answer away to Urdu speakers. The tie-dye (bandhani) origin is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Baghdad",
+   "Description": "Tabby cats are named after \"attabi\", a striped silk once woven in a district of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate: tabby comes from Arabic 'attabi, named after Baghdad's al-'Attabiya quarter. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sindh",
+   "Description": "Ranikot Fort, whose walls snake for more than 30 km across the hills near Jamshoro, is nicknamed the \"Great Wall of ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistan landmark card. Ranikot is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "seventh",
+   "Description": "According to a popular story, when Istanbul's Blue Mosque was given six minarets, the same number as the Masjid al-Haram, the sultan paid for a ____ minaret in Makkah so the Haram would still have the most.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Used the challenger's version. 'Blue Mosque' avoids giving away idx 873's answer (Sultan Ahmed). The card presents this as a popular story, not as fact."
   }
  ]
 }

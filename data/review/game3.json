@@ -10149,10 +10149,10 @@
   {
    "id": null,
    "Name": "Draw a matka.",
-   "Description": "Draw a vase.|Draw a surahi.|Draw a water cooler.|Draw a diya.|Draw a football.",
+   "Description": "Draw a vase.|Draw a surahi.|Draw a water cooler.|Draw a diya.|Draw a clay gullak (money box).",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card (debate): Desi household object that is not in the deck. The decoys are close in the same way as the decoys on the tandoor card."
+   "note": "New card (debate): Desi household object that is not in the deck. The decoys are close in the same way as the decoys on the tandoor card.; Debate: A football is unrelated to a matka. A clay gullak is a close but different decoy."
   },
   {
    "id": null,
@@ -10269,10 +10269,10 @@
   {
    "id": null,
    "Name": "Pakistani Trains",
-   "Description": "Tezgam|Khyber Mail|Karakoram Express|Green Line|Shalimar Express|Awam Express|Allama Iqbal Express|Bolan Mail|Jaffar Express|Rehman Baba Express|Pakistan Express|Millat Express|Hazara Express|Karachi Express|Fareed Express",
+   "Description": "Tezgam|Khyber Mail|Karakoram Express|Green Line Express|Shalimar Express|Awam Express|Allama Iqbal Express|Bolan Mail|Jaffar Express|Rehman Baba Express|Pakistan Express|Millat Express|Hazara Express|Karachi Express|Fareed Express",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Goes with the Railway Stations card. Only well-known trains are kept; obscure services and the on-off Business Express are left out (challenger's version)."
+   "note": "New card (debate): Goes with the Railway Stations card. Only well-known trains are kept; obscure services and the on-off Business Express are left out (challenger's version).; Debate: Green Line Express is the real train's name; 'Green Line' alone reads as Karachi's BRT bus."
   },
   {
    "id": null,
@@ -10301,10 +10301,10 @@
   {
    "id": null,
    "Name": "Draw a magic show.",
-   "Description": "Draw a juggler.|Draw a circus act.|Draw a madari with a monkey.|Draw a street performer.|Draw a surprise gift.|Draw a puppet show.",
+   "Description": "Draw a juggler.|Draw a circus act.|Draw a madari with a monkey.|Draw a street performer.|Draw a school talent show.|Draw a puppet show.",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card (debate): New Drawing 2 card on the allowed stage-magic theme. The 6 decoys are close performances but different enough to give the impostor away."
+   "note": "New card (debate): New Drawing 2 card on the allowed stage-magic theme. The 6 decoys are close performances but different enough to give the impostor away.; Debate: A surprise gift is not a performance. A school talent show is a stage act like the other decoys."
   },
   {
    "id": null,
@@ -10325,10 +10325,10 @@
   {
    "id": null,
    "Name": "Draw a jinn.",
-   "Description": "Draw a ghost.|Draw a genie coming out of a lamp.|Draw a shadow at night.|Draw a scary old tree.|Draw a puff of smoke.|Draw a monster under the bed.",
+   "Description": "Draw a ghost.|Draw a scarecrow in a field.|Draw a shadow at night.|Draw a scary old tree.|Draw a puff of smoke.|Draw a monster under the bed.",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card (debate): The owner allows jinn jokes. New card with close but drawably distinct decoys."
+   "note": "New card (debate): The owner allows jinn jokes. New card with close but drawably distinct decoys.; Debate: A genie from a lamp is the same thing as a jinn, so it could not expose the impostor. A scarecrow is close but different."
   },
   {
    "id": null,
@@ -10625,6 +10625,86 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): A light, realistic dilemma with three clear options; there is no similar card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Tuition Centre",
+   "Description": "Sir|Miss|Academy|Test Session|Notes|Photocopies|Monthly Fee|Attendance Register|Whiteboard|Marker|Benches|Past Papers|Guess Paper|Matric|FSc|O Levels|Evening Batch|Pick-and-Drop Van|Result Board|Sleepy Students",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A familiar Pakistani academy setting that is not in the deck yet."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Car Wash",
+   "Description": "Pressure Pipe|Foam|Sponge|Bucket|Microfibre Cloth|Wax|Polish|Tyre Shine|Vacuum Cleaner|Floor Mats|Dashboard|Ramp|Water Pump|Soap|Mud|Dust|Car Lifter|Tip|Air Freshener|Waiting Bench",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A new everyday-place topic. 'Token' is replaced with 'Car Lifter', which is recognisable locally (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Draw a pigeon coop.",
+   "Description": "Draw a hen house.|Draw a birdcage.|Draw a dog kennel.|Draw a beehive.|Draw a water tank on a roof.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Rooftop kabootar culture, with decoys that are close but can be told apart."
+  },
+  {
+   "id": null,
+   "Name": "Draw a deg of biryani.",
+   "Description": "Draw a pressure cooker.|Draw a pot of daal.|Draw a pot of haleem being stirred.|Draw a plate of pulao.|Draw a tandoor.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): A recognisable dawat image. No drawing card has a deg as the real prompt."
+  },
+  {
+   "id": null,
+   "Name": "The first thing I hide when guests arrive unannounced is...",
+   "Description": "The first thing I cook when guests arrive is...|The first thing I clean before guests come is...|Something Ammi only brings out for guests is...|The best excuse to avoid guests is...|Something I always offer guests is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A relatable desi prompt. The decoy that meant the same as the real prompt is replaced (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Something you always find on a Pakistani car’s dashboard is...",
+   "Description": "Something you always find in a Pakistani fridge is...|Something you always find in Ammi’s handbag is...|Something every rickshaw has painted on it is...|Something you always find in a kitchen drawer is...|Something every taxi driver keeps in his car is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A new local observation prompt with decoys that could pass but still differ."
+  },
+  {
+   "id": null,
+   "Name": "Gully cricket is more fun than real cricket.",
+   "Description": "I was the best player in my gully team.|Tape ball cricket is harder than hard ball cricket.|I’d rather play cricket than watch it.|I still play cricket every weekend.|Indoor cricket is better than outdoor cricket.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): No rating card has this as its real prompt. It fits the Gully Cricket list."
+  },
+  {
+   "id": null,
+   "Name": "Chai tastes better at a dhaba than at home.",
+   "Description": "Ammi makes the best chai.|Doodh patti is better than any other chai.|I’d travel across the city for good chai.|Restaurant food is better than home food.|Chai tastes better in the rain.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): A popular desi debate that no rating card has as its real prompt."
+  },
+  {
+   "id": null,
+   "Name": "During load-shedding, the UPS can only run one fan and your sibling wants it in their room. You...",
+   "Description": "share their room|toss a coin for it|sleep on the roof",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): A relatable load-shedding dilemma with three distinct options."
+  },
+  {
+   "id": null,
+   "Name": "You find out your neighbour has been secretly using your Wi-Fi for months. You...",
+   "Description": "change the password|ask them to share the bill|say nothing",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): A modern, family-safe neighbour dilemma that no other card covers."
   }
  ]
 }

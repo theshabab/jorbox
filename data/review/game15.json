@@ -642,7 +642,7 @@
   },
   {
    "id": "game15-50",
-   "Name": "Muhammad",
+   "Name": "Muhammad (SAW)",
    "Description": "Last Prophet (Khatam an-Nabiyyin), born c. 570 CE",
    "Category": "Prophets - Chronological Order",
    "action": "edit",
@@ -651,7 +651,7 @@
     "Description": "SAW",
     "Category": "Prophets - Chronological Order"
    },
-   "note": "replaced bare honorific with ordering reason"
+   "note": "replaced bare honorific with ordering reason; Debate: Adds the honorific to the Prophet's own card, which other cards in the deck already use (Isa's card says 'Last before Muhammad (SAW)'). The value and position stay the same."
   },
   {
    "id": "game15-51",
@@ -838,7 +838,7 @@
   {
    "id": "game15-65",
    "Name": "Australia",
-   "Description": "8.6 million km²",
+   "Description": "8.6 million km² (incl. New Guinea and islands)",
    "Category": "Continents - By Area (Large to Small)",
    "action": "edit",
    "original": {
@@ -846,7 +846,7 @@
     "Description": "7",
     "Category": "Continents - By Area (Large to Small)"
    },
-   "note": "replaced bare rank with area"
+   "note": "replaced bare rank with area; Debate: Mainland Australia is about 7.7 million km². The 8.6 figure is for the Australian continent including New Guinea and nearby islands, so the reveal now says so. The amended wording is more precise than '(with Oceania)', and Australia stays the smallest either way."
   },
   {
    "id": "game15-66",
