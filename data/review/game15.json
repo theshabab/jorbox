@@ -28753,6 +28753,78 @@
    "Category": "Cricket Formats (Length - Short to Long)",
    "action": "add",
    "note": "New card (debate): Part of the new Cricket Formats category."
+  },
+  {
+   "id": null,
+   "Name": "Yellow",
+   "Description": "2nd ring (bottom row, left)",
+   "Category": "Olympic Rings (Left to Right)",
+   "action": "add",
+   "note": "New card (debate): Fills the missing 2nd ring. Left to right the rings are blue, yellow, black, green and red."
+  },
+  {
+   "id": null,
+   "Name": "Red",
+   "Description": "5th group (just after Free Parking)",
+   "Category": "Monopoly Color Groups (Board Order)",
+   "action": "add",
+   "note": "New card (debate): Fills the missing 5th group, which Yellow's card ('after Free Parking and Red') already refers to."
+  },
+  {
+   "id": null,
+   "Name": "Asia",
+   "Description": "~4.8 billion",
+   "Category": "Continents (Population - High to Low)",
+   "action": "add",
+   "note": "New card (debate): The most populous continent was missing. ~4.8 billion is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Africa",
+   "Description": "~1.5 billion",
+   "Category": "Continents (Population - High to Low)",
+   "action": "add",
+   "note": "New card (debate): The 2nd most populous continent was missing. ~1.5 billion is accurate and ranks above Europe (~745 million)."
+  },
+  {
+   "id": null,
+   "Name": "Mercury",
+   "Description": "4,879 km",
+   "Category": "Planets (Diameter - Small to Large)",
+   "action": "add",
+   "note": "New card (debate): Completes the set of 8 planets with the smallest one. 4,879 km is correct."
+  },
+  {
+   "id": null,
+   "Name": "Thar Desert",
+   "Description": "~0.2M sq km",
+   "Category": "Deserts (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Accurate (~200,000 km²) and partly in Pakistan. Its format matches the other cards, and the category is not a strict top-N."
+  },
+  {
+   "id": null,
+   "Name": "Indus",
+   "Description": "~3,180 km",
+   "Category": "Rivers (Length - Long to Short)",
+   "action": "add",
+   "note": "New card (debate): Accurate, adds a Pakistani frame and clearly sorts after the Yenisei."
+  },
+  {
+   "id": null,
+   "Name": "Lake Huron",
+   "Description": "59,600 km²",
+   "Category": "Largest Lakes in the World (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): The category title claims the largest lakes, but Huron (59,600 km²) is missing even though it is larger than Tanganyika. The value is correct."
+  },
+  {
+   "id": null,
+   "Name": "Lake Michigan",
+   "Description": "58,000 km²",
+   "Category": "Largest Lakes in the World (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Michigan (~58,000 km²) is also larger than Tanganyika. With Huron added, the category becomes the true top 7."
   }
  ]
 }

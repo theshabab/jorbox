@@ -502,7 +502,7 @@ A bad accident forces surgeons to graft your head onto a volunteer body. The vol
 "You’re offered the chance to have your brainwaves take over someone else’s body, deleting them. You choose...",a billionaire|a parent|a surgeon,Morality
 Aliens will spare Earth if they can take one person back to their planet never to be seen again. We should give up...,your boss|a politician|your noisy neighbour,Morality
 Alien invaders land but will let one person convince them not to conquer Earth. The right choice is...,a diplomat|a politician|a cricketer,Morality
-A man runs a stop sign because he thinks traffic laws are stupid. He should be...,in jail|celebrated|executed,Morality
+A man runs a red light because he thinks traffic laws are pointless. He should be...,in jail|celebrated|executed,Morality
 A man is arrested for robbing the rich and giving to the poor. He should be...,in jail|celebrated|executed,Morality
 An alien broadcast asks any planet that receives their message to reply with their position. Earth should...,say something|sit quietly|attack,Morality
 You find a genie with a limited menu of wishes. You say “I wish for...”,world peace|crores of rupees|a talking horse,Morality
@@ -511,7 +511,7 @@ It is discovered that global warming is made worse by looking at puppy videos. Y
 A great flood is coming and your rescue boat is too small for every animal. You’d have no problem leaving behind...,mosquitoes|snakes|rats,Morality
 A great flood is coming and your rescue boat only has room for one more animal. You must save...,mosquitoes|snakes|rats,Morality
 Your plane is going down and you have one extra parachute. You must save...,the billionaire|the parent|the surgeon,Morality
-You think your neighbor is a serial killer but you need proof. What you should do is...,tell everyone|lay a trap|break into their house,Morality
+You think your neighbour is a serial killer but you need proof. What you should do is...,tell everyone|lay a trap|break into their house,Morality
 You seriously dent a stranger’s car in a parking lot. You then...,get out of there|leave a note|try and fix it,Morality
 An ATM gives you twice the amount of money you requested. What you should do is...,keep it|turn it in|tell your grandmother,Morality
 A ten-year-old eats a supermarket grape without paying. What you should do is...,report them|tell them to confess|give a thumbs up,Morality
@@ -522,9 +522,9 @@ A good friend is worried they won’t graduate and asks to cheat off your test. 
 You spot a coworker’s wedding ring in the sink. You must...,keep it|flush it and forget it|bring it to them,Morality
 You accidentally leave the tap running and flood a petrol pump washroom. What you should do is...,tell someone|fix it|leave a note,Morality
 Your child’s goldfish dies while they’re at school. You should then...,secretly replace it|leave it|dispose of it,Morality
-Your best friend’s spouse criticizes your outfit. What you should do is...,get outraged|politely go along with it|enthusiastically say “Yes!”,Morality
+Your best friend’s spouse says your outfit looks terrible. You should...,get outraged|politely agree|change clothes immediately,Morality
 You’re chosen to represent your city in a deadly survival contest. You should try to...,hide and survive|destroy everyone|put an end to this once and for all,Morality
-The perfect sofa has been sitting on the sidewalk for over 24 hours. You should...,take it|leave it|call a friend to help you,Morality
+The perfect sofa has been sitting on the footpath for over 24 hours. You should...,take it|leave it|call a friend to help you,Morality
 You see a diamond necklace on a sleeping grizzly bear. You should...,take it|leave it|call a friend to help you,Morality
 You’re arrested and the officer accidentally leaves the cell unlocked. You then...,get out of there|tell someone|leave a note,Morality
 You and a stranger are stuck in the desert with enough water for one. What you should do is...,split it|keep it|let them have it,Morality
@@ -534,18 +534,18 @@ You gain the ability to turn invisible and then...,fight crime|get rich|tell no 
 You find your old roommate’s jacket in your house. It’s really expensive so you should...,drop it off|sell it online|keep it,Morality
 An old merchant gives you a doll that supposedly contains an evil spirit. You would...,keep it forever|sell it online|re-gift it,Morality
 A woman asks you to watch her purse while she goes to the restroom. You would...,refuse and leave|agree and stay|agree and leave,Morality
-You secretly and accidentally feed your vegetarian friend meat. You then...,give them the Heimlich|give them money|ask for forgiveness,Morality
+You accidentally feed your vegetarian friend meat. You then...,confess right away|keep it secret|tell them it was paneer,Morality
 You find a coworker's secret diary. What you should do is...,read it|ignore it|return it,Morality
 Your plane is crashing and you’re one parachute short. You DON’T save...,the billionaire|the parent|the surgeon,Morality
-Things at a Shaadi,Dulha|Dulhan|Stage|Baraat|Nikah|Qazi|Haq Mehr|Sehra|Mehndi|Doodh Pilai|Joota Chupai|Rukhsati|Walima|Photographer|Marquee|Shamiana|Biryani|Salami|Garland|Fireworks,
-Pakistani Snacks,Nimko|Slanty|Kurkure|Super Crisp|Lays|Cake Rusk|Rusk|Namak Paray|Shakar Paray|Bakarkhani|Nan Khatai|Zeera Biscuit|Daal Moth|Papar|Patties|Chicken Roll|Shami Kebab|Sandwich|Kachori|Khajla,
+Things at a Shaadi,Dulha|Dulhan|Stage|Qazi|Nikahnama|Sherwani|Lehenga|Kulla|Marquee|Shamiana|Lights|Biryani|Photographer|Garland|Fireworks|Lifafa|Gift Table|Waiters|Rishta Aunties|Valet Parking,
+Pakistani Snacks,Nimko|Slanty|Kurkure|Super Crisp|Lays|Cake Rusk|Samosa|Namak Paray|Shakar Paray|Bakarkhani|Nan Khatai|Zeera Biscuit|Daal Moth|Papar|Patties|Chicken Roll|Shami Kebab|Sandwich|Kachori|Khajla,
 Things in a Hostel Room,Bunk Bed|Mattress|Pillow|Locker|Padlock|Study Table|Bucket|Electric Kettle|Instant Noodles|Ceiling Fan|Laptop|Extension Board|Charger|Roommate|Clothesline|Iron|Notes|Calendar|Slippers|Prayer Mat,
 Things in a Masjid,Minaret|Dome|Mihrab|Minbar|Imam|Muezzin|Wuzu Khana|Prayer Mat|Saf|Quran|Rehal|Tasbeeh|Topi|Shoe Rack|Donation Box|Courtyard|Loudspeaker|Clock|Chandelier|Fans,
-Things in a Classroom,Blackboard|Whiteboard|Chalk|Duster|Marker|Desk|Bench|Teacher|Monitor|Register|Attendance|Bag|Notebook|Textbook|Pencil Box|Map|Clock|Fan|Window|Dustbin,
+Things in a Classroom,Blackboard|Whiteboard|Chalk|Duster|Marker|Desk|Bench|Teacher|Monitor|Register|School Bell|Bag|Notebook|Textbook|Pencil Box|Map|Clock|Fan|Window|Dustbin,
 Things at a Railway Station,Platform|Train|Engine|Bogie|Ticket|Ticket Window|Coolie|Luggage|Bench|Clock|Whistle|Signal|Track|Waiting Room|Tea Stall|Bookstall|Station Master|Announcement|Footbridge|Water Cooler,
 Things in a Hospital,Doctor|Nurse|Ward|Bed|Stretcher|Wheelchair|Drip|Injection|Stethoscope|X-Ray|Operation Theatre|Emergency|Ambulance|Pharmacy|Reception|Waiting Area|Bandage|Thermometer|Blood Pressure Machine|Prescription,
 Things in a Car,Steering Wheel|Seat Belt|Gear|Brake|Accelerator|Clutch|Horn|Dashboard|Speedometer|Rear-View Mirror|Side Mirror|Wipers|Headlights|Indicator|AC|Glove Box|Spare Tyre|Jack|Air Freshener|Dashcam,
-Things at the Beach,Sand|Waves|Sea Shell|Crab|Camel Ride|Horse Ride|Sandcastle|Bucket|Spade|Umbrella|Sunglasses|Sunscreen|Lifeguard|Boat|Seagull|Sunset|Corn on the Cob|Huts|Tide|Footprints,
+Things at the Beach,Sand|Waves|Sea Shell|Crab|Camel Ride|Horse Ride|Sandcastle|Bucket|Spade|Umbrella|Sunglasses|Sunscreen|Lifeguard|Boat|Seagull|Sunset|Bhutta|Huts|Tide|Footprints,
 Professions,Doctor|Engineer|Teacher|Lawyer|Pilot|Police Officer|Soldier|Farmer|Tailor|Barber|Electrician|Plumber|Carpenter|Mechanic|Chef|Accountant|Journalist|Shopkeeper|Driver|Banker,
 Things at a Cricket Match,Bat|Ball|Stumps|Bails|Pitch|Crease|Umpire|Batsman|Bowler|Wicketkeeper|Fielder|Boundary|Six|Four|Scoreboard|Helmet|Pads|Gloves|Toss|Third Umpire,
 Things at a Sunday Bazaar,Stalls|Vegetables|Fruit|Second-Hand Clothes|Shoes|Crockery|Toys|Bedsheets|Curtains|Plastic Buckets|Bargaining|Crowd|Parking|Plants|Chickens|Fish|Spices|Dry Fruit|Jewellery|Old Books,
@@ -699,3 +699,12 @@ Guests arrive unannounced right at dinner time and there isn’t enough salan. Y
 Your phupho sends a WhatsApp forward saying onions cure every disease. You...,correct her politely|forward it to everyone|reply with a thumbs up,Morality
 The light goes out in the last over of a Pakistan–India match. You...,run to a neighbour with a UPS|follow it on the radio|go outside and shout at the transformer,Morality
 Your friend asks you to tell everyone they’re “five minutes away” when they haven’t even left home. You...,cover for them|tell the truth|say nothing,Morality
+Things at a Bakra Mandi,Goat|Cow|Bull|Camel|Sheep|Dumba|Beopari|Bargaining|Teeth Check|Fodder|Hay|Garland|Bell|Mehndi on Goat|Tent|Mud|Flies|Cash|Pickup Truck|Rope,
+Things at a Mela,Jhoolay|Giant Wheel|Maut ka Kuan|Balloons|Candy Floss|Bangles|Jalebi|Pakoray|Toy Stalls|Puppet Show|Magic Show|Kabaddi|Wrestling|Camel Ride|Whistles|Crowd|Dust|Lost Child|Ticket Booth|Stalls,
+Things on a Rooftop,Water Tank|Solar Panels|Dish Antenna|Clothesline|Charpai|Kites|Pigeons|Railing|Stairs|Plants|Mattresses|Old Furniture|Crows|Sunset|Cricket Ball|Wires|Neighbours|Drying Chillies|Barbecue|Parapet Wall,
+Things at a Bus Adda,Daewoo|Coaster|Wagon|Ticket Counter|Conductor|Driver|Hostess|Luggage|Roof Rack|Waiting Hall|Announcement|Chai Stall|Hawkers|Porter|Rickshaws|Crowd|Seat Number|Snacks|Agent Shouting Destinations|Horn,
+Things at a Quran Class,Qari Sahib|Quran|Noorani Qaida|Sipara|Rehal|Chatai|Topi|Dupatta|Sabaq|Sabqi|Manzil|Tajweed|Makharij|Hifz|Dua|Khatam|Students|Masjid|Tasbeeh|Recitation,
+Draw a tandoor.,Draw an oven.|Draw a clay pot.|Draw a well.|Draw a chimney.|Draw a barbecue grill.,Drawing 2
+Draw a charpai.,Draw a bed.|Draw a hammock.|Draw a takht.|Draw a bench.|Draw a swing.,Drawing 2
+Draw a hand fan (pankhi).,Draw a ceiling fan.|Draw a kite.|Draw a fly swatter.|Draw a leaf.|Draw a peacock.,Drawing 2
+Your neighbour’s qurbani goat eats all your plants the night before Eid. You...,ask for compensation|forgive and forget|ask for a bigger share of the meat,Morality

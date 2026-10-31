@@ -8182,16 +8182,16 @@
   },
   {
    "id": "game3-630",
-   "Name": "A man runs a stop sign because he thinks traffic laws are stupid. He should be...",
+   "Name": "A man runs a red light because he thinks traffic laws are pointless. He should be...",
    "Description": "in jail|celebrated|executed",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A man runs a stop sign because he thinks traffic laws are stupid. He should be...",
     "Description": "in jail|celebrated|executed",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Red lights are the everyday local reference; the joke is unchanged."
   },
   {
    "id": "game3-631",
@@ -8299,16 +8299,16 @@
   },
   {
    "id": "game3-639",
-   "Name": "You think your neighbor is a serial killer but you need proof. What you should do is...",
+   "Name": "You think your neighbour is a serial killer but you need proof. What you should do is...",
    "Description": "tell everyone|lay a trap|break into their house",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "You think your neighbor is a serial killer but you need proof. What you should do is...",
     "Description": "tell everyone|lay a trap|break into their house",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Uses the British spelling 'neighbour' found elsewhere in the deck."
   },
   {
    "id": "game3-640",
@@ -8481,16 +8481,16 @@
   },
   {
    "id": "game3-653",
-   "Name": "Your best friend’s spouse criticizes your outfit. What you should do is...",
-   "Description": "get outraged|politely go along with it|enthusiastically say “Yes!”",
+   "Name": "Your best friend’s spouse says your outfit looks terrible. You should...",
+   "Description": "get outraged|politely agree|change clothes immediately",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Your best friend’s spouse criticizes your outfit. What you should do is...",
     "Description": "get outraged|politely go along with it|enthusiastically say “Yes!”",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: The old option 'enthusiastically say Yes!' did not answer the prompt."
   },
   {
    "id": "game3-654",
@@ -8507,16 +8507,16 @@
   },
   {
    "id": "game3-655",
-   "Name": "The perfect sofa has been sitting on the sidewalk for over 24 hours. You should...",
+   "Name": "The perfect sofa has been sitting on the footpath for over 24 hours. You should...",
    "Description": "take it|leave it|call a friend to help you",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "The perfect sofa has been sitting on the sidewalk for over 24 hours. You should...",
     "Description": "take it|leave it|call a friend to help you",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Replaces US 'sidewalk' with the local 'footpath'."
   },
   {
    "id": "game3-656",
@@ -8637,8 +8637,8 @@
   },
   {
    "id": "game3-665",
-   "Name": "You secretly and accidentally feed your vegetarian friend meat. You then...",
-   "Description": "give them the Heimlich|give them money|ask for forgiveness",
+   "Name": "You accidentally feed your vegetarian friend meat. You then...",
+   "Description": "confess right away|keep it secret|tell them it was paneer",
    "Category": "Morality",
    "action": "edit",
    "original": {
@@ -8646,7 +8646,7 @@
     "Description": "give them the Heimlich|give them money|ask for forgiveness",
     "Category": "Morality"
    },
-   "note": "vegan → vegetarian"
+   "note": "vegan → vegetarian; Debate: Removes the leftover Heimlich option from another template and the contradictory 'secretly and accidentally'."
   },
   {
    "id": "game3-666",
@@ -8677,18 +8677,18 @@
   {
    "id": null,
    "Name": "Things at a Shaadi",
-   "Description": "Dulha|Dulhan|Stage|Baraat|Nikah|Qazi|Haq Mehr|Sehra|Mehndi|Doodh Pilai|Joota Chupai|Rukhsati|Walima|Photographer|Marquee|Shamiana|Biryani|Salami|Garland|Fireworks",
+   "Description": "Dulha|Dulhan|Stage|Qazi|Nikahnama|Sherwani|Lehenga|Kulla|Marquee|Shamiana|Lights|Biryani|Photographer|Garland|Fireworks|Lifafa|Gift Table|Waiters|Rishta Aunties|Valet Parking",
    "Category": "",
    "action": "add",
-   "note": "New card; QA: Dhol (music) -> Shamiana"
+   "note": "New card; QA: Dhol (music) -> Shamiana; Debate: Removes about 10 words already on card 102 'Pakistani Wedding Traditions'; physical shaadi items keep the two cards distinct."
   },
   {
    "id": null,
    "Name": "Pakistani Snacks",
-   "Description": "Nimko|Slanty|Kurkure|Super Crisp|Lays|Cake Rusk|Rusk|Namak Paray|Shakar Paray|Bakarkhani|Nan Khatai|Zeera Biscuit|Daal Moth|Papar|Patties|Chicken Roll|Shami Kebab|Sandwich|Kachori|Khajla",
+   "Description": "Nimko|Slanty|Kurkure|Super Crisp|Lays|Cake Rusk|Samosa|Namak Paray|Shakar Paray|Bakarkhani|Nan Khatai|Zeera Biscuit|Daal Moth|Papar|Patties|Chicken Roll|Shami Kebab|Sandwich|Kachori|Khajla",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'Rusk' and 'Cake Rusk' were near-duplicate secret words."
   },
   {
    "id": null,
@@ -8709,10 +8709,10 @@
   {
    "id": null,
    "Name": "Things in a Classroom",
-   "Description": "Blackboard|Whiteboard|Chalk|Duster|Marker|Desk|Bench|Teacher|Monitor|Register|Attendance|Bag|Notebook|Textbook|Pencil Box|Map|Clock|Fan|Window|Dustbin",
+   "Description": "Blackboard|Whiteboard|Chalk|Duster|Marker|Desk|Bench|Teacher|Monitor|Register|School Bell|Bag|Notebook|Textbook|Pencil Box|Map|Clock|Fan|Window|Dustbin",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'Register' and 'Attendance' were effectively the same word."
   },
   {
    "id": null,
@@ -8741,10 +8741,10 @@
   {
    "id": null,
    "Name": "Things at the Beach",
-   "Description": "Sand|Waves|Sea Shell|Crab|Camel Ride|Horse Ride|Sandcastle|Bucket|Spade|Umbrella|Sunglasses|Sunscreen|Lifeguard|Boat|Seagull|Sunset|Corn on the Cob|Huts|Tide|Footprints",
+   "Description": "Sand|Waves|Sea Shell|Crab|Camel Ride|Horse Ride|Sandcastle|Bucket|Spade|Umbrella|Sunglasses|Sunscreen|Lifeguard|Boat|Seagull|Sunset|Bhutta|Huts|Tide|Footprints",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Local beach snack replaces the Western 'Corn on the Cob'."
   },
   {
    "id": null,
@@ -9969,6 +9969,78 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Light honesty dilemma; a concrete scenario, unlike Rating card 563."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Bakra Mandi",
+   "Description": "Goat|Cow|Bull|Camel|Sheep|Dumba|Beopari|Bargaining|Teeth Check|Fodder|Hay|Garland|Bell|Mehndi on Goat|Tent|Mud|Flies|Cash|Pickup Truck|Rope",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local Eid topic; no such word list in the deck (only a decoy on card 725)."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Mela",
+   "Description": "Jhoolay|Giant Wheel|Maut ka Kuan|Balloons|Candy Floss|Bangles|Jalebi|Pakoray|Toy Stalls|Puppet Show|Magic Show|Kabaddi|Wrestling|Camel Ride|Whistles|Crowd|Dust|Lost Child|Ticket Booth|Stalls",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local topic; no mela list exists. A magic show is stage magic, which the owner allows."
+  },
+  {
+   "id": null,
+   "Name": "Things on a Rooftop",
+   "Description": "Water Tank|Solar Panels|Dish Antenna|Clothesline|Charpai|Kites|Pigeons|Railing|Stairs|Plants|Mattresses|Old Furniture|Crows|Sunset|Cricket Ball|Wires|Neighbours|Drying Chillies|Barbecue|Parapet Wall",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: new local topic without the near-duplicate pairs."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Bus Adda",
+   "Description": "Daewoo|Coaster|Wagon|Ticket Counter|Conductor|Driver|Hostess|Luggage|Roof Rack|Waiting Hall|Announcement|Chai Stall|Hawkers|Porter|Rickshaws|Crowd|Seat Number|Snacks|Agent Shouting Destinations|Horn",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: replaces the near-duplicate, non-local Departure Board/Timetable."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Quran Class",
+   "Description": "Qari Sahib|Quran|Noorani Qaida|Sipara|Rehal|Chatai|Topi|Dupatta|Sabaq|Sabqi|Manzil|Tajweed|Makharij|Hifz|Dua|Khatam|Students|Masjid|Tasbeeh|Recitation",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: Sabqi replaces the duplicate 'Revision', with the common spelling Sipara."
+  },
+  {
+   "id": null,
+   "Name": "Draw a tandoor.",
+   "Description": "Draw an oven.|Draw a clay pot.|Draw a well.|Draw a chimney.|Draw a barbecue grill.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local drawing prompt with close decoys; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Draw a charpai.",
+   "Description": "Draw a bed.|Draw a hammock.|Draw a takht.|Draw a bench.|Draw a swing.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: a takht replaces the weak fishing-net decoy."
+  },
+  {
+   "id": null,
+   "Name": "Draw a hand fan (pankhi).",
+   "Description": "Draw a ceiling fan.|Draw a kite.|Draw a fly swatter.|Draw a leaf.|Draw a peacock.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local object with plausible look-alike decoys; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Your neighbour’s qurbani goat eats all your plants the night before Eid. You...",
+   "Description": "ask for compensation|forgive and forget|ask for a bigger share of the meat",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Funny, clean local Morality dilemma; no goat-themed one exists."
   }
  ]
 }

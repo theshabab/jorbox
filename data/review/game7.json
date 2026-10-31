@@ -6486,12 +6486,12 @@
    "id": "game7-590",
    "Description": "don't forget lotion",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "dont forget lotion",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "Debate: A weak prompt with no scene; the deck already has a better lotion card"
   },
   {
    "id": "game7-591",
@@ -6605,14 +6605,14 @@
   },
   {
    "id": "game7-601",
-   "Description": "xo xo... gossiping gargoyle",
+   "Description": "gossiping gargoyle on the rooftop",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "xo xo... gossip gargoyle",
     "Category": "Standard Prompts"
    },
-   "note": "removed TV reference"
+   "note": "removed TV reference; Debate: Removes the Gossip Girl 'xo xo' sign-off and keeps a drawable gargoyle"
   },
   {
    "id": "game7-602",
@@ -6693,14 +6693,14 @@
   },
   {
    "id": "game7-609",
-   "Description": "hold up, jeff can juggle? since when?",
+   "Description": "hold up, Jamshed can juggle? since when?",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "hold up jeff knows bongos? since when",
     "Category": "Standard Prompts"
    },
-   "note": "removed music reference"
+   "note": "removed music reference; Debate: Uses a local name in place of Jeff; the joke is unchanged"
   },
   {
    "id": "game7-610",
@@ -6803,14 +6803,14 @@
   },
   {
    "id": "game7-619",
-   "Description": "time to humiliate my attorney",
+   "Description": "time to humiliate my lawyer",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "time to humiliate my attorney",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Lawyer' is the local word and matches other cards in the deck"
   },
   {
    "id": "game7-620",
@@ -7056,14 +7056,14 @@
   },
   {
    "id": "game7-642",
-   "Description": "stinky boy buys cologne",
+   "Description": "stinky boy buys a bottle of attar",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "stanky boy buys cologne.",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Uses attar, a familiar local item, in place of cologne; the joke is unchanged"
   },
   {
    "id": "game7-643",
@@ -7133,25 +7133,25 @@
   },
   {
    "id": "game7-649",
-   "Description": "this! frog! is on fireeeee",
+   "Description": "a frog breathing fire after eating a hari mirch",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "this! frog! is on fireeeee",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the 'Girl on Fire' song parody and keeps the fiery-frog joke with one clear local twist (challenger's amended version)"
   },
   {
    "id": "game7-650",
    "Description": "bagel and cream fleas",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "bagel and cream fleas",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: A US-centric pun on 'bagel and cream cheese' that local players will not recognise; the deck has another bagel card"
   },
   {
    "id": "game7-651",
@@ -7166,14 +7166,14 @@
   },
   {
    "id": "game7-652",
-   "Description": "sweet jerome climbs the hill",
+   "Description": "sweet Jameel climbs the hill",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "sweet jerome climbs the hill",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Uses a local name in place of Jerome"
   },
   {
    "id": "game7-653",
@@ -7223,12 +7223,12 @@
    "id": "game7-657",
    "Description": "cartoon",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "cartoon",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Every drawing is a cartoon, so guessers cannot tell it from the fakes; other cards cover cartoons with a real idea"
   },
   {
    "id": "game7-658",
@@ -7410,12 +7410,12 @@
    "id": "game7-674",
    "Description": "i clant backspace",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "i clant backspace",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The joke is a written typo, which a drawing cannot show"
   },
   {
    "id": "game7-675",
@@ -7529,14 +7529,14 @@
   },
   {
    "id": "game7-685",
-   "Description": "wearing funeral clogs to a wedding",
+   "Description": "showing up to a wedding dressed for a funeral",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "wearing funeral clogs to a wedding",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Funeral clogs' are not a recognisable item here; the plain wording keeps the joke clear and drawable"
   },
   {
    "id": "game7-686",
@@ -7650,14 +7650,14 @@
   },
   {
    "id": "game7-696",
-   "Description": "lemonade stand mafia",
+   "Description": "nimbu pani stall mafia",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "lemonade stand mafia",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces the US lemonade stand with its local equivalent and keeps the joke"
   },
   {
    "id": "game7-697",
@@ -18845,6 +18845,69 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Local object with a personality. No similar chai or spoon card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "an octopus making eight rotis at once",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A drawable local twist that differs from the deck's other octopus cards"
+  },
+  {
+   "id": null,
+   "Description": "a tortoise overtaking a rickshaw",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A clear slow-beats-fast joke with a local vehicle (challenger's amended version)"
+  },
+  {
+   "id": null,
+   "Description": "a penguin selling hot chai in the desert",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A drawable double contrast with a local touch; not a duplicate"
+  },
+  {
+   "id": null,
+   "Description": "a hedgehog trying to hug a balloon",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Simple, drawable and funny for families; not a duplicate"
+  },
+  {
+   "id": null,
+   "Description": "a fish in a bucket planning its escape",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Drawable scheming-animal humour; not a duplicate"
+  },
+  {
+   "id": null,
+   "Description": "a giant kettle chasing a tiny teacup",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A drawable, absurd chase between household objects; not a duplicate"
+  },
+  {
+   "id": null,
+   "Description": "a crocodile sleeping under a mosquito net",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A familiar local item in an absurd scene; not a duplicate"
+  },
+  {
+   "id": null,
+   "Description": "a tonga horse stuck in a traffic jam",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A drawable local street scene; not a duplicate"
+  },
+  {
+   "id": null,
+   "Description": "a cat guarding the dastarkhwan from the guests",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Family-gathering humour with a reversal; easy to draw and not a duplicate"
   }
  ]
 }
