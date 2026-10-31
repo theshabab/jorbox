@@ -5036,15 +5036,15 @@
   },
   {
    "id": null,
-   "Description": "Get a player to show you an old photo of themselves in their school uniform.",
+   "Description": "Get a player to describe what their old school uniform looked like.",
    "action": "add",
-   "note": "New card (debate): Harder, funnier variant of the show-a-photo missions; not a duplicate."
+   "note": "New card (debate): Harder, funnier variant of the show-a-photo missions; not a duplicate.; Debate: Most players have no school-uniform photo on their phone; describing the uniform is always possible."
   },
   {
    "id": null,
-   "Description": "Get a player to say 'Bhai, chill kar!'",
+   "Description": "Get a player to say 'Bhai, chill kar!' (Bro, relax!).",
    "action": "add",
-   "note": "New card (debate): Common local phrase easily provoked by teasing; not in the deck."
+   "note": "New card (debate): Common local phrase easily provoked by teasing; not in the deck.; Debate: Adds the missing final punctuation and a translation, like the other say-a-phrase cards."
   },
   {
    "id": null,
@@ -5060,9 +5060,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to say Quaid-e-Azam's motto: Unity, Faith and Discipline (Iman, Ittehad, Nazm).",
+   "Description": "Get a player to say Quaid-e-Azam's motto: 'Iman, Ittehad, Nazm' (Faith, Unity, Discipline).",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment, tidied: Pakistani general-knowledge mission accepting English or Urdu form, consistent with recitation cards."
+   "note": "New card (debate): Challenger's amendment, tidied: Pakistani general-knowledge mission accepting English or Urdu form, consistent with recitation cards.; Debate: Puts the Urdu motto in quotes and gives the English in the same order, in the deck's say-a-phrase format."
   },
   {
    "id": null,
@@ -5213,6 +5213,54 @@
    "Description": "Get a player to tell you which Pakistani city they would move to if they had to leave their own.",
    "action": "add",
    "note": "New card (debate): Open local question that differs from the favourite-city and best-food-city cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit how many times they hit snooze when their alarm goes off for Fajr.",
+   "action": "add",
+   "note": "New card (debate): The owner allows worship-related personal questions and the deck has no Fajr card. Uses the challenger's clearer wording."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the jinn or ghost story that scared them most as a child.",
+   "action": "add",
+   "note": "New card (debate): The owner allows jinn and ghost content, and the deck has no jinn or ghost card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to do an impression of a shaadi aunty asking 'Beta, aajkal kya kar rahe ho?'",
+   "action": "add",
+   "note": "New card (debate): A familiar local impression that no other card in the deck repeats."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the first thing they would do as Prime Minister for a day.",
+   "action": "add",
+   "note": "New card (debate): The owner allows politics, and this is different from the existing politician cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite qawwali.",
+   "action": "add",
+   "note": "New card (debate): The owner allows qawwali. It pairs with the naat and milli naghma cards and is not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to do an impression of a news anchor announcing breaking news.",
+   "action": "add",
+   "note": "New card (debate): An impression mission, which is different from the existing card about reading a headline out loud."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain the rules of carrom to you.",
+   "action": "add",
+   "note": "New card (debate): A popular local game that is not in the deck; it follows the cricket and Ludo rules cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which car they would buy if money were no problem.",
+   "action": "add",
+   "note": "New card (debate): An easy conversation mission; no car card exists, and it is different enough from the dream-house card."
   }
  ]
 }

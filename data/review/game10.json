@@ -5651,9 +5651,9 @@
   },
   {
    "id": null,
-   "Name": "Name a part of the body washed in wudu.",
+   "Name": "Name a part of the body washed or wiped in wudu.",
    "action": "add",
-   "note": "New card (debate): Accurate and respectful: hands, mouth, nose, face, arms and feet are washed. The head and ears are wiped, not washed, so 'washed' is correct. The small answer set means answers will match."
+   "note": "New card (debate): Accurate and respectful: hands, mouth, nose, face, arms and feet are washed. The head and ears are wiped, not washed, so 'washed' is correct. The small answer set means answers will match.; Debate: In wudu the head (and ears) is wiped (masah), not washed. The new wording makes the common answer 'head' correct."
   },
   {
    "id": null,
@@ -6008,6 +6008,60 @@
    "Name": "Name a reason people go to the bank.",
    "action": "add",
    "note": "New card (debate): Daily-life card with common answers. No bank card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do on Shab-e-Barat.",
+   "action": "add",
+   "note": "New card (debate): A widely observed local occasion. The prompt only describes what people do and gives no ruling. Answers converge (nafl, halwa, patakhay, visiting graves), and no Shab-e-Barat card exists."
+  },
+  {
+   "id": null,
+   "Name": "Name something hanging from the mirror in a Pakistani car.",
+   "action": "add",
+   "note": "New card (debate): Very local, with converging answers (tasbeeh, Ayat-ul-Kursi, air freshener, taveez). Card 99 (messy car) is different."
+  },
+  {
+   "id": null,
+   "Name": "Name something Pakistanis say when they actually mean 'no'.",
+   "action": "add",
+   "note": "New card (debate): Relatable humour with shared answers. The joke is about people's habits, not a religious phrase."
+  },
+  {
+   "id": null,
+   "Name": "Name a rasm (custom) at a Pakistani wedding.",
+   "action": "add",
+   "note": "New card (debate): Strong answers (joota chupai, doodh pilai, ubtan, rukhsati). Not covered by 102, 202, 543 or 710."
+  },
+  {
+   "id": null,
+   "Name": "Name something Ammi saves only for guests.",
+   "action": "add",
+   "note": "New card (debate): A classic desi joke with converging answers. Card 621 covers food served to guests, so this is distinct."
+  },
+  {
+   "id": null,
+   "Name": "Name something on the roof of a Pakistani house.",
+   "action": "add",
+   "note": "New card (debate): Asks for objects (tanki, solar panels, dish antenna), while 665 asks for activities. The overlap is small."
+  },
+  {
+   "id": null,
+   "Name": "Name something announced on the masjid loudspeaker besides the azan.",
+   "action": "add",
+   "note": "New card (debate): Local, respectful, with converging answers (janaza, lost child, lost item, water supply). Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous place to visit in Islamabad.",
+   "action": "add",
+   "note": "New card (debate): Completes the set with 707 (Lahore) and 708 (Karachi). The answers are well known. Card 578 is a this-or-that card, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name something kids get scolded for at a dawat.",
+   "action": "add",
+   "note": "New card (debate): Family humour with converging answers. Distinct from 152 and 198."
   }
  ]
 }

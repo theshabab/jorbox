@@ -7130,10 +7130,10 @@
   },
   {
    "id": null,
-   "Name": "Sunrise or sunset: which do you prefer?",
+   "Name": "Sunrise after Fajr or sunset at Maghrib: which do you prefer, and why?",
    "Category": "Ice Breakers & Fun General",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Challenger's amended version. It adds an accurate local frame and a follow-up without repeating the 'where to watch a sunset' idea of card 237."
   },
   {
    "id": null,
@@ -7165,10 +7165,10 @@
   },
   {
    "id": null,
-   "Name": "What is the longest you have ever waited in a queue, and what for?",
+   "Name": "What is the longest you have ever waited in a queue (NADRA office, bank, petrol pump), and was it worth it?",
    "Category": "Ice Breakers & Fun General",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Familiar local queue examples and a better follow-up question. Not a duplicate of the card about saving a spot in a queue."
   },
   {
    "id": null,
@@ -7291,10 +7291,10 @@
   },
   {
    "id": null,
-   "Name": "Have you ever waved back at someone who was not waving at you?",
+   "Name": "Have you ever waved back at someone who was not waving at you? How did you cover it up?",
    "Category": "More Fun Questions",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The follow-up gets a story instead of a yes or no."
   },
   {
    "id": null,
@@ -7319,10 +7319,10 @@
   },
   {
    "id": null,
-   "Name": "Who in your family snores the loudest?",
+   "Name": "Who in your family snores the loudest, and what does it sound like? Do your best impression.",
    "Category": "More Fun Questions",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Turns a one-name answer into something people can act out."
   },
   {
    "id": null,
@@ -7340,10 +7340,10 @@
   },
   {
    "id": null,
-   "Name": "How dramatic is your reaction when you see a cockroach?",
+   "Name": "What do you do when a flying cockroach comes into the room? Be honest.",
    "Category": "More Fun Questions",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Same idea with a sharper, familiar picture."
   },
   {
    "id": null,
@@ -7382,10 +7382,10 @@
   },
   {
    "id": null,
-   "Name": "Who taught you to read the Quran, and what do you remember about those lessons?",
-   "Category": "Ice Breakers & Fun General",
+   "Name": "Who taught you to read the Quran (a Qari sahab, an aunty, Ammi), and what do you remember about those lessons?",
+   "Category": "Deep & ThoughtProvoking",
    "action": "add",
-   "note": "New card (debate): Respectful worship-related personal question (allowed); no such card in the deck"
+   "note": "New card (debate): Respectful worship-related personal question (allowed); no such card in the deck; Debate: A reflective faith memory, so it now sits with the masjid and Jummah memory cards. Respectful examples help people answer."
   },
   {
    "id": null,
@@ -7397,16 +7397,16 @@
   {
    "id": null,
    "Name": "What's your best bargaining story from a bazaar?",
-   "Category": "Ice Breakers & Fun General",
+   "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card (debate): A haggling story is distinct from the existing 'best bargain' card; very desi"
+   "note": "New card (debate): A haggling story is distinct from the existing 'best bargain' card; very desi; Debate: Category move only. Bazaar bargaining is a desi-life topic."
   },
   {
    "id": null,
    "Name": "What was your best hiding spot in chupan chupai (hide and seek)?",
-   "Category": "Ice Breakers & Fun General",
+   "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card (debate): Specific, fun childhood prompt; not a duplicate of the favorite-childhood-game card"
+   "note": "New card (debate): Specific, fun childhood prompt; not a duplicate of the favorite-childhood-game card; Debate: Category move only. It belongs with the gully cricket card."
   },
   {
    "id": null,
@@ -8016,6 +8016,69 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card (debate): Shared school-commute nostalgia that no other card covers. 540 and 713 ask about rickshaw drivers and truck art, not school rides."
+  },
+  {
+   "id": null,
+   "Name": "What is a disappointment that later turned out to be a blessing in disguise?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): A distinct reflective card that is different from the regret, tawakkul and risk cards."
+  },
+  {
+   "id": null,
+   "Name": "What is one thing about your deen you would like to learn more about this year?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): A respectful faith-growth question that makes no factual claims and is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which elder in your family tells the same story at every gathering, and how does it go?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Affectionate family humour that the deck does not have yet."
+  },
+  {
+   "id": null,
+   "Name": "Who in your family is the worst at keeping a surprise secret?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): A light family question that invites a story and is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which relative's house has the best food at a dawat, and what do you always hope they make?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Dawat food culture. Different from the Nani/Dadi dish card and the late-arrival card."
+  },
+  {
+   "id": null,
+   "Name": "If you could spend one day 100 years ago in any city that is now in Pakistan, which would you pick and why?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version. It is worded accurately because Pakistan did not exist in 1926."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing you have seen happen at iftar or taraweeh in the masjid?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal questions are allowed. The humour is about people, not worship, and it differs from the existing masjid and iftar memory cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing a guest has done while staying over at your house?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Overnight guests are not covered by the existing guest cards."
+  },
+  {
+   "id": null,
+   "Name": "Which teacher's catchphrase or habit do you still remember? Do your best impression.",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): A playful school memory that is different from the favourite, strictest and embarrassing teacher cards."
   }
  ]
 }
