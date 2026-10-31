@@ -3950,10 +3950,10 @@
   },
   {
    "id": null,
-   "Description": "How much do you enjoy eating mangoes in summer?",
+   "Description": "How likely are you to eat a mango the desi way, squeezing and sucking it straight from the skin?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The original gets almost no spread (nearly everyone answers ~100) and overlaps 353; the desi-style eating version splits players and stays a 0 to 100 question."
   },
   {
    "id": null,
@@ -5522,6 +5522,62 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Fits the nostalgia cards. It differs from 'hidden a bad result card', which asks about hiding a result, not keeping old report cards."
+  },
+  {
+   "id": null,
+   "Description": "How many hours of sleep did you get last night?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): An earlier pass removed idx 30 as a duplicate of 434, and a later pass removed 434 as a duplicate of 30. That left the live deck with no card like this, so restoring one copy fixes the mistake. It is not churn."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you fallen asleep in class?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable school count; no class-sleeping card exists (269 class clown, 405 monitor, 407 sent out)."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you got an electric shock from a switch or appliance?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable household experience with a real spread; no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you left home and had to come back for something you forgot?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Everyday count, distinct from 455 (sent to the shop) and 381 (forgetting where you parked)."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you arrived at Eid prayer after it had already started?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's amendment: a gentle worship-related tease with a real spread of answers, where 'missed it' gets mostly 0s. No Eid prayer card exists."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to sleep right through an earthquake?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Asks whether you are a heavy sleeper, not about a sleep habit. Relatable in Pakistan and not duplicated."
+  },
+  {
+   "id": null,
+   "Description": "How many people in this room have you known since childhood?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Group-aware question others can guess; distinct from 46 and 321."
+  },
+  {
+   "id": null,
+   "Description": "How many umbrellas are in your house right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Household count in the style of the keys/chappals cards; not duplicated."
   }
  ]
 }

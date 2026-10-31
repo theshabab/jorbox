@@ -175,15 +175,15 @@
   {
    "id": "game8-14",
    "Name": "REAL PERSON <---> BOT",
-   "Description": "Write the first line of a rishta profile that is this likely to be a bot",
+   "Description": "Write the first line of a rishta profile that is this likely to have been written by a bot",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "REAL PERSON <---> BOT",
     "Description": "Write the first line of a rishta profile that is this likely to be a bot",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clarity: the profile is written by a bot, not itself a bot."
   },
   {
    "id": "game8-15",
@@ -578,7 +578,7 @@
   {
    "id": "game8-45",
    "Name": "NOT LIKELY <---> WANTED!!!",
-   "Description": "Make up a name of a person who is this likely to be on a police wanted poster",
+   "Description": "Make up a name for a person who is this likely to be on a police wanted poster",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -586,7 +586,7 @@
     "Description": "Make up a name of a person who is this likely to be on a wanted poster in the wild west",
     "Category": "Writing"
    },
-   "note": "Sweep: US wild west localised"
+   "note": "Sweep: US wild west localised; Debate: Grammar: 'name for a person', consistent with other cards."
   },
   {
    "id": "game8-46",
@@ -655,16 +655,16 @@
   },
   {
    "id": "game8-51",
-   "Name": "MOM HATES <---> MOM LOVES",
-   "Description": "Write the first line of a rishta profile that a mother is this likely to love",
+   "Name": "AMMI HATES <---> AMMI LOVES",
+   "Description": "Write the first line of a rishta profile that Ammi is this likely to love",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "MOM HATES <---> MOM LOVES",
     "Description": "Write the first line of a rishta profile that a mother is this likely to love",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: More natural local frame."
   },
   {
    "id": "game8-52",
@@ -721,28 +721,28 @@
   {
    "id": "game8-56",
    "Name": "NOT A PILOT <---> DEF A PILOT",
-   "Description": "Make up a name of a person who is this likely to be a pilot",
+   "Description": "Make up a name for a person who is this likely to be a pilot",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT A PILOT <---> DEF A PILOT",
     "Description": "Make up a name of a person who is this likely to be a pilot",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Grammar: 'name for a person', consistent with other cards."
   },
   {
    "id": "game8-57",
    "Name": "NORMAL HUMAN <---> ALIEN",
-   "Description": "Write the first line of a rishta profile that is this likely to be an alien trying to learn more about humans",
+   "Description": "Write the first line of a rishta profile that is this likely to have been written by an alien trying to learn about humans",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NORMAL HUMAN <---> ALIEN",
     "Description": "Write the first line of a rishta profile that is this likely to be an alien trying to learn more about humans",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Grammar/clarity: the profile is written by an alien."
   },
   {
    "id": "game8-58",
@@ -760,7 +760,7 @@
   {
    "id": "game8-59",
    "Name": "NOT A VILLAIN <---> SUPERVILLAIN!!!",
-   "Description": "Write the first line of a rishta profile that is this likely to be a secret supervillain",
+   "Description": "Write the first line of a rishta profile for someone who is this likely to be a secret supervillain",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -768,7 +768,7 @@
     "Description": "Write the first line of a rishta profile that is this likely to be a serial killer",
     "Category": "Writing"
    },
-   "note": "serial killer -> supervillain"
+   "note": "serial killer -> supervillain; Debate: Clarity; matches the other 'for someone who' rishta cards."
   },
   {
    "id": "game8-60",
@@ -980,8 +980,8 @@
   },
   {
    "id": "game8-76",
-   "Name": "THEY’RE LYING <---> THEY READ IT",
-   "Description": "Make up a title for a book that people are this likely to be honest about having read",
+   "Name": "EVERYONE PRETENDS <---> EVERYONE'S READ IT",
+   "Description": "Make up a title for a book that people who claim to have read it are this likely to have actually read",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -989,20 +989,20 @@
     "Description": "Make up a title for a book that a person is this likely to be telling the truth if they say they’ve read it",
     "Category": "Writing"
    },
-   "note": "unclear wording"
+   "note": "unclear wording; Debate: Original scale/task pairing was confusing; this states the joke directly (wording smoothed)."
   },
   {
    "id": "game8-77",
-   "Name": "NOT LIKELY <---> VERY DADLY",
-   "Description": "Make up a title for a book that you’re this likely to buy for a dad",
+   "Name": "NOT ABBU'S TYPE <---> PERFECT FOR ABBU",
+   "Description": "Make up a title for a book that would make this good a gift for Abbu",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT LIKELY <---> VERY DADLY",
     "Description": "Make up a title for a book that you’re this likely to buy for a dad",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clear opposite ends in a local frame; task now measures the same thing as the scale (challenger's amendment, reworded to fit both ends)."
   },
   {
    "id": "game8-78",
@@ -1214,16 +1214,16 @@
   },
   {
    "id": "game8-94",
-   "Name": "NOT FOOD <---> VERY FOOD",
-   "Description": "Make up a perfume name that’s this likely to smell like food",
+   "Name": "SMELLS LIKE FLOWERS <---> SMELLS LIKE BIRYANI",
+   "Description": "Make up a name for a perfume that smells this much like food",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT FOOD <---> VERY FOOD",
     "Description": "Make up a perfume name that’s this likely to smell like food",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Vague 'NOT FOOD <---> VERY FOOD' replaced with vivid, clear opposites; task matches the scale."
   },
   {
    "id": "game8-95",
@@ -1306,7 +1306,7 @@
   {
    "id": "game8-101",
    "Name": "“THEY SOUND NICE” <---> “YOU LIKE THEM?”",
-   "Description": "Make up a name for a friend group that someone’s mom would say with this much disdain",
+   "Description": "Make up a name for a friend group that Ammi would say with this much disdain",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -1314,7 +1314,7 @@
     "Description": "Make up a team name that someone’s mom would say with this much disdain",
     "Category": "Writing"
    },
-   "note": "team name made clearer as friend group"
+   "note": "team name made clearer as friend group; Debate: More local wording; meaning unchanged."
   },
   {
    "id": "game8-102",
@@ -9710,6 +9710,78 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): The owner allows qawwali, and the deck has no qawwali card. Josh is easy to draw."
+  },
+  {
+   "id": null,
+   "Name": "TRUSTWORTHY <---> TOTAL FRAUD",
+   "Description": "Make up a name for a mobile repair shop that is this trustworthy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local shop-name card; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "PATIENT <---> NONSTOP HORN",
+   "Description": "Write what a driver who is this impatient yells out of the window in a traffic jam",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable desi traffic humour; challenger's grammar fix."
+  },
+  {
+   "id": null,
+   "Name": "ON TIME <---> AFTER THE KHANA",
+   "Description": "Write an excuse a family gives for arriving at a shaadi this late",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local shaadi twist on late excuses; distinct from existing ones."
+  },
+  {
+   "id": null,
+   "Name": "MODEST <---> \"MASHALLAH, PERFECT\"",
+   "Description": "Write the \"about the boy\" line in a rishta biodata that his ammi has exaggerated this much",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fresh rishta angle; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "USELESS <---> LIFE-SAVING",
+   "Description": "Write a piece of advice for surviving a Lahore summer that is this useful",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local advice card; no heat/summer card exists."
+  },
+  {
+   "id": null,
+   "Name": "PERFECT TYPING <---> VOICE-TYPING CHAOS",
+   "Description": "Write a text message from Nani, who has just discovered voice typing, that is this garbled",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny family card, distinct from the Ammi voice-note card."
+  },
+  {
+   "id": null,
+   "Name": "TINY PORTIONS <---> FEEDS A KHANDAN",
+   "Description": "Make up a name for a restaurant whose portions are this big",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New angle (portion size) on restaurant names."
+  },
+  {
+   "id": null,
+   "Name": "BELIEVABLE <---> PURE FANTASY",
+   "Description": "Write an excuse for not picking up Ammi's call that is this believable",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable; no missed-call excuse card exists."
+  },
+  {
+   "id": null,
+   "Name": "NOT DEEP <---> RICKSHAW PHILOSOPHER",
+   "Description": "Write a piece of life advice from a rickshaw driver that is this deep",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local character; distinct from rickshaw fare/speed/slogan cards."
   }
  ]
 }

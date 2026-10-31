@@ -1503,12 +1503,12 @@
    "id": "game11-137",
    "Name": "Problem",
    "Description": "I want to always have _____ with me!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I want to always have _____ with me!"
    },
-   "note": ""
+   "note": "Debate: Same meaning as \"I wish I could carry _____ in my pocket!\", which is more concrete."
   },
   {
    "id": "game11-138",
@@ -1657,12 +1657,12 @@
    "id": "game11-151",
    "Name": "Problem",
    "Description": "I really miss _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I really miss _____!"
    },
-   "note": ""
+   "note": "Debate: Weaker, bare version of \"I miss the good ol’ days of _____!\" and idx 114 \"I wish I could get my _____ back!\"."
   },
   {
    "id": "game11-152",
@@ -1866,12 +1866,12 @@
    "id": "game11-170",
    "Name": "Problem",
    "Description": "I want everyone to see _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I want everyone to see _____!"
    },
-   "note": ""
+   "note": "Debate: Duplicates \"I want people to know about my _____!\" and overlaps idx 191."
   },
   {
    "id": "game11-171",
@@ -1910,12 +1910,12 @@
    "id": "game11-174",
    "Name": "Problem",
    "Description": "I don’t want to think about _____ again!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I don’t want to think about _____ again!"
    },
-   "note": ""
+   "note": "Debate: Same meaning as \"I wish I could delete _____ from my memory!\", which is more vivid."
   },
   {
    "id": "game11-175",
@@ -2085,13 +2085,13 @@
   {
    "id": "game11-190",
    "Name": "Problem",
-   "Description": "I can’t see _____!",
-   "action": "keep",
+   "Description": "I can’t see _____ without my glasses!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I can’t see _____!"
    },
-   "note": ""
+   "note": "Debate: Gives a concrete eyesight problem to pitch against; no other eyesight card exists."
   },
   {
    "id": "game11-191",
@@ -2317,12 +2317,12 @@
    "id": "game11-211",
    "Name": "Problem",
    "Description": "I don’t want to _____ anymore!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I don’t want to _____ anymore!"
    },
-   "note": ""
+   "note": "Debate: Flat restatement of idx 205 \"I’ll scream if I have to _____ again!\"."
   },
   {
    "id": "game11-212",
@@ -6918,6 +6918,55 @@
    "Description": "I pretend to be asleep whenever _____ calls!",
    "action": "add",
    "note": "New card (debate): A call-dodging complaint with an open blank. It is distinct from 'My boss always calls when I'm _____' and the existing sleep cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The geyser never heats up in time for _____!",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani winter problem; no geyser card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The dukaandar won’t give me _____ on udhaar anymore!",
+   "action": "add",
+   "note": "New card (debate): Local shop-credit humour not covered elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My passport renewal is stuck because of _____!",
+   "action": "add",
+   "note": "New card (debate): Recognisable bureaucracy frustration with no matching card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My plants keep dying because of _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct from the garden-pests card; easy to pitch."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never decide what to cook for _____!",
+   "action": "add",
+   "note": "New card (debate): Everyday \"aaj kya pakaaun\" dilemma; existing cooking cards cover burning food and the pressure cooker."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My car’s AC dies every time I’m stuck in _____!",
+   "action": "add",
+   "note": "New card (debate): Summer traffic problem distinct from the home split-AC and traffic-challan cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My iftar plans always get ruined by _____!",
+   "action": "add",
+   "note": "New card (debate): Respectful Ramzan problem distinct from the iftar overeating and sehri cards."
   }
  ]
 }
