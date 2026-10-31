@@ -6599,13 +6599,13 @@
    "Name": "Vice",
    "Description": "Bench-mounted tool that grips work",
    "Category": "Tools",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Vice",
     "Description": "A holding tool",
     "Category": "Tools"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as a near-duplicate of Clamp"
   },
   {
    "id": "game1-509",
@@ -10774,6 +10774,78 @@
    "Name": "Wheelbarrow",
    "Description": "One-wheeled cart for carrying cement and sand",
    "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kehwa",
+   "Description": "Peshawari green tea with elaichi",
+   "Category": "Beverages",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Badam Doodh",
+   "Description": "Warm almond milk for winter",
+   "Category": "Beverages",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kunafa",
+   "Description": "Arab cheese pastry soaked in syrup",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Baklava",
+   "Description": "Layered nutty pastry dripping with syrup",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Samdhi",
+   "Description": "Your child’s spouse’s father",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Great-grandfather",
+   "Description": "Your Dada’s or Nana’s father",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sandpaper",
+   "Description": "Rough sheet for smoothing wood",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Soldering Iron",
+   "Description": "Hot pen tool that melts metal onto circuits",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Wash and Wear",
+   "Description": "Crease-resistant suiting for men’s shalwar kameez",
+   "Category": "Fabrics",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }
