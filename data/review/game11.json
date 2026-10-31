@@ -4912,13 +4912,13 @@
   {
    "id": "game11-447",
    "Name": "Customer",
-   "Description": "Dinner Host",
-   "action": "keep",
+   "Description": "Dawat Host",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Dinner Host"
    },
-   "note": ""
+   "note": "Debate: More local than 'Dinner Host'. No customer with this name exists yet."
   },
   {
    "id": "game11-448",
@@ -5154,13 +5154,13 @@
   {
    "id": "game11-469",
    "Name": "Customer",
-   "Description": "Gift Giver",
-   "action": "keep",
+   "Description": "Eidi-Giving Uncle",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Gift Giver"
    },
-   "note": ""
+   "note": "Debate: Replaces the vague 'Gift Giver' with a customer players recognise at once. The Eidi angle keeps it distinct from Chacha and Mamu."
   },
   {
    "id": "game11-470",
@@ -6337,6 +6337,69 @@
    "Description": "I always lose online games because of _____!",
    "action": "add",
    "note": "New card (debate): A gaming complaint (allowed by the owner) that doesn't lean on the PUBG brand a second time."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Qasai (Butcher)",
+   "action": "add",
+   "note": "New card (debate): A familiar local trade that the deck does not have yet. It is different from Cattle Trader."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Saas (Mother-in-law)",
+   "action": "add",
+   "note": "New card (debate): A classic desi family customer that is not in the deck yet."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "WAPDA Lineman",
+   "action": "add",
+   "note": "New card (debate): Pakistanis everywhere use 'WAPDA' as the everyday name for the electricity company. It fits the deck's load-shedding problems and is different from Electrician."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Paan Wala",
+   "action": "add",
+   "note": "New card (debate): A local street vendor in the same style as the deck's other Wala customers. It is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Cousin from Abroad",
+   "action": "add",
+   "note": "New card (debate): The challenger's shorter version. A recognisable family type that is different from 'Immigrant'."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The sabzi wala never has change for _____!",
+   "action": "add",
+   "note": "New card (debate): A relatable everyday problem with an open blank. Sabzi Wala appears only as a customer, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The water tanker only shows up when _____!",
+   "action": "add",
+   "note": "New card (debate): Local water-supply humour that is different from the existing household water-tank card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My nani always says I look weak because of _____!",
+   "action": "add",
+   "note": "New card (debate): A warm, familiar family complaint. The deck's only nani card is about WhatsApp forwards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My phuppo always finds out about _____ before anyone else!",
+   "action": "add",
+   "note": "New card (debate): A gossip-network angle that is different from 'I can't believe my phuppo said _____!'."
   }
  ]
 }

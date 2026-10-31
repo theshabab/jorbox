@@ -4155,8 +4155,8 @@
   {
    "id": null,
    "Description": "Get a player to tap you on the shoulder.",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Same mission as live card 105 'Get a player to touch your shoulder.'"
   },
   {
    "id": null,
@@ -4883,6 +4883,48 @@
    "Description": "Get a player to show you their batting stance.",
    "action": "add",
    "note": "New card (debate): Doable without a bat, and adds a cricket action mission (challenger's version)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which PSL team they support.",
+   "action": "add",
+   "note": "New card (debate): A distinct Pakistani cricket question. The deck has nothing like it; 448 asks about a favourite cricketer, not a team."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Ya Allah, khair!'.",
+   "action": "add",
+   "note": "New card (debate): A common, respectful Pakistani exclamation that is not in the deck. 510 'Haye Allah!' is a different phrase."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which dish they look forward to most at iftar.",
+   "action": "add",
+   "note": "New card (debate): The deck has no iftar card. It asks about a different meal from 479 (Eid dish), and players can answer it any time of year."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which childhood game they were best at, like gilli danda or pithu garam.",
+   "action": "add",
+   "note": "New card (debate): A nostalgic Pakistani childhood question. No card in the deck covers childhood games."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to draw a rough map of Pakistan for you.",
+   "action": "add",
+   "note": "New card (debate): A harmless paper mission with a Pakistani frame. No map card exists."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what time they woke up today.",
+   "action": "add",
+   "note": "New card (debate): Easy small talk to steer toward. The existing time cards ask for the current time, not wake-up time."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to recommend a good book to you.",
+   "action": "add",
+   "note": "New card (debate): Same style as the tailor and dhaba recommendation cards, and no book card exists."
   }
  ]
 }

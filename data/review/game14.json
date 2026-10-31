@@ -4442,8 +4442,8 @@
    "id": null,
    "Description": "How likely are you to doze off as a passenger on a long car ride?",
    "Category": "0 to 100",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Same meaning as card 419 ('fall asleep during a long bus journey'). Only the vehicle differs."
   },
   {
    "id": null,
@@ -4888,17 +4888,17 @@
   },
   {
    "id": null,
-   "Description": "What is the most relatives that have come to the airport to see you off or welcome you back?",
+   "Description": "What is the largest number of relatives who have come to the airport to see you off or welcome you back?",
    "Category": "Number",
    "action": "add",
-   "note": "New card (debate): Challenger's version. It keeps the desi airport joke without assuming the player has flown."
+   "note": "New card (debate): Challenger's version. It keeps the desi airport joke without assuming the player has flown.; Debate: Fixes awkward grammar; meaning and Number category unchanged."
   },
   {
    "id": null,
-   "Description": "How likely are you to still be chasing your tailor for your Eid clothes on Chaand Raat?",
+   "Description": "How likely are you to still be chasing your tailor for your Eid clothes on Chand Raat?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card (debate): Challenger's version asks about the player, not the tailor. Different from idx 230 (tailor visits)."
+   "note": "New card (debate): Challenger's version asks about the player, not the tailor. Different from idx 230 (tailor visits).; Debate: Matches the 'Chand Raat' spelling used in cards 461 and 469."
   },
   {
    "id": null,
@@ -4997,6 +4997,69 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Playful family travel card; the only other window card (189) is about cricket."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you read the whole Quran from start to finish?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Respectful worship count, which the owner allows; different from the surahs-from-memory card 485."
+  },
+  {
+   "id": null,
+   "Description": "How many hours of load shedding did your area have yesterday?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A familiar Pakistani count; card 12 only asks how much you panic."
+  },
+  {
+   "id": null,
+   "Description": "How many cricket balls have you lost on a neighbour's roof?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A classic gully cricket count not covered by the existing cricket cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times do you say 'bas, bas' before letting the host give you a second helping?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A recognisable takalluf joke; not the same as 360 or 491."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to give your qurbani goat or cow a name?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): A gentle Eid-ul-Adha habit; a different angle from 464."
+  },
+  {
+   "id": null,
+   "Description": "How many houses do you take qurbani meat to on Eid-ul-Adha?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Accurate Eid-ul-Adha practice; different from 465 (Eid visits) and 462 (Eidi givers)."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to finish everything on your plate even when you are already full?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): A relatable 'don't waste food' habit that no existing card covers."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to argue with a rickshaw driver over the fare?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): An everyday local moment that cards 7 (bargaining skill) and 85 (rickshaw rides) do not cover."
+  },
+  {
+   "id": null,
+   "Description": "How many times a day do you open the fridge without wanting anything?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A relatable count that cards 390, 458 and 473 do not cover."
   }
  ]
 }
