@@ -203,14 +203,14 @@
   },
   {
    "id": "game16-19",
-   "Name": "What do you think the ultimate gift is?",
+   "Name": "What is the best gift you could give someone that costs no money?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What do you think the ultimate gift is?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: 'Ultimate gift' is vague and sits next to the other gift cards (50, 84, 138, 268); the free-gift angle is clearer and different from 645 (things money cannot buy)."
   },
   {
    "id": "game16-20",
@@ -335,14 +335,14 @@
   },
   {
    "id": "game16-31",
-   "Name": "Who is/was your favorite teacher and why?",
+   "Name": "Who was your favorite teacher, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who is/was your favorite teacher and why?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger's missed issue (labelled C1 in its list): removes the awkward 'is/was' slash and keeps the meaning."
   },
   {
    "id": "game16-32",
@@ -401,14 +401,14 @@
   },
   {
    "id": "game16-37",
-   "Name": "My biggest pet peeve is...",
+   "Name": "What is your biggest pet peeve?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "My biggest pet peeve is...",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: The sentence fragment becomes a proper question; still separate from the 'annoys you but not most people' card."
   },
   {
    "id": "game16-38",
@@ -522,25 +522,25 @@
   },
   {
    "id": "game16-48",
-   "Name": "What is your passion?",
+   "Name": "What topic could you talk about for hours without getting bored?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is your passion?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: 'What is your passion?' is abstract and overlaps 196 (obsessed with) and 478 (cause you are passionate about); the new version is concrete and easy to answer."
   },
   {
    "id": "game16-49",
-   "Name": "What does your room look like?",
+   "Name": "If we walked into your room right now, what would we find lying around?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What does your room look like?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: The flat question is close to 256 (best room in your house); the new version gets funnier answers and keeps the idea."
   },
   {
    "id": "game16-50",
@@ -632,14 +632,14 @@
   },
   {
    "id": "game16-58",
-   "Name": "What is your favorite breakfast?",
+   "Name": "What is your favorite breakfast: halwa puri, paratha with omelette, or something else?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is your favorite breakfast?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Gives the plain question a natural Pakistani frame and keeps it open; does not duplicate 570 (weirdest breakfast)."
   },
   {
    "id": "game16-59",
@@ -962,14 +962,14 @@
   },
   {
    "id": "game16-88",
-   "Name": "If you had your own talk show, what would it be about?",
+   "Name": "If you had your own YouTube channel or podcast, what would it be about?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "If you had your own talk show, who would your first three guests be?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "celebrity guests reworded"
+   "note": "celebrity guests reworded; Debate: Swaps the TV talk show for social media, which the owner allows, and keeps the 'what would your show be about' idea."
   },
   {
    "id": "game16-89",
@@ -1226,14 +1226,14 @@
   },
   {
    "id": "game16-112",
-   "Name": "Do you have a morning routine?",
+   "Name": "What does your morning routine look like?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do you have a morning routine?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger's missed issue (labelled C2 in its list): a yes/no question ends the conversation, so it becomes an open one."
   },
   {
    "id": "game16-113",
@@ -7743,6 +7743,55 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card (debate): Playful 'who in your family' card; different from card 577 ('Have you ever gotten super lost?')."
+  },
+  {
+   "id": null,
+   "Name": "What is the most useless thing you still refuse to throw away?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): New, relatable icebreaker. It asks about the player, so it differs from 617 (what the family saves 'for later')."
+  },
+  {
+   "id": null,
+   "Name": "Which gadget or appliance in your home is older than you?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Fun, familiar desi-household question; nothing similar in the deck."
+  },
+  {
+   "id": null,
+   "Name": "If your life came with a warning label, what would it say?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Light, funny self-description question; nothing similar in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which of your own habits would annoy you most if you had to live with yourself?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Fun self-reflection question. It is about the player's own habits, unlike the annoying-habits cards about other people."
+  },
+  {
+   "id": null,
+   "Name": "If you could have a lifetime supply of one thing, what would it be?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Classic easy icebreaker; no 'lifetime supply' card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which food did you hate as a child but love now? (Karela, anyone?)",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable food question with a local touch, distinct from 13 (sweets hated as a kid) and 444 (foods you hate). Uses the challenger's punctuation fix."
+  },
+  {
+   "id": null,
+   "Name": "Which everyday sound instantly makes you happy (rain on the roof, the pressure cooker whistle, the azaan)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Warm sensory question that pairs with the smells card (77). The azaan example is respectful, and no sound-preference card exists."
   }
  ]
 }

@@ -14,12 +14,12 @@
   },
   {
    "id": "game6-2",
-   "Description": "Islamic Prophets",
-   "action": "keep",
+   "Description": "Prophets Named in the Quran",
+   "action": "edit",
    "original": {
     "Description": "Islamic Prophets"
    },
-   "note": ""
+   "note": "Debate: The 25 named prophets give a clear list players can check, and it avoids arguments over disputed figures."
   },
   {
    "id": "game6-3",
@@ -365,12 +365,12 @@
   },
   {
    "id": "game6-41",
-   "Description": "Companions of the Prophet (Sahaba)",
+   "Description": "Companions of the Prophet ﷺ (Sahaba)",
    "action": "edit",
    "original": {
     "Description": "Companions of Prophet Muhammad"
    },
-   "note": "clearer wording"
+   "note": "clearer wording; Debate: Adds the respectful ﷺ after the Prophet's mention and changes nothing else."
   },
   {
    "id": "game6-42",
@@ -995,12 +995,12 @@
   },
   {
    "id": "game6-111",
-   "Description": "Jewelry Items",
-   "action": "keep",
+   "Description": "Jewellery Items",
+   "action": "edit",
    "original": {
     "Description": "Jewelry Items"
    },
-   "note": ""
+   "note": "Debate: Uses the Pakistani/British spelling, consistent with other cards in the deck."
   },
   {
    "id": "game6-112",
@@ -3266,6 +3266,42 @@
    "Description": "Excuses for Skipping a Walk or Exercise",
    "action": "add",
    "note": "New card (debate): None of the deck's several 'Excuses for ...' cards covers exercise. Many funny answers (too hot, smog, ate too much, will start Monday)."
+  },
+  {
+   "id": null,
+   "Description": "Things Made of Clay (Mitti)",
+   "action": "add",
+   "note": "New card (debate): Fits the Things Made of Wood/Glass/Paper/Metal/Plastic/Cloth series and has many everyday answers (matka, surahi, diya, gamla, kulhar, handi, tandoor, eent, gullak)."
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Doodh (Milk)",
+   "action": "add",
+   "note": "New card (debate): Fills a gap in the Dishes Made With ... series. Its answers are dishes, unlike Milk Products (81): kheer, firni, rabri, kulfi, sheer khurma, seviyan, ras malai, custard, doodh patti."
+  },
+  {
+   "id": null,
+   "Description": "Islamic Greetings and Phrases",
+   "action": "add",
+   "note": "New card (debate): Distinct from Islamic Terms (42) and Occasions When We Say a Dua (386). Every player knows many accurate answers (Assalamu Alaikum, MashaAllah, InshaAllah, JazakAllah, SubhanAllah, Alhamdulillah, Astaghfirullah)."
+  },
+  {
+   "id": null,
+   "Description": "Things Sold by Pheriwalay (Street Hawkers)",
+   "action": "add",
+   "note": "New card (debate): A familiar local theme with many answers, including non-food goods (balloons, toys, chooriyan). It is distinct from Pakistani Street Food (93) and Sunday Bazaar."
+  },
+  {
+   "id": null,
+   "Description": "Gifts People Bring Back From Umrah or Hajj",
+   "action": "add",
+   "note": "New card (debate): Accurate, well-known answers (Aab-e-Zamzam, khajoor, tasbeeh, jai namaz, attar, topi, miswak, surma). It is different from Things You See on Umrah (268)."
+  },
+  {
+   "id": null,
+   "Description": "Things That Go in Biryani",
+   "action": "add",
+   "note": "New card (debate): A fun ingredient card like Things You Put in Chaat (321), with non-spice answers (aloo, alu bukhara, dahi, piyaz, kewra, zafran) that set it apart from Spices (8)."
   }
  ]
 }
