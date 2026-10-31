@@ -2538,8 +2538,8 @@
   {
    "id": null,
    "Description": "Things You Get Sent to Buy From the Dukaan",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Near-duplicate of live 261 'Things at a Kiryana Store'; the answers (anday, doodh, double roti, cheeni, chai patti) are the same, so the round plays identically."
   },
   {
    "id": null,
@@ -3350,6 +3350,48 @@
    "Description": "Gully Cricket Rules and Sayings",
    "action": "add",
    "note": "New card (debate): I took the challenger's amended version: adding the well-known gully rules gives a bigger answer pool than catchphrases alone. It stays different from 'Cricket Terms' and 'Things at a Cricket Match'."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Construction Site",
+   "action": "add",
+   "note": "New card (debate): Not in the deck, and players can name plenty (cement, eent, bajri, sariya, mistri, crane, mixer, helmet). Follows the deck's 'Things at a ...' pattern."
+  },
+  {
+   "id": null,
+   "Description": "Things at a School Sports Day",
+   "action": "add",
+   "note": "New card (debate): A shared Pakistani memory with many answers (sack race, lemon-spoon race, tug of war, march past, medals). 'Sports' and 'Things in a Playground' do not cover it."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Thana (Police Station)",
+   "action": "add",
+   "note": "New card (debate): A new local setting with many answers (FIR, constable, SHO, lockup, wardi, danda). Within the content rules."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Government Office",
+   "action": "add",
+   "note": "New card (debate): Distinct from 143 'Pakistani Government Departments' (department names) and 'Things at a Bank'. Relatable answers (files, stamps, queues, clerk, 'kal aana')."
+  },
+  {
+   "id": null,
+   "Description": "Things in a Hostel",
+   "action": "add",
+   "note": "New card (debate): Not in the deck, and different from 'Bedroom Items' because of the student-life answers (warden, mess, roommate, bunk bed, kettle)."
+  },
+  {
+   "id": null,
+   "Description": "Things in a Shopping Mall",
+   "action": "add",
+   "note": "New card (debate): A common urban setting that is not in the deck, with many answers (escalator, food court, trial room, ATM, parking)."
+  },
+  {
+   "id": null,
+   "Description": "Things You See on a Trip to the Northern Areas",
+   "action": "add",
+   "note": "New card (debate): A very common Pakistani trip. The card asks for things seen (jeeps, glaciers, yaks, landslides, KKH), not the places covered by the 'Valleys', 'Lakes' and 'Hill Stations' cards."
   }
  ]
 }

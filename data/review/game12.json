@@ -9459,8 +9459,8 @@
   {
    "id": null,
    "Name": "Lunchbox",
-   "action": "add",
-   "note": "New card (debate): Everyday school item, easy to draw; not in deck"
+   "action": "remove",
+   "note": "Debate: Means the same as 'Tiffin' (idx 1025), so clues would be identical; keep Tiffin, which has the local flavour."
   },
   {
    "id": null,
@@ -9791,6 +9791,48 @@
    "Name": "Cricket Ball",
    "action": "add",
    "note": "New card (debate): Only Cricket Bat and Tennis Ball exist; the hard ball is an obvious local noun"
+  },
+  {
+   "id": null,
+   "Name": "Zakat",
+   "action": "add",
+   "note": "New card (debate): Well-known abstract Islamic noun; no Zakat, Charity or Sadqa card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Qibla",
+   "action": "add",
+   "note": "New card (debate): Familiar worship noun; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Hajj",
+   "action": "add",
+   "note": "New card (debate): Core, very guessable Islamic noun; no Hajj, Umrah or Kaaba card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Gulab Jamun",
+   "action": "add",
+   "note": "New card (debate): Iconic Pakistani sweet that fits with Ladoo and Rasmalai; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Dahi Baray",
+   "action": "add",
+   "note": "New card (debate): Popular Pakistani street food matching the Golgappa/Chaat set; uses the common Pakistani name rather than the Indian 'Dahi Bhalla'; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sparrow",
+   "action": "add",
+   "note": "New card (debate): Common local bird that is easy to draw; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Tubewell",
+   "action": "add",
+   "note": "New card (debate): Common rural item, different from Hand Pump; not in the deck."
   }
  ]
 }

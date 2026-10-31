@@ -11841,14 +11841,14 @@
   },
   {
    "id": "game7-1077",
-   "Description": "french king double dutch",
+   "Description": "french king skipping rope",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "french king double dutch",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Double dutch' is an obscure US skipping-rope term; plain skipping rope keeps the joke. Different scene from the postman and fern-legs rope cards."
   },
   {
    "id": "game7-1078",
@@ -12215,14 +12215,14 @@
   },
   {
    "id": "game7-1111",
-   "Description": "aw! a giant rishta proposal",
+   "Description": "a giant shows up with a rishta proposal",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "aw! giant proposal",
     "Category": "Standard Prompts"
    },
-   "note": "romance -> localised rishta"
+   "note": "romance -> localised rishta; Debate: The old wording was unclear. This version is clear and easy to draw."
   },
   {
    "id": "game7-1112",
@@ -12336,14 +12336,14 @@
   },
   {
    "id": "game7-1122",
-   "Description": "long schoolbus with triangular wheels",
+   "Description": "packed school van with triangular wheels",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "long schoolbus with triangular wheels",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The US yellow school bus becomes the familiar Pakistani school van; the joke survives."
   },
   {
    "id": "game7-1123",
@@ -12567,14 +12567,14 @@
   },
   {
    "id": "game7-1143",
-   "Description": "too much candy. teeth on strike.",
+   "Description": "too much mithai. teeth on strike.",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "too much candy. teeth on strike.",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Swaps candy for mithai. Same joke, local setting; distinct from the wedding-mithai card."
   },
   {
    "id": "game7-1144",
@@ -19048,6 +19048,69 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Challenger's amended version avoids repeating the snail-delivers-newspaper card and the many pigeon cards."
+  },
+  {
+   "id": null,
+   "Description": "a dhobi ironing a cloud flat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Absurd local everyday scene. There is no dhobi card, and the ironing cards are different scenes."
+  },
+  {
+   "id": null,
+   "Description": "a pigeon in a tiny shalwar kameez on Eid",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Cute, easy to draw and local. The existing pigeon cards are different scenes."
+  },
+  {
+   "id": null,
+   "Description": "the doodh wala's bicycle carrying fifty milk cans",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Iconic Pakistani street sight that draws well. Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a dupatta caught in the ceiling fan",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A familiar household mishap. The two existing ceiling-fan cards (house taking off, giraffe ducking) are different scenes, and the deck has no dupatta card."
+  },
+  {
+   "id": null,
+   "Description": "umpire giving a cow out LBW",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Cricket joke that draws well. There is no umpire or LBW card."
+  },
+  {
+   "id": null,
+   "Description": "Dadi knitting one sweater for the whole street",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate family humour. Distinct from the existing knitting and sweater cards."
+  },
+  {
+   "id": null,
+   "Description": "the cable wala's wires turned into a giant bird's nest",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Tangled street wires are a familiar local sight. There is no wire or cable card."
+  },
+  {
+   "id": null,
+   "Description": "a tarbooz rolling downhill, the vendor chasing it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Lively chase scene with a local fruit vendor. It is distinct from 'watermelons falling off a truck'."
+  },
+  {
+   "id": null,
+   "Description": "uncle's moustache so big it needs its own chair",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle uncle humour that is quick to draw. None of the existing moustache cards is about size."
   }
  ]
 }
