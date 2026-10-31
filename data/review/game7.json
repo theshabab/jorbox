@@ -12864,14 +12864,14 @@
   },
   {
    "id": "game7-1170",
-   "Description": "reindeer getting pulled over",
+   "Description": "a camel getting pulled over by a traffic warden",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "reindeer getting pulled over",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the Christmas reindeer link. The local camel and traffic warden keep the joke, and the existing camel cards are different jokes."
   },
   {
    "id": "game7-1171",
@@ -12908,25 +12908,25 @@
   },
   {
    "id": "game7-1174",
-   "Description": "my! what big palms u have",
+   "Description": "my! what big palms you have",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "my! what big palms u have",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Spelling fix."
   },
   {
    "id": "game7-1175",
-   "Description": "film tastes so much better than digital",
+   "Description": "camera film tastes so much better than digital",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "film tastes so much better than digital",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the movie reading and keeps the photography joke."
   },
   {
    "id": "game7-1176",
@@ -12952,14 +12952,14 @@
   },
   {
    "id": "game7-1178",
-   "Description": "three levitating fried plantains",
+   "Description": "three levitating aloo tikkis",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "three levitating fried plantains",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces an unfamiliar food with a familiar local snack."
   },
   {
    "id": "game7-1179",
@@ -13073,14 +13073,14 @@
   },
   {
    "id": "game7-1189",
-   "Description": "gettin stuck on the log flume",
+   "Description": "getting stuck on the log flume ride",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "gettin stuck on the log flume",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Spelling fix, and 'ride' makes the meaning clear."
   },
   {
    "id": "game7-1190",
@@ -13161,14 +13161,14 @@
   },
   {
    "id": "game7-1197",
-   "Description": "she is more strong than 100 turtles",
+   "Description": "she is stronger than 100 turtles",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "she is more strong than 100 turtles",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Grammar fix."
   },
   {
    "id": "game7-1198",
@@ -13383,12 +13383,12 @@
    "id": "game7-1217",
    "Description": "yowch! hot toilet paper",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "yowch! hot toilet paper",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Toilet joke, which the owner does not allow."
   },
   {
    "id": "game7-1218",
@@ -13570,12 +13570,12 @@
    "id": "game7-1234",
    "Description": "glue mouse 2 house",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "glue mouse 2 house",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Unclear wording, and the likely meaning is unkind to animals. No clear meaning to rewrite."
   },
   {
    "id": "game7-1235",
@@ -13810,14 +13810,14 @@
   },
   {
    "id": "game7-1256",
-   "Description": "the bean loves the tireswing",
+   "Description": "the bean loves the tyre swing",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the bean loves the tireswing",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Spelling fix (missed issue)."
   },
   {
    "id": "game7-1257",
@@ -13887,25 +13887,25 @@
   },
   {
    "id": "game7-1263",
-   "Description": "salsa... with a secret",
+   "Description": "chutney... with a secret",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "salsa... with a secret",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the reading of salsa as a dance and uses a local sauce."
   },
   {
    "id": "game7-1264",
-   "Description": "a very chaotic mailman",
+   "Description": "a very chaotic postman",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "a very chaotic mailman",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces the US word with the local one."
   },
   {
    "id": "game7-1265",
@@ -19111,6 +19111,55 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Gentle uncle humour that is quick to draw. None of the existing moustache cards is about size."
+  },
+  {
+   "id": null,
+   "Description": "a bus conductor hanging off the side of a rocket",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, drawable and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a stray cat chairing the mohalla committee meeting",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local neighbourhood humour; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a watermelon wearing a helmet on a motorbike",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Simple, funny and drawable; differs from the watermelon truck card."
+  },
+  {
+   "id": null,
+   "Description": "a shopkeeper napping on top of his own rice sacks",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A familiar bazaar scene; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "the kulfi wala's bell waking up a hibernating bear",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local vendor in an absurd scene; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a monkey doing the weekly sabzi shopping",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local chore with an animal twist; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a fish selling fish at the fish market",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Absurd and drawable; no existing fish card overlaps."
   }
  ]
 }

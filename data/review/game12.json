@@ -9833,6 +9833,60 @@
    "Name": "Tubewell",
    "action": "add",
    "note": "New card (debate): Common rural item, different from Hand Pump; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Ihram",
+   "action": "add",
+   "note": "New card (debate): Accurate Hajj/Umrah garment, concrete and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Zamzam",
+   "action": "add",
+   "note": "New card (debate): Well-known blessed water from Makkah, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Minbar",
+   "action": "add",
+   "note": "New card (debate): Masjid pulpit; drawable, familiar, and no existing card covers it."
+  },
+  {
+   "id": null,
+   "Name": "Bhutta",
+   "action": "add",
+   "note": "New card (debate): Familiar roasted-corn street snack; the deck has no corn-cob card (only Popcorn, Acorn)."
+  },
+  {
+   "id": null,
+   "Name": "Chakki",
+   "action": "add",
+   "note": "New card (debate): Common flour mill or grinding stone, concrete and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Pitthu Garam",
+   "action": "add",
+   "note": "New card (debate): Classic Pakistani street game, not in the deck. It complements the existing Gilli Danda and Kabaddi cards."
+  },
+  {
+   "id": null,
+   "Name": "Sajji",
+   "action": "add",
+   "note": "New card (debate): Famous Balochi roast dish, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Doli",
+   "action": "add",
+   "note": "New card (debate): The bride's palanquin at rukhsati; easy to act out and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Walima",
+   "action": "add",
+   "note": "New card (debate): Sunnah wedding feast familiar to every family, not in the deck."
   }
  ]
 }

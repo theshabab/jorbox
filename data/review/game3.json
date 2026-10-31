@@ -3191,7 +3191,7 @@
   {
    "id": "game3-246",
    "Name": "Draw an imaginary friend.",
-   "Description": "Draw a teddy bear.|Draw a British gentleman.|Draw a scary animal.|Draw a talking toy.|Draw a living shadow.|Draw a cute monster.|Draw an animal in clothes.|Draw an invisible man.|Draw a small dragon.",
+   "Description": "Draw a teddy bear.|Draw a friendly ghost.|Draw a scary animal.|Draw a talking toy.|Draw a living shadow.|Draw a cute monster.|Draw an animal in clothes.|Draw an invisible man.|Draw a small dragon.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3199,7 +3199,7 @@
     "Description": "Draw a kids show host.|Draw a British gentleman.|Draw a scary animal.|Draw Superman.|Draw a living shadow.|Draw a cute monster.|Draw an animal in clothes.|Draw an invisible man.|Draw a small dragon.",
     "Category": "Drawing 2"
    },
-   "note": "replaced TV host, Superman"
+   "note": "replaced TV host, Superman; Debate: Replaces the random 'British gentleman' with a closer decoy. Ghosts are allowed."
   },
   {
    "id": "game3-247",
@@ -3268,8 +3268,8 @@
   },
   {
    "id": "game3-252",
-   "Name": "Draw a weapon you would want in the Zombie Apocalypse.",
-   "Description": "Draw a shield.|Draw your favorite birthday gift.|Draw your favorite fictional weapon.|Draw a non-lethal weapon.|Draw a tank.|Draw a spoon.",
+   "Name": "Draw a weapon you would want in a zombie apocalypse.",
+   "Description": "Draw a shield.|Draw a cricket bat.|Draw your favorite fictional weapon.|Draw a non-lethal weapon.|Draw a tank.|Draw a spoon.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3277,7 +3277,7 @@
     "Description": "Draw Superman.|Draw your favorite Birthday gift.|Draw your favorite fictional weapon.|Draw a non-lethal weapon.|Draw a tank.|Draw a spoon.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Superman; capitalisation"
+   "note": "replaced Superman; capitalisation; Debate: Fixes the capitalisation and the article, and replaces the off-topic gift decoy with a local improvised weapon."
   },
   {
    "id": "game3-253",
@@ -3308,7 +3308,7 @@
   {
    "id": "game3-255",
    "Name": "Draw yourself as a clown.",
-   "Description": "Draw yourself as a king.|Draw a businessman.|Draw yourself as a juggler.|Draw a clown.|Draw a famous clown.|Draw a scary clown.|Draw yourself in a big wig.|Draw a lady clown.",
+   "Description": "Draw yourself as a king.|Draw a businessman.|Draw yourself as a juggler.|Draw a clown.|Draw a circus performer.|Draw a scary clown.|Draw yourself in a big wig.|Draw a lady clown.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3316,25 +3316,25 @@
     "Description": "Draw George Washington.|Draw a businessman.|Draw Abe Lincoln.|Draw a clown.|Draw a famous clown.|Draw a scary clown.|Draw yourself in a big wig.|Draw a lady clown.|Draw the Joker.",
     "Category": "Drawing 2"
    },
-   "note": "replaced US presidents, Joker; Sweep: magic decoy replaced"
+   "note": "replaced US presidents, Joker; Sweep: magic decoy replaced; Debate: Matches the P1 fix: the vague, Western 'famous clown' becomes 'circus performer'."
   },
   {
    "id": "game3-256",
    "Name": "Draw a clown.",
-   "Description": "Draw an attractive person.|Draw someone in this game.|Draw yourself.|Draw a clown doll.|Draw a child’s doll.|Draw a scary clown.|Draw a famous clown.|Draw someone with a lot of makeup.|Draw someone in a wig.",
+   "Description": "Draw a circus performer.|Draw someone in this game.|Draw yourself.|Draw a clown doll.|Draw a child’s doll.|Draw a scary clown.|Draw a juggler.|Draw someone with a lot of makeup.|Draw someone in a wig.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw a clown.",
     "Description": "Draw an attractive person.|Draw someone in this game.|Draw yourself.|Draw a clown doll.|Draw a child’s doll.|Draw a scary clown.|Draw a famous clown.|Draw someone with a lot of makeup.|Draw someone in a wig.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Replaces the awkward 'attractive person' and the vague, Western 'famous clown' with closer decoys."
   },
   {
    "id": "game3-257",
    "Name": "Draw a talking animal.",
-   "Description": "Draw a historical figure.|Draw a politician.|Draw someone in this game.|Draw an animal in clothing.|Draw a pet parrot.|Draw a mascot.|Draw a cereal mascot.",
+   "Description": "Draw a historical figure.|Draw a politician.|Draw someone in this game.|Draw an animal in clothing.|Draw a pet parrot.|Draw a mascot.|Draw a cartoon character.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3342,7 +3342,7 @@
     "Description": "Draw a historical figure.|Draw a politician.|Draw someone in this game.|Draw an animal in clothing.|Draw a muppet.|Draw a Disney character.|Draw Bugs Bunny.|Draw a mascot.|Draw a cereal mascot.",
     "Category": "Drawing 2"
    },
-   "note": "cartoon character -> talking animal; removed Disney/muppet/Bugs Bunny"
+   "note": "cartoon character -> talking animal; removed Disney/muppet/Bugs Bunny; Debate: Replaces the US-centric 'cereal mascot' with a familiar decoy."
   },
   {
    "id": "game3-258",
@@ -3373,7 +3373,7 @@
   {
    "id": "game3-260",
    "Name": "Draw a fairy tale character.",
-   "Description": "Draw an attractive person.|Draw a giant.|Draw a monkey in a hat.|Draw a talking animal.|Draw an animal in clothes.|Draw a member of royalty.|Draw a friendly monster.|Draw a fictional animal.|Draw a princess in a tower.",
+   "Description": "Draw a prince on a horse.|Draw a giant.|Draw a monkey in a hat.|Draw a talking animal.|Draw an animal in clothes.|Draw a member of royalty.|Draw a friendly monster.|Draw a fictional animal.|Draw a princess in a tower.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3381,7 +3381,7 @@
     "Description": "Draw an attractive person|Draw Abe Lincoln.|Draw a monkey with a cigar.|Draw a magical person.|Draw an animal in clothes|Draw a member of royalty.|Draw a magical monster.|Draw a fictional animal.|Draw a magician.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Abe Lincoln, cigar; punctuation; Sweep: magic decoys replaced"
+   "note": "replaced Abe Lincoln, cigar; punctuation; Sweep: magic decoys replaced; Debate: Replaces 'attractive person' with a family-friendly fairy-tale decoy."
   },
   {
    "id": "game3-261",
@@ -3672,7 +3672,7 @@
   {
    "id": "game3-283",
    "Name": "Draw a fast car.",
-   "Description": "Draw a land boat.|Draw roller skates.|Draw a police car.|Draw a street race.|Draw a motorbike.|Draw a race car.|Draw an expensive car.|Draw a cool car.|Draw your car.",
+   "Description": "Draw a souped-up Mehran.|Draw roller skates.|Draw a police car.|Draw a street race.|Draw a motorbike.|Draw a race car.|Draw an expensive car.|Draw a cool car.|Draw your car.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3680,7 +3680,7 @@
     "Description": "Draw a land boat.|Draw roller skates.|Draw Optimus Prime.|Draw a street race.|Draw the Batmobile.|Draw a race car.|Draw an expensive car.|Draw a cool car.|Draw your car.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Optimus Prime, Batmobile"
+   "note": "replaced Optimus Prime, Batmobile; Debate: Replaces the US slang 'land boat' with a local car joke."
   },
   {
    "id": "game3-284",
@@ -3737,7 +3737,7 @@
   {
    "id": "game3-288",
    "Name": "Draw a fancy dress.",
-   "Description": "Draw a princess gown.|Draw dressed for success.|Draw a shalwar kameez.|Draw a fancy lady.|Draw a wedding dress.|Draw a kilt.",
+   "Description": "Draw a princess gown.|Draw someone dressed for success.|Draw a shalwar kameez.|Draw a fancy lady.|Draw a wedding dress.|Draw a kilt.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3745,7 +3745,7 @@
     "Description": "Draw Wonder Woman.|Draw dressed for success.|Draw Batman.|Draw a fancy lady.|Draw a prom dress.|Draw a wedding dress.|Draw a kilt.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Wonder Woman, Batman, prom dress"
+   "note": "replaced Wonder Woman, Batman, prom dress; Debate: Grammar fix."
   },
   {
    "id": "game3-289",
@@ -3776,7 +3776,7 @@
   {
    "id": "game3-291",
    "Name": "Draw your typical Friday night.",
-   "Description": "Draw an arcade.|Draw a vigilante.|Draw watching cricket.|Draw riding a dog like a horse.|Draw someone in bed.|Draw eating a pizza.|Draw a family dinner.|Draw ugly crying.",
+   "Description": "Draw an arcade.|Draw someone playing video games.|Draw watching cricket.|Draw a late-night chai stall.|Draw someone in bed.|Draw eating a pizza.|Draw a family dinner.|Draw ugly crying.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3784,7 +3784,7 @@
     "Description": "Draw an arcade.|Draw a vigilante.|Draw an R-rated movie.|Draw riding a dog like a horse.|Draw someone in bed.|Draw eating a pizza.|Draw a big party.|Draw a crowded bar.|Draw ugly crying.",
     "Category": "Drawing 2"
    },
-   "note": "replaced R-rated movie, party, bar"
+   "note": "replaced R-rated movie, party, bar; Debate: Replaces random decoys with plausible local Friday-night activities. Video games are allowed."
   },
   {
    "id": "game3-292",
@@ -3945,7 +3945,7 @@
   {
    "id": "game3-304",
    "Name": "Draw a birthday present.",
-   "Description": "Draw a fictional weapon.|Draw an empty box.|Draw an illegal item.|Draw your last birthday present.|Draw a gift basket.|Draw a gift.|Draw a birthday party.|Draw an Eid gift.|Draw a package.",
+   "Description": "Draw a fictional weapon.|Draw an empty box.|Draw a toy car.|Draw your last birthday present.|Draw a gift basket.|Draw a gift.|Draw a birthday party.|Draw an Eid gift.|Draw a package.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3953,7 +3953,7 @@
     "Description": "Draw a fictional weapon.|Draw an empty box.|Draw an illegal item.|Draw your last Birthday present.|Draw a gift basket.|Draw a gift.|Draw a birthday party.|Draw a Christmas present.|Draw a package.",
     "Category": "Drawing 2"
    },
-   "note": "Christmas present -> Eid gift; capitalisation"
+   "note": "Christmas present -> Eid gift; capitalisation; Debate: 'Illegal item' invites drawings of drugs."
   },
   {
    "id": "game3-305",
@@ -4061,7 +4061,7 @@
   },
   {
    "id": "game3-313",
-   "Name": "Draw the coolest thing in the world.",
+   "Name": "Draw the cutest thing in the world.",
    "Description": "Draw a creepy doll.|Draw a scary clown.|Draw a baby anything.|Draw a kid in a suit.|Draw a baby.|Draw a puppy.|Draw a father and son playing cricket.|Draw two otters holding hands.",
    "Category": "Drawing 2",
    "action": "edit",
@@ -4070,7 +4070,7 @@
     "Description": "Draw a creepy doll.|Draw a man pooping.|Draw a scary clown.|Draw a baby anything.|Draw a kid in a suit.|Draw a baby.|Draw a puppy.|Draw a father and son playing catch.|Draw two otters holding hands.",
     "Category": "Drawing 2"
    },
-   "note": "removed crude decoy; catch -> cricket"
+   "note": "removed crude decoy; catch -> cricket; Debate: The decoys were written for 'cutest', and no other card uses 'cutest' as its prompt."
   },
   {
    "id": "game3-314",
@@ -4140,7 +4140,7 @@
   {
    "id": "game3-319",
    "Name": "Draw New York City.",
-   "Description": "Draw a mugging.|Draw Paris.|Draw Antarctica.|Draw an inner city street.|Draw a big city.|Draw the Empire State Building.|Draw Dubai.|Draw a subway station.",
+   "Description": "Draw a traffic jam.|Draw Paris.|Draw Antarctica.|Draw a busy street.|Draw a big city.|Draw the Empire State Building.|Draw Dubai.|Draw a subway station.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4148,12 +4148,12 @@
     "Description": "Draw a mugging.|Draw Paris.|Draw Antarctica.|Draw an inner city street.|Draw King Kong climbing a building.|Draw a big city.|Draw the Empire State Building.|Draw Chicago.|Draw a subway station.",
     "Category": "Drawing 2"
    },
-   "note": "removed King Kong decoy; Sweep: US decoy replaced"
+   "note": "removed King Kong decoy; Sweep: US decoy replaced; Debate: Replaces crime-stereotype decoys with neutral city scenes. NYC is famous worldwide, so the card stays."
   },
   {
    "id": "game3-320",
    "Name": "Draw a bowl of your favorite cereal.",
-   "Description": "Draw a mug of hot chocolate.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of cornflakes.|Draw a mascot stealing a bowl of cereal.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a glass of milk.",
+   "Description": "Draw a mug of hot chocolate.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of cornflakes.|Draw a bowl of kheer.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a glass of milk.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4161,7 +4161,7 @@
     "Description": "Draw a mug of cocoa and marshmallows.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of Cheerios.|Draw a mascot stealing a bowl of cereal.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a handful of Cherrios.",
     "Category": "Drawing 2"
    },
-   "note": "brand names -> cornflakes; typo; Debate: Drop the marshmallows (gelatin)."
+   "note": "brand names -> cornflakes; typo; Debate: Drop the marshmallows (gelatin).; Debate: Replaces the US cereal-mascot reference with a local decoy."
   },
   {
    "id": "game3-321",
@@ -4205,15 +4205,15 @@
   {
    "id": "game3-324",
    "Name": "Draw an advertising mascot.",
-   "Description": "Draw a giant.|Draw an animal in clothes.|Draw a cereal mascot.|Draw an animal mascot.|Draw a commercial mascot.|Draw a cartoon character.",
+   "Description": "Draw a giant.|Draw an animal in clothes.|Draw a cricket team mascot.|Draw an animal mascot.|Draw a commercial mascot.|Draw a cartoon character.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw an advertising mascot.",
     "Description": "Draw a giant.|Draw an animal in clothes.|Draw a cereal mascot.|Draw an animal mascot.|Draw a commercial mascot.|Draw a cartoon character.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Replaces the US-centric 'cereal mascot' with a local mascot that is close but different."
   },
   {
    "id": "game3-325",
@@ -4296,7 +4296,7 @@
   {
    "id": "game3-331",
    "Name": "Draw your group of friends.",
-   "Description": "Draw a group of high school students.|Draw a cricket team.|Draw a heist gang.|Draw a family photo.",
+   "Description": "Draw a group of college students.|Draw a cricket team.|Draw a heist gang.|Draw a family photo.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4304,7 +4304,7 @@
     "Description": "Draw a group of high school students.|Draw the cast of your favorite show.|Draw a heist gang.|Draw that show <i>Friends</i>.",
     "Category": "Drawing 2"
    },
-   "note": "TV show decoys replaced"
+   "note": "TV show decoys replaced; Debate: Localises the US term 'high school'."
   },
   {
    "id": "game3-332",
@@ -4582,15 +4582,15 @@
   {
    "id": "game3-353",
    "Name": "My dream job would be...",
-   "Description": "There should be a law against...|A good job for right after college would be...|A job where you make lots of money would be...|The job where I currently work is...|I’m most relaxed when I’m...|The job I wanted when I grew up was...|A job I associate with heavy labor is...|A job that sounds intimidating is...|A job I always thought looked fun is...",
+   "Description": "A job my parents want me to do is...|A good job for right after college would be...|A job where you make lots of money would be...|The job where I currently work is...|I’m most relaxed when I’m...|The job I wanted when I grew up was...|A job I associate with heavy labor is...|A job that sounds intimidating is...|A job I always thought looked fun is...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "My dream job would be...",
     "Description": "There should be a law against...|A good job for right after college would be...|A job where you make lots of money would be...|The job where I currently work is...|I’m most relaxed when I’m...|The job I wanted when I grew up was...|A job I associate with heavy labor is...|A job that sounds intimidating is...|A job I always thought looked fun is...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Replaces the off-topic law decoy with a close, relatable job decoy."
   },
   {
    "id": "game3-354",
@@ -4660,15 +4660,15 @@
   {
    "id": "game3-359",
    "Name": "The city with the best food is probably...",
-   "Description": "The best place to witness a crime is...|A great vacation city is...|A city I’d never want to visit is...|A city I think is overrated is...|The city with the best museums is probably...|The best city to visit in the summer is probably...|The best city to visit in the winter is probably...|The name of my hometown is...|A city I’ve never visited is...",
+   "Description": "The most crowded city is probably...|A great vacation city is...|A city I’d never want to visit is...|A city I think is overrated is...|The city with the best museums is probably...|The best city to visit in the summer is probably...|The best city to visit in the winter is probably...|The name of my hometown is...|A city I’ve never visited is...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "The city with the best food is probably...",
     "Description": "The best place to witness a crime is...|A great vacation city is...|A city I’d never want to visit is...|A city I think is overrated is...|The city with the best museums is probably...|The best city to visit in the summer is probably...|The best city to visit in the winter is probably...|The name of my hometown is...|A city I’ve never visited is...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Replaces the off-topic crime decoy with a city decoy."
   },
   {
    "id": "game3-360",
@@ -10305,6 +10305,62 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): New Drawing 2 card on the allowed stage-magic theme. The 6 decoys are close performances but different enough to give the impostor away."
+  },
+  {
+   "id": null,
+   "Name": "Draw a barber.",
+   "Description": "Draw a tailor.|Draw a dentist.|Draw someone getting a haircut at home.|Draw a man shaving.|Draw a hairdryer.|Draw a pair of scissors.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New local profession card. No barber drawing prompt exists; 684 is a word list."
+  },
+  {
+   "id": null,
+   "Name": "Draw a peacock.",
+   "Description": "Draw a turkey.|Draw a parrot.|Draw a rooster.|Draw a colourful bird.|Draw a hand fan.|Draw a flower.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New animal card with good near-miss decoys. No peacock prompt exists."
+  },
+  {
+   "id": null,
+   "Name": "Draw a jinn.",
+   "Description": "Draw a ghost.|Draw a genie coming out of a lamp.|Draw a shadow at night.|Draw a scary old tree.|Draw a puff of smoke.|Draw a monster under the bed.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): The owner allows jinn jokes. New card with close but drawably distinct decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a wedding stage.",
+   "Description": "Draw a throne.|Draw a stage at a school function.|Draw a decorated sofa.|Draw a bride and groom.|Draw a flower arch.|Draw a fancy hotel lobby.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New local prompt, separate from the existing wedding and walima cards."
+  },
+  {
+   "id": null,
+   "Name": "Draw a hot air balloon.",
+   "Description": "Draw a parachute.|Draw a kite.|Draw a blimp.|Draw a big balloon.|Draw a cable car.|Draw a basket.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New drawable prompt that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "When I think of Karachi, I think of...",
+   "Description": "When I think of Lahore, I think of...|When I think of Islamabad, I think of...|When I think of the seaside, I think of...|When I think of a big city, I think of...|When I think of summer, I think of...|When I think of traffic, I think of...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local 'When I think of...' card. The existing Karachi cards are statements or word lists, not this prompt."
+  },
+  {
+   "id": null,
+   "Name": "A good gift for a newly married couple would be...",
+   "Description": "A good gift for a college graduate would be...|A good gift for a new baby would be...|Something you’d take to a dawat is...|A good gift for your nani would be...|A good gift for a housewarming would be...|Something you’d buy at a bazaar is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local gift prompt, different from the existing graduate and Umrah gift cards."
   }
  ]
 }
