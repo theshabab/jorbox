@@ -5767,13 +5767,13 @@
    "Name": "Pendant",
    "Description": "Locket | Chain | Necklace | Hang | Neck",
    "Category": "Jewelry",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Pendant",
     "Description": "gold | wear | shiny | precious",
     "Category": "Jewelry"
    },
-   "note": ""
+   "note": "Debate: Almost the same as Locket (the two ban each other), and Necklace, Chain and Choker already cover the neck."
   },
   {
    "id": "game2-445",
@@ -5793,13 +5793,13 @@
    "Name": "Hoop",
    "Description": "Circle | Ring | Earring | Bali | Basketball",
    "Category": "Jewelry",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Hoop",
     "Description": "gold | wear | shiny | precious",
     "Category": "Jewelry"
    },
-   "note": "Debate: Hoop is its own word, so sharing the ban Bali with Earring does not make it a duplicate. The card is kept, and the overlapping 'Round' is swapped for the other common meaning of hoop (Basketball is a separate card, so banning it here is fine). Challenger's amendment."
+   "note": "Debate: In Pakistan a hoop earring is a 'bali', which the Earring card already bans, and Jhumka and Stud are also in the deck. The Basketball clue also points away from Jewelry."
   },
   {
    "id": "game2-447",
@@ -10751,6 +10751,86 @@
    "Category": "Colors",
    "action": "add",
    "note": "New card (debate): Well-known local uniform color; appears only as a ban (on Beige and Olive), never as an answer."
+  },
+  {
+   "id": null,
+   "Name": "Power Bank",
+   "Description": "Battery | Charge | Mobile | Portable | Travel",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Common everyday gadget; no Power Bank card in any game2 slice."
+  },
+  {
+   "id": null,
+   "Name": "WiFi",
+   "Description": "Internet | Router | Password | Signal | Network",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Very familiar word; no WiFi or Router card in the deck, and the banned words block the obvious clues."
+  },
+  {
+   "id": null,
+   "Name": "Solar Panel",
+   "Description": "Sun | Roof | Bijli | Bill | Battery",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Topical Pakistani household item that fits next to UPS and Generator; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Stabilizer",
+   "Description": "Voltage | Fridge | AC | Bijli | Fluctuation",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Typical Pakistani appliance; not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Volcano",
+   "Description": "Lava | Erupt | Mountain | Hot | Ash",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Classic, easy-to-act nature word that is missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Island",
+   "Description": "Jazeera | Sea | Surrounded | Beach | Water",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Basic nature word that is missing; banning 'Surrounded' blocks the definition clue."
+  },
+  {
+   "id": null,
+   "Name": "Glacier",
+   "Description": "Ice | Siachen | Baltoro | Melt | Cold",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: bans Siachen, the glacier most Pakistanis would name first. Baltoro is also accurate (Karakoram)."
+  },
+  {
+   "id": null,
+   "Name": "Cave",
+   "Description": "Ghaar | Dark | Hira | Rock | Bats",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): The deck has only Cave Hira and Cave Thawr. Plain Cave is a separate word, and banning 'Hira' stops lazy clues that point to those cards."
+  },
+  {
+   "id": null,
+   "Name": "Toe",
+   "Description": "Foot | Ungli | Shoe | Nail | Ten",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Basic body part that is missing; the deck has Finger and Foot but no Toe."
+  },
+  {
+   "id": null,
+   "Name": "Wheelbarrow",
+   "Description": "Wheel | Push | Cement | Mazdoor | Sand",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Familiar building-site tool; no Wheelbarrow card (Trolley is a separate card)."
   }
  ]
 }

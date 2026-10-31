@@ -7331,14 +7331,14 @@
   },
   {
    "id": "game9-667",
-   "Name": "What are Panama hats made from, despite being traditionally made in Ecuador?",
+   "Name": "Panama hats are traditionally made in Ecuador from which plant material?",
    "Description": "Toquilla straw (palm leaves)",
    "action": "edit",
    "original": {
     "Name": "What are Panama hats made out of?",
     "Description": "Straw"
    },
-   "note": "more precise answer"
+   "note": "more precise answer; Debate: Fixes the 'despite' clause, which was attached to the wrong part of the sentence. The fact is unchanged."
   },
   {
    "id": "game9-668",
@@ -7804,14 +7804,14 @@
   },
   {
    "id": "game9-710",
-   "Name": "Which modern day country is the region that was known as Phrygia in ancient times?",
+   "Name": "Which modern-day country covers the region known in ancient times as Phrygia?",
    "Description": "Turkey",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which modern day country is the region that was known as Phrygia in ancient times?",
     "Description": "Turkey"
    },
-   "note": ""
+   "note": "Debate: Grammar fix; Phrygia was in central and western Anatolia, so Turkey is correct."
   },
   {
    "id": "game9-711",
@@ -8189,14 +8189,14 @@
   },
   {
    "id": "game9-745",
-   "Name": "What is the land connecting North America and South America?",
+   "Name": "What is the narrow strip of land connecting North America and South America called?",
    "Description": "Isthmus of Panama",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the land connecting North America and South America?",
     "Description": "Isthmus of Panama"
    },
-   "note": ""
+   "note": "Debate: The original question was vague and ungrammatical."
   },
   {
    "id": "game9-746",
@@ -8310,14 +8310,14 @@
   },
   {
    "id": "game9-756",
-   "Name": "Which psychological term refers to the stress of holding contrasting beliefs?",
-   "Description": "Cognitive Dissonance",
-   "action": "keep",
+   "Name": "Which psychological term describes the mental discomfort of holding two conflicting beliefs at once?",
+   "Description": "Cognitive dissonance",
+   "action": "edit",
    "original": {
     "Name": "Which psychological term refers to the stress of holding contrasting beliefs?",
     "Description": "Cognitive Dissonance"
    },
-   "note": ""
+   "note": "Debate: Defines the term more clearly and fixes the capital letter in the answer."
   },
   {
    "id": "game9-757",
@@ -10907,6 +10907,76 @@
    "Description": "Nintendo",
    "action": "add",
    "note": "New card (debate): Allowed video-game content; distinct from the Nintendo-founded-year card."
+  },
+  {
+   "id": null,
+   "Name": "Which 1919 treaty formally ended World War I between Germany and the Allies?",
+   "Description": "Treaty of Versailles",
+   "action": "add",
+   "note": "New card (debate): Well-known world history. Correct and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which explorer, sailing for Spain in 1492, reached the Caribbean while trying to find a sea route to Asia?",
+   "Description": "Christopher Columbus",
+   "action": "add",
+   "note": "New card (debate): Well-known world history. Correct and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which 16th-century Ottoman admiral was known in Europe as \"Barbarossa\" (Red Beard)?",
+   "Description": "Hayreddin Barbarossa (Khair ad-Din Pasha)",
+   "action": "add",
+   "note": "New card (debate): Muslim-world history. It asks something different from the Operation Barbarossa card."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistan Air Force pilot is credited with shooting down several Indian jets in about a minute during the 1965 war?",
+   "Description": "Squadron Leader M. M. Alam (Muhammad Mahmood Alam)",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani military history. Uses 'credited with' because the kill count is disputed."
+  },
+  {
+   "id": null,
+   "Name": "Babur, founder of the Mughal Empire, was descended on his father's side from which Central Asian conqueror?",
+   "Description": "Timur (Tamerlane)",
+   "action": "add",
+   "note": "New card (debate): Correct, and it does not duplicate the Panipat or Timur cards."
+  },
+  {
+   "id": null,
+   "Name": "Which neighbouring country of Pakistan did the Soviet Union invade in December 1979?",
+   "Description": "Afghanistan",
+   "action": "add",
+   "note": "New card (debate): Major regional history that the deck does not cover yet."
+  },
+  {
+   "id": null,
+   "Name": "Which ancient Greek mathematician's theorem says that in a right-angled triangle, a² + b² = c²?",
+   "Description": "Pythagoras",
+   "action": "add",
+   "note": "New card (debate): Classic school maths question. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which coloured part of the eye controls how much light enters through the pupil?",
+   "Description": "Iris",
+   "action": "add",
+   "note": "New card (debate): Human-body science question. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Ottoman railway, opened in 1908, linked Damascus to Madinah to carry Hajj pilgrims?",
+   "Description": "Hejaz Railway",
+   "action": "add",
+   "note": "New card (debate): Islamic/Ottoman history with a Hajj link. Correct and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Before conquering Constantinople in 1453, the Ottomans had their capital at which city in today's European Turkey?",
+   "Description": "Edirne (Adrianople)",
+   "action": "add",
+   "note": "New card (debate): Correct, and it complements the Bursa and Constantinople cards without duplicating them."
   }
  ]
 }

@@ -39463,13 +39463,13 @@
    "Name": "",
    "Description": "If I could take something to a desert island, I'd take ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "If I could take something to a dessert island, I'd take ____.",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "Debate: Same answers as the earlier 'I would survive on a desert island with ____.' The higher id goes."
   },
   {
    "id": "game5-3037",
@@ -39968,7 +39968,7 @@
   {
    "id": "game5-3075",
    "Name": "",
-   "Description": "If it weren't for your chappals, where would you be? You'd be in ____.",
+   "Description": "If it weren't for Ammi's chappal, I'd probably be in ____ right now.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -39976,7 +39976,7 @@
     "Description": "If it weren't for your gumboots, where would you be? You'd be in ____",
     "Category": ""
    },
-   "note": "obscure gumboots song -> chappals"
+   "note": "obscure gumboots song -> chappals; Debate: The original made no sense. Ammi's chappal keeping you in line is a familiar joke, and this is one clear sentence (challenger's wording)."
   },
   {
    "id": "game5-3076",
@@ -40137,15 +40137,15 @@
   {
    "id": "game5-3088",
    "Name": "",
-   "Description": "If public speaking makes you nervous, try imagining that the audience is ____.",
+   "Description": "If public speaking makes you nervous, try imagining that the audience is just a room full of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If public speaking makes you nervous, try imagining that the audience is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Steers players away from the well-known 'underwear' answer."
   },
   {
    "id": "game5-3089",
@@ -40189,28 +40189,28 @@
   {
    "id": "game5-3092",
    "Name": "",
-   "Description": "If the stars align, this will be a good month for ____.",
+   "Description": "If everything goes to plan, this will be a good month for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If the stars align, this will be a good month for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The 'stars align' wording reads as a horoscope, and the owner bans astrology."
   },
   {
    "id": "game5-3093",
    "Name": "",
-   "Description": "If the walls in The PM House could talk, they would tell stories of ____.",
+   "Description": "If the walls in the PM House could talk, they would tell stories of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If the walls in The PM House could talk, they would tell stories of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Capitalisation fix."
   },
   {
    "id": "game5-3094",
@@ -40306,41 +40306,41 @@
   {
    "id": "game5-3101",
    "Name": "",
-   "Description": "If we don't protect ____ Pakistani families will suffer.",
+   "Description": "If we don't protect ____, Pakistani families will suffer.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If we don't protect ____ Pakistani families will suffer.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Adds the missing comma."
   },
   {
    "id": "game5-3102",
    "Name": "",
-   "Description": "If we got rid of slavery, why can't we get rid of ____?",
+   "Description": "We got rid of landline phones, so why can't we get rid of ____?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If we got rid of slavery, why can't we get rid of ____?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids making light of slavery. The joke still works."
   },
   {
    "id": "game5-3103",
    "Name": "",
-   "Description": "If we have that wrestler join us for dinner ____ is sure to go down.",
+   "Description": "If we invite that pehlwan uncle to dinner, ____ is sure to go down.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If we have that wrestler join us for dinner ____ is sure to go down.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the run-on grammar and gives the card a local frame."
   },
   {
    "id": "game5-3104",
@@ -40683,15 +40683,15 @@
   {
    "id": "game5-3130",
    "Name": "",
-   "Description": "If you need him to, Malik Riaz can pull some strings and get you ____, but it'll cost you.",
+   "Description": "If you need him to, a well-connected property tycoon can pull some strings and get you ____, but it'll cost you.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If you need him to, Malik Riaz can pull some strings and get you ____, but it'll cost you.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Malik Riaz is a living businessman, not a politician, and the card hints at corruption. The joke works without his name."
   },
   {
    "id": "game5-3131",
@@ -40802,13 +40802,13 @@
    "Name": "",
    "Description": "If you want a picture of the future, imagine a boot stamping on ____ forever.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "If you want a picture of the future, imagine a boot stamping on ____--forever.",
     "Category": ""
    },
-   "note": "punctuation"
+   "note": "Debate: An obscure Orwell quote that invites violent answers."
   },
   {
    "id": "game5-3140",
@@ -40826,7 +40826,7 @@
   {
    "id": "game5-3141",
    "Name": "",
-   "Description": "If you want to impress ____'s parents, plan a rishta visit built around ____.",
+   "Description": "To impress the rishta family, plan the whole visit around ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -40834,7 +40834,7 @@
     "Description": "If you want to marry ____, think about planning a proposal built around ____.",
     "Category": ""
    },
-   "note": "marriage proposal -> rishta"
+   "note": "marriage proposal -> rishta; Debate: The two-blank wording was clumsy and the first blank was redundant."
   },
   {
    "id": "game5-3142",
@@ -41047,7 +41047,7 @@
   {
    "id": "game5-3158",
    "Name": "",
-   "Description": "Next year, The PM will finally declare war on ____.",
+   "Description": "Next year, the PM will finally declare war on ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -41055,7 +41055,7 @@
     "Description": "In 2028 The PM will finally declare war on ____.",
     "Category": ""
    },
-   "note": "dated year"
+   "note": "dated year; Debate: Capitalisation fix."
   },
   {
    "id": "game5-3159",
@@ -41190,15 +41190,15 @@
   {
    "id": "game5-3169",
    "Name": "",
-   "Description": "In a shocking turn of events, GHQ now authorizes Soldiers to wear ____ while on duty.",
+   "Description": "In a shocking turn of events, GHQ now authorizes soldiers to wear ____ while on duty.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In a shocking turn of events, GHQ now authorizes Soldiers to wear ____ while on duty.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Capitalisation fix."
   },
   {
    "id": "game5-3170",
@@ -41229,33 +41229,33 @@
   {
    "id": "game5-3172",
    "Name": "",
-   "Description": "In addition to Kashmir Day, The PM has created ____ day.",
+   "Description": "In addition to Kashmir Day, the PM has created ____ Day.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In addition to Kashmir Day, The PM has created ____ day.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Capitalisation fix."
   },
   {
    "id": "game5-3173",
    "Name": "",
-   "Description": "In addition to breakfast, McDonalds now serves ____ all day.",
+   "Description": "In addition to breakfast, McDonald's now serves ____ all day.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In addition to breakfast, McDonalds now serves ____ all day.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Spelling of the brand name."
   },
   {
    "id": "game5-3174",
    "Name": "",
-   "Description": "Besides the street food, it's best to watch out for ____ while in Thailand.",
+   "Description": "Besides the overpriced chai, it's best to watch out for ____ while in Murree.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -41263,7 +41263,7 @@
     "Description": "In addition to ladyboys, it's best to watch out for ____ while in Thailand.",
     "Category": ""
    },
-   "note": "removed ladyboys"
+   "note": "removed ladyboys; Debate: The Thailand version invites crude answers. Murree's overpricing is a well-known local joke (challenger's wording)."
   },
   {
    "id": "game5-3175",
@@ -41333,15 +41333,15 @@
   {
    "id": "game5-3180",
    "Name": "",
-   "Description": "In an effort to fight poverty in Pakistan, The PM bans ____ for citizens.",
+   "Description": "In an effort to fight poverty in Pakistan, the PM bans ____ for all citizens.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In an effort to fight poverty in Pakistan, The PM bans ____ for citizens.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Capitalisation fix and smoother wording."
   },
   {
    "id": "game5-3181",
@@ -41450,15 +41450,15 @@
   {
    "id": "game5-3189",
    "Name": "",
-   "Description": "In breaking news: they've finally entered Khewra Salt Mines, just to find ____.",
+   "Description": "In breaking news: miners digging deep inside the Khewra Salt Mine have found ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In breaking news: they've finally entered Khewra Salt Mines, just to find ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Factual fix: Khewra has been mined for centuries. Also fixes the clumsy grammar."
   },
   {
    "id": "game5-3190",
@@ -41671,7 +41671,7 @@
   {
    "id": "game5-3206",
    "Name": "",
-   "Description": "In his new book, a famous author details his life-long love affair with ____.",
+   "Description": "In his new book, a famous author details his life-long obsession with ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -41679,7 +41679,7 @@
     "Description": "In his new book, author David Sedaris details his life-long love affair with ____.",
     "Category": ""
    },
-   "note": "foreign author -> generic"
+   "note": "foreign author -> generic; Debate: Removes the 'love affair' romance wording and keeps the joke."
   },
   {
    "id": "game5-3207",
@@ -42269,7 +42269,7 @@
   {
    "id": "game5-3252",
    "Name": "",
-   "Description": "In the follow-up to his best-selling book, the PM has teased ____, a documentary series focused on ____.",
+   "Description": "After his best-selling book, the PM is now launching ____, a documentary series about ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -42277,20 +42277,20 @@
     "Description": "In the follow up to his #1 Best Seller \"Own Your Future,\" The PM has teased ____, a documentary series focused on ____.",
     "Category": ""
    },
-   "note": "simplified"
+   "note": "simplified; Debate: Fixes the clumsy wording. Both blanks keep the same roles."
   },
   {
    "id": "game5-3253",
    "Name": "",
    "Description": "In the future, ____ will be used as currency.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "In the future, ____will be used as currency.",
     "Category": ""
    },
-   "note": "spacing"
+   "note": "Debate: Same meaning as 3152 (how will we pay in 1,000 years?). The lower id stays."
   },
   {
    "id": "game5-3254",
@@ -42336,13 +42336,13 @@
    "Name": "",
    "Description": "In the grim darkness of the far future, there is only ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "In the grim darkness of the far future there is only ____.",
     "Category": ""
    },
-   "note": "punctuation"
+   "note": "Debate: An obscure Warhammer 40,000 catchphrase."
   },
   {
    "id": "game5-3258",
@@ -42464,15 +42464,15 @@
   {
    "id": "game5-3267",
    "Name": "",
-   "Description": "In the new DLC for Mass Effect, Shepard must save the galaxy from ____.",
+   "Description": "In the new space video game, the hero must save the galaxy from ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In the new DLC for Mass Effect, Shepard must save the galaxy from ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Mass Effect is a niche Western reference, and another Mass Effect card is already in the deck."
   },
   {
    "id": "game5-3268",
@@ -42557,13 +42557,13 @@
    "Name": "",
    "Description": "In the next big video game, we will witness ____ take on ____ for world domination.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "In the next Marvel movie we will witness ____ take on ____ for world domination.",
     "Category": ""
    },
-   "note": "Marvel film -> video game"
+   "note": "Debate: Same two-blank, X-against-Y joke as the earlier three-hour action video game card."
   },
   {
    "id": "game5-3275",
@@ -42622,13 +42622,13 @@
    "Name": "",
    "Description": "In the school yearbook, I was voted most likely to ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "In the year book I was voted most likely to ____.",
     "Category": ""
    },
-   "note": "wording"
+   "note": "Debate: Duplicate of 3196 'In school, I was voted the most likely to ____.'"
   },
   {
    "id": "game5-3280",
@@ -101701,6 +101701,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Relatable household panic; the deck has no doorbell card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "If cricket matches were decided by ____, Pakistan would never lose.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New, clean cricket prompt. No similar card found."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My phone battery dies in an hour, but Ammi's lecture about ____ can go on all day.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family-friendly desi prompt with a clearer joke (challenger's wording)."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Lahore in June is so hot that even ____ was begging for an AC.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Everyday summer heat joke that avoids any link to the deadly 2015 Karachi heatwave (challenger's wording)."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "In winter, the sui gas only comes back when ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani frustration. The deck has no gas card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "In every family wedding, there is always one uncle who ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar wedding stereotype. It is broader than the existing uncle cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "If the PSL had a team made up entirely of aunties, it would be called ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New combination of PSL and aunty humour."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "If the mess havaldar wrote a cookbook, it would be called ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Army in-joke allowed by the owner. No similar card found."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "If the Murree monkeys formed a union, their first demand would be ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New angle on the well-known Murree monkeys."
   }
  ]
 }
