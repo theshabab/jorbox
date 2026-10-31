@@ -2471,9 +2471,9 @@
   },
   {
    "id": null,
-   "Description": "Things That Have Numbers",
+   "Description": "Things That Have Numbers on Them",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Clearer wording."
   },
   {
    "id": null,
@@ -2525,9 +2525,9 @@
   },
   {
    "id": null,
-   "Description": "Biscuits",
+   "Description": "Biscuit Brands and Types",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Clarifies brands and kinds both count."
   },
   {
    "id": null,
@@ -2627,9 +2627,9 @@
   },
   {
    "id": null,
-   "Description": "Sunnah Habits",
+   "Description": "Sunnahs of the Prophet ﷺ (Daily Habits)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Respectful and clearer."
   },
   {
    "id": null,
@@ -2963,9 +2963,9 @@
   },
   {
    "id": null,
-   "Description": "Animal Sounds",
+   "Description": "Animal Sounds (the Sound, Not the Animal)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Challenger's amendment clarifies without giving away answers."
   },
   {
    "id": null,
@@ -3656,6 +3656,36 @@
    "Description": "Things in a Library",
    "action": "add",
    "note": "New card (debate): A familiar place with many answers. It is not in the deck and is different from School Supplies and the classroom cards."
+  },
+  {
+   "id": null,
+   "Description": "Things You Need for Namaz",
+   "action": "add",
+   "note": "New card (debate): Familiar, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Hajj Rituals and Terms",
+   "action": "add",
+   "note": "New card (debate): Distinct from Umrah/gifts cards."
+  },
+  {
+   "id": null,
+   "Description": "Things That Have Doors",
+   "action": "add",
+   "note": "New card (debate): Many easy answers, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things That Have Keys",
+   "action": "add",
+   "note": "New card (debate): Easy and fun, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things That Need Electricity",
+   "action": "add",
+   "note": "New card (debate): Broad, distinct enough from batteries card."
   }
  ]
 }

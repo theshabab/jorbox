@@ -10217,6 +10217,36 @@
    "Name": "Sandstorm",
    "action": "add",
    "note": "New card (debate): Recognisable compound weather noun. It is distinct from Storm and Desert and is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Wheelchair",
+   "action": "add",
+   "note": "New card (debate): Clear concrete object, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Tube Light",
+   "action": "add",
+   "note": "New card (debate): Distinctly Pakistani household item. The challenger's Generator swap is rejected because Generator is already a live added card in game12.json."
+  },
+  {
+   "id": null,
+   "Name": "Whisper",
+   "action": "add",
+   "note": "New card (debate): Easy to act, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "WiFi",
+   "action": "add",
+   "note": "New card (debate): Modern noun, spelling matches the deck's style (TV, CD). Social media and tech are allowed."
+  },
+  {
+   "id": null,
+   "Name": "Tuition",
+   "action": "add",
+   "note": "New card (debate): Familiar student experience, fun to act, not in deck."
   }
  ]
 }

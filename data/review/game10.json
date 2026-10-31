@@ -4038,11 +4038,11 @@
   {
    "id": "game10-449",
    "Name": "Name a useful invention that doesn't exist.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Name a useful invention that doesn't exist."
    },
-   "note": ""
+   "note": "Debate: Fully open-ended; answers scatter so players rarely match."
   },
   {
    "id": "game10-450",
@@ -4235,12 +4235,12 @@
   },
   {
    "id": "game10-471",
-   "Name": "Where might a map lead?",
-   "action": "keep",
+   "Name": "What does a treasure map lead to?",
+   "action": "edit",
    "original": {
     "Name": "Where might a map lead?"
    },
-   "note": ""
+   "note": "Debate: Original 'Where might a map lead?' is vague; the new wording has a clear common answer set (treasure, chest, gold, island)."
   },
   {
    "id": "game10-472",
@@ -4299,11 +4299,11 @@
   {
    "id": "game10-478",
    "Name": "How might an alien say hello?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "How might an alien say hello?"
    },
-   "note": ""
+   "note": "Debate: Pure invention, answers cannot match; sibling alien-visit card stays live."
   },
   {
    "id": "game10-479",
@@ -6230,6 +6230,18 @@
    "Name": "Summer Vacation: Nani's House or Stay Home?",
    "action": "add",
    "note": "New card (debate): A nostalgic local this-or-that. It is different from the existing summer-vacation, Nani's-house and holiday cards."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal that gives milk.",
+   "action": "add",
+   "note": "New card (debate): Strong matching answers (cow, buffalo, goat, camel); no animal-milk card exists."
+  },
+  {
+   "id": null,
+   "Name": "Name something you use for light during loadshedding.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording; every common answer fits (candle, torch, emergency light, lantern, phone flashlight) and it differs from the live activity card."
   }
  ]
 }
