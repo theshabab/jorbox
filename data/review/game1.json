@@ -8105,7 +8105,7 @@
   {
    "id": "game1-624",
    "Name": "Hussain",
-   "Description": "Grandson of the Prophet, martyred at Karbala",
+   "Description": "Younger grandson of the Prophet, martyred at Karbala",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8113,7 +8113,7 @@
     "Description": "Grandson of the Prophet",
     "Category": "Sahaba"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Accurate, and it pairs with Hassan's 'Elder grandson' hint."
   },
   {
    "id": "game1-625",
@@ -8300,7 +8300,7 @@
   {
    "id": "game1-639",
    "Name": "Jafar",
-   "Description": "Cousin who spoke before the Negus",
+   "Description": "Cousin who spoke before Najashi in Abyssinia",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8308,7 +8308,7 @@
     "Description": "Cousin of the Prophet",
     "Category": "Sahaba"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Local players know Najashi better than 'Negus'. The fact is accurate."
   },
   {
    "id": "game1-640",
@@ -8443,7 +8443,7 @@
   {
    "id": "game1-650",
    "Name": "Solomon",
-   "Description": "Prophet king who spoke to animals",
+   "Description": "Prophet king who understood birds and ants",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8451,7 +8451,7 @@
     "Description": "Wise Prophet King",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Matches Quran 27:16-19 more precisely."
   },
   {
    "id": "game1-651",
@@ -8625,7 +8625,7 @@
   {
    "id": "game1-664",
    "Name": "Dhul-Kifl",
-   "Description": "Righteous Prophet named in the Quran",
+   "Description": "Patient Prophet named with Ismail and Idris",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8633,12 +8633,12 @@
     "Description": "Righteous Prophet",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Quran 21:85. The old hint could have fit any prophet."
   },
   {
    "id": "game1-665",
    "Name": "Yunus",
-   "Description": "Prophet swallowed by the whale",
+   "Description": "Prophet swallowed by a big fish",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8646,7 +8646,7 @@
     "Description": "Another name for Jonah",
     "Category": "Prophets"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The Quran says hut (a big fish), not a whale."
   },
   {
    "id": "game1-666",
@@ -8755,7 +8755,7 @@
   {
    "id": "game1-674",
    "Name": "Sawm",
-   "Description": "Fasting in Ramadan",
+   "Description": "Fasting from dawn until sunset",
    "Category": "Islamic Terms",
    "action": "edit",
    "original": {
@@ -8763,12 +8763,12 @@
     "Description": "Fasting",
     "Category": "Islamic Terms"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Accurate, no longer overlaps with Ramadan, and also covers voluntary fasts."
   },
   {
    "id": "game1-675",
    "Name": "Hajj",
-   "Description": "Pilgrimage to Mecca",
+   "Description": "Yearly pilgrimage to Mecca in Dhul Hijjah",
    "Category": "Islamic Terms",
    "action": "edit",
    "original": {
@@ -8776,7 +8776,7 @@
     "Description": "Pilgrimage",
     "Category": "Islamic Terms"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: More specific and accurate, under the ~8-word limit, and still worthwhile without an Umrah card."
   },
   {
    "id": "game1-676",
@@ -8963,7 +8963,7 @@
   {
    "id": "game1-690",
    "Name": "Wudu",
-   "Description": "Washing before prayer",
+   "Description": "Ritual washing before prayer",
    "Category": "Islamic Terms",
    "action": "edit",
    "original": {
@@ -8971,7 +8971,7 @@
     "Description": "Ablution",
     "Category": "Islamic Terms"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Clearer: wudu is a ritual washing, not ordinary washing."
   },
   {
    "id": "game1-691",
@@ -9145,7 +9145,7 @@
   {
    "id": "game1-704",
    "Name": "Cave Hira",
-   "Description": "Where the first revelation came, on Jabal al-Nour",
+   "Description": "Site of the first revelation, Jabal al-Nour",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9153,7 +9153,7 @@
     "Description": "Place of revelation",
     "Category": "Islamic Locations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Shortens the 9-word hint to 7 words and keeps the mountain detail. I amended the challenger's wording because 'Mountain cave...' repeats a word from the card's name, 'Cave'."
   },
   {
    "id": "game1-705",
@@ -9210,7 +9210,7 @@
   {
    "id": "game1-709",
    "Name": "Jannat al-Baqi",
-   "Description": "Graveyard of Medina",
+   "Description": "Medina graveyard where many Sahaba rest",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9218,7 +9218,7 @@
     "Description": "Cemetery in Medina",
     "Category": "Islamic Locations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: More specific and accurate."
   },
   {
    "id": "game1-710",
@@ -9262,7 +9262,7 @@
   {
    "id": "game1-713",
    "Name": "Tabuk",
-   "Description": "Site of the last expedition",
+   "Description": "Site of the Prophet's last expedition",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9270,12 +9270,12 @@
     "Description": "Northern city",
     "Category": "Islamic Locations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Says whose last expedition it was (9 AH)."
   },
   {
    "id": "game1-714",
    "Name": "Khaybar",
-   "Description": "Fortified oasis north of Medina",
+   "Description": "Fortified oasis north of Medina, conquered 7 AH",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9283,7 +9283,7 @@
     "Description": "Historic oasis",
     "Category": "Islamic Locations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the well-known conquest so the hint identifies the place. Accurate."
   },
   {
    "id": "game1-715",

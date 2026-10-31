@@ -10599,6 +10599,76 @@
    "Description": "2.5% (one-fortieth)",
    "action": "add",
    "note": "New card (debate): A well-established fact. The challenger's wording corrects the error that zakat is due only on the amount above the nisab."
+  },
+  {
+   "id": null,
+   "Name": "What is the ritual washing done before salah called?",
+   "Description": "Wudu",
+   "action": "add",
+   "note": "New card (debate): Correct, basic Islamic term. No wudu or ablution card exists anywhere in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the direction that Muslims face in prayer called?",
+   "Description": "Qibla",
+   "action": "add",
+   "note": "New card (debate): Correct, and no qibla card exists. The Kiswah card is about something else."
+  },
+  {
+   "id": null,
+   "Name": "What are the extra night prayers that Muslims pray in congregation during Ramadan called?",
+   "Description": "Taraweeh",
+   "action": "add",
+   "note": "New card (debate): Correct. The deck's Ramadan cards only cover the revelation month and Shawwal."
+  },
+  {
+   "id": null,
+   "Name": "During Hajj and Umrah, pilgrims walk seven times between which two hills?",
+   "Description": "Safa and Marwah",
+   "action": "add",
+   "note": "New card (debate): The sa'i fact is accurate and fits beside the Arafat card without repeating it."
+  },
+  {
+   "id": null,
+   "Name": "What is the sacred state that pilgrims enter for Hajj or Umrah, marked for men by two white unstitched cloths, called?",
+   "Description": "Ihram",
+   "action": "add",
+   "note": "New card (debate): Accurate, and no ihram card exists."
+  },
+  {
+   "id": null,
+   "Name": "Which hadith collection, compiled by Imam Muhammad ibn Ismail in the 9th century, is considered the most authentic in Sunni Islam?",
+   "Description": "Sahih al-Bukhari",
+   "action": "add",
+   "note": "New card (debate): Well-established fact. The clue does not give away the answer, and the deck has no hadith card."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani city is called the \"Manchester of Pakistan\" because of its textile mills?",
+   "Description": "Faisalabad",
+   "action": "add",
+   "note": "New card (debate): A well-known nickname that goes with the City of Lights and City of Saints cards without duplicating them."
+  },
+  {
+   "id": null,
+   "Name": "In 2000, which mountaineer became the first Pakistani to climb Mount Everest?",
+   "Description": "Nazir Sabir",
+   "action": "add",
+   "note": "New card (debate): Accurate (summit on 17 May 2000). The only Everest card asks about its borders."
+  },
+  {
+   "id": null,
+   "Name": "Which block-printed cloth, usually deep red and indigo, is a symbol of Sindhi culture?",
+   "Description": "Ajrak",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani culture card. None of the Sindh cards covers ajrak."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani player won both Evo Japan and Evo in Las Vegas in 2019, in the fighting game Tekken 7?",
+   "Description": "Arslan Ash",
+   "action": "add",
+   "note": "New card (debate): Accurate (he won both Evo Japan and Evo in 2019). The owner allows video-game cards, and no duplicate exists."
   }
  ]
 }

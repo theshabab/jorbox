@@ -610,7 +610,7 @@ Aisha,"Wife of the Prophet, daughter of Abu Bakr",Sahaba
 Khadija,First wife of the Prophet,Sahaba
 Fatima,"Daughter of the Prophet, wife of Ali",Sahaba
 Hassan,Elder grandson of the Prophet,Sahaba
-Hussain,"Grandson of the Prophet, martyred at Karbala",Sahaba
+Hussain,"Younger grandson of the Prophet, martyred at Karbala",Sahaba
 Zaid ibn Harithah,Adopted son of the Prophet,Sahaba
 Talha,Shielded the Prophet at Uhud,Sahaba
 Zubair,Cousin and disciple (hawari) of the Prophet,Sahaba
@@ -625,7 +625,7 @@ Suhaib,Companion nicknamed 'the Roman',Sahaba
 Abu Ubaidah,Trustworthy one (Amin) of the Ummah,Sahaba
 Hamza,"Uncle of the Prophet, Lion of Allah",Sahaba
 Abbas ibn Abdul Muttalib,"Uncle of the Prophet, gave pilgrims water",Sahaba
-Jafar,Cousin who spoke before the Negus,Sahaba
+Jafar,Cousin who spoke before Najashi in Abyssinia,Sahaba
 Adam,First Prophet and first human,Prophets
 Noah,Prophet of the Ark,Prophets
 Abraham,"Father of Prophets, built the Kaaba",Prophets
@@ -636,7 +636,7 @@ Joseph,"Sold by his brothers, rose in Egypt",Prophets
 Moses,"Received the Torah, parted the sea",Prophets
 Aaron,Brother of Musa,Prophets
 David,Prophet king given the Zabur,Prophets
-Solomon,Prophet king who spoke to animals,Prophets
+Solomon,Prophet king who understood birds and ants,Prophets
 Job,Prophet famed for his patience,Prophets
 Elijah,Prophet called Ilyas in the Quran,Prophets
 Elisha,Prophet called Al-Yasa in the Quran,Prophets
@@ -649,8 +649,8 @@ Shuaib,Prophet sent to Madyan,Prophets
 Hud,Prophet sent to the people of Ad,Prophets
 Saleh,"Prophet of the she-camel, sent to Thamud",Prophets
 Idris,Early Prophet raised to a high station,Prophets
-Dhul-Kifl,Righteous Prophet named in the Quran,Prophets
-Yunus,Prophet swallowed by the whale,Prophets
+Dhul-Kifl,Patient Prophet named with Ismail and Idris,Prophets
+Yunus,Prophet swallowed by a big fish,Prophets
 Allah,"The One God, Creator of all",Islamic Terms
 Islam,Religion of submission to Allah,Islamic Terms
 Muslim,One who submits to Allah,Islamic Terms
@@ -659,8 +659,8 @@ Hadith,Recorded sayings of the Prophet,Islamic Terms
 Sunnah,Way and practice of the Prophet,Islamic Terms
 Salah,Five daily prayers,Islamic Terms
 Zakat,Obligatory yearly charity,Islamic Terms
-Sawm,Fasting in Ramadan,Islamic Terms
-Hajj,Pilgrimage to Mecca,Islamic Terms
+Sawm,Fasting from dawn until sunset,Islamic Terms
+Hajj,Yearly pilgrimage to Mecca in Dhul Hijjah,Islamic Terms
 Shahada,Declaration of faith,Islamic Terms
 Iman,Faith,Islamic Terms
 Taqwa,God-consciousness,Islamic Terms
@@ -672,7 +672,7 @@ Ramadan,Fasting month,Islamic Terms
 Eid,Festival after Ramadan or Hajj,Islamic Terms
 Masjid,"Mosque, place of prayer",Islamic Terms
 Imam,Prayer leader,Islamic Terms
-Wudu,Washing before prayer,Islamic Terms
+Wudu,Ritual washing before prayer,Islamic Terms
 Mecca,Holiest city in Islam,Islamic Locations
 Jerusalem,"City of Al-Aqsa, third holiest",Islamic Locations
 Kaaba,Cube-shaped House of Allah,Islamic Locations
@@ -686,16 +686,16 @@ Muzdalifah,Hajj stop where pebbles are collected,Islamic Locations
 Safa,Hill where Sa'i begins,Islamic Locations
 Marwa,Hill where Sa'i ends,Islamic Locations
 Zamzam,Sacred well in Mecca,Islamic Locations
-Cave Hira,"Where the first revelation came, on Jabal al-Nour",Islamic Locations
+Cave Hira,"Site of the first revelation, Jabal al-Nour",Islamic Locations
 Cave Thawr,Hiding place during the Hijrah,Islamic Locations
 Uhud,Mountain and battle near Medina,Islamic Locations
 Badr,Site of the first great battle,Islamic Locations
 Quba,First mosque built in Islam,Islamic Locations
-Jannat al-Baqi,Graveyard of Medina,Islamic Locations
+Jannat al-Baqi,Medina graveyard where many Sahaba rest,Islamic Locations
 Hudaybiyyah,Site of the treaty with Quraysh,Islamic Locations
 Taif,Hill city the Prophet visited to preach,Islamic Locations
-Tabuk,Site of the last expedition,Islamic Locations
-Khaybar,Fortified oasis north of Medina,Islamic Locations
+Tabuk,Site of the Prophet's last expedition,Islamic Locations
+Khaybar,"Fortified oasis north of Medina, conquered 7 AH",Islamic Locations
 Yemen,Land praised for faith and wisdom,Islamic Locations
 Damascus,Capital of the Umayyads,Islamic Locations
 Baghdad,Abbasid capital,Islamic Locations

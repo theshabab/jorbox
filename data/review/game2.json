@@ -9891,10 +9891,10 @@
   {
    "id": null,
    "Name": "Tinda",
-   "Description": "Gourd | Round | Green | Small | Sabzi",
+   "Description": "Gourd | Round | Green | Sabzi | Bachay",
    "Category": "Vegetables",
    "action": "add",
-   "note": "New card (debate): Everyday Pakistani vegetable that is not in the deck; Vegetables has only 21 cards."
+   "note": "New card (debate): Everyday Pakistani vegetable that is not in the deck; Vegetables has only 21 cards.; Debate: Swaps the weak 'Small' for 'Bachay', the obvious 'the sabzi kids hate' clue."
   },
   {
    "id": null,
@@ -10351,6 +10351,86 @@
    "Category": "Family Relations",
    "action": "add",
    "note": "New card (debate): Easy, family-friendly word missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Qurbani",
+   "Description": "Bakra Eid | Sacrifice | Janwar | Gosht | Ibrahim",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Core Eid ul-Adha concept not yet a card. Uses the challenger's version, which bans the obvious clue Ibrahim in place of 'Eid ul-Adha' (the same thing as Bakra Eid)."
+  },
+  {
+   "id": null,
+   "Name": "Fajr",
+   "Description": "Dawn | Namaz | Subah | Alarm | Two Rakat",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): The deck has no prayer-time card. The banned words are accurate (Fajr fard is two rakat)."
+  },
+  {
+   "id": null,
+   "Name": "Miswak",
+   "Description": "Stick | Teeth | Sunnah | Brush | Peelu",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known Sunnah item that is easy to mime and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Muazzin",
+   "Description": "Azan | Masjid | Minaret | Loudspeaker | Bilal",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): The owner allows Muezzin cards. It is not a duplicate (it appears elsewhere only as a banned word) and uses the deck's spelling."
+  },
+  {
+   "id": null,
+   "Name": "Chaiwala",
+   "Description": "Tea | Dhaba | Cup | Kettle | Stall",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Classic local occupation. Uses the challenger's version, which drops 'Chai' (it repeats both Tea and the card's name)."
+  },
+  {
+   "id": null,
+   "Name": "Sabziwala",
+   "Description": "Thela | Vegetables | Bhao | Dhaniya | Mandi",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Familiar street vendor. Uses the challenger's version, which drops 'Sabzi' (it repeats both Vegetables and the card's name)."
+  },
+  {
+   "id": null,
+   "Name": "Geyser",
+   "Description": "Hot Water | Gas | Winter | Bath | Tank",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Everyday household appliance. Uses the challenger's version, which removes the duplicate Garam Pani / Hot Water pair."
+  },
+  {
+   "id": null,
+   "Name": "Kulfi",
+   "Description": "Ice Cream | Matka | Stick | Pista | Malai",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Iconic local dessert. Until now it appeared only as a banned word on the Ice Cream card."
+  },
+  {
+   "id": null,
+   "Name": "Allama Iqbal",
+   "Description": "Poet | Dream | Shaheen | Sialkot | Khudi",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): The national poet is missing as a card. Uses the challenger's version, which bans the most common clue ('dreamed of Pakistan') in place of Shikwa."
+  },
+  {
+   "id": null,
+   "Name": "Muhammad bin Qasim",
+   "Description": "Sindh | Debal | Raja Dahir | 712 | Young",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Standard Pakistani-history figure. The facts check out: he took Debal and defeated Raja Dahir in 711-712 CE, at about 17."
   }
  ]
 }
