@@ -3349,13 +3349,13 @@
    "Name": "Cycling",
    "Description": "Racing on a pedalled two-wheeler",
    "Category": "Sports",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Cycling",
     "Description": "A bike sport",
     "Category": "Sports"
    },
-   "note": "Specific hint; Debate: Fixes awkward wording."
+   "note": "Specific hint; Debate: Fixes awkward wording.; Removed in Charades as a near-duplicate of Cycle"
   },
   {
    "id": "game1-259",
@@ -10004,7 +10004,7 @@
   {
    "id": null,
    "Name": "Khussa",
-   "Description": "Embroidered pointed shoe from Multan",
+   "Description": "Embroidered pointed-toe Punjabi shoe",
    "Category": "Clothing",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
@@ -10534,6 +10534,86 @@
    "Name": "Bat",
    "Description": "Chamgadar; flying mammal hanging upside down",
    "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hoopoe",
+   "Description": "Hudhud; crowned bird that brought news to Sulaiman",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Giraffe",
+   "Description": "Tallest animal, very long neck",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Zebra",
+   "Description": "African horse with black and white stripes",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Chess",
+   "Description": "Shatranj; checkmate the king",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tug of War",
+   "Description": "Two teams pulling a rope",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Wagah Border",
+   "Description": "Daily flag-lowering ceremony near Lahore",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pakistan Monument",
+   "Description": "Petal-shaped national memorial in Islamabad",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Gardener",
+   "Description": "Mali who waters plants and trims hedges",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Photographer",
+   "Description": "Takes pictures at shaadis and events",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Firefighter",
+   "Description": "Puts out blazes with a hose",
+   "Category": "Occupations",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }
