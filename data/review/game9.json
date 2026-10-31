@@ -8612,10 +8612,10 @@
   },
   {
    "id": null,
-   "Name": "Which strait, named after the Muslim commander Tariq ibn Ziyad, separates Spain from Morocco?",
+   "Name": "Which strait between Spain and Morocco gets its name from \"Jabal Tariq\", the mountain named after Muslim commander Tariq ibn Ziyad?",
    "Description": "Strait of Gibraltar",
    "action": "add",
-   "note": "replacement: Pakistani/Islamic/science/geography"
+   "note": "replacement: Pakistani/Islamic/science/geography; Debate: Accuracy: the strait takes its name through Gibraltar (Jabal Tariq), not directly from Tariq."
   },
   {
    "id": null,
@@ -8766,10 +8766,10 @@
   },
   {
    "id": null,
-   "Name": "Which hill station near Islamabad was a British summer retreat?",
+   "Name": "Which hill station near Islamabad, founded by the British in 1851, is famous for its Mall Road?",
    "Description": "Murree",
    "action": "add",
-   "note": "replacement: Pakistan/Islamic/science/geography"
+   "note": "replacement: Pakistan/Islamic/science/geography; Debate: The old clue also fit the Galiyat stations. The new one (founded 1851, Mall Road) points only to Murree."
   },
   {
    "id": null,
@@ -9146,10 +9146,10 @@
   {
    "id": null,
    "Name": "What does the name \"Pakistan\" mean?",
-   "Description": "Land of the pure",
+   "Description": "Land of the Pure",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Uses the standard capitalization of the phrase."
   },
   {
    "id": null,
@@ -10977,6 +10977,69 @@
    "Description": "Edirne (Adrianople)",
    "action": "add",
    "note": "New card (debate): Correct, and it complements the Bursa and Constantinople cards without duplicating them."
+  },
+  {
+   "id": null,
+   "Name": "Who captained Pakistan to victory in the 1992 Cricket World Cup?",
+   "Description": "Imran Khan",
+   "action": "add",
+   "note": "New card (debate): Accurate, fits cards 871 and 872, and the deck has no captain card."
+  },
+  {
+   "id": null,
+   "Name": "In which Sindh town is the shrine of the Sufi saint Lal Shahbaz Qalandar?",
+   "Description": "Sehwan Sharif",
+   "action": "add",
+   "note": "New card (debate): Accurate, well-known local heritage that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Mughal emperor built the mosque in Thatta famous for its 93 domes?",
+   "Description": "Shah Jahan",
+   "action": "add",
+   "note": "New card (debate): Accurate (the Shah Jahan Mosque, 1647) and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which huge fort in Sindh, nicknamed the \"Great Wall of Sindh\", has walls more than 25 km long?",
+   "Description": "Ranikot Fort",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani heritage that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which alpine meadow, a famous trekking spot, lies at the foot of Nanga Parbat?",
+   "Description": "Fairy Meadows",
+   "action": "add",
+   "note": "New card (debate): Accurate northern Pakistan geography that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which river, whose name means \"five rivers\", carries the combined waters of Punjab's rivers into the Indus?",
+   "Description": "Panjnad",
+   "action": "add",
+   "note": "New card (debate): Accurate, fits the deck's Pakistan rivers theme, and is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani poet wrote the famous revolutionary poem \"Hum Dekhenge\"?",
+   "Description": "Faiz Ahmad Faiz",
+   "action": "add",
+   "note": "New card (debate): A major Urdu poet who is missing from the deck. Political poetry is allowed."
+  },
+  {
+   "id": null,
+   "Name": "Which surah of the Quran contains Bismillah twice?",
+   "Description": "An-Naml",
+   "action": "add",
+   "note": "New card (debate): Accurate (it opens the surah and appears again in 27:30) and pairs with card 882."
+  },
+  {
+   "id": null,
+   "Name": "Which night does the Quran describe as better than a thousand months?",
+   "Description": "Laylat al-Qadr (the Night of Decree)",
+   "action": "add",
+   "note": "New card (debate): Accurate (Quran 97:3) basic Islamic knowledge that is not in the deck."
   }
  ]
 }

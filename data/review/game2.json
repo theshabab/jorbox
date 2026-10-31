@@ -6703,13 +6703,13 @@
    "Name": "Vice",
    "Description": "Grip | Hold | Table | Jaws | Workshop",
    "Category": "Tools",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Vice",
     "Description": "tool | metal | work | fix",
     "Category": "Tools"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of Clamp (514), which bans the same Hold/Grip/Table words, and 'Vice' is little known locally."
   },
   {
    "id": "game2-517",
@@ -7221,7 +7221,7 @@
   {
    "id": "game2-556",
    "Name": "Lemonade",
-   "Description": "Nimbu | Pani | Shikanjvi | Lemon | Sour",
+   "Description": "Nimbu | Shikanjvi | Lemon | Sour | Sugar",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7229,7 +7229,7 @@
     "Description": "drink | liquid | cup | hot",
     "Category": "Beverages"
    },
-   "note": "Debate: Challenger's version: it adds the local name Shikanjvi and keeps Nimbu and Pani as separate bans, so a player cannot say either word alone."
+   "note": "Debate: Challenger's version: it adds the local name Shikanjvi and keeps Nimbu and Pani as separate bans, so a player cannot say either word alone.; Debate: 'Pani' alone was too broad, so it is replaced by Sugar. Nimbu stays banned on its own because it is the direct Urdu word for lemon."
   },
   {
    "id": "game2-557",
@@ -7273,7 +7273,7 @@
   {
    "id": "game2-560",
    "Name": "Kanji",
-   "Description": "Carrot | Black Carrot | Fermented | Purple | Winter",
+   "Description": "Carrot | Gajar | Fermented | Purple | Sour",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7281,7 +7281,7 @@
     "Description": "drink | liquid | cup | hot",
     "Category": "Beverages"
    },
-   "note": ""
+   "note": "Debate: 'Carrot' and 'Black Carrot' overlapped, so one ban was wasted. Banning Gajar closes the Urdu route ('kaali gajar'), and Sour replaces the weak Winter."
   },
   {
    "id": "game2-561",
@@ -7767,7 +7767,7 @@
   {
    "id": "game2-598",
    "Name": "Father",
-   "Description": "Abbu | Abba | Dad | Baba | Papa",
+   "Description": "Abbu | Dad | Papa | Mother | Husband",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7775,7 +7775,7 @@
     "Description": "family | relative | blood | relation",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: All five bans were synonyms, so 'Ammi's husband' gave the answer away. Mother and Husband are now banned, and Abba and Baba were near-duplicates of Abbu and Papa."
   },
   {
    "id": "game2-599",
@@ -10831,6 +10831,78 @@
    "Category": "Tools",
    "action": "add",
    "note": "New card (debate): Familiar building-site tool; no Wheelbarrow card (Trolley is a separate card)."
+  },
+  {
+   "id": null,
+   "Name": "Kehwa",
+   "Description": "Green Tea | Peshawar | Elaichi | Pathan | Digestion",
+   "Category": "Beverages",
+   "action": "add",
+   "note": "New card (debate): Popular Pakistani drink that has no card; it appears only as a banned word on Green Tea."
+  },
+  {
+   "id": null,
+   "Name": "Badam Doodh",
+   "Description": "Almond | Milk | Nuts | Winter | Garam",
+   "Category": "Beverages",
+   "action": "add",
+   "note": "New card (debate): Common local winter drink, not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Kunafa",
+   "Description": "Arab | Cheese | Syrup | Dubai | Pistachio",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Middle Eastern dessert now popular in Pakistan and not yet in the deck. Dubai is banned because of the 'Dubai chocolate' giveaway."
+  },
+  {
+   "id": null,
+   "Name": "Baklava",
+   "Description": "Turkey | Layers | Pistachio | Syrup | Flaky",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Well-known Muslim-world dessert, not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Samdhi",
+   "Description": "Samdhan | In-laws | Wedding | Children | Married",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Distinctly Pakistani relation (your child's father-in-law), not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Great-grandfather",
+   "Description": "Pardada | Parnana | Grandfather | Old | Ancestor",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): No great-grandparent card exists. Both Urdu terms (paternal and maternal) are banned so neither gives the answer away."
+  },
+  {
+   "id": null,
+   "Name": "Sandpaper",
+   "Description": "Regmaal | Rough | Smooth | Rub | Wood",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Everyday workshop item with no live card in game2."
+  },
+  {
+   "id": null,
+   "Name": "Soldering Iron",
+   "Description": "Hot | Wire | Circuit | Melt | Electrician",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Common repair-shop tool, not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Wash and Wear",
+   "Description": "Men | Suit | Iron | Wrinkle | Shalwar Kameez",
+   "Category": "Fabrics",
+   "action": "add",
+   "note": "New card (debate): Standard Pakistani men's shalwar kameez fabric, not yet in the deck."
   }
  ]
 }

@@ -403,7 +403,7 @@ Necklace,Chain or haar worn at the throat,Jewelry
 Bangle,Glass or gold wrist circle,Jewelry
 Earring,Worn on the earlobe,Jewelry
 Nose Pin,Small stud worn on a nostril,Jewelry
-Anklet,"Worn around the ankle, often with bells",Jewelry
+Anklet,"Payal worn around the ankle, often with bells",Jewelry
 Bracelet,Chain or band worn on the wrist,Jewelry
 Chain,Thin metal links worn on the neck,Jewelry
 Locket,Pendant that opens to hold a photo,Jewelry
@@ -427,7 +427,7 @@ Star,Twinkles in the night sky,Nature
 Sky,Blue above us in the daytime,Nature
 Cloud,"White and fluffy, floats in the sky",Nature
 Rain,Water falling from clouds,Nature
-Snow,White flakes that fall in winter,Nature
+Snow,White flakes falling on Murree in winter,Nature
 Wind,Moving air you can feel,Nature
 Storm,"Heavy wind, rain and thunder",Nature
 River,Flowing water like the Indus,Nature
@@ -453,7 +453,7 @@ Mobile,Handheld phone carried everywhere,Electronics
 Tablet,"Flat touchscreen device, bigger than a phone",Electronics
 Speaker,Device that makes sound louder,Electronics
 Headphones,Worn over ears for private listening,Electronics
-Mouse,Clicked and moved to point on screen,Electronics
+Mouse,Computer pointer you click and slide,Electronics
 Keyboard,Rows of keys for typing,Electronics
 Printer,Turns computer files into paper copies,Electronics
 Scanner,Copies paper documents into a computer,Electronics
@@ -463,10 +463,10 @@ Heater,Warms a room in winter,Electronics
 Fridge,Keeps food cold and fresh,Electronics
 Oven,Enclosed appliance for baking and roasting,Electronics
 Microwave,"Reheats leftovers in minutes, then beeps",Electronics
-Iron,Hot plate that removes clothes' wrinkles,Electronics
-Blender,Whirls fruit and ice into a liquid,Electronics
+Iron,Hot press that smooths creased clothes,Electronics
+Blender,Whirls fruit and milk into shakes,Electronics
 Toaster,Browns bread slices,Electronics
-Juicer,Squeezes out juice from fruit,Electronics
+Juicer,Machine that squeezes fresh oranges and anaar,Electronics
 Watch,Tells time on your wrist,Electronics
 Clock,Tells time on the wall,Electronics
 Hammer,Tool for hitting nails,Tools
@@ -482,7 +482,7 @@ Rake,Long-handled tool for gathering leaves,Tools
 Hoe,Garden tool for digging and weeding,Tools
 Ladder,Steps for climbing up high,Tools
 Tape Measure,Roll-out metal strip marked in inches,Tools
-Level,Bubble tool for checking straightness,Tools
+Level,Bubble tool that checks a surface is flat,Tools
 Chisel,Sharp-edged tool for carving wood,Tools
 File,Rough metal tool for smoothing edges,Tools
 Clamp,Tool that holds pieces tightly together,Tools

@@ -5492,7 +5492,7 @@
   {
    "id": "game1-423",
    "Name": "Anklet",
-   "Description": "Worn around the ankle, often with bells",
+   "Description": "Payal worn around the ankle, often with bells",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5500,7 +5500,7 @@
     "Description": "An ankle ornament",
     "Category": "Jewelry"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the familiar Urdu word 'payal', so the hint is easier to recognise and stays within about 8 words."
   },
   {
    "id": "game1-424",
@@ -5817,7 +5817,7 @@
   {
    "id": "game1-448",
    "Name": "Snow",
-   "Description": "White flakes that fall in winter",
+   "Description": "White flakes falling on Murree in winter",
    "Category": "Nature",
    "action": "edit",
    "original": {
@@ -5825,7 +5825,7 @@
     "Description": "Frozen precipitation",
     "Category": "Nature"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: An accurate local reference that makes a generic hint more specific."
   },
   {
    "id": "game1-449",
@@ -6168,7 +6168,7 @@
   {
    "id": "game1-475",
    "Name": "Mouse",
-   "Description": "Clicked and moved to point on screen",
+   "Description": "Computer pointer you click and slide",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6176,7 +6176,7 @@
     "Description": "A pointing device",
     "Category": "Electronics"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Clearer and more natural than 'Clicked and moved to point on screen'."
   },
   {
    "id": "game1-476",
@@ -6298,7 +6298,7 @@
   {
    "id": "game1-485",
    "Name": "Iron",
-   "Description": "Hot plate that removes clothes' wrinkles",
+   "Description": "Hot press that smooths creased clothes",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6306,12 +6306,12 @@
     "Description": "A pressing appliance",
     "Category": "Electronics"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Replaces the awkward possessive with clearer wording; 'press' is the local word for an iron."
   },
   {
    "id": "game1-486",
    "Name": "Blender",
-   "Description": "Whirls fruit and ice into a liquid",
+   "Description": "Whirls fruit and milk into shakes",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6319,7 +6319,7 @@
     "Description": "A mixing appliance",
     "Category": "Electronics"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: More specific and familiar locally than the vague 'into a liquid'."
   },
   {
    "id": "game1-487",
@@ -6337,7 +6337,7 @@
   {
    "id": "game1-488",
    "Name": "Juicer",
-   "Description": "Squeezes out juice from fruit",
+   "Description": "Machine that squeezes fresh oranges and anaar",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6345,7 +6345,7 @@
     "Description": "An extracting appliance",
     "Category": "Electronics"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The current hint contains 'juice', the root of the word, which breaks the no-word-in-hint rule. The rewrite is accurate, local and distinct from the Blender hint."
   },
   {
    "id": "game1-489",
@@ -6545,7 +6545,7 @@
   {
    "id": "game1-504",
    "Name": "Level",
-   "Description": "Bubble tool for checking straightness",
+   "Description": "Bubble tool that checks a surface is flat",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6553,7 +6553,7 @@
     "Description": "A leveling tool",
     "Category": "Tools"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Factual fix: a spirit level checks whether a surface is level or flat, not whether it is straight."
   },
   {
    "id": "game1-505",

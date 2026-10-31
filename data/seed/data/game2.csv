@@ -491,7 +491,6 @@ Level,Bubble | Straight | Flat | Spirit | Wall,Tools
 Chisel,Hammer | Wood | Carve | Stone | Sculpt,Tools
 File,Rub | Smooth | Nails | Rough | Metal,Tools
 Clamp,Hold | Tight | Squeeze | Grip | Table,Tools
-Vice,Grip | Hold | Table | Jaws | Workshop,Tools
 Cutter,Blade | Box | Paper | Sharp | Slide,Tools
 Torch,Light | Battery | Dark | Loadshedding | Flashlight,Tools
 Brush,Paint | Teeth | Hair | Bristles | Wall,Tools
@@ -528,11 +527,11 @@ Juice,Orange | Fresh | Squeeze | Fruit | Apple,Beverages
 Lassi,Dahi | Yogurt | Punjab | Meethi | Namkeen,Beverages
 Shake,Milk | Banana | Mango | Blender | Thick,Beverages
 Smoothie,Blender | Fruit | Yogurt | Thick | Healthy,Beverages
-Lemonade,Nimbu | Pani | Shikanjvi | Lemon | Sour,Beverages
+Lemonade,Nimbu | Shikanjvi | Lemon | Sour | Sugar,Beverages
 Squash,Concentrate | Orange | Dilute | Bottle | Mix,Beverages
 Sherbet,Sharbat | Iftar | Sugar | Pink | Garmi,Beverages
 Rooh Afza,Hamdard | Red | Sharbat | Ramzan | Iftar,Beverages
-Kanji,Carrot | Black Carrot | Fermented | Purple | Winter,Beverages
+Kanji,Carrot | Gajar | Fermented | Purple | Sour,Beverages
 Sattu,Chana | Flour | Roasted | Punjab | Summer,Beverages
 Buttermilk,Chaach | Lassi | Dahi | Namkeen | Butter,Beverages
 Green Tea,Healthy | Leaves | Kehwa | Weight Loss | Bag,Beverages
@@ -568,7 +567,7 @@ Zarda,Rice | Yellow | Colorful | Shadi | Chawal,Desserts
 Sheer Khurma,Eid | Seviyan | Khajoor | Milk | Dry Fruits,Desserts
 Sawaiyan,Eid | Vermicelli | Noodles | Breakfast | Sheer Khurma,Desserts
 Mother,Ammi | Maa | Jannat | Feet | Mom,Family Relations
-Father,Abbu | Abba | Dad | Baba | Papa,Family Relations
+Father,Abbu | Dad | Papa | Mother | Husband,Family Relations
 Brother,Bhai | Bhaiya | Sibling | Bro | Elder,Family Relations
 Sister,Behen | Baji | Apa | Sibling | Sis,Family Relations
 Son,Beta | Boy | Child | Parents | Daughter,Family Relations
@@ -849,3 +848,12 @@ Glacier,Ice | Siachen | Baltoro | Melt | Cold,Nature
 Cave,Ghaar | Dark | Hira | Rock | Bats,Nature
 Toe,Foot | Ungli | Shoe | Nail | Ten,Body Parts
 Wheelbarrow,Wheel | Push | Cement | Mazdoor | Sand,Tools
+Kehwa,Green Tea | Peshawar | Elaichi | Pathan | Digestion,Beverages
+Badam Doodh,Almond | Milk | Nuts | Winter | Garam,Beverages
+Kunafa,Arab | Cheese | Syrup | Dubai | Pistachio,Desserts
+Baklava,Turkey | Layers | Pistachio | Syrup | Flaky,Desserts
+Samdhi,Samdhan | In-laws | Wedding | Children | Married,Family Relations
+Great-grandfather,Pardada | Parnana | Grandfather | Old | Ancestor,Family Relations
+Sandpaper,Regmaal | Rough | Smooth | Rub | Wood,Tools
+Soldering Iron,Hot | Wire | Circuit | Melt | Electrician,Tools
+Wash and Wear,Men | Suit | Iron | Wrinkle | Shalwar Kameez,Fabrics
