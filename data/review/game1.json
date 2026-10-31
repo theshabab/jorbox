@@ -11160,6 +11160,54 @@
    "Category": "Fruits",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Chopping Board",
+   "Description": "Wooden slab for cutting vegetables on",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tandoor",
+   "Description": "Clay oven that bakes naan on its walls",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kettle",
+   "Description": "Electric jug that boils water for chai",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Slippers",
+   "Description": "Casual chappal worn around the house",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pajama",
+   "Description": "Loose trousers worn for sleeping",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Rhinoceros",
+   "Description": "Gainda; thick-skinned giant with a horn",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }

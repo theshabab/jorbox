@@ -897,6 +897,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-895','game1','Star Anise','Badiyan; star-shaped spice in pulao','Spices');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-896','game1','Chikoo','Brown, grainy-sweet fruit (sapodilla)','Fruits');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-897','game1','Persimmon','Japani phal; soft orange autumn fruit','Fruits');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-898','game1','Chopping Board','Wooden slab for cutting vegetables on','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-899','game1','Tandoor','Clay oven that bakes naan on its walls','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-900','game1','Kettle','Electric jug that boils water for chai','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-901','game1','Slippers','Casual chappal worn around the house','Clothing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-902','game1','Pajama','Loose trousers worn for sleeping','Clothing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-903','game1','Rhinoceros','Gainda; thick-skinned giant with a horn','Animals');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');
