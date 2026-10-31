@@ -861,14 +861,14 @@ Calcium,40.078,Elements by Atomic Mass
 Iron,55.845,Elements by Atomic Mass
 Gold,196.967,Elements by Atomic Mass
 Uranium,238.029,Elements by Atomic Mass
-English,~1.5 billion,World Languages (Speakers)
-Mandarin Chinese,~1.1 billion,World Languages (Speakers)
-Hindi,~610 million,World Languages (Speakers)
-Spanish,~560 million,World Languages (Speakers)
-French,~310 million,World Languages (Speakers)
-Standard Arabic,~330 million,World Languages (Speakers)
-Urdu,~245 million,World Languages (Speakers)
-German,~135 million,World Languages (Speakers)
+English,~1.5 billion,World Languages (Total Speakers - High to Low)
+Mandarin Chinese,~1.1 billion,World Languages (Total Speakers - High to Low)
+Hindi,~610 million,World Languages (Total Speakers - High to Low)
+Spanish,~560 million,World Languages (Total Speakers - High to Low)
+French,~310 million,World Languages (Total Speakers - High to Low)
+Standard Arabic,~330 million,World Languages (Total Speakers - High to Low)
+Urdu,~245 million,World Languages (Total Speakers - High to Low)
+German,~135 million,World Languages (Total Speakers - High to Low)
 Earthworm,0,Animals By Leg Count
 Human,2,Animals By Leg Count
 Cat,4,Animals By Leg Count
@@ -894,7 +894,7 @@ Epsilon,5th letter,Greek Alphabet Letters (Order)
 Theta,8th letter,Greek Alphabet Letters (Order)
 Pi,16th letter,Greek Alphabet Letters (Order)
 Omega,24th (last) letter,Greek Alphabet Letters (Order)
-Quark,< 0.000001 nm (no measurable size),Tiny Things (Small to Large)
+Quark,"Under 0.000000001 nm (point-like, below 10^-18 m)",Tiny Things (Small to Large)
 Proton,~0.000001 nm (0.84 femtometres),Tiny Things (Small to Large)
 Atom,~0.1 nm,Tiny Things (Small to Large)
 Virus,~100 nm (typical virus),Tiny Things (Small to Large)
@@ -941,7 +941,7 @@ Scrabble,100 tiles,Board Games By Piece Count (Approx.)
 3,10th (3.141592653),First Digits of Pi
 Hummingbird,"~1.3 cm, ~0.5 g",Average Bird Egg Size (Small to Large)
 Sparrow,"~2 cm, ~3 g",Average Bird Egg Size (Small to Large)
-Robin,"~3 cm, ~6 g",Average Bird Egg Size (Small to Large)
+Myna,"~3 cm, ~7 g",Average Bird Egg Size (Small to Large)
 Crow,"~4 cm, ~17 g",Average Bird Egg Size (Small to Large)
 Chicken,"~5.7 cm, ~58 g",Average Bird Egg Size (Small to Large)
 Duck,"~6 cm, ~70 g",Average Bird Egg Size (Small to Large)
@@ -957,7 +957,7 @@ Butter,"1,628 kcal",Calories Per Cup (Approx.)
 Cooking Oil,"1,927 kcal",Calories Per Cup (Approx.)
 Mozzarella,Fresh (not aged),Cheeses By Aging Period
 Brie,4 weeks,Cheeses By Aging Period
-Feta,3 months,Cheeses By Aging Period
+Feta,At least 2 months (often 3+),Cheeses By Aging Period
 Gouda,4 months,Cheeses By Aging Period
 Cheddar,1 year,Cheeses By Aging Period
 Parmesan,2 years,Cheeses By Aging Period
@@ -1432,3 +1432,9 @@ Mazar-e-Quaid,c. 1970,World Buildings By Completion
 Cairo,969 AD (founded by the Fatimids as al-Qahira),World Cities By Date Founded
 Recep Tayyip Erdoğan,2003 (became Prime Minister of Turkey),Modern Leaders by Rise To Power
 Makkah,21.4°N,Places in the Northern Hemisphere (Latitude)
+1,2nd (3.1),First Digits of Pi
+Ludo,16 tokens (4 per player),Board Games By Piece Count (Approx.)
+Carrom,20 (19 coins incl. queen + 1 striker),Board Games By Piece Count (Approx.)
+Moon,~0.012 Earth masses,Solar System Bodies by Mass
+Sperm Whale,"~2,250 m (record dive)",Sea Animals by Diving Depth
+Width of a Human Hair,~0.07 mm (70 micrometres),Tiny Things (Small to Large)

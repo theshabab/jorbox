@@ -1540,7 +1540,7 @@
   {
    "id": "game3-119",
    "Name": "Hadith Collections",
-   "Description": "Sahih Bukhari|Sahih Muslim|Jami Tirmidhi|Sunan Abu Dawood|Sunan Nasai|Sunan Ibn Majah|Muwatta Imam Malik|Musnad Ahmad|Riyad us Saliheen|Mishkat al Masabih|Bulugh al Maram|Arbaeen Nawawi|Shamail Tirmidhi|Al Adab al Mufrad|Al Lulu wal Marjan|Sunan Darimi",
+   "Description": "Sahih Bukhari|Sahih Muslim|Jami Tirmidhi|Sunan Abu Dawood|Sunan Nasai|Sunan Ibn Majah|Muwatta Imam Malik|Musnad Ahmad|Riyad us Saliheen|Mishkat al Masabih|Bulugh al Maram|Arbaeen Nawawi|Shamail Tirmidhi|Al Adab al Mufrad",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1548,7 +1548,7 @@
     "Description": "Bukhari|Muslim|Tirmidhi|Abu Dawood|Nasai|Ibn Majah|Muwatta|Musnad|Riyad us Saliheen|Mishkat|Bulugh al Maram|Forty Hadith|Shamail|Adab al Mufrad|Hisn al Muslim|Fortress of Muslim|Gardens of Righteous|Pearls and Coral|Selection|Summary",
     "Category": ""
    },
-   "note": "removed English duplicates (Fortress of Muslim, Gardens of Righteous) and junk (Selection, Summary); full names; Debate: Hisn al Muslim is a dua book, not a hadith collection."
+   "note": "removed English duplicates (Fortress of Muslim, Gardens of Righteous) and junk (Selection, Summary); full names; Debate: Hisn al Muslim is a dua book, not a hadith collection.; Debate: Drop the two most obscure collections (Al Lulu wal Marjan, Sunan Darimi) that few players would recognise."
   },
   {
    "id": "game3-120",
@@ -1631,7 +1631,7 @@
   {
    "id": "game3-126",
    "Name": "Pakistani Military Ranks",
-   "Description": "General|Lt General|Major General|Brigadier|Colonel|Lt Colonel|Major|Captain|Lieutenant|2nd Lieutenant|Subedar|Havildar|Naik|Lance Naik|Sepoy|Admiral|Commodore|Air Marshal|Squadron Leader|Wing Commander|Flight Lieutenant",
+   "Description": "Field Marshal|General|Lt General|Major General|Brigadier|Colonel|Lt Colonel|Major|Captain|Lieutenant|2nd Lieutenant|Subedar|Havildar|Naik|Lance Naik|Sepoy|Admiral|Commodore|Air Marshal|Squadron Leader|Wing Commander|Flight Lieutenant",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1639,7 +1639,7 @@
     "Description": "General|Lt General|Major General|Brigadier|Colonel|Lt Colonel|Major|Captain|Lieutenant|2nd Lieutenant|Subedar|Naib Subedar|Havildar|Naik|Lance Naik|Sepoy|Admiral|Commodore|Captain|Commander",
     "Category": ""
    },
-   "note": "removed duplicate Captain; added air force ranks"
+   "note": "removed duplicate Captain; added air force ranks; Debate: Add Field Marshal, the rank Asim Munir has held since May 2025 and a well-known army in-joke."
   },
   {
    "id": "game3-127",
@@ -1787,15 +1787,15 @@
   {
    "id": "game3-138",
    "Name": "Pakistani Hill Stations",
-   "Description": "Murree|Nathiagali|Ayubia|Bhurban|Patriata|Thandiani|Abbottabad|Mansehra|Balakot|Kaghan|Naran|Shogran|Siri Paye|Babusar|Gilgit|Hunza|Skardu|Swat|Kalam|Malam Jabba",
+   "Description": "Murree|Nathiagali|Ayubia|Bhurban|Patriata|Thandiani|Dunga Gali|Changla Gali|Ziarat|Fort Munro|Abbottabad|Kaghan|Naran|Shogran|Siri Paye|Hunza|Skardu|Swat|Kalam|Malam Jabba",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Pakistani Hill Stations",
     "Description": "Murree|Nathiagali|Ayubia|Bhurban|Patriata|Thandiani|Abbottabad|Mansehra|Balakot|Kaghan|Naran|Shogran|Siri Paye|Babusar|Gilgit|Hunza|Skardu|Swat|Kalam|Malam Jabba",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replace Gilgit, Mansehra, Balakot and Babusar, which are not hill stations, with real ones: Ziarat, Fort Munro, Dunga Gali and Changla Gali. This is the challenger's version, without the loosely fitting Kotli Sattian."
   },
   {
    "id": "game3-139",
@@ -2307,7 +2307,7 @@
   {
    "id": "game3-178",
    "Name": "Pakistani Fashion Designers",
-   "Description": "HSY|Maria B|Sana Safinaz|Asim Jofa|Elan|Faraz Manan|Nomi Ansari|Deepak Perwani|Ali Xeeshan|Fahad Hussayn|Zainab Chottani|Misha Lakhani|Sania Maskatiya|Zara Shahjahan|Khadijah Shah|Maheen Khan|Rizwan Beyg|Amir Adnan|Junaid Jamshed|Kamiar Rokni",
+   "Description": "HSY|Maria B|Sana Safinaz|Asim Jofa|Shamaeel Ansari|Faraz Manan|Nomi Ansari|Deepak Perwani|Ali Xeeshan|Fahad Hussayn|Zainab Chottani|Misha Lakhani|Sania Maskatiya|Zara Shahjahan|Khadijah Shah|Maheen Khan|Rizwan Beyg|Amir Adnan|Junaid Jamshed|Kamiar Rokni",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2315,7 +2315,7 @@
     "Description": "HSY|Maria B|Sana Safinaz|Asim Jofa|Elan|Faraz Manan|Nomi Ansari|Deepak Perwani|Ali Xeeshan|Fahad Hussayn|Zainab Chottani|Misha Lakhani|Sania Maskatiya|Zara Shahjahan|Khadijah Shah|Maheen Khan|Rizwan Beyg|Amir Adnan|Junaid Jamshed|Bonanza",
     "Category": ""
    },
-   "note": "Bonanza is a store brand, not a designer"
+   "note": "Bonanza is a store brand, not a designer; Debate: Elan is Khadijah Shah's own label, so the list had the same designer twice. Replace it with Shamaeel Ansari."
   },
   {
    "id": "game3-179",
@@ -2398,7 +2398,7 @@
   {
    "id": "game3-185",
    "Name": "Board Games",
-   "Description": "Ludo|Carrom|Chess|Checkers|Snakes and Ladders|Monopoly|Scrabble|Jenga|Uno|Connect Four|Dominoes|Tic Tac Toe|Pictionary|Jigsaw Puzzle|Chinese Checkers|Battleship|Sudoku",
+   "Description": "Ludo|Carrom|Chess|Checkers|Snakes and Ladders|Monopoly|Scrabble|Jenga|Uno|Connect Four|Dominoes|Tic Tac Toe|Pictionary|Jigsaw Puzzle|Chinese Checkers|Battleship",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2406,7 +2406,7 @@
     "Description": "Ludo|Carrom|Chess|Checkers|Snakes|Ladders|Monopoly|Scrabble|Risk|Clue|Life|Sorry|Trouble|Connect|Battleship|Operation|Twister|Jenga|Uno|Bingo",
     "Category": ""
    },
-   "note": "removed obscure US games, Twister and Bingo; joined Snakes and Ladders"
+   "note": "removed obscure US games, Twister and Bingo; joined Snakes and Ladders; Debate: Sudoku is a pen-and-paper puzzle, not a board game. Business is not added, because it is the local clone of Monopoly, which is already on the list (challenger's version)."
   },
   {
    "id": "game3-186",
@@ -2489,7 +2489,7 @@
   {
    "id": "game3-192",
    "Name": "Popular Apps in Pakistan",
-   "Description": "Careem|Bykea|Foodpanda|Cheetay|inDrive|Yango|Daraz|OLX|PakWheels|Easypaisa|JazzCash|NayaPay|SadaPay|Zindigi|HBL Mobile|UBL Digital|MCB Live|Alfa|Meezan Mobile|Askari Mobile",
+   "Description": "Careem|Bykea|Foodpanda|inDrive|Yango|Daraz|OLX|PakWheels|Easypaisa|JazzCash|NayaPay|SadaPay|Zindigi|HBL Mobile|Meezan Mobile|Truecaller|Muslim Pro|TikTok|Snapchat|WhatsApp",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2497,7 +2497,7 @@
     "Description": "Careem|Uber|Bykea|Foodpanda|Cheetay|Airlift|Swvl|InDriver|Yango|EasyPaisa|JazzCash|Nayapay|Sadapay|Zindigi|HBL|UBL|MCB|Alfalah|Meezan|Askari",
     "Category": ""
    },
-   "note": "app name spelling; bank names -> their apps; Debate: Uber, Airlift and Swvl left Pakistan in 2022; replaced with Daraz, OLX, PakWheels, and renamed the card because inDrive, Yango and Foodpanda are not Pakistani apps."
+   "note": "app name spelling; bank names -> their apps; Debate: Uber, Airlift and Swvl left Pakistan in 2022; replaced with Daraz, OLX, PakWheels, and renamed the card because inDrive, Yango and Foodpanda are not Pakistani apps.; Debate: Replace the defunct Cheetay and four near-identical bank apps with distinct everyday apps (social media is allowed)."
   },
   {
    "id": "game3-193",
@@ -2592,7 +2592,7 @@
   },
   {
    "id": "game3-200",
-   "Name": "Draw a hitchhiker.",
+   "Name": "Draw someone asking for a lift on the road.",
    "Description": "Draw needing help with a flat tyre.|Draw a traveller with a backpack.|Draw waving.|Draw a chicken crossing the road.|Draw a person giving a thumbs up.|Draw someone waiting at a bus stop.|Draw a lost tourist.|Draw a rickshaw driver.",
    "Category": "Drawing 2",
    "action": "edit",
@@ -2601,7 +2601,7 @@
     "Description": "Draw needing help with a flat tire.|Draw a drifter.|Draw waving.|Draw a chicken crossing the road.|Draw a kissy kissy face.|Draw a masked killer.|Draw a person giving a thumbs up.|Draw a dirty clown.|Draw Optimus Prime.",
     "Category": "Drawing 2"
    },
-   "note": "removed kissy face, masked killer, dirty clown, Optimus Prime decoys"
+   "note": "removed kissy face, masked killer, dirty clown, Optimus Prime decoys; Debate: 'Hitchhiker' is a Western idea. 'Asking for a lift' is the local equivalent, and the decoys still fit."
   },
   {
    "id": "game3-201",
@@ -2723,7 +2723,7 @@
   {
    "id": "game3-210",
    "Name": "Draw an endangered animal.",
-   "Description": "Draw a swan.|Draw a cow.|Draw a rabbit.|Draw a camel.|Draw a panda.|Draw a whale.|Draw a tiger.|Draw an angry polar bear.|Draw a majestic eagle.",
+   "Description": "Draw a swan.|Draw a cow.|Draw a rabbit.|Draw a camel.|Draw a majestic eagle.|Draw a buffalo.|Draw a pet cat.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2731,7 +2731,7 @@
     "Description": "Draw a swan.|Draw a cow.|Draw a rabbit.|Draw a leprechaun.|Draw a panda.|Draw a whale.|Draw a tiger.|Draw an angry polar bear.|Draw a super American eagle.",
     "Category": "Drawing 2"
    },
-   "note": "replaced leprechaun, American eagle"
+   "note": "replaced leprechaun, American eagle; Debate: Missed issue raised by the challenger (its C1). Panda, tiger, whale and polar bear are endangered or vulnerable themselves, so an impostor drawing one cannot be told apart from the real prompt. They are replaced with common animals."
   },
   {
    "id": "game3-211",
@@ -2775,7 +2775,7 @@
   {
    "id": "game3-214",
    "Name": "Draw a chic person.",
-   "Description": "Draw someone in the room.|Draw someone wearing a magnificent hat.|Draw someone with an extremely long scarf.|Draw a very attractive person.|Draw a show-off.|Draw a fancy aunty.|Draw a fashion model.|Draw a French woman.",
+   "Description": "Draw someone in the room.|Draw someone wearing a magnificent hat.|Draw someone with an extremely long scarf.|Draw someone dressed up for a wedding.|Draw a show-off.|Draw a fancy aunty.|Draw a fashion model.|Draw a French woman.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2783,7 +2783,7 @@
     "Description": "Draw someone in the room.|Draw someone wearing a magnificent hat.|Draw someone with an extremely long scarf.|Draw a very attractive person.|Draw a mean girl.|Draw a celebrity.|Draw a fashion model.|Draw a French woman.|Draw Cruella de Vil.",
     "Category": "Drawing 2"
    },
-   "note": "replaced mean girl, celebrity, Cruella de Vil"
+   "note": "replaced mean girl, celebrity, Cruella de Vil; Debate: Replace the appearance-focused 'very attractive person' decoy with a close, family-friendly local one."
   },
   {
    "id": "game3-215",
@@ -2827,7 +2827,7 @@
   {
    "id": "game3-218",
    "Name": "Draw an old porcupine.",
-   "Description": "Draw a nice, old man.|Draw a hedgehog.|Draw a fancy person.|Draw a turtle.",
+   "Description": "Draw a grumpy old man.|Draw a hedgehog.|Draw a cactus.|Draw a turtle.|Draw a spiky hairbrush.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2835,7 +2835,7 @@
     "Description": "Draw a nice, old man.|Draw a turtle.|Draw a fancy person.|Draw Vin Diesel.",
     "Category": "Drawing 2"
    },
-   "note": "armadillo -> local animal; replaced Vin Diesel"
+   "note": "armadillo -> local animal; replaced Vin Diesel; Debate: Replace the weak decoys 'fancy person' and 'nice, old man' with spiky and grumpy ones that are close enough to pass."
   },
   {
    "id": "game3-219",
@@ -2982,16 +2982,16 @@
   },
   {
    "id": "game3-230",
-   "Name": "Draw a cheese plate.",
-   "Description": "Draw a meat plate.|Draw a bunch of cheese.|Draw cheese slices.",
+   "Name": "Draw a tray of dry fruit.",
+   "Description": "Draw a bowl of mixed nuts.|Draw a box of mithai.|Draw a plate of biscuits.|Draw a fruit basket.|Draw a bowl of chana.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw a cheese plate.",
     "Description": "Draw a meat plate.|Draw a bunch of cheese.|Draw cheese slices.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Cheese plates are rare locally, and the old card had only 3 near-identical decoys. A dry-fruit tray is the local equivalent and gets 5 good decoys."
   },
   {
    "id": "game3-231",
@@ -3009,15 +3009,15 @@
   {
    "id": "game3-232",
    "Name": "Draw business casual.",
-   "Description": "Draw picnic clothes.|Draw “dressed to kill.”|Draw a clown.|Draw a polo shirt.|Draw golf clothes.|Draw nice pants.|Draw a fancy dress.|Draw dressed up.|Draw a nice suit.",
+   "Description": "Draw picnic clothes.|Draw a shalwar kameez with a waistcoat.|Draw a clown.|Draw a polo shirt.|Draw golf clothes.|Draw nice pants.|Draw a fancy dress.|Draw dressed up.|Draw a nice suit.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw business casual.",
     "Description": "Draw picnic clothes.|Draw “dressed to kill.”|Draw a clown.|Draw a polo shirt.|Draw golf clothes.|Draw nice pants.|Draw a fancy dress.|Draw dressed up.|Draw a nice suit.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Replace the hard-to-draw 'dressed to kill' idiom with a close local office-wear decoy."
   },
   {
    "id": "game3-233",
@@ -10249,6 +10249,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): A desi household topic in the deck's 'Things in a...' style. It is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Video Games",
+   "Description": "PUBG|Free Fire|Minecraft|FIFA|Call of Duty|Super Mario|Tekken|Street Fighter|Candy Crush|Clash of Clans|Subway Surfers|Temple Run|Among Us|Ludo Star|Counter-Strike|Roblox|Pac-Man|Tetris|Angry Birds|Need for Speed",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): The owner allows video games, the deck has no video-game word list, and every title is mainstream and family-safe."
+  },
+  {
+   "id": null,
+   "Name": "Social Media Lingo",
+   "Description": "Like|Share|Comment|Follow|Story|Reel|Post|Hashtag|Tag|Filter|Selfie|Profile Picture|Live|Trending|Notification|Meme|DM|Block|Blue Tick|Seen",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Social media is allowed and the deck has no card for its terms. In the challenger's version, Status (the same as Story) and Viral (the same as Trending) are replaced."
+  },
+  {
+   "id": null,
+   "Name": "Pakistani Trains",
+   "Description": "Tezgam|Khyber Mail|Karakoram Express|Green Line|Shalimar Express|Awam Express|Allama Iqbal Express|Bolan Mail|Jaffar Express|Rehman Baba Express|Pakistan Express|Millat Express|Hazara Express|Karachi Express|Fareed Express",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Goes with the Railway Stations card. Only well-known trains are kept; obscure services and the on-off Business Express are left out (challenger's version)."
+  },
+  {
+   "id": null,
+   "Name": "Pakistani Political Parties",
+   "Description": "PTI|PML-N|PPP|MQM|JUI-F|Jamaat-e-Islami|ANP|PML-Q|PML-F|BAP|BNP|IPP|MWM|Pakistan Awami Tehreek|Awami Muslim League|National Party",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Politics is allowed, and the deck has politicians but no parties card. Merged (PSP), alliance (GDA), banned (TLP) and obscure entries are left out (challenger's version)."
+  },
+  {
+   "id": null,
+   "Name": "Things in a Cantt",
+   "Description": "Checkpost|Sentry|Speed Breaker|Officers' Mess|CSD|Parade Ground|Salute|Barrier|Gate Pass|Army Public School|CMH|Golf Course|Boundary Wall|Jogging Track|Green Belt|Cantonment Board|Military Police|Bugle|Tank Monument|Painted Kerbstones",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Army in-jokes are allowed. These are recognisable cantonment details and no existing card covers them."
+  },
+  {
+   "id": null,
+   "Name": "Stage Magic Tricks",
+   "Description": "Card Trick|Disappearing Coin|Rabbit from a Hat|Sawing a Person in Half|Levitation|Escape Act|Mind Reading|Rope Trick|Linking Rings|Cups and Balls|Floating Ball|Handkerchief Trick|Coin from Behind the Ear",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): The owner explicitly allows stage magic tricks. The list has no wands or spells, and the near-duplicates 'Pick a Card' and 'Vanishing Act' are removed (challenger's version)."
+  },
+  {
+   "id": null,
+   "Name": "Draw a magic show.",
+   "Description": "Draw a juggler.|Draw a circus act.|Draw a madari with a monkey.|Draw a street performer.|Draw a surprise gift.|Draw a puppet show.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New Drawing 2 card on the allowed stage-magic theme. The 6 decoys are close performances but different enough to give the impostor away."
   }
  ]
 }

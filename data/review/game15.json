@@ -16257,105 +16257,105 @@
    "id": "game15-1251",
    "Name": "English",
    "Description": "~1.5 billion",
-   "Category": "World Languages (Speakers)",
+   "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
     "Name": "English",
     "Description": "1.132 billion",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers"
+   "note": "updated to Ethnologue 2024 total speakers; Debate: Clarifies the metric (total speakers) and the direction; the deck already has a separate native-speaker category"
   },
   {
    "id": "game15-1252",
    "Name": "Mandarin Chinese",
    "Description": "~1.1 billion",
-   "Category": "World Languages (Speakers)",
+   "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
     "Name": "Mandarin Chinese",
     "Description": "1.116 billion",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers"
+   "note": "updated to Ethnologue 2024 total speakers; Debate: Whole-category rename"
   },
   {
    "id": "game15-1253",
    "Name": "Hindi",
    "Description": "~610 million",
-   "Category": "World Languages (Speakers)",
+   "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
     "Name": "Hindi",
     "Description": "615 million",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers"
+   "note": "updated to Ethnologue 2024 total speakers; Debate: Whole-category rename"
   },
   {
    "id": "game15-1254",
    "Name": "Spanish",
    "Description": "~560 million",
-   "Category": "World Languages (Speakers)",
+   "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
     "Name": "Spanish",
     "Description": "534 million",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers"
+   "note": "updated to Ethnologue 2024 total speakers; Debate: Whole-category rename"
   },
   {
    "id": "game15-1255",
    "Name": "French",
    "Description": "~310 million",
-   "Category": "World Languages (Speakers)",
+   "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
     "Name": "French",
     "Description": "279 million",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers ; now ranks below Standard Arabic"
+   "note": "updated to Ethnologue 2024 total speakers ; now ranks below Standard Arabic; Debate: Whole-category rename"
   },
   {
    "id": "game15-1256",
    "Name": "Standard Arabic",
    "Description": "~330 million",
-   "Category": "World Languages (Speakers)",
+   "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
     "Name": "Standard Arabic",
     "Description": "273 million",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers ; now ranks above French"
+   "note": "updated to Ethnologue 2024 total speakers ; now ranks above French; Debate: Whole-category rename"
   },
   {
    "id": "game15-1257",
    "Name": "Urdu",
    "Description": "~245 million",
-   "Category": "World Languages (Speakers)",
+   "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
     "Name": "Urdu",
     "Description": "230 million",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers"
+   "note": "updated to Ethnologue 2024 total speakers; Debate: Whole-category rename"
   },
   {
    "id": "game15-1258",
    "Name": "German",
    "Description": "~135 million",
-   "Category": "World Languages (Speakers)",
+   "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
     "Name": "German",
     "Description": "132 million",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers"
+   "note": "updated to Ethnologue 2024 total speakers; Debate: Whole-category rename"
   },
   {
    "id": "game15-1259",
@@ -17049,7 +17049,7 @@
   {
    "id": "game15-1312",
    "Name": "Quark",
-   "Description": "< 0.000001 nm (no measurable size)",
+   "Description": "Under 0.000000001 nm (point-like, below 10^-18 m)",
    "Category": "Tiny Things (Small to Large)",
    "action": "edit",
    "original": {
@@ -17057,7 +17057,7 @@
     "Description": "1",
     "Category": "Tiny Things (Small to Large)"
    },
-   "note": "actual size instead of bare rank"
+   "note": "actual size instead of bare rank; Debate: The old value matched the proton's (~0.000001 nm), so the reveal could not order them; 10^-18 m = 10^-9 nm is consistent"
   },
   {
    "id": "game15-1313",
@@ -17711,8 +17711,8 @@
   },
   {
    "id": "game15-1363",
-   "Name": "Robin",
-   "Description": "~3 cm, ~6 g",
+   "Name": "Myna",
+   "Description": "~3 cm, ~7 g",
    "Category": "Average Bird Egg Size (Small to Large)",
    "action": "edit",
    "original": {
@@ -17720,7 +17720,7 @@
     "Description": "3",
     "Category": "Average Bird Egg Size (Small to Large)"
    },
-   "note": "real egg size instead of bare rank"
+   "note": "real egg size instead of bare rank; Debate: Replaces the US-centric American robin with the common local myna; its egg is similar (about 30 x 22 mm, 6-8 g), so the order is unchanged"
   },
   {
    "id": "game15-1364",
@@ -18050,15 +18050,15 @@
   {
    "id": "game15-1389",
    "Name": "Feta",
-   "Description": "3 months",
+   "Description": "At least 2 months (often 3+)",
    "Category": "Cheeses By Aging Period",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Feta",
     "Description": "3 months",
     "Category": "Cheeses By Aging Period"
    },
-   "note": ""
+   "note": "Debate: The PDO minimum maturation for feta is 2 months; it still sorts after Brie"
   },
   {
    "id": "game15-1390",
@@ -28985,6 +28985,54 @@
    "Category": "Places in the Northern Hemisphere (Latitude)",
    "action": "add",
    "note": "New card (debate): An accurate, familiar reference point that sorts between Dubai (25.2) and Mumbai (19.0)."
+  },
+  {
+   "id": null,
+   "Name": "1",
+   "Description": "2nd (3.1)",
+   "Category": "First Digits of Pi",
+   "action": "add",
+   "note": "New card (debate): The 2nd digit of pi is missing from the sequence (the cards jump from 3. to the 3rd digit)"
+  },
+  {
+   "id": null,
+   "Name": "Ludo",
+   "Description": "16 tokens (4 per player)",
+   "Category": "Board Games By Piece Count (Approx.)",
+   "action": "add",
+   "note": "New card (debate): A familiar Pakistani household game; 16 sorts between Tic Tac Toe (9) and Checkers (24)"
+  },
+  {
+   "id": null,
+   "Name": "Carrom",
+   "Description": "20 (19 coins incl. queen + 1 striker)",
+   "Category": "Board Games By Piece Count (Approx.)",
+   "action": "add",
+   "note": "New card (debate): Popular desi game. Challenger's amendment of P14 puts a single comparable total first; 20 sorts between Ludo (16) and Checkers (24)"
+  },
+  {
+   "id": null,
+   "Name": "Moon",
+   "Description": "~0.012 Earth masses",
+   "Category": "Solar System Bodies by Mass",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment of P15 uses the simpler Name; the Moon (0.0123 Earth masses) becomes a lightest item below Mercury (0.055)"
+  },
+  {
+   "id": null,
+   "Name": "Sperm Whale",
+   "Description": "~2,250 m (record dive)",
+   "Category": "Sea Animals by Diving Depth",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment of P16. The proposed 1,000-2,000 m range overlapped the turtle and octopus cards; the record figure matches the format of the other cards and sorts after the octopus (1,500 m)"
+  },
+  {
+   "id": null,
+   "Name": "Width of a Human Hair",
+   "Description": "~0.07 mm (70 micrometres)",
+   "Category": "Tiny Things (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): Familiar reference; sorts between the red blood cell (7-8 micrometres) and the human egg (~0.1 mm)"
   }
  ]
 }

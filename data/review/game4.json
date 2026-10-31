@@ -3099,16 +3099,16 @@
   },
   {
    "id": "game4-239",
-   "Name": "a grenade",
-   "Description": "The most notable day at the Mr. Chips french fry factory in New Zealand was when workers found ____ in the taters.",
-   "Category": "Mr. Chips",
-   "action": "keep",
+   "Name": "a hand grenade",
+   "Description": "In 2019, workers at the Mr. Chips potato factory in New Zealand had to call in army bomb experts after finding ____ in a delivery of potatoes.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "a grenade",
     "Description": "The most notable day at the Mr. Chips french fry factory in New Zealand was when workers found ____ in the taters.",
     "Category": "Mr. Chips"
    },
-   "note": ""
+   "note": "Debate: Clearer, dated, accurate wording; removes 'taters' slang."
   },
   {
    "id": "game4-240",
@@ -3173,7 +3173,7 @@
     "Description": "Caretakers of Amare, a 16 year-old gorilla living in Lincoln Park Zoo in Chicago, are trying to wean him off his unusual addiction to ____.",
     "Category": "Great Apes"
    },
-   "note": "Debate: The answer 'Screens' was vague and capitalised. Amare was hooked on visitors' phone screens (2023). Also hyphenated '16-year-old'."
+   "note": "Debate: The answer 'Screens' was vague and capitalised. Amare was hooked on visitors' phone screens (2023). Also hyphenated '16-year-old'.; Debate: Fills blank category."
   },
   {
    "id": "game4-245",
@@ -3212,7 +3212,7 @@
     "Description": "Being a world record holder can be dangerous! Just ask Hans Steininger, who was killed by his ____.",
     "Category": "Record Books"
    },
-   "note": "accuracy: tripped over his beard; Debate: The clue 'known for his extraordinary beard' gave the answer away."
+   "note": "accuracy: tripped over his beard; Debate: The clue 'known for his extraordinary beard' gave the answer away.; Debate: Fills blank category."
   },
   {
    "id": "game4-248",
@@ -3294,16 +3294,16 @@
   },
   {
    "id": "game4-254",
-   "Name": "a Collie",
-   "Description": "A Japanese man named Toko paid about $15,000 for a hyper-realistic costume to fulfil his dream of turning into ____.",
-   "Category": "Life Goals",
+   "Name": "a collie",
+   "Description": "In 2022, a Japanese man known as Toco paid about 2 million yen (roughly $15,000) for a hyper-realistic costume to fulfil his dream of turning into ____.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "a Collie",
     "Description": "A man named Toko paid nearly $15,000 on advanced technology to fulfill his dream of turning into ____.",
     "Category": "Life Goals"
    },
-   "note": "fact fixed: a costume, not advanced technology"
+   "note": "fact fixed: a costume, not advanced technology; Debate: Fixes name spelling (Toco); adds year and currency context."
   },
   {
    "id": "game4-255",
@@ -3320,16 +3320,16 @@
   },
   {
    "id": "game4-256",
-   "Name": "Slapping",
-   "Description": "In March 2019, a man nicknamed “Dumpling” won Russia’s first ever ____ competition.",
-   "Category": "Dumpling",
-   "action": "keep",
+   "Name": "slapping",
+   "Description": "In March 2019, a Siberian farmer nicknamed \"Dumpling\" became an internet star after winning a ____ championship in Krasnoyarsk, Russia.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Slapping",
     "Description": "In March 2019, a man nicknamed “Dumpling” won Russia’s first ever ____ competition.",
     "Category": "Dumpling"
    },
-   "note": ""
+   "note": "Debate: Removes the unverified 'Russia's first ever' claim."
   },
   {
    "id": "game4-257",
@@ -3359,16 +3359,16 @@
   },
   {
    "id": "game4-259",
-   "Name": "Jelly (Jell-O)",
-   "Description": "Before he settled on water, Charles Hall, the inventor of the waterbed, attempted to make furniture using ____.",
-   "Category": "Mattresses",
+   "Name": "jelly",
+   "Description": "Before he settled on water, Charles Hall, the inventor of the waterbed, tried filling his furniture with cornstarch and ____.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "Jell-O",
     "Description": "Before he settled on water, Charles Hall, the inventor of the waterbed, attempted to make furniture using ____.",
     "Category": "Mattresses"
    },
-   "note": "localised name"
+   "note": "localised name; Debate: Drops the US brand name and matches what he actually tried."
   },
   {
    "id": "game4-260",
@@ -3433,7 +3433,7 @@
     "Description": "For a mere 322 euros, you can stay in an unusual 0-star hotel room in Switzerland that has no ____.",
     "Category": "No Stars"
    },
-   "note": "currency fixed (francs, not euros); Debate: Grammar: the answer now fits 'has no ____' (Null Stern rooms)."
+   "note": "currency fixed (francs, not euros); Debate: Grammar: the answer now fits 'has no ____' (Null Stern rooms).; Debate: Fills blank category with the existing 'Odd Hotels' category."
   },
   {
    "id": "game4-265",
@@ -3459,7 +3459,7 @@
     "Description": "On her 90th birthday, Italian woman Meri Mion received a free birthday cake during a local ceremony because a previous cake had been stolen by ____.",
     "Category": "Payback"
    },
-   "note": "Debate: Challenger's version. It makes the payback story clear without naming the US military in the clue."
+   "note": "Debate: Challenger's version. It makes the payback story clear without naming the US military in the clue.; Debate: Fills blank category."
   },
   {
    "id": "game4-267",
@@ -3489,16 +3489,16 @@
   },
   {
    "id": "game4-269",
-   "Name": "over a dozen skeletons",
-   "Description": "Conservationists restoring Benjamin Franklin’s home found something surprising beneath the garden: a windowless room containing ____.",
-   "Category": "Benjamins",
-   "action": "keep",
+   "Name": "human bones",
+   "Description": "Conservationists restoring Benjamin Franklin's old London home found something surprising beneath the garden: a windowless room full of ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "over a dozen skeletons",
     "Description": "Conservationists restoring Benjamin Franklin’s home found something surprising beneath the garden: a windowless room containing ____.",
     "Category": "Benjamins"
    },
-   "note": ""
+   "note": "Debate: Safer accurate answer; clarifies London; replaces obscure US-slang category."
   },
   {
    "id": "game4-270",
@@ -3563,7 +3563,7 @@
     "Description": "Mendl Weinstock kept a 5-year-old promise/threat by attending his sister’s wedding with ____ as his guest.",
     "Category": "Final Round"
    },
-   "note": "Debate: Rewords the awkward 'promise/threat' and '5-year-old promise' phrasing."
+   "note": "Debate: Rewords the awkward 'promise/threat' and '5-year-old promise' phrasing.; Debate: Challenger's missed issue: the only remaining blank category among the slice's fact cards."
   },
   {
    "id": "game4-275",
@@ -3672,15 +3672,15 @@
   {
    "id": "game4-283",
    "Name": "Pokémon GO",
-   "Description": "In 2017, two LA cops were recorded ignoring a robbery and instead discussing ____.",
-   "Category": "Final Round",
-   "action": "keep",
+   "Description": "In 2017, two Los Angeles police officers ignored a call for backup at a robbery and were recorded discussing ____ instead.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Pokémon GO",
     "Description": "In 2017, two LA cops were recorded ignoring a robbery and instead discussing ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: clear wording, and the officers ignored a backup call rather than a robbery they saw."
   },
   {
    "id": "game4-284",
@@ -4633,16 +4633,16 @@
   },
   {
    "id": "game4-357",
-   "Name": "Prince Bashful",
-   "Description": "Japanese golf pro Ryo Ishikawa’s nickname, \"Hanikami Ouji,\" roughly translates to ____.",
-   "Category": "Final Round",
-   "action": "keep",
+   "Name": "the Bashful Prince",
+   "Description": "Japanese golf pro Ryo Ishikawa's nickname, \"Hanikami Ōji,\" roughly translates to \"____.\"",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Prince Bashful",
     "Description": "Japanese golf pro Ryo Ishikawa’s nickname, \"Hanikami Ouji,\" roughly translates to ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Debate: Standard English rendering of the nickname; blank in quotes."
   },
   {
    "id": "game4-358",
@@ -4681,7 +4681,7 @@
     "Description": "Though it’s small, CEO Lisa Brasher says it can take up to two weeks to make one ____.",
     "Category": "Final Round"
    },
-   "note": "clarity; Debate: Challenger's version. The old blank was answered by the clue itself ('____ bean'). Blanking the time makes the card bluffable."
+   "note": "clarity; Debate: Challenger's version. The old blank was answered by the clue itself ('____ bean'). Blanking the time makes the card bluffable.; Debate: Fills blank category."
   },
   {
    "id": "game4-361",
@@ -4712,7 +4712,7 @@
   {
    "id": "game4-363",
    "Name": "snowflake",
-   "Description": "According to a rancher at Fort Keogh, Montana, the largest ____ ever reported fell there in 1887 and was 15 inches across.",
+   "Description": "According to a rancher at Fort Keogh, Montana, the largest ____ ever reported fell there in 1887 and was 15 inches (38 cm) across.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -4720,7 +4720,7 @@
     "Description": "Allegedly recorded by the U.S. Army at Fort Keogh, the world’s largest ____ was 15 inches across.",
     "Category": "Final Round"
    },
-   "note": "Debate: Challenger's version. The source is an unverified rancher's account, not a US Army record."
+   "note": "Debate: Challenger's version. The source is an unverified rancher's account, not a US Army record.; Debate: Fills blank category; adds metric size."
   },
   {
    "id": "game4-364",
@@ -5045,7 +5045,7 @@
     "Description": "You get to pick the next book for our book club! What are you picking?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Most family groups have no book club; the new wording works for anyone."
+   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question."
   },
   {
    "id": "game4-389",
@@ -5201,7 +5201,7 @@
     "Description": "A sure fire phrase that would cheer you up is \"____\".",
     "Category": "Enough About You"
    },
-   "note": "Debate: Spelling fix."
+   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question."
   },
   {
    "id": "game4-401",
@@ -11664,6 +11664,78 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): True (Hoversurf Scorpion hoverbike at GITEX 2017); distinct from jetpack/flying-car cards."
+  },
+  {
+   "id": null,
+   "Name": "unicorn",
+   "Description": "Scotland's official national animal is the ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True and surprising; fairy-tale creatures are allowed; no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Name": "days off",
+   "Description": "In 2017, Tokyo company Piala Inc. gave employees who don't smoke six extra paid ____ a year to make up for their colleagues' smoke breaks.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, quirky workplace news; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "guinea pig",
+   "Description": "In Switzerland, it is illegal to keep just one ____, because they are social animals that get lonely.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True animal-welfare law; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "rabbits",
+   "Description": "The small Japanese island of Okunoshima, once home to a secret wartime poison-gas factory, is now overrun by hundreds of friendly wild ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: 'hundreds' matches current population counts."
+  },
+  {
+   "id": null,
+   "Name": "the national anthem",
+   "Description": "In December 2014, more than 42,000 people packed a hockey stadium in Lahore to set a world record for the most people singing ____ together.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Verified Pakistani world record; distinct from the human-flag card."
+  },
+  {
+   "id": null,
+   "Name": "Bugatti Veyron",
+   "Description": "Dubai Police's patrol fleet includes a ____, one of the fastest production cars ever made.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-known true Gulf fact; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "iron ore",
+   "Description": "The Swedish town of Kiruna is moving its whole town centre about 3 km east, and in 2025 even rolled its big wooden church to a new site, because a giant ____ mine is swallowing the ground beneath it.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: corrects the 'entire town' and church-distance claims."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What kind of message in the family WhatsApp group makes you groan every single time?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable local personal question; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "If you got stuck in a lift during loadshedding, which relative would you call first?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Funny, Pakistan-framed personal question; distinct from card 958."
   }
  ]
 }
