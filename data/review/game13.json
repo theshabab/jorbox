@@ -4973,6 +4973,48 @@
    "Description": "Get a player to tell you about a time they flew a patang (kite).",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording is more natural. The deck has no kite card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Zabardast!'.",
+   "action": "add",
+   "note": "New card (debate): Common local exclamation; the deck's other exclamation missions don't use it."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name their favourite kind of mango, like Chaunsa or Sindhri.",
+   "action": "add",
+   "note": "New card (debate): A preference mission that differs from the 'say Mango' word card. The varieties are real Pakistani ones."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which northern area they most want to visit, like Hunza or Skardu.",
+   "action": "add",
+   "note": "New card (debate): Easy conversation mission with a Pakistani frame. It's about the player's wish, so it differs from the guess-your-destination card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which city is better overall: Lahore or Karachi.",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording of the classic debate. It doesn't duplicate the best-food-city or guess-my-city cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to hum a line of a milli naghma like 'Sohni Dharti'.",
+   "action": "add",
+   "note": "New card (debate): Milli naghmay are allowed. 'Sohni Dharti' is a clear classic example, while 'Dil Dil Pakistan' is a band's pop song."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to guess how many rotis you can eat in one sitting.",
+   "action": "add",
+   "note": "New card (debate): A light guessing mission that isn't in the deck yet. It differs from the sugar-spoons and roti-rolling cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many Hockey World Cups Pakistan has won.",
+   "action": "add",
+   "note": "New card (debate): Has one checkable answer (4: 1971, 1978, 1982, 1994). The original 'which sport' version was ambiguous because Pakistan also won the 2020 Kabaddi World Cup."
   }
  ]
 }

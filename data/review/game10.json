@@ -5687,9 +5687,9 @@
   },
   {
    "id": null,
-   "Name": "Name a city in Gilgit-Baltistan.",
+   "Name": "Name a place in Gilgit-Baltistan.",
    "action": "add",
-   "note": "New card (debate): Completes the province-city set; well-known answers (Gilgit, Skardu, Hunza, Chilas, Khaplu)."
+   "note": "New card (debate): Completes the province-city set; well-known answers (Gilgit, Skardu, Hunza, Chilas, Khaplu).; Debate: Gilgit-Baltistan has few real cities. Players will mostly say Hunza, Skardu, Naltar or Fairy Meadows, so 'place' makes those answers correct and gives more matches."
   },
   {
    "id": null,
@@ -5726,6 +5726,54 @@
    "Name": "Name something you buy from the kiryana store.",
    "action": "add",
    "note": "New card (debate): Everyday shopping prompt (doodh, anday, double roti, cheeni); distinct from bakery and shop-you-visit cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of mango grown in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): No open mango prompt exists, only this-or-that cards. Sindhri, Chaunsa, Anwar Ratol and Langra are real, common answers."
+  },
+  {
+   "id": null,
+   "Name": "Name a surah or ayah people recite for protection.",
+   "action": "add",
+   "note": "New card (debate): The answers are accurate and well established (Ayat ul Kursi, Falaq, Nas, Ikhlas). It is respectful and asks something different from the 'surah children learn first' card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you borrow from a neighbour.",
+   "action": "add",
+   "note": "New card (debate): No neighbour prompt exists yet, and it has strong common answers (sugar, salt, ladder, chairs)."
+  },
+  {
+   "id": null,
+   "Name": "Name something cousins fight over at Nani's house.",
+   "action": "add",
+   "note": "New card (debate): This is a different prompt from 'something you always find at Nani's house'. It has shared answers (remote, AC room, bed, last piece of food)."
+  },
+  {
+   "id": null,
+   "Name": "Name something Dadi or Nani always says.",
+   "action": "add",
+   "note": "New card (debate): Grandparents' catchphrases are a different set of answers from the Abbu and elders cards, and players will match on them."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous place to visit in Lahore.",
+   "action": "add",
+   "note": "New card (debate): Only city this-or-that cards exist. The landmark answers (Badshahi Masjid, Lahore Fort, Minar-e-Pakistan, Shalimar) are accurate and well known."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous place to visit in Karachi.",
+   "action": "add",
+   "note": "New card (debate): Not in the deck yet, and the answers are accurate (Mazar-e-Quaid, Clifton/Sea View, Frere Hall, Do Darya). It pairs with P6."
+  },
+  {
+   "id": null,
+   "Name": "Name something a rishta aunty always asks about.",
+   "action": "add",
+   "note": "New card (debate): A familiar family joke. Its answers (height, own house, cooking) are distinct enough from 'What question do relatives always ask?'."
   }
  ]
 }
