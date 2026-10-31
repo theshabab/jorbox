@@ -3256,7 +3256,7 @@
   {
    "id": "game2-251",
    "Name": "Football",
-   "Description": "Goal | Goalkeeper | Penalty | Kick | FIFA",
+   "Description": "Goal | Ball | Penalty | Kick | FIFA",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3264,7 +3264,7 @@
     "Description": "sport | game | player | similar",
     "Category": "Sports"
    },
-   "note": "Replaced foreign athlete names"
+   "note": "Replaced foreign athlete names; Debate: 'Goalkeeper' overlapped 'Goal'. Banning 'Ball' blocks the most obvious clue."
   },
   {
    "id": "game2-252",
@@ -3295,7 +3295,7 @@
   {
    "id": "game2-254",
    "Name": "Badminton",
-   "Description": "Shuttlecock | Racket | Net | Chirya | Shuttle",
+   "Description": "Shuttlecock | Racket | Net | Chirya | Feather",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3303,7 +3303,7 @@
     "Description": "sport | game | ball | player",
     "Category": "Sports"
    },
-   "note": ""
+   "note": "Debate: 'Shuttle' repeated 'Shuttlecock'. 'Feather' is a distinct, accurate clue."
   },
   {
    "id": "game2-255",
@@ -3360,7 +3360,7 @@
   {
    "id": "game2-259",
    "Name": "Golf",
-   "Description": "Hole | Club | Caddy | Course | Putt",
+   "Description": "Hole | Club | Ball | Course | Putt",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3368,7 +3368,7 @@
     "Description": "sport | game | ball | player",
     "Category": "Sports"
    },
-   "note": "Replaced foreign athlete names"
+   "note": "Replaced foreign athlete names; Debate: Few Pakistani players know 'Caddy'. 'Ball' is the clue they would actually use."
   },
   {
    "id": "game2-260",
@@ -3401,13 +3401,13 @@
    "Name": "Cycling",
    "Description": "Bicycle | Cycle | Pedal | Tour | Helmet",
    "Category": "Sports",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Cycling",
     "Description": "sport | game | ball | player",
     "Category": "Sports"
    },
-   "note": "Close to Running/Swimming but distinct; kept."
+   "note": "Debate: Near-duplicate of Cycle (idx 325, Transport): the mime is the same, the banned words overlap (Pedal, Bicycle), and this card bans the other card's answer."
   },
   {
    "id": "game2-263",
@@ -3880,7 +3880,7 @@
   {
    "id": "game2-299",
    "Name": "Doctor",
-   "Description": "Hospital | Stethoscope | Daktar | Patient | Medicine",
+   "Description": "Hospital | Stethoscope | Injection | Patient | Medicine",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3888,7 +3888,7 @@
     "Description": "job | work | professional | career",
     "Category": "Occupations"
    },
-   "note": ""
+   "note": "Debate: 'Daktar' is the answer spelled phonetically, so banning it does nothing. 'Injection' is an obvious clue."
   },
   {
    "id": "game2-300",
@@ -3958,7 +3958,7 @@
   {
    "id": "game2-305",
    "Name": "Judge",
-   "Description": "Court | Hammer | Verdict | Justice | Jaj",
+   "Description": "Court | Hammer | Verdict | Justice | Order Order",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3966,7 +3966,7 @@
     "Description": "job | work | professional | career",
     "Category": "Occupations"
    },
-   "note": ""
+   "note": "Debate: 'Jaj' is the answer in Urdu spelling. 'Order Order' is the classic courtroom clue."
   },
   {
    "id": "game2-306",
@@ -10591,6 +10591,86 @@
    "Category": "Animals",
    "action": "add",
    "note": "New card (debate): There is no animal Bat card ('Bat' appears only as a banned word on Cricket and Table Tennis); the category makes the meaning clear."
+  },
+  {
+   "id": null,
+   "Name": "Hoopoe",
+   "Description": "Hudhud | Sulaiman | Crown | Bird | Saba",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): An accurate Quranic link (Surah An-Naml) and not in the deck. 'Hudhud' is spelled as on the Solomon card (idx 659)."
+  },
+  {
+   "id": null,
+   "Name": "Giraffe",
+   "Description": "Zarafa | Long Neck | Tall | Spots | Africa",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): A classic, easy-to-act animal that is not in the deck. It appears elsewhere only as a banned word on Neck."
+  },
+  {
+   "id": null,
+   "Name": "Zebra",
+   "Description": "Stripes | Black And White | Horse | Africa | Crossing",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): A classic animal that is not in the deck. 'Crossing' is a fun local clue."
+  },
+  {
+   "id": null,
+   "Name": "Chess",
+   "Description": "Shatranj | King | Checkmate | Board | Queen",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): A widely played mind sport that is not in the deck. Carrom is already in Sports."
+  },
+  {
+   "id": null,
+   "Name": "Tug of War",
+   "Description": "Rassa Kashi | Rope | Pull | Team | Strength",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): An actable school and village staple that is not in the deck. 'Rassa Kashi' is the correct Urdu term."
+  },
+  {
+   "id": null,
+   "Name": "Wagah Border",
+   "Description": "Lahore | Flag | Parade | India | Ceremony",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): An iconic Pakistani landmark that is not in the deck. Its flag ceremony makes it fun to act."
+  },
+  {
+   "id": null,
+   "Name": "Pakistan Monument",
+   "Description": "Islamabad | Shakarparian | Petals | Provinces | Museum",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): A national landmark that is not in the deck. 'Provinces' replaces 'Flower', which repeated 'Petals' (the petals stand for the provinces and territories)."
+  },
+  {
+   "id": null,
+   "Name": "Gardener",
+   "Description": "Mali | Plants | Flowers | Water | Garden",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): A common household occupation that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Photographer",
+   "Description": "Camera | Click | Photo | Smile | Wedding",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): An everyday, easy-to-act occupation that is not in the deck. It shares clues with Camera, but the answer is different."
+  },
+  {
+   "id": null,
+   "Name": "Firefighter",
+   "Description": "Fire | Aag | Hose | Brigade | 1122",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): A classic occupation that is not in the deck. 'Brigade' (fire brigade) and '1122' (Rescue 1122) are local clues, and the card avoids repeating Fire Truck's 'Water'. Number clues already appear in the deck (e.g. 313, 1940)."
   }
  ]
 }

@@ -119,8 +119,8 @@ Chili,Hot green or red mirch,Vegetables
 Lemon,"Sour yellow citrus, nimbu",Fruits
 Beetroot,"Deep red root, chukandar",Vegetables
 Shalwar,Loose pants worn with a kameez,Clothing
-Kameez,Long tunic worn over shalwar,Clothing
-Kurta,Loose collarless men's tunic,Clothing
+Kameez,"Long shirt, top half of a shalwar suit",Clothing
+Kurta,Loose tunic often worn with pajama on Jummah,Clothing
 Dupatta,Long scarf draped over head or shoulders,Clothing
 Sari,Long draped cloth worn by women,Clothing
 Lehnga,Heavy flared bridal skirt,Clothing
@@ -152,7 +152,7 @@ Cabinet,Wall-mounted storage with doors in the kitchen,Furniture
 Desk,Table for studying or office work,Furniture
 Stool,Backless seat without arms,Furniture
 Bench,Long seat for several people,Furniture
-Bookshelf,Shelves for keeping books,Furniture
+Bookshelf,Rack where you line up your kitabein,Furniture
 Dressing Table,Mirror with drawers for makeup and combs,Furniture
 Mirror,Glass that shows your reflection,Furniture
 Lamp,Bedside light with a shade,Furniture
@@ -175,7 +175,7 @@ Glass,Clear cup for drinking water,Kitchen Items
 Cup,"Small vessel with a handle, for chai",Kitchen Items
 Mug,Large cup for hot drinks,Kitchen Items
 Jug,Large pitcher for pouring water,Kitchen Items
-Teapot,Spouted pot for serving chai,Kitchen Items
+Teapot,Spouted chai server with a lid,Kitchen Items
 Pan,Shallow long-handled vessel for frying eggs,Kitchen Items
 Pot,"Deep vessel for cooking salan, degchi",Kitchen Items
 Cooker,Pressure pot that whistles,Kitchen Items

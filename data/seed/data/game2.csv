@@ -241,18 +241,17 @@ Chakor,National Bird | Pakistan | Partridge | Moon | Mountains,Birds
 Partridge,Teetar | Fight | Hunting | Brown | Chakor,Birds
 Cricket,Bat | Babar | Wicket | Imran Khan | World Cup,Sports
 Hockey,Stick | National Game | Goal | Field | Ice,Sports
-Football,Goal | Goalkeeper | Penalty | Kick | FIFA,Sports
+Football,Goal | Ball | Penalty | Kick | FIFA,Sports
 Tennis,Racket | Serve | Wimbledon | Court | Net,Sports
 Squash,Jahangir Khan | Wall | Racket | Jansher | Court,Sports
-Badminton,Shuttlecock | Racket | Net | Chirya | Shuttle,Sports
+Badminton,Shuttlecock | Racket | Net | Chirya | Feather,Sports
 Boxing,Punch | Gloves | Ring | Muhammad Ali | Knockout,Sports
 Wrestling,Kushti | Pin | Pehalwan | Gama | Akhara,Sports
 Kabaddi,Punjab | Breath | Touch | Raid | Village,Sports
 Polo,Horse | Mallet | Shandur | Gilgit | Ghora,Sports
-Golf,Hole | Club | Caddy | Course | Putt,Sports
+Golf,Hole | Club | Ball | Course | Putt,Sports
 Swimming,Pool | Water | Tairna | Dive | Laps,Sports
 Running,Daurna | Race | Track | Marathon | Sprint,Sports
-Cycling,Bicycle | Cycle | Pedal | Tour | Helmet,Sports
 Volleyball,Net | Spike | Beach | Smash | Serve,Sports
 Basketball,Hoop | Tall | Dribble | Slam Dunk | Basket,Sports
 Snooker,Cue | Table | Pocket | Mohammad Yousaf | Balls,Sports
@@ -286,13 +285,13 @@ Ziarat Residency,Quaid | Balochistan | Juniper | Last Days | Quetta,Historical P
 Khyber Pass,Peshawar | Afghanistan | Torkham | Landi Kotal | Mountains,Historical Places
 Frere Hall,Karachi | British | Sadequain | Library | Victorian,Historical Places
 Mohatta Palace,Karachi | Clifton | Fatima Jinnah | Museum | Pink,Historical Places
-Doctor,Hospital | Stethoscope | Daktar | Patient | Medicine,Occupations
+Doctor,Hospital | Stethoscope | Injection | Patient | Medicine,Occupations
 Teacher,School | Ustad | Class | Students | Homework,Occupations
 Pilot,Plane | Fly | Cockpit | Airport | Captain,Occupations
 Soldier,Army | Fauji | Gun | Uniform | War,Occupations
 Police,Thana | Chor | Uniform | Arrest | Challan,Occupations
 Lawyer,Wakeel | Court | Case | Black Coat | Client,Occupations
-Judge,Court | Hammer | Verdict | Justice | Jaj,Occupations
+Judge,Court | Hammer | Verdict | Justice | Order Order,Occupations
 Chef,Cook | Kitchen | Khansama | Hat | Apron,Occupations
 Farmer,Kisan | Fields | Crops | Village | Tractor,Occupations
 Driver,Car | Steering | Chauffeur | Licence | Gaari,Occupations
@@ -828,3 +827,13 @@ Thermos,Flask | Hot | Chai | Travel | Bottle,Kitchen Items
 Moodha,Stool | Cane | Reed | Round | Sit,Furniture
 Lizard,Chhipkali | Wall | Tail | Insects | Crawl,Animals
 Bat,Chamgadar | Night | Upside Down | Cave | Wings,Animals
+Hoopoe,Hudhud | Sulaiman | Crown | Bird | Saba,Birds
+Giraffe,Zarafa | Long Neck | Tall | Spots | Africa,Animals
+Zebra,Stripes | Black And White | Horse | Africa | Crossing,Animals
+Chess,Shatranj | King | Checkmate | Board | Queen,Sports
+Tug of War,Rassa Kashi | Rope | Pull | Team | Strength,Sports
+Wagah Border,Lahore | Flag | Parade | India | Ceremony,Historical Places
+Pakistan Monument,Islamabad | Shakarparian | Petals | Provinces | Museum,Historical Places
+Gardener,Mali | Plants | Flowers | Water | Garden,Occupations
+Photographer,Camera | Click | Photo | Smile | Wedding,Occupations
+Firefighter,Fire | Aag | Hose | Brigade | 1122,Occupations

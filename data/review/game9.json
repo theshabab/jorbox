@@ -4043,13 +4043,13 @@
   {
    "id": "game9-368",
    "Name": "The Pyrenees mountains are located on the border of which two countries?",
-   "Description": "France and Spain (with Andorra between)",
-   "action": "edit",
+   "Description": "France and Spain",
+   "action": "keep",
    "original": {
     "Name": "The Pyrenees mountains are located on the border of which two countries?",
     "Description": "France and Spain"
    },
-   "note": "clarity"
+   "note": "clarity; Debate: The parenthetical gave away card 449 (Andorra)."
   },
   {
    "id": "game9-369",
@@ -4130,14 +4130,14 @@
   },
   {
    "id": "game9-376",
-   "Name": "What is the largest living organism by area?",
-   "Description": "Honey fungus (Armillaria)",
+   "Name": "In 2022, scientists found that a single plant in Shark Bay, Western Australia, is the largest known living organism by area. What kind of plant is it?",
+   "Description": "A seagrass (Posidonia australis), one clone covering about 200 km²",
    "action": "edit",
    "original": {
     "Name": "What is the largest living organism currently known to man?",
     "Description": "Honey Fungus"
    },
-   "note": "added 'by area' to avoid ambiguity"
+   "note": "added 'by area' to avoid ambiguity; Debate: Outdated fact: the Shark Bay seagrass clone (~200 km², shown in 2022 to be one plant) is far larger by area than the Oregon honey fungus (~9 km²). Challenger's amendment fixes the 'discovered in 2022' error."
   },
   {
    "id": "game9-377",
@@ -4372,14 +4372,14 @@
   },
   {
    "id": "game9-398",
-   "Name": "What is an alternative name for multiple personality disorder?",
+   "Name": "What is the current medical name for the condition once called 'multiple personality disorder'?",
    "Description": "Dissociative identity disorder",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is an alternative name for multiple personality disorder?",
     "Description": "Dissociative identity disorder"
    },
-   "note": ""
+   "note": "Debate: DID is the official current name, not an 'alternative' one."
   },
   {
    "id": "game9-399",
@@ -4999,14 +4999,14 @@
   },
   {
    "id": "game9-455",
-   "Name": "What is the tallest mountain in Canada?",
-   "Description": "Mount Logan",
-   "action": "keep",
+   "Name": "What is the highest mountain in South America?",
+   "Description": "Aconcagua (Argentina)",
+   "action": "edit",
    "original": {
     "Name": "What is the tallest mountain in Canada?",
     "Description": "Mount Logan"
    },
-   "note": ""
+   "note": "Debate: Replaces an obscure Canada card (the deck has many) with a better-known continental high point that is not yet in the deck."
   },
   {
    "id": "game9-456",
@@ -10788,6 +10788,62 @@
    "Description": "Fat (not water)",
    "action": "add",
    "note": "New card (debate): A well-known myth-buster. The deck's camel cards (926, 1050) ask different questions."
+  },
+  {
+   "id": null,
+   "Name": "Which national park on Balochistan's Makran coast, the largest in Pakistan, is home to the 'Princess of Hope' rock formation?",
+   "Description": "Hingol National Park",
+   "action": "add",
+   "note": "New card (debate): New local geography card; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the smallest bone in the human body?",
+   "Description": "The stapes (stirrup), in the middle ear",
+   "action": "add",
+   "note": "New card (debate): Classic anatomy trivia; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which city in upper Sindh is often called one of the hottest cities in the world, with summer temperatures above 50°C?",
+   "Description": "Jacobabad",
+   "action": "add",
+   "note": "New card (debate): Local climate card, distinct from Turbat."
+  },
+  {
+   "id": null,
+   "Name": "Which gas, used by dentists as a mild anaesthetic, is commonly called 'laughing gas'?",
+   "Description": "Nitrous oxide (N2O)",
+   "action": "add",
+   "note": "New card (debate): Light chemistry card; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which planet in our Solar System has the most known moons?",
+   "Description": "Saturn",
+   "action": "add",
+   "note": "New card (debate): Accurate (Saturn far ahead of Jupiter); not a duplicate of the rings card."
+  },
+  {
+   "id": null,
+   "Name": "Reko Diq in Chagai district, Balochistan, is one of the world's largest undeveloped deposits of which two metals?",
+   "Description": "Copper and gold",
+   "action": "add",
+   "note": "New card (debate): Local geology card; distinct from the Chagai nuclear-test card."
+  },
+  {
+   "id": null,
+   "Name": "Hepatitis is an inflammation of which organ?",
+   "Description": "The liver",
+   "action": "add",
+   "note": "New card (debate): Common medical trivia; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Pakistan Standard Time is how many hours ahead of GMT (UTC)?",
+   "Description": "5 hours (UTC+5)",
+   "action": "add",
+   "note": "New card (debate): Local fact; distinct from the China time-zone card."
   }
  ]
 }

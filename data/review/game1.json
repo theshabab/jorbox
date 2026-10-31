@@ -1605,7 +1605,7 @@
   {
    "id": "game1-124",
    "Name": "Kameez",
-   "Description": "Long tunic worn over shalwar",
+   "Description": "Long shirt, top half of a shalwar suit",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1613,12 +1613,12 @@
     "Description": "Traditional shirt",
     "Category": "Clothing"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The old hint was almost the same as Kurta's. The new one tells the two apart and is accurate."
   },
   {
    "id": "game1-125",
    "Name": "Kurta",
-   "Description": "Loose collarless men's tunic",
+   "Description": "Loose tunic often worn with pajama on Jummah",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1626,7 +1626,7 @@
     "Description": "Traditional tunic",
     "Category": "Clothing"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: 'Collarless' was wrong because kurtas usually have band collars. The new hint is accurate, separates Kurta from Kameez, and is under 8 words."
   },
   {
    "id": "game1-126",
@@ -2047,7 +2047,7 @@
   {
    "id": "game1-158",
    "Name": "Bookshelf",
-   "Description": "Shelves for keeping books",
+   "Description": "Rack where you line up your kitabein",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2055,7 +2055,7 @@
     "Description": "Book storage",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained both halves of the word (shelves, books); new hint is accurate and leaves the word out."
   },
   {
    "id": "game1-159",
@@ -2359,7 +2359,7 @@
   {
    "id": "game1-182",
    "Name": "Teapot",
-   "Description": "Spouted pot for serving chai",
+   "Description": "Spouted chai server with a lid",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2367,7 +2367,7 @@
     "Description": "Tea brewing vessel",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained 'pot', which is part of the word."
   },
   {
    "id": "game1-183",
