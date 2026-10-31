@@ -348,8 +348,8 @@ Pin,Small sharp metal fastener,Stationery
 Clip,Holds papers together without holes,Stationery
 Tape,Sticky strip on a roll,Stationery
 Calculator,Device for doing sums,Stationery
-Compass,Draws circles in geometry box,Stationery
-Protractor,Measures angles in geometry box,Stationery
+Compass,Geometry-box tool for drawing circles,Stationery
+Protractor,Geometry-box tool for measuring angles,Stationery
 File,Holds loose papers in order,Stationery
 Folder,Cover for keeping papers together,Stationery
 Envelope,Paper cover for posting letters,Stationery
@@ -366,7 +366,7 @@ Purple,Mix of red and blue,Colors
 Pink,"Light red, like roses",Colors
 Black,Colour of a moonless night,Colors
 White,Colour of snow and milk,Colors
-Grey,Colour of ash and clouds,Colors
+Grey,Colour of ash and rain clouds,Colors
 Brown,Colour of soil and wood,Colors
 Maroon,Dark reddish-brown colour,Colors
 Turquoise,Blue-green gemstone colour,Colors

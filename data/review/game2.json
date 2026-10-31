@@ -5401,7 +5401,7 @@
   {
    "id": "game2-416",
    "Name": "Chin",
-   "Description": "Thodi | Face | Beard | Jaw | Below",
+   "Description": "Thodi | Face | Beard | Jaw | Mouth",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5409,7 +5409,7 @@
     "Description": "body | human | anatomy | organ",
     "Category": "Body Parts"
    },
-   "note": ""
+   "note": "Debate: 'Below' is vague; 'Mouth' is the clue players would actually use."
   },
   {
    "id": "game2-417",
@@ -5752,7 +5752,7 @@
   {
    "id": "game2-443",
    "Name": "Brooch",
-   "Description": "Pin | Dupatta | Coat | Badge | Safety Pin",
+   "Description": "Pin | Dupatta | Coat | Badge | Shawl",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5760,7 +5760,7 @@
     "Description": "gold | wear | shiny | precious",
     "Category": "Jewelry"
    },
-   "note": ""
+   "note": "Debate: Pin and Safety Pin overlap; Shawl is a natural clue."
   },
   {
    "id": "game2-444",
@@ -5791,7 +5791,7 @@
   {
    "id": "game2-446",
    "Name": "Hoop",
-   "Description": "Circle | Ring | Earring | Bali | Round",
+   "Description": "Circle | Ring | Earring | Bali | Basketball",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5799,7 +5799,7 @@
     "Description": "gold | wear | shiny | precious",
     "Category": "Jewelry"
    },
-   "note": ""
+   "note": "Debate: Hoop is its own word, so sharing the ban Bali with Earring does not make it a duplicate. The card is kept, and the overlapping 'Round' is swapped for the other common meaning of hoop (Basketball is a separate card, so banning it here is fine). Challenger's amendment."
   },
   {
    "id": "game2-447",
@@ -6077,7 +6077,7 @@
   {
    "id": "game2-468",
    "Name": "Leaf",
-   "Description": "Patta | Green | Branch | Autumn | Fall",
+   "Description": "Patta | Green | Branch | Autumn | Tree",
    "Category": "Nature",
    "action": "edit",
    "original": {
@@ -6085,7 +6085,7 @@
     "Description": "natural | outdoor | earth | sky",
     "Category": "Nature"
    },
-   "note": ""
+   "note": "Debate: Autumn and Fall are the same clue; Tree is the obvious missing ban."
   },
   {
    "id": "game2-469",
@@ -6324,7 +6324,7 @@
   {
    "id": "game2-487",
    "Name": "Heater",
-   "Description": "Warm | Garam | Winter | Gas | Cold",
+   "Description": "Garam | Winter | Gas | Cold | Electric",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6332,7 +6332,7 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Warm and Garam are the same clue in mixed English/Urdu; Electric is a natural ban."
   },
   {
    "id": "game2-488",
@@ -6350,7 +6350,7 @@
   {
    "id": "game2-489",
    "Name": "Oven",
-   "Description": "Bake | Cake | Kitchen | Hot | Roti",
+   "Description": "Bake | Cake | Kitchen | Hot | Pizza",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6358,12 +6358,12 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Roti is not made in an oven; Pizza is the natural clue."
   },
   {
    "id": "game2-490",
    "Name": "Microwave",
-   "Description": "Heat | Garam | Leftovers | Popcorn | Kitchen",
+   "Description": "Heat | Beep | Leftovers | Popcorn | Kitchen",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6371,12 +6371,12 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Heat and Garam are one clue in mixed English/Urdu; Beep is a natural ban. Same fix as on Heater."
   },
   {
    "id": "game2-491",
    "Name": "Iron",
-   "Description": "Istri | Clothes | Press | Wrinkles | Kapray",
+   "Description": "Istri | Clothes | Press | Wrinkles | Steam",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6384,7 +6384,7 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Clothes and Kapray are translations of each other; Steam is a real clue."
   },
   {
    "id": "game2-492",
@@ -6558,7 +6558,7 @@
   {
    "id": "game2-505",
    "Name": "Axe",
-   "Description": "Kulhari | Wood | Chop | Tree | Lumberjack",
+   "Description": "Kulhari | Wood | Chop | Tree | Lakarhara",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6566,7 +6566,7 @@
     "Description": "tool | metal | work | fix",
     "Category": "Tools"
    },
-   "note": ""
+   "note": "Debate: Local woodcutter word (the honest woodcutter story) instead of the Western 'Lumberjack'."
   },
   {
    "id": "game2-506",
@@ -10127,6 +10127,86 @@
    "Category": "Body Parts",
    "action": "add",
    "note": "New card (debate): Basic body part that is missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Generator",
+   "Description": "Loadshedding | Bijli | Petrol | Noise | Engine",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani appliance; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "UPS",
+   "Description": "Battery | Bijli | Backup | Beep | Loadshedding",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Household backup unit found in Pakistani homes; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Washing Machine",
+   "Description": "Kapray | Dhona | Spin | Surf | Laundry",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Common appliance missing from the deck. Surf and Detergent are one clue in Pakistan, so 'Laundry' replaces 'Detergent' (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Rainbow",
+   "Description": "Dhanak | Colors | Rain | Seven | Sky",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Classic nature word; not a card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Waterfall",
+   "Description": "Abshaar | Niagara | Rocks | Swat | Height",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Well-known nature feature; not in the deck. 'Water' is part of the word itself, so it is replaced with 'Niagara' (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Desert",
+   "Description": "Sehra | Sand | Thar | Camel | Hot",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Basic nature word with local framing (Thar); not a card yet."
+  },
+  {
+   "id": null,
+   "Name": "Earthquake",
+   "Description": "Zalzala | Shake | Ground | 2005 | Building",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Familiar natural event in Pakistan; mildly dark items are allowed; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Fog",
+   "Description": "Dhund | Winter | Smog | Motorway | See",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Relatable Punjab winter fog and smog; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Beard",
+   "Description": "Daarhi | Chin | Sunnah | Hair | Shave",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Respectful, culturally fitting body-part card; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sickle",
+   "Description": "Daranti | Farmer | Wheat | Cut | Curved",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Common farm tool in rural Pakistan; not in the deck."
   }
  ]
 }

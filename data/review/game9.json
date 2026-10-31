@@ -6431,12 +6431,12 @@
    "id": "game9-585",
    "Name": "Who is the author of Jurassic Park?",
    "Description": "Michael Crichton",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Who is the author of Jurassic Park?",
     "Description": "Michael Crichton"
    },
-   "note": ""
+   "note": "Debate: Known mainly as a Hollywood film franchise, which is banned film/pop culture content, and players would likely answer Spielberg."
   },
   {
    "id": "game9-586",
@@ -6474,13 +6474,13 @@
   {
    "id": "game9-589",
    "Name": "What is the French word for \"hat\"?",
-   "Description": "chapeau",
-   "action": "edit",
+   "Description": "Chapeau",
+   "action": "keep",
    "original": {
     "Name": "What is the French word for \"hat\"?",
     "Description": "Chapeau"
    },
-   "note": "consistency"
+   "note": "consistency; Debate: Capitalises the answer to match the other French-word card."
   },
   {
    "id": "game9-590",
@@ -6585,12 +6585,12 @@
    "id": "game9-599",
    "Name": "What is a burgee?",
    "Description": "A small flag (e.g. of a yacht club)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is a Burgee?",
     "Description": "A flag"
    },
-   "note": "clarified"
+   "note": "Debate: Yachting jargon that is too obscure for party trivia."
   },
   {
    "id": "game9-600",
@@ -6770,14 +6770,14 @@
   },
   {
    "id": "game9-616",
-   "Name": "When was the \"Siege of Leningrad\" lifted during World War II?",
+   "Name": "In what month and year was the Siege of Leningrad lifted during World War II?",
    "Description": "January 1944",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "When was the \"Siege of Leningrad\" lifted during World War II?",
     "Description": "January 1944"
    },
-   "note": ""
+   "note": "Debate: 'When' is vague, and the question should match the month-and-year answer."
   },
   {
    "id": "game9-617",
@@ -6847,14 +6847,14 @@
   },
   {
    "id": "game9-623",
-   "Name": "When did the British hand-over sovereignty of Hong Kong back to China?",
+   "Name": "In what year did Britain hand over sovereignty of Hong Kong to China?",
    "Description": "1997",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "When did the British hand-over sovereignty of Hong Kong back to China?",
     "Description": "1997"
    },
-   "note": ""
+   "note": "Debate: Fixes 'hand-over' used as a verb and the redundant 'back'. The answer is correct."
   },
   {
    "id": "game9-624",
@@ -7047,23 +7047,23 @@
    "id": "game9-641",
    "Name": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
    "Description": "Hampton Court",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
     "Description": "Hampton Court"
    },
-   "note": ""
+   "note": "Debate: Obscure British-heritage trivia, and it would be the deck's fourth Henry VIII card (470, 491, 711)."
   },
   {
    "id": "game9-642",
-   "Name": "On what day did Germany invade Poland?",
-   "Description": "September 1, 1939",
-   "action": "keep",
+   "Name": "On what date did Germany invade Poland, starting World War II?",
+   "Description": "1 September 1939",
+   "action": "edit",
    "original": {
     "Name": "On what day did Germany invade Poland?",
     "Description": "September 1, 1939"
    },
-   "note": ""
+   "note": "Debate: 'What date' fits a full-date answer, and the answer now uses the deck's day-month-year style. The fact is correct."
   },
   {
    "id": "game9-643",
@@ -7298,14 +7298,14 @@
   },
   {
    "id": "game9-664",
-   "Name": "When someone is inexperienced they are said to be what color?",
+   "Name": "When someone is inexperienced, they are said to be what colour?",
    "Description": "Green",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "When someone is inexperienced they are said to be what color?",
     "Description": "Green"
    },
-   "note": ""
+   "note": "Debate: Uses British spelling and adds the missing comma."
   },
   {
    "id": "game9-665",
@@ -7342,14 +7342,14 @@
   },
   {
    "id": "game9-668",
-   "Name": "The Quran is the holy book of which Abrahamic religion?",
-   "Description": "Islam",
-   "action": "keep",
+   "Name": "How many surahs are in the Quran?",
+   "Description": "114",
+   "action": "edit",
    "original": {
     "Name": "The Quran is the holy book of which Abrahamic religion?",
     "Description": "Islam"
    },
-   "note": ""
+   "note": "Debate: The original question was a giveaway for a Muslim audience. 114 surahs is a well-established fact, and no other card covers it."
   },
   {
    "id": "game9-669",
@@ -7542,12 +7542,12 @@
    "id": "game9-686",
    "Name": "What part of the brain takes its name from the Greek for seahorse?",
    "Description": "Hippocampus",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What part of the brain takes its name from the Greek for seahorse?",
     "Description": "Hippocampus"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of card 152, which asks the same hippocampus-seahorse fact the other way round."
   },
   {
    "id": "game9-687",
@@ -7584,14 +7584,14 @@
   },
   {
    "id": "game9-690",
-   "Name": "Where in the human body is the Pineal Gland located?",
+   "Name": "Where in the human body is the pineal gland located?",
    "Description": "Brain",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Where in the human body is the Pineal Gland located?",
     "Description": "Brain"
    },
-   "note": ""
+   "note": "Debate: Removes the incorrect capitalisation."
   },
   {
    "id": "game9-691",
@@ -7617,14 +7617,14 @@
   },
   {
    "id": "game9-693",
-   "Name": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+   "Name": "What was the name of the ship that was only a few miles away from the RMS Titanic when it struck an iceberg on 14 April 1912?",
    "Description": "Californian",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
     "Description": "Californian"
    },
-   "note": ""
+   "note": "Debate: Uses the deck's day-month-year date style and fixes the grammar."
   },
   {
    "id": "game9-694",
@@ -7661,25 +7661,25 @@
   },
   {
    "id": "game9-697",
-   "Name": "What year did Australia become a federation?",
+   "Name": "In what year did Australia become a federation?",
    "Description": "1901",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What year did Australia become a federation?",
     "Description": "1901"
    },
-   "note": ""
+   "note": "Debate: Grammar fix."
   },
   {
    "id": "game9-698",
    "Name": "On what date did Canadian Confederation create the Dominion of Canada?",
    "Description": "1 July 1867",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "When did Canada leave the confederation to become their own nation?",
     "Description": "July 1st, 1867"
    },
-   "note": "premise wrong (Canada did not leave a confederation)"
+   "note": "Debate: An exact Canadian date is too obscure for this audience, and the deck already has many Canada cards."
   },
   {
    "id": "game9-699",
@@ -7705,14 +7705,14 @@
   },
   {
    "id": "game9-701",
-   "Name": "When did Norway become free from Sweden?",
+   "Name": "In what year did Norway become independent from Sweden?",
    "Description": "1905",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "When did Norway become free from Sweden?",
     "Description": "1905"
    },
-   "note": ""
+   "note": "Debate: Clearer wording for a year answer. 1905 is correct."
   },
   {
    "id": "game9-702",
@@ -8002,14 +8002,14 @@
   },
   {
    "id": "game9-728",
-   "Name": "Sharks belong to which class of cartilaginous fish?",
+   "Name": "What is the scientific name of the class of cartilaginous fish that includes sharks and rays?",
    "Description": "Chondrichthyes",
    "action": "edit",
    "original": {
     "Name": "Which of these animals belongs in class Chondrichthyes?",
     "Description": "Great white shark"
    },
-   "note": "rewrote: referred to missing options"
+   "note": "rewrote: referred to missing options; Debate: Corrects the implication that Chondrichthyes is a subgroup of the cartilaginous fish."
   },
   {
    "id": "game9-729",
@@ -8267,13 +8267,13 @@
   {
    "id": "game9-752",
    "Name": "Which country has the abbreviation \"CH\"?",
-   "Description": "Switzerland",
-   "action": "keep",
+   "Description": "Switzerland (Confoederatio Helvetica)",
+   "action": "edit",
    "original": {
     "Name": "Which country has the abbreviation \"CH\"?",
     "Description": "Switzerland"
    },
-   "note": ""
+   "note": "Debate: The Latin name explains the code. It is accurate."
   },
   {
    "id": "game9-753",
@@ -10389,6 +10389,76 @@
    "Description": "Shams",
    "action": "add",
    "note": "New card (debate): New card: Arabic vocabulary familiar from Surah Ash-Shams."
+  },
+  {
+   "id": null,
+   "Name": "What does GPS stand for?",
+   "Description": "Global Positioning System",
+   "action": "add",
+   "note": "New card (debate): Accurate tech acronym card; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani authority issues the CNIC (national identity card)?",
+   "Description": "NADRA",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani knowledge; accurate and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "On WhatsApp, what do two blue ticks next to a message mean?",
+   "Description": "The message has been read",
+   "action": "add",
+   "note": "New card (debate): Social media trivia is allowed. It is accurate and differs from the WhatsApp founding-year card."
+  },
+  {
+   "id": null,
+   "Name": "In PUBG, what message appears on screen when you win a match?",
+   "Description": "\"Winner Winner Chicken Dinner\"",
+   "action": "add",
+   "note": "New card (debate): Video games are allowed and PUBG is very popular in Pakistan. The answer is correct."
+  },
+  {
+   "id": null,
+   "Name": "Which hugely popular block-building video game was created by Mojang?",
+   "Description": "Minecraft",
+   "action": "add",
+   "note": "New card (debate): An allowed video game topic; accurate and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What does CPU stand for?",
+   "Description": "Central Processing Unit",
+   "action": "add",
+   "note": "New card (debate): Accurate tech card; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What does URL stand for?",
+   "Description": "Uniform Resource Locator",
+   "action": "add",
+   "note": "New card (debate): Accurate internet card; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which butterfly-shaped gland in the neck controls the body's metabolism?",
+   "Description": "Thyroid",
+   "action": "add",
+   "note": "New card (debate): Accurate human-body card; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "In which year was the Ottoman Caliphate formally abolished?",
+   "Description": "1924",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world history (abolished 3 March 1924) that no other card covers."
+  },
+  {
+   "id": null,
+   "Name": "Pakistani squash legend Jahangir Khan went unbeaten for how many consecutive matches in the 1980s?",
+   "Description": "555",
+   "action": "add",
+   "note": "New card (debate): A famous Pakistani sporting record (the Guinness-cited figure). The deck has no squash card."
   }
  ]
 }

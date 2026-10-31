@@ -402,7 +402,7 @@ Hair,Baal | Head | Comb | Haircut | Shampoo,Body Parts
 Tooth,Daant | Brush | Dentist | Bite | Cavity,Body Parts
 Tongue,Zubaan | Taste | Lick | Mouth | Talk,Body Parts
 Lip,Hont | Mouth | Lipstick | Smile | Chapstick,Body Parts
-Chin,Thodi | Face | Beard | Jaw | Below,Body Parts
+Chin,Thodi | Face | Beard | Jaw | Mouth,Body Parts
 Cheek,Gaal | Face | Pinch | Dimple | Blush,Body Parts
 Forehead,Matha | Face | Head | Sajda | Eyebrows,Body Parts
 Stomach,Pet | Hungry | Food | Belly | Ache,Body Parts
@@ -429,10 +429,10 @@ Sapphire,Neelam | Blue | Stone | Gem | Precious,Jewelry
 Choker,Neck | Tight | Necklace | Short | Bridal,Jewelry
 Jhumka,Ear | Bell | Earring | Hanging | Bali,Jewelry
 Matha Patti,Forehead | Tikka | Bride | Head | Chain,Jewelry
-Brooch,Pin | Dupatta | Coat | Badge | Safety Pin,Jewelry
+Brooch,Pin | Dupatta | Coat | Badge | Shawl,Jewelry
 Pendant,Locket | Chain | Necklace | Hang | Neck,Jewelry
 Stud,Ear | Small | Earring | Diamond | Nose,Jewelry
-Hoop,Circle | Ring | Earring | Bali | Round,Jewelry
+Hoop,Circle | Ring | Earring | Bali | Basketball,Jewelry
 Sun,Sooraj | Hot | Day | Light | Morning,Nature
 Moon,Chaand | Night | Eid | Crescent | Full,Nature
 Star,Sitara | Night | Twinkle | Sky | Shine,Nature
@@ -454,7 +454,7 @@ Forest,Jungle | Trees | Animals | Wood | Dense,Nature
 Tree,Darakht | Leaves | Branches | Trunk | Roots,Nature
 Flower,Phool | Rose | Petals | Smell | Garden,Nature
 Grass,Ghaas | Green | Lawn | Cow | Field,Nature
-Leaf,Patta | Green | Branch | Autumn | Fall,Nature
+Leaf,Patta | Green | Branch | Autumn | Tree,Nature
 Sand,Rait | Beach | Desert | Thar | Castle,Nature
 Rock,Pathar | Hard | Boulder | Heavy | Throw,Nature
 TV,Television | Remote | Channel | News | Cricket,Electronics
@@ -472,11 +472,11 @@ Printer,Print | Paper | Ink | Copy | Office,Electronics
 Scanner,Scan | Copy | Document | PDF | Barcode,Electronics
 Fan,Pankha | Ceiling | Air | Spin | Garmi,Electronics
 AC,Air Conditioner | Cold | Cool | Summer | Bill,Electronics
-Heater,Warm | Garam | Winter | Gas | Cold,Electronics
+Heater,Garam | Winter | Gas | Cold | Electric,Electronics
 Fridge,Refrigerator | Cold | Freezer | Ice | Kitchen,Electronics
-Oven,Bake | Cake | Kitchen | Hot | Roti,Electronics
-Microwave,Heat | Garam | Leftovers | Popcorn | Kitchen,Electronics
-Iron,Istri | Clothes | Press | Wrinkles | Kapray,Electronics
+Oven,Bake | Cake | Kitchen | Hot | Pizza,Electronics
+Microwave,Heat | Beep | Leftovers | Popcorn | Kitchen,Electronics
+Iron,Istri | Clothes | Press | Wrinkles | Steam,Electronics
 Blender,Shake | Mix | Smoothie | Lassi | Grind,Electronics
 Toaster,Bread | Toast | Breakfast | Pop | Slice,Electronics
 Juicer,Juice | Fruit | Orange | Squeeze | Fresh,Electronics
@@ -490,7 +490,7 @@ Wrench,Spanner | Nut | Bolt | Tighten | Plumber,Tools
 Pliers,Plas | Grip | Wire | Bend | Electrician,Tools
 Saw,Wood | Cut | Teeth | Carpenter | Aari,Tools
 Drill,Hole | Wall | Bit | Screw | Machine,Tools
-Axe,Kulhari | Wood | Chop | Tree | Lumberjack,Tools
+Axe,Kulhari | Wood | Chop | Tree | Lakarhara,Tools
 Shovel,Dig | Soil | Sand | Belcha | Hole,Tools
 Rake,Leaves | Garden | Grass | Teeth | Collect,Tools
 Hoe,Farmer | Field | Soil | Kudaal | Weeds,Tools
@@ -773,3 +773,13 @@ Geometry Box,Compass | Protractor | Set Square | Maths | Exam,Stationery
 Takhti,Wooden | Slate | Gaachni | Qalam | School,Stationery
 Eyebrow,Bhaun | Eye | Hair | Raise | Threading,Body Parts
 Heart,Dil | Beat | Pump | Blood | Chest,Body Parts
+Generator,Loadshedding | Bijli | Petrol | Noise | Engine,Electronics
+UPS,Battery | Bijli | Backup | Beep | Loadshedding,Electronics
+Washing Machine,Kapray | Dhona | Spin | Surf | Laundry,Electronics
+Rainbow,Dhanak | Colors | Rain | Seven | Sky,Nature
+Waterfall,Abshaar | Niagara | Rocks | Swat | Height,Nature
+Desert,Sehra | Sand | Thar | Camel | Hot,Nature
+Earthquake,Zalzala | Shake | Ground | 2005 | Building,Nature
+Fog,Dhund | Winter | Smog | Motorway | See,Nature
+Beard,Daarhi | Chin | Sunnah | Hair | Shave,Body Parts
+Sickle,Daranti | Farmer | Wheat | Cut | Curved,Tools

@@ -4660,7 +4660,7 @@
   {
    "id": "game1-359",
    "Name": "Compass",
-   "Description": "Draws circles in geometry box",
+   "Description": "Geometry-box tool for drawing circles",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4668,12 +4668,12 @@
     "Description": "A drawing tool",
     "Category": "Stationery"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The current hint reads as if the circles are drawn inside the box. The new wording fixes that and stays under 8 words."
   },
   {
    "id": "game1-360",
    "Name": "Protractor",
-   "Description": "Measures angles in geometry box",
+   "Description": "Geometry-box tool for measuring angles",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4681,7 +4681,7 @@
     "Description": "A measuring tool",
     "Category": "Stationery"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes the same awkward wording and matches the Compass hint."
   },
   {
    "id": "game1-361",
@@ -4894,7 +4894,7 @@
   {
    "id": "game1-377",
    "Name": "Grey",
-   "Description": "Colour of ash and clouds",
+   "Description": "Colour of ash and rain clouds",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -4902,7 +4902,7 @@
     "Description": "A neutral color",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Ordinary clouds are white, so 'rain clouds' is more accurate. The hint stays short and does not contain the word."
   },
   {
    "id": "game1-378",
