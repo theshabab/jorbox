@@ -3113,15 +3113,15 @@
   {
    "id": "game4-240",
    "Name": "Hummer",
-   "Description": "Sheikh Hamad Bin Hamdan Al Nahyan made a fairly big addition to his collection in 2022 when he commissioned a 2-story tall ____.",
-   "Category": "Collectibles",
-   "action": "keep",
+   "Description": "Emirati Sheikh Hamad Bin Hamdan Al Nahyan, the \"Rainbow Sheikh\", owns a drivable, two-storey-tall giant ____, about three times the size of a standard one.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Hummer",
     "Description": "Sheikh Hamad Bin Hamdan Al Nahyan made a fairly big addition to his collection in 2022 when he commissioned a 2-story tall ____.",
     "Category": "Collectibles"
    },
-   "note": ""
+   "note": "Debate: The giant Hummer was not commissioned in 2022 (it only went viral then); the challenger's wording states the verifiable fact more clearly."
   },
   {
    "id": "game4-241",
@@ -3204,7 +3204,7 @@
   {
    "id": "game4-247",
    "Name": "beard",
-   "Description": "Being famous for a record can be dangerous! In 1567, Hans Steininger died after tripping over his own ____.",
+   "Description": "In 1567, Hans Steininger, a town official of Braunau am Inn, died after tripping over his own famously long ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -3212,7 +3212,7 @@
     "Description": "Being a world record holder can be dangerous! Just ask Hans Steininger, who was killed by his ____.",
     "Category": "Record Books"
    },
-   "note": "accuracy: tripped over his beard; Debate: The clue 'known for his extraordinary beard' gave the answer away.; Debate: Fills blank category."
+   "note": "accuracy: tripped over his beard; Debate: The clue 'known for his extraordinary beard' gave the answer away.; Debate: Fills blank category.; Debate: Fixes the awkward lead-in and the dangling \"its\". I used the challenger's version but changed \"record-length\" to \"famously long\", because no formal record existed in 1567."
   },
   {
    "id": "game4-248",
@@ -3490,7 +3490,7 @@
   {
    "id": "game4-269",
    "Name": "human bones",
-   "Description": "Conservationists restoring Benjamin Franklin's old London home found something surprising beneath the garden: a windowless room full of ____.",
+   "Description": "In 1998, workers restoring Benjamin Franklin's old London home found a hidden pit under the house containing more than 1,200 pieces of ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -3498,7 +3498,7 @@
     "Description": "Conservationists restoring Benjamin Franklin’s home found something surprising beneath the garden: a windowless room containing ____.",
     "Category": "Benjamins"
    },
-   "note": "Debate: Safer accurate answer; clarifies London; replaces obscure US-slang category."
+   "note": "Debate: Safer accurate answer; clarifies London; replaces obscure US-slang category.; Debate: Factual fix: the find was a pit of bones from William Hewson's anatomy school at 36 Craven Street, not a windowless room."
   },
   {
    "id": "game4-270",
@@ -3775,16 +3775,16 @@
   },
   {
    "id": "game4-291",
-   "Name": "Ironing",
-   "Description": "Tony Hiam and Phil Shaw started an extreme sports competition centered around the activity of ____.",
-   "Category": "Final Round",
-   "action": "keep",
+   "Name": "ironing",
+   "Description": "In 1997, Englishman Phil Shaw invented the \"extreme sport\" of ____ clothes in risky places such as mountaintops and underwater.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Ironing",
     "Description": "Tony Hiam and Phil Shaw started an extreme sports competition centered around the activity of ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Debate: Phil Shaw (Leicester, 1997) is the credited inventor; the co-founder's name cannot be verified. The wording is clearer and the answer is now lowercase."
   },
   {
    "id": "game4-292",
@@ -4152,16 +4152,16 @@
   },
   {
    "id": "game4-320",
-   "Name": "Give Police Free Burgers",
+   "Name": "give police free burgers",
    "Description": "In June 2021, the staff of a Lahore burger outlet were arrested after they refused to ____.",
-   "Category": "Final Round",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "Give Police Free Burgers",
     "Description": "In June 2021, the entire staff of a Pakistani restaurant were arrested after they refused to ____.",
     "Category": "Final Round"
    },
-   "note": "specific and accurate"
+   "note": "specific and accurate; Debate: The answer fills a mid-sentence blank, so it should be lowercase."
   },
   {
    "id": "game4-321",
@@ -4504,15 +4504,15 @@
   {
    "id": "game4-347",
    "Name": "a pride of lions",
-   "Description": "In 2017, Manguben Makwana of Gujarat, India, gave birth in the forest while surrounded by ____.",
-   "Category": "Final Round",
+   "Description": "In 2017, Manguben Makwana of Gujarat, India, gave birth inside an ambulance that had stopped in the forest, while it was surrounded by ____.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "a lions' den",
     "Description": "In 2017, Manguben Makwana gave birth in an unexpected place: ____.",
     "Category": "Final Round"
    },
-   "note": "accuracy: born in the open among lions"
+   "note": "accuracy: born in the open among lions; Debate: Factual precision: the birth happened in a 108 ambulance stopped in the Gir forest while lions surrounded it."
   },
   {
    "id": "game4-348",
@@ -5045,20 +5045,20 @@
     "Description": "You get to pick the next book for our book club! What are you picking?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question."
+   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category."
   },
   {
    "id": "game4-389",
    "Name": "____",
-   "Description": "Imagine you were going to a two week camp in the woods... what ONE comfort item would you bring with you?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "Imagine you were going to a two-week camp in the woods... what ONE comfort item would you bring with you?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "Imagine you were going to a two week camp in the woods... what ONE comfort item would you bring with you?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Hyphenates the compound adjective."
   },
   {
    "id": "game4-390",
@@ -5201,7 +5201,7 @@
     "Description": "A sure fire phrase that would cheer you up is \"____\".",
     "Category": "Enough About You"
    },
-   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question."
+   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category."
   },
   {
    "id": "game4-401",
@@ -12128,6 +12128,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate quirky civic fact from the Muslim world. It has the same answer as the Istanbul card but is a different fact, which is acceptable in a deck this size."
+  },
+  {
+   "id": null,
+   "Name": "stand in the aisle",
+   "Description": "In January 2017, a PIA flight from Karachi to Madinah took off with seven extra passengers who had to ____ for the whole journey, because every seat was already taken.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A verified Pakistani news story (PK-743, 20 January 2017) that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "goat",
+   "Description": "In 2016, PIA staff at Islamabad airport sacrificed a black ____ on the tarmac next to a plane to ward off bad luck.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A widely reported December 2016 event with a nazar flavour, which the owner allows. Its fact differs from the markhor and buzkashi goat cards."
+  },
+  {
+   "id": null,
+   "Name": "be buried",
+   "Description": "Since 1950, people have not been allowed to ____ in the Arctic town of Longyearbyen, Norway, because the frozen ground stops bodies from decomposing.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A verifiable, surprising and mildly dark geography fact with no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Norway",
+   "Description": "With too few prisoners to fill its jails, the Netherlands rented one of its prisons to ____ from 2015 to house that country's inmates.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (Norgerhaven, 2015 to 2018). It does not duplicate the polar bear jail card or the other prison cards."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What snack would you hide from your siblings (or kids) so nobody else finds it?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A clean personal question, different from the card about which relative had the best snacks."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "If you could live in any Pakistani city for one year, which would you pick?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A personal question with a local frame, different from the card about visiting a city in the Muslim world."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "If your sehri alarm could shout one sentence to wake you up, what would it say?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A light, respectful Ramadan question that the owner allows; no live card asks the same thing."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "If you could have one superpower for just one day, what would it be?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A family-friendly icebreaker. No live card asks about superpowers, and superpowers are not the forbidden magic content."
   }
  ]
 }

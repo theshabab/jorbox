@@ -58248,13 +58248,13 @@
    "Name": "",
    "Description": "The award for best ____ goes to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The award for best ____ goes to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of live 551 'And the award for ____ goes to ____.' (edit). 4769 is also live."
   },
   {
    "id": "game5-4482",
@@ -58324,15 +58324,15 @@
   {
    "id": "game5-4487",
    "Name": "",
-   "Description": "The beloved leader, The PM, astounds his people with the invention of ____.",
+   "Description": "Our beloved Prime Minister astounds the nation with the invention of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The beloved leader, The PM, astounds his people with the invention of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the awkward 'The beloved leader, The PM' wording."
   },
   {
    "id": "game5-4488",
@@ -58766,15 +58766,15 @@
   {
    "id": "game5-4521",
    "Name": "",
-   "Description": "The best way to check someone off your guest list is ____.",
+   "Description": "The politest way to remove someone from your shaadi guest list is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The best way to check someone off your guest list is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Check someone off' was unclear and could read as menacing. The new wording is clear and local."
   },
   {
    "id": "game5-4522",
@@ -58870,7 +58870,7 @@
   {
    "id": "game5-4529",
    "Name": "",
-   "Description": "The Qalandars have as much chance of winning as ____.",
+   "Description": "Karachi Kings have as much chance of lifting the PSL trophy as ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -58878,7 +58878,7 @@
     "Description": "The Qalandars have as much chance of winning as ____ has at getting happy.",
     "Category": ""
    },
-   "note": "unclear wording"
+   "note": "unclear wording; Debate: The Qalandars won in 2022, 2023 and 2025, so the joke was stale. Karachi Kings are the usual underachiever joke."
   },
   {
    "id": "game5-4530",
@@ -58909,15 +58909,15 @@
   {
    "id": "game5-4532",
    "Name": "",
-   "Description": "The cause of most divorces is likely a result of ____.",
+   "Description": "Most khandaani jhagras can be traced back to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The cause of most divorces is likely a result of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Divorce prompts are already covered by 3891 and 6301. A family-feud prompt is family-friendly and new."
   },
   {
    "id": "game5-4533",
@@ -58948,7 +58948,7 @@
   {
    "id": "game5-4535",
    "Name": "",
-   "Description": "The children sprang out of bed and ran downstairs to find ____ waiting for them.",
+   "Description": "On Eid morning, the children sprang out of bed and ran downstairs to find ____ waiting for them.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -58956,7 +58956,7 @@
     "Description": "The children sprung from bed and ran down the stairs to find ____ under the bed.",
     "Category": ""
    },
-   "note": "grammar; clearer"
+   "note": "grammar; clearer; Debate: Changes the Christmas-morning setup to Eid morning."
   },
   {
    "id": "game5-4536",
@@ -59065,15 +59065,15 @@
   {
    "id": "game5-4544",
    "Name": "",
-   "Description": "The concept of Global warming was created by ____.",
+   "Description": "The concept of global warming was invented by ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The concept of Global warming was created by ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the wrong capital in 'Global'. 'Invented' reads more naturally."
   },
   {
    "id": "game5-4545",
@@ -59184,13 +59184,13 @@
    "Name": "",
    "Description": "The day I woke up and realised I was too old for ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The day I woke uyp and realized I was too old for ____.",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "Debate: Same meaning as live 2927 'I'm getting too old for ____.' (keep). The lower id is kept."
   },
   {
    "id": "game5-4554",
@@ -59858,15 +59858,15 @@
   {
    "id": "game5-4605",
    "Name": "",
-   "Description": "The hills are alive with the sound of ____.",
+   "Description": "The hills of Murree are alive with the sound of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The hills are alive with the sound of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Moves the Sound of Music film reference to a local setting and keeps the well-known phrase."
   },
   {
    "id": "game5-4606",
@@ -60068,13 +60068,13 @@
    "Name": "",
    "Description": "The key to a successful marriage is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The key to a successful marriage is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of live 3449 'Key to a healthy marriage: ____.' (keep)."
   },
   {
    "id": "game5-4622",
@@ -60235,7 +60235,7 @@
   {
    "id": "game5-4634",
    "Name": "",
-   "Description": "The last time I ate ____, I was ____ all night long.",
+   "Description": "The last time I ate ____, I couldn't stop talking about ____ all night long.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -60243,7 +60243,7 @@
     "Description": "The last time I ____, I was ____ all night long.",
     "Category": ""
    },
-   "note": "avoid innuendo"
+   "note": "avoid innuendo; Debate: 'I was ____ all night long' invites bathroom jokes. The challenger's wording avoids repeating the live nightmare cards (406, 3225, 2547)."
   },
   {
    "id": "game5-4635",
@@ -60482,7 +60482,7 @@
   {
    "id": "game5-4653",
    "Name": "",
-   "Description": "The Army ensures ____ is hand-delivered to needy children around the world.",
+   "Description": "The Army ensures ____ is hand-delivered to needy children across the country.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -60490,7 +60490,7 @@
     "Description": "The Army ensurs ____ is hand delivered to needy children around the world.",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Removes the 'around the world' wording left over from the US Toys for Tots original. Army in-jokes are allowed."
   },
   {
    "id": "game5-4654",
@@ -60536,13 +60536,13 @@
    "Name": "",
    "Description": "The meek shall inherit the ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The meek shall inherit the ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Parodies a Bible verse (Matthew 5:5), and the rules ban jokes about any religion. The similar card 6440 is already removed."
   },
   {
    "id": "game5-4658",
@@ -60807,15 +60807,15 @@
   {
    "id": "game5-4678",
    "Name": "",
-   "Description": "The most treasured possession from my many adventures are the mummified remains of ____.",
+   "Description": "My most treasured souvenirs from my many adventures are the mummified remains of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The most treasured possession from my many adventures are the mummified remains of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the subject-verb agreement ('possession ... are')."
   },
   {
    "id": "game5-4679",
@@ -60846,7 +60846,7 @@
   {
    "id": "game5-4681",
    "Name": "",
-   "Description": "The motto on our family crest translates to ____.",
+   "Description": "Our khandaan's unofficial motto translates to ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -60854,7 +60854,7 @@
     "Description": "the motto on our family crest translates to ____",
     "Category": ""
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: Replaces the Western 'family crest' with a local khandaan setting."
   },
   {
    "id": "game5-4682",
@@ -60900,13 +60900,13 @@
    "Name": "",
    "Description": "The neighborhood kid didn't use snow for their snowman, they used ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The neighborhood kid didn't use snow for their snowman, they used ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as live 7598 'The worst material with which to make a snowman' (keep). Snowman cards 3737, 1400 and 5902 are also live."
   },
   {
    "id": "game5-4686",
@@ -60937,7 +60937,7 @@
   {
    "id": "game5-4688",
    "Name": "",
-   "Description": "The new Tabdeeli's greatest tool is ____.",
+   "Description": "Tabdeeli's greatest tool is ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -60945,7 +60945,7 @@
     "Description": "The New Tabdeeli's greatest tool is ____.",
     "Category": ""
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: Fixes the awkward 'The new Tabdeeli's' wording."
   },
   {
    "id": "game5-4689",
@@ -61160,13 +61160,13 @@
    "Name": "",
    "Description": "The newest amendment to the Constitution now allows ____ to compel compliance more effectively.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The newest revision of the Constitution now allows ____ to more effectively compel compliance.",
     "Category": ""
    },
-   "note": "wording"
+   "note": "Debate: Clunky wording. Live cards 1766 and 7173 already cover constitutional amendments."
   },
   {
    "id": "game5-4706",
@@ -102005,6 +102005,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): An accurate cricket frame that differs from the existing Gaddafi Stadium cards and 'What should be banned from Lahore?'."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The 14th August fireworks were completely upstaged by ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Independence Day card on fireworks, which the owner allows. No live card covers it."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The kite that crash-landed on our roof had ____ tied to its string.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New rooftop kite-flying card. It takes a different angle from 7796."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Phuppo has started a home business selling ____ on WhatsApp.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New family card using the deck's spelling 'Phuppo'. It is not the same as 2518 or 7833."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The baraat had barely arrived when the biryani daig ran out, all thanks to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New wedding-food card. The blank is the cause of the shortage, so it is not the same as 59."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The ATM outside my bank has been out of order ever since ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New everyday Pakistani card. No ATM prompt exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Army mess's Sunday special is always ____ with a side of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Army in-joke that is not the same as 3136 or 7859."
   }
  ]
 }

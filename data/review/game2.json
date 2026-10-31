@@ -188,7 +188,7 @@
   {
    "id": "game2-15",
    "Name": "Bahawalpur",
-   "Description": "Nawab | Noor Mahal | Desert | Cholistan | Darbar Mahal",
+   "Description": "Nawab | Noor Mahal | Desert | Cholistan | Derawar Fort",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -196,7 +196,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: Noor Mahal and Darbar Mahal block nearly the same palace clue. Derawar Fort is a distinct, well-known association, and its live card (game2-285) already bans Bahawalpur."
   },
   {
    "id": "game2-16",
@@ -11135,6 +11135,86 @@
    "Category": "Islamic Locations",
    "action": "add",
    "note": "New card (debate): Major Muslim-world city that is only a banned word elsewhere; bans are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Gilgit",
+   "Description": "Mountains | Karakoram | Hunza | North | Polo",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): A major northern city with no card of its own; it appears only as a banned word on Apricot and Polo."
+  },
+  {
+   "id": null,
+   "Name": "Muzaffarabad",
+   "Description": "Kashmir | Capital | Neelum | Jhelum | Earthquake",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Capital of Azad Kashmir and not in the deck. AJK was dropped because it repeats Kashmir, and Jhelum (the river that meets the Neelum there) replaces it."
+  },
+  {
+   "id": null,
+   "Name": "Chiniot",
+   "Description": "Furniture | Wood | Kunna | Chenab | Punjab",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): A famous furniture city that appears only as a banned word on Kunna; the clues are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Paratha",
+   "Description": "Ghee | Breakfast | Tawa | Layers | Aloo",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): An everyday staple that appears only as a banned word on other cards."
+  },
+  {
+   "id": null,
+   "Name": "Qeema",
+   "Description": "Mince | Matar | Beef | Naan | Karela",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): A household staple that is not yet a card. Ground Meat was replaced because it repeated Mince."
+  },
+  {
+   "id": null,
+   "Name": "Khichdi",
+   "Description": "Rice | Daal | Sick | Soft | Baby",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): A familiar comfort food that is not in the deck; the banned words block the most natural hints."
+  },
+  {
+   "id": null,
+   "Name": "Chana Chaat",
+   "Description": "Chickpeas | Imli | Iftar | Tangy | Masala",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): A Ramzan iftar staple that is not in the deck and is clearly different from Dahi Bhallay."
+  },
+  {
+   "id": null,
+   "Name": "Star Anise",
+   "Description": "Badiyan | Garam Masala | Pulao | Biryani | Brown",
+   "Category": "Spices",
+   "action": "add",
+   "note": "New card (debate): A common whole spice missing from Spices. The vague 'Shape' was replaced with Garam Masala, the hint players are most likely to use."
+  },
+  {
+   "id": null,
+   "Name": "Chikoo",
+   "Description": "Sapodilla | Brown | Sweet | Shake | Grainy",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): A popular local fruit that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Persimmon",
+   "Description": "Japani Phal | Orange | Autumn | Soft | Swat",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): A well-known Pakistani autumn fruit (Japani phal) that is not in the deck; Swat is its main growing area."
   }
  ]
 }
