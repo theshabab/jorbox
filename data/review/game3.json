@@ -9197,10 +9197,10 @@
   {
    "id": null,
    "Name": "Draw a spider web.",
-   "Description": "Draw a fishing net.|Draw a dartboard.|Draw a spider.|Draw a crack in the wall.|Draw a cobweb-covered attic.",
+   "Description": "Draw a fishing net.|Draw a dartboard.|Draw a spider.|Draw a crack in the wall.|Draw a badminton net.",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The 'cobweb-covered attic' decoy needs the same drawing as the real prompt. A badminton net is net-shaped but different."
   },
   {
    "id": null,
@@ -9221,10 +9221,10 @@
   {
    "id": null,
    "Name": "Draw a sandstorm.",
-   "Description": "Draw a tornado.|Draw a desert.|Draw a dusty road.|Draw a dirty room.|Draw a windy day.",
+   "Description": "Draw a tornado.|Draw a desert.|Draw a dusty road.|Draw a cloud of smoke.|Draw a windy day.",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: A dirty room is too far from a sandstorm to pass. A cloud of smoke is close but different."
   },
   {
    "id": null,
@@ -9237,10 +9237,10 @@
   {
    "id": null,
    "Name": "The best thing about load-shedding is...",
-   "Description": "The worst thing about summer is...|Something I do when I’m bored is...|The best thing to do in the dark is...|Something I always keep in my room is...|The best thing about winter is...",
+   "Description": "The worst thing about summer is...|Something I do when I’m bored is...|The best thing to do on a rainy evening is...|Something I always keep in my room is...|The best thing about winter is...",
    "Category": "Writing",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'The best thing to do in the dark' invites suggestive answers in a family game. A rainy evening is a close, clean decoy."
   },
   {
    "id": null,
@@ -9284,11 +9284,11 @@
   },
   {
    "id": null,
-   "Name": "If I won a crore rupees, the first thing I’d buy is...",
+   "Name": "If I suddenly got a crore rupees, the first thing I’d buy is...",
    "Description": "Something I’d buy with my first salary is...|The most expensive thing I want is...|Something I’d buy for my parents is...|If I found Rs. 500 on the road, I’d buy...|Something I want for my birthday is...",
    "Category": "Writing",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'Won a crore' suggests a lottery or prize bond. The new wording keeps the windfall joke without gambling."
   },
   {
    "id": null,
@@ -9413,10 +9413,10 @@
   {
    "id": null,
    "Name": "A good nickname for a fast bowler would be...",
-   "Description": "A good nickname for a strict teacher would be...|A good nickname for a goalkeeper would be...|A good nickname for a superhero would be...|A good name for a racehorse would be...|A good nickname for a fast car would be...",
+   "Description": "A good nickname for a strict teacher would be...|A good nickname for a goalkeeper would be...|A good nickname for a superhero would be...|A good nickname for a cheetah would be...|A good nickname for a fast car would be...",
    "Category": "Writing",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The racehorse decoy pointed to horse racing and betting, and it broke the 'nickname' pattern. A cheetah keeps the speed link."
   },
   {
    "id": null,
@@ -10041,6 +10041,78 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Funny, clean local Morality dilemma; no goat-themed one exists."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Police Station",
+   "Description": "SHO|Constable|Hawaldar|Lockup|Handcuffs|Uniform|Baton|Wireless Set|FIR Register|Complaint|Police Mobile|Fingerprints|Duty Officer|Rifle|Barrier|Case File|Missing Person Poster|Chai|Sifarish|Bail",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's version: a new local place topic, with 'Thana' removed because it means the topic itself. The deck has no police-station list."
+  },
+  {
+   "id": null,
+   "Name": "Things at a School Canteen",
+   "Description": "Samosa|Patties|Chips|Juice Box|Cold Drink|Shami Burger|Fries|Chocolate|Toffees|Biscuits|Chicken Roll|Sandwich|Lollipop|Tea|Canteen Uncle|Queue|Pocket Money|Lunch Break|Loose Change|Plastic Cup",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A familiar school-life topic that the deck doesn't have. It overlaps only partly with the snack lists."
+  },
+  {
+   "id": null,
+   "Name": "Draw a mosquito.",
+   "Description": "Draw a fly.|Draw a bee.|Draw a dragonfly.|Draw a mosquito coil.|Draw an itchy arm.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Mosquitoes appear only in word lists, so this Drawing card is new. The decoys are close."
+  },
+  {
+   "id": null,
+   "Name": "Draw a cricket umpire.",
+   "Description": "Draw a traffic warden.|Draw a referee.|Draw a fielder.|Draw a judge.|Draw a scoreboard.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): 'Umpire' is only a word in list 677; there is no umpire Drawing card. The decoys are other officials who give signals."
+  },
+  {
+   "id": null,
+   "Name": "The worst thing about a long bus journey is...",
+   "Description": "The worst thing about a long train journey is...|The worst thing about a long flight is...|The best snack for a road trip is...|Something I always carry when travelling is...|The worst seat on a bus is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A relatable local travel prompt that the deck doesn't have, with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "The first thing I’d do as Prime Minister is...",
+   "Description": "The first thing I’d do as principal of my school is...|The first rule I’d make as head of the family is...|A law Pakistan really needs is...|The first thing I’d do as captain of the cricket team is...|Something every politician promises is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): The owner allows politics. The PM idea exists only as decoys (411, 426) and as Rating/Morality cards (562, 604), so a Writing card with this as the real prompt is new."
+  },
+  {
+   "id": null,
+   "Name": "Karachi has better food than Lahore.",
+   "Description": "Lahore has better food than Karachi.|Peshawar has the best BBQ in Pakistan.|My city has the best food in Pakistan.|Islamabad is the most boring city.|I’d travel to another city just for food.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): A friendly city-rivalry hot take that sparks debate and isn't in the deck. The opposite decoy makes the impostor stand out."
+  },
+  {
+   "id": null,
+   "Name": "Daal chawal is better than biryani.",
+   "Description": "Biryani is overrated.|Plain rice is better than pulao.|Home food beats restaurant food.|I could eat daal every day.|Khichdi is the best comfort food.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): A food hot take that fits the slice's Rating cards. 762 is about eating biryani every day, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Your friend’s mother insists you take a third helping of a dish you secretly hate. You...",
+   "Description": "eat it with a smile|say you’re on a diet|slip it onto your friend’s plate",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): A light dilemma about desi hospitality with three distinct options. The deck has nothing like it."
   }
  ]
 }

@@ -8962,7 +8962,7 @@
   },
   {
    "id": "game15-690",
-   "Name": "Thermal Equilibrium Is Shared",
+   "Name": "Thermal Equilibrium Defines Temperature",
    "Description": "Zeroth Law",
    "Category": "Laws of Thermodynamics (Order)",
    "action": "edit",
@@ -8971,7 +8971,7 @@
     "Description": "1",
     "Category": "Laws of Thermodynamics (Order)"
    },
-   "note": "names gave away the order; now the law's idea, law number as answer"
+   "note": "names gave away the order; now the law's idea, law number as answer; Debate: 'Is Shared' is vague; new wording states what the zeroth law establishes."
   },
   {
    "id": "game15-691",
@@ -9118,7 +9118,7 @@
   },
   {
    "id": "game15-702",
-   "Name": "Moon",
+   "Name": "Moon (Earth's)",
    "Description": "3,475 km",
    "Category": "Solar System Moons (Diameter - Large to Small)",
    "action": "edit",
@@ -9127,7 +9127,7 @@
     "Description": "5",
     "Category": "Solar System Moons (Diameter - Large to Small)"
    },
-   "note": "replaced bare rank with diameter"
+   "note": "replaced bare rank with diameter; Debate: Clarifies a bare 'Moon' in a list of moons; value correct (3,474.8 km)."
   },
   {
    "id": "game15-703",
@@ -9508,16 +9508,16 @@
   },
   {
    "id": "game15-732",
-   "Name": "Water",
+   "Name": "Pure Water",
    "Description": "7",
    "Category": "pH Scale (Acid to Base Examples)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Water",
     "Description": "7",
     "Category": "pH Scale (Acid to Base Examples)"
    },
-   "note": ""
+   "note": "Debate: Only pure water is exactly pH 7; tap/bottled water varies."
   },
   {
    "id": "game15-733",
@@ -9834,7 +9834,7 @@
   {
    "id": "game15-757",
    "Name": "Major",
-   "Description": "Magnitude 7.0-7.9",
+   "Description": "Magnitude 7.0-7.9 (e.g. Kashmir 2005, M7.6)",
    "Category": "Richter Scale (Impact Categories)",
    "action": "edit",
    "original": {
@@ -9842,7 +9842,7 @@
     "Description": "6",
     "Category": "Richter Scale (Impact Categories)"
    },
-   "note": "bare rank replaced with magnitude range"
+   "note": "bare rank replaced with magnitude range; Debate: Accurate Pakistani anchor example in the reveal."
   },
   {
    "id": "game15-758",
@@ -9859,8 +9859,8 @@
   },
   {
    "id": "game15-759",
-   "Name": "O",
-   "Description": "Blue, above 30,000 K",
+   "Name": "O-type Star (Blue)",
+   "Description": "Above 30,000 K",
    "Category": "Stellar Spectral Types (Temp - Hot to Cold)",
    "action": "edit",
    "original": {
@@ -9868,12 +9868,12 @@
     "Description": "Blue",
     "Category": "Stellar Spectral Types (Temp - Hot to Cold)"
    },
-   "note": "added surface temperature (the ordering value)"
+   "note": "added surface temperature (the ordering value); Debate: Bare letter unplayable; colour in Name makes the sort guessable."
   },
   {
    "id": "game15-760",
-   "Name": "B",
-   "Description": "Blue-white, 10,000-30,000 K",
+   "Name": "B-type Star (Blue-white)",
+   "Description": "10,000-30,000 K",
    "Category": "Stellar Spectral Types (Temp - Hot to Cold)",
    "action": "edit",
    "original": {
@@ -9881,12 +9881,12 @@
     "Description": "Blue-white",
     "Category": "Stellar Spectral Types (Temp - Hot to Cold)"
    },
-   "note": "added surface temperature (the ordering value)"
+   "note": "added surface temperature (the ordering value); Debate: Bare letter unplayable; colour moved into Name."
   },
   {
    "id": "game15-761",
-   "Name": "A",
-   "Description": "White, 7,500-10,000 K",
+   "Name": "A-type Star (White)",
+   "Description": "7,500-10,000 K",
    "Category": "Stellar Spectral Types (Temp - Hot to Cold)",
    "action": "edit",
    "original": {
@@ -9894,12 +9894,12 @@
     "Description": "White",
     "Category": "Stellar Spectral Types (Temp - Hot to Cold)"
    },
-   "note": "added surface temperature (the ordering value)"
+   "note": "added surface temperature (the ordering value); Debate: Bare letter unplayable; colour moved into Name."
   },
   {
    "id": "game15-762",
-   "Name": "F",
-   "Description": "Yellow-white, 6,000-7,500 K",
+   "Name": "F-type Star (Yellow-white)",
+   "Description": "6,000-7,500 K",
    "Category": "Stellar Spectral Types (Temp - Hot to Cold)",
    "action": "edit",
    "original": {
@@ -9907,12 +9907,12 @@
     "Description": "Yellow-white",
     "Category": "Stellar Spectral Types (Temp - Hot to Cold)"
    },
-   "note": "added surface temperature (the ordering value)"
+   "note": "added surface temperature (the ordering value); Debate: Bare letter unplayable; colour moved into Name."
   },
   {
    "id": "game15-763",
-   "Name": "G",
-   "Description": "Yellow, 5,200-6,000 K (like the Sun)",
+   "Name": "G-type Star (Yellow)",
+   "Description": "5,200-6,000 K (like the Sun)",
    "Category": "Stellar Spectral Types (Temp - Hot to Cold)",
    "action": "edit",
    "original": {
@@ -9920,12 +9920,12 @@
     "Description": "Yellow",
     "Category": "Stellar Spectral Types (Temp - Hot to Cold)"
    },
-   "note": "added surface temperature (the ordering value)"
+   "note": "added surface temperature (the ordering value); Debate: Bare letter unplayable; colour moved into Name."
   },
   {
    "id": "game15-764",
-   "Name": "K",
-   "Description": "Orange, 3,700-5,200 K",
+   "Name": "K-type Star (Orange)",
+   "Description": "3,700-5,200 K",
    "Category": "Stellar Spectral Types (Temp - Hot to Cold)",
    "action": "edit",
    "original": {
@@ -9933,12 +9933,12 @@
     "Description": "Orange",
     "Category": "Stellar Spectral Types (Temp - Hot to Cold)"
    },
-   "note": "added surface temperature (the ordering value)"
+   "note": "added surface temperature (the ordering value); Debate: Bare letter unplayable; colour moved into Name."
   },
   {
    "id": "game15-765",
-   "Name": "M",
-   "Description": "Red, 2,400-3,700 K",
+   "Name": "M-type Star (Red)",
+   "Description": "2,400-3,700 K",
    "Category": "Stellar Spectral Types (Temp - Hot to Cold)",
    "action": "edit",
    "original": {
@@ -9946,7 +9946,7 @@
     "Description": "Red",
     "Category": "Stellar Spectral Types (Temp - Hot to Cold)"
    },
-   "note": "added surface temperature (the ordering value)"
+   "note": "added surface temperature (the ordering value); Debate: Bare letter unplayable; colour moved into Name."
   },
   {
    "id": "game15-766",
@@ -10107,7 +10107,7 @@
   {
    "id": "game15-778",
    "Name": "New Moon",
-   "Description": "Day 0 of 29.5 (Moon not visible)",
+   "Description": "Day 0 of 29.5 (not visible; the hilal is sighted a day or two later)",
    "Category": "Moon Phases (Cycle)",
    "action": "edit",
    "original": {
@@ -10115,7 +10115,7 @@
     "Description": "1",
     "Category": "Moon Phases (Cycle)"
    },
-   "note": "bare rank replaced with approximate day of the lunar cycle"
+   "note": "bare rank replaced with approximate day of the lunar cycle; Debate: Accurate hilal-sighting link familiar from Ramadan/Eid."
   },
   {
    "id": "game15-779",
@@ -10159,7 +10159,7 @@
   {
    "id": "game15-782",
    "Name": "Full Moon",
-   "Description": "Day ~15 of 29.5 (fully lit)",
+   "Description": "Day ~15 of 29.5 (fully lit; around Ayyam al-Bid, 13th-15th of the Islamic month)",
    "Category": "Moon Phases (Cycle)",
    "action": "edit",
    "original": {
@@ -10167,7 +10167,7 @@
     "Description": "5",
     "Category": "Moon Phases (Cycle)"
    },
-   "note": "bare rank replaced with approximate day of the lunar cycle"
+   "note": "bare rank replaced with approximate day of the lunar cycle; Debate: Accurate, hedged Islamic connection."
   },
   {
    "id": "game15-783",
@@ -10237,15 +10237,15 @@
   {
    "id": "game15-788",
    "Name": "Kuril-Kamchatka Trench",
-   "Description": "10,542 m",
+   "Description": "~9,600 m",
    "Category": "Deepest Ocean Trenches (Depth - Deep to Shallow)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Kuril-Kamchatka Trench",
     "Description": "10,542 m",
     "Category": "Deepest Ocean Trenches (Depth - Deep to Shallow)"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: 10,542 m is an outdated sounding; modern surveys give ~9,600 m, placing it after Izu-Ogasawara (9,780 m) in the true order. Fixable, so edit rather than remove; also removes the near-tie with the Philippine Trench."
   },
   {
    "id": "game15-789",
@@ -28825,6 +28825,86 @@
    "Category": "Largest Lakes in the World (Area - Large to Small)",
    "action": "add",
    "note": "New card (debate): Michigan (~58,000 km²) is also larger than Tanganyika. With Huron added, the category becomes the true top 7."
+  },
+  {
+   "id": null,
+   "Name": "Helium",
+   "Description": "0.0005%",
+   "Category": "Atmosphere Gases (Abundance - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Correct (~5.2 ppm), fits after Neon."
+  },
+  {
+   "id": null,
+   "Name": "Titania (Uranus)",
+   "Description": "1,578 km",
+   "Category": "Solar System Moons (Diameter - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Next-largest moon after Triton; value correct."
+  },
+  {
+   "id": null,
+   "Name": "Mercury",
+   "Description": "-39 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): New Melting Points category; correct value (-38.8 °C)."
+  },
+  {
+   "id": null,
+   "Name": "Ice",
+   "Description": "0 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Everyday anchor item."
+  },
+  {
+   "id": null,
+   "Name": "Candle Wax",
+   "Description": "~45-65 °C (paraffin)",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Familiar item; acceptable approximation."
+  },
+  {
+   "id": null,
+   "Name": "Lead",
+   "Description": "327 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value."
+  },
+  {
+   "id": null,
+   "Name": "Aluminium",
+   "Description": "660 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value; familiar metal."
+  },
+  {
+   "id": null,
+   "Name": "Gold",
+   "Description": "1,064 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value."
+  },
+  {
+   "id": null,
+   "Name": "Iron",
+   "Description": "1,538 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value."
+  },
+  {
+   "id": null,
+   "Name": "Tungsten",
+   "Description": "3,422 °C (highest of any metal)",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value; highest-melting metal."
   }
  ]
 }
