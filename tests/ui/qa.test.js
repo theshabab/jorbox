@@ -122,7 +122,7 @@ test('home lists every game as a tile with its size, without setup notices', asy
   const { page, problems, close } = await open();
   await page.locator('.game-tile').first().waitFor();
   assert.equal(await page.locator('.game-tile').count(), 17);
-  await page.locator('.game-tile').filter({ hasText: '5,972 cards' }).waitFor();
+  await page.locator('.game-tile').filter({ hasText: '5,969 cards' }).waitFor();
   assert.equal(await page.getByText('awaits configuration').count(), 0);
   await axe(page, 'home');
   await shot(page, 'home-desktop');
@@ -229,7 +229,7 @@ test('a reload keeps the shuffled order and position; reshuffle starts again', a
     before,
   );
   await button(page, 'Reshuffle').click();
-  assert.equal(await position(page), '1 / 865');
+  assert.equal(await position(page), '1 / 870');
   await close();
 });
 

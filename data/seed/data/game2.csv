@@ -102,7 +102,7 @@ Tomato,Tamatar | Red | Ketchup | Sauce | Salad,Vegetables
 Garlic,Lehsan | Smell | Breath | Adrak | Cloves,Vegetables
 Spinach,Palak | Iron | Leaves | Saag | Green,Vegetables
 Cauliflower,Gobhi | White | Aloo Gobi | Florets | Broccoli,Vegetables
-Cabbage,Band Gobhi | Leaves | Round | Coleslaw | Layers,Vegetables
+Cabbage,Band Gobhi | Leaves | Round | Salad | Layers,Vegetables
 Carrot,Gajar | Orange | Rabbit | Halwa | Eyes,Vegetables
 Radish,Mooli | White | Paratha | Crunchy | Root,Vegetables
 Turnip,Shaljam | Purple | Root | Winter | Gosht,Vegetables
@@ -110,7 +110,7 @@ Peas,Matar | Green | Pod | Pulao | Round,Vegetables
 Okra,Bhindi | Ladyfinger | Slimy | Green | Fry,Vegetables
 Eggplant,Baingan | Brinjal | Purple | Bharta | Aubergine,Vegetables
 Cucumber,Kheera | Green | Raita | Cool | Salad,Vegetables
-Zucchini,Green | Courgette | Lauki | Squash | Long,Vegetables
+Zucchini,Green | Courgette | Squash | Long | Salad,Vegetables
 Pumpkin,Kaddu | Orange | Big | Halwa | Round,Vegetables
 Bitter Gourd,Karela | Kadwa | Green | Diabetes | Spiky,Vegetables
 Bottle Gourd,Lauki | Ghiya | Green | Long | Halwa,Vegetables
@@ -135,7 +135,7 @@ Vest,Baniyan | Undershirt | Sleeveless | White | Inner,Clothing
 Jacket,Leather | Zip | Winter | Denim | Pockets,Clothing
 Coat,Winter | Long | Lab | Pant | Warm,Clothing
 Sweater,Wool | Winter | Knit | Jersey | Warm,Clothing
-Socks,Feet | Juraab | Shoes | Pair | Smell,Clothing
+Socks,Feet | Moze | Shoes | Pair | Smell,Clothing
 Gloves,Hands | Dastaane | Fingers | Winter | Boxing,Clothing
 Tie,Neck | Knot | Office | Shirt | Suit,Clothing
 Belt,Waist | Buckle | Leather | Pants | Kamar,Clothing
@@ -162,7 +162,7 @@ Mattress,Bed | Sleep | Foam | Gadda | Spring,Furniture
 Pillow,Takiya | Head | Sleep | Bed | Soft,Furniture
 Cushion,Sofa | Soft | Gaddi | Sit | Cover,Furniture
 Blanket,Razai | Kambal | Winter | Warm | Cover,Furniture
-Sheet,Chadar | Bed | Cover | Cotton | Bistar,Furniture
+Sheet,Chaadar | Bed | Cover | Cotton | Bistar,Furniture
 Cot,Baby | Bed | Charpai | Small | Camping,Furniture
 Cradle,Jhoola | Baby | Rock | Sleep | Lori,Furniture
 Recliner,Chair | Lean Back | Relax | Footrest | Comfortable,Furniture
@@ -179,7 +179,7 @@ Teapot,Chai | Kettle | Pour | Spout | Lid,Kitchen Items
 Pan,Fry | Handle | Non Stick | Egg | Omelette,Kitchen Items
 Pot,Handi | Degchi | Cook | Boil | Lid,Kitchen Items
 Cooker,Pressure | Whistle | Steam | Gas | Daal,Kitchen Items
-Tawa,Roti | Paratha | Flat | Iron | Hot,Kitchen Items
+Tawa,Roti | Paratha | Flat | Pan | Hot,Kitchen Items
 Rolling Pin,Belan | Roti | Dough | Atta | Flat,Kitchen Items
 Grater,Carrot | Cheese | Kaddu Kash | Shred | Mooli,Kitchen Items
 Peeler,Peel | Potato | Skin | Chilka | Carrot,Kitchen Items
@@ -196,7 +196,7 @@ Elephant,Haathi | Trunk | Tusks | Big Ears | Grey,Animals
 Horse,Ghora | Ride | Tonga | Race | Saddle,Animals
 Dog,Kutta | Bark | Pet | Loyal | Bone,Animals
 Cat,Billi | Meow | Pet | Milk | Whiskers,Animals
-Cow,Gaye | Milk | Moo | Eid | Beef,Animals
+Cow,Gai | Milk | Moo | Eid | Beef,Animals
 Buffalo,Bhains | Milk | Black | Horns | Eid,Animals
 Goat,Bakra | Eid | Qurbani | Mutton | Beard,Animals
 Sheep,Bhed | Wool | Dumba | Lamb | Baa,Animals
@@ -896,3 +896,9 @@ Chana Chaat,Chickpeas | Imli | Iftar | Tangy | Masala,Traditional Dishes
 Star Anise,Badiyan | Garam Masala | Pulao | Biryani | Brown,Spices
 Chikoo,Sapodilla | Brown | Sweet | Shake | Grainy,Fruits
 Persimmon,Japani Phal | Orange | Autumn | Soft | Swat,Fruits
+Chopping Board,Cut | Knife | Wood | Vegetables | Slice,Kitchen Items
+Tandoor,Naan | Clay | Oven | Roti | Fire,Kitchen Items
+Kettle,Boil | Water | Electric | Hot | Chai,Kitchen Items
+Slippers,Chappal | Feet | Home | Flip Flops | Wear,Clothing
+Pajama,Night | Sleep | Shalwar | Loose | Bed,Clothing
+Rhinoceros,Horn | Big | Africa | Thick Skin | Gainda,Animals

@@ -1371,7 +1371,7 @@
   {
    "id": "game2-106",
    "Name": "Cabbage",
-   "Description": "Band Gobhi | Leaves | Round | Coleslaw | Layers",
+   "Description": "Band Gobhi | Leaves | Round | Salad | Layers",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1379,7 +1379,7 @@
     "Description": "vegetable | green | salad | cook",
     "Category": "Vegetables"
    },
-   "note": ""
+   "note": "Debate: Salad is a more common clue than Western coleslaw."
   },
   {
    "id": "game2-107",
@@ -1475,7 +1475,7 @@
   {
    "id": "game2-114",
    "Name": "Zucchini",
-   "Description": "Green | Courgette | Lauki | Squash | Long",
+   "Description": "Green | Courgette | Squash | Long | Salad",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1483,7 +1483,7 @@
     "Description": "vegetable | green | salad | cook",
     "Category": "Vegetables"
    },
-   "note": ""
+   "note": "Debate: Lauki is its own live card; cross-reference was confusing."
   },
   {
    "id": "game2-115",
@@ -1826,7 +1826,7 @@
   {
    "id": "game2-141",
    "Name": "Socks",
-   "Description": "Feet | Juraab | Shoes | Pair | Smell",
+   "Description": "Feet | Moze | Shoes | Pair | Smell",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1834,7 +1834,7 @@
     "Description": "wear | dress | traditional | cloth",
     "Category": "Clothing"
    },
-   "note": ""
+   "note": "Debate: Moze is the everyday Urdu word for socks."
   },
   {
    "id": "game2-142",
@@ -2203,7 +2203,7 @@
   {
    "id": "game2-170",
    "Name": "Sheet",
-   "Description": "Chadar | Bed | Cover | Cotton | Bistar",
+   "Description": "Chaadar | Bed | Cover | Cotton | Bistar",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2211,7 +2211,7 @@
     "Description": "furniture | wood | sit | home",
     "Category": "Furniture"
    },
-   "note": "Bedding, not furniture; \"Sheet\" is ambiguous (paper sheet).; Debate: Bedsheet contained the target word; replaced it with Bistar."
+   "note": "Bedding, not furniture; \"Sheet\" is ambiguous (paper sheet).; Debate: Bedsheet contained the target word; replaced it with Bistar.; Debate: Unify Chaadar spelling with Shawl card."
   },
   {
    "id": "game2-171",
@@ -2424,7 +2424,7 @@
   {
    "id": "game2-187",
    "Name": "Tawa",
-   "Description": "Roti | Paratha | Flat | Iron | Hot",
+   "Description": "Roti | Paratha | Flat | Pan | Hot",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2432,7 +2432,7 @@
     "Description": "kitchen | cook | metal | utensil",
     "Category": "Kitchen Items"
    },
-   "note": "Debate: Roti and Chapati are the same thing; replaced Chapati with Hot."
+   "note": "Debate: Roti and Chapati are the same thing; replaced Chapati with Hot.; Debate: Iron misleads (clothes iron); Pan is the real giveaway."
   },
   {
    "id": "game2-188",
@@ -2658,7 +2658,7 @@
   {
    "id": "game2-205",
    "Name": "Cow",
-   "Description": "Gaye | Milk | Moo | Eid | Beef",
+   "Description": "Gai | Milk | Moo | Eid | Beef",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2666,7 +2666,7 @@
     "Description": "animal | wild | mammal | zoo",
     "Category": "Animals"
    },
-   "note": ""
+   "note": "Debate: Gai is the correct Roman Urdu spelling."
   },
   {
    "id": "game2-206",
@@ -11215,6 +11215,54 @@
    "Category": "Fruits",
    "action": "add",
    "note": "New card (debate): A well-known Pakistani autumn fruit (Japani phal) that is not in the deck; Swat is its main growing area."
+  },
+  {
+   "id": null,
+   "Name": "Chopping Board",
+   "Description": "Cut | Knife | Wood | Vegetables | Slice",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Common kitchen item missing; Tukri replaced with Slice (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Tandoor",
+   "Description": "Naan | Clay | Oven | Roti | Fire",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Distinct, familiar local item; Naanbai is the baker, not the oven."
+  },
+  {
+   "id": null,
+   "Name": "Kettle",
+   "Description": "Boil | Water | Electric | Hot | Chai",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Distinct from Teapot; common household item."
+  },
+  {
+   "id": null,
+   "Name": "Slippers",
+   "Description": "Chappal | Feet | Home | Flip Flops | Wear",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Everyday footwear missing."
+  },
+  {
+   "id": null,
+   "Name": "Pajama",
+   "Description": "Night | Sleep | Shalwar | Loose | Bed",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Distinct night-wear item missing."
+  },
+  {
+   "id": null,
+   "Name": "Rhinoceros",
+   "Description": "Horn | Big | Africa | Thick Skin | Gainda",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Well-known animal missing; accurate clues."
   }
  ]
 }

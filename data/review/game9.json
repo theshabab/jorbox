@@ -2436,14 +2436,14 @@
   },
   {
    "id": "game9-222",
-   "Name": "What nucleotide pairs with guanine?",
+   "Name": "Which DNA base pairs with guanine?",
    "Description": "Cytosine",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What nucleotide pairs with guanine?",
     "Description": "Cytosine"
    },
-   "note": ""
+   "note": "Debate: Guanine is a base, not a nucleotide; terminology fix."
   },
   {
    "id": "game9-223",
@@ -3415,14 +3415,14 @@
   },
   {
    "id": "game9-311",
-   "Name": "A comet's gaseous envelope (which creates the tail) is called what?",
+   "Name": "What is the name of the fuzzy cloud of gas and dust around a comet's nucleus, from which its tail streams?",
    "Description": "The coma",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A comet's gaseous envelope (which creates the tail) is called what?",
     "Description": "The coma"
    },
-   "note": ""
+   "note": "Debate: Fixes loose wording that implied the coma is the tail; answer unchanged."
   },
   {
    "id": "game9-312",
@@ -11257,6 +11257,41 @@
    "Description": "Jellyfish",
    "action": "add",
    "note": "New card (debate): Accurate; different from the man o' war card."
+  },
+  {
+   "id": null,
+   "Name": "Which river flows near the city of Multan?",
+   "Description": "Chenab",
+   "action": "add",
+   "note": "New card (debate): Local geography; no Chenab card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Nepal?",
+   "Description": "Kathmandu",
+   "action": "add",
+   "note": "New card (debate): Regional capital; no existing Nepal capital card."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Bhutan?",
+   "Description": "Thimphu",
+   "action": "add",
+   "note": "New card (debate): Regional capital; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which tiny blood cell fragments help the blood to clot?",
+   "Description": "Platelets",
+   "action": "add",
+   "note": "New card (debate): Accurate biology card; no platelet card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which part of the brain is mainly responsible for balance and coordination?",
+   "Description": "The cerebellum",
+   "action": "add",
+   "note": "New card (debate): Accurate biology card; no cerebellum card in the deck."
   }
  ]
 }

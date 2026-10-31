@@ -61899,15 +61899,15 @@
   {
    "id": "game5-4762",
    "Name": "",
-   "Description": "The Presidental line of succession under The PM: Sheikh Rasheed. Fawad Chaudhry. ____.",
+   "Description": "The Presidential line of succession under The PM: Sheikh Rasheed. Fawad Chaudhry. ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The Presidental line of succession under The PM: Sheikh Rasheed. Fawad Chaudhry. ____.",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Typo fix."
   },
   {
    "id": "game5-4763",
@@ -62068,15 +62068,15 @@
   {
    "id": "game5-4775",
    "Name": "",
-   "Description": "The real reason they don’t want to go to school today.",
+   "Description": "The real reason they don't want to go to school today is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The real reason they don’t want to go to school today.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Adds missing blank."
   },
   {
    "id": "game5-4776",
@@ -62133,15 +62133,15 @@
   {
    "id": "game5-4780",
    "Name": "",
-   "Description": "The road to ____ is riddled with broken hearts, shattered dreams, and a whole lot of ____.",
+   "Description": "The road to ____ is riddled with long queues, shattered dreams, and a whole lot of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The road to ____ is riddled with broken hearts, shattered dreams, and a whole lot of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Drops romance angle."
   },
   {
    "id": "game5-4781",
@@ -62978,7 +62978,7 @@
   {
    "id": "game5-4845",
    "Name": "",
-   "Description": "The title of my rejected TED talk was ____.",
+   "Description": "The title of my rejected school assembly speech was ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -62986,7 +62986,7 @@
     "Description": "the titled of my rejected TED talk was ____",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Local equivalent of TED talk."
   },
   {
    "id": "game5-4846",
@@ -63069,15 +63069,15 @@
   {
    "id": "game5-4852",
    "Name": "",
-   "Description": "The true meaning of love is ____.",
+   "Description": "The true meaning of family is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The true meaning of love is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids romantic answers."
   },
   {
    "id": "game5-4853",
@@ -63422,13 +63422,13 @@
    "Name": "",
    "Description": "The whole last election was really a battle between ____ and ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The whole 2016 election was really a battle between ____ and ____.",
     "Category": ""
    },
-   "note": "US 2016 election -> generic"
+   "note": "Debate: Duplicate of live 4762."
   },
   {
    "id": "game5-4880",
@@ -63589,20 +63589,20 @@
   {
    "id": "game5-4892",
    "Name": "",
-   "Description": "The worst thing about the Pakistan Army is ____.",
+   "Description": "The worst thing about Army training is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The worst thing about the Pakistan Army is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Cleaner army in-joke frame."
   },
   {
    "id": "game5-4893",
    "Name": "",
-   "Description": "The weirdest thing I ever searched on Google was ____.",
+   "Description": "The weirdest thing I ever searched on YouTube was ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -63610,7 +63610,7 @@
     "Description": "The worst thing in my Google search history is ____",
     "Category": ""
    },
-   "note": "avoid crude answers"
+   "note": "avoid crude answers; Debate: Challenger amendment: YouTube frame without suggestive 3 AM."
   },
   {
    "id": "game5-4894",
@@ -63786,13 +63786,13 @@
    "Name": "",
    "Description": "There is a new axis of evil: ____, ____, and ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "There is a new axis of evil: ____, ____, and ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: US post-9/11 political phrase; invites hate."
   },
   {
    "id": "game5-4908",
@@ -63864,26 +63864,26 @@
    "Name": "",
    "Description": "It’s just ____ and then you die.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "It’s just ____ and then you die.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Morbid afterlife-leaning weak prompt."
   },
   {
    "id": "game5-4914",
    "Name": "",
    "Description": "There is no way I'm going near Lyari. I might run into ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "There is no way I'm going near Lyari. I might run into ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Stereotypes a real neighbourhood."
   },
   {
    "id": "game5-4915",
@@ -63903,13 +63903,13 @@
    "Name": "",
    "Description": "There is nothing worse than seeing ____ in the light of day.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "There is nothing worse than seeing ____ in the light of day.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Walk-of-shame framing invites crude answers."
   },
   {
    "id": "game5-4917",
@@ -63992,7 +63992,7 @@
   {
    "id": "game5-4923",
    "Name": "",
-   "Description": "There'll be ____ at my frenemy's rooftop BBQ.",
+   "Description": "There'll be ____ at my frenemy's rooftop barbecue.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -64000,7 +64000,7 @@
     "Description": "There'll be ____ at my frenemy's backyard BBQ.",
     "Category": ""
    },
-   "note": "backyard -> rooftop"
+   "note": "backyard -> rooftop; Debate: Spelling fix."
   },
   {
    "id": "game5-4924",
@@ -64358,13 +64358,13 @@
    "Name": "",
    "Description": "These guys are ready for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "These guys are ready for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Needs a picture; unplayable."
   },
   {
    "id": "game5-4952",
@@ -64423,13 +64423,13 @@
    "Name": "",
    "Description": "They may take our lives, but they will never take our ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "They may take our lives, but they will never take our ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Braveheart quote; Western pop culture."
   },
   {
    "id": "game5-4957",
@@ -64969,26 +64969,26 @@
    "Name": "",
    "Description": "This is my rifle. There are many like it but this one is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "This is my rifle. There are many like it but this one is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Western film quote."
   },
   {
    "id": "game5-4999",
    "Name": "",
    "Description": "This is the dawning of the Age of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "This is the dawning of the Age of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Astrology/song reference."
   },
   {
    "id": "game5-5000",
@@ -65019,15 +65019,15 @@
   {
    "id": "game5-5002",
    "Name": "",
-   "Description": "This is your pilot speaking. Please prepare for ____.",
+   "Description": "Don't worry Ami, that mark on my arm is just from ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "This is your pilot speaking. Please prepare for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Original is hickey innuendo; the proposed edit kept the same text, so reframed as a parent-excuse prompt."
   },
   {
    "id": "game5-5003",
@@ -102053,6 +102053,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Army in-joke that is not the same as 3136 or 7859."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The darzi measured me once and quietly said ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local tailor prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Why is there ____ in the freezer next to the leftover qorma?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable household prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The teacher's punishment for talking in class: write \"I will never ____\" 100 times.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean school prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mechanic opened the bonnet, sighed, and pulled out ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Playable, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Our electricity bill was so high this month that Abbu sold ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable local prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Board exam week at home means no ____ and extra ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable two-blank prompt."
   }
  ]
 }
