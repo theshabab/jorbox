@@ -10579,10 +10579,10 @@
   {
    "id": null,
    "Name": "Lizard",
-   "Description": "Chhipkali | Wall | Tail | Insects | Crawl",
+   "Description": "Chhipkali | Wall | Tail | Ceiling | Crawl",
    "Category": "Animals",
    "action": "add",
-   "note": "New card (debate): A house creature every Pakistani player knows; not in the deck."
+   "note": "New card (debate): A house creature every Pakistani player knows; not in the deck.; Debate: 'Ceiling' is a likelier clue for the household chhipkali than 'Insects'."
   },
   {
    "id": null,
@@ -11063,6 +11063,78 @@
    "Category": "Occupations",
    "action": "add",
    "note": "New card (debate): Local occupation fitting the Dhobi/Mochi/Doodhwala set; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Maghrib",
+   "Description": "Sunset | Namaz | Three Rakat | Iftar | Shaam",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Accurate prayer card (three fard rakat at sunset, iftar time) to go with Fajr; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Pakora",
+   "Description": "Besan | Fried | Baarish | Iftar | Pyaz",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Staple snack that is only a banned word elsewhere; bans are the obvious clues."
+  },
+  {
+   "id": null,
+   "Name": "Dahi Bhallay",
+   "Description": "Dahi | Phulki | Imli | Chaat | Iftar",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Classic iftar and street dish; only 'Dahi Baray' appears as a ban on Chaat Masala."
+  },
+  {
+   "id": null,
+   "Name": "Raddi Wala",
+   "Description": "Akhbar | Kilo | Scrap | Bottles | Thela",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Familiar local occupation not in the deck; bans match the obvious clues."
+  },
+  {
+   "id": null,
+   "Name": "Remote",
+   "Description": "TV | Buttons | Channel | Batteries | Sofa",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Everyday object that is easy to act out; only a banned word on TV."
+  },
+  {
+   "id": null,
+   "Name": "Mongoose",
+   "Description": "Neola | Snake | Fight | Brown | Quick",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Well-known local animal (neola vs. snake shows); not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Muhammad Ali Jinnah",
+   "Description": "Quaid-e-Azam | Founder | Pakistan | Karachi | 1947",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Founder of Pakistan has no card of his own (Mazar-e-Quaid is a different card); challenger's amendment bans the most obvious clue 'Pakistan' instead of the weak 'Topi'."
+  },
+  {
+   "id": null,
+   "Name": "Liaquat Ali Khan",
+   "Description": "First | Prime Minister | Rawalpindi | Shaheed-e-Millat | Quaid",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate: first Prime Minister, assassinated in Rawalpindi in 1951, titled Shaheed-e-Millat; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Istanbul",
+   "Description": "Turkey | Ottoman | Constantinople | Bosphorus | Hagia Sophia",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Major Muslim-world city that is only a banned word elsewhere; bans are accurate."
   }
  ]
 }

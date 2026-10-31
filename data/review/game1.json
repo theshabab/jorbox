@@ -9496,7 +9496,7 @@
   {
    "id": "game1-731",
    "Name": "Imam Muslim",
-   "Description": "Compiler of the second Sahih",
+   "Description": "Bukhari's student who compiled the second Sahih",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9504,7 +9504,7 @@
     "Description": "Hadith compiler",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: More specific and accurate: Imam Muslim studied under Imam Bukhari, and Sahih Muslim is conventionally ranked second."
   },
   {
    "id": "game1-732",
@@ -9740,10 +9740,10 @@
   {
    "id": null,
    "Name": "Doodh Patti",
-   "Description": "Tea brewed in milk",
+   "Description": "Tea leaves boiled in milk only, no water",
    "Category": "Beverages",
    "action": "add",
-   "note": "Same new card as Charades"
+   "note": "Same new card as Charades; Debate: Names what sets doodh patti apart from ordinary chai: leaves boiled in milk with no water."
   },
   {
    "id": null,
@@ -10188,10 +10188,10 @@
   {
    "id": null,
    "Name": "Generator",
-   "Description": "Petrol engine power during loadshedding",
+   "Description": "Noisy petrol machine powering homes in loadshedding",
    "Category": "Electronics",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Fixes the awkward grammar of \"Petrol engine power during loadshedding\"."
   },
   {
    "id": null,
@@ -10364,10 +10364,10 @@
   {
    "id": null,
    "Name": "Itikaf",
-   "Description": "Seclusion in the masjid during Ramadan's last ten",
+   "Description": "Masjid seclusion in Ramadan's last ten days",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Finish the incomplete phrase \"last ten\". I'tikaf is conventionally described as the last ten days of Ramadan, and this wording is shorter (challenger's amendment)."
   },
   {
    "id": null,

@@ -11159,6 +11159,62 @@
    "Description": "100 mph (he was clocked at 161.3 km/h)",
    "action": "add",
    "note": "New card (debate): Pakistani sports record. Uses the challenger's amended answer, which keeps the 100 mph threshold separate from his actual 161.3 km/h delivery."
+  },
+  {
+   "id": null,
+   "Name": "Which Ottoman chief architect designed Istanbul's Süleymaniye Mosque?",
+   "Description": "Mimar Sinan",
+   "action": "add",
+   "note": "New card (debate): Accurate (Süleymaniye, 1550-57). No Sinan or Süleymaniye card is live in the deck."
+  },
+  {
+   "id": null,
+   "Name": "The Ottoman Empire takes its name from which founder?",
+   "Description": "Osman I (Osman Ghazi)",
+   "action": "add",
+   "note": "New card (debate): Accurate. The live Ottoman cards (Bursa, Edirne, 1453, Suleiman, Barbarossa) ask different questions."
+  },
+  {
+   "id": null,
+   "Name": "In Nintendo's Super Mario games, what is Mario's job?",
+   "Description": "Plumber",
+   "action": "add",
+   "note": "New card (debate): The owner allows video games. The answer is easy and accurate, and no live Mario card exists."
+  },
+  {
+   "id": null,
+   "Name": "Which company makes the Xbox games console?",
+   "Description": "Microsoft",
+   "action": "add",
+   "note": "New card (debate): Accurate. No live Xbox card exists."
+  },
+  {
+   "id": null,
+   "Name": "In 2004, which 9-year-old Pakistani girl from Faisalabad became the world's youngest Microsoft Certified Professional?",
+   "Description": "Arfa Karim (Arfa Karim Randhawa)",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani tech-pride fact. No live card is about her."
+  },
+  {
+   "id": null,
+   "Name": "What is the hardest substance in the human body?",
+   "Description": "Tooth enamel",
+   "action": "add",
+   "note": "New card (debate): Accurate. It has a different answer from the live 'hardest natural substance: diamond' card."
+  },
+  {
+   "id": null,
+   "Name": "How many times do pilgrims go around the Kaaba in one tawaf?",
+   "Description": "Seven",
+   "action": "add",
+   "note": "New card (debate): Accurate. No live tawaf card exists, and the Safa-Marwah and Kiswah cards ask different questions."
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet, together with his son Ismail (AS), raised the foundations of the Kaaba?",
+   "Description": "Ibrahim (AS)",
+   "action": "add",
+   "note": "New card (debate): Accurate (Quran 2:127). The live Khalilullah and Eid al-Adha cards ask different questions."
   }
  ]
 }

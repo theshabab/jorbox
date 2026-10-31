@@ -701,7 +701,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-699','game1','Tariq ibn Ziyad','Landed in Spain in 711; Gibraltar named after him','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-700','game1','Umar ibn Abdul Aziz','Pious Umayyad caliph, called the fifth rightly guided','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-701','game1','Imam Bukhari','Compiled the most authentic hadith collection','Muslim Historical Figures');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-702','game1','Imam Muslim','Compiler of the second Sahih','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-702','game1','Imam Muslim','Bukhari''s student who compiled the second Sahih','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-703','game1','Imam Abu Hanifa','Founder of the Hanafi school','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-704','game1','Imam Malik','Medina jurist, author of the Muwatta','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-705','game1','Imam Shafi','Jurist who wrote Al-Risala','Muslim Historical Figures');
@@ -724,7 +724,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-722','game1','Azan','The call to prayer','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-723','game1','Tawaf','Circling the Kaaba seven times','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-724','game1','Sugarcane Juice','Sweet ganne ka ras, pressed fresh','Beverages');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-725','game1','Doodh Patti','Tea brewed in milk','Beverages');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-725','game1','Doodh Patti','Tea leaves boiled in milk only, no water','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-726','game1','Markhor','Pakistan''s national animal with spiral horns','Animals');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-727','game1','Lizard','Chhipkali that crawls on walls','Animals');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-728','game1','Corn','Bhutta, roasted on coals by street vendors','Vegetables');
@@ -775,7 +775,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-773','game1','Takhti','Wooden writing board coated with gaachni','Stationery');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-774','game1','Eyebrow','Bhaun; arch of hair above the ankh','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-775','game1','Heart','Dil; organ that pumps blood','Body Parts');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-776','game1','Generator','Petrol engine power during loadshedding','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-776','game1','Generator','Noisy petrol machine powering homes in loadshedding','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-777','game1','UPS','Battery backup that beeps in loadshedding','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-778','game1','Washing Machine','Appliance that spins and cleans kapray','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-779','game1','Rainbow','Dhanak; seven-colored arc in the sky','Nature');
@@ -797,7 +797,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-795','game1','Jummah','Friday congregational prayer with khutbah','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-796','game1','Taraweeh','Night prayers in Ramadan after Isha','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-797','game1','Laylat al-Qadr','Night better than a thousand months','Islamic Terms');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-798','game1','Itikaf','Seclusion in the masjid during Ramadan''s last ten','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-798','game1','Itikaf','Masjid seclusion in Ramadan''s last ten days','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-799','game1','Abu Dharr al-Ghifari','Truthful Companion who died alone at Rabadhah','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-800','game1','Mus''ab ibn Umair','First envoy to Madinah; martyred at Uhud','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-801','game1','Abu Ayyub al-Ansari','Hosted the Prophet in Madinah; buried in Istanbul','Sahaba');
@@ -1696,7 +1696,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-815','game2','Stove','Chulha | Gas | Burner | Flame | Cook','Kitchen Items');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-816','game2','Thermos','Flask | Hot | Chai | Travel | Bottle','Kitchen Items');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-817','game2','Moodha','Stool | Cane | Reed | Round | Sit','Furniture');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-818','game2','Lizard','Chhipkali | Wall | Tail | Insects | Crawl','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-818','game2','Lizard','Chhipkali | Wall | Tail | Ceiling | Crawl','Animals');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-819','game2','Bat','Chamgadar | Night | Upside Down | Cave | Wings','Animals');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-820','game2','Hoopoe','Hudhud | Sulaiman | Crown | Bird | Saba','Birds');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-821','game2','Giraffe','Zarafa | Long Neck | Tall | Spots | Africa','Animals');
@@ -1757,6 +1757,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-876','game2','Prayer Mat','Jaye Namaz | Musalla | Sajda | Qibla | Carpet','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-877','game2','Halwai','Mithai | Jalebi | Halwa | Sweets | Karahi','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-878','game2','Naanbai','Tandoor | Naan | Roti | Oven | Garam','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-879','game2','Maghrib','Sunset | Namaz | Three Rakat | Iftar | Shaam','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-880','game2','Pakora','Besan | Fried | Baarish | Iftar | Pyaz','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-881','game2','Dahi Bhallay','Dahi | Phulki | Imli | Chaat | Iftar','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-882','game2','Raddi Wala','Akhbar | Kilo | Scrap | Bottles | Thela','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-883','game2','Remote','TV | Buttons | Channel | Batteries | Sofa','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-884','game2','Mongoose','Neola | Snake | Fight | Brown | Quick','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-885','game2','Muhammad Ali Jinnah','Quaid-e-Azam | Founder | Pakistan | Karachi | 1947','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-886','game2','Liaquat Ali Khan','First | Prime Minister | Rawalpindi | Shaheed-e-Millat | Quaid','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-887','game2','Istanbul','Turkey | Ottoman | Constantinople | Bosphorus | Hagia Sophia','Islamic Locations');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game3','Jasoosi Club',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1','game3','Pakistani Cities','Karachi|Lahore|Islamabad|Rawalpindi|Faisalabad|Multan|Peshawar|Quetta|Sialkot|Gujranwala|Hyderabad|Abbottabad|Bahawalpur|Sargodha|Sukkur|Larkana|Sheikhupura|Jhelum|Rahim Yar Khan|Mardan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-2','game3','Islamic Prophets','Adam|Idris|Nuh|Hud|Saleh|Ibrahim|Lut|Ismail|Ishaq|Yaqub|Yusuf|Ayyub|Shuaib|Musa|Harun|Dawud|Sulaiman|Ilyas|Yunus|Isa','');
@@ -12853,6 +12862,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-850','game9','The wireless technology Bluetooth is named after a 10th-century king of which country?','Denmark','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-851','game9','Which mango variety, loved across Pakistan, is said to take its name from the place where Sher Shah Suri defeated Humayun in 1539?','Chaunsa','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-852','game9','At the 2003 Cricket World Cup, Shoaib Akhtar became the first bowler officially recorded bowling faster than what speed?','100 mph (he was clocked at 161.3 km/h)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-853','game9','Which Ottoman chief architect designed Istanbul''s Süleymaniye Mosque?','Mimar Sinan','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-854','game9','The Ottoman Empire takes its name from which founder?','Osman I (Osman Ghazi)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-855','game9','In Nintendo''s Super Mario games, what is Mario''s job?','Plumber','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-856','game9','Which company makes the Xbox games console?','Microsoft','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-857','game9','In 2004, which 9-year-old Pakistani girl from Faisalabad became the world''s youngest Microsoft Certified Professional?','Arfa Karim (Arfa Karim Randhawa)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-858','game9','What is the hardest substance in the human body?','Tooth enamel','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-859','game9','How many times do pilgrims go around the Kaaba in one tawaf?','Seven','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-860','game9','Which Prophet, together with his son Ismail (AS), raised the foundations of the Kaaba?','Ibrahim (AS)','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game10','Aik Rangi Soch',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-1','game10','Name a fruit that is yellow.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-2','game10','What is the best flavor of ice cream?','','');

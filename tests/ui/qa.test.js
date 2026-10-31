@@ -229,7 +229,7 @@ test('a reload keeps the shuffled order and position; reshuffle starts again', a
     before,
   );
   await button(page, 'Reshuffle').click();
-  assert.equal(await position(page), '1 / 852');
+  assert.equal(await position(page), '1 / 860');
   await close();
 });
 

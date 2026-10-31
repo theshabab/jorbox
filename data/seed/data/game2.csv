@@ -816,7 +816,7 @@ Mortar and Pestle,Hamam Dasta | Kunda | Pound | Crush | Masala,Kitchen Items
 Stove,Chulha | Gas | Burner | Flame | Cook,Kitchen Items
 Thermos,Flask | Hot | Chai | Travel | Bottle,Kitchen Items
 Moodha,Stool | Cane | Reed | Round | Sit,Furniture
-Lizard,Chhipkali | Wall | Tail | Insects | Crawl,Animals
+Lizard,Chhipkali | Wall | Tail | Ceiling | Crawl,Animals
 Bat,Chamgadar | Night | Upside Down | Cave | Wings,Animals
 Hoopoe,Hudhud | Sulaiman | Crown | Bird | Saba,Birds
 Giraffe,Zarafa | Long Neck | Tall | Spots | Africa,Animals
@@ -877,3 +877,12 @@ Ihram,White | Unstitched | Hajj | Umrah | Cloth,Islamic Terms
 Prayer Mat,Jaye Namaz | Musalla | Sajda | Qibla | Carpet,Islamic Terms
 Halwai,Mithai | Jalebi | Halwa | Sweets | Karahi,Occupations
 Naanbai,Tandoor | Naan | Roti | Oven | Garam,Occupations
+Maghrib,Sunset | Namaz | Three Rakat | Iftar | Shaam,Islamic Terms
+Pakora,Besan | Fried | Baarish | Iftar | Pyaz,Traditional Dishes
+Dahi Bhallay,Dahi | Phulki | Imli | Chaat | Iftar,Traditional Dishes
+Raddi Wala,Akhbar | Kilo | Scrap | Bottles | Thela,Occupations
+Remote,TV | Buttons | Channel | Batteries | Sofa,Electronics
+Mongoose,Neola | Snake | Fight | Brown | Quick,Animals
+Muhammad Ali Jinnah,Quaid-e-Azam | Founder | Pakistan | Karachi | 1947,Muslim Historical Figures
+Liaquat Ali Khan,First | Prime Minister | Rawalpindi | Shaheed-e-Millat | Quaid,Muslim Historical Figures
+Istanbul,Turkey | Ottoman | Constantinople | Bosphorus | Hagia Sophia,Islamic Locations
