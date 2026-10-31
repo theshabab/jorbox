@@ -7285,16 +7285,16 @@
   },
   {
    "id": "game8-561",
-   "Name": "Brilliant <---> Stupid",
+   "Name": "Brilliant idea <---> Stupid idea",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Brilliant <---> Stupid",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Scoping to ideas keeps players from rating people as stupid; not a duplicate of 497."
   },
   {
    "id": "game8-562",
@@ -7340,13 +7340,13 @@
    "Name": "Popular <---> Unpopular",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Popular <---> Unpopular",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Means the same as 550 'Popular activity <---> Unpopular activity' in the same format. Only 550 is a true duplicate; 136 and 474 are not."
   },
   {
    "id": "game8-566",
@@ -7740,16 +7740,16 @@
   },
   {
    "id": "game8-596",
-   "Name": "Well known fact <---> Little known fact",
+   "Name": "Well-known fact <---> Little-known fact",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Well known fact <---> Little known fact",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Adds the hyphens these compound adjectives need."
   },
   {
    "id": "game8-597",
@@ -7831,20 +7831,20 @@
   },
   {
    "id": "game8-603",
-   "Name": "True <---> False",
+   "Name": "Definitely true <---> Total myth",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "True <---> False",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: 'True <---> False' is close to a yes/no choice. This gives a real scale for old wives' tales and WhatsApp forwards (challenger's amended version)."
   },
   {
    "id": "game8-604",
-   "Name": "Ahead of its time <---> Old fashioned",
+   "Name": "Ahead of its time <---> Old-fashioned",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
    "action": "edit",
@@ -7853,7 +7853,7 @@
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": "\"avant garde\" too obscure"
+   "note": "\"avant garde\" too obscure; Debate: Adds the hyphen 'Old-fashioned' needs."
   },
   {
    "id": "game8-605",
@@ -9134,6 +9134,70 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): New drawing card: fits the slice's bird theme with a local touch."
+  },
+  {
+   "id": null,
+   "Name": "Overrated city <---> Underrated city",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fits the existing overrated/underrated set, starts Pakistani city debates, and is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Easiest part of Ramadan <---> Hardest part of Ramadan",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A respectful, relatable worship-related scale with true opposite ends (challenger's amended version). Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Green flag in a rishta <---> Red flag in a rishta",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family-friendly rishta humour. The deck's rishta cards are all profile-writing tasks, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Safe street food <---> Risky street food",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local food scale with clear opposite ends; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Best part of Eid <---> Worst part of Eid",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable Eid humour (Eidi, relatives' questions). It is about parts of the day, not religious practice, and differs from 493 and the Eid naming cards."
+  },
+  {
+   "id": null,
+   "Name": "Must-have on a road trip <---> Useless on a road trip",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family road-trip scale with clear opposite ends; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Worth queuing for <---> Not worth queuing for",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Invites good debate (nihari, NADRA, phone launches); not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Good family WhatsApp group habit <---> Annoying family WhatsApp group habit",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Social media is allowed and every desi family relates. The deck has no such scale."
   }
  ]
 }

@@ -6082,9 +6082,9 @@
   {
    "id": null,
    "Name": "Customer",
-   "Description": "Numberdar",
+   "Description": "Numberdar (Village Headman)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Rural role many urban/diaspora players won't know; gloss matches Mochi (Cobbler) style."
   },
   {
    "id": null,
@@ -6400,6 +6400,55 @@
    "Description": "My phuppo always finds out about _____ before anyone else!",
    "action": "add",
    "note": "New card (debate): A gossip-network angle that is different from 'I can't believe my phuppo said _____!'."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Lady Health Worker",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani figure (polio drives); no duplicate in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Raj Mistri (Mason)",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: 'Raj Mistri' unambiguously means mason, avoiding overlap with Car Mechanic/Electrician/Plumber."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Office Boy",
+   "action": "add",
+   "note": "New card (debate): Familiar desi workplace figure; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bhutta Wala (Corn Seller)",
+   "action": "add",
+   "note": "New card (debate): Recognisable street seller; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The sehri dhol wala always wakes up my _____!",
+   "action": "add",
+   "note": "New card (debate): Authentic Ramadan custom; existing Sehri card is about food, not the wake-up drummer."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The shaadi hall closes at 10 PM, right before _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: '10 PM' makes the real wedding-hall curfew clear; distinct from 'Every shaadi lasts too long'."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Surprise mehmaan always show up right when I _____!",
+   "action": "add",
+   "note": "New card (debate): Unannounced guests differ from 'My mehmaan never leave before _____!'; verb-clause blanks are already used in the deck."
   }
  ]
 }

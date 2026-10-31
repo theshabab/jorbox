@@ -501,7 +501,7 @@ Cutter,Sharp blade for cutting paper or boxes,Tools
 Torch,Handheld light for the dark,Tools
 Brush,Bristled tool for sweeping or scrubbing,Tools
 Cotton,Breathable plant fibre for summer clothes,Fabrics
-Silk,Shiny fabric made by worms,Fabrics
+Silk,"Shiny, smooth fabric spun from cocoons",Fabrics
 Wool,Warm fibre from sheep,Fabrics
 Lawn,"Light, printed summer fabric for suits",Fabrics
 Linen,Crisp fabric made from flax,Fabrics
@@ -546,7 +546,7 @@ Doodh Soda,Milk mixed with fizzy lemon-lime,Beverages
 Cold Drink,Fizzy bottled soft beverage,Beverages
 Energy Drink,Caffeinated can for staying awake,Beverages
 Soup,"Hot liquid dish, eaten with spoon",Beverages
-Broth,Clear stock from boiled bones,Beverages
+Broth,Yakhni: clear stock from boiled meat,Beverages
 Cocoa,Hot chocolate drink,Beverages
 Gulab Jamun,Fried milk balls in sugar syrup,Desserts
 Barfi,Dense milk fudge cut in squares,Desserts
@@ -572,7 +572,7 @@ Patisa,"Flaky gram-flour sweet, like soan papdi",Desserts
 Kalakand,Grainy sweet made from milk,Desserts
 Zarda,Sweet yellow rice with nuts,Desserts
 Sheer Khurma,"Eid dessert of milk, vermicelli and dates",Desserts
-Sawaiyan,Sweet vermicelli cooked for Eid,Desserts
+Sawaiyan,"Thin roasted vermicelli, cooked sweet for Eid",Desserts
 Mother,Ammi: a female parent,Family Relations
 Father,Abbu: a male parent,Family Relations
 Brother,A male sibling,Family Relations
@@ -590,12 +590,12 @@ Husband,A male spouse,Family Relations
 Wife,A female spouse,Family Relations
 Father-in-law,Sasur: your spouse's dad,Family Relations
 Mother-in-law,Saas: your spouse's mum,Family Relations
-Brother-in-law,Sister's husband or spouse's male sibling,Family Relations
-Sister-in-law,Brother's wife or spouse's female sibling,Family Relations
-Step-mother,Father's wife who is not your birth parent,Family Relations
-Step-father,Mother's husband who is not your birth parent,Family Relations
-Grandson,Pota or Nawasa: a child's boy,Family Relations
-Granddaughter,Poti or Nawasi: a child's girl,Family Relations
+Brother-in-law,"Behnoi, devar or saala",Family Relations
+Sister-in-law,"Bhabhi, nand or saali",Family Relations
+Step-mother,"Sauteli maa: father's wife, not birth mother",Family Relations
+Step-father,"Sautela baap: mother's husband, not birth father",Family Relations
+Grandson,Pota or Nawasa: your child's son,Family Relations
+Granddaughter,Poti or Nawasi: your child's daughter,Family Relations
 Ancestor,Forefather from generations ago,Family Relations
 Relative,Any member of your extended family,Family Relations
 Abu Bakr,First Caliph of Islam,Sahaba

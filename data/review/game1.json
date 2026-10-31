@@ -6662,7 +6662,7 @@
   {
    "id": "game1-513",
    "Name": "Silk",
-   "Description": "Shiny fabric made by worms",
+   "Description": "Shiny, smooth fabric spun from cocoons",
    "Category": "Fabrics",
    "action": "edit",
    "original": {
@@ -6670,7 +6670,7 @@
     "Description": "A luxurious fabric",
     "Category": "Fabrics"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Silkworms are caterpillars; the cocoon hint is accurate and clearer."
   },
   {
    "id": "game1-514",
@@ -7260,7 +7260,7 @@
   {
    "id": "game1-559",
    "Name": "Broth",
-   "Description": "Clear stock from boiled bones",
+   "Description": "Yakhni: clear stock from boiled meat",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7268,7 +7268,7 @@
     "Description": "A liquid food",
     "Category": "Beverages"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the familiar local word; broth is made from meat, not only bones."
   },
   {
    "id": "game1-560",
@@ -7611,7 +7611,7 @@
   {
    "id": "game1-586",
    "Name": "Sawaiyan",
-   "Description": "Sweet vermicelli cooked for Eid",
+   "Description": "Thin roasted vermicelli, cooked sweet for Eid",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7619,7 +7619,7 @@
     "Description": "A vermicelli dessert",
     "Category": "Desserts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Separates the hint from Sheer Khurma (584), which was nearly identical."
   },
   {
    "id": "game1-587",
@@ -7845,7 +7845,7 @@
   {
    "id": "game1-604",
    "Name": "Brother-in-law",
-   "Description": "Sister's husband or spouse's male sibling",
+   "Description": "Behnoi, devar or saala",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7853,12 +7853,12 @@
     "Description": "Spouse's brother",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Familiar local terms, matching the style of Grandfather/Grandmother hints."
   },
   {
    "id": "game1-605",
    "Name": "Sister-in-law",
-   "Description": "Brother's wife or spouse's female sibling",
+   "Description": "Bhabhi, nand or saali",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7866,12 +7866,12 @@
     "Description": "Spouse's sister",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Familiar local terms, short and accurate."
   },
   {
    "id": "game1-606",
    "Name": "Step-mother",
-   "Description": "Father's wife who is not your birth parent",
+   "Description": "Sauteli maa: father's wife, not birth mother",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7879,12 +7879,12 @@
     "Description": "Father's wife",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the standard Urdu term and tightens the wording."
   },
   {
    "id": "game1-607",
    "Name": "Step-father",
-   "Description": "Mother's husband who is not your birth parent",
+   "Description": "Sautela baap: mother's husband, not birth father",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7892,12 +7892,12 @@
     "Description": "Mother's husband",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the standard Urdu term and tightens the wording."
   },
   {
    "id": "game1-608",
    "Name": "Grandson",
-   "Description": "Pota or Nawasa: a child's boy",
+   "Description": "Pota or Nawasa: your child's son",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7905,12 +7905,12 @@
     "Description": "A child's son",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: 'A child's boy' is awkward; 'your child's son' is clear and accurate."
   },
   {
    "id": "game1-609",
    "Name": "Granddaughter",
-   "Description": "Poti or Nawasi: a child's girl",
+   "Description": "Poti or Nawasi: your child's daughter",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7918,7 +7918,7 @@
     "Description": "A child's daughter",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: 'A child's girl' is awkward; 'your child's daughter' is clear and accurate."
   },
   {
    "id": "game1-610",
