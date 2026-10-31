@@ -1397,7 +1397,7 @@
   {
    "id": "game8-108",
    "Name": "HAPPY TEEN <---> ANGSTY TEEN",
-   "Description": "Write an excuse for being late that is this likely to come from an angsty teen",
+   "Description": "Write an excuse for being late that sounds this much like an angsty teen",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -1405,7 +1405,7 @@
     "Description": "Write an excuse for being late that is this likely to have been written by an angsty teen",
     "Category": "Writing"
    },
-   "note": "wording"
+   "note": "wording; Debate: Clearer, less clunky wording that matches the scale."
   },
   {
    "id": "game8-109",
@@ -1490,13 +1490,13 @@
    "Name": "MORTAL <---> TOTAL VAMPIRE",
    "Description": "Make up a name for a person who is this likely to be a vampire",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "MORTAL <---> TOTAL VAMPIRE",
     "Description": "Make up a name for a person who is this likely to be a vampire",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of card 110 (vampire catchphrase) and the vampire company logo card."
   },
   {
    "id": "game8-116",
@@ -1607,13 +1607,13 @@
    "Name": "ARTIFICIAL <---> ALL-NATURAL",
    "Description": "Make up a name for a perfume that smells this all-natural",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "ARTIFICIAL <---> ALL-NATURAL",
     "Description": "Make up a name for a perfume that smells this all-natural",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: The weakest and least guessable of many perfume-name cards."
   },
   {
    "id": "game8-125",
@@ -1721,16 +1721,16 @@
   },
   {
    "id": "game8-133",
-   "Name": "NOT FIT <---> VERY FIT",
+   "Name": "COUCH POTATO <---> GYM FANATIC",
    "Description": "Make up a nickname for a person who is this fitness conscious",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT FIT <---> VERY FIT",
     "Description": "Make up a nickname for a person who is this fitness conscious",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Scale ends match the task (fitness consciousness) and are clearer opposites."
   },
   {
    "id": "game8-134",
@@ -1773,16 +1773,16 @@
   },
   {
    "id": "game8-137",
-   "Name": "VERY UNPOPULAR <---> VERY POPULAR",
+   "Name": "ANIMAL LOVERS HATE IT <---> ANIMAL LOVERS LOVE IT",
    "Description": "Make up a title for a book that is this popular with animal lovers",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "VERY UNPOPULAR <---> VERY POPULAR",
     "Description": "Make up a title for a book that is this popular with animal lovers",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: The generic scale did not say popular with whom; the ends now match the task."
   },
   {
    "id": "game8-138",
@@ -1981,16 +1981,16 @@
   },
   {
    "id": "game8-153",
-   "Name": "NOT LIKELY <---> SENIOR HOME",
-   "Description": "Make up a name for a facility that is this likely to be a senior home",
+   "Name": "NOT LIKELY <---> OLD AGE HOME",
+   "Description": "Make up a name for a building that is this likely to be an old age home",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT LIKELY <---> SENIOR HOME",
     "Description": "Make up a name for a facility that is this likely to be a senior home",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Pakistani English says 'old age home', not the US 'senior home'; 'building' is less clunky than 'facility'."
   },
   {
    "id": "game8-154",
@@ -2059,7 +2059,7 @@
   },
   {
    "id": "game8-159",
-   "Name": "SOME PERSON <---> POET",
+   "Name": "NOT A POET <---> CLASSICAL URDU POET",
    "Description": "Make up a name for a person who is this likely to be a classical Urdu poet",
    "Category": "Writing",
    "action": "edit",
@@ -2068,7 +2068,7 @@
     "Description": "Make up a name for a person who is this likely to be a classical poet",
     "Category": "Writing"
    },
-   "note": "localised"
+   "note": "localised; Debate: 'SOME PERSON' is not an opposite of POET; the new ends are clear and match the task."
   },
   {
    "id": "game8-160",
@@ -2567,15 +2567,15 @@
   {
    "id": "game8-198",
    "Name": "COMMON <---> ROYALTY",
-   "Description": "Write the first line of a rishta profile for someone that is this likely to be royalty",
+   "Description": "Write the first line of a rishta profile for someone who is this likely to be royalty",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "COMMON <---> ROYALTY",
     "Description": "Write the first line of a rishta profile for someone that is this likely to be royalty",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Grammar fix: 'who' for a person."
   },
   {
    "id": "game8-199",
@@ -2634,13 +2634,13 @@
    "Name": "AHMEDS HATE IT <---> AHMEDS LOVE IT",
    "Description": "Make up a name for a cologne that is this popular with people named Ahmed",
    "Category": "Writing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "BRADS HATE IT <---> BRADS LOVE IT",
     "Description": "Make up a name for a cologne that is this popular with people named Brad",
     "Category": "Writing"
    },
-   "note": "localised US-only name"
+   "note": "Debate: The scale is arbitrary and can't be guessed, it may single out a real player, and it adds to the perfume overload."
   },
   {
    "id": "game8-204",
@@ -2723,7 +2723,7 @@
   {
    "id": "game8-210",
    "Name": "1/2 STAR <---> 5 STARS",
-   "Description": "Make up a name for a perfume that your nani would give this many stars",
+   "Description": "Make up a name for a chai blend that your nani would give this many stars",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -2731,12 +2731,12 @@
     "Description": "Make up a name for a perfume that would get this many stars on OldLadyThings.com",
     "Category": "Writing"
    },
-   "note": "removed US website reference"
+   "note": "removed US website reference; Debate: Cuts down the perfume overload and keeps the nani joke. No existing chai card is about rating a blend."
   },
   {
    "id": "game8-211",
    "Name": "NOT GRUMPY <---> SUPER GRUMPY",
-   "Description": "Make up a name for a perfume that is this likely to be worn by a grumpy old uncle",
+   "Description": "Make up a name for an attar worn by an uncle who is this grumpy",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -2744,7 +2744,7 @@
     "Description": "Make up a name for a perfume that is this likely to be worn by Oscar the Grouch",
     "Category": "Writing"
    },
-   "note": "removed TV character (Oscar the Grouch)"
+   "note": "removed TV character (Oscar the Grouch); Debate: Local attar, and the task now matches the scale (how grumpy the uncle is)."
   },
   {
    "id": "game8-212",
@@ -9342,6 +9342,38 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): New school card; it does not overlap with the speech-length or good/bad-speech cards."
+  },
+  {
+   "id": null,
+   "Name": "FRIENDLY GAME <---> WORLD WAR",
+   "Description": "Write a line said during a family game of ludo that is this competitive",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Familiar family scene. No ludo card exists, and it is a different task from the sore-loser nickname card."
+  },
+  {
+   "id": null,
+   "Name": "BARELY MOVING <---> JET PLANE",
+   "Description": "Make up a nickname for a rickshaw driver who drives this fast",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Existing rickshaw cards cover decoration and slogans, not speed; the nickname format fits."
+  },
+  {
+   "id": null,
+   "Name": "STALE <---> FRESH FROM THE TANDOOR",
+   "Description": "Draw a naan that looks this fresh",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Simple, guessable local food drawing; the deck has no naan or tandoor card."
+  },
+  {
+   "id": null,
+   "Name": "SOFTIE <---> STRICTEST IN SCHOOL",
+   "Description": "Write a line a teacher says on the first day of class that is this strict",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable, and the deck has no strict-teacher writing card (only a strict-boss nickname card and teacher drawing cards)."
   }
  ]
 }

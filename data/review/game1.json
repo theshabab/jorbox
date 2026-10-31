@@ -253,7 +253,7 @@
   {
    "id": "game1-20",
    "Name": "Jhelum",
-   "Description": "Punjab city on its namesake river",
+   "Description": "Punjab city of soldiers, near Rohtas Fort",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -261,7 +261,7 @@
     "Description": "A city in Pakistan",
     "Category": "Pakistani Cities"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The old hint just restated the name. Jhelum's army tradition and Rohtas Fort are accurate clues that point to the city."
   },
   {
    "id": "game1-21",
@@ -513,7 +513,7 @@
   {
    "id": "game1-40",
    "Name": "Aloo Gosht",
-   "Description": "Everyday mutton curry with potatoes",
+   "Description": "Everyday meat curry with potatoes",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -521,7 +521,7 @@
     "Description": "A traditional potato and meat curry",
     "Category": "Traditional Dishes"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Aloo gosht is made with beef or mutton, so 'meat' is more accurate."
   },
   {
    "id": "game1-41",
@@ -812,7 +812,7 @@
   {
    "id": "game1-63",
    "Name": "Anise",
-   "Description": "Liquorice-flavoured seeds, anisoon, saunf's cousin",
+   "Description": "Liquorice-flavoured seeds, anisoon; like saunf",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -820,7 +820,7 @@
     "Description": "An aromatic spice",
     "Category": "Spices"
    },
-   "note": "Specific hint; Debate: Uses the correct Urdu name (anisoon). Saunf is fennel, so it stays only as a comparison."
+   "note": "Specific hint; Debate: Uses the correct Urdu name (anisoon). Saunf is fennel, so it stays only as a comparison.; Debate: Reads more cleanly. Kept the proposer's version: 'like saunf' is an accurate taste comparison. The challenger's 'star-shaped cousin' is wrong, because aniseed is not star-shaped (star anise is a different plant)."
   },
   {
    "id": "game1-64",
@@ -9824,6 +9824,94 @@
    "Category": "Furniture",
    "action": "add",
    "note": "New card (debate): Traditional Pakistani furniture, distinct from charpai."
+  },
+  {
+   "id": null,
+   "Name": "Ginger",
+   "Description": "Knobbly root, adrak, in chai and curries",
+   "Category": "Spices",
+   "action": "add",
+   "note": "New card (debate): Charades added Ginger to Spices, and Main must have the same words. The hint is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Kalonji",
+   "Description": "Tiny black seeds sprinkled on naan",
+   "Category": "Spices",
+   "action": "add",
+   "note": "New card (debate): Charades added Kalonji, so this keeps Main in step. The hint is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Gwadar",
+   "Description": "Balochistan's deep-sea port on the Arabian Sea",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Charades added Gwadar, so this keeps Main in step. The hint is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Skardu",
+   "Description": "Baltistan town, gateway to K2",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Charades added Skardu, so this keeps Main in step. The hint is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Loquat",
+   "Description": "Small orange spring fruit with big seeds, lokat",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Charades added Loquat, so this keeps Main in step. The hint is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Samosa",
+   "Description": "Fried pastry triangle stuffed with potato or mince",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Charades added Samosa, so this keeps Main in step. The hint is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Ajwain",
+   "Description": "Tiny carom seeds, eaten for digestion, in pakoras",
+   "Category": "Spices",
+   "action": "add",
+   "note": "New card (debate): Challenger's missed card. Charades added Ajwain and Main does not have it. The hint is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Custard Apple",
+   "Description": "Bumpy green fruit with creamy white pulp, sharifa",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Challenger's missed card. Charades added Custard Apple to Fruits; it goes in instead of Chikoo, which Charades does not have."
+  },
+  {
+   "id": null,
+   "Name": "Gol Gappay",
+   "Description": "Crisp hollow puris filled with tangy imli water",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Challenger's missed card. Charades added Gol Gappay to Traditional Dishes."
+  },
+  {
+   "id": null,
+   "Name": "Shami Kabab",
+   "Description": "Pan-fried patty of mince and chana daal",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Challenger's missed card. Charades added Shami Kabab to Traditional Dishes."
+  },
+  {
+   "id": null,
+   "Name": "Bun Kabab",
+   "Description": "Karachi street burger with egg-dipped patty and chutney",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Challenger's missed card. Charades added Bun Kabab to Traditional Dishes; the hint does not contain the word."
   }
  ]
 }

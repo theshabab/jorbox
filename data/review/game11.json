@@ -6561,6 +6561,62 @@
    "Description": "The dhaba waiter always forgets my _____!",
    "action": "add",
    "note": "New card (debate): Local eating-out problem. Verified that no dhaba or waiter card exists in any of the game11 slices, so the challenger's corrected reason is right."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I keep getting traffic challans for _____!",
+   "action": "add",
+   "note": "New card (debate): Local problem; no game11 card mentions challans (checked all 597 cards)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My committee money always gets spent on _____!",
+   "action": "add",
+   "note": "New card (debate): Desi savings-committee problem; no committee card in the game11 deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Qari sahab always catches me _____ during Quran class!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: allowed worship-related problem, and 'Quran class' makes the setting clear; no similar card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The baraat always arrives late because of _____!",
+   "action": "add",
+   "note": "New card (debate): A late baraat is a classic, distinct joke: 506 is about shaadis lasting too long and 635 about the hall's closing time, not lateness."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every PSL match clashes with my _____!",
+   "action": "add",
+   "note": "New card (debate): Cricket/PSL problem; the deck has cricket customers and gali-cricket cards but no PSL clash."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My bike gets a puncture every time I _____!",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani commuting problem; only a Biker customer (361) exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The whole masjid stares at me when my _____ goes off during namaz!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: the blank now allows many answers (phone, alarm, stomach) instead of only 'namaz'."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My mind goes blank in exams whenever I see _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment avoids repeating forgetting/losing cards 26, 34, 121, 142; differs from exam-hall card 557."
   }
  ]
 }

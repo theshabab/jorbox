@@ -98,14 +98,13 @@ ANY SPORT <---> DEFINITELY CRICKET,Make up a team name that is this likely to be
 CALM <---> FIERY,Make up a slogan for a political party whose speeches are this fiery,Writing
 CONFIDENT <---> VERY DESPERATE,Write the first line of a rishta profile that is this desperate,Writing
 NOT CHAOTIC <---> VERY CHAOTIC,Write an excuse for being late that is this chaotic,Writing
-HAPPY TEEN <---> ANGSTY TEEN,Write an excuse for being late that is this likely to come from an angsty teen,Writing
+HAPPY TEEN <---> ANGSTY TEEN,Write an excuse for being late that sounds this much like an angsty teen,Writing
 BAD MEETING SPOT <---> GREAT MEETING SPOT,Make up a name for a restaurant that is this good a spot for friends to meet up,Writing
 NOT LIKELY <---> CRIME-FIGHTING DOG,Make up a name that is this likely to belong to a crime-fighting dog,Writing
 NOT VAMPIRE <---> VERY VAMPIRE,Make up a catchphrase that is this likely to be uttered by a vampire,Writing
 SPOTLESS <---> STOMACH ACHE GUARANTEED,Make up a name for a roadside dhaba that is this likely to give you a stomach ache,Writing
 NO BEARS <---> ALL BEARS,Make up a name for a town that is this likely to be run by bears,Writing
 NOT A PIRATE <---> TOTAL PIRATE,Make up a name that is this likely to belong to a pirate,Writing
-MORTAL <---> TOTAL VAMPIRE,Make up a name for a person who is this likely to be a vampire,Writing
 "RS 100 <---> RS 5,000",Make up a name for a cafe where the drinks cost this much,Writing
 NOT SCARY <---> VERY SCARY,Make up a name for a place that is this scary to get lost in,Writing
 A DUMP <---> OOOH LA LA!,Make up a name for a place that is this glamorous,Writing
@@ -114,7 +113,6 @@ BAD AT JOB <---> GREAT AT JOB,Make up a nickname for a person who is this good a
 ON TOP OF IT <---> VERY CONFUSED,Write a text message from a delivery driver who seems this confused,Writing
 HATES CHICKEN <---> LOVES CHICKEN,Make up a nickname for a person who loves chicken this much,Writing
 NOT FISHY <---> VERY FISHY,Make up a name for a perfume that smells this fishy,Writing
-ARTIFICIAL <---> ALL-NATURAL,Make up a name for a perfume that smells this all-natural,Writing
 NO BURNING <---> AHHHHH!!!,Make up a name for a perfume that would burn this much,Writing
 NOT LIKELY <---> TRUCK ART WORTHY,Make up a slogan that is this likely to be painted on the back of a truck,Writing
 A MESS <---> VERY FANCY,Make up a nickname for a person who is this fancy,Writing
@@ -123,11 +121,11 @@ MEH <---> PLEASE VISIT!!,Make up a catchphrase for a city tourism board that sou
 NOT LIKELY <---> VERY LIKELY,Make up the name of a person who is this likely to be the murderer in a murder mystery,Writing
 WHO? <---> VERY FAMOUS,Make up a title for an autobiography of someone who is this famous,Writing
 EASY TO MAKE <---> HARD TO MAKE,Make up a title for a cookbook where the recipes are this hard to make,Writing
-NOT FIT <---> VERY FIT,Make up a nickname for a person who is this fitness conscious,Writing
+COUCH POTATO <---> GYM FANATIC,Make up a nickname for a person who is this fitness conscious,Writing
 NOT LIKELY <---> VERY LIKELY,Make up a name for a restaurant that is this likely to be a front for organized crime,Writing
 CROWDED <---> ZERO CUSTOMERS,Make up a name for a store that is this likely to have zero customers,Writing
 NOT SPOOKY <---> VERY SPOOKY,Make up a title for a ghost story book that is this spooky,Writing
-VERY UNPOPULAR <---> VERY POPULAR,Make up a title for a book that is this popular with animal lovers,Writing
+ANIMAL LOVERS HATE IT <---> ANIMAL LOVERS LOVE IT,Make up a title for a book that is this popular with animal lovers,Writing
 MODERN <---> PURE NANI-DADI,Make up a saying that sounds this much like something your nani or dadi would say,Writing
 THE YEAR 1950 <---> THE YEAR 2040,Make up a catchphrase that a teen would most likely say in this year,Writing
 NOT LIKELY <---> VERY LIKELY,Write a catchphrase that is this likely to be said by a chicken farmer,Writing
@@ -141,12 +139,12 @@ BAD COOK <---> GREAT COOK,Make up a nickname for a person who is this good at co
 NOT A BIRD <---> THAT’S A BIRD,Write a piece of advice that is this likely to be given by a bird,Writing
 NO AUTOCORRECT <---> ALL AUTOCORRECT,Write a text message that is this riddled with autocorrect,Writing
 NOT NUTRITIOUS <---> VERY NUTRITIOUS,Draw a snack that is this nutritious,Drawing
-NOT LIKELY <---> SENIOR HOME,Make up a name for a facility that is this likely to be a senior home,Writing
+NOT LIKELY <---> OLD AGE HOME,Make up a name for a building that is this likely to be an old age home,Writing
 EASY <---> IMPOSSIBLE,Make up a name for a desert that is this difficult to get across alive,Writing
 NOT GRAND <---> VERY GRAND,Make up a name for a haveli that is this grand,Writing
 NOT HEROIC <---> SUPER HEROIC,Make up a name for a headquarters that sounds this super-heroic,Writing
 EASY <---> IMPOSSIBLE,Make up a name for a mountain that is this difficult to climb,Writing
-SOME PERSON <---> POET,Make up a name for a person who is this likely to be a classical Urdu poet,Writing
+NOT A POET <---> CLASSICAL URDU POET,Make up a name for a person who is this likely to be a classical Urdu poet,Writing
 FLATLANDER <---> MOUNTAIN PERSON,Make up a name for someone who is this likely to live in the mountains,Writing
 HUMAN <---> NON-HUMAN,Make up a title for a children’s book that is this likely to have a non-human protagonist,Writing
 DISORGANIZED <---> TOO ORGANIZED,Make up a nickname for someone who is this organized,Writing
@@ -179,19 +177,18 @@ NOT LIKELY <---> VERY LIKELY,Make up a name for a restaurant that is this likely
 GOAT HATES <---> GOAT LOVES,Make up a name for a perfume that a Bakra Eid goat would love this much,Writing
 NOT LIKELY <---> HARDWARE STORE,Make up a name for a perfume that is this likely to be sold at a hardware store,Writing
 1950 <---> 2040,Write a piece of advice that would be helpful for a time traveler visiting this year,Writing
-COMMON <---> ROYALTY,Write the first line of a rishta profile for someone that is this likely to be royalty,Writing
+COMMON <---> ROYALTY,Write the first line of a rishta profile for someone who is this likely to be royalty,Writing
 NOT A KNIGHT <---> DEFINITELY A KNIGHT,Write a piece of advice that is this likely to have been given by a medieval knight,Writing
 TERRIBLE <---> VERY HELPFUL,Write a piece of advice that would be this helpful for a new parent,Writing
 NOT MANLY <---> TOO MANLY,Make up a name for a cologne that’s this manly,Writing
 ADULT NAMED IT <---> CHILD NAMED IT,Make up a name for a perfume that is this likely to have been named by a child,Writing
-AHMEDS HATE IT <---> AHMEDS LOVE IT,Make up a name for a cologne that is this popular with people named Ahmed,Writing
 AWFEL SPELER <---> GREAT SPELLER,Write the first line of a rishta profile for someone who is this good at spelling,Writing
 TOO EASY <---> TOO HARD,Make up a title for a trivia game that is this challenging,Writing
 SUPER CHILL <---> VERY STRICT,Make up a nickname for a boss who is this strict,Writing
 HAIRLESS <---> VERY HAIRY,Make up a nickname for someone who is this hairy,Writing
 GOOD SPORT <---> SO MUCH RAGE,Make up a nickname for someone who gets this angry when they lose at a game,Writing
-1/2 STAR <---> 5 STARS,Make up a name for a perfume that your nani would give this many stars,Writing
-NOT GRUMPY <---> SUPER GRUMPY,Make up a name for a perfume that is this likely to be worn by a grumpy old uncle,Writing
+1/2 STAR <---> 5 STARS,Make up a name for a chai blend that your nani would give this many stars,Writing
+NOT GRUMPY <---> SUPER GRUMPY,Make up a name for an attar worn by an uncle who is this grumpy,Writing
 LOST ALL HOPE <---> STILL HOPEFUL,Write a line from a soldier's letter home that still has this much hope,Writing
 EASY <---> SO AWKWARD!,Write a sentence that is this awkward to say out loud at a family dinner,Writing
 BACKGROUND CHARACTER <---> MAIN CHARACTER,Make up a line of dialogue for a character in a storybook who is this important to the plot,Writing
@@ -705,3 +702,7 @@ SIMPLE <---> SUPER FANCY,Make up a name for a shaadi hall that sounds this fancy
 NOT LIKELY <---> VERY LIKELY,Write an excuse for skipping a family dawat that is this likely to work,Writing
 "MODERN <---> ""HAMARAY ZAMANAY MEIN...""",Make up a title for a book written by a grandparent that is this nostalgic,Writing
 VERY NERVOUS <---> SUPER CONFIDENT,Write the opening line of a speech for a school debate competition that is this confident,Writing
+FRIENDLY GAME <---> WORLD WAR,Write a line said during a family game of ludo that is this competitive,Writing
+BARELY MOVING <---> JET PLANE,Make up a nickname for a rickshaw driver who drives this fast,Writing
+STALE <---> FRESH FROM THE TANDOOR,Draw a naan that looks this fresh,Drawing
+SOFTIE <---> STRICTEST IN SCHOOL,Write a line a teacher says on the first day of class that is this strict,Writing
