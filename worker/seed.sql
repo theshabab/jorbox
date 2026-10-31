@@ -878,6 +878,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-876','game1','Prayer Mat','Jaye namaz you pray on','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-877','game1','Halwai','Sweet-maker frying jalebi and mithai','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-878','game1','Naanbai','Bakes naan in a tandoor','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-879','game1','Maghrib','Sunset prayer of three rakat, at iftar time','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-880','game1','Pakora','Besan-fried snack for rainy days and iftar','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-881','game1','Dahi Bhallay','Lentil dumplings soaked in yogurt with imli','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-882','game1','Raddi Wala','Buys old newspapers and bottles by the kilo','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-883','game1','Remote','Button gadget for changing TV channels','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-884','game1','Mongoose','Neola; small animal famous for fighting snakes','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-885','game1','Muhammad Ali Jinnah','Quaid-e-Azam, founder of Pakistan','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-886','game1','Liaquat Ali Khan','First Prime Minister, Shaheed-e-Millat','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-887','game1','Istanbul','Former Constantinople, on the Bosphorus','Islamic Locations');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');

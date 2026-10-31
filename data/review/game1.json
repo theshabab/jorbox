@@ -11008,6 +11008,78 @@
    "Category": "Occupations",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Maghrib",
+   "Description": "Sunset prayer of three rakat, at iftar time",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pakora",
+   "Description": "Besan-fried snack for rainy days and iftar",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Dahi Bhallay",
+   "Description": "Lentil dumplings soaked in yogurt with imli",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Raddi Wala",
+   "Description": "Buys old newspapers and bottles by the kilo",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Remote",
+   "Description": "Button gadget for changing TV channels",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mongoose",
+   "Description": "Neola; small animal famous for fighting snakes",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Muhammad Ali Jinnah",
+   "Description": "Quaid-e-Azam, founder of Pakistan",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Liaquat Ali Khan",
+   "Description": "First Prime Minister, Shaheed-e-Millat",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Istanbul",
+   "Description": "Former Constantinople, on the Bosphorus",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
