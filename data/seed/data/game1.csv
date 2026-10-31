@@ -59,7 +59,7 @@ Cinnamon,"Sweet bark, daar cheeni",Spices
 Clove,"Small nail-shaped bud, laung",Spices
 Nutmeg,"Hard seed grated into desserts, jaifal",Spices
 Saffron,"Costly red threads, zafran",Spices
-Anise,"Liquorice-flavoured seeds, anisoon; like saunf",Spices
+Fennel,Saunf; seeds chewed after meals,Spices
 Fenugreek,"Bitter seeds and leaves, methi",Spices
 Mustard Seeds,Tiny rai used in tarka,Spices
 Poppy Seeds,"Khashkhash, used in halwa",Spices
@@ -147,14 +147,13 @@ Chair,Seat with four legs and a back,Furniture
 Table,Flat top on legs for eating or working,Furniture
 Sofa,Cushioned seat for several people,Furniture
 Bed,"Furniture you sleep on, palang",Furniture
-Cupboard,Almari with shelves and doors for storing things,Furniture
 Wardrobe,Tall closet with a rail for hanging clothes,Furniture
 Cabinet,Wall-mounted storage with doors in the kitchen,Furniture
 Desk,Table for studying or office work,Furniture
 Stool,Backless seat without arms,Furniture
 Bench,Long seat for several people,Furniture
 Bookshelf,Shelves for keeping books,Furniture
-Dresser,Dressing table with mirror and drawers,Furniture
+Dressing Table,Mirror with drawers for makeup and combs,Furniture
 Mirror,Glass that shows your reflection,Furniture
 Lamp,Bedside light with a shade,Furniture
 Carpet,Thick woven floor covering,Furniture
@@ -276,7 +275,6 @@ Katas Raj,"Ancient temples with pond, Chakwal",Historical Places
 Derawar Fort,Huge bastioned stronghold in Cholistan Desert,Historical Places
 Ranikot Fort,Great Wall of Sindh,Historical Places
 Baltit Fort,Hunza Mirs' old castle above Karimabad,Historical Places
-Altit Fort,"Hunza's oldest castle, about 900 years old",Historical Places
 Noor Mahal,White palace in Bahawalpur,Historical Places
 Wazir Khan Mosque,"Tiled Mughal masjid near Delhi Gate, Lahore",Historical Places
 Tomb of Jahangir,Mughal emperor's mausoleum in Shahdara,Historical Places
@@ -546,7 +544,6 @@ Doodh Soda,Milk mixed with fizzy lemon-lime,Beverages
 Cold Drink,Fizzy bottled soft beverage,Beverages
 Energy Drink,Caffeinated can for staying awake,Beverages
 Soup,"Hot liquid dish, eaten with spoon",Beverages
-Broth,Yakhni: clear stock from boiled meat,Beverages
 Cocoa,Hot chocolate drink,Beverages
 Gulab Jamun,Fried milk balls in sugar syrup,Desserts
 Barfi,Dense milk fudge cut in squares,Desserts
@@ -737,15 +734,11 @@ Tawaf,Circling the Kaaba seven times,Islamic Terms
 Sugarcane Juice,"Sweet ganne ka ras, pressed fresh",Beverages
 Doodh Patti,Tea brewed in milk,Beverages
 Markhor,Pakistan's national animal with spiral horns,Animals
-Giraffe,"Tallest animal, with a very long neck",Animals
 Lizard,Chhipkali that crawls on walls,Animals
 Corn,"Bhutta, roasted on coals by street vendors",Vegetables
 Sweet Potato,"Shakarkandi, roasted and sold in winter",Vegetables
-Chappal,"Open slipper, Ammi's weapon of choice",Clothing
 Hijab,Headscarf worn by Muslim women,Clothing
-Kettle,Electric pot that boils water for tea,Kitchen Items
 Mortar and Pestle,Hamam dasta for pounding garlic and spices,Kitchen Items
-Takht,"Low wooden platform for sitting, with a dari",Furniture
 Ginger,"Knobbly root, adrak, in chai and curries",Spices
 Kalonji,Tiny black seeds sprinkled on naan,Spices
 Gwadar,Balochistan's deep-sea port on the Arabian Sea,Pakistani Cities
@@ -757,3 +750,81 @@ Custard Apple,"Bumpy green fruit with creamy white pulp, sharifa",Fruits
 Gol Gappay,Crisp hollow puris filled with tangy imli water,Traditional Dishes
 Shami Kabab,Pan-fried patty of mince and chana daal,Traditional Dishes
 Bun Kabab,Karachi street burger with egg-dipped patty and chutney,Traditional Dishes
+Vulture,Gidh; bald-headed bird that eats carcasses,Birds
+Cuckoo,Koel; lays eggs in crows' nests,Birds
+Bulbul,Small garden bird famed in Urdu poetry,Birds
+Pendant,Locket hanging from a neck chain,Jewelry
+Camera,Device with a lens for taking photos,Electronics
+Shovel,Belcha; tool for digging soil,Tools
+Medina,"Prophet's city, home of Masjid an-Nabawi",Islamic Locations
+Tinda,Round green apple gourd sabzi,Vegetables
+Mushroom,Khumbi; umbrella-shaped edible fungus,Vegetables
+Charpai,Woven rope cot on four legs,Furniture
+Abaya,Long loose black cloak worn by women,Clothing
+Khussa,Embroidered pointed shoe from Multan,Clothing
+Peshawari Chappal,Sturdy leather sandal from Khyber Pakhtunkhwa,Clothing
+Matka,Clay pot that keeps water cool,Kitchen Items
+Mosquito,Machar; biting insect that spreads dengue,Animals
+Leopard,Tendua; spotted big cat of Margalla Hills,Animals
+Crane,Koonj; long-necked bird migrating in winter,Birds
+Carrom,"Board game with striker, queen and pockets",Sports
+Gilli Danda,Street game flicking a small stick,Sports
+Makli Necropolis,"Huge UNESCO graveyard near Thatta, Sindh",Historical Places
+Shah Rukn-e-Alam,Sufi saint's brick tomb in Multan,Historical Places
+Butcher,Qasai; cuts and sells gosht,Occupations
+Postman,Dakia who delivers letters and parcels,Occupations
+Chowkidar,Night guard at the gate,Occupations
+Dhobi,Washes and irons kapray for others,Occupations
+Mochi,Street cobbler who repairs and polishes joota,Occupations
+Doodhwala,Milkman delivering on a bicycle each morning,Occupations
+Gadha Gari,Donkey-drawn cart for carrying loads,Transport
+Cable Car,Gondola ride over the hills at Patriata,Transport
+Chalk,White stick for writing on blackboards,Stationery
+Geometry Box,"Compass, protractor and set squares for maths",Stationery
+Takhti,Wooden writing board coated with gaachni,Stationery
+Eyebrow,Bhaun; arch of hair above the ankh,Body Parts
+Heart,Dil; organ that pumps blood,Body Parts
+Generator,Petrol engine power during loadshedding,Electronics
+UPS,Battery backup that beeps in loadshedding,Electronics
+Washing Machine,Appliance that spins and cleans kapray,Electronics
+Rainbow,Dhanak; seven-colored arc in the sky,Nature
+Waterfall,Abshaar; river plunging over a cliff,Nature
+Desert,Sehra; sandy land like Thar,Nature
+Earthquake,"Zalzala; ground shaking, like Kashmir 2005",Nature
+Fog,Dhund; thick winter mist closing motorways,Nature
+Beard,Daarhi; Sunnah hair on the chin,Body Parts
+Sickle,Daranti; curved blade for cutting wheat,Tools
+Rasgulla,Spongy white cheese ball in syrup,Desserts
+Shahi Tukray,Fried bread slices topped with rabri,Desserts
+Firni,Ground-rice pudding set in clay bowls,Desserts
+Gola Ganda,Crushed ice on a stick with syrup,Desserts
+Nankhatai,Crumbly ghee biscuit from the bakery,Desserts
+Son-in-law,Damad; your daughter's husband,Family Relations
+Daughter-in-law,Bahu; your son's wife,Family Relations
+Trowel,Karni; mason's tool for spreading cement,Tools
+Umrah,"Lesser pilgrimage to Makkah, any time of year",Islamic Terms
+Jummah,Friday congregational prayer with khutbah,Islamic Terms
+Taraweeh,Night prayers in Ramadan after Isha,Islamic Terms
+Laylat al-Qadr,Night better than a thousand months,Islamic Terms
+Itikaf,Seclusion in the masjid during Ramadan's last ten,Islamic Terms
+Abu Dharr al-Ghifari,Truthful Companion who died alone at Rabadhah,Sahaba
+Mus'ab ibn Umair,First envoy to Madinah; martyred at Uhud,Sahaba
+Abu Ayyub al-Ansari,Hosted the Prophet in Madinah; buried in Istanbul,Sahaba
+Masjid al-Qiblatain,Madinah mosque where prayer direction changed,Islamic Locations
+Twins,Judwan; two siblings born together,Family Relations
+Qurbani,Animal sacrifice on Eid ul-Adha,Islamic Terms
+Fajr,Dawn prayer of two rakat,Islamic Terms
+Miswak,Sunnah twig for cleaning teeth,Islamic Terms
+Muazzin,Calls the Azan from the minaret,Occupations
+Chaiwala,Tea seller at a roadside dhaba,Occupations
+Sabziwala,Vegetable seller with a thela,Occupations
+Geyser,Gas tank that heats bath water,Electronics
+Kulfi,Frozen milk dessert with pista,Desserts
+Allama Iqbal,National poet from Sialkot; Shaheen and Khudi,Muslim Historical Figures
+Muhammad bin Qasim,Young general who conquered Sindh in 712,Muslim Historical Figures
+Lungi,Tehband; cloth wrapped around the waist,Clothing
+Arvi,"Taro root, slimy when cooked",Vegetables
+Stove,Chulha; gas burner for cooking,Kitchen Items
+Thermos,Flask that keeps chai hot,Kitchen Items
+Moodha,Round cane stool,Furniture
+Bat,Chamgadar; flying mammal hanging upside down,Animals

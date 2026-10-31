@@ -811,8 +811,8 @@
   },
   {
    "id": "game1-63",
-   "Name": "Anise",
-   "Description": "Liquorice-flavoured seeds, anisoon; like saunf",
+   "Name": "Fennel",
+   "Description": "Saunf; seeds chewed after meals",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -820,7 +820,7 @@
     "Description": "An aromatic spice",
     "Category": "Spices"
    },
-   "note": "Specific hint; Debate: Uses the correct Urdu name (anisoon). Saunf is fennel, so it stays only as a comparison.; Debate: Reads more cleanly. Kept the proposer's version: 'like saunf' is an accurate taste comparison. The challenger's 'star-shaped cousin' is wrong, because aniseed is not star-shaped (star anise is a different plant)."
+   "note": "Specific hint; Debate: Uses the correct Urdu name (anisoon). Saunf is fennel, so it stays only as a comparison.; Debate: Reads more cleanly. Kept the proposer's version: 'like saunf' is an accurate taste comparison. The challenger's 'star-shaped cousin' is wrong, because aniseed is not star-shaped (star anise is a different plant).; Synced with Charades rename"
   },
   {
    "id": "game1-64",
@@ -1971,13 +1971,13 @@
    "Name": "Cupboard",
    "Description": "Almari with shelves and doors for storing things",
    "Category": "Furniture",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Cupboard",
     "Description": "Storage furniture",
     "Category": "Furniture"
    },
-   "note": "Specific hint; Debate: Hint used another card's name (Cabinet); completes the P3/P4 disambiguation."
+   "note": "Specific hint; Debate: Hint used another card's name (Cabinet); completes the P3/P4 disambiguation.; Not in Charades; Main follows the Charades word list"
   },
   {
    "id": "game1-153",
@@ -2059,8 +2059,8 @@
   },
   {
    "id": "game1-159",
-   "Name": "Dresser",
-   "Description": "Dressing table with mirror and drawers",
+   "Name": "Dressing Table",
+   "Description": "Mirror with drawers for makeup and combs",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2068,7 +2068,7 @@
     "Description": "Bedroom furniture",
     "Category": "Furniture"
    },
-   "note": "Specific hint; Debate: Uses the local Pakistani sense of the word."
+   "note": "Specific hint; Debate: Uses the local Pakistani sense of the word.; Synced with Charades rename"
   },
   {
    "id": "game1-160",
@@ -3687,13 +3687,13 @@
    "Name": "Altit Fort",
    "Description": "Hunza's oldest castle, about 900 years old",
    "Category": "Historical Places",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Altit Fort",
     "Description": "A mountain fort",
     "Category": "Historical Places"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Not in Charades; Main follows the Charades word list"
   },
   {
    "id": "game1-285",
@@ -7262,13 +7262,13 @@
    "Name": "Broth",
    "Description": "Yakhni: clear stock from boiled meat",
    "Category": "Beverages",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Broth",
     "Description": "A liquid food",
     "Category": "Beverages"
    },
-   "note": "Specific hint; Debate: Adds the familiar local word; broth is made from meat, not only bones."
+   "note": "Specific hint; Debate: Adds the familiar local word; broth is made from meat, not only bones.; Not in Charades; Main follows the Charades word list"
   },
   {
    "id": "game1-560",
@@ -9758,8 +9758,8 @@
    "Name": "Giraffe",
    "Description": "Tallest animal, with a very long neck",
    "Category": "Animals",
-   "action": "add",
-   "note": "New card (debate): Well-known, easy to act out."
+   "action": "remove",
+   "note": "New card (debate): Well-known, easy to act out.; Not in Charades; Main follows the Charades word list"
   },
   {
    "id": null,
@@ -9790,8 +9790,8 @@
    "Name": "Chappal",
    "Description": "Open slipper, Ammi's weapon of choice",
    "Category": "Clothing",
-   "action": "add",
-   "note": "New card (debate): Classic desi footwear and harmless family in-joke; no footwear card exists.; Debate: Grammar fix that keeps the joke."
+   "action": "remove",
+   "note": "New card (debate): Classic desi footwear and harmless family in-joke; no footwear card exists.; Debate: Grammar fix that keeps the joke.; Not in Charades; Main follows the Charades word list"
   },
   {
    "id": null,
@@ -9806,8 +9806,8 @@
    "Name": "Kettle",
    "Description": "Electric pot that boils water for tea",
    "Category": "Kitchen Items",
-   "action": "add",
-   "note": "New card (debate): Everyday item; distinct from Teapot (serving chai)."
+   "action": "remove",
+   "note": "New card (debate): Everyday item; distinct from Teapot (serving chai).; Not in Charades; Main follows the Charades word list"
   },
   {
    "id": null,
@@ -9822,8 +9822,8 @@
    "Name": "Takht",
    "Description": "Low wooden platform for sitting, with a dari",
    "Category": "Furniture",
-   "action": "add",
-   "note": "New card (debate): Traditional Pakistani furniture, distinct from charpai."
+   "action": "remove",
+   "note": "New card (debate): Traditional Pakistani furniture, distinct from charpai.; Not in Charades; Main follows the Charades word list"
   },
   {
    "id": null,
@@ -9912,6 +9912,630 @@
    "Category": "Traditional Dishes",
    "action": "add",
    "note": "New card (debate): Challenger's missed card. Charades added Bun Kabab to Traditional Dishes; the hint does not contain the word."
+  },
+  {
+   "id": null,
+   "Name": "Vulture",
+   "Description": "Gidh; bald-headed bird that eats carcasses",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Cuckoo",
+   "Description": "Koel; lays eggs in crows' nests",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Bulbul",
+   "Description": "Small garden bird famed in Urdu poetry",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pendant",
+   "Description": "Locket hanging from a neck chain",
+   "Category": "Jewelry",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Camera",
+   "Description": "Device with a lens for taking photos",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Shovel",
+   "Description": "Belcha; tool for digging soil",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Medina",
+   "Description": "Prophet's city, home of Masjid an-Nabawi",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tinda",
+   "Description": "Round green apple gourd sabzi",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mushroom",
+   "Description": "Khumbi; umbrella-shaped edible fungus",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Charpai",
+   "Description": "Woven rope cot on four legs",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Abaya",
+   "Description": "Long loose black cloak worn by women",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Khussa",
+   "Description": "Embroidered pointed shoe from Multan",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Peshawari Chappal",
+   "Description": "Sturdy leather sandal from Khyber Pakhtunkhwa",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Matka",
+   "Description": "Clay pot that keeps water cool",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mosquito",
+   "Description": "Machar; biting insect that spreads dengue",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Leopard",
+   "Description": "Tendua; spotted big cat of Margalla Hills",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Crane",
+   "Description": "Koonj; long-necked bird migrating in winter",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Carrom",
+   "Description": "Board game with striker, queen and pockets",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Gilli Danda",
+   "Description": "Street game flicking a small stick",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Makli Necropolis",
+   "Description": "Huge UNESCO graveyard near Thatta, Sindh",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Shah Rukn-e-Alam",
+   "Description": "Sufi saint's brick tomb in Multan",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Butcher",
+   "Description": "Qasai; cuts and sells gosht",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Postman",
+   "Description": "Dakia who delivers letters and parcels",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Chowkidar",
+   "Description": "Night guard at the gate",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Dhobi",
+   "Description": "Washes and irons kapray for others",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mochi",
+   "Description": "Street cobbler who repairs and polishes joota",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Doodhwala",
+   "Description": "Milkman delivering on a bicycle each morning",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Gadha Gari",
+   "Description": "Donkey-drawn cart for carrying loads",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Cable Car",
+   "Description": "Gondola ride over the hills at Patriata",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Chalk",
+   "Description": "White stick for writing on blackboards",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Geometry Box",
+   "Description": "Compass, protractor and set squares for maths",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Takhti",
+   "Description": "Wooden writing board coated with gaachni",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Eyebrow",
+   "Description": "Bhaun; arch of hair above the ankh",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Heart",
+   "Description": "Dil; organ that pumps blood",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Generator",
+   "Description": "Petrol engine power during loadshedding",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "UPS",
+   "Description": "Battery backup that beeps in loadshedding",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Washing Machine",
+   "Description": "Appliance that spins and cleans kapray",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Rainbow",
+   "Description": "Dhanak; seven-colored arc in the sky",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Waterfall",
+   "Description": "Abshaar; river plunging over a cliff",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Desert",
+   "Description": "Sehra; sandy land like Thar",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Earthquake",
+   "Description": "Zalzala; ground shaking, like Kashmir 2005",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Fog",
+   "Description": "Dhund; thick winter mist closing motorways",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Beard",
+   "Description": "Daarhi; Sunnah hair on the chin",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sickle",
+   "Description": "Daranti; curved blade for cutting wheat",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Rasgulla",
+   "Description": "Spongy white cheese ball in syrup",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Shahi Tukray",
+   "Description": "Fried bread slices topped with rabri",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Firni",
+   "Description": "Ground-rice pudding set in clay bowls",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Gola Ganda",
+   "Description": "Crushed ice on a stick with syrup",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Nankhatai",
+   "Description": "Crumbly ghee biscuit from the bakery",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Son-in-law",
+   "Description": "Damad; your daughter's husband",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Daughter-in-law",
+   "Description": "Bahu; your son's wife",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Trowel",
+   "Description": "Karni; mason's tool for spreading cement",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Umrah",
+   "Description": "Lesser pilgrimage to Makkah, any time of year",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Jummah",
+   "Description": "Friday congregational prayer with khutbah",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Taraweeh",
+   "Description": "Night prayers in Ramadan after Isha",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Laylat al-Qadr",
+   "Description": "Night better than a thousand months",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Itikaf",
+   "Description": "Seclusion in the masjid during Ramadan's last ten",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Abu Dharr al-Ghifari",
+   "Description": "Truthful Companion who died alone at Rabadhah",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mus'ab ibn Umair",
+   "Description": "First envoy to Madinah; martyred at Uhud",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Abu Ayyub al-Ansari",
+   "Description": "Hosted the Prophet in Madinah; buried in Istanbul",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Masjid al-Qiblatain",
+   "Description": "Madinah mosque where prayer direction changed",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Twins",
+   "Description": "Judwan; two siblings born together",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Qurbani",
+   "Description": "Animal sacrifice on Eid ul-Adha",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Fajr",
+   "Description": "Dawn prayer of two rakat",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Miswak",
+   "Description": "Sunnah twig for cleaning teeth",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Muazzin",
+   "Description": "Calls the Azan from the minaret",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Chaiwala",
+   "Description": "Tea seller at a roadside dhaba",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sabziwala",
+   "Description": "Vegetable seller with a thela",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Geyser",
+   "Description": "Gas tank that heats bath water",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kulfi",
+   "Description": "Frozen milk dessert with pista",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Allama Iqbal",
+   "Description": "National poet from Sialkot; Shaheen and Khudi",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Muhammad bin Qasim",
+   "Description": "Young general who conquered Sindh in 712",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Lungi",
+   "Description": "Tehband; cloth wrapped around the waist",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Arvi",
+   "Description": "Taro root, slimy when cooked",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Stove",
+   "Description": "Chulha; gas burner for cooking",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Thermos",
+   "Description": "Flask that keeps chai hot",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Moodha",
+   "Description": "Round cane stool",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Bat",
+   "Description": "Chamgadar; flying mammal hanging upside down",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
