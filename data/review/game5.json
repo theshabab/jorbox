@@ -50342,15 +50342,15 @@
   {
    "id": "game5-3873",
    "Name": "",
-   "Description": "My therapist has uncovered repressed memories of ____ from my early childhood.",
+   "Description": "My therapist says all my problems go back to ____ from my childhood.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My therapist has uncovered repressed memories of ____ from my early childhood.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Repressed memories of ____ from my early childhood' invites child-abuse answers. The new wording keeps the therapist joke."
   },
   {
    "id": "game5-3874",
@@ -50760,26 +50760,26 @@
    "Name": "",
    "Description": "Never mention on the first rishta meeting that you're into ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Never mention on the first rishta meeting that you're into ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Means the same as 3894 ('Nervously bringing up ____ at the first rishta meeting'), and the deck already has many first-rishta prompts (6232, 4201, 7508). Keep the lower id."
   },
   {
    "id": "game5-3906",
    "Name": "",
-   "Description": "Never shake ____.",
+   "Description": "Never shake a bottle of ____ before opening it.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Never shake ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Never shake ____' echoed 'never shake a baby'. This gives it a harmless setup."
   },
   {
    "id": "game5-3907",
@@ -50940,15 +50940,15 @@
   {
    "id": "game5-3919",
    "Name": "",
-   "Description": "Newsflash. Maryam Nawaz is Prime Minister. What's Next?",
+   "Description": "Breaking news: Maryam Nawaz is now Prime Minister! Her first order: ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Newsflash. Maryam Nawaz is Prime Minister. What's Next?",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: The card had no blank and odd capitalisation. It is now a fill-in political joke, which the owner allows."
   },
   {
    "id": "game5-3920",
@@ -51239,7 +51239,7 @@
   {
    "id": "game5-3942",
    "Name": "",
-   "Description": "Winter nights are not so cold when you spend them wrapped up with ____.",
+   "Description": "Winter nights are not so cold when you have a razai, a cup of chai and ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -51247,7 +51247,7 @@
     "Description": "Nights aren't so lonely when you spent them snuggling with ____.",
     "Category": ""
    },
-   "note": "Removed innuendo"
+   "note": "Removed innuendo; Debate: 'Wrapped up with ____' invites romantic or intimate answers. The new setup is cosy and family-friendly."
   },
   {
    "id": "game5-3943",
@@ -51447,15 +51447,15 @@
   {
    "id": "game5-3958",
    "Name": "",
-   "Description": "No one should be allowed to be ____ in this country. Share if you agree!",
+   "Description": "No one should be allowed to ____ in this country. Forward to all family WhatsApp groups!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "No one should be allowed to be ____ in this country. Share if you agree!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Be ____' invited players to name groups of people, a hate risk. A verb blank and a local WhatsApp-forward ending fix that."
   },
   {
    "id": "game5-3959",
@@ -51475,13 +51475,13 @@
    "Name": "",
    "Description": "No one talks about the tenth circle of Hell, which is punishment reserved for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "No one talks about the tenth circle of Hell, which is punishment reserved for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Game5 rules say to remove jokes about the afterlife or hell. The Dante reference is also Western and obscure."
   },
   {
    "id": "game5-3961",
@@ -51540,13 +51540,13 @@
    "Name": "",
    "Description": "No shalwar, no kameez, no ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "No shalwar, no kameez, no ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Live card 6588 already does this parody ('No chappal, no ____, no service'), and 'no shalwar, no kameez' hints at undressing. The challenger's rewrite would copy 6588 word for word."
   },
   {
    "id": "game5-3966",
@@ -51746,7 +51746,7 @@
   {
    "id": "game5-3981",
    "Name": "",
-   "Description": "Not content to just sell biscuits, the Girl Guides are now offering ____.",
+   "Description": "Not content with just camping trips, the Girl Guides are now offering ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -51754,7 +51754,7 @@
     "Description": "Not content to just sell cookie, the Girl Guides are now offering ____.",
     "Category": ""
    },
-   "note": "Grammar; local wording"
+   "note": "Grammar; local wording; Debate: Selling cookies is a US Girl Scouts custom, not a Pakistani Girl Guides one."
   },
   {
    "id": "game5-3982",
@@ -52541,13 +52541,13 @@
    "Name": "",
    "Description": "Oh no! ____ is my only weakness!",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Oh no! ____ is my only weakness!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicates 4039 ('Oh no, ____! The PM's only weakness.') and 2568 ('I have a secret weakness for ____'). Keep the lower ids."
   },
   {
    "id": "game5-4043",
@@ -52643,7 +52643,7 @@
   {
    "id": "game5-4050",
    "Name": "",
-   "Description": "Hai Allah, Bushra. Look at ____.",
+   "Description": "Hai Allah, Bushra! Look at ____ at this shaadi.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -52651,7 +52651,7 @@
     "Description": "Oh--My--Allah, Bushra. Look at ____.",
     "Category": ""
    },
-   "note": "Wording"
+   "note": "Wording; Debate: The original echoes a body-joke song line. The shaadi setting steers answers toward clean gossip."
   },
   {
    "id": "game5-4051",
@@ -52695,15 +52695,15 @@
   {
    "id": "game5-4054",
    "Name": "",
-   "Description": "Oh, whoops! These are not the right pants for ____.",
+   "Description": "Oh, whoops! This is not the right shalwar for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Oh, whoops! These are not the right pants for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the Western 'pants' with a local garment."
   },
   {
    "id": "game5-4055",
@@ -53150,15 +53150,15 @@
   {
    "id": "game5-4089",
    "Name": "",
-   "Description": "One good thing about climate change -- it'll wipe out ____.",
+   "Description": "One good thing about climate change: no more ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "One good thing about climate change -- it'll wipe out ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'It'll wipe out ____' invites naming groups of people to be wiped out. The new wording removes that hate risk."
   },
   {
    "id": "game5-4090",
@@ -53178,26 +53178,26 @@
    "Name": "",
    "Description": "One in ten late-night Careem drivers will accept ____ instead of the proper fare.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "One in then CAREEM late night drivers will accept ____ in lieu of the proper fare",
     "Category": ""
    },
-   "note": "Spelling; grammar"
+   "note": "Debate: Same joke as 4028 (offering the rickshaw driver ____ instead of the fare), and the wording invites a sexual reading. Keep the lower id."
   },
   {
    "id": "game5-4092",
    "Name": "",
-   "Description": "One moment while it ____.",
+   "Description": "Please hold. All our helpline agents are currently busy ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "One moment while it ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'One moment while it ____' was unclear. A familiar call-centre line replaces it."
   },
   {
    "id": "game5-4093",
@@ -53930,15 +53930,15 @@
   {
    "id": "game5-4149",
    "Name": "",
-   "Description": "Payday isn't for 12 days and I already spent my whole paycheck on ____.",
+   "Description": "Salary day is 12 days away and I've already spent my whole salary on ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Payday isn't for 12 days and I already spent my whole paycheck on ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Uses the local word 'salary' instead of the US 'payday/paycheck'."
   },
   {
    "id": "game5-4150",
@@ -53982,15 +53982,15 @@
   {
    "id": "game5-4153",
    "Name": "",
-   "Description": "Penalty! ____: that's 5 minutes in the box!",
+   "Description": "Howzat! The third umpire just gave me out for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Penalty! ____: that's 5 minutes in the box!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the ice-hockey penalty box with cricket. Uses the challenger's version, which doesn't repeat 'out'."
   },
   {
    "id": "game5-4154",
@@ -54190,15 +54190,15 @@
   {
    "id": "game5-4169",
    "Name": "",
-   "Description": "Edhi Foundation is now using public funds to assist people suffering from ____.",
+   "Description": "The government has launched a special relief fund for people suffering from ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Edhi Foundation is now using public funds to assist people suffering from ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The old card suggested that Edhi Foundation, a real and respected charity, misuses funds. The challenger's relief-fund version keeps the joke of a fund for an absurd problem."
   },
   {
    "id": "game5-4170",
@@ -101901,6 +101901,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New grandparent prompt. No handbag, toffee or Vicks card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Every Pakistani dad keeps ____ in the glove box of his car.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A new family observational prompt. It is different from 2345, which is about what I keep in my own car."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Only in Pakistan will you see a Suzuki pickup carrying ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A new local prompt. No Suzuki or pickup card exists in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Oh no! Phuppo just found out about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): The live Phuppo cards (1574, 4079, 5347, 5505, 7833) are about photos, reveals, gifts, Eid and her status. None is about her finding something out."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Never trust a shopkeeper who says ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A bazaar version of the 'Never trust' pattern. It is different from 6759, which is about a vet."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "No load shedding, no traffic, no ____. Is this even Pakistan?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A local version of the 'No ___, no ___' pattern. Uses the challenger's 'load shedding' spelling, which matches most of the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Parenting hack: tell the kids that ____ comes for children who won't go to sleep.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A desi bedtime-threat joke (bori wala baba), allowed by the owner. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "One thing you should never say to an aunty at a shaadi: ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A clean shaadi prompt. It is different from 7508 (rishta meeting) and from the aunty-gossip cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nothing says 'I'm the eldest child' like ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A family birth-order joke. No eldest-child card exists in the deck."
   }
  ]
 }

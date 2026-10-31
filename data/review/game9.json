@@ -11110,6 +11110,55 @@
    "Description": "Peshawar",
    "action": "add",
    "note": "New card (debate): Accurate Pakistani landmark card; not in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Which tunnel, opened in 2017, links Chitral with Upper Dir so the valley is no longer cut off by winter snow?",
+   "Description": "Lowari Tunnel",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistan geography card that no other card in the deck covers."
+  },
+  {
+   "id": null,
+   "Name": "What was the name of Pakistan's first satellite, launched in 1990?",
+   "Description": "Badr-1",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani science fact. The deck's other Badr cards are about the battle, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which 1980 arcade game has a yellow character eating dots in a maze while being chased by ghosts?",
+   "Description": "Pac-Man",
+   "action": "add",
+   "note": "New card (debate): The deck owner allows video games, and the deck has no Pac-Man card."
+  },
+  {
+   "id": null,
+   "Name": "Which falling-blocks puzzle game was created by Soviet programmer Alexey Pajitnov in 1984?",
+   "Description": "Tetris",
+   "action": "add",
+   "note": "New card (debate): Accurate, world-famous gaming fact that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "The wireless technology Bluetooth is named after a 10th-century king of which country?",
+   "Description": "Denmark",
+   "action": "add",
+   "note": "New card (debate): Accurate tech fact. The deck's Greenland card asks a different question."
+  },
+  {
+   "id": null,
+   "Name": "Which mango variety, loved across Pakistan, is said to take its name from the place where Sher Shah Suri defeated Humayun in 1539?",
+   "Description": "Chaunsa",
+   "action": "add",
+   "note": "New card (debate): Local fact that fits the deck. 'Is said to' rightly hedges the folk story about the name, and no other card asks this."
+  },
+  {
+   "id": null,
+   "Name": "At the 2003 Cricket World Cup, Shoaib Akhtar became the first bowler officially recorded bowling faster than what speed?",
+   "Description": "100 mph (he was clocked at 161.3 km/h)",
+   "action": "add",
+   "note": "New card (debate): Pakistani sports record. Uses the challenger's amended answer, which keeps the 100 mph threshold separate from his actual 161.3 km/h delivery."
   }
  ]
 }

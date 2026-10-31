@@ -10983,6 +10983,86 @@
    "Category": "Family Relations",
    "action": "add",
    "note": "New card (debate): A fun, family-friendly relation word that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Tipu Sultan",
+   "Description": "Mysore | Tiger | Shaheed | British | Sher",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Famous South Asian Muslim ruler, Tiger of Mysore, died fighting the British in 1799; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Mahmud Ghaznavi",
+   "Description": "Ghazni | Somnath | Seventeen | Ayaz | Afghanistan",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Famous figure from Pakistani history textbooks (Mahmud-o-Ayaz), under the name Pakistanis actually use; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sir Syed Ahmed Khan",
+   "Description": "Aligarh | College | Education | Two-Nation | Reformer",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Core Pakistan Studies figure; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Samarkand",
+   "Description": "Uzbekistan | Timur | Registan | Silk Road | Bukhara",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Classic historic Muslim city alongside Damascus/Baghdad/Cordoba; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Cairo",
+   "Description": "Egypt | Al-Azhar | Nile | Pyramids | Capital",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Major historic Muslim capital (Al-Azhar); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Janaza",
+   "Description": "Funeral | Namaz | Kafan | Qabristan | Dead",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Common Islamic term, respectful and mildly dark (allowed); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Ihram",
+   "Description": "White | Unstitched | Hajj | Umrah | Cloth",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Common Hajj/Umrah term; so far only a banned word, never a card."
+  },
+  {
+   "id": null,
+   "Name": "Prayer Mat",
+   "Description": "Jaye Namaz | Musalla | Sajda | Qibla | Carpet",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Everyday household item; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Halwai",
+   "Description": "Mithai | Jalebi | Halwa | Sweets | Karahi",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Local occupation fitting the Dhobi/Mochi/Doodhwala set; Halwa (the root of the name) is the most obvious clue, so it replaces the weak 'Shop'."
+  },
+  {
+   "id": null,
+   "Name": "Naanbai",
+   "Description": "Tandoor | Naan | Roti | Oven | Garam",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Local occupation fitting the Dhobi/Mochi/Doodhwala set; not in deck."
   }
  ]
 }
