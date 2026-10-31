@@ -5658,11 +5658,11 @@
   {
    "id": "game12-629",
    "Name": "Tie",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Tie"
    },
-   "note": ""
+   "note": "Debate: Same meaning as the live Necktie card."
   },
   {
    "id": "game12-630",
@@ -5693,21 +5693,21 @@
   },
   {
    "id": "game12-633",
-   "Name": "Tofu",
-   "action": "keep",
+   "Name": "Tikka",
+   "action": "edit",
    "original": {
     "Name": "Tofu"
    },
-   "note": ""
+   "note": "Debate: Tofu is little known in Pakistan. Tikka is a familiar local food and is not in the deck; Kebab is a different word."
   },
   {
    "id": "game12-634",
    "Name": "Toilet",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Toilet"
    },
-   "note": ""
+   "note": "Debate: The owner's later decisions ban bathroom/toilet jokes, and drawing or acting this word invites them."
   },
   {
    "id": "game12-635",
@@ -9575,6 +9575,66 @@
    "Name": "Paranda",
    "action": "add",
    "note": "New card (debate): Concrete traditional hair accessory; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Scorpion",
+   "action": "add",
+   "note": "New card (debate): Drawable animal found in Pakistan. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Staircase",
+   "action": "add",
+   "note": "New card (debate): Common household noun and different from Ladder. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sewing Machine",
+   "action": "add",
+   "note": "New card (debate): Familiar object in Pakistani homes. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Scarecrow",
+   "action": "add",
+   "note": "New card (debate): Easy to act out. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Seesaw",
+   "action": "add",
+   "note": "New card (debate): Playground item. Not in the deck under either spelling."
+  },
+  {
+   "id": null,
+   "Name": "Stapler",
+   "action": "add",
+   "note": "New card (debate): Everyday object. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sharpener",
+   "action": "add",
+   "note": "New card (debate): Classic school item. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sunglasses",
+   "action": "add",
+   "note": "New card (debate): Different from Glasses and Goggles, and easy to draw. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Stadium",
+   "action": "add",
+   "note": "New card (debate): Familiar to players through cricket. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Tyre",
+   "action": "add",
+   "note": "New card (debate): Common object, using the local spelling. Different from Wheel and not in the deck."
   }
  ]
 }

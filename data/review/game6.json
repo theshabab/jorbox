@@ -3194,6 +3194,48 @@
    "Description": "Things You Do When You Get Home",
    "action": "add",
    "note": "New card (debate): Pairs with the morning routine card and has many everyday answers. No duplicate found in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Rough",
+   "action": "add",
+   "note": "New card (debate): Texture companion to Smooth/Soft/Hard/Sticky; not in deck; many everyday answers (jhaanwa, sandpaper, bark, brick, cracked heels)."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Light (Not Heavy)",
+   "action": "add",
+   "note": "New card (debate): Pairs with 'Things That Are Heavy' and matches the deck's 'Things That Are Hard (Not Soft)' wording; broad answer pool."
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Daal",
+   "action": "add",
+   "note": "New card (debate): Fits the 'Dishes Made With...' series; 'Pulses (Daals)' lists only daal types, not dishes (daal chawal, haleem, khichri, dahi baray, daal gosht, moong daal halwa)."
+  },
+  {
+   "id": null,
+   "Description": "Excuses for Not Lending Someone Money",
+   "action": "add",
+   "note": "New card (debate): Relatable, family-safe and different from the existing excuse cards."
+  },
+  {
+   "id": null,
+   "Description": "Excuses for Not Helping With Housework",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: broader and more local than room-cleaning (shared rooms, Ammi's chores and errands), and separate from the existing excuse cards and 'Household Chores'."
+  },
+  {
+   "id": null,
+   "Description": "Things You Check Before Leaving the House",
+   "action": "add",
+   "note": "New card (debate): Not in the deck and different from 'Things You Find in Your Pocket' and 'Things People Lose'; enough answers (keys, wallet, phone, gas stove, iron, lights, taps, locks)."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do on a Day Off",
+   "action": "add",
+   "note": "New card (debate): Broad and easy; goes with the morning and get-home routine cards, and nothing like it is in the deck."
   }
  ]
 }
