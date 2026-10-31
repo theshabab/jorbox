@@ -3515,13 +3515,13 @@
   {
    "id": "game11-320",
    "Name": "Problem",
-   "Description": "My dream job involves _____!",
-   "action": "keep",
+   "Description": "My dream job requires too much _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My dream job involves _____!"
    },
-   "note": ""
+   "note": "Debate: 'My dream job involves _____!' is not a problem. The rewrite keeps the idea as a complaint."
   },
   {
    "id": "game11-321",
@@ -3559,13 +3559,13 @@
   {
    "id": "game11-324",
    "Name": "Problem",
-   "Description": "I wish I could auto-correct my _____!",
-   "action": "keep",
+   "Description": "My phone keeps auto-correcting _____ into something embarrassing!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could auto-correct my _____!"
    },
-   "note": ""
+   "note": "Debate: The current card overlaps 'I wish I could Ctrl+Z my _____'. The rewrite is concrete and relatable."
   },
   {
    "id": "game11-325",
@@ -3615,12 +3615,12 @@
    "id": "game11-329",
    "Name": "Problem",
    "Description": "My reflection shows me _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "My reflection shows me _____!"
    },
-   "note": ""
+   "note": "Debate: Unclear and not a problem. Any mirror rewrite would duplicate 'I need a smart mirror that tells me _____!'."
   },
   {
    "id": "game11-330",
@@ -3647,24 +3647,24 @@
   {
    "id": "game11-332",
    "Name": "Problem",
-   "Description": "My secrets are safe with _____!",
-   "action": "keep",
+   "Description": "My secrets always leak because of _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My secrets are safe with _____!"
    },
-   "note": ""
+   "note": "Debate: 'My secrets are safe with _____' isn't a problem. The rewrite makes it a complaint."
   },
   {
    "id": "game11-333",
    "Name": "Problem",
-   "Description": "I wish I could google my _____!",
-   "action": "keep",
+   "Description": "Even Google can't tell me how to fix my _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could google my _____!"
    },
-   "note": ""
+   "note": "Debate: 'I wish I could google my _____' is unclear. The rewrite states an actual problem."
   },
   {
    "id": "game11-334",
@@ -3692,12 +3692,12 @@
    "id": "game11-336",
    "Name": "Problem",
    "Description": "I wish I could repost my _____!",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could retweet my _____!"
    },
-   "note": "clearer wording"
+   "note": "Debate: Weak and unclear (reposting is trivial). It also crowds an already dense block of social-media cards."
   },
   {
    "id": "game11-337",
@@ -3724,24 +3724,24 @@
   {
    "id": "game11-339",
    "Name": "Problem",
-   "Description": "I wish I could unfollow _____!",
-   "action": "keep",
+   "Description": "I can't unfollow _____ because they're family!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could unfollow _____!"
    },
-   "note": ""
+   "note": "Debate: The current card is too close to 'I wish I could unsubscribe from _____'. The rewrite adds a desi family-pressure twist."
   },
   {
    "id": "game11-340",
    "Name": "Problem",
-   "Description": "I need a status update for _____!",
-   "action": "keep",
+   "Description": "Everyone replies to my WhatsApp status with _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I need a status update for _____!"
    },
-   "note": ""
+   "note": "Debate: 'I need a status update for _____' is vague. This is a clear local complaint and doesn't repeat the rewritten 341 about posts nobody likes."
   },
   {
    "id": "game11-341",
@@ -3757,24 +3757,24 @@
   {
    "id": "game11-342",
    "Name": "Problem",
-   "Description": "I wish I could like my own _____!",
-   "action": "keep",
+   "Description": "Nobody ever likes my posts about _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could like my own _____!"
    },
-   "note": ""
+   "note": "Debate: You can already like your own posts, so the original isn't a real problem. The rewrite is a pitchable complaint."
   },
   {
    "id": "game11-343",
    "Name": "Problem",
    "Description": "I need a notification for _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I need a notification for _____!"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'I would like to know when _____ happens'. A 'too many notifications' rewrite would duplicate the inbox-flooding, clogged-timeline and phone-screen cards."
   },
   {
    "id": "game11-344",
@@ -3790,24 +3790,24 @@
   {
    "id": "game11-345",
    "Name": "Problem",
-   "Description": "I wish I could share my _____ with everyone!",
+   "Description": "I accidentally shared my _____ with the family WhatsApp group!",
    "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could share _____!"
    },
-   "note": "clarified vague wording"
+   "note": "clarified vague wording; Debate: The current card duplicates 'I want people to know about my _____'. The rewrite is a funny, pitchable problem."
   },
   {
    "id": "game11-346",
    "Name": "Problem",
-   "Description": "I need a direct message from _____!",
-   "action": "keep",
+   "Description": "_____ keeps leaving me on 'seen'!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I need a direct message from _____!"
    },
-   "note": ""
+   "note": "Debate: 'I need a direct message from _____!' is weak and not a complaint. Being left on 'seen' is a relatable messaging problem that isn't in the deck yet."
   },
   {
    "id": "game11-347",
@@ -3845,13 +3845,13 @@
   {
    "id": "game11-350",
    "Name": "Problem",
-   "Description": "My bio says I love _____!",
-   "action": "keep",
+   "Description": "My bio says I love _____, but I actually can't stand it!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My bio says I love _____!"
    },
-   "note": ""
+   "note": "Debate: The original isn't a complaint. The twist gives players a problem to pitch for."
   },
   {
    "id": "game11-351",
@@ -3867,13 +3867,13 @@
   {
    "id": "game11-352",
    "Name": "Problem",
-   "Description": "I need a filter that hides _____!",
-   "action": "keep",
+   "Description": "I need a beauty filter for my _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I need a filter that hides _____!"
    },
-   "note": ""
+   "note": "Debate: The current card is too close to 'I wish I could filter out _____ from my life'. The rewrite is a clearer, funnier complaint."
   },
   {
    "id": "game11-353",
@@ -3955,13 +3955,13 @@
   {
    "id": "game11-360",
    "Name": "Customer",
-   "Description": "Cafe Server",
-   "action": "keep",
+   "Description": "Dhaba Waiter",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Cafe Server"
    },
-   "note": ""
+   "note": "Debate: Replaces the Western 'Cafe Server' with a customer Pakistani players know. No other waiter is in the deck."
   },
   {
    "id": "game11-361",
@@ -4285,13 +4285,13 @@
   {
    "id": "game11-390",
    "Name": "Customer",
-   "Description": "Diva",
-   "action": "keep",
+   "Description": "Drama Queen",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Diva"
    },
-   "note": ""
+   "note": "Debate: Keeps the personality type without the singer connotation of 'Diva'."
   },
   {
    "id": "game11-391",
@@ -6274,6 +6274,69 @@
    "Description": "My ammi can hear me _____ from three rooms away!",
    "action": "add",
    "note": "New card (debate): Affectionate desi-parent problem; distinct from 224 (scolding)"
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Kabootar Baaz (Pigeon Keeper)",
+   "action": "add",
+   "note": "New card (debate): A well-known local character with no pigeon keeper in the deck. Matches the 'Mochi (Cobbler)' style."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Food Vlogger",
+   "action": "add",
+   "note": "New card (debate): Recognisable locally, and there's no vlogger or influencer customer in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "PUBG Gamer",
+   "action": "add",
+   "note": "New card (debate): The owner allows video games, PUBG is hugely popular in Pakistan, and there's no gamer customer yet."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Naat Khwan",
+   "action": "add",
+   "note": "New card (debate): Naats are allowed, and naat reciters are familiar and respectful. Not in the deck yet."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Retired Fauji Uncle",
+   "action": "add",
+   "note": "New card (debate): Army in-jokes are allowed. This type is distinct from Soldier and Drill Sergeant."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Exam Invigilator",
+   "action": "add",
+   "note": "New card (debate): A familiar school and board-exam figure, distinct from Teacher. Not in the deck yet."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My relatives keep tagging me in posts about _____!",
+   "action": "add",
+   "note": "New card (debate): A social-media and family complaint that doesn't repeat the existing 'My khala keeps asking about my _____!'."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My selfies always get ruined by _____!",
+   "action": "add",
+   "note": "New card (debate): A clear phone-gallery complaint that differs from the gallery and beauty-filter cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always lose online games because of _____!",
+   "action": "add",
+   "note": "New card (debate): A gaming complaint (allowed by the owner) that doesn't lean on the PUBG brand a second time."
   }
  ]
 }

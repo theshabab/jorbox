@@ -296,7 +296,6 @@ NO MAJESTY <---> ALL MAJESTY,Draw a bird that looks this majestic,Drawing
 NOT A BOOKWORM <---> TOTAL BOOKWORM,Draw a school bag that is this likely to belong to a bookworm,Drawing
 KINDA CLICHE <---> VERY UNUSUAL,Draw a mehndi design that is this unusual,Drawing
 ALL KINDS OF BOOKS <---> ONLY HORROR,Draw a logo for a publishing company that is this likely to only publish horror stories,Drawing
-NOT A CULT <---> TOTAL CULT,Draw a logo for an organization that is this likely to really be a cult,Drawing
 NO ADS <---> ALL ADS,Draw a logo for a made-up phone game that is this full of ads,Drawing
 SUCCESSFUL <---> BANKRUPT,Draw a logo for a made-up company that is this likely to go bankrupt soon,Drawing
 HORRID <---> VERY CUTE,Draw a bug that is this cute,Drawing
@@ -316,7 +315,7 @@ MESSY <---> SO SLEEK,Draw a robot that is this sleek,Drawing
 NOT HUMAN SHAPED <---> HUMAN SHAPED,Draw a robot that is this human-shaped,Drawing
 SAFE TUMMY <---> TUMMY ACHE,Draw a meal that is this likely to give you a tummy ache,Drawing
 "RS 100 <---> RS 10,000",Draw a meal that is this expensive,Drawing
-FEEL FINE <---> STRONG HEARTBURN,Draw a meal that is this likely to give you heartburn,Drawing
+WIDE AWAKE <---> NEED A NAP,Draw a meal that is this likely to put you to sleep afterwards,Drawing
 NOT PROFESSIONAL <---> VERY PROFESSIONAL,Draw a stick figure that looks this professional,Drawing
 BRAVE <---> VERY AFRAID,Draw a stick figure that is this fearful,Drawing
 AT HOME <---> AT A SHAADI,Draw an outfit that is this likely to be worn to a shaadi,Drawing
@@ -337,7 +336,7 @@ NORMAL <---> VERY CREEPY,Draw a logo for a dentist office that is this creepy,Dr
 NO WAY <---> EID READY,Draw an outfit that is this likely to be worn on Eid,Drawing
 NOT FOR GYM <---> GYM FIT!!,Draw an outfit that is this likely to be worn at the gym,Drawing
 NOT FOR RAIN <---> MONSOON READY!,Draw an outfit that is this ready for monsoon rain,Drawing
-NOT LONG <---> VERY LONG,Draw a meal that would take this long to cook,Drawing
+10 MINUTES <---> ALL NIGHT,Draw a meal that would take this long to cook,Drawing
 NOT LIKELY <---> VERY LIKELY,Draw a dish that is this likely to be served at a wedding,Drawing
 SO NICE <---> SO MEAN,Draw a stick figure that is this mean,Drawing
 NOT SMART <---> GENIUS,Draw a stick figure that is this smart,Drawing
@@ -354,14 +353,14 @@ BARELY SCARY <---> VERY SCARY,Draw a cake that is this scary,Drawing
 SENSIBLE <---> TOO DECADENT,Draw a dessert that looks this decadent,Drawing
 NO BUGS <---> ALL BUGS,Draw a meal that is probably this full of bugs,Drawing
 NOT IMPORTANT <---> SO IMPORTANT,Draw a uniform for a person that looks this important,Drawing
-FRIENDLY <---> VERY MEAN,Draw a leather jacket and pants for a biker gang that is this mean,Drawing
+HARMLESS <---> VERY TOUGH,Draw a jacket for a motorbike gang that looks this tough,Drawing
 UNSAFE <---> VERY SAFE,Draw an outfit that is this safe for a construction site,Drawing
 PLAIN <---> EVERYTHING ON IT,"Draw a plate of chaat that actually has this much ""everything"" on it",Drawing
 TASTELESS <---> WAY TOO SPICY,Draw chicken wings that are probably this spicy,Drawing
 DELIGHTED <---> DISAPPOINTED,Draw a pizza that is this likely to disappoint a 9-year-old,Drawing
 EASY <---> IMPOSSIBLE,Draw a food item that would be this difficult to eat while driving,Drawing
 NOT SCARY <---> TOO SCARY,Draw a costume for a school play that is this scary,Drawing
-NOT CUTE <---> VERY CUTE,Draw an outfit for a dog that is this adorable,Drawing
+NOT CUTE <---> VERY CUTE,Draw an outfit for a cat that is this adorable,Drawing
 INAPPROPRIATE <---> APPROPRIATE,Draw an outfit that is this appropriate to wear to a funeral,Drawing
 NOT AFRAID <---> VERY AFRAID,Draw a robot that is this afraid of death,Drawing
 COWARD <---> VERY BRAVE,Draw a bug that is this brave,Drawing
@@ -369,20 +368,20 @@ UNHAPPY <---> VERY HAPPY,Draw a stick figure that is this happy with its job,Dra
 UNRIDEABLE <---> VERY RIDEABLE,Draw a pet that you are this likely to be able to ride,Drawing
 EARTH PET <---> ALIEN PET,Draw a pet that is this likely to be from another planet,Drawing
 ROUGH <---> SO GENTLE,Draw a monster that is this gentle,Drawing
-N IS FOR NO <---> M IS FOR MONSTER,Draw a monster that is this likely to appear in a children's alphabet book,Drawing
+NOT IN IT <---> M IS FOR MONSTER,Draw a monster that is this likely to appear in a children's alphabet book,Drawing
 NO WAY <---> PERFECT MATCH,Draw a face that looks this much like your face,Drawing
 GROSS <---> LOVE IT,Draw the face of a person who is eating something they like this much,Drawing
 SERIOUS <---> VERY FUNNY,Draw a truck art design that is this funny,Drawing
 THE YEAR 1950 <---> THE YEAR 2040,Draw a truck art design that would be popular during this year,Drawing
 PURE GOOD <---> PURE EVIL,Draw a toy that is this evil,Drawing
 NOT SMART <---> GENIUS,Draw a monster that is this smart,Drawing
-GRANDMA NAY <---> GRANDMA YAY,Draw a snack that is this likely to be in a grandma’s purse,Drawing
+NANI NAY <---> NANI YAY,Draw a snack that is this likely to be in Nani's handbag,Drawing
 "JUST A FROG <---> WOW, A PRINCE!",Draw a frog that is this likely to actually be a prince,Drawing
 NO SURPRISE <---> SURPRISE!,Draw a cake that is this likely to have a surprise hidden inside it,Drawing
 EMPTY MOUTH <---> HIDING SOMETHING,Draw a dog that is this likely to be hiding something in its mouth,Drawing
 NO CLUE <---> TECH GENIUS,Draw a monster that is this computer-savvy,Drawing
 DON’T TRUST <---> OK TO TRUST,Draw the face of a person who is this trustworthy,Drawing
-KINDA COOL <---> WAY NERDY,Draw a truck art design that is this nerdy,Drawing
+NOT NERDY <---> WAY NERDY,Draw a truck art design that is this nerdy,Drawing
 NO FUN <---> VERY PLAYFUL,Draw a snake that is this playful,Drawing
 NOT CUDDLY <---> VERY CUDDLY,Draw a lizard that is this cuddly,Drawing
 NOT CREEPY <---> VERY CREEPY,Draw a toy that is this creepy,Drawing
@@ -669,3 +668,10 @@ MILDLY ANNOYED <---> FURIOUS,Write a text message from Abbu who is this angry ab
 KEEPS SECRETS <---> TOTAL CHUGHAL KHOR,Make up a nickname for a cousin who is this likely to tell on everyone,Writing
 FULL SIGNAL <---> NO SIGNAL,Draw a logo for a made-up mobile network that is this likely to lose signal,Drawing
 FOCUSED <---> TOTALLY DISTRACTED,Draw a haircut given by a barber who was this distracted by the cricket match on TV,Drawing
+SHAPED LIKE A MAP <---> PERFECTLY GOL,Draw a roti that is this round,Drawing
+NOT AFRAID <---> TERRIFIED,Draw a monster that is this afraid of Ammi's chappal,Drawing
+A FEW DATES <---> OVERFLOWING,Draw an iftar dastarkhwan that is this full,Drawing
+NO FLAGS <---> FULL JASHN-E-AZADI,Draw a bicycle decorated this much for 14 August,Drawing
+SOGGY <---> SUPER CRISPY,Draw a samosa that looks this crispy,Drawing
+PROPERLY FIXED <---> PURE JUGAAR,Draw a pedestal fan that has been repaired with this much jugaar,Drawing
+NOT WORRIED <---> VERY WORRIED,Draw the face of a student who is this worried about their result card,Drawing

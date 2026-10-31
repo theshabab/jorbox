@@ -355,7 +355,7 @@ How many glasses of lassi do you drink in a typical week?,Number
 How many people live in your house?,Number
 How many nieces and nephews do you have?,Number
 How likely are you to be the one who answers the doorbell at home?,0 to 100
-How many times did you call your parents last week?,Number
+How many times did you phone a relative last week?,Number
 How likely are you to win an argument with your mother?,0 to 100
 How many of your relatives' phone numbers are saved in your phone?,Number
 How much do your younger siblings or cousins listen to you?,0 to 100
@@ -374,15 +374,14 @@ How much did you fear your school principal?,0 to 100
 How many sick days did you take last year?,Number
 How many cities in Pakistan have you visited?,Number
 How much do you enjoy train journeys?,0 to 100
-How many hours long was the longest road trip you have taken?,Number
+How many hours was your longest-ever road trip?,Number
 How likely are you to buy souvenirs for everyone back home?,0 to 100
 How many times have you seen snowfall?,Number
-How likely are you to fall asleep during a long bus journey?,0 to 100
 How many times have you been to the beach?,Number
 How much do you want to visit the Hunza Valley?,0 to 100
 How many different airports have you been to?,Number
 How many times have you been on a boat?,Number
-What is your phone's battery percentage right now?,Number
+What is your phone's battery percentage right now?,0 to 100
 How many missed calls do you have right now?,Number
 How likely are you to keep your phone on silent all day?,0 to 100
 How many voice notes did you send yesterday?,Number
@@ -392,7 +391,6 @@ How likely are you to use your phone at the dinner table?,0 to 100
 How many years old is your current phone?,Number
 How much does a cracked phone screen bother you?,0 to 100
 How many chargers do you own?,Number
-How many hours did you sleep last night?,Number
 How much do you talk in your sleep?,0 to 100
 How many pillows do you sleep with?,Number
 How likely are you to doze off as a passenger on a long car ride?,0 to 100
@@ -468,3 +466,10 @@ How many prayer mats (jai-namaz) are in your house?,Number
 How likely are you to quote a sher at the perfect moment in a conversation?,0 to 100
 How likely are you to be the one taking the family photo instead of being in it?,0 to 100
 How many times has a relative asked 'Pehchana mujhe?' when you had no idea who they were?,Number
+How many times this week have you had to restart the WiFi router?,Number
+How many SIM cards have you owned in your life?,Number
+How many times were you made a murga as punishment at school?,Number
+How many times have you hidden a bad result card from your parents?,Number
+How likely are you to sleep on the roof on a hot summer night?,0 to 100
+How likely is your family to bring out the special guest crockery only when relatives visit?,0 to 100
+How likely are you to fight over the window seat on a family trip?,0 to 100

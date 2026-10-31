@@ -4246,13 +4246,13 @@
    "Name": "NOT A CULT <---> TOTAL CULT",
    "Description": "Draw a logo for an organization that is this likely to really be a cult",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "NOT A CULT <---> TOTAL CULT",
     "Description": "Draw a logo for an organization that is this likely to really be a cult",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Cult logos can easily turn into mocking real sects for this audience. The card also overlaps the LEGIT <---> SCAM logo card and the secret-society badge card."
   },
   {
    "id": "game8-328",
@@ -4503,16 +4503,16 @@
   },
   {
    "id": "game8-347",
-   "Name": "FEEL FINE <---> STRONG HEARTBURN",
-   "Description": "Draw a meal that is this likely to give you heartburn",
+   "Name": "WIDE AWAKE <---> NEED A NAP",
+   "Description": "Draw a meal that is this likely to put you to sleep afterwards",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "FEEL FINE <---> STRONG HEARTBURN",
     "Description": "Draw a meal that is this likely to give you heartburn",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Replaces a near-duplicate of the tummy-ache card (344) with a familiar post-dawat angle. Uses the challenger's ends, which are clear opposites."
   },
   {
    "id": "game8-348",
@@ -4789,16 +4789,16 @@
   },
   {
    "id": "game8-369",
-   "Name": "NOT LONG <---> VERY LONG",
+   "Name": "10 MINUTES <---> ALL NIGHT",
    "Description": "Draw a meal that would take this long to cook",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT LONG <---> VERY LONG",
     "Description": "Draw a meal that would take this long to cook",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Concrete ends are easier to place a guess on."
   },
   {
    "id": "game8-370",
@@ -5010,16 +5010,16 @@
   },
   {
    "id": "game8-386",
-   "Name": "FRIENDLY <---> VERY MEAN",
-   "Description": "Draw a leather jacket and pants for a biker gang that is this mean",
+   "Name": "HARMLESS <---> VERY TOUGH",
+   "Description": "Draw a jacket for a motorbike gang that looks this tough",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "FRIENDLY <---> VERY MEAN",
     "Description": "Draw a leather jacket and pants for a biker gang that is this mean",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Uses the challenger's version: simpler wording and opposite ends. Motorbike gangs are known worldwide, and one-wheeling crews do not wear gang jackets."
   },
   {
    "id": "game8-387",
@@ -5102,15 +5102,15 @@
   {
    "id": "game8-393",
    "Name": "NOT CUTE <---> VERY CUTE",
-   "Description": "Draw an outfit for a dog that is this adorable",
+   "Description": "Draw an outfit for a cat that is this adorable",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT CUTE <---> VERY CUTE",
     "Description": "Draw an outfit for a dog that is this adorable",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Cats are the usual pet in Pakistani Muslim homes."
   },
   {
    "id": "game8-394",
@@ -5205,7 +5205,7 @@
   },
   {
    "id": "game8-401",
-   "Name": "N IS FOR NO <---> M IS FOR MONSTER",
+   "Name": "NOT IN IT <---> M IS FOR MONSTER",
    "Description": "Draw a monster that is this likely to appear in a children's alphabet book",
    "Category": "Drawing",
    "action": "edit",
@@ -5214,7 +5214,7 @@
     "Description": "Draw a monster that is this likely to be on Sesame Street",
     "Category": "Drawing"
    },
-   "note": "TV show reference removed"
+   "note": "TV show reference removed; Debate: Replaces the confusing 'N IS FOR NO' pun with a plain opposite."
   },
   {
    "id": "game8-402",
@@ -5296,16 +5296,16 @@
   },
   {
    "id": "game8-408",
-   "Name": "GRANDMA NAY <---> GRANDMA YAY",
-   "Description": "Draw a snack that is this likely to be in a grandma’s purse",
+   "Name": "NANI NAY <---> NANI YAY",
+   "Description": "Draw a snack that is this likely to be in Nani's handbag",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "GRANDMA NAY <---> GRANDMA YAY",
     "Description": "Draw a snack that is this likely to be in a grandma’s purse",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Local framing that matches the deck's other Nani cards and keeps the rhyme."
   },
   {
    "id": "game8-409",
@@ -5374,7 +5374,7 @@
   },
   {
    "id": "game8-414",
-   "Name": "KINDA COOL <---> WAY NERDY",
+   "Name": "NOT NERDY <---> WAY NERDY",
    "Description": "Draw a truck art design that is this nerdy",
    "Category": "Drawing",
    "action": "edit",
@@ -5383,7 +5383,7 @@
     "Description": "Draw a tattoo that is this nerdy",
     "Category": "Drawing"
    },
-   "note": "tattoo -> truck art design"
+   "note": "tattoo -> truck art design; Debate: 'KINDA COOL' is not the opposite of 'WAY NERDY' and reads like a midpoint."
   },
   {
    "id": "game8-415",
@@ -9022,6 +9022,62 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Distinct haircut card with local twist"
+  },
+  {
+   "id": null,
+   "Name": "SHAPED LIKE A MAP <---> PERFECTLY GOL",
+   "Description": "Draw a roti that is this round",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A familiar kitchen joke where both ends are about shape. No roti card exists."
+  },
+  {
+   "id": null,
+   "Name": "NOT AFRAID <---> TERRIFIED",
+   "Description": "Draw a monster that is this afraid of Ammi's chappal",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A well-loved desi joke on a clear scale. No chappal card exists."
+  },
+  {
+   "id": null,
+   "Name": "A FEW DATES <---> OVERFLOWING",
+   "Description": "Draw an iftar dastarkhwan that is this full",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A respectful Ramadan scene that is easy to draw. No iftar card exists."
+  },
+  {
+   "id": null,
+   "Name": "NO FLAGS <---> FULL JASHN-E-AZADI",
+   "Description": "Draw a bicycle decorated this much for 14 August",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Independence Day decorations are fun to draw. A bicycle avoids overlap with the decorated-house wedding card."
+  },
+  {
+   "id": null,
+   "Name": "SOGGY <---> SUPER CRISPY",
+   "Description": "Draw a samosa that looks this crispy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A familiar snack on a clear scale. No samosa card exists."
+  },
+  {
+   "id": null,
+   "Name": "PROPERLY FIXED <---> PURE JUGAAR",
+   "Description": "Draw a pedestal fan that has been repaired with this much jugaar",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A much-loved Pakistani joke where both ends are about the repair."
+  },
+  {
+   "id": null,
+   "Name": "NOT WORRIED <---> VERY WORRIED",
+   "Description": "Draw the face of a student who is this worried about their result card",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A face-drawing card about a familiar school moment. The only exam card is a writing task."
   }
  ]
 }

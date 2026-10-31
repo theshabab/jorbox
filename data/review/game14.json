@@ -4160,10 +4160,10 @@
   },
   {
    "id": null,
-   "Description": "How many times did you call your parents last week?",
+   "Description": "How many times did you phone a relative last week?",
    "Category": "Number",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The original assumes living parents who live elsewhere; the new version works for every player and does not repeat 399 or 328."
   },
   {
    "id": null,
@@ -4293,10 +4293,10 @@
   },
   {
    "id": null,
-   "Description": "How many hours long was the longest road trip you have taken?",
+   "Description": "How many hours was your longest-ever road trip?",
    "Category": "Number",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Shorter, clearer wording with the same meaning."
   },
   {
    "id": null,
@@ -4316,8 +4316,8 @@
    "id": null,
    "Description": "How likely are you to fall asleep during a long bus journey?",
    "Category": "0 to 100",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Near-duplicate of idx 437 'How likely are you to doze off as a passenger on a long car ride?' (verified in the deck)."
   },
   {
    "id": null,
@@ -4350,9 +4350,9 @@
   {
    "id": null,
    "Description": "What is your phone's battery percentage right now?",
-   "Category": "Number",
+   "Category": "0 to 100",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: A battery percentage is always 0-100, so it fits the 0 to 100 category."
   },
   {
    "id": null,
@@ -4421,8 +4421,8 @@
    "id": null,
    "Description": "How many hours did you sleep last night?",
    "Category": "Number",
-   "action": "add",
-   "note": "New card; QA fix"
+   "action": "remove",
+   "note": "Debate: Exact duplicate of idx 30 'How many hours of sleep did you get last night?' (Number)."
   },
   {
    "id": null,
@@ -4948,6 +4948,55 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): A classic family-gathering moment. Not a duplicate of idx 328 or the other relatives cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you had to restart the WiFi router?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable local household card; no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many SIM cards have you owned in your life?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local phone-culture count with a good spread of answers; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times were you made a murga as punishment at school?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Shared Pakistani school memory; mildly dark is allowed; differs from 407 (sent out of class)."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you hidden a bad result card from your parents?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Light school/family confession using the local term 'result card'; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to sleep on the roof on a hot summer night?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Nostalgic local habit; differs from 86 (roof of a bus or car) and the other sleep cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely is your family to bring out the special guest crockery only when relatives visit?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: keeps the guest-crockery joke and gives a wider spread than a count that is nearly always 0-2."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to fight over the window seat on a family trip?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Playful family travel card; the only other window card (189) is about cricket."
   }
  ]
 }
