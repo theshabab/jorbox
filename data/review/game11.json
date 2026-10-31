@@ -4099,12 +4099,12 @@
    "id": "game11-373",
    "Name": "Customer",
    "Description": "Bungee Jumper",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Bungee Jumper"
    },
-   "note": ""
+   "note": "Debate: Western-only activity; Daredevil is live (edit) and covers the thrill-seeker idea."
   },
   {
    "id": "game11-374",
@@ -4154,12 +4154,12 @@
    "id": "game11-378",
    "Name": "Customer",
    "Description": "Class Clown",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Class Clown"
    },
-   "note": ""
+   "note": "Debate: Clown and Comedian are live; Class Clown is a Western school trope."
   },
   {
    "id": "game11-379",
@@ -4407,12 +4407,12 @@
    "id": "game11-401",
    "Name": "Customer",
    "Description": "Gladiator",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Gladiator"
    },
-   "note": ""
+   "note": "Debate: Roman arena figure players won't relate to; wrestler idea stays via live Pehlwan."
   },
   {
    "id": "game11-402",
@@ -4726,12 +4726,12 @@
    "id": "game11-430",
    "Name": "Customer",
    "Description": "Mob Boss",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Mob Boss"
    },
-   "note": ""
+   "note": "Debate: Western mafia trope; Goon is live and covers it."
   },
   {
    "id": "game11-431",
@@ -7023,6 +7023,34 @@
    "Description": "Load shedding always traps me in the lift with _____!",
    "action": "add",
    "note": "New card (debate): The challenger's version avoids near-duplicating live card 223 (\"Load shedding always happens when I _____!\") and reads more smoothly."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Peer Baba",
+   "action": "add",
+   "note": "New card (debate): Instantly recognisable local figure, peer jokes allowed, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mazdoor (Daily Wage Labourer)",
+   "action": "add",
+   "note": "New card (debate): Common local customer; amended to follow the deck's 'Local Term (English)' gloss style."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Murghi Wala (Chicken Seller)",
+   "action": "add",
+   "note": "New card (debate): Familiar bazaar vendor distinct from butcher; follows gloss style."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mureed (Peer's Devotee)",
+   "action": "add",
+   "note": "New card (debate): Recognisable local customer, distinct from Peer Baba; fits allowed peer jokes."
   }
  ]
 }

@@ -435,7 +435,7 @@
   {
    "id": "game1-34",
    "Name": "Seekh Kabab",
-   "Description": "Minced meat grilled on skewers",
+   "Description": "Minced meat moulded onto long skewers",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -443,7 +443,7 @@
     "Description": "A traditional kebab",
     "Category": "Traditional Dishes"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Stresses mince moulded on skewers, which sets it apart from Tikka's chunks and from Chapli, Gola and Reshmi Kabab."
   },
   {
    "id": "game1-35",
@@ -539,7 +539,7 @@
   {
    "id": "game1-42",
    "Name": "Katakat",
-   "Description": "Chopped organ meat clattered on a griddle",
+   "Description": "Organ meat chopped noisily on a tawa",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -547,7 +547,7 @@
     "Description": "A traditional street food",
     "Category": "Traditional Dishes"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes the awkward 'clattered' and keeps the clue; tawa is more natural for Pakistani players than griddle."
   },
   {
    "id": "game1-43",
@@ -565,7 +565,7 @@
   {
    "id": "game1-44",
    "Name": "Tikka",
-   "Description": "Spiced chunks grilled on skewers",
+   "Description": "Red-spiced marinated chicken pieces, charcoal-grilled",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -573,7 +573,7 @@
     "Description": "A traditional grilled meat",
     "Category": "Traditional Dishes"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint nearly duplicated Seekh Kabab's. Amended version adds red-spiced, which keeps Tikka clear of the creamy Malai Boti."
   },
   {
    "id": "game1-45",

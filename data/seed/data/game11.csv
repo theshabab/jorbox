@@ -332,12 +332,10 @@ Customer,Bride
 Customer,Hostel Warden
 Customer,Camel Rider
 Customer,Camper
-Customer,Bungee Jumper
 Customer,Caveman
 Customer,Castaway
 Customer,Cricket Commentator
 Customer,Chef
-Customer,Class Clown
 Customer,Cricket Coach
 Customer,Clown
 Customer,Coal Miner
@@ -359,7 +357,6 @@ Customer,Weather Forecaster
 Customer,Fisherman
 Customer,Geek
 Customer,College Student
-Customer,Gladiator
 Customer,Investor
 Customer,Dadi Amma
 Customer,Goon
@@ -382,7 +379,6 @@ Customer,Lawyer
 Customer,Woodcutter
 Customer,Maalish Wala
 Customer,Mad Scientist
-Customer,Mob Boss
 Customer,Madari
 Customer,Malang
 Customer,Commando
@@ -660,3 +656,7 @@ Problem,The ATM always runs out of cash right before _____!
 Problem,My smartwatch keeps nagging me to _____!
 Problem,The courier always shows up right when I'm _____!
 Problem,Load shedding always traps me in the lift with _____!
+Customer,Peer Baba
+Customer,Mazdoor (Daily Wage Labourer)
+Customer,Murghi Wala (Chicken Seller)
+Customer,Mureed (Peer's Devotee)

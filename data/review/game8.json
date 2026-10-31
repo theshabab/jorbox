@@ -3061,15 +3061,15 @@
   {
    "id": "game8-236",
    "Name": "1/2 STAR <---> 5 STARS",
-   "Description": "Make up a name for an ice cream parlor that gets this many stars in their reviews",
+   "Description": "Make up a name for a kulfi shop that gets this many stars in their reviews",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "1/2 STAR <---> 5 STARS",
     "Description": "Make up a name for an ice cream parlor that gets this many stars in their reviews",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Kulfi shop is a good local swap for ice cream parlor; scale unchanged."
   },
   {
    "id": "game8-237",
@@ -3193,13 +3193,13 @@
    "Name": "WIDE AWAKE <---> VERY TIRED",
    "Description": "Draw the face of a person who is this tired",
    "Category": "Drawing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "TOO AWAKE <---> VERY TIRED",
     "Description": "Draw the face of a person that is this tired",
     "Category": "Drawing"
    },
-   "note": "Debate: 'WIDE AWAKE' is the natural opposite of 'very tired'; grammar fix"
+   "note": "Debate: Duplicate of live card WIDE AWAKE <---> VERY EXHAUSTED (game8-362, action keep, confirmed live)."
   },
   {
    "id": "game8-247",
@@ -3360,15 +3360,15 @@
   {
    "id": "game8-259",
    "Name": "NOT LIKELY <---> VERY LIKELY",
-   "Description": "Draw a toy that is this likely to be pulled from shelves for copyright infringement",
+   "Description": "Draw a toy that is this likely to be a cheap fake copy of a famous toy sold at a local bazaar",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT LIKELY <---> VERY LIKELY",
     "Description": "Draw a toy that is this likely to be pulled from shelves for copyright infringement",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Replaces US copyright-recall frame with a clearer local bazaar knock-off idea."
   },
   {
    "id": "game8-260",
@@ -3671,16 +3671,16 @@
   },
   {
    "id": "game8-283",
-   "Name": "NOT AN AIRLINE <---> DEF AN AIRLINE",
+   "Name": "NOT AN AIRLINE <---> DEFINITELY AN AIRLINE",
    "Description": "Draw a logo for a made-up company that is this likely to be an airline",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT AN AIRLINE <---> DEF AN AIRLINE",
     "Description": "Draw a logo for a made-up company that is this likely to be an airline",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Spell out DEF, which reads like texting slang or a typo. Only idx 282 changed since 283 and 286 were not verified."
   },
   {
    "id": "game8-284",
@@ -3840,16 +3840,16 @@
   },
   {
    "id": "game8-296",
-   "Name": "NORMAL BIRD <---> PICASSO BIRD",
-   "Description": "Draw a bird that looks this much like Picasso drew it",
+   "Name": "REALISTIC BIRD <---> ABSTRACT ART BIRD",
+   "Description": "Draw a bird that looks this much like modern abstract art",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NORMAL BIRD <---> PICASSO BIRD",
     "Description": "Draw a bird that looks this much like Picasso drew it",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Removes Western Picasso reference; clearer opposite ends."
   },
   {
    "id": "game8-297",
@@ -4321,16 +4321,16 @@
   },
   {
    "id": "game8-333",
-   "Name": "NO LOVE <---> FULL OF LOVE",
-   "Description": "Draw a robot that is this capable of love",
+   "Name": "UNCARING <---> VERY CARING",
+   "Description": "Draw a robot that is this kind and caring",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NO LOVE <---> FULL OF LOVE",
     "Description": "Draw a robot that is this capable of love",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment accepted: clean opposite ends and no romance reading."
   },
   {
    "id": "game8-334",
@@ -9822,6 +9822,70 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Drawing card for a Writing-heavy slice; no moustache card in deck; neutral end avoids a caste/biradari stereotype."
+  },
+  {
+   "id": null,
+   "Name": "IGNORES GUESTS <---> SITS ON EVERY GUEST",
+   "Description": "Draw a cat that is this likely to jump onto the lap of every guest",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New pet card, no cat-lap duplicate, clear ends."
+  },
+  {
+   "id": null,
+   "Name": "STAYS ON THE WALL <---> FALLS ON YOUR HEAD",
+   "Description": "Draw a chipkali (house lizard) that is this likely to fall on someone's head",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable local image; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "LAST IN LINE <---> FIRST AT THE DEG",
+   "Description": "Make up a nickname for a shaadi guest who is this quick to reach the food",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local wedding theme, fresh nickname card."
+  },
+  {
+   "id": null,
+   "Name": "SHORT AND SWEET <---> TEN MINUTES LONG",
+   "Description": "Write the start of a WhatsApp voice note from a relative who is about to talk for this long",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended task fits the scale better."
+  },
+  {
+   "id": null,
+   "Name": "WATERY CHAI <---> PERFECT KADAK CHAI",
+   "Description": "Draw a monster that makes chai this well",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment gives parallel opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "ALWAYS ON TIME <---> ALWAYS LATE",
+   "Description": "Draw a logo for a made-up school van service that is this likely to drop kids late",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment gives plain opposite ends; school-van frame is local."
+  },
+  {
+   "id": null,
+   "Name": "MINDS OWN BUSINESS <---> KNOWS EVERYONE'S BUSINESS",
+   "Description": "Make up a nickname for a neighbour uncle who is this nosy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable local type; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "NOT SCARED <---> HIDES UNDER THE TABLE",
+   "Description": "Draw a clown that is this scared of a balloon popping",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fresh clown card, clear ends."
   }
  ]
 }
