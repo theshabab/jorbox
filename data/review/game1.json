@@ -4558,13 +4558,13 @@
    "Name": "Scissors",
    "Description": "Two blades for cutting",
    "Category": "Stationery",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Scissors",
     "Description": "A cutting tool",
     "Category": "Stationery"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as a duplicate answer"
   },
   {
    "id": "game1-352",
@@ -4688,13 +4688,13 @@
    "Name": "File",
    "Description": "Holds loose papers in order",
    "Category": "Stationery",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "File",
     "Description": "A storage folder",
     "Category": "Stationery"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as a duplicate answer"
   },
   {
    "id": "game1-362",
@@ -4831,13 +4831,13 @@
    "Name": "Orange",
    "Description": "Colour of a ripe kinnow",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Orange",
     "Description": "A secondary color",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as a duplicate answer"
   },
   {
    "id": "game1-373",
@@ -4948,26 +4948,26 @@
    "Name": "Gold",
    "Description": "Shiny metal of jewellery",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Gold",
     "Description": "A metallic color",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as a duplicate answer"
   },
   {
    "id": "game1-382",
    "Name": "Silver",
    "Description": "Shiny metal colour of coins",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Silver",
     "Description": "A metallic color",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as a duplicate answer"
   },
   {
    "id": "game1-383",
@@ -5091,13 +5091,13 @@
    "Name": "Peach",
    "Description": "Soft orange-pink, like the fruit",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Peach",
     "Description": "A light orange",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as a duplicate answer"
   },
   {
    "id": "game1-393",
@@ -10614,6 +10614,86 @@
    "Name": "Firefighter",
    "Description": "Puts out blazes with a hose",
    "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Moustache",
+   "Description": "Moonchh; hair above the upper lip",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Wrist",
+   "Description": "Kalai; where you wear a watch",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Eyelash",
+   "Description": "Palak; tiny hairs on the eyelid edge",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Brain",
+   "Description": "Dimagh; organ you think with",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Traffic Warden",
+   "Description": "Issues challans at signals",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hakeem",
+   "Description": "Desi healer who checks nabz, gives herbs",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Delivery Rider",
+   "Description": "Brings your Foodpanda order by bike",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Coaster",
+   "Description": "Toyota minibus for baraats and trips",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Whitener",
+   "Description": "Correction fluid for pen mistakes",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Khaki",
+   "Description": "Brownish-beige of army uniforms",
+   "Category": "Colors",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }

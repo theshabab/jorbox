@@ -337,7 +337,6 @@ Ruler,"Draws straight lines, measures length",Stationery
 Notebook,Bound pages for class work,Stationery
 Paper,Thin sheet you write on,Stationery
 Glue,Sticks things together,Stationery
-Scissors,Two blades for cutting,Stationery
 Marker,Thick-tipped pen for whiteboards,Stationery
 Highlighter,Bright pen to mark text,Stationery
 Stapler,Joins papers with metal staples,Stationery
@@ -347,7 +346,6 @@ Tape,Sticky strip on a roll,Stationery
 Calculator,Device for doing sums,Stationery
 Compass,Geometry-box tool for drawing circles,Stationery
 Protractor,Geometry-box tool for measuring angles,Stationery
-File,Holds loose papers in order,Stationery
 Folder,Cover for keeping papers together,Stationery
 Envelope,Paper cover for posting letters,Stationery
 Diary,Daily book for personal notes,Stationery
@@ -358,7 +356,6 @@ Red,Colour of blood and chillies,Colors
 Blue,Colour of a clear sky,Colors
 Green,Colour of Pakistan's flag and leaves,Colors
 Yellow,Colour of bananas and the sun,Colors
-Orange,Colour of a ripe kinnow,Colors
 Purple,Mix of red and blue,Colors
 Pink,"Light red, like roses",Colors
 Black,Colour of a moonless night,Colors
@@ -367,8 +364,6 @@ Grey,Colour of ash and rain clouds,Colors
 Brown,Colour of soil and wood,Colors
 Maroon,Dark reddish-brown colour,Colors
 Turquoise,Blue-green gemstone colour,Colors
-Gold,Shiny metal of jewellery,Colors
-Silver,Shiny metal colour of coins,Colors
 Beige,Pale sandy brown,Colors
 Cream,"Pale yellowish-white, like malai",Colors
 Indigo,Deep blue between blue and violet,Colors
@@ -378,7 +373,6 @@ Cyan,Bright greenish-blue,Colors
 Teal,Dark blue-green,Colors
 Olive,"Dull yellow-green, like the fruit",Colors
 Navy,"Very dark blue, like uniforms",Colors
-Peach,"Soft orange-pink, like the fruit",Colors
 Head,Top part of the body,Body Parts
 Eye,Organ used for seeing,Body Parts
 Ear,Organ you listen with,Body Parts
@@ -837,3 +831,13 @@ Pakistan Monument,Petal-shaped national memorial in Islamabad,Historical Places
 Gardener,Mali who waters plants and trims hedges,Occupations
 Photographer,Takes pictures at shaadis and events,Occupations
 Firefighter,Puts out blazes with a hose,Occupations
+Moustache,Moonchh; hair above the upper lip,Body Parts
+Wrist,Kalai; where you wear a watch,Body Parts
+Eyelash,Palak; tiny hairs on the eyelid edge,Body Parts
+Brain,Dimagh; organ you think with,Body Parts
+Traffic Warden,Issues challans at signals,Occupations
+Hakeem,"Desi healer who checks nabz, gives herbs",Occupations
+Delivery Rider,Brings your Foodpanda order by bike,Occupations
+Coaster,Toyota minibus for baraats and trips,Transport
+Whitener,Correction fluid for pen mistakes,Stationery
+Khaki,Brownish-beige of army uniforms,Colors
