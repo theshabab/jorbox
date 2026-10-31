@@ -22069,13 +22069,13 @@
    "Name": "",
    "Description": "Cat in the ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Cat in the ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fragment of a US children's book title; weak prompt that this audience mostly won't recognise"
   },
   {
    "id": "game5-1699",
@@ -22353,15 +22353,15 @@
   {
    "id": "game5-1720",
    "Name": "",
-   "Description": "Choosey mothers choose ____.",
+   "Description": "Smart Ammis always choose ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Choosey mothers choose ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localises the US-only peanut-butter slogan and fixes the 'Choosey' spelling"
   },
   {
    "id": "game5-1721",
@@ -22470,7 +22470,7 @@
   {
    "id": "game5-1729",
    "Name": "",
-   "Description": "Classic summer camp prank: while someone is asleep, put ____ in his shoes.",
+   "Description": "Classic hostel prank: while someone is asleep, put ____ in his shoes.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -22478,7 +22478,7 @@
     "Description": "Classic summer camp prank: while someone is asleep, put his hand in ____.",
     "Category": ""
    },
-   "note": "removed bedwetting prank"
+   "note": "removed bedwetting prank; Debate: Summer camp is US-centric; hostel is the local equivalent"
   },
   {
    "id": "game5-1730",
@@ -22535,15 +22535,15 @@
   {
    "id": "game5-1734",
    "Name": "",
-   "Description": "CNN breaking news! Scientists discover ____.",
+   "Description": "Breaking news! Pakistani scientists discover ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "CNN breaking news! Scientists discover ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Drops the US news channel and keeps the joke"
   },
   {
    "id": "game5-1735",
@@ -22691,28 +22691,28 @@
   {
    "id": "game5-1746",
    "Name": "",
-   "Description": "Coming this fall: garam masala ____!",
+   "Description": "Coming this winter: garam masala ____!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Coming this fall: garam masala ____!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Fall' is US usage; winter suits garam masala"
   },
   {
    "id": "game5-1747",
    "Name": "",
-   "Description": "Coming this holiday season, Metal Gear Solid: ____.",
+   "Description": "Coming this Eid, Metal Gear Solid: ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Coming this holiday season, Metal Gear Solid: ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Holiday season' implies Christmas; Eid is the local release season"
   },
   {
    "id": "game5-1748",
@@ -22979,13 +22979,13 @@
    "Name": "",
    "Description": "Consider including ____ in your nikah speech.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Consider including ____ in your vows.",
     "Category": ""
    },
-   "note": "vows -> nikah"
+   "note": "Debate: A nikah has a khutba, not a speech, and the card repeats 1989 'Every wedding speech should include at least one mention of ____.'"
   },
   {
    "id": "game5-1769",
@@ -23133,15 +23133,15 @@
   {
    "id": "game5-1780",
    "Name": "",
-   "Description": "Crossfitters won't stop talking about a new exercise in their routine that involves ____.",
+   "Description": "Gym bros won't stop talking about a new exercise in their routine that involves ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Crossfitters won't stop talking about a new exercise in their routine that involves ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: CrossFit is a niche Western reference"
   },
   {
    "id": "game5-1781",
@@ -23174,13 +23174,13 @@
    "Name": "",
    "Description": "K2's new tourism campaign: come for ____, stay for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "K2's new tourism campaign: come for ____, stay for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of 1739 'Come to Lahore for the ____, stay for the ____' and the Nathia Gali card"
   },
   {
    "id": "game5-1784",
@@ -23224,15 +23224,15 @@
   {
    "id": "game5-1787",
    "Name": "",
-   "Description": "Dad seems to never notice ____.",
+   "Description": "Abbu never seems to notice ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Dad seems to never notice ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the word order and uses the deck's Abbu framing (challenger missed-issue C2)"
   },
   {
    "id": "game5-1788",
@@ -23380,15 +23380,15 @@
   {
    "id": "game5-1799",
    "Name": "",
-   "Description": "Dan Brown's latest novel explores the hidden symbolic meaning behind ____.",
+   "Description": "A new mystery novel explores the hidden symbolic meaning behind ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Dan Brown's latest novel explores the hidden symbolic meaning behind ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Drops the living Western celebrity author and keeps the joke"
   },
   {
    "id": "game5-1800",
@@ -23588,7 +23588,7 @@
   {
    "id": "game5-1815",
    "Name": "",
-   "Description": "Dear Ammi and Abbu, summer camp is fun. I like playing cricket. Yesterday, one of the older kids taught me how to ____. Love, Ali",
+   "Description": "Dear Ammi and Abbu, Nani's house is fun. I like playing cricket. Yesterday, my older cousins taught me how to ____. Love, Ali",
    "Category": "",
    "action": "edit",
    "original": {
@@ -23596,7 +23596,7 @@
     "Description": "Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about ____. I love you, Casey",
     "Category": ""
    },
-   "note": "localised"
+   "note": "localised; Debate: Replaces US summer camp with summers at Nani's house"
   },
   {
    "id": "game5-1816",
@@ -23679,7 +23679,7 @@
   {
    "id": "game5-1822",
    "Name": "",
-   "Description": "Dearly beloved friends, we are gathered here today to celebrate the marriage of ____ and ____.",
+   "Description": "Ladies and gentlemen, welcome to the walima of ____ and ____!",
    "Category": "",
    "action": "edit",
    "original": {
@@ -23687,7 +23687,7 @@
     "Description": "Dearly beloved friends, we are gathered here to join together these two persons in ____.",
     "Category": ""
    },
-   "note": "church vows -> wedding"
+   "note": "church vows -> wedding; Debate: 'Dearly beloved, we are gathered here' is church-wedding wording"
   },
   {
    "id": "game5-1823",
@@ -23848,7 +23848,7 @@
   {
    "id": "game5-1835",
    "Name": "",
-   "Description": "Deviating from his usual landscapes, Jimmy Engineer painted ____ for his latest exhibition.",
+   "Description": "Deviating from his usual landscapes, a famous Pakistani painter painted ____ for his latest exhibition.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -23856,7 +23856,7 @@
     "Description": "Deviating from his usual landscapes, Jimmy Engineer painted ____ in his most recent episode.",
     "Category": ""
    },
-   "note": "fixed TV-episode wording"
+   "note": "fixed TV-episode wording; Debate: Avoids naming a living non-political public figure and keeps the joke (challenger missed-issue C3)"
   },
   {
    "id": "game5-1836",
@@ -23991,7 +23991,7 @@
   {
    "id": "game5-1846",
    "Name": "",
-   "Description": "Did you see the news? ____ had the biggest collection of ____ I ever saw!",
+   "Description": "Did you see the news? ____ was caught with the biggest collection of ____ ever!",
    "Category": "",
    "action": "edit",
    "original": {
@@ -23999,7 +23999,7 @@
     "Description": "Did you see the last episode of Hoarders? ____ had the biggest collection of ____ I ever saw!",
     "Category": ""
    },
-   "note": "TV show -> news"
+   "note": "TV show -> news; Debate: Fixes the broken grammar ('I ever saw')"
   },
   {
    "id": "game5-1847",
@@ -25135,7 +25135,7 @@
   {
    "id": "game5-1934",
    "Name": "",
-   "Description": "During his short-lived boxing career, the boxer fought under the name \"Sultan ____\".",
+   "Description": "During his short-lived boxing career, Abbu fought under the name \"Sultan ____\".",
    "Category": "",
    "action": "edit",
    "original": {
@@ -25143,7 +25143,7 @@
     "Description": "During his short-lived boxing career, the Boxer fought under the name Sultan \"____\" Rahi.",
     "Category": ""
    },
-   "note": "removed film actor reference"
+   "note": "removed film actor reference; Debate: The earlier localisation left 'the boxer fought', which reads wrongly; giving the sentence a subject makes the joke land (challenger missed-issue C1)"
   },
   {
    "id": "game5-1935",
@@ -25200,15 +25200,15 @@
   {
    "id": "game5-1939",
    "Name": "",
-   "Description": "During my last physical, my doctor told me to never again ____.",
+   "Description": "During my last medical check-up, my doctor told me to never again ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "During my last physical, my doctor told me to never again ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Physical' is US usage; the punchline differs from the 'cut back on' check-up card"
   },
   {
    "id": "game5-1940",
@@ -25759,15 +25759,15 @@
   {
    "id": "game5-1982",
    "Name": "",
-   "Description": "Every night I say a little prayer for ____ on Earth.",
+   "Description": "Every night, I make a little dua for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Every night I say a little prayer for ____ on Earth.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the awkward Western 'little prayer for ____ on Earth'. This is the challenger's amendment, which drops 'before bed' so the card does not echo 1994"
   },
   {
    "id": "game5-1983",
@@ -101429,6 +101429,78 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): An easy everyday prompt. Game5 has no dead-phone card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The truck art on the back of my rickshaw proudly says: \"Dekh magar ____.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local truck-art prompt; no truck-art or 'Dekh magar' card in the deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi only takes out the good crockery when ____ comes over.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable desi household joke; no crockery card in this deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The school van uncle refuses to leave until ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local school-life prompt; no school van card in this deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My CSS interview went badly when the panel asked me about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Pakistani civil-service exam joke; no CSS card in the deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu's favourite kabootar flew off and joined ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family pigeon-keeping joke; no kabootar card in this deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "This Bakra Eid, our bakra escaped and was finally found ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Eid ul Adha family chaos about the bakra, not the worship; no bakra card in this deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Every Pakistani house has a kitchen drawer full of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Universal desi-home observation; only an unrelated US crisper-drawer card exists"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "SIPAHI: Sir, I missed morning PT because of ____. HAVALDAR: ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Army in-joke the owner allows; the setup differs from 1908 and the existing Havaldar cards"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The tandoor wala gave me an extra naan because ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local food prompt; no tandoor-wala or naan card in this deck"
   }
  ]
 }

@@ -10704,7 +10704,7 @@
   },
   {
    "id": "game15-824",
-   "Name": "Western Punjabi",
+   "Name": "Punjabi (Western / Pakistani)",
    "Description": "~90M",
    "Category": "Most Spoken Languages (Native Speakers - High to Low)",
    "action": "edit",
@@ -10713,7 +10713,7 @@
     "Description": "~90M",
     "Category": "most Spoken Languages (Native Speakers - High to Low)"
    },
-   "note": "category capitalised"
+   "note": "category capitalised; Debate: Says that this is the Pakistani variety, so players recognise it faster. The value (~90M) matches census estimates."
   },
   {
    "id": "game15-825",
@@ -11643,13 +11643,13 @@
    "Name": "Salvator Mundi",
    "Description": "$450M (da Vinci, 2017)",
    "Category": "Most Expensive Paintings (Sold Price - High to Low)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Salvator Mundi",
     "Description": "da Vinci",
     "Category": "Most Expensive Paintings (Sold Price - High to Low)"
    },
-   "note": "replaced artist-only description with reported sale price and year"
+   "note": "Debate: The painting depicts Prophet Isa (AS) as Christ the Saviour, and the content rules ban depictions of prophets. Six correctly valued paintings remain."
   },
   {
    "id": "game15-897",
@@ -12810,16 +12810,16 @@
   },
   {
    "id": "game15-986",
-   "Name": "Oreos",
+   "Name": "Oreo",
    "Description": "1912",
    "Category": "Snack Foods (Introduction Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Oreos",
     "Description": "1912",
     "Category": "Snack Foods (Introduction Year)"
    },
-   "note": ""
+   "note": "Debate: Uses the correct brand name, Oreo (singular)."
   },
   {
    "id": "game15-987",
@@ -28905,6 +28905,30 @@
    "Category": "Melting Points (Low to High)",
    "action": "add",
    "note": "New card (debate): Correct value; highest-melting metal."
+  },
+  {
+   "id": null,
+   "Name": "Makran Coast, Balochistan 1945",
+   "Description": "8.1",
+   "Category": "Major Earthquakes (Magnitude - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Pakistan's strongest recorded earthquake (Mw 8.1, with the Makran tsunami). It is a natural Pakistani frame and is not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Kashmir, Pakistan 2005",
+   "Description": "7.6",
+   "Category": "Major Earthquakes (Magnitude - High to Low)",
+   "action": "add",
+   "note": "New card (debate): The 2005 earthquake (USGS Mw 7.6) is well known to Pakistani players. It is not a duplicate and is a clean low anchor."
+  },
+  {
+   "id": null,
+   "Name": "Urdu",
+   "Description": "~78M",
+   "Category": "Most Spoken Languages (Native Speakers - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: adds Urdu with only its native-speaker count, in the same bare '~NM' format as the other cards. The second-language figure is left out because it is not what orders this category."
   }
  ]
 }

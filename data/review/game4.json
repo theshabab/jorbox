@@ -11519,7 +11519,7 @@
    "Description": "The English word \"admiral\" comes from the Arabic title \"amir al-bahr\", meaning \"commander of the ____\".",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New Arabic word-origin card; not in deck"
+   "note": "New card (debate): New Arabic word-origin card; not in deck; Debate: The fact is correct. This fills the empty category to match the deck's other Arabic word-origin cards."
   },
   {
    "id": null,
@@ -11527,7 +11527,7 @@
    "Description": "The English word \"magazine\" comes from the Arabic \"makhazin\", meaning ____.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New Arabic word-origin card; not in deck"
+   "note": "New card (debate): New Arabic word-origin card; not in deck; Debate: The fact is correct (plural of makhzan, storehouse). This fills the empty category."
   },
   {
    "id": null,
@@ -11535,7 +11535,7 @@
    "Description": "The English word \"shampoo\" comes from the Hindustani \"champo\", meaning to press or ____.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New South Asian word-origin card; not in deck"
+   "note": "New card (debate): New South Asian word-origin card; not in deck; Debate: The fact is correct (from champna, to press or knead). This fills the empty category."
   },
   {
    "id": null,
@@ -11543,7 +11543,7 @@
    "Description": "In 1810, Sake Dean Mahomed, a Muslim traveller from Patna, opened Britain's first ____ in London.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New subcontinent history card; accurate claim without giving the answer away (challenger amendment)"
+   "note": "New card (debate): New subcontinent history card; accurate claim without giving the answer away (challenger amendment); Debate: The fact is correct (Hindoostanee Coffee House, 1810). This fills the empty category."
   },
   {
    "id": null,
@@ -11551,7 +11551,63 @@
    "Description": "The word \"pyjama\" comes from the Persian and Urdu \"pay-jama\", meaning a garment for the ____.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New Urdu word-origin card; not in deck"
+   "note": "New card (debate): New Urdu word-origin card; not in deck; Debate: The fact is correct. This fills the empty category to match the deck's existing Urdu-origin group."
+  },
+  {
+   "id": null,
+   "Name": "Peshawar",
+   "Description": "The colour \"khaki\" (from the Urdu and Persian \"khak\", dust) was first used for military uniforms by the Corps of Guides, a regiment raised in 1846 in ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version. Every Urdu speaker knows 'khak' means dust, so this asks instead where the Guides were raised (Peshawar, December 1846); they were the first unit to wear khaki. The answer is true and harder to guess."
+  },
+  {
+   "id": null,
+   "Name": "thrown",
+   "Description": "The word \"mattress\" comes from the Arabic \"matrah\", meaning a place where something is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (Etymonline), surprising and good for bluffs. It is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "manufacture",
+   "Description": "The word \"arsenal\" comes from the Arabic \"dar al-sina'a\", meaning \"house of ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (via Venetian arzana) and not in the deck. The full phrase is obscure enough to bluff on."
+  },
+  {
+   "id": null,
+   "Name": "spotted",
+   "Description": "The animal name \"cheetah\" comes from the Hindustani \"chita\", from a Sanskrit word meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (Sanskrit citraka, speckled). It does not duplicate the cheetah chirp card."
+  },
+  {
+   "id": null,
+   "Name": "Bengal",
+   "Description": "The word \"bungalow\" comes from the Hindustani \"bangla\", meaning a house built in the style of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "dry",
+   "Description": "The English word \"jungle\" comes from the Hindustani \"jangal\", from a Sanskrit word that originally meant ____, barren land.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (Sanskrit jangala, arid land). The answer is the opposite of what players expect, so it makes good bluffs."
+  },
+  {
+   "id": null,
+   "Name": "Shampooing",
+   "Description": "Sake Dean Mahomed later ran a bathhouse in Brighton and was appointed \"____ Surgeon\" to King George IV.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True and amusing (Brighton baths, 1814; styled Shampooing Surgeon to George IV). Its answer differs from the related slice cards."
   }
  ]
 }
