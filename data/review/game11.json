@@ -6449,6 +6449,69 @@
    "Description": "Surprise mehmaan always show up right when I _____!",
    "action": "add",
    "note": "New card (debate): Unannounced guests differ from 'My mehmaan never leave before _____!'; verb-clause blanks are already used in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Patwari (Land Record Officer)",
+   "action": "add",
+   "note": "New card (debate): Well-known local figure, not in the deck, and the gloss matches the deck's 'Raj Mistri (Mason)' style."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Coolie (Railway Porter)",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's amendment. A railway porter is a recognisable customer that is not in the deck, and 'Coolie' is the spelling players actually use (other decks already use it)."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Masi (House Help)",
+   "action": "add",
+   "note": "New card (debate): Familiar household figure who is different from the Babysitter and Janitor cards. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Toll Plaza Attendant",
+   "action": "add",
+   "note": "New card (debate): Recognisable motorway job that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Juice Wala",
+   "action": "add",
+   "note": "New card (debate): Familiar street vendor that is not among the existing wala cards (Chai, Barf, Gol Gappay, Bhutta, Paan, Sabzi, Doodh, Deg, Tandoor, Kabari, Maalish)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My darzi never finishes my Eid clothes before Chaand Raat because of _____!",
+   "action": "add",
+   "note": "New card (debate): Classic Eid complaint about a late tailor. It is not a duplicate of 'My tailor always ruins my _____!', which is about bad work."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The landlord raises the rent every time I _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable complaint, and the deck has no landlord or rent card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Ammi's 'five minutes' at the bazaar always turns into _____!",
+   "action": "add",
+   "note": "New card (debate): Fun family joke that is different from the existing ammi, bazaar and five-minute cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every rishta meeting goes wrong because of my _____!",
+   "action": "add",
+   "note": "New card (debate): The deck's only rishta Problem card is about rishta hunting, so this is not a duplicate."
   }
  ]
 }

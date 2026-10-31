@@ -8390,16 +8390,16 @@
   },
   {
    "id": "game8-646",
-   "Name": "Terrifying <---> Thrilling",
+   "Name": "Terrifying <---> Soothing",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Terrifying <---> Thrilling",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Terrifying and thrilling overlap (a roller coaster is both), so guessers can't place an answer. Soothing is a clear opposite."
   },
   {
    "id": "game8-647",
@@ -8721,19 +8721,19 @@
   },
   {
    "id": null,
-   "Name": "EMPTY <---> OVERLOADED",
-   "Description": "Draw a motorbike carrying a family that is this overloaded",
+   "Name": "JUST THE RIDER <---> FAMILY OF SIX + GROCERIES",
+   "Description": "Draw a motorbike that is this overloaded",
    "Category": "Drawing",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'EMPTY' contradicts 'a motorbike carrying a family'. The new ends can be drawn and are funnier."
   },
   {
    "id": null,
    "Name": "NEAT <---> TOTAL CHAOS",
-   "Description": "Draw a traffic intersection that is this chaotic",
+   "Description": "Draw a classroom that is this chaotic when the teacher steps out",
    "Category": "Drawing",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Nearly the same as 706 (a jammed Karachi road). A classroom setting keeps both cards distinct and follows the deck's 'that is this X' pattern."
   },
   {
    "id": null,
@@ -8874,10 +8874,10 @@
   {
    "id": null,
    "Name": "JUST A SHADOW <---> DEFINITELY A JINN",
-   "Description": "Draw a shadow in an old haveli that is this likely to be a jinn",
+   "Description": "Draw a shadow under the old peepal tree at night that is this likely to be a jinn",
    "Category": "Drawing",
    "action": "add",
-   "note": "New card (debate): Jinn jokes are allowed; clear, drawable scale"
+   "note": "New card (debate): Jinn jokes are allowed; clear, drawable scale; Debate: Too close to 684 (a haunted old haveli). The peepal tree is the classic desi jinn spot, and the owner allows jinn jokes."
   },
   {
    "id": null,
@@ -9198,6 +9198,86 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Social media is allowed and every desi family relates. The deck has no such scale."
+  },
+  {
+   "id": null,
+   "Name": "NOBODY WAKES UP <---> WHOLE MOHALLA WAKES UP",
+   "Description": "Write the line Ammi shouts to wake everyone for sehri that is this effective",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A relatable Ramadan family moment with clear opposite ends. Nothing like it is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "NO BITES <---> 100 BITES",
+   "Description": "Draw the arm of someone who slept without a mosquito coil and got this many bites",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A relatable desi summer drawing with a clear scale. There are no mosquito cards."
+  },
+  {
+   "id": null,
+   "Name": "SIMPLE <---> WAY OVER THE TOP",
+   "Description": "Write the first line of a shaadi card that is this over the top",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A real desi joke. No card covers wedding invitations (679 is house lights, 700 is the buffet)."
+  },
+  {
+   "id": null,
+   "Name": "EASY TO GUESS <---> UNCRACKABLE",
+   "Description": "Make up a Wi-Fi password that is this hard for the neighbours to guess",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A funny household tech prompt with a scale guessers can judge. It is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "BONE DRY <---> DRIPPING WITH CHAASHNI",
+   "Description": "Draw a jalebi that is this soaked in chaashni",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's version is better: syrup soaking can be drawn, while sweetness cannot. It matches the samosa (724) and mango (681) cards, and jalebi is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "STAYS WHOLE <---> BURSTS INSTANTLY",
+   "Description": "Draw a gol gappa that is this likely to burst before it reaches your mouth",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A street-food drawing in the deck's 'this likely to' style. Gol gappay are not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "KEEPS HIS WORD <---> READY AFTER EID",
+   "Description": "Write a tailor's promise about your Eid clothes that is this likely to be broken",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A classic Pakistani Eid joke whose ends map clearly onto the scale. It is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "DAMP PATAKHA <---> LIGHTS UP THE SKY",
+   "Description": "Draw a firework on 14 August night that is this spectacular",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): The owner allows fireworks. It differs from 723 (a decorated bicycle) and can be drawn."
+  },
+  {
+   "id": null,
+   "Name": "RELAXED <---> FULL PARADE GROUND",
+   "Description": "Write a house rule from a retired army uncle that is this strict",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): An army in-joke, which the owner allows. There are no army cards in the deck."
+  },
+  {
+   "id": null,
+   "Name": "REAL ICE CREAM <---> DEFINITELY DAAL",
+   "Description": "Draw an ice-cream tub from Ammi's freezer that is this likely to contain leftover daal",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A well-loved desi household joke in the deck's likelihood-drawing style. The only ice-cream card is a parlor name."
   }
  ]
 }

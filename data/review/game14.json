@@ -5102,6 +5102,34 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): A fun household-clutter count about a different object from the 'bag of bags' card. No duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many homes did your family send iftari to last Ramadan?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Common Ramadan custom of sharing food with neighbours. The deck has iftar-eating cards but none about sending iftari. Anyone can answer, including 0."
+  },
+  {
+   "id": null,
+   "Description": "How old were you when you kept your first full roza?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Well-known family memory with a clear numeric answer. No roza-age card exists in the deck, and 'full' separates it from the half-day fasts children keep."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to grab the seat closest to the heater at a family gathering in winter?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean 0 to 100 question about gathering behaviour. The deck has no heater card."
+  },
+  {
+   "id": null,
+   "Description": "How many relatives have told you which career you should choose?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Well-known desi family in-joke with a valid count answer. Not in the deck."
   }
  ]
 }
