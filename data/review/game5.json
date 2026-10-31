@@ -18349,15 +18349,15 @@
   {
    "id": "game5-1412",
    "Name": "",
-   "Description": "Ah, excuse me, waiter, I see that the restaurant offers ____. Is that gluten-free?",
+   "Description": "Ah, excuse me, waiter, I see that the restaurant offers ____. Does it come with extra raita?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Ah, excuse me, waiter, I see that the restaurant offers ____. Is that gluten-free?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The deck already has several gluten jokes. The raita question keeps the gag of a fussy question after an absurd menu item."
   },
   {
    "id": "game5-1413",
@@ -18611,13 +18611,13 @@
    "Name": "",
    "Description": "All dogs go to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "All dogs go to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: It depends on a film title, and the obvious answer is a heaven joke, which the game5 rules remove."
   },
   {
    "id": "game5-1433",
@@ -18947,15 +18947,15 @@
   {
    "id": "game5-1458",
    "Name": "",
-   "Description": "Amazon Prime membership now includes ____.",
+   "Description": "My Foodpanda subscription now includes ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Amazon Prime membership now includes ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Amazon Prime is not available in Pakistan. Foodpanda's subscription is a local equivalent and keeps the joke."
   },
   {
    "id": "game5-1459",
@@ -19129,15 +19129,15 @@
   {
    "id": "game5-1472",
    "Name": "",
-   "Description": "An executive order will be issued calling dibs on ____.",
+   "Description": "A new presidential ordinance will be issued calling dibs on ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "An executive order will be issued calling dibs on ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Executive order' is a US term. In Pakistan the President issues ordinances."
   },
   {
    "id": "game5-1473",
@@ -19493,15 +19493,15 @@
   {
    "id": "game5-1500",
    "Name": "",
-   "Description": "Apple just announced that in the next iPhone update, they’re replacing Siri with ____.",
+   "Description": "A phone company just announced that in its next update, the voice assistant is being replaced with ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Apple just announced that in the next iPhone update, they’re replacing Siri with ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: This applies the owner's guideline of replacing Apple with 'a phone company'."
   },
   {
    "id": "game5-1501",
@@ -19545,15 +19545,15 @@
   {
    "id": "game5-1504",
    "Name": "",
-   "Description": "KFC: We Have ____.",
+   "Description": "KFC's new slogan: \"We Have ____.\"",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "KFC: We Have ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'We have the meats' is Arby's slogan, not KFC's. Calling it a new slogan fixes the factual error."
   },
   {
    "id": "game5-1505",
@@ -19727,15 +19727,15 @@
   {
    "id": "game5-1518",
    "Name": "",
-   "Description": "As a staunch libertarian, I believe the only role for government is ____.",
+   "Description": "As a firm believer in small government, I believe the only role for government is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "As a staunch libertarian, I believe the only role for government is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Libertarian' is a US political label. 'Small government' is understood everywhere and keeps the joke."
   },
   {
    "id": "game5-1519",
@@ -20273,15 +20273,15 @@
   {
    "id": "game5-1560",
    "Name": "",
-   "Description": "At the city council meeting this month, we will talk about ____.",
+   "Description": "At the union council meeting this month, we will talk about ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "At the city council meeting this month, we will talk about ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The union council is the local Pakistani equivalent of a city council."
   },
   {
    "id": "game5-1561",
@@ -20533,15 +20533,15 @@
   {
    "id": "game5-1580",
    "Name": "",
-   "Description": "Awww, sick! I just saw this skater do a 720 kickflip into ____!",
+   "Description": "Bhai, I just saw a guy on a motorbike one-wheel straight into ____!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Awww, sick! I just saw this skater do a 720 kickflip into ____!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: One-wheeling is a familiar local stunt and replaces the skateboard kickflip."
   },
   {
    "id": "game5-1581",
@@ -20702,15 +20702,15 @@
   {
    "id": "game5-1593",
    "Name": "",
-   "Description": "Be sure to pack ____ carefully when camping, it attracts bears.",
+   "Description": "Be sure to pack ____ carefully on your trip to Ayubia, it attracts monkeys.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Be sure to pack ____ carefully when camping, it attracts bears.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Monkeys that snatch food in the Galiyat are an accurate local equivalent of the North American camping and bears joke."
   },
   {
    "id": "game5-1594",
@@ -20793,15 +20793,15 @@
   {
    "id": "game5-1600",
    "Name": "",
-   "Description": "Before 1 year of age, the baby should be careful to avoid ____.",
+   "Description": "Before their first birthday, babies should be kept far away from ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Before 1 year of age, the baby should be careful to avoid ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A baby under one cannot 'be careful'. The new wording fixes this and keeps the prompt."
   },
   {
    "id": "game5-1601",
@@ -20821,13 +20821,13 @@
    "Name": "",
    "Description": "Before going to sleep I always check under the bed for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Before going to sleep I always check under the bed for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of 1512 ('afraid ____ was hiding under my bed'). The lower id is kept."
   },
   {
    "id": "game5-1603",
@@ -20860,13 +20860,13 @@
    "Name": "",
    "Description": "Before I go to sleep, I always think about ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Before I go to sleep, I always think about ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same prompt as 1556 ('At night when I close my eyes ____ occupies my thoughts')."
   },
   {
    "id": "game5-1606",
@@ -21081,13 +21081,13 @@
    "Name": "",
    "Description": "Being partners for life means embracing ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Being partners for life means embracing ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A reworded copy of 1620."
   },
   {
    "id": "game5-1623",
@@ -21159,13 +21159,13 @@
    "Name": "",
    "Description": "Being the first country to give women the vote has resulted in ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Being the first country to give women the vote has resulted in ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A hidden reference to New Zealand that is obscure for this audience."
   },
   {
    "id": "game5-1629",
@@ -21198,13 +21198,13 @@
    "Name": "",
    "Description": "Believe in the power of ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Believe in the magic of ____.",
     "Category": ""
    },
-   "note": "removed magic"
+   "note": "Debate: Near-duplicate of 1629 'Believe in ____.'"
   },
   {
    "id": "game5-1632",
@@ -21261,15 +21261,15 @@
   {
    "id": "game5-1636",
    "Name": "",
-   "Description": "Best you go back where you came from, now. We don’t take too kindly to ____ in these parts.",
+   "Description": "Bhai, go back where you came from. We don't take too kindly to ____ in this mohalla.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Best you go back where you came from, now. We don’t take too kindly to ____ in these parts.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the American cowboy idiom with a mohalla and keeps the joke."
   },
   {
    "id": "game5-1637",
@@ -21534,28 +21534,28 @@
   {
    "id": "game5-1657",
    "Name": "",
-   "Description": "Khaadi sale! 50% off of ____",
+   "Description": "Khaadi sale! 50% off ____!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Khaadi sale! 50% off of ____",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes 'of' after 'off' and adds the missing punctuation."
   },
   {
    "id": "game5-1658",
    "Name": "",
    "Description": "Brown bear, brown bear, what do you see?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Brown bear, brown bear, what do you see?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A line from a US picture book with no clear prompt for players."
   },
   {
    "id": "game5-1659",
@@ -21833,15 +21833,15 @@
   {
    "id": "game5-1680",
    "Name": "",
-   "Description": "Can we stop by the store? I need to grab ____.",
+   "Description": "Can we stop by the kiryana store? I need to grab ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Can we stop by the store? I need to grab ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Gives 'the store' a local frame."
   },
   {
    "id": "game5-1681",
@@ -101381,6 +101381,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New load-shedding card that is distinct from the existing ones."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The wedding card said dinner at 8, but we ate at midnight because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A familiar shaadi frustration. No existing card covers late wedding dinners."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The golgappay wala swears his secret pani is made with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's amended version. It is a new street-food card that avoids repeating the existing 'should be arrested/illegal' frame."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The water tanker mafia has started delivering ____ too.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A familiar city complaint that game5 does not cover yet."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The geyser broke in December, so now I keep warm with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A familiar winter situation. Game5 has no geyser card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Chand Raat plan: mehndi, bangles and ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A festive Eid prompt. The only other Chand Raat card in game5 is about a mall sale."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My phone died at the worst possible moment: right when ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): An easy everyday prompt. Game5 has no dead-phone card."
   }
  ]
 }

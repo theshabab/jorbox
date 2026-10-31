@@ -9305,11 +9305,11 @@
   },
   {
    "id": null,
-   "Name": "Which surah of the Quran is named after a woman?",
+   "Name": "Which is the only surah of the Quran named after a woman?",
    "Description": "Maryam",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Adding \"only\" tightens the question. Maryam is the only surah named after a woman."
   },
   {
    "id": null,
@@ -9521,19 +9521,19 @@
   },
   {
    "id": null,
-   "Name": "Which 12th-century Muslim engineer described the famous \"elephant clock\"?",
+   "Name": "Which Muslim engineer described the famous \"elephant clock\" in his 1206 book of ingenious mechanical devices?",
    "Description": "Al-Jazari",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The book is dated 1206, so giving the exact year is more precise than \"12th-century\"."
   },
   {
    "id": null,
-   "Name": "Which Andalusian surgeon is often called the father of modern surgery?",
+   "Name": "Which Andalusian surgeon is often called the father of surgery?",
    "Description": "Al-Zahrawi (Albucasis)",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: \"Father of surgery\" is the usual title. \"Father of modern surgery\" is also claimed for Paré and Lister."
   },
   {
    "id": null,
@@ -10529,6 +10529,76 @@
    "Description": "Kalash",
    "action": "add",
    "note": "New card (debate): The challenger's flipped version: the Tirich Mir card cannot give the answer away, and it is not dated by the 2018 split of Chitral district."
+  },
+  {
+   "id": null,
+   "Name": "Which surah is recited in every rakat of salah?",
+   "Description": "Al-Fatihah",
+   "action": "add",
+   "note": "New card (debate): A well-known worship fact that is not in the deck. The neutral wording avoids the Hanafi dispute over whether it is obligatory and whether a follower recites it."
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet was sent to the people of Thamud, with a she-camel as a sign from Allah?",
+   "Description": "Salih (AS)",
+   "action": "add",
+   "note": "New card (debate): An accurate Prophets question that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the Prophet's (PBUH) ascent through the heavens during the Night Journey called?",
+   "Description": "Al-Mi'raj",
+   "action": "add",
+   "note": "New card (debate): Pairs with the existing Al-Isra card (it is in the live deck) without repeating it. Mi'raj is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which phrase is added to the adhan for Fajr only?",
+   "Description": "As-salatu khayrun min an-nawm (Prayer is better than sleep)",
+   "action": "add",
+   "note": "New card (debate): An accurate, familiar worship fact that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is verse 255 of Surah Al-Baqarah, often recited for protection, popularly called?",
+   "Description": "Ayat al-Kursi (the Verse of the Throne)",
+   "action": "add",
+   "note": "New card (debate): A famous Quran fact. The challenger's wording avoids giving away the answer through its translation."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani javelin thrower won Olympic gold at Paris 2024 with an Olympic-record throw?",
+   "Description": "Arshad Nadeem",
+   "action": "add",
+   "note": "New card (debate): Correct (92.97 m, an Olympic record). A national highlight that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is Pakistan's highest military award for gallantry?",
+   "Description": "Nishan-e-Haider",
+   "action": "add",
+   "note": "New card (debate): A widely known Pakistan fact that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "In which city is the Pakistan Military Academy at Kakul?",
+   "Description": "Abbottabad",
+   "action": "add",
+   "note": "New card (debate): A correct Pakistan geography question. Army content is allowed, and the card is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "On which date is Pakistan Day (Yaum-e-Pakistan) celebrated each year?",
+   "Description": "23 March",
+   "action": "add",
+   "note": "New card (debate): A core national fact that goes with the Lahore Resolution card without repeating it."
+  },
+  {
+   "id": null,
+   "Name": "What share of a Muslim's zakatable wealth is paid as zakat once it has reached the nisab for a full lunar year?",
+   "Description": "2.5% (one-fortieth)",
+   "action": "add",
+   "note": "New card (debate): A well-established fact. The challenger's wording corrects the error that zakat is due only on the amount above the nisab."
   }
  ]
 }

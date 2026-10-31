@@ -8248,7 +8248,7 @@
   {
    "id": "game2-635",
    "Name": "Zaid ibn Harithah",
-   "Description": "Adopted | Khadijah | Mutah | Usamah | Freed",
+   "Description": "Adopted | Freed | Usamah | Mu'tah | Quran",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8256,7 +8256,7 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": "Ambiguous (Zaid ibn Thabit also famous); clues assume Zaid ibn Harithah; Full name"
+   "note": "Ambiguous (Zaid ibn Thabit also famous); clues assume Zaid ibn Harithah; Full name; Debate: Spells the battle Mu'tah so it can't be confused with mut'ah. Bans 'Quran', since he is the only Companion named in it (33:37)."
   },
   {
    "id": "game2-636",
@@ -8586,7 +8586,7 @@
   {
    "id": "game2-661",
    "Name": "Job",
-   "Description": "Ayyub | Sabr | Patience | Illness | Disease",
+   "Description": "Ayyub | Sabr | Patience | Illness | Tested",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8594,7 +8594,7 @@
     "Description": "prophet | messenger | Allah | revelation",
     "Category": "Prophets"
    },
-   "note": ""
+   "note": "Debate: 'Illness' and 'Disease' meant the same thing. 'Tested' blocks the central clue of the story."
   },
   {
    "id": "game2-662",
@@ -8651,7 +8651,7 @@
   {
    "id": "game2-666",
    "Name": "Yahya",
-   "Description": "Zakariya | Isa | Cousin | Son | Old Age",
+   "Description": "John | Zakariya | Isa | Cousin | Old Age",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8659,7 +8659,7 @@
     "Description": "prophet | messenger | Allah | revelation",
     "Category": "Prophets"
    },
-   "note": "Name ambiguous; consider renaming to Yahya; Renamed from John"
+   "note": "Name ambiguous; consider renaming to Yahya; Renamed from John; Debate: Bans the English name, as other Prophets cards do (Job/Ayyub). 'Son' is a weaker clue and gives up its slot."
   },
   {
    "id": "game2-667",
@@ -8755,7 +8755,7 @@
   {
    "id": "game2-674",
    "Name": "Dhul-Kifl",
-   "Description": "Sabr | Patience | Promise | Pledge | Quran",
+   "Description": "Sabr | Patience | Promise | Quran | Ismail",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8763,7 +8763,7 @@
     "Description": "Dhul | prophet | messenger | Allah",
     "Category": "Prophets"
    },
-   "note": "Obscure; little known about him, may be hard to guess"
+   "note": "Obscure; little known about him, may be hard to guess; Debate: Challenger's version: Promise and Pledge meant the same thing. Banning 'Kifl' wastes a slot because it is part of the name. The Quran names Dhul-Kifl alongside Ismail in both of its mentions (21:85, 38:48)."
   },
   {
    "id": "game2-675",
@@ -8859,7 +8859,7 @@
   {
    "id": "game2-682",
    "Name": "Salah",
-   "Description": "Namaz | Prayer | Five | Sajda | Pray",
+   "Description": "Namaz | Prayer | Five | Sajda | Rakat",
    "Category": "Islamic Terms",
    "action": "edit",
    "original": {
@@ -8867,7 +8867,7 @@
     "Description": "Islam | Muslim | Arabic | religious",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: 'Pray' repeated 'Prayer'. 'Rakat' blocks an obvious clue."
   },
   {
    "id": "game2-683",
@@ -9275,7 +9275,7 @@
   {
    "id": "game2-714",
    "Name": "Zamzam",
-   "Description": "Water | Well | Ismail | Hajar | Holy Water",
+   "Description": "Water | Well | Ismail | Hajar | Makkah",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9283,7 +9283,7 @@
     "Description": "mosque | holy | Mecca | pilgrimage",
     "Category": "Islamic Locations"
    },
-   "note": ""
+   "note": "Debate: 'Holy Water' repeated 'Water'. 'Makkah' blocks the obvious location clue."
   },
   {
    "id": "game2-715",
@@ -10271,6 +10271,86 @@
    "Category": "Tools",
    "action": "add",
    "note": "New card (debate): Challenger's version: a common building tool not in the deck, banning the usual Urdu name Karni."
+  },
+  {
+   "id": null,
+   "Name": "Umrah",
+   "Description": "Hajj | Makkah | Tawaf | Ihram | Pilgrimage",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Common term missing from the deck. Challenger's version bans 'Pilgrimage', which is a much stronger clue than 'Small'."
+  },
+  {
+   "id": null,
+   "Name": "Jummah",
+   "Description": "Friday | Khutbah | Namaz | Masjid | Weekly",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Everyday term missing from the deck. The banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Taraweeh",
+   "Description": "Ramadan | Night | Namaz | Quran | Isha",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known Ramadan prayer, not a duplicate of Tahajjud."
+  },
+  {
+   "id": null,
+   "Name": "Laylat al-Qadr",
+   "Description": "Shab-e-Qadr | Ramadan | Night | Odd | Thousand Months",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Widely known and missing from the deck. The facts are accurate (97:3)."
+  },
+  {
+   "id": null,
+   "Name": "Itikaf",
+   "Description": "Masjid | Ramadan | Last Ten | Stay | Seclusion",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Familiar Ramadan practice missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Abu Dharr al-Ghifari",
+   "Description": "Ghifar | Alone | Rabadhah | Poor | Truthful",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Well-known companion. The banned words are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Mus'ab ibn Umair",
+   "Description": "Ambassador | Madinah | Rich | Uhud | Flag",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Famous companion: the first envoy to Madinah and the standard-bearer at Uhud."
+  },
+  {
+   "id": null,
+   "Name": "Abu Ayyub al-Ansari",
+   "Description": "Host | Madinah | Camel | Istanbul | Ansar",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Famous companion: hosted the Prophet after the Hijrah and is buried in Istanbul."
+  },
+  {
+   "id": null,
+   "Name": "Masjid al-Qiblatain",
+   "Description": "Two | Qibla | Madinah | Direction | Jerusalem",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Well-known Madinah landmark linked to the change of qibla."
+  },
+  {
+   "id": null,
+   "Name": "Twins",
+   "Description": "Judwan | Two | Same | Born | Identical",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Easy, family-friendly word missing from the deck."
   }
  ]
 }

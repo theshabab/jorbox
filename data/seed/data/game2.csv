@@ -614,7 +614,7 @@ Khadija,First | Wife | Merchant | Business | Believer,Sahaba
 Fatima,Daughter | Zahra | Ali | Hassan | Hussain,Sahaba
 Hassan,Grandson | Ali | Fatima | Elder | Hussain,Sahaba
 Hussain,Karbala | Grandson | Muharram | Ashura | Ali,Sahaba
-Zaid ibn Harithah,Adopted | Khadijah | Mutah | Usamah | Freed,Sahaba
+Zaid ibn Harithah,Adopted | Freed | Usamah | Mu'tah | Quran,Sahaba
 Talha,Uhud | Shield | Hand | Ashara | Ubaidullah,Sahaba
 Zubair,Awwam | Hawari | Disciple | Asma | Ashara,Sahaba
 Saad ibn Abi Waqqas,Arrow | Archer | Qadisiyyah | Persia | Ashara,Sahaba
@@ -640,11 +640,11 @@ Moses,Musa | Firaun | Staff | Sea | Egypt,Prophets
 Aaron,Harun | Musa | Brother | Bani Israel | Firaun,Prophets
 David,Dawud | Jalut | Zabur | Iron | Sulaiman,Prophets
 Solomon,Sulaiman | Jinn | Ants | Hudhud | Dawud,Prophets
-Job,Ayyub | Sabr | Patience | Illness | Disease,Prophets
+Job,Ayyub | Sabr | Patience | Illness | Tested,Prophets
 Elijah,Ilyas | Al-Yasa | Baal | Idols | Bani Israel,Prophets
 Elisha,Al-Yasa | Ilyas | Elijah | Successor | Bani Israel,Prophets
 Zachariah,Zakariya | Yahya | Maryam | Old Age | Mihrab,Prophets
-Yahya,Zakariya | Isa | Cousin | Son | Old Age,Prophets
+Yahya,John | Zakariya | Isa | Cousin | Old Age,Prophets
 Jesus,Isa | Maryam | Masih | Injeel | Return,Prophets
 Muhammad,Last Prophet | Makkah | Madinah | Quran | Abdullah,Prophets
 Lot,Lut | Sodom | Ibrahim | Wife | Stones,Prophets
@@ -652,7 +652,7 @@ Shuaib,Madyan | Scales | Weights | Cheating | Trade,Prophets
 Hud,Aad | Wind | Iram | Storm | Tall,Prophets
 Saleh,Thamud | Camel | Rock | Houses | Earthquake,Prophets
 Idris,Enoch | Pen | Writing | Tailor | Raised,Prophets
-Dhul-Kifl,Sabr | Patience | Promise | Pledge | Quran,Prophets
+Dhul-Kifl,Sabr | Patience | Promise | Quran | Ismail,Prophets
 Yunus,Whale | Fish | Machli | Belly | Dua,Prophets
 Allah,God | Khuda | Rab | One | Creator,Islamic Terms
 Islam,Religion | Deen | Muslim | Quran | Peace,Islamic Terms
@@ -660,7 +660,7 @@ Muslim,Islam | Believer | Musalman | Follower | Ummah,Islamic Terms
 Quran,Book | Kitab | Recite | Surah | Allah,Islamic Terms
 Hadith,Sayings | Prophet | Bukhari | Narration | Sunnah,Islamic Terms
 Sunnah,Prophet | Practice | Way | Hadith | Nafl,Islamic Terms
-Salah,Namaz | Prayer | Five | Sajda | Pray,Islamic Terms
+Salah,Namaz | Prayer | Five | Sajda | Rakat,Islamic Terms
 Zakat,Charity | Poor | Wealth | 2.5 Percent | Pillar,Islamic Terms
 Sawm,Roza | Fast | Ramadan | Hungry | Sehri,Islamic Terms
 Hajj,Makkah | Kaaba | Pilgrimage | Ihram | Arafat,Islamic Terms
@@ -689,7 +689,7 @@ Mina,Tents | Jamarat | Stoning | Hajj | Shaytan,Islamic Locations
 Muzdalifah,Pebbles | Night | Hajj | Open Sky | Between,Islamic Locations
 Safa,Marwa | Sa'i | Hajar | Hill | Run,Islamic Locations
 Marwa,Safa | Sa'i | Hajar | Hill | Seven,Islamic Locations
-Zamzam,Water | Well | Ismail | Hajar | Holy Water,Islamic Locations
+Zamzam,Water | Well | Ismail | Hajar | Makkah,Islamic Locations
 Cave Hira,Wahi | Jibreel | Iqra | Jabal Noor | First,Islamic Locations
 Cave Thawr,Spider | Abu Bakr | Hijrah | Hide | Quraysh,Islamic Locations
 Uhud,Battle | Archers | Hamza | Mountain | Madinah,Islamic Locations
@@ -788,3 +788,13 @@ Nankhatai,Biscuit | Bakery | Crumbly | Ghee | Round,Desserts
 Son-in-law,Damad | Daughter | Husband | Sasural | Married,Family Relations
 Daughter-in-law,Bahu | Son | Wife | Saas | Married,Family Relations
 Trowel,Karni | Cement | Mistri | Bricks | Plaster,Tools
+Umrah,Hajj | Makkah | Tawaf | Ihram | Pilgrimage,Islamic Terms
+Jummah,Friday | Khutbah | Namaz | Masjid | Weekly,Islamic Terms
+Taraweeh,Ramadan | Night | Namaz | Quran | Isha,Islamic Terms
+Laylat al-Qadr,Shab-e-Qadr | Ramadan | Night | Odd | Thousand Months,Islamic Terms
+Itikaf,Masjid | Ramadan | Last Ten | Stay | Seclusion,Islamic Terms
+Abu Dharr al-Ghifari,Ghifar | Alone | Rabadhah | Poor | Truthful,Sahaba
+Mus'ab ibn Umair,Ambassador | Madinah | Rich | Uhud | Flag,Sahaba
+Abu Ayyub al-Ansari,Host | Madinah | Camel | Istanbul | Ansar,Sahaba
+Masjid al-Qiblatain,Two | Qibla | Madinah | Direction | Jerusalem,Islamic Locations
+Twins,Judwan | Two | Same | Born | Identical,Family Relations
