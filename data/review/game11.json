@@ -2899,13 +2899,13 @@
   {
    "id": "game11-264",
    "Name": "Problem",
-   "Description": "The shopkeeper refused to return my _____!",
-   "action": "keep",
+   "Description": "The shopkeeper won't exchange my _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "The shopkeeper refused to return my _____!"
    },
-   "note": ""
+   "note": "Debate: \"Refused to return my ___\" is ambiguous because it can sound like the shop kept the item. \"Won't exchange\" is the clear complaint and is different from 315 (refund)."
   },
   {
    "id": "game11-265",
@@ -3219,12 +3219,12 @@
    "id": "game11-293",
    "Name": "Problem",
    "Description": "My brain freezes when I see _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "My brain freezes when I see _____!"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of live card 660 (game11-661, action add), \"My mind goes blank in exams whenever I see _____!\". Only 292 is removed."
   },
   {
    "id": "game11-294",
@@ -6967,6 +6967,62 @@
    "Description": "My iftar plans always get ruined by _____!",
    "action": "add",
    "note": "New card (debate): Respectful Ramzan problem distinct from the iftar overeating and sehri cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The plumber always promises to come at 10 but shows up during _____!",
+   "action": "add",
+   "note": "New card (debate): New plumber problem in the challenger's wording, which keeps the tense consistent. The deck has no plumber problem card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The _____ I ordered online looked nothing like the picture!",
+   "action": "add",
+   "note": "New card (debate): New online-shopping complaint in the challenger's wording, where the blank is the ordered item."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My glasses fog up every time I _____!",
+   "action": "add",
+   "note": "New card (debate): New, easy-to-fill problem. It differs from 189 (can't see without glasses) and 700 (winter fog)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My new Eid shoes always pinch during _____!",
+   "action": "add",
+   "note": "New card (debate): New Eid footwear problem with no duplicate (281 is about smelly shoes)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The ATM always runs out of cash right before _____!",
+   "action": "add",
+   "note": "New card (debate): Accurate local problem (Eid and salary-day rush). The deck has no ATM card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My smartwatch keeps nagging me to _____!",
+   "action": "add",
+   "note": "New card (debate): New gadget problem with no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The courier always shows up right when I'm _____!",
+   "action": "add",
+   "note": "New card (debate): New delivery-timing problem. It differs from 661 (riders can't find the address) and 261 (drone delivery)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Load shedding always traps me in the lift with _____!",
+   "action": "add",
+   "note": "New card (debate): The challenger's version avoids near-duplicating live card 223 (\"Load shedding always happens when I _____!\") and reads more smoothly."
   }
  ]
 }

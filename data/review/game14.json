@@ -5578,6 +5578,69 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Household count in the style of the keys/chappals cards; not duplicated."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you watched the flag ceremony at Wagah Border?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani outing that fits with the landmark-visit counts; no live card covers it."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you visited Faisal Mosque in Islamabad?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Accurate landmark count, separate from the Badshahi Mosque and Mazar-e-Quaid cards; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take your own pillow when staying over at a relative's house?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): A family-visit habit that differs from the pillow-count card; the likelihood category fits."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you found someone else's car parked in front of your gate?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A common local annoyance; anyone can answer, with 0 if they have no gate; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times has someone at home eaten the snack you had hidden for yourself?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A relatable household count; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many deghs (big cooking pots) of food were cooked at the biggest family event you have attended?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: the spelling matches the deck's existing 'degh' card, and the gloss explains the word."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you pretended not to see a relative in the bazaar to avoid stopping for a long chat?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Funny and clean, and different from the pretending-to-sleep and 'Pehchana mujhe?' cards."
+  },
+  {
+   "id": null,
+   "Description": "How many peti (crates) of mangoes did your family buy last summer?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A real Pakistani seasonal habit, different from the mango-eating and suitcase cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week has someone at home told you to switch off a light or fan you left on?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A classic household scolding that differs from the fan and load-shedding cards."
   }
  ]
 }

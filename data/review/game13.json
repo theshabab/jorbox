@@ -3137,12 +3137,12 @@
   },
   {
    "id": "game13-349",
-   "Description": "Get a player to accept a challenge from you.",
+   "Description": "Get a player to accept a challenge you set, like naming ten cricketers in one minute.",
    "action": "edit",
    "original": {
     "Description": "Get a player to agree to a bet."
    },
-   "note": "avoid betting"
+   "note": "avoid betting; Debate: Concrete example makes a vague mission playable; the player only has to accept, so it doesn't duplicate 528."
   },
   {
    "id": "game13-350",
@@ -3155,12 +3155,12 @@
   },
   {
    "id": "game13-351",
-   "Description": "Get a player to promise something.",
-   "action": "keep",
+   "Description": "Get a player to promise you something.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to promise something."
    },
-   "note": ""
+   "note": "Debate: Ties the promise to the hidden player so success is easy to judge."
   },
   {
    "id": "game13-352",
@@ -3191,12 +3191,12 @@
   },
   {
    "id": "game13-355",
-   "Description": "Get a player to make a 'peace' sign.",
-   "action": "keep",
+   "Description": "Get a player to make a V-for-victory sign with their fingers.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to make a 'peace' sign."
    },
-   "note": ""
+   "note": "Debate: Same gesture, local cricket/politics framing instead of Western 'peace sign'."
   },
   {
    "id": "game13-356",
@@ -3335,12 +3335,12 @@
   },
   {
    "id": "game13-371",
-   "Description": "Get a player to check their teeth in a reflection.",
-   "action": "keep",
+   "Description": "Get a player to check their teeth in a mirror or their phone camera.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to check their teeth in a reflection."
    },
-   "note": ""
+   "note": "Debate: Clearer than 'in a reflection'; still distinct from 281."
   },
   {
    "id": "game13-372",
@@ -3884,12 +3884,12 @@
   },
   {
    "id": "game13-432",
-   "Description": "Get a player to march in place.",
-   "action": "keep",
+   "Description": "Get a player to copy the high-kick march from the Wagah border ceremony.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to march in place."
    },
-   "note": ""
+   "note": "Debate: Funnier local version of the same harmless physical action; no other Wagah card."
   },
   {
    "id": "game13-433",
@@ -4035,8 +4035,8 @@
   {
    "id": null,
    "Description": "Get a player to teach you a word in Punjabi, Pashto, Sindhi or Balochi.",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Near-duplicate of live card game13-18 (say something in Punjabi, Pashto, Sindhi or Arabic); confirmed 18 is live (edit), so only one of the pair is removed."
   },
   {
    "id": null,
@@ -5363,6 +5363,48 @@
    "Description": "Get a player to wipe their phone screen on their sleeve or kameez.",
    "action": "add",
    "note": "New card (debate): Subtle, harmless action with a local touch; distinct from card 515 (wipe the table)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they used to carry in their school tiffin.",
+   "action": "add",
+   "note": "New card (debate): New nostalgic school mission; no tiffin/lunchbox card, distinct from school name, best friend and uniform cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Bijli chali gayi!' (The power's gone!).",
+   "action": "add",
+   "note": "New card (debate): Recognisable catchphrase, distinct from the open load-shedding complaint card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to shell a few peanuts (moongphali) for you.",
+   "action": "add",
+   "note": "New card (debate): Typical winter-gathering favour not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you whether they prefer doodh patti or kahwa.",
+   "action": "add",
+   "note": "New card (debate): Local chai-choice question, distinct from existing chai rating/sugar and favourite-drink cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which dua they read before going to sleep.",
+   "action": "add",
+   "note": "New card (debate): Owner-allowed worship-related personal question; distinct from the make-a-dua card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time they or a classmate was made to stand as a murga at school.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: relatable school memory that every player can answer, even if never punished themselves."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite kulfi or gola ganda flavour.",
+   "action": "add",
+   "note": "New card (debate): Local treat question; differs from guess-your-favourite-dessert (62)."
   }
  ]
 }
