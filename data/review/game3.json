@@ -9589,10 +9589,10 @@
   {
    "id": null,
    "Name": "Pakistani weddings are too long.",
-   "Description": "Pakistani weddings are too expensive.|I love mehndi functions.|Weddings should be one day only.|I always eat too much at weddings.|Weddings are the best way to meet relatives.",
+   "Description": "Pakistani weddings are too expensive.|Nikahs should be kept simple.|Weddings should be one day only.|I always eat too much at weddings.|Weddings are the best way to meet relatives.",
    "Category": "Rating",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The 'mehndi functions' decoy points to dholki and dance events, and Mehndi was already taken out of other cards. It is replaced with a close, rule-safe decoy about wedding length."
   },
   {
    "id": null,
@@ -9685,10 +9685,10 @@
   {
    "id": null,
    "Name": "Mango Varieties",
-   "Description": "Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Desi Aam",
+   "Description": "Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Desi Aam|Gulab Khas|Tota Pari",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): A very Pakistani topic with no existing card. Sufaid/Kala Chaunsa dropped as near-duplicates of Chaunsa, Totapuri as mainly Indian, and the challenger's 'Collector' as unverified"
+   "note": "New card (debate): A very Pakistani topic with no existing card. Sufaid/Kala Chaunsa dropped as near-duplicates of Chaunsa, Totapuri as mainly Indian, and the challenger's 'Collector' as unverified; Debate: Challenger's amended version. It adds two Pakistani varieties that players know and leaves out Totapuri and Malda (better known in India) and the near-duplicate Sufaid Chaunsa."
   },
   {
    "id": null,
@@ -9701,10 +9701,10 @@
   {
    "id": null,
    "Name": "Biscuits",
-   "Description": "Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik",
+   "Description": "Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik|Chocolicious|Bakeri",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Pakistani Snacks already covers crisps, so this card is biscuits only. Challenger's version without Tiger, which may not be a Pakistani brand"
+   "note": "New card (debate): Pakistani Snacks already covers crisps, so this card is biscuits only. Challenger's version without Tiger, which may not be a Pakistani brand; Debate: Challenger's amended version. It adds two well-known Pakistani biscuits and keeps Party, because a brand name does not break the no-parties rule and removing it is not justified."
   },
   {
    "id": null,
@@ -10569,6 +10569,62 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Light family dilemma that differs from the neighbour's mango tree card (785)."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Library",
+   "Description": "Books|Bookshelf|Librarian|Library Card|Silence Sign|Reading Table|Newspaper Rack|Dictionary|Encyclopedia|Atlas|Bookmark|Issue Register|Due Date|Late Fine|Magazines|Reference Section|Photocopier|Torn Pages|Dust|Old Book Smell",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A new place topic that is not in the deck; every word clearly fits and the card is family-safe."
+  },
+  {
+   "id": null,
+   "Name": "Things on a Motorbike",
+   "Description": "Helmet|Kick Start|Side Mirror|Silencer|Petrol Tank|Number Plate|Seat Cover|Horn|Indicator|Headlight|Chain|Mudguard|Footrest|Honda CD 70|Pillion Rider|Family of Five|Shopping Bags|Puncture|Wheelie|Traffic Challan",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version. It is an everyday Pakistani topic not in the deck (there is no 'Things on a Rickshaw' card), and it uses wording every player knows."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Mobile Repair Shop",
+   "Description": "Cracked Screen|Screen Protector|Back Cover|Charger|Data Cable|Battery|Soldering Iron|Tiny Screwdriver|Magnifying Glass|Power Bank|Handsfree|SIM Tray|Software Update|PTA Tax|Water Damage|Used Phones|Glass Counter|Box Pack|Warranty Card|Ready by Evening",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A familiar local shop topic that is not in the deck; its items are clear and distinct."
+  },
+  {
+   "id": null,
+   "Name": "Draw a kulfi wala.",
+   "Description": "Draw a bhutta seller.|Draw a chana chaat seller.|Draw a balloon seller.|Draw a candy floss seller.|Draw a popcorn cart.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version. An ice cream cart would look the same as a kulfi cart when drawn, so it is replaced with a vendor that can be told apart."
+  },
+  {
+   "id": null,
+   "Name": "Something every Pakistani uncle says is...",
+   "Description": "Something every Pakistani aunty says is...|Something my grandfather always says is...|Something every shopkeeper says is...|Something you hear at every dawat is...|Something a cricket commentator always says is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): A relatable desi catchphrase prompt with close decoys; it does not duplicate any card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "I can tell a sweet mango just by smelling it.",
+   "Description": "I can tell a ripe watermelon by tapping it.|I always pick the best fruit at the market.|I can tell if milk has gone bad by smelling it.|I can guess what’s for dinner from the smell.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): A new Rating claim, separate from the existing mango cards, with plausible decoys."
+  },
+  {
+   "id": null,
+   "Name": "A friend gives you an Eid gift that you already own. You...",
+   "Description": "pretend you love it|tell them politely|quietly gift it to someone else",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): A light, realistic dilemma with three clear options; there is no similar card in the deck."
   }
  ]
 }

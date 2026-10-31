@@ -17858,14 +17858,14 @@
   },
   {
    "id": "game7-1624",
-   "Description": "<PLAYER> doing secret stuff in the attic",
+   "Description": "<PLAYER> doing secret stuff in the storeroom",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> doing secret stuff in the attic",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Few Pakistani homes have an attic; the storeroom keeps the same joke in a local setting."
   },
   {
    "id": "game7-1625",
@@ -17990,14 +17990,14 @@
   },
   {
    "id": "game7-1636",
-   "Description": "<PLAYER> had this in their school locker",
+   "Description": "<PLAYER> had this in their school bag",
    "Category": "Friend Mode Prompts",
    "action": "edit",
    "original": {
     "Description": "<PLAYER> had this in their HS locker",
     "Category": "Friend Mode Prompts"
    },
-   "note": "clearer wording"
+   "note": "clearer wording; Debate: School lockers are a US thing; a school bag is the local equivalent."
   },
   {
    "id": "game7-1637",
@@ -18111,25 +18111,25 @@
   },
   {
    "id": "game7-1647",
-   "Description": "<PLAYER> when the lights come on at the gym",
+   "Description": "<PLAYER> when the light comes back after load-shedding",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> when the lights come on at the gym",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: The gym-lights line is a US leftover. The load-shedding moment keeps the 'lights come on' idea and is local, drawable and affectionate. It is a different scene from card 1687."
   },
   {
    "id": "game7-1648",
-   "Description": "<PLAYER> is in charge of the clams now",
+   "Description": "<PLAYER> is in charge of the bakra now",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> is in charge of the clams now",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Clams mean little to local players. The Eid bakra keeps the absurd 'suddenly in charge' joke and avoids repeating A2's biryani deg."
   },
   {
    "id": "game7-1649",
@@ -18353,14 +18353,14 @@
   },
   {
    "id": "game7-1669",
-   "Description": "<PLAYER> being a scawed wittle bay-bay",
+   "Description": "<PLAYER> being a big scaredy-cat",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> being a scawed wittle bay-bay",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: The baby-talk spelling reads as a typo and is unclear to Roman-Urdu/English players. 'Scaredy-cat' is clear and affectionate, and it is a different scene from the existing 'scaredy-cat train' card."
   },
   {
    "id": "game7-1670",
@@ -18518,14 +18518,14 @@
   },
   {
    "id": "game7-1684",
-   "Description": "<PLAYER> being born",
+   "Description": "<PLAYER> as a newborn baby",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> being born",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Being born' invites drawing childbirth, which does not suit mixed family play. A newborn keeps the joke cleanly."
   },
   {
    "id": "game7-1685",
@@ -19328,6 +19328,55 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): New: an Eid-eve scene; the deck has no Chand Raat card"
+  },
+  {
+   "id": null,
+   "Description": "a hand pump giving out lassi instead of water",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local, drawable prompt. No hand-pump card exists, and the existing lassi card is a different joke."
+  },
+  {
+   "id": null,
+   "Description": "a biryani deg so big the cook needs a ladder",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New funny food prompt. The only biryani card ('mama, behold the biryani') is unrelated."
+  },
+  {
+   "id": null,
+   "Description": "a roti that came out shaped like the map of Pakistan",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A classic household joke that is easy to draw and not yet in the deck."
+  },
+  {
+   "id": null,
+   "Description": "an electricity meter spinning faster than a lattu",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New prompt about electricity bills. Using a lattu avoids echoing card 1686 and the other ceiling-fan cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> on the roof turning the TV antenna, shouting 'is the picture clear now?'",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Nostalgic local scene. Naming the antenna makes it clear and drawable. No antenna card exists."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> giving free advice to everyone at the family dinner",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, local Friend Mode teasing. No advice card exists."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> secretly counting their Eidi",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Complements card 1681 (no Eidi) from the opposite angle. 1681 is the only Eidi card in the deck."
   }
  ]
 }

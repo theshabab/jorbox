@@ -651,7 +651,7 @@ I could sleep for twelve hours straight.,I nap every afternoon.|I can sleep anyw
 Rainy days are the best days.,I love thunderstorms.|Sunny days are the best.|I hate getting wet.|Winter is the best season.|I love the smell of rain.,Rating
 I’m the funniest person in my family.,I’m the loudest person in my family.|I laugh at my own jokes.|I’m the smartest person in my family.|I’m good at telling stories.|I can make anyone laugh.,Rating
 I could win a cooking competition.,I could win a spelling competition.|I can cook for 50 people.|I love watching cooking videos.|I can make perfectly round rotis.|I could win a quiz show.,Rating
-Pakistani weddings are too long.,Pakistani weddings are too expensive.|I love mehndi functions.|Weddings should be one day only.|I always eat too much at weddings.|Weddings are the best way to meet relatives.,Rating
+Pakistani weddings are too long.,Pakistani weddings are too expensive.|Nikahs should be kept simple.|Weddings should be one day only.|I always eat too much at weddings.|Weddings are the best way to meet relatives.,Rating
 Your friend’s new biryani is far too salty and they ask for your honest opinion. You say...,“It’s perfect”|“It’s a bit salty”|“I’m not hungry”,Morality
 The cashier accidentally gives you Rs. 500 too much change. You...,return it right away|keep it|give it to charity,Morality
 Your little cousin breaks a glass and blames it on the cat. You...,tell their parents|stay quiet|blame the cat too,Morality
@@ -663,9 +663,9 @@ The food opens at a wedding and the queue is very long. You...,wait your turn|pu
 "You find a lost wallet with Rs. 20,000 and an ID card inside. You...",return it in person|hand it to the police|keep the cash and post the ID card,Morality
 "Your khala asks you to fix her phone, but you make it worse. You...",confess|blame the phone|quietly buy her a new one,Morality
 Spices,Haldi|Zeera|Dhania|Lal Mirch|Kali Mirch|Elaichi|Laung|Darchini|Tej Patta|Saunf|Methi Dana|Rai|Kalonji|Ajwain|Javitri|Jaifal|Badiyan|Zafran|Amchur|Anardana,
-Mango Varieties,Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Desi Aam,
+Mango Varieties,Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Desi Aam|Gulab Khas|Tota Pari,
 Cricket Terms,Googly|Yorker|Bouncer|Doosra|No Ball|Wide|LBW|Run Out|Stumped|Hat-trick|Duck|Century|Sixer|Boundary|Maiden Over|Reverse Swing|Super Over|Free Hit|Powerplay|Follow On,
-Biscuits,Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik,
+Biscuits,Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik|Chocolicious|Bakeri,
 Pakistani Lakes,Saiful Muluk|Attabad Lake|Rawal Lake|Keenjhar Lake|Manchar Lake|Hanna Lake|Satpara Lake|Sheosar Lake|Lulusar Lake|Kachura Lake|Borith Lake|Banjosa Lake|Haleji Lake|Khanpur Lake|Kallar Kahar Lake|Ansoo Lake|Mahodand Lake|Namal Lake|Uchhali Lake|Dudipatsar Lake,
 Pakistani Mountains and Peaks,K2|Nanga Parbat|Rakaposhi|Tirich Mir|Broad Peak|Gasherbrum|Masherbrum|Ladyfinger Peak|Passu Cones|Diran|Haramosh|Makra Peak|Trango Towers|Malika Parbat|Musa ka Musalla|Mukshpuri|Margalla Hills|Chiltan|Takht e Sulaiman|Tilla Jogian,
 Things at a Bank,Cashier|Counter|Queue|Token|Security Guard|ATM|Cheque Book|Deposit Slip|Passbook|Locker|Signature|CNIC Copy|Branch Manager|Cash Counting Machine|Pen on a Chain|Utility Bills|Account Opening Form|Waiting Chairs|Stamp|Receipt,
@@ -774,3 +774,10 @@ Draw a sugarcane juice cart.,Draw a juice corner.|Draw a gola ganda stall.|Draw 
 Draw a dhobi ghat.,Draw a dry cleaner's shop.|Draw a long clothesline.|Draw a river.|Draw someone ironing.|Draw a washing machine.,Drawing 2
 The neighbour’s son hits a six straight through your window during gully cricket. You...,keep the ball|ask his parents to pay|join the game,Morality
 Someone ate the last mango in the fridge and only you know who it was. You...,tell Ammi|stay quiet|demand a share of the next one,Morality
+Things at a Library,Books|Bookshelf|Librarian|Library Card|Silence Sign|Reading Table|Newspaper Rack|Dictionary|Encyclopedia|Atlas|Bookmark|Issue Register|Due Date|Late Fine|Magazines|Reference Section|Photocopier|Torn Pages|Dust|Old Book Smell,
+Things on a Motorbike,Helmet|Kick Start|Side Mirror|Silencer|Petrol Tank|Number Plate|Seat Cover|Horn|Indicator|Headlight|Chain|Mudguard|Footrest|Honda CD 70|Pillion Rider|Family of Five|Shopping Bags|Puncture|Wheelie|Traffic Challan,
+Things at a Mobile Repair Shop,Cracked Screen|Screen Protector|Back Cover|Charger|Data Cable|Battery|Soldering Iron|Tiny Screwdriver|Magnifying Glass|Power Bank|Handsfree|SIM Tray|Software Update|PTA Tax|Water Damage|Used Phones|Glass Counter|Box Pack|Warranty Card|Ready by Evening,
+Draw a kulfi wala.,Draw a bhutta seller.|Draw a chana chaat seller.|Draw a balloon seller.|Draw a candy floss seller.|Draw a popcorn cart.,Drawing 2
+Something every Pakistani uncle says is...,Something every Pakistani aunty says is...|Something my grandfather always says is...|Something every shopkeeper says is...|Something you hear at every dawat is...|Something a cricket commentator always says is...,Writing
+I can tell a sweet mango just by smelling it.,I can tell a ripe watermelon by tapping it.|I always pick the best fruit at the market.|I can tell if milk has gone bad by smelling it.|I can guess what’s for dinner from the smell.,Rating
+A friend gives you an Eid gift that you already own. You...,pretend you love it|tell them politely|quietly gift it to someone else,Morality

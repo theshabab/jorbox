@@ -28461,10 +28461,10 @@
   {
    "id": null,
    "Name": "Coffee as a Drink",
-   "Description": "15th Century - Sufis of Yemen",
+   "Description": "c. 1450 CE - Sufis of Yemen",
    "Category": "Muslim Inventions & Contributions - Chronological",
    "action": "add",
-   "note": "New card (debate): Well-documented contribution and clearly the latest item."
+   "note": "New card (debate): Well-documented contribution and clearly the latest item.; Debate: A single approximate year (mid-15th century, the standard estimate) can be compared directly with the category's other 'c. year CE' values."
   },
   {
    "id": null,
@@ -29281,6 +29281,86 @@
    "Category": "Pakistani Cities by Population (2023 Census)",
    "action": "add",
    "note": "New card (debate): Missing major city; the 2023 census gives about 1.92 million, which falls between Multan and Quetta"
+  },
+  {
+   "id": null,
+   "Name": "Qurbani (Sacrifice)",
+   "Description": "10 Dhul Hijjah, after stoning Jamarat al-Aqabah (for Tamattu/Qiran pilgrims)",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): The challenger's amended version. The sacrifice comes next on Eid day, and the description correctly says the hady is required only of Tamattu/Qiran pilgrims."
+  },
+  {
+   "id": null,
+   "Name": "Halq / Taqsir (Shaving or Trimming Hair)",
+   "Description": "10 Dhul Hijjah, after the sacrifice",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): The standard next rite on 10 Dhul Hijjah. It is accurate and well known."
+  },
+  {
+   "id": null,
+   "Name": "Tawaf al-Ifadah",
+   "Description": "10 Dhul Hijjah, after Halq (can be delayed to 11-12 Dhul Hijjah)",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Tawaf al-Ifadah is a pillar of Hajj and belongs between Halq and the Tashreeq stoning. Without it the expanded sequence would be incomplete. I reworded the deadline slightly because the schools differ on how late it may be done."
+  },
+  {
+   "id": null,
+   "Name": "Tawaf al-Wada (Farewell Tawaf)",
+   "Description": "Last rite - just before leaving Makkah",
+   "Category": "Hajj Rites (Chronological)",
+   "action": "add",
+   "note": "New card (debate): A clear and accurate final item for the Hajj sequence."
+  },
+  {
+   "id": null,
+   "Name": "T10",
+   "Description": "10 overs per side (e.g. Abu Dhabi T10)",
+   "Category": "Cricket Formats (Length - Short to Long)",
+   "action": "add",
+   "note": "New card (debate): An ICC-sanctioned format with 60 balls per side, shorter than The Hundred's 100 balls, so it sorts clearly to the front. Gives the category a 5th item."
+  },
+  {
+   "id": null,
+   "Name": "Sau",
+   "Description": "100",
+   "Category": "Desi Numbers (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): A correct, easy starting item below Hazaar."
+  },
+  {
+   "id": null,
+   "Name": "Neel",
+   "Description": "1,00,00,00,00,00,000 (10 trillion)",
+   "Category": "Desi Numbers (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): Correct value: Neel = 100 Kharab = 10^13, written in South Asian digit grouping. It is the next unit after Kharab."
+  },
+  {
+   "id": null,
+   "Name": "Multan",
+   "Description": "About 122 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card (debate): About 122 m is accurate. It falls between Karachi (8 m) and Lahore (217 m) and is not a duplicate in this category."
+  },
+  {
+   "id": null,
+   "Name": "Abbottabad",
+   "Description": "About 1,256 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card (debate): About 1,256 m is accurate. It falls between Islamabad (540 m) and Gilgit (1,500 m) and is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Al-Khwarizmi",
+   "Description": "About 780",
+   "Category": "Scientists - Birth Year",
+   "action": "add",
+   "note": "New card (debate): Born c. 780, the earliest of the Muslim scientists in this category. It matches the 'About 980' format and is not a duplicate (the 12 existing cards do not include him)."
   }
  ]
 }
