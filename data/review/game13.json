@@ -4694,9 +4694,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to show you how they roll a perfectly round roti.",
+   "Description": "Get a player to mime how they roll a perfectly round roti.",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'Mime' makes it clear that no dough is needed, so the card works at any gathering and keeps the round-roti joke."
   },
   {
    "id": null,
@@ -5159,6 +5159,60 @@
    "Description": "Get a player to pinch your cheek the way a khala would.",
    "action": "add",
    "note": "New card (debate): A funny, relatable touch mission. The owner explicitly allows touching between players, and the deck has no cheek card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their go-to excuse for being late.",
+   "action": "add",
+   "note": "New card (debate): Relatable, harmless question. It differs from the existing \"say 'It's late'\" card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how old they were when they kept their first roza.",
+   "action": "add",
+   "note": "New card (debate): The owner allows worship-related personal questions, and the deck has no first-roza card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to show you how they wave down a rickshaw.",
+   "action": "add",
+   "note": "New card (debate): Local physical mission that can be done anywhere. No duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to do an impression of a sabzi wala calling out his prices.",
+   "action": "add",
+   "note": "New card (debate): Affectionate local impression. It differs from the existing impression cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they would name their own dhaba.",
+   "action": "add",
+   "note": "New card (debate): Creative question. It differs from the favourite dhaba/chaat stall card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who in their family snores the loudest.",
+   "action": "add",
+   "note": "New card (debate): Mild family humour. Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite name for a baby boy or girl.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: a natural family conversation that does not imply a pregnancy in the family."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Shukar hai!' (Thank goodness!).",
+   "action": "add",
+   "note": "New card (debate): Common local exclamation that matches the say-a-phrase cards. Not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which Pakistani city they would move to if they had to leave their own.",
+   "action": "add",
+   "note": "New card (debate): Open local question that differs from the favourite-city and best-food-city cards."
   }
  ]
 }

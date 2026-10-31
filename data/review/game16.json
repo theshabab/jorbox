@@ -5725,14 +5725,14 @@
   },
   {
    "id": "game16-521",
-   "Name": "How can we create a more compassionate world?",
+   "Name": "What is one small act of kindness that would make your mohalla or city a better place?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "How can we create a more compassionate world?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Turns an abstract, preachy question into a concrete, local one that is easy to answer."
   },
   {
    "id": "game16-522",
@@ -5824,14 +5824,14 @@
   },
   {
    "id": "game16-530",
-   "Name": "What is the best topping for a Bun Kebab?",
+   "Name": "What makes the perfect bun kebab: anda, chutney, extra onions or something else?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the best topping for a Bun Kebab?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Fixes the odd capitalisation and the word 'topping', and gives familiar bun kebab fillings as options."
   },
   {
    "id": "game16-531",
@@ -6066,14 +6066,14 @@
   },
   {
    "id": "game16-552",
-   "Name": "What is the best way to handle load shedding (light janay ka waqt)?",
+   "Name": "What is your best trick for surviving load shedding in the summer heat?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the best way to handle load shedding (light janay ka waqt)?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Removes the awkward parenthetical and keeps the idea in a livelier prompt. It does not duplicate 267."
   },
   {
    "id": "game16-553",
@@ -6121,14 +6121,14 @@
   },
   {
    "id": "game16-557",
-   "Name": "If you could invent a new flavor of Lays, what would it be?",
+   "Name": "If you could invent a new flavor of Lay's or Kurkure, what would it be?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you could invent a new flavor of Lays, what would it be?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Fixes the brand spelling (Lay's) and adds a local snack. Uses the challenger's amended version, which keeps the deck's American spelling 'flavor' (as in cards 76 and 455)."
   },
   {
    "id": "game16-558",
@@ -6712,8 +6712,8 @@
    "id": null,
    "Name": "Who in your family is always the last to arrive at a dawat?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Near-duplicate of card 751 ('bas paanch minute' and then shows up an hour late)."
   },
   {
    "id": null,
@@ -7960,6 +7960,62 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): A storytelling angle not covered by 433 (opinion on exams) or 729 (worst result card)."
+  },
+  {
+   "id": null,
+   "Name": "When \"khana khul gaya hai\" is announced at a wedding, what is your game plan?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): An authentic shaadi moment that differs from 445 (buffets in general) and 740 (saving a seat)."
+  },
+  {
+   "id": null,
+   "Name": "What was the best thing you ever bought with your own pocket money as a kid?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Nostalgic childhood question. Pocket money is an everyday memory, distinct from 614 (Eidi)."
+  },
+  {
+   "id": null,
+   "Name": "What was your favorite thing to buy from the school canteen or the thela outside the school gate?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Local school-food nostalgia, distinct from 64 (break time) and 552 (snack brands). Uses the challenger's version with the deck's 'favorite' spelling."
+  },
+  {
+   "id": null,
+   "Name": "As a kid, did you ever sneak out to play during the afternoon nap time? Did you get caught?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Relatable desi childhood memory that no other card covers."
+  },
+  {
+   "id": null,
+   "Name": "Which indoor game kept you busy during load shedding as a kid (chor sipahi, name-place-animal-thing, carrom)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Indoor games during load shedding are a new angle. Card 532 covers outdoor gali games."
+  },
+  {
+   "id": null,
+   "Name": "Which disappearing Pakistani tradition do you wish we could bring back?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Distinct enough from 242 (a word or saying), 636 (passing on a family tradition), 571 and 89 (family traditions)."
+  },
+  {
+   "id": null,
+   "Name": "Has a dua of yours ever been answered in a way you did not expect?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): A worship-related personal question, which the owner allows. It differs from 732 (which dua you make most often)."
+  },
+  {
+   "id": null,
+   "Name": "What do you remember most about your school van or rickshaw rides?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Shared school-commute nostalgia that no other card covers. 540 and 713 ask about rickshaw drivers and truck art, not school rides."
   }
  ]
 }

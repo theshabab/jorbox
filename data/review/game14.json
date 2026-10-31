@@ -5326,6 +5326,69 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Mosque question that works for everyone and does not measure anyone's prayers (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Description": "How many times has your mother's chappal come flying your way?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Well-known desi family joke that the deck does not have yet. The only other chappal card counts pairs at the door. Anyone can answer it, including with 0."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you pretended to be asleep to get out of a family outing?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable avoidance question. It is different from 488 (hiding from guests) and 456 (disappearing when there is work), and no 'pretend asleep' card exists."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to go straight for the khurchan (crispy bottom) of the biryani degh?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local food question with a gloss for 'khurchan'. The existing biryani cards are about cooking it, eating it with a spoon and plate records. '0 to 100' fits a 'how likely' question."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you blamed a sibling or cousin for something you broke?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Light childhood confession that fits next to 512 and 513. 'Or cousin' lets only children answer too. Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you sneaked a bite of the food before the guests were served?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fits the deck's daawat theme and has no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wake up for Sehri on the first alarm?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Ramadan question that asks something different from 'slept through Sehri' (a count) and 'How many alarms do you set' (a general habit). The category is correct."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year has a relative asked you 'Shaadi kab karni hai?'",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Classic relative question that pairs with 498 and 509. Married players can answer 0, so it makes no assumption. Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many guests can sit in your home for a daawat before some have to sit on the floor?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Hospitality question for the daawat theme. Uses the challenger's more natural wording in place of the stiff 'can your home seat'."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you been sent to make chai the moment guests arrived?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): The existing chai cards are about making, drinking, sugar or dunking. This one is about the guest-errand situation and pairs with 455."
   }
  ]
 }
