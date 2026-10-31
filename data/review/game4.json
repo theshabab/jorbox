@@ -9339,11 +9339,11 @@
   },
   {
    "id": null,
-   "Name": "tonnes",
-   "Description": "A single teaspoon of material from a neutron star would weigh about a billion ____.",
-   "Category": "Science Surprises",
+   "Name": "billion",
+   "Description": "A single teaspoon of material from a neutron star would weigh about a ____ tonnes.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The number is the surprising part and a better bluffing target than the unit; the figure is accurate."
   },
   {
    "id": null,
@@ -9751,7 +9751,7 @@
    "Description": "The ice lolly on a stick was invented by accident in 1905 by a boy aged just ____ who left his drink outside on a cold night.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff."
+   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff.; Debate: Fills the empty category. The fact (Frank Epperson, aged 11) is correct."
   },
   {
    "id": null,
@@ -9804,18 +9804,18 @@
   {
    "id": null,
    "Name": "Sears",
-   "Description": "Bangladeshi-American engineer Fazlur Rahman Khan, whose designs made modern skyscrapers possible, was the structural engineer of Chicago's ____ Tower (now called the Willis Tower).",
+   "Description": "Fazlur Rahman Khan, the Dhaka-born engineer whose \"tube\" designs made modern skyscrapers possible, was the structural engineer of Chicago's ____ Tower (now the Willis Tower).",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer."
+   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer.; Debate: Tighter, accurate wording, and fills the empty category."
   },
   {
    "id": null,
-   "Name": "Japan",
-   "Description": "Instant noodles were invented in 1958 by Momofuku Ando in ____.",
-   "Category": "Inventions",
+   "Name": "backyard",
+   "Description": "Momofuku Ando invented instant noodles in 1958 after experimenting alone in a small shed in his ____.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Challenger's amendment: 'Japan' was too easy to guess, the backyard shed in Ikeda is true, and the unverified 'months' detail is gone."
   },
   {
    "id": null,
@@ -9855,7 +9855,7 @@
    "Description": "Sindh's traditional block-printed shawl, dyed in deep red and indigo, is called the ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer."
+   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer.; Debate: Fills the empty category."
   },
   {
    "id": null,
@@ -9899,11 +9899,11 @@
   },
   {
    "id": null,
-   "Name": "Hazrat Ali",
-   "Description": "Pakistan's highest military award, the Nishan-e-Haider, is named after ____, who was known as \"Haider\", the lion.",
-   "Category": "Pakistan Facts",
+   "Name": "lion",
+   "Description": "Pakistan's highest military award, the Nishan-e-Haider, is named after Hazrat Ali (RA), whose title \"Haider\" means ____.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The old wording gave the answer away. 'Haider' does mean lion, and the honorific is respectful."
   },
   {
    "id": null,
@@ -11856,6 +11856,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate Muslim-world engineering fact not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "library",
+   "Description": "Mughal emperor Humayun died in 1556 after slipping on the stone stairs of his ____ in Delhi as he hurried to answer the call to prayer.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (Sher Mandal, Purana Qila) and surprising. The deck has no Humayun card."
+  },
+  {
+   "id": null,
+   "Name": "horses",
+   "Description": "According to legend, the Khewra Salt Mine was discovered when the ____ of Alexander the Great's army were seen licking its rocks.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A well-known local legend, labelled as a legend, and a different angle from the existing salt-mosque card."
+  },
+  {
+   "id": null,
+   "Name": "eyebrows",
+   "Description": "According to the Greek historian Herodotus, ancient Egyptian families shaved off their ____ to mourn the death of a pet cat.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Sourced (Histories 2.66) with no deity content and no duplicate. Good to bluff on."
+  },
+  {
+   "id": null,
+   "Name": "metre",
+   "Description": "Some species of bamboo can grow almost a ____ in a single day.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (up to about 91 cm a day). The deck has no bamboo card."
+  },
+  {
+   "id": null,
+   "Name": "turtles",
+   "Description": "Karachi's Hawke's Bay and Sandspit beaches are important nesting sites for green ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A true local wildlife fact. Judge amendment: dropped 'endangered' because the IUCN moved the green turtle from Endangered to Least Concern in its October 2025 update."
+  },
+  {
+   "id": null,
+   "Name": "eight",
+   "Description": "After being overthrown by his son Aurangzeb in 1658, Shah Jahan spent nearly ____ years confined in Agra Fort, gazing across the river at the Taj Mahal.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: 'Taj Mahal' was too obvious and is already linked to Shah Jahan in card 680. The confinement (1658 to January 1666) lasted nearly eight years."
+  },
+  {
+   "id": null,
+   "Name": "China",
+   "Description": "In 1990, Pakistan's first satellite, Badr-1, was launched into space from ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True (16 July 1990, Long March 2E, Xichang) and surprising. The deck has no space card."
   }
  ]
 }

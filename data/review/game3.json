@@ -10417,6 +10417,86 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): New local food Writing card. Uses the challenger's amended decoys, which drop one decoy that gets the same answers and two that copy the real prompts of cards 752 and 404."
+  },
+  {
+   "id": null,
+   "Name": "I could survive a week without the internet.",
+   "Description": "I spend too much time on my phone.|I check WhatsApp before I even get out of bed.|I would love a week in the mountains.|I could survive a week without chai.|I get bored very easily.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New Rating card about phones and social media. No live card uses this prompt, and the decoys are close but distinguishable."
+  },
+  {
+   "id": null,
+   "Name": "I always carry a spare phone charger with me.",
+   "Description": "My phone is always on 5%.|I am super organised.|I always have tissues in my bag.|I hate asking people for things.|I always keep an umbrella in the car.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New relatable Rating card. Uses the challenger's version, which swaps out the power-bank decoy because it meant the same as the prompt."
+  },
+  {
+   "id": null,
+   "Name": "I never skip breakfast.",
+   "Description": "I’m a morning person.|Halwa puri is the best breakfast.|I always eat dinner too late.|I snack all day long.|I can’t think before my morning chai.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New food-habit Rating card with close local decoys. No breakfast Rating prompt exists."
+  },
+  {
+   "id": null,
+   "Name": "I always fall asleep on long car journeys.",
+   "Description": "I get carsick easily.|I love road trips to the north.|I always sit in the front seat.|I can sleep anywhere.|I’m the one who picks the route.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New Rating card. No car-journey prompt exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "I could happily give up meat for a month.",
+   "Description": "I’m a big fan of vegetables.|I could never go vegan.|I eat meat every single day.|Daal is underrated.|Bakra Eid is my favourite Eid.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New food Rating card. Similar lines appear only as decoys on other cards, never as a real prompt, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I know all my cousins’ birthdays by heart.",
+   "Description": "I have a great memory.|I have way too many cousins.|I always forget birthdays.|I love planning surprises.|I’m the one who organises family get-togethers.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New family-themed Rating card. Not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Your neighbour parks his car in front of your gate every single night. You...",
+   "Description": "leave a polite note|block his car in|knock on his door at 2 AM",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): New Morality dilemma with local flavour. No neighbour-parking card exists."
+  },
+  {
+   "id": null,
+   "Name": "You realise a shopkeeper gave you a fake Rs. 500 note in your change. You...",
+   "Description": "go back and complain|quietly spend it somewhere else|keep it as a souvenir",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): New honesty dilemma, distinct from the found-cash and extra-change cards."
+  },
+  {
+   "id": null,
+   "Name": "Your younger sibling finds your old school report card full of bad marks. You...",
+   "Description": "bribe them to stay quiet|deny it is yours|proudly own it",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): New light family Morality card. Not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "At an iftar dinner, the host’s pakoras are burnt outside and raw inside. You...",
+   "Description": "eat them with a smile|politely skip them|offer cooking tips",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): New hospitality dilemma that stays respectful because it is about the food, not the fast. The only iftar card in the deck is a Writing prompt."
   }
  ]
 }

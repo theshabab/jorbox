@@ -22951,7 +22951,7 @@
   {
    "id": "game15-1766",
    "Name": "Pokemon Red/Green",
-   "Description": "1996 - Japan (as Red/Green)",
+   "Description": "1996 - Game Boy, Japan",
    "Category": "Video Games (Release Year)",
    "action": "edit",
    "original": {
@@ -22959,7 +22959,7 @@
     "Description": "1996",
     "Category": "Video Games (Release Year)"
    },
-   "note": "1996 was the Japanese Red/Green release; Red/Blue came out in 1998"
+   "note": "1996 was the Japanese Red/Green release; Red/Blue came out in 1998; Debate: The description repeated 'Red/Green' from the name."
   },
   {
    "id": "game15-1767",
@@ -23445,28 +23445,28 @@
   {
    "id": "game15-1804",
    "Name": "Android",
-   "Description": "2008",
+   "Description": "2008 - 23 September (Android 1.0)",
    "Category": "Google Product Launches (Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Android",
     "Description": "2008",
     "Category": "Google Product Launches (Year)"
    },
-   "note": ""
+   "note": "Debate: Breaks the 2008 tie with Chrome. Android 1.0 came out on 23 Sep 2008."
   },
   {
    "id": "game15-1805",
    "Name": "Chrome",
-   "Description": "2008",
+   "Description": "2008 - 2 September (beta)",
    "Category": "Google Product Launches (Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Chrome",
     "Description": "2008",
     "Category": "Google Product Launches (Year)"
    },
-   "note": ""
+   "note": "Debate: Breaks the 2008 tie with Android. The Chrome beta came out on 2 Sep 2008."
   },
   {
    "id": "game15-1806",
@@ -23730,16 +23730,16 @@
   },
   {
    "id": "game15-1826",
-   "Name": "Hindenburg Disaster",
-   "Description": "1937",
+   "Name": "Quetta Earthquake",
+   "Description": "1935 - 31 May, Balochistan",
    "Category": "Historical Disasters (Year)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Hindenburg Disaster",
     "Description": "1937",
     "Category": "Historical Disasters (Year)"
    },
-   "note": ""
+   "note": "Debate: Adds a major Pakistani disaster to an all-Western category. 1935 keeps its place between 1912 and 1986."
   },
   {
    "id": "game15-1827",
@@ -24627,8 +24627,8 @@
   },
   {
    "id": "game15-1895",
-   "Name": "German Shepherd",
-   "Description": "50-90 lbs (23-41 kg)",
+   "Name": "Rottweiler",
+   "Description": "80-135 lbs (36-61 kg)",
    "Category": "Average Dog Weights (Lighter to Heavier)",
    "action": "edit",
    "original": {
@@ -24636,7 +24636,7 @@
     "Description": "60-90 lbs",
     "Category": "Average Dog Weights (Lighter to Heavier)"
    },
-   "note": "corrected range, added kg"
+   "note": "corrected range, added kg; Debate: German Shepherd overlapped Golden Retriever, so the order was unclear. Rottweiler sits clearly between Golden Retriever and Saint Bernard. The kg values are corrected to match the lbs."
   },
   {
    "id": "game15-1896",
@@ -24861,8 +24861,8 @@
   },
   {
    "id": "game15-1913",
-   "Name": "Statue of Liberty",
-   "Description": "93 m",
+   "Name": "Minar-e-Pakistan",
+   "Description": "About 62 m",
    "Category": "Heights of Famous Landmarks (Low to High)",
    "action": "edit",
    "original": {
@@ -24870,7 +24870,7 @@
     "Description": "93 m",
     "Category": "Heights of World Buildings (Low to High)"
    },
-   "note": "Category renamed (not all are buildings)"
+   "note": "Category renamed (not all are buildings); Debate: A Pakistani landmark replaces a US one. 62 m keeps its place between Pisa (56 m) and Big Ben (96 m)."
   },
   {
    "id": "game15-1914",
@@ -29145,6 +29145,78 @@
    "Category": "Nobel Prize Winners (Year)",
    "action": "add",
    "note": "New card (debate): Challenger amendment: Sadat won in 1978, so Mahfouz was not the first Arab laureate; he was the first Arabic-language writer to win the Literature prize. Muslim-world laureate; no year tie."
+  },
+  {
+   "id": null,
+   "Name": "Pakola",
+   "Description": "1950 - Karachi",
+   "Category": "Soft Drinks (Introduction Year)",
+   "action": "add",
+   "note": "New card (debate): Adds a classic Pakistani soft drink. 1950 does not clash with any other year in the category."
+  },
+  {
+   "id": null,
+   "Name": "French Revolution",
+   "Description": "1789 - Storming of the Bastille",
+   "Category": "Just French Things (Origin)",
+   "action": "add",
+   "note": "New card (debate): The category is small. A well-known date fills the gap between 1680 and 1891."
+  },
+  {
+   "id": null,
+   "Name": "And Then There Were None",
+   "Description": "About 100 million",
+   "Category": "Best-Selling Books (Copies Sold)",
+   "action": "add",
+   "note": "New card (debate): Lifts the category above the 3-card minimum. 100 million fits between 65 million and 200 million."
+  },
+  {
+   "id": null,
+   "Name": "Earthrise",
+   "Description": "1968 - Apollo 8, Earth seen from lunar orbit",
+   "Category": "Iconic Photographs (Year)",
+   "action": "add",
+   "note": "New card (debate): A famous photo that makes a close call against the 1969 Moon landing photo."
+  },
+  {
+   "id": null,
+   "Name": "PUBG Mobile",
+   "Description": "2018 - Tencent / PUBG Corp",
+   "Category": "Video Games (Release Year)",
+   "action": "add",
+   "note": "New card (debate): Hugely popular in Pakistan, and 2018 comes right after Fortnite (2017)."
+  },
+  {
+   "id": null,
+   "Name": "Bata",
+   "Description": "1894 - Zlin, Czech lands",
+   "Category": "Fashion Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): A household shoe brand in Pakistan. 1894 fills the gap between 1854 and 1910."
+  },
+  {
+   "id": null,
+   "Name": "Saudi Arabia",
+   "Description": "1932 - Kingdom of Saudi Arabia proclaimed (23 September)",
+   "Category": "Sovereign States (Founding/Independence)",
+   "action": "add",
+   "note": "New card (debate): Adds a Muslim-world state between 1917 and 1947. The challenger's wording makes clear the date is not the 1727 Founding Day."
+  },
+  {
+   "id": null,
+   "Name": "Salahuddin Ayyubi",
+   "Description": "c. 1137 - born in Tikrit",
+   "Category": "World Leaders (Birth Year)",
+   "action": "add",
+   "note": "New card (debate): A beloved Muslim leader who makes a close call against Genghis Khan (c. 1162)."
+  },
+  {
+   "id": null,
+   "Name": "Pakistan",
+   "Description": "1,046",
+   "Category": "Countries By Coastline Size (km)",
+   "action": "add",
+   "note": "New card (debate): The challenger's missed issue. Pakistan's coastline is 1,046 km (CIA World Factbook, the same source as the other values), which puts the home country at the low end below Madagascar."
   }
  ]
 }
