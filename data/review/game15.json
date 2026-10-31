@@ -18166,8 +18166,8 @@
   },
   {
    "id": "game15-1398",
-   "Name": "Quart",
-   "Description": "4 cups (946 ml)",
+   "Name": "Litre",
+   "Description": "About 4 cups (1,000 ml)",
    "Category": "Cooking Measurements (Small to Large)",
    "action": "edit",
    "original": {
@@ -18175,7 +18175,7 @@
     "Description": "6",
     "Category": "Cooking Measurements (Small to Large)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; Debate: The quart is a US-only measure. The litre is the everyday local equivalent and keeps the order between pint and gallon."
   },
   {
    "id": "game15-1399",
@@ -18803,8 +18803,8 @@
   },
   {
    "id": "game15-1447",
-   "Name": "Bison",
-   "Description": "About 1.8 m (shoulder)",
+   "Name": "Water Buffalo (Bhains)",
+   "Description": "About 1.5 m (shoulder)",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18812,12 +18812,12 @@
     "Description": "6 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value; metric; local animal where US-only"
+   "note": "added unit/basis to value; metric; local animal where US-only; Debate: Replaces the US-centric bison with a local animal. Domestic water buffalo stand about 1.3–1.5 m at the shoulder, which still sorts cleanly."
   },
   {
    "id": "game15-1448",
-   "Name": "Moose",
-   "Description": "About 2.3 m (shoulder)",
+   "Name": "Camel",
+   "Description": "About 2 m (shoulder)",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18825,7 +18825,7 @@
     "Description": "7.5 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value; metric; local animal where US-only"
+   "note": "added unit/basis to value; metric; local animal where US-only; Debate: Replaces the moose with a familiar animal. A dromedary is about 1.8–2 m at the shoulder, between the buffalo and the ostrich."
   },
   {
    "id": "game15-1449",
@@ -19401,8 +19401,8 @@
   },
   {
    "id": "game15-1493",
-   "Name": "Racecar",
-   "Description": "750 hp",
+   "Name": "Formula 1 Car",
+   "Description": "About 1,000 hp",
    "Category": "How Much Horsepower",
    "action": "edit",
    "original": {
@@ -19410,12 +19410,12 @@
     "Description": "750",
     "Category": "How Much Horsepower"
    },
-   "note": "unit"
+   "note": "unit; Debate: 'Racecar' is too vague to have one value. A current F1 hybrid makes about 1,000 hp."
   },
   {
    "id": "game15-1494",
-   "Name": "Hummer EV",
-   "Description": "1,000 hp",
+   "Name": "Suzuki Mehran",
+   "Description": "About 40 hp",
    "Category": "How Much Horsepower",
    "action": "edit",
    "original": {
@@ -19423,7 +19423,7 @@
     "Description": "1000",
     "Category": "How Much Horsepower"
    },
-   "note": "1,000 hp is the electric Hummer EV"
+   "note": "1,000 hp is the electric Hummer EV; Debate: Replaces the US-only Hummer EV with an iconic Pakistani car. Its 796 cc engine makes about 37–39 hp."
   },
   {
    "id": "game15-1495",
@@ -19885,13 +19885,13 @@
    "Name": "Chicken",
    "Description": "60%",
    "Category": "Genetic Similarity to Humans",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Chicken",
     "Description": "60%",
     "Category": "Genetic Similarity to Humans"
    },
-   "note": ""
+   "note": "Debate: Ties with Banana at 60%, so no single correct order exists. The banana is kept as the surprising item."
   },
   {
    "id": "game15-1531",
@@ -19950,104 +19950,104 @@
    "Name": "Human",
    "Description": "100%",
    "Category": "Genetic Similarity to Humans",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Human",
     "Description": "100%",
     "Category": "Genetic Similarity to Humans"
    },
-   "note": ""
+   "note": "Debate: Trivial item with nothing to sort. Five items remain after C1."
   },
   {
    "id": "game15-1536",
    "Name": "Finland",
    "Description": "1st (2021)",
    "Category": "Happiest Countries (World Happiness Report 2021)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Finland",
     "Description": "1",
     "Category": "Happiest Countries (Rank)"
    },
-   "note": "category renamed for clarity; year clarified; ranking changes yearly"
+   "note": "Debate: Outdated time-sensitive ranking; the whole category is removed under the rules."
   },
   {
    "id": "game15-1537",
    "Name": "Denmark",
    "Description": "2nd (2021)",
    "Category": "Happiest Countries (World Happiness Report 2021)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Denmark",
     "Description": "2",
     "Category": "Happiest Countries (Rank)"
    },
-   "note": "category renamed for clarity; year clarified"
+   "note": "Debate: Whole-category removal (outdated ranking)."
   },
   {
    "id": "game15-1538",
    "Name": "Switzerland",
    "Description": "3rd (2021)",
    "Category": "Happiest Countries (World Happiness Report 2021)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Switzerland",
     "Description": "3",
     "Category": "Happiest Countries (Rank)"
    },
-   "note": "category renamed for clarity; year clarified"
+   "note": "Debate: Whole-category removal (outdated ranking)."
   },
   {
    "id": "game15-1539",
    "Name": "Iceland",
    "Description": "4th (2021)",
    "Category": "Happiest Countries (World Happiness Report 2021)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Iceland",
     "Description": "4",
     "Category": "Happiest Countries (Rank)"
    },
-   "note": "category renamed for clarity; year clarified"
+   "note": "Debate: Whole-category removal (outdated ranking)."
   },
   {
    "id": "game15-1540",
    "Name": "Netherlands",
    "Description": "5th (2021)",
    "Category": "Happiest Countries (World Happiness Report 2021)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Netherlands",
     "Description": "5",
     "Category": "Happiest Countries (Rank)"
    },
-   "note": "category renamed for clarity; year clarified"
+   "note": "Debate: Whole-category removal (outdated ranking)."
   },
   {
    "id": "game15-1541",
    "Name": "Norway",
    "Description": "6th (2021)",
    "Category": "Happiest Countries (World Happiness Report 2021)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Norway",
     "Description": "6",
     "Category": "Happiest Countries (Rank)"
    },
-   "note": "category renamed for clarity; year clarified"
+   "note": "Debate: Whole-category removal (outdated ranking)."
   },
   {
    "id": "game15-1542",
    "Name": "Sweden",
    "Description": "7th (2021)",
    "Category": "Happiest Countries (World Happiness Report 2021)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Sweden",
     "Description": "7",
     "Category": "Happiest Countries (Rank)"
    },
-   "note": "category renamed for clarity; year clarified"
+   "note": "Debate: Whole-category removal (outdated ranking)."
   },
   {
    "id": "game15-1543",
@@ -29033,6 +29033,54 @@
    "Category": "Tiny Things (Small to Large)",
    "action": "add",
    "note": "New card (debate): Familiar reference; sorts between the red blood cell (7-8 micrometres) and the human egg (~0.1 mm)"
+  },
+  {
+   "id": null,
+   "Name": "Tandoor",
+   "Description": "~480 °C",
+   "Category": "Maximum Heat (Celsius)",
+   "action": "add",
+   "note": "New card (debate): A familiar local heat source (often cited at up to about 480 °C), between the gas oven and the Bunsen burner."
+  },
+  {
+   "id": null,
+   "Name": "Snow Leopard",
+   "Description": "About 60 cm (shoulder)",
+   "Category": "Animal Heights",
+   "action": "add",
+   "note": "New card (debate): A northern Pakistan animal that becomes the new shortest item; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Camel",
+   "Description": "65 km/h (sprint)",
+   "Category": "Land Animal Speeds",
+   "action": "add",
+   "note": "New card (debate): A familiar animal with a surprising sprint speed, between the giraffe (60) and the ostrich (72)."
+  },
+  {
+   "id": null,
+   "Name": "Milk",
+   "Description": "pH 6.7",
+   "Category": "Food Acidity (pH - Most to Least Acidic)",
+   "action": "add",
+   "note": "New card (debate): An everyday item (pH about 6.4–6.8), between broccoli and tofu."
+  },
+  {
+   "id": null,
+   "Name": "Honda CD 70 Motorcycle",
+   "Description": "About 6 hp",
+   "Category": "How Much Horsepower",
+   "action": "add",
+   "note": "New card (debate): A Pakistani staple whose 72 cc engine makes roughly 5–6 hp, a fun surprise between a human and a horse."
+  },
+  {
+   "id": null,
+   "Name": "Red Sea",
+   "Description": "~438,000 km²",
+   "Category": "Bodies of Water By Size (km²)",
+   "action": "add",
+   "note": "New card (debate): A Muslim-world sea that fills the gap between Lake Victoria and the Mediterranean."
   }
  ]
 }

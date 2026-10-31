@@ -966,7 +966,7 @@ Teaspoon,5 ml,Cooking Measurements (Small to Large)
 Tablespoon,15 ml (3 teaspoons),Cooking Measurements (Small to Large)
 Cup,240 ml,Cooking Measurements (Small to Large)
 Pint,2 cups (473 ml),Cooking Measurements (Small to Large)
-Quart,4 cups (946 ml),Cooking Measurements (Small to Large)
+Litre,"About 4 cups (1,000 ml)",Cooking Measurements (Small to Large)
 Gallon,16 cups (3.8 L),Cooking Measurements (Small to Large)
 Hair dryer,60 °C,Maximum Heat (Celsius)
 Boiling water,100 °C,Maximum Heat (Celsius)
@@ -1002,8 +1002,8 @@ Indian Ocean,~70.6 million km²,Bodies of Water By Size (km²)
 Atlantic Ocean,~106 million km²,Bodies of Water By Size (km²)
 Pacific Ocean,~165 million km²,Bodies of Water By Size (km²)
 Markhor,About 1 m (shoulder),Animal Heights
-Bison,About 1.8 m (shoulder),Animal Heights
-Moose,About 2.3 m (shoulder),Animal Heights
+Water Buffalo (Bhains),About 1.5 m (shoulder),Animal Heights
+Camel,About 2 m (shoulder),Animal Heights
 Ostrich,About 2.7 m,Animal Heights
 Brown Bear,About 3 m (standing on hind legs),Animal Heights
 African Elephant,About 4 m (shoulder),Animal Heights
@@ -1033,8 +1033,8 @@ Tofu,pH 7.20,Food Acidity (pH - Most to Least Acidic)
 Hamster,0.001 hp,How Much Horsepower
 Human,About 1.2 hp (short burst),How Much Horsepower
 Horse,14.9 hp (peak),How Much Horsepower
-Racecar,750 hp,How Much Horsepower
-Hummer EV,"1,000 hp",How Much Horsepower
+Formula 1 Car,"About 1,000 hp",How Much Horsepower
+Suzuki Mehran,About 40 hp,How Much Horsepower
 Concorde Plane,"About 144,000 hp",How Much Horsepower
 Space Shuttle,"37,000,000 hp (at launch)",How Much Horsepower
 Mouth,"1st - chewing, saliva",Organs of the Body (Digestive Order)
@@ -1044,19 +1044,10 @@ Small Intestine,4th - absorbs nutrients,Organs of the Body (Digestive Order)
 Large Intestine,5th - absorbs water,Organs of the Body (Digestive Order)
 Rectum,6th - stores waste,Organs of the Body (Digestive Order)
 Banana,60%,Genetic Similarity to Humans
-Chicken,60%,Genetic Similarity to Humans
 Cat,90%,Genetic Similarity to Humans
 Mouse,85%,Genetic Similarity to Humans
 Cow,80%,Genetic Similarity to Humans
 Chimp,98.8%,Genetic Similarity to Humans
-Human,100%,Genetic Similarity to Humans
-Finland,1st (2021),Happiest Countries (World Happiness Report 2021)
-Denmark,2nd (2021),Happiest Countries (World Happiness Report 2021)
-Switzerland,3rd (2021),Happiest Countries (World Happiness Report 2021)
-Iceland,4th (2021),Happiest Countries (World Happiness Report 2021)
-Netherlands,5th (2021),Happiest Countries (World Happiness Report 2021)
-Norway,6th (2021),Happiest Countries (World Happiness Report 2021)
-Sweden,7th (2021),Happiest Countries (World Happiness Report 2021)
 Earth,0.0007 RPM (1 turn a day),Spinning Objects By Rotation Speed (RPM)
 Fairground Ride,About 24 RPM,Spinning Objects By Rotation Speed (RPM)
 Bicycle Wheel (at 20 km/h),About 160 RPM,Spinning Objects By Rotation Speed (RPM)
@@ -1438,3 +1429,9 @@ Carrom,20 (19 coins incl. queen + 1 striker),Board Games By Piece Count (Approx.
 Moon,~0.012 Earth masses,Solar System Bodies by Mass
 Sperm Whale,"~2,250 m (record dive)",Sea Animals by Diving Depth
 Width of a Human Hair,~0.07 mm (70 micrometres),Tiny Things (Small to Large)
+Tandoor,~480 °C,Maximum Heat (Celsius)
+Snow Leopard,About 60 cm (shoulder),Animal Heights
+Camel,65 km/h (sprint),Land Animal Speeds
+Milk,pH 6.7,Food Acidity (pH - Most to Least Acidic)
+Honda CD 70 Motorcycle,About 6 hp,How Much Horsepower
+Red Sea,"~438,000 km²",Bodies of Water By Size (km²)

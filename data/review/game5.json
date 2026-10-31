@@ -32974,15 +32974,15 @@
   {
    "id": "game5-2537",
    "Name": "",
-   "Description": "I got my dog from a shelter. She was rescued from ____.",
+   "Description": "I adopted a stray cat. She was rescued from ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I got my dog from a shelter. She was rescued from ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the US shelter-dog frame with a local stray cat and keeps the joke."
   },
   {
    "id": "game5-2538",
@@ -33013,7 +33013,7 @@
   {
    "id": "game5-2540",
    "Name": "",
-   "Description": "I got scared when the officer tapped on my window and said ____.",
+   "Description": "I got scared when the traffic warden tapped on my window and said ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -33021,7 +33021,7 @@
     "Description": "I got scared when the officer tapped on my window and said ____",
     "Category": ""
    },
-   "note": "Punctuation"
+   "note": "Punctuation; Debate: A local traffic warden instead of a US-style officer."
   },
   {
    "id": "game5-2541",
@@ -33067,13 +33067,13 @@
    "Name": "",
    "Description": "I got stuck in time out for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I got stuck in time out for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Western 'time out' frame; the punishment joke is already covered by game5-78."
   },
   {
    "id": "game5-2545",
@@ -33364,15 +33364,15 @@
   {
    "id": "game5-2567",
    "Name": "",
-   "Description": "I have a court order that prevents me from coming within 500 feet of ____.",
+   "Description": "The court has ordered me to stay 500 metres away from ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I have a court order that prevents me from coming within 500 feet of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Metric units and plainer wording, instead of the US restraining-order phrasing."
   },
   {
    "id": "game5-2568",
@@ -33403,15 +33403,15 @@
   {
    "id": "game5-2570",
    "Name": "",
-   "Description": "I have an idea even better than Kickstarter, and it's called ____starter.",
+   "Description": "I have an idea even better than Foodpanda, and it's called ____panda.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I have an idea even better than Kickstarter, and it's called ____starter.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A brand everyone here knows, with the same wordplay. Kickstarter is still used on another card."
   },
   {
    "id": "game5-2571",
@@ -33611,15 +33611,15 @@
   {
    "id": "game5-2586",
    "Name": "",
-   "Description": "I hope I don't ____ on the roller coaster.",
+   "Description": "The whole Joyland queue heard me scream ____ on the roller coaster.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I hope I don't ____ on the roller coaster.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The old wording invited vomit or wetting answers; the new one is local and clean."
   },
   {
    "id": "game5-2587",
@@ -33637,15 +33637,15 @@
   {
    "id": "game5-2588",
    "Name": "",
-   "Description": "I hope that my baby would describe me as ____.",
+   "Description": "I hope my baby grows up to describe me as ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I hope that my baby would describe me as ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the mixed tenses and the logic (a baby can't describe anyone yet)."
   },
   {
    "id": "game5-2589",
@@ -33910,15 +33910,15 @@
   {
    "id": "game5-2609",
    "Name": "",
-   "Description": "I ate ____ and I like it.",
+   "Description": "I tried ____ for the first time, and honestly, I liked it.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I ate ____ and I like it.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the tense, and the rewording avoids echoing the 'I kissed a girl and I liked it' pop lyric."
   },
   {
    "id": "game5-2610",
@@ -34040,15 +34040,15 @@
   {
    "id": "game5-2619",
    "Name": "",
-   "Description": "I know I am smart when I ____ in front of a mirror.",
+   "Description": "I feel like a genius when I ____ in front of the mirror.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I know I am smart when I ____ in front of a mirror.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Clearer and more natural wording."
   },
   {
    "id": "game5-2620",
@@ -34120,13 +34120,13 @@
    "Name": "",
    "Description": "I know you are, but what am I?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I know you are, but what am I?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: No blank and no real prompt, so it can't be played."
   },
   {
    "id": "game5-2626",
@@ -34443,15 +34443,15 @@
   {
    "id": "game5-2650",
    "Name": "",
-   "Description": "I live with crippling trust issues, due to the time my Mum put ____ in the Mitchell's tomato sauce bottle.",
+   "Description": "I have crippling trust issues ever since Ammi put ____ in the Mitchell's tomato sauce bottle.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I live with crippling trust issues, due to the time my Mum put ____ in the Mitchell's tomato sauce bottle.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Ammi' fits the local brand better than 'Mum', and the awkward wording is cleaned up."
   },
   {
    "id": "game5-2651",
@@ -35264,13 +35264,13 @@
    "Name": "",
    "Description": "I promise that if I'm elected PM, I will build a giant dam to keep ____ out of our great country.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I promise that if I'm elected PM, I will build a giant dam to keep ____ out of our great country.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A garbled US border-wall parody (a dam doesn't keep anything out); other dam cards already exist."
   },
   {
    "id": "game5-2714",
@@ -35509,15 +35509,15 @@
   {
    "id": "game5-2732",
    "Name": "",
-   "Description": "I should earn a Pulitzer Prize for when I was able to successfully ____.",
+   "Description": "I deserve a Pride of Performance award for the time I successfully ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I should earn a Pulitzer Prize for when I was able to successfully ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: A Pakistani award in place of the US Pulitzer, with clearer wording."
   },
   {
    "id": "game5-2733",
@@ -35563,13 +35563,13 @@
    "Name": "",
    "Description": "I sneezed so hard ____ came out my nose.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I sneezed so hard ____ came out my nose.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of the lower-id game5-1988."
   },
   {
    "id": "game5-2737",
@@ -35808,15 +35808,15 @@
   {
    "id": "game5-2755",
    "Name": "",
-   "Description": "I think hot dogs taste like ____.",
+   "Description": "I think roadside shawarma tastes like ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I think hot dogs taste like ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Challenger's amended version: a local mystery-meat joke that avoids duplicating game5-243 'University canteen food tastes like ____.'"
   },
   {
    "id": "game5-2756",
@@ -101605,6 +101605,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Local cricket humour, distinct from the existing gali cricket card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I recorded a seven-minute voice note for the family group just to explain ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card about the familiar long family voice note; no game5 voice-note card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I shoved ____ into the store room when surprise mehmaan rang the doorbell.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card about hiding the mess from surprise guests, a common household moment."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My CNIC photo makes me look like I just saw ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card on the bad ID-card photo. The only CNIC-photo card found is in game11, not game5."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I tried to fix the UPS myself and ended up with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New load-shedding card with a DIY-repair angle the existing cards don't use."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I got my Matric result, and before I could even read it, Ammi had already told ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card about results spreading through the family; no Matric-result card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I knew I had officially turned into my Abbu when I started ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card that fits the slice's 'I knew... when' run without duplicating any of them."
   }
  ]
 }

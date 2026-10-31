@@ -5539,7 +5539,7 @@
     "Description": "Think of a cringey moment from your life that still bothers you, what did it involve?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Fix comma splice."
+   "note": "Debate: Fix comma splice.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-427",
@@ -5552,7 +5552,7 @@
     "Description": "What must a perfect night in include?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Clearer, less Western phrasing than 'night in'."
+   "note": "Debate: Clearer, less Western phrasing than 'night in'.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-428",
@@ -5617,7 +5617,7 @@
     "Description": "What piece of clothing or accessory makes you feel super confident or - at least - more confident?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Remove clumsy aside."
+   "note": "Debate: Remove clumsy aside.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-433",
@@ -5804,7 +5804,7 @@
   {
    "id": "game4-447",
    "Name": "____",
-   "Description": "What is something you will NEVER put in your mouth again?",
+   "Description": "What food will you NEVER put in your mouth again?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -5812,7 +5812,7 @@
     "Description": "What is something you will NEVER put in your mouth again!",
     "Category": "Enough About You"
    },
-   "note": "Debate: Question needs a question mark."
+   "note": "Debate: Question needs a question mark.; Debate: Challenger's amendment: adds the category and limits answers to food, so the card does not invite drink or crude answers."
   },
   {
    "id": "game4-448",
@@ -5825,7 +5825,7 @@
     "Description": "Think of a weird/harmless superstition you had as a kid... what did it involve?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Tidy punctuation and wording."
+   "note": "Debate: Tidy punctuation and wording.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-449",
@@ -5929,7 +5929,7 @@
     "Description": "What’s a business you have saved on your phone? (Or should have because you use it so often)",
     "Category": "Enough About You"
    },
-   "note": "Debate: Original wording was unclear."
+   "note": "Debate: Original wording was unclear.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-457",
@@ -6254,7 +6254,7 @@
     "Description": "What fictional character do you really feel sorry for? One that you felt had a really rough time? Or the one that makes you cry?",
     "Category": "Enough About You"
    },
-   "note": "wording; Debate: Steer away from film/TV characters and smooth grammar."
+   "note": "wording; Debate: Steer away from film/TV characters and smooth grammar.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-482",
@@ -6410,7 +6410,7 @@
     "Description": "What is a dish you make you feel is uniquely yours? (Because you make it all the time or add something special to the recipe?)",
     "Category": "Enough About You"
    },
-   "note": "grammar; Debate: Fix awkward question inside parentheses."
+   "note": "grammar; Debate: Fix awkward question inside parentheses.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-494",
@@ -6462,7 +6462,7 @@
     "Description": "What was featured in one of the better dreams you can remember having?",
     "Category": "Enough About You"
    },
-   "note": "Debate: 'What was featured in one of the better dreams' is awkward."
+   "note": "Debate: 'What was featured in one of the better dreams' is awkward.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-498",
@@ -6527,7 +6527,7 @@
     "Description": "Think of a moment where you acted somewhat - or very - heroic... name one element of that story?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Fix broken grammar."
+   "note": "Debate: Fix broken grammar.; Debate: Adds the missing personal-question category."
   },
   {
    "id": "game4-503",
@@ -7840,7 +7840,7 @@
     "Description": "Futuristic Headline from the New Yorker: \"What Robots Can — And Can’t — Do for ____\"",
     "Category": "Automation"
    },
-   "note": "answer case; Debate: Drop misleading 'Futuristic' label; it is a real 2021 New Yorker headline."
+   "note": "answer case; Debate: Drop misleading 'Futuristic' label; it is a real 2021 New Yorker headline.; Debate: Fills the empty category with the existing robot-headline group (see idx 600)."
   },
   {
    "id": "game4-604",
@@ -7853,7 +7853,7 @@
     "Description": "Headline from Sky News: \"Bird of the year controversy after contest is won by ____\"",
     "Category": "Headlines"
    },
-   "note": "Debate: Add context (NZ Bird of the Year 2021, won by the long-tailed bat)."
+   "note": "Debate: Add context (NZ Bird of the Year 2021, won by the long-tailed bat).; Debate: Fills the empty category with the existing 'Contests' group. The fact is accurate: a bat won Bird of the Year in 2021."
   },
   {
    "id": "game4-605",
@@ -7987,16 +7987,16 @@
   },
   {
    "id": "game4-615",
-   "Name": "Uber Ride",
+   "Name": "Uber ride",
    "Description": "Relatable Headline from CNN: \"Man accidentally orders $1,600 ____\"",
-   "Category": "Financial Antics",
-   "action": "keep",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "Uber Ride",
     "Description": "Relatable Headline from CNN: \"Man accidentally orders $1,600 ____\"",
     "Category": "Financial Antics"
    },
-   "note": ""
+   "note": "Debate: The blank is mid-sentence, so the answer should be 'Uber ride', not 'Uber Ride'."
   },
   {
    "id": "game4-616",
@@ -8087,7 +8087,7 @@
     "Description": "Believable Headline from the New York Post: \"North Korea claims Kim Jong Un’s dad invented the ____\"",
     "Category": "Inventors"
    },
-   "note": "fact fix: the 2011/2017 claim was the hamburger, not burrito; Debate: Drop the confusing sarcastic 'Believable' label."
+   "note": "fact fix: the 2011/2017 claim was the hamburger, not burrito; Debate: Drop the confusing sarcastic 'Believable' label.; Debate: Fills the empty category with the existing 'Inventions' group."
   },
   {
    "id": "game4-623",
@@ -8334,7 +8334,7 @@
     "Description": "Before Archduke Franz Ferdinand was killed, there was a previous assassination attempt in which a ____ bounced off his ____.",
     "Category": "Get Wrecked"
    },
-   "note": "two blanks; single blank, accuracy; Debate: Moves the card out of the one-card leftover category 'Get Wrecked' into the existing History Oddities group."
+   "note": "two blanks; single blank, accuracy; Debate: Moves the card out of the one-card leftover category 'Get Wrecked' into the existing History Oddities group.; Debate: Fills the empty category. The fact is accurate (28 June 1914)."
   },
   {
    "id": "game4-642",
@@ -11736,6 +11736,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Funny, Pakistan-framed personal question; distinct from card 958."
+  },
+  {
+   "id": null,
+   "Name": "bear",
+   "Description": "Because Trinity College, Cambridge, banned students from keeping dogs, the poet Lord Byron kept a tame ____ in his rooms instead.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A well-documented, funny history oddity that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "exile",
+   "Description": "According to the traveller Evliya Çelebi, after Hezarfen Ahmed Çelebi glided across the Bosphorus from Istanbul's Galata Tower in the 1630s, Sultan Murad IV rewarded him with a purse of gold and then sent him into ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: the answer is surprising and easy to bluff around, and it avoids repeating the wings idea of the Ibn Firnas card."
+  },
+  {
+   "id": null,
+   "Name": "Madinah",
+   "Description": "The Ottoman Hejaz Railway, which opened in 1908, was built to carry Hajj pilgrims from Damascus to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): An accurate Muslim-world history fact that is not a duplicate. 'Makkah' makes a natural wrong guess, which helps the bluffing."
+  },
+  {
+   "id": null,
+   "Name": "executioner",
+   "Description": "In the Ottoman palace, the bostancıbaşı was in charge of the royal gardeners and also served as the sultan's chief ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A surprising, accurate and only mildly dark fact."
+  },
+  {
+   "id": null,
+   "Name": "Tolerance",
+   "Description": "In 2016, the UAE appointed Sheikha Lubna Al Qasimi as its first-ever Minister of State for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): An accurate and surprising government-post fact that is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "whip",
+   "Description": "After a storm wrecked his bridge across the Hellespont, the Persian king Xerxes ordered his men to ____ the sea as punishment.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A classic absurd history fact from Herodotus (300 lashes) that leaves room for good bluffs."
+  },
+  {
+   "id": null,
+   "Name": "police officer",
+   "Description": "In 2017, Dubai put its first robot ____ to work in shopping malls, where people could use it to report crimes and pay fines.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (Dubai Police, May 2017), has a regional angle and is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "tea",
+   "Description": "In 2022, Pakistan's planning minister Ahsan Iqbal urged citizens to cut down on drinking ____ to help reduce the country's import bill.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): An accurate, funny Pakistani headline from June 2022, within the owner's allowance for politics."
   }
  ]
 }
