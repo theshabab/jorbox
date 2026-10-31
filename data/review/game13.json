@@ -50,12 +50,12 @@
   },
   {
    "id": "game13-6",
-   "Description": "Get a player to correct your spelling.",
-   "action": "keep",
+   "Description": "Spell a simple word wrong out loud and get a player to correct your spelling.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to correct your spelling."
    },
-   "note": ""
+   "note": "Debate: Original gives no way to set up the mission; this says how."
   },
   {
    "id": "game13-7",
@@ -122,12 +122,12 @@
   },
   {
    "id": "game13-14",
-   "Description": "Tell a player something is voice activated. Get them to try it.",
-   "action": "keep",
+   "Description": "Tell a player the fan or light is voice-activated and get them to try switching it on with a command.",
+   "action": "edit",
    "original": {
     "Description": "Tell a player something is voice activated. Get them to try it."
    },
-   "note": ""
+   "note": "Debate: Clearer, concrete setup; fixes hyphenation."
   },
   {
    "id": "game13-15",
@@ -239,12 +239,12 @@
   },
   {
    "id": "game13-27",
-   "Description": "Get a player to tell you a story about their favorite teacher.",
-   "action": "keep",
+   "Description": "Get a player to tell you a story about their favourite teacher.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to tell you a story about their favorite teacher."
    },
-   "note": ""
+   "note": "Debate: Spelling consistency: 'favourite' as in most of the deck."
   },
   {
    "id": "game13-28",
@@ -312,20 +312,20 @@
   {
    "id": "game13-35",
    "Description": "Get a player to smell a notebook.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to smell a notebook."
    },
-   "note": ""
+   "note": "Debate: Effectively duplicates 'Get a player to smell a piece of paper'."
   },
   {
    "id": "game13-36",
    "Description": "Get a player to high-five you for solving a problem.",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "Get a player to high-five you because of solving a problem."
    },
-   "note": "grammar"
+   "note": "Debate: Same meaning as 'high-five you for fixing something'."
   },
   {
    "id": "game13-37",
@@ -563,12 +563,12 @@
   },
   {
    "id": "game13-63",
-   "Description": "Get a player to guess your favorite dessert.",
-   "action": "keep",
+   "Description": "Get a player to guess your favourite dessert.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to guess your favorite dessert."
    },
-   "note": ""
+   "note": "Debate: Spelling consistency: 'favourite'."
   },
   {
    "id": "game13-64",
@@ -617,12 +617,12 @@
   },
   {
    "id": "game13-69",
-   "Description": "Get a player to guess your favorite drink.",
-   "action": "keep",
+   "Description": "Get a player to guess your favourite drink.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to guess your favorite drink."
    },
-   "note": ""
+   "note": "Debate: Spelling consistency: 'favourite'."
   },
   {
    "id": "game13-70",
@@ -644,12 +644,12 @@
   },
   {
    "id": "game13-72",
-   "Description": "Get a player to guess your favorite subject.",
-   "action": "keep",
+   "Description": "Get a player to guess your favourite subject.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to guess your favorite subject."
    },
-   "note": ""
+   "note": "Debate: Spelling consistency: 'favourite'."
   },
   {
    "id": "game13-73",
@@ -888,11 +888,11 @@
   {
    "id": "game13-99",
    "Description": "Get a player to smell a vegetable.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to smell a vegetable."
    },
-   "note": ""
+   "note": "Debate: Same mission in play as 'smell a fruit' (idx 51)."
   },
   {
    "id": "game13-100",
@@ -5015,6 +5015,54 @@
    "Description": "Get a player to tell you how many Hockey World Cups Pakistan has won.",
    "action": "add",
    "note": "New card (debate): Has one checkable answer (4: 1971, 1978, 1982, 1994). The original 'which sport' version was ambiguous because Pakistan also won the 2020 Kabaddi World Cup."
+  },
+  {
+   "id": null,
+   "Description": "Claim that K2 is the tallest mountain in the world and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Concrete, local fake-fact mission; factually sound (Everest ~8,849 m, K2 ~8,611 m)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Bara maza aaya!' (That was so much fun!).",
+   "action": "add",
+   "note": "New card (debate): Natural Urdu catchphrase; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their highest score or level in a mobile game.",
+   "action": "add",
+   "note": "New card (debate): Video games allowed by owner; easy conversation mission; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to show you an old photo of themselves in their school uniform.",
+   "action": "add",
+   "note": "New card (debate): Harder, funnier variant of the show-a-photo missions; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Bhai, chill kar!'",
+   "action": "add",
+   "note": "New card (debate): Common local phrase easily provoked by teasing; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Bachpan yaad aa gaya!' (That takes me back to childhood!).",
+   "action": "add",
+   "note": "New card (debate): Natural phrase that pairs with childhood-story cards; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which politician they would pick as captain of the Pakistan cricket team.",
+   "action": "add",
+   "note": "New card (debate): Light political-cricket joke; owner allows politics; distinct from 'mention a politician's name'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say Quaid-e-Azam's motto: Unity, Faith and Discipline (Iman, Ittehad, Nazm).",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment, tidied: Pakistani general-knowledge mission accepting English or Urdu form, consistent with recitation cards."
   }
  ]
 }

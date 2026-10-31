@@ -435,24 +435,24 @@
   {
    "id": "game11-40",
    "Name": "Problem",
-   "Description": "Wild animals keep eating my _____!",
-   "action": "keep",
+   "Description": "Monkeys keep stealing my _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "Wild animals keep eating my _____!"
    },
-   "note": ""
+   "note": "Debate: Makes the generic 'wild animals' line local and vivid (Murree and Margalla monkeys) while keeping the idea."
   },
   {
    "id": "game11-41",
    "Name": "Problem",
-   "Description": "My vacations are always ruined by _____!",
-   "action": "keep",
+   "Description": "Our family trips to the northern areas are always ruined by _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My vacations are always ruined by _____!"
    },
-   "note": ""
+   "note": "Debate: Replaces the generic 'vacations' with the familiar Pakistani family trip up north. No overlap with the bazaar-trip card."
   },
   {
    "id": "game11-42",
@@ -6512,6 +6512,55 @@
    "Description": "Every rishta meeting goes wrong because of my _____!",
    "action": "add",
    "note": "New card (debate): The deck's only rishta Problem card is about rishta hunting, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My CNIC photo makes me look like _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable local problem; no CNIC or ID card exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My nani's desi totka for _____ never works!",
+   "action": "add",
+   "note": "New card (debate): New home-remedy theme. The existing nani cards are about WhatsApp forwards and 'looking weak'."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always end up squished in the back seat between _____!",
+   "action": "add",
+   "note": "New card (debate): Family car-ride problem; distinct from the public-transport seat card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My mobile data package always runs out right before _____!",
+   "action": "add",
+   "note": "New card (debate): Common everyday frustration; separate from the battery, wifi and load-shedding cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The neighbours' shaadi fireworks keep landing on my _____!",
+   "action": "add",
+   "note": "New card (debate): Wedding-season nuisance. The owner allows fireworks, and no card in the deck mentions them."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every relative wants free _____ just because I'm an engineer!",
+   "action": "add",
+   "note": "New card (debate): Classic desi-relatives joke; not duplicated (the only engineer card is the Software Engineer customer)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The dhaba waiter always forgets my _____!",
+   "action": "add",
+   "note": "New card (debate): Local eating-out problem. Verified that no dhaba or waiter card exists in any of the game11 slices, so the challenger's corrected reason is right."
   }
  ]
 }

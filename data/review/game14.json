@@ -203,14 +203,14 @@
   },
   {
    "id": "game14-19",
-   "Description": "How likely are you to eat the last piece of pizza without asking?",
+   "Description": "How likely are you to eat the last kabab on the plate without asking?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to eat the last piece of pizza without asking?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: A local version of the same dilemma, and it stops the deck repeating pizza (idx 59)."
   },
   {
    "id": "game14-20",
@@ -249,12 +249,12 @@
    "id": "game14-23",
    "Description": "How many years would you spend studying to be able to speak every language?",
    "Category": "Number",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "How many years of your life would you give up to speak every language?",
     "Category": "Number"
    },
-   "note": "avoid trading years of life"
+   "note": "Debate: A confusing hypothetical with no sensible answer, and idx 33 already covers languages."
   },
   {
    "id": "game14-24",
@@ -984,14 +984,14 @@
   },
   {
    "id": "game14-90",
-   "Description": "How many Gulab Jamuns can you fit in your mouth?",
+   "Description": "How many gulab jamuns can you fit in your mouth at once?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many Gulab Jamuns can you fit in your mouth?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Clearer wording, since the count is for one mouthful."
   },
   {
    "id": "game14-91",
@@ -5130,6 +5130,62 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Well-known desi family in-joke with a valid count answer. Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you ridden a camel?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A count with a local flavour, and the deck has no camel card (there is only a horse card)."
+  },
+  {
+   "id": null,
+   "Description": "How many of your neighbours do you know by name?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Anyone can answer it, and the existing neighbour cards ask about different things."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you visited Mazar-e-Quaid?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A Pakistani landmark count in the same style as the Badshahi Mosque card, with no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times has your name been spelled wrong on an official document?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A familiar, funny local experience with a count answer, and nothing in the deck duplicates it."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you fallen off a bicycle?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A simple childhood count that anyone can answer, and the deck has no cycling card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you confidently given a stranger directions you weren't sure about?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A funny confession with a count answer, and it asks something different from the existing direction cards."
+  },
+  {
+   "id": null,
+   "Description": "How many online orders were delivered to you this month?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Close to the shopping cart card but asks something different, and 'this month' makes the count answerable."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been to a zoo?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A family outing count that anyone can answer, and the deck has no zoo card."
   }
  ]
 }
