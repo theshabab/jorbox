@@ -2,15 +2,15 @@ Description,Category
 How interested are you in living on the first Mars colony?,0 to 100
 How much do you enjoy sitting with your elders?,0 to 100
 How many picnics do you go on in a year?,Number
-What is your ideal number of vacation days per year?,Number
+How many days of holiday a year would be ideal for you?,Number
 How likely are you to become a spy?,0 to 100
 How much do you love Chai?,0 to 100
-How afraid are you of a 'Chipkali' (Lizard)?,0 to 100
+How afraid are you of chipkalis (lizards)?,0 to 100
 How good are you at bargaining in the market?,0 to 100
 How strict were your parents while growing up?,0 to 100
 How likely are you to arrive late to a wedding?,0 to 100
 How likely are you to complain about the food at a Daawat?,0 to 100
-How much do you panic when the electricity goes (Load Shedding)?,0 to 100
+How much do you panic when the light goes during load shedding?,0 to 100
 How likely are you to check your phone immediately after waking up?,0 to 100
 How much do you enjoy family gatherings?,0 to 100
 How likely are you to forget a friend's birthday?,0 to 100
@@ -18,7 +18,7 @@ How obsessed are you with cricket?,0 to 100
 How likely are you to eat the last kabab on the plate without asking?,0 to 100
 How much do you trust a street food vendor's hygiene?,0 to 100
 How likely are you to recommend a restaurant you've never been to?,0 to 100
-How much of a 'Sore Loser' are you?,0 to 100
+How much of a sore loser are you?,0 to 100
 How likely are you to laugh at a serious moment?,0 to 100
 How much do you hate waking up early?,0 to 100
 How many first cousins do you have?,Number
@@ -55,23 +55,22 @@ How many plants are in your house?,Number
 How many scars do you have?,Number
 How many slices of pizza can you eat in one sitting?,Number
 How many glasses of water do you drink daily?,Number
-How many weird nicknames do you have?,Number
+How many different nicknames does your family call you?,Number
 How many hours a day do you spend watching reels/TikToks?,Number
 How many times have you changed your hairstyle this year?,Number
 How many items are currently in your online shopping cart?,Number
 How many times have you won a trophy or medal?,Number
 How many times have you been on TV?,Number
 How many times have you met a famous cricketer?,Number
-How many times have you forgotten someone's name immediately after meeting them?,Number
-How many times have you bought something you never used?,Number
+How likely are you to forget someone's name right after being introduced?,0 to 100
+How many things have you bought this year that you never used?,Number
 How many bottle flips in a row can you land?,Number
-How many times have you corrected someone's grammar?,Number
+How likely are you to correct someone's grammar or spelling in the family WhatsApp group?,0 to 100
 How many times have you eaten ice cream for breakfast?,Number
-How many times have you taken a photo of your food before eating?,Number
-How many times have you eaten Biryani with a spoon instead of hands?,Number
+How likely are you to take a photo of your food before eating it?,0 to 100
 How many times have you missed a flight or train?,Number
 How many times have you lost your luggage?,Number
-How many times have you parallel parked perfectly on the first try?,Number
+How likely are you to parallel park perfectly on the first try?,0 to 100
 How many traffic challans have you received?,Number
 How many times have you had a flat tire?,Number
 How many times have you had to give a car a 'dhakka start'?,Number
@@ -83,13 +82,13 @@ How many samosas can you eat in one sitting?,Number
 What is your record for plates of Biryani in one sitting?,Number
 How many gulab jamuns can you fit in your mouth at once?,Number
 How many parathas can you eat at one breakfast?,Number
-How many times do you drink coffee in a week?,Number
+How many cups of coffee do you drink in a typical week?,Number
 How many times have you donated to charity this year?,Number
-How many times have you helped a stranger?,Number
+How many times have you helped a stranger this month?,Number
 How many times have you spoken in public (speech/presentation)?,Number
 How many times have you been rejected for a job or admission?,Number
 How many times have you quit a job?,Number
-How many times have you pulled an all-nighter?,Number
+How many all-nighters have you pulled this year?,Number
 How many times have you slept for more than 12 hours straight?,Number
 How many times have you had lucid dreams?,Number
 How many shooting stars have you seen?,Number
@@ -525,3 +524,10 @@ How likely are you to wake up for Sehri on the first alarm?,0 to 100
 How many times this year has a relative asked you 'Shaadi kab karni hai?',Number
 How many guests can sit in your home for a daawat before some have to sit on the floor?,Number
 How many times this month have you been sent to make chai the moment guests arrived?,Number
+How many times have you had food poisoning?,Number
+How many times have you been chased by a stray dog?,Number
+How many times have you burnt your tongue on hot chai?,Number
+How likely are you to blame nazar when something goes wrong?,0 to 100
+How many times did you pray Fajr on time this week?,Number
+How many times did your phone battery die completely this week?,Number
+How many hills or mountains have you climbed to the top of on foot?,Number

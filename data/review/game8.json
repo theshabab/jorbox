@@ -7054,13 +7054,13 @@
    "Name": "Hygienic <---> Unhygienic",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Hygienic <---> Unhygienic",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Same scale as the live cards 'Clean <---> Dirty' and 'Safe street food <---> Risky street food'."
   },
   {
    "id": "game8-544",
@@ -7545,16 +7545,16 @@
   },
   {
    "id": "game8-581",
-   "Name": "Formal event <---> Casual event",
+   "Name": "Dress up for it <---> Go in chappals",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Formal event <---> Casual event",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: 'Formal event <---> Casual event' nearly duplicates the live 'Formal <---> Casual'. The local wording keeps the occasion idea and has clear opposite ends."
   },
   {
    "id": "game8-582",
@@ -7636,7 +7636,7 @@
   },
   {
    "id": "game8-588",
-   "Name": "Elitist <---> Mainstream",
+   "Name": "Elite <---> Awami",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
    "action": "edit",
@@ -7645,7 +7645,7 @@
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": "ends were not clear opposites"
+   "note": "ends were not clear opposites; Debate: 'Elitist' and 'Mainstream' are not true opposites. 'Elite <---> Awami' is a clean pair that fits the local setting."
   },
   {
    "id": "game8-589",
@@ -8445,13 +8445,13 @@
    "Name": "You don't want your parents to see you do it <---> You want your parents to see you do it",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "You don't want your parents to watch you do it <---> You want your parents to watch you do it",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": "wording"
+   "note": "Debate: Near-duplicate of the live card 'Ammi approves <---> Ammi disapproves'."
   },
   {
    "id": "game8-651",
@@ -9542,6 +9542,46 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Peacocks are common in Pakistan (Thar), and the deck has no peacock card. It fits the bird drawings."
+  },
+  {
+   "id": null,
+   "Name": "Desi parents' dream career <---> Desi parents' nightmare career",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable desi scale. It differs from 'Dream job <---> Nightmare job' because it asks about the parents' view, and it fills the gap left by P1."
+  },
+  {
+   "id": null,
+   "Name": "Test match energy <---> T20 energy",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local cricket scale for slow versus fast. No Test vs T20 card exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Worth bargaining for <---> Not worth bargaining for",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Bazaar scale about items. The existing 'BAD BARGAINER <---> MASTER BARGAINER' card asks for lines to say, so the two do not overlap."
+  },
+  {
+   "id": null,
+   "Name": "Easy to share <---> Impossible to share",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fun family scale. The deck has no card about sharing."
+  },
+  {
+   "id": null,
+   "Name": "Polite thing to say to a guest <---> Rude thing to say to a guest",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny, family-safe talking scale on the deck's guest theme. It differs from the generic 'Disrespectful <---> Respectful' card."
   }
  ]
 }

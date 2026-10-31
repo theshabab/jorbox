@@ -38,14 +38,14 @@
   },
   {
    "id": "game14-4",
-   "Description": "What is your ideal number of vacation days per year?",
+   "Description": "How many days of holiday a year would be ideal for you?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "What is your ideal number of vacation days per year?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Replaces the US 'vacation days' wording with local phrasing."
   },
   {
    "id": "game14-5",
@@ -71,14 +71,14 @@
   },
   {
    "id": "game14-7",
-   "Description": "How afraid are you of a 'Chipkali' (Lizard)?",
+   "Description": "How afraid are you of chipkalis (lizards)?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How afraid are you of a 'Chipkali' (Lizard)?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Fixes awkward quotes and capitalisation."
   },
   {
    "id": "game14-8",
@@ -137,14 +137,14 @@
   },
   {
    "id": "game14-13",
-   "Description": "How much do you panic when the electricity goes (Load Shedding)?",
+   "Description": "How much do you panic when the light goes during load shedding?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How much do you panic when the electricity goes (Load Shedding)?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Smoother wording with natural local phrasing."
   },
   {
    "id": "game14-14",
@@ -236,14 +236,14 @@
   },
   {
    "id": "game14-22",
-   "Description": "How much of a 'Sore Loser' are you?",
+   "Description": "How much of a sore loser are you?",
    "Category": "0 to 100",
    "action": "edit",
    "original": {
     "Description": "To what degree would you describe yourself as a 'Sore Loser'?",
     "Category": "0 to 100"
    },
-   "note": "clearer wording"
+   "note": "clearer wording; Debate: Removes the unneeded quotes and capitals, matching the clean-up in P8."
   },
   {
    "id": "game14-23",
@@ -676,14 +676,14 @@
   },
   {
    "id": "game14-62",
-   "Description": "How many weird nicknames do you have?",
+   "Description": "How many different nicknames does your family call you?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many weird nicknames do you have?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: 'Weird' is subjective; family nicknames are a relatable desi theme."
   },
   {
    "id": "game14-63",
@@ -764,25 +764,25 @@
   },
   {
    "id": "game14-70",
-   "Description": "How many times have you forgotten someone's name immediately after meeting them?",
-   "Category": "Number",
-   "action": "keep",
+   "Description": "How likely are you to forget someone's name right after being introduced?",
+   "Category": "0 to 100",
+   "action": "edit",
    "original": {
     "Description": "How many times have you forgotten someone's name immediately after meeting them?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: A lifetime count can't be answered; a likelihood can."
   },
   {
    "id": "game14-71",
-   "Description": "How many times have you bought something you never used?",
+   "Description": "How many things have you bought this year that you never used?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you bought something you never used?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: A time frame makes the count guessable."
   },
   {
    "id": "game14-72",
@@ -797,14 +797,14 @@
   },
   {
    "id": "game14-73",
-   "Description": "How many times have you corrected someone's grammar?",
-   "Category": "Number",
-   "action": "keep",
+   "Description": "How likely are you to correct someone's grammar or spelling in the family WhatsApp group?",
+   "Category": "0 to 100",
+   "action": "edit",
    "original": {
     "Description": "How many times have you corrected someone's grammar?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: The count can't be answered; reworded as a likelihood with a local setting."
   },
   {
    "id": "game14-74",
@@ -819,25 +819,25 @@
   },
   {
    "id": "game14-75",
-   "Description": "How many times have you taken a photo of your food before eating?",
-   "Category": "Number",
-   "action": "keep",
+   "Description": "How likely are you to take a photo of your food before eating it?",
+   "Category": "0 to 100",
+   "action": "edit",
    "original": {
     "Description": "How many times have you taken a photo of your food before eating?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: A lifetime count of food photos can't be answered; a likelihood can."
   },
   {
    "id": "game14-76",
    "Description": "How many times have you eaten Biryani with a spoon instead of hands?",
    "Category": "Number",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How many times have you eaten Biryani with a spoon instead of hands?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Many people always use a spoon, so the count is meaningless, and another card already asks about eating with your hands."
   },
   {
    "id": "game14-77",
@@ -874,14 +874,14 @@
   },
   {
    "id": "game14-80",
-   "Description": "How many times have you parallel parked perfectly on the first try?",
-   "Category": "Number",
-   "action": "keep",
+   "Description": "How likely are you to parallel park perfectly on the first try?",
+   "Category": "0 to 100",
+   "action": "edit",
    "original": {
     "Description": "How many times have you parallel parked perfectly on the first try?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: A lifetime count can't be answered; a likelihood can, and non-drivers can answer 0."
   },
   {
    "id": "game14-81",
@@ -1006,14 +1006,14 @@
   },
   {
    "id": "game14-92",
-   "Description": "How many times do you drink coffee in a week?",
+   "Description": "How many cups of coffee do you drink in a typical week?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times do you drink coffee in a week?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Clearer wording that matches the chai-count card."
   },
   {
    "id": "game14-93",
@@ -1028,14 +1028,14 @@
   },
   {
    "id": "game14-94",
-   "Description": "How many times have you helped a stranger?",
+   "Description": "How many times have you helped a stranger this month?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you helped a stranger?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: A time frame makes the count guessable."
   },
   {
    "id": "game14-95",
@@ -1094,14 +1094,14 @@
   },
   {
    "id": "game14-100",
-   "Description": "How many times have you pulled an all-nighter?",
+   "Description": "How many all-nighters have you pulled this year?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you pulled an all-nighter?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: A time frame makes the count guessable."
   },
   {
    "id": "game14-101",
@@ -5389,6 +5389,55 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): The existing chai cards are about making, drinking, sugar or dunking. This one is about the guest-errand situation and pairs with 455."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you had food poisoning?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A relatable count that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been chased by a stray dog?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A relatable local mishap that is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you burnt your tongue on hot chai?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A funny chai mishap, different from the existing chai cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to blame nazar when something goes wrong?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): The owner allows nazar jokes, and the deck has no nazar card."
+  },
+  {
+   "id": null,
+   "Description": "How many times did you pray Fajr on time this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A worship count the owner allows. Unlike 'at the mosque', men and women can both answer it."
+  },
+  {
+   "id": null,
+   "Description": "How many times did your phone battery die completely this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A phone-habit count, different from the battery-percentage card."
+  },
+  {
+   "id": null,
+   "Description": "How many hills or mountains have you climbed to the top of on foot?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A countable travel item; the deck has no hiking count."
   }
  ]
 }

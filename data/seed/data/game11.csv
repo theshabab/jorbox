@@ -508,7 +508,7 @@ Problem,Our exam hall is way too _____!
 Problem,I need a way to keep _____ out of the kitchen!
 Problem,The fridge is always full of _____ that nobody eats!
 Problem,My cousins always fight over _____!
-Problem,I can never decide where to _____ on weekends!
+Problem,My family can never agree on where to _____ on weekends!
 Customer,Farmer
 Customer,Pharmacist
 Customer,Dentist
@@ -526,7 +526,7 @@ Customer,Mamu
 Customer,Dulha (Groom)
 Customer,Gym Trainer
 Customer,Cyclist
-Customer,Barf Wala
+Customer,Barf Wala (Ice Seller)
 Customer,Ride-Hailing Driver
 Customer,Software Engineer
 Customer,Muezzin
@@ -543,7 +543,7 @@ Problem,I'm always the one sent to the dukaan for _____!
 Problem,My mehndi always smudges right before _____!
 Problem,I can never get a seat on the _____!
 Problem,I always get thirsty during roza because of _____!
-Problem,"Every Bakra Eid, the mandi wala overcharges me for _____!"
+Problem,"Every Bakra Eid, the beopari at the mandi overcharges me for _____!"
 Problem,My hostel food tastes like _____!
 Problem,The pressure cooker whistle always scares my _____!
 Problem,My school bag is heavier than my _____!
@@ -624,3 +624,13 @@ Customer,Nikah Khwan
 Customer,Petrol Pump Attendant
 Problem,A chhipkali is always hiding behind my _____!
 Problem,The summer heat ruins my _____ before I even get home!
+Customer,Kulfi Wala
+Customer,Pakoray Wala
+Customer,Tractor Driver
+Customer,Shaadi Hall Manager
+Customer,Sehri Dhol Wala
+Problem,My ammi makes me wear a sweater whenever _____!
+Problem,I can't get out of my razai in winter to _____!
+Problem,The neighbours' murgha wakes me up way before _____!
+Problem,"Every dawat, the uncles start arguing about _____!"
+Problem,My dadi keeps feeding me _____ even after I say I'm full!

@@ -5921,9 +5921,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "I can never decide where to _____ on weekends!",
+   "Description": "My family can never agree on where to _____ on weekends!",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: A recognisable family argument is funnier to solve than personal indecision, and the verb blank still works."
   },
   {
    "id": null,
@@ -6047,9 +6047,9 @@
   {
    "id": null,
    "Name": "Customer",
-   "Description": "Barf Wala",
+   "Description": "Barf Wala (Ice Seller)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The gloss follows the deck's style (Bhutta Wala (Corn Seller)) and makes clear he sells blocks of ice, not ice cream."
   },
   {
    "id": null,
@@ -6166,9 +6166,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "Every Bakra Eid, the mandi wala overcharges me for _____!",
+   "Description": "Every Bakra Eid, the beopari at the mandi overcharges me for _____!",
    "action": "add",
-   "note": "New card (debate): Uses the challenger's amended wording, which avoids reading 'cheated on' as infidelity. Pairs with the Cattle Trader customer and is distinct from the goat card."
+   "note": "New card (debate): Uses the challenger's amended wording, which avoids reading 'cheated on' as infidelity. Pairs with the Cattle Trader customer and is distinct from the goat card.; Debate: The beopari is the animal seller who sets the price, so this is more precise than 'mandi wala'."
   },
   {
    "id": null,
@@ -6729,6 +6729,76 @@
    "Description": "The summer heat ruins my _____ before I even get home!",
    "action": "add",
    "note": "New card (debate): The challenger's amended wording allows more answers to pitch and stays distinct from the existing summer cards."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Kulfi Wala",
+   "action": "add",
+   "note": "New card (debate): A well-known street seller. The slice has no kulfi seller (Barf, Juice and Gol Gappay Wala only)."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Pakoray Wala",
+   "action": "add",
+   "note": "New card (debate): A familiar iftar vendor. No pakora seller exists in the slice."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Tractor Driver",
+   "action": "add",
+   "note": "New card (debate): A recognisable rural customer, different from Farmer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Shaadi Hall Manager",
+   "action": "add",
+   "note": "New card (debate): Pairs well with the shaadi problems (for example, the hall closing at 10 PM). There is no hall manager customer yet."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Sehri Dhol Wala",
+   "action": "add",
+   "note": "New card (debate): A loved Ramadan figure. He appears only in a problem card, not as a customer."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My ammi makes me wear a sweater whenever _____!",
+   "action": "add",
+   "note": "New card (debate): A distinct, classic desi-mother complaint, different from the existing ammi cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can't get out of my razai in winter to _____!",
+   "action": "add",
+   "note": "New card (debate): A concrete winter struggle. No razai card exists, and it differs from the general cold-weather cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The neighbours' murgha wakes me up way before _____!",
+   "action": "add",
+   "note": "New card (debate): A local neighbourhood problem with a different cause from the other wake-up cards. No rooster card exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every dawat, the uncles start arguing about _____!",
+   "action": "add",
+   "note": "New card (debate): A classic dawat scene. It does not duplicate 'I'm always the one who has to _____ at dawats' or the other dawat cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My dadi keeps feeding me _____ even after I say I'm full!",
+   "action": "add",
+   "note": "New card (debate): An affectionate complaint about being overfed, different from the nani 'I look weak' card."
   }
  ]
 }
