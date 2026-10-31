@@ -1566,15 +1566,15 @@
   {
    "id": "game8-121",
    "Name": "ON TOP OF IT <---> VERY CONFUSED",
-   "Description": "Write a text message from a delivery driver who seems this confused",
+   "Description": "Write a text message from a food delivery rider who seems this confused about where your house is",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "ON TOP OF IT <---> VERY CONFUSED",
     "Description": "Write a text message from a delivery driver who seems this confused",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clearer, funnier and more local prompt; not a duplicate of the directions card."
   },
   {
    "id": "game8-122",
@@ -1864,8 +1864,8 @@
   },
   {
    "id": "game8-144",
-   "Name": "NOT A WRESTLER <---> WRESTLER PERFUME!",
-   "Description": "Make up a name for a perfume that’s this likely to be marketed by a wrestler",
+   "Name": "NOT LIKELY <---> PEHLWAN'S OWN BRAND",
+   "Description": "Make up a name for a perfume that is this likely to be sold by a famous pehlwan",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -1873,7 +1873,7 @@
     "Description": "Make up the name for a perfume that’s this likely to be marketed by a wrestler",
     "Category": "Writing"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Generic wrestler made local as pehlwan; both scale ends now answer 'how likely'; fixes the awkward 'WRESTLER PERFUME!' end."
   },
   {
    "id": "game8-145",
@@ -2176,7 +2176,7 @@
   },
   {
    "id": "game8-168",
-   "Name": "DIE IMMEDIATELY <---> SURVIVES",
+   "Name": "DIES IMMEDIATELY <---> SURVIVES",
    "Description": "Write a line of dialogue for a character in a made-up horror story who is this likely to survive",
    "Category": "Writing",
    "action": "edit",
@@ -2185,7 +2185,7 @@
     "Description": "Write a line of dialogue for a character in a made-up horror movie that is this likely to survive",
     "Category": "Writing"
    },
-   "note": "movie to story"
+   "note": "movie to story; Debate: Grammar: 'DIE IMMEDIATELY' now matches the verb form of 'SURVIVES'."
   },
   {
    "id": "game8-169",
@@ -2280,8 +2280,8 @@
   },
   {
    "id": "game8-176",
-   "Name": "DRY-EYES <---> FULL-ON SOBS",
-   "Description": "Make up a line of dialogue from a story that is this likely to make you cry",
+   "Name": "DRY EYES <---> FULL-ON SOBS",
+   "Description": "Write a line of dialogue from a story that is this likely to make you cry",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -2289,7 +2289,7 @@
     "Description": "Make up a line of dialogue from a movie that is this likely to make you cry",
     "Category": "Writing"
    },
-   "note": "movie to story"
+   "note": "movie to story; Debate: Fixes stray hyphen in 'DRY-EYES' and matches the wording of sibling dialogue cards."
   },
   {
    "id": "game8-177",
@@ -2307,15 +2307,15 @@
   {
    "id": "game8-178",
    "Name": "RARELY <---> VERY OFTEN",
-   "Description": "Make up a name for a drink that gets served this much around Eid",
+   "Description": "Make up a name for a drink that gets served this often around Eid",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "RARELY <---> VERY OFTEN",
     "Description": "Make up a name for a drink that gets served this much around Eid",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Grammar: 'this much' -> 'this often'; original 'VERY OFTEN' end kept because 'EVERY EID' does not fit the frequency scale."
   },
   {
    "id": "game8-179",
@@ -2543,13 +2543,13 @@
    "Name": "NOT LIKELY <---> HARDWARE STORE",
    "Description": "Make up a name for a perfume that is this likely to be sold at a hardware store",
    "Category": "Writing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "NOPE DEPOT <---> HOME DEPOT",
     "Description": "Make up a name for a perfume that is this likely to be sold at Home Depot",
     "Category": "Writing"
    },
-   "note": "Home Depot (US brand) to hardware store"
+   "note": "Debate: Weakest of many live perfume/attar cards; vague scale and joke overlap a 'smells terrible' perfume card. Not part of a duplicate pair."
   },
   {
    "id": "game8-197",
@@ -9782,6 +9782,46 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Local character; distinct from rickshaw fare/speed/slogan cards."
+  },
+  {
+   "id": null,
+   "Name": "DHABA BASIC <---> FIVE-STAR FANCY",
+   "Description": "Make up a name for daal chawal on a restaurant menu that sounds this fancy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Desi fancy-menu naming card with clear opposites on fanciness; no daal chawal menu card in deck."
+  },
+  {
+   "id": null,
+   "Name": "ONE CHAI AND GONE <---> BASICALLY MOVED IN",
+   "Description": "Make up a nickname for a relative whose visits last this long",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family humour with clear opposites; existing guest cards are different tasks."
+  },
+  {
+   "id": null,
+   "Name": "SNORE-FEST <---> EDGE OF YOUR SEAT",
+   "Description": "Write the opening line of a bedtime story from Dada that is this exciting",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family frame, easy to place on the scale; no bedtime-story card in deck."
+  },
+  {
+   "id": null,
+   "Name": "FAIR RULE <---> TOTALLY MADE UP",
+   "Description": "Write a gully cricket rule that is this likely to have been made up by the kid who owns the bat",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani gully-cricket joke; only an improvised-wickets drawing card exists, no rules card."
+  },
+  {
+   "id": null,
+   "Name": "BARELY THERE <---> HANDLEBAR LEGEND",
+   "Description": "Draw an uncle's moustache that is this impressive",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Drawing card for a Writing-heavy slice; no moustache card in deck; neutral end avoids a caste/biradari stereotype."
   }
  ]
 }

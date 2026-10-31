@@ -61,13 +61,13 @@
   {
    "id": "game9-6",
    "Name": "What is real haggis made of?",
-   "Description": "Sheep's heart, liver and lungs",
+   "Description": "Sheep's heart, liver and lungs, minced with oatmeal, onion and suet",
    "action": "edit",
    "original": {
     "Name": "What is real haggis made of?",
     "Description": "Sheep's Heart, Liver and Lungs"
    },
-   "note": "capitalization"
+   "note": "capitalization; Debate: Accurate; completes the answer."
   },
   {
    "id": "game9-7",
@@ -325,13 +325,13 @@
   {
    "id": "game9-30",
    "Name": "Who is the youngest person to receive a Nobel Prize?",
-   "Description": "Malala Yousafzai",
-   "action": "keep",
+   "Description": "Malala Yousafzai (aged 17, Peace Prize 2014)",
+   "action": "edit",
    "original": {
     "Name": "Who is the youngest person to receive a Nobel Prize?",
     "Description": "Malala Yousafzai"
    },
-   "note": ""
+   "note": "Debate: Accurate; the age and year make the answer easier to check."
   },
   {
    "id": "game9-31",
@@ -1281,14 +1281,14 @@
   },
   {
    "id": "game9-117",
-   "Name": "What is the name of the Canadian national anthem?",
-   "Description": "O Canada",
-   "action": "keep",
+   "Name": "Who composed the music of Pakistan's national anthem?",
+   "Description": "Ahmed Ghulamali Chagla",
+   "action": "edit",
    "original": {
     "Name": "What is the name of the Canadian national anthem?",
     "Description": "O Canada"
    },
-   "note": ""
+   "note": "Debate: Accurate (1949). Replaces a trivial Canada card with a Pakistani fact that does not repeat the existing lyricist and Urdu-name cards. The stated reason was wrong, but the change still helps the deck."
   },
   {
    "id": "game9-118",
@@ -1701,12 +1701,12 @@
    "id": "game9-155",
    "Name": "Which class of animals are newts members of?",
    "Description": "Amphibian",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which class of animals are newts members of?",
     "Description": "Amphibian"
    },
-   "note": ""
+   "note": "Debate: Duplicate: card 147 (game9-148, still live) says in its question that newts are amphibians."
   },
   {
    "id": "game9-156",
@@ -11215,6 +11215,48 @@
    "Description": "Ibrahim (AS)",
    "action": "add",
    "note": "New card (debate): Accurate (Quran 2:127). The live Khalilullah and Eid al-Adha cards ask different questions."
+  },
+  {
+   "id": null,
+   "Name": "How many countries share a land border with Pakistan?",
+   "Description": "Four (India, China, Afghanistan and Iran)",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani border-count card; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which narrow strip of Afghanistan separates Pakistan from Tajikistan?",
+   "Description": "Wakhan Corridor",
+   "action": "add",
+   "note": "New card (debate): Accurate regional geography; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which pink wading bird gets its colour from the shrimp and algae it eats?",
+   "Description": "Flamingo",
+   "action": "add",
+   "note": "New card (debate): Accurate; no flamingo card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which is the only kind of bird that can fly backwards?",
+   "Description": "Hummingbird",
+   "action": "add",
+   "note": "New card (debate): Well-known fact; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Brunei, a Muslim sultanate on the island of Borneo?",
+   "Description": "Bandar Seri Begawan",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world capital; Brunei is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which sea creature, around for over 500 million years, has no brain, heart or blood?",
+   "Description": "Jellyfish",
+   "action": "add",
+   "note": "New card (debate): Accurate; different from the man o' war card."
   }
  ]
 }
