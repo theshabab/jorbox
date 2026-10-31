@@ -868,6 +868,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-866','game1','Hafsa','Umar’s daughter who kept the compiled Quran','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-867','game1','Sumayyah','First martyr of Islam, mother of Ammar','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-868','game1','Only Child','Iklauta; no brothers or sisters','Family Relations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-869','game1','Tipu Sultan','Tiger of Mysore who fought the British','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-870','game1','Mahmud Ghaznavi','Ruler of Ghazni famous for 17 raids','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-871','game1','Sir Syed Ahmed Khan','Founded Aligarh college for Muslims','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-872','game1','Samarkand','Timur’s Silk Road city in Uzbekistan','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-873','game1','Cairo','Egypt’s capital, home of Al-Azhar','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-874','game1','Janaza','Funeral prayer for the deceased','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-875','game1','Ihram','Two white unstitched sheets for Hajj','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-876','game1','Prayer Mat','Jaye namaz you pray on','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-877','game1','Halwai','Sweet-maker frying jalebi and mithai','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-878','game1','Naanbai','Bakes naan in a tandoor','Occupations');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');
