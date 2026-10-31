@@ -14813,15 +14813,15 @@
   {
    "id": "game5-1140",
    "Name": "",
-   "Description": "____. TOUBA TOUBA!",
+   "Description": "____. Tauba tauba!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____. TOUBA TOUBA!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the spelling and removes the shouting caps."
   },
   {
    "id": "game5-1141",
@@ -14930,7 +14930,7 @@
   {
    "id": "game5-1149",
    "Name": "",
-   "Description": "____. Sounds like something my naughty cousin would like.",
+   "Description": "____. Sounds like something my shararti cousin would do.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -14938,20 +14938,20 @@
     "Description": "____. Sounds like something Cartman would like.",
     "Category": ""
    },
-   "note": "South Park (TV) reference"
+   "note": "South Park (TV) reference; Debate: 'Naughty cousin would like' reads as innuendo. The new wording is local and clean."
   },
   {
    "id": "game5-1150",
    "Name": "",
    "Description": "____. Strong enough for a man, meant for a woman.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____. Strong enough for a man, meant for a woman.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Parodies a US deodorant slogan (Secret) that this audience won't know, and the gendered setup invites crude answers."
   },
   {
    "id": "game5-1151",
@@ -15593,7 +15593,7 @@
   {
    "id": "game5-1200",
    "Name": "",
-   "Description": "\"(insert name)\" ended their last friendship because their friend kept pushing ____ on them.",
+   "Description": "\"(insert name)\" ended their last friendship because their friend kept forwarding ____ to them on WhatsApp.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -15601,7 +15601,7 @@
     "Description": "\"Insert Name\" ended their last relationship because their boyfriend/girlfriend kept pushing ____ on them.",
     "Category": ""
    },
-   "note": "relationship -> friendship"
+   "note": "relationship -> friendship; Debate: 'Pushing ____ on them' invites drug answers. The WhatsApp version is clean and local."
   },
   {
    "id": "game5-1201",
@@ -15645,7 +15645,7 @@
   {
    "id": "game5-1204",
    "Name": "",
-   "Description": "\"(insert name)\" got stopped at a police naka today and was caught with a car boot full of ____.",
+   "Description": "\"(insert name)\" got stopped at a police naka today and had to explain a car boot full of ____ for a cousin's shaadi.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -15653,7 +15653,7 @@
     "Description": "\"Insert Name\" got pulled over by the police today and was caught with a large assortment of ____ in the trunk.",
     "Category": ""
    },
-   "note": "localised"
+   "note": "localised; Debate: 'Caught with a car boot full of ____' at a checkpoint invites contraband answers. The shaadi frame keeps it clean."
   },
   {
    "id": "game5-1205",
@@ -15814,7 +15814,7 @@
   {
    "id": "game5-1217",
    "Name": "",
-   "Description": "\"(insert name)\" needs an intervention. His/Her addiction to ____ is totally out of control.",
+   "Description": "\"(insert name)\" needs an intervention. His/Her obsession with ____ is totally out of control.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -15822,7 +15822,7 @@
     "Description": "\"Insert Name\" needs an intervention. His/Her addiction to ____ is totally out of control.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Addiction ... intervention' invites drug/alcohol answers."
   },
   {
    "id": "game5-1218",
@@ -16035,7 +16035,7 @@
   {
    "id": "game5-1234",
    "Name": "",
-   "Description": "\"(insert name)\" thought he/she was a ____ vampire.",
+   "Description": "\"(insert name)\" is convinced he/she is secretly a vampire because of ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -16043,7 +16043,7 @@
     "Description": "\"Insert Name\" thought he/she was a ____ vampire.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The original sentence is broken. Monsters are allowed."
   },
   {
    "id": "game5-1235",
@@ -16074,7 +16074,7 @@
   {
    "id": "game5-1237",
    "Name": "",
-   "Description": "\"(insert name)\" wanted a pony but got ____ instead.",
+   "Description": "\"(insert name)\" wanted a PS5 but got ____ instead.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -16082,7 +16082,7 @@
     "Description": "\"Insert Name\" wanted a pony but got ____ instead.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the Western pony trope with a local equivalent. Video games are allowed."
   },
   {
    "id": "game5-1238",
@@ -16206,13 +16206,13 @@
    "Name": "",
    "Description": "\"The time has come,\" the Walrus said, \"To talk of many things: Of shoes, and ships, and sealing-wax. Of cabbages, and ____.\"",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "\"The time has come,\" the Walrus said, \"To talk of many things: Of shoes, and ships, and sealing-wax. Of cabbages, and ____.\"",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: An obscure Lewis Carroll quote."
   },
   {
    "id": "game5-1248",
@@ -16282,15 +16282,15 @@
   {
    "id": "game5-1253",
    "Name": "",
-   "Description": "“Give me liberty or give me ____!”",
+   "Description": "“Give me biryani or give me ____!”",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "“Give me liberty or give me ____!”",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the US-specific Patrick Henry quote with a local version that keeps the joke."
   },
   {
    "id": "game5-1254",
@@ -16308,15 +16308,15 @@
   {
    "id": "game5-1255",
    "Name": "",
-   "Description": "“I love the smell of ____ in the morning!”",
+   "Description": "Nothing beats the smell of ____ in the morning!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "“I love the smell of ____ in the morning!”",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Drops the war-film quote but keeps the prompt."
   },
   {
    "id": "game5-1256",
@@ -16477,15 +16477,15 @@
   {
    "id": "game5-1268",
    "Name": "",
-   "Description": "#____ is trending on Twitter.",
+   "Description": "#____ is trending on X.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "#____ is trending on Twitter.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Twitter was renamed X in 2023."
   },
   {
    "id": "game5-1269",
@@ -16607,7 +16607,7 @@
   {
    "id": "game5-1278",
    "Name": "",
-   "Description": "2019: the year of ____ and ____.",
+   "Description": "Next year will be the year of ____ and ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -16615,7 +16615,7 @@
     "Description": "2019, the year of ____ and ____",
     "Category": ""
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: Removes the dated year."
   },
   {
    "id": "game5-1279",
@@ -16984,15 +16984,15 @@
   {
    "id": "game5-1307",
    "Name": "",
-   "Description": "A lesser-known story is about ____.",
+   "Description": "A lesser-known story my nani loves to tell is about ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A lesser-known story is about ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The original is vague. The nani frame gives it a setup."
   },
   {
    "id": "game5-1308",
@@ -17114,15 +17114,15 @@
   {
    "id": "game5-1317",
    "Name": "",
-   "Description": "A night of fun must include ____.",
+   "Description": "A proper chai night with cousins must include ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A night of fun must include ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'A night of fun' invites party/alcohol answers. This matches the fix to 1363."
   },
   {
    "id": "game5-1318",
@@ -17387,7 +17387,7 @@
   {
    "id": "game5-1338",
    "Name": "",
-   "Description": "A completely useless gift that I received from my boss:",
+   "Description": "____: a completely useless gift I received from my boss.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -17395,7 +17395,7 @@
     "Description": "A wildly inappropriate gift that I received from my boss:",
     "Category": ""
    },
-   "note": "inappropriate invited crude answers"
+   "note": "inappropriate invited crude answers; Debate: Uses the standard blank form."
   },
   {
    "id": "game5-1339",
@@ -17556,15 +17556,15 @@
   {
    "id": "game5-1351",
    "Name": "",
-   "Description": "Action stations! Action stations! Set condition one throughout the fleet and brace for ____!",
+   "Description": "Action stations! Action stations! All hands on deck and brace for ____!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Action stations! Action stations! Set condition one throughout the fleet and brace for ____!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes obscure Star Trek/navy jargon."
   },
   {
    "id": "game5-1352",
@@ -17725,15 +17725,15 @@
   {
    "id": "game5-1364",
    "Name": "",
-   "Description": "After a night of fun, I found ____ in my back pocket",
+   "Description": "After a long shaadi night, I found ____ in my kurta pocket.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "After a night of fun, I found ____ in my back pocket",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the party/drug connotation and adds the missing period."
   },
   {
    "id": "game5-1365",
@@ -17764,15 +17764,15 @@
   {
    "id": "game5-1367",
    "Name": "",
-   "Description": "After attending Food Street I frequently enjoy ____.",
+   "Description": "After every trip to Food Street, I somehow end up with ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "After attending Food Street I frequently enjoy ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the ungrammatical wording."
   },
   {
    "id": "game5-1368",
@@ -17803,15 +17803,15 @@
   {
    "id": "game5-1370",
    "Name": "",
-   "Description": "After climate change, what is the worst ecological concern today?",
+   "Description": "After climate change, the biggest threat to Pakistan's mango season is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "After climate change, what is the worst ecological concern today?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Turns a dry quiz question into a local fill-in prompt."
   },
   {
    "id": "game5-1371",
@@ -17831,13 +17831,13 @@
    "Name": "",
    "Description": "After the floods, Shahid Afridi brought ____ to all the people of Sindh.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "After the floods, Shahid Afridi brought ____ to all the people of Sindh.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Jokes about a real disaster with many deaths, involving a real person's relief work."
   },
   {
    "id": "game5-1373",
@@ -17985,15 +17985,15 @@
   {
    "id": "game5-1384",
    "Name": "",
-   "Description": "After reading Stephen Hawking's latest theory of ____ I curled up into a corner and cried for three days straight.",
+   "Description": "After reading Stephen Hawking's theory of ____, I curled up into a corner and cried for three days straight.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "After reading Stephen Hawking's latest theory of ____ I curled up into a corner and cried for three days straight.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Hawking died in 2018, so 'latest' is wrong. Also adds the missing comma."
   },
   {
    "id": "game5-1385",
@@ -18206,7 +18206,7 @@
   {
    "id": "game5-1401",
    "Name": "",
-   "Description": "After the snow melted in Murree, we found ____ buried under a giant snowdrift.",
+   "Description": "After the snow melted in Naran, we found ____ where our snowman used to be.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -18214,7 +18214,7 @@
     "Description": "After the spring thaw, we found ____ buried under the giant snowdrift.",
     "Category": ""
    },
-   "note": "Local frame"
+   "note": "Local frame; Debate: 'Buried under a snowdrift in Murree' recalls the deadly January 2022 Murree snowstorm."
   },
   {
    "id": "game5-1402",
@@ -101309,6 +101309,78 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Desi ad-slogan prompt, different from the existing garam masala card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____. Ammi says it's just a phase.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New desi tagline card. No duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "\"(insert name)\" turned up to gully cricket with ____ instead of a bat.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local insert-name card. No duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "\"(insert name)\" was caught replacing the money in the Eidi envelopes with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Eid card. The existing Eidi cards are about spending it."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The dhobi returned my white kurta with ____ on it.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New everyday-desi prompt. No dhobi card found in game5."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____. Cash on delivery only.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New tagline card about local online shopping."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "After the doodh wala raised his prices again, Abbu decided we'd get our milk from ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local 'After...' card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "____. Sasta bhi, tikaau bhi.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Roman Urdu ad-slogan tagline."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "\"(insert name)\" tipped the shaadi waiter with ____ and still got the first plate of biryani.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New wedding insert-name card that is distinct from the existing ones."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "After the light came back, the whole mohalla celebrated with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New load-shedding card that is distinct from the existing ones."
   }
  ]
 }

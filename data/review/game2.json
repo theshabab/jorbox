@@ -6729,26 +6729,26 @@
    "Name": "Scissors",
    "Description": "Kainchi | Cut | Paper | Cloth | Blades",
    "Category": "Tools",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Scissor",
     "Description": "tool | metal | work | fix",
     "Category": "Tools"
    },
-   "note": "Name fixed: Scissor to Scissors"
+   "note": "Debate: Duplicate of the Scissors card in Stationery."
   },
   {
    "id": "game2-519",
    "Name": "Knife",
    "Description": "Chhuri | Cut | Kitchen | Sharp | Blade",
    "Category": "Tools",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Knife",
     "Description": "tool | metal | work | fix",
     "Category": "Tools"
    },
-   "note": ""
+   "note": "Debate: Duplicate of the Knife card in Kitchen Items."
   },
   {
    "id": "game2-520",
@@ -6818,7 +6818,7 @@
   {
    "id": "game2-525",
    "Name": "Lawn",
-   "Description": "Summer | Suit | Print | Sale | Brand",
+   "Description": "Summer | Suit | Print | Sale | Grass",
    "Category": "Fabrics",
    "action": "edit",
    "original": {
@@ -6826,7 +6826,7 @@
     "Description": "cloth | material | soft | weave",
     "Category": "Fabrics"
    },
-   "note": ""
+   "note": "Debate: 'Grass' is the obvious double-meaning clue and should be banned. 'Brand' was a weak ban."
   },
   {
    "id": "game2-526",
@@ -7221,7 +7221,7 @@
   {
    "id": "game2-556",
    "Name": "Lemonade",
-   "Description": "Nimbu | Lemon | Sour | Sugar | Pani",
+   "Description": "Nimbu | Pani | Shikanjvi | Lemon | Sour",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7229,7 +7229,7 @@
     "Description": "drink | liquid | cup | hot",
     "Category": "Beverages"
    },
-   "note": ""
+   "note": "Debate: Challenger's version: it adds the local name Shikanjvi and keeps Nimbu and Pani as separate bans, so a player cannot say either word alone."
   },
   {
    "id": "game2-557",
@@ -7392,13 +7392,13 @@
    "Name": "Broth",
    "Description": "Yakhni | Bones | Stock | Chicken | Soup",
    "Category": "Beverages",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Broth",
     "Description": "drink | liquid | cup | hot",
     "Category": "Beverages"
    },
-   "note": "Category concern: broth is food, not a beverage; overlaps Soup"
+   "note": "Debate: Near-duplicate of Soup: both are 'yakhni' locally, so the two cards get the same clues."
   },
   {
    "id": "game2-570",
@@ -7494,7 +7494,7 @@
   {
    "id": "game2-577",
    "Name": "Kheer",
-   "Description": "Rice | Chawal | Doodh | Milk | Eid",
+   "Description": "Rice | Milk | Firni | Eid | Elaichi",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7502,7 +7502,7 @@
     "Description": "sweet | sugar | eat | delicious",
     "Category": "Desserts"
    },
-   "note": ""
+   "note": "Debate: Rice/Chawal and Doodh/Milk were each the same word twice. Firni is the closest lookalike once that card is added."
   },
   {
    "id": "game2-578",
@@ -7650,7 +7650,7 @@
   {
    "id": "game2-589",
    "Name": "Ras Malai",
-   "Description": "Cream | Milk | Pista | Doodh | Spongy",
+   "Description": "Rasgulla | Cream | Milk | Pista | Spongy",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7658,7 +7658,7 @@
     "Description": "Ras | sweet | sugar | eat",
     "Category": "Desserts"
    },
-   "note": ""
+   "note": "Debate: Milk and Doodh were the same word twice. Rasgulla is the obvious lookalike to ban."
   },
   {
    "id": "game2-590",
@@ -7728,7 +7728,7 @@
   {
    "id": "game2-595",
    "Name": "Sheer Khurma",
-   "Description": "Eid | Seviyan | Dates | Khajoor | Milk",
+   "Description": "Eid | Seviyan | Khajoor | Milk | Dry Fruits",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7736,12 +7736,12 @@
     "Description": "Sheer | sweet | sugar | eat",
     "Category": "Desserts"
    },
-   "note": ""
+   "note": "Debate: Dates and Khajoor were the same word twice. Dry fruits are a key ingredient."
   },
   {
    "id": "game2-596",
    "Name": "Sawaiyan",
-   "Description": "Seviyan | Eid | Vermicelli | Noodles | Breakfast",
+   "Description": "Eid | Vermicelli | Noodles | Breakfast | Sheer Khurma",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7749,7 +7749,7 @@
     "Description": "sweet | sugar | eat | delicious",
     "Category": "Desserts"
    },
-   "note": ""
+   "note": "Debate: 'Seviyan' was just the answer spelled another way. Sheer Khurma is a real related clue."
   },
   {
    "id": "game2-597",
@@ -10207,6 +10207,70 @@
    "Category": "Tools",
    "action": "add",
    "note": "New card (debate): Common farm tool in rural Pakistan; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Rasgulla",
+   "Description": "White | Spongy | Syrup | Round | Bengali",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Well-known mithai that is not in the deck (checked against the full game2 seed)."
+  },
+  {
+   "id": null,
+   "Name": "Shahi Tukray",
+   "Description": "Bread | Fried | Rabri | Royal | Mughal",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Popular Pakistani dessert that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Firni",
+   "Description": "Kheer | Rice | Clay | Bowl | Eid",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Classic Eid dessert served in clay bowls, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Gola Ganda",
+   "Description": "Ice | Crushed | Syrup | Stick | Summer",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Iconic street treat that is easy to act out and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Nankhatai",
+   "Description": "Biscuit | Bakery | Crumbly | Ghee | Round",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Well-known bakery biscuit that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Son-in-law",
+   "Description": "Damad | Daughter | Husband | Sasural | Married",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Fills a gap in the in-law set, which has only father, mother, brother and sister-in-law."
+  },
+  {
+   "id": null,
+   "Name": "Daughter-in-law",
+   "Description": "Bahu | Son | Wife | Saas | Married",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Fills a gap in the in-law set and is a well-known family role."
+  },
+  {
+   "id": null,
+   "Name": "Trowel",
+   "Description": "Karni | Cement | Mistri | Bricks | Plaster",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Challenger's version: a common building tool not in the deck, banning the usual Urdu name Karni."
   }
  ]
 }

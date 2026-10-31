@@ -502,14 +502,12 @@ File,Rub | Smooth | Nails | Rough | Metal,Tools
 Clamp,Hold | Tight | Squeeze | Grip | Table,Tools
 Vice,Grip | Hold | Table | Jaws | Workshop,Tools
 Cutter,Blade | Box | Paper | Sharp | Slide,Tools
-Scissors,Kainchi | Cut | Paper | Cloth | Blades,Tools
-Knife,Chhuri | Cut | Kitchen | Sharp | Blade,Tools
 Torch,Light | Battery | Dark | Loadshedding | Flashlight,Tools
 Brush,Paint | Teeth | Hair | Bristles | Wall,Tools
 Cotton,Kapaas | Summer | Plant | White | Crop,Fabrics
 Silk,Resham | Worm | Shiny | Smooth | China,Fabrics
 Wool,Oon | Sheep | Sweater | Winter | Knit,Fabrics
-Lawn,Summer | Suit | Print | Sale | Brand,Fabrics
+Lawn,Summer | Suit | Print | Sale | Grass,Fabrics
 Linen,Flax | Wrinkle | Summer | Sheets | Breathable,Fabrics
 Khaddar,Winter | Thick | Handloom | Coarse | Suit,Fabrics
 Velvet,Makhmal | Soft | Smooth | Winter | Shawl,Fabrics
@@ -539,7 +537,7 @@ Juice,Orange | Fresh | Squeeze | Fruit | Apple,Beverages
 Lassi,Dahi | Yogurt | Punjab | Meethi | Namkeen,Beverages
 Shake,Milk | Banana | Mango | Blender | Thick,Beverages
 Smoothie,Blender | Fruit | Yogurt | Thick | Healthy,Beverages
-Lemonade,Nimbu | Lemon | Sour | Sugar | Pani,Beverages
+Lemonade,Nimbu | Pani | Shikanjvi | Lemon | Sour,Beverages
 Squash,Concentrate | Orange | Dilute | Bottle | Mix,Beverages
 Sherbet,Sharbat | Iftar | Sugar | Pink | Garmi,Beverages
 Rooh Afza,Hamdard | Red | Sharbat | Ramzan | Iftar,Beverages
@@ -552,14 +550,13 @@ Doodh Soda,Milk | Sprite | Lahore | Fizzy | Bottle,Beverages
 Cold Drink,Coke | Pepsi | Fizzy | Bottle | Soda,Beverages
 Energy Drink,Red Bull | Sting | Caffeine | Can | Wings,Beverages
 Soup,Yakhni | Chicken | Corn | Bowl | Winter,Beverages
-Broth,Yakhni | Bones | Stock | Chicken | Soup,Beverages
 Cocoa,Chocolate | Hot | Powder | Milk | Brown,Beverages
 Gulab Jamun,Shira | Brown | Round | Syrup | Mithai,Desserts
 Barfi,Mithai | Square | Khoya | Silver | Box,Desserts
 Jalebi,Orange | Spiral | Syrup | Crispy | Fried,Desserts
 Laddu,Round | Ball | Yellow | Motichoor | Mithai,Desserts
 Halwa,Suji | Gajar | Ghee | Puri | Nashta,Desserts
-Kheer,Rice | Chawal | Doodh | Milk | Eid,Desserts
+Kheer,Rice | Milk | Firni | Eid | Elaichi,Desserts
 Custard,Yellow | Powder | Milk | Fruit | Jelly,Desserts
 Cake,Birthday | Candles | Bake | Slice | Icing,Desserts
 Pastry,Cream | Slice | Bakery | Layers | Small,Desserts
@@ -571,14 +568,14 @@ Brownie,Chocolate | Square | Fudge | Bake | Gooey,Desserts
 Pudding,Bread | Caramel | Wobbly | Bowl | Spoon,Desserts
 Trifle,Custard | Jelly | Cream | Sponge | Layers,Desserts
 Falooda,Seviyan | Basil Seeds | Ice Cream | Rose | Glass,Desserts
-Ras Malai,Cream | Milk | Pista | Doodh | Spongy,Desserts
+Ras Malai,Rasgulla | Cream | Milk | Pista | Spongy,Desserts
 Cham Cham,Bengali | Oval | Coconut | Pink | Syrup,Desserts
 Sohan Halwa,Multan | Tin | Nuts | Hard | Ghee,Desserts
 Patisa,Flaky | Sohan Papdi | Square | Box | Thread,Desserts
 Kalakand,Milk | Khoya | Paneer | Square | Mithai,Desserts
 Zarda,Rice | Yellow | Colorful | Shadi | Chawal,Desserts
-Sheer Khurma,Eid | Seviyan | Dates | Khajoor | Milk,Desserts
-Sawaiyan,Seviyan | Eid | Vermicelli | Noodles | Breakfast,Desserts
+Sheer Khurma,Eid | Seviyan | Khajoor | Milk | Dry Fruits,Desserts
+Sawaiyan,Eid | Vermicelli | Noodles | Breakfast | Sheer Khurma,Desserts
 Mother,Ammi | Maa | Jannat | Feet | Mom,Family Relations
 Father,Abbu | Abba | Dad | Baba | Papa,Family Relations
 Brother,Bhai | Bhaiya | Sibling | Bro | Elder,Family Relations
@@ -783,3 +780,11 @@ Earthquake,Zalzala | Shake | Ground | 2005 | Building,Nature
 Fog,Dhund | Winter | Smog | Motorway | See,Nature
 Beard,Daarhi | Chin | Sunnah | Hair | Shave,Body Parts
 Sickle,Daranti | Farmer | Wheat | Cut | Curved,Tools
+Rasgulla,White | Spongy | Syrup | Round | Bengali,Desserts
+Shahi Tukray,Bread | Fried | Rabri | Royal | Mughal,Desserts
+Firni,Kheer | Rice | Clay | Bowl | Eid,Desserts
+Gola Ganda,Ice | Crushed | Syrup | Stick | Summer,Desserts
+Nankhatai,Biscuit | Bakery | Crumbly | Ghee | Round,Desserts
+Son-in-law,Damad | Daughter | Husband | Sasural | Married,Family Relations
+Daughter-in-law,Bahu | Son | Wife | Saas | Married,Family Relations
+Trowel,Karni | Cement | Mistri | Bricks | Plaster,Tools
