@@ -36224,15 +36224,15 @@
   {
    "id": "game5-2787",
    "Name": "",
-   "Description": "I use the Internet to look at pictures of ____.",
+   "Description": "My phone's gallery is 90% pictures of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I use the Internet to look at pictures of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The original invites crude answers. This keeps the joke and is family-safe."
   },
   {
    "id": "game5-2788",
@@ -36317,13 +36317,13 @@
    "Name": "",
    "Description": "I value ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I value ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Bland filler with no setup."
   },
   {
    "id": "game5-2795",
@@ -36341,15 +36341,15 @@
   {
    "id": "game5-2796",
    "Name": "",
-   "Description": "I walked in the house, saw ____, and KNEW he had just been there!",
+   "Description": "I walked into the house, saw ____, and KNEW my chachu had just been there!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I walked in the house, saw ____, and KNEW he had just been there!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'He' was a leftover Santa reference. This gives it a local subject and fixes 'walked in the house'."
   },
   {
    "id": "game5-2797",
@@ -36369,13 +36369,13 @@
    "Name": "",
    "Description": "I want ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I want ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Bland, and the deck already has stronger 'I want' prompts."
   },
   {
    "id": "game5-2799",
@@ -36393,7 +36393,7 @@
   {
    "id": "game5-2800",
    "Name": "",
-   "Description": "I want 30 shami kebabs, 5 French fries and ____.",
+   "Description": "I want 30 shami kebabs, 5 plates of fries and ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -36401,7 +36401,7 @@
     "Description": "I want 30 sliders, 5 french fries and ____.",
     "Category": ""
    },
-   "note": "Local food; capitalization"
+   "note": "Local food; capitalization; Debate: Fixes the awkward '5 French fries'."
   },
   {
    "id": "game5-2801",
@@ -36692,15 +36692,15 @@
   {
    "id": "game5-2823",
    "Name": "",
-   "Description": "I was so excited to receive a box of ____ in the mail.",
+   "Description": "I was so excited when the courier delivered a box of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I was so excited to receive a box of ____ in the mail.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local framing: parcels in Pakistan come by courier."
   },
   {
    "id": "game5-2824",
@@ -36718,15 +36718,15 @@
   {
    "id": "game5-2825",
    "Name": "",
-   "Description": "I was supposed to go to Taste of Lahore, but I got stuck ____ instead.",
+   "Description": "I was supposed to go to Food Street in Lahore, but I got stuck ____ instead.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I was supposed to go to Taste of Lahore, but I got stuck ____ instead.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Players will not recognise 'Taste of Lahore'; Food Street is well known."
   },
   {
    "id": "game5-2826",
@@ -36783,7 +36783,7 @@
   {
    "id": "game5-2830",
    "Name": "",
-   "Description": "I was thinking of the immortal words of Socrates, who said, \"I ate ____?\"",
+   "Description": "I was thinking of the immortal words of Socrates, who said, \"I drank ____?\"",
    "Category": "",
    "action": "edit",
    "original": {
@@ -36791,7 +36791,7 @@
     "Description": "I was thinking of the immortal words of Socrates who said, “I ate ____???”",
     "Category": ""
    },
-   "note": "Punctuation"
+   "note": "Punctuation; Debate: Restores the hemlock 'I drank what?' joke that 'I ate' garbled."
   },
   {
    "id": "game5-2831",
@@ -37160,28 +37160,28 @@
   {
    "id": "game5-2859",
    "Name": "",
-   "Description": "I wish it were something simple--like peanuts or shellfish--but my doctor tells me I'm actually allergic to ____.",
+   "Description": "I wish it were something simple, like peanuts or shellfish, but my doctor tells me I'm actually allergic to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I wish it were something simple--like peanuts or shellfish--but my doctor tells me I'm actually allergic to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the double hyphens with proper punctuation."
   },
   {
    "id": "game5-2860",
    "Name": "",
-   "Description": "I wish my husband would give me ____.",
+   "Description": "I wish my husband would surprise me with ____ for once.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I wish my husband would give me ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids innuendo and keeps the complaint joke."
   },
   {
    "id": "game5-2861",
@@ -37979,15 +37979,15 @@
   {
    "id": "game5-2922",
    "Name": "",
-   "Description": "I'm Captain Safdar, and this is my favorite place for ____ on the MM Alam Road.",
+   "Description": "I'm Captain Safdar, and this is my favourite place for ____ on MM Alam Road.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I'm Captain Safdar, and this is my favorite place for ____ on the MM Alam Road.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Drops the stray 'the' before the road name and uses the deck's 'favourite' spelling."
   },
   {
    "id": "game5-2923",
@@ -38382,15 +38382,15 @@
   {
    "id": "game5-2953",
    "Name": "",
-   "Description": "I'm only in these Buy and Sell pages for ____.",
+   "Description": "I only joined these Facebook buy-and-sell groups for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I'm only in these Buy and Sell pages for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Uses the challenger's amendment: it clarifies the vague wording without adding a fifth OLX card."
   },
   {
    "id": "game5-2954",
@@ -38475,13 +38475,13 @@
    "Name": "",
    "Description": "I'm really struggling to get the sweet taste of ____ out of my mouth.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I'm really struggling to get the sweet taste of ____ out of my mouth",
     "Category": ""
    },
-   "note": "Punctuation"
+   "note": "Debate: Duplicates 2746 'I still can't get the taste of ____ out of my mouth.' (keeping the lower id)."
   },
   {
    "id": "game5-2961",
@@ -38553,13 +38553,13 @@
    "Name": "",
    "Description": "I'm so glad that before my birth I ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I'm so glad that before my birth I ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The premise does not work and is hard to answer."
   },
   {
    "id": "game5-2967",
@@ -38642,15 +38642,15 @@
   {
    "id": "game5-2973",
    "Name": "",
-   "Description": "I'm sorry, but I don't hate people whose only concern is ____.",
+   "Description": "I'm sorry, but I don't trust people whose only concern is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I'm sorry, but I don't hate people whose only concern is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the garbled double negative."
   },
   {
    "id": "game5-2974",
@@ -38733,15 +38733,15 @@
   {
    "id": "game5-2980",
    "Name": "",
-   "Description": "I'm thankful to Allah for creating ____ that love the taste of ____.",
+   "Description": "Nature is truly amazing: somewhere out there are ____ that love the taste of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I'm thankful to Allah for creating ____ that love the taste of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Stops using Allah's name as a joke setup and keeps the two-blank joke."
   },
   {
    "id": "game5-2981",
@@ -39175,7 +39175,7 @@
   {
    "id": "game5-3014",
    "Name": "",
-   "Description": "If \"(insert name)\" was Prime Minister, the first thing he/she would do is ban all ____.",
+   "Description": "If \"(insert name)\" were Prime Minister, the first thing he/she would do is ban all ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -39183,7 +39183,7 @@
     "Description": "If \"Insert Name\" was Prime Minister, the first thing he/she would do is ban all ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Grammar: subjunctive 'were'."
   },
   {
    "id": "game5-3015",
@@ -101653,6 +101653,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New card that fits the slice's 'I knew... when' run without duplicating any of them."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I opened the Danish cookie tin hoping for biscuits, but inside was ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A classic desi household joke; the deck has no tin card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "At the lawn sale, two aunties got into a full-on fight over ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local shopping humour; the deck has no lawn sale card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi has a whole drawer of plastic shopper bags, saved for the day she needs to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A familiar Pakistani home in-joke; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The wagon conductor shouted \"Ek sawari, ek sawari!\" and in climbed ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local transport humour; the deck has no wagon or conductor card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "We went to the mandi to buy a bakra for Bakra Eid and came home with ____ instead.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's amendment, which names the Eid. The deck has no bakra or mandi card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Unexpected guests just rang the doorbell! Quick, hide the ____!",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable household panic; the deck has no doorbell card."
   }
  ]
 }

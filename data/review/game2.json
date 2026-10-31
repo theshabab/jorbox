@@ -4270,7 +4270,7 @@
   {
    "id": "game2-329",
    "Name": "Train",
-   "Description": "Railway | Station | Track | Engine | Rail",
+   "Description": "Railway | Station | Track | Engine | Rail Gaari",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4278,7 +4278,7 @@
     "Description": "vehicle | ride | wheels | travel",
     "Category": "Transport"
    },
-   "note": ""
+   "note": "Debate: 'Rail' repeated 'Railway'; ban the obvious Urdu loophole 'Rail Gaari' (challenger's amendment)."
   },
   {
    "id": "game2-330",
@@ -4465,7 +4465,7 @@
   {
    "id": "game2-344",
    "Name": "Metro Bus",
-   "Description": "Lahore | Corridor | Shahbaz | Track | Station",
+   "Description": "Lahore | Corridor | Shahbaz | Jangla | Station",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4473,7 +4473,7 @@
     "Description": "Metro | vehicle | ride | wheels",
     "Category": "Transport"
    },
-   "note": "Metro Bus exists in Lahore, Islamabad, Multan; banned words Lahore-centric"
+   "note": "Metro Bus exists in Lahore, Islamabad, Multan; banned words Lahore-centric; Debate: 'Track' is wrong for a bus; 'Bus' is already part of the answer, so ban the famous 'jangla bus' nickname instead (challenger's amendment)."
   },
   {
    "id": "game2-345",
@@ -4610,13 +4610,13 @@
    "Name": "Scissors",
    "Description": "Cut | Qainchi | Blades | Sharp | Craft",
    "Category": "Stationery",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Scissors",
     "Description": "paper | write | school | office",
     "Category": "Stationery"
    },
-   "note": ""
+   "note": "Debate: Duplicate answer: Scissors also exists as idx 517 (Tools) with the same meaning and bans (Kainchi, Cut, Blades)."
   },
   {
    "id": "game2-356",
@@ -4740,13 +4740,13 @@
    "Name": "File",
    "Description": "Documents | Papers | Office | Folder | Sarkari",
    "Category": "Stationery",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "File",
     "Description": "paper | write | school | office",
     "Category": "Stationery"
    },
-   "note": "Debate: Cuts the overlap with the Folder card's banned words and blocks the obvious government-office clue."
+   "note": "Debate: Near-duplicate of Folder (idx 365): the two cards ban each other plus Documents/Papers, and locally both words mean the same office object."
   },
   {
    "id": "game2-366",
@@ -4883,13 +4883,13 @@
    "Name": "Orange",
    "Description": "Narangi | Fruit | Carrot | Kinnow | Juice",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Orange",
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": ""
+   "note": "Debate: Duplicate answer: Orange (idx 77, Fruits); this card's bans are all about the fruit anyway."
   },
   {
    "id": "game2-377",
@@ -4933,7 +4933,7 @@
   {
    "id": "game2-380",
    "Name": "White",
-   "Description": "Safaid | Milk | Snow | Clouds | Shalwar",
+   "Description": "Safaid | Milk | Snow | Clouds | Ihram",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -4941,7 +4941,7 @@
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": ""
+   "note": "Debate: 'Ihram' is a stronger local association to block than 'Shalwar', which comes in every color."
   },
   {
    "id": "game2-381",
@@ -4972,7 +4972,7 @@
   {
    "id": "game2-383",
    "Name": "Maroon",
-   "Description": "Dark Red | Bridal | Beetroot | Burgundy | Lehnga",
+   "Description": "Dark Red | Bridal | Beetroot | Mehroon | Lehnga",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -4980,7 +4980,7 @@
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": ""
+   "note": "Debate: Replace the uncommon 'Burgundy' with 'Mehroon', the obvious local loophole."
   },
   {
    "id": "game2-384",
@@ -5000,26 +5000,26 @@
    "Name": "Gold",
    "Description": "Sona | Jewelry | Medal | First | Shiny",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Gold",
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": ""
+   "note": "Debate: Duplicate answer: Gold (idx 433, Jewelry) has the same clue space and stronger local bans (Tola, Zakat)."
   },
   {
    "id": "game2-386",
    "Name": "Silver",
    "Description": "Chandi | Second | Medal | Metal | Grey",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Silver",
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": ""
+   "note": "Debate: Duplicate answer: Silver (idx 434, Jewelry) has almost the same banned words."
   },
   {
    "id": "game2-387",
@@ -5143,13 +5143,13 @@
    "Name": "Peach",
    "Description": "Aaru | Fruit | Pink | Orange | Light",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Peach",
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": ""
+   "note": "Debate: Duplicate answer: Peach (idx 84, Fruits) also bans Aaru; players clue it as the fruit either way."
   },
   {
    "id": "game2-397",
@@ -5284,7 +5284,7 @@
   {
    "id": "game2-407",
    "Name": "Thumb",
-   "Description": "Angutha | Finger | Thumbs Up | Short | Like",
+   "Description": "Angootha | Finger | Thumbs Up | Fingerprint | Like",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5292,7 +5292,7 @@
     "Description": "body | human | anatomy | organ",
     "Category": "Body Parts"
    },
-   "note": ""
+   "note": "Debate: 'Short' was a weak ban; block the angootha-lagana fingerprint clue; standard spelling Angootha."
   },
   {
    "id": "game2-408",
@@ -10671,6 +10671,86 @@
    "Category": "Occupations",
    "action": "add",
    "note": "New card (debate): A classic occupation that is not in the deck. 'Brigade' (fire brigade) and '1122' (Rescue 1122) are local clues, and the card avoids repeating Fire Truck's 'Water'. Number clues already appear in the deck (e.g. 313, 1940)."
+  },
+  {
+   "id": null,
+   "Name": "Moustache",
+   "Description": "Moonchh | Lip | Hair | Beard | Twirl",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Familiar local word not in the deck (only Beard exists, idx 803)."
+  },
+  {
+   "id": null,
+   "Name": "Wrist",
+   "Description": "Kalai | Watch | Bangle | Hand | Pulse",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Common body part not in the deck as an answer; good bans."
+  },
+  {
+   "id": null,
+   "Name": "Eyelash",
+   "Description": "Palak | Eye | Blink | Hair | Mascara",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Missing body part, distinct from Eyebrow (idx 793); Palak is the obvious Urdu clue."
+  },
+  {
+   "id": null,
+   "Name": "Brain",
+   "Description": "Dimagh | Head | Think | Smart | Mind",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Key organ missing as an answer (only a ban on Head and Katakat)."
+  },
+  {
+   "id": null,
+   "Name": "Traffic Warden",
+   "Description": "Challan | Signal | Police | Whistle | Road",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Very familiar Pakistani occupation, distinct from Police (idx 302)."
+  },
+  {
+   "id": null,
+   "Name": "Hakeem",
+   "Description": "Doctor | Dawai | Herbs | Nabz | Dawakhana",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Traditional local healer; ban 'Doctor' to block the 'desi doctor' clue (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Delivery Rider",
+   "Description": "Foodpanda | Bike | Order | Parcel | Doorbell",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Modern everyday occupation not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Coaster",
+   "Description": "Toyota | Baraat | Minibus | Seats | Trip",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Well-known local minibus for baraats and school trips; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Whitener",
+   "Description": "Correction | Mistake | Fluid | Erase | Pen",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Common school stationery item missing from the deck; 'Erase' replaces 'White', which is part of the answer (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Khaki",
+   "Description": "Army | Uniform | Brown | Police | Beige",
+   "Category": "Colors",
+   "action": "add",
+   "note": "New card (debate): Well-known local uniform color; appears only as a ban (on Beige and Olive), never as an answer."
   }
  ]
 }

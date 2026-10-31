@@ -8548,10 +8548,10 @@
   {
    "id": null,
    "Name": "Karachi",
-   "Description": "Before Islamabad was built in the 1960s, Pakistan's capital was ____.",
-   "Category": "Pakistan Facts",
+   "Description": "Pakistan's first capital, until the government moved out in 1959, was ____.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad."
   },
   {
    "id": null,
@@ -8780,10 +8780,10 @@
   {
    "id": null,
    "Name": "continents",
-   "Description": "Istanbul is the only major city in the world that lies on two ____.",
-   "Category": "Muslim World",
+   "Description": "Istanbul is the world's largest city to sit on two ____.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest."
   },
   {
    "id": null,
@@ -11800,6 +11800,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): An accurate, funny Pakistani headline from June 2022, within the owner's allowance for politics."
+  },
+  {
+   "id": null,
+   "Name": "Minto",
+   "Description": "Minar-e-Pakistan stands in Lahore's Iqbal Park, which was called ____ Park when the Lahore Resolution was passed there in 1940.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Pakistan history card (challenger's amendment): the year 1940 is too well known to bluff, the park's old name is not."
+  },
+  {
+   "id": null,
+   "Name": "irrigation",
+   "Description": "Pakistan's Indus Basin is home to the world's largest contiguous ____ system.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True Pakistan fact not in the deck (challenger's amendment removes the 'canals' giveaway)."
+  },
+  {
+   "id": null,
+   "Name": "ship-breaking",
+   "Description": "In the 1980s, Gadani beach in Balochistan was the world's largest ____ yard.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Unusual true Pakistan fact that invites believable fakes; uses the standard spelling Gadani."
+  },
+  {
+   "id": null,
+   "Name": "Swahili",
+   "Description": "The word \"safari\" reached English from the ____ language, which borrowed it from the Arabic word \"safar\", meaning journey.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Word-origin card (challenger's amendment): Urdu speakers already know safar means journey, so the language is the better blank."
+  },
+  {
+   "id": null,
+   "Name": "umbrellas",
+   "Description": "The open squares around Masjid an-Nabawi in Madinah are shaded by 250 giant ____ that open and close automatically.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, respectful Muslim-world fact (challenger's amendment: the 250 umbrellas are in the outer squares, not the inner courtyards)."
+  },
+  {
+   "id": null,
+   "Name": "manuscripts",
+   "Description": "In 2012 and 2013, librarians in Timbuktu, Mali, secretly smuggled hundreds of thousands of old ____ out of the city to save them from militants.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-documented true story about Islamic scholarship; nothing on Timbuktu in the deck."
+  },
+  {
+   "id": null,
+   "Name": "air conditioners",
+   "Description": "The tall \"windcatcher\" towers of the desert city of Yazd in Iran have worked for centuries as natural ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world engineering fact not in the deck."
   }
  ]
 }

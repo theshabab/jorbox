@@ -314,7 +314,7 @@ Bike,Motorcycle | Honda | Seventy | Helmet | Two Wheels,Transport
 Cycle,Pedal | Bicycle | Saikal | Chain | Bell,Transport
 Rickshaw,Three Wheels | Auto | Qingqi | Fare | Tuk Tuk,Transport
 Chingchi,Rickshaw | Motorcycle | Sawari | Cheap | Shared,Transport
-Train,Railway | Station | Track | Engine | Rail,Transport
+Train,Railway | Station | Track | Engine | Rail Gaari,Transport
 Airplane,Jahaz | Fly | Airport | Pilot | PIA,Transport
 Boat,Kashti | Water | Row | River | Sail,Transport
 Ship,Sea | Jahaz | Anchor | Port | Captain,Transport
@@ -329,7 +329,7 @@ Police Car,Siren | Patrol | Thana | Cop | Chase,Transport
 Jeep,Off Road | Army | Four By Four | Safari | Rally,Transport
 Helicopter,Propeller | Fly | Blades | Chopper | Army,Transport
 Rocket,Space | Moon | NASA | Launch | Astronaut,Transport
-Metro Bus,Lahore | Corridor | Shahbaz | Track | Station,Transport
+Metro Bus,Lahore | Corridor | Shahbaz | Jangla | Station,Transport
 Orange Line,Lahore | Train | Metro | Shahbaz | Track,Transport
 Tonga,Horse | Ghora | Cart | Old Lahore | Kochwan,Transport
 Pen,Ink | Write | Ballpoint | Likhna | Paper,Stationery
@@ -340,7 +340,6 @@ Ruler,Scale | Line | Straight | Measure | Inches,Stationery
 Notebook,Copy | Pages | Lines | Spiral | Homework,Stationery
 Paper,Kaghaz | Sheet | A4 | Page | Print,Stationery
 Glue,Sticky | Stick | Gond | Elfy | UHU,Stationery
-Scissors,Cut | Qainchi | Blades | Sharp | Craft,Stationery
 Marker,Whiteboard | Permanent | Thick | Pen | Ink,Stationery
 Highlighter,Yellow | Neon | Mark | Underline | Notes,Stationery
 Stapler,Pins | Staple | Punch | Clip | Attach,Stationery
@@ -350,7 +349,6 @@ Tape,Sticky | Scotch | Roll | Seal | Transparent,Stationery
 Calculator,Maths | Numbers | Add | Plus | Casio,Stationery
 Compass,Circle | Direction | North | Needle | Geometry,Stationery
 Protractor,Angle | Degrees | Geometry | Semicircle | Box,Stationery
-File,Documents | Papers | Office | Folder | Sarkari,Stationery
 Folder,File | Documents | Papers | Computer | Organize,Stationery
 Envelope,Letter | Lifafa | Stamp | Post | Seal,Stationery
 Diary,Secrets | Daily | Write | Notes | Dear,Stationery
@@ -361,17 +359,14 @@ Red,Laal | Blood | Apple | Danger | Rose,Colors
 Blue,Neela | Sky | Sea | Ocean | Jeans,Colors
 Green,Hara | Pakistan | Grass | Leaves | Flag,Colors
 Yellow,Peela | Banana | Sun | Lemon | Mango,Colors
-Orange,Narangi | Fruit | Carrot | Kinnow | Juice,Colors
 Purple,Jamni | Grapes | Brinjal | Violet | Baingani,Colors
 Pink,Gulabi | Girls | Candy Floss | Rose | Light Red,Colors
 Black,Kala | Dark | Night | Coal | Hair,Colors
-White,Safaid | Milk | Snow | Clouds | Shalwar,Colors
+White,Safaid | Milk | Snow | Clouds | Ihram,Colors
 Grey,Silver | Ash | Clouds | Elephant | Hair,Colors
 Brown,Bhoora | Chocolate | Wood | Coffee | Soil,Colors
-Maroon,Dark Red | Bridal | Beetroot | Burgundy | Lehnga,Colors
+Maroon,Dark Red | Bridal | Beetroot | Mehroon | Lehnga,Colors
 Turquoise,Blue | Green | Sea | Feroza | Stone,Colors
-Gold,Sona | Jewelry | Medal | First | Shiny,Colors
-Silver,Chandi | Second | Medal | Metal | Grey,Colors
 Beige,Skin | Khaki | Light Brown | Sand | Camel,Colors
 Cream,Malai | Off White | Butter | Milk | Face,Colors
 Indigo,Rainbow | Blue | Dark | Purple | Neel,Colors
@@ -381,7 +376,6 @@ Cyan,Blue | Light Blue | Aqua | Printer | Sky,Colors
 Teal,Blue | Green | Turquoise | Dark | Sea,Colors
 Olive,Green | Oil | Zaitoon | Army | Khaki,Colors
 Navy,Dark Blue | Blazer | Uniform | Sailor | Ship,Colors
-Peach,Aaru | Fruit | Pink | Orange | Light,Colors
 Head,Sar | Brain | Hair | Top | Skull,Body Parts
 Eye,Aankh | See | Look | Glasses | Blink,Body Parts
 Ear,Kaan | Behra | Listen | Jhumka | Sound,Body Parts
@@ -392,7 +386,7 @@ Foot,Pair | Toes | Walk | Shoe | Heel,Body Parts
 Leg,Taang | Walk | Knee | Thigh | Run,Body Parts
 Arm,Baazu | Elbow | Hand | Muscle | Shoulder,Body Parts
 Finger,Ungli | Ring | Point | Nail | Five,Body Parts
-Thumb,Angutha | Finger | Thumbs Up | Short | Like,Body Parts
+Thumb,Angootha | Finger | Thumbs Up | Fingerprint | Like,Body Parts
 Knee,Ghutna | Leg | Bend | Kneel | Joint,Body Parts
 Elbow,Kohni | Arm | Bend | Joint | Funny Bone,Body Parts
 Shoulder,Kandha | Shrug | Arm | Neck | Carry,Body Parts
@@ -837,3 +831,13 @@ Pakistan Monument,Islamabad | Shakarparian | Petals | Provinces | Museum,Histori
 Gardener,Mali | Plants | Flowers | Water | Garden,Occupations
 Photographer,Camera | Click | Photo | Smile | Wedding,Occupations
 Firefighter,Fire | Aag | Hose | Brigade | 1122,Occupations
+Moustache,Moonchh | Lip | Hair | Beard | Twirl,Body Parts
+Wrist,Kalai | Watch | Bangle | Hand | Pulse,Body Parts
+Eyelash,Palak | Eye | Blink | Hair | Mascara,Body Parts
+Brain,Dimagh | Head | Think | Smart | Mind,Body Parts
+Traffic Warden,Challan | Signal | Police | Whistle | Road,Occupations
+Hakeem,Doctor | Dawai | Herbs | Nabz | Dawakhana,Occupations
+Delivery Rider,Foodpanda | Bike | Order | Parcel | Doorbell,Occupations
+Coaster,Toyota | Baraat | Minibus | Seats | Trip,Transport
+Whitener,Correction | Mistake | Fluid | Erase | Pen,Stationery
+Khaki,Army | Uniform | Brown | Police | Beige,Colors
