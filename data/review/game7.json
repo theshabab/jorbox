@@ -10499,25 +10499,25 @@
   },
   {
    "id": "game7-955",
-   "Description": "brushing my neighbour Linda's hair",
+   "Description": "brushing the neighbour aunty's hair",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "brushing my neighbor linda",
     "Category": "Standard Prompts"
    },
-   "note": "clearer wording"
+   "note": "clearer wording; Debate: Localises the Western name 'Linda' and keeps the joke; non-intimate touching is allowed."
   },
   {
    "id": "game7-956",
-   "Description": "my ranch style home is floating away",
+   "Description": "my haveli is floating away",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "my ranch style home is floating away",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Ranch style home' is US-centric; a haveli is the local equivalent and easy to draw."
   },
   {
    "id": "game7-957",
@@ -10730,14 +10730,14 @@
   },
   {
    "id": "game7-976",
-   "Description": "doing a sit up and eating a hot dog",
+   "Description": "doing a sit-up and eating a samosa",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "doing a sit up and eating a hot dog",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises the hot dog, fixes 'sit-up', and reduces overlap with 'hot dog archery'."
   },
   {
    "id": "game7-977",
@@ -10950,14 +10950,14 @@
   },
   {
    "id": "game7-996",
-   "Description": "addicted to snuggling :)",
+   "Description": "addicted to snuggling my cat :)",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "addicted to snuggling :)",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: (Challenger's missed issue on idx 995.) Naming a pet removes any romantic reading and makes the card easier to draw."
   },
   {
    "id": "game7-997",
@@ -11577,14 +11577,14 @@
   },
   {
    "id": "game7-1053",
-   "Description": "hot and sweaty houseplants",
+   "Description": "houseplants sweating through a Karachi heatwave",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "hot n sweaty houseplants",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: (Challenger's missed issue on idx 1052.) 'Hot and sweaty' can read as suggestive. Making the heat the joke keeps the image and adds a local touch."
   },
   {
    "id": "game7-1054",
@@ -18992,6 +18992,62 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): A local street-food absurdity, distinct from 'another glass of cane juice please'."
+  },
+  {
+   "id": null,
+   "Description": "a peacock showing off its feathers at a red light",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: a single drawable scene instead of 'every traffic signal in Lahore'."
+  },
+  {
+   "id": null,
+   "Description": "Phupho inspecting the kitchen with a magnifying glass",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, drawable family humour with no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a sloth working the counter at the NADRA office",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable local office joke; no sloth or NADRA card exists."
+  },
+  {
+   "id": null,
+   "Description": "frogs performing a qawwali in the monsoon rain",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): The owner allows qawwali; a funny, drawable scene that differs from the existing frog cards."
+  },
+  {
+   "id": null,
+   "Description": "a family buried under ten razais on a winter night",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani winter scene; no razai card exists."
+  },
+  {
+   "id": null,
+   "Description": "a goat chewing up the wedding invitation cards",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A different joke from the existing goat and wedding cards; easy to draw."
+  },
+  {
+   "id": null,
+   "Description": "a cat stuck on top of an electricity pole while the whole mohalla watches",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Drawable neighbourhood scene with local flavour; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a crow flying off with the gas bill before Abbu can see it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version avoids repeating the snail-delivers-newspaper card and the many pigeon cards."
   }
  ]
 }

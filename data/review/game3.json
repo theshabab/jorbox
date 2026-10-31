@@ -71,7 +71,7 @@
   {
    "id": "game3-6",
    "Name": "Pakistani Dishes",
-   "Description": "Biryani|Nihari|Haleem|Pulao|Karahi|Aloo Gosht|Sajji|Chapli Kebab|Seekh Kebab|Korma|Paye|Saag|Roti|Naan|Paratha|Halwa Puri|Chana Chaat|Dahi Baray|Samosa|Pakora",
+   "Description": "Biryani|Nihari|Haleem|Pulao|Karahi|Aloo Gosht|Sajji|Chapli Kebab|Seekh Kebab|Korma|Paye|Saag|Daal Chawal|Qeema|Kofta|Halwa Puri|Chana Chaat|Dahi Baray|Samosa|Pakora",
    "Category": "",
    "action": "edit",
    "original": {
@@ -79,7 +79,7 @@
     "Description": "Biryani|Nihari|Haleem|Pulao|Karahi|Kebab|Sajji|Chapli Kebab|Seekh Kebab|Korma|Paye|Saag|Roti|Naan|Paratha|Halwa Puri|Chana Chaat|Dahi Baray|Samosa|Pakora",
     "Category": ""
    },
-   "note": "Kebab overlapped Chapli/Seekh Kebab; replaced with Aloo Gosht"
+   "note": "Kebab overlapped Chapli/Seekh Kebab; replaced with Aloo Gosht; Debate: Roti, Naan and Paratha are breads and already appear on Bread Types. They are replaced with Daal Chawal, Qeema and Kofta. Challenger's amended version."
   },
   {
    "id": "game3-7",
@@ -382,7 +382,7 @@
   },
   {
    "id": "game3-30",
-   "Name": "Days",
+   "Name": "Days of the Week and Special Days",
    "Description": "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Weekend|Holiday|Working Day|Half Day|Chand Raat|Eid Day|Exam Day|Result Day|Birthday|Wedding Day",
    "Category": "",
    "action": "edit",
@@ -391,7 +391,7 @@
     "Description": "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Jummah|Hafta|Itwar|Peer|Mangal|Budh|Jumerat|Weekend|Weekday|Holiday|Working Day|Off Day|Half Day",
     "Category": ""
    },
-   "note": "Debate: The Urdu day names repeated the English ones (Peer = Monday, etc.). Card renamed so day types and special days belong to the topic; Weekday/Off Day dropped as near-duplicates of Working Day/Holiday"
+   "note": "Debate: The Urdu day names repeated the English ones (Peer = Monday, etc.). Card renamed so day types and special days belong to the topic; Weekday/Off Day dropped as near-duplicates of Working Day/Holiday; Debate: The new title covers words like Chand Raat and Result Day."
   },
   {
    "id": "game3-31",
@@ -604,7 +604,7 @@
   {
    "id": "game3-47",
    "Name": "Punjabi Words",
-   "Description": "Puttar|Kuri|Munda|Roti|Pani|Ghar|Pind|Shehar|Khet|Darya|Sohni|Mela|Bebe|Paa ji|Changa|Lassi|Kukkar",
+   "Description": "Puttar|Kuri|Munda|Nikka|Vadda|Pind|Khet|Sohni|Bebe|Paa ji|Changa|Kukkar|Tussi|Kitthay|Hun|Ainvayi|Jhalla|Chaa|Gal|Rola",
    "Category": "",
    "action": "edit",
    "original": {
@@ -612,25 +612,25 @@
     "Description": "Puttar|Kuri|Munda|Roti|Pani|Ghar|Pind|Shehar|Khet|Darya|Sohni|Mahi|Ranjha|Heer|Bhangra|Dhol|Luddi|Tappa|Boli|Mela",
     "Category": ""
    },
-   "note": "removed romance/music/dance words (Heer, Ranjha, Mahi, Bhangra, Dhol, Luddi, Tappa, Boli)"
+   "note": "removed romance/music/dance words (Heer, Ranjha, Mahi, Bhangra, Dhol, Luddi, Tappa, Boli); Debate: Everyday Urdu words (Roti, Pani, Ghar, Shehar, Darya, Mela, Lassi) are replaced with distinctly Punjabi words. Challenger's amended version."
   },
   {
    "id": "game3-48",
    "Name": "Pashto Words",
-   "Description": "Pakhair|Manana|Kha|Wro|Zama|Sta|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Dost|Dushman|Jang|Aman",
+   "Description": "Pakhair|Manana|Kha|Wro|Zama|Sta|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Oba|Dodai|Khkulay|Tsanga Yee",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Pashto Words",
     "Description": "Pakhair|Manana|Kha|Wro|Zama|Sta|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Dost|Dushman|Jang|Aman",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Dost, Dushman, Jang and Aman are everyday Urdu words. They are replaced with distinctly Pashto words."
   },
   {
    "id": "game3-49",
    "Name": "Sindhi Words",
-   "Description": "Sain|Ada|Bhau|Bhen|Ammi|Baba|Goth|Shehar|Darya|Sindhu|Ajrak|Topi|Ralli|Suthan|Machhi|Pallo|Bhaji|Mani",
+   "Description": "Sain|Ada|Adi|Bhau|Bhen|Wadero|Goth|Chha|Jiye|Sindhu|Ajrak|Ralli|Suthan|Machhi|Pallo|Bhaji|Mani",
    "Category": "",
    "action": "edit",
    "original": {
@@ -638,7 +638,7 @@
     "Description": "Sain|Ada|Bhau|Bhen|Ammi|Baba|Goth|Shehar|Darya|Sindhu|Ajrak|Topi|Ralli|Khamis|Suthan|Chawal|Machhi|Pallo|Bhaji|Mani",
     "Category": ""
    },
-   "note": "removed doubtful Khamis, Chawal"
+   "note": "removed doubtful Khamis, Chawal; Debate: Ammi, Baba, Shehar, Darya and Topi are plain Urdu words. They are replaced with Sindhi words. Wadero is used instead of the challenger's Amma, which is also Urdu."
   },
   {
    "id": "game3-50",
@@ -695,7 +695,7 @@
   {
    "id": "game3-54",
    "Name": "Types of Salah",
-   "Description": "Fard|Sunnah|Nafl|Wajib|Witr|Janaza|Eid|Jummah|Tahajjud|Ishraq|Chasht|Awwabin|Istikhara|Hajat|Tasbih|Tawbah|Shukr|Kusuf|Khusuf|Tarawih",
+   "Description": "Fard|Sunnah|Nafl|Wajib|Witr|Janaza|Eid|Jummah|Tahajjud|Ishraq|Chasht|Awwabin|Istikhara|Hajat|Tasbih|Tawbah|Tahiyyatul Masjid|Tahiyyatul Wudu|Qaza|Tarawih",
    "Category": "",
    "action": "edit",
    "original": {
@@ -703,7 +703,7 @@
     "Description": "Fard|Sunnah|Nafl|Wajib|Witr|Janaza|Eid|Jummah|Tahajjud|Ishraq|Chasht|Awwabin|Istikhara|Hajat|Tasbih|Tawbah|Shukr|Kusuf|Khusuf|Musafir",
     "Category": ""
    },
-   "note": "Musafir replaced with Tarawih"
+   "note": "Musafir replaced with Tarawih; Debate: Kusuf and Khusuf are nearly the same word and obscure to most players, and a separate Shukr salah is disputed. They are replaced with well-known prayers."
   },
   {
    "id": "game3-55",
@@ -877,7 +877,7 @@
   {
    "id": "game3-68",
    "Name": "Islamabad Landmarks",
-   "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Constitution Avenue|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|F9 Park|Margalla Hills|Trail 3|Trail 5|Secretariat|Parliament",
+   "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Constitution Avenue|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|F9 Park|Margalla Hills|Trail 3|Saidpur Village|Secretariat|Parliament",
    "Category": "",
    "action": "edit",
    "original": {
@@ -885,7 +885,7 @@
     "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Monal|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|F9 Park|Margalla Hills|Trail 3|Trail 5|Secretariat|Parliament",
     "Category": ""
    },
-   "note": "Debate: Monal restaurant no longer exists (demolished in 2024)"
+   "note": "Debate: Monal restaurant no longer exists (demolished in 2024); Debate: Trail 3 and Trail 5 are almost the same word. Trail 5 is replaced with Saidpur Village."
   },
   {
    "id": "game3-69",
@@ -967,8 +967,8 @@
   },
   {
    "id": "game3-75",
-   "Name": "Grains",
-   "Description": "Wheat|Rice|Corn|Barley|Oats|Bajra|Jowar|Rye|Quinoa|Semolina|Daliya|Sago|Couscous|Buckwheat",
+   "Name": "Grains and Flours",
+   "Description": "Wheat|Rice|Corn|Barley|Oats|Bajra|Jowar|Rye|Quinoa|Buckwheat|Atta|Maida|Suji|Besan|Daliya",
    "Category": "",
    "action": "edit",
    "original": {
@@ -976,7 +976,7 @@
     "Description": "Wheat|Rice|Corn|Barley|Oats|Millet|Sorghum|Rye|Quinoa|Buckwheat|Amaranth|Teff|Spelt|Farro|Kamut|Bulgur|Couscous|Semolina|Tapioca|Sago",
     "Category": ""
    },
-   "note": "obscure grains removed; local names (Bajra, Jowar, Daliya)"
+   "note": "obscure grains removed; local names (Bajra, Jowar, Daliya); Debate: Sago and couscous are not grains. The wider title covers the flours Pakistani players know (Atta, Maida, Suji, Besan). Basmati is left out because it overlaps Rice, and Cornflakes is left out. Challenger's amended version."
   },
   {
    "id": "game3-76",
@@ -1046,7 +1046,7 @@
   {
    "id": "game3-81",
    "Name": "Bread Types",
-   "Description": "Roti|Naan|Paratha|Chapati|Puri|Kulcha|Sheermal|Taftan|Roghni Naan|Khamiri Roti|Pita|Bun|Toast|Loaf|Baguette|Croissant|Bakarkhani|Garlic Bread|Kandahari Naan",
+   "Description": "Roti|Naan|Paratha|Makai ki Roti|Puri|Kulcha|Sheermal|Taftan|Roghni Naan|Khamiri Roti|Pita|Bun|Toast|Loaf|Baguette|Croissant|Bakarkhani|Garlic Bread|Kandahari Naan",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1054,7 +1054,7 @@
     "Description": "Roti|Naan|Paratha|Chapati|Puri|Kulcha|Sheermal|Taftan|Roghn|Khamiri|Pita|Bun|Toast|Slice|Loaf|Baguette|Croissant|Bagel|Muffin|Scone",
     "Category": ""
    },
-   "note": "fixed Roghni Naan; Slice dup removed; Debate: Muffin is not bread and Bagel/Scone are little known. Challenger's version uses Garlic Bread instead of Tandoori Roti, which repeats Roti"
+   "note": "fixed Roghni Naan; Slice dup removed; Debate: Muffin is not bread and Bagel/Scone are little known. Challenger's version uses Garlic Bread instead of Tandoori Roti, which repeats Roti; Debate: Chapati and Roti are the same thing, so Chapati is replaced with Makai ki Roti."
   },
   {
    "id": "game3-82",
@@ -1072,7 +1072,7 @@
   {
    "id": "game3-83",
    "Name": "Pakistani Breakfast Items",
-   "Description": "Halwa Puri|Nihari|Paye|Chana|Paratha|Omelette|Chai|Lassi|Yogurt|Bread|Butter|Jam|Eggs|Toast|Naan|Kulcha|Sajji|Kaleji|Gurday|Maghaz",
+   "Description": "Halwa Puri|Nihari|Paye|Chana|Paratha|Omelette|Chai|Lassi|Yogurt|Bread|Butter|Jam|Fried Egg|Toast|Naan|Kulcha|Aloo ki Bhujia|Kaleji|Gurday|Maghaz",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1080,7 +1080,7 @@
     "Description": "Halwa Puri|Nihari|Paye|Chana|Paratha|Omelette|Tea|Lassi|Yogurt|Bread|Butter|Jam|Eggs|Toast|Naan|Kulcha|Sajji|Liver|Kidney|Brain",
     "Category": ""
    },
-   "note": "local forms"
+   "note": "local forms; Debate: Sajji is not a breakfast item, and Eggs overlapped with Omelette."
   },
   {
    "id": "game3-84",
@@ -1097,16 +1097,16 @@
   },
   {
    "id": "game3-85",
-   "Name": "Ramadan Special Foods",
-   "Description": "Pakora|Samosa|Fruit Chaat|Dahi Baray|Rooh Afza|Dates|Jalebi|Kachori|Rolls|Nuggets|Wings|Fries|Chana|Biryani|Pulao|Curry|Roti|Naan|Water|Juice",
+   "Name": "Sehri and Iftar Foods",
+   "Description": "Pakoray|Samosa|Fruit Chaat|Dahi Baray|Rooh Afza|Dates|Jalebi|Kachori|Chicken Roll|Chana Chaat|Gol Gappay|Haleem|Paratha|Pheni|Khajla|Lassi|Yogurt|Omelette|Spring Rolls|Nuggets",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Ramadan Special Foods",
     "Description": "Pakora|Samosa|Fruit Chaat|Dahi Baray|Rooh Afza|Dates|Jalebi|Kachori|Rolls|Nuggets|Wings|Fries|Chana|Biryani|Pulao|Curry|Roti|Naan|Water|Juice",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Vague filler words (Water, Curry, Roti, Juice) are replaced with real sehri and iftar foods, and the title is clearer."
   },
   {
    "id": "game3-86",
@@ -1344,7 +1344,7 @@
   },
   {
    "id": "game3-104",
-   "Name": "Pakistani Baby Names (Boys)",
+   "Name": "Pakistani Names (Boys)",
    "Description": "Muhammad|Ahmed|Ali|Hassan|Hussain|Umar|Usman|Abu Bakr|Bilal|Hamza|Zain|Saad|Fahad|Danish|Ahsan|Rizwan|Kamran|Imran|Salman|Adnan",
    "Category": "",
    "action": "edit",
@@ -1353,20 +1353,20 @@
     "Description": "Muhammad|Ahmed|Ali|Hassan|Hussain|Umar|Usman|Abubakar|Bilal|Hamza|Zain|Saad|Fahad|Danish|Ahsan|Rizwan|Kamran|Imran|Salman|Adnan",
     "Category": ""
    },
-   "note": "spelling: Abu Bakr"
+   "note": "spelling: Abu Bakr; Debate: The list includes names from older generations, so 'Baby' is dropped. This matches the girls' card."
   },
   {
    "id": "game3-105",
-   "Name": "Pakistani Baby Names (Girls)",
+   "Name": "Pakistani Names (Girls)",
    "Description": "Fatima|Ayesha|Zainab|Maryam|Khadija|Hafsa|Amna|Sara|Hira|Sana|Sadia|Nadia|Rabia|Sobia|Uzma|Saima|Shazia|Farzana|Rukhsana|Parveen",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Pakistani Baby Names (Girls)",
     "Description": "Fatima|Ayesha|Zainab|Maryam|Khadija|Hafsa|Amna|Sara|Hira|Sana|Sadia|Nadia|Rabia|Sobia|Uzma|Saima|Shazia|Farzana|Rukhsana|Parveen",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Rukhsana, Parveen and Farzana are not current baby names, and 'Names' fits the whole list."
   },
   {
    "id": "game3-106",
@@ -10185,6 +10185,70 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Family-friendly dilemma that is not a duplicate. The answer options are valid."
+  },
+  {
+   "id": null,
+   "Name": "Kebabs and BBQ",
+   "Description": "Seekh Kebab|Chapli Kebab|Shami Kebab|Reshmi Kebab|Gola Kebab|Bihari Kebab|Dhaga Kebab|Gilafi Kebab|Chicken Cheese Kebab|Malai Boti|Tikka Boti|Chicken Tikka|Kalmi Tikka|Shinwari Tikka|Mutton Chops",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A popular BBQ topic with close words that are good for bluffing. The title is accurate, and Kofta and Hara Bhara Kebab are dropped. Challenger's amended version."
+  },
+  {
+   "id": null,
+   "Name": "Paratha Types",
+   "Description": "Aloo Paratha|Qeema Paratha|Lachha Paratha|Anda Paratha|Mooli Paratha|Gobi Paratha|Cheese Paratha|Methi Paratha|Sada Paratha|Chocolate Paratha|Shakar Paratha|Daal Paratha|Pyaz Paratha|Chicken Paratha",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A well-known desi breakfast topic that is not in the deck. The brand name and near-duplicates are removed. Challenger's amended version."
+  },
+  {
+   "id": null,
+   "Name": "Jewellery",
+   "Description": "Ring|Necklace|Churiyan|Jhumkay|Earrings|Nose Pin|Nath|Maang Tikka|Payal|Bracelet|Locket|Chain|Kara|Choker|Jhoomar|Brooch|Gold Set",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): No jewellery card exists. Haar duplicated Necklace, so it is replaced. Challenger's amended version."
+  },
+  {
+   "id": null,
+   "Name": "Fast Food Items",
+   "Description": "Burger|Zinger|Pizza|Shawarma|Broast|Fries|Loaded Fries|Nuggets|Hot Wings|Club Sandwich|Hot Dog|Paratha Roll|Wrap|Pasta|Garlic Bread|Coleslaw|Milkshake|Soft Drink",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A common food topic that is missing from the deck. Near-duplicate burger and chicken items are removed. Challenger's amended version."
+  },
+  {
+   "id": null,
+   "Name": "Ice Cream Flavours",
+   "Description": "Vanilla|Chocolate|Strawberry|Mango|Pista|Kulfa|Tutti Frutti|Butterscotch|Praline|Cookies and Cream|Malai|Chikoo|Lychee|Coconut|Bubblegum|Coffee|Caramel|Badam",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A family-friendly dessert topic with local flavours. The rare Falsa is replaced with Coconut. Challenger's amended version."
+  },
+  {
+   "id": null,
+   "Name": "Things Ammi Never Throws Away",
+   "Description": "Shopping Bags|Ice Cream Tubs|Biscuit Tin|Wrapping Paper|Wedding Cards|Old Bedsheets|Jam Jars|Rubber Bands|Ketchup Sachets|Plastic Spoons|Old Newspapers|Appliance Boxes|Mithai Boxes|Shoe Boxes|Old Chargers|Guest Crockery|Gift Envelopes|Old Phones|Leftover Salan",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean desi household humour with distinct words."
+  },
+  {
+   "id": null,
+   "Name": "Types of Chai",
+   "Description": "Doodh Patti|Karak Chai|Kashmiri Chai|Green Tea|Kahwa|Gur wali Chai|Elaichi Chai|Adrak wali Chai|Lemon Tea|Dum Chai|Mixed Chai|Black Tea|Iced Tea|Masala Chai|Dhaba Chai|Mint Tea",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): The deck has coffee types but no chai types. Sulemani and Tandoori Chai are Indian, so they are replaced with local terms. Challenger's amended version."
+  },
+  {
+   "id": null,
+   "Name": "Things in an Almari",
+   "Description": "Clothes|Hangers|Shawls|Sweaters|Unstitched Suits|Wedding Clothes|Dupattas|Jewellery Box|Locker|Perfume|Naphthalene Balls|Important Documents|Cash Envelope|Bedsheets|Razai|Shoes|Purses|Gift Items|Iron|Old Photos",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A desi household topic in the deck's 'Things in a...' style. It is not in the deck."
   }
  ]
 }
