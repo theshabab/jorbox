@@ -414,7 +414,6 @@ Customer,Imam
 Customer,Pehlwan
 Customer,Princess
 Customer,Cricket Captain
-Customer,Rioter
 Customer,Protester
 Customer,Robot
 Customer,Queen
@@ -430,7 +429,7 @@ Customer,Cricket Fan
 Customer,Senior Citizen
 Customer,Spy
 Customer,Snowman
-Customer,Substitute Teacher
+Customer,School Principal
 Customer,Flight Attendant
 Customer,Superhero
 Customer,Rickshaw Driver
@@ -456,7 +455,7 @@ Problem,I can never find a parking spot at _____!
 Problem,My doodh wala keeps adding _____ to the milk!
 Problem,The gas pressure drops whenever I _____!
 Problem,Every shaadi lasts too long because of _____!
-Problem,My pile of mangoes attracts _____!
+Problem,The mangoes on our tree always attract _____!
 Problem,I lose my chappals every time I go to _____!
 Problem,Our street floods every time _____!
 Problem,My cousin always copies my _____!
@@ -488,7 +487,6 @@ Customer,Deg Wala
 Customer,Barber
 Problem,My nani's WhatsApp forwards are full of _____!
 Problem,The ceiling fan makes a strange noise whenever I _____!
-Problem,I always fall asleep during _____!
 Problem,The cricket ball always lands in _____!
 Problem,My ammi hides the good _____ for guests!
 Problem,My little brother always finishes my _____!
@@ -619,3 +617,10 @@ Customer,Online Boutique Aunty
 Problem,Nobody listens to my WhatsApp voice notes because of _____!
 Problem,I got removed from the family WhatsApp group for posting _____!
 Problem,My little cousin keeps making TikToks with my _____!
+Customer,Hockey Player
+Customer,Patang Baaz (Kite Flyer)
+Customer,Qawwal
+Customer,Nikah Khwan
+Customer,Petrol Pump Attendant
+Problem,A chhipkali is always hiding behind my _____!
+Problem,The summer heat ruins my _____ before I even get home!

@@ -5023,12 +5023,12 @@
    "id": "game11-457",
    "Name": "Customer",
    "Description": "Rioter",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Rioter"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of Protester (457), which sits right next to it; Protester is the better card to keep."
   },
   {
    "id": "game11-458",
@@ -5231,13 +5231,13 @@
   {
    "id": "game11-476",
    "Name": "Customer",
-   "Description": "Substitute Teacher",
-   "action": "keep",
+   "Description": "School Principal",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Substitute Teacher"
    },
-   "note": ""
+   "note": "Debate: Substitute Teacher overlaps Teacher and Tuition Teacher in this slice. There is no principal anywhere in the deck."
   },
   {
    "id": "game11-477",
@@ -5543,9 +5543,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "My pile of mangoes attracts _____!",
+   "Description": "The mangoes on our tree always attract _____!",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Fixes the awkward 'my pile of mangoes' wording; a mango tree is a natural, familiar situation."
   },
   {
    "id": null,
@@ -5768,8 +5768,8 @@
    "id": null,
    "Name": "Problem",
    "Description": "I always fall asleep during _____!",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Same meaning as the existing 'I get so sleepy when I have to _____!' and close to the other sleep cards."
   },
   {
    "id": null,
@@ -6680,6 +6680,55 @@
    "Description": "My little cousin keeps making TikToks with my _____!",
    "action": "add",
    "note": "New card (debate): No TikTok problem card; distinct from 'My cousin always copies my _____'."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Hockey Player",
+   "action": "add",
+   "note": "New card (debate): Hockey is the national sport, and the deck has no hockey customer (Olympic Athlete is generic)."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Patang Baaz (Kite Flyer)",
+   "action": "add",
+   "note": "New card (debate): There is no kite-flyer customer; it fits the existing kite and rooftop problems."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Qawwal",
+   "action": "add",
+   "note": "New card (debate): The owner allows qawwali, and a qawwal is a different performer from the existing Naat Khwan."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Nikah Khwan",
+   "action": "add",
+   "note": "New card (debate): Not in the deck, and different from Imam and Qari Sahab; fits the shaadi theme."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Petrol Pump Attendant",
+   "action": "add",
+   "note": "New card (debate): Everyday local worker that is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "A chhipkali is always hiding behind my _____!",
+   "action": "add",
+   "note": "New card (debate): Familiar household annoyance; the deck has no lizard card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The summer heat ruins my _____ before I even get home!",
+   "action": "add",
+   "note": "New card (debate): The challenger's amended wording allows more answers to pitch and stays distinct from the existing summer cards."
   }
  ]
 }

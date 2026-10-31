@@ -302,12 +302,12 @@ Painter,Paints walls and houses,Occupations
 Writer,Authors books and articles,Occupations
 Artist,Creates paintings and drawings,Occupations
 Banker,Handles deposits and loans,Occupations
-Accountant,Keeps financial records and taxes,Occupations
+Accountant,Keeps the books and files taxes,Occupations
 Scientist,Does experiments in a lab,Occupations
 Car,Four-wheeled family vehicle,Transport
 Bus,Large public passenger vehicle,Transport
-Truck,Large goods carrier on highways,Transport
-Bike,"Motorcycle, popular two-wheeler",Transport
+Truck,Brightly painted goods carrier on highways,Transport
+Bike,"Motorcycle, like the Honda CD 70",Transport
 Cycle,Pedal-powered two-wheeler,Transport
 Rickshaw,Three-wheeled auto for hire,Transport
 Chingchi,Motorcycle rickshaw with many seats,Transport
@@ -320,14 +320,14 @@ Taxi,Car for hire with a driver,Transport
 Scooter,Small two-wheeler with a footboard,Transport
 Tractor,Farm vehicle that pulls ploughs,Transport
 Trolley,Wheeled cart for luggage or shopping,Transport
-Ambulance,Rushes patients to hospital,Transport
+Ambulance,Edhi or 1122 van rushing patients to hospital,Transport
 Fire Truck,Emergency vehicle with water hoses,Transport
 Police Car,Patrol vehicle with a siren,Transport
 Jeep,Rugged off-road vehicle,Transport
 Helicopter,Aircraft with spinning rotor blades,Transport
 Rocket,Launches into space,Transport
 Metro Bus,Rapid transit on dedicated lanes,Transport
-Orange Line,Lahore's first metro train,Transport
+Orange Line,"Pakistan's first metro train, in Lahore",Transport
 Tonga,Horse-drawn carriage,Transport
 Pen,Writes in ink,Stationery
 Pencil,"Writes in graphite, can be rubbed out",Stationery
@@ -347,10 +347,10 @@ Calculator,Device for doing sums,Stationery
 Compass,Geometry-box tool for drawing circles,Stationery
 Protractor,Geometry-box tool for measuring angles,Stationery
 Folder,Cover for keeping papers together,Stationery
-Envelope,Paper cover for posting letters,Stationery
+Envelope,Lifafa; holds letters or Eidi money,Stationery
 Diary,Daily book for personal notes,Stationery
 Chart,Large sheet for school displays,Stationery
-Card,Stiff paper for greetings or Eid,Stationery
+Card,Stiff folded paper for Eid greetings,Stationery
 Ink,Fluid that fills a fountain pen,Stationery
 Red,Colour of blood and chillies,Colors
 Blue,Colour of a clear sky,Colors
@@ -371,8 +371,8 @@ Violet,Bluish-purple colour of flowers,Colors
 Magenta,Bright purplish-pink,Colors
 Cyan,Bright greenish-blue,Colors
 Teal,Dark blue-green,Colors
-Olive,"Dull yellow-green, like the fruit",Colors
-Navy,"Very dark blue, like uniforms",Colors
+Olive,"Dull yellow-green, like zaitoon",Colors
+Navy,"Very dark blue, almost black",Colors
 Head,Top part of the body,Body Parts
 Eye,Organ used for seeing,Body Parts
 Ear,Organ you listen with,Body Parts
@@ -383,8 +383,8 @@ Foot,Part you stand on,Body Parts
 Leg,Limb used for walking,Body Parts
 Arm,Limb from shoulder to wrist,Body Parts
 Finger,Five on each hand,Body Parts
-Thumb,"Short, thick first digit",Body Parts
-Knee,Joint in the middle of the leg,Body Parts
+Thumb,"Angootha; short, thick first digit",Body Parts
+Knee,Ghutna; joint in the middle of the leg,Body Parts
 Elbow,Joint in the middle of the arm,Body Parts
 Shoulder,Joint where arm meets body,Body Parts
 Neck,Connects head to body,Body Parts
@@ -393,9 +393,9 @@ Tooth,Used for chewing food,Body Parts
 Tongue,Used for tasting food,Body Parts
 Lip,Soft edge of the mouth,Body Parts
 Chin,Bottom point of the face,Body Parts
-Cheek,Soft side of the face,Body Parts
+Cheek,Gaal; the part aunties love to pinch,Body Parts
 Forehead,Face part above the eyebrows,Body Parts
-Stomach,Digests food after eating,Body Parts
+Stomach,Pait; growls when you are hungry,Body Parts
 Back,Rear side of the torso,Body Parts
 Chest,"Front of the torso, holds the heart",Body Parts
 Ring,Band worn on a finger,Jewelry

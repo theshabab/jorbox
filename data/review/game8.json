@@ -6287,13 +6287,13 @@
    "Name": "Sci-Fi <---> Fantasy",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Sci-Fi <---> Fantasy",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Answers lead to film/TV franchises and to wizards and spells, which the owner banned. The deck already has other sci-fi/believability scales."
   },
   {
    "id": "game8-485",
@@ -6508,13 +6508,13 @@
    "Name": "Easy to find <---> Hard to find",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Easy to find <---> Hard to find",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Means the same as 472 'Common <---> Rare' in this slice, so players would give the same answers."
   },
   {
    "id": "game8-502",
@@ -6547,13 +6547,13 @@
    "Name": "Highbrow <---> Lowbrow",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Highbrow <---> Lowbrow",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Checked: 527 'Classy <---> Trashy' and 587 'Elitist <---> Mainstream' are live and cover the same idea. 'Highbrow/Lowbrow' is the least familiar wording of the three."
   },
   {
    "id": "game8-505",
@@ -6937,13 +6937,13 @@
    "Name": "Greatest person in history <---> Worst person in history",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Greatest living person <---> Worst living person",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": "avoid naming living people"
+   "note": "Debate: Live 539 'Villain <---> Hero' and 638 'Famous for bad things <---> Famous for good things' cover it. Removing it also stops players ranking revered figures on a joke scale."
   },
   {
    "id": "game8-535",
@@ -9494,6 +9494,54 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Local street treat. The ends now match the height task and drop the wrong ice-cream term 'scoop'."
+  },
+  {
+   "id": null,
+   "Name": "Very Lahori <---> Very Karachi",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Good-natured local rivalry scale that is not in the deck. It follows the pattern of 727 'Very desi <---> Very foreign'."
+  },
+  {
+   "id": null,
+   "Name": "Eldest child thing <---> Youngest child thing",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family-friendly sibling humour. The deck has no birth-order scale."
+  },
+  {
+   "id": null,
+   "Name": "Saved for guests <---> Used every day",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Classic desi household joke. The existing guest cards are about other things."
+  },
+  {
+   "id": null,
+   "Name": "Morning person <---> Night owl",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear opposites that are easy to play. Not a duplicate of the sleepiness drawings."
+  },
+  {
+   "id": null,
+   "Name": "Best iftar item <---> Worst iftar item",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Ramadan food debate. It is different from 722 (drawing a dastarkhwan) and 735 (easiest/hardest part of Ramadan)."
+  },
+  {
+   "id": null,
+   "Name": "SHY <---> TOTAL SHOW-OFF",
+   "Description": "Draw a peacock that is this much of a show-off",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Peacocks are common in Pakistan (Thar), and the deck has no peacock card. It fits the bird drawings."
   }
  ]
 }

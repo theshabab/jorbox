@@ -4101,7 +4101,7 @@
   {
    "id": "game1-316",
    "Name": "Accountant",
-   "Description": "Keeps financial records and taxes",
+   "Description": "Keeps the books and files taxes",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -4109,7 +4109,7 @@
     "Description": "A finance professional",
     "Category": "Occupations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes awkward 'keeps ... taxes' wording"
   },
   {
    "id": "game1-317",
@@ -4153,7 +4153,7 @@
   {
    "id": "game1-320",
    "Name": "Truck",
-   "Description": "Large goods carrier on highways",
+   "Description": "Brightly painted goods carrier on highways",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4161,12 +4161,12 @@
     "Description": "A cargo vehicle",
     "Category": "Transport"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the iconic Pakistani truck-art cue"
   },
   {
    "id": "game1-321",
    "Name": "Bike",
-   "Description": "Motorcycle, popular two-wheeler",
+   "Description": "Motorcycle, like the Honda CD 70",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4174,7 +4174,7 @@
     "Description": "A two-wheeler",
     "Category": "Transport"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Familiar local reference makes the hint specific"
   },
   {
    "id": "game1-322",
@@ -4335,7 +4335,7 @@
   {
    "id": "game1-334",
    "Name": "Ambulance",
-   "Description": "Rushes patients to hospital",
+   "Description": "Edhi or 1122 van rushing patients to hospital",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4343,7 +4343,7 @@
     "Description": "An emergency vehicle",
     "Category": "Transport"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger amendment: local cue without the disputable 'biggest fleet' claim"
   },
   {
    "id": "game1-335",
@@ -4426,7 +4426,7 @@
   {
    "id": "game1-341",
    "Name": "Orange Line",
-   "Description": "Lahore's first metro train",
+   "Description": "Pakistan's first metro train, in Lahore",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4434,7 +4434,7 @@
     "Description": "A metro train",
     "Category": "Transport"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Accurate: it was Pakistan's first metro rail line (2020)"
   },
   {
    "id": "game1-342",
@@ -4712,7 +4712,7 @@
   {
    "id": "game1-363",
    "Name": "Envelope",
-   "Description": "Paper cover for posting letters",
+   "Description": "Lifafa; holds letters or Eidi money",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4720,7 +4720,7 @@
     "Description": "A letter holder",
     "Category": "Stationery"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds Urdu term and local Eidi cue"
   },
   {
    "id": "game1-364",
@@ -4751,7 +4751,7 @@
   {
    "id": "game1-366",
    "Name": "Card",
-   "Description": "Stiff paper for greetings or Eid",
+   "Description": "Stiff folded paper for Eid greetings",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4759,7 +4759,7 @@
     "Description": "A paper item",
     "Category": "Stationery"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes awkward 'for greetings or Eid' wording"
   },
   {
    "id": "game1-367",
@@ -5063,7 +5063,7 @@
   {
    "id": "game1-390",
    "Name": "Olive",
-   "Description": "Dull yellow-green, like the fruit",
+   "Description": "Dull yellow-green, like zaitoon",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -5071,12 +5071,12 @@
     "Description": "A yellow-green",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Replaces vague 'like the fruit' with a clear local cue"
   },
   {
    "id": "game1-391",
    "Name": "Navy",
-   "Description": "Very dark blue, like uniforms",
+   "Description": "Very dark blue, almost black",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -5084,7 +5084,7 @@
     "Description": "A dark blue",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger amendment: school blazers come in many colours; states the shade itself"
   },
   {
    "id": "game1-392",
@@ -5232,7 +5232,7 @@
   {
    "id": "game1-403",
    "Name": "Thumb",
-   "Description": "Short, thick first digit",
+   "Description": "Angootha; short, thick first digit",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5240,12 +5240,12 @@
     "Description": "Hand part",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds Urdu term, matching other body-part hints"
   },
   {
    "id": "game1-404",
    "Name": "Knee",
-   "Description": "Joint in the middle of the leg",
+   "Description": "Ghutna; joint in the middle of the leg",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5253,7 +5253,7 @@
     "Description": "Leg joint",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds Urdu term, matching deck style"
   },
   {
    "id": "game1-405",
@@ -5362,7 +5362,7 @@
   {
    "id": "game1-413",
    "Name": "Cheek",
-   "Description": "Soft side of the face",
+   "Description": "Gaal; the part aunties love to pinch",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5370,7 +5370,7 @@
     "Description": "Face part",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds Urdu term and a more identifying cue"
   },
   {
    "id": "game1-414",
@@ -5388,7 +5388,7 @@
   {
    "id": "game1-415",
    "Name": "Stomach",
-   "Description": "Digests food after eating",
+   "Description": "Pait; growls when you are hungry",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5396,7 +5396,7 @@
     "Description": "Digestive organ",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds Urdu term and a clearer cue"
   },
   {
    "id": "game1-416",
