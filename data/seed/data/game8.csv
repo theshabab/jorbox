@@ -305,7 +305,7 @@ NO WAY <---> COULD BUILD,Draw a robot that you’re this certain you yourself co
 NOT LIKELY <---> VERY LIKELY,Draw a robot that is this likely to have been designed by a teenage boy,Drawing
 BAD DISGUISE <---> LOOKS HUMAN,Draw a robot that is this successfully disguising itself as a human,Drawing
 ONE TASK <---> TEN TASKS,Draw a robot that can perform this many tasks,Drawing
-NOT SAFE! <---> DOG-SITTER 5000,Draw a robot that is this safe to babysit a puppy,Drawing
+NOT SAFE! <---> BABYSITTER 5000,Draw a robot that is this safe to leave in charge of your baby cousin,Drawing
 MESSY <---> SO SLEEK,Draw a robot that is this sleek,Drawing
 NOT HUMAN SHAPED <---> HUMAN SHAPED,Draw a robot that is this human-shaped,Drawing
 SAFE TUMMY <---> TUMMY ACHE,Draw a meal that is this likely to give you a tummy ache,Drawing
@@ -314,7 +314,7 @@ WIDE AWAKE <---> NEED A NAP,Draw a meal that is this likely to put you to sleep 
 NOT PROFESSIONAL <---> VERY PROFESSIONAL,Draw a stick figure that looks this professional,Drawing
 BRAVE <---> VERY AFRAID,Draw a stick figure that is this fearful,Drawing
 AT HOME <---> AT A SHAADI,Draw an outfit that is this likely to be worn to a shaadi,Drawing
-10 YEARS OLD <---> 100 YEARS OLD,Draw the favorite meal for someone this many years old,Drawing
+10 YEARS OLD <---> 100 YEARS OLD,Draw the favourite meal of someone this many years old,Drawing
 UTENSILS <---> ALL HANDS,Draw a meal that is this likely to be eaten with your hands,Drawing
 NOT LIKELY <---> CHAI-TIME SNACK!,Draw a snack that is this likely to be eaten with chai,Drawing
 UNEATEN <---> SUPER POPULAR,Draw a dish that would be this popular at a family dawat,Drawing
@@ -327,7 +327,7 @@ CALM <---> VERY ANGRY,Draw a stick figure that is this angry,Drawing
 WIDE AWAKE <---> VERY EXHAUSTED,Draw a stick figure that is this exhausted,Drawing
 TYPICAL PLANS <---> VERY SINISTER,Draw a stick figure that is this likely to be plotting something sinister,Drawing
 NOT STYLISH <---> VERY STYLISH,Draw a stick figure that is this stylish,Drawing
-NORMAL <---> VERY CREEPY,Draw a logo for a dentist office that is this creepy,Drawing
+NORMAL <---> VERY CREEPY,Draw a logo for a dentist's clinic that is this creepy,Drawing
 NO WAY <---> EID READY,Draw an outfit that is this likely to be worn on Eid,Drawing
 NOT FOR GYM <---> GYM FIT!!,Draw an outfit that is this likely to be worn at the gym,Drawing
 NOT FOR RAIN <---> MONSOON READY!,Draw an outfit that is this ready for monsoon rain,Drawing
@@ -351,7 +351,7 @@ NOT IMPORTANT <---> SO IMPORTANT,Draw a uniform for a person that looks this imp
 HARMLESS <---> VERY TOUGH,Draw a jacket for a motorbike gang that looks this tough,Drawing
 UNSAFE <---> VERY SAFE,Draw an outfit that is this safe for a construction site,Drawing
 PLAIN <---> EVERYTHING ON IT,"Draw a plate of chaat that actually has this much ""everything"" on it",Drawing
-TASTELESS <---> WAY TOO SPICY,Draw chicken wings that are probably this spicy,Drawing
+TASTELESS <---> WAY TOO SPICY,Draw a plate of chicken karahi that is probably this spicy,Drawing
 DELIGHTED <---> DISAPPOINTED,Draw a pizza that is this likely to disappoint a 9-year-old,Drawing
 EASY <---> IMPOSSIBLE,Draw a food item that would be this difficult to eat while driving,Drawing
 NOT SCARY <---> TOO SCARY,Draw a costume for a school play that is this scary,Drawing
@@ -363,14 +363,14 @@ UNHAPPY <---> VERY HAPPY,Draw a stick figure that is this happy with its job,Dra
 UNRIDEABLE <---> VERY RIDEABLE,Draw a pet that you are this likely to be able to ride,Drawing
 EARTH PET <---> ALIEN PET,Draw a pet that is this likely to be from another planet,Drawing
 ROUGH <---> SO GENTLE,Draw a monster that is this gentle,Drawing
-NOT IN IT <---> M IS FOR MONSTER,Draw a monster that is this likely to appear in a children's alphabet book,Drawing
+TOO SCARY FOR KIDS <---> M IS FOR MONSTER,Draw a monster that is this likely to appear in a children's alphabet book,Drawing
 NO WAY <---> PERFECT MATCH,Draw a face that looks this much like your face,Drawing
 GROSS <---> LOVE IT,Draw the face of a person who is eating something they like this much,Drawing
 SERIOUS <---> VERY FUNNY,Draw a truck art design that is this funny,Drawing
 THE YEAR 1950 <---> THE YEAR 2040,Draw a truck art design that would be popular during this year,Drawing
 PURE GOOD <---> PURE EVIL,Draw a toy that is this evil,Drawing
 NOT SMART <---> GENIUS,Draw a monster that is this smart,Drawing
-NANI NAY <---> NANI YAY,Draw a snack that is this likely to be in Nani's handbag,Drawing
+NEVER IN HER BAG <---> ALWAYS IN HER BAG,Draw a snack that is this likely to be in Nani's handbag,Drawing
 "JUST A FROG <---> WOW, A PRINCE!",Draw a frog that is this likely to actually be a prince,Drawing
 NO SURPRISE <---> SURPRISE!,Draw a cake that is this likely to have a surprise hidden inside it,Drawing
 EMPTY MOUTH <---> HIDING SOMETHING,Draw a dog that is this likely to be hiding something in its mouth,Drawing
@@ -713,3 +713,10 @@ ALWAYS DELIVERS <---> PARCEL LOST FOREVER,Draw a logo for a made-up courier comp
 NO CLUE <---> FINDS IT INSTANTLY,Draw an ant that is this good at finding the sugar jar in the kitchen,Drawing
 PLAIN <---> TOTAL SHOW-OFF,Draw a peacock that is showing off this much,Drawing
 EASY TO PLEASE <---> SUPER PICKY,Write the first line of a rishta profile for someone who is this picky,Writing
+NO BACKUP <---> NEVER GOES DARK,Draw a robot that is this prepared for loadshedding,Drawing
+100% BATTERY <---> 1% BATTERY,Draw the face of a person whose phone battery is this low,Drawing
+NOT DESI <---> FULL DESI,Draw a living room that is this desi,Drawing
+PLAIN <---> HEAVY KAAM,Draw a dupatta with this much embroidery on it,Drawing
+BRAND NEW <---> HELD TOGETHER WITH TAPE,Draw a TV remote that has been patched up this much,Drawing
+BARELY STUFFED <---> BURSTING,Draw a paratha roll stuffed with this much filling,Drawing
+TINY <---> TOWERING,Draw a gola ganda that is this tall,Drawing

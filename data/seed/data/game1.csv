@@ -200,25 +200,25 @@ Cow,Gives milk; says moo,Animals
 Buffalo,Black milk animal; bhains,Animals
 Goat,Bakra; common Eid sacrifice,Animals
 Sheep,"Bheyr; woolly animal, dumba for Eid",Animals
-Camel,Ship of the desert,Animals
+Camel,Oont; ship of the desert,Animals
 Donkey,Stubborn animal that carries loads,Animals
-Monkey,Banana-eating tree climber,Animals
-Bear,Big furry animal that hibernates,Animals
+Monkey,Bandar; banana-eating tree climber,Animals
+Bear,Bhalu; big furry animal that hibernates,Animals
 Deer,Hiran; graceful animal with antlers,Animals
-Rabbit,Long-eared hopping animal,Animals
-Fox,Cunning wild animal with bushy tail,Animals
-Wolf,Wild animal that howls in packs,Animals
-Snake,Legless reptile that slithers,Animals
+Rabbit,Khargosh; long-eared hopping animal,Animals
+Fox,Lomri; cunning wild animal with bushy tail,Animals
+Wolf,Bheriya; wild animal that howls in packs,Animals
+Snake,Saanp; legless reptile that slithers,Animals
 Crocodile,Magarmach; huge reptile with strong jaws,Animals
-Turtle,Slow reptile with a shell,Animals
-Frog,Croaking amphibian that jumps,Animals
+Turtle,Kachhua; slow reptile with a shell,Animals
+Frog,Mendak; croaking amphibian that jumps,Animals
 Mouse,Choha; small rodent that cats chase,Animals
 Squirrel,Gilehri; bushy-tailed tree climber,Animals
 Eagle,Uqaab; large bird of prey,Birds
 Sparrow,Small brown chirping bird; chiriya,Birds
 Pigeon,Kabootar; kept and flown from rooftops,Birds
-Parrot,Green bird that can talk,Birds
-Crow,Black bird that caws,Birds
+Parrot,Tota; green bird that can talk,Birds
+Crow,Kawwa; black bird whose caw means guests coming,Birds
 Peacock,Bird with colorful fanned tail,Birds
 Hen,Female bird that lays eggs; murghi,Birds
 Rooster,Male bird that crows at dawn,Birds
@@ -245,7 +245,7 @@ Badminton,Racket sport with a shuttlecock,Sports
 Boxing,Fighting with gloves in a ring,Sports
 Wrestling,Grappling sport; kushti,Sports
 Kabaddi,"Village tag sport, holding breath",Sports
-Polo,Played on horseback with mallets,Sports
+Polo,Horseback mallet sport; Shandur festival,Sports
 Golf,Hitting a small ball into holes,Sports
 Swimming,Moving through water in a pool,Sports
 Running,Racing on foot,Sports
@@ -269,12 +269,12 @@ Rohtas Fort,Sher Shah Suri's stronghold near Jhelum,Historical Places
 Mohenjo-daro,Indus Valley ruins in Sindh,Historical Places
 Harappa,Indus Valley ruins near Sahiwal,Historical Places
 Taxila,Ancient Gandhara city near Islamabad,Historical Places
-Hiran Minar,Jahangir's tower for his pet antelope,Historical Places
-Katas Raj,"Ancient temples with pond, Chakwal",Historical Places
+Hiran Minar,"Jahangir's tower for his pet antelope, Sheikhupura",Historical Places
+Katas Raj,"Ancient Hindu temples around a pond, Chakwal",Historical Places
 Derawar Fort,Huge bastioned stronghold in Cholistan Desert,Historical Places
 Ranikot Fort,Great Wall of Sindh,Historical Places
 Baltit Fort,Hunza Mirs' old castle above Karimabad,Historical Places
-Noor Mahal,White palace in Bahawalpur,Historical Places
+Noor Mahal,Nawab's white palace in Bahawalpur,Historical Places
 Wazir Khan Mosque,"Tiled Mughal masjid near Delhi Gate, Lahore",Historical Places
 Tomb of Jahangir,Mughal emperor's mausoleum in Shahdara,Historical Places
 Mazar-e-Quaid,Jinnah's white marble mausoleum in Karachi,Historical Places
@@ -285,12 +285,12 @@ Mohatta Palace,"Pink stone mansion museum in Clifton, Karachi",Historical Places
 Doctor,Treats patients and prescribes medicine,Occupations
 Teacher,Ustad; gives lessons and checks homework,Occupations
 Pilot,Flies aeroplanes,Occupations
-Soldier,Serves in the army,Occupations
+Soldier,Fauji; serves in the army,Occupations
 Police,Enforces law; catches thieves,Occupations
 Lawyer,Argues cases in court,Occupations
 Judge,Decides cases in court,Occupations
 Chef,Professional cook in a restaurant,Occupations
-Farmer,Grows crops in fields,Occupations
+Farmer,Kisaan; grows crops in fields,Occupations
 Driver,Paid to steer the family car or a bus,Occupations
 Tailor,Stitches clothes; darzi,Occupations
 Barber,Cuts hair and shaves beards; nai,Occupations

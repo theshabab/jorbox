@@ -5296,14 +5296,14 @@
   },
   {
    "id": "game9-482",
-   "Name": "When was Adolf Hitler appointed as Chancellor of Germany?",
-   "Description": "January 30, 1933",
-   "action": "keep",
+   "Name": "In what year was Adolf Hitler appointed Chancellor of Germany?",
+   "Description": "1933 (30 January)",
+   "action": "edit",
    "original": {
     "Name": "When was Adolf Hitler appointed as Chancellor of Germany?",
     "Description": "January 30, 1933"
    },
-   "note": ""
+   "note": "Debate: The exact date is too hard; ask for the year and keep the date as a bonus."
   },
   {
    "id": "game9-483",
@@ -5395,14 +5395,14 @@
   },
   {
    "id": "game9-491",
-   "Name": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+   "Name": "In August 1945, the United States dropped atomic bombs on Hiroshima and which other Japanese city?",
    "Description": "Nagasaki",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
     "Description": "Nagasaki"
    },
-   "note": ""
+   "note": "Debate: Clearer, less repetitive wording; facts correct."
   },
   {
    "id": "game9-492",
@@ -5527,14 +5527,14 @@
   },
   {
    "id": "game9-503",
-   "Name": "On what street did the 1666 Great Fire of London start?",
-   "Description": "Pudding Lane",
-   "action": "keep",
+   "Name": "In what year did the Great Fire of London happen?",
+   "Description": "1666 (it started on Pudding Lane)",
+   "action": "edit",
    "original": {
     "Name": "On what street did the 1666 Great Fire of London start?",
     "Description": "Pudding Lane"
    },
-   "note": ""
+   "note": "Debate: Challenger missed issue: the street name is too obscure for this audience; ask the well-known year and keep the street as a bonus."
   },
   {
    "id": "game9-504",
@@ -5650,12 +5650,12 @@
    "id": "game9-514",
    "Name": "If someone says you are \"olid\", what do they mean?",
    "Description": "You smell very bad",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "If someone said \"you are olid\", what would they mean?",
     "Description": "You smell extremely unpleasant."
    },
-   "note": "wording"
+   "note": "Debate: Challenger missed issue: archaic, unguessable word; too obscure."
   },
   {
    "id": "game9-515",
@@ -6440,14 +6440,14 @@
   },
   {
    "id": "game9-586",
-   "Name": "In which direction does the Sun rise?",
-   "Description": "East",
+   "Name": "On which of Earth's neighbouring planets does the Sun rise in the west?",
+   "Description": "Venus (it spins backwards)",
    "action": "edit",
    "original": {
     "Name": "In which cardinal direction does the Sun rise from?",
     "Description": "East"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Turns a trivial card into real trivia; the qualifier rules out Uranus (challenger amendment)."
   },
   {
    "id": "game9-587",
@@ -6704,14 +6704,14 @@
   },
   {
    "id": "game9-610",
-   "Name": "What was the first ever London Underground line to be built?",
-   "Description": "Metropolitan Line",
-   "action": "keep",
+   "Name": "Which city opened the world's first underground railway, in 1863?",
+   "Description": "London",
+   "action": "edit",
    "original": {
     "Name": "What was the first ever London Underground line to be built?",
     "Description": "Metropolitan Line"
    },
-   "note": ""
+   "note": "Debate: World-famous fact instead of a British-specific line name."
   },
   {
    "id": "game9-611",
@@ -10844,6 +10844,69 @@
    "Description": "5 hours (UTC+5)",
    "action": "add",
    "note": "New card (debate): Local fact; distinct from the China time-zone card."
+  },
+  {
+   "id": null,
+   "Name": "The Red Sea port of Mocha, which gave its name to a coffee drink, is in which country?",
+   "Description": "Yemen",
+   "action": "add",
+   "note": "New card (debate): Muslim-world geography/history; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is karela called in English?",
+   "Description": "Bitter gourd (bitter melon)",
+   "action": "add",
+   "note": "New card (debate): Local food/language card; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which ancient road, rebuilt by Sher Shah Suri, runs from Bengal through Lahore and Peshawar towards Kabul?",
+   "Description": "Grand Trunk Road (GT Road)",
+   "action": "add",
+   "note": "New card (debate): Well-known South Asian history; distinct from the Rohtas Fort card."
+  },
+  {
+   "id": null,
+   "Name": "The chess word \"checkmate\" comes from the Persian \"shah mat\". What does it mean?",
+   "Description": "The king is helpless (often given as \"the king is dead\")",
+   "action": "add",
+   "note": "New card (debate): Persian word-origin card; answer accepts both common translations (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Which civilisation built Machu Picchu in Peru?",
+   "Description": "The Inca",
+   "action": "add",
+   "note": "New card (debate): World history; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "In what year did the Berlin Wall fall?",
+   "Description": "1989",
+   "action": "add",
+   "note": "New card (debate): 20th-century history; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Mughal emperor built the city of Fatehpur Sikri?",
+   "Description": "Akbar",
+   "action": "add",
+   "note": "New card (debate): Mughal history; no Akbar card yet."
+  },
+  {
+   "id": null,
+   "Name": "Driven out of India by Sher Shah Suri, the Mughal emperor Humayun took refuge at the court of which empire?",
+   "Description": "Safavid Persia (Iran)",
+   "action": "add",
+   "note": "New card (debate): Mughal history; amended wording avoids implying he fled there straight after 1540."
+  },
+  {
+   "id": null,
+   "Name": "Which Japanese company makes the Switch games console?",
+   "Description": "Nintendo",
+   "action": "add",
+   "note": "New card (debate): Allowed video-game content; distinct from the Nintendo-founded-year card."
   }
  ]
 }

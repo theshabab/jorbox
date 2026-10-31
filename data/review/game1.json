@@ -2697,7 +2697,7 @@
   {
    "id": "game1-208",
    "Name": "Camel",
-   "Description": "Ship of the desert",
+   "Description": "Oont; ship of the desert",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2705,7 +2705,7 @@
     "Description": "A desert animal",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-209",
@@ -2723,7 +2723,7 @@
   {
    "id": "game1-210",
    "Name": "Monkey",
-   "Description": "Banana-eating tree climber",
+   "Description": "Bandar; banana-eating tree climber",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2731,12 +2731,12 @@
     "Description": "A primate",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-211",
    "Name": "Bear",
-   "Description": "Big furry animal that hibernates",
+   "Description": "Bhalu; big furry animal that hibernates",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2744,7 +2744,7 @@
     "Description": "A large mammal",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-212",
@@ -2762,7 +2762,7 @@
   {
    "id": "game1-213",
    "Name": "Rabbit",
-   "Description": "Long-eared hopping animal",
+   "Description": "Khargosh; long-eared hopping animal",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2770,12 +2770,12 @@
     "Description": "A small mammal",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-214",
    "Name": "Fox",
-   "Description": "Cunning wild animal with bushy tail",
+   "Description": "Lomri; cunning wild animal with bushy tail",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2783,12 +2783,12 @@
     "Description": "A cunning animal",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-215",
    "Name": "Wolf",
-   "Description": "Wild animal that howls in packs",
+   "Description": "Bheriya; wild animal that howls in packs",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2796,12 +2796,12 @@
     "Description": "A wild canine",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-216",
    "Name": "Snake",
-   "Description": "Legless reptile that slithers",
+   "Description": "Saanp; legless reptile that slithers",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2809,7 +2809,7 @@
     "Description": "A reptile",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-217",
@@ -2827,7 +2827,7 @@
   {
    "id": "game1-218",
    "Name": "Turtle",
-   "Description": "Slow reptile with a shell",
+   "Description": "Kachhua; slow reptile with a shell",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2835,12 +2835,12 @@
     "Description": "A shelled reptile",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-219",
    "Name": "Frog",
-   "Description": "Croaking amphibian that jumps",
+   "Description": "Mendak; croaking amphibian that jumps",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2848,7 +2848,7 @@
     "Description": "An amphibian",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-220",
@@ -2931,7 +2931,7 @@
   {
    "id": "game1-226",
    "Name": "Parrot",
-   "Description": "Green bird that can talk",
+   "Description": "Tota; green bird that can talk",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2939,12 +2939,12 @@
     "Description": "A colorful bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the common Urdu name."
   },
   {
    "id": "game1-227",
    "Name": "Crow",
-   "Description": "Black bird that caws",
+   "Description": "Kawwa; black bird whose caw means guests coming",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2952,7 +2952,7 @@
     "Description": "A black bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name and the familiar desi saying about guests."
   },
   {
    "id": "game1-228",
@@ -3295,7 +3295,7 @@
   {
    "id": "game1-254",
    "Name": "Polo",
-   "Description": "Played on horseback with mallets",
+   "Description": "Horseback mallet sport; Shandur festival",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3303,7 +3303,7 @@
     "Description": "A horse sport",
     "Category": "Sports"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the well-known Shandur Polo Festival reference."
   },
   {
    "id": "game1-255",
@@ -3620,7 +3620,7 @@
   {
    "id": "game1-279",
    "Name": "Hiran Minar",
-   "Description": "Jahangir's tower for his pet antelope",
+   "Description": "Jahangir's tower for his pet antelope, Sheikhupura",
    "Category": "Historical Places",
    "action": "edit",
    "original": {
@@ -3628,12 +3628,12 @@
     "Description": "A historic monument",
     "Category": "Historical Places"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the location (Sheikhupura), which is accurate."
   },
   {
    "id": "game1-280",
    "Name": "Katas Raj",
-   "Description": "Ancient temples with pond, Chakwal",
+   "Description": "Ancient Hindu temples around a pond, Chakwal",
    "Category": "Historical Places",
    "action": "edit",
    "original": {
@@ -3641,7 +3641,7 @@
     "Description": "A historic temple complex",
     "Category": "Historical Places"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Clearer, more specific wording that is accurate."
   },
   {
    "id": "game1-281",
@@ -3698,7 +3698,7 @@
   {
    "id": "game1-285",
    "Name": "Noor Mahal",
-   "Description": "White palace in Bahawalpur",
+   "Description": "Nawab's white palace in Bahawalpur",
    "Category": "Historical Places",
    "action": "edit",
    "original": {
@@ -3706,7 +3706,7 @@
     "Description": "A historic palace",
     "Category": "Historical Places"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: More specific: it was built by the Nawab of Bahawalpur."
   },
   {
    "id": "game1-286",
@@ -3867,7 +3867,7 @@
   {
    "id": "game1-298",
    "Name": "Soldier",
-   "Description": "Serves in the army",
+   "Description": "Fauji; serves in the army",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3875,7 +3875,7 @@
     "Description": "A military professional",
     "Category": "Occupations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the everyday local word."
   },
   {
    "id": "game1-299",
@@ -3932,7 +3932,7 @@
   {
    "id": "game1-303",
    "Name": "Farmer",
-   "Description": "Grows crops in fields",
+   "Description": "Kisaan; grows crops in fields",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3940,7 +3940,7 @@
     "Description": "An agricultural worker",
     "Category": "Occupations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds the Urdu name."
   },
   {
    "id": "game1-304",

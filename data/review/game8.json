@@ -4438,16 +4438,16 @@
   },
   {
    "id": "game8-342",
-   "Name": "NOT SAFE! <---> DOG-SITTER 5000",
-   "Description": "Draw a robot that is this safe to babysit a puppy",
+   "Name": "NOT SAFE! <---> BABYSITTER 5000",
+   "Description": "Draw a robot that is this safe to leave in charge of your baby cousin",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT SAFE! <---> DOG-SITTER 5000",
     "Description": "Draw a robot that is this safe to babysit a puppy",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Puppy-sitting is a Western frame; looking after a baby cousin keeps the joke and is more relatable locally."
   },
   {
    "id": "game8-343",
@@ -4569,15 +4569,15 @@
   {
    "id": "game8-352",
    "Name": "10 YEARS OLD <---> 100 YEARS OLD",
-   "Description": "Draw the favorite meal for someone this many years old",
+   "Description": "Draw the favourite meal of someone this many years old",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "10 YEARS OLD <---> 100 YEARS OLD",
     "Description": "Draw the favorite meal for someone this many years old",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: British/Pakistani spelling, matching the rest of the deck, and smoother grammar."
   },
   {
    "id": "game8-353",
@@ -4738,15 +4738,15 @@
   {
    "id": "game8-365",
    "Name": "NORMAL <---> VERY CREEPY",
-   "Description": "Draw a logo for a dentist office that is this creepy",
+   "Description": "Draw a logo for a dentist's clinic that is this creepy",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NORMAL <---> VERY CREEPY",
     "Description": "Draw a logo for a dentist office that is this creepy",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Uses the local term 'dentist's clinic' instead of the American 'dentist office'."
   },
   {
    "id": "game8-366",
@@ -5050,15 +5050,15 @@
   {
    "id": "game8-389",
    "Name": "TASTELESS <---> WAY TOO SPICY",
-   "Description": "Draw chicken wings that are probably this spicy",
+   "Description": "Draw a plate of chicken karahi that is probably this spicy",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "TASTELESS <---> WAY TOO SPICY",
     "Description": "Draw chicken wings that are probably this spicy",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Chicken wings are US bar food; karahi is the local spicy dish and is just as easy to draw."
   },
   {
    "id": "game8-390",
@@ -5205,7 +5205,7 @@
   },
   {
    "id": "game8-401",
-   "Name": "NOT IN IT <---> M IS FOR MONSTER",
+   "Name": "TOO SCARY FOR KIDS <---> M IS FOR MONSTER",
    "Description": "Draw a monster that is this likely to appear in a children's alphabet book",
    "Category": "Drawing",
    "action": "edit",
@@ -5214,7 +5214,7 @@
     "Description": "Draw a monster that is this likely to be on Sesame Street",
     "Category": "Drawing"
    },
-   "note": "TV show reference removed; Debate: Replaces the confusing 'N IS FOR NO' pun with a plain opposite."
+   "note": "TV show reference removed; Debate: Replaces the confusing 'N IS FOR NO' pun with a plain opposite.; Debate: Fixes the unclear left end and keeps a playable card. It measures child-friendliness, which no other monster card does."
   },
   {
    "id": "game8-402",
@@ -5296,7 +5296,7 @@
   },
   {
    "id": "game8-408",
-   "Name": "NANI NAY <---> NANI YAY",
+   "Name": "NEVER IN HER BAG <---> ALWAYS IN HER BAG",
    "Description": "Draw a snack that is this likely to be in Nani's handbag",
    "Category": "Drawing",
    "action": "edit",
@@ -5305,7 +5305,7 @@
     "Description": "Draw a snack that is this likely to be in a grandma’s purse",
     "Category": "Drawing"
    },
-   "note": "Debate: Local framing that matches the deck's other Nani cards and keeps the rhyme."
+   "note": "Debate: Local framing that matches the deck's other Nani cards and keeps the rhyme.; Debate: 'NANI NAY / NANI YAY' reads as approval, not likelihood; the new ends are clear opposites that match the task."
   },
   {
    "id": "game8-409",
@@ -9438,6 +9438,62 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Rishta-profile card on a new scale (pickiness)"
+  },
+  {
+   "id": null,
+   "Name": "NO BACKUP <---> NEVER GOES DARK",
+   "Description": "Draw a robot that is this prepared for loadshedding",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Local robot card about loadshedding; no card in the deck covers it."
+  },
+  {
+   "id": null,
+   "Name": "100% BATTERY <---> 1% BATTERY",
+   "Description": "Draw the face of a person whose phone battery is this low",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A relatable face-drawing card; the deck has no battery card."
+  },
+  {
+   "id": null,
+   "Name": "NOT DESI <---> FULL DESI",
+   "Description": "Draw a living room that is this desi",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Local desi-scale drawing card without adding another robot card. The deck already has 20+ robot cards, and the only other desi-scale card is a Writing task."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> HEAVY KAAM",
+   "Description": "Draw a dupatta with this much embroidery on it",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A local outfit item that is easy to draw; no dupatta card exists."
+  },
+  {
+   "id": null,
+   "Name": "BRAND NEW <---> HELD TOGETHER WITH TAPE",
+   "Description": "Draw a TV remote that has been patched up this much",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A classic desi-household joke; no remote card exists."
+  },
+  {
+   "id": null,
+   "Name": "BARELY STUFFED <---> BURSTING",
+   "Description": "Draw a paratha roll stuffed with this much filling",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): A local food card with clear opposite ends; no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Name": "TINY <---> TOWERING",
+   "Description": "Draw a gola ganda that is this tall",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Local street treat. The ends now match the height task and drop the wrong ice-cream term 'scoop'."
   }
  ]
 }
