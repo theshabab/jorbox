@@ -4046,12 +4046,12 @@
   },
   {
    "id": "game12-450",
-   "Name": "Pool",
-   "action": "keep",
+   "Name": "Swimming Pool",
+   "action": "edit",
    "original": {
     "Name": "Pool"
    },
-   "note": ""
+   "note": "Debate: 'Pool' could mean a swimming pool, billiards or a car pool; 'Swimming Pool' is clear and easy to act. No Swimming or Billiards card exists."
   },
   {
    "id": "game12-451",
@@ -10121,6 +10121,60 @@
    "Name": "Pilot",
    "action": "add",
    "note": "New card (debate): Checked: not in the deck. A clear occupation noun that is easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Rehri",
+   "action": "add",
+   "note": "New card (debate): A well-known Pakistani street-vendor cart. No Rehri or Thela card exists, and 'Cart' is generic."
+  },
+  {
+   "id": null,
+   "Name": "Shark",
+   "action": "add",
+   "note": "New card (debate): Easy to act and draw, and not in the deck or any earlier additions."
+  },
+  {
+   "id": null,
+   "Name": "Snail",
+   "action": "add",
+   "note": "New card (debate): Simple animal that is easy to draw, and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Sheep",
+   "action": "add",
+   "note": "New card (debate): A common animal and a Qurbani animal. Only Goat and Cow exist; there is no Sheep, Lamb or Ram card."
+  },
+  {
+   "id": null,
+   "Name": "Rooster",
+   "action": "add",
+   "note": "New card (debate): A different noun from Chicken, and the crow makes it easy to act."
+  },
+  {
+   "id": null,
+   "Name": "Sunflower",
+   "action": "add",
+   "note": "New card (debate): A specific plant that is easy to draw. Only the generic 'Flower' exists."
+  },
+  {
+   "id": null,
+   "Name": "Rasgulla",
+   "action": "add",
+   "note": "New card (debate): A popular mithai that differs from Gulab Jamun, and it is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Paye",
+   "action": "add",
+   "note": "New card (debate): A classic Pakistani dish that differs from Nihari, and it is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Weighing Scale",
+   "action": "add",
+   "note": "New card (debate): An everyday object; 'Weighing' rules out the ruler and fish-scale meanings. No Scale or Tarazu card exists."
   }
  ]
 }

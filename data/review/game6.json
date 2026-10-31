@@ -204,11 +204,11 @@
   {
    "id": "game6-23",
    "Description": "Clothing Items",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Clothing Items"
    },
-   "note": ""
+   "note": "Debate: Duplicate: Men's Clothing, Women's Clothing, Traditional Pakistani Clothes, Footwear, Fashion Accessories and Things You Wear on Your Head already cover its answers."
   },
   {
    "id": "game6-24",
@@ -293,12 +293,12 @@
   },
   {
    "id": "game6-33",
-   "Description": "Months",
-   "action": "keep",
+   "Description": "Months of Any Calendar (English, Islamic or Desi)",
+   "action": "edit",
    "original": {
     "Description": "Months"
    },
-   "note": ""
+   "note": "Debate: English months alone are a fixed 12-word recitation. Adding Islamic and desi (Bikrami: Chet, Sawan, Bhadon, Poh...) months gives about 36 answers and absorbs the Islamic Months card."
   },
   {
    "id": "game6-34",
@@ -464,21 +464,21 @@
   },
   {
    "id": "game6-52",
-   "Description": "Pashto Words",
-   "action": "keep",
+   "Description": "Pashto, Sindhi or Balochi Words",
+   "action": "edit",
    "original": {
     "Description": "Pashto Words"
    },
-   "note": ""
+   "note": "Debate: Each language alone gives mixed groups only a handful of known words; combined they make a playable round."
   },
   {
    "id": "game6-53",
    "Description": "Sindhi Words",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Sindhi Words"
    },
-   "note": ""
+   "note": "Debate: Too narrow alone; merged into the Pashto/Sindhi/Balochi card (P3)."
   },
   {
    "id": "game6-54",
@@ -501,11 +501,11 @@
   {
    "id": "game6-56",
    "Description": "Islamic Months",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Islamic Months"
    },
-   "note": ""
+   "note": "Debate: Duplicate of the widened Months card (P1), which names the Islamic calendar outright."
   },
   {
    "id": "game6-57",
@@ -797,12 +797,12 @@
   },
   {
    "id": "game6-89",
-   "Description": "Meat Types",
-   "action": "keep",
+   "Description": "Meat Types and Cuts (Raan, Nalli, Kaleji...)",
+   "action": "edit",
    "original": {
     "Description": "Meat Types"
    },
-   "note": ""
+   "note": "Debate: Plain meat types run out after about 8 answers; desi cuts and offal (raan, chaanp, nalli, paya, maghaz, kaleji, gurda, qeema) make it longer and local, and no other card covers cuts."
   },
   {
    "id": "game6-90",
@@ -3578,6 +3578,42 @@
    "Description": "Things You Can Buy for Under 100 Rupees",
    "action": "add",
    "note": "New card (debate): A local everyday category that starts inflation arguments: toffee, matchbox, pencil, eraser, sharpener, pakora, roti, small water bottle, balloon, chewing gum. The reason uses the challenger's cleaned-up wording."
+  },
+  {
+   "id": null,
+   "Description": "Pakistani Cities and the Food They Are Famous For",
+   "action": "add",
+   "note": "New card (debate): Very local, and players know many pairs (Multan sohan halwa, Peshawar chapli kebab, Sargodha kinnu, Hyderabad rabri, Gujranwala paye, Kasur methi). Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Urdu Words Starting With 'Be' (Like Bekaar)",
+   "action": "add",
+   "note": "New card (debate): Many common answers (bewaqoof, besharam, bechain, beimaan, behosh, beghar, bekhabar, besabar, beparwah); no prefix card exists in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Famous Bazaars and Markets in Pakistan",
+   "action": "add",
+   "note": "New card (debate): Widely known places (Anarkali, Liberty, Bohri Bazaar, Saddar, Tariq Road, Raja Bazaar, Qissa Khwani, Jinnah Super); distinct from card 401, which asks for items at a Sunday Bazaar."
+  },
+  {
+   "id": null,
+   "Description": "Cities in Muslim-Majority Countries (Not Pakistan)",
+   "action": "add",
+   "note": "New card (debate): The challenger's amended wording. It gives world cities in a Muslim-world frame (Makkah, Madinah, Istanbul, Cairo, Dubai, Jakarta, Tehran, Baghdad, Samarkand) and sets a clear rule, so it does not overlap Pakistani Cities or card 459, which asks for countries."
+  },
+  {
+   "id": null,
+   "Description": "Places in Pakistan Ending in -pur",
+   "action": "add",
+   "note": "New card (debate): Companion to the -abad card, with many answers (Bahawalpur, Mirpur, Haripur, Khairpur, Shikarpur, Rajanpur, Khanpur, Dipalpur, Jampur, Liaquatpur)."
+  },
+  {
+   "id": null,
+   "Description": "Motorbike Brands in Pakistan",
+   "action": "add",
+   "note": "New card (debate): Familiar to Pakistani players (Honda, Yamaha, Suzuki, United, Road Prince, Unique, Super Power, Hi-Speed, Super Star, Ravi, Kawasaki); card 226 covers cars only."
   }
  ]
 }

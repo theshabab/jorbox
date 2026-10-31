@@ -18813,10 +18813,10 @@
   },
   {
    "id": null,
-   "Description": "a tiffin box with too many floors",
+   "Description": "a tiffin carrier with so many tiers it reaches the ceiling",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): Local, visual object joke. No tiffin card in the deck."
+   "note": "New card (debate): Local, visual object joke. No tiffin card in the deck.; Debate: 'Too many floors' is unclear; the new wording is clearer and easier to draw."
   },
   {
    "id": null,
@@ -19079,10 +19079,10 @@
   },
   {
    "id": null,
-   "Description": "umpire giving a cow out LBW",
+   "Description": "an umpire giving a cow out LBW",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): Cricket joke that draws well. There is no umpire or LBW card."
+   "note": "New card (debate): Cricket joke that draws well. There is no umpire or LBW card.; Debate: Grammar: adds the missing article."
   },
   {
    "id": null,
@@ -19377,6 +19377,76 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Complements card 1681 (no Eidi) from the opposite angle. 1681 is the only Eidi card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a rickshaw decorated more than the dulha's car",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local wedding and street gag that is easy to draw; the existing rickshaw cards are different jokes."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> at the Wagah border ceremony, kicking higher than the Rangers",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Accurate (Pakistan Rangers do the high kicks), affectionate and drawable; no Wagah card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a gola ganda taller than the kid holding it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local summer street-food visual gag; no gola ganda card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> seeing snow for the first time on Mall Road, Murree",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: keeps the Murree idea and avoids the 2022 snow-traffic tragedy; affectionate and drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> sitting on the suitcase to make it close before the flight",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Common, drawable packing moment; the existing suitcase cards are different jokes."
+  },
+  {
+   "id": null,
+   "Description": "a solar panel on the roof taking a sunbath with sunglasses on",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Topical, drawable household gag; no solar card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a mehndi aunty decorating the cat's paws",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Cute desi visual; different from 'dad's new mehndi design'."
+  },
+  {
+   "id": null,
+   "Description": "an aandhi blowing all the washing off the roof like kites",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local dust-storm gag; no aandhi card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> using the car horn more than the brakes",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording of a light-hearted Pakistani-traffic prompt; no horn card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the mohalla's self-appointed security guard",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, drawable mohalla prompt; not a duplicate of the existing mohalla cat cards."
   }
  ]
 }
