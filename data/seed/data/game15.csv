@@ -1049,7 +1049,7 @@ Mouse,85%,Genetic Similarity to Humans
 Cow,80%,Genetic Similarity to Humans
 Chimp,98.8%,Genetic Similarity to Humans
 Earth,0.0007 RPM (1 turn a day),Spinning Objects By Rotation Speed (RPM)
-Fairground Ride,About 24 RPM,Spinning Objects By Rotation Speed (RPM)
+Merry-go-round,About 5 RPM,Spinning Objects By Rotation Speed (RPM)
 Bicycle Wheel (at 20 km/h),About 160 RPM,Spinning Objects By Rotation Speed (RPM)
 Ceiling Fan,About 300 RPM,Spinning Objects By Rotation Speed (RPM)
 Washing Machine,About 800 RPM (spin),Spinning Objects By Rotation Speed (RPM)
@@ -1057,7 +1057,7 @@ Hard Drive,"7,200 RPM",Spinning Objects By Rotation Speed (RPM)
 Dentist Drill,"Up to 400,000 RPM",Spinning Objects By Rotation Speed (RPM)
 Genghis Khan,21 years (1206-1227),Length of Reign (Years)
 Augustus Caesar,40 years (27 BC-AD 14),Length of Reign (Years)
-Elizabeth I,44 years (1558-1603),Length of Reign (Years)
+Suleiman the Magnificent,46 years (1520-1566),Length of Reign (Years)
 Queen Victoria,63 years (1837-1901),Length of Reign (Years)
 Elizabeth II,70 years (1952-2022),Length of Reign (Years)
 Louis XIV,72 years (1643-1715),Length of Reign (Years)
@@ -1073,22 +1073,22 @@ Opossum,About 3 kg,Marsupials (Average Weight)
 Koala,About 9 kg,Marsupials (Average Weight)
 Wombat,About 27 kg,Marsupials (Average Weight)
 Red Kangaroo,About 65 kg,Marsupials (Average Weight)
-Mouse,0.7 oz (about 20 g),Rodents - Average Weight (Light to Heavy)
-Hamster,4 oz (about 110 g),Rodents - Average Weight (Light to Heavy)
-Squirrel,1 lb (about 450 g),Rodents - Average Weight (Light to Heavy)
-Guinea Pig,2 lbs (about 0.9 kg),Rodents - Average Weight (Light to Heavy)
-Porcupine,20 lbs (about 9 kg),Rodents - Average Weight (Light to Heavy)
-Beaver,50 lbs (about 23 kg),Rodents - Average Weight (Light to Heavy)
-Capybara,100+ lbs (about 50 kg),Rodents - Average Weight (Light to Heavy)
-"Largest Pizza (Rome, 2012)","About 40 m across (1,261 sq m)",Record-Breaking Objects (Longest Side - Short to Long)
+Mouse,About 20 g,Rodents - Average Weight (Light to Heavy)
+Hamster,About 110 g,Rodents - Average Weight (Light to Heavy)
+Grey Squirrel,About 500 g,Rodents - Average Weight (Light to Heavy)
+Guinea Pig,About 0.9 kg,Rodents - Average Weight (Light to Heavy)
+Porcupine (Sehi),About 12 kg,Rodents - Average Weight (Light to Heavy)
+Beaver,About 23 kg,Rodents - Average Weight (Light to Heavy)
+Capybara,About 50 kg,Rodents - Average Weight (Light to Heavy)
+"Giant Round Pizza (Rome, 2012)","About 40 m across (1,261 sq m)",Record-Breaking Objects (Longest Side - Short to Long)
 "Largest Book (Dubai, 2012)",8.06 m long (5 x 8.06 m),Record-Breaking Objects (Longest Side - Short to Long)
 "Giant Rubber Duck (Hong Kong, 2013)",16.5 m tall,Record-Breaking Objects (Longest Side - Short to Long)
-Largest Swimming Pool (Chile),"1,013 m long",Record-Breaking Objects (Longest Side - Short to Long)
+San Alfonso del Mar Pool (Chile),"1,013 m long",Record-Breaking Objects (Longest Side - Short to Long)
 Tallest Building (Burj Khalifa),828 m tall,Record-Breaking Objects (Longest Side - Short to Long)
 Barleycorn,0.33 inch,Uncommon Measurements by Length
 Hand,4 inches,Uncommon Measurements by Length
-Span,9 inches,Uncommon Measurements by Length
-Cubit,18 inches,Uncommon Measurements by Length
+Span (Balisht),9 inches,Uncommon Measurements by Length
+Cubit (Haath),18 inches,Uncommon Measurements by Length
 Fathom,6 feet,Uncommon Measurements by Length
 Chain,66 feet,Uncommon Measurements by Length
 Furlong,660 feet,Uncommon Measurements by Length
@@ -1098,14 +1098,14 @@ Hand Towel,About 40 x 70 cm,Towel Sizes (Small to Large)
 Bath Towel,About 70 x 140 cm,Towel Sizes (Small to Large)
 Bath Sheet,About 90 x 165 cm,Towel Sizes (Small to Large)
 10 - 10,0,Math Operators on 10
-10 / 10,1,Math Operators on 10
+10 ÷ 10,1,Math Operators on 10
 10 + 10,20,Math Operators on 10
-10 * 10,100,Math Operators on 10
-10 ^ 3,"1,000",Math Operators on 10
-Sqrt(144),12,Do The Math
-5 * 25,125,Do The Math
-1000 + 40,1040,Do The Math
-100000 - 1,99999,Do The Math
+10 × 10,100,Math Operators on 10
+10³ (10 to the power 3),"1,000",Math Operators on 10
+√144 (square root of 144),12,Do The Math
+5 × 25,125,Do The Math
+"1,000 + 40","1,040",Do The Math
+"100,000 - 1","99,999",Do The Math
 Half of 6.5 Million,3.25 Million,Do The Math
 Sponges,About 600 million years ago,Animal Groups - First Fossil Appearance (Oldest First)
 Starfish,About 450 million years ago,Animal Groups - First Fossil Appearance (Oldest First)
@@ -1435,3 +1435,11 @@ Camel,65 km/h (sprint),Land Animal Speeds
 Milk,pH 6.7,Food Acidity (pH - Most to Least Acidic)
 Honda CD 70 Motorcycle,About 6 hp,How Much Horsepower
 Red Sea,"~438,000 km²",Bodies of Water By Size (km²)
+Akbar the Great,49 years (1556-1605),Length of Reign (Years)
+Shah Jahan,30 years (1628-1658),Length of Reign (Years)
+WhatsApp,2009,Social Media Sites (Launch Year)
+Al-Biruni,973,Scientists - Birth Year
+Ibn Sina (Avicenna),About 980,Scientists - Birth Year
+Gaz (desi yard),36 inches (about 91 cm),Uncommon Measurements by Length
+ChatGPT,2022,Robot and A.I. Debuts
+Naguib Mahfouz,"1988 - Literature (Egypt, first Arabic-language writer)",Nobel Prize Winners (Year)

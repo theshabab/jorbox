@@ -20064,8 +20064,8 @@
   },
   {
    "id": "game15-1544",
-   "Name": "Fairground Ride",
-   "Description": "About 24 RPM",
+   "Name": "Merry-go-round",
+   "Description": "About 5 RPM",
    "Category": "Spinning Objects By Rotation Speed (RPM)",
    "action": "edit",
    "original": {
@@ -20073,7 +20073,7 @@
     "Description": "24",
     "Category": "Spinning Objects By Rotation Speed (RPM)"
    },
-   "note": "unit; wording"
+   "note": "unit; wording; Debate: 'Fairground Ride' was vague and 24 RPM fits no typical ride; carousels turn at about 4-6 RPM. Still sits between Earth and the bicycle wheel."
   },
   {
    "id": "game15-1545",
@@ -20272,8 +20272,8 @@
   },
   {
    "id": "game15-1560",
-   "Name": "Elizabeth I",
-   "Description": "44 years (1558-1603)",
+   "Name": "Suleiman the Magnificent",
+   "Description": "46 years (1520-1566)",
    "Category": "Length of Reign (Years)",
    "action": "edit",
    "original": {
@@ -20281,7 +20281,7 @@
     "Description": "44",
     "Category": "Length of Reign (Years)"
    },
-   "note": "dates added"
+   "note": "dates added; Debate: Ottoman sultan replaces a third British monarch; 46 years is correct and ties with no other card."
   },
   {
    "id": "game15-1561",
@@ -20585,7 +20585,7 @@
   {
    "id": "game15-1584",
    "Name": "Mouse",
-   "Description": "0.7 oz (about 20 g)",
+   "Description": "About 20 g",
    "Category": "Rodents - Average Weight (Light to Heavy)",
    "action": "edit",
    "original": {
@@ -20593,12 +20593,12 @@
     "Description": "0.7 oz",
     "Category": "Average Size Of Rodents"
    },
-   "note": "added metric; category names weight"
+   "note": "added metric; category names weight; Debate: Metric only; value unchanged"
   },
   {
    "id": "game15-1585",
    "Name": "Hamster",
-   "Description": "4 oz (about 110 g)",
+   "Description": "About 110 g",
    "Category": "Rodents - Average Weight (Light to Heavy)",
    "action": "edit",
    "original": {
@@ -20606,12 +20606,12 @@
     "Description": "4 oz",
     "Category": "Average Size Of Rodents"
    },
-   "note": "added metric; category names weight"
+   "note": "added metric; category names weight; Debate: Metric only; value unchanged"
   },
   {
    "id": "game15-1586",
-   "Name": "Squirrel",
-   "Description": "1 lb (about 450 g)",
+   "Name": "Grey Squirrel",
+   "Description": "About 500 g",
    "Category": "Rodents - Average Weight (Light to Heavy)",
    "action": "edit",
    "original": {
@@ -20619,12 +20619,12 @@
     "Description": "1 lb",
     "Category": "Average Size Of Rodents"
    },
-   "note": "added metric; category names weight"
+   "note": "added metric; category names weight; Debate: Challenger amendment: names the species so players do not think of the ~100 g palm squirrel (gilehri); metric"
   },
   {
    "id": "game15-1587",
    "Name": "Guinea Pig",
-   "Description": "2 lbs (about 0.9 kg)",
+   "Description": "About 0.9 kg",
    "Category": "Rodents - Average Weight (Light to Heavy)",
    "action": "edit",
    "original": {
@@ -20632,12 +20632,12 @@
     "Description": "2 lbs",
     "Category": "Average Size Of Rodents"
    },
-   "note": "added metric; category names weight"
+   "note": "added metric; category names weight; Debate: Metric only; value unchanged"
   },
   {
    "id": "game15-1588",
-   "Name": "Porcupine",
-   "Description": "20 lbs (about 9 kg)",
+   "Name": "Porcupine (Sehi)",
+   "Description": "About 12 kg",
    "Category": "Rodents - Average Weight (Light to Heavy)",
    "action": "edit",
    "original": {
@@ -20645,12 +20645,12 @@
     "Description": "20 lbs",
     "Category": "Average Size Of Rodents"
    },
-   "note": "added metric; category names weight"
+   "note": "added metric; category names weight; Debate: Uses the Indian crested porcupine, which is native to Pakistan (11-18 kg); still lighter than a beaver"
   },
   {
    "id": "game15-1589",
    "Name": "Beaver",
-   "Description": "50 lbs (about 23 kg)",
+   "Description": "About 23 kg",
    "Category": "Rodents - Average Weight (Light to Heavy)",
    "action": "edit",
    "original": {
@@ -20658,12 +20658,12 @@
     "Description": "50 lbs",
     "Category": "Average Size Of Rodents"
    },
-   "note": "added metric; category names weight"
+   "note": "added metric; category names weight; Debate: Metric only; value unchanged"
   },
   {
    "id": "game15-1590",
    "Name": "Capybara",
-   "Description": "100+ lbs (about 50 kg)",
+   "Description": "About 50 kg",
    "Category": "Rodents - Average Weight (Light to Heavy)",
    "action": "edit",
    "original": {
@@ -20671,11 +20671,11 @@
     "Description": "100+ lbs",
     "Category": "Average Size Of Rodents"
    },
-   "note": "added metric; category names weight"
+   "note": "added metric; category names weight; Debate: Metric only; value unchanged"
   },
   {
    "id": "game15-1591",
-   "Name": "Largest Pizza (Rome, 2012)",
+   "Name": "Giant Round Pizza (Rome, 2012)",
    "Description": "About 40 m across (1,261 sq m)",
    "Category": "Record-Breaking Objects (Longest Side - Short to Long)",
    "action": "edit",
@@ -20684,7 +20684,7 @@
     "Description": "13,580 sq ft",
     "Category": "World’s Largest Objects"
    },
-   "note": "common measure (length) so items can be ordered"
+   "note": "common measure (length) so items can be ordered; Debate: A larger rectangular pizza took the 'largest pizza' record in 2023, so 'Largest' is out of date; the 40 m diameter matches 1,261 sq m"
   },
   {
    "id": "game15-1592",
@@ -20714,7 +20714,7 @@
   },
   {
    "id": "game15-1594",
-   "Name": "Largest Swimming Pool (Chile)",
+   "Name": "San Alfonso del Mar Pool (Chile)",
    "Description": "1,013 m long",
    "Category": "Record-Breaking Objects (Longest Side - Short to Long)",
    "action": "edit",
@@ -20723,7 +20723,7 @@
     "Description": "1,013 meters long",
     "Category": "World’s Largest Objects"
    },
-   "note": "clarified"
+   "note": "clarified; Debate: Challenger missed issue (labelled C2): the Citystars Sharm El Sheikh pool (2015) has taken the largest-pool record by area, so 'Largest Swimming Pool' is out of date; the 1,013 m length is still correct"
   },
   {
    "id": "game15-1595",
@@ -20766,29 +20766,29 @@
   },
   {
    "id": "game15-1598",
-   "Name": "Span",
+   "Name": "Span (Balisht)",
    "Description": "9 inches",
    "Category": "Uncommon Measurements by Length",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Span",
     "Description": "9 inches",
     "Category": "Uncommon Measurements by Length"
    },
-   "note": ""
+   "note": "Debate: Adds the familiar Urdu name"
   },
   {
    "id": "game15-1599",
-   "Name": "Cubit",
+   "Name": "Cubit (Haath)",
    "Description": "18 inches",
    "Category": "Uncommon Measurements by Length",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Cubit",
     "Description": "18 inches",
     "Category": "Uncommon Measurements by Length"
    },
-   "note": ""
+   "note": "Debate: Adds the familiar Urdu name"
   },
   {
    "id": "game15-1600",
@@ -21091,16 +21091,16 @@
   },
   {
    "id": "game15-1623",
-   "Name": "10 / 10",
+   "Name": "10 ÷ 10",
    "Description": "1",
    "Category": "Math Operators on 10",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "10 / 10",
     "Description": "1",
     "Category": "Math Operators on 10"
    },
-   "note": ""
+   "note": "Debate: Normal division sign"
   },
   {
    "id": "game15-1624",
@@ -21117,16 +21117,16 @@
   },
   {
    "id": "game15-1625",
-   "Name": "10 * 10",
+   "Name": "10 × 10",
    "Description": "100",
    "Category": "Math Operators on 10",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "10 * 10",
     "Description": "100",
     "Category": "Math Operators on 10"
    },
-   "note": ""
+   "note": "Debate: Normal multiplication sign"
   },
   {
    "id": "game15-1626",
@@ -21143,7 +21143,7 @@
   },
   {
    "id": "game15-1627",
-   "Name": "10 ^ 3",
+   "Name": "10³ (10 to the power 3)",
    "Description": "1,000",
    "Category": "Math Operators on 10",
    "action": "edit",
@@ -21152,59 +21152,59 @@
     "Description": "1000",
     "Category": "Math Operators on 10"
    },
-   "note": "formatting"
+   "note": "formatting; Debate: Standard notation instead of programming '^'"
   },
   {
    "id": "game15-1628",
-   "Name": "Sqrt(144)",
+   "Name": "√144 (square root of 144)",
    "Description": "12",
    "Category": "Do The Math",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Sqrt(144)",
     "Description": "12",
     "Category": "Do The Math"
    },
-   "note": ""
+   "note": "Debate: Standard notation instead of 'Sqrt()'"
   },
   {
    "id": "game15-1629",
-   "Name": "5 * 25",
+   "Name": "5 × 25",
    "Description": "125",
    "Category": "Do The Math",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "5 * 25",
     "Description": "125",
     "Category": "Do The Math"
    },
-   "note": ""
+   "note": "Debate: Normal multiplication sign"
   },
   {
    "id": "game15-1630",
-   "Name": "1000 + 40",
-   "Description": "1040",
+   "Name": "1,000 + 40",
+   "Description": "1,040",
    "Category": "Do The Math",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "1000 + 40",
     "Description": "1040",
     "Category": "Do The Math"
    },
-   "note": ""
+   "note": "Debate: Challenger missed issue (labelled C1): adds thousands separators to match P18"
   },
   {
    "id": "game15-1631",
-   "Name": "100000 - 1",
-   "Description": "99999",
+   "Name": "100,000 - 1",
+   "Description": "99,999",
    "Category": "Do The Math",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "100000 - 1",
     "Description": "99999",
     "Category": "Do The Math"
    },
-   "note": ""
+   "note": "Debate: Thousands separators"
   },
   {
    "id": "game15-1632",
@@ -29081,6 +29081,70 @@
    "Category": "Bodies of Water By Size (km²)",
    "action": "add",
    "note": "New card (debate): A Muslim-world sea that fills the gap between Lake Victoria and the Mediterranean."
+  },
+  {
+   "id": null,
+   "Name": "Akbar the Great",
+   "Description": "49 years (1556-1605)",
+   "Category": "Length of Reign (Years)",
+   "action": "add",
+   "note": "New card (debate): Mughal emperor gives the category a local frame; ties with no other reign"
+  },
+  {
+   "id": null,
+   "Name": "Shah Jahan",
+   "Description": "30 years (1628-1658)",
+   "Category": "Length of Reign (Years)",
+   "action": "add",
+   "note": "New card (debate): Well-known Mughal emperor; fills the gap between 21 and 40 years"
+  },
+  {
+   "id": null,
+   "Name": "WhatsApp",
+   "Description": "2009",
+   "Category": "Social Media Sites (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Most familiar app for Pakistani families; no year tie (Tumblr 2007, Instagram 2010)"
+  },
+  {
+   "id": null,
+   "Name": "Al-Biruni",
+   "Description": "973",
+   "Category": "Scientists - Birth Year",
+   "action": "add",
+   "note": "New card (debate): Muslim scholar who measured the Earth's radius at Nandana, in what is now Pakistan; no tie"
+  },
+  {
+   "id": null,
+   "Name": "Ibn Sina (Avicenna)",
+   "Description": "About 980",
+   "Category": "Scientists - Birth Year",
+   "action": "add",
+   "note": "New card (debate): Famous Muslim physician, born about 980; no tie with Al-Biruni"
+  },
+  {
+   "id": null,
+   "Name": "Gaz (desi yard)",
+   "Description": "36 inches (about 91 cm)",
+   "Category": "Uncommon Measurements by Length",
+   "action": "add",
+   "note": "New card (debate): Pakistani cloth-shop unit; sits between cubit (18 in) and fathom (6 ft)"
+  },
+  {
+   "id": null,
+   "Name": "ChatGPT",
+   "Description": "2022",
+   "Category": "Robot and A.I. Debuts",
+   "action": "add",
+   "note": "New card (debate): Best-known AI debut, released November 2022; no tie"
+  },
+  {
+   "id": null,
+   "Name": "Naguib Mahfouz",
+   "Description": "1988 - Literature (Egypt, first Arabic-language writer)",
+   "Category": "Nobel Prize Winners (Year)",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: Sadat won in 1978, so Mahfouz was not the first Arab laureate; he was the first Arabic-language writer to win the Literature prize. Muslim-world laureate; no year tie."
   }
  ]
 }

@@ -14437,14 +14437,14 @@
   },
   {
    "id": "game7-1313",
-   "Description": "opossum taking a selfie",
+   "Description": "mongoose taking a selfie",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "opossum taking a selfie",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Opossum is a US animal; a mongoose is local and keeps the joke."
   },
   {
    "id": "game7-1314",
@@ -14701,14 +14701,14 @@
   },
   {
    "id": "game7-1337",
-   "Description": "the pretzel of my dreams",
+   "Description": "the jalebi of my dreams",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the pretzel of my dreams",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: pretzel is Western. A jalebi is a single twisted shape that is easy to draw, while halwa puri is a hard-to-draw plate."
   },
   {
    "id": "game7-1338",
@@ -14844,14 +14844,14 @@
   },
   {
    "id": "game7-1350",
-   "Description": "bee buying pollen in a dark alley",
+   "Description": "bee haggling for pollen in the bazaar",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "bee buying pollen in a dark alley",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Buying in a dark alley' parodies a drug deal; a bazaar keeps the bee-shopper joke in a clean, local frame."
   },
   {
    "id": "game7-1351",
@@ -14987,14 +14987,14 @@
   },
   {
    "id": "game7-1363",
-   "Description": "snowcat attacking beam of sunlight",
+   "Description": "cat attacking a beam of sunlight",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "snowcat attacking beam of sunlight",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Snowcat' is also a snow vehicle. This keeps the image and fixes the missing article."
   },
   {
    "id": "game7-1364",
@@ -15185,14 +15185,14 @@
   },
   {
    "id": "game7-1381",
-   "Description": "my heart is a garbage disposal",
+   "Description": "my heart is a garbage truck",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "my heart is a garbage disposal",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: A garbage disposal is a US kitchen appliance that is rare in Pakistan; a garbage truck keeps the joke."
   },
   {
    "id": "game7-1382",
@@ -19160,6 +19160,62 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Absurd and drawable; no existing fish card overlaps."
+  },
+  {
+   "id": null,
+   "Description": "a paratha used as a parachute",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New: an absurd local food image that is easy to draw and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a chappal sailing like a boat down a rainy street",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: a familiar monsoon moment without referring to deadly floods."
+  },
+  {
+   "id": null,
+   "Description": "an umbrella flying off with its owner in the monsoon wind",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New: a funny, drawable weather scene."
+  },
+  {
+   "id": null,
+   "Description": "a balloon seller floating away over the bazaar",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New: a local street scene with an easy-to-draw twist."
+  },
+  {
+   "id": null,
+   "Description": "a cloud raining only on Abbu's freshly washed car",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New: an affectionate family joke that is simple to draw."
+  },
+  {
+   "id": null,
+   "Description": "a buffalo waiting at the bus stop with a briefcase",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New: an absurd animal commuter that is drawable and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a squirrel stealing mangoes from the neighbour's tree",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New: a local summer image that is easy to draw."
+  },
+  {
+   "id": null,
+   "Description": "a bicycle carrying a whole sofa through traffic",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New: a familiar overloaded-bike sight that is easy to draw."
   }
  ]
 }

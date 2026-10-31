@@ -5206,7 +5206,7 @@
   {
    "id": "game3-401",
    "Name": "The funniest word I can think of is...",
-   "Description": "My middle name is...|A word you never want to hear is...|The weirdest animal is probably the...|My favorite Urdu word is...",
+   "Description": "A word my nani always uses is...|A word you never want to hear is...|The weirdest animal is probably the...|My favorite Urdu word is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5214,7 +5214,7 @@
     "Description": "My middle name is...|The dirtiest word I can think of is...|A word you never want to hear is...|The weirdest animal is probably the...",
     "Category": "Writing"
    },
-   "note": "removed crude decoy"
+   "note": "removed crude decoy; Debate: Most Pakistanis have no middle name, so \"My middle name is...\" was a weak decoy. It is now a local word prompt."
   },
   {
    "id": "game3-402",
@@ -5544,7 +5544,7 @@
   {
    "id": "game3-427",
    "Name": "Something I do every morning is...",
-   "Description": "My favorite breakfast food/drink is...|I admire other people who do this...|The first thing I’d do if I were invisible is...|The first thing I’d do if I were prime minister is...|The first thing I do when I wake up is...|Something I do every day is...|Something I do most every weekend is...|A habit I wish I could get into is...|A chore that I hate to do is...",
+   "Description": "My favorite breakfast food/drink is...|I admire other people who do this...|The first thing I’d do if I were invisible is...|The first thing I’d do if I were prime minister is...|The first thing I do when I wake up is...|Something I do every day is...|Something I do almost every weekend is...|A habit I wish I could get into is...|A chore that I hate to do is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5552,7 +5552,7 @@
     "Description": "My favorite breakfast food/drink is...|I admire other people who do this...|The first thing I’d do if I were Wonder Woman is...|The first thing I’d do if I were president is...|The first thing I do when I wake up is...|Something I do every day is...|Something I do most every weekend is...|A habit I wish I could get into is...|A chore that I hate to do is...",
     "Category": "Writing"
    },
-   "note": "replaced Wonder Woman decoy; president→prime minister"
+   "note": "replaced Wonder Woman decoy; president→prime minister; Debate: Grammar fix: \"most every weekend\" is now \"almost every weekend\"."
   },
   {
    "id": "game3-428",
@@ -5713,7 +5713,7 @@
   {
    "id": "game3-440",
    "Name": "The animal I’ve always wanted as a pet is a...",
-   "Description": "An animal that smells really bad is...|An odd animal I would consider eating is a...|An animal I’d name my cricket team after is a...|My favorite dinosaur is...|The worst animal to get bit by would be...|My favorite zoo animal is...|The cutest animal alive is...|The coolest fictional animal is...|The animal closest to my personality is a...",
+   "Description": "An animal that smells really bad is...|An odd animal I would consider eating is a...|An animal I’d name my cricket team after is a...|My favorite dinosaur is...|The worst animal to get bitten by would be...|My favorite zoo animal is...|The cutest animal alive is...|The coolest fictional animal is...|The animal closest to my personality is a...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5721,7 +5721,7 @@
     "Description": "An animal that smells really bad is...|An odd animal I would consider eating is a...|An animal I would get as a tattoo is a...|My favorite dinosaur is...|The worst animal to get bit by would be...|My favorite zoo animal is...|The cutest animal alive is...|The coolest fictional animal is...|The animal closest to my personality is a...",
     "Category": "Writing"
    },
-   "note": "replaced tattoo decoy"
+   "note": "replaced tattoo decoy; Debate: Grammar fix: \"get bit by\" is now \"get bitten by\"."
   },
   {
    "id": "game3-441",
@@ -6181,15 +6181,15 @@
   {
    "id": "game3-476",
    "Name": "One of the best gifts I ever got was...",
-   "Description": "The grossest thing I’ve ever touched is...|The most expensive thing I own is...|The item in my home I’ve had the longest is...|The grossest thing I’ve ever stepped in was...|The best superpower would be...|My favorite article of clothing is my...|The best gift I’ve ever given someone was...|A gift I never use is...|My favorite book is...",
+   "Description": "The grossest thing I’ve ever touched is...|The most expensive thing I own is...|The item in my home I’ve had the longest is...|The weirdest thing I’ve ever stepped on was...|The best superpower would be...|My favorite article of clothing is my...|The best gift I’ve ever given someone was...|A gift I never use is...|My favorite book is...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "One of the best gifts I ever got was...",
     "Description": "The grossest thing I’ve ever touched is...|The most expensive thing I own is...|The item in my home I’ve had the longest is...|The grossest thing I’ve ever stepped in was...|The best superpower would be...|My favorite article of clothing is my...|The best gift I’ve ever given someone was...|A gift I never use is...|My favorite book is...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: \"The grossest thing I’ve ever stepped in\" invites bathroom-type answers, which the owner does not allow. Changed it to \"the weirdest thing I’ve ever stepped on\"."
   },
   {
    "id": "game3-477",
@@ -6311,7 +6311,7 @@
   {
    "id": "game3-486",
    "Name": "A country I want to visit is...",
-   "Description": "The country with the most beautiful natural landmarks is...|The name of a country I can never spell is...|The next closest country is...|My favorite fictional location is...|A landmark I want to see is...|A city I want to visit is...",
+   "Description": "The country with the most beautiful natural landmarks is...|The name of a country I can never spell is...|The country closest to Pakistan is...|My favorite fictional location is...|A landmark I want to see is...|A city I want to visit is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -6319,7 +6319,7 @@
     "Description": "The country with the most beautiful natural landmarks is...|The name of a country I can never spell is....|The next closest country is...|My favorite fictional location is...|A landmark I want to see is...|A city I want to visit is...",
     "Category": "Writing"
    },
-   "note": "Debate: Challenger's missed issue C7: four dots become an ellipsis."
+   "note": "Debate: Challenger's missed issue C7: four dots become an ellipsis.; Debate: \"The next closest country\" had no reference point. It now names Pakistan."
   },
   {
    "id": "game3-487",
@@ -6557,7 +6557,7 @@
   },
   {
    "id": "game3-505",
-   "Name": "Taxidermy is not creepy.",
+   "Name": "Stuffed animal heads on walls are not creepy.",
    "Description": "I could gut and clean a fish.|I’m a cat person.|If I hunted, I would eat what I kill.|I love scary stories.|I could eat seven samosas in fifteen minutes.|I would visit a real dinosaur park.",
    "Category": "Rating",
    "action": "edit",
@@ -6566,12 +6566,12 @@
     "Description": "I could gut and clean a fish.|I’m a cat person.|If I hunted, I would eat what I kill.|I love Halloween.|I could eat seven hot dogs in fifteen minutes.|I would visit a real <i>Jurassic Park</i>.",
     "Category": "Rating"
    },
-   "note": "replaced Halloween/film/hot dog decoys"
+   "note": "replaced Halloween/film/hot dog decoys; Debate: \"Taxidermy\" is an unfamiliar word for many players. Reworded it in plain language and kept the idea."
   },
   {
    "id": "game3-506",
    "Name": "I 100% saw a ghost one time.",
-   "Description": "I believe in the Yeti.|I’m a people person.|Alien life exists.",
+   "Description": "I believe in the Yeti.|I’m a people person.|Alien life exists.|A jinn once moved things around in my house.|I believe in nazar.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6579,7 +6579,7 @@
     "Description": "I believe in Bigfoot.|I’m a people person.|Alien life exists.",
     "Category": "Rating"
    },
-   "note": "vampire/Bigfoot localised"
+   "note": "vampire/Bigfoot localised; Debate: The card had only 3 decoys. Added two close local decoys (jinn and nazar, both allowed by the owner)."
   },
   {
    "id": "game3-507",
@@ -10361,6 +10361,62 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): New local gift prompt, different from the existing graduate and Umrah gift cards."
+  },
+  {
+   "id": null,
+   "Name": "I am my family’s unofficial tech support.",
+   "Description": "I know a lot about technology.|I always get the newest gadget.|I’m intimidated by new technology.|I’m the person everyone calls in an emergency.|I spend too much time on my phone.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New relatable Rating card. The deck has no tech-support card."
+  },
+  {
+   "id": null,
+   "Name": "The best thing to have with chai is...",
+   "Description": "The best thing to eat with paratha is...|The best snack on a rainy evening is...|My favorite biscuit is...|The best thing to dip in doodh is...|A great snack to serve guests is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local food Writing card. The deck has no chai-pairing prompt."
+  },
+  {
+   "id": null,
+   "Name": "Something a cricket commentator always says is...",
+   "Description": "Something a news anchor always says is...|Something a bus conductor always shouts is...|Something a cricket coach always shouts is...|Something a referee always says is...|Something a crowd chants at a match is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New Writing card with local catchphrase humour."
+  },
+  {
+   "id": null,
+   "Name": "I wake up for Fajr without an alarm.",
+   "Description": "I’m a morning person.|I hit snooze at least three times every morning.|I go to sleep right after Isha.|I wake up before everyone else at home.|I can sleep anywhere.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New worship-related personal Rating card (allowed by the owner). Uses the challenger's amended decoys, which replace the near-identical \"I never need an alarm\"."
+  },
+  {
+   "id": null,
+   "Name": "Pakistan’s northern areas are more beautiful than Switzerland.",
+   "Description": "I’d rather holiday in the mountains than at the beach.|I’d love to live in Hunza.|Pakistan has the best food in the world.|I’ve been to the northern areas more than once.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New Rating card about local pride and travel."
+  },
+  {
+   "id": null,
+   "Name": "The most Pakistani thing about me is...",
+   "Description": "The most annoying thing about me is...|The thing my friends tease me about is...|Something only my family knows about me is...|The most old-fashioned thing about me is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New personal Writing card that should get funny local answers."
+  },
+  {
+   "id": null,
+   "Name": "The best Pakistani dish to introduce to a foreigner is...",
+   "Description": "A Pakistani dish foreigners probably can’t handle is...|The spiciest dish I’ve ever eaten is...|The most underrated Pakistani dish is...|A dish every Pakistani wedding needs is...|The best thing to eat at a dhaba is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local food Writing card. Uses the challenger's amended decoys, which drop one decoy that gets the same answers and two that copy the real prompts of cards 752 and 404."
   }
  ]
 }
