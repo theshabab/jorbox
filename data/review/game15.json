@@ -3567,16 +3567,16 @@
   },
   {
    "id": "game15-275",
-   "Name": "Cesium",
+   "Name": "Caesium",
    "Description": "55",
    "Category": "Alkali Metals (Atomic Number)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Cesium",
     "Description": "55",
     "Category": "Alkali Metals (Atomic Number)"
    },
-   "note": ""
+   "note": "Debate: Slice card idx 274 is spelled Cesium. Caesium is the IUPAC and British-based spelling used in Pakistani English and matches Aluminium in the deck; a small consistency fix."
   },
   {
    "id": "game15-276",
@@ -3905,8 +3905,8 @@
   },
   {
    "id": "game15-301",
-   "Name": "Bullet",
-   "Description": "1,000 m/s",
+   "Name": "Rifle Bullet",
+   "Description": "~900 m/s (muzzle speed)",
    "Category": "Speeds (Slow to Fast, Approx.)",
    "action": "edit",
    "original": {
@@ -3914,7 +3914,7 @@
     "Description": "1,000 m/s",
     "Category": "Speeds (Ascending order approx)"
    },
-   "note": "category name clarified"
+   "note": "category name clarified; Debate: Challenger's corrected idx (Bullet is 300, 301 is Sound in Water). Rifle bullet removes the pistol-bullet ambiguity and still sits between Sound in Air and Sound in Water."
   },
   {
    "id": "game15-302",
@@ -29385,6 +29385,70 @@
    "Category": "Pakistan's Senior ICC Titles (Chronological)",
    "action": "add",
    "note": "New card (debate): Third card, which brings the category to the 3-card minimum and completes Pakistan's senior ICC titles. India won the 2025 edition that Pakistan hosted."
+  },
+  {
+   "id": null,
+   "Name": "Shoaib Akhtar's Fastest Delivery",
+   "Description": "~45 m/s (161.3 km/h, fastest recorded ball)",
+   "Category": "Speeds (Slow to Fast, Approx.)",
+   "action": "add",
+   "note": "New card (debate): Accurate local cricket fact that fits between Cheetah and Sound in Air; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Magnesium",
+   "Description": "1.74 g/cm³",
+   "Category": "Densities of Metals (Ascending)",
+   "action": "add",
+   "note": "New card (debate): Correct value; fills the gap between Sodium and Aluminium in this category."
+  },
+  {
+   "id": null,
+   "Name": "Googol",
+   "Description": "10^100",
+   "Category": "Large Numbers (Powers of 10)",
+   "action": "add",
+   "note": "New card (debate): Exact and well known; extends the ladder past Decillion."
+  },
+  {
+   "id": null,
+   "Name": "Nibble",
+   "Description": "4 bits (half a byte)",
+   "Category": "Computer Bytes (Size - Ascending)",
+   "action": "add",
+   "note": "New card (debate): Real unit that sorts between Bit and Byte."
+  },
+  {
+   "id": null,
+   "Name": "Helium",
+   "Description": "2",
+   "Category": "Noble Gases (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Completes the noble gas group; not a duplicate within the category."
+  },
+  {
+   "id": null,
+   "Name": "Neon",
+   "Description": "10",
+   "Category": "Noble Gases (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Completes the noble gas group."
+  },
+  {
+   "id": null,
+   "Name": "Fluorine",
+   "Description": "9",
+   "Category": "Halogens (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Adds the first halogen to complete the group."
+  },
+  {
+   "id": null,
+   "Name": "Lithium",
+   "Description": "3",
+   "Category": "Alkali Metals (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Adds the lightest alkali metal; the other Lithium card is in a different category."
   }
  ]
 }

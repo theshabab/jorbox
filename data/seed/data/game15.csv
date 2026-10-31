@@ -262,7 +262,7 @@ Tennessine,117,Halogens (Atomic Number)
 Sodium,11,Alkali Metals (Atomic Number)
 Potassium,19,Alkali Metals (Atomic Number)
 Rubidium,37,Alkali Metals (Atomic Number)
-Cesium,55,Alkali Metals (Atomic Number)
+Caesium,55,Alkali Metals (Atomic Number)
 Francium,87,Alkali Metals (Atomic Number)
 Million,10^6,Large Numbers (Powers of 10)
 Billion,10^9,Large Numbers (Powers of 10)
@@ -288,7 +288,7 @@ Snail,~0.001 m/s (about 1 mm/s),"Speeds (Slow to Fast, Approx.)"
 Human Walking,1.4 m/s,"Speeds (Slow to Fast, Approx.)"
 Cheetah,30 m/s,"Speeds (Slow to Fast, Approx.)"
 Sound in Air,343 m/s,"Speeds (Slow to Fast, Approx.)"
-Bullet,"1,000 m/s","Speeds (Slow to Fast, Approx.)"
+Rifle Bullet,~900 m/s (muzzle speed),"Speeds (Slow to Fast, Approx.)"
 Sound in Water,"1,500 m/s","Speeds (Slow to Fast, Approx.)"
 Earth Escape Velocity,"11,200 m/s","Speeds (Slow to Fast, Approx.)"
 Voyager 1,"17,000 m/s","Speeds (Slow to Fast, Approx.)"
@@ -1459,3 +1459,11 @@ Al-Khwarizmi,About 780,Scientists - Birth Year
 "Cricket World Cup (Imran Khan, captain)",1992 (beat England in Melbourne),Pakistan's Senior ICC Titles (Chronological)
 "T20 World Cup (Younis Khan, captain)",2009 (beat Sri Lanka at Lord's),Pakistan's Senior ICC Titles (Chronological)
 "Champions Trophy (Sarfaraz Ahmed, captain)",2017 (beat India at The Oval),Pakistan's Senior ICC Titles (Chronological)
+Shoaib Akhtar's Fastest Delivery,"~45 m/s (161.3 km/h, fastest recorded ball)","Speeds (Slow to Fast, Approx.)"
+Magnesium,1.74 g/cm³,Densities of Metals (Ascending)
+Googol,10^100,Large Numbers (Powers of 10)
+Nibble,4 bits (half a byte),Computer Bytes (Size - Ascending)
+Helium,2,Noble Gases (Atomic Number)
+Neon,10,Noble Gases (Atomic Number)
+Fluorine,9,Halogens (Atomic Number)
+Lithium,3,Alkali Metals (Atomic Number)

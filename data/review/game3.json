@@ -1592,7 +1592,7 @@
   {
    "id": "game3-123",
    "Name": "Pakistani National Symbols",
-   "Description": "Flag|Qaumi Tarana|State Emblem|Markhor|Chukar|Jasmine|Deodar|Hockey|Urdu|Shalwar Kameez|Mango|Sugarcane Juice|Mahseer|Indus|K2|Minar e Pakistan|Mazar e Quaid|Allama Iqbal|Quaid e Azam|Crescent and Star",
+   "Description": "Flag|Qaumi Tarana|State Emblem|Markhor|Chukar|Jasmine|Deodar|Hockey|Urdu|Shalwar Kameez|Mango|Indus Dolphin|Green and White|Indus|Jinnah Cap|Minar e Pakistan|Mazar e Quaid|Allama Iqbal|Quaid e Azam|Crescent and Star",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1600,12 +1600,12 @@
     "Description": "Flag|Anthem|Emblem|Animal|Bird|Flower|Tree|Sport|Game|Language|Dress|Food|Drink|Fruit|Vegetable|River|Mountain|Monument|Hero|Poet",
     "Category": ""
    },
-   "note": "generic category words (Animal, Bird, Tree) replaced with the actual symbols"
+   "note": "generic category words (Animal, Bird, Tree) replaced with the actual symbols; Debate: Replaces non-symbols with real ones"
   },
   {
    "id": "game3-124",
    "Name": "Pakistani National Songs",
-   "Description": "Qaumi Tarana|Dil Dil Pakistan|Jeevay Jeevay Pakistan|Mera Paigham Pakistan|Watan Ki Mitti|Khayal Rakhna|Hum Zinda Qaum Hain|Ye Watan Tumhara Hai|Is Parcham Ke Saye Talay|Sohni Dharti|Jug Jug Jeeyo|Hum Aik Hain|Ae Watan Ke Sajeelay Jawano|Ae Rah-e-Haq Ke Shaheedo",
+   "Description": "Qaumi Tarana|Dil Dil Pakistan|Jeevay Jeevay Pakistan|Mera Paigham Pakistan|Watan Ki Mitti|Main Bhi Pakistan Hoon|Hum Zinda Qaum Hain|Ye Watan Tumhara Hai|Is Parcham Ke Saye Talay|Sohni Dharti|Ae Mard e Mujahid Jaag Zara|Hum Aik Hain|Ae Watan Ke Sajeelay Jawano|Ae Rah-e-Haq Ke Shaheedo",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1613,7 +1613,7 @@
     "Description": "Qaumi Tarana|Dil Dil Pakistan|Jeevay Jeevay|Mera Paigham|Watan Ki Mitti|Khayal Rakhna|Hum Zinda Qaum Hain|Ye Watan Tumhara Hai|Is Parcham Ke Saye Talay|Sohni Dharti|Jug Jug Jeeyo|Pakistan Pakistan|Hum Aik Hain|Mera Iman Pakistan|Tera Pakistan Hai|Dil Na Lagay|Junoon Se|Jazba|Josh|Passion",
     "Category": ""
    },
-   "note": "Restored: milli naghmay allowed; list cleaned"
+   "note": "Restored: milli naghmay allowed; list cleaned; Debate: Replaces doubtful titles with known milli naghmay"
   },
   {
    "id": "game3-125",
@@ -1852,7 +1852,7 @@
   {
    "id": "game3-143",
    "Name": "Pakistani National Parks",
-   "Description": "Lal Suhanra|Kirthar|Hingol|Khunjerab|Deosai|Ayubia|Margalla Hills|Chitral Gol|Central Karakoram|Saiful Muluk|Lulusar Dudipatsar|Machiara|Broghil Valley|Shandur Hundrup|Toli Peer|Ghamot",
+   "Description": "Lal Suhanra|Kirthar|Hingol|Khunjerab|Deosai|Ayubia|Margalla Hills|Chitral Gol|Central Karakoram|Saiful Muluk|Lulusar Dudipatsar|Machiara|Broghil Valley|Shandur Hundrup|Ghamot",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1860,7 +1860,7 @@
     "Description": "Lal Suhanra|Kirthar|Hingol|Khunjerab|Deosai|Ayubia|Margalla|Chitral|Swat|Dir|Hazara|Murree|Galiyat|Kaghan|Naran|Neelum|Leepa|Hunza|Gilgit|Skardu",
     "Category": ""
    },
-   "note": "removed places that are not national parks (Swat, Murree, Hunza...)"
+   "note": "removed places that are not national parks (Swat, Murree, Hunza...); Debate: Challenger amendment: remove only Toli Peer, keep Ghamot"
   },
   {
    "id": "game3-144",
@@ -1891,7 +1891,7 @@
   {
    "id": "game3-146",
    "Name": "Insects and Creepy Crawlies",
-   "Description": "Ant|Bee|Wasp|Fly|Mosquito|Butterfly|Moth|Beetle|Bug|Cricket|Grasshopper|Locust|Cockroach|Termite|Spider|Scorpion|Centipede|Millipede|Worm|Snail",
+   "Description": "Ant|Bee|Wasp|Fly|Mosquito|Butterfly|Moth|Beetle|Ladybird|Cricket|Grasshopper|Locust|Cockroach|Termite|Spider|Scorpion|Centipede|Millipede|Worm|Snail",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1899,12 +1899,12 @@
     "Description": "Ant|Bee|Wasp|Fly|Mosquito|Butterfly|Moth|Beetle|Bug|Cricket|Grasshopper|Locust|Cockroach|Termite|Spider|Scorpion|Centipede|Millipede|Worm|Snail",
     "Category": ""
    },
-   "note": "Spider/Scorpion/Worm/Snail are not insects; renamed"
+   "note": "Spider/Scorpion/Worm/Snail are not insects; renamed; Debate: Replace vague Bug with distinct Ladybird"
   },
   {
    "id": "game3-147",
    "Name": "Pakistani Reptiles",
-   "Description": "Snake|Lizard|Gecko|Monitor Lizard|Chameleon|Turtle|Tortoise|Mugger Crocodile|Cobra|Saw-Scaled Viper|Russell's Viper|Krait|Python|Sand Boa|Skink|Agama|Sanda",
+   "Description": "Gecko|Monitor Lizard|Chameleon|Turtle|Tortoise|Mugger Crocodile|Cobra|Saw-Scaled Viper|Russell's Viper|Krait|Python|Sand Boa|Skink|Agama|Sanda",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1912,12 +1912,12 @@
     "Description": "Snake|Lizard|Gecko|Monitor|Chameleon|Turtle|Tortoise|Crocodile|Alligator|Gharial|Cobra|Viper|Krait|Python|Boa|Skink|Agama|Uromastyx|Sandfish|Worm",
     "Category": ""
    },
-   "note": "removed species not in Pakistan (Alligator, Boa, Gharial) and unclear Worm/Sandfish"
+   "note": "removed species not in Pakistan (Alligator, Boa, Gharial) and unclear Worm/Sandfish; Debate: Remove generic Snake and Lizard"
   },
   {
    "id": "game3-148",
    "Name": "Pakistani Marine Life",
-   "Description": "Fish|Crab|Lobster|Prawn|Seahorse|Squid|Octopus|Jellyfish|Starfish|Sea Urchin|Coral|Sponge|Sea Anemone|Shark|Ray|Whale|Dolphin|Porpoise|Turtle|Sea Snake",
+   "Description": "Pomfret|Crab|Lobster|Prawn|Seahorse|Squid|Octopus|Jellyfish|Starfish|Sea Urchin|Coral|Sponge|Sea Anemone|Shark|Ray|Whale|Dolphin|Porpoise|Turtle|Sea Snake",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1925,7 +1925,7 @@
     "Description": "Fish|Crab|Lobster|Prawn|Shrimp|Squid|Octopus|Jellyfish|Starfish|Urchin|Coral|Sponge|Anemone|Shark|Ray|Whale|Dolphin|Porpoise|Turtle|Snake",
     "Category": ""
    },
-   "note": "clarity (Sea Urchin, Sea Snake); Debate: Prawn and Shrimp are both 'jhinga' locally; replaced Shrimp with Seahorse."
+   "note": "clarity (Sea Urchin, Sea Snake); Debate: Prawn and Shrimp are both 'jhinga' locally; replaced Shrimp with Seahorse.; Debate: Replace vague Fish with Pomfret"
   },
   {
    "id": "game3-149",
@@ -2177,7 +2177,7 @@
   {
    "id": "game3-168",
    "Name": "Pakistani Colleges",
-   "Description": "GCU|FC College|Kinnaird|Queen Mary|Home Economics College|Islamia College|Dyal Singh College|MAO College|Superior College|Punjab College|KIPS|Aspire College|Concordia|DJ Science College|Adamjee College|Edwardes College|Gordon College|Hailey College|FG College|Government College",
+   "Description": "GCU|FC College|Kinnaird|Queen Mary|Home Economics College|Islamia College|Dyal Singh College|MAO College|Superior College|Punjab College|KIPS|Aspire College|Concordia|DJ Science College|Adamjee College|Edwardes College|Gordon College|Hailey College|FG College|Lahore College for Women",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2185,7 +2185,7 @@
     "Description": "GCU|FCC|Kinnaird|Queen Mary|Home Economics|Islamia|Dyal Singh|MAO|Superior|Punjab|Kips|Aspire|Concordia|Roots|Beaconhouse|City|LGS|Bloomfield|Convent|Saint",
     "Category": ""
    },
-   "note": "removed school names duplicated from Schools card"
+   "note": "removed school names duplicated from Schools card; Debate: Replace generic Government College with a named college"
   },
   {
    "id": "game3-169",
@@ -2320,7 +2320,7 @@
   {
    "id": "game3-179",
    "Name": "Makeup Brands",
-   "Description": "Masarrat Misbah|Luscious|Rivaj|Medora|Christine|Sweet Touch|Kryolan|MAC|Huda Beauty|Morphe|Color Studio|Essence|Maybelline|L'Oreal|Rimmel|Revlon|Lakme|ST London|Nabila|Flormar",
+   "Description": "Masarrat Misbah|Luscious|Rivaj|Medora|Christine|Sweet Touch|Kryolan|MAC|Huda Beauty|Golden Girl|Color Studio|Essence|Maybelline|L'Oreal|Rimmel|Revlon|Lakme|ST London|Nabila|Flormar",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2328,7 +2328,7 @@
     "Description": "Masarrat|Misbah|Nabila|Luscious|Atiqa|Odho|Rivaj|Medora|Christine|Sweet|Touch|Kryolan|Mac|Huda|Anastasia|Morphe|Color|Pop|Essence|Maybelline",
     "Category": ""
    },
-   "note": "joined split names; renamed (many are international); Debate: Replaced the actress-named Atiqa Odho line with Flormar, a widely sold makeup brand."
+   "note": "joined split names; renamed (many are international); Debate: Replaced the actress-named Atiqa Odho line with Flormar, a widely sold makeup brand.; Debate: Replace Morphe with Pakistani brand"
   },
   {
    "id": "game3-180",
@@ -2346,7 +2346,7 @@
   {
    "id": "game3-181",
    "Name": "Hair Care Brands",
-   "Description": "Sunsilk|Pantene|Head & Shoulders|Lifebuoy|Dove|Amla|Vatika|Dabur|Parachute|L'Oreal|Garnier|TRESemme|Clear|Kala Kola|Hemani|Herbal Essences|Saeed Ghani",
+   "Description": "Sunsilk|Pantene|Head & Shoulders|Lifebuoy|Dove|Amla|Vatika|Dabur|Parachute|L'Oreal|Garnier|TRESemme|Clear|Brylcreem|Hemani|Herbal Essences|Saeed Ghani",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2354,7 +2354,7 @@
     "Description": "Sunsilk|Pantene|Head|Shoulders|Lifebuoy|Bio|Amla|Vatika|Dabur|Parachute|Loreal|Garnier|Tresemme|Dove|Sunsilk|Pantene|Head|Shoulders|Lifebuoy|Bio",
     "Category": ""
    },
-   "note": "list repeated itself and split names; deduplicated"
+   "note": "list repeated itself and split names; deduplicated; Debate: Remove Kala Kola, add Brylcreem"
   },
   {
    "id": "game3-182",
@@ -2385,7 +2385,7 @@
   {
    "id": "game3-184",
    "Name": "Pakistani Traditional Games",
-   "Description": "Kabaddi|Kushti|Gilli Danda|Pithu Garam|Kanchay|Stapu|Chupan Chupai|Baraf Pani|Oonch Neech|Pakran Pakrai|Kokla Chapaki|Lattoo|Patang Bazi|Rassa Kashi|Chor Sipahi|Gulel|Galli Cricket|Langri Paala|Cycle Race",
+   "Description": "Kabaddi|Kushti|Gilli Danda|Pithu Garam|Kanchay|Stapu|Chupan Chupai|Baraf Pani|Oonch Neech|Pakran Pakrai|Kokla Chapaki|Lattoo|Patang Bazi|Rassa Kashi|Chor Sipahi|Gulel|Galli Cricket|Langri Paala|Aankh Micholi",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2393,7 +2393,7 @@
     "Description": "Kabaddi|Kushti|Gilli Danda|Pithu|Kanchay|Ludo|Carrom|Cards|Chess|Checkers|Snakes|Ladders|Hopscotch|Hide|Seek|Tag|Race|Jump|Skip|Run",
     "Category": ""
    },
-   "note": "joined split names, local names; removed Cards and board games (in Board Games card)"
+   "note": "joined split names, local names; removed Cards and board games (in Board Games card); Debate: Challenger amendment: Aankh Micholi instead of Cycle Race"
   },
   {
    "id": "game3-185",
@@ -2606,20 +2606,20 @@
   {
    "id": "game3-201",
    "Name": "Draw something expensive.",
-   "Description": "Draw a smelly fish.|Draw the last thing you purchased.|Draw a plate of spaghetti.|Draw a mansion.|Draw a cute baby.|Draw a sports car.|Draw a diamond necklace.|Draw a wedding.|Draw a small house.",
+   "Description": "Draw a gold watch.|Draw the last thing you purchased.|Draw a mansion.|Draw a sports car.|Draw a diamond necklace.|Draw a designer bag.|Draw a wedding.|Draw a small house.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw something expensive.",
     "Description": "Draw a smelly fish.|Draw the last thing you purchased.|Draw a plate of spaghetti.|Draw a mansion.|Draw a cute baby.|Draw a sports car.|Draw a diamond necklace.|Draw a wedding.|Draw a small house.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Closer decoys"
   },
   {
    "id": "game3-202",
    "Name": "Draw your best friend.",
-   "Description": "Draw your reflection.|Draw your cousin.|Draw a werewolf.|Draw a nice person.|Draw “hello!”|Draw a friend.|Draw your mom.|Draw someone in the room.|Draw a dog.",
+   "Description": "Draw your reflection.|Draw your cousin.|Draw a friend.|Draw your mom.|Draw someone in the room.|Draw your neighbour.|Draw your classmate.|Draw a nice person.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2627,7 +2627,7 @@
     "Description": "Draw your reflection.|Draw Vin Diesel.|Draw a werewolf.|Draw a nice person.|Draw “hello!”|Draw a friend.|Draw your mom.|Draw someone in the room.|Draw a dog.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Vin Diesel"
+   "note": "replaced Vin Diesel; Debate: Remove off-theme decoys"
   },
   {
    "id": "game3-203",
@@ -2670,8 +2670,8 @@
   },
   {
    "id": "game3-206",
-   "Name": "Draw a shared appetizer.",
-   "Description": "Draw a carcass.|Draw a plate of samosas.|Draw chicken wings.|Draw a pot of daal.|Draw nachos.|Draw pakoras with chutney.|Draw a plate of fruit chaat.|Draw soup.",
+   "Name": "Draw a shared starter platter.",
+   "Description": "Draw a plate of samosas.|Draw pakoras with chutney.|Draw a plate of fruit chaat.|Draw a dastarkhwan.|Draw a pot of daal.|Draw chicken wings.|Draw a bowl of soup.|Draw a plate of dates.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2679,7 +2679,7 @@
     "Description": "Draw <i>James and the Giant Peach</i>.|Draw a carcass.|Draw “it’s raining tacos.”|Draw chicken wings.|Draw a pot of chili.|Draw nachos.|Draw chips and salsa.|Draw waffles.|Draw soup.",
     "Category": "Drawing 2"
    },
-   "note": "removed book/song refs; localised"
+   "note": "removed book/song refs; localised; Debate: Localise appetizer"
   },
   {
    "id": "game3-207",
@@ -2710,7 +2710,7 @@
   {
    "id": "game3-209",
    "Name": "Draw a tiger.",
-   "Description": "Draw a giant cat.|Draw a skunk.|Draw a tiger shark.|Draw a leopard.|Draw a cricketer.|Draw a zoo tiger.|Draw a striped cat.|Draw a tiger cub.|Draw a zebra-lion hybrid.",
+   "Description": "Draw a giant cat.|Draw a lion.|Draw a tiger shark.|Draw a leopard.|Draw a cricketer.|Draw a zoo tiger.|Draw a striped cat.|Draw a tiger cub.|Draw a zebra-lion hybrid.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2718,12 +2718,12 @@
     "Description": "Draw a giant cat.|Draw a skunk.|Draw a tiger shark.|Draw a leopard.|Draw a baseball player.|Draw a zoo tiger.|Draw a striped cat.|Draw Tony the Tiger.|Draw a zebra-lion hybrid.",
     "Category": "Drawing 2"
    },
-   "note": "replaced baseball player, Tony the Tiger"
+   "note": "replaced baseball player, Tony the Tiger; Debate: Replace skunk with lion"
   },
   {
    "id": "game3-210",
    "Name": "Draw an endangered animal.",
-   "Description": "Draw a swan.|Draw a cow.|Draw a rabbit.|Draw a camel.|Draw a majestic eagle.|Draw a buffalo.|Draw a pet cat.",
+   "Description": "Draw an extinct animal.|Draw a rare animal.|Draw a zoo animal.|Draw a hunted animal.|Draw a majestic eagle.|Draw a mountain animal.|Draw a camel.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2731,7 +2731,7 @@
     "Description": "Draw a swan.|Draw a cow.|Draw a rabbit.|Draw a leprechaun.|Draw a panda.|Draw a whale.|Draw a tiger.|Draw an angry polar bear.|Draw a super American eagle.",
     "Category": "Drawing 2"
    },
-   "note": "replaced leprechaun, American eagle; Debate: Missed issue raised by the challenger (its C1). Panda, tiger, whale and polar bear are endangered or vulnerable themselves, so an impostor drawing one cannot be told apart from the real prompt. They are replaced with common animals."
+   "note": "replaced leprechaun, American eagle; Debate: Missed issue raised by the challenger (its C1). Panda, tiger, whale and polar bear are endangered or vulnerable themselves, so an impostor drawing one cannot be told apart from the real prompt. They are replaced with common animals.; Debate: Near-miss decoys"
   },
   {
    "id": "game3-211",
@@ -2839,8 +2839,8 @@
   },
   {
    "id": "game3-219",
-   "Name": "Draw your second favorite holiday.",
-   "Description": "Draw Independence Day.|Draw Eid shopping.|Draw a long weekend.|Draw a gift.|Draw a day off from school.|Draw your favorite holiday.|Draw your birthday.|Draw the moon landing.|Draw a family trip.",
+   "Name": "Draw your second favourite holiday.",
+   "Description": "Draw Independence Day.|Draw Eid shopping.|Draw a long weekend.|Draw a gift.|Draw a day off from school.|Draw your favourite holiday.|Draw your birthday.|Draw a trip to the north.|Draw a family trip.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2848,7 +2848,7 @@
     "Description": "Draw Arbor Day.|Draw winter.|Draw a tree.|Draw a gift.|Draw a tax refund.|Draw your favorite holiday.|Draw your birthday.|Draw the moon landing.|Draw romance.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Arbor Day, tax refund, romance; Debate: Winter/tree/gift decoys pointed to Christmas; replaced winter and tree with local holiday decoys."
+   "note": "replaced Arbor Day, tax refund, romance; Debate: Winter/tree/gift decoys pointed to Christmas; replaced winter and tree with local holiday decoys.; Debate: Spelling and local decoys"
   },
   {
    "id": "game3-220",
@@ -2905,7 +2905,7 @@
   {
    "id": "game3-224",
    "Name": "Draw Pakistan’s Independence Day.",
-   "Description": "Draw a prison break.|Draw fireworks.|Draw a military parade.|Draw a cricket victory celebration.",
+   "Description": "Draw Defence Day.|Draw fireworks.|Draw a military parade.|Draw a cricket victory celebration.|Draw an Eid celebration.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2913,7 +2913,7 @@
     "Description": "Draw Paris.|Draw a prison break.|Draw fireworks.",
     "Category": "Drawing 2"
    },
-   "note": "Bastille Day -> local national day"
+   "note": "Bastille Day -> local national day; Debate: Replace prison break decoy"
   },
   {
    "id": "game3-225",
@@ -2930,16 +2930,16 @@
   },
   {
    "id": "game3-226",
-   "Name": "Draw a flying skunk.",
-   "Description": "Draw a flying squirrel.|Draw a falling skunk.|Draw a stinky bird.",
+   "Name": "Draw a flying buffalo.",
+   "Description": "Draw a flying cow.|Draw a falling buffalo.|Draw a flying bat.|Draw a heavy bird.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw a flying skunk.",
     "Description": "Draw a flying squirrel.|Draw a falling skunk.|Draw a stinky bird.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Remove skunk"
   },
   {
    "id": "game3-227",
@@ -3008,8 +3008,8 @@
   },
   {
    "id": "game3-232",
-   "Name": "Draw business casual.",
-   "Description": "Draw picnic clothes.|Draw a shalwar kameez with a waistcoat.|Draw a clown.|Draw a polo shirt.|Draw golf clothes.|Draw nice pants.|Draw a fancy dress.|Draw dressed up.|Draw a nice suit.",
+   "Name": "Draw smart casual clothes.",
+   "Description": "Draw picnic clothes.|Draw a shalwar kameez with a waistcoat.|Draw a clown.|Draw a polo shirt.|Draw office clothes.|Draw nice pants.|Draw a fancy dress.|Draw dressed up.|Draw a nice suit.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3017,7 +3017,7 @@
     "Description": "Draw picnic clothes.|Draw “dressed to kill.”|Draw a clown.|Draw a polo shirt.|Draw golf clothes.|Draw nice pants.|Draw a fancy dress.|Draw dressed up.|Draw a nice suit.",
     "Category": "Drawing 2"
    },
-   "note": "Debate: Replace the hard-to-draw 'dressed to kill' idiom with a close local office-wear decoy."
+   "note": "Debate: Replace the hard-to-draw 'dressed to kill' idiom with a close local office-wear decoy.; Debate: Localise business casual"
   },
   {
    "id": "game3-233",
@@ -10761,6 +10761,86 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Challenger's version: drops Badr (a battlefield, now on the battles card) and Jabal e Noor (same place as Ghar e Hira)."
+  },
+  {
+   "id": null,
+   "Name": "Airports of Pakistan",
+   "Description": "Allama Iqbal Airport|Jinnah Airport|Islamabad International Airport|Bacha Khan Airport|Multan Airport|Sialkot Airport|Faisalabad Airport|Quetta Airport|Gwadar Airport|Skardu Airport|Gilgit Airport|Sukkur Airport|Turbat Airport|Chitral Airport|Rahim Yar Khan Airport|Bahawalpur Airport",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New topic, not a duplicate"
+  },
+  {
+   "id": null,
+   "Name": "Mobile Phone Brands",
+   "Description": "Samsung|iPhone|Nokia|Huawei|Oppo|Vivo|Infinix|Tecno|Realme|Xiaomi|Itel|QMobile|Honor|Motorola|Sparx|OnePlus|Lenovo|Sony",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New familiar topic"
+  },
+  {
+   "id": null,
+   "Name": "Official Documents",
+   "Description": "CNIC|B-Form|Passport|Domicile|Driving Licence|Birth Certificate|Death Certificate|Nikah Nama|Degree|Transcript|Fard|Registry|Electricity Bill|Gas Bill|Tax Return|NTN|Visa|Police Character Certificate|Matric Certificate",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New everyday topic"
+  },
+  {
+   "id": null,
+   "Name": "Barrages of Pakistan",
+   "Description": "Sukkur Barrage|Guddu Barrage|Kotri Barrage|Taunsa Barrage|Chashma Barrage|Jinnah Barrage|Marala Barrage|Rasul Barrage|Qadirabad Barrage|Trimmu Barrage|Panjnad Barrage|Islam Barrage",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: better-known barrages only"
+  },
+  {
+   "id": null,
+   "Name": "Motorbike Brands",
+   "Description": "Honda|Yamaha|Suzuki|United|Road Prince|Super Power|Unique|Hi Speed|Metro|Eagle|Ravi|Kawasaki|Vespa|Ducati|BMW|Harley Davidson",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: drop Piaggio"
+  },
+  {
+   "id": null,
+   "Name": "Soap and Detergent Brands",
+   "Description": "Lux|Lifebuoy|Safeguard|Dettol|Capri|Dove|Palmolive|Camay|Medicam|Surf Excel|Ariel|Bonus Tristar|Brite|Express Power|Vim|Sunlight|Comfort|Lemon Max",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New household-brand topic"
+  },
+  {
+   "id": null,
+   "Name": "Courier Companies",
+   "Description": "TCS|Leopards Courier|M&P|Trax|Call Courier|BlueEx|DHL|FedEx|Pakistan Post|Daewoo Express|PostEx|Rider|Tranzo|Swyft",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New topic"
+  },
+  {
+   "id": null,
+   "Name": "Draw a school assembly.",
+   "Description": "Draw a morning drill.|Draw a queue of students.|Draw a school bus.|Draw a flag raising.|Draw a classroom.|Draw a principal's speech.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New local drawing card"
+  },
+  {
+   "id": null,
+   "Name": "Draw an electricity bill.",
+   "Description": "Draw a gas bill.|Draw a phone bill.|Draw a shocked person holding a paper.|Draw a meter reader.|Draw a bank receipt.|Draw a tax form.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Relatable drawing card"
+  },
+  {
+   "id": null,
+   "Name": "Draw a long queue at an office.",
+   "Description": "Draw a crowded bus.|Draw a ticket counter.|Draw a petrol pump line.|Draw a waiting room.|Draw a bank queue.|Draw a ration queue.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Relatable drawing card"
   }
  ]
 }

@@ -1371,12 +1371,12 @@
    "id": "game7-125",
    "Description": "trickle-down economics",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "trickle down economics ;)",
     "Category": "Standard Prompts"
    },
-   "note": "Debate: Removes the toilet-humour wink. The pun still works and can be drawn."
+   "note": "Debate: US-centric policy jargon, hard to draw, no visual hook."
   },
   {
    "id": "game7-126",
@@ -1941,14 +1941,14 @@
   },
   {
    "id": "game7-177",
-   "Description": "camel herder eats a popsicle on a hot day",
+   "Description": "camel herder eats a kulfi on a hot day",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "cowboy eats a popsicle on hot day",
     "Category": "Standard Prompts"
    },
-   "note": "Sweep: US cowboy localised"
+   "note": "Sweep: US cowboy localised; Debate: Localises popsicle to kulfi."
   },
   {
    "id": "game7-178",
@@ -2425,25 +2425,25 @@
   },
   {
    "id": "game7-221",
-   "Description": "All that matters is we're having fun",
+   "Description": "all that matters is we're having fun",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "All that matters is we're having fun",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Lowercase style fix."
   },
   {
    "id": "game7-222",
-   "Description": "I ran out of time",
+   "Description": "i ran out of time",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "I ran out of time",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Lowercase style fix."
   },
   {
    "id": "game7-223",
@@ -19510,6 +19510,62 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Ghosts are allowed; a fresh twist on a familiar Eid chore, unlike the existing ghost and ironing cards."
+  },
+  {
+   "id": null,
+   "Description": "a truck so decorated that the traffic police stop to admire it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: concrete drawable scene, distinct from the existing truck-art lorry card."
+  },
+  {
+   "id": null,
+   "Description": "a paan stain shaped like a map of Pakistan",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local humour, no paan cards exist."
+  },
+  {
+   "id": null,
+   "Description": "the tuition teacher has fallen asleep on the charpai",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable, drawable, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a generator the size of a house powering one tiny bulb",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct visual gag from the kick-start generator card."
+  },
+  {
+   "id": null,
+   "Description": "a crow stealing a whole chapati from the langar",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Different gag from the washing-line crow; local and clean."
+  },
+  {
+   "id": null,
+   "Description": "a Suzuki Mehran carrying twelve people and a sofa",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Classic local joke, distinct from the other Mehran and sofa cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> sneaking a second plate of biryani at the shaadi",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: local food beat, keeps the token."
+  },
+  {
+   "id": null,
+   "Description": "a gol gappa wala who has run out of water",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Different gag from the oversized gol gappa card."
   }
  ]
 }
