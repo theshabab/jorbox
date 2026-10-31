@@ -1013,12 +1013,12 @@
   },
   {
    "id": "game12-113",
-   "Name": "Chili",
-   "action": "keep",
+   "Name": "Chilli",
+   "action": "edit",
    "original": {
     "Name": "Chili"
    },
-   "note": ""
+   "note": "Debate: Standard Pakistani/British spelling, and it avoids the US 'chili' stew sense. The deck's own spelling is mixed (Rumor alongside Armour/Odour)."
   },
   {
    "id": "game12-114",
@@ -1194,11 +1194,11 @@
   {
    "id": "game12-133",
    "Name": "Cookie",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Cookie"
    },
-   "note": ""
+   "note": "Debate: Same meaning as Biscuit for Pakistani players; Cookie Jar and Cookie Tin stay in the deck."
   },
   {
    "id": "game12-134",
@@ -9947,6 +9947,66 @@
    "Name": "Onion",
    "action": "add",
    "note": "New card (debate): Kitchen staple that is easy to act out and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Dua",
+   "action": "add",
+   "note": "New card (debate): Respectful everyday worship noun that differs from Prayer and is easy to act out; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Fire Extinguisher",
+   "action": "add",
+   "note": "New card (debate): Concrete object that is easy to act or draw; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Ferris Wheel",
+   "action": "add",
+   "note": "New card (debate): Familiar mela/park ride that is easy to draw; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Cotton Candy",
+   "action": "add",
+   "note": "New card (debate): Well-known street treat (buddhi ke baal); no duplicate (only Candy Bar/Wrapper and Cotton Balls/Buds exist)."
+  },
+  {
+   "id": null,
+   "Name": "Dentist",
+   "action": "add",
+   "note": "New card (debate): Common profession that is fun to act out; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Crutches",
+   "action": "add",
+   "note": "New card (debate): Concrete object that is easy to act out; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Chimney",
+   "action": "add",
+   "note": "New card (debate): Easy to draw; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Earphones",
+   "action": "add",
+   "note": "New card (debate): Everyday object; no Earphone/Headphone card exists."
+  },
+  {
+   "id": null,
+   "Name": "Chapli Kabab",
+   "action": "add",
+   "note": "New card (debate): Iconic Peshawari dish that is distinct from the generic Kebab and Bun Kabab cards."
+  },
+  {
+   "id": null,
+   "Name": "Eagle",
+   "action": "add",
+   "note": "New card (debate): Well-known animal that is not in the deck (Falcon is a separate card)."
   }
  ]
 }

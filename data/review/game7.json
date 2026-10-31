@@ -15328,14 +15328,14 @@
   },
   {
    "id": "game7-1394",
-   "Description": "new holiday for inside kids",
+   "Description": "a national holiday just for kids who never go outside",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "new holiday for inside kids",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'inside kids' is unclear; the rewrite spells out the joke and is still drawable."
   },
   {
    "id": "game7-1395",
@@ -15471,14 +15471,14 @@
   },
   {
    "id": "game7-1407",
-   "Description": "flying saucer getting a ticket",
+   "Description": "flying saucer getting a traffic challan",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "flying saucer getting a ticket",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Local word for a traffic ticket; no other challan card in game7."
   },
   {
    "id": "game7-1408",
@@ -15493,14 +15493,14 @@
   },
   {
    "id": "game7-1409",
-   "Description": "bulldozing jack's beanstalk",
+   "Description": "bulldozing Jack's beanstalk",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "bulldozing jack's beanstalk",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Capitalise the proper noun Jack."
   },
   {
    "id": "game7-1410",
@@ -15581,14 +15581,14 @@
   },
   {
    "id": "game7-1417",
-   "Description": "don't jump on the grampoline",
+   "Description": "don't jump on Dada Abu, he's not a trampoline",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "don't jump on the grampoline",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'Grampoline' is a hard pun; this keeps the joke, is local and drawable. Spelled 'Dada Abu' to match the live 'get strong for Dada Abu' card."
   },
   {
    "id": "game7-1418",
@@ -15867,36 +15867,36 @@
   },
   {
    "id": "game7-1443",
-   "Description": "being 10th in the family to use the bath water",
+   "Description": "last one to bathe on a winter morning: the hot water's all gone",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "being 10th in the family to use the bath water",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises the dated shared-bath-water joke while keeping the 'last in a big family' idea. Preferred over the amended 'one bathroom' version, which leans toward the banned bathroom humour; the family-queue angle is distinct enough from the geyser card."
   },
   {
    "id": "game7-1444",
-   "Description": "oh wow, cool car, Uncle Dork",
+   "Description": "oh wow, cool car, Chachu (it's a rusty old Mehran)",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "oh wow cool car uncle dork",
     "Category": "Standard Prompts"
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: Challenger's amendment: localises 'Uncle Dork' with no name-calling and keeps the sarcasm visible and drawable."
   },
   {
    "id": "game7-1445",
-   "Description": "lizard lady works at home improvement store",
+   "Description": "lizard lady works at the hardware store",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "lizard lady works at home improvement store",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces the US-centric 'home improvement store' with the local equivalent."
   },
   {
    "id": "game7-1446",
@@ -16166,12 +16166,12 @@
    "id": "game7-1470",
    "Description": "<PLAYER> being a villain",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "<PLAYER> being a villain",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Duplicates 1476 '<PLAYER> as a fairytale villain' and 1463 '<PLAYER>'s evil plan'."
   },
   {
    "id": "game7-1471",
@@ -16230,14 +16230,14 @@
   },
   {
    "id": "game7-1476",
-   "Description": "<PLAYER>'s favorite midnight snack",
+   "Description": "<PLAYER>'s favorite street food",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER>'s favorite midnight snack",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: 'favorite midnight snack' overlaps 1492 '<PLAYER> sneaking a midnight snack'; street food is local and not duplicated in game7."
   },
   {
    "id": "game7-1477",
@@ -16276,12 +16276,12 @@
    "id": "game7-1480",
    "Description": "<PLAYER> as a terrifying storybook character",
    "Category": "Friend Mode Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "<PLAYER> as a terrifying children's TV show character",
     "Category": "Friend Mode Prompts"
    },
-   "note": "removed TV reference"
+   "note": "Debate: Near-duplicate of 1476 '<PLAYER> as a fairytale villain'; it would be drawn the same way."
   },
   {
    "id": "game7-1481",
@@ -19216,6 +19216,55 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): New: a familiar overloaded-bike sight that is easy to draw."
+  },
+  {
+   "id": null,
+   "Description": "a jinn stuck inside a thermos",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: local twist on the genie-in-a-bottle joke (allowed) without adding another chai card."
+  },
+  {
+   "id": null,
+   "Description": "a stray dog wearing a face mask in Lahore smog",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani scene; no smog card in game7."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> five minutes before iftar",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, relatable prompt; personal worship prompts are allowed and no iftar card exists in game7."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as a cricket commentator",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Drawable cricket role-play fitting the 'as a ...' set; no commentator card in game7."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> haggling with the sabzi wala",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Drawable local scene; no haggling card in game7."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> during loadshedding in June",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Shared Pakistani experience; distinct from the pending cricket load-shedding card and the live heat card through its Friend Mode power-cut angle."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> when the khana opens at a wedding",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Classic affectionate wedding food-rush scene; different from the existing wedding cards."
   }
  ]
 }

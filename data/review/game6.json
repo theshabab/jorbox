@@ -1392,11 +1392,11 @@
   {
    "id": "game6-155",
    "Description": "Pakistani Archaeological Sites",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Pakistani Archaeological Sites"
    },
-   "note": ""
+   "note": "Debate: Most players can name only 4-6 sites, below what the game needs, and card 153 Pakistani Monuments and Landmarks already takes those answers; the new Forts in Pakistan card replaces it."
   },
   {
    "id": "game6-156",
@@ -3476,6 +3476,42 @@
    "Description": "Things Made of Leather",
    "action": "add",
    "note": "New card (debate): Many everyday answers (khussa, belt, wallet, jacket, cricket ball, sofa), and the material is not yet in the deck's 'Things Made of...' set."
+  },
+  {
+   "id": null,
+   "Description": "Places in and Around Makkah and Madinah",
+   "action": "add",
+   "note": "New card (debate): The challenger's amended wording: well-known holy places with many accurate answers (Kaaba, Masjid al-Haram, Masjid an-Nabawi, Safa, Marwa, Mina, Muzdalifah, Arafat, Jamarat, Quba, Qiblatain, Uhud, Jannat al-Baqi, Cave Hira, Cave Thawr). 'In and Around' keeps answers like Arafat, "
+  },
+  {
+   "id": null,
+   "Description": "Things That Come From Animals",
+   "action": "add",
+   "note": "New card (debate): An everyday category with plenty of answers (milk, eggs, wool, leather, honey, silk, ghee, dahi, feathers, pearls), and nothing like it is in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Mechanic's Workshop",
+   "action": "add",
+   "note": "New card (debate): A relatable local place in the same style as Barber Shop and Petrol Pump, with answers specific to the setting (chhotu, grease, jack, puncture kit, engine oil). Not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Forts in Pakistan",
+   "action": "add",
+   "note": "New card (debate): These real forts give plenty of well-known answers: Lahore, Rohtas, Derawar, Ranikot, Baltit, Altit, Attock, Bala Hisar, Kot Diji, Shigar and Umerkot. It takes the place of the narrow archaeological sites card."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do in a Traffic Jam",
+   "action": "add",
+   "note": "New card (debate): A funny, very Pakistani situation with many answers. It differs from the road and car-journey cards, which are about what you see and how you travel."
+  },
+  {
+   "id": null,
+   "Description": "Vegetables That Grow Underground",
+   "action": "add",
+   "note": "New card (debate): Harder than Vegetables but fair, with more than 8 accurate everyday answers (aloo, gajar, mooli, shalgam, adrak, lehsan, pyaz, chukandar, shakarkandi, arvi, mungphali)."
   }
  ]
 }
