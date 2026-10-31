@@ -1512,14 +1512,14 @@
   },
   {
    "id": "game16-138",
-   "Name": "Who would you elect the president of the internet?",
+   "Name": "Who would you elect as president of the internet, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who would you elect the president of the internet?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Grammar fix and open follow-up."
   },
   {
    "id": "game16-139",
@@ -2029,14 +2029,14 @@
   },
   {
    "id": "game16-185",
-   "Name": "If you were a type of jeans, what type would you be?",
+   "Name": "If you were a type of fabric (khaddar, lawn, silk, denim), which would you be and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you were a type of jeans, what type would you be?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Local fabrics give players more to work with than 'type of jeans'; same silly idea."
   },
   {
    "id": "game16-186",
@@ -2612,25 +2612,25 @@
   },
   {
    "id": "game16-238",
-   "Name": "Where and when was the most amazing sunset you have ever seen?",
+   "Name": "Where and when did you see the most amazing sunset of your life?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Where and when was the most amazing sunset you have ever seen?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Fixes awkward 'Where and when was' phrasing."
   },
   {
    "id": "game16-239",
-   "Name": "Which recent news story is the most interesting?",
+   "Name": "Which recent news story have you found the most interesting, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which recent news story is the most interesting?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Personal, open question instead of an abstract one."
   },
   {
    "id": "game16-240",
@@ -7792,6 +7792,76 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Warm sensory question that pairs with the smells card (77). The azaan example is respectful, and no sound-preference card exists."
+  },
+  {
+   "id": null,
+   "Name": "What is the best nap you have ever taken, and where did you take it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No nap card exists in the deck; light and relatable."
+  },
+  {
+   "id": null,
+   "Name": "If your house had a secret room, what would you keep in it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Imaginative, family-safe; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which job would you be absolutely terrible at, and why?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from worst-job and dream-job cards."
+  },
+  {
+   "id": null,
+   "Name": "If you were a superhero, what would your name be and what would your costume look like?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Hero identity angle; existing cards only ask about superpowers; no franchise named."
+  },
+  {
+   "id": null,
+   "Name": "If you could rename your street or mohalla, what would you call it?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Local naming prompt; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the best thing about being the age you are right now?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Warm cross-generational question; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the most adventurous thing you have ever done?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Story-starter not covered by the risk or goal cards."
+  },
+  {
+   "id": null,
+   "Name": "If you could make one rule that everyone in your family had to follow, what would it be?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Family-scoped version distinct from world-law and Prime Minister cards."
+  },
+  {
+   "id": null,
+   "Name": "What is something very Pakistani that you do without even realising it?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Self-aware desi humour; not covered by existing cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the most useless thing you learned in school that you still remember perfectly?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from useless-talent and school-book cards."
   }
  ]
 }

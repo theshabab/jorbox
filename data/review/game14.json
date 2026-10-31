@@ -1470,12 +1470,12 @@
    "id": "game14-134",
    "Description": "How good is your sense of direction?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How good is your sense of direction?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Duplicate of 'How good are you at navigating without GPS?'"
   },
   {
    "id": "game14-135",
@@ -1534,14 +1534,14 @@
   },
   {
    "id": "game14-140",
-   "Description": "How good are you at remembering dates?",
+   "Description": "How good are you at remembering important dates?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How good are you at remembering dates?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: The deck has an iftar dates card, so bare 'dates' is ambiguous"
   },
   {
    "id": "game14-141",
@@ -1930,14 +1930,14 @@
   },
   {
    "id": "game14-176",
-   "Description": "How much do you love chocolate?",
+   "Description": "How much do you love jalebi?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How much do you love chocolate?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of 'How good are you at resisting chocolate?'; a local sweet keeps the idea and makes it distinct"
   },
   {
    "id": "game14-177",
@@ -2139,14 +2139,14 @@
   },
   {
    "id": "game14-195",
-   "Description": "How likely are you to start a gym membership?",
+   "Description": "How likely are you to join a gym and stop going within a month?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to start a gym membership?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Flat original overlaps the gym-visits count; the new wording is a relatable joke and still a likelihood"
   },
   {
    "id": "game14-196",
@@ -5186,6 +5186,55 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): A family outing count that anyone can answer, and the deck has no zoo card."
+  },
+  {
+   "id": null,
+   "Description": "How many hours did you spend playing video games last week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No gaming-hours count in the deck; anyone can answer, including 0"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been out on the first ball in gully cricket?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Funny count, distinct from the existing cricket cards"
+  },
+  {
+   "id": null,
+   "Description": "How many unread messages are in your family WhatsApp group right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Players can check it on their phones; distinct from the muted-groups and groups-count cards"
+  },
+  {
+   "id": null,
+   "Description": "How many relatives have you taught to use WhatsApp?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable family/tech count with nothing similar in the deck"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you promised to start your diet from Monday?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Well-known desi joke; the deck has no diet card"
+  },
+  {
+   "id": null,
+   "Description": "How many times have your shoes gone missing outside a mosque?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): The challenger's amendment. Umbrellas are uncommon in Pakistan, and this is a familiar, respectful lost-item joke"
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been to an Itwar (Sunday) bazaar this month?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A real Pakistani institution and different from the Chand Raat bazaar card"
   }
  ]
 }

@@ -120,13 +120,12 @@ How likely are you to cry at a rukhsati?,0 to 100
 How patient are you?,0 to 100
 How competitive are you?,0 to 100
 How superstitious are you?,0 to 100
-How good is your sense of direction?,0 to 100
 How likely are you to be the life of a family gathering?,0 to 100
 How much do you enjoy solitude?,0 to 100
 How likely are you to impulse buy?,0 to 100
 How much do you procrastinate?,0 to 100
 How organized are you?,0 to 100
-How good are you at remembering dates?,0 to 100
+How good are you at remembering important dates?,0 to 100
 How much do you love rainy days?,0 to 100
 How likely are you to adopt a stray animal?,0 to 100
 How good are you at keeping secrets?,0 to 100
@@ -160,7 +159,7 @@ How good a driver are you?,0 to 100
 How much do you know about history?,0 to 100
 How fit are you?,0 to 100
 How likely are you to help a relative shift house?,0 to 100
-How much do you love chocolate?,0 to 100
+How much do you love jalebi?,0 to 100
 How likely are you to become famous?,0 to 100
 How likely are you to learn a new language this year?,0 to 100
 How likely are you to wear traditional clothes daily?,0 to 100
@@ -178,7 +177,7 @@ How many family WhatsApp groups have you muted?,Number
 How likely are you to forward a 'Good Morning' message?,0 to 100
 How likely are you to leave a message on 'seen' and forget to reply?,0 to 100
 How good are you at sticking to a new habit?,0 to 100
-How likely are you to start a gym membership?,0 to 100
+How likely are you to join a gym and stop going within a month?,0 to 100
 How many times have you gone to the gym this month?,Number
 How likely are you to skip leg day at the gym?,0 to 100
 How much do you trust online reviews?,0 to 100
@@ -498,3 +497,10 @@ How many times have you fallen off a bicycle?,Number
 How many times have you confidently given a stranger directions you weren't sure about?,Number
 How many online orders were delivered to you this month?,Number
 How many times have you been to a zoo?,Number
+How many hours did you spend playing video games last week?,Number
+How many times have you been out on the first ball in gully cricket?,Number
+How many unread messages are in your family WhatsApp group right now?,Number
+How many relatives have you taught to use WhatsApp?,Number
+How many times have you promised to start your diet from Monday?,Number
+How many times have your shoes gone missing outside a mosque?,Number
+How many times have you been to an Itwar (Sunday) bazaar this month?,Number

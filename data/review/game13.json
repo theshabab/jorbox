@@ -1202,12 +1202,12 @@
   },
   {
    "id": "game13-134",
-   "Description": "Get a player to smell a bottle of water.",
-   "action": "keep",
+   "Description": "Say your bottle of water smells strange and get a player to smell it.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to smell a bottle of water."
    },
-   "note": ""
+   "note": "Debate: The pretext gives the player a reason to smell the water, so the mission becomes playable."
   },
   {
    "id": "game13-135",
@@ -1220,12 +1220,12 @@
   },
   {
    "id": "game13-136",
-   "Description": "Get a player to ask you why you are holding a bottle of water.",
-   "action": "keep",
+   "Description": "Get a player to ask you why you are holding an umbrella indoors.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask you why you are holding a bottle of water."
    },
-   "note": ""
+   "note": "Debate: Nobody asks about a water bottle. An umbrella indoors is odd enough to get the question."
   },
   {
    "id": "game13-137",
@@ -1391,12 +1391,12 @@
   },
   {
    "id": "game13-155",
-   "Description": "Get a player to recite a line of poetry.",
+   "Description": "Get a player to recite a sher (couplet) of Urdu poetry.",
    "action": "edit",
    "original": {
     "Description": "Get a player to recite a line from a movie."
    },
-   "note": "film/pop culture"
+   "note": "film/pop culture; Debate: Gives the card a local frame and sets it apart from the Allama Iqbal card."
   },
   {
    "id": "game13-156",
@@ -1490,12 +1490,12 @@
   },
   {
    "id": "game13-166",
-   "Description": "Get a player to recite a famous proverb (muhavra).",
+   "Description": "Get a player to recite a famous Urdu proverb (kahawat).",
    "action": "edit",
    "original": {
     "Description": "Get a player to recite a line from a song (recite lyrics)."
    },
-   "note": "music/lyrics"
+   "note": "music/lyrics; Debate: A muhavra is an idiom, not a proverb. The Urdu word for proverb is kahawat, so the old gloss was wrong."
   },
   {
    "id": "game13-167",
@@ -1517,21 +1517,21 @@
   },
   {
    "id": "game13-169",
-   "Description": "Hide this card on a chair and get a player to find it.",
+   "Description": "Hide this card under a chair cushion and get a player to find it.",
    "action": "edit",
    "original": {
     "Description": "Hide this card inside on a chair and get a player to find it."
    },
-   "note": "grammar"
+   "note": "grammar; Debate: A card left on a chair is in plain sight. Under a cushion is an actual hiding place."
   },
   {
    "id": "game13-170",
-   "Description": "Get a player to ask you why you are holding a bag.",
-   "action": "keep",
+   "Description": "Get a player to ask you why you are holding a pressure cooker lid.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask you why you are holding a bag."
    },
-   "note": ""
+   "note": "Debate: Holding a bag is too normal to draw a question. A pressure cooker lid is odd, local and funny."
   },
   {
    "id": "game13-171",
@@ -1589,12 +1589,12 @@
   },
   {
    "id": "game13-177",
-   "Description": "Get a player to ask you why you are holding a charger.",
-   "action": "keep",
+   "Description": "Get a player to ask you why you are holding a helmet.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask you why you are holding a charger."
    },
-   "note": ""
+   "note": "Debate: Holding a charger is too normal to draw a question. A helmet indoors is odd."
   },
   {
    "id": "game13-178",
@@ -1608,20 +1608,20 @@
   {
    "id": "game13-179",
    "Description": "Get a player to smell a toy.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to smell a toy."
    },
-   "note": ""
+   "note": "Debate: This is the weakest card in a crowded smell series, and there is often no toy at an adult gathering."
   },
   {
    "id": "game13-180",
-   "Description": "Get a player to ask you why you are holding a piece of paper.",
-   "action": "keep",
+   "Description": "Get a player to ask you why you are holding a broom (jharoo).",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask you why you are holding a piece of paper."
    },
-   "note": ""
+   "note": "Debate: Holding paper is too normal to draw a question. A broom is odd and local, and unlike a karchi it does not overlap the existing spoon card."
   },
   {
    "id": "game13-181",
@@ -1634,21 +1634,21 @@
   },
   {
    "id": "game13-182",
-   "Description": "Hide this card inside a magazine and get a player to find it.",
+   "Description": "Hide this card inside a newspaper and get a player to find it.",
    "action": "edit",
    "original": {
     "Description": "Hide this card inside inside a magazine and get a player to find it."
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Pakistani homes are more likely to have a newspaper lying around than a magazine."
   },
   {
    "id": "game13-183",
-   "Description": "Get a player to ask you why you are holding a glass.",
-   "action": "keep",
+   "Description": "Get a player to ask you why you are holding a belan (rolling pin).",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask you why you are holding a glass."
    },
-   "note": ""
+   "note": "Debate: Holding a glass is too normal to draw a question. A belan is odd, local and funny."
   },
   {
    "id": "game13-184",
@@ -1706,12 +1706,12 @@
   },
   {
    "id": "game13-190",
-   "Description": "Get a player to ask you why you are holding a pen.",
-   "action": "keep",
+   "Description": "Get a player to ask you why you are holding a cricket bat.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask you why you are holding a pen."
    },
-   "note": ""
+   "note": "Debate: Holding a pen is too normal to draw a question. A cricket bat indoors is odd and fits the deck's cricket theme."
   },
   {
    "id": "game13-191",
@@ -5063,6 +5063,48 @@
    "Description": "Get a player to say Quaid-e-Azam's motto: Unity, Faith and Discipline (Iman, Ittehad, Nazm).",
    "action": "add",
    "note": "New card (debate): Challenger's amendment, tidied: Pakistani general-knowledge mission accepting English or Urdu form, consistent with recitation cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Pakora'.",
+   "action": "add",
+   "note": "New card (debate): A local food word in the same style as the Samosa, Biryani and Nihari cards. No Pakora card exists yet."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to agree that biryani is better with aloo in it.",
+   "action": "add",
+   "note": "New card (debate): The aloo-in-biryani argument is a famous Pakistani debate and fits the 'get them to agree' series."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain how a savings 'committee' works.",
+   "action": "add",
+   "note": "New card (debate): A local counterpart to the explain-a-concept cards."
+  },
+  {
+   "id": null,
+   "Description": "Hide this card between the pages of a book and get a player to find it.",
+   "action": "add",
+   "note": "New card (debate): A new hiding place. No book hiding card exists yet."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit they open the fridge even when they are not hungry.",
+   "action": "add",
+   "note": "New card (debate): A harmless, relatable confession for the 'admit' series."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to high-five you for finishing all the food on your plate.",
+   "action": "add",
+   "note": "New card (debate): A new mealtime reason for the high-five series that suits family dinners."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are wearing sunglasses indoors.",
+   "action": "add",
+   "note": "New card (debate): A visible, modest oddity for the 'ask you why' series. Unlike the one-sock version, it does not involve showing a bare foot."
   }
  ]
 }
