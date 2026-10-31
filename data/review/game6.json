@@ -3392,6 +3392,48 @@
    "Description": "Things You See on a Trip to the Northern Areas",
    "action": "add",
    "note": "New card (debate): A very common Pakistani trip. The card asks for things seen (jeeps, glaciers, yaks, landslides, KKH), not the places covered by the 'Valleys', 'Lakes' and 'Hill Stations' cards."
+  },
+  {
+   "id": null,
+   "Description": "Things You Find Under the Sofa or Bed",
+   "action": "add",
+   "note": "New card (debate): No similar card in the deck, and it has many everyday answers (remote, coins, socks, chappal, charger, toys, pen, dust)."
+  },
+  {
+   "id": null,
+   "Description": "Things Students Do the Night Before an Exam",
+   "action": "add",
+   "note": "New card (debate): This card is about what students do, while Things in an Exam Hall lists objects in a place, so they don't overlap. It has many relatable answers."
+  },
+  {
+   "id": null,
+   "Description": "Things Children Are Scared Of",
+   "action": "add",
+   "note": "New card (debate): A broad category that is not in the deck yet. Jinn and ghost answers are allowed by the owner."
+  },
+  {
+   "id": null,
+   "Description": "Video Games and Mobile Games",
+   "action": "add",
+   "note": "New card (debate): The owner allows video games, and Board Games and Pakistani Traditional Games are different categories. Many well-known answers (PUBG, Free Fire, Ludo Star, Candy Crush, FIFA, Minecraft, Subway Surfers, Tekken)."
+  },
+  {
+   "id": null,
+   "Description": "Social Media and Messaging Apps",
+   "action": "add",
+   "note": "New card (debate): The owner allows social media, and the answers differ from Pakistani Apps and Websites (WhatsApp, Facebook, Instagram, TikTok, Snapchat, YouTube, Telegram, X, Imo, Signal, LinkedIn)."
+  },
+  {
+   "id": null,
+   "Description": "Things People Do at a Dawat",
+   "action": "add",
+   "note": "New card (debate): No card covers what people do at a dawat; the existing dawat-related cards list objects, places or excuses. Many relatable answers."
+  },
+  {
+   "id": null,
+   "Description": "Things With Zips",
+   "action": "add",
+   "note": "New card (debate): Fits the deck's cards about object features (Handles, Lids, Buttons) and has plenty of answers (bags, jackets, purses, wallets, suitcases, pencil boxes, cushion covers, tents, jeans, hoodies)."
   }
  ]
 }

@@ -3785,12 +3785,12 @@
   },
   {
    "id": "game10-421",
-   "Name": "Name something handed down as an heirloom.",
-   "action": "keep",
+   "Name": "Name something passed down from grandparents.",
+   "action": "edit",
    "original": {
     "Name": "Name something handed down as an heirloom."
    },
-   "note": ""
+   "note": "Debate: Replaces the uncommon word 'heirloom' and keeps the idea, with shared answers (gold jewellery, watch, Quran, house)."
   },
   {
    "id": "game10-422",
@@ -3831,11 +3831,11 @@
   {
    "id": "game10-426",
    "Name": "Which country has the best name?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which country has the best name?"
    },
-   "note": ""
+   "note": "Debate: Pure taste with no common answer, so players rarely match."
   },
   {
    "id": "game10-427",
@@ -5912,6 +5912,60 @@
    "Name": "Holiday: Northern Areas or Abroad?",
    "action": "add",
    "note": "New card (debate): A real local travel split that differs from Mountains vs Beach and Hunza vs Swat."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous dam in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): No dam card in the deck; Tarbela and Mangla are widely known."
+  },
+  {
+   "id": null,
+   "Name": "Name a city in Azad Kashmir.",
+   "action": "add",
+   "note": "New card (debate): Completes the regional city set (Muzaffarabad, Mirpur, Kotli, Rawalakot)."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal that lives in the desert.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the desert-name and desert-association cards; clear answers (camel, snake, scorpion, lizard)."
+  },
+  {
+   "id": null,
+   "Name": "Name a vegetable that grows underground.",
+   "action": "add",
+   "note": "New card (debate): Not a duplicate of other vegetable cards; strong matches (aloo, gajar, mooli, pyaz)."
+  },
+  {
+   "id": null,
+   "Name": "Name a tree that gives good shade.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the fruit-tree card; local answers (neem, peepal, bargad, sheesham)."
+  },
+  {
+   "id": null,
+   "Name": "Name something that glows in the dark.",
+   "action": "add",
+   "note": "New card (debate): No similar card; common answers (jugnu, moon, stars, phone screen)."
+  },
+  {
+   "id": null,
+   "Name": "Name a sea or ocean.",
+   "action": "add",
+   "note": "New card (debate): No sea/ocean card (only lakes and sea creatures); Arabian Sea and Indian Ocean are natural matches."
+  },
+  {
+   "id": null,
+   "Name": "Name a fruit grown in northern Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Accurate and new (apricot, cherry, apple); walnut is dropped from the expected answers as the challenger noted."
+  },
+  {
+   "id": null,
+   "Name": "Name a reptile.",
+   "action": "add",
+   "note": "New card (debate): No reptile card; clear answers (snake, lizard, crocodile, turtle)."
   }
  ]
 }

@@ -4548,36 +4548,36 @@
   },
   {
    "id": "game16-414",
-   "Name": "When do you want to retire? What do you want to do?",
+   "Name": "When do you want to retire, and what will you do all day?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "When do you want to retire? What do you want to do?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Joins two clipped questions into one sentence."
   },
   {
    "id": "game16-415",
-   "Name": "Do you prefer summer or winter activities?",
+   "Name": "Which do you enjoy more: summer activities (mango parties, late-night cricket) or winter ones (bonfires, chilgoze by the heater, a trip to Murree for snow)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do you prefer summer or winter activities?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: adds local examples and keeps the activities angle, so it stays distinct from 51 (favorite season), 419 (gola ganda) and 422 (winter food)."
   },
   {
    "id": "game16-416",
-   "Name": "What do you like to do in the spring?",
+   "Name": "What do you like to do in spring (flower shows, picnics, kite flying)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What do you like to do in the spring?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Local prompts invite real answers."
   },
   {
    "id": "game16-417",
@@ -4605,12 +4605,12 @@
    "id": "game16-419",
    "Name": "Which season are you most active in?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Which season are you most active in?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Weak near-duplicate of 51, 414 and 417."
   },
   {
    "id": "game16-420",
@@ -4867,14 +4867,14 @@
   },
   {
    "id": "game16-443",
-   "Name": "What are some good and bad things about the education system in your country?",
+   "Name": "What are some good and bad things about the education system in Pakistan?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What are some good and bad things about the education system in your country?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Uses Pakistan instead of 'your country' for the deck's audience."
   },
   {
    "id": "game16-444",
@@ -4900,14 +4900,14 @@
   },
   {
    "id": "game16-446",
-   "Name": "What do you think of buffets?",
+   "Name": "What is your strategy at a shaadi buffet or an all-you-can-eat deal?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What do you think of buffets?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: A desi frame makes a bland question funny."
   },
   {
    "id": "game16-447",
@@ -4968,23 +4968,23 @@
    "id": "game16-452",
    "Name": "What food do you know you shouldn’t eat but can’t stop yourself?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What food do you know you shouldn’t eat but can’t stop yourself?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Same meaning as 244 (guilty-pleasure food or habit)."
   },
   {
    "id": "game16-453",
-   "Name": "Do you like spicy food?",
+   "Name": "How much mirch can you handle, and who in your family eats the spiciest food?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do you like spicy food?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Turns a yes/no question into an open one."
   },
   {
    "id": "game16-454",
@@ -5098,14 +5098,14 @@
   },
   {
    "id": "game16-464",
-   "Name": "The world is overrun by rabid dogs as smart as a five-year-old. Where do you hide?",
+   "Name": "Your city is taken over by monkeys as smart as five-year-olds. Where do you hide?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "The world has become infested with rabid dogs with the intelligence of a 5-year-old, where do you hole up?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "clearer wording"
+   "note": "clearer wording; Debate: Keeps the silly survival idea without the grim rabies reference."
   },
   {
    "id": "game16-465",
@@ -7925,6 +7925,41 @@
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
    "note": "New card (debate): The examples are accurate and the card is different from the biryani-city card."
+  },
+  {
+   "id": null,
+   "Name": "Who is the biggest foodie in your family, and what do they always order?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Fun family food question; not already in the deck (248 is about friends, 725 is your own order)."
+  },
+  {
+   "id": null,
+   "Name": "Did you finish your summer vacation homework on time, or in the last three days of the holidays?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Classic Pakistani school memory, distinct from 700 (homework excuses)."
+  },
+  {
+   "id": null,
+   "Name": "What is something your parents hoped for you that you have actually achieved?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): A positive angle on 406/408 that does not duplicate either."
+  },
+  {
+   "id": null,
+   "Name": "If you could ask the oldest person in your family one question, what would it be?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Warm question across generations, distinct from 638 (lessons from grandparents)."
+  },
+  {
+   "id": null,
+   "Name": "What was the most stressful exam you ever sat, and what did you do the night before?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): A storytelling angle not covered by 433 (opinion on exams) or 729 (worst result card)."
   }
  ]
 }
