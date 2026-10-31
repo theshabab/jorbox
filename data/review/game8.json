@@ -44,8 +44,8 @@
   },
   {
    "id": "game8-4",
-   "Name": "NO DIGNITY <---> DEEPLY RESPECTFUL",
-   "Description": "Make up a title for a biography that is this respectful to the elderly person it is about",
+   "Name": "DISRESPECTFUL <---> DEEPLY RESPECTFUL",
+   "Description": "Make up a title for a biography of your Dada or Nana that is this respectful",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -53,20 +53,20 @@
     "Description": "Make up a title for a movie that is this respectful to its dignified older star",
     "Category": "Writing"
    },
-   "note": "movie star -> biography"
+   "note": "movie star -> biography; Debate: Clearer opposite ends and a local subject; not a duplicate of the famous-person autobiography card."
   },
   {
    "id": "game8-5",
    "Name": "NOT SCARY <---> WAY TOO SCARY",
    "Description": "Make up a title for a story book that is this scary",
    "Category": "Writing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "NOT SCARY <---> WAY TOO SCARY",
     "Description": "Make up a title for a movie that is this scary",
     "Category": "Writing"
    },
-   "note": "movie -> book"
+   "note": "Debate: Same meaning as idx 135 (title for a ghost story book that is this spooky)."
   },
   {
    "id": "game8-6",
@@ -213,16 +213,16 @@
   },
   {
    "id": "game8-17",
-   "Name": "KNEW IT'S A PROFILE <---> THOUGHT IT'S GOOGLE",
-   "Description": "Write the first line of a rishta profile where it was this likely the person actually thought they were typing something into Google",
+   "Name": "KNEW IT WAS A PROFILE <---> THOUGHT IT WAS GOOGLE",
+   "Description": "Write the first line of a rishta profile from someone who was this likely to think they were typing into Google",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "KNEW IT'S A PROFILE <---> THOUGHT IT'S GOOGLE",
     "Description": "Write the first line of a rishta profile where it was this likely the person actually thought they were typing something into Google",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Fixes the grammar in both the scale and the task (challenger's amended version)."
   },
   {
    "id": "game8-18",
@@ -253,15 +253,15 @@
   {
    "id": "game8-20",
    "Name": "NOT ANGRY <---> VERY ANGRY",
-   "Description": "Write a text message that suggests the person who sent it is this likely to be secretly angry at you",
+   "Description": "Write a text message from someone who is this secretly angry at you",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT ANGRY <---> VERY ANGRY",
     "Description": "Write a text message that suggests the person who sent it is this likely to be secretly angry at you",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: The scale measures how angry but the task asked how likely; the new task matches the scale and is shorter."
   },
   {
    "id": "game8-21",
@@ -1045,16 +1045,16 @@
   },
   {
    "id": "game8-81",
-   "Name": "NOT A CHEF <---> TRES CHEF",
-   "Description": "Write a piece of advice that is this likely to have been written by a French chef",
+   "Name": "NOT A BAWARCHI <---> USTAD DEG BAWARCHI",
+   "Description": "Write a piece of advice that is this likely to have come from a shaadi deg bawarchi",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT A CHEF <---> TRES CHEF",
     "Description": "Write a piece of advice that is this likely to have been written by a French chef",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Replaces the unclear French-chef card ('TRES CHEF') with a local one. The scale now matches the 'this likely' task and follows the pattern of the shepherd card, idx 79 (challenger's amended version)."
   },
   {
    "id": "game8-82",
@@ -1267,15 +1267,15 @@
   {
    "id": "game8-98",
    "Name": "CHILL <---> VERY ANGRY",
-   "Description": "Make up a name for a crowd that’s this angry",
+   "Description": "Write a chant from a crowd of cricket fans that is this angry after Pakistan loses",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "CHILL <---> VERY ANGRY",
     "Description": "Make up a name for a crowd that’s this angry",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: 'A name for a crowd' was hard to play. A fan chant is clear and local, and it avoids repeating the political-slogan card, idx 101 (challenger's amended version)."
   },
   {
    "id": "game8-99",
@@ -9278,6 +9278,70 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): A well-loved desi household joke in the deck's likelihood-drawing style. The only ice-cream card is a parlor name."
+  },
+  {
+   "id": null,
+   "Name": "TOTALLY HONEST <---> WILD EXAGGERATION",
+   "Description": "Write a property dealer's ad for an empty plot that is this exaggerated",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local card with a different subject from the newspaper-headline card, idx 657."
+  },
+  {
+   "id": null,
+   "Name": "BORED <---> SCREAMING",
+   "Description": "Write a cricket commentator's line about a last-ball six that is this excited",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): The deck has no commentator card; the opposites are clear and the setting is local."
+  },
+  {
+   "id": null,
+   "Name": "REASONABLE <---> RIDICULOUS",
+   "Description": "Write a rickshaw driver's excuse for charging you double that is this ridiculous",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local excuse card; the existing rickshaw cards are only about slogans and decoration."
+  },
+  {
+   "id": null,
+   "Name": "INEDIBLE <---> FIVE-STAR",
+   "Description": "Make up a name for a hostel mess dish that tastes this good",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear scale, and different from the 'how desi' dish card, idx 656."
+  },
+  {
+   "id": null,
+   "Name": "SIMPLE <---> SUPER FANCY",
+   "Description": "Make up a name for a shaadi hall that sounds this fancy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Familiar local joke, and a different setting from the haveli card, idx 155."
+  },
+  {
+   "id": null,
+   "Name": "NOT LIKELY <---> VERY LIKELY",
+   "Description": "Write an excuse for skipping a family dawat that is this likely to work",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): The existing excuse cards are about being late or homework; none is about dawats."
+  },
+  {
+   "id": null,
+   "Name": "MODERN <---> \"HAMARAY ZAMANAY MEIN...\"",
+   "Description": "Make up a title for a book written by a grandparent that is this nostalgic",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny family joke; the deck has no nostalgia card."
+  },
+  {
+   "id": null,
+   "Name": "VERY NERVOUS <---> SUPER CONFIDENT",
+   "Description": "Write the opening line of a speech for a school debate competition that is this confident",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New school card; it does not overlap with the speech-length or good/bad-speech cards."
   }
  ]
 }

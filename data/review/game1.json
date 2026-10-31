@@ -9379,7 +9379,7 @@
   {
    "id": "game1-722",
    "Name": "Ibn Rushd",
-   "Description": "Andalusian philosopher and judge",
+   "Description": "Cordoba judge, great commentator on Aristotle",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9387,12 +9387,12 @@
     "Description": "Great philosopher",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Accurate. He was qadi of Cordoba and was known as 'the Commentator', which identifies him better than the generic hint."
   },
   {
    "id": "game1-723",
    "Name": "Al-Ghazali",
-   "Description": "Theologian, Hujjat al-Islam",
+   "Description": "Hujjat al-Islam, author of Ihya Ulum al-Din",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9400,12 +9400,12 @@
     "Description": "Islamic theologian",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Naming his best-known work makes the hint more specific."
   },
   {
    "id": "game1-724",
    "Name": "Ibn Battuta",
-   "Description": "Moroccan traveler of the world",
+   "Description": "Moroccan who travelled from Tangier to China",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9413,12 +9413,12 @@
     "Description": "Great traveler",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Using the challenger's amendment. The Rihla was dictated to Ibn Juzayy, so 'wrote' is inaccurate, and the travel route also fixes the awkward wording."
   },
   {
    "id": "game1-725",
    "Name": "Al-Biruni",
-   "Description": "Polymath who measured the Earth",
+   "Description": "Measured Earth's radius at Nandana Fort, Jhelum",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9426,7 +9426,7 @@
     "Description": "Polymath scholar",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Accurate and specific, and it gives the card a Pakistani link."
   },
   {
    "id": "game1-726",
@@ -9444,7 +9444,7 @@
   {
    "id": "game1-727",
    "Name": "Harun al-Rashid",
-   "Description": "Abbasid Caliph of Baghdad",
+   "Description": "Fifth Abbasid caliph, Baghdad at its peak",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9452,12 +9452,12 @@
     "Description": "Abbasid Caliph",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Using the challenger's amendment. 'Fifth Abbasid caliph' is precise, while 'golden age' could also mean al-Ma'mun."
   },
   {
    "id": "game1-728",
    "Name": "Tariq ibn Ziyad",
-   "Description": "Conqueror of Spain in 711",
+   "Description": "Landed in Spain in 711; Gibraltar named after him",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9465,12 +9465,12 @@
     "Description": "Conqueror of Spain",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Using the challenger's amendment. It adds the Jabal Tariq clue and avoids saying he conquered all of Spain, which overstates it."
   },
   {
    "id": "game1-729",
    "Name": "Umar ibn Abdul Aziz",
-   "Description": "Umayyad Caliph known for piety",
+   "Description": "Pious Umayyad caliph, called the fifth rightly guided",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9478,12 +9478,12 @@
     "Description": "Pious Caliph",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The widely used title identifies him; 'known for piety' was vague."
   },
   {
    "id": "game1-730",
    "Name": "Imam Bukhari",
-   "Description": "Compiler of the Sahih, from Bukhara",
+   "Description": "Compiled the most authentic hadith collection",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9491,7 +9491,7 @@
     "Description": "Hadith compiler",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: 'Bukhara' nearly gave away the word. The new hint is accurate and still separates him from Imam Muslim."
   },
   {
    "id": "game1-731",
@@ -9574,7 +9574,7 @@
   {
    "id": "game1-737",
    "Name": "Ibn Taymiyyah",
-   "Description": "Damascus scholar of the 13th century",
+   "Description": "Hanbali scholar of Damascus, died 1328",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9582,12 +9582,12 @@
     "Description": "Islamic scholar",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes the misleading '13th century' (he lived 1263-1328) and adds his school."
   },
   {
    "id": "game1-738",
    "Name": "Al-Razi",
-   "Description": "Persian physician and chemist",
+   "Description": "Persian physician who described smallpox and measles",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9595,12 +9595,12 @@
     "Description": "Physician and chemist",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Names his best-known achievement, so the hint is more specific."
   },
   {
    "id": "game1-739",
    "Name": "Omar Khayyam",
-   "Description": "Persian poet and mathematician",
+   "Description": "Mathematician who reformed the Persian calendar",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9608,7 +9608,7 @@
     "Description": "Poet and mathematician",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The Jalali calendar reform is accurate, and the hint moves away from the Rubaiyat and its wine verses."
   },
   {
    "id": "game1-740",
@@ -9668,10 +9668,10 @@
   {
    "id": null,
    "Name": "Shopkeeper",
-   "Description": "Runs a shop",
+   "Description": "Dukandaar selling goods from behind a counter",
    "Category": "Occupations",
    "action": "add",
-   "note": "Same new card as Charades"
+   "note": "Same new card as Charades; Debate: The old hint contained 'shop', part of the word. The new one adds a local term."
   },
   {
    "id": null,
@@ -9692,10 +9692,10 @@
   {
    "id": null,
    "Name": "Tahajjud",
-   "Description": "Optional night prayer",
+   "Description": "Voluntary prayer after waking late at night",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "Same new card as Charades"
+   "note": "Same new card as Charades; Debate: Accurate and specific, so it is not confused with Taraweeh or other night prayers."
   },
   {
    "id": null,
@@ -9788,10 +9788,10 @@
   {
    "id": null,
    "Name": "Chappal",
-   "Description": "Open slipper, the ammi's weapon of choice",
+   "Description": "Open slipper, Ammi's weapon of choice",
    "Category": "Clothing",
    "action": "add",
-   "note": "New card (debate): Classic desi footwear and harmless family in-joke; no footwear card exists."
+   "note": "New card (debate): Classic desi footwear and harmless family in-joke; no footwear card exists.; Debate: Grammar fix that keeps the joke."
   },
   {
    "id": null,

@@ -115,14 +115,14 @@
   },
   {
    "id": "game9-11",
-   "Name": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
-   "Description": "Cube",
-   "action": "keep",
+   "Name": "In what year did Hungarian professor Ernő Rubik invent his famous puzzle cube?",
+   "Description": "1974",
+   "action": "edit",
    "original": {
     "Name": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
     "Description": "Cube"
    },
-   "note": ""
+   "note": "Debate: The old question gave its own answer away. 1974, the year of the first prototype, is the standard answer."
   },
   {
    "id": "game9-12",
@@ -390,14 +390,14 @@
   },
   {
    "id": "game9-36",
-   "Name": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+   "Name": "What is the knee-length pleated tartan skirt traditionally worn by Scottish men called?",
    "Description": "Kilt",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which item of clothing is usually worn by a Scotsman at a wedding?",
     "Description": "Kilt"
    },
-   "note": ""
+   "note": "Debate: The old wording wrongly tied the kilt to weddings."
   },
   {
    "id": "game9-37",
@@ -1216,13 +1216,13 @@
   {
    "id": "game9-111",
    "Name": "What is the largest freshwater lake in the world by surface area?",
-   "Description": "Lake Superior",
+   "Description": "Lake Superior (the larger Caspian Sea is salty)",
    "action": "edit",
    "original": {
     "Name": "Which is the largest freshwater lake in the world?",
     "Description": "Lake Superior"
    },
-   "note": "ambiguous: Baikal is largest by volume"
+   "note": "ambiguous: Baikal is largest by volume; Debate: The note heads off disputes with the deck's 'largest lake: Caspian Sea' card."
   },
   {
    "id": "game9-112",
@@ -1622,14 +1622,14 @@
   },
   {
    "id": "game9-148",
-   "Name": "Unlike most salamanders, newts have which body part flattened for swimming?",
-   "Description": "Tail",
+   "Name": "Newts belong to which group of amphibians?",
+   "Description": "Salamanders",
    "action": "edit",
    "original": {
     "Name": "Unlike on most salamanders, this part of a newt is flat?",
     "Description": "Tail"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: The old premise was wrong, because many salamanders also have flattened tails. The new card is also different from idx 154."
   },
   {
    "id": "game9-149",
@@ -2018,14 +2018,14 @@
   },
   {
    "id": "game9-184",
-   "Name": "What color/colour is a polar bear's skin?",
+   "Name": "What colour is a polar bear's skin?",
    "Description": "Black",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What color/colour is a polar bear's skin?",
     "Description": "Black"
    },
-   "note": ""
+   "note": "Debate: Removes the awkward 'color/colour' spelling and matches the deck's 'colour' spelling."
   },
   {
    "id": "game9-185",
@@ -2073,14 +2073,14 @@
   },
   {
    "id": "game9-189",
-   "Name": "Which species is a \"mountain chicken\"?",
-   "Description": "Frog",
-   "action": "keep",
+   "Name": "What kind of animal is the \"mountain chicken\"?",
+   "Description": "A frog",
+   "action": "edit",
    "original": {
     "Name": "Which species is a \"mountain chicken\"?",
     "Description": "Frog"
    },
-   "note": ""
+   "note": "Debate: The expected answer is a type of animal, not a species name, so the new wording is clearer."
   },
   {
    "id": "game9-190",
@@ -10669,6 +10669,76 @@
    "Description": "Arslan Ash",
    "action": "add",
    "note": "New card (debate): Accurate (he won both Evo Japan and Evo in 2019). The owner allows video-game cards, and no duplicate exists."
+  },
+  {
+   "id": null,
+   "Name": "What is the national fruit of Pakistan?",
+   "Description": "Mango",
+   "action": "add",
+   "note": "New card (debate): A Pakistani national symbol that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Oman?",
+   "Description": "Muscat",
+   "action": "add",
+   "note": "New card (debate): A Muslim-world capital that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Kazakhstan?",
+   "Description": "Astana",
+   "action": "add",
+   "note": "New card (debate): The answer is correct now that the city is named Astana again (since 2022), and the card is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the collective noun for a group of lions?",
+   "Description": "A pride",
+   "action": "add",
+   "note": "New card (debate): Fits the slice's collective-noun cards and is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the only mammal capable of true, sustained flight?",
+   "Description": "The bat",
+   "action": "add",
+   "note": "New card (debate): A classic, correct animal question that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which country is often said to have the most islands in the world, with about 267,000?",
+   "Description": "Sweden",
+   "action": "add",
+   "note": "New card (debate): Challenger's hedged wording, because countries count islands differently. The card is different from the Gotland card."
+  },
+  {
+   "id": null,
+   "Name": "What is the currency of Saudi Arabia?",
+   "Description": "Saudi riyal",
+   "action": "add",
+   "note": "New card (debate): A Muslim-world currency that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the currency of Turkey (Türkiye)?",
+   "Description": "Turkish lira",
+   "action": "add",
+   "note": "New card (debate): A Muslim-world currency that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which flightless, nocturnal bird is the national symbol of New Zealand?",
+   "Description": "Kiwi",
+   "action": "add",
+   "note": "New card (debate): A well-known bird question. It asks for a bird, while the kākāpō card asks for a country."
+  },
+  {
+   "id": null,
+   "Name": "Which desert near Bahawalpur in Punjab is home to the massive Derawar Fort?",
+   "Description": "Cholistan Desert",
+   "action": "add",
+   "note": "New card (debate): Correct Pakistani geography, and no card on Cholistan or Derawar exists."
   }
  ]
 }
