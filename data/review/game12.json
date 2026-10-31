@@ -3291,11 +3291,11 @@
   {
    "id": "game12-366",
    "Name": "Mist",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Mist"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of Fog, which is in the deck. Players cannot tell the two apart when describing or acting."
   },
   {
    "id": "game12-367",
@@ -3309,11 +3309,11 @@
   {
    "id": "game12-368",
    "Name": "Mitten",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Mitten"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of Glove, which is in the deck, and uncommon in Pakistan."
   },
   {
    "id": "game12-369",
@@ -3462,20 +3462,20 @@
   {
    "id": "game12-385",
    "Name": "Musket",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Musket"
    },
-   "note": ""
+   "note": "Debate: Obscure historical weapon. Gun and Cannon in the deck already cover it."
   },
   {
    "id": "game12-386",
-   "Name": "Mustache",
-   "action": "keep",
+   "Name": "Moustache",
+   "action": "edit",
    "original": {
     "Name": "Mustache"
    },
-   "note": ""
+   "note": "Debate: British/Pakistani spelling matches the deck's style. No other card says Moustache."
   },
   {
    "id": "game12-387",
@@ -3677,12 +3677,12 @@
   },
   {
    "id": "game12-409",
-   "Name": "Pajamas",
-   "action": "keep",
+   "Name": "Pyjamas",
+   "action": "edit",
    "original": {
     "Name": "Pajamas"
    },
-   "note": ""
+   "note": "Debate: British/Pakistani spelling matches the deck's style (Armour, Odour). No other card says Pyjamas."
   },
   {
    "id": "game12-410",
@@ -10067,6 +10067,60 @@
    "Name": "Kitchen",
    "action": "add",
    "note": "New card (debate): A common household place that is easy to describe and is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Pothole",
+   "action": "add",
+   "note": "New card (debate): Checked: not in the deck. A concrete local noun that is easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Guest",
+   "action": "add",
+   "note": "New card (debate): Checked: not in the deck. A central part of desi hospitality and easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Neighbour",
+   "action": "add",
+   "note": "New card (debate): Checked: not in the deck under either spelling. An everyday noun in British spelling."
+  },
+  {
+   "id": null,
+   "Name": "Mosquito Net",
+   "action": "add",
+   "note": "New card (debate): A separate everyday object (machhar dani), unlike Mosquito or Mosquito Coil. Compound nouns already appear in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Nazar",
+   "action": "add",
+   "note": "New card (debate): Checked: not in the deck, and no Evil Eye card exists. The owner explicitly allows nazar jokes."
+  },
+  {
+   "id": null,
+   "Name": "Policeman",
+   "action": "add",
+   "note": "New card (debate): Checked: no police card in the deck. A familiar person noun that is easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Monsoon",
+   "action": "add",
+   "note": "New card (debate): Checked: not in the deck. A key Pakistani season, different from Rain."
+  },
+  {
+   "id": null,
+   "Name": "Milkman",
+   "action": "add",
+   "note": "New card (debate): Checked: not in the deck, only Milk is. The doodhwala is a classic local figure."
+  },
+  {
+   "id": null,
+   "Name": "Pilot",
+   "action": "add",
+   "note": "New card (debate): Checked: not in the deck. A clear occupation noun that is easy to act out."
   }
  ]
 }

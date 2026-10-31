@@ -653,12 +653,12 @@
   },
   {
    "id": "game10-73",
-   "Name": "Paratha or Toast for breakfast?",
-   "action": "keep",
+   "Name": "Breakfast: Paratha or Toast?",
+   "action": "edit",
    "original": {
     "Name": "Paratha or Toast for breakfast?"
    },
-   "note": ""
+   "note": "Debate: Matches the deck's 'Topic: A or B?' style (e.g. 'Breakfast: Halwa Puri or Anda Paratha?')."
   },
   {
    "id": "game10-74",
@@ -680,12 +680,12 @@
   },
   {
    "id": "game10-76",
-   "Name": "Online Class or Meeting: Dress Up or Stay in Pajamas?",
+   "Name": "Video Call: Dress Up or Stay in Pajamas?",
    "action": "edit",
    "original": {
     "Name": "Formal Clothes or Pajamas?"
    },
-   "note": "Debate: I used the challenger's version. The original had no setting, and 'At Home' would make the answer obvious. Online calls are a choice people really disagree on."
+   "note": "Debate: I used the challenger's version. The original had no setting, and 'At Home' would make the answer obvious. Online calls are a choice people really disagree on.; Debate: Challenger's amendment: fits the 'Topic: A or B?' style and still covers both online classes and work meetings."
   },
   {
    "id": "game10-77",
@@ -743,12 +743,12 @@
   },
   {
    "id": "game10-83",
-   "Name": "Sleep with Fan ON or OFF (in winter)?",
-   "action": "keep",
+   "Name": "Winter Nights: Fan On or Off?",
+   "action": "edit",
    "original": {
     "Name": "Sleep with Fan ON or OFF (in winter)?"
    },
-   "note": ""
+   "note": "Debate: Removes the odd capitals and the parenthetical; matches 'Winter Nights: Razai or Heater?'."
   },
   {
    "id": "game10-84",
@@ -6098,6 +6098,42 @@
    "Name": "Name a sound you hear at sehri time.",
    "action": "add",
    "note": "New card (debate): Ramazan card with shared answers (alarm, sehri drummer, masjid announcement, Ammi calling, frying parathay). The sehri food card, the sehri either-or and the street-sounds card do not cover it."
+  },
+  {
+   "id": null,
+   "Name": "Train: Upper Berth or Lower Berth?",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistan Railways choice, not covered by 'Travel: Car or Train?' or the train journey prompt."
+  },
+  {
+   "id": null,
+   "Name": "Eid Shopping: Early or on Chand Raat?",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani preference, different from 'Name something people buy on Chand Raat.'"
+  },
+  {
+   "id": null,
+   "Name": "Name something you find under the bed.",
+   "action": "add",
+   "note": "New card (debate): Funny household prompt with shared answers (chappal, dust, lost sock, suitcase); nothing similar in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Gola Ganda or Falooda?",
+   "action": "add",
+   "note": "New card (debate): Pakistani summer treats; the pair is not in the deck ('Kulfi or Ice Cream?' is a different pair)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you carry when it rains.",
+   "action": "add",
+   "note": "New card (debate): Simple prompt with clear common answers (umbrella, raincoat, plastic bag); different from the heavy-rain prompt."
+  },
+  {
+   "id": null,
+   "Name": "Name a fruit that is green.",
+   "action": "add",
+   "note": "New card (debate): Completes the yellow/red fruit prompts (idx 0, 25) and gives different answers from 'Name something green.'"
   }
  ]
 }

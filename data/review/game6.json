@@ -3548,6 +3548,36 @@
    "Description": "Things That Make You Sneeze",
    "action": "add",
    "note": "New card (debate): Light and playable, with well over 8 common answers (dust, kali mirch, pollen, perfume, tarka smoke, cold, feathers); no duplicate card."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Grey",
+   "action": "add",
+   "note": "New card (debate): The deck has eleven colour cards but none for grey, and grey has many everyday answers (pigeon, elephant, cement, ash, smoke, donkey, steel utensils, clouds). No duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Animals That Lay Eggs",
+   "action": "add",
+   "note": "New card (debate): Not in the deck. It has many answers beyond Birds (snakes, lizards, turtles, fish, frogs, crocodiles, insects), and they are factually sound."
+  },
+  {
+   "id": null,
+   "Description": "Farm Animals",
+   "action": "add",
+   "note": "New card (debate): Goes with 'Wild Animals of Pakistan', and players will know the answers (cow, buffalo, goat, sheep, hen, donkey, horse, camel, duck, bull, ox). Kept the original wording because the amended 'Animals You See in a Village' would overlap 'Things in a Village (Gaon)' (idx 346)."
+  },
+  {
+   "id": null,
+   "Description": "Things With Spots",
+   "action": "add",
+   "note": "New card (debate): A companion to 'Things With Stripes' (idx 297) with no duplicate in the deck. Its answers are well known (leopard, cheetah, giraffe, ladybird, dice, dominoes, dalmatian, chickenpox, polka-dot fabric)."
+  },
+  {
+   "id": null,
+   "Description": "Things You Can Buy for Under 100 Rupees",
+   "action": "add",
+   "note": "New card (debate): A local everyday category that starts inflation arguments: toffee, matchbox, pencil, eraser, sharpener, pakora, roti, small water bottle, balloon, chewing gum. The reason uses the challenger's cleaned-up wording."
   }
  ]
 }
