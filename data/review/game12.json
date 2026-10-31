@@ -5523,11 +5523,11 @@
   {
    "id": "game12-614",
    "Name": "Tarp",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Tarp"
    },
-   "note": ""
+   "note": "Debate: Clipped American word that most players will not know (locally it is 'tirpal'). It is hard to tell apart from Tent and Sheet, which are both live."
   },
   {
    "id": "game12-615",
@@ -10175,6 +10175,48 @@
    "Name": "Weighing Scale",
    "action": "add",
    "note": "New card (debate): An everyday object; 'Weighing' rules out the ruler and fish-scale meanings. No Scale or Tarazu card exists."
+  },
+  {
+   "id": null,
+   "Name": "Thunder",
+   "action": "add",
+   "note": "New card (debate): Common noun that players can act out. No Thunder card exists, and it is separate from Lightning."
+  },
+  {
+   "id": null,
+   "Name": "Thumb",
+   "action": "add",
+   "note": "New card (debate): Easy body part to act (thumbs up). The deck has Finger but not Thumb."
+  },
+  {
+   "id": null,
+   "Name": "Strawberry",
+   "action": "add",
+   "note": "New card (debate): Familiar, drawable fruit. It does not repeat the general Berry card."
+  },
+  {
+   "id": null,
+   "Name": "Teacher",
+   "action": "add",
+   "note": "New card (debate): Easy person noun that every player knows. No teacher or ustad card exists."
+  },
+  {
+   "id": null,
+   "Name": "Thief",
+   "action": "add",
+   "note": "New card (debate): Fun to act out (chor). No thief, burglar or robber card exists."
+  },
+  {
+   "id": null,
+   "Name": "Submarine",
+   "action": "add",
+   "note": "New card (debate): Well-known noun that is easy to draw. It is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sandstorm",
+   "action": "add",
+   "note": "New card (debate): Recognisable compound weather noun. It is distinct from Storm and Desert and is not in the deck."
   }
  ]
 }

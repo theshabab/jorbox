@@ -357,15 +357,15 @@
   {
    "id": "game3-28",
    "Name": "Currencies",
-   "Description": "Rupee|Dollar|Euro|Pound|Yen|Yuan|Riyal|Dirham|Dinar|Taka|Lira|Ruble|Won|Franc|Peso|Ringgit|Baht|Rupiah|Rand|Real",
+   "Description": "Rupee|Dollar|Euro|Pound|Yen|Yuan|Riyal|Dirham|Dinar|Taka|Lira|Ruble|Won|Franc|Peso|Ringgit|Baht|Rupiah|Rand|Afghani",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Currencies",
     "Description": "Rupee|Dollar|Euro|Pound|Yen|Yuan|Riyal|Dirham|Dinar|Taka|Lira|Ruble|Won|Franc|Peso|Ringgit|Baht|Rupiah|Rand|Real",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Real is obscure and reads as the English word; Afghani is well known."
   },
   {
    "id": "game3-29",
@@ -473,7 +473,7 @@
   },
   {
    "id": "game3-37",
-   "Name": "Companions of Prophet Muhammad",
+   "Name": "Companions of the Prophet (PBUH)",
    "Description": "Abu Bakr|Umar|Uthman|Ali|Talha|Zubair|Abdur Rahman Bin Auf|Saad Bin Abi Waqqas|Saeed Bin Zaid|Abu Ubaidah|Bilal|Khalid Bin Walid|Amr Bin Aas|Abu Hurairah|Anas Bin Malik|Abdullah Bin Umar|Abdullah Bin Abbas|Abdullah Bin Masud|Ayesha|Hafsa",
    "Category": "",
    "action": "edit",
@@ -482,7 +482,7 @@
     "Description": "Abu Bakr|Umar|Uthman|Ali|Talha|Zubair|Abdur Rahman|Saad|Saeed|Abu Ubaidah|Bilal|Khalid Bin Walid|Amr Bin Aas|Abu Hurairah|Anas Bin Malik|Abdullah Bin Umar|Abdullah Bin Abbas|Abdullah Bin Masud|Ayesha|Hafsa",
     "Category": ""
    },
-   "note": "full names for ambiguous Saad/Saeed/Abdur Rahman"
+   "note": "full names for ambiguous Saad/Saeed/Abdur Rahman; Debate: More respectful and natural title; words unchanged."
   },
   {
    "id": "game3-38",
@@ -851,7 +851,7 @@
   {
    "id": "game3-66",
    "Name": "Lahore Landmarks",
-   "Description": "Minar e Pakistan|Badshahi Mosque|Lahore Fort|Shalimar Gardens|Wazir Khan Mosque|Data Darbar|Lahore Museum|Lahore Zoo|Jallo Park|Race Course|Liberty|Mall Road|Canal|Wagah Border|Greater Iqbal Park|Delhi Gate|Bhatti Gate|Lahore High Court|GPO|Chauburji",
+   "Description": "Minar e Pakistan|Badshahi Mosque|Lahore Fort|Shalimar Gardens|Wazir Khan Mosque|Data Darbar|Lahore Museum|Lahore Zoo|Jallo Park|Race Course|Liberty|Mall Road|Canal|Wagah Border|Anarkali|Delhi Gate|Bhatti Gate|Lahore High Court|GPO|Chauburji",
    "Category": "",
    "action": "edit",
    "original": {
@@ -859,7 +859,7 @@
     "Description": "Minar e Pakistan|Badshahi Mosque|Lahore Fort|Shalimar Gardens|Wazir Khan Mosque|Data Darbar|Lahore Museum|Zoo|Jallo Park|Race Course|Liberty|Mall Road|Canal|Wagah Border|Greater Iqbal Park|Delhi Gate|Bhatti Gate|Lahore High Court|GPO|Chauburji",
     "Category": ""
    },
-   "note": "Zoo -> Lahore Zoo"
+   "note": "Zoo -> Lahore Zoo; Debate: Minar e Pakistan stands in Greater Iqbal Park, so the two were effectively the same word; replaced with Anarkali."
   },
   {
    "id": "game3-67",
@@ -942,7 +942,7 @@
   {
    "id": "game3-73",
    "Name": "Coffee Types",
-   "Description": "Espresso|Cappuccino|Latte|Mocha|Americano|Macchiato|Flat White|Turkish|Cold Brew|Iced Coffee|Frappe|Affogato|Instant Coffee|Arabic Qahwa",
+   "Description": "Espresso|Cappuccino|Latte|Mocha|Americano|Macchiato|Flat White|Turkish|Cold Brew|Iced Coffee|Frappe|Dalgona|Instant Coffee|Arabic Qahwa",
    "Category": "",
    "action": "edit",
    "original": {
@@ -950,7 +950,7 @@
     "Description": "Espresso|Cappuccino|Latte|Mocha|Americano|Macchiato|Flat White|Irish|Turkish|Cold Brew|Iced Coffee|Frappe|Affogato|Cortado|Ristretto|Lungo|Doppio|Vienna|Breve|Red Eye",
     "Category": ""
    },
-   "note": "Irish coffee (alcohol) and obscure types removed"
+   "note": "Irish coffee (alcohol) and obscure types removed; Debate: Affogato is obscure locally; Dalgona was a well-known home trend in Pakistan."
   },
   {
    "id": "game3-74",
@@ -1059,15 +1059,15 @@
   {
    "id": "game3-82",
    "Name": "Rice Dishes",
-   "Description": "Biryani|Pulao|Fried Rice|Boiled Rice|Zarda|Kheer|Khichdi|Tehari|Mandi|Kabuli Pulao|Sindhi Biryani|Bombay Biryani|Hyderabadi Biryani|Yakhni Pulao|Matar Pulao|Chana Pulao|Vegetable Pulao|Egg Fried Rice|Chicken Fried Rice|Garlic Rice",
+   "Description": "Biryani|Pulao|Fried Rice|Boiled Rice|Zarda|Kheer|Khichdi|Tehari|Mandi|Kabuli Pulao|Sindhi Biryani|Kabsa|Daal Chawal|Yakhni Pulao|Matar Pulao|Chana Pulao|Vegetable Pulao|Kadhi Chawal|Rajma Chawal|Garlic Rice",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Rice Dishes",
     "Description": "Biryani|Pulao|Fried Rice|Boiled Rice|Zarda|Kheer|Khichdi|Tehari|Mandi|Kabuli Pulao|Sindhi Biryani|Bombay Biryani|Hyderabadi Biryani|Yakhni Pulao|Matar Pulao|Chana Pulao|Vegetable Pulao|Egg Fried Rice|Chicken Fried Rice|Garlic Rice",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes Bombay and Hyderabadi Biryani and Egg and Chicken Fried Rice, which are near-copies of other words, and adds distinct dishes."
   },
   {
    "id": "game3-83",
@@ -1111,7 +1111,7 @@
   {
    "id": "game3-86",
    "Name": "Eid Dishes",
-   "Description": "Sheer Khurma|Sawaiyan|Kheer|Custard|Cake|Biryani|Pulao|Korma|Karahi|Kebab|Tikka|Roast|Haleem|Nihari|Paye|Sajji|Fish|Prawns|Salad|Raita",
+   "Description": "Sheer Khurma|Sawaiyan|Kheer|Shahi Tukray|Dahi Baray|Chana Chaat|Fruit Chaat|Shami Kebab|Kaleji|Siri Paye|Bihari Boti|Raan|Mutton Karahi|Sajji|Tikka Boti|Nihari|Biryani|Korma|Pulao|Chapli Kebab",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1119,7 +1119,7 @@
     "Description": "Sheer Khurma|Sawaiyan|Kheer|Custard|Cake|Biryani|Pulao|Korma|Karachi|Kebab|Tikka|Roast|Haleem|Nihari|Paye|Sajji|Fish|Prawns|Salad|Raita",
     "Category": ""
    },
-   "note": "typo Karachi -> Karahi"
+   "note": "typo Karachi -> Karahi; Debate: Old list nearly copied Wedding Menu Items (86). Now Eid-specific; Kimami Sawaiyan dropped as a near-copy of Sawaiyan and Sheer Khurma."
   },
   {
    "id": "game3-87",
@@ -1215,7 +1215,7 @@
   {
    "id": "game3-94",
    "Name": "Pakistani Spice Mixes",
-   "Description": "Biryani|Pulao|Korma|Karahi|Nihari|Haleem|Tikka|Seekh Kebab|Chapli Kebab|Chaat Masala|Garam Masala|Curry Powder|Tandoori|Achari|Bombay Biryani|Sindhi Biryani|Fish Masala|Paye",
+   "Description": "Biryani|Pulao|Korma|Karahi|Nihari|Haleem|Tikka|Seekh Kebab|Chapli Kebab|Chaat Masala|Garam Masala|Curry Powder|Tandoori|Achari|Bihari Kebab|Qeema|Fish Masala|Paye",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1223,20 +1223,20 @@
     "Description": "Biryani|Pulao|Korma|Karachi|Nihari|Haleem|Tikka|Seekh Kebab|Chapli Kebab|Chaat Masala|Garam Masala|Curry Powder|Tandoori|Achari|Bombay|Sindhi|Hyderabadi|Lahori|Peshawari|Quetta",
     "Category": ""
    },
-   "note": "typo Karahi; vague city names fixed/removed"
+   "note": "typo Karahi; vague city names fixed/removed; Debate: Bombay and Sindhi Biryani could not be told apart from Biryani; replaced with real Bihari Kebab and Qeema masala mixes."
   },
   {
    "id": "game3-95",
    "Name": "Traditional Pakistani Clothes",
-   "Description": "Shalwar Kameez|Kurta|Sherwani|Waistcoat|Dupatta|Shawl|Ajrak|Topi|Turban|Sari|Lehenga|Gharara|Sharara|Frock|Maxi|Gown|Abaya|Hijab|Niqab|Burqa",
+   "Description": "Shalwar Kameez|Kurta|Sherwani|Waistcoat|Dupatta|Chadar|Shawl|Ajrak|Sindhi Topi|Jinnah Cap|Pakol|Pagri|Gharara|Sharara|Lehenga|Angrakha|Balochi Dress|Tehmat|Burqa",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Traditional Pakistani Clothes",
     "Description": "Shalwar Kameez|Kurta|Sherwani|Waistcoat|Dupatta|Shawl|Ajrak|Topi|Turban|Sari|Lehenga|Gharara|Sharara|Frock|Maxi|Gown|Abaya|Hijab|Niqab|Burqa",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Challenger's version: removes non-traditional items (Gown, Maxi, Frock) that copied Women's Clothing, adds regional dress, and drops Phulkari Dupatta as a near-copy of Dupatta."
   },
   {
    "id": "game3-96",
@@ -1267,15 +1267,15 @@
   {
    "id": "game3-98",
    "Name": "Children's Clothing",
-   "Description": "Frock|Shorts|T-Shirt|Jeans|Romper|Suit|Kurta|Shalwar|Kameez|Skirt|Top|Dress|Pant|Shirt|Jacket|Sweater|Hoodie|Cap|Socks|Shoes",
+   "Description": "Romper|Bib|Onesie|Baby Frock|School Uniform|Mittens|Booties|Baby Cap|Dungarees|Pyjama Suit|Swaddle|Cartoon T-Shirt|Mini Shalwar Kameez|Baby Sherwani|Raincoat|Hoodie|Socks",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Children's Clothing",
     "Description": "Frock|Shorts|T-Shirt|Jeans|Romper|Suit|Kurta|Shalwar|Kameez|Skirt|Top|Dress|Pant|Shirt|Jacket|Sweater|Hoodie|Cap|Socks|Shoes",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Challenger's rewrite keeps the topic and replaces generic adult clothing (already on Clothing Items) with kid-specific items. Judge also dropped Bodysuit, which is the same thing as Onesie."
   },
   {
    "id": "game3-99",
@@ -1397,7 +1397,7 @@
   {
    "id": "game3-108",
    "Name": "Bathroom Items",
-   "Description": "Soap|Shampoo|Conditioner|Toothpaste|Toothbrush|Floss|Face Wash|Body Lotion|Hair Oil|Talcum Powder|Razor|Towel|Bath Mat|Shower Curtain|Mirror|Lota|Bucket|Mug|Tissue Roll|Shower",
+   "Description": "Soap|Shampoo|Conditioner|Toothpaste|Toothbrush|Floss|Face Wash|Body Lotion|Hair Oil|Talcum Powder|Razor|Towel|Bath Mat|Shower Curtain|Mirror|Comb|Bucket|Mug|Hair Dryer|Shower",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1405,7 +1405,7 @@
     "Description": "Soap|Shampoo|Conditioner|Paste|Brush|Floss|Wash|Gel|Lotion|Cream|Oil|Powder|Perfume|Deodorant|Razor|Blade|Towel|Mat|Curtain|Mirror",
     "Category": ""
    },
-   "note": "made vague words specific (Paste, Wash, Gel); added Lota"
+   "note": "made vague words specific (Paste, Wash, Gel); added Lota; Debate: Swaps Lota and Tissue Roll, which invite toilet jokes the owner bans, for Comb and Hair Dryer."
   },
   {
    "id": "game3-109",
@@ -10705,6 +10705,62 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): A modern, family-safe neighbour dilemma that no other card covers."
+  },
+  {
+   "id": null,
+   "Name": "Battles in Islamic History",
+   "Description": "Badr|Uhud|Khandaq|Khaybar|Hunain|Tabuk|Fath e Makkah|Mutah|Yarmouk|Qadisiyyah|Nahavand|Debal|Hattin|Ain Jalut|Manzikert|Panipat|Fall of Constantinople",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, well-known battles; no battles card exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Pakistani Provinces and Regions",
+   "Description": "Punjab|Sindh|Khyber Pakhtunkhwa|Balochistan|Gilgit Baltistan|Azad Kashmir|Islamabad Capital Territory|Potohar|Thar|Cholistan|Hazara|Swat|Chitral|Hunza|Kohistan|Waziristan|Makran|FATA",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version complements Pakistani Cities. The old provinces/divisions card was removed. Drops Skardu (a city) and the obscure Saraiki Wasaib."
+  },
+  {
+   "id": null,
+   "Name": "Cities of the Muslim World",
+   "Description": "Makkah|Madinah|Al-Quds|Istanbul|Cairo|Damascus|Baghdad|Dubai|Doha|Kuala Lumpur|Jakarta|Tehran|Kabul|Dhaka|Amman|Baku|Samarkand|Bukhara|Marrakesh|Muscat|Tashkent|Tunis",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version: a new Muslim-world geography card with Cordoba and Granada (in Spain today) replaced to avoid disputes."
+  },
+  {
+   "id": null,
+   "Name": "Common Illnesses",
+   "Description": "Nazla Zukam|Bukhar|Khansi|Sar Dard|Pait Dard|Daant Dard|Kamar Dard|Gala Kharab|Dengue|Malaria|Typhoid|Yarqan|Sugar|Blood Pressure|Migraine|Allergy|Chicken Pox|Khasra|Heat Stroke|Food Poisoning",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable desi topic with accurate local names; no illness card exists."
+  },
+  {
+   "id": null,
+   "Name": "Desi Totkay (Home Remedies)",
+   "Description": "Haldi Doodh|Shehad|Adrak|Kalonji|Ajwain|Saunf|Joshanda|Ispaghol|Neem Patte|Aloe Vera|Sarson ka Tel|Vicks|Kehwa|Nimbu Pani|Bhaap|Namak ke Gararay|Lehsun|Methi Dana|Dum Kiya Hua Pani",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Funny, very local topic; only a Rating card mentions totkay."
+  },
+  {
+   "id": null,
+   "Name": "Cold Drink and Juice Brands",
+   "Description": "Pakola|Shezan|Rooh Afza|Tang|Pepsi|Coca Cola|7Up|Sprite|Fanta|Mirinda|Mountain Dew|Sting|Fruita Vitals|Slice|Cola Next|Gourmet Cola",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): All real brands sold in Pakistan; no drink-brand card exists, and it differs from Pakistani Beverages (drink types)."
+  },
+  {
+   "id": null,
+   "Name": "Islamic Holy Sites",
+   "Description": "Masjid al-Haram|Masjid an-Nabawi|Masjid al-Aqsa|Dome of the Rock|Masjid Quba|Masjid al-Qiblatain|Ghar e Hira|Ghar e Saur|Jannat ul Baqi|Jannat ul Mualla|Mount Uhud|Jabal ur Rahmah|Masjid Nimrah|Masjid al-Jinn|Maqam e Ibrahim|Masjid Ayesha",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version: drops Badr (a battlefield, now on the battles card) and Jabal e Noor (same place as Ghar e Hira)."
   }
  ]
 }

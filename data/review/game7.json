@@ -181,14 +181,14 @@
   },
   {
    "id": "game7-17",
-   "Description": "ketchup all over the yoga studio",
+   "Description": "ketchup all over Ammi's brand-new white sofa",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "cramberry sauce all over the yoga studio",
     "Category": "Standard Prompts"
    },
-   "note": "spelling; Debate: Cranberry sauce is a US Thanksgiving item. Ketchup keeps the messy visual and appears nowhere else in the deck."
+   "note": "spelling; Debate: Cranberry sauce is a US Thanksgiving item. Ketchup keeps the messy visual and appears nowhere else in the deck.; Debate: Challenger's amendment: a local, spotless home setting keeps the 'clean place ruined' joke and avoids adding another wedding card."
   },
   {
    "id": "game7-18",
@@ -214,14 +214,14 @@
   },
   {
    "id": "game7-20",
-   "Description": "brunch is free for rams and their friends",
+   "Description": "free halwa puri for rams and their friends",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "brunch is free for rams and their friend",
     "Category": "Standard Prompts"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Challenger's amendment: localises brunch and keeps the original rams, so the deck's many goat cards are not repeated."
   },
   {
    "id": "game7-21",
@@ -467,14 +467,14 @@
   },
   {
    "id": "game7-43",
-   "Description": "gimme cheese bangs",
+   "Description": "a haircut with a fringe made of cheese",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "gimme cheese bangs",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: the original was unclear, and the deck uses 'fringe' rather than the US word 'bangs'."
   },
   {
    "id": "game7-44",
@@ -676,14 +676,14 @@
   },
   {
    "id": "game7-62",
-   "Description": "turning into a chef on tree-planting day",
+   "Description": "turning into a tree on tree-planting day",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "turning into a chef. on arbor day",
     "Category": "Standard Prompts"
    },
-   "note": "localised Arbor Day; punctuation"
+   "note": "localised Arbor Day; punctuation; Debate: The chef had no link to tree-planting day; turning into a tree is coherent and drawable."
   },
   {
    "id": "game7-63",
@@ -19447,6 +19447,69 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Affectionate, drawable mohalla prompt; not a duplicate of the existing mohalla cat cards."
+  },
+  {
+   "id": null,
+   "Description": "a ladoo rolling downhill, chased by the whole baraat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local wedding/food prompt; no live ladoo or baraat card."
+  },
+  {
+   "id": null,
+   "Description": "an ostrich hiding its head in the sofa cushions",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable animal prompt; no ostrich card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "two cats in a very serious carrom final",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local game scene; no carrom card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a snoring uncle blowing the curtains wide open",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Family-humour image that differs from the only snoring card (tomatoes in an omelette)."
+  },
+  {
+   "id": null,
+   "Description": "a T. rex struggling to tie its shoelaces",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Clear short-arms gag; no other card has it."
+  },
+  {
+   "id": null,
+   "Description": "a goldfish wearing swimming goggles",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Simple and absurd; differs from the rooftop water-tank goldfish card."
+  },
+  {
+   "id": null,
+   "Description": "a cat licking the sheer khurma when no one's looking",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local Eid-food image; no sheer khurma card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a chai waiter balancing twenty cups on one tray",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local dhaba scene that differs from the existing chai and waiter cards."
+  },
+  {
+   "id": null,
+   "Description": "a ghost getting its bedsheet ironed before Eid",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Ghosts are allowed; a fresh twist on a familiar Eid chore, unlike the existing ghost and ironing cards."
   }
  ]
 }
