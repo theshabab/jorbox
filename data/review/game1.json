@@ -5728,13 +5728,13 @@
    "Name": "Hoop",
    "Description": "Ring-shaped earring",
    "Category": "Jewelry",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Hoop",
     "Description": "A circular earring",
     "Category": "Jewelry"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as a near-duplicate"
   },
   {
    "id": "game1-442",
@@ -9942,8 +9942,8 @@
    "Name": "Pendant",
    "Description": "Locket hanging from a neck chain",
    "Category": "Jewelry",
-   "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "action": "remove",
+   "note": "Synced from Charades: Main follows the Charades word list; Removed in Charades as a near-duplicate"
   },
   {
    "id": null,
@@ -10694,6 +10694,86 @@
    "Name": "Khaki",
    "Description": "Brownish-beige of army uniforms",
    "Category": "Colors",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Power Bank",
+   "Description": "Portable battery to charge your mobile",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "WiFi",
+   "Description": "Wireless internet from a router",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Solar Panel",
+   "Description": "Rooftop sheet turning sunlight into bijli",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Stabilizer",
+   "Description": "Protects fridge and AC from voltage swings",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Volcano",
+   "Description": "Mountain that erupts lava and ash",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Island",
+   "Description": "Jazeera; land surrounded by sea",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Glacier",
+   "Description": "Huge river of ice, like Siachen",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Cave",
+   "Description": "Ghaar; dark hollow inside a mountain",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Toe",
+   "Description": "Pair ki ungli",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Wheelbarrow",
+   "Description": "One-wheeled cart for carrying cement and sand",
+   "Category": "Tools",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }
