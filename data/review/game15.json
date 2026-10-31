@@ -1917,7 +1917,7 @@
   {
    "id": "game15-148",
    "Name": "Al-Aqsa Mosque",
-   "Description": "c. 705 CE (Umayyad rebuild)",
+   "Description": "c. 705 CE (Umayyad mosque; per Bukhari the site is the 2nd masjid on earth)",
    "Category": "Famous Mosques Construction (Chronological - Estimated)",
    "action": "edit",
    "original": {
@@ -1925,7 +1925,7 @@
     "Description": "705 CE - reconstruction",
     "Category": "Famous Mosques Construction (Chronological - Estimated)"
    },
-   "note": "clarified wording"
+   "note": "clarified wording; Debate: Islamic accuracy: a hadith in Bukhari names Al-Aqsa the second masjid on earth, so the reveal now explains that its slot comes from the Umayyad building. I used the challenger's wording, which drops 'current building' because today's structure is mostly the Fatimid rebuild of c. 1035."
   },
   {
    "id": "game15-149",
@@ -29361,6 +29361,30 @@
    "Category": "Scientists - Birth Year",
    "action": "add",
    "note": "New card (debate): Born c. 780, the earliest of the Muslim scientists in this category. It matches the 'About 980' format and is not a duplicate (the 12 existing cards do not include him)."
+  },
+  {
+   "id": null,
+   "Name": "Cricket World Cup (Imran Khan, captain)",
+   "Description": "1992 (beat England in Melbourne)",
+   "Category": "Pakistan's Senior ICC Titles (Chronological)",
+   "action": "add",
+   "note": "New card (debate): New Pakistan cricket category. Calling it senior titles keeps the list complete, since it leaves out the Under-19 wins of 2004 and 2006. It also avoids the old 'ICC Trophy' tournament name. No such category exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "T20 World Cup (Younis Khan, captain)",
+   "Description": "2009 (beat Sri Lanka at Lord's)",
+   "Category": "Pakistan's Senior ICC Titles (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Second card of the new category. The facts check out, and the 2009 T20 title is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Champions Trophy (Sarfaraz Ahmed, captain)",
+   "Description": "2017 (beat India at The Oval)",
+   "Category": "Pakistan's Senior ICC Titles (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Third card, which brings the category to the 3-card minimum and completes Pakistan's senior ICC titles. India won the 2025 edition that Pakistan hosted."
   }
  ]
 }

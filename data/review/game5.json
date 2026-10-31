@@ -54439,13 +54439,13 @@
    "Name": "",
    "Description": "Too much biryani makes me ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Too much biryani make me ____.",
     "Category": ""
    },
-   "note": "Grammar"
+   "note": "Debate: Same meaning as live card 523 (keep), which has the lower id."
   },
   {
    "id": "game5-4189",
@@ -54476,28 +54476,28 @@
   {
    "id": "game5-4191",
    "Name": "",
-   "Description": "Pregnancy: the end of ____ and the start of ____.",
+   "Description": "Becoming parents: the end of ____ and the start of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Pregnancy: the end of ____ and the start of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Keeps the two-blank joke without the pregnancy framing, which is awkward in mixed family play."
   },
   {
    "id": "game5-4192",
    "Name": "",
-   "Description": "Pregnant moms are really into ____ these days.",
+   "Description": "Pakistani moms are really into ____ these days.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Pregnant moms are really into ____ these days.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The cravings idea is already covered by live card 1622; this gives a clean prompt with a local frame."
   },
   {
    "id": "game5-4193",
@@ -54827,15 +54827,15 @@
   {
    "id": "game5-4218",
    "Name": "",
-   "Description": "Recurring nightmare: I'm in high school and I'm ____.",
+   "Description": "Recurring nightmare: I'm back in school, it's exam day, and I forgot ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Recurring nightmare: I'm in high school and I'm ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The original sets up 'naked' answers; the exam-day version is clean and relatable."
   },
   {
    "id": "game5-4219",
@@ -55464,15 +55464,15 @@
   {
    "id": "game5-4267",
    "Name": "",
-   "Description": "Scholars have discovered a previously unknown Manto story called \"The Adventure of ____.\"",
+   "Description": "Scholars have discovered a lost Imran Series novel by Ibn-e-Safi called \"The Mystery of ____.\"",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Scholars have discovered a previously unknown Manto story called \"The Adventure of ____.\"",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Manto wrote adult-themed short stories, not adventures. Ibn-e-Safi's Imran Series detective novels fit the joke accurately."
   },
   {
    "id": "game5-4268",
@@ -55789,15 +55789,15 @@
   {
    "id": "game5-4292",
    "Name": "",
-   "Description": "Sharron with the bright pink comb over just bowled in here asking to speak to ____.",
+   "Description": "A khala with bright orange mehndi in her hair just barged in asking to speak to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Sharron with the bright pink comb over just bowled in here asking to speak to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: replaces the Western Sharron/Karen reference with a local image (mehndi-dyed hair) and fixes 'bowled in'."
   },
   {
    "id": "game5-4293",
@@ -55984,15 +55984,15 @@
   {
    "id": "game5-4307",
    "Name": "",
-   "Description": "Since leaving office, The PM has been coming to terms with ____.",
+   "Description": "Since leaving office, the former PM has been coming to terms with ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Since leaving office, The PM has been coming to terms with ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the stray capital and the logic."
   },
   {
    "id": "game5-4308",
@@ -56478,15 +56478,15 @@
   {
    "id": "game5-4345",
    "Name": "",
-   "Description": "Sometimes discipline is used to mean punishment, but the real meaning of discipline can be described by the words ____.",
+   "Description": "My PT instructor says the real meaning of discipline is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Sometimes discipline is used to mean punishment, but the real meaning of discipline can be described by the words ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Tightens a long, preachy prompt into the deck's army in-joke style."
   },
   {
    "id": "game5-4346",
@@ -56556,15 +56556,15 @@
   {
    "id": "game5-4351",
    "Name": "",
-   "Description": "Sorry I'm late I was too busy ____.",
+   "Description": "Sorry I'm late, I was too busy ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Sorry I'm late I was too busy ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Adds the missing comma."
   },
   {
    "id": "game5-4352",
@@ -56790,15 +56790,15 @@
   {
    "id": "game5-4369",
    "Name": "",
-   "Description": "Step 1: ____ Step 2: ____ Step 3: A cozy new sweater!",
+   "Description": "Step 1: ____. Step 2: ____. Step 3: A cosy new sweater!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Step 1: ____ Step 2: ____ Step 3: A cozy new sweater!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Adds the missing full stops to match the other Step cards; 'cosy' matches the deck's British spelling."
   },
   {
    "id": "game5-4370",
@@ -56842,15 +56842,15 @@
   {
    "id": "game5-4373",
    "Name": "",
-   "Description": "Step 1: Fit all your ideas onto a Jinnah cap. Step 2: ____.",
+   "Description": "Step 1: Fit all your ideas onto one PowerPoint slide. Step 2: ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Step 1: Fit all your ideas onto a Jinnah cap. Step 2: ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Onto a Jinnah cap' was a localisation that makes no sense; the one-slide joke works."
   },
   {
    "id": "game5-4374",
@@ -56920,28 +56920,28 @@
   {
    "id": "game5-4379",
    "Name": "",
-   "Description": "Stitch marker? Who needs a stitch marker when you have ____?",
+   "Description": "Bookmark? Who needs a bookmark when you have ____?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Stitch marker? Who needs a stitch marker when you have ____?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Stitch marker' is obscure; a bookmark keeps the joke."
   },
   {
    "id": "game5-4380",
    "Name": "",
-   "Description": "Stop drop and ____.",
+   "Description": "Stop, drop and ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Stop drop and ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Punctuates the safety phrase correctly."
   },
   {
    "id": "game5-4381",
@@ -56985,15 +56985,15 @@
   {
    "id": "game5-4384",
    "Name": "",
-   "Description": "Stop! I really need to ____!",
+   "Description": "Stop the car! We left ____ back at the petrol pump!",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Stop! I really need to ____!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: removes the bathroom-answer setup, and unlike the proposal it does not repeat live card 1797 ('Oh no! I forgot the ____.')."
   },
   {
    "id": "game5-4385",
@@ -57195,13 +57195,13 @@
    "Name": "",
    "Description": "Gama Pehlwan's other lesser-known weakness is ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Maula Jatt's other lesser-known weakness is ____.",
     "Category": ""
    },
-   "note": "film character → historical wrestler"
+   "note": "Debate: Duplicate of live card 4398 (action edit), which has the lower id."
   },
   {
    "id": "game5-4401",
@@ -57817,15 +57817,15 @@
   {
    "id": "game5-4448",
    "Name": "",
-   "Description": "Thanks to ____, we are all hip deep in sheep dip.",
+   "Description": "Thanks to ____, the whole street is knee-deep in rainwater again.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Thanks to ____, we are all hip deep in sheep dip.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces a Western idiom with a local monsoon-flooding image; no live card covers it."
   },
   {
    "id": "game5-4449",
@@ -57858,13 +57858,13 @@
    "Name": "",
    "Description": "That smells just like ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "That smells just like ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Same meaning as live card 4033 ('Uff! That smells like ____.', action edit)."
   },
   {
    "id": "game5-4452",
@@ -58090,7 +58090,7 @@
   {
    "id": "game5-4469",
    "Name": "",
-   "Description": "The operation was going as planned until the surgeon pulled out ____ instead.",
+   "Description": "The operation was going well until the surgeon pulled out ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -58098,7 +58098,7 @@
     "Description": "The operation was going as planned until the physician pulled out____ instead.",
     "Category": ""
    },
-   "note": "spacing; wording"
+   "note": "spacing; wording; Debate: 'Instead' has nothing to refer to; removing it makes the prompt clear."
   },
   {
    "id": "game5-4470",
@@ -58129,15 +58129,15 @@
   {
    "id": "game5-4472",
    "Name": "",
-   "Description": "The amazing adventures of Captain Toad and ____.",
+   "Description": "The amazing adventures of Commander Safeguard and ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The amazing adventures of Captain Toad and ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Captain Toad is obscure; Commander Safeguard is widely known in Pakistan."
   },
   {
    "id": "game5-4473",
@@ -101965,6 +101965,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): A family birth-order joke. No eldest-child card exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Step 1: Say yes to the rishta. Step 2: ____. Step 3: Walima!",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): A clean, local Step card; it does not duplicate the live walima cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "In June, the Lahore Canal is packed with boys, buffaloes and ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): An accurate local summer image; no Lahore Canal card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu's three favourite lines: \"Light band karo,\" \"Paisay darakhton pe nahi lagtay,\" and \"____.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable family humour in Roman Urdu; no similar card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Pakistani uncles don't need capes. Their real superpower is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): The uncle angle makes it distinct from the generic superpower cards (348, 355, 3042)."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Gaddafi Stadium's new rule bans ____ from the stands.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): An accurate cricket frame that differs from the existing Gaddafi Stadium cards and 'What should be banned from Lahore?'."
   }
  ]
 }

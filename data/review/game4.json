@@ -188,15 +188,15 @@
   {
    "id": "game4-15",
    "Name": "The Parthenon",
-   "Description": "Known as \"Scotland’s Disgrace,\" an incomplete national project was begun in Edinburgh that was supposed to look like ____.",
-   "Category": "National Endeavors",
-   "action": "keep",
+   "Description": "Known as \"Scotland's Disgrace,\" an unfinished national monument in Edinburgh was meant to be a copy of ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "The Parthenon",
     "Description": "Known as \"Scotland’s Disgrace,\" an incomplete national project was begun in Edinburgh that was supposed to look like ____.",
     "Category": "National Endeavors"
    },
-   "note": ""
+   "note": "Debate: Fixes awkward grammar; the fact (Calton Hill National Monument) and answer stay the same."
   },
   {
    "id": "game4-16",
@@ -846,7 +846,7 @@
     "Description": "During the Qin Dynasty of China, harsh laws dictated that military soldiers could be executed for ____.",
     "Category": "Ancient Rules"
    },
-   "note": "Debate: Excavated Qin statutes show lateness was fined; attributing the death-penalty claim to Sima Qian's account of the Dazexiang uprising makes the card accurate."
+   "note": "Debate: Excavated Qin statutes show lateness was fined; attributing the death-penalty claim to Sima Qian's account of the Dazexiang uprising makes the card accurate.; Debate: Fills the empty category; this is the Dazexiang uprising, which fits History Oddities."
   },
   {
    "id": "game4-66",
@@ -942,7 +942,7 @@
   {
    "id": "game4-73",
    "Name": "blimps",
-   "Description": "Rarer than diamonds or pearls? Though airships were first flown in 1852, by the mid-2010s only about 25 ____ were still in service around the world.",
+   "Description": "Though airships first flew in 1852, by the mid-2010s only about 25 ____ were still in service around the world.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -950,7 +950,7 @@
     "Description": "Rarer than diamonds or pearls? First invented in 1852, there are currently only about 25 ____ left in the world.",
     "Category": "Artifacts"
    },
-   "note": "Debate: 'Currently' is stale; the ~25 figure dates from mid-2010s reporting, and Giffard's 1852 craft was an airship."
+   "note": "Debate: 'Currently' is stale; the ~25 figure dates from mid-2010s reporting, and Giffard's 1852 craft was an airship.; Debate: Drops the confusing 'Rarer than diamonds or pearls?' opener; facts unchanged."
   },
   {
    "id": "game4-74",
@@ -2315,7 +2315,7 @@
     "Description": "Saudi authorities disqualified nearly 40 camels from the 2021 King Abdulaziz Camel Festival when it was discovered some breeders had given their animals ____.",
     "Category": "Hump Day"
    },
-   "note": "Debate: Fact fix: 43 camels were disqualified in 2021."
+   "note": "Debate: Fact fix: 43 camels were disqualified in 2021.; Debate: Fills the empty category with the existing Muslim World category; the fact is accurate."
   },
   {
    "id": "game4-179",
@@ -2425,14 +2425,14 @@
    "id": "game4-187",
    "Name": "Cambodia",
    "Description": "In 2020, Kaavan, called the \"world's loneliest elephant,\" was flown from Islamabad Zoo to a new sanctuary in ____.",
-   "Category": "Animal Welfare",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "Cher",
     "Description": "After a seven-hour flight from Islamabad, Pakistan, Kaavan, a 36-year-old bull elephant described as the \"world’s loneliest elephant,\" was greeted by ____ in Cambodia.",
     "Category": "Animal Welfare"
    },
-   "note": "removed celebrity answer; Pakistani frame"
+   "note": "removed celebrity answer; Pakistani frame; Debate: Moves a Pakistan-themed card from a one-card category into Pakistan Facts."
   },
   {
    "id": "game4-188",
@@ -2606,15 +2606,15 @@
   {
    "id": "game4-201",
    "Name": "A Chicken",
-   "Description": "After wandering into a secured area in February 2022, the Pentagon had to call a special service in Arlington, VA, to take ____ into custody.",
-   "Category": "The Pentagon",
-   "action": "keep",
+   "Description": "In February 2022, the Pentagon had to call an animal welfare service in Arlington, Virginia, to take ____ into custody after it wandered into a secured area.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "A Chicken",
     "Description": "After wandering into a secured area in February 2022, the Pentagon had to call a special service in Arlington, VA, to take ____ into custody.",
     "Category": "The Pentagon"
    },
-   "note": ""
+   "note": "Debate: Fixes the dangling modifier that made the Pentagon the thing that wandered."
   },
   {
    "id": "game4-202",
@@ -2711,14 +2711,14 @@
    "id": "game4-209",
    "Name": "Pepsi",
    "Description": "In 1989, the Soviet Union paid one foreign company with 17 old submarines and several warships in exchange for its product. That company? ____.",
-   "Category": "Back In The USSR",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "Pepsi",
     "Description": "Russia tried something in 1989 when it gave 17 submarines to a certain organization to encourage them to conduct business in the USSR. That organization? ____.",
     "Category": "Back In The USSR"
    },
-   "note": "fact fixed: barter deal, not encouragement"
+   "note": "fact fixed: barter deal, not encouragement; Debate: Removes the category named after a Beatles song (music reference, banned)."
   },
   {
    "id": "game4-210",
@@ -2958,14 +2958,14 @@
    "id": "game4-228",
    "Name": "falcons",
    "Description": "Need to see a doctor? Maybe steer clear of the high-tech Souq Waqif clinic in Qatar. They only treat ____.",
-   "Category": "What's Up, Doc?",
-   "action": "keep",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "falcons",
     "Description": "Need to see a doctor? Maybe steer clear of the high-tech Souq Waqif clinic in Qatar. They only treat ____.",
     "Category": "What's Up, Doc?"
    },
-   "note": ""
+   "note": "Debate: Replaces the Bugs Bunny catchphrase category with the existing Muslim World category."
   },
   {
    "id": "game4-229",
@@ -12088,6 +12088,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Used the challenger's version. 'Blue Mosque' avoids giving away idx 873's answer (Sultan Ahmed). The card presents this as a popular story, not as fact."
+  },
+  {
+   "id": null,
+   "Name": "olive oil",
+   "Description": "At Turkey's Kırkpınar festival, held since the 1300s, wrestlers cover themselves from head to toe in ____ before they grapple.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, new Muslim-world contest fact; no duplicate in the deck, and Contests has only 2 cards."
+  },
+  {
+   "id": null,
+   "Name": "camel",
+   "Description": "Al Nassma, a company in Dubai, makes luxury chocolate using ____ milk.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Gulf food fact with good bluffing potential; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "mango",
+   "Description": "Every summer, Pakistan's government sends boxes of fruit to presidents and prime ministers around the world as part of its \"____ diplomacy\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-documented Pakistani fact; the only other mango card is about the Chaunsa name."
+  },
+  {
+   "id": null,
+   "Name": "goat",
+   "Description": "In buzkashi, Afghanistan's national sport, riders on horseback fight to grab a ____ carcass and carry it across the field.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world oddity; mildly dark items are allowed. The markhor card also has the answer 'goat', but the fact is different."
+  },
+  {
+   "id": null,
+   "Name": "plastic bottles",
+   "Description": "Since 2018, passengers on the Suroboyo Bus in Surabaya, Indonesia, have been able to pay for their ride with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate quirky civic fact from the Muslim world. It has the same answer as the Istanbul card but is a different fact, which is acceptable in a deck this size."
   }
  ]
 }
