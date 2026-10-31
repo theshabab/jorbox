@@ -534,7 +534,7 @@ Kashmiri Chai,"Pink tea with nuts, winter favourite",Beverages
 Doodh Soda,Milk mixed with fizzy lemon-lime,Beverages
 Cold Drink,Fizzy bottled soft beverage,Beverages
 Energy Drink,Caffeinated can for staying awake,Beverages
-Soup,"Hot liquid dish, eaten with spoon",Beverages
+Soup,"Hot liquid dish, like winter chicken corn",Beverages
 Cocoa,Hot chocolate drink,Beverages
 Gulab Jamun,Fried milk balls in sugar syrup,Desserts
 Barfi,Dense milk fudge cut in squares,Desserts
@@ -550,32 +550,32 @@ Chocolate,Sweet made from cocoa,Desserts
 Cookie,"Crunchy baked treat, often chocolate chip",Desserts
 Biscuit,Crisp baked snack dipped in chai,Desserts
 Brownie,"Dense, fudgy chocolate square",Desserts
-Pudding,"Soft, set creamy dessert",Desserts
+Pudding,"Wobbly set dessert, caramel or chocolate",Desserts
 Trifle,"Layers of cake, custard, fruit and jelly",Desserts
 Falooda,"Rose milk with vermicelli, basil seeds",Desserts
 Ras Malai,Soft cheese patties in sweet milk,Desserts
 Cham Cham,"Oval, spongy Bengali milk sweet",Desserts
 Sohan Halwa,"Hard, nutty sweet famous from Multan",Desserts
 Patisa,"Flaky gram-flour sweet, like soan papdi",Desserts
-Kalakand,Grainy sweet made from milk,Desserts
+Kalakand,"Milk cake: moist, grainy sweet of curdled milk",Desserts
 Zarda,Sweet yellow rice with nuts,Desserts
 Sheer Khurma,"Eid dessert of milk, vermicelli and dates",Desserts
 Sawaiyan,"Thin roasted vermicelli, cooked sweet for Eid",Desserts
 Mother,Ammi: a female parent,Family Relations
 Father,Abbu: a male parent,Family Relations
-Brother,A male sibling,Family Relations
-Sister,A female sibling,Family Relations
-Son,A male child,Family Relations
-Daughter,A female child,Family Relations
+Brother,Bhai: a male sibling,Family Relations
+Sister,Behen: a female sibling,Family Relations
+Son,Beta: a male child,Family Relations
+Daughter,Beti: a female child,Family Relations
 Grandfather,Dada or Nana,Family Relations
 Grandmother,Dadi or Nani,Family Relations
 Uncle,Chacha or Mamu: parent's brother,Family Relations
 Aunt,Khala or Phuppo: parent's sister,Family Relations
 Cousin,Child of your aunt or uncle,Family Relations
-Nephew,A sibling's son,Family Relations
-Niece,A sibling's daughter,Family Relations
-Husband,A male spouse,Family Relations
-Wife,A female spouse,Family Relations
+Nephew,Bhatija or Bhanja: a sibling's son,Family Relations
+Niece,Bhatiji or Bhanji: a sibling's daughter,Family Relations
+Husband,Shohar or Miyan: a male spouse,Family Relations
+Wife,Biwi or Begum: a female spouse,Family Relations
 Father-in-law,Sasur: your spouse's dad,Family Relations
 Mother-in-law,Saas: your spouse's mum,Family Relations
 Brother-in-law,"Behnoi, devar or saala",Family Relations
@@ -585,7 +585,7 @@ Step-father,"Sautela baap: mother's husband, not birth father",Family Relations
 Grandson,Pota or Nawasa: your child's son,Family Relations
 Granddaughter,Poti or Nawasi: your child's daughter,Family Relations
 Ancestor,Forefather from generations ago,Family Relations
-Relative,Any member of your extended family,Family Relations
+Relative,Rishtedaar: any member of your extended family,Family Relations
 Abu Bakr,First Caliph of Islam,Sahaba
 Umar,Second Caliph,Sahaba
 Uthman,Third Caliph,Sahaba

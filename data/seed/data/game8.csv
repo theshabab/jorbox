@@ -607,7 +607,7 @@ BAD BARGAINER <---> MASTER BARGAINER,Write a line you would say to a shopkeeper 
 NOT SORRY <---> DEEPLY SORRY,Write an apology for eating someone's leftovers that is this sincere,Writing
 BAD REVIEW <---> GLOWING REVIEW,Write a one-line review of your ammi's cooking that is this positive,Writing
 CASUAL <---> VERY OFFICIAL,Write a notice for the mohalla notice board that sounds this official,Writing
-NOT URGENT <---> EMERGENCY!,Write a voice-note message from an ammi that sounds this urgent,Writing
+NOT URGENT <---> EMERGENCY!,Write a voice note from Ammi that sounds this urgent,Writing
 NO RHYME <---> PERFECT RHYME,Write a line of poetry about chai that rhymes this well,Writing
 NOT HEROIC <---> NATIONAL HERO,Write a newspaper headline about a batsman who was this heroic in a cricket match,Writing
 SIMPLE <---> SUPER COMPLICATED,Write a recipe step that is this complicated,Writing
@@ -626,7 +626,7 @@ TIDY ROOM <---> TOTAL DISASTER,Draw a bedroom that is this messy,Drawing
 NOT LIKELY <---> VERY LIKELY,Draw a camel that is this likely to spit at you,Drawing
 LAZY <---> HARD-WORKING,Draw a donkey that is this hard-working,Drawing
 NO SHADE <---> PERFECT SHADE,Draw a tree that gives this much shade on a hot day,Drawing
-BORING <---> AMAZING,Draw a cricket trophy that is this amazing,Drawing
+MOHALLA TOURNAMENT <---> WORLD CUP,Draw a cricket trophy for a tournament this big,Drawing
 NOT SCARY <---> VERY SCARY,Draw a scarecrow that is this scary,Drawing
 EASY <---> IMPOSSIBLE,Draw a maze that is this hard to solve,Drawing
 FLIMSY <---> STORM-PROOF,Draw an umbrella that is this storm-proof,Drawing
@@ -725,3 +725,11 @@ Test match energy <---> T20 energy,Think of something that falls on this scale,W
 Worth bargaining for <---> Not worth bargaining for,Think of something that falls on this scale,Writing
 Easy to share <---> Impossible to share,Think of something that falls on this scale,Writing
 Polite thing to say to a guest <---> Rude thing to say to a guest,Think of something that falls on this scale,Writing
+SLIGHT DRIZZLE <---> FULL URBAN FLOOD,Draw a Karachi street after rain this heavy,Drawing
+POLITE HINT <---> FULL DEMAND,Write Ammi's message to the neighbours asking for her dabba back that is this direct,Writing
+PURE DOODH <---> MOSTLY WATER,Write a doodh-wala's excuse for milk that is this watery,Writing
+PROPER STUMPS <---> THREE BRICKS AND A CHAPPAL,Draw the wickets for a gully cricket match that are this improvised,Drawing
+NEAT HANDWRITING <---> PURE SCRIBBLE,Draw a doctor's prescription that is this hard to read,Drawing
+NOBODY GETS ON <---> BUS PACKED IN SECONDS,Write the line a bus conductor shouts that is this persuasive,Writing
+SLIGHTLY CHILLY <---> MURREE SNOWSTORM,Draw an uncle who is bundled up for weather this cold,Drawing
+A SPOON OF HONEY <---> FULL DESI CHEMISTRY LAB,Write Nani's totka for a cold that is this extreme,Writing

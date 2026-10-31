@@ -7247,7 +7247,7 @@
   {
    "id": "game1-558",
    "Name": "Soup",
-   "Description": "Hot liquid dish, eaten with spoon",
+   "Description": "Hot liquid dish, like winter chicken corn",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7255,7 +7255,7 @@
     "Description": "A hot beverage",
     "Category": "Beverages"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger's amendment: adds the familiar local chicken corn soup, reads naturally and still says the dish is liquid."
   },
   {
    "id": "game1-559",
@@ -7481,7 +7481,7 @@
   {
    "id": "game1-576",
    "Name": "Pudding",
-   "Description": "Soft, set creamy dessert",
+   "Description": "Wobbly set dessert, caramel or chocolate",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7489,7 +7489,7 @@
     "Description": "A creamy dessert",
     "Category": "Desserts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger's amendment: more specific with the caramel pudding Pakistani players know, and it drops bread pudding, which is baked and not wobbly."
   },
   {
    "id": "game1-577",
@@ -7572,7 +7572,7 @@
   {
    "id": "game1-583",
    "Name": "Kalakand",
-   "Description": "Grainy sweet made from milk",
+   "Description": "Milk cake: moist, grainy sweet of curdled milk",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7580,7 +7580,7 @@
     "Description": "A milk sweet",
     "Category": "Desserts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Tells it apart from barfi and uses the name Pakistani sweet shops commonly sell it under."
   },
   {
    "id": "game1-584",
@@ -7650,54 +7650,54 @@
   {
    "id": "game1-589",
    "Name": "Brother",
-   "Description": "A male sibling",
+   "Description": "Bhai: a male sibling",
    "Category": "Family Relations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Brother",
     "Description": "A male sibling",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Matches the Urdu-term format of Ammi/Abbu (586-587) and the other relation hints."
   },
   {
    "id": "game1-590",
    "Name": "Sister",
-   "Description": "A female sibling",
+   "Description": "Behen: a female sibling",
    "Category": "Family Relations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Sister",
     "Description": "A female sibling",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Matches the Urdu-term format of the other relation hints."
   },
   {
    "id": "game1-591",
    "Name": "Son",
-   "Description": "A male child",
+   "Description": "Beta: a male child",
    "Category": "Family Relations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Son",
     "Description": "A male child",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Matches the Urdu-term format of the other relation hints."
   },
   {
    "id": "game1-592",
    "Name": "Daughter",
-   "Description": "A female child",
+   "Description": "Beti: a female child",
    "Category": "Family Relations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Daughter",
     "Description": "A female child",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Matches the Urdu-term format of the other relation hints."
   },
   {
    "id": "game1-593",
@@ -7767,54 +7767,54 @@
   {
    "id": "game1-598",
    "Name": "Nephew",
-   "Description": "A sibling's son",
+   "Description": "Bhatija or Bhanja: a sibling's son",
    "Category": "Family Relations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Nephew",
     "Description": "A sibling's son",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Adds the correct Urdu terms, matching the Chacha/Mamu and Pota/Nawasa hints."
   },
   {
    "id": "game1-599",
    "Name": "Niece",
-   "Description": "A sibling's daughter",
+   "Description": "Bhatiji or Bhanji: a sibling's daughter",
    "Category": "Family Relations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Niece",
     "Description": "A sibling's daughter",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Adds the correct Urdu terms, matching the other relation hints."
   },
   {
    "id": "game1-600",
    "Name": "Husband",
-   "Description": "A male spouse",
+   "Description": "Shohar or Miyan: a male spouse",
    "Category": "Family Relations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Husband",
     "Description": "A male spouse",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Adds standard Urdu terms, matching the other relation hints."
   },
   {
    "id": "game1-601",
    "Name": "Wife",
-   "Description": "A female spouse",
+   "Description": "Biwi or Begum: a female spouse",
    "Category": "Family Relations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Wife",
     "Description": "A female spouse",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Adds standard Urdu terms, matching the other relation hints."
   },
   {
    "id": "game1-602",
@@ -7936,7 +7936,7 @@
   {
    "id": "game1-611",
    "Name": "Relative",
-   "Description": "Any member of your extended family",
+   "Description": "Rishtedaar: any member of your extended family",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7944,7 +7944,7 @@
     "Description": "A family member",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Matches the Urdu-term format of the other relation hints."
   },
   {
    "id": "game1-612",

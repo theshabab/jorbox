@@ -8642,10 +8642,10 @@
   {
    "id": null,
    "Name": "NOT URGENT <---> EMERGENCY!",
-   "Description": "Write a voice-note message from an ammi that sounds this urgent",
+   "Description": "Write a voice note from Ammi that sounds this urgent",
    "Category": "Writing",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Tighter wording; 'Ammi' capitalised as in 714, 721, 742 and 751."
   },
   {
    "id": null,
@@ -8793,11 +8793,11 @@
   },
   {
    "id": null,
-   "Name": "BORING <---> AMAZING",
-   "Description": "Draw a cricket trophy that is this amazing",
+   "Name": "MOHALLA TOURNAMENT <---> WORLD CUP",
+   "Description": "Draw a cricket trophy for a tournament this big",
    "Category": "Drawing",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: BORING <---> AMAZING is vague; this cricket scale has concrete ends (challenger's amendment, because a school sports day is not a cricket tournament)."
   },
   {
    "id": null,
@@ -9582,6 +9582,70 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Funny, family-safe talking scale on the deck's guest theme. It differs from the generic 'Disrespectful <---> Respectful' card."
+  },
+  {
+   "id": null,
+   "Name": "SLIGHT DRIZZLE <---> FULL URBAN FLOOD",
+   "Description": "Draw a Karachi street after rain this heavy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New card: familiar monsoon scene with clear ends; no flooded-street card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "POLITE HINT <---> FULL DEMAND",
+   "Description": "Write Ammi's message to the neighbours asking for her dabba back that is this direct",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: classic dabba joke, rewritten as Writing (challenger's amendment) because a drawn box cannot show how badly Ammi wants it back."
+  },
+  {
+   "id": null,
+   "Name": "PURE DOODH <---> MOSTLY WATER",
+   "Description": "Write a doodh-wala's excuse for milk that is this watery",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: local vendor humour with clear opposites; no milk card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "PROPER STUMPS <---> THREE BRICKS AND A CHAPPAL",
+   "Description": "Draw the wickets for a gully cricket match that are this improvised",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New card: recognisable gully-cricket jugaar, easy to draw; no stumps card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "NEAT HANDWRITING <---> PURE SCRIBBLE",
+   "Description": "Draw a doctor's prescription that is this hard to read",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New card: well-known joke that is easy to place on the scale; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "NOBODY GETS ON <---> BUS PACKED IN SECONDS",
+   "Description": "Write the line a bus conductor shouts that is this persuasive",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: local street-life voice; no conductor card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "SLIGHTLY CHILLY <---> MURREE SNOWSTORM",
+   "Description": "Draw an uncle who is bundled up for weather this cold",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New card: winter shawl and monkey-cap humour; the task now follows the weather scale (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "A SPOON OF HONEY <---> FULL DESI CHEMISTRY LAB",
+   "Description": "Write Nani's totka for a cold that is this extreme",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: home-remedy humour with concrete scale ends instead of the vague GENTLE <---> EXTREME (challenger's amendment)."
   }
  ]
 }

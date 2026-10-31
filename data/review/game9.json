@@ -9417,11 +9417,11 @@
   },
   {
    "id": null,
-   "Name": "In which Hijri year did the Muslims peacefully conquer Makkah?",
+   "Name": "In which Hijri year did the Muslims conquer Makkah almost without fighting?",
    "Description": "8 AH",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: More accurate: Khalid ibn al-Walid's column had a small clash with a few deaths"
   },
   {
    "id": null,
@@ -9481,11 +9481,11 @@
   },
   {
    "id": null,
-   "Name": "Who founded al-Qarawiyyin in Fez, the oldest continuously operating university?",
+   "Name": "Who founded al-Qarawiyyin in Fez, often called the world's oldest continuously operating university?",
    "Description": "Fatima al-Fihri",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Hedges the disputed 'oldest university' claim; answer unchanged"
   },
   {
    "id": null,
@@ -11040,6 +11040,76 @@
    "Description": "Laylat al-Qadr (the Night of Decree)",
    "action": "add",
    "note": "New card (debate): Accurate (Quran 97:3) basic Islamic knowledge that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet was thrown into a well by his brothers and later rose to high office in Egypt?",
+   "Description": "Yusuf (AS)",
+   "action": "add",
+   "note": "New card (debate): Established from Surah Yusuf; no Yusuf card in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet is famous for his patience through long illness and the loss of his family and wealth?",
+   "Description": "Ayyub (AS)",
+   "action": "add",
+   "note": "New card (debate): Quran 21:83-84 and 38:41-44; not a duplicate"
+  },
+  {
+   "id": null,
+   "Name": "Which holy book was revealed to Prophet Dawud (AS)?",
+   "Description": "Zabur (the Psalms)",
+   "action": "add",
+   "note": "New card (debate): Quran 4:163, 17:55; not in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Over roughly how many years was the Quran revealed?",
+   "Description": "About 23 years",
+   "action": "add",
+   "note": "New card (debate): Standard figure; complements the existing revelation cards without duplicating them"
+  },
+  {
+   "id": null,
+   "Name": "Which uncle of the Prophet (PBUH), martyred at Uhud, is honoured as Sayyid al-Shuhada (Chief of the Martyrs)?",
+   "Description": "Hamza ibn Abd al-Muttalib (RA)",
+   "action": "add",
+   "note": "New card (debate): Well-established Seerah fact; Hamza not in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Imam Husain (RA) was martyred in which battle of 61 AH?",
+   "Description": "Battle of Karbala",
+   "action": "add",
+   "note": "New card (debate): Major well-established event; deck has no Karbala card"
+  },
+  {
+   "id": null,
+   "Name": "Which Eid remembers Prophet Ibrahim's (AS) willingness to sacrifice his son for Allah?",
+   "Description": "Eid al-Adha",
+   "action": "add",
+   "note": "New card (debate): Accurate, familiar to all players; no Eid card exists"
+  },
+  {
+   "id": null,
+   "Name": "By Allah's command, the sea parted when which Prophet struck it with his staff?",
+   "Description": "Musa (AS)",
+   "action": "add",
+   "note": "New card (debate): Quran 26:63; only Mansa Musa appears in the deck"
+  },
+  {
+   "id": null,
+   "Name": "Which 17th-century mosque in Lahore's Walled City is famous for its colourful kashi tile work?",
+   "Description": "Wazir Khan Mosque",
+   "action": "add",
+   "note": "New card (debate): Accurate (built c. 1634-1641); no Wazir Khan card exists"
+  },
+  {
+   "id": null,
+   "Name": "Kissa Khwani Bazaar, the old 'Storytellers' Market', is in which Pakistani city?",
+   "Description": "Peshawar",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani landmark card; not in the deck"
   }
  ]
 }
