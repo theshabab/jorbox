@@ -8411,12 +8411,12 @@
    "id": "game9-765",
    "Name": "Which European countries does the economic acronym \"PIIGS\" stand for?",
    "Description": "Portugal, Ireland, Italy, Greece, Spain",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The derisive acronym \"PIIGS\" refers to which of the following European countries and their economic statuses?",
     "Description": "Portugal, Ireland, Italy, Greece, Spain"
    },
-   "note": "rewrote: referred to missing options"
+   "note": "Debate: Obscure, derogatory Eurozone jargon with a five-part answer. It would also give away the answer to the new Angola card."
   },
   {
    "id": "game9-766",
@@ -8453,14 +8453,14 @@
   },
   {
    "id": "game9-769",
-   "Name": "On which continent is the country of Angola located?",
-   "Description": "Africa",
-   "action": "keep",
+   "Name": "Angola was a colony of which European country until 1975?",
+   "Description": "Portugal",
+   "action": "edit",
    "original": {
     "Name": "On which continent is the country of Angola located?",
     "Description": "Africa"
    },
-   "note": ""
+   "note": "Debate: The 'which continent' version was trivial. Angola became independent from Portugal in November 1975."
   },
   {
    "id": "game9-770",
@@ -8475,14 +8475,14 @@
   },
   {
    "id": "game9-771",
-   "Name": "Eritrea, which joined the UN in 1993, is on which continent?",
-   "Description": "Africa",
+   "Name": "Eritrea won its independence in 1993 from which country?",
+   "Description": "Ethiopia",
    "action": "edit",
    "original": {
     "Name": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?",
     "Description": "Africa"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: The 'which continent' version was trivial and had the same answer as the Angola card. Eritrea became independent from Ethiopia in 1993."
   },
   {
    "id": null,
@@ -8577,10 +8577,10 @@
   },
   {
    "id": null,
-   "Name": "Which Mughal emperor built the Badshahi Mosque in Lahore?",
+   "Name": "Which Mughal emperor built the Badshahi Mosque?",
    "Description": "Aurangzeb",
    "action": "add",
-   "note": "replacement: Pakistani/Islamic/science/geography"
+   "note": "replacement: Pakistani/Islamic/science/geography; Debate: 'in Lahore' gave away idx 772 (Badshahi Mosque city: Lahore)."
   },
   {
    "id": null,
@@ -8787,24 +8787,24 @@
   },
   {
    "id": null,
-   "Name": "Islamabad's Faisal Mosque is named after a king of which country?",
+   "Name": "The Faisal Mosque is named after a king of which country?",
    "Description": "Saudi Arabia",
    "action": "add",
-   "note": "replacement for removed US/off-topic card"
+   "note": "replacement for removed US/off-topic card; Debate: 'Islamabad's' gave away idx 807 (Faisal Mosque city: Islamabad)."
   },
   {
    "id": null,
-   "Name": "What was the famous centre of learning and translation in Abbasid Baghdad called?",
+   "Name": "What was the famous Abbasid centre of learning and translation called?",
    "Description": "Bayt al-Hikmah (House of Wisdom)",
    "action": "add",
-   "note": "replacement for removed US/off-topic card"
+   "note": "replacement for removed US/off-topic card; Debate: 'Abbasid Baghdad' gave away idx 787 (al-Mansur's capital: Baghdad)."
   },
   {
    "id": null,
    "Name": "How many surahs are in the Quran?",
    "Description": "114",
-   "action": "add",
-   "note": "replacement for removed US/off-topic card"
+   "action": "remove",
+   "note": "Debate: Exact duplicate of game9-668 (same question and answer)."
   },
   {
    "id": null,
@@ -8990,10 +8990,10 @@
   },
   {
    "id": null,
-   "Name": "Which ancient Indus Valley city's ruins lie near Larkana in Sindh?",
-   "Description": "Mohenjo-daro",
+   "Name": "Which ancient Indus Valley city's ruins lie near Sahiwal in Punjab?",
+   "Description": "Harappa",
    "action": "add",
-   "note": "replacement: Pakistani/Islamic/science/geography"
+   "note": "replacement: Pakistani/Islamic/science/geography; Debate: idx 794 names Mohenjo-daro, which gave this answer away. Harappa (about 24 km from Sahiwal) is not yet in the deck."
   },
   {
    "id": null,
@@ -9006,15 +9006,15 @@
    "id": null,
    "Name": "In which year of the Hijri calendar was the Battle of Badr fought?",
    "Description": "2 AH (624 CE)",
-   "action": "add",
-   "note": "replacement: Pakistani/Islamic/science/geography"
+   "action": "remove",
+   "note": "Debate: idx 786 already states Badr was fought in 2 AH, so this card adds nothing new."
   },
   {
    "id": null,
-   "Name": "Which Umayyad caliph built the Dome of the Rock in Jerusalem?",
+   "Name": "Which Umayyad caliph built the Dome of the Rock?",
    "Description": "Abd al-Malik ibn Marwan",
    "action": "add",
-   "note": "replacement: Pakistani/Islamic/science/geography"
+   "note": "replacement: Pakistani/Islamic/science/geography; Debate: 'in Jerusalem' gave away idx 803 (Dome of the Rock city: Jerusalem)."
   },
   {
    "id": null,
@@ -10459,6 +10459,76 @@
    "Description": "555",
    "action": "add",
    "note": "New card (debate): A famous Pakistani sporting record (the Guinness-cited figure). The deck has no squash card."
+  },
+  {
+   "id": null,
+   "Name": "Which monument in Lahore stands at the site where the Lahore Resolution was passed?",
+   "Description": "Minar-e-Pakistan",
+   "action": "add",
+   "note": "New card (debate): A well-known landmark not yet in the deck. The challenger's version leaves out the year so it does not give away idx 793 (1940)."
+  },
+  {
+   "id": null,
+   "Name": "Which large dam on the Jhelum River is in Mirpur, Azad Kashmir?",
+   "Description": "Mangla Dam",
+   "action": "add",
+   "note": "New card (debate): A well-known Pakistani dam that pairs with the Tarbela card and is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which mountain pass between Chitral and Gilgit hosts a famous polo festival on one of the world's highest polo grounds?",
+   "Description": "Shandur Pass",
+   "action": "add",
+   "note": "New card (debate): Popular northern Pakistan trivia. The challenger's wording is accurate because the pass lies between Chitral and Gilgit-Baltistan."
+  },
+  {
+   "id": null,
+   "Name": "In which Balochistan hill town did Quaid-e-Azam spend his last months, at a residency that is now a national monument?",
+   "Description": "Ziarat",
+   "action": "add",
+   "note": "New card (debate): Pakistani history not yet in the deck. Jinnah stayed at the Ziarat Residency in mid-1948."
+  },
+  {
+   "id": null,
+   "Name": "Which turquoise lake in Hunza was formed by a huge landslide in 2010?",
+   "Description": "Attabad Lake",
+   "action": "add",
+   "note": "New card (debate): A popular Pakistani tourist spot not yet in the deck. The January 2010 landslide formed the lake."
+  },
+  {
+   "id": null,
+   "Name": "The ruins of the Buddhist monastery Takht-i-Bahi, a UNESCO World Heritage Site, are near which city in Khyber Pakhtunkhwa?",
+   "Description": "Mardan",
+   "action": "add",
+   "note": "New card (debate): A heritage site that fits the slice and is not yet in the deck. It is about 15 km from Mardan."
+  },
+  {
+   "id": null,
+   "Name": "Which 13th-century Persian poet wrote the Masnavi and is buried in Konya, Turkey?",
+   "Description": "Maulana Jalaluddin Rumi",
+   "action": "add",
+   "note": "New card (debate): A famous Muslim poet and scholar who is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which 19th-century Delhi poet is famous for his Urdu and Persian ghazals and his witty letters?",
+   "Description": "Mirza Ghalib",
+   "action": "add",
+   "note": "New card (debate): A great of Urdu literature who is not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Ghurid sultan defeated Prithviraj Chauhan at the Second Battle of Tarain in 1192?",
+   "Description": "Muhammad Ghori",
+   "action": "add",
+   "note": "New card (debate): Fills a gap in the subcontinent Muslim history cards. The fact is verified."
+  },
+  {
+   "id": null,
+   "Name": "Which people of the Chitral valleys are famous for their ancient culture, colourful dress and Chilam Joshi spring festival?",
+   "Description": "Kalash",
+   "action": "add",
+   "note": "New card (debate): The challenger's flipped version: the Tirich Mir card cannot give the answer away, and it is not dated by the 2018 split of Chitral district."
   }
  ]
 }

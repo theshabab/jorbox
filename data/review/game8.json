@@ -5543,29 +5543,29 @@
   },
   {
    "id": "game8-427",
-   "Name": "BAD FIVES <---> GREAT FIVES",
+   "Name": "BAD HIGH FIVES <---> GREAT HIGH FIVES",
    "Description": "Draw a clown that is this good at high fives",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "BAD FIVES <---> GREAT FIVES",
     "Description": "Draw a clown that is this good at high fives",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: \"BAD FIVES\" is unclear; spell out high fives."
   },
   {
    "id": "game8-428",
-   "Name": "TACKY <---> GREAT FASHION",
+   "Name": "TACKY <---> STYLISH",
    "Description": "Draw a clown that is this fashionable",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "TACKY <---> GREAT FASHION",
     "Description": "Draw a clown that is this fashionable",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Make the scale ends clear opposites."
   },
   {
    "id": "game8-429",
@@ -5582,16 +5582,16 @@
   },
   {
    "id": "game8-430",
-   "Name": "NONE <---> WAY TOO MUCH",
-   "Description": "Draw a clown that has had this much coffee",
+   "Name": "NO CHAI <---> WAY TOO MUCH CHAI",
+   "Description": "Draw a clown that has had this much chai",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NONE <---> WAY TOO MUCH",
     "Description": "Draw a clown that has had this much coffee",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: \"NONE\" was vague. Coffee becomes chai for a local touch, and the card no longer repeats the caffeinated robot (449)."
   },
   {
    "id": "game8-431",
@@ -5739,28 +5739,28 @@
   {
    "id": "game8-442",
    "Name": "BAD TEAM <---> GREAT TEAM",
-   "Description": "Draw a bird that is the sports mascot for a team that is this good",
+   "Description": "Draw a bird that is the mascot of a cricket team that is this good",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "BAD TEAM <---> GREAT TEAM",
     "Description": "Draw a bird that is the sports mascot for a team that is this good",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Changes a generic sports team to a cricket team for a local frame."
   },
   {
    "id": "game8-443",
-   "Name": "LOSER <---> SUPER COOL",
+   "Name": "UNCOOL <---> SUPER COOL",
    "Description": "Draw a bug that is this cool",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "LOSER <---> SUPER COOL",
     "Description": "Draw a bug that is this cool",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: LOSER is not the opposite of SUPER COOL."
   },
   {
    "id": "game8-444",
@@ -5920,29 +5920,29 @@
   },
   {
    "id": "game8-456",
-   "Name": "EASY TO SHOP <---> IMPOSSIBLE",
-   "Description": "Draw a clown that is this likely to have trouble buying clown shoes",
+   "Name": "SHOES FIT EASILY <---> NO SHOES FIT",
+   "Description": "Draw a clown whose feet are this hard to find shoes for",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "EASY TO SHOP <---> IMPOSSIBLE",
     "Description": "Draw a clown that is this likely to have trouble buying clown shoes",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Clumsy scale and wording; make both clear."
   },
   {
    "id": "game8-457",
    "Name": "NOT BUTTONS <---> TOTALLY BUTTONS",
    "Description": "Draw a clown who is this likely to be named Buttons",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "NOT BUTTONS <---> TOTALLY BUTTONS",
     "Description": "Draw a clown who is this likely to be named Buttons",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Relies on a Western clown-name joke that Pakistani players won't get, and it's hard to draw."
   },
   {
    "id": "game8-458",
@@ -6024,16 +6024,16 @@
   },
   {
    "id": "game8-464",
-   "Name": "Highly addictive <---> Mildly addictive",
+   "Name": "Not addictive <---> Very addictive",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Highly addictive <---> Mildly addictive",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Highly vs Mildly were not clear opposites."
   },
   {
    "id": "game8-465",
@@ -6570,16 +6570,16 @@
   },
   {
    "id": "game8-506",
-   "Name": "Good man <---> Bad man",
+   "Name": "Good neighbour <---> Bad neighbour",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Good man <---> Bad man",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Good man/Bad man repeats Nice person/Mean person (522). A neighbour scale is new and relatable."
   },
   {
    "id": "game8-507",
@@ -6700,16 +6700,16 @@
   },
   {
    "id": "game8-516",
-   "Name": "Career <---> Job",
+   "Name": "Dream job <---> Nightmare job",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Career <---> Job",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Career <---> Job are not clear opposites. Dream/Nightmare job is clear and doesn't repeat Safe/Dangerous job (482), Overpaid/Underpaid (485) or the monster drawing card (417)."
   },
   {
    "id": "game8-517",
@@ -9078,6 +9078,62 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): A face-drawing card about a familiar school moment. The only exam card is a writing task."
+  },
+  {
+   "id": null,
+   "Name": "Very desi <---> Very foreign",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: local scale in the slice's Think-of-something style."
+  },
+  {
+   "id": null,
+   "Name": "Summer food <---> Winter food",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: Pakistani seasonal foods (falsa vs gajar halwa) make good debates."
+  },
+  {
+   "id": null,
+   "Name": "Essential at a shaadi <---> Pointless at a shaadi",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: family-friendly wedding scale, not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Ammi approves <---> Ammi disapproves",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: relatable family scale that sparks arguments; differs from the rishta-profile card (50)."
+  },
+  {
+   "id": null,
+   "Name": "Useful in load shedding <---> Useless in load shedding",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New card: a relatable local scale (UPS, hand fan, candles); no similar card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "NO IDEA <---> KNOWS WHAT'S COMING",
+   "Description": "Draw a Bakra Eid goat that is this aware of what happens on Eid",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New drawing card: mildly dark Eid joke. It differs from the existing goat card (194), which is a perfume-naming task."
+  },
+  {
+   "id": null,
+   "Name": "CLUMSY THIEF <---> MASTER THIEF",
+   "Description": "Draw a crow that is this good at stealing parathas from the roof",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New drawing card: fits the slice's bird theme with a local touch."
   }
  ]
 }

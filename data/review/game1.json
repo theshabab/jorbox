@@ -5869,7 +5869,7 @@
   {
    "id": "game1-452",
    "Name": "Sea",
-   "Description": "Salty water body, like the Arabian",
+   "Description": "Salty water you see from Clifton beach",
    "Category": "Nature",
    "action": "edit",
    "original": {
@@ -5877,7 +5877,7 @@
     "Description": "A large water body",
     "Category": "Nature"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Replaces the dangling 'like the Arabian' with a clear, accurate local hint (Clifton faces the Arabian Sea) that does not contain the word."
   },
   {
    "id": "game1-453",
@@ -6129,7 +6129,7 @@
   {
    "id": "game1-472",
    "Name": "Tablet",
-   "Description": "Flat touchscreen device, bigger than phone",
+   "Description": "Flat touchscreen device, bigger than a phone",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6137,7 +6137,7 @@
     "Description": "A touch device",
     "Category": "Electronics"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Fixes the missing article."
   },
   {
    "id": "game1-473",
@@ -6194,7 +6194,7 @@
   {
    "id": "game1-477",
    "Name": "Printer",
-   "Description": "Puts documents on paper from computer",
+   "Description": "Turns computer files into paper copies",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6202,7 +6202,7 @@
     "Description": "An output device",
     "Category": "Electronics"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Clearer wording than the old hint, and still accurate."
   },
   {
    "id": "game1-478",
@@ -6285,7 +6285,7 @@
   {
    "id": "game1-484",
    "Name": "Microwave",
-   "Description": "Quickly reheats food in minutes",
+   "Description": "Reheats leftovers in minutes, then beeps",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6293,7 +6293,7 @@
     "Description": "A cooking appliance",
     "Category": "Electronics"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Removes the redundant 'quickly ... in minutes' and adds a familiar detail."
   },
   {
    "id": "game1-485",
@@ -6415,7 +6415,7 @@
   {
    "id": "game1-494",
    "Name": "Screwdriver",
-   "Description": "Tool that turns screws",
+   "Description": "Twisting tool with a flat or plus tip",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6423,12 +6423,12 @@
     "Description": "A turning tool",
     "Category": "Tools"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The old hint contained part of the word ('screws'). The new hint is accurate."
   },
   {
    "id": "game1-495",
    "Name": "Wrench",
-   "Description": "Tool for tightening nuts and bolts",
+   "Description": "Also called a spanner; tightens nuts and bolts",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6436,7 +6436,7 @@
     "Description": "A gripping tool",
     "Category": "Tools"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds 'spanner', the name Pakistani players actually use. It stays within about 8 words."
   },
   {
    "id": "game1-496",
@@ -6532,7 +6532,7 @@
   {
    "id": "game1-503",
    "Name": "Tape Measure",
-   "Description": "Roll-out strip for measuring length",
+   "Description": "Roll-out metal strip marked in inches",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6540,7 +6540,7 @@
     "Description": "A measuring tool",
     "Category": "Tools"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Removes 'measuring', which contained the word itself. The new hint is accurate."
   },
   {
    "id": "game1-504",

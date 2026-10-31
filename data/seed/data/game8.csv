@@ -394,10 +394,10 @@ LOST <---> WON,Draw the face of a person who is this likely to have won the figh
 FEELS NICE <---> SO MUCH PAIN!,Draw a toy that would be this painful to step on,Drawing
 HATES ’EM <---> LOVES ’EM,Draw a birthday clown who likes children this much,Drawing
 NOT BROKEN <---> TOTALLY BROKEN,Draw a toy that is this broken,Drawing
-BAD FIVES <---> GREAT FIVES,Draw a clown that is this good at high fives,Drawing
-TACKY <---> GREAT FASHION,Draw a clown that is this fashionable,Drawing
+BAD HIGH FIVES <---> GREAT HIGH FIVES,Draw a clown that is this good at high fives,Drawing
+TACKY <---> STYLISH,Draw a clown that is this fashionable,Drawing
 NOT SNEAKY <---> VERY SNEAKY,Draw a clown that is this sneaky,Drawing
-NONE <---> WAY TOO MUCH,Draw a clown that has had this much coffee,Drawing
+NO CHAI <---> WAY TOO MUCH CHAI,Draw a clown that has had this much chai,Drawing
 POOR CLOWN <---> RICH CLOWN,Draw a clown that is this wealthy,Drawing
 CAUSES TROUBLE <---> SUPER HELPFUL,Draw a bug that is this helpful,Drawing
 BABY BUG <---> VERY OLD BUG,Draw a bug that is this far into its lifespan,Drawing
@@ -409,8 +409,8 @@ WEAK LEGS <---> POWERFUL LEGS,Draw a bird with legs that are this powerful,Drawi
 UNCOMFORTABLE <---> LOVES IT,Draw a bird that looks this comfortable letting someone ride it,Drawing
 KNOWS THE WAY <---> TOTALLY LOST,Draw a bird that looks this lost,Drawing
 TEETH ARE FINE <---> NEEDS DENTIST!!!,Draw the face of a person who needs dental care this badly,Drawing
-BAD TEAM <---> GREAT TEAM,Draw a bird that is the sports mascot for a team that is this good,Drawing
-LOSER <---> SUPER COOL,Draw a bug that is this cool,Drawing
+BAD TEAM <---> GREAT TEAM,Draw a bird that is the mascot of a cricket team that is this good,Drawing
+UNCOOL <---> SUPER COOL,Draw a bug that is this cool,Drawing
 DISTRACTED <---> LASER FOCUS,Draw the face of someone who is concentrating this much,Drawing
 HATES WORMS <---> LOVES WORMS,Draw a bird that enjoys eating worms this much,Drawing
 SILENT <---> SO LOUD,Draw a toy that is probably this loud,Drawing
@@ -422,15 +422,14 @@ ALL ROBOT <---> ALL TRUCK,Draw a robot that is this far along in turning into a 
 1/2 STAR <---> 5 STARS,Draw a circus clown that would get this many stars in online reviews,Drawing
 UGLY EYES <---> BEAUTIFUL EYES,Draw a bug with eyes this beautiful,Drawing
 NOT SCARY <---> TERRIFYING,Draw a monster that is this scary from the waist down,Drawing
-EASY TO SHOP <---> IMPOSSIBLE,Draw a clown that is this likely to have trouble buying clown shoes,Drawing
-NOT BUTTONS <---> TOTALLY BUTTONS,Draw a clown who is this likely to be named Buttons,Drawing
+SHOES FIT EASILY <---> NO SHOES FIT,Draw a clown whose feet are this hard to find shoes for,Drawing
 BAD DOCTOR <---> GREAT DOCTOR,Draw a monster that is this good at being a doctor,Drawing
 AWFUL JUGGLER <---> AMAZING JUGGLER,Draw a clown that is this good at juggling,Drawing
 NOT SILLY <---> VERY SILLY,Draw a monster that is this silly,Drawing
 NOT AFRAID <---> VERY AFRAID,Draw a robot that is this afraid of people,Drawing
 NOT SASSY <---> VERY SASSY,Draw a robot that is this sassy,Drawing
 Good <---> Bad,Think of something that falls on this scale,Writing
-Highly addictive <---> Mildly addictive,Think of something that falls on this scale,Writing
+Not addictive <---> Very addictive,Think of something that falls on this scale,Writing
 Cold <---> Hot,Think of something that falls on this scale,Writing
 Weird <---> Normal,Think of something that falls on this scale,Writing
 Colorful <---> Colorless,Think of something that falls on this scale,Writing
@@ -468,7 +467,7 @@ Easy to find <---> Hard to find,Think of something that falls on this scale,Writ
 Easy to remember <---> Hard to remember,Think of something that falls on this scale,Writing
 Highbrow <---> Lowbrow,Think of something that falls on this scale,Writing
 Healthy <---> Unhealthy,Think of something that falls on this scale,Writing
-Good man <---> Bad man,Think of something that falls on this scale,Writing
+Good neighbour <---> Bad neighbour,Think of something that falls on this scale,Writing
 Historically irrelevant <---> Historically important,Think of something that falls on this scale,Writing
 Hairy <---> Hairless,Think of something that falls on this scale,Writing
 Flexible <---> Inflexible,Think of something that falls on this scale,Writing
@@ -477,7 +476,7 @@ Extrovert <---> Introvert,Think of something that falls on this scale,Writing
 Good book <---> Bad book,Think of something that falls on this scale,Writing
 Beautiful <---> Ugly,Think of something that falls on this scale,Writing
 Happens suddenly <---> Happens slowly,Think of something that falls on this scale,Writing
-Career <---> Job,Think of something that falls on this scale,Writing
+Dream job <---> Nightmare job,Think of something that falls on this scale,Writing
 Good pizza topping <---> Bad pizza topping,Think of something that falls on this scale,Writing
 Utopia <---> Dystopia,Think of something that falls on this scale,Writing
 Immature person <---> Mature person,Think of something that falls on this scale,Writing
@@ -675,3 +674,10 @@ NO FLAGS <---> FULL JASHN-E-AZADI,Draw a bicycle decorated this much for 14 Augu
 SOGGY <---> SUPER CRISPY,Draw a samosa that looks this crispy,Drawing
 PROPERLY FIXED <---> PURE JUGAAR,Draw a pedestal fan that has been repaired with this much jugaar,Drawing
 NOT WORRIED <---> VERY WORRIED,Draw the face of a student who is this worried about their result card,Drawing
+Very desi <---> Very foreign,Think of something that falls on this scale,Writing
+Summer food <---> Winter food,Think of something that falls on this scale,Writing
+Essential at a shaadi <---> Pointless at a shaadi,Think of something that falls on this scale,Writing
+Ammi approves <---> Ammi disapproves,Think of something that falls on this scale,Writing
+Useful in load shedding <---> Useless in load shedding,Think of something that falls on this scale,Writing
+NO IDEA <---> KNOWS WHAT'S COMING,Draw a Bakra Eid goat that is this aware of what happens on Eid,Drawing
+CLUMSY THIEF <---> MASTER THIEF,Draw a crow that is this good at stealing parathas from the roof,Drawing

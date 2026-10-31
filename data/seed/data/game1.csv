@@ -441,7 +441,7 @@ Snow,White flakes that fall in winter,Nature
 Wind,Moving air you can feel,Nature
 Storm,"Heavy wind, rain and thunder",Nature
 River,Flowing water like the Indus,Nature
-Sea,"Salty water body, like the Arabian",Nature
+Sea,Salty water you see from Clifton beach,Nature
 Ocean,"Vast salt water, like the Pacific",Nature
 Lake,Still water surrounded by land,Nature
 Pond,Small still water in a village,Nature
@@ -460,19 +460,19 @@ Radio,Device for listening to broadcast stations,Electronics
 Computer,Desktop machine with monitor and CPU,Electronics
 Laptop,Portable computer that folds open,Electronics
 Mobile,Handheld phone carried everywhere,Electronics
-Tablet,"Flat touchscreen device, bigger than phone",Electronics
+Tablet,"Flat touchscreen device, bigger than a phone",Electronics
 Speaker,Device that makes sound louder,Electronics
 Headphones,Worn over ears for private listening,Electronics
 Mouse,Clicked and moved to point on screen,Electronics
 Keyboard,Rows of keys for typing,Electronics
-Printer,Puts documents on paper from computer,Electronics
+Printer,Turns computer files into paper copies,Electronics
 Scanner,Copies paper documents into a computer,Electronics
 Fan,Spinning blades that move air,Electronics
 AC,Cools a room in summer heat,Electronics
 Heater,Warms a room in winter,Electronics
 Fridge,Keeps food cold and fresh,Electronics
 Oven,Enclosed appliance for baking and roasting,Electronics
-Microwave,Quickly reheats food in minutes,Electronics
+Microwave,"Reheats leftovers in minutes, then beeps",Electronics
 Iron,Hot plate that removes clothes' wrinkles,Electronics
 Blender,Whirls fruit and ice into a liquid,Electronics
 Toaster,Browns bread slices,Electronics
@@ -482,8 +482,8 @@ Clock,Tells time on the wall,Electronics
 Hammer,Tool for hitting nails,Tools
 Nail,Thin metal pin hammered into wood,Tools
 Screw,Threaded fastener turned into wood,Tools
-Screwdriver,Tool that turns screws,Tools
-Wrench,Tool for tightening nuts and bolts,Tools
+Screwdriver,Twisting tool with a flat or plus tip,Tools
+Wrench,Also called a spanner; tightens nuts and bolts,Tools
 Pliers,Hand tool for gripping and bending wire,Tools
 Saw,Toothed blade for cutting wood,Tools
 Drill,Power tool that makes holes,Tools
@@ -491,7 +491,7 @@ Axe,Tool for chopping wood,Tools
 Rake,Long-handled tool for gathering leaves,Tools
 Hoe,Garden tool for digging and weeding,Tools
 Ladder,Steps for climbing up high,Tools
-Tape Measure,Roll-out strip for measuring length,Tools
+Tape Measure,Roll-out metal strip marked in inches,Tools
 Level,Bubble tool for checking straightness,Tools
 Chisel,Sharp-edged tool for carving wood,Tools
 File,Rough metal tool for smoothing edges,Tools
