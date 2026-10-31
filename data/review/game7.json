@@ -5153,14 +5153,14 @@
   },
   {
    "id": "game7-469",
-   "Description": "i'm Mr. Karate around here",
+   "Description": "I'm Mr. Karate around here",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "i'm Mr. Karate around here",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's missed issue: capitalisation fix (i'm -> I'm), the same fix as idx 551."
   },
   {
    "id": "game7-470",
@@ -5263,14 +5263,14 @@
   },
   {
    "id": "game7-479",
-   "Description": "little burger kisses",
+   "Description": "little burger hugs",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "little burger kisses",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'kisses' leans romantic; hugs are non-intimate touching, which the owner allows, and the card is still drawable."
   },
   {
    "id": "game7-480",
@@ -5560,14 +5560,14 @@
   },
   {
    "id": "game7-506",
-   "Description": "cricket fans have no more cheer :/",
+   "Description": "cricket fans have lost all hope :/",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "cheerleaders got no more cheer :/",
     "Category": "Standard Prompts"
    },
-   "note": "localised cheerleaders"
+   "note": "localised cheerleaders; Debate: Challenger's amended version: clearer and easy to draw (dejected fans), and it avoids 'cheers', which can read as a drinking toast."
   },
   {
    "id": "game7-507",
@@ -5604,14 +5604,14 @@
   },
   {
    "id": "game7-510",
-   "Description": "third meeting is when you meet my shadow",
+   "Description": "my shadow is too shy to meet new people",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "third meeting is when you meet my shadow",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The old card was a dating joke with the word swapped and no longer made sense. The new one is clear, drawable, and not a duplicate."
   },
   {
    "id": "game7-511",
@@ -5758,25 +5758,25 @@
   },
   {
    "id": "game7-524",
-   "Description": "hot philly cheesesnake",
+   "Description": "a cheesy paratha roll with a snake filling",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "hot philly cheesesnake",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's missed issue: the 'Philly cheesesteak' pun is US-centric and means little to Pakistani players. This localises it and keeps the snake-food joke."
   },
   {
    "id": "game7-525",
-   "Description": "dracula..... in space",
+   "Description": "Dracula... in space",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "dracula..... in space",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Capitalises the proper noun and tidies the five-dot ellipsis. Monsters are allowed."
   },
   {
    "id": "game7-526",
@@ -5879,14 +5879,14 @@
   },
   {
    "id": "game7-535",
-   "Description": "its popcorn day at last",
+   "Description": "it's popcorn day at last",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "its popcorn day at last",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Grammar fix: its -> it's."
   },
   {
    "id": "game7-536",
@@ -5934,14 +5934,14 @@
   },
   {
    "id": "game7-540",
-   "Description": "The smell thief",
+   "Description": "the smell thief",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "The smell thief",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's missed issue: lowercase start, to match the deck's main style."
   },
   {
    "id": "game7-541",
@@ -6066,14 +6066,14 @@
   },
   {
    "id": "game7-552",
-   "Description": "i think i'm bad at NaqshNigar",
+   "Description": "I think I'm bad at NaqshNigar",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "i think i'm bad at drawful",
     "Category": "Standard Prompts"
    },
-   "note": "refers to Drawful"
+   "note": "refers to Drawful; Debate: Capitalisation fix."
   },
   {
    "id": "game7-553",
@@ -18789,6 +18789,62 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): New classic gali-cricket moment in the style of idx 343; mild and clean."
+  },
+  {
+   "id": null,
+   "Description": "a snail delivering the morning newspaper",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable animal prompt. No snail card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a tandoor that only makes square naans",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local food humour. No tandoor or naan cards in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a bun kebab with a secret identity",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Pakistani street food. The only kebab card is about seekh kebab Jenga."
+  },
+  {
+   "id": null,
+   "Description": "a tiffin box with too many floors",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, visual object joke. No tiffin card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "the geyser refuses to wake up on a winter morning",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani winter joke. No geyser card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a giraffe ducking under every ceiling fan",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local visual gag, different from the existing giraffe card (tall giraffe restaurant staff)."
+  },
+  {
+   "id": null,
+   "Description": "an elephant hiding behind a lamppost",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Classic drawable sight gag. No similar card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a spoon that refuses to stir the chai",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local object with a personality. No similar chai or spoon card in the deck."
   }
  ]
 }

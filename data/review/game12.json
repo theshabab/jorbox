@@ -4002,11 +4002,11 @@
   {
    "id": "game12-445",
    "Name": "Plunger",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Plunger"
    },
-   "note": ""
+   "note": "Debate: Toilet tool that invites bathroom jokes, which the owner disallows. The deck already has Toilet."
   },
   {
    "id": "game12-446",
@@ -4037,12 +4037,12 @@
   },
   {
    "id": "game12-449",
-   "Name": "Poncho",
-   "action": "keep",
+   "Name": "Raincoat",
+   "action": "edit",
    "original": {
     "Name": "Poncho"
    },
-   "note": ""
+   "note": "Debate: Poncho is uncommon in Pakistan. Raincoat keeps the same idea and is not in the deck."
   },
   {
    "id": "game12-450",
@@ -4073,12 +4073,12 @@
   },
   {
    "id": "game12-453",
-   "Name": "Popsicle",
-   "action": "keep",
+   "Name": "Gola Ganda",
+   "action": "edit",
    "original": {
     "Name": "Popsicle"
    },
-   "note": ""
+   "note": "Debate: Popsicle is a US word that overlaps Kulfi, Ice Cream and Ice Cream Stick. Gola Ganda is the local equivalent and is not in the deck."
   },
   {
    "id": "game12-454",
@@ -4172,12 +4172,12 @@
   },
   {
    "id": "game12-464",
-   "Name": "Probe",
-   "action": "keep",
+   "Name": "Stethoscope",
+   "action": "edit",
    "original": {
     "Name": "Probe"
    },
-   "note": ""
+   "note": "Debate: Probe is vague and hard to act or draw. Stethoscope is concrete and not in the deck."
   },
   {
    "id": "game12-465",
@@ -4335,11 +4335,11 @@
   {
    "id": "game12-482",
    "Name": "Rage",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Rage"
    },
-   "note": ""
+   "note": "Debate: Synonym of Anger, which is in the deck."
   },
   {
    "id": "game12-483",
@@ -4469,12 +4469,12 @@
   },
   {
    "id": "game12-497",
-   "Name": "Robe",
-   "action": "keep",
+   "Name": "Abaya",
+   "action": "edit",
    "original": {
     "Name": "Robe"
    },
-   "note": ""
+   "note": "Debate: Robe overlaps Gown and Cloak. Abaya is a familiar local garment and is not in the deck."
   },
   {
    "id": "game12-498",
@@ -4533,11 +4533,11 @@
   {
    "id": "game12-504",
    "Name": "Rubber",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Rubber"
    },
-   "note": ""
+   "note": "Debate: In Pakistani English it means eraser, which duplicates Eraser. It also overlaps Rubber Band and Rubber Stamp."
   },
   {
    "id": "game12-505",
@@ -4550,12 +4550,12 @@
   },
   {
    "id": "game12-506",
-   "Name": "Rumor",
-   "action": "keep",
+   "Name": "Rumour",
+   "action": "edit",
    "original": {
     "Name": "Rumor"
    },
-   "note": ""
+   "note": "Debate: Uses the British spelling found in Pakistani English, matching Armour and Odour already in the deck."
   },
   {
    "id": "game12-507",
@@ -4704,11 +4704,11 @@
   {
    "id": "game12-523",
    "Name": "Sculpture",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Sculpture"
    },
-   "note": ""
+   "note": "Debate: Near-synonym of Statue, which is in the deck."
   },
   {
    "id": "game12-524",
@@ -9515,6 +9515,66 @@
    "Name": "Lighthouse",
    "action": "add",
    "note": "New card (debate): Distinctive drawable object; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Pulao",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani dish, distinct from Biryani, and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Raita",
+   "action": "add",
+   "note": "New card (debate): Common side dish; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Qawwali",
+   "action": "add",
+   "note": "New card (debate): The owner explicitly allows it, and it is easy to act out; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Shikanjvi",
+   "action": "add",
+   "note": "New card (debate): Familiar summer lemon drink; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Saag",
+   "action": "add",
+   "note": "New card (debate): Well-known Punjabi dish; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sadqa",
+   "action": "add",
+   "note": "New card (debate): Common, respectful Islamic concept; neither Charity nor Zakat is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Rishta",
+   "action": "add",
+   "note": "New card (debate): A family marriage proposal, not romance; fits with Baraat and Mehndi and is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Roza",
+   "action": "add",
+   "note": "New card (debate): Pairs with Iftar; accurate and respectful; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Pateela",
+   "action": "add",
+   "note": "New card (debate): Common cooking pot that is easy to draw; only Handi, Teapot and Clay Pot are in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Paranda",
+   "action": "add",
+   "note": "New card (debate): Concrete traditional hair accessory; not in the deck."
   }
  ]
 }

@@ -6714,15 +6714,15 @@
   {
    "id": "game3-517",
    "Name": "Nobody should acknowledge their birthday after the age of 10.",
-   "Description": "Nobody should acknowledge their birthday after the age of 90.|Nobody should acknowledge their birthday after the age of 21.|Nobody should acknowledge their birthday after the age of 30.|Nobody should acknowledge their birthday after the age of 3.|Nobody should acknowledge their birthday after the age of 20.|Nobody should acknowledge their birthday after the age of 12.|Nobody should acknowledge their birthday after the age of eight.|Nobody should acknowledge their birthday after the age of 16.|Nobody should acknowledge their birthday after the age of 17.",
+   "Description": "Nobody should acknowledge their birthday after the age of 90.|Nobody should acknowledge their birthday after the age of 21.|Nobody should acknowledge their birthday after the age of 30.|Nobody should acknowledge their birthday after the age of 3.|Nobody should acknowledge their birthday after the age of 20.|Nobody should acknowledge their birthday after the age of 12.|Nobody should acknowledge their birthday after the age of 8.|Nobody should acknowledge their birthday after the age of 16.|Nobody should acknowledge their birthday after the age of 17.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Nobody should acknowledge their birthday after the age of 10.",
     "Description": "Nobody should acknowledge their birthday after the age of 90.|Nobody should acknowledge their birthday after the age of 21.|Nobody should acknowledge their birthday after the age of 30.|Nobody should acknowledge their birthday after the age of 3.|Nobody should acknowledge their birthday after the age of 20.|Nobody should acknowledge their birthday after the age of 12.|Nobody should acknowledge their birthday after the age of eight.|Nobody should acknowledge their birthday after the age of 16.|Nobody should acknowledge their birthday after the age of 17.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Writes 'eight' as a digit to match the other ages."
   },
   {
    "id": "game3-518",
@@ -6882,8 +6882,8 @@
   },
   {
    "id": "game3-530",
-   "Name": "Socks and sandals should not be worn together.",
-   "Description": "I’m interested in fashion.|Men should wear hats again like it’s 1949.|It’s okay to wear chappals to a wedding.",
+   "Name": "Socks should never be worn with chappals.",
+   "Description": "I’m interested in fashion.|Men should bring back the Jinnah cap.|It’s okay to wear chappals to a wedding.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6891,7 +6891,7 @@
     "Description": "I’m interested in fashion.|Men should wear hats again like it’s 1949.|It’s okay to pee in a public pool.",
     "Category": "Rating"
    },
-   "note": "replaced crude decoy"
+   "note": "replaced crude decoy; Debate: Uses the local word chappals and replaces the US '1949 hats' decoy with the Jinnah cap."
   },
   {
    "id": "game3-531",
@@ -6935,20 +6935,20 @@
   {
    "id": "game3-534",
    "Name": "I would consider myself to be frugal.",
-   "Description": "I think splitting the check should be based on who ordered what.|I love coupons.|I keep track of my expenses.|I have no idea how much money is in my bank account right now.|I spend too much money on fast food.|I love shopping for clothes.",
+   "Description": "I think splitting the bill should be based on who ordered what.|I always hunt for discounts.|I keep track of my expenses.|I have no idea how much money is in my bank account right now.|I spend too much money on fast food.|I love shopping for clothes.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I would consider myself to be frugal.",
     "Description": "I think splitting the check should be based on who ordered what.|I love coupons.|I keep track of my expenses.|I have no idea how much money is in my bank account right now.|I spend too much money on fast food.|I love shopping for clothes.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Replaces the US terms 'check' and 'coupons' with bill and discounts."
   },
   {
    "id": "game3-535",
    "Name": "I am a big fan of fast food.",
-   "Description": "French fries are awful once they’re cold.|I have found a cartoon character cool.|I could never go vegan.",
+   "Description": "French fries are awful once they’re cold.|I eat street food every week.|I could never go vegan.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6956,20 +6956,20 @@
     "Description": "French fries are awful once they’re cold.|I have found a cartoon character cool.|I could never go vegan.",
     "Category": "Rating"
    },
-   "note": "removed brand mascot"
+   "note": "removed brand mascot; Debate: Replaces the meaningless cartoon-character decoy with a close food decoy."
   },
   {
    "id": "game3-536",
    "Name": "Snow doesn’t actually exist.",
-   "Description": "Fountain soda is better than can soda.|People will walk on Mars in fifty years.|I love shopping for clothes.",
+   "Description": "Dhaba chai tastes better than chai at home.|People will walk on Mars in fifty years.|I love shopping for clothes.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Snow doesn’t actually exist.",
     "Description": "Fountain soda is better than can soda.|People will walk on Mars in fifty years.|I love shopping for clothes.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Replaces the US fountain-soda decoy with a local drink opinion."
   },
   {
    "id": "game3-537",
@@ -6987,7 +6987,7 @@
   {
    "id": "game3-538",
    "Name": "I would rather be a cat than a dog.",
-   "Description": "I don’t like crowds.|I’m pretty athletic.|I’m a cat person.|Ferrets are good pets.|I like to sleep in.|I love to snuggle.",
+   "Description": "I don’t like crowds.|I’m pretty athletic.|I’m a cat person.|Rabbits are good pets.|I like to sleep in.|I love to snuggle.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6995,12 +6995,12 @@
     "Description": "I don’t like crowds.|I’m pretty athletic.|I’m a cat person.|Ferrets are good pets.|I like to sleep in.|I love to snuggle.",
     "Category": "Rating"
    },
-   "note": "removed reincarnation"
+   "note": "removed reincarnation; Debate: Ferrets are unfamiliar as pets locally; rabbits are common."
   },
   {
    "id": "game3-539",
    "Name": "I am so ready for self-driving cars.",
-   "Description": "I want a Roomba.|I’ve gotten a lot of speeding tickets.|I know a lot about technology.|I hate driving.|Podcasts are better than the radio.|I would rather take a train instead of drive.",
+   "Description": "I want a robot vacuum.|I’ve gotten a lot of traffic challans.|I know a lot about technology.|I hate driving.|Podcasts are better than the radio.|I would rather take a train than drive.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7008,7 +7008,7 @@
     "Description": "I want a Roomba.|I’ve gotten a lot of speeding tickets.|I know a lot about technology.|I hate driving.|Podcasts are better than music.|I would rather take a train instead of drive.",
     "Category": "Rating"
    },
-   "note": "removed music decoy"
+   "note": "removed music decoy; Debate: Removes the Roomba brand and the US 'speeding tickets', and fixes 'instead of drive'."
   },
   {
    "id": "game3-540",
@@ -7039,7 +7039,7 @@
   {
    "id": "game3-542",
    "Name": "Cricket would be more fun if the bowler yelled “Choo choo!” when he bowled a bouncer.",
-   "Description": "There should be a National Puppy Day where we take the day off to appreciate puppies.|Karela is terrible.|Cricket is boring.",
+   "Description": "There should be a national holiday to appreciate cats.|Karela is terrible.|Cricket is boring.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7047,33 +7047,33 @@
     "Description": "There should be a National Puppy Day where we take the day off to appreciate puppies.|Bacon is terrible.|Baseball is boring.",
     "Category": "Rating"
    },
-   "note": "baseball/bacon localised"
+   "note": "baseball/bacon localised; Debate: Replaces the US National Puppy Day decoy."
   },
   {
    "id": "game3-543",
-   "Name": "I could beat Serena Williams in a game of tennis.",
-   "Description": "I brush and floss twice a day.|I’m a bit of a show-off.|I’m pretty good at tennis.|I could easily give up dairy.|I can get my ping-pong game on.|Golf is boring.",
+   "Name": "I could beat Jahangir Khan in a game of squash.",
+   "Description": "I brush my teeth twice a day.|I’m a bit of a show-off.|I’m pretty good at squash.|I could easily give up dairy.|I can get my ping-pong game on.|Golf is boring.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I could beat Serena Williams in a game of tennis.",
     "Description": "I brush and floss twice a day.|I’m a bit of a show-off.|I’m pretty good at tennis.|I could easily give up dairy.|I can get my ping-pong game on.|Golf is boring.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Swaps a US celebrity athlete for Pakistan's squash legend and adjusts the matching decoy."
   },
   {
    "id": "game3-544",
    "Name": "Teachers are paid too much.",
-   "Description": "Doctors are paid too much.|I prefer smelly cheese.|I wish dogs could talk.|Pancakes are better than waffles.",
+   "Description": "Doctors are paid too much.|I like strong-smelling achaar.|I wish dogs could talk.|Parathas are better than puris.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Teachers are paid too much.",
     "Description": "Doctors are paid too much.|I prefer smelly cheese.|I wish dogs could talk.|Pancakes are better than waffles.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Localises the Western food decoys."
   },
   {
    "id": "game3-545",
@@ -7091,7 +7091,7 @@
   {
    "id": "game3-546",
    "Name": "I’m afraid of robots.",
-   "Description": "I would like a Roomba.|You can’t trust computers.|I’m intimidated by new technology.|I want a hot dog right now.|I love sci-fi stories.|I play a lot of video games.",
+   "Description": "I would like a robot vacuum.|You can’t trust computers.|I’m intimidated by new technology.|I want a shawarma right now.|I love sci-fi stories.|I play a lot of video games.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7099,12 +7099,12 @@
     "Description": "I would like a Roomba.|You can’t trust computers.|I’m intimidated by new technology.|I want a hot dog right now.|I love <i>The Terminator</i>.|I play a lot of video games.",
     "Category": "Rating"
    },
-   "note": "replaced film decoy"
+   "note": "replaced film decoy; Debate: Removes the Roomba brand and replaces the US hot dog with shawarma."
   },
   {
    "id": "game3-547",
    "Name": "Karela is terrible.",
-   "Description": "There should be a National Puppy Day where we take the day off to appreciate puppies.|Cricket would be more fun if the bowler yelled “Choo choo!” when he bowled a bouncer.|Bitter food has no place on a plate.",
+   "Description": "There should be a national holiday to appreciate cats.|Cricket would be more fun if the bowler yelled “Choo choo!” when he bowled a bouncer.|Bitter food has no place on a plate.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7112,20 +7112,20 @@
     "Description": "There should be a National Puppy Day where we take the day off to appreciate puppies.|Baseball would be more fun if the pitcher yelled “Choo choo!” when he threw a fastball.|I know most the words to “All Star” by Smash Mouth.",
     "Category": "Rating"
    },
-   "note": "bacon/song localised"
+   "note": "bacon/song localised; Debate: Replaces the National Puppy Day decoy, matching P7."
   },
   {
    "id": "game3-548",
-   "Name": "I could lift a Toyota Prius over my head pretty easily.",
+   "Name": "I could lift a Suzuki Mehran over my head pretty easily.",
    "Description": "I prefer sunny days over intense hailstorms.|Man will land on Mars within twenty years.|I’d like to live abroad.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I could lift a Toyota Prius over my head pretty easily.",
     "Description": "I prefer sunny days over intense hailstorms.|Man will land on Mars within twenty years.|I’d like to live abroad.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: The Mehran is the iconic local small car; the Prius is a US reference."
   },
   {
    "id": "game3-549",
@@ -7168,16 +7168,16 @@
   },
   {
    "id": "game3-552",
-   "Name": "You must wash your hands after using the bathroom.",
+   "Name": "You must wash your hands before eating.",
    "Description": "I must pet a dog if it approaches me.|You must brush your teeth three times a day.|I could give up cheese for the rest of my life.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "You must wash your hands after using the bathroom.",
     "Description": "I must pet a dog if it approaches me.|You must brush your teeth three times a day.|I could give up cheese for the rest of my life.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Removes bathroom content, which the owner bans, and keeps the hygiene 'must' idea."
   },
   {
    "id": "game3-553",
@@ -7455,15 +7455,15 @@
   {
    "id": "game3-574",
    "Name": "I’m a morning person.",
-   "Description": "I love coffee.|I love pancakes.|I go to bed early.|I like to wake up early.|I’d rather stay up late than get up early.|I’d rather get up early than stay up late.",
+   "Description": "I love coffee.|I love a halwa puri breakfast.|I go to bed early.|I like to wake up early.|I’d rather stay up late than get up early.|I’d rather get up early than stay up late.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I’m a morning person.",
     "Description": "I love coffee.|I love pancakes.|I go to bed early.|I like to wake up early.|I’d rather stay up late than get up early.|I’d rather get up early than stay up late.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Replaces the pancakes decoy with a desi breakfast."
   },
   {
    "id": "game3-575",
@@ -7481,20 +7481,20 @@
   {
    "id": "game3-576",
    "Name": "I want to compete in a half-marathon.",
-   "Description": "I never have free time.|I worry about the future.|I waste a good amount of time on dumb things.|I like to workout.|I go to bed early.|I want to compete in a marathon.|I hike a lot.|I don’t like skiing.|I hate getting up early.",
+   "Description": "I never have free time.|I worry about the future.|I waste a good amount of time on dumb things.|I like to work out.|I go to bed early.|I want to compete in a marathon.|I hike a lot.|I don’t like skiing.|I hate getting up early.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I want to compete in a half-marathon.",
     "Description": "I never have free time.|I worry about the future.|I waste a good amount of time on dumb things.|I like to workout.|I go to bed early.|I want to compete in a marathon.|I hike a lot.|I don’t like skiing.|I hate getting up early.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Grammar: the verb is 'work out', not 'workout'."
   },
   {
    "id": "game3-577",
    "Name": "I am superstitious.",
-   "Description": "I believe in ghosts.|I believe in lucky numbers.|I avoid walking under ladders.",
+   "Description": "I believe in ghosts.|I believe in lucky numbers.|An itchy palm means money is coming.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7502,7 +7502,7 @@
     "Description": "I believe in ghosts.|I believe in karma.|I am big into astrology.",
     "Category": "Rating"
    },
-   "note": "removed astrology/karma"
+   "note": "removed astrology/karma; Debate: Challenger's amendment: replaces the Western ladder superstition with a desi folk superstition. It does not use nazar, which authentic hadith affirm, so it should not be framed as superstition."
   },
   {
    "id": "game3-578",
@@ -7883,7 +7883,7 @@
   },
   {
    "id": "game3-607",
-   "Name": "You find out the burglar is still hiding inside your house. You would then...",
+   "Name": "You find out a burglar is hiding inside your house. You would then...",
    "Description": "go out|stay inside and chill|deal with it later",
    "Category": "Morality",
    "action": "edit",
@@ -7892,7 +7892,7 @@
     "Description": "go out|stay inside and chill|deal with it later",
     "Category": "Morality"
    },
-   "note": "removed horror-film reference"
+   "note": "removed horror-film reference; Debate: The card referred to 'the burglar' and 'still' with no earlier context; it now makes sense on its own."
   },
   {
    "id": "game3-608",
@@ -9889,6 +9889,86 @@
    "Category": "Rating",
    "action": "add",
    "note": "New card (debate): Local cricket-fandom card, distinct from the cricket-stats card (491)."
+  },
+  {
+   "id": null,
+   "Name": "I’d rather travel by train than by plane.",
+   "Description": "I’m scared of flying.|I love long road trips.|Daewoo is the best way to travel between cities.|I get bored on long journeys.|I always want the window seat.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New local travel rating card with close decoys; no duplicate in game3."
+  },
+  {
+   "id": null,
+   "Name": "Rishta aunties are scarier than ghosts.",
+   "Description": "I believe in ghosts.|I’m scared of my khala.|I hate being asked when I’m getting married.|Weddings stress me out.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Funny, family-safe desi rating card; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Eid shopping is the best part of Eid.",
+   "Description": "I love getting eidi.|Chand Raat is my favourite night of the year.|I hate crowded bazaars.|I always buy new clothes for Eid.|Eid food is the best food.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): No Eid rating card exists, and the decoys are close."
+  },
+  {
+   "id": null,
+   "Name": "Load-shedding doesn’t bother me at all.",
+   "Description": "I could survive a Karachi summer without AC.|I’m a very patient person.|I always keep my phone fully charged.|Candlelight is cosy.|I complain about the heat all the time.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable local rating card; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I forward every WhatsApp message I receive.",
+   "Description": "I read every message in the family group.|I believe most things I read online.|I keep family groups on mute.|I send good-morning flowers every day.|I get my news from Facebook.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Local social-media card about family groups, separate from 568 and 583."
+  },
+  {
+   "id": null,
+   "Name": "Kite flying should be allowed everywhere again.",
+   "Description": "Basant is the best festival.|I was great at kite fights as a kid.|Rooftops are the best place to hang out.|Gully cricket should be a national sport.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Topical local opinion card; no kite card in game3."
+  },
+  {
+   "id": null,
+   "Name": "Guests arrive unannounced right at dinner time and there isn’t enough salan. You...",
+   "Description": "add water to the salan|order extra food|say you’ve already eaten",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Classic desi hospitality dilemma in the Morality format."
+  },
+  {
+   "id": null,
+   "Name": "Your phupho sends a WhatsApp forward saying onions cure every disease. You...",
+   "Description": "correct her politely|forward it to everyone|reply with a thumbs up",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Funny family dilemma; no similar card."
+  },
+  {
+   "id": null,
+   "Name": "The light goes out in the last over of a Pakistan–India match. You...",
+   "Description": "run to a neighbour with a UPS|follow it on the radio|go outside and shout at the transformer",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Relatable cricket and load-shedding dilemma; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Your friend asks you to tell everyone they’re “five minutes away” when they haven’t even left home. You...",
+   "Description": "cover for them|tell the truth|say nothing",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Light honesty dilemma; a concrete scenario, unlike Rating card 563."
   }
  ]
 }
