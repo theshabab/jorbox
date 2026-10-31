@@ -4973,9 +4973,9 @@
   },
   {
    "id": null,
-   "Name": "Chai with Rusk or Biscuits?",
+   "Name": "Chai: With Rusk or Biscuits?",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Matches the 'Topic: A or B?' pattern used by 555, 557, 562 and 568-575."
   },
   {
    "id": null,
@@ -5966,6 +5966,48 @@
    "Name": "Name a reptile.",
    "action": "add",
    "note": "New card (debate): No reptile card; clear answers (snake, lizard, crocodile, turtle)."
+  },
+  {
+   "id": null,
+   "Name": "Name a dish made with chanay (chickpeas).",
+   "action": "add",
+   "note": "New card (debate): No chickpea card in the deck. Answers cluster (cholay, chana chaat, chana pulao), so players will match."
+  },
+  {
+   "id": null,
+   "Name": "Name a vegetable people make pakoray with.",
+   "action": "add",
+   "note": "New card (debate): Small set of answers (aloo, piyaz, palak, baingan, mirch). Different from 58 'Samosa or Pakora?'."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous fort in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Narrower than 239 (landmark), with a different set of answers (Lahore Fort, Rohtas, Derawar, Ranikot, Baltit). Facts checked."
+  },
+  {
+   "id": null,
+   "Name": "Name something you need to make roti.",
+   "action": "add",
+   "note": "New card (debate): Everyday kitchen prompt with clustered answers. 230 asks a different question."
+  },
+  {
+   "id": null,
+   "Name": "Name a food mentioned in the Quran.",
+   "action": "add",
+   "note": "New card (debate): Accurate, well-established answers (dates, figs, olives, pomegranates, grapes, honey, milk). Complements 611 and 678."
+  },
+  {
+   "id": null,
+   "Name": "Name something a barber (nai) does.",
+   "action": "add",
+   "note": "New card (debate): No barber card exists. Local flavour, with answers that cluster."
+  },
+  {
+   "id": null,
+   "Name": "Name a reason people go to the bank.",
+   "action": "add",
+   "note": "New card (debate): Daily-life card with common answers. No bank card in the deck."
   }
  ]
 }

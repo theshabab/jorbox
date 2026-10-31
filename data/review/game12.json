@@ -464,12 +464,12 @@
   },
   {
    "id": "game12-52",
-   "Name": "Board",
-   "action": "keep",
+   "Name": "Blackboard",
+   "action": "edit",
    "original": {
     "Name": "Board"
    },
-   "note": ""
+   "note": "Debate: 'Board' is too vague. Blackboard is concrete, familiar from school, and not already in the deck."
   },
   {
    "id": "game12-53",
@@ -896,12 +896,12 @@
   },
   {
    "id": "game12-100",
-   "Name": "Card",
-   "action": "keep",
+   "Name": "Eid Card",
+   "action": "edit",
    "original": {
     "Name": "Card"
    },
-   "note": ""
+   "note": "Debate: 'Card' is vague and reads as playing cards. Eid Card is concrete and local, and it is different from Eidi and Credit Card."
   },
   {
    "id": "game12-101",
@@ -9887,6 +9887,66 @@
    "Name": "Walima",
    "action": "add",
    "note": "New card (debate): Sunnah wedding feast familiar to every family, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Aeroplane",
+   "action": "add",
+   "note": "New card (debate): Common and drawable. Only Toy Plane exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Ant",
+   "action": "add",
+   "note": "New card (debate): Simple, drawable animal that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Bee",
+   "action": "add",
+   "note": "New card (debate): Easy to act out and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Apron",
+   "action": "add",
+   "note": "New card (debate): Concrete kitchen object that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Barber",
+   "action": "add",
+   "note": "New card (debate): Familiar person noun alongside Darzi and Dhobi. The deck has no barber, nai or hajjam."
+  },
+  {
+   "id": null,
+   "Name": "Crab",
+   "action": "add",
+   "note": "New card (debate): Fun to act out and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Cheetah",
+   "action": "add",
+   "note": "New card (debate): Well-known animal that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Bulldozer",
+   "action": "add",
+   "note": "New card (debate): Concrete machine that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Calligraphy",
+   "action": "add",
+   "note": "New card (debate): Culturally fitting Islamic art form that is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Onion",
+   "action": "add",
+   "note": "New card (debate): Kitchen staple that is easy to act out and not in the deck."
   }
  ]
 }

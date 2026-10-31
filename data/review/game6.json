@@ -167,12 +167,12 @@
   },
   {
    "id": "game6-19",
-   "Description": "Football Teams",
-   "action": "keep",
+   "Description": "Football Clubs",
+   "action": "edit",
    "original": {
     "Description": "Football Teams"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment. It makes 'Football Teams' clearer, and leaving out national teams stops the card from becoming the existing 'Countries' card (idx 10)."
   },
   {
    "id": "game6-20",
@@ -518,12 +518,12 @@
   },
   {
    "id": "game6-58",
-   "Description": "Types of Salah",
-   "action": "keep",
+   "Description": "Types of Salah (Namaz)",
+   "action": "edit",
    "original": {
     "Description": "Types of Salah"
    },
-   "note": ""
+   "note": "Debate: Adds the everyday Urdu word. The answers are accurate and plentiful (the five daily prayers, Jumu'ah, Witr, Taraweeh, Tahajjud, Janazah, Istikhara, Eid...)."
   },
   {
    "id": "game6-59",
@@ -923,12 +923,12 @@
   },
   {
    "id": "game6-103",
-   "Description": "Cooking Oils",
-   "action": "keep",
+   "Description": "Cooking Oils and Ghee",
+   "action": "edit",
    "original": {
     "Description": "Cooking Oils"
    },
-   "note": ""
+   "note": "Debate: Ending arguments over whether desi ghee and banaspati count, which are staples of a Pakistani kitchen."
   },
   {
    "id": "game6-104",
@@ -3434,6 +3434,48 @@
    "Description": "Things With Zips",
    "action": "add",
    "note": "New card (debate): Fits the deck's cards about object features (Handles, Lids, Buttons) and has plenty of answers (bags, jackets, purses, wallets, suitcases, pencil boxes, cushion covers, tents, jeans, hoodies)."
+  },
+  {
+   "id": null,
+   "Description": "Muslim-Majority Countries",
+   "action": "add",
+   "note": "New card (debate): About 50 answers that suit the audience. It is a narrower, harder version of 'Countries', not a copy of it, and no such card exists."
+  },
+  {
+   "id": null,
+   "Description": "Famous Muslim Rulers and Conquerors",
+   "action": "add",
+   "note": "New card (debate): Many well-known, accurate answers (Salahuddin, Muhammad bin Qasim, Tariq bin Ziyad, Mehmed II, Tipu Sultan, the Mughals, Ghaznavi). Nothing in the deck covers this."
+  },
+  {
+   "id": null,
+   "Description": "Places in Pakistan Ending in -abad",
+   "action": "add",
+   "note": "New card (debate): A fresh word-pattern card with plenty of real answers (Islamabad, Faisalabad, Hyderabad, Abbottabad, Jacobabad, Muzaffarabad, Nazimabad...)."
+  },
+  {
+   "id": null,
+   "Description": "English Words Used in Everyday Urdu",
+   "action": "add",
+   "note": "New card (debate): Hundreds of answers everyone knows, and it fits alongside the Punjabi, Pashto and Sindhi Words cards."
+  },
+  {
+   "id": null,
+   "Description": "Desi Nicknames (Ghar Ke Naam)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment. It keeps the fun idea, follows the deck's 'English (Roman Urdu)' title pattern, and does not give away answers in the title."
+  },
+  {
+   "id": null,
+   "Description": "Things Made in a Tandoor",
+   "action": "add",
+   "note": "New card (debate): Grouping by cooking method mixes breads and meats, so the answers differ enough from Bread Types and Types of Kebabs. There are plenty of answers."
+  },
+  {
+   "id": null,
+   "Description": "Things Made of Leather",
+   "action": "add",
+   "note": "New card (debate): Many everyday answers (khussa, belt, wallet, jacket, cricket ball, sofa), and the material is not yet in the deck's 'Things Made of...' set."
   }
  ]
 }
