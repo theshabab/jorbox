@@ -3164,6 +3164,36 @@
    "Description": "Things That Are Hard (Not Soft)",
    "action": "add",
    "note": "New card (debate): Counterpart to 'Things That Are Soft'. '(Not Soft)' makes the physical meaning clear. The challenger's 'Hard to Touch' would mean 'difficult to touch' and make the card harder to understand."
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Besan (Gram Flour)",
+   "action": "add",
+   "note": "New card (debate): No besan card exists (only Atta or Maida); fits the ingredient series with many answers such as pakoray, kadhi, besan ki roti, ladoo, boondi and cheela."
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Chanay (Chickpeas)",
+   "action": "add",
+   "note": "New card (debate): Not a duplicate. 'Pulses (Daals)' asks for the pulses themselves, while this card asks for dishes: cholay, chana chaat, chana pulao, haleem, hummus and falafel."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Smooth",
+   "action": "add",
+   "note": "New card (debate): Completes the texture set alongside Hard, Soft and Sticky. The answers are clear (marble, glass, tiles, silk, phone screen)."
+  },
+  {
+   "id": null,
+   "Description": "Excuses for Missing School or Office",
+   "action": "add",
+   "note": "New card (debate): Different from the existing excuse cards (being late, homework, dawat, phone). It is relatable and has many answers."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do When You Get Home",
+   "action": "add",
+   "note": "New card (debate): Pairs with the morning routine card and has many everyday answers. No duplicate found in the deck."
   }
  ]
 }

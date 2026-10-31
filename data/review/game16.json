@@ -5375,23 +5375,23 @@
    "id": "game16-489",
    "Name": "What does your ideal day look like?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What does your ideal day look like?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Duplicate of card 101 'Describe your perfect day.'"
   },
   {
    "id": "game16-490",
    "Name": "What are you most looking forward to in the future?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What are you most looking forward to in the future?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Duplicate of card 112 'What are you most excited about for the future?'"
   },
   {
    "id": "game16-491",
@@ -5419,23 +5419,23 @@
    "id": "game16-493",
    "Name": "What legacy do you want to leave behind?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What legacy do you want to leave behind?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Duplicate of card 37 'How would you like to be remembered?'"
   },
   {
    "id": "game16-494",
    "Name": "What is your biggest fear?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is your biggest fear?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Duplicate of card 68 'What scares you the most?'"
   },
   {
    "id": "game16-495",
@@ -5450,14 +5450,14 @@
   },
   {
    "id": "game16-496",
-   "Name": "Have you ever felt truly lonely?",
+   "Name": "When have you felt truly lonely, and what helped you through it?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Have you ever felt truly lonely?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Yes/no question turned into an open conversation starter"
   },
   {
    "id": "game16-497",
@@ -5496,12 +5496,12 @@
    "id": "game16-500",
    "Name": "What do you value most in a friendship?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What do you value most in a friendship?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Same meaning as card 82 'What do you look for in a friend?'"
   },
   {
    "id": "game16-501",
@@ -5626,14 +5626,14 @@
   },
   {
    "id": "game16-512",
-   "Name": "If you could live in any fictional world, which one would you choose?",
+   "Name": "If you could step inside any story, folk tale or video game world for a day, which would you choose?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you could live in any fictional world, which one would you choose?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: steers away from magic/film worlds and keeps the imaginative idea without duplicating time-travel card 54"
   },
   {
    "id": "game16-513",
@@ -5661,12 +5661,12 @@
    "id": "game16-515",
    "Name": "What’s a book that changed your perspective on something?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What’s a book that changed your perspective on something?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Duplicate of card 302 'What book has changed one of your long-held opinions?' and close to card 300"
   },
   {
    "id": "game16-516",
@@ -5771,12 +5771,12 @@
    "id": "game16-525",
    "Name": "How do you practice self-care?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "How do you practice self-care?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: same meaning as card 195 'What do you do to get rid of stress?'; rewording would still duplicate it"
   },
   {
    "id": "game16-526",
@@ -5813,14 +5813,14 @@
   },
   {
    "id": "game16-529",
-   "Name": "Biryani: With Aloo or Without?",
+   "Name": "Biryani: with aloo or without? Defend your answer.",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Biryani: With Aloo or Without?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Bare either/or gets a one-word answer; prompt a defence"
   },
   {
    "id": "game16-530",
@@ -5835,47 +5835,47 @@
   },
   {
    "id": "game16-531",
-   "Name": "Chai or Coffee?",
+   "Name": "Chai or coffee? Defend your choice.",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Chai or Coffee?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Bare either/or gets a one-word answer; make it a discussion"
   },
   {
    "id": "game16-532",
-   "Name": "Ludo: Strategy or Luck?",
+   "Name": "Ludo: strategy or pure luck? Defend your answer.",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Ludo: Strategy or Luck?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Bare either/or gets a one-word answer; make it a discussion"
   },
   {
    "id": "game16-533",
-   "Name": "What is your favorite childhood game (e.g., Oonch Neech, Kho Kho)?",
+   "Name": "Which gali game were you the champion of as a kid (e.g., Baraf Paani, Pithu Garam, Gulli Danda)?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is your favorite childhood game (e.g., Oonch Neech, Kho Kho)?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: fixes tense, uses familiar Pakistani games and avoids duplicating card 21 (favorite childhood game)"
   },
   {
    "id": "game16-534",
-   "Name": "If you could ban one guest from every wedding, who would it be?",
+   "Name": "If you could ban one type of guest from every wedding, who would it be?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you could ban one guest from every wedding, who would it be?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Avoids naming real relatives in front of family; keeps the joke"
   },
   {
    "id": "game16-535",
@@ -5912,14 +5912,14 @@
   },
   {
    "id": "game16-538",
-   "Name": "What is the best place to visit in Pakistan?",
+   "Name": "Which underrated place in Pakistan deserves more visitors?",
    "Category": "Desi Life & Culture Adaptations",
    "action": "edit",
    "original": {
     "Name": "Best place to visit in Pakistan?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": "made a full question"
+   "note": "made a full question; Debate: Reduces overlap with cards 233 and 258; fresher answers"
   },
   {
    "id": "game16-539",
@@ -6033,14 +6033,14 @@
   },
   {
    "id": "game16-549",
-   "Name": "Who is the most \"kanjoos\" (stingy) person you know?",
+   "Name": "What is the most \"kanjoos\" (stingy) thing you have ever seen someone do?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who is the most \"kanjoos\" (stingy) person you know?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Shifts from naming/shaming a person to a funny story"
   },
   {
    "id": "game16-550",
@@ -6286,14 +6286,14 @@
   },
   {
    "id": "game16-572",
-   "Name": "What's the strangest family tradition in your family?",
+   "Name": "What's the strangest tradition in your family?",
    "Category": "More Fun Questions",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What's the strangest family tradition in your family?",
     "Category": "More Fun Questions"
    },
-   "note": ""
+   "note": "Debate: Removes redundant wording; distinct from card 89 (favorite family tradition)"
   },
   {
    "id": "game16-573",
@@ -6308,14 +6308,14 @@
   },
   {
    "id": "game16-574",
-   "Name": "What did you name your first car (if you had one)?",
+   "Name": "What was your family's first car, and what is your best memory in it?",
    "Category": "More Fun Questions",
    "action": "edit",
    "original": {
     "Name": "What did you name your first car? (If you had one)",
     "Category": "More Fun Questions"
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: Naming cars is a Western habit; localised and made answerable"
   },
   {
    "id": "game16-575",
@@ -6396,36 +6396,36 @@
   },
   {
    "id": "game16-582",
-   "Name": "What after-school activity did you quit as a kid, and why?",
+   "Name": "Which hobby or class did you quit as a kid, and why?",
    "Category": "More Fun Questions",
    "action": "edit",
    "original": {
     "Name": "What afterschool activity did you quit as a kid, and why?",
     "Category": "More Fun Questions"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: 'After-school activity' is US-centric framing"
   },
   {
    "id": "game16-583",
-   "Name": "What's the funniest thing that ever happened on your family vacation?",
+   "Name": "What's the funniest thing that ever happened on a family trip?",
    "Category": "More Fun Questions",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What's the funniest thing that ever happened on your family vacation?",
     "Category": "More Fun Questions"
    },
-   "note": ""
+   "note": "Debate: Fixes grammar and uses local phrasing"
   },
   {
    "id": "game16-584",
-   "Name": "What's the funniest animal you've ever owned as a pet?",
+   "Name": "What's the funniest pet or animal your family ever kept (yes, the Eid goat counts)?",
    "Category": "More Fun Questions",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What's the funniest animal you've ever owned as a pet?",
     "Category": "More Fun Questions"
    },
-   "note": ""
+   "note": "Debate: Answerable for players without pets; warm local twist"
   },
   {
    "id": "game16-585",
@@ -7554,6 +7554,69 @@
    "Category": "Deep & ThoughtProvoking",
    "action": "add",
    "note": "New card (debate): Respectful worship-related question that differs from 609 and 643."
+  },
+  {
+   "id": null,
+   "Name": "Which dua do you find yourself making most often these days?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Personal worship question allowed by owner; no dua card in deck"
+  },
+  {
+   "id": null,
+   "Name": "Which small sunnah would you like to make a daily habit, and why?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Faith-centred reflective question; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "What did your parents scold you for as a kid that you now completely understand?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Warm family reflection; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "What is the best 'jugaad' fix you have seen at home (a chappal holding the door open, tape around the remote)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Classic desi household humour; no jugaad card in deck"
+  },
+  {
+   "id": null,
+   "Name": "Which question from relatives do you dread most at family gatherings (marks, job, shaadi), and how do you dodge it?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Relatable desi family moment; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "What is the strangest thing a relative has asked you to bring back from abroad or another city?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Fun desi family story prompt; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Who is the 'Google' of your family, the one with an answer for everything?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Affectionate family-roles question; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Which dish does your family always make too much of, so you end up eating it for three days?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Relatable food/family humour; no leftovers card"
+  },
+  {
+   "id": null,
+   "Name": "What is the most creative way you have seen someone save a seat at a wedding or a spot in a queue?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Funny observational story prompt; not in deck"
   }
  ]
 }

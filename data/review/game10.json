@@ -4533,11 +4533,11 @@
   {
    "id": "game10-504",
    "Name": "Name a famous brand slogan.",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Name a brand slogan."
    },
-   "note": "added 'famous' so it has common answers"
+   "note": "Debate: Ad slogans are pop culture and mostly Western. Players write long free-text phrases that rarely match, and other brand prompts already cover the topic."
   },
   {
    "id": null,
@@ -4775,9 +4775,9 @@
   },
   {
    "id": null,
-   "Name": "Name something that happens at a mehndi.",
+   "Name": "Name a color people wear to a mehndi.",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: The current prompt pushes players toward dholki, songs and dancing answers, which the content rules ban. The color version keeps the wedding theme and has strong matching answers (yellow, green, orange). I used the deck's spelling, 'color'."
   },
   {
    "id": null,
@@ -5034,8 +5034,8 @@
   {
    "id": null,
    "Name": "Name something you need to make chai.",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Same meaning as 546 'Name something you add to chai.', with the same top answers (milk, sugar, patti, elaichi)."
   },
   {
    "id": null,
@@ -5636,6 +5636,42 @@
    "Name": "Name a famous Muslim ruler or conqueror.",
    "action": "add",
    "note": "New card (debate): History prompt with common answers (Salahuddin, Muhammad bin Qasim, Tipu Sultan), broader than 139 (Mughal emperors)."
+  },
+  {
+   "id": null,
+   "Name": "Name something people carry on a motorbike.",
+   "action": "add",
+   "note": "New card (debate): Funny everyday Pakistani prompt whose answers cluster (whole family, groceries, gas cylinder, goat). No similar card exists."
+  },
+  {
+   "id": null,
+   "Name": "Name something you see at a cattle mandi before Bakra Eid.",
+   "action": "add",
+   "note": "New card (debate): Local prompt with common answers. It complements 518 without duplicating it, and the deck has no mandi card."
+  },
+  {
+   "id": null,
+   "Name": "Name a part of the body washed in wudu.",
+   "action": "add",
+   "note": "New card (debate): Accurate and respectful: hands, mouth, nose, face, arms and feet are washed. The head and ears are wiped, not washed, so 'washed' is correct. The small answer set means answers will match."
+  },
+  {
+   "id": null,
+   "Name": "Name something sold by the dozen.",
+   "action": "add",
+   "note": "New card (debate): Pakistani market prompt with clear common answers (eggs, bananas, oranges). Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name an excuse students give for not doing homework.",
+   "action": "add",
+   "note": "New card (debate): Relatable school humor with clustered answers. The existing excuse cards cover being late and skipping school, not homework."
+  },
+  {
+   "id": null,
+   "Name": "Name something that happens in Pakistan when it rains heavily.",
+   "action": "add",
+   "note": "New card (debate): Local, funny prompt (loadshedding, pakoray, flooded roads). It asks what happens, unlike the existing rainy-day preference cards."
   }
  ]
 }
