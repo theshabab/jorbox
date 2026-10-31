@@ -858,6 +858,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-856','game1','Sandpaper','Rough sheet for smoothing wood','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-857','game1','Soldering Iron','Hot pen tool that melts metal onto circuits','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-858','game1','Wash and Wear','Crease-resistant suiting for men’s shalwar kameez','Fabrics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-859','game1','Qibla','Direction Muslims face to pray, towards the Kaaba','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-860','game1','Nikah','Marriage contract with mehr and "qubool hai"','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-861','game1','Aqiqah','Sacrifice and haircut for a newborn on day seven','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-862','game1','Hafiz','Someone who knows the whole Quran by heart','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-863','game1','Maqam Ibrahim','Footprint stone near the Kaaba','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-864','game1','Hateem','Semicircular wall area beside the Kaaba','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-865','game1','Asma bint Abi Bakr','"She of the two belts"; took food to the cave','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-866','game1','Hafsa','Umar’s daughter who kept the compiled Quran','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-867','game1','Sumayyah','First martyr of Islam, mother of Ammar','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-868','game1','Only Child','Iklauta; no brothers or sisters','Family Relations');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');

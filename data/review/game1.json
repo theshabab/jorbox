@@ -10848,6 +10848,86 @@
    "Category": "Fabrics",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Qibla",
+   "Description": "Direction Muslims face to pray, towards the Kaaba",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Nikah",
+   "Description": "Marriage contract with mehr and \"qubool hai\"",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Aqiqah",
+   "Description": "Sacrifice and haircut for a newborn on day seven",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hafiz",
+   "Description": "Someone who knows the whole Quran by heart",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Maqam Ibrahim",
+   "Description": "Footprint stone near the Kaaba",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hateem",
+   "Description": "Semicircular wall area beside the Kaaba",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Asma bint Abi Bakr",
+   "Description": "\"She of the two belts\"; took food to the cave",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hafsa",
+   "Description": "Umar’s daughter who kept the compiled Quran",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sumayyah",
+   "Description": "First martyr of Islam, mother of Ammar",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Only Child",
+   "Description": "Iklauta; no brothers or sisters",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
