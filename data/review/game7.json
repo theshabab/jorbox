@@ -9181,12 +9181,12 @@
    "id": "game7-835",
    "Description": "an animation of an animation",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "an animation of an animation",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Too abstract for a still drawing, and it overlaps 'this is a funny animation'."
   },
   {
    "id": "game7-836",
@@ -9366,14 +9366,14 @@
   },
   {
    "id": "game7-852",
-   "Description": "omg.. my tv bites",
+   "Description": "omg... my TV bites",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "omg.. my tv bites",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fixes the punctuation and capitalisation. The joke is unchanged."
   },
   {
    "id": "game7-853",
@@ -9465,14 +9465,14 @@
   },
   {
    "id": "game7-861",
-   "Description": "wait no no no this is not a duck boat",
+   "Description": "wait no no no, this is not a swan boat",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "wait no no no this is not a duck boat",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Swaps the US duck boat for the swan paddle boats found in local parks. The joke survives."
   },
   {
    "id": "game7-862",
@@ -9498,14 +9498,14 @@
   },
   {
    "id": "game7-864",
-   "Description": "cartoon wolf's eyes poppin out its head",
+   "Description": "cartoon wolf's eyes popping out of its head",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "cartoon wolf's eyes poppin out its head",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fixes the spelling and grammar ('poppin out its head')."
   },
   {
    "id": "game7-865",
@@ -9553,14 +9553,14 @@
   },
   {
    "id": "game7-869",
-   "Description": "Secretary of Bowling",
+   "Description": "Federal Minister of Gully Cricket",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "Secretary of Bowling",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Swaps the US cabinet-title gag for a local one. It stays drawable and is not a duplicate of 'minister tapeworm'."
   },
   {
    "id": "game7-870",
@@ -9608,36 +9608,36 @@
   },
   {
    "id": "game7-874",
-   "Description": "ma redid the garage",
+   "Description": "Ammi redecorated the garage",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "ma redid the garage",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Clearer, localised wording that keeps the original idea."
   },
   {
    "id": "game7-875",
-   "Description": "hockey on stew lake",
+   "Description": "ice hockey on a frozen lake of nihari",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "hockey on stew lake",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: 'stew lake' was vague. The local dish makes it clearer and funnier, and it is distinct from 'nihari sunday'."
   },
   {
    "id": "game7-876",
-   "Description": "trying to sit on the goo stool",
+   "Description": "trying to sit on a chair made of jelly",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "trying to sit on the goo stool",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Avoids the possible toilet reading of 'goo stool', which the owner does not allow."
   },
   {
    "id": "game7-877",
@@ -9696,14 +9696,14 @@
   },
   {
    "id": "game7-882",
-   "Description": "a deviled egg hatching",
+   "Description": "a hard-boiled egg hatching",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "summon a devil egg",
     "Category": "Standard Prompts"
    },
-   "note": "devil-summoning removed"
+   "note": "devil-summoning removed; Debate: Deviled eggs are an unfamiliar Western dish. A boiled egg keeps the absurdity."
   },
   {
    "id": "game7-883",
@@ -9718,14 +9718,14 @@
   },
   {
    "id": "game7-884",
-   "Description": "the ancient forbidden seltzer",
+   "Description": "the ancient forbidden bottle of Pakola",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the ancient forbidden seltzer",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Swaps the US 'seltzer' for a well-known local soda. The mock-epic tone stays."
   },
   {
    "id": "game7-885",
@@ -9916,14 +9916,14 @@
   },
   {
    "id": "game7-902",
-   "Description": "heeeelp! i'm stuck in a pudding cup",
+   "Description": "heeeelp! i'm stuck in a bowl of kheer",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "heeeelppppp! im stuck in a pudding cup",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Swaps the US pudding cup for local kheer, which is easy to draw."
   },
   {
    "id": "game7-903",
@@ -10279,14 +10279,14 @@
   },
   {
    "id": "game7-935",
-   "Description": "hey, hey, not at the aquarium",
+   "Description": "hey, hey, no fishing at the aquarium",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "hey, hey, not at the aquarium",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: The original was vague and could be read as improper. The edit is clean and concrete to draw."
   },
   {
    "id": "game7-936",
@@ -18950,6 +18950,48 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): New local twist on the deck's snowman theme. Jacobabad is among the hottest cities in the world in June."
+  },
+  {
+   "id": null,
+   "Description": "a water tanker squeezing through a tiny gali",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A new local scene that is easy to draw. No tanker or gali card exists in the deck."
+  },
+  {
+   "id": null,
+   "Description": "an ice-cream box in the fridge that's full of daal",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A classic desi household joke that is not already in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a dinosaur waiting in the bank queue on bill day",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A relatable, absurd local scene, distinct from the existing dinosaur cards."
+  },
+  {
+   "id": null,
+   "Description": "a hen proudly laying a fried egg",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Simple and drawable, and different from the existing egg and hen cards."
+  },
+  {
+   "id": null,
+   "Description": "K2 wrapped up in a giant shawl",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A clean visual gag on a local landmark. No duplicate exists."
+  },
+  {
+   "id": null,
+   "Description": "a sugarcane juice machine chasing the farmer",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A local street-food absurdity, distinct from 'another glass of cane juice please'."
   }
  ]
 }

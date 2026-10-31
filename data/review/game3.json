@@ -9973,18 +9973,18 @@
   {
    "id": null,
    "Name": "Things at a Bakra Mandi",
-   "Description": "Goat|Cow|Bull|Camel|Sheep|Dumba|Beopari|Bargaining|Teeth Check|Fodder|Hay|Garland|Bell|Mehndi on Goat|Tent|Mud|Flies|Cash|Pickup Truck|Rope",
+   "Description": "Goat|Cow|Bull|Camel|Sheep|Dumba|Beopari|Bargaining|Teeth Check|Fodder|Lights|Garland|Bell|Mehndi on Goat|Tent|Mud|Flies|Cash|Pickup Truck|Rope",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New local Eid topic; no such word list in the deck (only a decoy on card 725)."
+   "note": "New card (debate): New local Eid topic; no such word list in the deck (only a decoy on card 725).; Debate: 'Hay' is a kind of 'Fodder', so the secret words overlapped. Lit-up night trading is a common bakra mandi sight."
   },
   {
    "id": null,
    "Name": "Things at a Mela",
-   "Description": "Jhoolay|Giant Wheel|Maut ka Kuan|Balloons|Candy Floss|Bangles|Jalebi|Pakoray|Toy Stalls|Puppet Show|Magic Show|Kabaddi|Wrestling|Camel Ride|Whistles|Crowd|Dust|Lost Child|Ticket Booth|Stalls",
+   "Description": "Jhoolay|Giant Wheel|Maut ka Kuan|Balloons|Candy Floss|Bangles|Jalebi|Pakoray|Toy Stalls|Puppet Show|Magic Show|Kabaddi|Wrestling|Camel Ride|Whistles|Crowd|Dust|Lost Child|Ticket Booth|Kulfi",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New local topic; no mela list exists. A magic show is stage magic, which the owner allows."
+   "note": "New card (debate): New local topic; no mela list exists. A magic show is stage magic, which the owner allows.; Debate: 'Stalls' overlapped 'Toy Stalls'. Kulfi is a distinct, well-known mela item."
   },
   {
    "id": null,
@@ -10113,6 +10113,78 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): A light dilemma about desi hospitality with three distinct options. The deck has nothing like it."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Sabzi Mandi",
+   "Description": "Thela|Tarazu|Arhti|Wholesaler|Auction|Crates|Sacks|Loader|Truck|Bargaining|Shopping Bag|Tomatoes|Onions|Potatoes|Dhania|Podina|Lemons|Hari Mirch|Rotten Vegetables|Early Morning Rush",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New market topic (only Bakra Mandi, Sunday Bazaar and Vegetables exist). Uses the challenger's version, which removes the Bargaining/Haggling duplicate and the Tarazu/Weights overlap."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Medical Store",
+   "Description": "Pharmacist|Prescription|Panadol|Disprin|Cough Syrup|Tablet Strips|Capsules|Injection|Eye Drops|Inhaler|Multivitamins|Glucometer|BP Machine|Vicks|ORS|Cotton|Bandage|Insulin|Thermometer|Expiry Date",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New everyday place topic, distinct from Things in a Hospital. Uses the challenger's version, which replaces awkward made-up phrases with clear words."
+  },
+  {
+   "id": null,
+   "Name": "Things in an Exam Hall",
+   "Description": "Invigilator|Roll Number Slip|Parchi|Question Paper|Answer Sheet|Extra Sheet|Clipboard|Geometry Box|Calculator|Blue Pen|Ruler|Wall Clock|Bell|Seating Plan|Cheating|Silence|Nervous Students|Water Bottle|Time Up|Attendance Sheet",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New place topic (only a Drawing card covers exam halls). Uses the challenger's version, which removes the Roll Number Slip/Admit Card duplicate and Paper Checking, which happens outside the hall."
+  },
+  {
+   "id": null,
+   "Name": "Draw a donkey cart.",
+   "Description": "Draw a tonga.|Draw a bullock cart.|Draw a wheelbarrow.|Draw a camel cart.|Draw a horse.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local drawing prompt that is not already a main prompt (it appears only as a decoy on another card). The decoys are close but distinguishable."
+  },
+  {
+   "id": null,
+   "Name": "Draw a matka.",
+   "Description": "Draw a vase.|Draw a surahi.|Draw a water cooler.|Draw a diya.|Draw a football.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Desi household object that is not in the deck. The decoys are close in the same way as the decoys on the tandoor card."
+  },
+  {
+   "id": null,
+   "Name": "The worst question a relative can ask at a dawat is...",
+   "Description": "The worst question a rishta aunty can ask is...|Something my khala always asks me is...|The most awkward thing to hear at a wedding is...|A question I hate answering is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family prompt, different from the existing dawat and rishta cards. The decoys could plausibly blend in."
+  },
+  {
+   "id": null,
+   "Name": "Mosquitoes love me more than anyone else in my family.",
+   "Description": "I’m always the first to catch a cold.|Mosquito coils actually work.|I can sleep through anything.|Flies always find my food first.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Fun Pakistani-summer rating card. No duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Name": "The rickshaw driver doubles the fare because it’s raining. You...",
+   "Description": "pay it|bargain hard|walk in the rain",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Everyday local dilemma. The only rickshaw prompt in the deck is a Writing card."
+  },
+  {
+   "id": null,
+   "Name": "Your cousin borrows your favourite cricket bat and returns it cracked. You...",
+   "Description": "ask them to pay for it|forgive them|borrow something of theirs",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Family-friendly dilemma that is not a duplicate. The answer options are valid."
   }
  ]
 }

@@ -7134,11 +7134,11 @@
   {
    "id": "game12-793",
    "Name": "Washcloth",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Washcloth"
    },
-   "note": ""
+   "note": "Debate: A Western bathroom item, covered by Towel and Sponge, which are both live."
   },
   {
    "id": "game12-794",
@@ -7341,11 +7341,11 @@
   {
    "id": "game12-816",
    "Name": "Pepper Shaker",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Pepper Shaker"
    },
-   "note": ""
+   "note": "Debate: Salt Shaker and Pepper are both live. This card adds nothing new."
   },
   {
    "id": "game12-817",
@@ -7413,11 +7413,11 @@
   {
    "id": "game12-824",
    "Name": "Pickle Jar",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Jar Of Pickles"
    },
-   "note": "clearer/standard spelling: was Jar Of Pickles"
+   "note": "Debate: Pickle and Jar are both live. This is the same kind of combined duplicate as Pearl Necklace."
   },
   {
    "id": "game12-825",
@@ -7484,12 +7484,12 @@
   },
   {
    "id": "game12-832",
-   "Name": "Quilt",
-   "action": "keep",
+   "Name": "Razai",
+   "action": "edit",
    "original": {
     "Name": "Quilt"
    },
-   "note": ""
+   "note": "Debate: Razai is the familiar desi word for a quilt, and no Razai card exists. It is distinct from Blanket."
   },
   {
    "id": "game12-833",
@@ -7539,11 +7539,11 @@
   {
    "id": "game12-838",
    "Name": "Pearl Necklace",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Pearl Necklace"
    },
-   "note": ""
+   "note": "Debate: Pearl and Necklace are both live. This is just the two cards combined."
   },
   {
    "id": "game12-839",
@@ -7575,11 +7575,11 @@
   {
    "id": "game12-842",
    "Name": "Egg Timer",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Egg Timer"
    },
-   "note": ""
+   "note": "Debate: Hourglass and Clock are live. This is a redundant Western kitchen variant."
   },
   {
    "id": "game12-843",
@@ -7638,11 +7638,11 @@
   {
    "id": "game12-849",
    "Name": "Jigsaw Puzzle",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Jigsaw Puzzle"
    },
-   "note": ""
+   "note": "Debate: Duplicate of Puzzle, which is live."
   },
   {
    "id": "game12-850",
@@ -7674,11 +7674,11 @@
   {
    "id": "game12-853",
    "Name": "Baseball Cap",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Baseball Hat"
    },
-   "note": "clearer/standard spelling: was Baseball Hat"
+   "note": "Debate: US-centric. Cap, Hat and Topi are all live."
   },
   {
    "id": "game12-854",
@@ -7692,11 +7692,11 @@
   {
    "id": "game12-855",
    "Name": "Flashlight",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Flashlight"
    },
-   "note": ""
+   "note": "Debate: Duplicate of Torch, which is live and is the local term."
   },
   {
    "id": "game12-856",
@@ -7746,20 +7746,20 @@
   {
    "id": "game12-861",
    "Name": "Cookie Tin",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Cookie Tin"
    },
-   "note": ""
+   "note": "Debate: A near-duplicate of Cookie Jar and Tin Can, which are both live."
   },
   {
    "id": "game12-862",
    "Name": "Hair Ribbon",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Hair Ribbon"
    },
-   "note": ""
+   "note": "Debate: Ribbon, Hair Tie and Paranda are all live."
   },
   {
    "id": "game12-863",
@@ -7899,11 +7899,11 @@
   {
    "id": "game12-878",
    "Name": "Multitool",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Multitool"
    },
-   "note": ""
+   "note": "Debate: A niche gadget that is hard to act out. Pocket Knife is live."
   },
   {
    "id": "game12-879",
@@ -7926,11 +7926,11 @@
   {
    "id": "game12-881",
    "Name": "Masking Tape",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Roll Of Masking Tape"
    },
-   "note": "clearer/standard spelling: was Roll Of Masking Tape"
+   "note": "Debate: Duplicate of Tape, which is live."
   },
   {
    "id": "game12-882",
@@ -7971,20 +7971,20 @@
   {
    "id": "game12-886",
    "Name": "Toe Ring",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Toe Ring"
    },
-   "note": ""
+   "note": "Debate: A compound of the live cards Toe and Ring, and mainly a Hindu bridal custom."
   },
   {
    "id": "game12-887",
    "Name": "Steak Knife",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Steak Knife"
    },
-   "note": ""
+   "note": "Debate: A Western variant. Knife and Pocket Knife are live."
   },
   {
    "id": "game12-888",
@@ -7998,11 +7998,11 @@
   {
    "id": "game12-889",
    "Name": "Craft Book",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Craft Book"
    },
-   "note": ""
+   "note": "Debate: A vague compound. Book, Notebook, Comic Book and Sketch Pad are all live."
   },
   {
    "id": "game12-890",
@@ -8016,11 +8016,11 @@
   {
    "id": "game12-891",
    "Name": "Can Of Peas",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Can Of Peas"
    },
-   "note": ""
+   "note": "Debate: Can of Beans and Tin Can are both live, so this is a duplicate."
   },
   {
    "id": "game12-892",
@@ -9689,6 +9689,48 @@
    "Name": "Valley",
    "action": "add",
    "note": "New card (debate): A landform players know from Hunza and Swat. Not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Rehal",
+   "action": "add",
+   "note": "New card (debate): The Quran stand is a common, drawable item and is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Attar",
+   "action": "add",
+   "note": "New card (debate): The traditional oil perfume, linked to the Sunnah. It is distinct from Perfume and is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Takhti",
+   "action": "add",
+   "note": "New card (debate): The nostalgic wooden school slate. It is drawable and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Gullak",
+   "action": "add",
+   "note": "New card (debate): The clay money box found in most Pakistani homes. There is no Piggy Bank or Gullak card."
+  },
+  {
+   "id": null,
+   "Name": "Charkha",
+   "action": "add",
+   "note": "New card (debate): The spinning wheel is iconic and easy to act out. Only Spinning Top exists."
+  },
+  {
+   "id": null,
+   "Name": "Surma",
+   "action": "add",
+   "note": "New card (debate): Kohl is a Sunnah item and a desi staple. It is distinct from Eyeliner, and there is no Kohl or Kajal card."
+  },
+  {
+   "id": null,
+   "Name": "Water Tanker",
+   "action": "add",
+   "note": "New card (debate): A distinctly Pakistani urban truck that is easy to describe. It is not in the deck, and Tank and Truck are different ideas."
   }
  ]
 }
