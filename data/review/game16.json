@@ -4559,14 +4559,14 @@
   },
   {
    "id": "game16-415",
-   "Name": "Which do you enjoy more: summer activities (mango parties, late-night cricket) or winter ones (bonfires, chilgoze by the heater, a trip to Murree for snow)?",
+   "Name": "Which do you enjoy more: summer activities (mango picking, late-night cricket) or winter ones (bonfires, chilgoze by the heater, a trip to Murree for snow)?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "Do you prefer summer or winter activities?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Debate: Challenger's amendment: adds local examples and keeps the activities angle, so it stays distinct from 51 (favorite season), 419 (gola ganda) and 422 (winter food)."
+   "note": "Debate: Challenger's amendment: adds local examples and keeps the activities angle, so it stays distinct from 51 (favorite season), 419 (gola ganda) and 422 (winter food).; Debate: Drops 'parties' per the content rules; 'mango picking' is an actual activity, unlike 'mango season'."
   },
   {
    "id": "game16-416",
@@ -4581,14 +4581,14 @@
   },
   {
    "id": "game16-417",
-   "Name": "Did your family travel during the summer or winter holidays?",
+   "Name": "Did your family travel during the summer or winter holidays? Where did you go?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "Did your family take seasonal vacations?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Pakistani framing"
+   "note": "Pakistani framing; Debate: Turns a yes/no question into an open conversation starter."
   },
   {
    "id": "game16-418",
@@ -4790,14 +4790,14 @@
   },
   {
    "id": "game16-436",
-   "Name": "Is teaching a skill that can be taught?",
+   "Name": "Is a great teacher born or made?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Is teaching a skill that can be taught?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Original wording is circular; the challenger's amended version avoids repeating that circularity."
   },
   {
    "id": "game16-437",
@@ -8296,6 +8296,34 @@
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
    "note": "New card (debate): Uses the challenger's version: a local food debate that is more open than a yes/no tail. No karahi card exists."
+  },
+  {
+   "id": null,
+   "Name": "What is the most memorable act of sadaqah or charity you have seen or taken part in?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): No live charity or sadaqah card exists, and the topic is allowed Islamic content."
+  },
+  {
+   "id": null,
+   "Name": "If you could write a letter to yourself ten years from now, what would you ask or promise?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Distinct from the 'where do you see yourself in ten years' prediction card, because it asks for a promise or a question."
+  },
+  {
+   "id": null,
+   "Name": "What is one habit from your parents or elders that you hope to carry on?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Warm, family-friendly reflection that no live card covers."
+  },
+  {
+   "id": null,
+   "Name": "What is your family's tradition around Qurbani on Eid ul-Adha, and who does what?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): The only Qurbani card is the goat-naming one, so this family-tradition angle is new."
   }
  ]
 }

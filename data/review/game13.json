@@ -5405,6 +5405,60 @@
    "Description": "Get a player to tell you their favourite kulfi or gola ganda flavour.",
    "action": "add",
    "note": "New card (debate): Local treat question; differs from guess-your-favourite-dessert (62)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Mubarak ho!' (Congratulations!).",
+   "action": "add",
+   "note": "New card (debate): Natural local phrase, easy to provoke with fake good news; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Maaf kijiye' (Excuse me).",
+   "action": "add",
+   "note": "New card (debate): Challenger's standard spelling; polite phrase distinct enough from the 'Sorry' card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to give you a desi nuskha (home remedy) for a cough or sore throat.",
+   "action": "add",
+   "note": "New card (debate): Very Pakistani, easy to provoke with a fake cough; not a duplicate of the sick or headache cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to offer you a glass of lassi or sharbat.",
+   "action": "add",
+   "note": "New card (debate): Local hospitality mission; no existing equivalent."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite bazaar or market to shop in.",
+   "action": "add",
+   "note": "New card (debate): Local conversation prompt, absent from the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which mohalla or area they grew up in.",
+   "action": "add",
+   "note": "New card (debate): Personal-story mission in a local frame; distinct from the city cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you a Mulla Nasruddin story.",
+   "action": "add",
+   "note": "New card (debate): Challenger's common spelling and story angle; familiar folk humour."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many ayahs Surah Al-Fatiha has.",
+   "action": "add",
+   "note": "New card (debate): Unambiguous well-established fact (seven); replaces the disputable 'shortest surah'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pat your head affectionately, the way a dadi would.",
+   "action": "add",
+   "note": "New card (debate): Warm non-intimate touch mission; allowed, not a duplicate of other touch cards."
   }
  ]
 }

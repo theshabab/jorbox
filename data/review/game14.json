@@ -5641,6 +5641,41 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): A classic household scolding that differs from the fan and load-shedding cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you stood in a long queue at a bank, NADRA or passport office this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable local count; no similar card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many odd socks are lying in your drawer right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Funny, easy to count; no sock card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many 'Jumma Mubarak' messages did you receive last Friday?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version gives a wider spread of answers than a monthly sent count."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been told to 'go and ask Abu' after Ammi said no?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable family humour; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to bargain even when the shop has a fixed price tag?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Habit rather than skill, so distinct from the live bargaining-skill card."
   }
  ]
 }
