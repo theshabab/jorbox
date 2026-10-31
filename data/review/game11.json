@@ -2614,12 +2614,12 @@
    "id": "game11-238",
    "Name": "Problem",
    "Description": "I wish I could filter out _____ from my life!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could filter out _____ from my life!"
    },
-   "note": ""
+   "note": "Debate: Same meaning as 238 (mute), 287 (unsubscribe), 305 (delete from memory) and the 'unfollow' card."
   },
   {
    "id": "game11-239",
@@ -2822,13 +2822,13 @@
   {
    "id": "game11-257",
    "Name": "Problem",
-   "Description": "I can't believe my phuppo said _____!",
-   "action": "keep",
+   "Description": "My phuppo always comments on my _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I can't believe my phuppo said _____!"
    },
-   "note": ""
+   "note": "Debate: A quoted remark is hard to pitch a product for. This keeps the phuppo joke and is different from the 'finds out about ___' card."
   },
   {
    "id": "game11-258",
@@ -2866,13 +2866,13 @@
   {
    "id": "game11-261",
    "Name": "Problem",
-   "Description": "My laundry pile looks like a _____!",
-   "action": "keep",
+   "Description": "My laundry pile has swallowed my _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My laundry pile looks like a _____!"
    },
-   "note": ""
+   "note": "Debate: Turns a comparison into a problem a product can solve."
   },
   {
    "id": "game11-262",
@@ -3053,13 +3053,13 @@
   {
    "id": "game11-278",
    "Name": "Problem",
-   "Description": "My haircut looks like a _____!",
-   "action": "keep",
+   "Description": "My barber never listens when I ask for _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My haircut looks like a _____!"
    },
-   "note": ""
+   "note": "Debate: Turns the haircut comparison into a problem players can pitch for."
   },
   {
    "id": "game11-279",
@@ -3395,12 +3395,12 @@
    "id": "game11-309",
    "Name": "Problem",
    "Description": "I wish I could customize my _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could customize my _____!"
    },
-   "note": ""
+   "note": "Debate: Same meaning as 311 'upgrade my' and 320 're-roll my'."
   },
   {
    "id": "game11-310",
@@ -3449,13 +3449,13 @@
   {
    "id": "game11-314",
    "Name": "Problem",
-   "Description": "My mood depends on _____!",
-   "action": "keep",
+   "Description": "My mood is ruined every time _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My mood depends on _____!"
    },
-   "note": ""
+   "note": "Debate: 'My mood depends on ___' states no problem. This version gives players something to solve."
   },
   {
    "id": "game11-315",
@@ -3483,23 +3483,23 @@
    "id": "game11-317",
    "Name": "Problem",
    "Description": "My shadow looks like a _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "My shadow looks like a _____!"
    },
-   "note": ""
+   "note": "Debate: Has no problem in it and can't be fixed without becoming a different card."
   },
   {
    "id": "game11-318",
    "Name": "Problem",
    "Description": "I wish I could fast forward through _____!",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could fast forward through _____!"
    },
-   "note": ""
+   "note": "Debate: Same meaning as the existing 'I wish I could speed up _____!'."
   },
   {
    "id": "game11-319",
@@ -3548,13 +3548,13 @@
   {
    "id": "game11-323",
    "Name": "Problem",
-   "Description": "My handwriting looks like _____!",
-   "action": "keep",
+   "Description": "My handwriting is so bad, even I can't read my _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My handwriting looks like _____!"
    },
-   "note": ""
+   "note": "Debate: 'Looks like ___' is a comparison. This version is a problem a product can fix."
   },
   {
    "id": "game11-324",
@@ -6617,6 +6617,20 @@
    "Description": "My mind goes blank in exams whenever I see _____!",
    "action": "add",
    "note": "New card (debate): Challenger's amendment avoids repeating forgetting/losing cards 26, 34, 121, 142; differs from exam-hall card 557."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Delivery riders can never find my _____!",
+   "action": "add",
+   "note": "New card (debate): Familiar local delivery problem. No duplicate found in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My exam is tomorrow and I still haven't _____!",
+   "action": "add",
+   "note": "New card (debate): Last-minute exam-prep problem. The existing exam cards (exam hall, invigilator) are about different problems."
   }
  ]
 }

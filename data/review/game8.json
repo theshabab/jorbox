@@ -2853,7 +2853,7 @@
   {
    "id": "game8-220",
    "Name": "HUH? <---> OVEREXPLAINS",
-   "Description": "Make up a title that is this clear in letting you know what the book is actually about",
+   "Description": "Make up a book title that is this clear about what the book is actually about",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -2861,7 +2861,7 @@
     "Description": "Make up a title that is this clear in letting you know what the movie is actually about",
     "Category": "Writing"
    },
-   "note": "movie -> book"
+   "note": "movie -> book; Debate: Clearer wording; same scale"
   },
   {
    "id": "game8-221",
@@ -2931,28 +2931,28 @@
   {
    "id": "game8-226",
    "Name": "HATED <---> LOVED",
-   "Description": "Make up a nickname for someone that is this well-liked",
+   "Description": "Make up a nickname for someone who is this well-liked",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "HATED <---> LOVED",
     "Description": "Make up a nickname for someone that is this well-liked",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Grammar: 'someone who'"
   },
   {
    "id": "game8-227",
    "Name": "HATES ANIMALS <---> LOVES ANIMALS",
-   "Description": "Make up a nickname for someone that loves animals this much",
+   "Description": "Make up a nickname for someone who loves animals this much",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "HATES ANIMALS <---> LOVES ANIMALS",
     "Description": "Make up a nickname for someone that loves animals this much",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Grammar: 'someone who'"
   },
   {
    "id": "game8-228",
@@ -3190,16 +3190,16 @@
   },
   {
    "id": "game8-246",
-   "Name": "TOO AWAKE <---> VERY TIRED",
-   "Description": "Draw the face of a person that is this tired",
+   "Name": "WIDE AWAKE <---> VERY TIRED",
+   "Description": "Draw the face of a person who is this tired",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "TOO AWAKE <---> VERY TIRED",
     "Description": "Draw the face of a person that is this tired",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: 'WIDE AWAKE' is the natural opposite of 'very tired'; grammar fix"
   },
   {
    "id": "game8-247",
@@ -4023,15 +4023,15 @@
   {
    "id": "game8-310",
    "Name": "1 FOOT <---> 10 FEET",
-   "Description": "Draw a bug that is this many feet tall",
+   "Description": "Draw a bug this many feet tall, standing next to a person for scale",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "1 FOOT <---> 10 FEET",
     "Description": "Draw a bug that is this many feet tall",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Guessers need a person for scale to judge height (challenger's tighter wording)"
   },
   {
    "id": "game8-311",
@@ -4116,13 +4116,13 @@
    "Name": "NOT HAPPY <---> VERY HAPPY",
    "Description": "Draw the face of a person who is this happy with their haircut",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "NOT HAPPY <---> VERY HAPPY",
     "Description": "Draw the face of a person who is this happy with their haircut",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of idx 247 (draw a face this happy); the haircut adds nothing to what is drawn or guessed"
   },
   {
    "id": "game8-318",
@@ -9374,6 +9374,70 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Relatable, and the deck has no strict-teacher writing card (only a strict-boss nickname card and teacher drawing cards)."
+  },
+  {
+   "id": null,
+   "Name": "ALWAYS LOSES <---> CHAMPION KABOOTAR",
+   "Description": "Draw a pigeon that is this likely to win a rooftop kabootar-flying contest",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New local bird card; challenger's version avoids calling the endurance contest a race"
+  },
+  {
+   "id": null,
+   "Name": "BARELY A PEEP <---> WAKES THE WHOLE MOHALLA",
+   "Description": "Draw a rooster that crows this loudly at Fajr time",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New local bird card; left end now matches the loudness scale"
+  },
+  {
+   "id": null,
+   "Name": "EASY TO FIND <---> IMPOSSIBLE TO FIND",
+   "Description": "Draw a bridal mehndi design that hides the groom's name this well",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Well-known wedding custom; distinct from existing mehndi cards"
+  },
+  {
+   "id": null,
+   "Name": "LEAVING SOON <---> STAYING FOR DINNER",
+   "Description": "Draw the face of a guest who is this likely to stay for dinner",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable desi face card; no matching guest card"
+  },
+  {
+   "id": null,
+   "Name": "ALWAYS DELIVERS <---> PARCEL LOST FOREVER",
+   "Description": "Draw a logo for a made-up courier company that is this likely to lose your parcel",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New courier logo card; ends are true opposites (challenger's version)"
+  },
+  {
+   "id": null,
+   "Name": "NO CLUE <---> FINDS IT INSTANTLY",
+   "Description": "Draw an ant that is this good at finding the sugar jar in the kitchen",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Homely bug card; no ant cards in the deck"
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> TOTAL SHOW-OFF",
+   "Description": "Draw a peacock that is showing off this much",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No peacock cards; distinct from the majestic-bird card"
+  },
+  {
+   "id": null,
+   "Name": "EASY TO PLEASE <---> SUPER PICKY",
+   "Description": "Write the first line of a rishta profile for someone who is this picky",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Rishta-profile card on a new scale (pickiness)"
   }
  ]
 }

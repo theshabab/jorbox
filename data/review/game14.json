@@ -2623,14 +2623,14 @@
   },
   {
    "id": "game14-239",
-   "Description": "How messy is your car right now?",
+   "Description": "How messy is your almari (wardrobe) right now?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How messy is your car right now?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: 'Your car' assumes car ownership; the wardrobe version is answerable by everyone and does not duplicate 120 (messy room)."
   },
   {
    "id": "game14-240",
@@ -2724,12 +2724,12 @@
    "id": "game14-248",
    "Description": "How good are you at navigating without GPS?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How good are you at navigating without GPS?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Same meaning and answers as card 133 'How good is your sense of direction?'; 248 remains for asking directions."
   },
   {
    "id": "game14-249",
@@ -2931,25 +2931,25 @@
   },
   {
    "id": "game14-267",
-   "Description": "How likely are you to finish a crossword puzzle?",
+   "Description": "How good are you at solving a Rubik's cube?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to finish a crossword puzzle?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Crosswords are niche locally and 264/265 already cover puzzles and Sudoku; a Rubik's cube is familiar and not elsewhere in the deck."
   },
   {
    "id": "game14-268",
-   "Description": "How many riddles do you know by heart?",
+   "Description": "How many riddles (paheliyan) do you know by heart?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many riddles do you know by heart?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Adds the local word; meaning and category unchanged."
   },
   {
    "id": "game14-269",
@@ -3228,14 +3228,14 @@
   },
   {
    "id": "game14-294",
-   "Description": "How likely are you to burn toast?",
+   "Description": "How likely are you to burn toast or parathas?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to burn toast?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: adds a local breakfast item and keeps the original grammar, which was already correct."
   },
   {
    "id": "game14-295",
@@ -3371,14 +3371,14 @@
   },
   {
    "id": "game14-307",
-   "Description": "How likely are you to add extra hot sauce?",
+   "Description": "How likely are you to add extra chutney or chilli sauce to everything?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to add extra hot sauce?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Completes the incomplete question and uses local condiments."
   },
   {
    "id": "game14-308",
@@ -3591,14 +3591,14 @@
   },
   {
    "id": "game14-327",
-   "Description": "How likely are you to host a family dinner?",
+   "Description": "How likely are you to host a family daawat?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to host a family dinner?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Local frame; distinct from cards 11 and 530."
   },
   {
    "id": "game14-328",
@@ -5235,6 +5235,62 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): A real Pakistani institution and different from the Chand Raat bazaar card"
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to iron only the front of your shirt or kameez?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Funny, relatable; distinct from 232 and 233."
+  },
+  {
+   "id": null,
+   "Description": "How many of your clothes are missing a button right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's unambiguous wording; distinct from 231 (sewing a button)."
+  },
+  {
+   "id": null,
+   "Description": "How many unstitched suits are waiting at home to go to the tailor?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Very Pakistani; not a duplicate of 230 or 502."
+  },
+  {
+   "id": null,
+   "Description": "How many shawls do you own?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local winter clothing count answerable by anyone; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been to Murree?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Classic Pakistani trip; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many books have you borrowed and never returned?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Funny confession; no duplicate found."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you climbed a tree to pick fruit?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fits village/outdoors theme; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wear the same clothes two days in a row?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's inclusive wording; distinct from 374 (outfit at weddings)."
   }
  ]
 }

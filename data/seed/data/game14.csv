@@ -214,7 +214,7 @@ How likely are you to do laundry on weekends?,0 to 100
 How many loads of laundry do you do per week?,Number
 How good are you at putting a cover on a razai (quilt)?,0 to 100
 How likely are you to hire a maasi for cleaning?,0 to 100
-How messy is your car right now?,0 to 100
+How messy is your almari (wardrobe) right now?,0 to 100
 How likely are you to wash your car yourself?,0 to 100
 How many times have you washed your car this month?,Number
 How likely are you to fix a flat tire yourself?,0 to 100
@@ -223,7 +223,6 @@ How likely are you to drive a manual car?,0 to 100
 How many road trips have you taken this year?,Number
 How much do you enjoy long drives?,0 to 100
 How likely are you to get road rage?,0 to 100
-How good are you at navigating without GPS?,0 to 100
 How likely are you to ask for directions?,0 to 100
 How much do you trust Google Maps ETA?,0 to 100
 How likely are you to travel solo?,0 to 100
@@ -242,8 +241,8 @@ How good are you at writing poetry (shayari)?,0 to 100
 How likely are you to write a book someday?,0 to 100
 How much do you enjoy solving puzzles?,0 to 100
 How good are you at Sudoku?,0 to 100
-How likely are you to finish a crossword puzzle?,0 to 100
-How many riddles do you know by heart?,Number
+How good are you at solving a Rubik's cube?,0 to 100
+How many riddles (paheliyan) do you know by heart?,Number
 How good are you at telling jokes?,0 to 100
 How likely were you to be the class clown?,0 to 100
 How many pranks have you successfully pulled?,Number
@@ -254,7 +253,7 @@ How much do you enjoy watching documentaries?,0 to 100
 How many cooking videos do you watch in a week?,Number
 How likely are you to try a recipe from TikTok?,0 to 100
 How good are you at baking?,0 to 100
-How likely are you to burn toast?,0 to 100
+How likely are you to burn toast or parathas?,0 to 100
 How much do you love coffee?,0 to 100
 How likely are you to drink black coffee?,0 to 100
 How good are you at making chai?,0 to 100
@@ -264,7 +263,7 @@ How much do you enjoy fast food?,0 to 100
 How likely are you to order a salad at a burger joint?,0 to 100
 How good are you at using chopsticks?,0 to 100
 How likely are you to try sushi?,0 to 100
-How likely are you to add extra hot sauce?,0 to 100
+How likely are you to add extra chutney or chilli sauce to everything?,0 to 100
 How many types of achaar (pickle) do you like?,Number
 How good are you at making omelets?,0 to 100
 How likely are you to skip breakfast?,0 to 100
@@ -283,7 +282,7 @@ How likely are you to keep old letters and Eid cards?,0 to 100
 How sentimental are you?,0 to 100
 How likely are you to cry at a graduation?,0 to 100
 How much do you value family traditions?,0 to 100
-How likely are you to host a family dinner?,0 to 100
+How likely are you to host a family daawat?,0 to 100
 How many cousins can you name in 30 seconds?,Number
 How good are you at keeping in touch with relatives?,0 to 100
 How likely are you to visit your hometown?,0 to 100
@@ -504,3 +503,11 @@ How many relatives have you taught to use WhatsApp?,Number
 How many times have you promised to start your diet from Monday?,Number
 How many times have your shoes gone missing outside a mosque?,Number
 How many times have you been to an Itwar (Sunday) bazaar this month?,Number
+How likely are you to iron only the front of your shirt or kameez?,0 to 100
+How many of your clothes are missing a button right now?,Number
+How many unstitched suits are waiting at home to go to the tailor?,Number
+How many shawls do you own?,Number
+How many times have you been to Murree?,Number
+How many books have you borrowed and never returned?,Number
+How many times have you climbed a tree to pick fruit?,Number
+How likely are you to wear the same clothes two days in a row?,0 to 100
