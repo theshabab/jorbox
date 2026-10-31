@@ -6495,14 +6495,14 @@
   },
   {
    "id": "game16-591",
-   "Name": "Who is your craziest/most interesting relative?",
+   "Name": "Who is the most interesting character in your extended family, and why?",
    "Category": "More Fun Questions",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who is your craziest/most interesting relative?",
     "Category": "More Fun Questions"
    },
-   "note": ""
+   "note": "Debate: Removes the slash and 'craziest' and adds 'and why' to invite a story."
   },
   {
    "id": "game16-592",
@@ -6662,12 +6662,12 @@
    "id": "game16-606",
    "Name": "What's something about you that people would be surprised to know?",
    "Category": "More Fun Questions",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What's something about you that people would be surprised to know?",
     "Category": "More Fun Questions"
    },
-   "note": ""
+   "note": "Debate: Duplicates card 19 'Tell us something that few people know about you.'"
   },
   {
    "id": "game16-607",
@@ -6745,10 +6745,10 @@
   },
   {
    "id": null,
-   "Name": "What do you always end up buying at the Sunday or Itwar bazaar?",
+   "Name": "What do you always end up buying at the Itwar (Sunday) bazaar?",
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'Sunday or Itwar' is redundant because Itwar means Sunday."
   },
   {
    "id": null,
@@ -6822,10 +6822,10 @@
   },
   {
    "id": null,
-   "Name": "Doodh patti or kahwa?",
+   "Name": "Doodh patti or kahwa? Defend your choice.",
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Turns a bare two-word choice into a conversation starter, matching the deck's style."
   },
   {
    "id": null,
@@ -7055,8 +7055,8 @@
    "id": null,
    "Name": "What is the best bargain you have ever got while shopping?",
    "Category": "Ice Breakers & Fun General",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Near-duplicate of the more local live card 709 'What's your best bargaining story from a bazaar?'"
   },
   {
    "id": null,
@@ -7617,6 +7617,76 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card (debate): Funny observational story prompt; not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Did your family ever sleep on the roof (chhat) on hot summer nights? What do you remember?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani summer memory; no roof card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which masjid holds the most memories for you, and why?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Personal worship-related question the owner allows; no masjid card exists."
+  },
+  {
+   "id": null,
+   "Name": "What did you love most about staying at your Nani's or Dadi's house in the school holidays?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Family-memory prompt; different from the Nani/Dadi dish card."
+  },
+  {
+   "id": null,
+   "Name": "Which Urdu muhavra (idiom) best describes your life right now?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Fun language prompt; no idiom or proverb card exists."
+  },
+  {
+   "id": null,
+   "Name": "Who in your family talks so loudly on the phone that the whole mohalla can hear?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Light family roast; the challenger's wording drops the clunky repetition. Different from the 'snores the loudest' card."
+  },
+  {
+   "id": null,
+   "Name": "Which naat, nasheed or milli naghma do you know every word of?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): The owner explicitly allows this content, and no such card exists."
+  },
+  {
+   "id": null,
+   "Name": "What is the most desi thing you have seen at an airport (the whole family seeing someone off, achaar packed in the suitcase)?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Funny shared desi experience; no airport card exists."
+  },
+  {
+   "id": null,
+   "Name": "Which shopkeeper or kiryana wala in your area knows your family best?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Everyday neighbourhood prompt not covered elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "Which Quranic verse or hadith has stayed with you the most, and why?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Respectful, reflective faith question; no verse or hadith card exists."
+  },
+  {
+   "id": null,
+   "Name": "How do you keep in touch with relatives (sila rehmi) when life gets busy?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Practical family-ties question; sila rehmi is used correctly, and it does not duplicate other cards."
   }
  ]
 }

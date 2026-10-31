@@ -5060,6 +5060,48 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): A relatable count that cards 390, 458 and 473 do not cover."
+  },
+  {
+   "id": null,
+   "Description": "How many nights did you pray Taraweeh last Ramadan?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worship question the owner allows. No Taraweeh card exists. Challenger's wording drops 'in the masjid', so people who pray at home, including most women, can answer."
+  },
+  {
+   "id": null,
+   "Description": "How many times has the milk boiled over while you were supposed to be watching it?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A relatable desi kitchen count. No similar card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times did you visit the cattle mandi before last Eid-ul-Adha?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No mandi card exists. It is distinct from the qurbani cards for naming the animal (521) and delivering meat (522), and 0 is a valid answer."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to return a neighbour's dish without putting something in it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): A well-known Pakistani neighbour custom. No duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to ask the host to pack leftovers for you to take home after a daawat?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's wording makes it clear the player is the guest. Distinct from the fridge-leftovers and daawat-complaint cards."
+  },
+  {
+   "id": null,
+   "Description": "How many unused ketchup sachets are in your kitchen drawer right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): A fun household-clutter count about a different object from the 'bag of bags' card. No duplicate."
   }
  ]
 }

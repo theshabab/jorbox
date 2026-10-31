@@ -4838,9 +4838,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to ask 'Kaun aaya hai?' (Who's here?) after you pretend to hear the doorbell.",
+   "Description": "Get a player to ask 'Kaun aaya hai?' (Who's at the door?) after you pretend to hear the doorbell.",
    "action": "add",
-   "note": "New card (debate): Uses the challenger's version with the standard Roman Urdu spelling 'aaya'. A familiar gathering moment."
+   "note": "New card (debate): Uses the challenger's version with the standard Roman Urdu spelling 'aaya'. A familiar gathering moment.; Debate: 'Who's at the door?' matches the doorbell set-up better than 'Who's here?'."
   },
   {
    "id": null,
@@ -4925,6 +4925,54 @@
    "Description": "Get a player to recommend a good book to you.",
    "action": "add",
    "note": "New card (debate): Same style as the tailor and dhaba recommendation cards, and no book card exists."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Chak de phatte!'.",
+   "action": "add",
+   "note": "New card (debate): A well-known Punjabi cheer that fits the deck's exclamation cards; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which mithai they like best.",
+   "action": "add",
+   "note": "New card (debate): A harmless food question; the deck has no mithai or sweets card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to recommend a naat or nasheed they like.",
+   "action": "add",
+   "note": "New card (debate): The owner allows naats and nasheeds; the card is respectful and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they always eat at sehri.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording is clearer. It pairs with the iftar card, and the deck has no sehri card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to invent a name for a new PSL team.",
+   "action": "add",
+   "note": "New card (debate): A playful cricket mission that is different from the existing card about which PSL team a player supports."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Oye hoye!'.",
+   "action": "add",
+   "note": "New card (debate): A common Pakistani exclamation that is easy to trigger; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you a country's capital after you pretend to have forgotten it.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording makes clear that you pretend to forget the capital. The deck has no capital-city card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time they flew a patang (kite).",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording is more natural. The deck has no kite card."
   }
  ]
 }
