@@ -9592,6 +9592,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-382','game6','','Forts in Pakistan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-383','game6','','Things You Do in a Traffic Jam','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-384','game6','','Vegetables That Grow Underground','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-385','game6','','Pets People Keep','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-386','game6','','Things Made of Rubber','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-387','game6','','Places Where You Wait in a Line','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-388','game6','','Things You Can Climb','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-389','game6','','Things Customers Say While Bargaining','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-390','game6','','Things That Make You Sneeze','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game7','NaqshNigar',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1','game7','','a cat in a wig wearing a bib','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-2','game7','','the crusty edge of the universe','Standard Prompts');
@@ -13347,6 +13353,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-643','game10','Name something announced on the masjid loudspeaker besides the azan.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-644','game10','Name a famous place to visit in Islamabad.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-645','game10','Name something kids get scolded for at a dawat.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-646','game10','Name a type of halwa.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-647','game10','Name something a chowkidar does.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-648','game10','Chai: Drink from the Cup or Pour in the Saucer?','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-649','game10','Name something Abbu tries to fix himself instead of calling a mistri.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-650','game10','Name a reason a Pakistani wedding starts late.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-651','game10','Name a sound you hear at sehri time.','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -18256,3 +18268,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-660','game16','What is the funniest thing you have seen happen at iftar or taraweeh in the masjid?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-661','game16','What is the funniest thing a guest has done while staying over at your house?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-662','game16','Which teacher''s catchphrase or habit do you still remember? Do your best impression.','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-663','game16','Do you remember your first roza (roza kushai)? How did you get through the afternoon?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-664','game16','Have you or someone in your family been on Umrah or Hajj? Which moment from the journey stayed with you most?','','Deep & ThoughtProvoking');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-665','game16','Which uncle in your family has the strongest political opinions, and what does he always say at the dinner table?','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-666','game16','What is the funniest thing that happened when the lights went out in the middle of a dawat or wedding?','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-667','game16','Which cousin was the troublemaker at every family gathering, and what was their best stunt?','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-668','game16','If you had to cook one deg for 50 guests tomorrow, which dish would you make?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-669','game16','Who in your family guards the WiFi password like a state secret, and how do you get it out of them?','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-670','game16','Which Pakistani road journey would you happily do again tomorrow (the Karakoram Highway, the Makran Coastal Highway, the Motorway from Lahore to Islamabad)?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-671','game16','If your family WhatsApp group were renamed to tell the truth, what would it be called?','','More Fun Questions');

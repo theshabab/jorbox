@@ -6062,6 +6062,42 @@
    "Name": "Name something kids get scolded for at a dawat.",
    "action": "add",
    "note": "New card (debate): Family humour with converging answers. Distinct from 152 and 198."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of halwa.",
+   "action": "add",
+   "note": "New card (debate): New card with common answers people will agree on (sooji, gajar, anday ka, habshi, badam, chanay ki daal). Only either-or cards mention halwa now (Kheer or Gajar Ka Halwa?, Halwa Puri or Anda Paratha?)."
+  },
+  {
+   "id": null,
+   "Name": "Name something a chowkidar does.",
+   "action": "add",
+   "note": "New card (debate): Familiar everyday Pakistani job with common answers (blows a whistle, opens the gate, night patrol, sleeps on duty). It goes well with the nai card (747), and no other card covers it."
+  },
+  {
+   "id": null,
+   "Name": "Chai: Drink from the Cup or Pour in the Saucer?",
+   "action": "add",
+   "note": "New card (debate): Saucer chai is a real and funny desi habit. The card uses the deck's 'Topic: X or Y?' format, and no other card covers it."
+  },
+  {
+   "id": null,
+   "Name": "Name something Abbu tries to fix himself instead of calling a mistri.",
+   "action": "add",
+   "note": "New card (debate): Relatable family humour with common answers (fan, tap, UPS, TV, car). It is different from 'Name something Abbu always says'."
+  },
+  {
+   "id": null,
+   "Name": "Name a reason a Pakistani wedding starts late.",
+   "action": "add",
+   "note": "New card (debate): The wedding setting is specific enough (dulhan at the parlour, baraat late, guests late) to be a different card from the general excuse-for-being-late and Pakistani-time cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a sound you hear at sehri time.",
+   "action": "add",
+   "note": "New card (debate): Ramazan card with shared answers (alarm, sehri drummer, masjid announcement, Ammi calling, frying parathay). The sehri food card, the sehri either-or and the street-sounds card do not cover it."
   }
  ]
 }
