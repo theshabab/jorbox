@@ -324,7 +324,7 @@ Customer,Street Vendor
 Customer,Alien
 Customer,Astronaut
 Customer,Artist
-Customer,Babysitter
+Customer,Aaya (Nanny)
 Customer,Dhaba Waiter
 Customer,Bank Robber
 Customer,Biker
@@ -350,10 +350,10 @@ Customer,Coal Miner
 Customer,Shepherd
 Customer,Comedian
 Customer,Couch Potato
-Customer,Dad
+Customer,Abbu
 Customer,Dictator
 Customer,Daredevil
-Customer,Drill Sergeant
+Customer,Drill Ustad (Army)
 Customer,Drama Queen
 Customer,Kabari Wala
 Customer,Doctor
@@ -367,13 +367,13 @@ Customer,Geek
 Customer,College Student
 Customer,Gladiator
 Customer,Investor
-Customer,Grandma
+Customer,Dadi Amma
 Customer,Goon
 Customer,School Dropout
 Customer,Ghost
 Customer,Girl Guide
 Customer,Hitchhiker
-Customer,Grave Robber
+Customer,Kafan Chor (Grave Robber)
 Customer,Immigrant
 Customer,Matric Student
 Customer,Insomniac
@@ -381,7 +381,7 @@ Customer,Hostage
 Customer,Nursery Kid
 Customer,Hunter
 Customer,Lifeguard
-Customer,Janitor
+Customer,Safai Wala (Sweeper)
 Customer,Last Person on Earth
 Customer,Best Friends
 Customer,Lawyer
@@ -390,7 +390,7 @@ Customer,Maalish Wala
 Customer,Mad Scientist
 Customer,Mob Boss
 Customer,Madari
-Customer,Monk
+Customer,Malang
 Customer,Commando
 Customer,Gravedigger
 Customer,Newlywed
@@ -612,3 +612,10 @@ Problem,The whole masjid stares at me when my _____ goes off during namaz!
 Problem,My mind goes blank in exams whenever I see _____!
 Problem,Delivery riders can never find my _____!
 Problem,My exam is tomorrow and I still haven't _____!
+Customer,TikToker
+Customer,Mobile Repair Wala
+Customer,Qari Sahab
+Customer,Online Boutique Aunty
+Problem,Nobody listens to my WhatsApp voice notes because of _____!
+Problem,I got removed from the family WhatsApp group for posting _____!
+Problem,My little cousin keeps making TikToks with my _____!

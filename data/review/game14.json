@@ -3767,14 +3767,14 @@
   },
   {
    "id": "game14-343",
-   "Description": "How likely are you to dive into the deep end?",
+   "Description": "How likely are you to dive into the deep end of a swimming pool?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to dive into the deep end?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Makes the literal swimming meaning clear and keeps the diving idea (challenger amendment)."
   },
   {
    "id": "game14-344",
@@ -4272,10 +4272,10 @@
   },
   {
    "id": null,
-   "Description": "How many sick days did you take last year?",
+   "Description": "How many days were you sick last year?",
    "Category": "Number",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: 'Sick days' assumes a job; plain 'sick' works for students, homemakers and retirees (challenger amendment)."
   },
   {
    "id": null,
@@ -4426,10 +4426,10 @@
   },
   {
    "id": null,
-   "Description": "How much do you talk in your sleep?",
+   "Description": "According to your family, how much do you talk in your sleep?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: People only know they sleep-talk from others; this makes it answerable and funnier."
   },
   {
    "id": null,
@@ -5291,6 +5291,41 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Challenger's inclusive wording; distinct from 374 (outfit at weddings)."
+  },
+  {
+   "id": null,
+   "Description": "How much does low gas pressure in winter disrupt cooking in your home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani household problem not yet in the deck; the amended form is answerable in any season (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Description": "How likely is your family to keep the plastic cover on a new sofa or TV remote?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Classic desi household habit, not a duplicate, fits the slice's home cards."
+  },
+  {
+   "id": null,
+   "Description": "The last time you were out late, how many times did someone at home call to ask where you were?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable family count question without assuming a living mother (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year has an elder started a sentence with 'Tumhari umar mein hum...'?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Funny local family question, correct Roman Urdu, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many different mosques have you visited in other cities or countries?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Mosque question that works for everyone and does not measure anyone's prayers (challenger amendment)."
   }
  ]
 }

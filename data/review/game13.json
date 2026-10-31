@@ -3110,12 +3110,12 @@
   },
   {
    "id": "game13-346",
-   "Description": "Get a player to fail at a tongue twister.",
-   "action": "keep",
+   "Description": "Get a player to try the tongue twister 'Kacha papar, pakka papar' fast and stumble over it.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to fail at a tongue twister."
    },
-   "note": ""
+   "note": "Debate: A concrete, well-known local tongue twister makes the mission clear and playable."
   },
   {
    "id": "game13-347",
@@ -3479,12 +3479,12 @@
   },
   {
    "id": "game13-387",
-   "Description": "Get a player to complain that their food is too hot.",
+   "Description": "Get a player to blow on their chai or food to cool it down.",
    "action": "edit",
    "original": {
     "Description": "Get a player to blow on their food."
    },
-   "note": "Debate: Narrations discourage blowing on food and drink, so this keeps the hot-food idea without that action."
+   "note": "Debate: Narrations discourage blowing on food and drink, so this keeps the hot-food idea without that action.; Debate: The old card nearly duplicates the spice-level card (383). Blowing on chai or food is a distinct, visible action."
   },
   {
    "id": "game13-388",
@@ -3587,12 +3587,12 @@
   },
   {
    "id": "game13-399",
-   "Description": "Get a player to say 'I need to diet'.",
-   "action": "keep",
+   "Description": "Get a player to say 'I need to go on a diet'.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to say 'I need to diet'."
    },
-   "note": ""
+   "note": "Debate: Grammar and naturalness fix."
   },
   {
    "id": "game13-400",
@@ -3624,11 +3624,11 @@
   {
    "id": "game13-403",
    "Description": "Get a player to tell a story about a bruise.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to tell a story about a bruise."
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of the scar card (401) and the 'worst injury' story card."
   },
   {
    "id": "game13-404",
@@ -3731,12 +3731,12 @@
   },
   {
    "id": "game13-415",
-   "Description": "Get a player to mimic your accent.",
-   "action": "keep",
+   "Description": "Get a player to say something in a Lahori, Karachi or Peshawari accent.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to mimic your accent."
    },
-   "note": ""
+   "note": "Debate: The old card duplicates 'do an impression of you'. The regional-accent version is distinct, light-hearted family banter."
   },
   {
    "id": "game13-416",
@@ -3957,11 +3957,11 @@
   {
    "id": "game13-440",
    "Description": "Get a player to put on a hat.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to put on a hat."
    },
-   "note": ""
+   "note": "Debate: Duplicates 437 (put something on their head), the paper-crown card and the topi/cap card."
   },
   {
    "id": "game13-441",
@@ -5135,6 +5135,30 @@
    "Description": "Get a player to turn on their phone's hotspot for you.",
    "action": "add",
    "note": "New card (debate): A realistic favour at a gathering. It is not the same as the WiFi password or charger cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to copy Shahid Afridi's arms-wide wicket celebration.",
+   "action": "add",
+   "note": "New card (debate): A famous, recognisable cricket gesture. It complements the bowling, six and Howzat cards without duplicating them."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Pehle aap' (After you).",
+   "action": "add",
+   "note": "New card (debate): A classic local politeness phrase, easy to set up and not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many fard rakats there are in Maghrib.",
+   "action": "add",
+   "note": "New card (debate): Accurate: Maghrib has 3 fard rakats. The owner allows worship questions, and the card is not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pinch your cheek the way a khala would.",
+   "action": "add",
+   "note": "New card (debate): A funny, relatable touch mission. The owner explicitly allows touching between players, and the deck has no cheek card."
   }
  ]
 }

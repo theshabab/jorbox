@@ -297,7 +297,7 @@ How good are you at setting up a tent?,0 to 100
 How likely are you to go fishing?,0 to 100
 How many fish have you caught?,Number
 How much do you enjoy swimming?,0 to 100
-How likely are you to dive into the deep end?,0 to 100
+How likely are you to dive into the deep end of a swimming pool?,0 to 100
 How good are you at floating in water?,0 to 100
 How many times have you performed Umrah?,Number
 How many keys are on your keychain right now?,Number
@@ -368,7 +368,7 @@ How many hours do you spend on your studies or work on a typical weekday?,Number
 How likely are you to reply to a work or school message on a holiday?,0 to 100
 How many minutes early do you usually arrive for an exam or meeting?,Number
 How much did you fear your school principal?,0 to 100
-How many sick days did you take last year?,Number
+How many days were you sick last year?,Number
 How many cities in Pakistan have you visited?,Number
 How much do you enjoy train journeys?,0 to 100
 How many hours was your longest-ever road trip?,Number
@@ -388,7 +388,7 @@ How likely are you to use your phone at the dinner table?,0 to 100
 How many years old is your current phone?,Number
 How much does a cracked phone screen bother you?,0 to 100
 How many chargers do you own?,Number
-How much do you talk in your sleep?,0 to 100
+"According to your family, how much do you talk in your sleep?",0 to 100
 How many pillows do you sleep with?,Number
 How many minutes does it usually take you to fall asleep?,Number
 How much do you need total darkness to sleep?,0 to 100
@@ -511,3 +511,8 @@ How many times have you been to Murree?,Number
 How many books have you borrowed and never returned?,Number
 How many times have you climbed a tree to pick fruit?,Number
 How likely are you to wear the same clothes two days in a row?,0 to 100
+How much does low gas pressure in winter disrupt cooking in your home?,0 to 100
+How likely is your family to keep the plastic cover on a new sofa or TV remote?,0 to 100
+"The last time you were out late, how many times did someone at home call to ask where you were?",Number
+How many times this year has an elder started a sentence with 'Tumhari umar mein hum...'?,Number
+How many different mosques have you visited in other cities or countries?,Number

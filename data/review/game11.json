@@ -3944,13 +3944,13 @@
   {
    "id": "game11-359",
    "Name": "Customer",
-   "Description": "Babysitter",
-   "action": "keep",
+   "Description": "Aaya (Nanny)",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Babysitter"
    },
-   "note": ""
+   "note": "Debate: Hired babysitter is a Western idea; the aaya is the local equivalent, glossed in deck style."
   },
   {
    "id": "game11-360",
@@ -4241,13 +4241,13 @@
   {
    "id": "game11-386",
    "Name": "Customer",
-   "Description": "Dad",
-   "action": "keep",
+   "Description": "Abbu",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Dad"
    },
-   "note": ""
+   "note": "Debate: Matches the deck's 'abbu' problem cards and the Chacha/Mamu/Phuppo customers."
   },
   {
    "id": "game11-387",
@@ -4274,13 +4274,13 @@
   {
    "id": "game11-389",
    "Name": "Customer",
-   "Description": "Drill Sergeant",
-   "action": "keep",
+   "Description": "Drill Ustad (Army)",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Drill Sergeant"
    },
-   "note": ""
+   "note": "Debate: Drill Sergeant is a US rank; 'Drill Ustad' is the direct Pakistani army equivalent (army in-jokes allowed). Challenger's amended version."
   },
   {
    "id": "game11-390",
@@ -4428,13 +4428,13 @@
   {
    "id": "game11-403",
    "Name": "Customer",
-   "Description": "Grandma",
-   "action": "keep",
+   "Description": "Dadi Amma",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Grandma"
    },
-   "note": ""
+   "note": "Debate: Local family term like the other family customers; distinct from Senior Citizen."
   },
   {
    "id": "game11-404",
@@ -4505,13 +4505,13 @@
   {
    "id": "game11-410",
    "Name": "Customer",
-   "Description": "Grave Robber",
-   "action": "keep",
+   "Description": "Kafan Chor (Grave Robber)",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Grave Robber"
    },
-   "note": ""
+   "note": "Debate: Well-known local figure with English gloss; also less like Gravedigger (434)."
   },
   {
    "id": "game11-411",
@@ -4615,13 +4615,13 @@
   {
    "id": "game11-420",
    "Name": "Customer",
-   "Description": "Janitor",
-   "action": "keep",
+   "Description": "Safai Wala (Sweeper)",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Janitor"
    },
-   "note": ""
+   "note": "Debate: 'Janitor' is US usage; local term glossed like 'Mochi (Cobbler)'."
   },
   {
    "id": "game11-421",
@@ -4758,13 +4758,13 @@
   {
    "id": "game11-433",
    "Name": "Customer",
-   "Description": "Monk",
-   "action": "keep",
+   "Description": "Malang",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Monk"
    },
-   "note": ""
+   "note": "Debate: A local figure players know; no Malang customer in the deck; peer jokes allowed."
   },
   {
    "id": "game11-434",
@@ -6631,6 +6631,55 @@
    "Description": "My exam is tomorrow and I still haven't _____!",
    "action": "add",
    "note": "New card (debate): Last-minute exam-prep problem. The existing exam cards (exam hall, invigilator) are about different problems."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "TikToker",
+   "action": "add",
+   "note": "New card (debate): Recognisable social-media figure; not in deck (only Food Vlogger, PUBG Gamer)."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mobile Repair Wala",
+   "action": "add",
+   "note": "New card (debate): Familiar local trade not in deck; distinct from Electrician/Car Mechanic."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Qari Sahab",
+   "action": "add",
+   "note": "New card (debate): Familiar, respectful figure not in the deck; distinct from Imam, Muezzin, Naat Khwan and Madrassa Student."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Online Boutique Aunty",
+   "action": "add",
+   "note": "New card (debate): Recognisable home-based social-media clothing seller; no online-seller customer exists. Challenger's shorter, brand-free version."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Nobody listens to my WhatsApp voice notes because of _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable complaint; no voice-note card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I got removed from the family WhatsApp group for posting _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct from 344 (accidental share) and 537 (nani's forwards)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My little cousin keeps making TikToks with my _____!",
+   "action": "add",
+   "note": "New card (debate): No TikTok problem card; distinct from 'My cousin always copies my _____'."
   }
  ]
 }
