@@ -2404,13 +2404,13 @@
   {
    "id": "game11-219",
    "Name": "Problem",
-   "Description": "I wish I were more comfortable _____!",
-   "action": "keep",
+   "Description": "I wish I were more comfortable around _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I were more comfortable _____!"
    },
-   "note": ""
+   "note": "Debate: Fixes broken grammar."
   },
   {
    "id": "game11-220",
@@ -3295,13 +3295,13 @@
   {
    "id": "game11-300",
    "Name": "Problem",
-   "Description": "I wish I could summon _____ with a snap!",
-   "action": "keep",
+   "Description": "I wish I could summon _____ instantly!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could summon _____ with a snap!"
    },
-   "note": ""
+   "note": "Debate: Removes the Thanos snap pop-culture reference while keeping the idea."
   },
   {
    "id": "game11-301",
@@ -3560,12 +3560,12 @@
    "id": "game11-324",
    "Name": "Problem",
    "Description": "My phone keeps auto-correcting _____ into something embarrassing!",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could auto-correct my _____!"
    },
-   "note": "Debate: The current card overlaps 'I wish I could Ctrl+Z my _____'. The rewrite is concrete and relatable."
+   "note": "Debate: Duplicate of the live autocorrect card (confirmed by challenger as an add, not a remove); the 'embarrassing' wording invites crude answers."
   },
   {
    "id": "game11-325",
@@ -8297,6 +8297,62 @@
    "Description": "My power bank is always empty when I need it for _____!",
    "action": "add",
    "note": "New card (debate): Distinct product and blank from the phone-battery and charger cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The mithai box my relatives brought was filled with _____!",
+   "action": "add",
+   "note": "New card (debate): New local-flavour problem, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The shopkeeper says 'fixed price' and never gives a discount on _____!",
+   "action": "add",
+   "note": "New card (debate): Amended version is a real complaint, so it fits the Problem format."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a way to stop my cousins from eating all the _____ on Eid!",
+   "action": "add",
+   "note": "New card (debate): New Eid family problem, distinct from existing cousin cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Ammi says _____ attracts nazar, so she hides it from the neighbours!",
+   "action": "add",
+   "note": "New card (debate): Nazar jokes are allowed by the owner; no existing nazar card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I burnt a hole in my shalwar kameez while ironing _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable desi household problem."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The Careem captain always takes the longest route past _____!",
+   "action": "add",
+   "note": "New card (debate): Local ride-hailing complaint, distinct from the cancel card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My Urdu teacher gave me zero for writing _____ in my essay!",
+   "action": "add",
+   "note": "New card (debate): School-life problem with open funny answers."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The only thing I had to survive the passport office queue was _____!",
+   "action": "add",
+   "note": "New card (debate): Amended version keeps the passport-office wait and avoids overlap with the pocket and waiting cards."
   }
  ]
 }

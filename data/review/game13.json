@@ -6551,6 +6551,42 @@
    "Description": "Get a player to say 'Hai Allah, kya zamana aa gaya hai' (Oh God, what times have come).",
    "action": "add",
    "note": "New card (debate): Typical elder line, funny and local, not in the slice."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite Friday Jumma lunch dish.",
+   "action": "add",
+   "note": "New card (debate): Local, easy to steer, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to adjust the fan speed for you.",
+   "action": "add",
+   "note": "New card (debate): Distinct from on/off and voice-activated fan cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to pass you a razai or chadar.",
+   "action": "add",
+   "note": "New card (debate): Local household item, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite YouTube channel or video.",
+   "action": "add",
+   "note": "New card (debate): Social media allowed; no YouTube card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite video game as a child.",
+   "action": "add",
+   "note": "New card (debate): Video games allowed; prompt differs from existing game cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which daal they like best: masoor, mash, moong or chana.",
+   "action": "add",
+   "note": "New card (debate): Pakistani food preference, no daal card."
   }
  ]
 }

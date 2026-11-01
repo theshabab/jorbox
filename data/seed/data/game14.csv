@@ -574,7 +574,7 @@ How many times have you got sunburnt?,Number
 How many times have you seen a double rainbow?,Number
 How many books have you borrowed from a library this year?,Number
 How many handwritten letters have you sent in your life?,Number
-How many hours of time difference are there between home and the farthest place you have travelled?,Number
+"What is the biggest time difference, in hours, between Pakistan and the farthest place you have travelled to?",Number
 How afraid are you of heights?,0 to 100
 How good are you at finding your way in a new city without a phone?,0 to 100
 How good are you at guessing the time without looking at a clock?,0 to 100
@@ -735,3 +735,4 @@ How many bowls of haleem can you eat in one sitting?,Number
 How many thousand rupees of Eidi did you collect last Eid?,Number
 How many times have you been served the same food for three days because Ammi made too much?,Number
 How likely are you to start singing along when a naat or nasheed plays in the car?,0 to 100
+"How many times have you sneezed at exactly the wrong moment, such as during a khutbah or a family dua?",Number

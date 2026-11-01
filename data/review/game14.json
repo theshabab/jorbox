@@ -5770,10 +5770,10 @@
   },
   {
    "id": null,
-   "Description": "How many hours of time difference are there between home and the farthest place you have travelled?",
+   "Description": "What is the biggest time difference, in hours, between Pakistan and the farthest place you have travelled to?",
    "Category": "Number",
    "action": "add",
-   "note": "New card (debate): More answerable than counting time zones."
+   "note": "New card (debate): More answerable than counting time zones.; Debate: Original 'home' is ambiguous for diaspora players; anchoring on Pakistan gives a clear numeric answer. Challenger agreed."
   },
   {
    "id": null,
@@ -6901,6 +6901,13 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Allowed theme, distinct from the recite-from-memory naat card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you sneezed at exactly the wrong moment, such as during a khutbah or a family dua?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Sneeze angle is unique in the deck (existing khutbah card covers dozing off); challenger's single-count version is cleaner than sneeze-or-hiccup."
   }
  ]
 }
