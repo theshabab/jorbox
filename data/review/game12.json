@@ -10167,8 +10167,8 @@
   {
    "id": null,
    "Name": "Paye",
-   "action": "add",
-   "note": "New card (debate): A classic Pakistani dish that differs from Nihari, and it is not in the deck."
+   "action": "remove",
+   "note": "Debate: Spelling duplicate of Paya, which is a live add."
   },
   {
    "id": null,
@@ -11435,6 +11435,54 @@
    "Name": "Bulbul",
    "action": "add",
    "note": "New card (debate): Familiar bird from Urdu poetry; distinct from Paranda."
+  },
+  {
+   "id": null,
+   "Name": "Maghrib",
+   "action": "add",
+   "note": "New card (debate): Distinct prayer-time noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sewaiyan",
+   "action": "add",
+   "note": "New card (debate): Distinct Eid dessert, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sandook",
+   "action": "add",
+   "note": "New card (debate): Familiar household item, easy to draw or act out."
+  },
+  {
+   "id": null,
+   "Name": "Madrasa",
+   "action": "add",
+   "note": "New card (debate): Distinct place noun from School."
+  },
+  {
+   "id": null,
+   "Name": "Phirni",
+   "action": "add",
+   "note": "New card (debate): Distinct dessert, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Kulcha",
+   "action": "add",
+   "note": "New card (debate): Distinct bread, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Imli",
+   "action": "add",
+   "note": "New card (debate): Common noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sharbat",
+   "action": "add",
+   "note": "New card (debate): Distinct drink, not in deck."
   }
  ]
 }

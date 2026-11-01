@@ -6805,12 +6805,12 @@
    "id": "game7-619",
    "Description": "time to humiliate my lawyer",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "time to humiliate my attorney",
     "Category": "Standard Prompts"
    },
-   "note": "Debate: 'Lawyer' is the local word and matches other cards in the deck"
+   "note": "Debate: Unclear TV-style courtroom bit with no clear image; other lawyer cards remain."
   },
   {
    "id": "game7-620",
@@ -7001,14 +7001,14 @@
   },
   {
    "id": "game7-637",
-   "Description": "kangaroo talk show... confrontation time!",
+   "Description": "kangaroo panchayat... time to settle this!",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "kangaroo talk show...confrontation time!",
     "Category": "Standard Prompts"
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: Removes the TV talk-show reference; panchayat is local and drawable."
   },
   {
    "id": "game7-638",
@@ -7078,14 +7078,14 @@
   },
   {
    "id": "game7-644",
-   "Description": "it's caviar, darling",
+   "Description": "it's real zafran, darling",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "it's caviar, darling",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces Western luxury caviar with a local zafran joke; still drawable."
   },
   {
    "id": "game7-645",
@@ -7157,12 +7157,12 @@
    "id": "game7-651",
    "Description": "all signs point to yeast",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "all signs point to yeast",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Zodiac/astrology pun; not allowed and not drawable. No live duplicate."
   },
   {
    "id": "game7-652",
@@ -7234,12 +7234,12 @@
    "id": "game7-658",
    "Description": "please don't do this again",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "please don't do this again",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: No drawable subject; unplayable."
   },
   {
    "id": "game7-659",
@@ -20791,6 +20791,27 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Clean household absurdity; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a dhol player whose drum is bigger than he is",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, drawable, funny; no dhol card exists in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a kabootar delivering a wedding card to the wrong rooftop",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, drawable; no kabootar card exists."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to cut the queue at the golgappa stall",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, relatable Friend Mode card with the <PLAYER> token; no golgappa card exists."
   }
  ]
 }

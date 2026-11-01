@@ -158,12 +158,12 @@
   },
   {
    "id": "game6-18",
-   "Description": "Cricket Players",
-   "action": "keep",
+   "Description": "Cricket Players (Any Country, Any Era)",
+   "action": "edit",
    "original": {
     "Description": "Cricket Players"
    },
-   "note": ""
+   "note": "Debate: Clarifies scope; covers the removed Pakistani Cricketers duplicate."
   },
   {
    "id": "game6-19",
@@ -347,12 +347,12 @@
   },
   {
    "id": "game6-39",
-   "Description": "Historical Figures",
-   "action": "keep",
+   "Description": "Historical Figures (Any Country, Any Era)",
+   "action": "edit",
    "original": {
     "Description": "Historical Figures"
    },
-   "note": ""
+   "note": "Debate: Clarifies scope."
   },
   {
    "id": "game6-40",
@@ -4562,6 +4562,36 @@
    "Description": "Things You Do With Your Feet",
    "action": "add",
    "note": "New card (debate): Walk, run, kick, jump, pedal, swim. Mirrors the existing Hands card, and not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things Mentioned About Jannah in the Quran (Gardens, Rivers, Fruits...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's wording; Quran-based, many answers, avoids disputes."
+  },
+  {
+   "id": null,
+   "Description": "Winter Clothes (Sweater, Shawl, Muffler...)",
+   "action": "add",
+   "note": "New card (debate): Many everyday answers; drops khussa and accessories to stay distinct."
+  },
+  {
+   "id": null,
+   "Description": "Urdu Words We Say When Surprised (Hai Allah, Arre, Wah...)",
+   "action": "add",
+   "note": "New card (debate): Clear, local, clean scope."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Say Hello in Different Languages",
+   "action": "add",
+   "note": "New card (debate): Many well-known answers; not a duplicate of Languages."
+  },
+  {
+   "id": null,
+   "Description": "Mountain Passes of Pakistan (Khyber, Bolan, Khunjerab...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's narrowed version; passes alone have enough known answers."
   }
  ]
 }
