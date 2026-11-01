@@ -9677,10 +9677,10 @@
   {
    "id": null,
    "Name": "Spices",
-   "Description": "Haldi|Zeera|Dhania|Lal Mirch|Kali Mirch|Elaichi|Laung|Darchini|Tej Patta|Saunf|Methi Dana|Rai|Kalonji|Ajwain|Javitri|Jaifal|Badiyan|Zafran|Amchur|Anardana",
+   "Description": "Haldi|Zeera|Dhania|Lal Mirch|Kali Mirch|Elaichi|Laung|Darchini|Tej Patta|Saunf|Methi Dana|Rai|Kalonji|Ajwain|Javitri|Jaifal|Star Anise|Zafran|Amchur|Anardana",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Single spices are a new topic beside Pakistani Spice Mixes. Challenger's version, with Anardana instead of Namak (salt is not a spice)"
+   "note": "New card (debate): Single spices are a new topic beside Pakistani Spice Mixes. Challenger's version, with Anardana instead of Namak (salt is not a spice); Debate: Badiyan is ambiguous with Saunf (fennel); Star Anise is clear."
   },
   {
    "id": null,
@@ -9733,10 +9733,10 @@
   {
    "id": null,
    "Name": "Things at a Post Office",
-   "Description": "Letter|Envelope|Postage Stamp|Parcel|Postman|Post Box|Address|Postal Code|Money Order|Registered Post|Urgent Mail|Tracking Number|Weighing Scale|Postcard|Postmark|Postal Order|Sorting Rack|Courier Bike|Pension Day|Return to Sender",
+   "Description": "Letter|Envelope|Postage Stamp|Parcel|Postman|Post Box|Address|Postal Code|Money Order|Registered Post|Urgent Mail|Tracking Number|Weighing Scale|Postcard|Postmark|Stamp Pad|Sorting Rack|Courier Bike|Pension Day|Return to Sender",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Everyday local place; challenger's post-specific words replace generic ones shared with the bank/office cards, and 'Speed Post' (an Indian service name) is changed to Postal Order."
+   "note": "New card (debate): Everyday local place; challenger's post-specific words replace generic ones shared with the bank/office cards, and 'Speed Post' (an Indian service name) is changed to Postal Order.; Debate: Postal Order duplicated Money Order."
   },
   {
    "id": null,
@@ -9933,10 +9933,10 @@
   {
    "id": null,
    "Name": "Kite flying should be allowed everywhere again.",
-   "Description": "Basant is the best festival.|I was great at kite fights as a kid.|Rooftops are the best place to hang out.|Gully cricket should be a national sport.",
+   "Description": "Kite string is too dangerous to allow.|I was great at kite fights as a kid.|Rooftops are the best place to hang out.|Gully cricket should be a national sport.",
    "Category": "Rating",
    "action": "add",
-   "note": "New card (debate): Topical local opinion card; no kite card in game3."
+   "note": "New card (debate): Topical local opinion card; no kite card in game3.; Debate: Basant is contested and was already removed from the festivals card; replaced with a kite-related decoy."
   },
   {
    "id": null,
@@ -12929,6 +12929,86 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Clean everyday dilemma that splits groups."
+  },
+  {
+   "id": null,
+   "Name": "Things at an Eid Prayer Ground",
+   "Description": "Prayer Mat|Imam|Khutbah|Takbeer|Saf|New Kurta|Waistcoat|Topi|Attar|Hugging|Eid Mubarak|Loudspeaker|Parked Motorbikes|Chai Stall|Balloon Seller|Uncles|Dua|Tent|Water Cooler|Footwear Bags",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended list removes masjid-interior and generic words."
+  },
+  {
+   "id": null,
+   "Name": "Things on Qurbani Day",
+   "Description": "Butcher|Hissa|Rope|Bucket|Apron|Gloves|Newspaper|Tikka|Kaleji|Charcoal|Karahi|Meat Bags|Ice Box|Knife|Neighbours' Plates|Hide Collector|Takbeer|Hand Wash|Deep Freezer|Bone Marrow",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version drops the Cooler duplicate and non-nouns, adds Knife and Hide Collector."
+  },
+  {
+   "id": null,
+   "Name": "Things in an Online Order",
+   "Description": "Parcel|Rider|Cash on Delivery|Tracking Link|Bubble Wrap|Return Policy|Address|Phone Call|Wrong Address|Receipt|Gate Guard|Box Cutter|Packing Tape|Sticker|Cart|Customer Care|Size Chart|Courier Bag|Delivery Slot|Open Parcel Video",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Better title, avoids overlap with Shopping Temptations."
+  },
+  {
+   "id": null,
+   "Name": "The best thing to bring for the host at a dawat is...",
+   "Description": "The best thing to bring to a picnic is...|The best gift to give a new bride is...|The best thing to bring to a sick friend is...|Something I would never bring to a dawat is...|The best thing to bring to a school fair is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fits theme, not a duplicate, agreed by both sides."
+  },
+  {
+   "id": null,
+   "Name": "The best thing to say when you forget someone’s name at a wedding is...",
+   "Description": "The best thing to say when you meet a distant relative is...|The best thing to say when someone pinches your cheek is...|The best thing to say when you are caught taking the last gulab jamun is...|The best thing to say when you cannot find your shoes is...|The best thing to say when someone asks about your salary is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Amended to remove the ambiguous caught-eating-early decoy that reads as breaking a fast."
+  },
+  {
+   "id": null,
+   "Name": "Draw an Eid prayer ground.",
+   "Description": "Draw a cricket ground.|Draw a mela.|Draw a crowded wedding hall.|Draw a bakra mandi.|Draw a school assembly line.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Amended decoys are clearly different scenes so the impostor gives themselves away."
+  },
+  {
+   "id": null,
+   "Name": "I judge a dawat by whether I can take leftovers home.",
+   "Description": "I judge a dawat by its biryani.|Leftovers taste better the next day.|I am shy about asking for seconds.|I judge a wedding by its food.|I always finish everything on my plate at a dawat.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): More natural wording and a decoy that is not a near copy of the prompt."
+  },
+  {
+   "id": null,
+   "Name": "I pick up every call from an unknown number.",
+   "Description": "I never call back a missed call.|I let calls go to voicemail.|I reply to messages after a day.|I keep my phone on silent.|I answer my mother’s call on the first ring.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable, splits a group, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "You realise you wore someone else’s chappals home from the masjid. You...",
+   "Description": "go back and return them|keep wearing them|leave them at the masjid shoe rack with a note",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Amended to fix the illogical third option."
+  },
+  {
+   "id": null,
+   "Name": "A friend lends you a book and you spill chai on it. You...",
+   "Description": "tell them straight away|buy a new copy|return it and hope they do not notice",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Light honesty dilemma with distinct options, no duplicate."
   }
  ]
 }

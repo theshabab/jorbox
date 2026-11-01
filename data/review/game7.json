@@ -21190,6 +21190,27 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Local, cute and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a bulbul and a sparrow arguing over who gets the first rays of the morning sun",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle, drawable, clean. The pending sparrow card is a different scene (a girl feeding sparrows), so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> telling the same story for the fifth time as everyone mouths the ending",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, drawable friend prompt with the <PLAYER> token intact. It does not duplicate the fridge-fifth-time card."
+  },
+  {
+   "id": null,
+   "Description": "al-Biruni on a hilltop near Nandana, squinting at the horizon with his instrument to measure the whole earth",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): The challenger's amendment is accurate: al-Biruni used the horizon dip from a mountain at Nandana in the Salt Range. The original stick-and-shadow method was Eratosthenes'. The scene is drawable and fits the deck's Muslim-scholar cards."
   }
  ]
 }

@@ -657,14 +657,14 @@ Someone at a traffic signal asks for money and all you have is a Rs. 100 note. Y
 The food opens at a wedding and the queue is very long. You...,wait your turn|push to the front|send a child to bring you a plate,Morality
 "You find a lost wallet with Rs. 20,000 and an ID card inside. You...",return it in person|hand it to the police|keep the cash and post the ID card,Morality
 "Your khala asks you to fix her phone, but you make it worse. You...",confess|blame the phone|quietly buy her a new one,Morality
-Spices,Haldi|Zeera|Dhania|Lal Mirch|Kali Mirch|Elaichi|Laung|Darchini|Tej Patta|Saunf|Methi Dana|Rai|Kalonji|Ajwain|Javitri|Jaifal|Badiyan|Zafran|Amchur|Anardana,
+Spices,Haldi|Zeera|Dhania|Lal Mirch|Kali Mirch|Elaichi|Laung|Darchini|Tej Patta|Saunf|Methi Dana|Rai|Kalonji|Ajwain|Javitri|Jaifal|Star Anise|Zafran|Amchur|Anardana,
 Mango Varieties,Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Gulab Khas|Tota Pari,
 Cricket Terms,Googly|Yorker|Bouncer|Doosra|No Ball|Wide|LBW|Run Out|Stumped|Hat-trick|Duck|Century|Sixer|Boundary|Maiden Over|Reverse Swing|Super Over|Free Hit|Powerplay|Follow On,
 Biscuits,Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik|Chocolicious,
 Pakistani Lakes,Saiful Muluk|Attabad Lake|Rawal Lake|Keenjhar Lake|Manchar Lake|Hanna Lake|Satpara Lake|Sheosar Lake|Lulusar Lake|Kachura Lake|Borith Lake|Banjosa Lake|Haleji Lake|Khanpur Lake|Kallar Kahar Lake|Ansoo Lake|Mahodand Lake|Namal Lake|Uchhali Lake|Dudipatsar Lake,
 Pakistani Mountains and Peaks,K2|Nanga Parbat|Rakaposhi|Tirich Mir|Broad Peak|Gasherbrum|Masherbrum|Ladyfinger Peak|Passu Cones|Diran|Haramosh|Makra Peak|Trango Towers|Malika Parbat|Musa ka Musalla|Mukshpuri|Margalla Hills|Chiltan|Takht e Sulaiman,
 Things at a Bank,Cashier|Counter|Queue|Token|Security Guard|ATM|Cheque Book|Deposit Slip|Passbook|Locker|Signature|CNIC Copy|Branch Manager|Cash Counting Machine|Pen on a Chain|Utility Bills|Account Opening Form|Waiting Chairs|Stamp|Receipt,
-Things at a Post Office,Letter|Envelope|Postage Stamp|Parcel|Postman|Post Box|Address|Postal Code|Money Order|Registered Post|Urgent Mail|Tracking Number|Weighing Scale|Postcard|Postmark|Postal Order|Sorting Rack|Courier Bike|Pension Day|Return to Sender,
+Things at a Post Office,Letter|Envelope|Postage Stamp|Parcel|Postman|Post Box|Address|Postal Code|Money Order|Registered Post|Urgent Mail|Tracking Number|Weighing Scale|Postcard|Postmark|Stamp Pad|Sorting Rack|Courier Bike|Pension Day|Return to Sender,
 Things in a Government Office,Files|Stamp|Clerk|Peon|Queue|Token|Signature|Attested Copies|Photocopy|Stamp Paper|Thumb Impression|Form|Notice Board|Register|Waiting Bench|Chai|Ceiling Fan|Lunch Break|Officer's Chair|Come Tomorrow,
 Things at a Zoo,Lion|Tiger|Elephant|Monkey|Bear|Deer|Zebra|Giraffe|Ostrich|Peacock|Crocodile|Snake House|Bird Aviary|Cage|Zookeeper|Ticket Window|Peanuts|Do Not Feed Sign|Ice Cream Cart|School Trip,
 Draw a markhor.,Draw a goat.|Draw an ibex.|Draw a deer.|Draw a ram.|Draw a unicorn.|Draw a mountain goat on a cliff.,Drawing 2
@@ -689,7 +689,7 @@ Rishta aunties are scarier than ghosts.,I believe in ghosts.|I’m scared of my 
 Eid shopping is the best part of Eid.,I love getting eidi.|Chand Raat is my favourite night of the year.|I hate crowded bazaars.|I always buy new clothes for Eid.|Eid food is the best food.,Rating
 Load-shedding doesn’t bother me at all.,I could survive a Karachi summer without AC.|I’m a very patient person.|I always keep my phone fully charged.|Candlelight is cosy.|I complain about the heat all the time.,Rating
 I forward every WhatsApp message I receive.,I read every message in the family group.|I believe most things I read online.|I keep family groups on mute.|I send good-morning flowers every day.|I get my news from Facebook.,Rating
-Kite flying should be allowed everywhere again.,Basant is the best festival.|I was great at kite fights as a kid.|Rooftops are the best place to hang out.|Gully cricket should be a national sport.,Rating
+Kite flying should be allowed everywhere again.,Kite string is too dangerous to allow.|I was great at kite fights as a kid.|Rooftops are the best place to hang out.|Gully cricket should be a national sport.,Rating
 Guests arrive unannounced right at dinner time and there isn’t enough salan. You...,add water to the salan|order extra food|say you’ve already eaten,Morality
 Your phupho sends a WhatsApp forward saying onions cure every disease. You...,correct her politely|forward it to everyone|reply with a thumbs up,Morality
 The light goes out in the last over of a Pakistan–India match. You...,run to a neighbour with a UPS|follow it on the radio|go outside and shout at the transformer,Morality
@@ -1063,3 +1063,13 @@ Things at a School Sports Day,Race|Sack Race|Spoon Race|Tug of War|Relay Baton|M
 Draw a kite stuck on a power line.,Draw a bird on a wire.|Draw a cut kite falling.|Draw a tangled rope.|Draw a lamp post.|Draw a plastic bag in a tree.,Drawing 2
 Draw a paratha being flipped on a tawa.,Draw a roti puffing up.|Draw an omelette.|Draw a pancake.|Draw a frying pan.|Draw a plate of food.,Drawing 2
 "You promised to attend a friend’s event, but a much better invitation arrives for the same evening. What you should do is...",keep your promise|make an excuse|go to the better one,Morality
+Things at an Eid Prayer Ground,Prayer Mat|Imam|Khutbah|Takbeer|Saf|New Kurta|Waistcoat|Topi|Attar|Hugging|Eid Mubarak|Loudspeaker|Parked Motorbikes|Chai Stall|Balloon Seller|Uncles|Dua|Tent|Water Cooler|Footwear Bags,
+Things on Qurbani Day,Butcher|Hissa|Rope|Bucket|Apron|Gloves|Newspaper|Tikka|Kaleji|Charcoal|Karahi|Meat Bags|Ice Box|Knife|Neighbours' Plates|Hide Collector|Takbeer|Hand Wash|Deep Freezer|Bone Marrow,
+Things in an Online Order,Parcel|Rider|Cash on Delivery|Tracking Link|Bubble Wrap|Return Policy|Address|Phone Call|Wrong Address|Receipt|Gate Guard|Box Cutter|Packing Tape|Sticker|Cart|Customer Care|Size Chart|Courier Bag|Delivery Slot|Open Parcel Video,
+The best thing to bring for the host at a dawat is...,The best thing to bring to a picnic is...|The best gift to give a new bride is...|The best thing to bring to a sick friend is...|Something I would never bring to a dawat is...|The best thing to bring to a school fair is...,Writing
+The best thing to say when you forget someone’s name at a wedding is...,The best thing to say when you meet a distant relative is...|The best thing to say when someone pinches your cheek is...|The best thing to say when you are caught taking the last gulab jamun is...|The best thing to say when you cannot find your shoes is...|The best thing to say when someone asks about your salary is...,Writing
+Draw an Eid prayer ground.,Draw a cricket ground.|Draw a mela.|Draw a crowded wedding hall.|Draw a bakra mandi.|Draw a school assembly line.,Drawing 2
+I judge a dawat by whether I can take leftovers home.,I judge a dawat by its biryani.|Leftovers taste better the next day.|I am shy about asking for seconds.|I judge a wedding by its food.|I always finish everything on my plate at a dawat.,Rating
+I pick up every call from an unknown number.,I never call back a missed call.|I let calls go to voicemail.|I reply to messages after a day.|I keep my phone on silent.|I answer my mother’s call on the first ring.,Rating
+You realise you wore someone else’s chappals home from the masjid. You...,go back and return them|keep wearing them|leave them at the masjid shoe rack with a note,Morality
+A friend lends you a book and you spill chai on it. You...,tell them straight away|buy a new copy|return it and hope they do not notice,Morality
