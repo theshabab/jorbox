@@ -37901,15 +37901,15 @@
   {
    "id": "game5-2916",
    "Name": "",
-   "Description": "I'm afraid to talk to my kids about ____.",
+   "Description": "I'm afraid to tell my kids that I once ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I'm afraid to talk to my kids about ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Original invites sex-education answers; confession form is cleaner."
   },
   {
    "id": "game5-2917",
@@ -38187,15 +38187,15 @@
   {
    "id": "game5-2938",
    "Name": "",
-   "Description": "I'm just gonna stay in tonight. You know, Chai and ____.",
+   "Description": "I'm just gonna stay in tonight with some chai and ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I'm just gonna stay in tonight. You know, Chai and ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: The 'X and ____' template echoes a suggestive innuendo; rewrite keeps the cosy-night joke."
   },
   {
    "id": "game5-2939",
@@ -38460,15 +38460,15 @@
   {
    "id": "game5-2959",
    "Name": "",
-   "Description": "I'm raising money on Kickstarter to fund ____.",
+   "Description": "I'm raising money on a crowdfunding page to fund ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I'm raising money on Kickstarter to fund ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the US brand name Kickstarter."
   },
   {
    "id": "game5-2960",
@@ -38993,15 +38993,15 @@
   {
    "id": "game5-3000",
    "Name": "",
-   "Description": "I've never lost my faith in ____.",
+   "Description": "I've never lost my hope in ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I've never lost my faith in ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids joke answers about faith while keeping the sincere-then-silly idea."
   },
   {
    "id": "game5-3001",
@@ -39019,15 +39019,15 @@
   {
    "id": "game5-3002",
    "Name": "",
-   "Description": "I’m sorry, sir, but your insurance plan doesn’t cover injuries caused by ____.",
+   "Description": "I’m sorry, sir, but your hospital health card doesn’t cover injuries caused by ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I’m sorry, sir, but your insurance plan doesn’t cover injuries caused by ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localises the US insurance-plan frame."
   },
   {
    "id": "game5-3003",
@@ -39047,13 +39047,13 @@
    "Name": "",
    "Description": "I’ve had a horrible vision, father. I saw mountains crumbling, stars falling from the sky. I saw ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I’ve had a horrible vision, father. I saw mountains crumbling, stars falling from the sky. I saw ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Day of Judgement imagery plus a film-style quote; risky and unfixable."
   },
   {
    "id": "game5-3005",
@@ -39266,15 +39266,15 @@
   {
    "id": "game5-3021",
    "Name": "",
-   "Description": "If Bigfoot came to your house, what would you feed him for dinner?",
+   "Description": "If a yeti came to your house, what would you feed him for dinner?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "If Bigfoot came to your house, what would you feed him for dinner?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Bigfoot is US folklore; yeti is a world-known, northern-areas-friendly equivalent."
   },
   {
    "id": "game5-3022",
@@ -40124,7 +40124,7 @@
   {
    "id": "game5-3087",
    "Name": "",
-   "Description": "If people wouldn't laugh, I would happily gift ____ to the person on my left.",
+   "Description": "If nobody would laugh, I would happily gift ____ to the person on my left.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -40132,7 +40132,7 @@
     "Description": "If people wouldn't be so quick to judge, I would give ____ to the person on my left in a heartbeat.",
     "Category": ""
    },
-   "note": "avoid suggestive answers"
+   "note": "avoid suggestive answers; Debate: Fixes awkward wording."
   },
   {
    "id": "game5-3088",
@@ -104877,6 +104877,14 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Local parking-guard humour, clean and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I told the rishta aunty my biggest talent is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct, clean, local angle (talent rather than weakness)."
   }
  ]
 }

@@ -13647,6 +13647,86 @@
    "Category": "Occupations",
    "action": "add",
    "note": "New card (debate): Local religious occupation; plainer banned words than Darul Ifta."
+  },
+  {
+   "id": null,
+   "Name": "Speed Breaker",
+   "Description": "Road | Slow | Bump | Car | Hump",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani road item, not in deck, clean hints"
+  },
+  {
+   "id": null,
+   "Name": "Pickup",
+   "Description": "Suzuki | Open Back | Goods | Bolan | Loader",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani vehicle; challenger's amendment drops confusing Mazda hint"
+  },
+  {
+   "id": null,
+   "Name": "Bail Gari",
+   "Description": "Bullock | Ox | Village | Wheels | Farmer",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Rural Pakistani transport; hint 'Bail' removed since it is part of the name"
+  },
+  {
+   "id": null,
+   "Name": "Duster",
+   "Description": "Board | Chalk | Wipe | Clean | Teacher",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Classroom item with no card of its own"
+  },
+  {
+   "id": null,
+   "Name": "Whiteboard",
+   "Description": "Marker | Teacher | Class | White | Write",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Common classroom item; 'Board' hint removed per challenger"
+  },
+  {
+   "id": null,
+   "Name": "Pencil Case",
+   "Description": "Box | Zip | School | Geometry | Bag",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Everyday school item; name-part 'Pencil' removed and the category-word hint 'Stationery' swapped for 'Bag'"
+  },
+  {
+   "id": null,
+   "Name": "Sticky Notes",
+   "Description": "Paper | Yellow | Reminder | Desk | Peel",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Common stationery; removed name root and brand hint"
+  },
+  {
+   "id": null,
+   "Name": "Lavender",
+   "Description": "Purple | Flower | Pale | Violet | Smell",
+   "Category": "Colors",
+   "action": "add",
+   "note": "New card (debate): Distinct extra colour with tighter hints"
+  },
+  {
+   "id": null,
+   "Name": "Knuckle",
+   "Description": "Finger | Fist | Crack | Joint | Hand",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Easy-to-act body part missing from deck"
+  },
+  {
+   "id": null,
+   "Name": "Throat",
+   "Description": "Gala | Swallow | Sore | Voice | Lozenge",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Common body part; hints avoid overlap with the Neck card"
   }
  ]
 }

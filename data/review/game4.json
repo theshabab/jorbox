@@ -13952,6 +13952,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Established fact; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "tower",
+   "Description": "A group of giraffes is called a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True collective noun, not in deck, fits animal-fact run."
+  },
+  {
+   "id": null,
+   "Name": "bloat",
+   "Description": "A group of hippos is called a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True collective noun, good bluff bait; distinct from the existing hippo 'blood sweat' card."
+  },
+  {
+   "id": null,
+   "Name": "travellers",
+   "Description": "The English word \"caravan\" comes from the Persian \"karwan\", meaning a group of desert ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Persian loanword card; distinct from the Surah Quraysh caravan card."
+  },
+  {
+   "id": null,
+   "Name": "drink",
+   "Description": "The English word \"sherbet\" comes, via Turkish and Persian, from the Arabic \"sharba\", meaning a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate etymology with an iftar link; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "chemistry",
+   "Description": "Jabir ibn Hayyan, a scholar of the 8th and 9th centuries, is often called the father of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-established, hedged claim; not in game4."
   }
  ]
 }
