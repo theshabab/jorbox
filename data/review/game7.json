@@ -14868,12 +14868,12 @@
    "id": "game7-1352",
    "Description": "ugh, this teenager is the worst",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "jeez this teen sucks",
     "Category": "Standard Prompts"
    },
-   "note": "removed slang/mild profanity"
+   "note": "Debate: Vague, insulting and has no visual hook. It is not half of a duplicate pair."
   },
   {
    "id": "game7-1353",
@@ -14943,14 +14943,14 @@
   },
   {
    "id": "game7-1359",
-   "Description": "cursed food truck",
+   "Description": "cursed kulfi cart",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "cursed food truck",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: replaces the US food truck and avoids the already-used chaat theme."
   },
   {
    "id": "game7-1360",
@@ -14998,14 +14998,14 @@
   },
   {
    "id": "game7-1364",
-   "Description": "hiding an ancient statue in the shed",
+   "Description": "hiding a dinosaur skeleton in the shed",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "hiding an ancient statue in the shed",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Avoids idol connotations of an ancient statue; funnier and drawable."
   },
   {
    "id": "game7-1365",
@@ -15064,14 +15064,14 @@
   },
   {
    "id": "game7-1370",
-   "Description": "meet me under the donkey moon",
+   "Description": "the donkey moon rises over the village",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "meet me under the donkey moon",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Drops the romantic 'meet me under' framing; the duplicate-wording claim was wrong, so the reason is the romantic framing only."
   },
   {
    "id": "game7-1371",
@@ -15086,14 +15086,14 @@
   },
   {
    "id": "game7-1372",
-   "Description": "scarecrow on a girls' trip",
+   "Description": "scarecrow on a family picnic",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "scarecrow on a girls trip",
     "Category": "Standard Prompts"
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: Neutral local framing that keeps the scarecrow gag."
   },
   {
    "id": "game7-1373",
@@ -15119,14 +15119,14 @@
   },
   {
    "id": "game7-1375",
-   "Description": "she shoots! she swoons!",
+   "Description": "he shoots! he scores! the crowd faints!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "she shoots! she swoons!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the romantic swoon while keeping the sports-commentary joke."
   },
   {
    "id": "game7-1376",
@@ -15207,14 +15207,14 @@
   },
   {
    "id": "game7-1383",
-   "Description": "the day the shrimp went on sale",
+   "Description": "the day the mangoes went on sale",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the day the shrimp went on sale",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: localises shrimp without adding another samosa card."
   },
   {
    "id": "game7-1384",
@@ -15273,14 +15273,14 @@
   },
   {
    "id": "game7-1389",
-   "Description": "corruption and mayhem",
+   "Description": "corrupt officials fighting over a briefcase of cash",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "corruption and mayhem",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Turns abstract 'corruption and mayhem' into a drawable scene. Political jokes are allowed. Card 1389 is the neighbouring card; the challenger's 'corruption and mayhem' idx 1388 is the one edited."
   },
   {
    "id": "game7-1390",
@@ -15438,14 +15438,14 @@
   },
   {
    "id": "game7-1404",
-   "Description": "kindergarteners loose in the cereal aisle",
+   "Description": "kindergarteners loose in the Sunday bazaar",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "kindergarteners loose in the cereal aisle",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: replaces the US cereal aisle and avoids a third mithai card."
   },
   {
    "id": "game7-1405",
@@ -20966,6 +20966,27 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Affectionate local Friend Mode card, token intact."
+  },
+  {
+   "id": null,
+   "Description": "a giant hot-water bottle fighting the winter fog",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Absurd, drawable winter image, not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> teaching a goat how to use a smartphone",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate Friend Mode prompt, token used correctly, drawable, no similar card."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> winning the world cup of afternoon naps",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle, affectionate Friend Mode prompt, not embarrassing."
   }
  ]
 }

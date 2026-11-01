@@ -213,11 +213,11 @@
   {
    "id": "game6-24",
    "Description": "Household Items",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Household Items"
    },
-   "note": ""
+   "note": "Debate: Vague catch-all whose answers are covered by the live Kitchen Utensils, Furniture, Bedroom Items, Living Room Items, Bathroom Items, Cleaning Supplies, Tools and Garden Items cards. I confirmed all of them are still live in game6.json. Clothing Items was removed for the same reason."
   },
   {
    "id": "game6-25",
@@ -672,11 +672,11 @@
   {
    "id": "game6-75",
    "Description": "Peshawar Landmarks",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Peshawar Landmarks"
    },
-   "note": ""
+   "note": "Debate: Too narrow for mixed groups: only about 6 well-known answers. Quetta Landmarks was removed as too narrow for the same reason."
   },
   {
    "id": "game6-76",
@@ -1184,12 +1184,12 @@
   },
   {
    "id": "game6-132",
-   "Description": "Book Genres",
+   "Description": "Book Genres (Novel, Poetry, Travelogue, Biography...)",
    "action": "edit",
    "original": {
     "Description": "Books Genres"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Challenger's amendment: keeps the clear Book Genres title and adds examples that suit Urdu and English readers."
   },
   {
    "id": "game6-133",
@@ -4766,6 +4766,54 @@
    "Description": "Gift Ideas for Eid or a Wedding (Suit Piece, Perfume, Mithai Box...)",
    "action": "add",
    "note": "New card (debate): Broad, relatable card; answers are distinct from the Umrah gifts and Eidi cards."
+  },
+  {
+   "id": null,
+   "Description": "Types of Khajoor (Dates): Ajwa, Mabroom, Sukkari...",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: naming Khajoor first avoids confusion with calendar dates. Many known varieties and familiar at Iftar. Not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Pakistani Ethnic Groups and Communities",
+   "action": "add",
+   "note": "New card (debate): Many well-known answers (Punjabi, Pashtun, Sindhi, Baloch, Saraiki, Muhajir, Kashmiri, Hazara, Gujjar, Kalash, Brahui, Balti). Respectful and not a duplicate, because the Provinces card was removed as too narrow."
+  },
+  {
+   "id": null,
+   "Description": "Pakistan Cricket Captains",
+   "action": "add",
+   "note": "New card (debate): Well over 15 checkable answers (Kardar, Imran, Miandad, Wasim, Waqar, Inzamam, Younis, Misbah, Babar...). It has a clear frame and is a narrower list than Cricket Players. Players are sportsmen, so the content rules are not touched."
+  },
+  {
+   "id": null,
+   "Description": "Types of Pakoray",
+   "action": "add",
+   "note": "New card (debate): More than 8 easy answers (aloo, pyaaz, palak, mirch, gobi, baingan, bread, chicken, fish). Relatable at Iftar and not a duplicate of the Iftar Foods or Snacks cards."
+  },
+  {
+   "id": null,
+   "Description": "Sharbat and Cooling Summer Drinks (Rooh Afza, Sandal, Bael...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: the frame is limited to sharbat and cooling drinks, so it stays distinct from Pakistani Beverages. Many answers (kewra, falsa, imli, tukhmalanga, kanji, shikanji)."
+  },
+  {
+   "id": null,
+   "Description": "Names and Titles of the Prophet ﷺ (Mustafa, Ahmad, Rasulullah...)",
+   "action": "add",
+   "note": "New card (debate): Accurate, respectful and well established, with 10+ answers familiar from naats. It does not depict the Prophet and does not duplicate the Names of Allah or Sahaba cards."
+  },
+  {
+   "id": null,
+   "Description": "Winter Fruits (Kinnow, Malta, Amrood, Anar...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: one clear seasonal frame instead of mixing citrus and winter fruits. Many local answers; a useful subset of the generic Fruits card."
+  },
+  {
+   "id": null,
+   "Description": "Types of Biryani and Pulao",
+   "action": "add",
+   "note": "New card (debate): Many popular answers (Sindhi, Bombay, Memoni, Kabuli, Yakhni, Tehri, beef, chicken, egg, aloo). A sub-type list, distinct from Rice Dishes and Things That Go in Biryani."
   }
  ]
 }

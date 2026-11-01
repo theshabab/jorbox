@@ -11651,6 +11651,48 @@
    "Name": "Jewellery",
    "action": "add",
    "note": "New card (debate): Common wedding and Eid noun; Jewel and Jewelry are both removed, so no live duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Mercy",
+   "action": "add",
+   "note": "New card (debate): Valid abstract noun, not in deck, distinct from Pity and Kindness."
+  },
+  {
+   "id": null,
+   "Name": "Locust",
+   "action": "add",
+   "note": "New card (debate): Not in deck; recognisable and distinct from generic Insect."
+  },
+  {
+   "id": null,
+   "Name": "Modesty",
+   "action": "add",
+   "note": "New card (debate): Abstract virtue noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Peanut",
+   "action": "add",
+   "note": "New card (debate): Distinct easy-to-draw snack; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Pilgrim",
+   "action": "add",
+   "note": "New card (debate): Allowed Hajj theme; the person, distinct from Hajj."
+  },
+  {
+   "id": null,
+   "Name": "Luck",
+   "action": "add",
+   "note": "New card (debate): Common word, different from Fate; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Pebble",
+   "action": "add",
+   "note": "New card (debate): Distinct from Rock; simple concrete noun."
   }
  ]
 }
