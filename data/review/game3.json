@@ -11637,18 +11637,18 @@
   {
    "id": null,
    "Name": "Parts of a Plant",
-   "Description": "Root|Stem|Leaf|Flower|Fruit|Seed|Bud|Petal|Thorn|Bark|Branch|Trunk|Sap|Pollen|Stamen|Nectar|Twig|Vine|Pod|Sprout",
+   "Description": "Root|Stem|Leaf|Flower|Fruit|Seed|Bud|Petal|Thorn|Bark|Branch|Trunk|Sap|Pollen|Stamen|Nectar|Twig|Husk|Pod|Sprout",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended to clearer, distinct words."
+   "note": "New card (debate): Amended to clearer, distinct words.; Debate: A vine is a kind of plant, not a part of one. Used Husk because the challenger's Stalk is almost the same as Stem."
   },
   {
    "id": null,
    "Name": "Baby Animals",
-   "Description": "Calf|Kitten|Puppy|Foal|Lamb|Goat Kid|Chick|Duckling|Gosling|Cygnet|Cub|Fawn|Tadpole|Joey|Bunny|Caterpillar",
+   "Description": "Calf|Kitten|Puppy|Foal|Lamb|Goat Kid|Chick|Duckling|Gosling|Cygnet|Cub|Fawn|Tadpole|Joey|Bunny|Eaglet",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended to guessable names; no baby-animal topic exists."
+   "note": "New card (debate): Amended to guessable names; no baby-animal topic exists.; Debate: Caterpillar is a larva; Eaglet is a clear baby animal."
   },
   {
    "id": null,
@@ -11661,10 +11661,10 @@
   {
    "id": null,
    "Name": "Rocks and Minerals",
-   "Description": "Marble|Granite|Limestone|Sandstone|Slate|Rock Salt|Coal|Gypsum|Quartz|Chalk|Basalt|Onyx|Pumice|Flint|Pebble|Boulder|Gravel|Lava",
+   "Description": "Marble|Granite|Limestone|Sandstone|Slate|Rock Salt|Coal|Gypsum|Quartz|Chalk|Basalt|Onyx|Pumice|Flint|Pebble|Boulder|Gravel|Obsidian",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended; geology topic missing, local Khewra salt and marble."
+   "note": "New card (debate): Amended; geology topic missing, local Khewra salt and marble.; Debate: Lava is molten rock, not a rock or mineral; Obsidian is a real rock and not a repeat."
   },
   {
    "id": null,
@@ -11829,10 +11829,10 @@
   {
    "id": null,
    "Name": "Internal Organs",
-   "Description": "Liver|Kidneys|Pancreas|Spleen|Gall Bladder|Intestines|Windpipe|Food Pipe|Diaphragm|Appendix|Tonsils|Bone Marrow|Blood Vessels|Heart|Lungs|Brain",
+   "Description": "Liver|Kidneys|Pancreas|Spleen|Gall Bladder|Intestines|Windpipe|Food Pipe|Diaphragm|Appendix|Tonsils|Bone Marrow|Stomach|Heart|Lungs|Brain",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Body gap; no internal organs topic."
+   "note": "New card (debate): Body gap; no internal organs topic.; Debate: Blood Vessels are not an organ; Stomach is a clear organ."
   },
   {
    "id": null,
@@ -12457,6 +12457,62 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): New local drawing prompt with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Things at a University Campus",
+   "Description": "Cafeteria|Lecture Hall|Attendance Sheet|Society Stall|Bus Point|Admission Office|Notice Board|Fee Challan|Computer Lab|Convocation Gown|Student Card|Professor's Office|Assignment Deadline|Cricket Ground|Gate Pass|Orientation Day|Seminar Hall|Career Fair|Registrar Office|Final Year Project",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New campus scene. Challenger's version drops Library and Hostel (live cards). Also swapped obscure Result Gazette for Final Year Project, and Tuck Shop (same as Cafeteria) for Orientation Day."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Qawwali Night",
+   "Description": "Harmonium|Dholak|Tabla|Lead Qawwal|Chorus|Hand Clapping|Floor Seating|Rose Petals|Incense|Chadar|Loudspeaker|Sufi Kalam|Langar|Urs|Dargah|Microphone|Candles|Tasbih|Devotees|Tea Stall",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Qawwali is allowed and new to the deck. Challenger's version removes the duplicate Sufi Poetry and the weak Turban."
+  },
+  {
+   "id": null,
+   "Name": "Things in a Cloth Market",
+   "Description": "Thaan|Gaz Measure|Lawn Suits|Khaddar|Scissors|Sale Board|Dupatta|Colour Swatches|Bargaining|Sample Book|Receipt|Plastic Bag|Shopkeeper|Counter|Shop Boy|Bridal Section|Shutter|Display Window|Cash Box|Ledger",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New market scene. Challenger's version removes words copied from the Fabrics card."
+  },
+  {
+   "id": null,
+   "Name": "Things at the Wagah Border Ceremony",
+   "Description": "Parade|Rangers|Flag Lowering|Border Gate|Crowd|Slogans|Salute|Drums|Tall Hats|Stands|Pakistan Flag|Tickets|Security Check|Loudspeaker|Boots|Foot Stomping|Sunset|Cold Drink Seller|Black Uniforms|Face Paint",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Army in-jokes allowed. Challenger's version fixes the inaccurate Green Shirts, the suspended Handshake and the Marching/Parade overlap."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Juice Corner",
+   "Description": "Blender|Glasses|Straws|Ice|Mango Shake|Orange Juice|Pomegranate Juice|Falsa Sharbat|Banana Shake|Carrot Juice|Fruit Crates|Knife|Peeler|Sugar Syrup|Sugarcane Machine|Menu Board|Bill Book|Plastic Cups|Ice Crusher|Mint Leaves",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local scene. Challenger's version replaces generic Salt, Fridge and Tissue Box."
+  },
+  {
+   "id": null,
+   "Name": "I say salaam first, even to strangers.",
+   "Description": "I smile at people I pass in the street.|I make small talk with strangers in a queue.|I find it awkward to greet people I do not know.|I always shake hands when I meet someone.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New Rating card on manners, with close but distinct decoys. No salaam card exists."
+  },
+  {
+   "id": null,
+   "Name": "I pay my zakat on time every year.",
+   "Description": "I give sadaqah regularly, not just in Ramadan.|I give in secret so no one knows.|I keep a record of everything I donate.|I give more in Ramadan than in the rest of the year.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New Rating card on a worship theme the owner allows. Zakat is not covered by any Rating card."
   }
  ]
 }

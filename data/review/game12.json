@@ -11567,6 +11567,36 @@
    "Name": "Veranda",
    "action": "add",
    "note": "New card (debate): Familiar home noun, not in deck; the standard spelling is what guessers would say. Distinct from the live Balcony add and Courtyard."
+  },
+  {
+   "id": null,
+   "Name": "Dome",
+   "action": "add",
+   "note": "New card (debate): Common drawable noun (masjid gumbad), not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Dam",
+   "action": "add",
+   "note": "New card (debate): Concrete noun (Tarbela/Mangla), no near-duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Cough",
+   "action": "add",
+   "note": "New card (debate): Easy to act out, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Duty",
+   "action": "add",
+   "note": "New card (debate): Acceptable abstract noun, playable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Debate",
+   "action": "add",
+   "note": "New card (debate): Fun to act out, not in deck."
   }
  ]
 }

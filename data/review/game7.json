@@ -12171,14 +12171,14 @@
   },
   {
    "id": "game7-1107",
-   "Description": "you make a mockery of our quiche store",
+   "Description": "you make a mockery of our samosa store",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "you make a mockery of our quiche store",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces the Western quiche store with a local samosa store and keeps the joke."
   },
   {
    "id": "game7-1108",
@@ -12270,14 +12270,14 @@
   },
   {
    "id": "game7-1116",
-   "Description": "fajitas on the move",
+   "Description": "pakoras on the move",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "fajitas on the move",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Local snack replaces fajitas and is easy to draw. No other pakora card is 'on the move'."
   },
   {
    "id": "game7-1117",
@@ -12292,14 +12292,14 @@
   },
   {
    "id": "game7-1118",
-   "Description": "mankind's deadliest weapon: the croissant",
+   "Description": "mankind's deadliest weapon: the samosa",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "mankind's deadliest weapon: the croissant",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Local food keeps the joke. A croissant prompt still exists elsewhere."
   },
   {
    "id": "game7-1119",
@@ -12424,14 +12424,14 @@
   },
   {
    "id": "game7-1130",
-   "Description": "flower blooming into taco",
+   "Description": "flower blooming into a jalebi",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "flower blooming into taco",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises the taco. The only other jalebi card is a different joke."
   },
   {
    "id": "game7-1131",
@@ -12589,14 +12589,14 @@
   },
   {
    "id": "game7-1145",
-   "Description": "she hates rainy mondays!!",
+   "Description": "she hates rainy mondays",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "she hates vermont!!",
     "Category": "Standard Prompts"
    },
-   "note": "US-local reference"
+   "note": "US-local reference; Debate: Light clean-up that drops the double exclamation marks."
   },
   {
    "id": "game7-1146",
@@ -12677,25 +12677,25 @@
   },
   {
    "id": "game7-1153",
-   "Description": "planting a flag on ricotta mountain",
+   "Description": "planting a flag on halwa mountain",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "planting a flag on ricotta mountain",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment accepted. Halwa is more widely known than basundi, and kheer is already used in another card."
   },
   {
    "id": "game7-1154",
-   "Description": "ramen monster",
+   "Description": "noodle monster",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "ramen monster",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Ramen is an unclear Japanese reference. Noodle monster is clear and drawable and does not duplicate the other noodle cards."
   },
   {
    "id": "game7-1155",
@@ -12798,14 +12798,14 @@
   },
   {
    "id": "game7-1164",
-   "Description": "paparazzi chasing a famous dog",
+   "Description": "reporters chasing a famous dog",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "paparrazi harassing celebrity dog",
     "Category": "Standard Prompts"
    },
-   "note": "spelling; less celebrity framing"
+   "note": "spelling; less celebrity framing; Debate: Removes the paparazzi and celebrity framing and stays drawable."
   },
   {
    "id": "game7-1165",
@@ -12919,25 +12919,25 @@
   },
   {
    "id": "game7-1175",
-   "Description": "camera film tastes so much better than digital",
+   "Description": "a camera munching a roll of film like spaghetti",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "film tastes so much better than digital",
     "Category": "Standard Prompts"
    },
-   "note": "Debate: Removes the movie reading and keeps the photography joke."
+   "note": "Debate: Removes the movie reading and keeps the photography joke.; Debate: Challenger's amendment accepted. The opinion statement cannot be drawn, and this rewrite keeps the film idea as a scene."
   },
   {
    "id": "game7-1176",
-   "Description": "befriending my tax advisor",
+   "Description": "befriending my tax inspector",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "befriending my tax advisor",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: A tax inspector is a more concrete and more local figure than a tax advisor."
   },
   {
    "id": "game7-1177",
@@ -20882,6 +20882,48 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): challenger's amended wording (petrol pump); affectionate friend prompt with token intact"
+  },
+  {
+   "id": null,
+   "Description": "a tasbeeh with beads so big the old man has to roll them like bowling balls",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Respectful and drawable. The deck has no tasbeeh card."
+  },
+  {
+   "id": null,
+   "Description": "a gol gappa sprinting away from the hungry crowd",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): A new visual. The existing gol gappa cards are about size and a wala running out of water."
+  },
+  {
+   "id": null,
+   "Description": "a cow arriving at the house before Eid and being introduced to the family",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local Eid humour. It differs from the cow-on-motorway and qurbani cousins cards."
+  },
+  {
+   "id": null,
+   "Description": "a lunch box that opens to reveal the exact same food as yesterday",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable and drawable. The same-food-as-yesterday premise is distinct from the existing lunchbox cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> the family's official wedding food inspector, tasting every dish with a magnifying glass",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate Friend Mode card about shaadi food. It keeps the <PLAYER> token and is distinct from the biryani card."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> refusing to share the last piece of mithai with a very serious face",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Light and affectionate. No existing mithai card is a sharing joke."
   }
  ]
 }
