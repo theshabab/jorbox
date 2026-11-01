@@ -65359,13 +65359,13 @@
    "Name": "",
    "Description": "This year's trendiest card game: \"____ Against ____.\"",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "This year's trendiest card game: \"____ Against ____.\"",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Names Cards Against Humanity, adult game; cruel-answer format"
   },
   {
    "id": "game5-5029",
@@ -65606,13 +65606,13 @@
    "Name": "",
    "Description": "To be, or not to be: that is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "To be, or not to be: that is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of live keep card 5045"
   },
   {
    "id": "game5-5048",
@@ -65812,15 +65812,15 @@
   {
    "id": "game5-5063",
    "Name": "",
-   "Description": "To keep its ties to Lyari Gangs secret, the FIA routinely bribes government officials with ____ and ____.",
+   "Description": "To keep its dealings secret, the FIA routinely bribes government officials with ____ and ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "To keep its ties to Lyari Gangs secret, the FIA routinely bribes government officials with ____ and ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Drops gang reference, keeps political joke"
   },
   {
    "id": "game5-5064",
@@ -65864,15 +65864,15 @@
   {
    "id": "game5-5067",
    "Name": "",
-   "Description": "To protect the integrity of our democracy, voting booths in 2028 will be monitored by ____.",
+   "Description": "To protect the integrity of our democracy, voting booths in the next election will be monitored by ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "To protect the integrity of our democracy, voting booths in 2028 will be monitored by ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Remove US-specific 2028 date"
   },
   {
    "id": "game5-5068",
@@ -66293,20 +66293,20 @@
   {
    "id": "game5-5100",
    "Name": "",
-   "Description": "Today's to-do list: 1) Bake muffins. 2) Wipe off the counters. 3) Clean up that ____ stain.",
+   "Description": "Today's to-do list: 1) Make chai. 2) Wipe off the counters. 3) Clean up that ____ stain.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Today's to-do list: 1) Bake muffins. 2) Wipe off the counters. 3) Clean up that ____ stain.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local swap for muffins"
   },
   {
    "id": "game5-5101",
    "Name": "",
-   "Description": "Tommy looted a corpse and found ____.",
+   "Description": "Bilal opened the treasure chest in the video game and found ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -66314,7 +66314,7 @@
     "Description": "Tommy looted a dead corpse and found ____.",
     "Category": ""
    },
-   "note": "redundant wording"
+   "note": "redundant wording; Debate: Local name, same video-game idea"
   },
   {
    "id": "game5-5102",
@@ -66345,7 +66345,7 @@
   {
    "id": "game5-5104",
    "Name": "",
-   "Description": "On her 16th birthday, Ayesha's parents give her ____.",
+   "Description": "When Ayesha got her matric result, her parents gave her ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -66353,7 +66353,7 @@
     "Description": "Tonight on \"My Super Sweet 16,\" Ayesha's parents give her ____.",
     "Category": ""
    },
-   "note": "US TV show removed"
+   "note": "US TV show removed; Debate: Local milestone replaces Western sweet sixteen"
   },
   {
    "id": "game5-5105",
@@ -66553,15 +66553,15 @@
   {
    "id": "game5-5120",
    "Name": "",
-   "Description": "TRIGGER WARNING: ____.",
+   "Description": "SPOILER ALERT: ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "TRIGGER WARNING: ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Clean playable swap for trigger warning"
   },
   {
    "id": "game5-5121",
@@ -66787,7 +66787,7 @@
   {
    "id": "game5-5138",
    "Name": "",
-   "Description": "the PM's first pick to replace Justice Isa? Maryam. His second: ____.",
+   "Description": "The PM's first pick to replace the Chief Justice? Maryam. His second: ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -66795,7 +66795,7 @@
     "Description": "The PM's first pick to replace Justice Isa? Maryam. His second: ____.",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Keep allowed political joke; fix capitalisation, drop dated name (challenger amendment)"
   },
   {
    "id": "game5-5139",
@@ -67099,15 +67099,15 @@
   {
    "id": "game5-5162",
    "Name": "",
-   "Description": "Ugh, I just sat through this dude mansplaining ____ to me for a half hour.",
+   "Description": "Ugh, I just sat through my uncle explaining ____ to me for half an hour.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Ugh, I just sat through this dude mansplaining ____ to me for a half hour.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Family frame with correct grammar (challenger amendment)"
   },
   {
    "id": "game5-5163",
@@ -67138,20 +67138,20 @@
   {
    "id": "game5-5165",
    "Name": "",
-   "Description": "Ultimate Deathmatch: ____ vs. ____.",
+   "Description": "Ultimate Showdown: ____ vs. ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Ultimate Deathmatch: ____ vs. ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes deathmatch violence"
   },
   {
    "id": "game5-5166",
    "Name": "",
-   "Description": "Under my yearbook photo, it says ____.",
+   "Description": "Under my class photo in the school magazine, it says ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -67159,7 +67159,7 @@
     "Description": "under my yearbook photo it says ____",
     "Category": ""
    },
-   "note": "capitalisation; punctuation"
+   "note": "capitalisation; punctuation; Debate: Local equivalent of yearbook"
   },
   {
    "id": "game5-5167",
@@ -67296,13 +67296,13 @@
    "Name": "",
    "Description": "Unfortunately, no one can be told what ____ is. You have to experience it for yourself.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Unfortunately, no one can be told what ____ is. You have to experience it for yourself.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Matrix film quote, meaningless without the film"
   },
   {
    "id": "game5-5178",
@@ -67411,15 +67411,15 @@
   {
    "id": "game5-5186",
    "Name": "",
-   "Description": "Urban Dictionary defines ____ as \"the darkest place you can imagine\".",
+   "Description": "The dictionary defines ____ as \"the funniest thing you can imagine\".",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Urban Dictionary defines ____ as \"the darkest place you can imagine\".",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids Urban Dictionary crude answers"
   },
   {
    "id": "game5-5187",
@@ -67606,15 +67606,15 @@
   {
    "id": "game5-5201",
    "Name": "",
-   "Description": "Churails ____.",
+   "Description": "Even churails are scared of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Churails ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes incomplete sentence"
   },
   {
    "id": "game5-5202",
@@ -67749,7 +67749,7 @@
   {
    "id": "game5-5212",
    "Name": "",
-   "Description": "Wanna arm wrestle? I've been taking ____.",
+   "Description": "Wanna arm wrestle? I've been eating ____ every morning.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -67757,7 +67757,7 @@
     "Description": "Wanna dance? I've been taking ____.",
     "Category": ""
    },
-   "note": "dancing removed"
+   "note": "dancing removed; Debate: Avoids steroid and alcohol answers (challenger amendment)"
   },
   {
    "id": "game5-5213",
@@ -67775,15 +67775,15 @@
   {
    "id": "game5-5214",
    "Name": "",
-   "Description": "WANTED: a clean, well-lit place for ____.",
+   "Description": "WANTED: a clean, quiet place for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "WANTED: a clean, well-lit place for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids bathroom/crude answers"
   },
   {
    "id": "game5-5215",
@@ -67853,15 +67853,15 @@
   {
    "id": "game5-5220",
    "Name": "",
-   "Description": "Watch out for ____. They will cut you.",
+   "Description": "Watch out for ____. They will steal your lunch.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Watch out for ____. They will cut you.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes knife threat"
   },
   {
    "id": "game5-5221",
@@ -67970,7 +67970,7 @@
   {
    "id": "game5-5229",
    "Name": "",
-   "Description": "My best friend and I stopped talking after I found his stash of ____.",
+   "Description": "My best friend and I stopped talking after I found his secret collection of ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -67978,7 +67978,7 @@
     "Description": "We broke up after I found his stash of ____.",
     "Category": ""
    },
-   "note": "romance removed"
+   "note": "romance removed; Debate: Avoids drug answers"
   },
   {
    "id": "game5-5230",
@@ -68139,7 +68139,7 @@
   {
    "id": "game5-5242",
    "Name": "",
-   "Description": "We lucked out. The traffic warden didn't check the boot, and we had ____ in there!",
+   "Description": "We lucked out. Ammi didn't check my school bag, and I had ____ in there!",
    "Category": "",
    "action": "edit",
    "original": {
@@ -68147,7 +68147,7 @@
     "Description": "We lucked out. The cop who pulled us over didn't check and we had ____ in the trunk!",
     "Category": ""
    },
-   "note": "avoid crime/drug framing"
+   "note": "avoid crime/drug framing; Debate: Family-friendly frame"
   },
   {
    "id": "game5-5243",
@@ -68243,7 +68243,7 @@
   {
    "id": "game5-5250",
    "Name": "",
-   "Description": "We should end the war on ____. It has ruined more lives than it has saved.",
+   "Description": "We should declare a war on ____. It has ruined more lives than it has saved.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -68251,7 +68251,7 @@
     "Description": "We should stop war on ____, it has ruined more lives than saved.",
     "Category": ""
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Removes US war-on-drugs reference"
   },
   {
    "id": "game5-5251",
@@ -68401,13 +68401,13 @@
    "Name": "",
    "Description": "We'd all be safer if ____ would take their ____ and go home.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "We'd all be safer if ____ would take their ____ and go home.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Xenophobic frame, not fixable"
   },
   {
    "id": "game5-5263",
@@ -68724,15 +68724,15 @@
   {
    "id": "game5-5287",
    "Name": "",
-   "Description": "Well, look at what we have here! A big fancy man walkin' like he's ____.",
+   "Description": "Well, look at what we have here! A big fancy sahab strutting like he's ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Well, look at what we have here! A big fancy man walkin' like he's ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local phrasing"
   },
   {
    "id": "game5-5288",
@@ -68997,28 +68997,28 @@
   {
    "id": "game5-5308",
    "Name": "",
-   "Description": "What are they singing about?",
+   "Description": "What is the crowd shouting about?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What are they singing about?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids music and religious-chant ambiguity (challenger amendment)"
   },
   {
    "id": "game5-5309",
    "Name": "",
    "Description": "What are THOSE?!",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "WHAT ARE THOSE?!?!?!",
     "Category": ""
    },
-   "note": "punctuation"
+   "note": "Debate: Meme prompt needing an image"
   },
   {
    "id": "game5-5310",
@@ -69062,15 +69062,15 @@
   {
    "id": "game5-5313",
    "Name": "",
-   "Description": "What are you prying from my cold, dead hands?",
+   "Description": "What will you never share with your siblings, no matter how much they beg?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What are you prying from my cold, dead hands?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces US gun slogan with relatable prompt"
   },
   {
    "id": "game5-5314",
@@ -69530,15 +69530,15 @@
   {
    "id": "game5-5349",
    "Name": "",
-   "Description": "What did The Police see when they stopped at Nawaz Sharif's house?",
+   "Description": "What did the police find when they raided Nawaz Sharif's house?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What did The Police see when they stopped at Nawaz Sharif's house?",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Removes band reading."
   },
   {
    "id": "game5-5350",
@@ -69777,15 +69777,15 @@
   {
    "id": "game5-5368",
    "Name": "",
-   "Description": "What do I have rotting away in a storage unit?",
+   "Description": "What do I have rotting away in the store room?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What do I have rotting away in a storage unit?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localise US storage unit."
   },
   {
    "id": "game5-5369",
@@ -70128,7 +70128,7 @@
   {
    "id": "game5-5395",
    "Name": "",
-   "Description": "What do you think your ex-fiancé is doing right now?",
+   "Description": "What do you think your rejected rishta is doing right now?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -70136,7 +70136,7 @@
     "Description": "What do you think your ex-fiance is doing right now?",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Rishta frame instead of ex-fiance."
   },
   {
    "id": "game5-5396",
@@ -70830,7 +70830,7 @@
   {
    "id": "game5-5449",
    "Name": "",
-   "Description": "What got me kicked out of the cinema?",
+   "Description": "What got me kicked out of the wedding hall?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -70838,7 +70838,7 @@
     "Description": "What got me kicked out of the Cinema?",
     "Category": ""
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: Cinema is pop culture; wedding hall keeps joke."
   },
   {
    "id": "game5-5450",
@@ -70882,7 +70882,7 @@
   {
    "id": "game5-5453",
    "Name": "",
-   "Description": "What has been seen cannot be unseen! I just witnessed ____.",
+   "Description": "What has been seen cannot be unseen! I just witnessed Chacha ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -70890,7 +70890,7 @@
     "Description": "What has been seen cannot be unssen! I just witnessed ____.",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Anchors open prompt to keep answers family-friendly."
   },
   {
    "id": "game5-5454",
@@ -71272,28 +71272,28 @@
   {
    "id": "game5-5483",
    "Name": "",
-   "Description": "What is essential for a successful relationship?",
+   "Description": "What is essential for a lasting friendship?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What is essential for a successful relationship?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Drops romantic frame."
   },
   {
    "id": "game5-5484",
    "Name": "",
-   "Description": "What is Pervaiz Musharraf's favorite past time?",
+   "Description": "What was Pervez Musharraf's favourite pastime?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What is Pervaiz Musharraf's favorite past time?",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Spelling and tense fix."
   },
   {
    "id": "game5-5485",
@@ -71623,15 +71623,15 @@
   {
    "id": "game5-5510",
    "Name": "",
-   "Description": "What is that clawing noise from the basement?",
+   "Description": "What is that clawing noise from the store room?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What is that clawing noise from the basement?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Basement not common locally."
   },
   {
    "id": "game5-5511",
@@ -71961,15 +71961,15 @@
   {
    "id": "game5-5536",
    "Name": "",
-   "Description": "What is the secret ingredient in barbecue sauce?",
+   "Description": "What is the secret ingredient in Nani's seekh kebab?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What is the secret ingredient in barbecue sauce?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local dish instead of barbecue sauce."
   },
   {
    "id": "game5-5537",
@@ -72611,15 +72611,15 @@
   {
    "id": "game5-5586",
    "Name": "",
-   "Description": "What makes the world think Pakistanis are lazy?",
+   "Description": "What makes the world think Pakistanis are always late?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What makes the world think Pakistanis are lazy?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Affectionate stereotype instead of mean one."
   },
   {
    "id": "game5-5587",
@@ -72702,7 +72702,7 @@
   {
    "id": "game5-5593",
    "Name": "",
-   "Description": "What New Year's resolution have I failed at four years in a row?",
+   "Description": "What resolution have I failed at four years in a row?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -72710,7 +72710,7 @@
     "Description": "What new year's resolution have I failed at 4 years in a row?",
     "Category": ""
    },
-   "note": "capitalisation; number"
+   "note": "capitalisation; number; Debate: Drops Western holiday."
   },
   {
    "id": "game5-5594",
@@ -72754,15 +72754,15 @@
   {
    "id": "game5-5597",
    "Name": "",
-   "Description": "What puts the \"Strong\" in Pak Army?",
+   "Description": "What puts the \"Josh\" in the Pak Army?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What puts the \"Strong\" in Pak Army?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local slogan instead of US Army Strong."
   },
   {
    "id": "game5-5598",
@@ -72832,15 +72832,15 @@
   {
    "id": "game5-5603",
    "Name": "",
-   "Description": "What resonates with Millennials?",
+   "Description": "What do Pakistani teenagers think is cool right now?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What resonates with Millennials?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes US corporate jargon."
   },
   {
    "id": "game5-5604",
@@ -72923,7 +72923,7 @@
   {
    "id": "game5-5610",
    "Name": "",
-   "Description": "What should be added to the Pakistani flag?",
+   "Description": "What should be painted on the back of every truck in Pakistan?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -72931,7 +72931,7 @@
     "Description": "What should be added to the Flag?",
     "Category": ""
    },
-   "note": "clarity"
+   "note": "clarity; Debate: Avoids joking about the national flag; truck art is a local equivalent."
   },
   {
    "id": "game5-5611",
@@ -73352,15 +73352,15 @@
   {
    "id": "game5-5643",
    "Name": "",
-   "Description": "What was the dumbest thing you bought with your signing bonus?",
+   "Description": "What was the dumbest thing you bought with your first salary?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What was the dumbest thing you bought with your signing bonus?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Signing bonus is Western corporate; first salary is local."
   },
   {
    "id": "game5-5644",
@@ -73469,15 +73469,15 @@
   {
    "id": "game5-5652",
    "Name": "",
-   "Description": "What will Asif Zardari's social cause be as First Man?",
+   "Description": "What will Asif Zardari announce as his next big project?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What will Asif Zardari's social cause be as First Man?",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Removes US-style First Man title; allowed political joke, clearer."
   },
   {
    "id": "game5-5653",
@@ -73965,13 +73965,13 @@
    "Name": "",
    "Description": "What's about to take this school to the next level?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What's about to take this school to the next level?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of live game5-644 and near-copy of live game5-5795."
   },
   {
    "id": "game5-5691",
@@ -74054,15 +74054,15 @@
   {
    "id": "game5-5697",
    "Name": "",
-   "Description": "What's currently burning on the flight deck?",
+   "Description": "What's currently burning in the mess kitchen?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's currently burning on the flight deck?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Flight deck is US carrier imagery; mess keeps the army in-joke."
   },
   {
    "id": "game5-5698",
@@ -74158,15 +74158,15 @@
   {
    "id": "game5-5705",
    "Name": "",
-   "Description": "What's in Area 51 besides airplanes?",
+   "Description": "What's hiding in the Margalla Hills besides monkeys?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's in Area 51 besides airplanes?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Area 51 is US-only; local secret-location version."
   },
   {
    "id": "game5-5706",
@@ -74472,13 +74472,13 @@
    "Name": "",
    "Description": "What's Pakistan using to inspire students to succeed?",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What's Pakistan using to inspire inner city students to succeed?",
     "Category": ""
    },
-   "note": "US frame"
+   "note": "Debate: Duplicate of live game5-558."
   },
   {
    "id": "game5-5730",
@@ -74561,15 +74561,15 @@
   {
    "id": "game5-5736",
    "Name": "",
-   "Description": "What's secretly a Russian plot to destabilize the West?",
+   "Description": "What's secretly a plot by the neighbours to ruin your Eid?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's secretly a Russian plot to destabilize the West?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces US-centric Russian plot with local frame."
   },
   {
    "id": "game5-5737",
@@ -74613,7 +74613,7 @@
   {
    "id": "game5-5740",
    "Name": "",
-   "Description": "What's the absolute last thing you want to catch your Dad doing at a wedding?",
+   "Description": "What's the absolute last thing you want to catch your Dad doing at a family get-together?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -74621,7 +74621,7 @@
     "Description": "What's the absolute last thing you want to catch your Dad doing?",
     "Category": ""
    },
-   "note": "invited crude answers"
+   "note": "invited crude answers; Debate: Drops wedding/dancing answers without adding to the heavy dawat theme (challenger amendment)."
   },
   {
    "id": "game5-5741",
@@ -74691,15 +74691,15 @@
   {
    "id": "game5-5746",
    "Name": "",
-   "Description": "What's the biggest threat facing Pakistan?",
+   "Description": "What's the biggest threat facing the Pakistan cricket team?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's the biggest threat facing Pakistan?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids terrorism/tragedy answers."
   },
   {
    "id": "game5-5747",
@@ -74782,28 +74782,28 @@
   {
    "id": "game5-5753",
    "Name": "",
-   "Description": "What's the latest nonsense that's troubling this quaint fantasy town?",
+   "Description": "What's the latest nonsense that's troubling this quiet mohalla?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's the latest nonsense that's troubling this quaint fantasy town?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Western fantasy town replaced with mohalla."
   },
   {
    "id": "game5-5754",
    "Name": "",
-   "Description": "What's the latest cargo on the secret military space shuttle?",
+   "Description": "What's the latest cargo on the secret PAF transport plane?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's the latest cargo on the secret military space shuttle?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: US space shuttle imagery replaced with PAF army in-joke."
   },
   {
    "id": "game5-5755",
@@ -74875,13 +74875,13 @@
    "Name": "",
    "Description": "What's the most emo?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What's the most emo?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Western subculture label with no frame; unplayable."
   },
   {
    "id": "game5-5761",
@@ -74912,15 +74912,15 @@
   {
    "id": "game5-5763",
    "Name": "",
-   "Description": "What's the new guy's callsign?",
+   "Description": "What nickname did the new recruit get in the barracks?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's the new guy's callsign?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Callsign is US pilot imagery; barracks nickname is local."
   },
   {
    "id": "game5-5764",
@@ -75382,13 +75382,13 @@
    "Name": "",
    "Description": "What’s the weirdest?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What’s the weirdest?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Bare superlative with no subject; unplayable."
   },
   {
    "id": "game5-5800",
@@ -75419,15 +75419,15 @@
   {
    "id": "game5-5802",
    "Name": "",
-   "Description": "What’s the one thing that makes an elf instantly laugh?",
+   "Description": "What's the one thing that makes Nani instantly laugh?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What’s the one thing that makes an elf instantly laugh?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Elf is Western fantasy; Nani is local."
   },
   {
    "id": "game5-5803",
@@ -75627,15 +75627,15 @@
   {
    "id": "game5-5818",
    "Name": "",
-   "Description": "When all anyone seems interested in is that you're from the land of ____.",
+   "Description": "Everyone is only interested in the fact that you're from the land of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "When all anyone seems interested in is that you're from the land of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Original was a fragment; full sentence rewrite (challenger amendment)."
   },
   {
    "id": "game5-5819",
@@ -75835,7 +75835,7 @@
   {
    "id": "game5-5834",
    "Name": "",
-   "Description": "When pigs fly, I will ____.",
+   "Description": "When donkeys fly, I will ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -75843,7 +75843,7 @@
     "Description": "When Pigs fly I will ____.",
     "Category": ""
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: Removes pig idiom."
   },
   {
    "id": "game5-5835",
@@ -76173,15 +76173,15 @@
   {
    "id": "game5-5860",
    "Name": "",
-   "Description": "When I go out, I go out blazing. Death by ____, baby, here I come.",
+   "Description": "When I go out, I want to go out in style. Death by ____, here I come.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "When I go out, I go out blazing. Death by ____, baby, here I come.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes Western phrasing; keeps mildly dark joke."
   },
   {
    "id": "game5-5861",
@@ -102101,6 +102101,150 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Relatable two-blank prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The shadi hall had a power cut right when ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New wedding/load-shedding prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Bhabhi cried at the nikah because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New wedding-drama prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What did Chacha hide under the dastarkhwan before the guests arrived?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended: hide under the cloth."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What jugaad did Abu use to fix the car in the middle of the Motorway?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New jugaad theme."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My Eid collection lawn suit was ruined by ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New relatable Eid prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What did the cousins do on the jhoola that got everyone laughing?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New family childhood prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What did the tuck shop uncle sell me that I regret?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New school-life prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mohalla uncle's loudspeaker announcement: \"Whoever left ____ outside my gate, please collect it.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local prompt"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi hid ____ inside the empty ice-cream box in the freezer.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable household joke"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "On the first day of Ramzan, my stomach was already planning ____ for iftar.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Ramzan food humour"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The wedding hall's AC stopped working, so the guests started fanning themselves with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New wedding angle"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My little cousin changed my phone's lock screen to ____, and now I can't figure out how to change it back.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Avoids crush/celebrity answers (challenger amendment)"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nobody wanted to sit next to Phuppo at the Eid dinner because she kept talking about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Deck spelling Phuppo"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My phone was at 1% and the power bank was dead, so I spent my last bit of battery on ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clearer wording"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu's reaction when he saw the Daraz parcel I ordered: \"____?! Who told you to buy that?\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Parents vs shopping prompt"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The school assembly stopped when the principal noticed ____ standing in line.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): School humour with idiom fixed"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What is the first thing Nani asks when you come home?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable family prompt, no live equivalent."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What's the worst thing to say to the golgappay wala?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Different prompt shape from the secret-pani card; street food humour."
   }
  ]
 }
