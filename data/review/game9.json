@@ -5892,12 +5892,12 @@
    "id": "game9-536",
    "Name": "In ancient Greece, what animal would a \"hippeus\" own?",
    "Description": "Horse",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "In ancient Greece, if your job were a \"hippeus\" which of these would you own?",
     "Description": "Horse"
    },
-   "note": "multiple-choice leftover; Debate: Removed the \"(cavalryman)\" hint that gave the answer away."
+   "note": "Debate: Obscure Greek-word trivia, no duplicate, unfixable."
   },
   {
    "id": "game9-537",
@@ -6044,14 +6044,14 @@
   },
   {
    "id": "game9-550",
-   "Name": "Where is the gluteus maximus muscle located?",
-   "Description": "Buttocks",
+   "Name": "Where is the quadriceps muscle group located?",
+   "Description": "The front of the thigh",
    "action": "edit",
    "original": {
     "Name": "Where is the Gluteus Maximus muscle located?",
     "Description": "Butt"
    },
-   "note": "wording"
+   "note": "wording; Debate: Challenger's amended wording; replaces the crude bathroom-adjacent card with a clean anatomy question and avoids the circular phrasing."
   },
   {
    "id": "game9-551",
@@ -12496,6 +12496,55 @@
    "Description": "Mount Kosciuszko",
    "action": "add",
    "note": "New card (debate): Reworded to 'mainland' because Australian territory includes the higher Mawson Peak on Heard Island."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Sudan, where the Blue Nile and White Nile meet?",
+   "Description": "Khartoum",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world geography; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which large barrage on the Indus River in Sindh, opened in 1932, irrigates millions of acres?",
+   "Description": "Sukkur Barrage",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani geography; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which mobile operating system, owned by Google, runs most smartphones in Pakistan?",
+   "Description": "Android",
+   "action": "add",
+   "note": "New card (debate): Accurate tech trivia; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which free online encyclopedia, launched in 2001, anyone can edit?",
+   "Description": "Wikipedia",
+   "action": "add",
+   "note": "New card (debate): Accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "The SI unit of magnetic flux density is named after which Serbian-American inventor?",
+   "Description": "Nikola Tesla",
+   "action": "add",
+   "note": "New card (debate): Accurate science card; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Lebanon?",
+   "Description": "Beirut",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world geography; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which social media company, founded by Mark Zuckerberg, owns WhatsApp and Instagram?",
+   "Description": "Meta (formerly Facebook)",
+   "action": "add",
+   "note": "New card (debate): Accurate; social media allowed; no duplicate."
   }
  ]
 }

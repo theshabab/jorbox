@@ -6440,16 +6440,16 @@
   },
   {
    "id": "game8-496",
-   "Name": "Dog person <---> Cat person",
+   "Name": "Chai person <---> Coffee person",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Dog person <---> Cat person",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Local, clearer split than dog/cat."
   },
   {
    "id": "game8-497",
@@ -6908,16 +6908,16 @@
   },
   {
    "id": "game8-532",
-   "Name": "Game <---> Sport",
+   "Name": "Just a game <---> A real sport",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Game <---> Sport",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Game/Sport are not clear opposites; rewrite makes the ends distinct."
   },
   {
    "id": "game8-533",
@@ -7106,13 +7106,13 @@
    "Name": "Important <---> Unimportant",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Important <---> Unimportant",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate; Useful/Useless and Essential/Nonessential remain live."
   },
   {
    "id": "game8-548",
@@ -11046,6 +11046,62 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Relatable household object with a clear scale; distinct from the jugaar pedestal fan card."
+  },
+  {
+   "id": null,
+   "Name": "Worth the traffic <---> Not worth the traffic",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local scale with clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "Tastes better with achar <---> Tastes worse with achar",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Desi food scale, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Good for a picnic <---> Bad for a picnic",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family-friendly, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Fits in a Suzuki <---> Needs a truck",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local size scale with clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "Light sleeper <---> Heavy sleeper",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear opposites, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "CLUMSY <---> GRACEFUL",
+   "Description": "Draw a monster that is this graceful at walking on a tightrope",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fits monster drawing theme, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "CALM <---> COUNTING THE SECONDS",
+   "Description": "Draw a monster that is this impatient waiting for the iftar azan",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: impatience has real opposites, unlike hunger just before iftar."
   }
  ]
 }

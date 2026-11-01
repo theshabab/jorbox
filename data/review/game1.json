@@ -2710,7 +2710,7 @@
   {
    "id": "game1-209",
    "Name": "Donkey",
-   "Description": "Stubborn animal that carries loads",
+   "Description": "Gadha; stubborn animal that carries loads",
    "Category": "Animals",
    "action": "edit",
    "original": {
@@ -2718,7 +2718,7 @@
     "Description": "A working animal",
     "Category": "Animals"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds Urdu word, consistent with nearly all other Animals hints."
   },
   {
    "id": "game1-210",
@@ -2957,7 +2957,7 @@
   {
    "id": "game1-228",
    "Name": "Peacock",
-   "Description": "Bird with colorful fanned tail",
+   "Description": "Mor; bird with colourful fanned tail",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2965,7 +2965,7 @@
     "Description": "A beautiful bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds Urdu word like neighbouring bird cards; British spelling; under 8 words, no card name."
   },
   {
    "id": "game1-229",
@@ -2983,7 +2983,7 @@
   {
    "id": "game1-230",
    "Name": "Rooster",
-   "Description": "Male bird that crows at dawn",
+   "Description": "Murga; male bird that crows at dawn",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2991,12 +2991,12 @@
     "Description": "A male chicken",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Murga is the correct Urdu word and pairs with the Hen card's murghi."
   },
   {
    "id": "game1-231",
    "Name": "Duck",
-   "Description": "Quacking water bird",
+   "Description": "Batakh; quacking water bird",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3004,7 +3004,7 @@
     "Description": "A water bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds Urdu word, consistent with other Birds hints."
   },
   {
    "id": "game1-232",
@@ -3386,7 +3386,7 @@
   {
    "id": "game1-261",
    "Name": "Snooker",
-   "Description": "Cue sport with red and colored balls",
+   "Description": "Cue sport with red and coloured balls",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3394,7 +3394,7 @@
     "Description": "A cue sport",
     "Category": "Sports"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Spelling fix to local usage; hint accurate."
   },
   {
    "id": "game1-262",
