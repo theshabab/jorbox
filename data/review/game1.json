@@ -13384,6 +13384,78 @@
    "Category": "Tools",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Naan",
+   "Description": "Oven-baked flatbread from the tandoor",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kaleji",
+   "Description": "Fried liver, an Eid and Qurbani favourite",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Dera Ghazi Khan",
+   "Description": "Southern Punjab city near the Indus, known as DG Khan",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mianwali",
+   "Description": "Punjab city of the Niazis near Chashma",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Nankana Sahib",
+   "Description": "Birthplace city of Guru Nanak",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Jackfruit",
+   "Description": "Huge spiky fruit also cooked as sabzi (Kathal)",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mosambi",
+   "Description": "Green sweet citrus, popular as juice for the sick",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Ber",
+   "Description": "Small sweet fruit with a stone, also called jujube",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Dragon Fruit",
+   "Description": "Pink cactus fruit with scales (Pitaya)",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }

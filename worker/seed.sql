@@ -1172,6 +1172,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1170','game1','Neelum Valley','River valley of Kashmir with Arang Kel','Nature');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1171','game1','Roti','Round flatbread cooked on a tawa','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1172','game1','Matchbox','Small box of sticks struck to make a flame (Diyasalai)','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1173','game1','Naan','Oven-baked flatbread from the tandoor','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1174','game1','Kaleji','Fried liver, an Eid and Qurbani favourite','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1175','game1','Dera Ghazi Khan','Southern Punjab city near the Indus, known as DG Khan','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1176','game1','Mianwali','Punjab city of the Niazis near Chashma','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1177','game1','Nankana Sahib','Birthplace city of Guru Nanak','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1178','game1','Jackfruit','Huge spiky fruit also cooked as sabzi (Kathal)','Fruits');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1179','game1','Mosambi','Green sweet citrus, popular as juice for the sick','Fruits');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1180','game1','Ber','Small sweet fruit with a stone, also called jujube','Fruits');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1181','game1','Dragon Fruit','Pink cactus fruit with scales (Pitaya)','Fruits');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
