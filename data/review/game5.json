@@ -86326,7 +86326,7 @@
   {
    "id": "game5-6641",
    "Name": "",
-   "Description": "Remember kids: if it doesn’t have ____, it’s not anime!",
+   "Description": "Remember kids: if it doesn’t have ____, it’s not a proper cartoon!",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -86334,7 +86334,7 @@
     "Description": "Remember kids: if it doesn’t have <BLANK>, it’s not anime!",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Anime is pop culture; cartoon frame keeps the joke."
   },
   {
    "id": "game5-6642",
@@ -86404,7 +86404,7 @@
   {
    "id": "game5-6647",
    "Name": "",
-   "Description": "My trap is fiendishly simple, Mr. Bond! Once I pull this lever, the floor will become ____",
+   "Description": "My trap is fiendishly simple, Inspector! Once I pull this lever, the floor will become ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -86412,7 +86412,7 @@
     "Description": "My trap is fiendishly simple, Mr. Bond! Once I pull this lever, the floor will become <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Removes film reference."
   },
   {
    "id": "game5-6648",
@@ -86573,7 +86573,7 @@
   {
    "id": "game5-6660",
    "Name": "",
-   "Description": "The coolest kid in middle school is always the one wearing ____",
+   "Description": "The coolest kid in school is always the one wearing ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -86581,7 +86581,7 @@
     "Description": "The coolest kid in middle school is always the one wearing <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: US-specific middle school."
   },
   {
    "id": "game5-6661",
@@ -86703,7 +86703,7 @@
   {
    "id": "game5-6670",
    "Name": "",
-   "Description": "The shrimp boat captain never worked again after accidentally catching ____ in his net",
+   "Description": "The fisherman never worked again after accidentally catching ____ in his net",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -86711,12 +86711,12 @@
     "Description": "The shrimp boat captain never worked again after accidentally catching <BLANK> in his net",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: US-flavoured shrimp boat."
   },
   {
    "id": "game5-6671",
    "Name": "",
-   "Description": "Finish the rhyme: “Roses are red, violets are blue, I got you this card, ____”",
+   "Description": "Finish the rhyme: “Roses are red, violets are blue, I made you chai, ____”",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -86724,7 +86724,7 @@
     "Description": "Finish the rhyme: “Roses are red, violets are blue, I got you this card, <BLANK>”",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Removes Valentine card framing."
   },
   {
    "id": "game5-6672",
@@ -87171,7 +87171,7 @@
   {
    "id": "game5-6706",
    "Name": "",
-   "Description": "Oddly enough, the Tour de France takes a tiny detour through ____",
+   "Description": "Oddly enough, the Lahore-to-Islamabad motorway takes a tiny detour through ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -87179,7 +87179,7 @@
     "Description": "Oddly enough, the Tour de France takes a tiny detour through <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Local frame for obscure Tour de France."
   },
   {
    "id": "game5-6707",
@@ -87197,15 +87197,15 @@
   {
    "id": "game5-6708",
    "Name": "",
-   "Description": "The best way to “dress up” a pair of cargo shorts",
+   "Description": "The best way to “dress up” a pair of old chappals",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The best way to “dress up” a pair of cargo shorts",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Western cargo shorts to chappals."
   },
   {
    "id": "game5-6709",
@@ -87418,15 +87418,15 @@
   {
    "id": "game5-6725",
    "Name": "",
-   "Description": "A gift your stepdad really tried his best on... so be nice",
+   "Description": "A gift your Chacha really tried his best on... so be nice",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A gift your stepdad really tried his best on... so be nice",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local relative instead of stepdad."
   },
   {
    "id": "game5-6726",
@@ -87509,15 +87509,15 @@
   {
    "id": "game5-6732",
    "Name": "",
-   "Description": "OMG. Seriously. Where is Waldo???",
+   "Description": "OMG. Seriously. Where is my phone charger???",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "OMG. Seriously. Where is Waldo???",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes Waldo; challenger's amendment avoids a third chappal card."
   },
   {
    "id": "game5-6733",
@@ -87691,7 +87691,7 @@
   {
    "id": "game5-6746",
    "Name": "",
-   "Description": "Honestly, ____ might as well be a curse word",
+   "Description": "Honestly, ____ is the worst word in the dictionary",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -87699,7 +87699,7 @@
     "Description": "Honestly, <BLANK> might as well be a curse word",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Avoids inviting profanity."
   },
   {
    "id": "game5-6747",
@@ -87756,7 +87756,7 @@
   {
    "id": "game5-6751",
    "Name": "",
-   "Description": "Did you know that (insert name) founded the ____ Club in high school?",
+   "Description": "Did you know that (insert name) founded the ____ Club at school?",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -87764,7 +87764,7 @@
     "Description": "Did you know that <ANYPLAYER> founded the <BLANK> Club in high school?",
     "Category": "Quiplash"
    },
-   "note": "blank token; name placeholder"
+   "note": "blank token; name placeholder; Debate: US-specific high school."
   },
   {
    "id": "game5-6752",
@@ -88055,7 +88055,7 @@
   {
    "id": "game5-6774",
    "Name": "",
-   "Description": "One thing someone could whisper in your ear to win you over forever",
+   "Description": "One thing a stranger could say to make you hand over your last samosa",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -88063,7 +88063,7 @@
     "Description": "One thing someone could whisper in your ear to win your heart forever",
     "Category": "Quiplash"
    },
-   "note": "romance removed"
+   "note": "romance removed; Debate: Removes romantic whispering."
   },
   {
    "id": "game5-6775",
@@ -88328,7 +88328,7 @@
   {
    "id": "game5-6795",
    "Name": "",
-   "Description": "There is a famous assassin who shows no mercy. They call her ____",
+   "Description": "There is a famous fast bowler who shows no mercy to batsmen. They call him ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -88336,7 +88336,7 @@
     "Description": "There is a famous assassin who shows no mercy. They call her <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Assassin framing replaced by cricket."
   },
   {
    "id": "game5-6796",
@@ -88380,15 +88380,15 @@
   {
    "id": "game5-6799",
    "Name": "",
-   "Description": "“She’s a cop. He’s a celebrity chef! This summer they’re...”",
+   "Description": "“He’s a traffic warden. She’s a mithai-maker! This Ramzan on TV, they’re...”",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "“She’s a cop. He’s a celebrity chef! This summer they’re...”",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Localised from Western cop/chef trailer."
   },
   {
    "id": "game5-6800",
@@ -88640,7 +88640,7 @@
   {
    "id": "game5-6819",
    "Name": "",
-   "Description": "“Honey, wasn’t it weirdly unsettling how the babysitter ____?”",
+   "Description": "“Sunno, wasn’t it weirdly unsettling how the new chowkidar ____?”",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -88648,7 +88648,7 @@
     "Description": "“Honey, wasn’t it weirdly unsettling how the babysitter <BLANK>?”",
     "Category": "Quiplash"
    },
-   "note": "blank token/formatting"
+   "note": "blank token/formatting; Debate: Localised babysitter; challenger's version avoids duplicating tuition teacher cards."
   },
   {
    "id": "game5-6820",
@@ -88731,15 +88731,15 @@
   {
    "id": "game5-6826",
    "Name": "",
-   "Description": "The name for a cruise ship that only caters to single aunts",
+   "Description": "The name for a cruise ship that only caters to chatty aunties",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The name for a cruise ship that only caters to single aunts",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes singles/dating hint."
   },
   {
    "id": "game5-6827",
@@ -89043,15 +89043,15 @@
   {
    "id": "game5-6850",
    "Name": "",
-   "Description": "Name for a sleepover prank that is a little too cruel",
+   "Description": "Name for a sleepover prank that is silly but harmless",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Name for a sleepover prank that is a little too cruel",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes invitation to cruelty."
   },
   {
    "id": "game5-6851",
@@ -89329,7 +89329,7 @@
   {
    "id": "game5-6872",
    "Name": "",
-   "Description": "The perfect adventuring party includes a fighter, a healer, and a ____",
+   "Description": "The perfect adventure team includes a fighter, a healer, and a ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -89337,7 +89337,7 @@
     "Description": "The perfect adventuring party includes a fighter, a wizard, and a <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "wizard removed"
+   "note": "wizard removed; Debate: RPG party frame invites wizard/magic answers."
   },
   {
    "id": "game5-6873",
@@ -89591,13 +89591,13 @@
    "Name": "",
    "Description": "A polite way to weaken the aristocracy",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "A polite way to weaken the aristocracy",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Obscure, unclear, no local hook."
   },
   {
    "id": "game5-6893",
@@ -89654,15 +89654,15 @@
   {
    "id": "game5-6897",
    "Name": "",
-   "Description": "What actually happens to that uneaten half of a donut in the office break room?",
+   "Description": "What actually happens to that uneaten half of a samosa in the office pantry?",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What actually happens to that uneaten half of a donut in the office break room?",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local food and setting, same joke."
   },
   {
    "id": "game5-6898",
@@ -90163,13 +90163,13 @@
    "Name": "",
    "Description": "Something Andy Warhol would have painted today, probably",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Something Andy Warhol would have painted today, probably",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Obscure Western art reference, unfixable."
   },
   {
    "id": "game5-6937",
@@ -90605,13 +90605,13 @@
    "Name": "",
    "Description": "Instead of on-hold music, companies should offer callers ____",
    "Category": "Quiplash",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Instead of on-hold music, companies should offer callers <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token/formatting"
+   "note": "Debate: Music not allowed, and a rewrite would duplicate live card game5-6270 (confirmed action keep)."
   },
   {
    "id": "game5-6971",
@@ -90967,7 +90967,7 @@
   {
    "id": "game5-6998",
    "Name": "",
-   "Description": "There’s limited space in the bomb shelter but your friend insisted on bringing ____",
+   "Description": "There’s very limited space in the car for the family trip, but your friend insisted on bringing ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -90975,7 +90975,7 @@
     "Description": "There’s limited space in the bomb shelter but <ANYPLAYER> insisted on bringing <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "player token"
+   "note": "player token; Debate: Removes war/shelter frame, keeps packing joke."
   },
   {
    "id": "game5-6999",
@@ -91019,7 +91019,7 @@
   {
    "id": "game5-7002",
    "Name": "",
-   "Description": "I want to go as (insert name) for Basant, but I don’t have ____",
+   "Description": "I want to go as (insert name) for fancy-dress day at school, but I don’t have ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -91027,7 +91027,7 @@
     "Description": "I want to go as <ANYPLAYER> for Basant, but I don’t have <BLANK>",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Natural school frame instead of odd Basant costume."
   },
   {
    "id": "game5-7003",
@@ -91073,13 +91073,13 @@
    "Name": "",
    "Description": "What’s the hardest part of fighting a killer doll?",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What’s the hardest part of fighting a killer doll?",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Horror-film violence frame, invites violent answers."
   },
   {
    "id": "game5-7007",
@@ -91136,7 +91136,7 @@
   {
    "id": "game5-7011",
    "Name": "",
-   "Description": "The landmark Supreme Court decision of 2045: My Wife v. ____",
+   "Description": "The landmark court case of 2045: Biwi v. ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -91144,7 +91144,7 @@
     "Description": "The landmark Supreme Court decision of 2045: My Wife v. <BLANK>",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes US-centric Supreme Court, keeps format."
   },
   {
    "id": "game5-7012",
@@ -91370,15 +91370,15 @@
   {
    "id": "game5-7029",
    "Name": "",
-   "Description": "A terrible slogan for ravioli",
+   "Description": "A terrible slogan for nihari",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A terrible slogan for ravioli",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local dish instead of ravioli; no live nihari-slogan card."
   },
   {
    "id": "game5-7030",
@@ -91476,13 +91476,13 @@
    "Name": "",
    "Description": "The opposite of music",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The opposite of music",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Music not allowed and prompt is vague."
   },
   {
    "id": "game5-7038",
@@ -91968,15 +91968,15 @@
   {
    "id": "game5-7075",
    "Name": "",
-   "Description": "What new rule would make MMA safer?",
+   "Description": "What new rule would make kabaddi safer?",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What new rule would make MMA safer?",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local sport replaces MMA."
   },
   {
    "id": "game5-7076",
@@ -92007,15 +92007,15 @@
   {
    "id": "game5-7078",
    "Name": "",
-   "Description": "A Shakespeare play written specifically for accountants",
+   "Description": "A drama serial written specifically for accountants",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A Shakespeare play written specifically for accountants",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local frame replaces Shakespeare."
   },
   {
    "id": "game5-7079",
@@ -92475,7 +92475,7 @@
   {
    "id": "game5-7114",
    "Name": "",
-   "Description": "It’s just a matter of time before someone goes through (insert name)’s phone and finds ____",
+   "Description": "It’s just a matter of time before someone goes through (insert name)’s school bag and finds ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -92483,7 +92483,7 @@
     "Description": "It’s just a matter of time before someone goes through <ANYPLAYER>’s phone and finds <BLANK>",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Matches the deck's existing phone to school bag rewrites and avoids crude answers."
   },
   {
    "id": "game5-7115",
@@ -93671,15 +93671,15 @@
   {
    "id": "game5-7206",
    "Name": "",
-   "Description": "The three things you’d immediately do if you inherited one billion dollars",
+   "Description": "The three things you’d immediately do if you inherited one billion rupees",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The three things you’d immediately do if you inherited one billion dollars",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local currency instead of dollars."
   },
   {
    "id": "game5-7207",
@@ -93762,7 +93762,7 @@
   {
    "id": "game5-7213",
    "Name": "",
-   "Description": "The next three characters they should add to Super Smash Bros. are ____, ____, and ____",
+   "Description": "The next three characters they should add to a cricket video game are ____, ____, and ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -93770,7 +93770,7 @@
     "Description": "The next three characters they should add to <i>Super Smash Bros.</i> are <BLANK>, <BLANK>, and <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blanks; removed HTML"
+   "note": "blanks; removed HTML; Debate: Replaces US-centric Smash Bros; video games allowed."
   },
   {
    "id": "game5-7214",
@@ -93957,28 +93957,28 @@
   {
    "id": "game5-7228",
    "Name": "",
-   "Description": "The three steps required to bake the worst loaf of bread",
+   "Description": "The three steps required to make the worst roti",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The three steps required to bake the worst loaf of bread",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Roti is the local staple."
   },
   {
    "id": "game5-7229",
    "Name": "",
-   "Description": "Three ways to take your next book club meeting up a notch",
+   "Description": "Three ways to take your next khandaan get-together up a notch",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three ways to take your next book club meeting up a notch",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local frame instead of book club."
   },
   {
    "id": "game5-7230",
@@ -94074,15 +94074,15 @@
   {
    "id": "game5-7237",
    "Name": "",
-   "Description": "The three golden rules of the trampoline gym",
+   "Description": "The three golden rules of gully cricket",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The three golden rules of the trampoline gym",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local frame instead of trampoline gym."
   },
   {
    "id": "game5-7238",
@@ -94308,15 +94308,15 @@
   {
    "id": "game5-7255",
    "Name": "",
-   "Description": "Three things a cowboy would say besides “Howdy”",
+   "Description": "Three things a pehlwan would say besides “Aao, muqabla karo”",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three things a cowboy would say besides “Howdy”",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Replaces US cowboy."
   },
   {
    "id": "game5-7256",
@@ -94464,15 +94464,15 @@
   {
    "id": "game5-7267",
    "Name": "",
-   "Description": "The three lamest super powers would be...",
+   "Description": "The three lamest superpowers would be...",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The three lamest super powers would be...",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Spelling fix."
   },
   {
    "id": "game5-7268",
@@ -94685,7 +94685,7 @@
   {
    "id": "game5-7284",
    "Name": "",
-   "Description": "Three things you'll find at a royal palace's yard sale",
+   "Description": "Three things you'll find at a royal palace's raddi sale",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -94693,7 +94693,7 @@
     "Description": "Three things you’ll find at the Queen’s yard sale",
     "Category": "Quiplash"
    },
-   "note": "avoid real public figure"
+   "note": "avoid real public figure; Debate: Yard sale is a US concept."
   },
   {
    "id": "game5-7285",
@@ -94958,15 +94958,15 @@
   {
    "id": "game5-7305",
    "Name": "",
-   "Description": "Three ways of perking yourself up when coffee isn’t enough",
+   "Description": "Three ways of perking yourself up when chai isn’t enough",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three ways of perking yourself up when coffee isn’t enough",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local frame."
   },
   {
    "id": "game5-7306",
@@ -95116,13 +95116,13 @@
    "Name": "",
    "Description": "Three things that’ll make you grunt",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Three things that’ll make you grunt",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Unclear prompt that invites crude answers."
   },
   {
    "id": "game5-7318",
@@ -95296,15 +95296,15 @@
   {
    "id": "game5-7331",
    "Name": "",
-   "Description": "Three things you’d change about Superman to make him more relatable",
+   "Description": "Three things you’d change about a superhero to make him more relatable",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three things you’d change about Superman to make him more relatable",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes Western character, keeps joke."
   },
   {
    "id": "game5-7332",
@@ -102365,6 +102365,142 @@
    "Category": "Quiplash",
    "action": "add",
    "note": "New card (debate): Distinct from fill-in tuition cards"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A carrom board rule that only exists in my family: ____",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Clean, local, no carrom card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The gola ganda wala has a secret flavour called ____",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Clean local street-food prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A cousin’s kabaddi team name that scared everyone before the match",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Clean, easy to answer, not a duplicate of the P10 safety-rule card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Every steel almirah has a secret corner where Dadi hides ____",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): New local household prompt, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A terrible name for a new gol gappay thela",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Street-food naming prompt; differs from existing gol gappay card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The sentence that makes every Pakistani guest stand up and leave: “Sorry, we only have ____”",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Hospitality humour, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The old washing machine has one button nobody dares press: the one marked ____",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Replaces AC remote idea, which a live card already covers."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The polythene bag in Ammi's kitchen drawer is never empty. Today it contains ____",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Relatable desi household joke."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What the uncle with the only umbrella at the bus stop says when it starts raining",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Clearer version of umbrella uncle prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things the WhatsApp family group is guaranteed to forward at 6 AM",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Local, relatable, distinct three-item format."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three bargaining lines every shopper uses at the sabzi mandi",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Local and distinct from the single-answer mandi card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things Dadi says when she sees your new haircut",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Family humour, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three excuses for arriving two hours late to a wedding",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Relatable local theme."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things every uncle shouts at the TV during a Pakistan cricket match",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Local cricket humour, distinct."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things you should never promise your mother while she is on the phone",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Distinct angle and format from the single-blank mother card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things that always go missing right before you leave for a family trip",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Relatable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things a chappal can be used for besides walking",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Distinct angle from existing chappal fill-ins; light family humour."
   }
  ]
 }
