@@ -404,7 +404,7 @@ Bangle,Choori | Wrist | Glass | Kangan | Mehndi,Jewelry
 Earring,Bali | Lobe | Jhumka | Pierce | Stud,Jewelry
 Nose Pin,Nath | Laung | Koka | Pierce | Bride,Jewelry
 Anklet,Payal | Ankle | Foot | Silver | Bells,Jewelry
-Bracelet,Wrist | Kara | Hand | Chain | Charm,Jewelry
+Bracelet,Wrist | Hand | Chain | Charm | Gold,Jewelry
 Chain,Zanjeer | Neck | Links | Gold | Lock,Jewelry
 Locket,Pendant | Photo | Open | Neck | Heart,Jewelry
 Tiara,Princess | Head | Crown | Bride | Queen,Jewelry
@@ -460,7 +460,7 @@ Printer,Paper | Ink | Copy | Office | Cartridge,Electronics
 Scanner,Document | PDF | Barcode | Copy | Glass,Electronics
 Fan,Pankha | Ceiling | Air | Spin | Garmi,Electronics
 AC,Air Conditioner | Cold | Cool | Summer | Bill,Electronics
-Heater,Garam | Winter | Gas | Cold | Electric,Electronics
+Heater,Garam | Winter | Gas | Warm | Electric,Electronics
 Fridge,Refrigerator | Cold | Freezer | Ice | Kitchen,Electronics
 Oven,Bake | Cake | Kitchen | Hot | Pizza,Electronics
 Microwave,Heat | Beep | Leftovers | Popcorn | Kitchen,Electronics
@@ -1207,3 +1207,11 @@ Sticky Notes,Paper | Yellow | Reminder | Desk | Peel,Stationery
 Lavender,Purple | Flower | Pale | Violet | Smell,Colors
 Knuckle,Finger | Fist | Crack | Joint | Hand,Body Parts
 Throat,Gala | Swallow | Sore | Voice | Lozenge,Body Parts
+Hail,Olay | Ice | Stones | Storm | Crop,Nature
+Canyon,Valley | Cliff | Deep | Gorge | River,Nature
+Bamboo,Baans | Panda | Stick | Tall | Green,Nature
+Coral,Reef | Sea | Fish | Colourful | Underwater,Nature
+Pebble,Small | Stone | River | Smooth | Throw,Nature
+Plough,Hal | Farmer | Field | Bull | Soil,Tools
+Light Bulb,Bijli | Switch | Glow | Fuse | Room,Electronics
+Plug,Socket | Pin | Wire | Switch | Charger,Electronics

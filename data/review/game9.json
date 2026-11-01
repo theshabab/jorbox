@@ -13196,6 +13196,34 @@
    "Description": "Religious minorities",
    "action": "add",
    "note": "New card (debate): Correct civics fact, not covered elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "In which year did Pakistan win the ICC Champions Trophy?",
+   "Description": "2017",
+   "action": "add",
+   "note": "New card (debate): Accurate (beat India at The Oval), no duplicate, locally relevant."
+  },
+  {
+   "id": null,
+   "Name": "Which school of Islamic jurisprudence (fiqh) is followed by most Sunni Muslims in Pakistan?",
+   "Description": "Hanafi school (founded by Imam Abu Hanifa)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment removes the answer giveaway and adds the Sunni qualifier."
+  },
+  {
+   "id": null,
+   "Name": "Which great scholar wrote the book Ihya Ulum al-Din (The Revival of the Religious Sciences)?",
+   "Description": "Imam al-Ghazali",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Prophet was the son of Prophet Zakariya (AS)?",
+   "Description": "Yahya (AS)",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
   }
  ]
 }

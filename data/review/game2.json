@@ -5557,7 +5557,7 @@
   {
    "id": "game2-428",
    "Name": "Bracelet",
-   "Description": "Wrist | Kara | Hand | Chain | Charm",
+   "Description": "Wrist | Hand | Chain | Charm | Gold",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5565,7 +5565,7 @@
     "Description": "gold | wear | shiny | precious",
     "Category": "Jewelry"
    },
-   "note": ""
+   "note": "Debate: Challenger's Gold amendment: avoids Band's music-band reading and the less clear Kara hint"
   },
   {
    "id": "game2-429",
@@ -6324,7 +6324,7 @@
   {
    "id": "game2-487",
    "Name": "Heater",
-   "Description": "Garam | Winter | Gas | Cold | Electric",
+   "Description": "Garam | Winter | Gas | Warm | Electric",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6332,7 +6332,7 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": "Debate: Warm and Garam are the same clue in mixed English/Urdu; Electric is a natural ban."
+   "note": "Debate: Warm and Garam are the same clue in mixed English/Urdu; Electric is a natural ban.; Debate: Cold is a misleading banned word for a heater; Warm is natural"
   },
   {
    "id": "game2-488",
@@ -13727,6 +13727,70 @@
    "Category": "Body Parts",
    "action": "add",
    "note": "New card (debate): Common body part; hints avoid overlap with the Neck card"
+  },
+  {
+   "id": null,
+   "Name": "Hail",
+   "Description": "Olay | Ice | Stones | Storm | Crop",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Not in deck; challenger's amendment adds the local Roman Urdu hint Olay"
+  },
+  {
+   "id": null,
+   "Name": "Canyon",
+   "Description": "Valley | Cliff | Deep | Gorge | River",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): New landform, accurate hints, no duplicate"
+  },
+  {
+   "id": null,
+   "Name": "Bamboo",
+   "Description": "Baans | Panda | Stick | Tall | Green",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): New plant, accurate hints with local word"
+  },
+  {
+   "id": null,
+   "Name": "Coral",
+   "Description": "Reef | Sea | Fish | Colourful | Underwater",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): New sea item, accurate hints"
+  },
+  {
+   "id": null,
+   "Name": "Pebble",
+   "Description": "Small | Stone | River | Smooth | Throw",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Distinct from Rock; Stone card is removed so no clash"
+  },
+  {
+   "id": null,
+   "Name": "Plough",
+   "Description": "Hal | Farmer | Field | Bull | Soil",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Core Pakistani farming tool, not in deck, distinct from Hoe/Sickle"
+  },
+  {
+   "id": null,
+   "Name": "Light Bulb",
+   "Description": "Bijli | Switch | Glow | Fuse | Room",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Everyday item, not a duplicate of Lamp"
+  },
+  {
+   "id": null,
+   "Name": "Plug",
+   "Description": "Socket | Pin | Wire | Switch | Charger",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Everyday, easily acted word, not in deck"
   }
  ]
 }

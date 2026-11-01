@@ -40542,13 +40542,13 @@
    "Name": "",
    "Description": "If you enjoy ____, it's because you are weak, your bloodline is weak, and you will not survive the winter.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "If you enjoy ____, it's because you are weak, your bloodline is weak, and you will not survive the winter.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Cruel, insulting meme tone."
   },
   {
    "id": "game5-3120",
@@ -40917,7 +40917,7 @@
   {
    "id": "game5-3148",
    "Name": "",
-   "Description": "Ill-advised fancy dress costume idea: ____.",
+   "Description": "Ill-advised costume idea for the school fancy dress day: ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -40925,7 +40925,7 @@
     "Description": "Ill-advised Fancy Dress costume concept:",
     "Category": ""
    },
-   "note": "added blank"
+   "note": "added blank; Debate: Clearer, family-friendly setting."
   },
   {
    "id": "game5-3149",
@@ -41411,15 +41411,15 @@
   {
    "id": "game5-3186",
    "Name": "",
-   "Description": "In Adiala Jail, word is you can trade 200 cigarettes for ____.",
+   "Description": "In Adiala Jail, word is you can trade 200 biscuit packets for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In Adiala Jail, word is you can trade 200 cigarettes for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Cigarettes are drug-adjacent; biscuits keep the prison-trade joke."
   },
   {
    "id": "game5-3187",
@@ -41504,13 +41504,13 @@
    "Name": "",
    "Description": "In exchange for safe passage, Lyari gangs are now bribing Seaman with ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "In exchange for safe passage, Lyari gangs are now bribing Seaman with ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Gang crime, obscure reference, unfixable."
   },
   {
    "id": "game5-3194",
@@ -41725,13 +41725,13 @@
    "Name": "",
    "Description": "In his youth, Allama Iqbal struggled with ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "In his youth, Allama Iqbal struggled with ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites mocking a revered national figure."
   },
   {
    "id": "game5-3211",
@@ -42698,15 +42698,15 @@
   {
    "id": "game5-3285",
    "Name": "",
-   "Description": "In this paper, I will explore ____ from a feminist perspective.",
+   "Description": "In this paper, I will explore ____ from a Pakistani auntie's perspective.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "In this paper, I will explore ____ from a feminist perspective.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local and funnier frame."
   },
   {
    "id": "game5-3286",
@@ -43244,7 +43244,7 @@
   {
    "id": "game5-3327",
    "Name": "",
-   "Description": "India's new \"state-of-the-art\" drone is basically a flying vacuum cleaner that uses ____ as its main weapon.",
+   "Description": "The army's new \"state-of-the-art\" drone is basically a flying vacuum cleaner that uses ____ as its main weapon.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -43252,7 +43252,7 @@
     "Description": "India's new \"state of the art\" drone is basically a hang gliding Roomba® that uses ____ as its main weapon system.",
     "Category": ""
    },
-   "note": "removed brand"
+   "note": "removed brand; Debate: Removes jab at another country; army in-jokes allowed."
   },
   {
    "id": "game5-3328",
@@ -43428,13 +43428,13 @@
    "Name": "",
    "Description": "It didn't take long before ____ replaced Quaid-e-Azam on the 1000-rupee note.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "It didn't take long before ____ replaed Quaid-e-Azam on the 1000 rupee note.",
     "Category": ""
    },
-   "note": "typo"
+   "note": "Debate: Disrespectful to the founder of Pakistan."
   },
   {
    "id": "game5-3342",
@@ -44102,15 +44102,15 @@
   {
    "id": "game5-3393",
    "Name": "",
-   "Description": "It's like ____ in a round hole.",
+   "Description": "It's like trying to fit ____ into a very small suitcase.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "It's like ____ in a round hole.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Original is a classic innuendo setup; rewrite keeps the idea cleanly."
   },
   {
    "id": "game5-3394",
@@ -44219,7 +44219,7 @@
   {
    "id": "game5-3402",
    "Name": "",
-   "Description": "It's one thing to have a cat stare at you while you're eating; it's another to be stared at while ____.",
+   "Description": "It's one thing to have a cat stare at you while you're eating; it's another to be stared at while ____ in front of the whole family.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -44227,7 +44227,7 @@
     "Description": "It's one thing to have their cat stare at you while you're eating, It's another to be stared at while ____.",
     "Category": ""
    },
-   "note": "Grammar"
+   "note": "Grammar; Debate: Family setting steers answers away from toilet jokes."
   },
   {
    "id": "game5-3403",
@@ -104885,6 +104885,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Distinct, clean, local angle (talent rather than weakness)."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "It's 3 a.m. and Ammi has just woken everyone up to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable family prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nana Abu just forwarded a very long message to the family WhatsApp group about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable family prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "In school, the Urdu teacher punished the whole class for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): School-days prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "It's impossible to say no when Khala offers ____ for the fifth time.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Hospitality joke, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "If Abbu's old car could talk, it would complain about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "In every Pakistani house, the drawing room is kept locked to protect ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended, more accurate wording."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "If you ever visit Hunza, don't leave without trying ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Travel prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "If the guest of honour arrives two hours late, the dawat will begin with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Dawat prompt, no duplicate."
   }
  ]
 }
