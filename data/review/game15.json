@@ -31189,10 +31189,10 @@
   {
    "id": null,
    "Name": "Barcelona, Spain",
-   "Description": "1971 - the first ever Hockey World Cup",
+   "Description": "1971 - Pakistan beat Spain 1-0 in the final of the first ever Hockey World Cup",
    "Category": "Pakistan's Hockey World Cup Wins (Chronological)",
    "action": "add",
-   "note": "New card (debate): Verified: Pakistan won the first World Cup in Barcelona, 1971."
+   "note": "New card (debate): Verified: Pakistan won the first World Cup in Barcelona, 1971.; Debate: Matches the other three cards by stating the opponent and result. Facts are correct."
   },
   {
    "id": null,
@@ -31889,6 +31889,86 @@
    "Category": "Making Chai (Step by Step)",
    "action": "add",
    "note": "New card (debate): Valid final step"
+  },
+  {
+   "id": null,
+   "Name": "Pakistan Day",
+   "Description": "23 March - Lahore Resolution of 1940",
+   "Category": "Pakistan's National Days (Calendar Order)",
+   "action": "add",
+   "note": "New card (debate): Correct date, local content, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Youm-e-Takbeer",
+   "Description": "28 May - Pakistan's nuclear tests at Chagai, 1998",
+   "Category": "Pakistan's National Days (Calendar Order)",
+   "action": "add",
+   "note": "New card (debate): Correct date, local content."
+  },
+  {
+   "id": null,
+   "Name": "Independence Day",
+   "Description": "14 August - Pakistan's independence, 1947",
+   "Category": "Pakistan's National Days (Calendar Order)",
+   "action": "add",
+   "note": "New card (debate): Correct date."
+  },
+  {
+   "id": null,
+   "Name": "Defence Day",
+   "Description": "6 September - remembers the 1965 war",
+   "Category": "Pakistan's National Days (Calendar Order)",
+   "action": "add",
+   "note": "New card (debate): Correct date."
+  },
+  {
+   "id": null,
+   "Name": "Quaid-e-Azam Day",
+   "Description": "25 December - birthday of Muhammad Ali Jinnah",
+   "Category": "Pakistan's National Days (Calendar Order)",
+   "action": "add",
+   "note": "New card (debate): Correct date and last in calendar order. The description names Jinnah, so it is not Christmas content."
+  },
+  {
+   "id": null,
+   "Name": "Right Atrium",
+   "Description": "1st - receives oxygen-poor blood from the body",
+   "Category": "Path of Blood Through the Heart (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct first step. The heart is not covered elsewhere in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Right Ventricle",
+   "Description": "2nd - pumps blood to the lungs",
+   "Category": "Path of Blood Through the Heart (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct second step."
+  },
+  {
+   "id": null,
+   "Name": "Lungs",
+   "Description": "3rd - blood picks up oxygen and drops carbon dioxide",
+   "Category": "Path of Blood Through the Heart (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct third step, and a simple one for players."
+  },
+  {
+   "id": null,
+   "Name": "Left Atrium",
+   "Description": "4th - receives oxygen-rich blood from the lungs",
+   "Category": "Path of Blood Through the Heart (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct fourth step."
+  },
+  {
+   "id": null,
+   "Name": "Left Ventricle",
+   "Description": "5th - the strongest chamber, pumps blood to the whole body",
+   "Category": "Path of Blood Through the Heart (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct final step."
   }
  ]
 }

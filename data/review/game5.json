@@ -34263,13 +34263,13 @@
    "Name": "",
    "Description": "I like my ____ how I like my ____: ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I like my ____ how I like my ____: ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Well-known innuendo template; the chai variant (2636) already covers the idea."
   },
   {
    "id": "game5-2637",
@@ -34378,7 +34378,7 @@
   {
    "id": "game5-2645",
    "Name": "",
-   "Description": "I like to have fun… and by fun I mean ____.",
+   "Description": "I like to relax after a long day by ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -34386,7 +34386,7 @@
     "Description": "I like to party… and by party I mean ____.",
     "Category": ""
    },
-   "note": "Party replaced"
+   "note": "Party replaced; Debate: Challenger amendment: drops the 'and by X I mean' euphemism frame entirely."
   },
   {
    "id": "game5-2646",
@@ -34625,28 +34625,28 @@
   {
    "id": "game5-2664",
    "Name": "",
-   "Description": "I love you more than ____.",
+   "Description": "I love Ammi's cooking more than ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I love you more than ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the bare romantic framing with a family one and keeps the joke."
   },
   {
    "id": "game5-2665",
    "Name": "",
    "Description": "I love you to the ____ and back.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I love you to the ____ and back.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Weak prompt with a near-fixed answer and a romantic cliche."
   },
   {
    "id": "game5-2666",
@@ -34911,15 +34911,15 @@
   {
    "id": "game5-2686",
    "Name": "",
-   "Description": "I never thought there would be a Social Studies chapter about ____.",
+   "Description": "I never thought there would be a Pakistan Studies chapter about ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I never thought there would be a Social Studies chapter about ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the US-centric 'Social Studies' with the local subject."
   },
   {
    "id": "game5-2687",
@@ -35600,15 +35600,15 @@
   {
    "id": "game5-2739",
    "Name": "",
-   "Description": "I spent all my hazard pay on ____.",
+   "Description": "I spent my whole Eid bonus on ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I spent all my hazard pay on ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Hazard pay' is a Western term; Eid bonus is a local custom."
   },
   {
    "id": "game5-2740",
@@ -35834,15 +35834,15 @@
   {
    "id": "game5-2757",
    "Name": "",
-   "Description": "I think I need to take Fluffums to puppy training: he has this terrible habit of ____.",
+   "Description": "I think I need to take my parrot Mitthu to a trainer: he has this terrible habit of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I think I need to take Fluffums to puppy training: he has this terrible habit of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: a parrot is a more natural Pakistani pet to train than a cat, and avoids the dog-wariness issue."
   },
   {
    "id": "game5-2758",
@@ -36109,13 +36109,13 @@
    "Name": "",
    "Description": "I tried ____ and to my surprise, I didn't hate it.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I tried ____ and to my surprise, I didn't hate it.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of live idx 2608 (game5-2609, action edit)."
   },
   {
    "id": "game5-2779",
@@ -104829,6 +104829,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Challenger's tightened wording."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I failed my driving test because the examiner saw me ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable local scenario, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The bhutta wala by the roadside swears his secret masala contains ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Street-food prompt; no roasted-corn card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The hotel manager gave me a free room upgrade after I told him ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: a hotel upgrade is coherent, a restaurant upgrade is not."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I found ____ hidden in the back of Ammi's fridge, labelled 'DO NOT TOUCH'.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from the existing fridge cards and relatable."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I volunteered to teach the class, but I only know how to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean open-ended prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I paid a boy Rs. 50 to guard my bike, and when I came back it was guarded by ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local parking-guard humour, clean and not a duplicate."
   }
  ]
 }
