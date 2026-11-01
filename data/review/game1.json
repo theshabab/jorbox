@@ -13168,6 +13168,78 @@
    "Category": "Nature",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Candle",
+   "Description": "Wax stick with a wick, lit during power cuts",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Lantern",
+   "Description": "Handheld oil lamp with a glass shade (Laltain)",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Stethoscope",
+   "Description": "Doctor's listening device hung on the neck",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Helmet",
+   "Description": "Hard head protection for bike riders",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Bridge",
+   "Description": "Structure that carries a road over a river (Pul)",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Minaret",
+   "Description": "Tall tower of a mosque from which azan is called",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Madrasa",
+   "Description": "School where students learn Quran and hifz",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Khandaq",
+   "Description": "Trench dug around Madinah in a famous siege",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Soap",
+   "Description": "Foamy bar used to wash hands",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
