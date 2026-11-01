@@ -26840,13 +26840,13 @@
    "Name": "",
    "Description": "For my turn, I will spend four gold and allocate all three workers to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "For my turn, I will spend four gold and allocate all three workers to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Obscure board-game reference; challenger corrected idx to 2064 (verified; 2063 is the rishta card)."
   },
   {
    "id": "game5-2066",
@@ -26877,15 +26877,15 @@
   {
    "id": "game5-2068",
    "Name": "",
-   "Description": "For such a \"know-it-all\" tween, they were not ready for ____.",
+   "Description": "For such a \"know-it-all\" kid, he was not ready for ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "For such a \"know-it-all\" tween, they were not ready for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces 'tween' and fixes the plural/singular mismatch; idx corrected to 2067."
   },
   {
    "id": "game5-2069",
@@ -27579,15 +27579,15 @@
   {
    "id": "game5-2122",
    "Name": "",
-   "Description": "Getting another detention for ____ at the back of the class.",
+   "Description": "Getting scolded by Sir again for ____ at the back of the class.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Getting another detention for ____ at the back of the class.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the US/UK 'detention' and keeps the back-bench joke without contradiction."
   },
   {
    "id": "game5-2123",
@@ -28335,13 +28335,13 @@
    "Name": "",
    "Description": "Guns don't kill people, ____ kill people.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Guns don't kill people, ____ kill people.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: US gun-debate slogan with no local meaning."
   },
   {
    "id": "game5-2181",
@@ -28463,15 +28463,15 @@
   {
    "id": "game5-2190",
    "Name": "",
-   "Description": "Haters love hating, but lovers love ____.",
+   "Description": "Haters love hating, but true fans love ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Haters love hating, but lovers love ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the romance framing while keeping the joke."
   },
   {
    "id": "game5-2191",
@@ -28580,7 +28580,7 @@
   {
    "id": "game5-2199",
    "Name": "",
-   "Description": "Ragging is banned, but it's still fine to give the new hostel juniors ____ and tell them to have fun.",
+   "Description": "When the new juniors arrive, hostel seniors welcome them with ____ and a tour of the mess.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -28588,7 +28588,7 @@
     "Description": "Ragging is illegal, but it's still acceptable to give your new check-ins ____ and tell them to have fun.",
     "Category": ""
    },
-   "note": "unclear 'check-ins'"
+   "note": "unclear 'check-ins'; Debate: Original invites ragging and hazing answers; the reword keeps the hostel flavour and is friendly."
   },
   {
    "id": "game5-2200",
@@ -28840,7 +28840,7 @@
   {
    "id": "game5-2219",
    "Name": "",
-   "Description": "Here lies \"(insert name)\", devoted friend, lover of ____.",
+   "Description": "Everyone will remember Chacha as a devoted friend and a great fan of ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -28848,7 +28848,7 @@
     "Description": "Here lies First Last, Year-2015, devoted friend, lover of ____.",
     "Category": ""
    },
-   "note": "Placeholder wording"
+   "note": "Placeholder wording; Debate: Fixes the broken '(insert name)' placeholder; 'fan' avoids 'lover' (challenger amendment)."
   },
   {
    "id": "game5-2220",
@@ -29490,15 +29490,15 @@
   {
    "id": "game5-2269",
    "Name": "",
-   "Description": "Honey, I've decided to put the house up for sale. Yes, it's because of the new neighbors. Do you really want to live next to ____?",
+   "Description": "Begum, I've decided to put the house up for sale. Yes, it's because of the new neighbours. Do you really want to live next to ____?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Honey, I've decided to put the house up for sale. Yes, it's because of the new neighbors. Do you really want to live next to ____?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local form of address and deck spelling."
   },
   {
    "id": "game5-2270",
@@ -30155,13 +30155,13 @@
    "Name": "",
    "Description": "How much ____ can a woodchuck chuck?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "How much ____ can a woodchuck chuck?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: US-only tongue twister."
   },
   {
    "id": "game5-2321",
@@ -104717,6 +104717,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Light family-secret prompt, distinct from existing cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Dadi's nuskha for every illness, from fever to toothache: ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New home-remedy theme; romance reference removed (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "At the shaadi buffet, the crowd stampeded toward ____ before the dulha even sat down.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable shaadi scene, distinct from existing buffet cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi packed my lunch box with ____ and told me not to share it with anyone.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): School lunch theme with local wording (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My cousin's idea of a 'quick favour' is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable family humour, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Today's special in the jawans' langar: ____ with extra roti.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Army in-joke with a food theme, allowed by the owner."
   }
  ]
 }

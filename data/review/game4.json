@@ -8551,7 +8551,7 @@
    "Description": "Pakistan's first capital, until the government moved out in 1959, was ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad.; Debate: Fact correct; fills missing category."
+   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category."
   },
   {
    "id": null,
@@ -8783,7 +8783,7 @@
    "Description": "Istanbul is the world's largest city to sit on two ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest.; Debate: Fact correct; fills missing category."
+   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category."
   },
   {
    "id": null,
@@ -13800,6 +13800,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate, surprising, not a duplicate of the Babur birthplace card."
+  },
+  {
+   "id": null,
+   "Name": "Buddhist",
+   "Description": "Taxila, near Islamabad, is a UNESCO World Heritage Site that was once a famous centre of ____ learning.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New, accurate, no Taxila card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Jhelum",
+   "Description": "Mangla Dam, one of Pakistan's largest, is built on the ____ River.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New, accurate, no Mangla card in deck."
+  },
+  {
+   "id": null,
+   "Name": "field hockey",
+   "Description": "Despite cricket's huge popularity, Pakistan's official national sport is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New surprising true fact; existing hockey cards cover World Cup wins, not national sport."
+  },
+  {
+   "id": null,
+   "Name": "Allahabad",
+   "Description": "In 1930, Allama Iqbal gave his famous presidential address to the Muslim League, envisioning a Muslim state in north-western India, in the Indian city of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's more precise wording adopted; Iqbal's 1930 address not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Konya",
+   "Description": "The great Persian poet Jalaluddin Rumi is buried in the Turkish city of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New, well-established, respectful."
+  },
+  {
+   "id": null,
+   "Name": "codes",
+   "Description": "The 9th-century Baghdad scholar al-Kindi wrote the earliest known description of breaking secret ____ by counting how often letters appear.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New, true and surprising."
+  },
+  {
+   "id": null,
+   "Name": "pebbles",
+   "Description": "During Hajj, pilgrims collect small ____ at Muzdalifah to throw at the pillars in Mina.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New, accurate, respectful."
   }
  ]
 }

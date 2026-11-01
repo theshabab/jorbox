@@ -1,6 +1,6 @@
 Name,Description,Category
 Karachi,Sea | Quaid | Sindh | Port | Biggest,Pakistani Cities
-Lahore,Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food,Pakistani Cities
+Lahore,Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali,Pakistani Cities
 Islamabad,Capital | Faisal Mosque | Margalla | Pindi | Government,Pakistani Cities
 Rawalpindi,Raja Bazaar | Army | GHQ | Twin City | Islamabad,Pakistani Cities
 Faisalabad,Textile | Punjab | Ghanta Ghar | Lyallpur | Manchester,Pakistani Cities
@@ -8,7 +8,7 @@ Multan,Mango | Saints | Shrines | Heat | Sohan Halwa,Pakistani Cities
 Peshawar,KPK | Pathan | Qissa Khwani | Chapli Kabab | Khyber,Pakistani Cities
 Quetta,Balochistan | Capital | Cold | Hazara | Dry Fruit,Pakistani Cities
 Sialkot,Football | Sports Goods | Iqbal | Cricket Bats | Export,Pakistani Cities
-Gujranwala,Pehlwan | Lahore | Food | GT Road | Punjab,Pakistani Cities
+Gujranwala,Pehlwan | Lahore | Chargha | GT Road | Punjab,Pakistani Cities
 Hyderabad,Sindh | Bangles | Rabri | Pakka Qila | India,Pakistani Cities
 Abbottabad,PMA | Army | Kakul | Hills | Hazara,Pakistani Cities
 Murree,Hill Station | Snow | Mall Road | Pindi | Holiday,Pakistani Cities
@@ -29,7 +29,7 @@ Pulao,Rice | Chawal | Yakhni | Biryani | Peshawari,Traditional Dishes
 Nihari,Breakfast | Nalli | Shank | Old Delhi | Slow Cooked,Traditional Dishes
 Haleem,Daal | Wheat | Muharram | Ghotna | Meat,Traditional Dishes
 Karahi,Chicken | Wok | Tomato | Highway | Mutton,Traditional Dishes
-Korma,Yogurt | Dahi | Shaadi | Gravy | White,Traditional Dishes
+Korma,Yogurt | Dahi | Shaadi | Gravy | Almonds,Traditional Dishes
 Sajji,Balochi | Whole Chicken | Skewer | Lamb | Roast,Traditional Dishes
 Chapli Kabab,Peshawar | Flat | Mince | Tomato | Pathan,Traditional Dishes
 Seekh Kabab,Skewer | Mince | BBQ | Long | Coal,Traditional Dishes
@@ -83,10 +83,10 @@ Melon,Kharbooza | Orange | Summer | Seeds | Sweet,Fruits
 Apricot,Khubani | Hunza | Dried | Orange | Gilgit,Fruits
 Peach,Aaru | Fuzzy | Swat | Soft | Pink,Fruits
 Plum,Aloo Bukhara | Purple | Sour | Dried | Prune,Fruits
-Pear,Nashpati | Green | Shape | Juicy | Bulb,Fruits
+Pear,Nashpati | Green | Juicy | Apple | Teardrop,Fruits
 Strawberry,Red | Seeds | Cream | Milkshake | Berry,Fruits
-Cherry,Red | Cake | Top | Stem | Pair,Fruits
-Lychee,Pink | Shell | White | Seed | Summer,Fruits
+Cherry,Gilas | Red | Stem | Pair | Stone,Fruits
+Lychee,Litchi | Shell | White | Seed | Summer,Fruits
 Papaya,Papita | Orange | Seeds | Stomach | Green,Fruits
 Pineapple,Ananas | Spiky | Yellow | Crown | Pizza,Fruits
 Coconut,Nariyal | Water | Shell | Palm | Hairy,Fruits
@@ -1171,3 +1171,12 @@ Thatta,Makli | Sindh | Shah Jahan Mosque | Indus | Old Capital,Pakistani Cities
 Neelum Valley,Kashmir | River | Kel | Arang Kel | Muzaffarabad,Nature
 Roti,Flour | Tawa | Round | Chapati | Bread,Traditional Dishes
 Matchbox,Diyasalai | Flame | Strike | Stick | Light,Tools
+Naan,Tandoor | Bread | Flour | Kulcha | Garlic,Traditional Dishes
+Kaleji,Liver | Tawa | Eid | Qurbani | Fry,Traditional Dishes
+Dera Ghazi Khan,Punjab | Balochi | Sakhi Sarwar | Indus | DG Khan,Pakistani Cities
+Mianwali,Niazi | Punjab | Indus | Chashma | Air Force,Pakistani Cities
+Nankana Sahib,Punjab | Gurdwara | Guru Nanak | Sheikhupura | Sikh,Pakistani Cities
+Jackfruit,Kathal | Huge | Spiky | Sabzi | Tree,Fruits
+Mosambi,Sweet Lime | Juice | Green | Citrus | Sick,Fruits
+Ber,Jujube | Small | Tree | Sweet | Stone,Fruits
+Dragon Fruit,Pitaya | Pink | Cactus | Scales | Seeds,Fruits

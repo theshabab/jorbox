@@ -19,7 +19,7 @@
   {
    "id": "game2-2",
    "Name": "Lahore",
-   "Description": "Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food",
+   "Description": "Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -27,7 +27,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: Replace vague Food with Anarkali."
   },
   {
    "id": "game2-3",
@@ -123,7 +123,7 @@
   {
    "id": "game2-10",
    "Name": "Gujranwala",
-   "Description": "Pehlwan | Lahore | Food | GT Road | Punjab",
+   "Description": "Pehlwan | Lahore | Chargha | GT Road | Punjab",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -131,7 +131,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": "Debate: Challenger's amendment: 'Fans' is Gujrat's signature clue (card 16), so swap it for GT Road. Keep the Urdu/English Pehlwan/Wrestlers pair, as the deck does elsewhere.; Debate: Wrestlers repeated Pehlwan; nearby Lahore is a natural clue."
+   "note": "Debate: Challenger's amendment: 'Fans' is Gujrat's signature clue (card 16), so swap it for GT Road. Keep the Urdu/English Pehlwan/Wrestlers pair, as the deck does elsewhere.; Debate: Wrestlers repeated Pehlwan; nearby Lahore is a natural clue.; Debate: Chargha is the city's signature dish."
   },
   {
    "id": "game2-11",
@@ -396,7 +396,7 @@
   {
    "id": "game2-31",
    "Name": "Korma",
-   "Description": "Yogurt | Dahi | Shaadi | Gravy | White",
+   "Description": "Yogurt | Dahi | Shaadi | Gravy | Almonds",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -404,7 +404,7 @@
     "Description": "food | rice | meat | curry",
     "Category": "Traditional Dishes"
    },
-   "note": ""
+   "note": "Debate: White is inaccurate; Almonds is a real clue."
   },
   {
    "id": "game2-32",
@@ -1124,7 +1124,7 @@
   {
    "id": "game2-87",
    "Name": "Pear",
-   "Description": "Nashpati | Green | Shape | Juicy | Bulb",
+   "Description": "Nashpati | Green | Juicy | Apple | Teardrop",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1132,7 +1132,7 @@
     "Description": "fruit | sweet | juice | tree",
     "Category": "Fruits"
    },
-   "note": ""
+   "note": "Debate: Weak Bulb/Shape replaced with real giveaways."
   },
   {
    "id": "game2-88",
@@ -1150,7 +1150,7 @@
   {
    "id": "game2-89",
    "Name": "Cherry",
-   "Description": "Red | Cake | Top | Stem | Pair",
+   "Description": "Gilas | Red | Stem | Pair | Stone",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1158,12 +1158,12 @@
     "Description": "fruit | sweet | juice | tree",
     "Category": "Fruits"
    },
-   "note": ""
+   "note": "Debate: Drop Western cake/top idiom, add local name."
   },
   {
    "id": "game2-90",
    "Name": "Lychee",
-   "Description": "Pink | Shell | White | Seed | Summer",
+   "Description": "Litchi | Shell | White | Seed | Summer",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1171,7 +1171,7 @@
     "Description": "fruit | sweet | juice | tree",
     "Category": "Fruits"
    },
-   "note": "Debate: 'Litchi' is just another spelling of the answer. Summer is the lychee season."
+   "note": "Debate: 'Litchi' is just another spelling of the answer. Summer is the lychee season.; Debate: Litchi spelling variant is a likely spoken giveaway."
   },
   {
    "id": "game2-91",
@@ -13439,6 +13439,78 @@
    "Category": "Tools",
    "action": "add",
    "note": "New card (debate): Challenger's amendment: Diyasalai is the better local clue than the awkward 'Gas Stove'."
+  },
+  {
+   "id": null,
+   "Name": "Naan",
+   "Description": "Tandoor | Bread | Flour | Kulcha | Garlic",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Core staple not in deck as an answer."
+  },
+  {
+   "id": null,
+   "Name": "Kaleji",
+   "Description": "Liver | Tawa | Eid | Qurbani | Fry",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Classic Eid dish, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Dera Ghazi Khan",
+   "Description": "Punjab | Balochi | Sakhi Sarwar | Indus | DG Khan",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Major city missing from deck."
+  },
+  {
+   "id": null,
+   "Name": "Mianwali",
+   "Description": "Niazi | Punjab | Indus | Chashma | Air Force",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Real city, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Nankana Sahib",
+   "Description": "Punjab | Gurdwara | Guru Nanak | Sheikhupura | Sikh",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Famous city, missing."
+  },
+  {
+   "id": null,
+   "Name": "Jackfruit",
+   "Description": "Kathal | Huge | Spiky | Sabzi | Tree",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Common in Pakistani markets, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Mosambi",
+   "Description": "Sweet Lime | Juice | Green | Citrus | Sick",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: local name is what players say."
+  },
+  {
+   "id": null,
+   "Name": "Ber",
+   "Description": "Jujube | Small | Tree | Sweet | Stone",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: Ber is the common name."
+  },
+  {
+   "id": null,
+   "Name": "Dragon Fruit",
+   "Description": "Pitaya | Pink | Cactus | Scales | Seeds",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: Pitaya replaces vague Exotic."
   }
  ]
 }
