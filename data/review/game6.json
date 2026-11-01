@@ -3635,9 +3635,9 @@
   },
   {
    "id": null,
-   "Description": "Famous Inventions",
+   "Description": "Famous Inventions (Telephone, Bulb, Printing Press...)",
    "action": "add",
-   "note": "New card (debate): A broad general-knowledge card with many answers. It is not in the deck."
+   "note": "New card (debate): A broad general-knowledge card with many answers. It is not in the deck.; Debate: Examples set the scope and make answers easy to judge."
   },
   {
    "id": null,
@@ -4712,6 +4712,42 @@
    "Description": "Things You Do While Waiting for Someone",
    "action": "add",
    "note": "New card (debate): Activity-based, distinct from the place-based 'Places Where You Wait in a Line'."
+  },
+  {
+   "id": null,
+   "Description": "Great Poets of the Muslim World (Rumi, Hafiz, Ghalib, Saadi...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version; distinct from Pakistani Poets and avoids Iqbal overlap."
+  },
+  {
+   "id": null,
+   "Description": "Parts of a Shirt or Kurta (Collar, Sleeve, Button...)",
+   "action": "add",
+   "note": "New card (debate): Not in deck; 10+ easy answers; fits parts-of cards."
+  },
+  {
+   "id": null,
+   "Description": "Features and Apps on a Smartphone (Camera, Torch, Calculator...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended heading matches the examples; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Types of Bags (Backpack, Handbag, Suitcase...)",
+   "action": "add",
+   "note": "New card (debate): Not covered by the handbag, school bag or accessories cards; many answers."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Stay Healthy (Walk, Sleep Early, Drink Water...)",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy answers for everyone."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Be Kind to Your Neighbours (Salam, Sharing Food, Helping...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording matches the deck pattern; asks for conduct, distinct from the share and annoy neighbour cards."
   }
  ]
 }

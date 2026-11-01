@@ -4019,12 +4019,12 @@
   },
   {
    "id": "game10-447",
-   "Name": "What did a warrior in the old days need?",
+   "Name": "Name something a warrior needed in the old days.",
    "action": "edit",
    "original": {
     "Name": "What does a knight need?"
    },
-   "note": "Debate: Replaces the European knight frame and keeps the idea (sword, horse, shield, armour)."
+   "note": "Debate: Replaces the European knight frame and keeps the idea (sword, horse, shield, armour).; Debate: Clearer imperative form with matchable answers (sword, horse, shield)."
   },
   {
    "id": "game10-448",
@@ -4128,11 +4128,11 @@
   {
    "id": "game10-459",
    "Name": "Name a famous work of art.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Name a famous work of art."
    },
-   "note": ""
+   "note": "Debate: Vague, scatters answers; the monument idea is already covered by the live added card 'Name a world-famous tower or monument.' in game10.json. Editing would create a near-duplicate pair."
   },
   {
    "id": "game10-460",
@@ -4199,12 +4199,12 @@
   },
   {
    "id": "game10-467",
-   "Name": "What is a slow way to communicate?",
-   "action": "keep",
+   "Name": "Name a slow way to send a message.",
+   "action": "edit",
    "original": {
     "Name": "What is a slow way to communicate?"
    },
-   "note": ""
+   "note": "Debate: Clearer wording with matchable answers (letter, post, pigeon)."
   },
   {
    "id": "game10-468",
@@ -7142,6 +7142,42 @@
    "Name": "Weekend Morning: Sleep In or Nashta Outside?",
    "action": "add",
    "note": "New card (debate): Fits the A-or-B pattern, Pakistani frame, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name a valley in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): New Pakistani geography prompt with shared answers (Hunza, Swat, Neelum, Kaghan)."
+  },
+  {
+   "id": null,
+   "Name": "Name a part of a car.",
+   "action": "add",
+   "note": "New card (debate): Easy, universal, matchable answers; no existing car-part card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do the moment the electricity comes back after loadshedding.",
+   "action": "add",
+   "note": "New card (debate): Relatable, distinct from existing loadshedding cards, matchable answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something that is long.",
+   "action": "add",
+   "note": "New card (debate): Fits the property family; common answers (road, rope, snake, river)."
+  },
+  {
+   "id": null,
+   "Name": "Name something that is heavy.",
+   "action": "add",
+   "note": "New card (debate): Fits the property family; common answers (elephant, truck, stone)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you take along on a trip to the northern areas.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the northern-places card; matchable answers (jacket, camera, snacks, shawl)."
   }
  ]
 }

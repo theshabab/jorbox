@@ -2887,36 +2887,36 @@
   },
   {
    "id": "game16-263",
-   "Name": "What are you best at?",
+   "Name": "What are you secretly best at, even if nobody in the family has noticed?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What are you best at?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Flat question gains a story hook; not a duplicate of other best-at cards."
   },
   {
    "id": "game16-264",
-   "Name": "What makes you nervous?",
+   "Name": "What makes you the most nervous: exam results, a rishta visit, or speaking in front of the whole family?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What makes you nervous?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Relatable desi examples make a generic card livelier; clean."
   },
   {
    "id": "game16-265",
-   "Name": "Who is the funniest person you’ve met?",
+   "Name": "Who is the funniest person you have met, and what did they do that made you laugh?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who is the funniest person you’ve met?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Follow-up turns answers into stories."
   },
   {
    "id": "game16-266",
@@ -9472,6 +9472,41 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Fun story prompt, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which app have you deleted and reinstalled more than three times, and why do you keep coming back?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No delete/reinstall question exists; apps are allowed."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani cricket ground would you most like to watch a match at: Gaddafi, National Stadium Karachi or Pindi?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Local grounds are real; distinct from the world-wide live-event stadium card."
+  },
+  {
+   "id": null,
+   "Name": "Which restaurant in your city always has a long queue, and is the food really worth the wait?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's tightened version drops the influencer/photo frame."
+  },
+  {
+   "id": null,
+   "Name": "If you could add one feature to WhatsApp, what would it be and who in the family would use it most?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing WhatsApp message/rename cards; social media allowed."
+  },
+  {
+   "id": null,
+   "Name": "What outfit does your mother or dadi keep asking you to wear or throw away?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from stylish-grandparents and outfit-spend cards; family-friendly."
   }
  ]
 }
