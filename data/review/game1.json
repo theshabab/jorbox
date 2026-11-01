@@ -12416,6 +12416,270 @@
    "Category": "Occupations",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Cashier",
+   "Description": "Takes your payment at the shop counter",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Journalist",
+   "Description": "Reports news for papers and TV channels",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mason",
+   "Description": "Lays bricks and builds walls (Raj mistri)",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Midwife",
+   "Description": "Helps women deliver babies; Dai in villages",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Labourer",
+   "Description": "Works daily wages doing heavy physical jobs",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Influencer",
+   "Description": "Famous online, promotes products to followers",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "ATM",
+   "Description": "Machine that gives cash from your bank card",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Blue Mosque",
+   "Description": "Six-minaret Istanbul landmark with Iznik tiles",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sheikh Zayed Mosque",
+   "Description": "Huge white marble masjid in Abu Dhabi",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Inheritance",
+   "Description": "Wealth passed to heirs after death; Wirasat",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mehr",
+   "Description": "Gift from groom to bride at nikah",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Wasiyyah",
+   "Description": "Islamic will; limited to one third of estate",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sadaqah Jariyah",
+   "Description": "Ongoing charity, like building a well",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Debt",
+   "Description": "Money owed; Quran urges writing it down",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Rizq",
+   "Description": "Provision and sustenance granted by Allah",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Eidi",
+   "Description": "Cash gift elders give children on Eid",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Foster Mother",
+   "Description": "Woman who raises a child not her own",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Widow",
+   "Description": "Woman whose husband has passed away",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Rishta Aunty",
+   "Description": "Matchmaking lady who suggests proposals for marriage",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sarajevo",
+   "Description": "Capital of Bosnia, called Europe's Jerusalem",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Indonesia",
+   "Description": "World's most populous Muslim-majority country",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Timbuktu",
+   "Description": "Mali's desert city, famed medieval centre of Islamic learning",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Konya",
+   "Description": "Turkish city where Rumi is buried",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Baibars",
+   "Description": "Mamluk sultan who defeated the Mongols at Ain Jalut",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Imam Nawawi",
+   "Description": "Scholar who compiled the Forty Hadith",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Abdullah ibn Abbas",
+   "Description": "Prophet's young cousin, called scholar of the Ummah",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kohat",
+   "Description": "Khyber Pakhtunkhwa city famous for its tunnel and cantonment",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Attock",
+   "Description": "Punjab city where the Indus meets Kabul river",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sultan Suleiman",
+   "Description": "Ottoman ruler called the Magnificent, also the Lawgiver",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Property Dealer",
+   "Description": "Agent who buys and sells plots and houses",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Home Tutor",
+   "Description": "Teacher who gives private lessons at students' houses",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Bukhara",
+   "Description": "Uzbek city, birthplace of the compiler of Sahih hadith",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Swat",
+   "Description": "Scenic northern valley, called Switzerland of Pakistan",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
