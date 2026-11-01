@@ -1006,7 +1006,7 @@ Whale,Ocean | Biggest | Blow | Yunus | Fish,Animals
 Umbrella,Chatri | Rain | Open | Handle | Sun,Clothing
 Broom,Jharu | Sweep | Dust | Floor | Handle,Tools
 Suitcase,Luggage | Zip | Travel | Wheels | Pack,Transport
-Passport,Visa | Stamp | Airport | Photo | Green,Stationery
+Passport,Visa | Stamp | Airport | Photo | Green,Transport
 Razai,Quilt | Winter | Cotton | Warm | Bed,Furniture
 Bucket,Balti | Water | Handle | Tap | Mug,Kitchen Items
 Homework,School | Copy | Teacher | Pending | Night,Stationery
@@ -1153,3 +1153,11 @@ Minaret,Mosque | Tall | Azan | Tower | Loudspeaker,Islamic Locations
 Madrasa,Quran | Students | Qari | Learn | Hifz,Islamic Locations
 Khandaq,Trench | Battle | Madinah | Salman | Siege,Islamic Locations
 Soap,Wash | Bubbles | Hands | Foam | Lifebuoy,Tools
+Thunder,Garaj | Lightning | Clouds | Rumble | Loud,Nature
+Dew,Shabnam | Morning | Grass | Drops | Cold,Nature
+Sunset,Maghrib | West | Evening | Sky | Iftar,Nature
+Thermometer,Fever | Temperature | Mercury | Doctor | Degrees,Tools
+Hedgehog,Spikes | Curl | Ball | Small | Night,Animals
+Imam Tirmidhi,Hadith | Jami | Sunan | Termez | Scholar,Muslim Historical Figures
+Chitral,Tirich Mir | Kalash | Valley | KPK | Shandur,Pakistani Cities
+Barzakh,Grave | Between | Death | Qiyamah | Waiting,Islamic Terms

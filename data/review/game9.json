@@ -12415,10 +12415,10 @@
   },
   {
    "id": null,
-   "Name": "Which bank, which started Islamic commercial banking in Pakistan in 2002, became the country's first full-fledged Islamic bank?",
+   "Name": "Which bank became Pakistan's first full-fledged Islamic bank, launching Islamic commercial banking in 2002?",
    "Description": "Meezan Bank",
    "action": "add",
-   "note": "New card (debate): Lively local money card; replaces the dull FBR acronym."
+   "note": "New card (debate): Lively local money card; replaces the dull FBR acronym.; Debate: Clearer, same answer."
   },
   {
    "id": null,
@@ -12632,10 +12632,10 @@
   },
   {
    "id": null,
-   "Name": "Which town in Narowal district, Pakistan, near the Indian border, holds the Sikh shrine where Guru Nanak spent his final years and is reached by a visa-free corridor from India?",
+   "Name": "Which town in Narowal district, Pakistan, holds the Sikh shrine where Guru Nanak spent his final years, reached from India by a visa-free corridor?",
    "Description": "Kartarpur",
    "action": "add",
-   "note": "New card (debate): Amended wording is clearer with a single answer."
+   "note": "New card (debate): Amended wording is clearer with a single answer.; Debate: Same fact, tighter wording."
   },
   {
    "id": null,
@@ -12916,6 +12916,76 @@
    "Description": "Rehman Baba",
    "action": "add",
    "note": "New card (debate): Accurate (shrine at Hazar Khwani near Peshawar); adds Pashtun literary balance and is absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the name of the Sharia-compliant financial certificate, similar to a bond, that is backed by real assets?",
+   "Description": "Sukuk",
+   "action": "add",
+   "note": "New card (debate): Accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which institution, headquartered in Karachi, is Pakistan's central bank and issues the country's banknotes?",
+   "Description": "State Bank of Pakistan",
+   "action": "add",
+   "note": "New card (debate): Accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "In Islamic finance, what is the sale called in which the seller openly tells the buyer his cost and adds an agreed profit?",
+   "Description": "Murabahah",
+   "action": "add",
+   "note": "New card (debate): Accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the Arabic word for gambling, which the Quran forbids together with intoxicants?",
+   "Description": "Maysir",
+   "action": "add",
+   "note": "New card (debate): Accurate Islamic ruling; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which of the five daily prayers is prayed just after sunset?",
+   "Description": "Maghrib",
+   "action": "add",
+   "note": "New card (debate): Accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the Arabic word for prostration in prayer, when the forehead touches the ground?",
+   "Description": "Sajdah (sujood)",
+   "action": "add",
+   "note": "New card (debate): Accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the name of the bridge over Hell that every person must cross on the Day of Judgement, according to hadith?",
+   "Description": "As-Sirat",
+   "action": "add",
+   "note": "New card (debate): Accurate, allowed mildly dark content; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which 7,788 m Karakoram peak near Gilgit, nicknamed the 'Shining Wall', rises steeply above the Hunza-Nagar valley?",
+   "Description": "Rakaposhi",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer amended wording preferred; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Kashmir river flows through Azad Kashmir and joins the Jhelum at Muzaffarabad?",
+   "Description": "Neelum River",
+   "action": "add",
+   "note": "New card (debate): Accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of the United Arab Emirates?",
+   "Description": "Abu Dhabi",
+   "action": "add",
+   "note": "New card (debate): Accurate; no duplicate."
   }
  ]
 }

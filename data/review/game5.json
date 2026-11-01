@@ -18910,13 +18910,13 @@
    "Name": "",
    "Description": "Am I… ____?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Am I… ____?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Unplayable, no context"
   },
   {
    "id": "game5-1456",
@@ -19625,13 +19625,13 @@
    "Name": "",
    "Description": "As a feminist, I cannot support ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "As a feminist, I cannot support ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites divisive answers; siblings already removed"
   },
   {
    "id": "game5-1511",
@@ -19766,15 +19766,15 @@
   {
    "id": "game5-1521",
    "Name": "",
-   "Description": "As a Youth Development Volunteer, I spent all day teaching children about ____.",
+   "Description": "As a Scout leader at camp, I spent all day teaching children about ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "As a Youth Development Volunteer, I spent all day teaching children about ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces obscure Peace Corps wording with a familiar role"
   },
   {
    "id": "game5-1522",
@@ -20717,13 +20717,13 @@
    "Name": "",
    "Description": "Be wise as ____ and innocent as ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Be wise as ____ and innocent as ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Quotes scripture (Matthew 10:16)"
   },
   {
    "id": "game5-1595",
@@ -21263,26 +21263,26 @@
    "Name": "",
    "Description": "Bhai, go back where you came from. We don't take too kindly to ____ in this mohalla.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Best you go back where you came from, now. We don’t take too kindly to ____ in these parts.",
     "Category": ""
    },
-   "note": "Debate: Replaces the American cowboy idiom with a mohalla and keeps the joke."
+   "note": "Debate: Xenophobic framing"
   },
   {
    "id": "game5-1637",
    "Name": "",
    "Description": "Bet I can give you ____!",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Bet I can give you ____!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Innuendo setup with no clean anchor"
   },
   {
    "id": "game5-1638",
@@ -21874,13 +21874,13 @@
    "Name": "",
    "Description": "Can you feel the ____ tonight?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Can you feel the ____ tonight?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Lion King love-song quote, unplayable without the reference"
   },
   {
    "id": "game5-1684",
@@ -22303,13 +22303,13 @@
    "Name": "",
    "Description": "Children these days don't appreciate ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Children these days don't appreciate ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of live card 1462; the lower id is kept"
   },
   {
    "id": "game5-1717",
@@ -104637,6 +104637,38 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Distinct, clean local errand joke."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The EasyPaisa agent squinted at my phone and said, \"Bhai, your transaction failed because of ____.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local mobile-wallet scenario not in deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The AC mechanic climbed down the ladder, wiped his hands and said, \"Sir, the real problem is ____.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from the car-mechanic cards"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu changed his WhatsApp profile picture to ____, and now the whole family is worried.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh family WhatsApp angle"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My lucky charm during a Pakistan cricket final is ____, and I refuse to move from this seat.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable cricket superstition, no lucky-charm card exists"
   }
  ]
 }

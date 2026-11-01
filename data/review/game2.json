@@ -12124,9 +12124,9 @@
    "id": null,
    "Name": "Passport",
    "Description": "Visa | Stamp | Airport | Photo | Green",
-   "Category": "Stationery",
+   "Category": "Transport",
    "action": "add",
-   "note": "New card (debate): Relatable travel document."
+   "note": "New card (debate): Relatable travel document.; Debate: Passport is a travel document, not stationery; category fix is correct."
   },
   {
    "id": null,
@@ -13295,6 +13295,70 @@
    "Category": "Tools",
    "action": "add",
    "note": "New card (debate): Everyday item, not a duplicate, local brand hint, not a bathroom joke."
+  },
+  {
+   "id": null,
+   "Name": "Thunder",
+   "Description": "Garaj | Lightning | Clouds | Rumble | Loud",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Not a standalone card; accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Dew",
+   "Description": "Shabnam | Morning | Grass | Drops | Cold",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Not in deck; good clues."
+  },
+  {
+   "id": null,
+   "Name": "Sunset",
+   "Description": "Maghrib | West | Evening | Sky | Iftar",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Not a standalone card; fine clues."
+  },
+  {
+   "id": null,
+   "Name": "Thermometer",
+   "Description": "Fever | Temperature | Mercury | Doctor | Degrees",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Not in deck; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Hedgehog",
+   "Description": "Spikes | Curl | Ball | Small | Night",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Distinct animal from Porcupine."
+  },
+  {
+   "id": null,
+   "Name": "Imam Tirmidhi",
+   "Description": "Hadith | Jami | Sunan | Termez | Scholar",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate; completes hadith compilers."
+  },
+  {
+   "id": null,
+   "Name": "Chitral",
+   "Description": "Tirich Mir | Kalash | Valley | KPK | Shandur",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Not a card in deck; accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Barzakh",
+   "Description": "Grave | Between | Death | Qiyamah | Waiting",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Established Islamic term, not in deck."
   }
  ]
 }
