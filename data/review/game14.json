@@ -6257,6 +6257,202 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Family and school-holiday nostalgia; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you donated blood?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No blood donation card in deck; clean, countable, ethical."
+  },
+  {
+   "id": null,
+   "Description": "How many of these can you do: roll your tongue, wiggle your ears, raise one eyebrow, touch your nose with your tongue?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment; whistling is already a live card."
+  },
+  {
+   "id": null,
+   "Description": "How many bones of the human body can you name in 30 seconds?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Body knowledge; only broken-bone card exists."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at finding north or the direction of Qibla using only the sun or the stars?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Fresh science/nature skill with Muslim relevance."
+  },
+  {
+   "id": null,
+   "Description": "How afraid are you of thunder and lightning?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Weather fear absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you visited a museum?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): History gap; no museum card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you had a nosebleed?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clean fresh body count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to say 'I was wrong' in the middle of an argument?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Ethics; admitting fault not covered."
+  },
+  {
+   "id": null,
+   "Description": "How many snakes have you seen in the wild?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Nature gap; snakes absent."
+  },
+  {
+   "id": null,
+   "Description": "How many prophets mentioned in the Quran can you name in one minute?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worldview Quranic knowledge, names only, distinct from animals-in-Quran."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about the Muslim civilisation of Andalusia (Cordoba, Granada, the Alhambra)?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim history with pride; absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to speak up or change the subject when people start backbiting at a gathering?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Ethics; intervening differs from gossiping card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to turn off the tap while brushing your teeth or making wudu to avoid wasting water?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Anti-israf, water and nature; no water-waste card."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about what happened to the subcontinent's textile industry under British rule?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's sharper, concrete colonial-economy version."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to give charity so secretly that nobody ever finds out?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Sincerity in sadaqah; fresh angle versus frequency cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you been the first to apologise after an argument with a relative?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Sila rehmi and humility; no apology card."
+  },
+  {
+   "id": null,
+   "Description": "How many of Pakistan's UNESCO World Heritage Sites (Mohenjo-daro, Taxila, Lahore Fort, Rohtas Fort and others) have you visited?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Pakistani history; sites absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "How many family stories about the 1947 migration (hijrat) have you heard from your elders?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Partition family history untouched in deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to try a desi totka like haldi doodh before going to a doctor?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable local health angle."
+  },
+  {
+   "id": null,
+   "Description": "How many times has your street or area flooded in the monsoon?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local nature, floods absent."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about Pakistan's mountains and glaciers (K2, Nanga Parbat, Siachen)?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Geography/science; real peaks, not covered."
+  },
+  {
+   "id": null,
+   "Description": "How many people in your family or neighbourhood have had dengue?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local health count; dengue absent."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to choose water from a clay matka over a fridge bottle on a hot day?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local tradition; no matka card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you felt an earthquake tremor?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Earth science and local life; deck only has sleeping through one."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to admit it straight away when you break something at someone else's house?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Honesty; distinct from existing blame/wallet cards."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about the Mughal emperors and what they built?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Subcontinent history gap."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you picked up litter that was not yours?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Cleanliness and care for environment; no litter card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you looked for the Ramadan or Eid moon on the first evening?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Nature, sky and Muslim practice; absent from deck."
   }
  ]
 }

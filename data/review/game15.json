@@ -30393,6 +30393,358 @@
    "Category": "School Ladder in Pakistan (Order)",
    "action": "add",
    "note": "New card (debate): Completes the ladder."
+  },
+  {
+   "id": null,
+   "Name": "Eardrum",
+   "Description": "1st - thin membrane at the end of the ear canal that vibrates with sound",
+   "Category": "Path of Sound Through the Ear (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend: membrane is the correct term."
+  },
+  {
+   "id": null,
+   "Name": "Malleus (Hammer)",
+   "Description": "2nd - first tiny middle-ear bone, touches the eardrum",
+   "Category": "Path of Sound Through the Ear (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Accurate order; ear path not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Incus (Anvil)",
+   "Description": "3rd - middle bone that passes the vibration on",
+   "Category": "Path of Sound Through the Ear (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Accurate order."
+  },
+  {
+   "id": null,
+   "Name": "Stapes (Stirrup)",
+   "Description": "4th - smallest bone in the body, pushes on the inner ear",
+   "Category": "Path of Sound Through the Ear (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Accurate; stapes is the smallest bone."
+  },
+  {
+   "id": null,
+   "Name": "Cochlea",
+   "Description": "5th - snail-shaped inner ear that turns vibrations into nerve signals",
+   "Category": "Path of Sound Through the Ear (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Accurate final stop."
+  },
+  {
+   "id": null,
+   "Name": "Sunlight Zone (Epipelagic)",
+   "Description": "Surface to about 200 m - enough light for plants and most sea life",
+   "Category": "Ocean Zones (Shallow to Deep)",
+   "action": "add",
+   "note": "New card (debate): Standard depths; no ocean zones category in deck."
+  },
+  {
+   "id": null,
+   "Name": "Twilight Zone (Mesopelagic)",
+   "Description": "About 200-1,000 m - only faint blue light reaches here",
+   "Category": "Ocean Zones (Shallow to Deep)",
+   "action": "add",
+   "note": "New card (debate): Standard depths."
+  },
+  {
+   "id": null,
+   "Name": "Midnight Zone (Bathypelagic)",
+   "Description": "About 1,000-4,000 m - total darkness, glowing creatures",
+   "Category": "Ocean Zones (Shallow to Deep)",
+   "action": "add",
+   "note": "New card (debate): Standard depths."
+  },
+  {
+   "id": null,
+   "Name": "Abyssal Zone (Abyss)",
+   "Description": "About 4,000-6,000 m - near-freezing, most of the deep sea floor",
+   "Category": "Ocean Zones (Shallow to Deep)",
+   "action": "add",
+   "note": "New card (debate): Standard depths."
+  },
+  {
+   "id": null,
+   "Name": "Hadal Zone (Trenches)",
+   "Description": "Below about 6,000 m - the deepest trenches, down to nearly 11,000 m",
+   "Category": "Ocean Zones (Shallow to Deep)",
+   "action": "add",
+   "note": "New card (debate): Consistent with deck's Mariana depth; different ranking from trenches deck."
+  },
+  {
+   "id": null,
+   "Name": "Nutfah",
+   "Description": "1st - a drop of fluid, the first stage named in Surah Al-Mu'minun (23:13-14)",
+   "Category": "Stages of Human Creation in the Quran (Surah Al-Mu'minun)",
+   "action": "add",
+   "note": "New card (debate): Worldview; verse order is explicit in 23:14."
+  },
+  {
+   "id": null,
+   "Name": "Alaqah",
+   "Description": "2nd - a clinging clot, turned from the nutfah",
+   "Category": "Stages of Human Creation in the Quran (Surah Al-Mu'minun)",
+   "action": "add",
+   "note": "New card (debate): Verse order."
+  },
+  {
+   "id": null,
+   "Name": "Mudghah",
+   "Description": "3rd - a chewed-like lump of flesh",
+   "Category": "Stages of Human Creation in the Quran (Surah Al-Mu'minun)",
+   "action": "add",
+   "note": "New card (debate): Verse order."
+  },
+  {
+   "id": null,
+   "Name": "Izam (Bones)",
+   "Description": "4th - the lump is made into bones",
+   "Category": "Stages of Human Creation in the Quran (Surah Al-Mu'minun)",
+   "action": "add",
+   "note": "New card (debate): Verse order."
+  },
+  {
+   "id": null,
+   "Name": "Lahm (Flesh)",
+   "Description": "5th - the bones are clothed with flesh",
+   "Category": "Stages of Human Creation in the Quran (Surah Al-Mu'minun)",
+   "action": "add",
+   "note": "New card (debate): Verse order."
+  },
+  {
+   "id": null,
+   "Name": "Birth of the Prophet SAW",
+   "Description": "c. 570 CE - Year of the Elephant, Makkah",
+   "Category": "Seerah Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Worldview; well-established date, no depiction; not a ghazwa."
+  },
+  {
+   "id": null,
+   "Name": "First Revelation in Cave Hira",
+   "Description": "610 CE - Surah Al-Alaq begins, the Prophet SAW was about 40",
+   "Category": "Seerah Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Boycott in Shib Abi Talib",
+   "Description": "c. 616-619 CE - Quraysh cut off the Muslims and Banu Hashim, who endured hunger with sabr",
+   "Category": "Seerah Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate approximate dates; non-battle event."
+  },
+  {
+   "id": null,
+   "Name": "The Hijra to Madinah",
+   "Description": "622 CE - 1 AH, start of the Islamic calendar",
+   "Category": "Seerah Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Farewell Hajj Sermon",
+   "Description": "632 CE - 10 AH, Arafah, shortly before the Prophet's SAW passing",
+   "Category": "Seerah Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Indus (Sindh)",
+   "Description": "1st - westernmost, runs the whole length of Pakistan to the Arabian Sea",
+   "Category": "Rivers of Pakistan (West to East)",
+   "action": "add",
+   "note": "New card (debate): Local geography; order correct; differs from Rivers by length."
+  },
+  {
+   "id": null,
+   "Name": "Jhelum",
+   "Description": "2nd - flows from Kashmir past Jhelum city, joins the Chenab",
+   "Category": "Rivers of Pakistan (West to East)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Chenab",
+   "Description": "3rd - flows past Gujrat and Chiniot, joins the Sutlej near Bahawalpur",
+   "Category": "Rivers of Pakistan (West to East)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Ravi",
+   "Description": "4th - the river of Lahore",
+   "Category": "Rivers of Pakistan (West to East)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Sutlej",
+   "Description": "5th - easternmost, along the border near Kasur and Bahawalnagar",
+   "Category": "Rivers of Pakistan (West to East)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Babur",
+   "Description": "1526 CE - after the First Battle of Panipat",
+   "Category": "Mughal Emperors (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Accurate; ordering of emperors is a new angle."
+  },
+  {
+   "id": null,
+   "Name": "Humayun",
+   "Description": "1530 CE - son of Babur, lost his throne and regained it in 1555",
+   "Category": "Mughal Emperors (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend: avoids Akbar 1556 already in Length of Reign; fills the Babur-Jahangir gap."
+  },
+  {
+   "id": null,
+   "Name": "Jahangir",
+   "Description": "1605 CE - son of Akbar, buried in Shahdara, Lahore",
+   "Category": "Mughal Emperors (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Bahadur Shah Zafar",
+   "Description": "1837 CE - last Mughal emperor, exiled to Rangoon after 1857",
+   "Category": "Mughal Emperors (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend: avoids Shah Jahan 1628 duplicate in Length of Reign; fresh endpoint."
+  },
+  {
+   "id": null,
+   "Name": "Aurangzeb Alamgir",
+   "Description": "1658 CE - son of Shah Jahan, ruled for about 49 years until 1707",
+   "Category": "Mughal Emperors (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend: avoids repeating the Badshahi Mosque date from the mosques deck."
+  },
+  {
+   "id": null,
+   "Name": "Nostrils",
+   "Description": "1st - air enters, is warmed and filtered by hairs and mucus",
+   "Category": "Path of Air into the Lungs (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Fresh body topic; no respiratory path in deck."
+  },
+  {
+   "id": null,
+   "Name": "Pharynx (Throat)",
+   "Description": "2nd - shared passage for air and food behind the mouth and nose",
+   "Category": "Path of Air into the Lungs (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Larynx (Voice Box)",
+   "Description": "3rd - holds the vocal cords, guarded by the epiglottis",
+   "Category": "Path of Air into the Lungs (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Trachea (Windpipe)",
+   "Description": "4th - the ringed tube that carries air down to the chest",
+   "Category": "Path of Air into the Lungs (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Bronchi",
+   "Description": "5th - two branches, one into each lung",
+   "Category": "Path of Air into the Lungs (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Alveoli",
+   "Description": "6th - tiny air sacs where oxygen passes into the blood",
+   "Category": "Path of Air into the Lungs (Outside In)",
+   "action": "add",
+   "note": "New card (debate): Correct final stop."
+  },
+  {
+   "id": null,
+   "Name": "Evaporation",
+   "Description": "1st - the sun heats water and it rises as vapour",
+   "Category": "Water Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Nature; no water cycle in deck, matches butterfly/frog cycle format."
+  },
+  {
+   "id": null,
+   "Name": "Condensation",
+   "Description": "2nd - vapour cools high up and forms clouds",
+   "Category": "Water Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Precipitation",
+   "Description": "3rd - water falls as rain, hail or snow",
+   "Category": "Water Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Collection",
+   "Description": "4th - water runs into rivers, lakes and seas, ready to start again",
+   "Category": "Water Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct order."
+  },
+  {
+   "id": null,
+   "Name": "Abu Bakr as-Siddiq",
+   "Description": "1st - 11 AH (632 CE), right after the passing of the Prophet SAW",
+   "Category": "Rightly Guided Caliphs (Start of Caliphate)",
+   "action": "add",
+   "note": "New card (debate): Accurate dates; distinct from Ashara death order and empire starts."
+  },
+  {
+   "id": null,
+   "Name": "Umar ibn al-Khattab",
+   "Description": "2nd - 13 AH (634 CE), named by Abu Bakr",
+   "Category": "Rightly Guided Caliphs (Start of Caliphate)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Uthman ibn Affan",
+   "Description": "3rd - 23 AH (644 CE), chosen by a council of six",
+   "Category": "Rightly Guided Caliphs (Start of Caliphate)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Ali ibn Abi Talib",
+   "Description": "4th - 35 AH (656 CE), after Uthman's martyrdom",
+   "Category": "Rightly Guided Caliphs (Start of Caliphate)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
   }
  ]
 }

@@ -5939,6 +5939,186 @@
    "Description": "Get a player to tell you about a time they shared their tiffin with a classmate.",
    "action": "add",
    "note": "New card (debate): Sharing worldview in a school memory; distinct from tiffin-contents card."
+  },
+  {
+   "id": null,
+   "Description": "Claim that lightning never strikes the same place twice and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate myth, no duplicate in deck."
+  },
+  {
+   "id": null,
+   "Description": "Claim that the Great Wall of China can be seen from space with the naked eye and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate myth, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many bones an adult human body has.",
+   "action": "add",
+   "note": "New card (debate): 206, body gap."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name the largest organ of the human body.",
+   "action": "add",
+   "note": "New card (debate): Skin; easy, playable."
+  },
+  {
+   "id": null,
+   "Description": "Claim that humans only use ten percent of their brain and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate myth, fresh."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain why the sky looks blue.",
+   "action": "add",
+   "note": "New card (debate): Fresh science explain card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how a caterpillar turns into a butterfly.",
+   "action": "add",
+   "note": "New card (debate): Nature gap."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many teeth a full adult set has.",
+   "action": "add",
+   "note": "New card (debate): Challenger's clarified version avoids 28 vs 32 ambiguity."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain how plants make their food from sunlight.",
+   "action": "add",
+   "note": "New card (debate): Photosynthesis uncovered."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain why we get goosebumps when we feel cold.",
+   "action": "add",
+   "note": "New card (debate): Fun body question."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which ancient civilisation built the city of Mohenjo-daro.",
+   "action": "add",
+   "note": "New card (debate): Local heritage gap."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you Pakistan's national bird.",
+   "action": "add",
+   "note": "New card (debate): Chukar partridge; accurate, not covered."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name three rivers that flow through Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Local geography, many valid answers."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what Abdul Sattar Edhi is remembered for.",
+   "action": "add",
+   "note": "New card (debate): Local ethics of service, absent."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which year Pakistan won the cricket World Cup.",
+   "action": "add",
+   "note": "New card (debate): 1992; absent."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which year Pakistan came into being.",
+   "action": "add",
+   "note": "New card (debate): 1947; basic missing card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which Muslim scholar wrote the Canon of Medicine, a book taught in European universities for centuries.",
+   "action": "add",
+   "note": "New card (debate): Accurate worldview pride card (Ibn Sina)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they would do if a shopkeeper gave them too much change by mistake.",
+   "action": "add",
+   "note": "New card (debate): Honesty dilemma, fun and distinct from wallet card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time they told the truth when a lie would have been easier.",
+   "action": "add",
+   "note": "New card (debate): Sidq story card, absent."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name a blessing of the body, like eyesight or hearing, that people often take for granted.",
+   "action": "add",
+   "note": "New card (debate): Gratitude via body, answerable."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name two fruits or trees mentioned in the Quran, like dates, figs, olives or pomegranates.",
+   "action": "add",
+   "note": "New card (debate): Accurate nature/Quran card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you one way their family saves water or electricity at home.",
+   "action": "add",
+   "note": "New card (debate): Anti-israf, relatable."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a small grudge they decided to let go of.",
+   "action": "add",
+   "note": "New card (debate): Lighter, family-safe amended forgiveness card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which Muslim traveller from Morocco journeyed across much of the known world in the 1300s.",
+   "action": "add",
+   "note": "New card (debate): Ibn Battuta; accurate history pride."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many chambers the human heart has.",
+   "action": "add",
+   "note": "New card (debate): Four; body gap."
+  },
+  {
+   "id": null,
+   "Description": "Claim that whales are fish and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate myth, no whale card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which Mughal emperor built the Badshahi Mosque in Lahore.",
+   "action": "add",
+   "note": "New card (debate): Aurangzeb; local history gap."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which city Sultan Muhammad al-Fatih conquered at the age of 21.",
+   "action": "add",
+   "note": "New card (debate): Constantinople 1453; accurate Muslim history."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which gas humans breathe out that plants take in.",
+   "action": "add",
+   "note": "New card (debate): Carbon dioxide; body/nature link."
+  },
+  {
+   "id": null,
+   "Description": "Claim that the Moon makes its own light and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate space myth."
   }
  ]
 }

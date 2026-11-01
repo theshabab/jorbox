@@ -7646,6 +7646,202 @@
    "Description": "I wanted to live simply, but my wardrobe is full of _____ I wore once!",
    "action": "add",
    "note": "New card (debate): Enough-ness worldview, affectionate; no wardrobe overlap."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Astronomer",
+   "action": "add",
+   "note": "New card (debate): Not in deck; astronomy not astrology; pitchable."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Historian",
+   "action": "add",
+   "note": "New card (debate): No history job in deck; short and pitchable."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mughal Emperor",
+   "action": "add",
+   "note": "New card (debate): Familiar local history customer; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Dai (Traditional Midwife)",
+   "action": "add",
+   "note": "New card (debate): Local body-related customer; matches the deck's Urdu name with English gloss style."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Blood Donor",
+   "action": "add",
+   "note": "New card (debate): Ethics and body customer; absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Physiotherapist",
+   "action": "add",
+   "note": "New card (debate): Body customer not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I dug up a fossil that looks exactly like my _____!",
+   "action": "add",
+   "note": "New card (debate): Fresh history/science funny blank; no fossil card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My knees crack like popcorn whenever I _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable body complaint; no knee card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every time the ground shakes during an earthquake, I run out without my _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version avoids the unproven dog claim; relevant to Pakistan."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My telescope only ever shows me _____!",
+   "action": "add",
+   "note": "New card (debate): Fresh science angle with an easy blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My body is an amanah, but I keep failing to quit _____!",
+   "action": "add",
+   "note": "New card (debate): Amended version: worldview as a relatable struggle, not a lecture."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Al-Khwarizmi gave us algebra, and I still can't solve _____!",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim science history with an affectionate homework joke."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Ibn Sina wrote the book on medicine, but my family still trusts _____ more than the doctor!",
+   "action": "add",
+   "note": "New card (debate): Accurate (Al-Qanun fi al-Tibb); relatable family humour."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Fatima al-Fihri founded a university in Fez, but I keep bunking _____!",
+   "action": "add",
+   "note": "New card (debate): Accurate (al-Qarawiyyin, 859 CE); relatable student joke."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I found a lost wallet, and now I'm too scared to return it because of _____!",
+   "action": "add",
+   "note": "New card (debate): Amended into a proper complaint; ethics/amanah angle."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The sabzi wala gave me extra change by mistake, and I almost spent it on _____!",
+   "action": "add",
+   "note": "New card (debate): Amended version: clearer, local, honest-earning theme; opposite angle to the existing change card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My bhai leaves the tap running while _____, and water is a blessing!",
+   "action": "add",
+   "note": "New card (debate): Amended version: israf worldview as a sibling complaint, not a lecture."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every year we plant a sapling, and every year it gets eaten by _____!",
+   "action": "add",
+   "note": "New card (debate): Amended version: local and funny, distinct from the plants-dying card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "At Mohenjo-daro the guide talked about a 4,500-year-old city, but I only noticed _____!",
+   "action": "add",
+   "note": "New card (debate): Amended version: Indus Valley history with a fresh frame."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The hakeem says my body has too much garmi because of _____!",
+   "action": "add",
+   "note": "New card (debate): Local folk-medicine humour, no fiqh claim; fresh Problem angle."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The glacier near our northern trip is melting faster than my _____!",
+   "action": "add",
+   "note": "New card (debate): Local nature/climate angle with a funny blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Ibn Battuta crossed deserts on a camel, and I complain when the AC breaks in my _____!",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world history with affectionate humour; no Ibn Battuta card exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The House of Wisdom in Baghdad was full of books, but my bookshelf is full of _____!",
+   "action": "add",
+   "note": "New card (debate): Muslim scholarship history; relatable funny blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The locust swarm ate the whole crop, and now the farmers only have _____!",
+   "action": "add",
+   "note": "New card (debate): Local nature event (2019-20); no locust card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My dentist says my teeth are rotting because of too much _____!",
+   "action": "add",
+   "note": "New card (debate): Body complaint with an easy blank; no teeth Problem exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "During the eclipse everyone looked at the sky, except my cousin who was busy with _____!",
+   "action": "add",
+   "note": "New card (debate): Science/nature angle, neutral and not astrology."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Dengue Patient",
+   "action": "add",
+   "note": "New card (debate): Local health customer; pairs with mosquito theme, pitchable."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Optician",
+   "action": "add",
+   "note": "New card (debate): Human-body (eyes) customer not in deck."
   }
  ]
 }

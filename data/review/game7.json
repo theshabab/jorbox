@@ -20231,6 +20231,258 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Over-packing differs from the suitcase-sitting card."
+  },
+  {
+   "id": null,
+   "Description": "a caterpillar zipping up its cocoon with a 'back in two weeks' sign",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Metamorphosis, no cocoon card in deck, clean and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a coral reef where the clownfish is shouting at the crab for parking in his anemone",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend: fresh reef angle, avoids the many traffic-jam cards."
+  },
+  {
+   "id": null,
+   "Description": "geese flying in a V formation while the leader checks a map",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Migration uncovered, funny and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a scientist carefully brushing a fossil that turns out to be a chicken bone",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No fossil card in deck; clear punchline."
+  },
+  {
+   "id": null,
+   "Description": "a solar eclipse where the moon photobombs the sun",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Eclipse absent; clean and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a white blood cell guard stopping a germ at the gate of the body",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Clean human-body science card."
+  },
+  {
+   "id": null,
+   "Description": "a bat hanging upside down and insisting everyone else is upside down",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No bat-animal card; good perspective joke."
+  },
+  {
+   "id": null,
+   "Description": "a hiccup bouncing around inside a person like a pinball",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Hiccup absent; mild body topic."
+  },
+  {
+   "id": null,
+   "Description": "a seed underground nervously rehearsing its first day above the soil",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Plant science in the deck's anthropomorphic style."
+  },
+  {
+   "id": null,
+   "Description": "a glacier and a snail in a race where nobody is in a hurry",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Glacier absent; earth science joke."
+  },
+  {
+   "id": null,
+   "Description": "a tiny pinhole in a dark room showing the whole garden upside down on the wall",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Accurate camera obscura optics (Muslim science history), no named person, drawable."
+  },
+  {
+   "id": null,
+   "Description": "astronomers climbing the giant stone instrument of Ulugh Beg's observatory in Samarkand",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim astronomy history; fills observatory gap."
+  },
+  {
+   "id": null,
+   "Description": "a traveller from Tangier saying 'just one more country' for thirty years",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend fixes the diary inaccuracy; Ibn Battuta travelled about 30 years."
+  },
+  {
+   "id": null,
+   "Description": "al-Khwarizmi finding the missing x hiding behind the curtain",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Father of algebra, accurate, playful."
+  },
+  {
+   "id": null,
+   "Description": "Fatima al-Fihri proudly watching the first students walk into her new university in Fez",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend removes unverifiable detail; Al-Qarawiyyin founded 859 CE."
+  },
+  {
+   "id": null,
+   "Description": "a student refusing to copy in the exam hall while the whole row whispers psst",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Honesty in a relatable scene; cheating absent."
+  },
+  {
+   "id": null,
+   "Description": "a boy picking up litter in the park while a happy dustbin hugs him",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Care for creation, light and positive."
+  },
+  {
+   "id": null,
+   "Description": "a grandfather washing up with one small lota while the grandkids watch the tap in horror",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend: water thrift in a family scene, not tied to worship, distinct from running-tap card."
+  },
+  {
+   "id": null,
+   "Description": "a shopkeeper cheerfully counting out his yearly zakat while the cash box gives him a thumbs up",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend: warm human scene, no percentage or fiqh claim."
+  },
+  {
+   "id": null,
+   "Description": "an old man counting his blessings on his fingers and running out of fingers",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Shukr theme, warm and drawable."
+  },
+  {
+   "id": null,
+   "Description": "an ancient plumber of Mohenjo-daro proudly showing off his brick drains",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Documented Indus drainage; Pakistani history gap."
+  },
+  {
+   "id": null,
+   "Description": "a student running late for class at Taxila university 2,500 years ago",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local ancient history with a universal joke."
+  },
+  {
+   "id": null,
+   "Description": "a markhor calmly resting on a cliff edge while mountaineers puff below",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): National animal, absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "turtle hatchlings racing across the beach at Hawke's Bay towards the sea",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Accurate local nature, cute and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a charpai floating down a flooded lane carrying a hen, a lota and one very dignified goat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amend keeps flood humour away from victims."
+  },
+  {
+   "id": null,
+   "Description": "nani treating a toothache with a clove and total confidence",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate desi totka, real traditional remedy."
+  },
+  {
+   "id": null,
+   "Description": "a boy giving his seat to an old man on a crowded bus while everyone else looks away",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Respect for elders, relatable, not covered."
+  },
+  {
+   "id": null,
+   "Description": "uncle arriving at the doctor with thirty old lab reports in a folder",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Fresh affectionate health humour."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as a hakeem who prescribes saunf for every illness",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate Friend Mode card, token kept, hakeem/saunf absent."
+  },
+  {
+   "id": null,
+   "Description": "a water clock shaped like an elephant, with a tiny driver on top, chiming the hour",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Al-Jazari's elephant clock, accurate Muslim engineering history, very drawable."
+  },
+  {
+   "id": null,
+   "Description": "a doctor of Bukhara writing a medical book so huge it needs a camel to carry it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Ibn Sina's Canon of Medicine; body and history, funny image."
+  },
+  {
+   "id": null,
+   "Description": "a blind Indus river dolphin swimming sideways and refusing to ask for directions",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Accurate local nature, fresh angle."
+  },
+  {
+   "id": null,
+   "Description": "a snow leopard in Hunza posing patiently for the camera trap, then walking off",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Pakistani wildlife gap."
+  },
+  {
+   "id": null,
+   "Description": "a mangrove forest on the Karachi coast holding back the waves with its roots",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local ecology, accurate, drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> apologising first after an argument while everyone faints from shock",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate humility card, token kept, apology absent."
+  },
+  {
+   "id": null,
+   "Description": "a pair of tired eyelids filing a complaint after a whole day of staring at screens",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Clean body and modern-habit angle."
   }
  ]
 }

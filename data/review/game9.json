@@ -11985,6 +11985,223 @@
    "Description": "The buffalo",
    "action": "add",
    "note": "New card (debate): Local animals/home life; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Which English doctor developed the world's first vaccine, against smallpox, in 1796?",
+   "Description": "Edward Jenner",
+   "action": "add",
+   "note": "New card (debate): Accurate; no Jenner or smallpox card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which French scientist gave his name to the process of heating milk to kill harmful germs?",
+   "Description": "Louis Pasteur",
+   "action": "add",
+   "note": "New card (debate): Accurate; Pasteur absent."
+  },
+  {
+   "id": null,
+   "Name": "In which year was the Bastille prison stormed, starting the French Revolution?",
+   "Description": "1789",
+   "action": "add",
+   "note": "New card (debate): Accurate; Bastille absent."
+  },
+  {
+   "id": null,
+   "Name": "Which pandemic of the 1340s is thought to have wiped out roughly a third of Europe's population?",
+   "Description": "The Black Death (plague)",
+   "action": "add",
+   "note": "New card (debate): Accurate standard estimate; no plague card."
+  },
+  {
+   "id": null,
+   "Name": "Which ruler united the Mongol tribes and founded the Mongol Empire in 1206?",
+   "Description": "Genghis Khan (Temujin)",
+   "action": "add",
+   "note": "New card (debate): Accurate; founder absent."
+  },
+  {
+   "id": null,
+   "Name": "In which country did the Industrial Revolution begin in the 18th century?",
+   "Description": "Britain (Great Britain)",
+   "action": "add",
+   "note": "New card (debate): Accurate; Industrial Revolution absent."
+  },
+  {
+   "id": null,
+   "Name": "Which part at the back of the eye contains the light-sensitive rods and cones?",
+   "Description": "The retina",
+   "action": "add",
+   "note": "New card (debate): Accurate; no retina card."
+  },
+  {
+   "id": null,
+   "Name": "Sharks have no true bones. Their skeletons are made of what flexible material, also found in your nose and ears?",
+   "Description": "Cartilage",
+   "action": "add",
+   "note": "New card (debate): Accurate; cartilage absent."
+  },
+  {
+   "id": null,
+   "Name": "Antibiotics work against bacteria, but are useless against which other type of germ, such as the flu or cold?",
+   "Description": "Viruses",
+   "action": "add",
+   "note": "New card (debate): Accurate, practical; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Persian physician, known in Europe as Rhazes, was among the first to clearly tell smallpox and measles apart?",
+   "Description": "Al-Razi",
+   "action": "add",
+   "note": "New card (debate): Worldview: Muslim science, accurate; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Chinese Muslim admiral led giant treasure fleets as far as East Africa in the early 1400s?",
+   "Description": "Zheng He",
+   "action": "add",
+   "note": "New card (debate): Worldview: fresh Muslim history angle; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Andalusian philosopher and judge, called Averroes in Latin, wrote famous commentaries on Aristotle that shaped European universities?",
+   "Description": "Ibn Rushd",
+   "action": "add",
+   "note": "New card (debate): Worldview: Muslim scholarship; absent."
+  },
+  {
+   "id": null,
+   "Name": "What is the number system we use today (0 to 9) called, which Muslim scholars helped carry from India to Europe?",
+   "Description": "Hindu-Arabic numerals",
+   "action": "add",
+   "note": "New card (debate): Worldview: maths contribution; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which instrument, perfected by Muslim astronomers, was used to find the time, the stars' positions and the direction of the qibla?",
+   "Description": "The astrolabe",
+   "action": "add",
+   "note": "New card (debate): Worldview: science and worship; absent."
+  },
+  {
+   "id": null,
+   "Name": "Before prophethood, the Prophet (PBUH) joined which Makkan pact that promised to defend the wronged and protect the oppressed?",
+   "Description": "Hilf al-Fudul (Pact of the Virtuous)",
+   "action": "add",
+   "note": "New card (debate): Worldview: ethics and justice in the seerah; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which short surah criticises those who push away the orphan and do not encourage feeding the poor?",
+   "Description": "Al-Ma'un",
+   "action": "add",
+   "note": "New card (debate): Worldview: ethics and charity; absent."
+  },
+  {
+   "id": null,
+   "Name": "According to Surah Al-Ma'idah, whoever saves one life is like someone who has saved what?",
+   "Description": "All of mankind",
+   "action": "add",
+   "note": "New card (debate): Worldview: sanctity of life (5:32); absent."
+  },
+  {
+   "id": null,
+   "Name": "In the famous hadith on the signs of a hypocrite, what does he do when he makes a promise?",
+   "Description": "Breaks it",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended single short answer version; honesty and amanah."
+  },
+  {
+   "id": null,
+   "Name": "Which surah of the Quran is named after the metal iron?",
+   "Description": "Al-Hadid",
+   "action": "add",
+   "note": "New card (debate): Fresh surah-name question; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Neolithic site in Balochistan, near the Bolan Pass, is one of South Asia's oldest farming settlements?",
+   "Description": "Mehrgarh",
+   "action": "add",
+   "note": "New card (debate): Pakistani history; absent."
+  },
+  {
+   "id": null,
+   "Name": "In which year did Allama Iqbal deliver his Allahabad Address, proposing a Muslim state in north-western India?",
+   "Description": "1930",
+   "action": "add",
+   "note": "New card (debate): Pakistan Movement gap; absent."
+  },
+  {
+   "id": null,
+   "Name": "In which year was Pakistan's current constitution adopted?",
+   "Description": "1973",
+   "action": "add",
+   "note": "New card (debate): Complements the 1956 card; absent."
+  },
+  {
+   "id": null,
+   "Name": "In which year did catastrophic monsoon floods submerge about a third of Pakistan, affecting over 30 million people?",
+   "Description": "2022",
+   "action": "add",
+   "note": "New card (debate): Recent local history and nature; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani-born physicist and MIT professor, who grew up in Karachi, helped detect gravitational waves with LIGO in 2015?",
+   "Description": "Nergis Mavalvala",
+   "action": "add",
+   "note": "New card (debate): Challenger's corrected birthplace wording; LIGO absent."
+  },
+  {
+   "id": null,
+   "Name": "The mighty Indus River begins in which country, in the highlands near Mount Kailash?",
+   "Description": "China (Tibet)",
+   "action": "add",
+   "note": "New card (debate): Source of the Indus not covered; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Which German doctor and nun spent decades in Karachi fighting leprosy, helping Pakistan control the disease?",
+   "Description": "Dr Ruth Pfau",
+   "action": "add",
+   "note": "New card (debate): Ethics and service hero; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Karachi institute, built up by Dr Adibul Hasan Rizvi, is famous for providing free kidney treatment and transplants?",
+   "Description": "SIUT (Sindh Institute of Urology and Transplantation)",
+   "action": "add",
+   "note": "New card (debate): Local charity and body; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Karakoram glacier, over 60 km long, is the trekking route to K2 Base Camp?",
+   "Description": "Baltoro Glacier",
+   "action": "add",
+   "note": "New card (debate): Nature of the north; absent."
+  },
+  {
+   "id": null,
+   "Name": "Which tiny sacs in the lungs let oxygen pass into the blood and carbon dioxide pass out?",
+   "Description": "Alveoli",
+   "action": "add",
+   "note": "New card (debate): Human body gap; absent."
+  },
+  {
+   "id": null,
+   "Name": "In which year did the devastating earthquake strike Azad Kashmir and Khyber Pakhtunkhwa, killing about 87,000 people?",
+   "Description": "2005",
+   "action": "add",
+   "note": "New card (debate): Local history and nature; no 2005 quake card."
+  },
+  {
+   "id": null,
+   "Name": "Which gland at the base of the brain is called the 'master gland' because it controls other hormone glands?",
+   "Description": "The pituitary gland",
+   "action": "add",
+   "note": "New card (debate): Human body gap; pituitary absent."
   }
  ]
 }

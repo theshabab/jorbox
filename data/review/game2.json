@@ -12159,6 +12159,318 @@
    "Category": "Transport",
    "action": "add",
    "note": "New card (debate): Travel card absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Kidney",
+   "Description": "Gurda | Organ | Filter | Dialysis | Bean",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Not in deck; clear and distinct clues."
+  },
+  {
+   "id": null,
+   "Name": "Liver",
+   "Description": "Jigar | Organ | Bile | Hepatitis | Right Side",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Not in deck; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Lungs",
+   "Description": "Phephray | Breathe | Oxygen | Asthma | Pair",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment removes Breathe/Inhale synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Skin",
+   "Description": "Jild | Largest Organ | Touch | Pores | Sunburn",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy to act."
+  },
+  {
+   "id": null,
+   "Name": "Blood",
+   "Description": "Khoon | Veins | Donate | Cells | Wound",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Amended to remove Veins/Vessels synonyms."
+  },
+  {
+   "id": null,
+   "Name": "Monsoon",
+   "Description": "Rain | Season | July | Flood | Pakoray",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Local weather season; banning Rain is the better version."
+  },
+  {
+   "id": null,
+   "Name": "Mirage",
+   "Description": "Sarab | Desert | Illusion | Thirsty | Heat",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Fresh science/nature concept; Quranic imagery."
+  },
+  {
+   "id": null,
+   "Name": "Fossil",
+   "Description": "Bones | Ancient | Dinosaur | Rock | Museum",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Deep-time science gap."
+  },
+  {
+   "id": null,
+   "Name": "Gravity",
+   "Description": "Newton | Pull | Fall | Weight | Earth",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Core science concept, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Chameleon",
+   "Description": "Girgit | Lizard | Camouflage | Tongue | Colors",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Challenger's concrete Colors clue is better."
+  },
+  {
+   "id": null,
+   "Name": "Snow Leopard",
+   "Description": "Leopard | Snow | Gilgit | Ghost | Rare",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Banning name words makes it playable."
+  },
+  {
+   "id": null,
+   "Name": "Microscope",
+   "Description": "Tiny | Lens | Cells | Lab | Magnify",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Science instrument gap."
+  },
+  {
+   "id": null,
+   "Name": "Telescope",
+   "Description": "Lens | Far | Stars | Planets | Tube",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Amended to remove Far/Zoom overlap."
+  },
+  {
+   "id": null,
+   "Name": "Alhambra",
+   "Description": "Granada | Spain | Palace | Nasrid | Red",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Muslim Andalus heritage; Spain/Andalus overlap removed."
+  },
+  {
+   "id": null,
+   "Name": "Hagia Sophia",
+   "Description": "Istanbul | Dome | Byzantine | Ottoman | Minarets",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Famous landmark, only a clue elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "Taj Mahal",
+   "Description": "Agra | Shah Jahan | Mumtaz | Marble | Mughal",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Shared Mughal history, accurate."
+  },
+  {
+   "id": null,
+   "Name": "Mansa Musa",
+   "Description": "Mali | Gold | Hajj | Timbuktu | Richest",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate, proud new region."
+  },
+  {
+   "id": null,
+   "Name": "Al-Kindi",
+   "Description": "Philosopher | Baghdad | Codes | Arab | Abbasid",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Amended to remove Codes/Cryptography synonyms."
+  },
+  {
+   "id": null,
+   "Name": "Abdul Sattar Edhi",
+   "Description": "Ambulance | Karachi | Charity | Cradle | Foundation",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Local icon of service; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Fatima Jinnah",
+   "Description": "Mader-e-Millat | Dentist | Sister | Quaid | Election",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Pakistan movement figure, accurate."
+  },
+  {
+   "id": null,
+   "Name": "Al-Idrisi",
+   "Description": "Map | Sicily | Geographer | Morocco | Roger",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Amended to remove Map/Atlas synonyms."
+  },
+  {
+   "id": null,
+   "Name": "Ghibah",
+   "Description": "Backbiting | Tongue | Absent | Dead Brother | Sin",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Judge fix: challenger's Chugli is a synonym of Backbiting, so Sin replaces it."
+  },
+  {
+   "id": null,
+   "Name": "Hasad",
+   "Description": "Jealousy | Heart | Burn | Blessings | Nazar",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Nazar replaces weak Wish clue."
+  },
+  {
+   "id": null,
+   "Name": "Ikhlas",
+   "Description": "Sincerity | Niyyah | Riya | Pure | Surah",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Worldview pillar, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Fitrana",
+   "Description": "Eid | Ramadan | Poor | Per Head | Before Namaz",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Familiar Ramadan charity practice, no ruling stated."
+  },
+  {
+   "id": null,
+   "Name": "Abu Talha al-Ansari",
+   "Description": "Bayruha | Garden | Archer | Uhud | Dates",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Accurate; Ansari removed from banned list."
+  },
+  {
+   "id": null,
+   "Name": "Zaid ibn Thabit",
+   "Description": "Scribe | Quran | Compile | Ansari | Revelation",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Key Quran compilation history, accurate."
+  },
+  {
+   "id": null,
+   "Name": "Archaeologist",
+   "Description": "Dig | Ruins | Artifacts | Mohenjo-daro | Brush",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): History job, actable."
+  },
+  {
+   "id": null,
+   "Name": "Astronomer",
+   "Description": "Stars | Observatory | Galaxy | Night | Scientist",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Science job gap."
+  },
+  {
+   "id": null,
+   "Name": "Caravan",
+   "Description": "Qafila | Camels | Silk Road | Traders | Desert",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Historical trade transport."
+  },
+  {
+   "id": null,
+   "Name": "Babur",
+   "Description": "Panipat | Mughal | Kabul | Memoir | Fergana",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Shared South Asian history, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sher Shah Suri",
+   "Description": "GT Road | Rohtas | Rupee | Humayun | Sasaram",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate local history."
+  },
+  {
+   "id": null,
+   "Name": "Zheng He",
+   "Description": "Admiral | China | Treasure Ships | Ming | Voyages",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): New world-history region, Muslim admiral."
+  },
+  {
+   "id": null,
+   "Name": "Echo",
+   "Description": "Goonj | Valley | Shout | Repeat | Mountain",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Fun science card to act out."
+  },
+  {
+   "id": null,
+   "Name": "Sandstorm",
+   "Description": "Aandhi | Dust | Wind | Thar | Eyes",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Judge fix: Sand replaced with Wind to avoid Dust/Sand overlap and name word."
+  },
+  {
+   "id": null,
+   "Name": "Magnet",
+   "Description": "Chumbak | Iron | Fridge | Poles | Attract",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Basic science concept."
+  },
+  {
+   "id": null,
+   "Name": "Fingerprint",
+   "Description": "Ink | Police | Unique | NADRA | Thumb",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Body and local identity hook."
+  },
+  {
+   "id": null,
+   "Name": "Adl",
+   "Description": "Justice | Court | Scales | Qazi | Umar",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Judge fix: Fair was a synonym of Justice, replaced with Court."
+  },
+  {
+   "id": null,
+   "Name": "Lady Health Worker",
+   "Description": "Polio | Drops | Village | Door | Vaccine",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Respectful, fresh local public-health job."
   }
  ]
 }

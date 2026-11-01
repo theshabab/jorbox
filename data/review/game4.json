@@ -12952,6 +12952,206 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Documented, travel and food, bluffable."
+  },
+  {
+   "id": null,
+   "Name": "days",
+   "Description": "Stomach acid is strong enough to damage the stomach itself, so the cells lining your stomach are replaced every few ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended: unambiguous blank, new body fact."
+  },
+  {
+   "id": null,
+   "Name": "20",
+   "Description": "Your brain is only about two percent of your body weight, but it uses roughly ____ percent of your energy.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate numeric bluff target, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "air",
+   "Description": "The clear front surface of your eye, the cornea, has no blood vessels; it gets its oxygen straight from the ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, counterintuitive body fact."
+  },
+  {
+   "id": null,
+   "Name": "morning",
+   "Description": "You are about a centimetre taller in the ____ than at night, because the cushions in your spine get squashed during the day.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from the astronaut spine card; mild but fine."
+  },
+  {
+   "id": null,
+   "Name": "four",
+   "Description": "Even the nearest star after our Sun, Proxima Centauri, is so far away that its light takes about ____ years to reach us.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended numeric version has bluff value; fits Sun/Moon light-time cards."
+  },
+  {
+   "id": null,
+   "Name": "Web",
+   "Description": "Underground fungus networks connect the roots of many forest trees, and scientists have nicknamed them the \"Wood Wide ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Cautious wording, correct category."
+  },
+  {
+   "id": null,
+   "Name": "clay",
+   "Description": "One of the world's earliest writing systems, cuneiform, was pressed into tablets of wet ____ in ancient Mesopotamia.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Hedged to be accurate; ancient-history gap."
+  },
+  {
+   "id": null,
+   "Name": "cow",
+   "Description": "The word \"vaccine\" comes from the Latin \"vacca\", meaning ____, because the world's first vaccine used material from cowpox.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate etymology, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "bee",
+   "Description": "Surah An-Nahl takes its name from the ____, whose honey is described in it as a source of healing for people.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Worldview, accurate (16:69), not in deck."
+  },
+  {
+   "id": null,
+   "Name": "raven",
+   "Description": "In the Quran, after one of Adam's sons killed his brother, Allah sent a ____ to scratch the ground and show him how to bury the body.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Quran 5:31, nature and ethics."
+  },
+  {
+   "id": null,
+   "Name": "families",
+   "Description": "The Prophet (PBUH) said the best of you are those who are best to their ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith, family ethics."
+  },
+  {
+   "id": null,
+   "Name": "Allah",
+   "Description": "The Prophet (PBUH) said that whoever does not thank people has not truly thanked ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith on gratitude; fits ethics focus."
+  },
+  {
+   "id": null,
+   "Name": "wasteful",
+   "Description": "In Surah Al-A'raf, Allah tells us to eat and drink, but not to be ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Quran 7:31, common rendering, no israf card exists."
+  },
+  {
+   "id": null,
+   "Name": "dog",
+   "Description": "The Prophet (PBUH) told of a man whom Allah forgave because he gave water to a thirsty ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Sahih hadith, mercy to animals, surprising answer."
+  },
+  {
+   "id": null,
+   "Name": "water",
+   "Description": "In Surah Al-Anbiya, Allah says that He made every living thing from ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Quran 21:30, science and revelation."
+  },
+  {
+   "id": null,
+   "Name": "eyes",
+   "Description": "Around the year 1000, Ibn al-Haytham showed that we see because light bounces off objects and enters our ____, not because rays shoot out of them.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Hedged verb; Muslim science pride, new angle."
+  },
+  {
+   "id": null,
+   "Name": "drains",
+   "Description": "More than 4,000 years ago, the Indus Valley city of Mohenjo-daro already had covered ____ running beneath its streets.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Documented, distinct from existing Mohenjo-daro cards."
+  },
+  {
+   "id": null,
+   "Name": "leprosy",
+   "Description": "Dr Ruth Pfau came to Karachi from Germany in 1960 and spent her life treating patients with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, service and ethics, new."
+  },
+  {
+   "id": null,
+   "Name": "Tsunami",
+   "Description": "Khyber Pakhtunkhwa's tree-planting campaign to grow a billion trees was called the \"Billion Tree ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Real campaign, nature and local life."
+  },
+  {
+   "id": null,
+   "Name": "mangrove",
+   "Description": "The Indus Delta, south-east of Karachi, is home to one of the world's largest arid-climate ____ forests.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Geography tightened."
+  },
+  {
+   "id": null,
+   "Name": "ghost",
+   "Description": "Snow leopards roam Pakistan's northern mountains and are so hard to spot that they are nicknamed the \"____ of the mountains\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Standard nickname, local wildlife."
+  },
+  {
+   "id": null,
+   "Name": "Ashoka",
+   "Description": "Near Mansehra in Khyber Pakhtunkhwa, giant rocks carry edicts carved over 2,000 years ago on the orders of Emperor ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well documented, obscure and good for bluffing."
+  },
+  {
+   "id": null,
+   "Name": "100,000",
+   "Description": "If all the blood vessels in an adult's body were laid end to end, they would stretch roughly ____ kilometres.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Commonly cited body fact, numeric bluff, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "cheats",
+   "Description": "The Prophet (PBUH) found damp grain hidden under dry grain in a merchant's heap and said, \"Whoever ____ us is not one of us.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Sahih Muslim, honest dealing ethics, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "teeth",
+   "Description": "At Mehrgarh in Balochistan, one of South Asia's oldest farming sites, archaeologists found that people were already drilling ____ more than 7,000 years ago.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended to 'more than 7,000' since published dates are 7,500-9,000 years; local history plus body."
   }
  ]
 }
