@@ -4871,9 +4871,9 @@
   },
   {
    "id": null,
-   "Name": "Chaat or Gol Gappay?",
+   "Name": "Gol Gappay or Dahi Bhalla?",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Replaces the muddled category-vs-item pairing with two distinct street snacks. Nothing else in the deck uses this pair."
   },
   {
    "id": null,
@@ -7178,6 +7178,36 @@
    "Name": "Name something you take along on a trip to the northern areas.",
    "action": "add",
    "note": "New card (debate): Distinct from the northern-places card; matchable answers (jacket, camera, snacks, shawl)."
+  },
+  {
+   "id": null,
+   "Name": "Name a flavor of kulfi.",
+   "action": "add",
+   "note": "New card (debate): Pista, malai, mango and badam are common answers. It does not duplicate 'Kulfi or Ice Cream?', which is a preference pair."
+  },
+  {
+   "id": null,
+   "Name": "Name a phrase you recite on a tasbeeh.",
+   "action": "add",
+   "note": "New card (debate): SubhanAllah, Alhamdulillah and Allahu Akbar are accurate, well-known answers, and nothing like it is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something you wear on your wrist.",
+   "action": "add",
+   "note": "New card (debate): Watch, bracelet and band are easy to match. No wrist card exists."
+  },
+  {
+   "id": null,
+   "Name": "Name a green vegetable cooked in winter.",
+   "action": "add",
+   "note": "New card (debate): Saag, palak, methi and sarson are local answers that converge. It is distinct from the generic 'Name something green' card."
+  },
+  {
+   "id": null,
+   "Name": "Name something girls put on for Eid.",
+   "action": "add",
+   "note": "New card (debate): Mehndi, chooriyan, new dress and perfume are matchable answers, and the card fits the Eid theme. It is not a duplicate of the Chand Raat or dulhan cards."
   }
  ]
 }

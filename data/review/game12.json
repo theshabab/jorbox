@@ -2625,11 +2625,11 @@
   {
    "id": "game12-292",
    "Name": "Hood",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Hood"
    },
-   "note": ""
+   "note": "Debate: Ambiguous; Hoodie stays live."
   },
   {
    "id": "game12-293",
@@ -2670,11 +2670,11 @@
   {
    "id": "game12-297",
    "Name": "Hormone",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Hormone"
    },
-   "note": ""
+   "note": "Debate: Abstract clinical term, hard to draw or act out."
   },
   {
    "id": "game12-298",
@@ -2868,11 +2868,11 @@
   {
    "id": "game12-319",
    "Name": "Junk",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Junk"
    },
-   "note": ""
+   "note": "Debate: Vague; overlaps with Garbage, which stays."
   },
   {
    "id": "game12-320",
@@ -2949,11 +2949,11 @@
   {
    "id": "game12-328",
    "Name": "Lady",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Lady"
    },
-   "note": ""
+   "note": "Debate: Vague, weak noun that is hard to convey."
   },
   {
    "id": "game12-329",
@@ -11597,6 +11597,60 @@
    "Name": "Debate",
    "action": "add",
    "note": "New card (debate): Fun to act out, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Ginger",
+   "action": "add",
+   "note": "New card (debate): Common desi kitchen noun, easy to act or draw."
+  },
+  {
+   "id": null,
+   "Name": "Lathi",
+   "action": "add",
+   "note": "New card (debate): Familiar South Asian stick, easy to act."
+  },
+  {
+   "id": null,
+   "Name": "Jug",
+   "action": "add",
+   "note": "New card (debate): Simple concrete household noun."
+  },
+  {
+   "id": null,
+   "Name": "Gift",
+   "action": "add",
+   "note": "New card (debate): Easy to act by handing over a present."
+  },
+  {
+   "id": null,
+   "Name": "Gold",
+   "action": "add",
+   "note": "New card (debate): Familiar noun around weddings and Eid."
+  },
+  {
+   "id": null,
+   "Name": "Jasmine",
+   "action": "add",
+   "note": "New card (debate): Local flower (moti ka phool), more specific than Flower."
+  },
+  {
+   "id": null,
+   "Name": "Laptop",
+   "action": "add",
+   "note": "New card (debate): Everyday concrete noun, easy to mime."
+  },
+  {
+   "id": null,
+   "Name": "Knot",
+   "action": "add",
+   "note": "New card (debate): Easy to draw or mime."
+  },
+  {
+   "id": null,
+   "Name": "Jewellery",
+   "action": "add",
+   "note": "New card (debate): Common wedding and Eid noun; Jewel and Jewelry are both removed, so no live duplicate."
   }
  ]
 }

@@ -4253,9 +4253,9 @@
   },
   {
    "id": null,
-   "Description": "Peoples in the Quran (Aad, Thamud, Bani Israel...)",
+   "Description": "Nations and Peoples Mentioned in the Quran (Aad, Thamud, Bani Israel...)",
    "action": "add",
-   "note": "New card (debate): Challenger's wording avoids story-vs-people confusion; accurate worldview card."
+   "note": "New card (debate): Challenger's wording avoids story-vs-people confusion; accurate worldview card.; Debate: Proposer's idx 596 was wrong; the card is 595. 'Peoples' alone reads oddly, and 'Peoples' is more accurate than 'Tribes' for Bani Israel."
   },
   {
    "id": null,
@@ -4331,9 +4331,9 @@
   },
   {
    "id": null,
-   "Description": "Ways to Pay for Something",
+   "Description": "Ways to Pay for Something (Cash, Card, JazzCash, Easypaisa...)",
    "action": "add",
-   "note": "New card (debate): No payment-methods card; local and global answers."
+   "note": "New card (debate): No payment-methods card; local and global answers.; Debate: Local examples make the scope clear and guessable."
   },
   {
    "id": null,
@@ -4409,9 +4409,9 @@
   },
   {
    "id": null,
-   "Description": "Things Traded Along the Silk Road",
+   "Description": "Things Traded Along the Silk Road (Silk, Spices, Tea...)",
    "action": "add",
-   "note": "New card (debate): General history with Muslim-world trade link; guessable goods; not in deck."
+   "note": "New card (debate): General history with Muslim-world trade link; guessable goods; not in deck.; Debate: Corrected idx (622 is Relatives Abroad). Hints make the history card playable."
   },
   {
    "id": null,
@@ -4583,9 +4583,9 @@
   },
   {
    "id": null,
-   "Description": "Ways to Say Hello in Different Languages",
+   "Description": "Ways to Say Hello in Different Languages (Salam, Bonjour, Hola...)",
    "action": "add",
-   "note": "New card (debate): Many well-known answers; not a duplicate of Languages."
+   "note": "New card (debate): Many well-known answers; not a duplicate of Languages.; Debate: Corrected idx (651 is Mountain Passes). Example hints clarify the card."
   },
   {
    "id": null,
@@ -4673,9 +4673,9 @@
   },
   {
    "id": null,
-   "Description": "Things With Strings (Dori)",
+   "Description": "Things With Strings (Dori) (Kite, Tasbeeh, Shoelaces...)",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment avoids the redundant 'Strings or Dori' and matches the deck's English (Urdu) style."
+   "note": "New card (debate): Challenger's amendment avoids the redundant 'Strings or Dori' and matches the deck's English (Urdu) style.; Debate: Corrected idx (666 is the saag dishes). Hints steer away from the obvious musical-instrument answers."
   },
   {
    "id": null,
@@ -4748,6 +4748,24 @@
    "Description": "Ways to Be Kind to Your Neighbours (Salam, Sharing Food, Helping...)",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording matches the deck pattern; asks for conduct, distinct from the share and annoy neighbour cards."
+  },
+  {
+   "id": null,
+   "Description": "Foods People Eat at Sehri (Paratha, Anda, Dahi...)",
+   "action": "add",
+   "note": "New card (debate): Distinct, relatable Ramadan card; not in the deck, and Iftar Foods does not cover it."
+  },
+  {
+   "id": null,
+   "Description": "Subjects Studied in a Madrasa (Tajweed, Hadith, Fiqh...)",
+   "action": "add",
+   "note": "New card (debate): Islamic-knowledge card with accurate, well-known answers; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Gift Ideas for Eid or a Wedding (Suit Piece, Perfume, Mithai Box...)",
+   "action": "add",
+   "note": "New card (debate): Broad, relatable card; answers are distinct from the Umrah gifts and Eidi cards."
   }
  ]
 }
