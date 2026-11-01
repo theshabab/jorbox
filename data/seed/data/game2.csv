@@ -443,12 +443,12 @@ Tree,Darakht | Leaves | Branches | Trunk | Roots,Nature
 Flower,Phool | Rose | Petals | Smell | Garden,Nature
 Grass,Ghaas | Green | Lawn | Cow | Field,Nature
 Leaf,Patta | Green | Branch | Autumn | Tree,Nature
-Sand,Rait | Beach | Desert | Thar | Castle,Nature
+Sand,Ret | Beach | Desert | Thar | Castle,Nature
 Rock,Pathar | Hard | Boulder | Heavy | Throw,Nature
 TV,Television | Remote | Channel | News | Cricket,Electronics
 Radio,FM | Station | News | Commentary | Signal,Electronics
 Computer,PC | Monitor | Desktop | Internet | Windows,Electronics
-Laptop,Computer | Portable | Lap | Apple | Charger,Electronics
+Laptop,Computer | Portable | Keyboard | Charger | Bag,Electronics
 Mobile,Phone | Call | Message | Smartphone | iPhone,Electronics
 Tablet,iPad | Big Phone | Touch | Screen | Kids,Electronics
 Camera,Photo | Picture | Click | Lens | Selfie,Electronics
@@ -456,8 +456,8 @@ Speaker,Sound | Loud | Volume | Bluetooth | Bass,Electronics
 Headphones,Ears | Listen | Wire | Bluetooth | Earphones,Electronics
 Mouse,Click | Cursor | Computer | Scroll | Chooha,Electronics
 Keyboard,Type | Keys | Letters | Computer | Buttons,Electronics
-Printer,Print | Paper | Ink | Copy | Office,Electronics
-Scanner,Scan | Copy | Document | PDF | Barcode,Electronics
+Printer,Paper | Ink | Copy | Office | Cartridge,Electronics
+Scanner,Document | PDF | Barcode | Copy | Glass,Electronics
 Fan,Pankha | Ceiling | Air | Spin | Garmi,Electronics
 AC,Air Conditioner | Cold | Cool | Summer | Bill,Electronics
 Heater,Garam | Winter | Gas | Cold | Electric,Electronics
@@ -468,12 +468,12 @@ Iron,Istri | Clothes | Press | Wrinkles | Steam,Electronics
 Blender,Shake | Mix | Smoothie | Lassi | Grind,Electronics
 Toaster,Bread | Toast | Breakfast | Pop | Slice,Electronics
 Juicer,Juice | Fruit | Orange | Squeeze | Fresh,Electronics
-Watch,Ghari | Wrist | Time | Hands | Smartwatch,Electronics
+Watch,Wrist | Time | Hands | Strap | Smart,Electronics
 Clock,Ghari | Wall | Time | Alarm | Tick,Electronics
 Hammer,Hathora | Nail | Hit | Bang | Carpenter,Tools
 Nail,Keel | Hammer | Sharp | Wall | Wood,Tools
-Screw,Twist | Screwdriver | Bolt | Turn | Wood,Tools
-Screwdriver,Screw | Turn | Twist | Bolt | Tighten,Tools
+Screw,Twist | Nut | Turn | Wood | Thread,Tools
+Screwdriver,Turn | Twist | Bolt | Tighten | Flathead,Tools
 Wrench,Spanner | Nut | Bolt | Tighten | Plumber,Tools
 Pliers,Plas | Grip | Wire | Bend | Electrician,Tools
 Saw,Wood | Cut | Teeth | Carpenter | Aari,Tools
@@ -1102,3 +1102,11 @@ Qari,Quran | Recite | Tajweed | Voice | Masjid,Occupations
 Clerk,Office | Files | Babu | Desk | Government,Occupations
 Principal,Headmaster | Assembly | Teachers | Strict | Office,Occupations
 Motorway,M2 | Toll | Islamabad | Lanes | Speed,Transport
+Jhoomar,Side | Hair | Bride | Hanging | Chandelier,Jewelry
+Flood,Water | Rain | Sailab | Village | Rescue,Nature
+Canal,Nehar | Water | Irrigation | Lahore | Boat,Nature
+Dust,Dhool | Gard | Furniture | Sneeze | Wipe,Nature
+Extension Board,Plug | Sockets | Wire | Switch | Multi,Electronics
+Hair Dryer,Blow | Wet | Hot | Salon | Styling,Electronics
+Needle,Sui | Thread | Sew | Sharp | Haystack,Tools
+Rope,Rassi | Tie | Pull | Knot | Tug,Tools

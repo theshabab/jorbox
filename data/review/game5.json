@@ -136,15 +136,15 @@
   {
    "id": "game5-11",
    "Name": "",
-   "Description": "I got caught ____ by my in-laws.",
+   "Description": "I got caught sneaking ____ by my in-laws.",
    "Category": "Awkward Moments",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I got caught ____ by my in-laws.",
     "Category": "Awkward Moments"
    },
-   "note": ""
+   "note": "Debate: Original invites crude or sexual answers; 'sneaking' steers to food, snacks or phone use while keeping the in-law awkwardness."
   },
   {
    "id": "game5-12",
@@ -474,7 +474,7 @@
   {
    "id": "game5-37",
    "Name": "",
-   "Description": "Parents think mental health is just ____.",
+   "Description": "Parents think stress is just ____.",
    "Category": "Parents",
    "action": "edit",
    "original": {
@@ -482,7 +482,7 @@
     "Description": "parents think mental health is just ____.",
     "Category": "Parents"
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: Avoids inviting mockery of mental illness while keeping the generational-gap joke."
   },
   {
    "id": "game5-38",
@@ -851,15 +851,15 @@
   {
    "id": "game5-66",
    "Name": "",
-   "Description": "Taraweeh would be easier if it wasn't for ____.",
+   "Description": "After Taraweeh, the first thing I want is ____.",
    "Category": "Ramadan Life",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Taraweeh would be easier if it wasn't for ____.",
     "Category": "Ramadan Life"
    },
-   "note": ""
+   "note": "Debate: Original framed Taraweeh as an obstacle; amended version is a neutral, relatable after-prayer craving."
   },
   {
    "id": "game5-67",
@@ -2515,7 +2515,7 @@
   {
    "id": "game5-194",
    "Name": "",
-   "Description": "My stomach made weird noises because of ____.",
+   "Description": "My stomach growled loudly in the middle of ____.",
    "Category": "Awkward Moments",
    "action": "edit",
    "original": {
@@ -2523,7 +2523,7 @@
     "Description": "My stomach made weird noises because of ____.",
     "Category": "Body Functions"
    },
-   "note": ""
+   "note": "Debate: Removes bathroom-adjacent answers (not allowed by owner) while keeping the awkward-noise setup."
   },
   {
    "id": "game5-195",

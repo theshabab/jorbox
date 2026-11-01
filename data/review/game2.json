@@ -6090,7 +6090,7 @@
   {
    "id": "game2-469",
    "Name": "Sand",
-   "Description": "Rait | Beach | Desert | Thar | Castle",
+   "Description": "Ret | Beach | Desert | Thar | Castle",
    "Category": "Nature",
    "action": "edit",
    "original": {
@@ -6098,7 +6098,7 @@
     "Description": "natural | outdoor | earth | sky",
     "Category": "Nature"
    },
-   "note": ""
+   "note": "Debate: Urdu is Ret, not Rait; retargeted to idx 468 (469 is Rock)."
   },
   {
    "id": "game2-470",
@@ -6168,7 +6168,7 @@
   {
    "id": "game2-475",
    "Name": "Laptop",
-   "Description": "Computer | Portable | Lap | Apple | Charger",
+   "Description": "Computer | Portable | Keyboard | Charger | Bag",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6176,7 +6176,7 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Lap is inside the name; Apple is a brand giveaway."
   },
   {
    "id": "game2-476",
@@ -6272,7 +6272,7 @@
   {
    "id": "game2-483",
    "Name": "Printer",
-   "Description": "Print | Paper | Ink | Copy | Office",
+   "Description": "Paper | Ink | Copy | Office | Cartridge",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6280,12 +6280,12 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Print is inside the name."
   },
   {
    "id": "game2-484",
    "Name": "Scanner",
-   "Description": "Scan | Copy | Document | PDF | Barcode",
+   "Description": "Document | PDF | Barcode | Copy | Glass",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6293,7 +6293,7 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Scan is inside the name."
   },
   {
    "id": "game2-485",
@@ -6428,7 +6428,7 @@
   {
    "id": "game2-495",
    "Name": "Watch",
-   "Description": "Ghari | Wrist | Time | Hands | Smartwatch",
+   "Description": "Wrist | Time | Hands | Strap | Smart",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6436,7 +6436,7 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Smartwatch contains the name word; Ghari duplicates the Clock clue."
   },
   {
    "id": "game2-496",
@@ -6480,7 +6480,7 @@
   {
    "id": "game2-499",
    "Name": "Screw",
-   "Description": "Twist | Screwdriver | Bolt | Turn | Wood",
+   "Description": "Twist | Nut | Turn | Wood | Thread",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6488,12 +6488,12 @@
     "Description": "tool | metal | work | fix",
     "Category": "Tools"
    },
-   "note": ""
+   "note": "Debate: Screwdriver contains the name word Screw."
   },
   {
    "id": "game2-500",
    "Name": "Screwdriver",
-   "Description": "Screw | Turn | Twist | Bolt | Tighten",
+   "Description": "Turn | Twist | Bolt | Tighten | Flathead",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6501,7 +6501,7 @@
     "Description": "tool | metal | work | fix",
     "Category": "Tools"
    },
-   "note": "QA: obvious clue instead of generic"
+   "note": "QA: obvious clue instead of generic; Debate: Screw is a name word and cannot be banned."
   },
   {
    "id": "game2-501",
@@ -12887,6 +12887,70 @@
    "Category": "Transport",
    "action": "add",
    "note": "New card (debate): Well-known Pakistani road, no existing card."
+  },
+  {
+   "id": null,
+   "Name": "Jhoomar",
+   "Description": "Side | Hair | Bride | Hanging | Chandelier",
+   "Category": "Jewelry",
+   "action": "add",
+   "note": "New card (debate): Bridal ornament; clues differ from Matha Patti (replaced Hyderabadi with a clearer clue)."
+  },
+  {
+   "id": null,
+   "Name": "Flood",
+   "Description": "Water | Rain | Sailab | Village | Rescue",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Familiar in Pakistan, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Canal",
+   "Description": "Nehar | Water | Irrigation | Lahore | Boat",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Local word; Bank replaced with Boat."
+  },
+  {
+   "id": null,
+   "Name": "Dust",
+   "Description": "Dhool | Gard | Furniture | Sneeze | Wipe",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Correct Urdu (Dhool, not Mitti) and distinct clues."
+  },
+  {
+   "id": null,
+   "Name": "Extension Board",
+   "Description": "Plug | Sockets | Wire | Switch | Multi",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani household item, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Hair Dryer",
+   "Description": "Blow | Wet | Hot | Salon | Styling",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Removed Hair, a name word."
+  },
+  {
+   "id": null,
+   "Name": "Needle",
+   "Description": "Sui | Thread | Sew | Sharp | Haystack",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Clear, actable, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Rope",
+   "Description": "Rassi | Tie | Pull | Knot | Tug",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Common word with distinct clues."
   }
  ]
 }

@@ -7078,14 +7078,14 @@
   },
   {
    "id": "game9-644",
-   "Name": "Which countries participated in the Lobster War?",
+   "Name": "Which two countries argued over lobster fishing rights in the 1961-63 'Lobster War'?",
    "Description": "France and Brazil",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which countries participated in the Lobster War?",
     "Description": "France and Brazil"
    },
-   "note": ""
+   "note": "Debate: Accurate (France vs Brazil); clearer, self-contained question."
   },
   {
    "id": "game9-645",
@@ -7551,14 +7551,14 @@
   },
   {
    "id": "game9-687",
-   "Name": "Centipedes always have an odd number of pairs of legs. Which number of legs, suggested by their name, can they therefore never have?",
+   "Name": "Centipede means 'hundred feet', yet centipedes always have an odd number of pairs of legs. Which number of legs can they therefore never have?",
    "Description": "100",
    "action": "edit",
    "original": {
     "Name": "How many legs is it biologically impossible for a centipede to have?",
     "Description": "100"
    },
-   "note": "original ambiguous (many numbers impossible)"
+   "note": "original ambiguous (many numbers impossible); Debate: Fact checked: leg count is 2 x odd, so never divisible by 4; 100 is impossible. Clearer than the original."
   },
   {
    "id": "game9-688",
@@ -7584,14 +7584,14 @@
   },
   {
    "id": "game9-690",
-   "Name": "Where in the human body is the pineal gland located?",
-   "Description": "Brain",
+   "Name": "The pineal gland, which helps regulate the body's sleep cycle through melatonin, is found in which organ?",
+   "Description": "The brain",
    "action": "edit",
    "original": {
     "Name": "Where in the human body is the Pineal Gland located?",
     "Description": "Brain"
    },
-   "note": "Debate: Removes the incorrect capitalisation."
+   "note": "Debate: Removes the incorrect capitalisation.; Debate: Accurate; adds a clue to an otherwise vague question."
   },
   {
    "id": "game9-691",
@@ -12545,6 +12545,48 @@
    "Description": "Meta (formerly Facebook)",
    "action": "add",
    "note": "New card (debate): Accurate; social media allowed; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Babylonian king issued one of the oldest known written law codes, around 1754 BCE?",
+   "Description": "Hammurabi",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate in the deck or review file."
+  },
+  {
+   "id": null,
+   "Name": "The name Mesopotamia means 'land between' which two rivers?",
+   "Description": "Tigris and Euphrates",
+   "action": "add",
+   "note": "New card (debate): Accurate; distinct from the Assyrians card."
+  },
+  {
+   "id": null,
+   "Name": "Which is the only one of the Seven Wonders of the Ancient World that still stands today?",
+   "Description": "The Great Pyramid of Giza",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani city is often called the 'City of Gardens'?",
+   "Description": "Lahore",
+   "action": "add",
+   "note": "New card (debate): Accurate local-knowledge card; different question from the existing Lahore card."
+  },
+  {
+   "id": null,
+   "Name": "Which Italian astronomer discovered Jupiter's four largest moons in 1610?",
+   "Description": "Galileo Galilei",
+   "action": "add",
+   "note": "New card (debate): Accurate; no Galileo/Jupiter-moons duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Mediterranean island, divided between Greek and Turkish Cypriots since 1974, is also a Commonwealth member?",
+   "Description": "Cyprus",
+   "action": "add",
+   "note": "New card (debate): Accurate and neutrally worded; no duplicate."
   }
  ]
 }
