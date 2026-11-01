@@ -2008,7 +2008,7 @@
   {
    "id": "game1-155",
    "Name": "Desk",
-   "Description": "Table for studying or office work",
+   "Description": "Study or office furniture, often with drawers",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2016,7 +2016,7 @@
     "Description": "Work furniture",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Removes sibling word Table from the hint; accurate and clear."
   },
   {
    "id": "game1-156",
@@ -2034,7 +2034,7 @@
   {
    "id": "game1-157",
    "Name": "Bench",
-   "Description": "Long seat for several people",
+   "Description": "Long seat in a park, mosque courtyard or classroom",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2042,7 +2042,7 @@
     "Description": "A long seat",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Separates it from Sofa's near-identical hint with a fitting local context."
   },
   {
    "id": "game1-158",
@@ -2060,7 +2060,7 @@
   {
    "id": "game1-159",
    "Name": "Dressing Table",
-   "Description": "Mirror with drawers for makeup and combs",
+   "Description": "Furniture with a mirror and drawers for makeup and combs",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2068,7 +2068,7 @@
     "Description": "Bedroom furniture",
     "Category": "Furniture"
    },
-   "note": "Specific hint; Debate: Uses the local Pakistani sense of the word.; Synced with Charades rename"
+   "note": "Specific hint; Debate: Uses the local Pakistani sense of the word.; Synced with Charades rename; Debate: Hint no longer starts with sibling card Mirror and clearly describes the furniture."
   },
   {
    "id": "game1-160",
@@ -2216,7 +2216,7 @@
   {
    "id": "game1-171",
    "Name": "Cradle",
-   "Description": "Rocking bed for a baby",
+   "Description": "Rocking bed for a baby, palna",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2224,7 +2224,7 @@
     "Description": "Baby bed",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Palna is the correct Urdu word for cradle; jhoola means swing and would mislead."
   },
   {
    "id": "game1-172",
@@ -2307,7 +2307,7 @@
   {
    "id": "game1-178",
    "Name": "Glass",
-   "Description": "Clear cup for drinking water",
+   "Description": "Clear tumbler for water or juice, gilaas",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2315,7 +2315,7 @@
     "Description": "Drinking vessel",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger's amendment: drops sibling word 'cup', avoids duplicated 'vessel', adds the correct Urdu word."
   },
   {
    "id": "game1-179",
@@ -2333,7 +2333,7 @@
   {
    "id": "game1-180",
    "Name": "Mug",
-   "Description": "Large cup for hot drinks",
+   "Description": "Big handled container for hot coffee or tea",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2341,7 +2341,7 @@
     "Description": "Drinking vessel",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named sibling card Cup; reworded to avoid 'cup' and also 'vessel' (used in Cup's hint)."
   },
   {
    "id": "game1-181",

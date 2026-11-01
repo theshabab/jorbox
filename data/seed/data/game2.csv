@@ -238,7 +238,6 @@ Dove,Fakhta | Peace | White | Olive | Pigeon,Birds
 Myna,Maina | Talk | Yellow Beak | Brown | Tota,Birds
 Bulbul,Chirp | Nightingale | Garden | Flower | Poetry,Birds
 Chakor,National Bird | Pakistan | Partridge | Moon | Mountains,Birds
-Partridge,Teetar | Fight | Hunting | Brown | Chakor,Birds
 Cricket,Bat | Babar | Wicket | Imran Khan | World Cup,Sports
 Hockey,Stick | National Game | Goal | Field | Ice,Sports
 Football,Goal | Ball | Penalty | Kick | FIFA,Sports
@@ -253,7 +252,7 @@ Golf,Hole | Club | Ball | Course | Putt,Sports
 Swimming,Pool | Water | Tairna | Dive | Laps,Sports
 Running,Daurna | Race | Track | Marathon | Sprint,Sports
 Volleyball,Net | Spike | Beach | Smash | Serve,Sports
-Basketball,Hoop | Tall | Dribble | Slam Dunk | Basket,Sports
+Basketball,Hoop | Tall | Dribble | Slam Dunk | Court,Sports
 Snooker,Cue | Table | Pocket | Mohammad Yousaf | Balls,Sports
 Table Tennis,Ping Pong | Paddle | Net | China | Bat,Sports
 Archery,Bow | Arrow | Target | Teer | Kaman,Sports
@@ -1086,3 +1085,12 @@ Property Dealer,Plot | Commission | Society | File | Office,Occupations
 Home Tutor,Tuition | Exam | Evening | Notes | Fees,Occupations
 Bukhara,Uzbekistan | Silk Road | Imam | Sahih | Minaret,Islamic Locations
 Swat,Valley | Mingora | Snow | Kalam | KPK,Pakistani Cities
+Jackal,Gidar | Howl | Night | Wolf | Bhabki,Animals
+Fish,Machli | Water | Fins | Scales | Net,Animals
+Crab,Kekra | Claws | Beach | Sideways | Sea,Animals
+Tent Pegging,Neza | Horse | Spear | Cavalry | Gallop,Sports
+Javelin,Arshad Nadeem | Throw | Spear | Olympics | Gold,Sports
+Bala Hisar Fort,Peshawar | Qila | Walls | Frontier Corps | Khyber Pakhtunkhwa,Historical Places
+Pyramids,Egypt | Firaun | Giza | Desert | Tombs,Historical Places
+Potter,Kumhar | Clay | Wheel | Matka | Kiln,Occupations
+Blacksmith,Lohar | Iron | Anvil | Hammer | Fire,Occupations

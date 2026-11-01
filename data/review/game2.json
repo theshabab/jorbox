@@ -3219,13 +3219,13 @@
    "Name": "Partridge",
    "Description": "Teetar | Fight | Hunting | Brown | Chakor",
    "Category": "Birds",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Partridge",
     "Description": "bird | fly | feather | nest",
     "Category": "Birds"
    },
-   "note": "Close to Chakor (a partridge species); kept as distinct"
+   "note": "Debate: Overlaps with Chakor (a partridge species). Chakor (game2-247) is still live with action edit, so only one of the pair is removed."
   },
   {
    "id": "game2-249",
@@ -3425,7 +3425,7 @@
   {
    "id": "game2-264",
    "Name": "Basketball",
-   "Description": "Hoop | Tall | Dribble | Slam Dunk | Basket",
+   "Description": "Hoop | Tall | Dribble | Slam Dunk | Court",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3433,7 +3433,7 @@
     "Description": "sport | game | player | similar",
     "Category": "Sports"
    },
-   "note": "Replaced foreign athlete names; Sweep: replaced US/film/myth/bathroom hint word"
+   "note": "Replaced foreign athlete names; Sweep: replaced US/film/myth/bathroom hint word; Debate: 'Basket' was the root of the answer, so it was a wasted banned word. Court replaces it."
   },
   {
    "id": "game2-265",
@@ -12735,6 +12735,78 @@
    "Category": "Pakistani Cities",
    "action": "add",
    "note": "New card (debate): Well-known local destination missing from deck."
+  },
+  {
+   "id": null,
+   "Name": "Jackal",
+   "Description": "Gidar | Howl | Night | Wolf | Bhabki",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Familiar local animal with a well-known idiom. No Jackal card exists."
+  },
+  {
+   "id": null,
+   "Name": "Fish",
+   "Description": "Machli | Water | Fins | Scales | Net",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Basic animal, easy to act. No Fish card exists."
+  },
+  {
+   "id": null,
+   "Name": "Crab",
+   "Description": "Kekra | Claws | Beach | Sideways | Sea",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Easy to mime. No Crab card exists."
+  },
+  {
+   "id": null,
+   "Name": "Tent Pegging",
+   "Description": "Neza | Horse | Spear | Cavalry | Gallop",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Neza-bazi is a well-known sport in Pakistan. Challenger's amendment applied: 'Peg' is part of the card name, so Gallop replaces it."
+  },
+  {
+   "id": null,
+   "Name": "Javelin",
+   "Description": "Arshad Nadeem | Throw | Spear | Olympics | Gold",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Arshad Nadeem won Pakistan's javelin Olympic gold in 2024. The facts are correct and the card is familiar to local players."
+  },
+  {
+   "id": null,
+   "Name": "Bala Hisar Fort",
+   "Description": "Peshawar | Qila | Walls | Frontier Corps | Khyber Pakhtunkhwa",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Well-known Peshawar fort that adds Khyber Pakhtunkhwa coverage. No duplicate exists."
+  },
+  {
+   "id": null,
+   "Name": "Pyramids",
+   "Description": "Egypt | Firaun | Giza | Desert | Tombs",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment applied: Sphinx (mythical creature) and Cairo (clashes with the Cairo card) are dropped in favour of Firaun and Giza."
+  },
+  {
+   "id": null,
+   "Name": "Potter",
+   "Description": "Kumhar | Clay | Wheel | Matka | Kiln",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Traditional village trade, easy to mime. No Potter card exists."
+  },
+  {
+   "id": null,
+   "Name": "Blacksmith",
+   "Description": "Lohar | Iron | Anvil | Hammer | Fire",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Traditional trade with strong mime actions. No Blacksmith card exists."
   }
  ]
 }

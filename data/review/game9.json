@@ -3626,12 +3626,12 @@
    "id": "game9-330",
    "Name": "What is the scientific name of the red fox?",
    "Description": "Vulpes vulpes",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is the scientific name of the red fox?",
     "Description": "Vulpes Vulpes"
    },
-   "note": "capitalisation"
+   "note": "Debate: Unguessable Latin binomial."
   },
   {
    "id": "game9-331",
@@ -3890,12 +3890,12 @@
    "id": "game9-354",
    "Name": "The island of Gotland belongs to which country?",
    "Description": "Sweden",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The land of Gotland is located in which European country?",
     "Description": "Sweden"
    },
-   "note": "wording"
+   "note": "Debate: Obscure; cannot be reasoned out."
   },
   {
    "id": "game9-355",
@@ -3967,12 +3967,12 @@
    "id": "game9-361",
    "Name": "The Japanese district Akihabara is also known by what nickname?",
    "Description": "Electric Town",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "The Japanese district Akihabara is also known by what nickname?",
     "Description": "Electric Town"
    },
-   "note": ""
+   "note": "Debate: Niche and not relevant to the players."
   },
   {
    "id": "game9-362",
@@ -3998,14 +3998,14 @@
   },
   {
    "id": "game9-364",
-   "Name": "What is the largest non-continental island in the world?",
+   "Name": "What is the largest island in the world that is not a continent?",
    "Description": "Greenland",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is the largest non-continental island in the world?",
     "Description": "Greenland"
    },
-   "note": ""
+   "note": "Debate: Clearer wording than 'non-continental'."
   },
   {
    "id": "game9-365",
@@ -4088,12 +4088,12 @@
    "id": "game9-372",
    "Name": "If you planted the seeds of Quercus robur what would grow?",
    "Description": "Oak (English oak)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "If you planted the seeds of Quercus robur what would grow?",
     "Description": "Trees"
    },
-   "note": "answer was too vague"
+   "note": "Debate: Same unguessable Latin-name problem as P5 and P6; consistent removal."
   },
   {
    "id": "game9-373",
@@ -4163,14 +4163,14 @@
   },
   {
    "id": "game9-379",
-   "Name": "Human cells typically have how many copies of each gene?",
+   "Name": "Human body cells (other than sperm and egg cells) typically have how many copies of each gene?",
    "Description": "2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Human cells typically have how many copies of each gene?",
     "Description": "2"
    },
-   "note": ""
+   "note": "Debate: Corrected idx to 378 (379 is the moons card); wording made precise."
   },
   {
    "id": "game9-380",
@@ -4198,12 +4198,12 @@
    "id": "game9-382",
    "Name": "What is the scientific name of the domestic apple tree?",
    "Description": "Malus domestica",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is the Linnean name of the domestic apple tree?",
     "Description": "Malus pumila"
    },
-   "note": "updated accepted name"
+   "note": "Debate: Unguessable Latin binomial."
   },
   {
    "id": "game9-383",
@@ -4264,12 +4264,12 @@
    "id": "game9-388",
    "Name": "What is isobutylphenylpropanoic acid more commonly known as?",
    "Description": "Ibuprofen",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is isobutylphenylpropanoic acid more commonly known as?",
     "Description": "Ibuprofen"
    },
-   "note": ""
+   "note": "Debate: Unplayable chemical name."
   },
   {
    "id": "game9-389",
@@ -4418,12 +4418,12 @@
    "id": "game9-402",
    "Name": "How many provinces are in the Netherlands?",
    "Description": "12",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "How many provinces are in the Netherlands?",
     "Description": "12"
    },
-   "note": ""
+   "note": "Debate: Rote number trivia."
   },
   {
    "id": "game9-403",
@@ -12426,6 +12426,76 @@
    "Description": "Shu'ayb (AS)",
    "action": "add",
    "note": "New card (debate): Honest business worldview card, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the highest mountain in Japan?",
+   "Description": "Mount Fuji",
+   "action": "add",
+   "note": "New card (debate): Accurate, well known, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which mountain, in Russia's Caucasus range, is usually named as the highest in Europe?",
+   "Description": "Mount Elbrus",
+   "action": "add",
+   "note": "New card (debate): Accurate, hedged for the Mont Blanc debate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which river flows through the European capitals Vienna, Budapest and Belgrade?",
+   "Description": "The Danube",
+   "action": "add",
+   "note": "New card (debate): Accurate and reasonable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which space telescope, launched in 1990 and still operating, is famous for its deep-field images of distant galaxies?",
+   "Description": "Hubble Space Telescope",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version; the original clue gave away the answer."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Iceland?",
+   "Description": "Reykjavik",
+   "action": "add",
+   "note": "New card (debate): Fair capitals card, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Lake Titicaca, the world's highest navigable lake, lies on the border of Peru and which other country?",
+   "Description": "Bolivia",
+   "action": "add",
+   "note": "New card (debate): Accurate and playable."
+  },
+  {
+   "id": null,
+   "Name": "Which ancient fort overlooks Karimabad in Pakistan's Hunza Valley?",
+   "Description": "Baltit Fort",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani frame."
+  },
+  {
+   "id": null,
+   "Name": "Which scenic valley in Khyber Pakhtunkhwa is nicknamed the 'Switzerland of the East'?",
+   "Description": "Swat Valley",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani frame."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Mongolia?",
+   "Description": "Ulaanbaatar",
+   "action": "add",
+   "note": "New card (debate): Correct; the Gobi card is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the highest mountain on mainland Australia?",
+   "Description": "Mount Kosciuszko",
+   "action": "add",
+   "note": "New card (debate): Reworded to 'mainland' because Australian territory includes the higher Mawson Peak on Heard Island."
   }
  ]
 }
