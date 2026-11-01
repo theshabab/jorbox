@@ -193,13 +193,13 @@
   {
    "id": "game16-18",
    "Name": "If you were given 24 hours to live, what would you do?",
-   "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "edit",
    "original": {
     "Name": "If you were given 24 hours to live, what would you do?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Reflective question fits Deep category better."
   },
   {
    "id": "game16-19",
@@ -1270,14 +1270,14 @@
   },
   {
    "id": "game16-116",
-   "Name": "If you had the opportunity to know the future, would you want to know?",
+   "Name": "If you could know exactly how the next ten years of your life will turn out, would you want to? Why or why not?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you had the opportunity to know the future, would you want to know?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Clearer, neutral hypothetical; avoids a leading pious answer and fortune-telling framing."
   },
   {
    "id": "game16-117",
@@ -9388,6 +9388,41 @@
    "Category": "Deep & ThoughtProvoking",
    "action": "add",
    "note": "New card (debate): Challenger's amended version: the well-established fact is stated accurately and the question is simplified."
+  },
+  {
+   "id": null,
+   "Name": "What would you put in a time capsule to be opened by your grandchildren in 2060?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): New fun question; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing you ever scribbled on the last page of a school notebook?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable desi school memory; not covered."
+  },
+  {
+   "id": null,
+   "Name": "If you had an identical twin for one day, what would you get done, and where would you send them in your place?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Playful hypothetical; challenger's friendlier framing; distinct from clones card."
+  },
+  {
+   "id": null,
+   "Name": "For one month would you rather have a personal cook, a personal driver or someone to do all your laundry and ironing, and why?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Fun either-or with local flavor; avoids hierarchical cleaner framing."
+  },
+  {
+   "id": null,
+   "Name": "Which kulfi, falooda or ice cream stall from your city would you take a guest to first?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Local food-spot question, distinct from existing food cards."
   }
  ]
 }

@@ -353,7 +353,7 @@ How many of your relatives' phone numbers are saved in your phone?,Number
 How much do your younger siblings or cousins listen to you?,0 to 100
 How many of your great-grandparents can you name?,Number
 How likely are you to fall asleep on the sofa at a relative's house?,0 to 100
-How many times have you been mistaken for a sibling or cousin?,Number
+How many times have you been mistaken for your sibling or cousin by a stranger?,Number
 How many schools have you studied at?,Number
 How many times were you made class monitor?,Number
 How much did you enjoy Urdu class at school?,0 to 100
@@ -383,7 +383,7 @@ How likely are you to use your phone at the dinner table?,0 to 100
 How many years old is your current phone?,Number
 How much does a cracked phone screen bother you?,0 to 100
 How many chargers do you own?,Number
-"According to your family, how much do you talk in your sleep?",0 to 100
+"According to your family, how likely are you to talk in your sleep?",0 to 100
 How many pillows do you sleep with?,Number
 How many minutes does it usually take you to fall asleep?,Number
 How much do you need total darkness to sleep?,0 to 100
@@ -721,3 +721,10 @@ How many times have you waited in a long queue at a petrol pump or CNG station?,
 How good are you at finding a parking spot in a crowded bazaar?,0 to 100
 How many cups of chai or kahwa do you drink on a cold winter day?,Number
 How likely are you to finish the last piece of food on the table without asking anyone?,0 to 100
+How many times this week have you been told to wear a sweater or cap because 'thand lag jaye gi'?,Number
+How likely are you to ask for extra raita or dahi with your biryani?,0 to 100
+How much do you love kheer?,0 to 100
+How many naans or rotis have you carried home from the tandoor in one trip?,Number
+"How many devices (phones, tablets, laptops) are charging in your house right now?",Number
+"How many times have you been asked 'Beta, kuch khaya?' by your mother this week?",Number
+How likely are you to ask your neighbours to switch off their noisy generator at night?,0 to 100

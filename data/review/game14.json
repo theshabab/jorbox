@@ -4202,10 +4202,10 @@
   },
   {
    "id": null,
-   "Description": "How many times have you been mistaken for a sibling or cousin?",
+   "Description": "How many times have you been mistaken for your sibling or cousin by a stranger?",
    "Category": "Number",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Clarifies who mistook whom."
   },
   {
    "id": null,
@@ -4426,10 +4426,10 @@
   },
   {
    "id": null,
-   "Description": "According to your family, how much do you talk in your sleep?",
+   "Description": "According to your family, how likely are you to talk in your sleep?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card; Debate: People only know they sleep-talk from others; this makes it answerable and funnier."
+   "note": "New card; Debate: People only know they sleep-talk from others; this makes it answerable and funnier.; Debate: 'How likely' fits the 0 to 100 scale."
   },
   {
    "id": null,
@@ -6803,6 +6803,55 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Relatable family-gathering food card, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you been told to wear a sweater or cap because 'thand lag jaye gi'?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable desi family card with an answerable time frame."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to ask for extra raita or dahi with your biryani?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No raita/dahi card in deck."
+  },
+  {
+   "id": null,
+   "Description": "How much do you love kheer?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Kheer is absent from the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many naans or rotis have you carried home from the tandoor in one trip?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local, concrete count; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many devices (phones, tablets, laptops) are charging in your house right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Verifiable right-now count, distinct from existing charger cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been asked 'Beta, kuch khaya?' by your mother this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable family card, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to ask your neighbours to switch off their noisy generator at night?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version; avoids speaker/music drift and differs from the existing generator-owning card."
   }
  ]
 }

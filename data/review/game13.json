@@ -2787,11 +2787,11 @@
   {
    "id": "game13-310",
    "Description": "Get a player to fetch you a charger.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to fetch you a charger."
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of live card 232 (ask for a charger)."
   },
   {
    "id": "game13-311",
@@ -2949,11 +2949,11 @@
   {
    "id": "game13-328",
    "Description": "Get a player to clap their hands.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to clap their hands."
    },
-   "note": ""
+   "note": "Debate: Effectively duplicates live applause card 248 and is triggered by it."
   },
   {
    "id": "game13-329",
@@ -3119,12 +3119,12 @@
   },
   {
    "id": "game13-347",
-   "Description": "Get a player to say 'My bad'.",
-   "action": "keep",
+   "Description": "Get a player to say 'Meri ghalti' (My mistake).",
+   "action": "edit",
    "original": {
     "Description": "Get a player to say 'My bad'."
    },
-   "note": ""
+   "note": "Debate: 'My bad' is US slang; owner wants Pakistani equivalents."
   },
   {
    "id": "game13-348",
@@ -3164,12 +3164,12 @@
   },
   {
    "id": "game13-352",
-   "Description": "Get a player to say 'Sach mein!' (Really!).",
+   "Description": "Get a player to say 'Sach mein?' (Really?).",
    "action": "edit",
    "original": {
     "Description": "Get a player to swear (promise) they are telling the truth."
    },
-   "note": "near-duplicate of 351; reworded"
+   "note": "near-duplicate of 351; reworded; Debate: Question form is a more natural reaction and easier to trigger."
   },
   {
    "id": "game13-353",
@@ -6497,6 +6497,30 @@
    "Description": "Get a player to say 'Haan ji'.",
    "action": "add",
    "note": "New card (debate): Natural everyday Roman Urdu phrase, not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you to pass the achaar.",
+   "action": "add",
+   "note": "New card (debate): Local dining-table mission, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you to take your chappal off the carpet or doorstep.",
+   "action": "add",
+   "note": "New card (debate): Familiar desi household nag, distinct from the flying chappal card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you to stop tapping your foot or drumming on the table.",
+   "action": "add",
+   "note": "New card (debate): Harmless, doable, distinct from the tap-foot card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Ammi ne kaha tha' (Mum said so).",
+   "action": "add",
+   "note": "New card (debate): Relatable family phrase, not in deck."
   }
  ]
 }
