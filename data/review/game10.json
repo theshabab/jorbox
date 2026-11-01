@@ -7316,6 +7316,18 @@
    "Name": "Name something people do in the last minutes before iftar.",
    "action": "add",
    "note": "New card (debate): Not covered by existing iftar table cards; answers cluster."
+  },
+  {
+   "id": null,
+   "Name": "Name a fruit that is sold on a rehri (cart) in summer.",
+   "action": "add",
+   "note": "New card (debate): Local, common clustering answers (mango, watermelon, falsa, melon); no fruit-cart card exists, and the roadside-stall card asks for drinks only."
+  },
+  {
+   "id": null,
+   "Name": "Camera Roll: Selfies or Food Photos?",
+   "action": "add",
+   "note": "New card (debate): Allowed social-media topic, fits the 'Topic: A or B?' format; the only photo card is 'Photos: Posed or Candid?', which is a different pair."
   }
  ]
 }

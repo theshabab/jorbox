@@ -11156,7 +11156,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-444','game6','','Foods the Prophet ﷺ Ate or Recommended','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-445','game6','','Famous Muslim Women in History','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-446','game6','','Great Cities of Muslim History','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-447','game6','','English Words That Came From Arabic','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-447','game6','','English Words That Came From Arabic (Sugar, Coffee, Cotton...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-448','game6','','Things Pakistan Inherited From British Rule','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-449','game6','','Ways to Save Money','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-450','game6','','Things You Can Repair Instead of Replacing','');
@@ -11316,6 +11316,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-604','game6','','Things That Go Up and Down','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-605','game6','','Sabzi Dishes (Bhindi Masala, Baingan Bharta, Tinday, Karela...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-606','game6','','Things You Wait For','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-607','game6','','Things at a Nikkah Ceremony (Maulvi Sahib, Haq Mehr, Qubool Hai...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-608','game6','','Acts of Wudu (Wash Hands, Rinse Mouth, Wipe Head...)','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game7','NaqshNigar',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1','game7','','a cat in a wig wearing a bib','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-2','game7','','the crusty edge of the universe','Standard Prompts');
@@ -16047,6 +16049,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-847','game10','Name something Ammi packs for relatives when they leave your house.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-848','game10','Name something you say after finishing a meal.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-849','game10','Name something people do in the last minutes before iftar.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-850','game10','Name a fruit that is sold on a rehri (cart) in summer.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-851','game10','Camera Roll: Selfies or Food Photos?','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -22488,3 +22492,5 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-886','game16','Whose homemade achar or chutney would you sneak into your bag if you could, and which meal does it make better?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-887','game16','If you had to teach one thing to a group of children in your mohalla every Sunday for free, what would it be?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-888','game16','Which part of Pakistan''s landscape (the Thar desert, the Karakoram, the Indus delta or the Punjab plains) would you most like to see with your own eyes?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-889','game16','What does your family eat for breakfast on Eid morning, and who always makes sure everyone sits down together for it?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-890','game16','What is the first thing your mother or dadi puts on the tray when an unexpected guest arrives, and who runs to fetch it?','','Desi Life & Culture Adaptations');

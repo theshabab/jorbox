@@ -3923,9 +3923,9 @@
   },
   {
    "id": null,
-   "Description": "English Words That Came From Arabic",
+   "Description": "English Words That Came From Arabic (Sugar, Coffee, Cotton...)",
    "action": "add",
-   "note": "New card (debate): Muslim contributions, checkable. Safe answers: algebra, sugar, cotton, coffee, zero, sofa, mattress, lemon, magazine, admiral, giraffe, safari, candy, jar, tariff. Alcohol and assassin are excluded. Not a duplicate of English Words Used in Everyday Urdu."
+   "note": "New card (debate): Muslim contributions, checkable. Safe answers: algebra, sugar, cotton, coffee, zero, sofa, mattress, lemon, magazine, admiral, giraffe, safari, candy, jar, tariff. Alcohol and assassin are excluded. Not a duplicate of English Words Used in Everyday Urdu.; Debate: Examples make the category playable. The challenger's amendment avoids repeating Algebra, which is the example on car"
   },
   {
    "id": null,
@@ -4892,6 +4892,18 @@
    "Description": "Things You Wait For",
    "action": "add",
    "note": "New card (debate): Relatable and local; live waiting cards cover places and activities, not things waited for."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Nikkah Ceremony (Maulvi Sahib, Haq Mehr, Qubool Hai...)",
+   "action": "add",
+   "note": "New card (debate): A familiar family occasion with many answers. A grep of game6.json and the slice found no existing nikkah card, and it is distinct from the wedding tradition and menu cards."
+  },
+  {
+   "id": null,
+   "Description": "Acts of Wudu (Wash Hands, Rinse Mouth, Wipe Head...)",
+   "action": "add",
+   "note": "New card (debate): Roughly 10 well-known steps that everyone can answer, and worship themes are allowed. It is not a duplicate of the Namaz objects card. A grep found only wudu mentions in notes and other cards' text."
   }
  ]
 }
