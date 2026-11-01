@@ -1111,6 +1111,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1109','game1','Hair Dryer','Blows hot air to dry wet hair','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1110','game1','Needle','Thin sharp tool for sewing (Sui)','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1111','game1','Rope','Thick twisted cord for tying (Rassi)','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1112','game1','Malmal','Soft, thin cotton used for summer dupattas','Fabrics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1113','game1','Karandi','Warm textured winter suit fabric','Fabrics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1114','game1','Jaljeera','Sour green mint drink served in summer','Beverages');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1115','game1','Peda','Round milk sweet flavoured with elaichi','Desserts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1116','game1','Imarti','Orange flower-shaped syrupy sweet like jalebi','Desserts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1117','game1','Saad ibn Muadh','Ansari leader whose death shook the Throne (Arsh)','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1118','game1','Khabbab ibn al-Aratt','Blacksmith companion tortured on hot coals','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1119','game1','Hudhayfah ibn al-Yaman','Keeper of the Prophet''s secrets about hypocrites','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1120','game1','Abdullah ibn Rawahah','Poet-companion martyred at Mu''tah','Sahaba');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');
