@@ -9742,12 +9742,12 @@
    "id": "game7-886",
    "Description": "the glamorous cowards!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "the glamorous cowards!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Unclear title-like fragment, not drawable."
   },
   {
    "id": "game7-887",
@@ -9894,14 +9894,14 @@
   },
   {
    "id": "game7-900",
-   "Description": "squirrel stuffs his cheeks full of feta",
+   "Description": "squirrel stuffs his cheeks full of paneer",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "squirrel stuffs he cheeks full of feta",
     "Category": "Standard Prompts"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Localises feta; joke survives."
   },
   {
    "id": "game7-901",
@@ -10092,14 +10092,14 @@
   },
   {
    "id": "game7-918",
-   "Description": "high diving into a pool of mashed potatoes",
+   "Description": "high diving into a pool of halwa",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "hihg diving into a pool of mashed potatoes",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Localises mashed potatoes; drawable."
   },
   {
    "id": "game7-919",
@@ -10369,45 +10369,45 @@
    "id": "game7-943",
    "Description": "can you print this for me",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "can u print this for me",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "Debate: Not drawable, no clear joke."
   },
   {
    "id": "game7-944",
    "Description": "gathering, but medieval",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "gathering, but medieval",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Obscure Magic: The Gathering reference; magic not allowed; not drawable."
   },
   {
    "id": "game7-945",
-   "Description": "the march of the raviolis",
+   "Description": "the march of the samosas",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the march of the raviolis",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises ravioli; joke survives."
   },
   {
    "id": "game7-946",
-   "Description": "ma and pa took a tumble",
+   "Description": "abbu and ammi took a tumble",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "ma and pa took a tumble",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises ma and pa."
   },
   {
    "id": "game7-947",
@@ -10598,14 +10598,14 @@
   },
   {
    "id": "game7-964",
-   "Description": "the king demands carbs",
+   "Description": "the king demands more naan",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the king demands carbs",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Concrete, drawable local item instead of vague carbs."
   },
   {
    "id": "game7-965",
@@ -10686,14 +10686,14 @@
   },
   {
    "id": "game7-972",
-   "Description": "we're hooping tonight",
+   "Description": "we're hula-hooping tonight",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "we hoopin tonight",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Challenger amendment: removes American basketball slang, keeps the pun and is drawable."
   },
   {
    "id": "game7-973",
@@ -20826,6 +20826,41 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Absurd, easy to draw, local fruit, and distinct from the existing mango and lawyer cards."
+  },
+  {
+   "id": null,
+   "Description": "a chai wala serving tea to a queue of camels",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, drawable, distinct from the cup-balancing chai card."
+  },
+  {
+   "id": null,
+   "Description": "a jhula on the mango tree swinging by itself in the monsoon",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local monsoon image, distinct from existing swing cards."
+  },
+  {
+   "id": null,
+   "Description": "a UPS beeping for help during load-shedding",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable local joke, different from the existing UPS cat card."
+  },
+  {
+   "id": null,
+   "Description": "a rickshaw driver arguing with a GPS about the shortcut",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: rickshaw is the local term, not tuk-tuk."
+  },
+  {
+   "id": null,
+   "Description": "a mithai box that is mysteriously full of fruit",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable family-gathering gag, drawable, no duplicate."
   }
  ]
 }

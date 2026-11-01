@@ -15281,7 +15281,7 @@
   {
    "id": "game15-1176",
    "Name": "Venera 3",
-   "Description": "Launched 1965",
+   "Description": "Launched 1965 (first craft to reach another planet)",
    "Category": "Space Missions (Launch Year)",
    "action": "edit",
    "original": {
@@ -15289,7 +15289,7 @@
     "Description": "1965",
     "Category": "Space Trips (Year)"
    },
-   "note": "clearer category name and value"
+   "note": "clearer category name and value; Debate: Accurate identifying fact, year unchanged."
   },
   {
    "id": "game15-1177",
@@ -15696,16 +15696,16 @@
   },
   {
    "id": "game15-1208",
-   "Name": "National Gallery",
+   "Name": "National Gallery (London)",
    "Description": "6,011,000",
    "Category": "Most Visited Museums (2019)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "National Gallery",
     "Description": "6,011,000",
     "Category": "Most Visited Museums (2019)"
    },
-   "note": ""
+   "note": "Debate: Disambiguates the museum; the proposal's idx 1206 was the British Museum, the National Gallery card is idx 1207."
   },
   {
    "id": "game15-1209",
@@ -15788,7 +15788,7 @@
   {
    "id": "game15-1215",
    "Name": "South Africa",
-   "Description": "6 (most without a coat of arms)",
+   "Description": "6 (red, green, blue, yellow, black, white)",
    "Category": "Flags By Number Of Colors",
    "action": "edit",
    "original": {
@@ -15796,7 +15796,7 @@
     "Description": "6",
     "Category": "Flags By Number Of Colors"
    },
-   "note": "clarified"
+   "note": "clarified; Debate: Replaces dubious claim with verifiable colour list."
   },
   {
    "id": "game15-1216",
@@ -16060,8 +16060,8 @@
   },
   {
    "id": "game15-1236",
-   "Name": "Toronto",
-   "Description": "43.7°N",
+   "Name": "Istanbul",
+   "Description": "41.0°N",
    "Category": "Places in the Northern Hemisphere (Latitude)",
    "action": "edit",
    "original": {
@@ -16069,7 +16069,7 @@
     "Description": "43",
     "Category": "Places in the Northern Hemisphere (Latitude)"
    },
-   "note": "precise latitude with unit"
+   "note": "precise latitude with unit; Debate: Correct latitude, same slot, Muslim-world city replaces Toronto."
   },
   {
    "id": "game15-1237",
@@ -16307,8 +16307,8 @@
   },
   {
    "id": "game15-1255",
-   "Name": "French",
-   "Description": "~310 million",
+   "Name": "Standard Arabic",
+   "Description": "~335 million",
    "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
@@ -16316,7 +16316,7 @@
     "Description": "279 million",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers ; now ranks below Standard Arabic; Debate: Whole-category rename"
+   "note": "updated to Ethnologue 2024 total speakers ; now ranks below Standard Arabic; Debate: Whole-category rename; Debate: Value corrected; note that array order (French before Arabic) differs from true order, reveal shows correct value."
   },
   {
    "id": "game15-1256",
@@ -31473,6 +31473,86 @@
    "Category": "Modern Leaders by Rise To Power",
    "action": "add",
    "note": "New card (debate): Local leader, distinct year; political jokes allowed."
+  },
+  {
+   "id": null,
+   "Name": "Lahore",
+   "Description": "31.5°N",
+   "Category": "Places in the Northern Hemisphere (Latitude)",
+   "action": "add",
+   "note": "New card (debate): Accurate, local, no duplicate in category."
+  },
+  {
+   "id": null,
+   "Name": "Cairo",
+   "Description": "30.0°N",
+   "Category": "Places in the Northern Hemisphere (Latitude)",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate in category."
+  },
+  {
+   "id": null,
+   "Name": "Sikh Empire",
+   "Description": "1849 (annexed by the British after the Second Anglo-Sikh War)",
+   "Category": "Fall of Empires",
+   "action": "add",
+   "note": "New card (debate): Accurate, local relevance, not present."
+  },
+  {
+   "id": null,
+   "Name": "Russian Empire",
+   "Description": "1917 (Tsar Nicholas II abdicates)",
+   "Category": "Fall of Empires",
+   "action": "add",
+   "note": "New card (debate): Accurate, not present."
+  },
+  {
+   "id": null,
+   "Name": "Safavid Empire",
+   "Description": "1736 (Nader Shah takes power)",
+   "Category": "Fall of Empires",
+   "action": "add",
+   "note": "New card (debate): Accurate conventional date, Muslim-world theme."
+  },
+  {
+   "id": null,
+   "Name": "Vostok 1",
+   "Description": "Launched 1961 (first human in space)",
+   "Category": "Space Missions (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate, not present."
+  },
+  {
+   "id": null,
+   "Name": "Hope Probe (UAE)",
+   "Description": "Launched 2020",
+   "Category": "Space Missions (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate, Muslim-world mission, not present."
+  },
+  {
+   "id": null,
+   "Name": "Chlorine",
+   "Description": "35.453",
+   "Category": "Elements by Atomic Mass",
+   "action": "add",
+   "note": "New card (debate): Correct mass; the Halogens Chlorine card is a different category, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Silver",
+   "Description": "107.868",
+   "Category": "Elements by Atomic Mass",
+   "action": "add",
+   "note": "New card (debate): Correct mass; other Silver cards are in other categories."
+  },
+  {
+   "id": null,
+   "Name": "Bengali",
+   "Description": "~285 million",
+   "Category": "World Languages (Total Speakers - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Accurate total-speaker figure; the native-speaker Bengali card is a different category."
   }
  ]
 }

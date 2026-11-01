@@ -10205,10 +10205,10 @@
   {
    "id": null,
    "Name": "Jewellery",
-   "Description": "Ring|Necklace|Churiyan|Jhumkay|Earrings|Nose Pin|Nath|Maang Tikka|Payal|Bracelet|Locket|Chain|Kara|Choker|Jhoomar|Brooch|Gold Set",
+   "Description": "Ring|Necklace|Churiyan|Jhumkay|Earrings|Nose Pin|Nath|Maang Tikka|Payal|Bracelet|Locket|Chain|Kara|Choker|Jhoomar|Gold Set",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): No jewellery card exists. Haar duplicated Necklace, so it is replaced. Challenger's amended version."
+   "note": "New card (debate): No jewellery card exists. Haar duplicated Necklace, so it is replaced. Challenger's amended version.; Debate: Brooch is not a common South Asian jewellery item."
   },
   {
    "id": null,
@@ -10221,10 +10221,10 @@
   {
    "id": null,
    "Name": "Ice Cream Flavours",
-   "Description": "Vanilla|Chocolate|Strawberry|Mango|Pista|Kulfa|Tutti Frutti|Butterscotch|Praline|Cookies and Cream|Malai|Chikoo|Lychee|Coconut|Bubblegum|Coffee|Caramel|Badam",
+   "Description": "Vanilla|Chocolate|Strawberry|Mango|Pista|Kulfa|Tutti Frutti|Butterscotch|Pineapple|Cookies and Cream|Malai|Chikoo|Lychee|Coconut|Bubblegum|Coffee|Caramel|Badam",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): A family-friendly dessert topic with local flavours. The rare Falsa is replaced with Coconut. Challenger's amended version."
+   "note": "New card (debate): A family-friendly dessert topic with local flavours. The rare Falsa is replaced with Coconut. Challenger's amended version.; Debate: Praline is obscure locally; Pineapple is a common flavour (Falsa is a gola flavour, not ice cream)."
   },
   {
    "id": null,
@@ -10277,18 +10277,18 @@
   {
    "id": null,
    "Name": "Pakistani Political Parties",
-   "Description": "PTI|PML-N|PPP|MQM|JUI-F|Jamaat-e-Islami|ANP|PML-Q|PML-F|BAP|BNP|IPP|MWM|Pakistan Awami Tehreek|Awami Muslim League|National Party",
+   "Description": "PTI|PML-N|PPP|MQM|JUI-F|Jamaat-e-Islami|ANP|PML-Q|TLP|BAP|BNP|IPP|Pakistan Awami Tehreek|National Party",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Politics is allowed, and the deck has politicians but no parties card. Merged (PSP), alliance (GDA), banned (TLP) and obscure entries are left out (challenger's version)."
+   "note": "New card (debate): Politics is allowed, and the deck has politicians but no parties card. Merged (PSP), alliance (GDA), banned (TLP) and obscure entries are left out (challenger's version).; Debate: Remove obscure MWM, Awami Muslim League and PML-F; add well-known TLP."
   },
   {
    "id": null,
    "Name": "Things in a Cantt",
-   "Description": "Checkpost|Sentry|Speed Breaker|Officers' Mess|CSD|Parade Ground|Salute|Barrier|Gate Pass|Army Public School|CMH|Golf Course|Boundary Wall|Jogging Track|Green Belt|Cantonment Board|Military Police|Bugle|Tank Monument|Painted Kerbstones",
+   "Description": "Checkpost|Sentry|Speed Breaker|Officers' Mess|CSD|Parade Ground|Salute|Barrier|Gate Pass|Mall Road|CMH|Golf Course|Boundary Wall|Jogging Track|Green Belt|Cantonment Board|Military Police|Bugle|Tank Monument|Painted Kerbstones",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Army in-jokes are allowed. These are recognisable cantonment details and no existing card covers them."
+   "note": "New card (debate): Army in-jokes are allowed. These are recognisable cantonment details and no existing card covers them.; Debate: Replace Army Public School (painful association) with neutral Mall Road."
   },
   {
    "id": null,
@@ -10373,10 +10373,10 @@
   {
    "id": null,
    "Name": "The best thing to have with chai is...",
-   "Description": "The best thing to eat with paratha is...|The best snack on a rainy evening is...|My favorite biscuit is...|The best thing to dip in doodh is...|A great snack to serve guests is...",
+   "Description": "The best thing to eat with paratha is...|The best snack on a rainy evening is...|My favourite biscuit is...|The best thing to dip in doodh is...|A great snack to serve guests is...",
    "Category": "Writing",
    "action": "add",
-   "note": "New card (debate): New local food Writing card. The deck has no chai-pairing prompt."
+   "note": "New card (debate): New local food Writing card. The deck has no chai-pairing prompt.; Debate: Spelling made consistent with the deck (favourite)."
   },
   {
    "id": null,
@@ -10717,10 +10717,10 @@
   {
    "id": null,
    "Name": "Pakistani Provinces and Regions",
-   "Description": "Punjab|Sindh|Khyber Pakhtunkhwa|Balochistan|Gilgit Baltistan|Azad Kashmir|Islamabad Capital Territory|Potohar|Thar|Cholistan|Hazara|Swat|Chitral|Hunza|Kohistan|Waziristan|Makran|FATA",
+   "Description": "Punjab|Sindh|Khyber Pakhtunkhwa|Balochistan|Gilgit Baltistan|Azad Kashmir|Islamabad Capital Territory|Potohar|Thar|Cholistan|Hazara|Swat|Chitral|Hunza|Kohistan|Waziristan|Makran",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's version complements Pakistani Cities. The old provinces/divisions card was removed. Drops Skardu (a city) and the obscure Saraiki Wasaib."
+   "note": "New card (debate): Challenger's version complements Pakistani Cities. The old provinces/divisions card was removed. Drops Skardu (a city) and the obscure Saraiki Wasaib.; Debate: FATA no longer exists since 2018 and overlaps Waziristan."
   },
   {
    "id": null,
@@ -10741,10 +10741,10 @@
   {
    "id": null,
    "Name": "Desi Totkay (Home Remedies)",
-   "Description": "Haldi Doodh|Shehad|Adrak|Kalonji|Ajwain|Saunf|Joshanda|Ispaghol|Neem Patte|Aloe Vera|Sarson ka Tel|Vicks|Kehwa|Nimbu Pani|Bhaap|Namak ke Gararay|Lehsun|Methi Dana|Dum Kiya Hua Pani",
+   "Description": "Haldi Doodh|Shehad|Adrak|Kalonji|Ajwain|Saunf|Joshanda|Ispaghol|Neem Patte|Aloe Vera|Sarson ka Tel|Vicks|Kahwa|Nimbu Pani|Bhaap|Namak ke Gararay|Lehsun|Methi Dana|Dum Kiya Hua Pani",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Funny, very local topic; only a Rating card mentions totkay."
+   "note": "New card (debate): Funny, very local topic; only a Rating card mentions totkay.; Debate: Kehwa spelled Kahwa, consistent with the chai card."
   },
   {
    "id": null,
@@ -10757,10 +10757,10 @@
   {
    "id": null,
    "Name": "Islamic Holy Sites",
-   "Description": "Masjid al-Haram|Masjid an-Nabawi|Masjid al-Aqsa|Dome of the Rock|Masjid Quba|Masjid al-Qiblatain|Ghar e Hira|Ghar e Saur|Jannat ul Baqi|Jannat ul Mualla|Mount Uhud|Jabal ur Rahmah|Masjid Nimrah|Masjid al-Jinn|Maqam e Ibrahim|Masjid Ayesha",
+   "Description": "Masjid al-Haram|Masjid an-Nabawi|Masjid al-Aqsa|Dome of the Rock|Masjid Quba|Masjid al-Qiblatain|Ghar e Hira|Ghar e Saur|Jannat ul Baqi|Jannat ul Mualla|Mount Uhud|Jabal ur Rahmah|Safa and Marwa|Mina|Muzdalifah|Maqam e Ibrahim",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's version: drops Badr (a battlefield, now on the battles card) and Jabal e Noor (same place as Ghar e Hira)."
+   "note": "New card (debate): Challenger's version: drops Badr (a battlefield, now on the battles card) and Jabal e Noor (same place as Ghar e Hira).; Debate: Replace obscure Masjid Nimrah, Masjid al-Jinn and Masjid Ayesha with well-known Hajj sites."
   },
   {
    "id": null,
@@ -12369,6 +12369,70 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Local dilemma, distinct from wedding queue card."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Mochi's Stall",
+   "Description": "Chappal|Peshawari Chappal|Khussa|Sole|Heel|Laces|Leather Patch|Stitching|Boot Polish|Brush|Glue|Hammer|Nails|Needle|Thread|Torn Strap|Wooden Stool|Tin Box|Waiting Customers|Old Shoes",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local street-trade topic; duplicate words removed."
+  },
+  {
+   "id": null,
+   "Name": "Things on Jummah",
+   "Description": "Ghusl|Kurta Shalwar|Itr|Miswak|Khutbah|Imam|Minbar|Adhan|Saf|Surah Kahf|Durood|Sunnah Prayers|Late Comers|Parking on the Road|Shoe Rack|Sadaqah Box|Topi|Dua|Jummah Mubarak|Special Lunch",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Weekly shared experience not yet in the deck; Eid-specific word removed."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Photocopy Shop",
+   "Description": "Photocopier|A4 Paper|Legal Paper|Toner|Stapler|Laminator|Spiral Binding|CNIC Copy|Attested Copy|Scanner|Printouts|Assignments|Past Papers|Passport Photos|Counter|Paper Jam|Rate List|Black and White|Colour Print|Queue of Students",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar local setting not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Draw a UPS.",
+   "Description": "Draw a car battery.|Draw a generator.|Draw a power bank.|Draw a solar panel.|Draw an inverter.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local household object with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a cobbler.",
+   "Description": "Draw a tailor.|Draw a shoe shop.|Draw a barber.|Draw a carpenter.|Draw a pair of old sandals.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local trade, pairs with the new mochi topic."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about a rooftop is...",
+   "Description": "The best thing about a balcony is...|The best thing about a garden is...|The best thing about a mountain view is...|The best time to be on the roof is...|Something I do on the rooftop is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Open-ended local prompt with plausible decoys."
+  },
+  {
+   "id": null,
+   "Name": "A fruit seller gives you Rs. 100 extra change by mistake. You...",
+   "Description": "return it|keep it|give it to charity",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Honesty dilemma distinct from the fake Rs. 500 note card."
+  },
+  {
+   "id": null,
+   "Name": "I always check the expiry date before buying anything.",
+   "Description": "I always check the price before the quality.|I read every label carefully.|I trust the shopkeeper completely.|I have bought something expired by mistake.|I compare prices at three shops.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable shopping habit, new to deck."
   }
  ]
 }

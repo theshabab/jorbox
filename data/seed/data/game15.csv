@@ -811,7 +811,7 @@ Holy Roman Empire,1806,Fall of Empires
 Ottoman Empire,1922 (sultanate abolished),Fall of Empires
 British Empire,1997 (Hong Kong handover),Fall of Empires
 Sputnik 1,Launched 1957,Space Missions (Launch Year)
-Venera 3,Launched 1965,Space Missions (Launch Year)
+Venera 3,Launched 1965 (first craft to reach another planet),Space Missions (Launch Year)
 Apollo 11,Launched 1969,Space Missions (Launch Year)
 Voyager 1,Launched 1977,Space Missions (Launch Year)
 Cassini,Launched 1997,Space Missions (Launch Year)
@@ -824,14 +824,14 @@ National Museum of China,"7,390,000",Most Visited Museums (2019)
 Vatican Museums,"6,883,000",Most Visited Museums (2019)
 Metropolitan Museum,"6,770,000",Most Visited Museums (2019)
 British Museum,"6,208,000",Most Visited Museums (2019)
-National Gallery,"6,011,000",Most Visited Museums (2019)
+National Gallery (London),"6,011,000",Most Visited Museums (2019)
 State Hermitage,"4,957,000",Most Visited Museums (2019)
 Japan,2,Flags By Number Of Colors
 Pakistan,2,Flags By Number Of Colors
 USA,3,Flags By Number Of Colors
 France,3,Flags By Number Of Colors
 Brazil,4,Flags By Number Of Colors
-South Africa,6 (most without a coat of arms),Flags By Number Of Colors
+South Africa,"6 (red, green, blue, yellow, black, white)",Flags By Number Of Colors
 Belize,12 (most of any national flag),Flags By Number Of Colors
 Michael Phelps,28,Olympians With The Most Medals
 Larisa Latynina,18,Olympians With The Most Medals
@@ -844,7 +844,7 @@ Simone Biles,11 (7 gold),Olympians With The Most Medals
 North Pole,90°N,Places in the Northern Hemisphere (Latitude)
 Reykjavik,64.1°N,Places in the Northern Hemisphere (Latitude)
 London,51.5°N,Places in the Northern Hemisphere (Latitude)
-Toronto,43.7°N,Places in the Northern Hemisphere (Latitude)
+Istanbul,41.0°N,Places in the Northern Hemisphere (Latitude)
 Beijing,39.9°N,Places in the Northern Hemisphere (Latitude)
 Islamabad,33.7°N,Places in the Northern Hemisphere (Latitude)
 Dubai,25.2°N,Places in the Northern Hemisphere (Latitude)
@@ -863,7 +863,7 @@ English,~1.5 billion,World Languages (Total Speakers - High to Low)
 Mandarin Chinese,~1.1 billion,World Languages (Total Speakers - High to Low)
 Hindi,~610 million,World Languages (Total Speakers - High to Low)
 Spanish,~560 million,World Languages (Total Speakers - High to Low)
-French,~310 million,World Languages (Total Speakers - High to Low)
+Standard Arabic,~335 million,World Languages (Total Speakers - High to Low)
 Standard Arabic,~330 million,World Languages (Total Speakers - High to Low)
 Urdu,~245 million,World Languages (Total Speakers - High to Low)
 German,~135 million,World Languages (Total Speakers - High to Low)
@@ -1718,3 +1718,13 @@ Tesla,2003,Car Brands (Founding Year)
 Benazir Bhutto,1988 (became Prime Minister of Pakistan),Modern Leaders by Rise To Power
 Nelson Mandela,1994 (became President of South Africa),Modern Leaders by Rise To Power
 Imran Khan,2018 (became Prime Minister of Pakistan),Modern Leaders by Rise To Power
+Lahore,31.5°N,Places in the Northern Hemisphere (Latitude)
+Cairo,30.0°N,Places in the Northern Hemisphere (Latitude)
+Sikh Empire,1849 (annexed by the British after the Second Anglo-Sikh War),Fall of Empires
+Russian Empire,1917 (Tsar Nicholas II abdicates),Fall of Empires
+Safavid Empire,1736 (Nader Shah takes power),Fall of Empires
+Vostok 1,Launched 1961 (first human in space),Space Missions (Launch Year)
+Hope Probe (UAE),Launched 2020,Space Missions (Launch Year)
+Chlorine,35.453,Elements by Atomic Mass
+Silver,107.868,Elements by Atomic Mass
+Bengali,~285 million,World Languages (Total Speakers - High to Low)
