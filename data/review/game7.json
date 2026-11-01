@@ -10741,14 +10741,14 @@
   },
   {
    "id": "game7-977",
-   "Description": "bath time in a cauldron, the sponge is celery",
+   "Description": "bath time in a giant pot, the sponge is celery",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "bath time in cauldron, sponge is celery",
     "Category": "Standard Prompts"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: cauldron implies witch/magic, which is banned"
   },
   {
    "id": "game7-978",
@@ -10939,14 +10939,14 @@
   },
   {
    "id": "game7-995",
-   "Description": "very aggressive body spray",
+   "Description": "very aggressive attar",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "very aggressive body spray",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: localises body spray; distinct from the existing attar card"
   },
   {
    "id": "game7-996",
@@ -11214,14 +11214,14 @@
   },
   {
    "id": "game7-1020",
-   "Description": "golf cousins",
+   "Description": "cricket cousins",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "golf cousins",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: golf is not local; cricket is the relatable equivalent"
   },
   {
    "id": "game7-1021",
@@ -11621,14 +11621,14 @@
   },
   {
    "id": "game7-1057",
-   "Description": "everyone drink the coffee now",
+   "Description": "everyone drink the chai now",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "everyone drink the coffee now",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: localises coffee to chai"
   },
   {
    "id": "game7-1058",
@@ -11874,14 +11874,14 @@
   },
   {
    "id": "game7-1080",
-   "Description": "your greed ruined the yams",
+   "Description": "your greed ruined the shakarkandi",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "your greed ruined the yams",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: yams are US-centric; shakarkandi is the local equivalent (challenger's missed issue)"
   },
   {
    "id": "game7-1081",
@@ -11896,25 +11896,25 @@
   },
   {
    "id": "game7-1082",
-   "Description": "you haven't touched your birthday mustard",
+   "Description": "you haven't touched your birthday achaar",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "you haven't touched your birhtday mustard",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: mustard is not a Pakistani condiment; achaar keeps the absurdity"
   },
   {
    "id": "game7-1083",
-   "Description": "we ate Rs 100,000 of fine smoked salmon",
+   "Description": "we ate Rs 100,000 of fine biryani",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "we ate $1000 of fine atlantic lox",
     "Category": "Standard Prompts"
    },
-   "note": "$ -> rupees; lox -> smoked salmon"
+   "note": "$ -> rupees; lox -> smoked salmon; Debate: smoked salmon is not local; joke preserved"
   },
   {
    "id": "game7-1084",
@@ -20861,6 +20861,27 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Relatable family-gathering gag, drawable, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a chapli kebab the size of a car tyre",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): local, drawable, no existing chapli card"
+  },
+  {
+   "id": null,
+   "Description": "an AC that only blows hot air at the guests",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): relatable, drawable, no AC card in deck"
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> arguing with the petrol pump uncle about a missing Rs 10",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): challenger's amended wording (petrol pump); affectionate friend prompt with token intact"
   }
  ]
 }

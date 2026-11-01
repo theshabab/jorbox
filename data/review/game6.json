@@ -4658,6 +4658,60 @@
    "Description": "Blessed Days and Nights in Islam (Jummah, Shab-e-Qadr, Arafah...)",
    "action": "add",
    "note": "New card (debate): Accurate Islamic card with many familiar answers, distinct from Public Holidays."
+  },
+  {
+   "id": null,
+   "Description": "Things Bus Conductors Say",
+   "action": "add",
+   "note": "New card (debate): Local, easy answers, not a duplicate of the Bus Adda place card."
+  },
+  {
+   "id": null,
+   "Description": "Places Where You Must Stay Quiet",
+   "action": "add",
+   "note": "New card (debate): Broad easy answers, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things With Strings (Dori)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment avoids the redundant 'Strings or Dori' and matches the deck's English (Urdu) style."
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Palak, Methi or Saag",
+   "action": "add",
+   "note": "New card (debate): Fills a greens gap; many well-known answers."
+  },
+  {
+   "id": null,
+   "Description": "Things Your Doctor Tells You",
+   "action": "add",
+   "note": "New card (debate): Relatable, distinct from Types of Doctors."
+  },
+  {
+   "id": null,
+   "Description": "Things That Make You Cry",
+   "action": "add",
+   "note": "New card (debate): Easy varied answers, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things That Make You Sleepy",
+   "action": "add",
+   "note": "New card (debate): Relatable and distinct from 'Things You Do Before Going to Sleep'."
+  },
+  {
+   "id": null,
+   "Description": "Things Cooked in a Karahi",
+   "action": "add",
+   "note": "New card (debate): Challenger's wording lets halwa, jalebi and pakoray count and avoids a 'Dishes' mismatch."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do While Waiting for Someone",
+   "action": "add",
+   "note": "New card (debate): Activity-based, distinct from the place-based 'Places Where You Wait in a Line'."
   }
  ]
 }

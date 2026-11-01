@@ -11549,6 +11549,24 @@
    "Name": "Hostel",
    "action": "add",
    "note": "New card (debate): Everyday student-life noun, no lodging card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Echo",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Thirst",
+   "action": "add",
+   "note": "New card (debate): Not in deck; distinct from Hunger (live add) and Roza."
+  },
+  {
+   "id": null,
+   "Name": "Veranda",
+   "action": "add",
+   "note": "New card (debate): Familiar home noun, not in deck; the standard spelling is what guessers would say. Distinct from the live Balcony add and Courtyard."
   }
  ]
 }
