@@ -203,14 +203,14 @@
   },
   {
    "id": "game9-19",
-   "Name": "How many cards are there in a standard deck of playing cards?",
-   "Description": "52",
-   "action": "keep",
+   "Name": "How many squares are there on a chessboard?",
+   "Description": "64",
+   "action": "edit",
    "original": {
     "Name": "How many cards are there in a standard deck of playing cards?",
     "Description": "52"
    },
-   "note": ""
+   "note": "Debate: Replaces playing-card question with a clean, equally easy one."
   },
   {
    "id": "game9-20",
@@ -304,12 +304,12 @@
    "id": "game9-28",
    "Name": "What does the word \"aprosexia\" mean?",
    "Description": "The inability to concentrate on anything",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The word \"aprosexia\" means which of the following?",
     "Description": "The inability to concentrate on anything"
    },
-   "note": "removed \"which of the following\" (no options)"
+   "note": "Debate: Unguessable jargon."
   },
   {
    "id": "game9-29",
@@ -403,12 +403,12 @@
    "id": "game9-37",
    "Name": "The Swedish word \"Grunka\" means what in English?",
    "Description": "Thing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "The Swedish word \"Grunka\" means what in English?",
     "Description": "Thing"
    },
-   "note": ""
+   "note": "Debate: Unguessable obscure trivia."
   },
   {
    "id": "game9-38",
@@ -1490,14 +1490,14 @@
   },
   {
    "id": "game9-136",
-   "Name": "Denmark, Finland, Norway or Sweden: which is not a Scandinavian country?",
-   "Description": "Finland",
+   "Name": "Denmark, Finland, Norway or Sweden: which is not usually counted as a Scandinavian country?",
+   "Description": "Finland (it is Nordic, not Scandinavian)",
    "action": "edit",
    "original": {
     "Name": "What country is not a part of Scandinavia?",
     "Description": "Finland"
    },
-   "note": "added options"
+   "note": "added options; Debate: Defends against definitional quibbles."
   },
   {
    "id": "game9-137",
@@ -12986,6 +12986,62 @@
    "Description": "Abu Dhabi",
    "action": "add",
    "note": "New card (debate): Accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Algeria?",
+   "Description": "Algiers",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Tunisia?",
+   "Description": "Tunis",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Somalia?",
+   "Description": "Mogadishu",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Yemen?",
+   "Description": "Sanaa (Aden is the temporary seat of government)",
+   "action": "add",
+   "note": "New card (debate): Amended version avoids a disputed answer."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Bosnia and Herzegovina?",
+   "Description": "Sarajevo",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Libya?",
+   "Description": "Tripoli",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Albania?",
+   "Description": "Tirana",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "How many humps does a dromedary camel have?",
+   "Description": "One (a Bactrian camel has two)",
+   "action": "add",
+   "note": "New card (debate): Accurate, distinct from existing camel cards."
   }
  ]
 }

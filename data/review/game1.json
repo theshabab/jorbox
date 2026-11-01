@@ -12108,10 +12108,10 @@
   {
    "id": null,
    "Name": "Kidney",
-   "Description": "Gurda; bean-shaped organ that filters blood into urine",
+   "Description": "Gurda; bean-shaped organ that cleans your blood",
    "Category": "Body Parts",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Removes the urine reference to follow the bathroom-joke rule; hint stays accurate."
   },
   {
    "id": null,
@@ -12220,10 +12220,10 @@
   {
    "id": null,
    "Name": "Hagia Sophia",
-   "Description": "Istanbul's great domed church turned mosque, now again a mosque",
+   "Description": "Istanbul's great domed church, a mosque again today",
    "Category": "Historical Places",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Removes the awkward repeated 'mosque'; accurate and shorter."
   },
   {
    "id": null,
@@ -12604,10 +12604,10 @@
   {
    "id": null,
    "Name": "Baibars",
-   "Description": "Mamluk sultan who defeated the Mongols at Ain Jalut",
+   "Description": "Mamluk commander who helped defeat Mongols at Ain Jalut",
    "Category": "Muslim Historical Figures",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Factual fix: Sultan Qutuz led at Ain Jalut (1260); Baibars commanded the vanguard and became sultan afterwards."
   },
   {
    "id": null,

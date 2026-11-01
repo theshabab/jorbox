@@ -12923,10 +12923,10 @@
   {
    "id": null,
    "Name": "Extension Board",
-   "Description": "Plug | Sockets | Wire | Switch | Multi",
+   "Description": "Plug | Sockets | Wire | Switch | Adapter",
    "Category": "Electronics",
    "action": "add",
-   "note": "New card (debate): Familiar Pakistani household item, no duplicate."
+   "note": "New card (debate): Familiar Pakistani household item, no duplicate.; Debate: Replaces vague 'Multi' with a real hint."
   },
   {
    "id": null,
@@ -13131,18 +13131,18 @@
   {
    "id": null,
    "Name": "Zuhr",
-   "Description": "Noon | Namaz | Afternoon | Four Rakat | Dhuhr",
+   "Description": "Noon | Namaz | Afternoon | Four Rakat | Jummah",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment: uses the spelling Pakistani players use and bans the Arabic variant. Not in deck."
+   "note": "New card (debate): Challenger's amendment: uses the spelling Pakistani players use and bans the Arabic variant. Not in deck.; Debate: Dhuhr is just a spelling of the answer; Jummah is a better hint."
   },
   {
    "id": null,
    "Name": "Bus Conductor",
-   "Description": "Kiraya | Bus | Ticket | Seat | Aage Chalo",
+   "Description": "Kiraya | Ticket | Seat | Aage Chalo | Paisay",
    "Category": "Occupations",
    "action": "add",
-   "note": "New card (debate): Familiar local occupation; no existing conductor card."
+   "note": "New card (debate): Familiar local occupation; no existing conductor card.; Debate: Bus repeats the answer; Paisay is a stronger local taboo."
   },
   {
    "id": null,
@@ -13359,6 +13359,86 @@
    "Category": "Islamic Terms",
    "action": "add",
    "note": "New card (debate): Established Islamic term, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Mihrab",
+   "Description": "Niche | Imam | Qibla | Masjid | Arch",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Not a live card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Minbar",
+   "Description": "Khutbah | Imam | Steps | Jummah | Pulpit",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Not a live card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Ayat ul Kursi",
+   "Description": "Verse | Throne | Protection | Baqarah | Bedtime",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known and accurate; absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Surah Al-Fatiha",
+   "Description": "Opening | Seven | Every Rakat | Alhamdulillah | Chapter",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known and accurate; absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Dhul Hijjah",
+   "Description": "Month | Hajj | Twelfth | Arafat | Qurbani",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Accurate; absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Hilal",
+   "Description": "Crescent | Moon | Eid | Sighting | Ruet",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): No Hilal card; the Moon card is distinct enough."
+  },
+  {
+   "id": null,
+   "Name": "Thatta",
+   "Description": "Makli | Sindh | Shah Jahan Mosque | Indus | Old Capital",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Not a live card in the deck; facts are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Neelum Valley",
+   "Description": "Kashmir | River | Kel | Arang Kel | Muzaffarabad",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Not a live card in the deck; facts are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Roti",
+   "Description": "Flour | Tawa | Round | Chapati | Bread",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Only Makki Ki Roti exists, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Matchbox",
+   "Description": "Diyasalai | Flame | Strike | Stick | Light",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: Diyasalai is the better local clue than the awkward 'Gas Stove'."
   }
  ]
 }

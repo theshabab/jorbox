@@ -1106,7 +1106,7 @@ Jhoomar,Side | Hair | Bride | Hanging | Chandelier,Jewelry
 Flood,Water | Rain | Sailab | Village | Rescue,Nature
 Canal,Nehar | Water | Irrigation | Lahore | Boat,Nature
 Dust,Dhool | Gard | Furniture | Sneeze | Wipe,Nature
-Extension Board,Plug | Sockets | Wire | Switch | Multi,Electronics
+Extension Board,Plug | Sockets | Wire | Switch | Adapter,Electronics
 Hair Dryer,Blow | Wet | Hot | Salon | Styling,Electronics
 Needle,Sui | Thread | Sew | Sharp | Haystack,Tools
 Rope,Rassi | Tie | Pull | Knot | Tug,Tools
@@ -1132,8 +1132,8 @@ Muharram,Ashura | Hijri | Islamic | New Year | Month,Islamic Terms
 Tasbeeh,Beads | Dhikr | Count | SubhanAllah | 33,Islamic Terms
 Ghusl,Bath | Purification | Wash | Whole Body | Wudu,Islamic Terms
 Ruku,Bow | Namaz | Back | Hands on Knees | Subhana Rabbiyal Azeem,Islamic Terms
-Zuhr,Noon | Namaz | Afternoon | Four Rakat | Dhuhr,Islamic Terms
-Bus Conductor,Kiraya | Bus | Ticket | Seat | Aage Chalo,Occupations
+Zuhr,Noon | Namaz | Afternoon | Four Rakat | Jummah,Islamic Terms
+Bus Conductor,Kiraya | Ticket | Seat | Aage Chalo | Paisay,Occupations
 Welder,Weld | Sparks | Iron | Mask | Torch,Occupations
 Kachori,Fried | Daal | Aloo | Breakfast | Stuffed,Traditional Dishes
 Hunza,Karakoram | Karimabad | Baltit | Apricot | Gilgit,Pakistani Cities
@@ -1161,3 +1161,13 @@ Hedgehog,Spikes | Curl | Ball | Small | Night,Animals
 Imam Tirmidhi,Hadith | Jami | Sunan | Termez | Scholar,Muslim Historical Figures
 Chitral,Tirich Mir | Kalash | Valley | KPK | Shandur,Pakistani Cities
 Barzakh,Grave | Between | Death | Qiyamah | Waiting,Islamic Terms
+Mihrab,Niche | Imam | Qibla | Masjid | Arch,Islamic Terms
+Minbar,Khutbah | Imam | Steps | Jummah | Pulpit,Islamic Terms
+Ayat ul Kursi,Verse | Throne | Protection | Baqarah | Bedtime,Islamic Terms
+Surah Al-Fatiha,Opening | Seven | Every Rakat | Alhamdulillah | Chapter,Islamic Terms
+Dhul Hijjah,Month | Hajj | Twelfth | Arafat | Qurbani,Islamic Terms
+Hilal,Crescent | Moon | Eid | Sighting | Ruet,Islamic Terms
+Thatta,Makli | Sindh | Shah Jahan Mosque | Indus | Old Capital,Pakistani Cities
+Neelum Valley,Kashmir | River | Kel | Arang Kel | Muzaffarabad,Nature
+Roti,Flour | Tawa | Round | Chapati | Bread,Traditional Dishes
+Matchbox,Diyasalai | Flame | Strike | Stick | Light,Tools
