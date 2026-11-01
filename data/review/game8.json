@@ -10721,11 +10721,11 @@
   },
   {
    "id": null,
-   "Name": "PRICELESS TREASURE <---> JUST OLD JUNK",
+   "Name": "JUST OLD JUNK <---> PRICELESS TREASURE",
    "Description": "Write the label for an object in a museum in Lahore or Taxila that its curator thinks is this valuable to history",
    "Category": "Writing",
    "action": "add",
-   "note": "New card (debate): Real local museums; museum label task is fresh."
+   "note": "New card (debate): Real local museums; museum label task is fresh.; Debate: Scale was reversed against 'this valuable'; the high end now sits on the right like every other card in the slice."
   },
   {
    "id": null,
@@ -11262,6 +11262,54 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Pakora and monsoon is new; ends now measure the same thing as the task (enthusiasm)."
+  },
+  {
+   "id": null,
+   "Name": "SHORT KHUTBA <---> NEVER-ENDING KHUTBA",
+   "Description": "Draw the face of a restless kid sitting next to Abbu during a Friday khutba that feels this long",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended Drawing version used. It avoids a task that has someone talking during the khutba. No khutba card exists in the slice."
+  },
+  {
+   "id": null,
+   "Name": "CLEAR ROAD <---> CAN'T SEE THE BONNET",
+   "Description": "Draw the motorway on a winter morning with fog this thick",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Pakistani winter fog is a familiar scene with a clear scale. It differs from the smog card 928 because the subject is fog on the road."
+  },
+  {
+   "id": null,
+   "Name": "A FEW SURAHS <---> WHOLE QURAN BY HEART",
+   "Description": "Write the message the family sends to a child who has memorised this much of the Quran",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Respectful hifz-celebration theme with clear opposite ends. Nothing equivalent in the slice."
+  },
+  {
+   "id": null,
+   "Name": "EMPTY ROWS <---> SPILLING ONTO THE ROAD",
+   "Description": "Draw the crowd outside a masjid on Eid morning that is this packed for the prayer",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Eid prayer crowd is a familiar Pakistani sight, a clear drawing task, and not covered elsewhere in the slice."
+  },
+  {
+   "id": null,
+   "Name": "ONE-LINE DUA <---> NAMES EVERY RELATIVE",
+   "Description": "Write a line from an elder's dua that names this many relatives and neighbours one by one",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version used. The scale is now about how many names, so it is a clearer opposite pair and does not repeat the khutba length joke."
+  },
+  {
+   "id": null,
+   "Name": "ONE NIGHT <---> STAYS FOR A MONTH",
+   "Description": "Write the polite line Ammi says to a relative who has been staying with the family for this long",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Gentle, relatable mehmaan humour with clear opposite ends. It is not a duplicate of 904, which is about guests arriving without warning."
   }
  ]
 }

@@ -8794,28 +8794,28 @@
   {
    "id": "game1-677",
    "Name": "Iman",
-   "Description": "Faith",
+   "Description": "Belief in Allah, angels, books and Messengers",
    "Category": "Islamic Terms",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Iman",
     "Description": "Faith",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: Accurate and more specific than the vague 'Faith', which is too close to Shahada's 'Declaration of faith'."
   },
   {
    "id": "game1-678",
    "Name": "Taqwa",
-   "Description": "God-consciousness",
+   "Description": "Piety; staying mindful of Allah",
    "Category": "Islamic Terms",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Taqwa",
     "Description": "God-consciousness",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: Standard accurate rendering; replaces the secular-sounding 'God-consciousness'."
   },
   {
    "id": "game1-679",
@@ -8846,41 +8846,41 @@
   {
    "id": "game1-681",
    "Name": "Jannah",
-   "Description": "Paradise",
+   "Description": "Eternal garden, reward of the believers",
    "Category": "Islamic Terms",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Jannah",
     "Description": "Paradise",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: Jannah literally means garden; the hint is accurate, does not leak the name and is easier to guess than 'Paradise'."
   },
   {
    "id": "game1-682",
    "Name": "Jahannam",
-   "Description": "Hell",
+   "Description": "The Fire of punishment in the Hereafter",
    "Category": "Islamic Terms",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Jahannam",
     "Description": "Hell",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: Accurate and clearer than bare 'Hell'; mildly dark content is allowed by the deck owner."
   },
   {
    "id": "game1-683",
    "Name": "Ramadan",
-   "Description": "Fasting month",
+   "Description": "Ninth month, the month of fasting",
    "Category": "Islamic Terms",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Ramadan",
     "Description": "Fasting month",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: Accurate (Ramadan is the 9th month) and more specific than 'Fasting month'."
   },
   {
    "id": "game1-684",

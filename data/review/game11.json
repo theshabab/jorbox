@@ -8255,6 +8255,20 @@
    "Description": "Solar Panel Installer",
    "action": "add",
    "note": "New card (debate): Current Pakistani figure, no equivalent in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My tuition teacher always arrives when I'm busy with _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct local school-life problem; only a Tuition Teacher Customer exists, no tuition Problem."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The masi never cleans under my _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct household-help complaint with an open blank; only a Masi Customer exists."
   }
  ]
 }
