@@ -1208,6 +1208,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1206','game1','Lavender','Pale purple shade, also a fragrant flower','Colors');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1207','game1','Knuckle','Finger joint that cracks when you make a fist','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1208','game1','Throat','Where a sore feels when you swallow (Gala)','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1209','game1','Hail','Icy stones that fall in a storm (Olay)','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1210','game1','Canyon','Deep gorge carved by a river','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1211','game1','Bamboo','Tall green hollow-stemmed grass (Baans)','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1212','game1','Coral','Colourful sea formations that make reefs','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1213','game1','Pebble','Small smooth river stone','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1214','game1','Plough','Farmer''s tool pulled by bulls to turn soil (Hal)','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1215','game1','Light Bulb','Glows in a room when you flick the switch','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1216','game1','Plug','Pronged end that goes into a socket','Electronics');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');

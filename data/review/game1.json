@@ -13672,6 +13672,70 @@
    "Category": "Body Parts",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hail",
+   "Description": "Icy stones that fall in a storm (Olay)",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Canyon",
+   "Description": "Deep gorge carved by a river",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Bamboo",
+   "Description": "Tall green hollow-stemmed grass (Baans)",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Coral",
+   "Description": "Colourful sea formations that make reefs",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pebble",
+   "Description": "Small smooth river stone",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Plough",
+   "Description": "Farmer's tool pulled by bulls to turn soil (Hal)",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Light Bulb",
+   "Description": "Glows in a room when you flick the switch",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Plug",
+   "Description": "Pronged end that goes into a socket",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
