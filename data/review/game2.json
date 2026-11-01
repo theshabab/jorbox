@@ -10875,10 +10875,10 @@
   {
    "id": null,
    "Name": "Great-grandfather",
-   "Description": "Pardada | Parnana | Grandfather | Old | Ancestor",
+   "Description": "Pardada | Parnana | Dada | Nana | Ancestor",
    "Category": "Family Relations",
    "action": "add",
-   "note": "New card (debate): No great-grandparent card exists. Both Urdu terms (paternal and maternal) are banned so neither gives the answer away."
+   "note": "New card (debate): No great-grandparent card exists. Both Urdu terms (paternal and maternal) are banned so neither gives the answer away.; Debate: Banned word 'Grandfather' is inside the Name, making the card unplayable; replaced with Dada and Nana."
   },
   {
    "id": null,
@@ -10963,10 +10963,10 @@
   {
    "id": null,
    "Name": "Hafsa",
-   "Description": "Umar | Daughter | Wife | Quran | Mushaf",
+   "Description": "Umar | Daughter | Mushaf | Quran | Mother of Believers",
    "Category": "Sahaba",
    "action": "add",
-   "note": "New card (debate): Mother of the Believers who kept the compiled Quran copy. She is not in the deck and the banned words are accurate."
+   "note": "New card (debate): Mother of the Believers who kept the compiled Quran copy. She is not in the deck and the banned words are accurate.; Debate: Replaces vague 'Wife' with a sharper clue; keeps Mushaf and Umar."
   },
   {
    "id": null,
@@ -11107,10 +11107,10 @@
   {
    "id": null,
    "Name": "Mongoose",
-   "Description": "Neola | Snake | Fight | Brown | Quick",
+   "Description": "Neola | Snake | Fight | Brown | Cobra",
    "Category": "Animals",
    "action": "add",
-   "note": "New card (debate): Well-known local animal (neola vs. snake shows); not in the deck."
+   "note": "New card (debate): Well-known local animal (neola vs. snake shows); not in the deck.; Debate: Cobra is the distinctive association, better than 'Quick'."
   },
   {
    "id": null,
@@ -11123,10 +11123,10 @@
   {
    "id": null,
    "Name": "Liaquat Ali Khan",
-   "Description": "First | Prime Minister | Rawalpindi | Shaheed-e-Millat | Quaid",
+   "Description": "First | Prime Minister | Rawalpindi | Shaheed-e-Millat | Jinnah",
    "Category": "Muslim Historical Figures",
    "action": "add",
-   "note": "New card (debate): Accurate: first Prime Minister, assassinated in Rawalpindi in 1951, titled Shaheed-e-Millat; not in the deck."
+   "note": "New card (debate): Accurate: first Prime Minister, assassinated in Rawalpindi in 1951, titled Shaheed-e-Millat; not in the deck.; Debate: Challenger's amendment: Jinnah is the word guessers actually say, better than obscure Nawabzada."
   },
   {
    "id": null,
@@ -13159,6 +13159,70 @@
    "Category": "Traditional Dishes",
    "action": "add",
    "note": "New card (debate): Popular Pakistani snack, distinct from existing items; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Hunza",
+   "Description": "Karakoram | Karimabad | Baltit | Apricot | Gilgit",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Famous valley not in the deck as its own card."
+  },
+  {
+   "id": null,
+   "Name": "Hajar al-Aswad",
+   "Description": "Black Stone | Kaaba | Corner | Tawaf | Silver",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Amended version: neutral 'Silver' instead of 'Kiss'."
+  },
+  {
+   "id": null,
+   "Name": "Aurangzeb Alamgir",
+   "Description": "Mughal | Emperor | Badshahi | Fatawa | Sixth",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Amended version: removes 'Alamgir', which is in the Name."
+  },
+  {
+   "id": null,
+   "Name": "Shah Jahan",
+   "Description": "Taj Mahal | Mughal | Emperor | Mumtaz | Shalimar",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Major Mughal emperor missing as own card; accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Jibreel",
+   "Description": "Angel | Wahi | Gabriel | Messenger | Quran",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Amended version: drops 'Revelation', which duplicates Wahi."
+  },
+  {
+   "id": null,
+   "Name": "Ludo",
+   "Description": "Dice | Board | Token | Six | Home",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Common family board game, not in deck, no gambling."
+  },
+  {
+   "id": null,
+   "Name": "Fairy Meadows",
+   "Description": "Nanga Parbat | Raikot | Jeep | Camping | Diamer",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Iconic, accurate Pakistani destination, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Deosai",
+   "Description": "Plateau | Skardu | Brown Bear | Sheosar | Wildflowers",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Amended version: replaces near-synonym 'Plains' with 'Wildflowers'."
   }
  ]
 }

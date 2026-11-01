@@ -11155,10 +11155,10 @@
   },
   {
    "id": null,
-   "Name": "At the 2003 Cricket World Cup, Shoaib Akhtar became the first bowler officially recorded bowling faster than what speed?",
-   "Description": "100 mph (he was clocked at 161.3 km/h)",
+   "Name": "At the 2003 Cricket World Cup, Shoaib Akhtar became the first bowler officially clocked at over what speed in mph?",
+   "Description": "100 mph (161.3 km/h)",
    "action": "add",
-   "note": "New card (debate): Pakistani sports record. Uses the challenger's amended answer, which keeps the 100 mph threshold separate from his actual 161.3 km/h delivery."
+   "note": "New card (debate): Pakistani sports record. Uses the challenger's amended answer, which keeps the 100 mph threshold separate from his actual 161.3 km/h delivery.; Debate: Clearer wording, same verified fact (161.3 km/h is about 100.2 mph)."
   },
   {
    "id": null,
@@ -11239,10 +11239,10 @@
   },
   {
    "id": null,
-   "Name": "Which is the only kind of bird that can fly backwards?",
+   "Name": "Which is the only kind of bird able to fly backwards in sustained flight?",
    "Description": "Hummingbird",
    "action": "add",
-   "note": "New card (debate): Well-known fact; not in the deck."
+   "note": "New card (debate): Well-known fact; not in the deck.; Debate: Original absolute is slightly false; 'sustained' makes it accurate. Challenger's 'tiny bird' wording leaks a hint, so kept the original structure."
   },
   {
    "id": null,
@@ -12790,6 +12790,62 @@
    "Description": "Gasherbrum I",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording fixes the ranking error (11th in the world, not Pakistan's 11th)."
+  },
+  {
+   "id": null,
+   "Name": "A single bolt of lightning can be roughly how many times hotter than the surface of the Sun?",
+   "Description": "About five times (around 30,000°C)",
+   "action": "add",
+   "note": "New card (debate): Accurate science fact; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Roughly how many times a day does the International Space Station orbit the Earth?",
+   "Description": "About 16 times",
+   "action": "add",
+   "note": "New card (debate): Accurate (about 15.5); no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which region of Turkey is famous for its 'fairy chimney' rock formations and hot-air balloon rides?",
+   "Description": "Cappadocia",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world geography; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "The white travertine terraces of Pamukkale, whose name means 'Cotton Castle', are in which country?",
+   "Description": "Turkey",
+   "action": "add",
+   "note": "New card (debate): Accurate; distinct from C3."
+  },
+  {
+   "id": null,
+   "Name": "Which tree, mentioned in Surah An-Najm, marks the boundary in the seventh heaven that no creation passes?",
+   "Description": "Sidrat al-Muntaha (the Lote Tree of the Utmost Boundary)",
+   "action": "add",
+   "note": "New card (debate): Well-established Islamic knowledge, respectful, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Faisalabad was known by what name until 1979, when it was renamed in honour of King Faisal of Saudi Arabia?",
+   "Description": "Lyallpur",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani history; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "In which Central Asian city was Imam al-Bukhari, compiler of Sahih al-Bukhari, born?",
+   "Description": "Bukhara",
+   "action": "add",
+   "note": "New card (debate): Accurate Islamic scholarship; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which stone near the Kaaba in Makkah bears the footprints of Prophet Ibrahim (AS), according to tradition?",
+   "Description": "Maqam Ibrahim (Station of Ibrahim)",
+   "action": "add",
+   "note": "New card (debate): Well-known Hajj knowledge, hedged with 'according to tradition'; not in deck."
   }
  ]
 }

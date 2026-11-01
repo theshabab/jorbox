@@ -850,7 +850,7 @@ Badam Doodh,Almond | Milk | Nuts | Winter | Garam,Beverages
 Kunafa,Arab | Cheese | Syrup | Dubai | Pistachio,Desserts
 Baklava,Turkey | Layers | Pistachio | Syrup | Flaky,Desserts
 Samdhi,Samdhan | In-laws | Wedding | Children | Married,Family Relations
-Great-grandfather,Pardada | Parnana | Grandfather | Old | Ancestor,Family Relations
+Great-grandfather,Pardada | Parnana | Dada | Nana | Ancestor,Family Relations
 Sandpaper,Regmaal | Rough | Smooth | Rub | Wood,Tools
 Soldering Iron,Hot | Wire | Circuit | Melt | Electrician,Tools
 Wash and Wear,Men | Suit | Iron | Wrinkle | Shalwar Kameez,Fabrics
@@ -861,7 +861,7 @@ Hafiz,Quran | Memorize | Yaad | Madrasa | Taraweeh,Islamic Terms
 Maqam Ibrahim,Footprints | Stone | Kaaba | Tawaf | Golden,Islamic Locations
 Hateem,Kaaba | Wall | Half Circle | Hijr Ismail | Inside,Islamic Locations
 Asma bint Abi Bakr,Two Belts | Abu Bakr | Cave | Food | Aisha,Sahaba
-Hafsa,Umar | Daughter | Wife | Quran | Mushaf,Sahaba
+Hafsa,Umar | Daughter | Mushaf | Quran | Mother of Believers,Sahaba
 Sumayyah,First | Martyr | Ammar | Yasir | Torture,Sahaba
 Only Child,Iklauta | Sibling | Alone | Pampered | One,Family Relations
 Tipu Sultan,Mysore | Tiger | Shaheed | British | Sher,Muslim Historical Figures
@@ -879,9 +879,9 @@ Pakora,Besan | Fried | Baarish | Iftar | Pyaz,Traditional Dishes
 Dahi Bhallay,Dahi | Phulki | Imli | Chaat | Iftar,Traditional Dishes
 Raddi Wala,Akhbar | Kilo | Scrap | Bottles | Thela,Occupations
 Remote,TV | Buttons | Channel | Batteries | Sofa,Electronics
-Mongoose,Neola | Snake | Fight | Brown | Quick,Animals
+Mongoose,Neola | Snake | Fight | Brown | Cobra,Animals
 Muhammad Ali Jinnah,Quaid-e-Azam | Founder | Pakistan | Karachi | 1947,Muslim Historical Figures
-Liaquat Ali Khan,First | Prime Minister | Rawalpindi | Shaheed-e-Millat | Quaid,Muslim Historical Figures
+Liaquat Ali Khan,First | Prime Minister | Rawalpindi | Shaheed-e-Millat | Jinnah,Muslim Historical Figures
 Istanbul,Turkey | Ottoman | Constantinople | Bosphorus | Hagia Sophia,Islamic Locations
 Gilgit,Mountains | Karakoram | Hunza | North | Polo,Pakistani Cities
 Muzaffarabad,Kashmir | Capital | Neelum | Jhelum | Earthquake,Pakistani Cities
@@ -1136,3 +1136,11 @@ Zuhr,Noon | Namaz | Afternoon | Four Rakat | Dhuhr,Islamic Terms
 Bus Conductor,Kiraya | Bus | Ticket | Seat | Aage Chalo,Occupations
 Welder,Weld | Sparks | Iron | Mask | Torch,Occupations
 Kachori,Fried | Daal | Aloo | Breakfast | Stuffed,Traditional Dishes
+Hunza,Karakoram | Karimabad | Baltit | Apricot | Gilgit,Pakistani Cities
+Hajar al-Aswad,Black Stone | Kaaba | Corner | Tawaf | Silver,Islamic Locations
+Aurangzeb Alamgir,Mughal | Emperor | Badshahi | Fatawa | Sixth,Muslim Historical Figures
+Shah Jahan,Taj Mahal | Mughal | Emperor | Mumtaz | Shalimar,Muslim Historical Figures
+Jibreel,Angel | Wahi | Gabriel | Messenger | Quran,Islamic Terms
+Ludo,Dice | Board | Token | Six | Home,Sports
+Fairy Meadows,Nanga Parbat | Raikot | Jeep | Camping | Diamer,Nature
+Deosai,Plateau | Skardu | Brown Bear | Sheosar | Wildflowers,Nature
