@@ -104313,10 +104313,10 @@
   {
    "id": null,
    "Name": "",
-   "Description": "The Prophet (ﷺ) said a person's wealth will be asked about on the Day of Judgement: how it was earned and how it was spent. The most regrettable thing I spent money on this year was ____.",
+   "Description": "The Prophet (ﷺ) taught that we will be asked how we earned our wealth and how we spent it. The most regrettable thing I spent money on this year was ____.",
    "Category": "Money Problems",
    "action": "add",
-   "note": "New card (debate): Accurate hadith, gentle playable regret blank."
+   "note": "New card (debate): Accurate hadith, gentle playable regret blank.; Debate: Removes the explicit Day of Judgement setup (afterlife rule in GAMES.md) while keeping the authentic hadith idea and the personal money question."
   },
   {
    "id": null,
@@ -104365,6 +104365,38 @@
    "Category": "Load Shedding",
    "action": "add",
    "note": "New card (debate): New load-shedding prompt; blame is a more logical ending than the original."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Badshahi Mosque in Lahore was completed in 1673, and its courtyard holds tens of thousands of people. The biggest crowd our house ever hosted gathered for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani heritage card; no Badshahi card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Faisal Mosque in Islamabad stands at the foot of the Margalla Hills. On our family trip there, we arrived late because of ____.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): Accurate landmark card; challenger's 'arrived late' fix adopted."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Hajj pilgrims bring home zamzam water and dates. Whatever else they bring, the relatives at the airport only ask about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable, respectful family scene; no zamzam card exists; Hajj pilgrim themes are allowed."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The sewing machine in our house has stitched curtains, school uniforms and, once, ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable household card with an open blank; no duplicate."
   }
  ]
 }

@@ -4088,7 +4088,7 @@
   {
    "id": "game2-315",
    "Name": "Painter",
-   "Description": "Paint | Brush | Wall | Rang | Colour",
+   "Description": "Rang | Brush | Wall | Ladder | Colour",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -4096,7 +4096,7 @@
     "Description": "job | work | professional | career",
     "Category": "Occupations"
    },
-   "note": ""
+   "note": "Debate: 'Paint' is root of card name."
   },
   {
    "id": "game2-316",
@@ -4140,7 +4140,7 @@
   {
    "id": "game2-319",
    "Name": "Banker",
-   "Description": "Bank | Money | Paisa | Loan | Account",
+   "Description": "Money | Paisa | Loan | Account | Vault",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -4148,7 +4148,7 @@
     "Description": "job | work | professional | career",
     "Category": "Occupations"
    },
-   "note": ""
+   "note": "Debate: 'Bank' is root of card name."
   },
   {
    "id": "game2-320",
@@ -4166,7 +4166,7 @@
   {
    "id": "game2-321",
    "Name": "Scientist",
-   "Description": "Lab | Experiment | Einstein | Research | Science",
+   "Description": "Lab | Experiment | Einstein | Research | Invention",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -4174,7 +4174,7 @@
     "Description": "job | work | professional | career",
     "Category": "Occupations"
    },
-   "note": ""
+   "note": "Debate: 'Science' is root of card name."
   },
   {
    "id": "game2-322",
@@ -4192,7 +4192,7 @@
   {
    "id": "game2-323",
    "Name": "Bus",
-   "Description": "Passengers | Stop | Conductor | Big | Daewoo",
+   "Description": "Passengers | Stop | Conductor | Daewoo | Seats",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4200,12 +4200,12 @@
     "Description": "vehicle | ride | wheels | travel",
     "Category": "Transport"
    },
-   "note": ""
+   "note": "Debate: Replaces vague 'Big'."
   },
   {
    "id": "game2-324",
    "Name": "Truck",
-   "Description": "Goods | Load | Highway | Heavy | Art",
+   "Description": "Goods | Load | Highway | Heavy | Painted",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4213,7 +4213,7 @@
     "Description": "vehicle | ride | wheels | travel",
     "Category": "Transport"
    },
-   "note": ""
+   "note": "Debate: Clearer truck-art hint."
   },
   {
    "id": "game2-325",
@@ -4231,7 +4231,7 @@
   {
    "id": "game2-326",
    "Name": "Cycle",
-   "Description": "Pedal | Bicycle | Saikal | Chain | Bell",
+   "Description": "Pedal | Handlebar | Saikal | Chain | Bell",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4239,12 +4239,12 @@
     "Description": "vehicle | ride | wheels | travel",
     "Category": "Transport"
    },
-   "note": ""
+   "note": "Debate: 'Bicycle' contains card name."
   },
   {
    "id": "game2-327",
    "Name": "Rickshaw",
-   "Description": "Three Wheels | Auto | Qingqi | Fare | Tuk Tuk",
+   "Description": "Three Wheels | Auto | CNG | Fare | Tuk Tuk",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4252,7 +4252,7 @@
     "Description": "vehicle | ride | wheels | travel",
     "Category": "Transport"
    },
-   "note": ""
+   "note": "Debate: Qingqi gave away Chingchi card."
   },
   {
    "id": "game2-328",
@@ -4543,7 +4543,7 @@
   {
    "id": "game2-350",
    "Name": "Sharpener",
-   "Description": "Pencil | Sharp | Tip | Shavings | Blade",
+   "Description": "Pencil | Blade | Tip | Shavings | Twist",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4551,7 +4551,7 @@
     "Description": "paper | write | school | office",
     "Category": "Stationery"
    },
-   "note": ""
+   "note": "Debate: 'Sharp' is root of card name."
   },
   {
    "id": "game2-351",
@@ -4647,7 +4647,7 @@
   {
    "id": "game2-358",
    "Name": "Stapler",
-   "Description": "Pins | Staple | Punch | Clip | Attach",
+   "Description": "Pins | Sheets | Press | Office | Attach",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4655,7 +4655,7 @@
     "Description": "paper | write | school | office",
     "Category": "Stationery"
    },
-   "note": ""
+   "note": "Debate: Removes root word 'Staple'."
   },
   {
    "id": "game2-359",
@@ -4842,7 +4842,7 @@
   {
    "id": "game2-373",
    "Name": "Blue",
-   "Description": "Neela | Sky | Sea | Ocean | Jeans",
+   "Description": "Neela | Sky | Sea | Jeans | Peacock",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -4850,7 +4850,7 @@
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": ""
+   "note": "Debate: Ocean near-duplicate of Sea; Ocean is its own card."
   },
   {
    "id": "game2-374",
@@ -5024,7 +5024,7 @@
   {
    "id": "game2-387",
    "Name": "Beige",
-   "Description": "Skin | Khaki | Light Brown | Sand | Camel",
+   "Description": "Light Brown | Sand | Camel | Neutral | Paint",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -5032,7 +5032,7 @@
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": ""
+   "note": "Debate: Drops 'Skin' and Khaki (separate card)."
   },
   {
    "id": "game2-388",
@@ -5065,13 +5065,13 @@
    "Name": "Violet",
    "Description": "Purple | Rainbow | Flower | Jamni | Last",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Violet",
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": "Near-duplicate of Purple/Indigo; kept, but hard to distinguish."
+   "note": "Debate: Near-duplicate of Purple, which is live (action edit) in review file."
   },
   {
    "id": "game2-391",
@@ -5104,13 +5104,13 @@
    "Name": "Teal",
    "Description": "Blue | Green | Turquoise | Dark | Sea",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Teal",
     "Description": "color | paint | bright | shade",
     "Category": "Colors"
    },
-   "note": "Close to Turquoise/Cyan; kept.; Debate: Teal is a common Pakistani clothing colour, so the card stays. The obscure 'Duck' clue is replaced with 'Turquoise', the obvious near-synonym."
+   "note": "Debate: Near-duplicate of Turquoise, which is live (action edit) in review file."
   },
   {
    "id": "game2-394",
@@ -5284,7 +5284,7 @@
   {
    "id": "game2-407",
    "Name": "Thumb",
-   "Description": "Angootha | Finger | Thumbs Up | Fingerprint | Like",
+   "Description": "Angootha | Finger | Hand | Fingerprint | Like",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5292,7 +5292,7 @@
     "Description": "body | human | anatomy | organ",
     "Category": "Body Parts"
    },
-   "note": "Debate: 'Short' was a weak ban; block the angootha-lagana fingerprint clue; standard spelling Angootha."
+   "note": "Debate: 'Short' was a weak ban; block the angootha-lagana fingerprint clue; standard spelling Angootha.; Debate: 'Thumbs Up' contains card name."
   },
   {
    "id": "game2-408",
@@ -5349,7 +5349,7 @@
   {
    "id": "game2-412",
    "Name": "Hair",
-   "Description": "Baal | Head | Comb | Haircut | Shampoo",
+   "Description": "Baal | Head | Comb | Long | Shampoo",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5357,7 +5357,7 @@
     "Description": "body | human | anatomy | organ",
     "Category": "Body Parts"
    },
-   "note": ""
+   "note": "Debate: 'Haircut' contains card name."
   },
   {
    "id": "game2-413",
@@ -5388,7 +5388,7 @@
   {
    "id": "game2-415",
    "Name": "Lip",
-   "Description": "Hont | Mouth | Lipstick | Smile | Chapstick",
+   "Description": "Hont | Mouth | Smile | Pout | Gloss",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5396,7 +5396,7 @@
     "Description": "body | human | anatomy | organ",
     "Category": "Body Parts"
    },
-   "note": ""
+   "note": "Debate: Lipstick contains card name; Chapstick is a US brand."
   },
   {
    "id": "game2-416",
@@ -12807,6 +12807,86 @@
    "Category": "Occupations",
    "action": "add",
    "note": "New card (debate): Traditional trade with strong mime actions. No Blacksmith card exists."
+  },
+  {
+   "id": null,
+   "Name": "School Bag",
+   "Description": "Books | Zip | Strap | Shoulders | Bastah",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Common missing item, easy to act."
+  },
+  {
+   "id": null,
+   "Name": "Crayon",
+   "Description": "Wax | Kids | Drawing | Box | Colouring",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Singular to match deck convention (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Palm",
+   "Description": "Hatheli | Fingers | Hand | Open | Clap",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Amended to avoid palmistry/fortune-telling and tree ambiguity."
+  },
+  {
+   "id": null,
+   "Name": "Spine",
+   "Description": "Reerh | Back | Bone | Straight | Book",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Missing body part, correct Urdu."
+  },
+  {
+   "id": null,
+   "Name": "Jaw",
+   "Description": "Jabra | Chew | Bone | Lower | Dropped",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Missing body part, actable."
+  },
+  {
+   "id": null,
+   "Name": "Ankle",
+   "Description": "Takhna | Foot | Twist | Joint | Sprain",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Missing body part, actable."
+  },
+  {
+   "id": null,
+   "Name": "Qari",
+   "Description": "Quran | Recite | Tajweed | Voice | Masjid",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Respected local role, fits beside Muazzin."
+  },
+  {
+   "id": null,
+   "Name": "Clerk",
+   "Description": "Office | Files | Babu | Desk | Government",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani job, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Principal",
+   "Description": "Headmaster | Assembly | Teachers | Strict | Office",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Challenger's stronger 'Office' hint."
+  },
+  {
+   "id": null,
+   "Name": "Motorway",
+   "Description": "M2 | Toll | Islamabad | Lanes | Speed",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani road, no existing card."
   }
  ]
 }

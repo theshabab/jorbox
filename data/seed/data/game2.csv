@@ -300,18 +300,18 @@ Carpenter,Wood | Furniture | Tarkhan | Hammer | Saw,Occupations
 Plumber,Pipe | Leak | Water | Tap | Bathroom,Occupations
 Electrician,Wire | Bijli | Current | Light | Shock,Occupations
 Mechanic,Car | Repair | Engine | Garage | Workshop,Occupations
-Painter,Paint | Brush | Wall | Rang | Colour,Occupations
+Painter,Rang | Brush | Wall | Ladder | Colour,Occupations
 Writer,Book | Author | Pen | Novel | Likhna,Occupations
 Artist,Paint | Drawing | Canvas | Brush | Creative,Occupations
-Banker,Bank | Money | Paisa | Loan | Account,Occupations
+Banker,Money | Paisa | Loan | Account | Vault,Occupations
 Accountant,Hisaab | Tax | Numbers | CA | Audit,Occupations
-Scientist,Lab | Experiment | Einstein | Research | Science,Occupations
+Scientist,Lab | Experiment | Einstein | Research | Invention,Occupations
 Car,Gaari | Drive | Suzuki | Corolla | Four Wheels,Transport
-Bus,Passengers | Stop | Conductor | Big | Daewoo,Transport
-Truck,Goods | Load | Highway | Heavy | Art,Transport
+Bus,Passengers | Stop | Conductor | Daewoo | Seats,Transport
+Truck,Goods | Load | Highway | Heavy | Painted,Transport
 Bike,Motorcycle | Honda | Seventy | Helmet | Two Wheels,Transport
-Cycle,Pedal | Bicycle | Saikal | Chain | Bell,Transport
-Rickshaw,Three Wheels | Auto | Qingqi | Fare | Tuk Tuk,Transport
+Cycle,Pedal | Handlebar | Saikal | Chain | Bell,Transport
+Rickshaw,Three Wheels | Auto | CNG | Fare | Tuk Tuk,Transport
 Chingchi,Rickshaw | Motorcycle | Sawari | Cheap | Shared,Transport
 Train,Railway | Station | Track | Engine | Rail Gaari,Transport
 Airplane,Jahaz | Fly | Airport | Pilot | PIA,Transport
@@ -334,14 +334,14 @@ Tonga,Horse | Ghora | Cart | Old Lahore | Kochwan,Transport
 Pen,Ink | Write | Ballpoint | Likhna | Paper,Stationery
 Pencil,Lead | Write | Eraser | Sharpener | Draw,Stationery
 Eraser,Rubber | Mistake | Pencil | Rub | Clean,Stationery
-Sharpener,Pencil | Sharp | Tip | Shavings | Blade,Stationery
+Sharpener,Pencil | Blade | Tip | Shavings | Twist,Stationery
 Ruler,Scale | Line | Straight | Measure | Inches,Stationery
 Notebook,Copy | Pages | Lines | Spiral | Homework,Stationery
 Paper,Kaghaz | Sheet | A4 | Page | Print,Stationery
 Glue,Sticky | Stick | Gond | Elfy | UHU,Stationery
 Marker,Whiteboard | Permanent | Thick | Pen | Ink,Stationery
 Highlighter,Yellow | Neon | Mark | Underline | Notes,Stationery
-Stapler,Pins | Staple | Punch | Clip | Attach,Stationery
+Stapler,Pins | Sheets | Press | Office | Attach,Stationery
 Pin,Sharp | Prick | Needle | Safety | Board,Stationery
 Clip,Paper | Binder | Hold | Hair | Metal,Stationery
 Tape,Sticky | Scotch | Roll | Seal | Transparent,Stationery
@@ -355,7 +355,7 @@ Chart,Paper | Graph | Poster | Project | Pie,Stationery
 Card,Shaadi | Greeting | Eid | Visiting | ID,Stationery
 Ink,Pen | Fountain | Blue | Siyahi | Printer,Stationery
 Red,Laal | Blood | Apple | Danger | Rose,Colors
-Blue,Neela | Sky | Sea | Ocean | Jeans,Colors
+Blue,Neela | Sky | Sea | Jeans | Peacock,Colors
 Green,Hara | Pakistan | Grass | Leaves | Flag,Colors
 Yellow,Peela | Banana | Sun | Lemon | Mango,Colors
 Purple,Jamni | Grapes | Brinjal | Violet | Baingani,Colors
@@ -366,13 +366,11 @@ Grey,Silver | Ash | Clouds | Elephant | Hair,Colors
 Brown,Bhoora | Chocolate | Wood | Coffee | Soil,Colors
 Maroon,Dark Red | Bridal | Beetroot | Mehroon | Lehnga,Colors
 Turquoise,Blue | Green | Sea | Feroza | Stone,Colors
-Beige,Skin | Khaki | Light Brown | Sand | Camel,Colors
+Beige,Light Brown | Sand | Camel | Neutral | Paint,Colors
 Cream,Malai | Off White | Butter | Milk | Face,Colors
 Indigo,Rainbow | Blue | Dark | Purple | Neel,Colors
-Violet,Purple | Rainbow | Flower | Jamni | Last,Colors
 Magenta,Pink | Purple | Bright | Printer | Hot,Colors
 Cyan,Blue | Light Blue | Aqua | Printer | Sky,Colors
-Teal,Blue | Green | Turquoise | Dark | Sea,Colors
 Olive,Green | Oil | Zaitoon | Army | Khaki,Colors
 Navy,Dark Blue | Blazer | Uniform | Sailor | Ship,Colors
 Head,Sar | Brain | Hair | Top | Skull,Body Parts
@@ -385,15 +383,15 @@ Foot,Pair | Toes | Walk | Shoe | Heel,Body Parts
 Leg,Taang | Walk | Knee | Thigh | Run,Body Parts
 Arm,Baazu | Elbow | Hand | Muscle | Shoulder,Body Parts
 Finger,Ungli | Ring | Point | Nail | Five,Body Parts
-Thumb,Angootha | Finger | Thumbs Up | Fingerprint | Like,Body Parts
+Thumb,Angootha | Finger | Hand | Fingerprint | Like,Body Parts
 Knee,Ghutna | Leg | Bend | Kneel | Joint,Body Parts
 Elbow,Kohni | Arm | Bend | Joint | Funny Bone,Body Parts
 Shoulder,Kandha | Shrug | Arm | Neck | Carry,Body Parts
 Neck,Gardan | Head | Throat | Scarf | Giraffe,Body Parts
-Hair,Baal | Head | Comb | Haircut | Shampoo,Body Parts
+Hair,Baal | Head | Comb | Long | Shampoo,Body Parts
 Tooth,Daant | Brush | Dentist | Bite | Cavity,Body Parts
 Tongue,Zubaan | Taste | Lick | Mouth | Talk,Body Parts
-Lip,Hont | Mouth | Lipstick | Smile | Chapstick,Body Parts
+Lip,Hont | Mouth | Smile | Pout | Gloss,Body Parts
 Chin,Thodi | Face | Beard | Jaw | Mouth,Body Parts
 Cheek,Gaal | Face | Pinch | Dimple | Blush,Body Parts
 Forehead,Matha | Face | Head | Sajda | Eyebrows,Body Parts
@@ -1094,3 +1092,13 @@ Bala Hisar Fort,Peshawar | Qila | Walls | Frontier Corps | Khyber Pakhtunkhwa,Hi
 Pyramids,Egypt | Firaun | Giza | Desert | Tombs,Historical Places
 Potter,Kumhar | Clay | Wheel | Matka | Kiln,Occupations
 Blacksmith,Lohar | Iron | Anvil | Hammer | Fire,Occupations
+School Bag,Books | Zip | Strap | Shoulders | Bastah,Stationery
+Crayon,Wax | Kids | Drawing | Box | Colouring,Stationery
+Palm,Hatheli | Fingers | Hand | Open | Clap,Body Parts
+Spine,Reerh | Back | Bone | Straight | Book,Body Parts
+Jaw,Jabra | Chew | Bone | Lower | Dropped,Body Parts
+Ankle,Takhna | Foot | Twist | Joint | Sprain,Body Parts
+Qari,Quran | Recite | Tajweed | Voice | Masjid,Occupations
+Clerk,Office | Files | Babu | Desk | Government,Occupations
+Principal,Headmaster | Assembly | Teachers | Strict | Office,Occupations
+Motorway,M2 | Toll | Islamabad | Lanes | Speed,Transport
