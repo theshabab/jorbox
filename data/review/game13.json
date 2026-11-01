@@ -6587,6 +6587,36 @@
    "Description": "Get a player to tell you which daal they like best: masoor, mash, moong or chana.",
    "action": "add",
    "note": "New card (debate): Pakistani food preference, no daal card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which colour of the Pakistani flag stands for minorities.",
+   "action": "add",
+   "note": "New card (debate): Accurate (white stripe), local, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which river the city of Hyderabad, Sindh is built beside.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Indus); distinct from the Nile claim card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many Juz (paras) the Quran has.",
+   "action": "add",
+   "note": "New card (debate): Established fact (30); no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the funniest thing a relative has said at a shaadi.",
+   "action": "add",
+   "note": "New card (debate): Harmless story prompt; not a duplicate of the aunty impression card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many pockets a carrom board has.",
+   "action": "add",
+   "note": "New card (debate): Challenger's clean rewording; answer is four."
   }
  ]
 }

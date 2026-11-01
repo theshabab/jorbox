@@ -4693,12 +4693,12 @@
    "id": "game16-427",
    "Name": "Have Eid and wedding celebrations become too commercialized?",
    "Category": "Ice Breakers & Fun General",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What holidays have been over-commercialized?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Muslim/Pakistani framing"
+   "note": "Debate: Same complaint as the live Eid/wedding trends-to-skip card, which is more answerable."
   },
   {
    "id": "game16-428",
@@ -4803,12 +4803,12 @@
    "id": "game16-437",
    "Name": "What will the future of education be?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What will the future of education be?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Vague, overlaps live cards 440 and 442."
   },
   {
    "id": "game16-438",
@@ -4823,14 +4823,14 @@
   },
   {
    "id": "game16-439",
-   "Name": "How can governments make education more efficient?",
+   "Name": "If you were Pakistan's education minister, what is the first thing you would change in our schools?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "How can governments make education more efficient?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Concrete, local and more fun than the flat original."
   },
   {
    "id": "game16-440",
@@ -4902,12 +4902,12 @@
    "id": "game16-446",
    "Name": "What is your strategy at a shaadi buffet or an all-you-can-eat deal?",
    "Category": "Ice Breakers & Fun General",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What do you think of buffets?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Debate: A desi frame makes a bland question funny."
+   "note": "Debate: Duplicate of the live 'khana khul gaya hai' game-plan card."
   },
   {
    "id": "game16-447",
@@ -5254,12 +5254,12 @@
    "id": "game16-478",
    "Name": "What does “success” mean to you?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What does “success” mean to you?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Duplicate of live game16-244 (kept)."
   },
   {
    "id": "game16-479",
@@ -5463,12 +5463,12 @@
    "id": "game16-497",
    "Name": "What is a mistake you’ve made that you still think about?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is a mistake you’ve made that you still think about?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Overlaps live biggest-regret (498) and learned-the-hard-way (471) cards."
   },
   {
    "id": "game16-498",
@@ -5758,14 +5758,14 @@
   },
   {
    "id": "game16-524",
-   "Name": "What does it mean to be “authentic”?",
+   "Name": "When is it hardest to stay true to yourself, and what helps you do it?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What does it mean to be “authentic”?",
     "Category": "Deep & ThoughtProvoking"
    },
-   "note": ""
+   "note": "Debate: Replaces the buzzword 'authentic' with a clear, answerable question."
   },
   {
    "id": "game16-525",
@@ -9507,6 +9507,55 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Distinct from stylish-grandparents and outfit-spend cards; family-friendly."
+  },
+  {
+   "id": null,
+   "Name": "What is your favorite childhood monsoon memory: running out in the first barish, a jhoola under a tree, or sailing paper boats in the gali?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Fills the missing monsoon theme without repeating the pakoray/chai rain-plan card (challenger's amended version)."
+  },
+  {
+   "id": null,
+   "Name": "Which shawl, sweater or blanket in your house does everyone fight over in winter?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable winter family question, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "If you could add one more season to the year, what would it be like?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Playful seasons prompt, no equivalent in deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the kindest thing a teacher ever said to encourage you?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Warm education angle distinct from other teacher cards."
+  },
+  {
+   "id": null,
+   "Name": "What is one question you would love to ask your grandparents about their young days?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing grandparent cards; family-friendly."
+  },
+  {
+   "id": null,
+   "Name": "What would you like your family and community to remember you for?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Legacy theme is missing since both earlier legacy cards are removed."
+  },
+  {
+   "id": null,
+   "Name": "Who believed in you more than you believed in yourself, and what did it change?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Distinct warm question on support and gratitude."
   }
  ]
 }

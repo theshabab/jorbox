@@ -6456,10 +6456,10 @@
   },
   {
    "id": null,
-   "Description": "How many meetings or classes have you sat through this month that could have been a short message?",
+   "Description": "How many meetings or classes have you sat through this month that could have been a short WhatsApp message?",
    "Category": "Number",
    "action": "add",
-   "note": "New card (debate): No work-meeting card exists; universal and easy to answer."
+   "note": "New card (debate): No work-meeting card exists; universal and easy to answer.; Debate: Local, familiar channel; challenger's simpler wording without redundant 'lectures'."
   },
   {
    "id": null,
@@ -6908,6 +6908,69 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Sneeze angle is unique in the deck (existing khutbah card covers dozing off); challenger's single-count version is cleaner than sneeze-or-hiccup."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you taught someone, even a small child, a dua or a surah?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): New allowed worship/community count; distinct from card 654."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you prayed Tahajjud?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Allowed worship question; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about Sir Syed Ahmad Khan and the Aligarh movement?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Accurate subcontinent history knowledge card; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about Muhammad bin Qasim and the arrival of Muslim rule in Sindh?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment is historically more accurate."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you shared your food with a guard, driver, helper or labourer?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clear, local, kind; a count, distinct from the likelihood card on sharing food."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you offered a ride to someone waiting by the road?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): 'Ride' avoids confusion with the elevator card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to say a polite no to a relative's request when you truly cannot do it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable family question in correct likelihood format; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you let someone go ahead of you in traffic or in a queue?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Past-behaviour count; distinct from queue-jumping and traffic-temper cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to check the price and weight yourself instead of trusting the shopkeeper's word?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local bazaar-trust question distinct from the extra-change card 655."
   }
  ]
 }
