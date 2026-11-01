@@ -103803,8 +103803,8 @@
    "Name": "",
    "Description": "Returning what you borrowed is part of honesty. I still owe my friend ____.",
    "Category": "",
-   "action": "add",
-   "note": "New card (debate): Amanah worldview, confessional and funny."
+   "action": "remove",
+   "note": "Debate: Duplicate of live card 8044, which is kept."
   },
   {
    "id": null,
@@ -104089,10 +104089,10 @@
   {
    "id": null,
    "Name": "",
-   "Description": "A hadith praises the honest and trustworthy merchant. The first thing an honest shopkeeper should remove from his shelf is ____.",
+   "Description": "A hadith praises the honest and trustworthy merchant. The sign at the honest dudh wala's shop says, \"Our milk has no ____ in it, I promise.\"",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Accurate hadith theme, critiques habits, fresh."
+   "note": "New card (debate): Accurate hadith theme, critiques habits, fresh.; Debate: Original was unclear. Rewrite uses a dudh wala, which avoids a fourth sabzi wala prompt."
   },
   {
    "id": null,
@@ -104317,6 +104317,54 @@
    "Category": "Money Problems",
    "action": "add",
    "note": "New card (debate): Accurate hadith, gentle playable regret blank."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The photocopy shop uncle looked at my notes, sighed, and said, \"____.\"",
+   "Category": "School Days",
+   "action": "add",
+   "note": "New card (debate): New relatable desi student scene; no photocopy card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The ganna juice wala squeezed sugarcane, lemon, mint and, by mistake, ____ into my glass.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Pakistani street-food prompt with a clearer fill-in than the original wording; no ganna card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The electrician looked at our wiring, shook his head, and said, \"Baji, whoever did this must have been ____.\"",
+   "Category": "Load Shedding",
+   "action": "add",
+   "note": "New card (debate): New home-repair prompt; the added frame fixes the incomplete grammar."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things you will always find in a Pakistani cousin's WhatsApp status on Eid",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): New clean Quiplash prompt on Eid and social media; both are allowed."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The motorbike uncle carried a family of four, a gas cylinder and ____ without a single worry.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): New observational traffic humour; distinct from the existing motorbike cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The inverter beeped all night, and by morning the whole family was blaming ____.",
+   "Category": "Load Shedding",
+   "action": "add",
+   "note": "New card (debate): New load-shedding prompt; blame is a more logical ending than the original."
   }
  ]
 }

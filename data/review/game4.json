@@ -8347,7 +8347,7 @@
     "Description": "During Isaac Newton’s time as a member of Parliament, he uttered only one sentence ever: He asked a nearby usher to ____.",
     "Category": "Official Business"
    },
-   "note": "flagged as legend; Debate: Moves the card out of the one-card leftover category 'Official Business' into History Oddities."
+   "note": "flagged as legend; Debate: Moves the card out of the one-card leftover category 'Official Business' into History Oddities.; Debate: Missing category; History Oddities exists in the deck."
   },
   {
    "id": "game4-643",
@@ -8360,7 +8360,7 @@
     "Description": "When he was 25, Julius Caesar was kidnapped by pirates. During his time in captivity he forced the pirates to increase his ransom, keep quiet while he slept and ____.",
     "Category": "Carpe Diem"
    },
-   "note": "wording; Debate: Moves the card into History Oddities and says 'about 25', because his age at the time is approximate."
+   "note": "wording; Debate: Moves the card into History Oddities and says 'about 25', because his age at the time is approximate.; Debate: Missing category."
   },
   {
    "id": "game4-644",
@@ -8373,7 +8373,7 @@
     "Description": "Dictators, they’re just like us! According to historians, the Roman ruler Julius Caesar was extremely self conscious about his ____.",
     "Category": "Heads of State"
    },
-   "note": "answer: baldness (he combed hair forward to hide it); Debate: Challenger's amendment: drops the US celebrity-magazine catchphrase without adding a laurel-wreath clue that points to the answer, and moves the card into History Oddities."
+   "note": "answer: baldness (he combed hair forward to hide it); Debate: Challenger's amendment: drops the US celebrity-magazine catchphrase without adding a laurel-wreath clue that points to the answer, and moves the card into History Oddities.; Debate: Missing category."
   },
   {
    "id": "game4-645",
@@ -8386,7 +8386,7 @@
     "Description": "In a truly bizarre day at the hospital, Dr. Robert Liston, infamous English surgeon of the 19th century, once conducted a surgery with ____.",
     "Category": "Medical Experts"
    },
-   "note": "flagged as story; wording; Debate: Moves the card out of the one-card leftover category 'Medical Experts' into History Oddities."
+   "note": "flagged as story; wording; Debate: Moves the card out of the one-card leftover category 'Medical Experts' into History Oddities.; Debate: Missing category; mildly dark content is allowed."
   },
   {
    "id": "game4-646",
@@ -8551,7 +8551,7 @@
    "Description": "Pakistan's first capital, until the government moved out in 1959, was ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad."
+   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad.; Debate: Fact correct; fills missing category."
   },
   {
    "id": null,
@@ -8783,7 +8783,7 @@
    "Description": "Istanbul is the world's largest city to sit on two ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest."
+   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest.; Debate: Fact correct; fills missing category."
   },
   {
    "id": null,
@@ -13376,6 +13376,30 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Replaces the near-duplicate A25; family and money."
+  },
+  {
+   "id": null,
+   "Name": "eighth",
+   "Description": "Because of the engineering needed to carve it through the Karakoram mountains, the Karakoram Highway is often called the ____ Wonder of the World.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-known nickname; no duplicate (only Khunjerab Pass card exists)."
+  },
+  {
+   "id": null,
+   "Name": "progress",
+   "Description": "On Pakistan's flag, the crescent stands for ____, while the star stands for light and knowledge.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate official flag symbolism; not a duplicate of the white-stripe card."
+  },
+  {
+   "id": null,
+   "Name": "499",
+   "Description": "In 1958-59 at Karachi, Hanif Mohammad scored a then-world-record first-class innings of ____ before being run out.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording: removes the 'one short of 500' giveaway and the outdated 'record' claim (Lara's 501)."
   }
  ]
 }

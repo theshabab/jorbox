@@ -31137,6 +31137,86 @@
    "Category": "Janazah Steps (In Order)",
    "action": "add",
    "note": "New card (debate): Accurate; ends sequence."
+  },
+  {
+   "id": null,
+   "Name": "Qiyam (Standing)",
+   "Description": "1st: standing and reciting Al-Fatihah",
+   "Category": "Salah Steps in One Rak'ah (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate, new Islamic sequencing category."
+  },
+  {
+   "id": null,
+   "Name": "Ruku (Bowing)",
+   "Description": "2nd: bowing with hands on the knees",
+   "Category": "Salah Steps in One Rak'ah (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct position and description."
+  },
+  {
+   "id": null,
+   "Name": "Qawmah",
+   "Description": "3rd: standing up straight after ruku",
+   "Category": "Salah Steps in One Rak'ah (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct position."
+  },
+  {
+   "id": null,
+   "Name": "First Sajdah",
+   "Description": "4th: first prostration",
+   "Category": "Salah Steps in One Rak'ah (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct position."
+  },
+  {
+   "id": null,
+   "Name": "Jalsah",
+   "Description": "5th: sitting briefly between the two sajdahs",
+   "Category": "Salah Steps in One Rak'ah (In Order)",
+   "action": "add",
+   "note": "New card (debate): Correct position."
+  },
+  {
+   "id": null,
+   "Name": "Second Sajdah",
+   "Description": "6th: second prostration, completing the rak'ah",
+   "Category": "Salah Steps in One Rak'ah (In Order)",
+   "action": "add",
+   "note": "New card (debate): Completes the sequence; a rak'ah has two sajdahs."
+  },
+  {
+   "id": null,
+   "Name": "Barcelona, Spain",
+   "Description": "1971 - the first ever Hockey World Cup",
+   "Category": "Pakistan's Hockey World Cup Wins (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Verified: Pakistan won the first World Cup in Barcelona, 1971."
+  },
+  {
+   "id": null,
+   "Name": "Buenos Aires, Argentina",
+   "Description": "1978 - beat the Netherlands 3-2",
+   "Category": "Pakistan's Hockey World Cup Wins (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Verified fact."
+  },
+  {
+   "id": null,
+   "Name": "Bombay, India",
+   "Description": "1982 - beat West Germany 3-1",
+   "Category": "Pakistan's Hockey World Cup Wins (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Verified fact."
+  },
+  {
+   "id": null,
+   "Name": "Sydney, Australia",
+   "Description": "1994 - beat the Netherlands on penalties",
+   "Category": "Pakistan's Hockey World Cup Wins (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Verified: 1-1, penalties 4-3."
   }
  ]
 }
