@@ -1137,6 +1137,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1135','game1','Bus Conductor','Collects fares and calls out stops (Kiraya)','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1136','game1','Welder','Joins metal with sparks and a mask','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1137','game1','Kachori','Fried stuffed breakfast snack with daal','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1138','game1','Hunza','Scenic Karakoram valley famed for apricots','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1139','game1','Hajar al-Aswad','Black stone set in the Kaaba''s corner','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1140','game1','Aurangzeb Alamgir','Sixth Mughal emperor who built the Badshahi Mosque','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1141','game1','Shah Jahan','Mughal emperor who built the Taj Mahal','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1142','game1','Jibreel','Angel who brought revelation to the Prophets','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1143','game1','Ludo','Family board game with dice and tokens','Sports');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1144','game1','Fairy Meadows','Green meadow below Nanga Parbat','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1145','game1','Deosai','High plateau near Skardu with wildflowers','Nature');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');
