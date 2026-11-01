@@ -2983,7 +2983,7 @@
   {
    "id": "game2-230",
    "Name": "Hen",
-   "Description": "Murghi | Egg | Chicken | Anda | Farm",
+   "Description": "Murghi | Egg | Chicken | Cluck | Farm",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2991,12 +2991,12 @@
     "Description": "bird | fly | feather | nest",
     "Category": "Birds"
    },
-   "note": ""
+   "note": "Debate: Drop Anda (same clue as Egg), add Cluck; keep Farm rather than Chicks."
   },
   {
    "id": "game2-231",
    "Name": "Rooster",
-   "Description": "Murgha | Kukroo-koo | Morning | Crow | Wake Up",
+   "Description": "Murgha | Kukroo-koo | Morning | Wake Up | Comb",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3004,7 +3004,7 @@
     "Description": "bird | fly | feather | nest",
     "Category": "Birds"
    },
-   "note": "Debate: Replaces the giggle-prone 'Cock' with the rooster's call, which is the obvious clue."
+   "note": "Debate: Replaces the giggle-prone 'Cock' with the rooster's call, which is the obvious clue.; Debate: Crow is the answer of another card; Comb avoids both Crow and Hen clashes."
   },
   {
    "id": "game2-232",
@@ -3126,7 +3126,7 @@
   {
    "id": "game2-241",
    "Name": "Woodpecker",
-   "Description": "Tree | Peck | Beak | Hole | Knock",
+   "Description": "Tree | Beak | Hole | Knock | Drill",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3134,12 +3134,12 @@
     "Description": "bird | fly | feather | nest",
     "Category": "Birds"
    },
-   "note": ""
+   "note": "Debate: Peck is inside the answer."
   },
   {
    "id": "game2-242",
    "Name": "Kingfisher",
-   "Description": "Fish | Dive | Blue | River | Beak",
+   "Description": "Dive | Blue | River | Beak | Hunt",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3147,7 +3147,7 @@
     "Description": "bird | fly | feather | nest",
     "Category": "Birds"
    },
-   "note": ""
+   "note": "Debate: Fish is inside the answer."
   },
   {
    "id": "game2-243",
@@ -3165,7 +3165,7 @@
   {
    "id": "game2-244",
    "Name": "Dove",
-   "Description": "Fakhta | Peace | White | Olive | Pigeon",
+   "Description": "Fakhta | Peace | White | Olive | Coo",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3173,7 +3173,7 @@
     "Description": "bird | fly | feather | nest",
     "Category": "Birds"
    },
-   "note": ""
+   "note": "Debate: Pigeon is the answer of a live card; Coo is a better banned word."
   },
   {
    "id": "game2-245",
@@ -3347,7 +3347,7 @@
   {
    "id": "game2-258",
    "Name": "Polo",
-   "Description": "Horse | Mallet | Shandur | Gilgit | Ghora",
+   "Description": "Horse | Mallet | Shandur | Gilgit | Chitral",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3355,7 +3355,7 @@
     "Description": "sport | game | ball | player",
     "Category": "Sports"
    },
-   "note": ""
+   "note": "Debate: Removes duplicate Ghora; Chitral is accurate for Shandur."
   },
   {
    "id": "game2-259",
@@ -3438,7 +3438,7 @@
   {
    "id": "game2-265",
    "Name": "Snooker",
-   "Description": "Cue | Table | Pocket | Mohammad Yousaf | Balls",
+   "Description": "Cue | Table | Pocket | Muhammad Yousuf | Balls",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3446,7 +3446,7 @@
     "Description": "sport | game | ball | player",
     "Category": "Sports"
    },
-   "note": ""
+   "note": "Debate: Spelling fix using the common Muhammad Yousuf form."
   },
   {
    "id": "game2-266",
@@ -3503,7 +3503,7 @@
   {
    "id": "game2-270",
    "Name": "Skating",
-   "Description": "Ice | Skates | Rink | Wheels | Roller",
+   "Description": "Ice | Rink | Wheels | Roller | Glide",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3511,7 +3511,7 @@
     "Description": "sport | game | ball | player",
     "Category": "Sports"
    },
-   "note": ""
+   "note": "Debate: Skates shares the stem with the answer."
   },
   {
    "id": "game2-271",
@@ -3958,7 +3958,7 @@
   {
    "id": "game2-305",
    "Name": "Judge",
-   "Description": "Court | Hammer | Verdict | Justice | Order Order",
+   "Description": "Court | Hammer | Verdict | Insaaf | Sentence",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3966,7 +3966,7 @@
     "Description": "job | work | professional | career",
     "Category": "Occupations"
    },
-   "note": "Debate: 'Jaj' is the answer in Urdu spelling. 'Order Order' is the classic courtroom clue."
+   "note": "Debate: 'Jaj' is the answer in Urdu spelling. 'Order Order' is the classic courtroom clue.; Debate: Replace foreign catchphrase and near-answer Justice with local clues."
   },
   {
    "id": "game2-306",
@@ -4049,7 +4049,7 @@
   {
    "id": "game2-312",
    "Name": "Plumber",
-   "Description": "Pipe | Leak | Water | Tap | Bathroom",
+   "Description": "Pipe | Leak | Water | Tap | Wrench",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -4057,7 +4057,7 @@
     "Description": "job | work | professional | career",
     "Category": "Occupations"
    },
-   "note": ""
+   "note": "Debate: Wrench is a stronger clue than Bathroom."
   },
   {
    "id": "game2-313",
@@ -13583,6 +13583,70 @@
    "Category": "Animals",
    "action": "add",
    "note": "New card (debate): Common animal missing from the deck; challenger's amendment replaces the weak 'Angry' hint with Bail."
+  },
+  {
+   "id": null,
+   "Name": "Seagull",
+   "Description": "Sea | Karachi | Beach | White | Fish",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): Common Karachi beach bird, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Yak",
+   "Description": "Gilgit | Mountain | Hair | Ox | Himalaya",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Northern Pakistan animal, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Marbles",
+   "Description": "Kanchay | Glass | Gali | Flick | Circle",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Classic street game, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Mountaineering",
+   "Description": "K2 | Summit | Rope | Karakoram | Everest",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Fits Pakistan; distinct from Hiking."
+  },
+  {
+   "id": null,
+   "Name": "Uch Sharif",
+   "Description": "Bahawalpur | Tombs | Blue Tiles | Sufi | Multan",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Real heritage site, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Takht-i-Bahi",
+   "Description": "Mardan | Buddhist | Monastery | Hilltop | Gandhara",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Accurate UNESCO site, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Waiter",
+   "Description": "Restaurant | Menu | Tip | Table | Bill",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Common job missing; avoids the Tray and Order clashes."
+  },
+  {
+   "id": null,
+   "Name": "Mufti",
+   "Description": "Fatwa | Ruling | Scholar | Fiqh | Question",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Local religious occupation; plainer banned words than Darul Ifta."
   }
  ]
 }

@@ -5320,12 +5320,12 @@
    "id": "game9-484",
    "Name": "Who was the last emperor of Mexico?",
    "Description": "Maximilian I",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Who was the last emperor of Mexico?",
     "Description": "Ferdinand Maximilian"
    },
-   "note": "name"
+   "note": "Debate: Obscure for the audience."
   },
   {
    "id": "game9-485",
@@ -5595,12 +5595,12 @@
    "id": "game9-509",
    "Name": "Which king led Sweden in the Great Northern War?",
    "Description": "Charles XII",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Who was the leader of Sweden in the Great Northern War?",
     "Description": "Charles XII"
    },
-   "note": "wording"
+   "note": "Debate: Obscure, unguessable."
   },
   {
    "id": "game9-510",
@@ -5617,12 +5617,12 @@
    "id": "game9-511",
    "Name": "What is the Mandarin Chinese word for \"airplane\" (in pinyin)?",
    "Description": "Feiji",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is the romanized Chinese word for \"airplane\"?",
     "Description": "Feiji"
    },
-   "note": "wording"
+   "note": "Debate: Pinyin spelling question is unplayable."
   },
   {
    "id": "game9-512",
@@ -5771,12 +5771,12 @@
    "id": "game9-525",
    "Name": "In what year was the term \"scientist\" coined (by William Whewell)?",
    "Description": "1833",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The term \"scientist\" was coined in which year?",
     "Description": "1833"
    },
-   "note": "clarified"
+   "note": "Debate: Exact-year coinage trivia is unguessable."
   },
   {
    "id": "game9-526",
@@ -6859,13 +6859,13 @@
   {
    "id": "game9-624",
    "Name": "According to scholarly estimates, roughly what percentage of the world population died due to Timur's (Tamerlane's) conquests?",
-   "Description": "About 5%",
+   "Description": "About 5% (an estimated 17 million people)",
    "action": "edit",
    "original": {
     "Name": "According to scholarly estimates, what percentage of the world population at the time died due to Tamerlane's conquests?",
     "Description": "5%"
    },
-   "note": "wording"
+   "note": "wording; Debate: Adds the absolute estimate, properly hedged."
   },
   {
    "id": "game9-625",
@@ -13119,6 +13119,48 @@
    "Description": "The Amazon rainforest",
    "action": "add",
    "note": "New card (debate): Clearer, accurate wording; distinct from the Amazon river card."
+  },
+  {
+   "id": null,
+   "Name": "Which Egyptian pharaoh's nearly intact tomb was discovered by Howard Carter in 1922?",
+   "Description": "Tutankhamun",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which South African leader spent 27 years in prison before becoming president in 1994?",
+   "Description": "Nelson Mandela",
+   "action": "add",
+   "note": "New card (debate): Accurate, well known, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Portuguese explorer reached India by sea in 1498?",
+   "Description": "Vasco da Gama",
+   "action": "add",
+   "note": "New card (debate): Accurate, relevant to the subcontinent, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which American inventor developed the first commercially practical incandescent light bulb in 1879?",
+   "Description": "Thomas Edison",
+   "action": "add",
+   "note": "New card (debate): Challenger's hedged wording avoids the Swan priority dispute."
+  },
+  {
+   "id": null,
+   "Name": "The Abraj Al-Bait Clock Tower, one of the world's tallest buildings, stands next to the Masjid al-Haram in which city?",
+   "Description": "Makkah",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world landmark, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Table Mountain overlooks which South African city?",
+   "Description": "Cape Town",
+   "action": "add",
+   "note": "New card (debate): Accurate geography, not a duplicate."
   }
  ]
 }

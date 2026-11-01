@@ -220,8 +220,8 @@ Pigeon,Kabootar | Roof | Message | Grey | Daana,Birds
 Parrot,Tota | Green | Talk | Copy | Mitthu,Birds
 Crow,Kawwa | Black | Caw | Clever | Guest,Birds
 Peacock,Mor | Tail | Feathers | Rain | Colourful,Birds
-Hen,Murghi | Egg | Chicken | Anda | Farm,Birds
-Rooster,Murgha | Kukroo-koo | Morning | Crow | Wake Up,Birds
+Hen,Murghi | Egg | Chicken | Cluck | Farm,Birds
+Rooster,Murgha | Kukroo-koo | Morning | Wake Up | Comb,Birds
 Duck,Batakh | Quack | Water | Pond | Swim,Birds
 Swan,Hans | White | Lake | Long Neck | Graceful,Birds
 Owl,Ullu | Night | Wise | Idiot | Hoot,Birds
@@ -231,10 +231,10 @@ Vulture,Gidh | Dead | Carcass | Bald | Scavenger,Birds
 Ostrich,Shuturmurgh | Biggest | Egg | Sand | Run,Birds
 Penguin,Ice | Black And White | Antarctica | Waddle | Cold,Birds
 Flamingo,Pink | One Leg | Long Legs | Lake | Shrimp,Birds
-Woodpecker,Tree | Peck | Beak | Hole | Knock,Birds
-Kingfisher,Fish | Dive | Blue | River | Beak,Birds
+Woodpecker,Tree | Beak | Hole | Knock | Drill,Birds
+Kingfisher,Dive | Blue | River | Beak | Hunt,Birds
 Cuckoo,Koel | Voice | Clock | Crazy | Black,Birds
-Dove,Fakhta | Peace | White | Olive | Pigeon,Birds
+Dove,Fakhta | Peace | White | Olive | Coo,Birds
 Myna,Maina | Talk | Yellow Beak | Brown | Tota,Birds
 Bulbul,Chirp | Nightingale | Garden | Flower | Poetry,Birds
 Chakor,National Bird | Pakistan | Partridge | Moon | Mountains,Birds
@@ -247,18 +247,18 @@ Badminton,Shuttlecock | Racket | Net | Chirya | Feather,Sports
 Boxing,Punch | Gloves | Ring | Muhammad Ali | Knockout,Sports
 Wrestling,Kushti | Pin | Pehalwan | Gama | Akhara,Sports
 Kabaddi,Punjab | Breath | Touch | Raid | Village,Sports
-Polo,Horse | Mallet | Shandur | Gilgit | Ghora,Sports
+Polo,Horse | Mallet | Shandur | Gilgit | Chitral,Sports
 Golf,Hole | Club | Ball | Course | Putt,Sports
 Swimming,Pool | Water | Tairna | Dive | Laps,Sports
 Running,Daurna | Race | Track | Marathon | Sprint,Sports
 Volleyball,Net | Spike | Beach | Smash | Serve,Sports
 Basketball,Hoop | Tall | Dribble | Slam Dunk | Court,Sports
-Snooker,Cue | Table | Pocket | Mohammad Yousaf | Balls,Sports
+Snooker,Cue | Table | Pocket | Muhammad Yousuf | Balls,Sports
 Table Tennis,Ping Pong | Paddle | Net | China | Bat,Sports
 Archery,Bow | Arrow | Target | Teer | Kaman,Sports
 Shooting,Gun | Target | Bullet | Rifle | Aim,Sports
 Skiing,Snow | Mountain | Slope | Poles | Naltar,Sports
-Skating,Ice | Skates | Rink | Wheels | Roller,Sports
+Skating,Ice | Rink | Wheels | Roller | Glide,Sports
 Karate,Black Belt | Kick | Chop | Martial Arts | Japan,Sports
 Judo,Throw | Belt | Japanese | Grip | Mat,Sports
 Gymnastics,Flip | Olympics | Balance | Beam | Flexible,Sports
@@ -290,14 +290,14 @@ Pilot,Plane | Fly | Cockpit | Airport | Captain,Occupations
 Soldier,Army | Fauji | Gun | Uniform | War,Occupations
 Police,Thana | Chor | Uniform | Arrest | Challan,Occupations
 Lawyer,Wakeel | Court | Case | Black Coat | Client,Occupations
-Judge,Court | Hammer | Verdict | Justice | Order Order,Occupations
+Judge,Court | Hammer | Verdict | Insaaf | Sentence,Occupations
 Chef,Cook | Kitchen | Khansama | Hat | Apron,Occupations
 Farmer,Kisan | Fields | Crops | Village | Tractor,Occupations
 Driver,Car | Steering | Chauffeur | Licence | Gaari,Occupations
 Tailor,Darzi | Stitch | Kapray | Silai | Measurement,Occupations
 Barber,Nai | Hair | Haircut | Shave | Salon,Occupations
 Carpenter,Wood | Furniture | Tarkhan | Hammer | Saw,Occupations
-Plumber,Pipe | Leak | Water | Tap | Bathroom,Occupations
+Plumber,Pipe | Leak | Water | Tap | Wrench,Occupations
 Electrician,Wire | Bijli | Current | Light | Shock,Occupations
 Mechanic,Car | Repair | Engine | Garage | Workshop,Occupations
 Painter,Rang | Brush | Wall | Ladder | Colour,Occupations
@@ -1189,3 +1189,11 @@ Chakla,Belan | Roti | Round | Board | Dough,Kitchen Items
 Hot Case,Roti | Keeps Warm | Chapati | Lid | Steel,Kitchen Items
 Hyena,Lakar Baggha | Laugh | Scavenger | Pack | Spotted,Animals
 Bull,Saand | Horns | Male | Cow | Bail,Animals
+Seagull,Sea | Karachi | Beach | White | Fish,Birds
+Yak,Gilgit | Mountain | Hair | Ox | Himalaya,Animals
+Marbles,Kanchay | Glass | Gali | Flick | Circle,Sports
+Mountaineering,K2 | Summit | Rope | Karakoram | Everest,Sports
+Uch Sharif,Bahawalpur | Tombs | Blue Tiles | Sufi | Multan,Historical Places
+Takht-i-Bahi,Mardan | Buddhist | Monastery | Hilltop | Gandhara,Historical Places
+Waiter,Restaurant | Menu | Tip | Table | Bill,Occupations
+Mufti,Fatwa | Ruling | Scholar | Fiqh | Question,Occupations

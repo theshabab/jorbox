@@ -102,7 +102,7 @@ Tomato,"Red base of most curries, tamatar",Vegetables
 Garlic,"Pungent white cloves, lehsan",Vegetables
 Spinach,"Leafy green, palak",Vegetables
 Cauliflower,"White florets, gobhi",Vegetables
-Cabbage,"Round head of tightly packed leaves, band gobhi",Vegetables
+Cabbage,"Round leafy head, band gobhi",Vegetables
 Carrot,"Orange root used in halwa, gajar",Vegetables
 Radish,"White root eaten in winter, mooli",Vegetables
 Turnip,"Round white-purple root, shaljam",Vegetables
@@ -110,7 +110,7 @@ Peas,Green pods shelled for matar pulao,Vegetables
 Okra,"Slimy green pods, bhindi",Vegetables
 Eggplant,"Purple vegetable, baingan / brinjal",Vegetables
 Cucumber,"Cool green salad vegetable, kheera",Vegetables
-Zucchini,"Long green squash, chappan kaddu",Vegetables
+Zucchini,"Long green summer squash, courgette",Vegetables
 Pumpkin,"Big orange squash, kaddu",Vegetables
 Bitter Gourd,Karela; bumpy green sabzi most kids hate,Vegetables
 Bottle Gourd,"Lauki, long and pale green",Vegetables
@@ -125,7 +125,7 @@ Dupatta,Long scarf draped over head or shoulders,Clothing
 Sari,Long draped cloth worn by women,Clothing
 Lehnga,Heavy flared bridal skirt,Clothing
 Sherwani,Long formal coat worn by the groom,Clothing
-Waistcoat,Sleeveless jacket worn over kurta,Clothing
+Waistcoat,"Sleeveless jacket over a kurta, waskat",Clothing
 Turban,"Long cloth wrapped around the head, pagri",Clothing
 Scarf,Cloth wrapped around the neck in winter,Clothing
 Shawl,"Large warm wrap, often wool",Clothing
@@ -153,8 +153,8 @@ Desk,"Study or office furniture, often with drawers",Furniture
 Stool,Backless seat without arms,Furniture
 Bench,"Long seat in a park, mosque courtyard or classroom",Furniture
 Bookshelf,Rack where you line up your kitabein,Furniture
-Dressing Table,Furniture with a mirror and drawers for makeup and combs,Furniture
-Mirror,Glass that shows your reflection,Furniture
+Dressing Table,"Sit here to comb your hair; has drawers, singhar mez",Furniture
+Mirror,"Shows your reflection, aaina",Furniture
 Lamp,Bedside light with a shade,Furniture
 Carpet,Thick woven floor covering,Furniture
 Curtain,Cloth hung over a window,Furniture
@@ -163,7 +163,7 @@ Pillow,Soft rest for your head,Furniture
 Cushion,Soft pad for a sofa,Furniture
 Blanket,Warm covering for cold nights,Furniture
 Sheet,Thin cloth spread on a bed,Furniture
-Cot,"Small, simple bed; a charpai",Furniture
+Cot,"Simple string-and-wood bed, charpai",Furniture
 Cradle,"Rocking bed for a baby, palna",Furniture
 Recliner,Armchair that leans back,Furniture
 Spoon,Utensil for eating soup or rice,Kitchen Items
@@ -185,7 +185,7 @@ Grater,Shreds carrots and cheese,Kitchen Items
 Peeler,Removes skin from potatoes,Kitchen Items
 Strainer,"Sieve that catches tea leaves, chhalni",Kitchen Items
 Tongs,Chimta; picks up hot roti or coals,Kitchen Items
-Ladle,Deep spoon for serving salan,Kitchen Items
+Ladle,"Deep scoop for serving salan, karchi",Kitchen Items
 Tray,Flat board for carrying cups,Kitchen Items
 Bottle,Narrow-necked container for water,Kitchen Items
 Jar,Glass container for achar,Kitchen Items

@@ -1371,7 +1371,7 @@
   {
    "id": "game1-106",
    "Name": "Cabbage",
-   "Description": "Round head of tightly packed leaves, band gobhi",
+   "Description": "Round leafy head, band gobhi",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1379,7 +1379,7 @@
     "Description": "A leafy vegetable",
     "Category": "Vegetables"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Shorter, accurate, keeps local name."
   },
   {
    "id": "game1-107",
@@ -1475,7 +1475,7 @@
   {
    "id": "game1-114",
    "Name": "Zucchini",
-   "Description": "Long green squash, chappan kaddu",
+   "Description": "Long green summer squash, courgette",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1483,7 +1483,7 @@
     "Description": "A green vegetable",
     "Category": "Vegetables"
    },
-   "note": "Specific hint; Debate: Local name replaces British 'courgette'."
+   "note": "Specific hint; Debate: Local name replaces British 'courgette'.; Debate: Chappan kaddu is regionally ambiguous; courgette is the standard alternate name."
   },
   {
    "id": "game1-115",
@@ -1683,7 +1683,7 @@
   {
    "id": "game1-130",
    "Name": "Waistcoat",
-   "Description": "Sleeveless jacket worn over kurta",
+   "Description": "Sleeveless jacket over a kurta, waskat",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1691,7 +1691,7 @@
     "Description": "A sleeveless jacket",
     "Category": "Clothing"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds correct local word waskat."
   },
   {
    "id": "game1-131",
@@ -2060,7 +2060,7 @@
   {
    "id": "game1-159",
    "Name": "Dressing Table",
-   "Description": "Furniture with a mirror and drawers for makeup and combs",
+   "Description": "Sit here to comb your hair; has drawers, singhar mez",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2068,12 +2068,12 @@
     "Description": "Bedroom furniture",
     "Category": "Furniture"
    },
-   "note": "Specific hint; Debate: Uses the local Pakistani sense of the word.; Synced with Charades rename; Debate: Hint no longer starts with sibling card Mirror and clearly describes the furniture."
+   "note": "Specific hint; Debate: Uses the local Pakistani sense of the word.; Synced with Charades rename; Debate: Hint no longer starts with sibling card Mirror and clearly describes the furniture.; Debate: Challenger's amendment: avoids naming the Mirror card and adds the local term."
   },
   {
    "id": "game1-160",
    "Name": "Mirror",
-   "Description": "Glass that shows your reflection",
+   "Description": "Shows your reflection, aaina",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2081,7 +2081,7 @@
     "Description": "Reflective surface",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named another card (Glass); new hint adds the local word."
   },
   {
    "id": "game1-161",
@@ -2203,7 +2203,7 @@
   {
    "id": "game1-170",
    "Name": "Cot",
-   "Description": "Small, simple bed; a charpai",
+   "Description": "Simple string-and-wood bed, charpai",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2211,7 +2211,7 @@
     "Description": "A small bed",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Small was misleading for a charpai; describes it accurately."
   },
   {
    "id": "game1-171",
@@ -2502,7 +2502,7 @@
   {
    "id": "game1-193",
    "Name": "Ladle",
-   "Description": "Deep spoon for serving salan",
+   "Description": "Deep scoop for serving salan, karchi",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2510,7 +2510,7 @@
     "Description": "Serving spoon",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Amended: the proposed hint still contained the word spoon, which names another card (Spoon); scoop avoids that and karchi is the local word."
   },
   {
    "id": "game1-194",
