@@ -2656,14 +2656,14 @@
   },
   {
    "id": "game14-242",
-   "Description": "How likely are you to fix a flat tire yourself?",
+   "Description": "How likely are you to fix a flat tyre yourself?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to fix a flat tire yourself?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Local British spelling 'tyre'."
   },
   {
    "id": "game14-243",
@@ -3393,14 +3393,14 @@
   },
   {
    "id": "game14-309",
-   "Description": "How good are you at making omelets?",
+   "Description": "How good are you at making an omelette?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How good are you at making omelets?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Standard local spelling; reads naturally in the singular."
   },
   {
    "id": "game14-310",
@@ -6761,6 +6761,48 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Sunnah-linked, answerable by everyone, no attar/perfume card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many pairs of shalwar kameez do you pack for a one-week trip?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct local clothing and travel count; not covered by the suitcase or overpack cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wear a waistcoat or topi to a family function?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct local clothing question, no existing card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you waited in a long queue at a petrol pump or CNG station?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version; drops the arbitrary 20-minute threshold and differs from the run-out-of-petrol card."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at finding a parking spot in a crowded bazaar?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local driving card not covered elsewhere."
+  },
+  {
+   "id": null,
+   "Description": "How many cups of chai or kahwa do you drink on a cold winter day?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version; not time-bound, answerable by everyone."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to finish the last piece of food on the table without asking anyone?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable family-gathering food card, not a duplicate."
   }
  ]
 }

@@ -1751,12 +1751,12 @@
   },
   {
    "id": "game13-195",
-   "Description": "Get a player to ask if you have lost weight.",
-   "action": "keep",
+   "Description": "Get a player to ask if you have been busy lately.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to ask if you have lost weight."
    },
-   "note": ""
+   "note": "Debate: Replaces the rude weight comment with a harmless prompt, avoiding near-duplication of the existing hair cards (challenger amendment)."
   },
   {
    "id": "game13-196",
@@ -1779,11 +1779,11 @@
   {
    "id": "game13-198",
    "Description": "Get a player to go for a high-five with you, then leave them hanging.",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "Get a player to high-five you, then leave them hanging."
    },
-   "note": "clarity"
+   "note": "Debate: Deliberately embarrasses the target; breaks the harmless mission rule. No duplicate partner."
   },
   {
    "id": "game13-199",
@@ -1922,12 +1922,12 @@
   },
   {
    "id": "game13-214",
-   "Description": "Get a player to mention a brand name.",
-   "action": "keep",
+   "Description": "Get a player to mention a brand name, like Khaadi, Servis or Shan.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to mention a brand name."
    },
-   "note": ""
+   "note": "Debate: Local examples make the vague mission clearer and more Pakistani."
   },
   {
    "id": "game13-215",
@@ -6467,6 +6467,36 @@
    "Description": "Get a player to ask you why you are holding a stapler.",
    "action": "add",
    "note": "New card (debate): Ruler is already queued; stapler is a new object."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a janamaz (prayer mat).",
+   "action": "add",
+   "note": "New card (debate): Local, easy to judge, not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Walaikum Assalam'.",
+   "action": "add",
+   "note": "New card (debate): Common reply, doable after a Salam, not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite kind of kabab, like seekh, shami or chapli.",
+   "action": "add",
+   "note": "New card (debate): Harmless food-preference mission with accurate local examples."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to complain about petrol prices.",
+   "action": "add",
+   "note": "New card (debate): Relatable local complaint; distinct enough from load shedding."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Haan ji'.",
+   "action": "add",
+   "note": "New card (debate): Natural everyday Roman Urdu phrase, not in the deck."
   }
  ]
 }

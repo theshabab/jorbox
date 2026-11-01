@@ -8220,6 +8220,41 @@
    "Description": "Shaadi Card Printer",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording matches the deck's 'Shaadi Hall Manager'; no printer-type customer exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Taraweeh felt extra long because the person next to me kept _____!",
+   "action": "add",
+   "note": "New card (debate): No taraweeh card; allowed worship humour, blank works."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The motorway toll plaza had a two-hour queue because of _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct problem card; Toll Plaza Attendant is a customer, no queue problem exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My sasural keeps asking when I will finally buy _____!",
+   "action": "add",
+   "note": "New card (debate): No sasural-pressure card; familiar and works with the blank."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Umrah Group Leader",
+   "action": "add",
+   "note": "New card (debate): Distinct from Hajj Pilgrim; allowed worship-related customer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Solar Panel Installer",
+   "action": "add",
+   "note": "New card (debate): Current Pakistani figure, no equivalent in deck."
   }
  ]
 }
