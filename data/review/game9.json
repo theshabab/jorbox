@@ -13161,6 +13161,41 @@
    "Description": "Cape Town",
    "action": "add",
    "note": "New card (debate): Accurate geography, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which two men made the first confirmed ascent of Mount Everest in 1953?",
+   "Description": "Edmund Hillary and Tenzing Norgay",
+   "action": "add",
+   "note": "New card (debate): Accurate, well-established, no duplicate in the slice or seed."
+  },
+  {
+   "id": null,
+   "Name": "In which city is Wazir Mansion, the birthplace of Quaid-e-Azam Muhammad Ali Jinnah?",
+   "Description": "Karachi",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani-history card, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Mughal emperor built the 'Sheesh Mahal' (Palace of Mirrors) inside Lahore Fort?",
+   "Description": "Shah Jahan",
+   "action": "add",
+   "note": "New card (debate): Accurate (c. 1631-32), local heritage, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "The famous Green Dome (Gumbad-e-Khizra) is a landmark of which mosque in Madinah?",
+   "Description": "Masjid an-Nabawi (the Prophet's Mosque)",
+   "action": "add",
+   "note": "New card (debate): Accurate and respectful; differs from the existing city-of-mosque card."
+  },
+  {
+   "id": null,
+   "Name": "What does the white stripe on Pakistan's national flag represent?",
+   "Description": "Religious minorities",
+   "action": "add",
+   "note": "New card (debate): Correct civics fact, not covered elsewhere."
   }
  ]
 }

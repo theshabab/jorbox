@@ -3048,7 +3048,7 @@
   {
    "id": "game1-235",
    "Name": "Kite",
-   "Description": "Cheel; circles over cities",
+   "Description": "Cheel; scavenger bird circling over cities",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3056,7 +3056,7 @@
     "Description": "A bird of prey",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Clarifies it is the bird, not the paper patang, and avoids duplicating Eagle's 'large bird of prey' hint."
   },
   {
    "id": "game1-236",
@@ -3399,7 +3399,7 @@
   {
    "id": "game1-262",
    "Name": "Table Tennis",
-   "Description": "Ping pong",
+   "Description": "Ping pong; paddles and a tiny white ball indoors",
    "Category": "Sports",
    "action": "edit",
    "original": {
@@ -3407,7 +3407,7 @@
     "Description": "A racket sport",
     "Category": "Sports"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds a descriptive clue to the bare synonym without using 'table' from the name (challenger's amendment); 8 words."
   },
   {
    "id": "game1-263",
@@ -3906,7 +3906,7 @@
   {
    "id": "game1-301",
    "Name": "Judge",
-   "Description": "Decides cases in court",
+   "Description": "Sits on the bench and gives the verdict",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -3914,7 +3914,7 @@
     "Description": "A legal authority",
     "Category": "Occupations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Separates Judge from Lawyer and the original 'Decides cases in court' overlap."
   },
   {
    "id": "game1-302",
@@ -4049,7 +4049,7 @@
   {
    "id": "game1-312",
    "Name": "Writer",
-   "Description": "Authors books and articles",
+   "Description": "Pens novels, columns and poems",
    "Category": "Occupations",
    "action": "edit",
    "original": {
@@ -4057,7 +4057,7 @@
     "Description": "A content creator",
     "Category": "Occupations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Clearer clue than the near-synonym 'Authors'; short and does not contain the name."
   },
   {
    "id": "game1-313",

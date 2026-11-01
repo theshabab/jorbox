@@ -227,7 +227,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-225','game1','Swan','White long-necked water bird','Birds');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-226','game1','Owl','Ullu; night bird that hoots','Birds');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-227','game1','Hawk','Sharp-eyed hunting bird; baaz','Birds');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-228','game1','Kite','Cheel; circles over cities','Birds');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-228','game1','Kite','Cheel; scavenger bird circling over cities','Birds');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-229','game1','Ostrich','Largest bird; cannot fly','Birds');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-230','game1','Penguin','Black-and-white bird of the ice','Birds');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-231','game1','Flamingo','Pink bird standing on one leg','Birds');
@@ -252,7 +252,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-250','game1','Volleyball','Hitting a ball over a high net','Sports');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-251','game1','Basketball','Throwing a ball through a hoop','Sports');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-252','game1','Snooker','Cue sport with red and coloured balls','Sports');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-253','game1','Table Tennis','Ping pong','Sports');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-253','game1','Table Tennis','Ping pong; paddles and a tiny white ball indoors','Sports');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-254','game1','Archery','Bow and arrow sport','Sports');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-255','game1','Shooting','Aiming a rifle at a target','Sports');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-256','game1','Skiing','Sliding down snowy slopes, e.g. Malam Jabba','Sports');
@@ -288,7 +288,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-286','game1','Soldier','Fauji; serves in the army','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-287','game1','Police','Enforces law; catches thieves','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-288','game1','Lawyer','Argues cases in court','Occupations');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-289','game1','Judge','Decides cases in court','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-289','game1','Judge','Sits on the bench and gives the verdict','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-290','game1','Chef','Professional cook in a restaurant','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-291','game1','Farmer','Kisaan; grows crops in fields','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-292','game1','Driver','Paid to steer the family car or a bus','Occupations');
@@ -299,7 +299,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-297','game1','Electrician','Fixes wiring, switches and fans','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-298','game1','Mechanic','Repairs car and bike engines','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-299','game1','Painter','Paints walls and houses','Occupations');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-300','game1','Writer','Authors books and articles','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-300','game1','Writer','Pens novels, columns and poems','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-301','game1','Artist','Creates paintings and drawings','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-302','game1','Banker','Handles deposits and loans','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-303','game1','Accountant','Keeps the books and files taxes','Occupations');
@@ -14077,6 +14077,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-971','game8','CHEAP CHAPPAL <---> PREMIUM CHAPPAL','Make up a brand name for a pair of chappals that sounds this premium','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-972','game8','QUICK CALL <---> NEVER HANGS UP','Write the line a khala says when you try to end a phone call that has already lasted this long','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-973','game8','RAW <---> BURNT TO A CRISP','Draw a roti that has been cooked this much','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-974','game8','NOT A FAN <---> DIE-HARD FAN','Draw the face paint of a cricket fan watching Pakistan play in a final who is this devoted','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-975','game8','EXACT CHANGE <---> TOFFEE INSTEAD OF CHANGE','Write the line a shopkeeper says when he hands you toffee instead of coins, if the toffee deal is this unfair','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-976','game8','QUIET STREET <---> GENERATORS ROARING','Draw a mohalla street at night during load shedding that sounds this loud with generators','Drawing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -15199,6 +15202,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1119','game9','Which American inventor developed the first commercially practical incandescent light bulb in 1879?','Thomas Edison','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1120','game9','The Abraj Al-Bait Clock Tower, one of the world''s tallest buildings, stands next to the Masjid al-Haram in which city?','Makkah','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1121','game9','Table Mountain overlooks which South African city?','Cape Town','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1122','game9','Which two men made the first confirmed ascent of Mount Everest in 1953?','Edmund Hillary and Tenzing Norgay','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1123','game9','In which city is Wazir Mansion, the birthplace of Quaid-e-Azam Muhammad Ali Jinnah?','Karachi','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1124','game9','Which Mughal emperor built the ''Sheesh Mahal'' (Palace of Mirrors) inside Lahore Fort?','Shah Jahan','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1125','game9','The famous Green Dome (Gumbad-e-Khizra) is a landmark of which mosque in Madinah?','Masjid an-Nabawi (the Prophet''s Mosque)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1126','game9','What does the white stripe on Pakistan''s national flag represent?','Religious minorities','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game10','Aik Rangi Soch',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-1','game10','Name a fruit that is yellow.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-2','game10','What is the best flavor of ice cream?','','');

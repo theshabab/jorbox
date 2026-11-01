@@ -11654,6 +11654,30 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Challenger's amended version fixes the overcooked vs RAW mismatch; distinct from the roti roundness drawing card."
+  },
+  {
+   "id": null,
+   "Name": "NOT A FAN <---> DIE-HARD FAN",
+   "Description": "Draw the face paint of a cricket fan watching Pakistan play in a final who is this devoted",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Cricket fan face paint is not in the deck; clear opposite ends; allowed content."
+  },
+  {
+   "id": null,
+   "Name": "EXACT CHANGE <---> TOFFEE INSTEAD OF CHANGE",
+   "Description": "Write the line a shopkeeper says when he hands you toffee instead of coins, if the toffee deal is this unfair",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fresh desi joke; challenger's amended version has true opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "QUIET STREET <---> GENERATORS ROARING",
+   "Description": "Draw a mohalla street at night during load shedding that sounds this loud with generators",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Generators are new to the deck (no match found); amended ends are cleaner."
   }
  ]
 }

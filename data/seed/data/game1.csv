@@ -226,7 +226,7 @@ Duck,Batakh; quacking water bird,Birds
 Swan,White long-necked water bird,Birds
 Owl,Ullu; night bird that hoots,Birds
 Hawk,Sharp-eyed hunting bird; baaz,Birds
-Kite,Cheel; circles over cities,Birds
+Kite,Cheel; scavenger bird circling over cities,Birds
 Ostrich,Largest bird; cannot fly,Birds
 Penguin,Black-and-white bird of the ice,Birds
 Flamingo,Pink bird standing on one leg,Birds
@@ -251,7 +251,7 @@ Running,Racing on foot,Sports
 Volleyball,Hitting a ball over a high net,Sports
 Basketball,Throwing a ball through a hoop,Sports
 Snooker,Cue sport with red and coloured balls,Sports
-Table Tennis,Ping pong,Sports
+Table Tennis,Ping pong; paddles and a tiny white ball indoors,Sports
 Archery,Bow and arrow sport,Sports
 Shooting,Aiming a rifle at a target,Sports
 Skiing,"Sliding down snowy slopes, e.g. Malam Jabba",Sports
@@ -287,7 +287,7 @@ Pilot,Flies aeroplanes,Occupations
 Soldier,Fauji; serves in the army,Occupations
 Police,Enforces law; catches thieves,Occupations
 Lawyer,Argues cases in court,Occupations
-Judge,Decides cases in court,Occupations
+Judge,Sits on the bench and gives the verdict,Occupations
 Chef,Professional cook in a restaurant,Occupations
 Farmer,Kisaan; grows crops in fields,Occupations
 Driver,Paid to steer the family car or a bus,Occupations
@@ -298,7 +298,7 @@ Plumber,Fixes pipes and taps,Occupations
 Electrician,"Fixes wiring, switches and fans",Occupations
 Mechanic,Repairs car and bike engines,Occupations
 Painter,Paints walls and houses,Occupations
-Writer,Authors books and articles,Occupations
+Writer,"Pens novels, columns and poems",Occupations
 Artist,Creates paintings and drawings,Occupations
 Banker,Handles deposits and loans,Occupations
 Accountant,Keeps the books and files taxes,Occupations
