@@ -3723,11 +3723,11 @@
   {
    "id": "game13-414",
    "Description": "Get a player to say 'Boom'.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to say 'Boom'."
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of live fist-bump explosion-noise card 412; pointless word to elicit."
   },
   {
    "id": "game13-415",
@@ -6521,6 +6521,36 @@
    "Description": "Get a player to say 'Ammi ne kaha tha' (Mum said so).",
    "action": "add",
    "note": "New card (debate): Relatable family phrase, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to give you a salam and then ask 'Ghar mein sab theek?' (Is everyone at home fine?).",
+   "action": "add",
+   "note": "New card (debate): Natural Pakistani greeting routine, not in the slice."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Shukriya' to you.",
+   "action": "add",
+   "note": "New card (debate): Polite Urdu phrase, harmless, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to twirl or twist their moustache or beard, or pretend to.",
+   "action": "add",
+   "note": "New card (debate): Funny desi gesture, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you to pass the raita or chutney.",
+   "action": "add",
+   "note": "New card (debate): Table-etiquette mission, distinct from raita favourite-dish question."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Hai Allah, kya zamana aa gaya hai' (Oh God, what times have come).",
+   "action": "add",
+   "note": "New card (debate): Typical elder line, funny and local, not in the slice."
   }
  ]
 }

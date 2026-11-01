@@ -7118,6 +7118,30 @@
    "Name": "Name something you keep in your pocket.",
    "action": "add",
    "note": "New card (debate): Distinct from the wallet-contents card. Answers (phone, keys, wallet, rumaal) converge well."
+  },
+  {
+   "id": null,
+   "Name": "Name something you put in your lunchbox for work.",
+   "action": "add",
+   "note": "New card (debate): Adult lunch card is missing (only a school lunchbox card exists); common matchable answers."
+  },
+  {
+   "id": null,
+   "Name": "Name a reason your phone battery dies quickly.",
+   "action": "add",
+   "note": "New card (debate): Relatable, matchable answers (videos, games, brightness, old battery); allowed topic; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Meal: Karahi or Tikka?",
+   "action": "add",
+   "note": "New card (debate): Valid A-or-B food card; only 'Chicken: Karahi or Handi?' exists, a different pairing."
+  },
+  {
+   "id": null,
+   "Name": "Weekend Morning: Sleep In or Nashta Outside?",
+   "action": "add",
+   "note": "New card (debate): Fits the A-or-B pattern, Pakistani frame, not a duplicate."
   }
  ]
 }

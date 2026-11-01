@@ -1534,14 +1534,14 @@
   },
   {
    "id": "game16-140",
-   "Name": "Who is the biggest drama queen in your family?",
+   "Name": "Who is the biggest drama king or queen in your family?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who is the biggest drama queen in your family?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Gender-neutral, covers everyone."
   },
   {
    "id": "game16-141",
@@ -1556,14 +1556,14 @@
   },
   {
    "id": "game16-142",
-   "Name": "Which historical figure or scholar would you choose as a mentor?",
+   "Name": "Which scholar, inventor or leader from history would you choose as a mentor?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "Which celebrity (or historical figure) would you choose as a mentor?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "removed celebrity"
+   "note": "removed celebrity; Debate: Clearer wording, keeps answers away from prophets."
   },
   {
    "id": "game16-143",
@@ -1699,14 +1699,14 @@
   },
   {
    "id": "game16-155",
-   "Name": "What's the most random thing in your purse/wallet?",
+   "Name": "What's the most random thing in your bag or wallet?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What's the most random thing in your purse/wallet?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Neutral for all players."
   },
   {
    "id": "game16-156",
@@ -1963,14 +1963,14 @@
   },
   {
    "id": "game16-179",
-   "Name": "If you could live any historical figure's life, which one would you choose?",
+   "Name": "If you could live the life of any historical figure (other than a Prophet), whose would you choose?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you could live any historical figure's life, which one would you choose?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Respectful guard, still fun."
   },
   {
    "id": "game16-180",
@@ -9423,6 +9423,55 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Local food-spot question, distinct from existing food cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the hardest you have ever laughed, and what set you off?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): New warm story prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which charger, cable or remote in your house is always missing when you need it, and who do you blame?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable, distinct from TV remote card."
+  },
+  {
+   "id": null,
+   "Name": "What is your most memorable birthday, and who made it special?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Different from removed best-gift card."
+  },
+  {
+   "id": null,
+   "Name": "Which household chore do you secretly enjoy?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Counterpart to chore-you-hate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the first thing you do when you get home after a long day?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Easy everyday opener."
+  },
+  {
+   "id": null,
+   "Name": "If you had a time machine for one hour, which moment from your own family's past would you visit?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Warm family-history prompt, no prophet depiction."
+  },
+  {
+   "id": null,
+   "Name": "Where was the most unexpected place you bumped into someone you knew?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Fun story prompt, not in deck."
   }
  ]
 }
