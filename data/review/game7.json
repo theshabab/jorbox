@@ -19986,6 +19986,251 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Warm hospitality card, correct token."
+  },
+  {
+   "id": null,
+   "Description": "a zebra waiting politely at the zebra crossing for the signal to turn green",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Amended wording localised; no zebra card exists."
+  },
+  {
+   "id": null,
+   "Description": "a hen sitting on the doorbell and refusing to move",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No doorbell or hen card; clean and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a koala clinging to the school bus driver's leg on the first day",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No koala card; fresh school-animal gag."
+  },
+  {
+   "id": null,
+   "Description": "a pencil case that unfolds into a tiny city with roads and traffic",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No pencil-case card; drawable."
+  },
+  {
+   "id": null,
+   "Description": "an astronaut chasing his floating lunchbox around the space station",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Different from existing astronaut and lunchbox cards."
+  },
+  {
+   "id": null,
+   "Description": "a tortoise checking out of a hotel and carrying the whole room on his back",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New hotel/tortoise pun; existing tortoise cards differ."
+  },
+  {
+   "id": null,
+   "Description": "a giant spider weaving its web across the school gate overnight",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): School-gate angle is new among spider cards."
+  },
+  {
+   "id": null,
+   "Description": "a father reading the instruction manual upside down while the bookshelf leans",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No manual card; universal home humour."
+  },
+  {
+   "id": null,
+   "Description": "a hippo refusing to leave the swimming lesson when the whistle blows",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No hippo card; fresh."
+  },
+  {
+   "id": null,
+   "Description": "a school bell ringing by itself because the clock is hungry for lunch",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No school-bell card."
+  },
+  {
+   "id": null,
+   "Description": "a family reciting the travel dua in the car while still stuck in the driveway",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate worldview card; the family is the joke, not the dua."
+  },
+  {
+   "id": null,
+   "Description": "a little girl scattering rice on the balcony for a queue of sparrows",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Kindness to animals; no sparrow card."
+  },
+  {
+   "id": null,
+   "Description": "a customer telling the shopkeeper he gave too much change, the shopkeeper's eyes wide as plates",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Honesty in trade; funny and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a schoolboy splitting his lunch with the classmate who forgot his",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Sharing at school; not a duplicate of the samosa card."
+  },
+  {
+   "id": null,
+   "Description": "a shopkeeper's scale giving the exact weight while the shopkeeper smiles proudly, hands off the pan",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Amended to drop the halo; honest measure idea kept."
+  },
+  {
+   "id": null,
+   "Description": "a whole family sitting on the floor around one giant tray of rice, every hand reaching in",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Eating together; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Ammi turning yesterday's leftover rice into a fried rice masterpiece",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Against waste; new."
+  },
+  {
+   "id": null,
+   "Description": "a boy carrying the old neighbour's groceries up four flights of stairs",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights and elders; no groceries card."
+  },
+  {
+   "id": null,
+   "Description": "a man staring at the newest phone in the shop window, then patting his old one and walking on",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Contentment; relatable."
+  },
+  {
+   "id": null,
+   "Description": "a speed breaker so tall the rickshaw takes off like a ramp",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No speed breaker card; very local."
+  },
+  {
+   "id": null,
+   "Description": "a bus conductor shouting 'bas ek sawari aur!' while the bus is already bursting",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Classic line; different from the rocket conductor card."
+  },
+  {
+   "id": null,
+   "Description": "the exam hall invigilator sitting on the whole answer-paper pile to stop it flying away",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Amended to avoid a fourth ceiling-fan card; exam-hall image is fresh."
+  },
+  {
+   "id": null,
+   "Description": "the hostel mess serving daal for the fifth day, and the daal looking back",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Hostel mess not covered."
+  },
+  {
+   "id": null,
+   "Description": "a bhutta wala roasting corn in the rain while the whole crowd huddles under one umbrella",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Fresh monsoon street scene."
+  },
+  {
+   "id": null,
+   "Description": "a family car being pushed up the Karakoram Highway by all the male cousins",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Northern road trip; fresh."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> following Google Maps straight into a wheat field",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): No maps card; affectionate."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> walking out of the shop having forgotten the one thing they came for",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle and relatable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as a railway station announcer who cannot pronounce a single station",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Travel friend card; drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> filling the bird feeder on the balcony every morning before chai",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Kindness to animals; affectionate."
+  },
+  {
+   "id": null,
+   "Description": "a bird building its nest inside the rickshaw's roof while the driver waits patiently",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Different from the cable-nest card; patience and animal kindness."
+  },
+  {
+   "id": null,
+   "Description": "a boy returning a lost wallet to a stranger on the bus, the stranger checking it twice in disbelief",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Amanah and honesty; no similar wallet card."
+  },
+  {
+   "id": null,
+   "Description": "a giraffe squeezing into the school bus seat, knees up to his ears",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Fresh giraffe scene."
+  },
+  {
+   "id": null,
+   "Description": "a mother searching the school bag and finding a whole mini garden growing inside",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Universal home/school humour; distinct from the heavy-backpack card."
+  },
+  {
+   "id": null,
+   "Description": "a grandfather telling the family to turn off the extra lights, and the whole house going dark except the bulb above his chair",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Avoiding waste, joke on the grandfather."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> packing for a one-night trip with seven bags and a pillow",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Over-packing differs from the suitcase-sitting card."
   }
  ]
 }

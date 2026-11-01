@@ -5765,6 +5765,180 @@
    "Description": "Get a player to tell you who first taught them to read the Quran.",
    "action": "add",
    "note": "New card (debate): Warm worship-adjacent story; teacher not covered live."
+  },
+  {
+   "id": null,
+   "Description": "Claim that camels store water in their humps and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate myth (humps store fat); no camel card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what a baby kangaroo is called.",
+   "action": "add",
+   "note": "New card (debate): Accurate (joey), no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name the fastest land animal.",
+   "action": "add",
+   "note": "New card (debate): Accurate (cheetah), complements tallest-animal card."
+  },
+  {
+   "id": null,
+   "Description": "Claim that goldfish only remember things for three seconds and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate myth, fits claim-and-correct pattern."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a passport.",
+   "action": "add",
+   "note": "New card (debate): Fresh travel prop in an established family."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the first thing they pack for a trip.",
+   "action": "add",
+   "note": "New card (debate): Fresh travel topic, easy."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about the longest delay they have had at an airport or railway station.",
+   "action": "add",
+   "note": "New card (debate): Distinct from journey and trip cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how they travelled to school as a child.",
+   "action": "add",
+   "note": "New card (debate): No school-commute card; relatable."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about the hadith where a man was forgiven for giving water to a thirsty dog.",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith (Bukhari, Muslim); story prompt is easier than recitation."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to agree that a visit to relatives is better than a day at a shopping mall.",
+   "action": "add",
+   "note": "New card (debate): Sila rehmi worldview, light and agreeable; not a duplicate of the enjoyable-relative card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the cheapest souvenir they ever brought home that everyone loved.",
+   "action": "add",
+   "note": "New card (debate): Enough-ness theme in a fun story prompt."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you whether they say salam when they walk into an empty house.",
+   "action": "add",
+   "note": "New card (debate): Based on Quran 24:61; gentle habit question."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you whether they read the safar dua when they begin a journey.",
+   "action": "add",
+   "note": "New card (debate): Established sunnah dua; non-judgmental, fits dua cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you if they keep a bowl of water out for birds or stray animals in summer.",
+   "action": "add",
+   "note": "New card (debate): Mercy to animals; relatable and seasonal."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit they once copied a friend's homework before class.",
+   "action": "add",
+   "note": "New card (debate): Harmless school confession, distinct from dislike-homework card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name they gave to an Eid-ul-Adha goat or cow.",
+   "action": "add",
+   "note": "New card (debate): Warm Pakistani childhood memory, no qurbani animal card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a pet parrot (tota) or pigeon (kabootar) their family or neighbours kept.",
+   "action": "add",
+   "note": "New card (debate): Local animals gap, no bird card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a train journey they took with Pakistan Railways.",
+   "action": "add",
+   "note": "New card (debate): No train content in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a family road trip on the Motorway or GT Road.",
+   "action": "add",
+   "note": "New card (debate): Local travel angle, distinct from generic trip cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit there is one cupboard at home that nobody dares to open.",
+   "action": "add",
+   "note": "New card (debate): Relatable desi home humour, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a karchi (ladle).",
+   "action": "add",
+   "note": "New card (debate): Kitchen prop, not yet in the holding family."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who controls the AC remote in their house.",
+   "action": "add",
+   "note": "New card (debate): Home family-politics humour, distinct from TV remote card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite thing from the school canteen, like samosa or chaat.",
+   "action": "add",
+   "note": "New card (debate): School food, distinct from tiffin card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit their home has a drawer full of old chargers and cables.",
+   "action": "add",
+   "note": "New card (debate): Home clutter humour, distinct from charger request cards."
+  },
+  {
+   "id": null,
+   "Description": "Claim that bats are blind and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate myth (bats can see), no bat-animal card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name the largest animal on Earth.",
+   "action": "add",
+   "note": "New card (debate): Accurate (blue whale), pairs with tallest-animal card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the funniest line they have read on the back of a truck or rickshaw.",
+   "action": "add",
+   "note": "New card (debate): Fresh Pakistani road culture angle."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you if they ever slept on the roof (chhat) on a summer night.",
+   "action": "add",
+   "note": "New card (debate): Local home-life nostalgia, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time they shared their tiffin with a classmate.",
+   "action": "add",
+   "note": "New card (debate): Sharing worldview in a school memory; distinct from tiffin-contents card."
   }
  ]
 }

@@ -6054,6 +6054,209 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Sila rehmi; distinct by elderly focus and monthly window."
+  },
+  {
+   "id": null,
+   "Description": "How many different kinds of animals have you fed by hand?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No hand-feeding card in deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to stop and watch birds, squirrels or ants for no reason?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Fresh, relatable animals card."
+  },
+  {
+   "id": null,
+   "Description": "How many school friends are you still in regular touch with?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Not covered; distinct from teachers card."
+  },
+  {
+   "id": null,
+   "Description": "How good were you at memorising the multiplication tables at school?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Universal school nostalgia; differs from calculator card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you forgotten your lunchbox or school bag at home?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No lunchbox card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many dishes can you cook without looking at a recipe?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from cooking enjoyment cards."
+  },
+  {
+   "id": null,
+   "Description": "How afraid are you of cockroaches?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Cockroach not in deck; spider/chipkali cards are different."
+  },
+  {
+   "id": null,
+   "Description": "How many nights have you slept in a hotel or guest house in your life?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Travel gap."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you put out water or grain for birds or thirsty animals?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Mercy to animals; countable, not preachy."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to stop and help an injured or trapped animal?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Compassion angle, distinct from adopting strays."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take more food at a buffet or daawat than you can finish?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Food waste theme, distinct from finishing the plate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to say Salaam when you walk into an empty house?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: answerable likelihood instead of a weekly count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to call or visit an old teacher just to say thank you?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Warm gratitude card, fresh."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to put leftover roti or bread out for the birds instead of throwing it away?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: cleaner wording, respect for rizq plus animals."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about the travels of Ibn Battuta?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim history and travel; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you eaten what was cooked at home without asking for something else?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: week is easier to recall."
+  },
+  {
+   "id": null,
+   "Description": "How many times has a crow snatched food from your hand or plate?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Very local and funny; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you had halwa puri or nihari for a weekend breakfast?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: month window; local food gap."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you stopped at a roadside mosque to pray during a long journey?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worship plus travel; dhaba card is different."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you seen a donkey cart or horse cart on your street?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local quirky animals card."
+  },
+  {
+   "id": null,
+   "Description": "How many times did you recite Tilawat or a naat in the morning assembly at school?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fresh local school angle; naats allowed."
+  },
+  {
+   "id": null,
+   "Description": "How many different tuition teachers or academies have you attended?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Tuition culture not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week has the azaan or a rooster woken you before your alarm?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local everyday life; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How much do you love kulfi or falooda on a hot evening?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Dessert gap; only gajar halwa exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been woken at night by cats fighting outside your house?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable local animals; absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "How many items of clothing have you mended or stitched instead of buying new?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Thrift theme; not covered (needing stitches and nala card differ)."
+  },
+  {
+   "id": null,
+   "Description": "How many animals mentioned in the Quran can you name in 30 seconds?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Accurate, playable trivia; distinct from bird species card."
+  },
+  {
+   "id": null,
+   "Description": "How many times did you buy a snack from the vendor outside your school gate?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local school and food nostalgia gap."
+  },
+  {
+   "id": null,
+   "Description": "How many summer holidays did you spend at your nani's or dadi's house?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Family and school-holiday nostalgia; not in deck."
   }
  ]
 }

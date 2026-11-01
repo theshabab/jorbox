@@ -7457,6 +7457,195 @@
    "Description": "Gulf Labourer (Pardesi)",
    "action": "add",
    "note": "New card (debate): Familiar figure; distinct from Mazdoor."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The hotel I booked online has no _____!",
+   "action": "add",
+   "note": "New card (debate): No hotel card in deck; general travel."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Airport security stopped me because of my _____!",
+   "action": "add",
+   "note": "New card (debate): New airport-security angle."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My lunchbox always leaks onto my _____!",
+   "action": "add",
+   "note": "New card (debate): No lunchbox card; relatable school life."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The teacher gave us homework on _____ over the weekend!",
+   "action": "add",
+   "note": "New card (debate): No homework card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The ants found my _____ again!",
+   "action": "add",
+   "note": "New card (debate): No ant card; funny open answers."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "On every road trip, we argue about where to stop for _____!",
+   "action": "add",
+   "note": "New card (debate): New family road-trip angle."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Tour Guide",
+   "action": "add",
+   "note": "New card (debate): Distinct from Tourist; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Class Monitor",
+   "action": "add",
+   "note": "New card (debate): Universal school customer; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Pet Shop Owner",
+   "action": "add",
+   "note": "New card (debate): Fresh animals customer."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My abbu has repaired his old _____ so many times that it's more patches than original!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version; affectionate simplicity worldview, distinct from existing abbu cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our mohalla masjid badly needs a better _____!",
+   "action": "add",
+   "note": "New card (debate): Community/charity worldview; only a Masjid Khadim customer exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I clicked 'free delivery' and ended up buying _____ I never needed!",
+   "action": "add",
+   "note": "New card (debate): Distinct from the online-looked-different card; consumer-trap critique, no deck overlap found."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I'm teaching my kids to say Alhamdulillah, but they only remember when they get _____!",
+   "action": "add",
+   "note": "New card (debate): Gratitude worldview, light parenting humour."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Honest Shopkeeper",
+   "action": "add",
+   "note": "New card (debate): Halal earning worldview; fun pitch customer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Humsaya (Neighbour)",
+   "action": "add",
+   "note": "New card (debate): Challenger's simplified name matches deck style; neighbour-duty worldview."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Minimalist",
+   "action": "add",
+   "note": "New card (debate): Enough-ness worldview; challenging pitch customer."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My paratha sticks to the tawa whenever I _____!",
+   "action": "add",
+   "note": "New card (debate): No paratha card; local food."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our Rooh Afza jug is empty before iftar because of _____!",
+   "action": "add",
+   "note": "New card (debate): Fresh iftar angle."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My school uniform is never ironed on Monday morning because of _____!",
+   "action": "add",
+   "note": "New card (debate): No uniform card; local school life."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The train to Lahore is late again because of _____!",
+   "action": "add",
+   "note": "New card (debate): No train card; local travel."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our buffalo gives less milk whenever _____!",
+   "action": "add",
+   "note": "New card (debate): No buffalo card; village life."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The kabari wala offers me almost nothing for my old _____!",
+   "action": "add",
+   "note": "New card (debate): Kabari only a customer so far."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The bus driver honks at every _____ on the road!",
+   "action": "add",
+   "note": "New card (debate): New bus-horn angle."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Parindey Wala (Bird Seller)",
+   "action": "add",
+   "note": "New card (debate): Local animals customer, bracket style matches deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The crows keep stealing my _____ from the courtyard!",
+   "action": "add",
+   "note": "New card (debate): No crow card; recognisable home/animals scene."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My little brother cries at the zoo because of _____!",
+   "action": "add",
+   "note": "New card (debate): Only Zookeeper customer exists; fun animals/travel problem."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I wanted to live simply, but my wardrobe is full of _____ I wore once!",
+   "action": "add",
+   "note": "New card (debate): Enough-ness worldview, affectionate; no wardrobe overlap."
   }
  ]
 }

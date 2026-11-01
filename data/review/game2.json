@@ -11855,6 +11855,310 @@
    "Category": "Muslim Historical Figures",
    "action": "add",
    "note": "New card (debate): Accurate astronomy figure."
+  },
+  {
+   "id": null,
+   "Name": "Hippopotamus",
+   "Description": "River | Africa | Huge | Wide Mouth | Mud",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Missing animal, easy to act."
+  },
+  {
+   "id": null,
+   "Name": "Cheetah",
+   "Description": "Fastest | Spots | Africa | Sprint | Savanna",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Iconic animal not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Porcupine",
+   "Description": "Quills | Sahi | Rodent | Defence | Night",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment removes the synonym Spikes."
+  },
+  {
+   "id": null,
+   "Name": "Ant",
+   "Description": "Cheenti | Tiny | Colony | Sugar | Surah Naml",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Fixed the Chianti alcohol reference and typo; Surah Naml ant is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Quail",
+   "Description": "Salwa | Manna | Bani Israel | Sinai | Roasted",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): Accurate Quranic story, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Ababil",
+   "Description": "Elephant | Abraha | Pebbles | Surah Fil | Kaaba",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): Well-known accurate story, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Raincoat",
+   "Description": "Barsati | Waterproof | Hood | Umbrella | Wet",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Everyday item missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Mop",
+   "Description": "Pocha | Floor | Bucket | Cloth | Wet",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Home cleaning item, actable."
+  },
+  {
+   "id": null,
+   "Name": "Ferry",
+   "Description": "Water | Cars | Crossing | Island | Passengers",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Travel card distinct from Boat and Ship."
+  },
+  {
+   "id": null,
+   "Name": "Wheelchair",
+   "Description": "Seat | Hospital | Push | Mobility | Ramp",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment removes the answer fragment Wheels."
+  },
+  {
+   "id": null,
+   "Name": "Report Card",
+   "Description": "Result | Signature | Position | Parents | Teacher",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Universal school moment; amendment drops the Marks overlap."
+  },
+  {
+   "id": null,
+   "Name": "Globe",
+   "Description": "Earth | Spin | Map | Countries | Round",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Classroom object missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Oasis",
+   "Description": "Desert | Palm | Water | Camel | Travellers",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Geography card; amendment keeps clues distinct."
+  },
+  {
+   "id": null,
+   "Name": "Vacuum Cleaner",
+   "Description": "Hoover | Dust | Suction | Carpet | Cord",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Common appliance, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Sewing Machine",
+   "Description": "Silai | Needle | Cloth | Tailor | Pedal",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Common in Pakistani homes; Tools is the better category as per the challenger."
+  },
+  {
+   "id": null,
+   "Name": "Air Cooler",
+   "Description": "Water | Fan | Summer | Pad | Cheap",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Very Pakistani, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Water Motor",
+   "Description": "Tank | Roof | Pump | Switch | Overflow",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Relatable household item."
+  },
+  {
+   "id": null,
+   "Name": "Tiffin",
+   "Description": "Lunch | School | Stacked | Steel | Roti",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Lunch carrier absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Pindi Chanay",
+   "Description": "Chickpeas | Kulcha | Spicy | Breakfast | Gravy",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Famous dish; amendment removes Pindi, which is in the answer."
+  },
+  {
+   "id": null,
+   "Name": "Rabri",
+   "Description": "Milk | Thick | Sweet | Boil | Layers",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Only a clue word so far."
+  },
+  {
+   "id": null,
+   "Name": "Halal",
+   "Description": "Allowed | Meat | Earning | Logo | Zabiha",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Central concept; amendment removes the Pure/Allowed synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Bismillah",
+   "Description": "Start | Food | Say | Allah | Dua",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Everyday practice; removed Rahman as an answer fragment and Before as an overlap."
+  },
+  {
+   "id": null,
+   "Name": "Walima",
+   "Description": "Groom | Dinner | Simple | Nikah | Waste",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Sunnah wedding meal, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Guest",
+   "Description": "Dastarkhwan | Honour | Invite | Chai | Rahmat",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Warm worldview card."
+  },
+  {
+   "id": null,
+   "Name": "Elderly",
+   "Description": "Respect | Dua | Stick | Stories | Wrinkles",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Respectful and affectionate."
+  },
+  {
+   "id": null,
+   "Name": "Pitthu Garam",
+   "Description": "Seven | Stones | Ball | Tower | Team",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Local childhood game, absent."
+  },
+  {
+   "id": null,
+   "Name": "Kite Flying",
+   "Description": "Roof | String | Wind | Cut | Sky",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Neutral clue avoids Basant."
+  },
+  {
+   "id": null,
+   "Name": "Hide and Seek",
+   "Description": "Count | Eyes | Cupboard | Kids | Found",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Universal game; removed the answer fragment Seeker."
+  },
+  {
+   "id": null,
+   "Name": "Scorpion",
+   "Description": "Bichoo | Sting | Tail | Desert | Venom",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Common animal absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Whale",
+   "Description": "Ocean | Biggest | Blow | Yunus | Fish",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Absent from the deck; Yunus appears only as a clue."
+  },
+  {
+   "id": null,
+   "Name": "Umbrella",
+   "Description": "Chatri | Rain | Open | Handle | Sun",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Everyday object only used as a clue so far."
+  },
+  {
+   "id": null,
+   "Name": "Broom",
+   "Description": "Jharu | Sweep | Dust | Floor | Handle",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Home staple, absent."
+  },
+  {
+   "id": null,
+   "Name": "Suitcase",
+   "Description": "Luggage | Zip | Travel | Wheels | Pack",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Travel card, very actable."
+  },
+  {
+   "id": null,
+   "Name": "Passport",
+   "Description": "Visa | Stamp | Airport | Photo | Green",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Relatable travel document."
+  },
+  {
+   "id": null,
+   "Name": "Razai",
+   "Description": "Quilt | Winter | Cotton | Warm | Bed",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "New card (debate): Pakistani winter life."
+  },
+  {
+   "id": null,
+   "Name": "Bucket",
+   "Description": "Balti | Water | Handle | Tap | Mug",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Home item absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Homework",
+   "Description": "School | Copy | Teacher | Pending | Night",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Universal school moment."
+  },
+  {
+   "id": null,
+   "Name": "Airport",
+   "Description": "Flight | Gate | Passport | Check-in | Lounge",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Travel card absent from the deck."
   }
  ]
 }

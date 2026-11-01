@@ -30073,6 +30073,326 @@
    "Category": "Longest Surahs (Ayat Count - Descending)",
    "action": "add",
    "note": "New card (debate): Replaces Al-Ma'idah: Tawbah (129) and Hud (123) are longer than Ma'idah (120), so Tawbah is the true 6th longest."
+  },
+  {
+   "id": null,
+   "Name": "Elephant",
+   "Description": "About 2 hours a day (wild)",
+   "Category": "Animal Sleep Per Day (Least to Most)",
+   "action": "add",
+   "note": "New card (debate): Amended: wild elephants sleep about 2 h, clear of giraffe."
+  },
+  {
+   "id": null,
+   "Name": "Giraffe",
+   "Description": "About 4-5 hours a day",
+   "Category": "Animal Sleep Per Day (Least to Most)",
+   "action": "add",
+   "note": "New card (debate): Accurate; no sleep ranking in deck."
+  },
+  {
+   "id": null,
+   "Name": "Human Adult",
+   "Description": "About 7-9 hours a day",
+   "Category": "Animal Sleep Per Day (Least to Most)",
+   "action": "add",
+   "note": "New card (debate): Relatable anchor."
+  },
+  {
+   "id": null,
+   "Name": "Cat",
+   "Description": "About 12-16 hours a day",
+   "Category": "Animal Sleep Per Day (Least to Most)",
+   "action": "add",
+   "note": "New card (debate): Accurate, no overlap."
+  },
+  {
+   "id": null,
+   "Name": "Koala",
+   "Description": "About 18-22 hours a day",
+   "Category": "Animal Sleep Per Day (Least to Most)",
+   "action": "add",
+   "note": "New card (debate): Accurate fun top of ranking."
+  },
+  {
+   "id": null,
+   "Name": "Check-in",
+   "Description": "1st - show passport and ticket, hand over your suitcase",
+   "Category": "At the Airport (Chronological Order)",
+   "action": "add",
+   "note": "New card (debate): New travel category, unambiguous order."
+  },
+  {
+   "id": null,
+   "Name": "Boarding",
+   "Description": "2nd - walk through the gate and take your seat",
+   "Category": "At the Airport (Chronological Order)",
+   "action": "add",
+   "note": "New card (debate): Clear step."
+  },
+  {
+   "id": null,
+   "Name": "Takeoff",
+   "Description": "3rd - the plane leaves the runway",
+   "Category": "At the Airport (Chronological Order)",
+   "action": "add",
+   "note": "New card (debate): Clear step."
+  },
+  {
+   "id": null,
+   "Name": "Landing",
+   "Description": "4th - the plane touches down at your destination",
+   "Category": "At the Airport (Chronological Order)",
+   "action": "add",
+   "note": "New card (debate): Clear step."
+  },
+  {
+   "id": null,
+   "Name": "Baggage Claim",
+   "Description": "5th - wait for your suitcase on the belt",
+   "Category": "At the Airport (Chronological Order)",
+   "action": "add",
+   "note": "New card (debate): Relatable final step."
+  },
+  {
+   "id": null,
+   "Name": "Al-Baqarah (the Cow)",
+   "Description": "Surah 2 - the longest surah",
+   "Category": "Animals in Surah Names (Surah Number)",
+   "action": "add",
+   "note": "New card (debate): Accurate surah number, more informative reveal."
+  },
+  {
+   "id": null,
+   "Name": "An-Nahl (the Bee)",
+   "Description": "Surah 16 - says honey comes from the bee, a healing for people",
+   "Category": "Animals in Surah Names (Surah Number)",
+   "action": "add",
+   "note": "New card (debate): Surah 16 correct; fact reworded to match the ayat precisely."
+  },
+  {
+   "id": null,
+   "Name": "An-Naml (the Ant)",
+   "Description": "Surah 27 - tells of the ant that warned its colony",
+   "Category": "Animals in Surah Names (Surah Number)",
+   "action": "add",
+   "note": "New card (debate): Surah 27 correct."
+  },
+  {
+   "id": null,
+   "Name": "Al-Ankabut (the Spider)",
+   "Description": "Surah 29 - likens false protectors to a spider's house",
+   "Category": "Animals in Surah Names (Surah Number)",
+   "action": "add",
+   "note": "New card (debate): Surah 29 correct; fact reworded to match ayah 41."
+  },
+  {
+   "id": null,
+   "Name": "Al-Fil (the Elephant)",
+   "Description": "Surah 105 - the Year of the Elephant",
+   "Category": "Animals in Surah Names (Surah Number)",
+   "action": "add",
+   "note": "New card (debate): Surah 105 correct; different fact from the existing Al-Fil card."
+  },
+  {
+   "id": null,
+   "Name": "Ibn Fadlan",
+   "Description": "921 CE - left Baghdad as envoy to the Volga Bulgars",
+   "Category": "Muslim Travellers and Mapmakers (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Amended for accuracy; category widened to fit Al-Idrisi."
+  },
+  {
+   "id": null,
+   "Name": "Al-Idrisi",
+   "Description": "1154 CE - finished his world map and book for King Roger II",
+   "Category": "Muslim Travellers and Mapmakers (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Tabula Rogeriana 1154; category renamed since he was a mapmaker."
+  },
+  {
+   "id": null,
+   "Name": "Ibn Jubayr",
+   "Description": "1183 CE - left Granada for Hajj and wrote his travel diary",
+   "Category": "Muslim Travellers and Mapmakers (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate; Hajj link."
+  },
+  {
+   "id": null,
+   "Name": "Ibn Battuta",
+   "Description": "1325 CE - left Tangier at age 21 for Hajj",
+   "Category": "Muslim Travellers and Mapmakers (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Well-sourced."
+  },
+  {
+   "id": null,
+   "Name": "Zheng He",
+   "Description": "1405 CE - began his first great treasure voyage",
+   "Category": "Muslim Travellers and Mapmakers (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Hui Muslim admiral, certain date."
+  },
+  {
+   "id": null,
+   "Name": "Make Dough",
+   "Description": "1st - mix atta and water and knead it soft",
+   "Category": "Making Roti (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Fresh local-food category."
+  },
+  {
+   "id": null,
+   "Name": "Rest the Dough",
+   "Description": "2nd - cover it and let it sit so it turns soft",
+   "Category": "Making Roti (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Clear order."
+  },
+  {
+   "id": null,
+   "Name": "Make Peda",
+   "Description": "3rd - pinch off a ball of dough and flatten it",
+   "Category": "Making Roti (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Desi term, clear order."
+  },
+  {
+   "id": null,
+   "Name": "Roll It Out",
+   "Description": "4th - roll it round and thin with the belan",
+   "Category": "Making Roti (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Amended cleaner name."
+  },
+  {
+   "id": null,
+   "Name": "Cook on Tawa",
+   "Description": "5th - turn it on the hot tawa until it puffs",
+   "Category": "Making Roti (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Completes sequence."
+  },
+  {
+   "id": null,
+   "Name": "Foundation (Neenv)",
+   "Description": "1st - dig and lay the base of the house",
+   "Category": "Building a House (Chronological Steps)",
+   "action": "add",
+   "note": "New card (debate): Clear first step."
+  },
+  {
+   "id": null,
+   "Name": "Brick Walls",
+   "Description": "2nd - raise the walls up to the roof level",
+   "Category": "Building a House (Chronological Steps)",
+   "action": "add",
+   "note": "New card (debate): Clear step."
+  },
+  {
+   "id": null,
+   "Name": "Roof Slab (Lenter)",
+   "Description": "3rd - pour the concrete roof on top of the walls",
+   "Category": "Building a House (Chronological Steps)",
+   "action": "add",
+   "note": "New card (debate): Local term, correct order."
+  },
+  {
+   "id": null,
+   "Name": "Plaster",
+   "Description": "4th - cover the rough walls with a smooth cement coat",
+   "Category": "Building a House (Chronological Steps)",
+   "action": "add",
+   "note": "New card (debate): Before paint."
+  },
+  {
+   "id": null,
+   "Name": "Paint",
+   "Description": "5th - colour the plastered walls",
+   "Category": "Building a House (Chronological Steps)",
+   "action": "add",
+   "note": "New card (debate): Amended to remove arguable 'final touch'."
+  },
+  {
+   "id": null,
+   "Name": "Egg (Frogspawn)",
+   "Description": "1st - jelly-like eggs laid in water",
+   "Category": "Frog Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Fills animal gap; butterfly cycle exists but no frog."
+  },
+  {
+   "id": null,
+   "Name": "Tadpole",
+   "Description": "2nd - hatches and swims with a tail and gills",
+   "Category": "Frog Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate step."
+  },
+  {
+   "id": null,
+   "Name": "Tadpole with Legs",
+   "Description": "3rd - back legs grow, then front legs",
+   "Category": "Frog Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate step."
+  },
+  {
+   "id": null,
+   "Name": "Froglet",
+   "Description": "4th - tail shrinks and it looks like a tiny frog",
+   "Category": "Frog Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Reworded: lungs develop earlier than this stage."
+  },
+  {
+   "id": null,
+   "Name": "Adult Frog",
+   "Description": "5th - fully grown, hops about on land and in water",
+   "Category": "Frog Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Reworded to be accurate for adult frogs."
+  },
+  {
+   "id": null,
+   "Name": "Primary (Class 1-5)",
+   "Description": "1st - the first five years of school",
+   "Category": "School Ladder in Pakistan (Order)",
+   "action": "add",
+   "note": "New card (debate): New local school category."
+  },
+  {
+   "id": null,
+   "Name": "Middle (Class 6-8)",
+   "Description": "2nd - after primary, before Matric",
+   "Category": "School Ladder in Pakistan (Order)",
+   "action": "add",
+   "note": "New card (debate): More informative description."
+  },
+  {
+   "id": null,
+   "Name": "Matric (Class 9-10)",
+   "Description": "3rd - ends with the board exam called Matric",
+   "Category": "School Ladder in Pakistan (Order)",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani term."
+  },
+  {
+   "id": null,
+   "Name": "Intermediate (FSc/FA)",
+   "Description": "4th - Class 11-12, before university",
+   "Category": "School Ladder in Pakistan (Order)",
+   "action": "add",
+   "note": "New card (debate): Correct stage."
+  },
+  {
+   "id": null,
+   "Name": "Bachelor's Degree",
+   "Description": "5th - university after Intermediate",
+   "Category": "School Ladder in Pakistan (Order)",
+   "action": "add",
+   "note": "New card (debate): Completes the ladder."
   }
  ]
 }

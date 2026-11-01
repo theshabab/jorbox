@@ -11377,6 +11377,238 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Shukr in an easy Writing card with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Farm Animals",
+   "Description": "Cow|Buffalo|Goat|Sheep|Camel|Donkey|Horse|Hen|Rooster|Duck|Ox|Bull|Calf|Lamb|Mule|Chick|Ram|Goose|Dumba|Pony",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: clearer livestock words"
+  },
+  {
+   "id": null,
+   "Name": "Pets People Keep at Home",
+   "Description": "Cat|Parrot|Rabbit|Goldfish|Budgie|Hamster|Tortoise|Mynah|Lovebird|Guinea Pig|Canary|Cockatiel|Pigeon|Finch|Cockatoo|Duckling|Kitten|Aquarium Fish",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended: no dogs, fewer repeats"
+  },
+  {
+   "id": null,
+   "Name": "Things in a Lunchbox",
+   "Description": "Paratha|Omelette|Sandwich|Cut Fruit|Juice Box|Biscuits|Nuggets|Cucumber|Noodles|Chips|Dates|Pulao|Kebab Roll|Boiled Egg|Aloo Bhujia|Banana|Cake Slice|Cheese Slice|Spoon|Cheese Paratha",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version"
+  },
+  {
+   "id": null,
+   "Name": "Things in a Travel Bag",
+   "Description": "Clothes|Passport|Charger|Toothbrush|Towel|Prayer Mat|Slippers|Sunscreen|Medicines|Padlock|Luggage Tag|Power Bank|Tissues|Tasbeeh|Sunglasses|Umbrella|Shawl|Comb|Hand Sanitiser|Qibla Compass",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended: stronger words"
+  },
+  {
+   "id": null,
+   "Name": "Things on a Flight",
+   "Description": "Seatbelt|Window Seat|Tray Table|Safety Card|Overhead Bin|Air Hostess|Meal|Turbulence|Aisle|Blanket|Oxygen Mask|Life Jacket|Neck Pillow|Landing|Takeoff|Headphones|Emergency Exit|Travel Dua|Eye Mask|Seat Pocket",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended: removed internal duplicate"
+  },
+  {
+   "id": null,
+   "Name": "Things at a Naan Shop",
+   "Description": "Tandoor|Dough Balls|Naan|Roti|Kulcha|Sesame Seeds|Kalonji|Flour Sack|Wooden Board|Rolling Pin|Long Tongs|Queue|Newspaper|Gas Cylinder|Cooling Rack|Water Bucket|Apron|Atta|Cloth Wrap|Tandoor Mouth",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended: distinctive naan-shop words"
+  },
+  {
+   "id": null,
+   "Name": "Ways to Save Water",
+   "Description": "Closing the Tap|Short Showers|Bucket Instead of Hose|Fixing Leaks|Collecting Rainwater|Brushing With a Glass|Washing the Car With a Bucket|Full Washing Machine Loads|Moderation in Wuzu|Watering Plants Early|Teaching Kids|Reusing Rice Water|Covering the Tank|Checking Tank Overflow|Sweeping Instead of Hosing|Using a Mug|Half Glass for Guests|Reusing Water for Plants|Fixing the Flush|Shorter Baths",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Worldview: israf; deduped"
+  },
+  {
+   "id": null,
+   "Name": "Sunnah Habits of Daily Life",
+   "Description": "Miswak|Smiling at Others|Saying Salam First|Visiting the Sick|Sleeping on the Right Side|Using Attar|Right Foot into the Masjid|Eating Dates|Greeting Neighbours|Helping at Home|Dua Before Sleeping|Fasting Mondays|Kindness to Animals|Trimming Nails|Wuzu Before Sleeping|Praying Duha|Fasting Thursdays|Shaking Hands|Giving Gifts|Visiting Relatives",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Worldview: uncontroversial sunnah; replaced a third sleep-overlap item with Giving Gifts"
+  },
+  {
+   "id": null,
+   "Name": "Ways to Care for Animals",
+   "Description": "Water Bowl|Feeding Birds|Feeding Stray Cats|Not Overloading a Donkey Cart|Caring for a Qurbani Animal|Shade in Summer|Warm Shelter in Winter|Vet Visit|Clean Cage|Fresh Fodder|Gentle Handling|Rest for Working Animals|Water on the Roof|Not Starving Pets|Clean Stable|Treating an Injured Bird|Sheltering a Kitten From Rain|Bigger Cage for Birds|Not Teasing Animals|Keeping Animals Cool",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Worldview: mercy to animals; deduped"
+  },
+  {
+   "id": null,
+   "Name": "Ways to Respect Elders",
+   "Description": "Saying Salam First|Standing When They Arrive|Never Saying Uff|Giving Your Seat|Serving Their Chai|Listening to Their Stories|Making Dua for Them|Visiting Often|Helping With Shopping|Asking Their Advice|Taking Them to the Doctor|Letting Them Eat First|Carrying Their Bags|Remembering Their Medicines|Massaging Their Legs|Introducing Them With Pride|Teaching Them the Phone|Kissing Their Hands|Lowering Your Voice|Sitting Beside Them",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Worldview: duties to elders; deduped"
+  },
+  {
+   "id": null,
+   "Name": "Draw a rooster crowing at dawn.",
+   "Description": "Draw a hen with her chicks.|Draw a peacock.|Draw an alarm clock ringing.|Draw a crow on a wall.|Draw a duck in a pond.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Fresh animal drawing"
+  },
+  {
+   "id": null,
+   "Name": "Draw a buffalo cooling off in a pond.",
+   "Description": "Draw a cow in a green field.|Draw a hippo in a river.|Draw ducks on a pond.|Draw a goat on a hill.|Draw a gawala washing his buffalo.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Fresh local animal scene"
+  },
+  {
+   "id": null,
+   "Name": "Draw a school van packed with children.",
+   "Description": "Draw a rickshaw full of school kids.|Draw a yellow school bus.|Draw a crowded city bus.|Draw a truck carrying goats.|Draw a Hiace van.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local school/travel drawing"
+  },
+  {
+   "id": null,
+   "Name": "Draw a steel tiffin carrier.",
+   "Description": "Draw a school lunchbox.|Draw a stack of steel plates.|Draw a thermos flask.|Draw a metal water jug.|Draw a lunch bag.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Everyday object with close decoys"
+  },
+  {
+   "id": null,
+   "Name": "Draw a family sleeping on the rooftop in summer.",
+   "Description": "Draw a tent under the stars.|Draw one person on a charpai.|Draw a night sky full of stars.|Draw a camping trip.|Draw a bedroom with a fan.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Fresh home/summer scene"
+  },
+  {
+   "id": null,
+   "Name": "The best thing to make with leftover roti is...",
+   "Description": "The best thing to make with leftover rice is...|The best thing to make with stale bread is...|The best way to finish leftover salan is...|The best way to use leftover biryani is...|The best thing to make with leftover daal is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Anti-waste, local, funny"
+  },
+  {
+   "id": null,
+   "Name": "The first thing I always pack for a trip is...",
+   "Description": "The last thing I pack for a trip is...|The thing I always forget to pack is...|The thing I pack far too much of is...|The first thing I unpack after a trip is...|The thing I always borrow from my sibling when travelling is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Travel angle"
+  },
+  {
+   "id": null,
+   "Name": "The animal that would make the best rickshaw driver is...",
+   "Description": "The animal that would make the best cricket umpire is...|The animal that would make the best teacher is...|The animal that would make the best bus conductor is...|The animal that would make the best shopkeeper is...|The animal that would make the best bowler is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: fresh local animal angle"
+  },
+  {
+   "id": null,
+   "Name": "The best thing to find in a school lunchbox is...",
+   "Description": "The worst thing to find in a school lunchbox is...|The thing I always traded at school is...|The best thing at the school canteen is...|The food I was embarrassed to eat at school is...|The best thing Ammi packs for lunch is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): School and food"
+  },
+  {
+   "id": null,
+   "Name": "I get carsick on long trips.",
+   "Description": "I get airsick on flights.|I always want the window seat.|I always pack too much.|I need a stop every hour.|I get sick when I read in a car.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Amended decoys avoid existing cards"
+  },
+  {
+   "id": null,
+   "Name": "I have worn the same pair of shoes for years.",
+   "Description": "I fix things instead of replacing them.|I wear my favourite clothes again and again.|I love getting new clothes.|I hate throwing things away.|I buy new shoes for every Eid.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable contentment angle"
+  },
+  {
+   "id": null,
+   "Name": "The bus conductor forgets to collect your fare. You...",
+   "Description": "pay him anyway|stay quiet and save the money|get off one stop early",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Honesty dilemma, local"
+  },
+  {
+   "id": null,
+   "Name": "The airline counter staff forgets to weigh your suitcase, which is 3 kg overweight. You...",
+   "Description": "tell them|say nothing|move away quickly",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Amended: real moral tension"
+  },
+  {
+   "id": null,
+   "Name": "Your teacher adds marks by mistake and you now have full marks. You...",
+   "Description": "tell the teacher|stay quiet|tell only your best friend",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): School amanah dilemma"
+  },
+  {
+   "id": null,
+   "Name": "Things at a Pet Shop",
+   "Description": "Birdcage|Fish Tank|Parrots|Budgies|Rabbits|Birdseed|Aquarium Pump|Cat Food|Hamster Wheel|Water Feeder|Lovebirds|Goldfish|Fish Food|Sawdust|Chicks|Shopkeeper|Price Tag|Pet Carrier|Cat Toy|Tortoise",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): No pet shop topic exists"
+  },
+  {
+   "id": null,
+   "Name": "Things on a Long Train Journey",
+   "Description": "Berth|Window Seat|Chai Wala|Tunnel|Chain|Whistle|Level Crossing|Hawkers|Luggage Rack|Dining Car|Signal|Ticket Checker|Bedding|Fan|Bridge|Samosa Seller|Snacks|Reserved Seat|Next Station|Open Fields",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Onboard train experience is a gap"
+  },
+  {
+   "id": null,
+   "Name": "The first thing I do when I reach Nani's house is...",
+   "Description": "The first thing I do when I reach a hotel room is...|The first thing I eat after a long trip is...|The first thing I do when I get home from school is...|The first thing I ask for at a relative's house is...|The first thing I look for at a wedding is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family/travel angle"
+  },
+  {
+   "id": null,
+   "Name": "I prefer Ammi's cooking to any restaurant.",
+   "Description": "I order food online more than twice a week.|I love trying new restaurants.|I can cook a full meal on my own.|I always take leftovers home.|Biryani tastes best at a wedding.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Home food, relatable"
+  },
+  {
+   "id": null,
+   "Name": "Draw kids climbing a mango tree.",
+   "Description": "Draw a mango seller's cart.|Draw a swing under a tree.|Draw a farmer picking mangoes.|Draw a tree house.|Draw a banyan tree.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Childhood village scene"
   }
  ]
 }

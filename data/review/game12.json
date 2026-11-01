@@ -10703,6 +10703,204 @@
    "Name": "Algebra",
    "action": "add",
    "note": "New card (debate): Well-known word with accurate Muslim-heritage link (al-Khwarizmi); better than Astrolabe."
+  },
+  {
+   "id": null,
+   "Name": "Balcony",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy to act."
+  },
+  {
+   "id": null,
+   "Name": "Frying Pan",
+   "action": "add",
+   "note": "New card (debate): Not in deck; distinct from Tawa/Karahi."
+  },
+  {
+   "id": null,
+   "Name": "Potato",
+   "action": "add",
+   "note": "New card (debate): Absent staple food."
+  },
+  {
+   "id": null,
+   "Name": "Cinnamon",
+   "action": "add",
+   "note": "New card (debate): Absent spice."
+  },
+  {
+   "id": null,
+   "Name": "Hippo",
+   "action": "add",
+   "note": "New card (debate): Absent animal, fun to act."
+  },
+  {
+   "id": null,
+   "Name": "Swan",
+   "action": "add",
+   "note": "New card (debate): Absent animal."
+  },
+  {
+   "id": null,
+   "Name": "Chameleon",
+   "action": "add",
+   "note": "New card (debate): Absent animal with acting hook."
+  },
+  {
+   "id": null,
+   "Name": "Ferry",
+   "action": "add",
+   "note": "New card (debate): Absent transport."
+  },
+  {
+   "id": null,
+   "Name": "Playground",
+   "action": "add",
+   "note": "New card (debate): Absent school place."
+  },
+  {
+   "id": null,
+   "Name": "Principal",
+   "action": "add",
+   "note": "New card (debate): Absent school role."
+  },
+  {
+   "id": null,
+   "Name": "Hand Me Downs",
+   "action": "add",
+   "note": "New card (debate): Challenger's cleaner form; relatable sharing item."
+  },
+  {
+   "id": null,
+   "Name": "Flash Sale",
+   "action": "add",
+   "note": "New card (debate): Playful consumerism worldview angle."
+  },
+  {
+   "id": null,
+   "Name": "Shoe Rack",
+   "action": "add",
+   "note": "New card (debate): Shoes-off-at-door culture; distinct from Shoes."
+  },
+  {
+   "id": null,
+   "Name": "Showroom",
+   "action": "add",
+   "note": "New card (debate): Brand/status shopping, playable."
+  },
+  {
+   "id": null,
+   "Name": "Wishlist",
+   "action": "add",
+   "note": "New card (debate): Contentment vs wanting more, fresh angle."
+  },
+  {
+   "id": null,
+   "Name": "Thank You Note",
+   "action": "add",
+   "note": "New card (debate): Concrete gratitude item."
+  },
+  {
+   "id": null,
+   "Name": "Inverter",
+   "action": "add",
+   "note": "New card (debate): Local load shedding life."
+  },
+  {
+   "id": null,
+   "Name": "Speed Breaker",
+   "action": "add",
+   "note": "New card (debate): Local road life, absent."
+  },
+  {
+   "id": null,
+   "Name": "Sil Batta",
+   "action": "add",
+   "note": "New card (debate): Pakistani kitchen tool."
+  },
+  {
+   "id": null,
+   "Name": "Sabzi Mandi",
+   "action": "add",
+   "note": "New card (debate): Local market, absent."
+  },
+  {
+   "id": null,
+   "Name": "Khichri",
+   "action": "add",
+   "note": "New card (debate): Local comfort food."
+  },
+  {
+   "id": null,
+   "Name": "Bakra Mandi",
+   "action": "add",
+   "note": "New card (debate): Local Eid scene."
+  },
+  {
+   "id": null,
+   "Name": "Guess Paper",
+   "action": "add",
+   "note": "New card (debate): Relatable exam-season item."
+  },
+  {
+   "id": null,
+   "Name": "Gajar Halwa",
+   "action": "add",
+   "note": "New card (debate): Specific winter dessert, distinct from Halwa."
+  },
+  {
+   "id": null,
+   "Name": "Qingqi",
+   "action": "add",
+   "note": "New card (debate): Local transport, fresh vs Rickshaw."
+  },
+  {
+   "id": null,
+   "Name": "Washing Machine",
+   "action": "add",
+   "note": "New card (debate): Absent home appliance."
+  },
+  {
+   "id": null,
+   "Name": "Duck",
+   "action": "add",
+   "note": "New card (debate): Absent animal, easy to act; replaces Hyena."
+  },
+  {
+   "id": null,
+   "Name": "Leopard",
+   "action": "add",
+   "note": "New card (debate): Absent animal."
+  },
+  {
+   "id": null,
+   "Name": "Lota",
+   "action": "add",
+   "note": "New card (debate): Local household item tied to wuzu."
+  },
+  {
+   "id": null,
+   "Name": "Gas Cylinder",
+   "action": "add",
+   "note": "New card (debate): Pakistani home life, mimable."
+  },
+  {
+   "id": null,
+   "Name": "Tourist",
+   "action": "add",
+   "note": "New card (debate): Travel role, fun to act."
+  },
+  {
+   "id": null,
+   "Name": "Bus Stop",
+   "action": "add",
+   "note": "New card (debate): Absent everyday place."
+  },
+  {
+   "id": null,
+   "Name": "Bhindi",
+   "action": "add",
+   "note": "New card (debate): Local vegetable, relatable."
   }
  ]
 }

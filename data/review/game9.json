@@ -11747,6 +11747,244 @@
    "Description": "Debts (it is called Ayat ad-Dayn, the Verse of Debt)",
    "action": "add",
    "note": "New card (debate): Accurate; fits anti-debt values; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which nut is the main ingredient of marzipan?",
+   "Description": "Almond",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate, general food."
+  },
+  {
+   "id": null,
+   "Name": "Which country is the world's largest producer of tea?",
+   "Description": "China",
+   "action": "add",
+   "note": "New card (debate): Accurate, no tea-production card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Japanese art of paper folding is used to make shapes such as cranes?",
+   "Description": "Origami",
+   "action": "add",
+   "note": "New card (debate): Challenger's cleaner wording."
+  },
+  {
+   "id": null,
+   "Name": "Which Australian marsupial has fingerprints so similar to human ones that they could be confused at a crime scene?",
+   "Description": "Koala",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording; fun fact."
+  },
+  {
+   "id": null,
+   "Name": "How many compartments does a cow's stomach have?",
+   "Description": "Four",
+   "action": "add",
+   "note": "New card (debate): Correct term; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which grain is the main staple food for more than half of the world's population?",
+   "Description": "Rice",
+   "action": "add",
+   "note": "New card (debate): Standard accepted fact; no rice card."
+  },
+  {
+   "id": null,
+   "Name": "What is the name of the longest side of a right-angled triangle, opposite the right angle?",
+   "Description": "Hypotenuse",
+   "action": "add",
+   "note": "New card (debate): School maths, clear answer."
+  },
+  {
+   "id": null,
+   "Name": "On an electricity bill, what does the unit 'kWh' stand for?",
+   "Description": "Kilowatt-hour",
+   "action": "add",
+   "note": "New card (debate): Challenger's cleaner version; relatable home-life card."
+  },
+  {
+   "id": null,
+   "Name": "The Trans-Siberian Railway, the longest railway line in the world, runs across which country?",
+   "Description": "Russia",
+   "action": "add",
+   "note": "New card (debate): Accurate travel card."
+  },
+  {
+   "id": null,
+   "Name": "According to a hadith, food enough for two people is enough for how many?",
+   "Description": "Three",
+   "action": "add",
+   "note": "New card (debate): Authentic Bukhari/Muslim hadith, worldview-safe."
+  },
+  {
+   "id": null,
+   "Name": "In the hadith on moderation in eating, the Prophet (PBUH) said to keep one third of the stomach for food, one third for drink and one third for what?",
+   "Description": "Breathing (air)",
+   "action": "add",
+   "note": "New card (debate): Authentic Tirmidhi hadith."
+  },
+  {
+   "id": null,
+   "Name": "The Prophet (PBUH) told us to say Bismillah and eat with which hand?",
+   "Description": "The right hand",
+   "action": "add",
+   "note": "New card (debate): Undisputed everyday etiquette."
+  },
+  {
+   "id": null,
+   "Name": "According to the Prophet (PBUH), the pre-dawn meal of Ramadan, suhoor, contains what?",
+   "Description": "Barakah (blessing)",
+   "action": "add",
+   "note": "New card (debate): Authentic; no suhoor card."
+  },
+  {
+   "id": null,
+   "Name": "Which bird carried news of the Queen of Saba (Sheba) to Prophet Sulaiman (AS)?",
+   "Description": "The hoopoe (Hudhud)",
+   "action": "add",
+   "note": "New card (debate): Quranic animal story; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "In Surah An-Naml, which tiny creature warned its fellows to enter their homes so Sulaiman's army would not crush them?",
+   "Description": "An ant",
+   "action": "add",
+   "note": "New card (debate): Quran 27:18; distinct from existing bismillah card."
+  },
+  {
+   "id": null,
+   "Name": "The Quran says the frailest of all houses is the house of which small creature?",
+   "Description": "The spider",
+   "action": "add",
+   "note": "New card (debate): Quran 29:41; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which surah, named after a small insect, says that what comes out of its belly is a healing for people?",
+   "Description": "An-Nahl (the Bee)",
+   "action": "add",
+   "note": "New card (debate): Quran 16:69; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "According to Aisha (RA), the Prophet (PBUH) would mend his own sandals and sew his own what?",
+   "Description": "Clothes",
+   "action": "add",
+   "note": "New card (debate): Authentic report on humility."
+  },
+  {
+   "id": null,
+   "Name": "Which companion hosted the Prophet (PBUH) in his house when he first arrived in Madinah?",
+   "Description": "Abu Ayyub al-Ansari (RA)",
+   "action": "add",
+   "note": "New card (debate): Well established; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "According to a hadith in Sahih Muslim, purity (cleanliness) is half of what?",
+   "Description": "Faith (iman)",
+   "action": "add",
+   "note": "New card (debate): Challenger's wording matches the hadith."
+  },
+  {
+   "id": null,
+   "Name": "Which natural twig, from the Arak tree, did the Prophet (PBUH) encourage using to clean the teeth?",
+   "Description": "Miswak (siwak)",
+   "action": "add",
+   "note": "New card (debate): Well established; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "A hadith says the honest, trustworthy merchant will be with the prophets, the siddiqin (the truthful) and which other group?",
+   "Description": "The martyrs",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording (Tirmidhi)."
+  },
+  {
+   "id": null,
+   "Name": "Which slow-cooked meat stew, whose name comes from an Arabic word for morning, is a favourite weekend breakfast in Lahore and Karachi?",
+   "Description": "Nihari",
+   "action": "add",
+   "note": "New card (debate): Pakistani food gap."
+  },
+  {
+   "id": null,
+   "Name": "Which Peshawari minced-meat patty, flat and shallow-fried, is named after a word meaning 'flat'?",
+   "Description": "Chapli kebab",
+   "action": "add",
+   "note": "New card (debate): Pakistani food gap."
+  },
+  {
+   "id": null,
+   "Name": "Which Balochistan dish is a whole lamb or chicken, often stuffed with rice, slowly roasted over an open fire?",
+   "Description": "Sajji",
+   "action": "add",
+   "note": "New card (debate): Challenger's accurate wording."
+  },
+  {
+   "id": null,
+   "Name": "Which city in Punjab is famous for sohan halwa?",
+   "Description": "Multan",
+   "action": "add",
+   "note": "New card (debate): Local sweets/travel card."
+  },
+  {
+   "id": null,
+   "Name": "What is the traditional woven rope bed, found in villages and courtyards across Pakistan, called?",
+   "Description": "Charpai (charpoy)",
+   "action": "add",
+   "note": "New card (debate): Local home life."
+  },
+  {
+   "id": null,
+   "Name": "Which colourful, hand-painted decoration is famous on Pakistani trucks and buses?",
+   "Description": "Truck art",
+   "action": "add",
+   "note": "New card (debate): Iconic local culture; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "In Pakistan, what does the school qualification 'FSc' stand for?",
+   "Description": "Faculty of Science",
+   "action": "add",
+   "note": "New card (debate): Local school life."
+  },
+  {
+   "id": null,
+   "Name": "Which fruit did the Prophet (PBUH) prefer to break his fast with, fresh if possible?",
+   "Description": "Dates",
+   "action": "add",
+   "note": "New card (debate): Authentic (Abu Dawud/Tirmidhi); Ramadan food; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which red rose-flavoured syrup, made by Hamdard, is a favourite Ramadan sharbat in Pakistani homes?",
+   "Description": "Rooh Afza",
+   "action": "add",
+   "note": "New card (debate): Fresh local food card."
+  },
+  {
+   "id": null,
+   "Name": "Which surah begins by swearing by the fig and the olive?",
+   "Description": "At-Tin",
+   "action": "add",
+   "note": "New card (debate): Quranic plants/food angle; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which surah tells of Abraha's army and its elephant, destroyed by flocks of birds?",
+   "Description": "Al-Fil (the Elephant)",
+   "action": "add",
+   "note": "New card (debate): Quranic animal story; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which animal gives Pakistan the largest share of its milk?",
+   "Description": "The buffalo",
+   "action": "add",
+   "note": "New card (debate): Local animals/home life; accurate."
   }
  ]
 }

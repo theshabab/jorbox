@@ -103325,6 +103325,334 @@
    "Category": "Ramadan Life",
    "action": "add",
    "note": "New card (debate): Neighbourly generosity; no iftar-plate card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The new puppy has already chewed through ____ and is now looking for more.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh puppy angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The pigeon on our balcony keeps staring at me because I once ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Not in deck, playable."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The goldfish keeps circling its bowl because ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New goldfish angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The new student walked into class carrying ____ and nobody asked why.",
+   "Category": "School Days",
+   "action": "add",
+   "note": "New card (debate): Fresh school scene."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The worst thing to discover at the bottom of your backpack on the last day of term is ____.",
+   "Category": "School Days",
+   "action": "add",
+   "note": "New card (debate): Distinct from parent-search bag cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The bus stopped suddenly in the middle of the road because ____.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): No such card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The cook tasted the soup, froze, and whispered, \"____.\"",
+   "Category": "Food Debates",
+   "action": "add",
+   "note": "New card (debate): Distinct from waiter-soup card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The hotel room had a tiny sign that said, \"Please do not ____.\"",
+   "Category": "Travel Disasters",
+   "action": "add",
+   "note": "New card (debate): New sign angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The train to the mountains stopped for an hour because ____ was on the track.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): Clean visual, not covered."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A good name for the laziest cat in the world",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Distinct animal naming prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What the old wooden school bench would say after fifty years of students",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh personified-object prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The strangest new rule your school could add to the lunch break",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Challenger's sharper version."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Prophet (ﷺ) advised that when you cook a curry, you should add more water and share it with your neighbours. This week I shared ____ with mine.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended; matches Sahih Muslim narration; neighbour-rights worldview."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The ant in the Quran warned her colony in time. In our house, the early warning that Abbu is home is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (27:18), affectionate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The hoopoe in the Quran brought important news from far away. The biggest news my cousin ever rushed home to tell us was ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version avoids pigeon repeat; accurate (27:22)."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A hadith tells of a man forgiven for giving water to a thirsty dog. Today my kindness to an animal was ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith, warm and playable."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "We say Bismillah before eating. My little cousin says it and then ____.",
+   "Category": "Food Debates",
+   "action": "add",
+   "note": "New card (debate): No Bismillah card exists; respectful."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I walked into the house and said Salam, and the first reply came from ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Greeting on entering home, funny blank."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi recited the travel dua as the car started, then reminded us about ____.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): Relatable desi travel humour."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Allah does not love wastefulness, so Nani saves ____ for tomorrow.",
+   "Category": "Food Debates",
+   "action": "add",
+   "note": "New card (debate): Accurate (7:31), affectionate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A guest is an honour. At our house the guest gets ____ and the family gets ____.",
+   "Category": "Family Gatherings",
+   "action": "add",
+   "note": "New card (debate): Hospitality double blank, distinct."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Al-Idrisi drew a world map in 1154 with south at the top. When I follow a map, I always end up ____.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): Amended clearer blank; fact correct."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "We are told to respect our teachers. The teacher I respect most earned it by ____.",
+   "Category": "School Days",
+   "action": "add",
+   "note": "New card (debate): Positive school worldview card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three ways to honour a guest in a desi home",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh hospitality Quiplash."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "In our house the last piece of ____ is split between ____ people, and everyone still says they are not hungry.",
+   "Category": "Food Debates",
+   "action": "add",
+   "note": "New card (debate): Amended natural voice."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The sabzi wala's scale says one kilo of ____, but my kitchen scale says something very different.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended concrete blank."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Mango season rule in our house: nobody leaves the table until ____.",
+   "Category": "Food Debates",
+   "action": "add",
+   "note": "New card (debate): Fresh mango home-life angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mosque-side kiryana store sells everything except ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing kiryana cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The last thing left on the dastarkhwan after a family lunch",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Clean Pakistani food Quiplash."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The roadside paratha man flipped it so high that ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Funny visual, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The buffalo in our street blocked traffic until ____.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): Fresh street-animal scene."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The invigilator confiscated ____ from the boy sitting in front of me.",
+   "Category": "School Days",
+   "action": "add",
+   "note": "New card (debate): Exam-hall scene, distinct."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Phuppo's guest room has a creaky bed and a cupboard full of ____.",
+   "Category": "Family Gatherings",
+   "action": "add",
+   "note": "New card (debate): Amended spelling matches deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu parked the car in the narrow gali, and within minutes ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A chipkali dropped from the ceiling onto the dastarkhwan, and Ammi calmly said, \"____.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): No lizard card in deck; relatable."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Quran asks us to look at the camel and wonder how it was created. This week, ____ made me stop and say SubhanAllah.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (88:17), gratitude angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Surah An-Nahl is named after the honey bee. The busiest bee in our family is ____, always buzzing around ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate; no bee-in-family card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ibn Battuta travelled more than 100,000 km in the 1300s. On our family road trip, the first \"are we there yet?\" came after ____.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): Accurate; different angle from existing Battuta card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi's first roti of the day is shaped like ____, but she insists it is round.",
+   "Category": "Food Debates",
+   "action": "add",
+   "note": "New card (debate): Fresh everyday food card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "On the school trip bus, the teacher counted heads three times and was still missing ____.",
+   "Category": "School Days",
+   "action": "add",
+   "note": "New card (debate): New head-count angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The crow on our wall has learned to steal ____ right off the washing line.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): No crow card; local animals."
   }
  ]
 }
