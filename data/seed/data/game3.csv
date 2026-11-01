@@ -499,7 +499,6 @@ You discover the Yeti is real and intelligent. It begs you to forget you saw it.
 A bad accident forces surgeons to graft your head onto a volunteer body. The volunteer you choose is...,a cricketer|a wrestler|a marathon runner,Morality
 "You’re offered the chance to have your brainwaves take over someone else’s body, deleting them. You choose...",a billionaire|a parent|a surgeon,Morality
 Aliens will spare Earth if they can take one person back to their planet never to be seen again. We should give up...,your boss|a politician|your noisy neighbour,Morality
-Alien invaders land but will let one person convince them not to conquer Earth. The right choice is...,a diplomat|a politician|a cricketer,Morality
 A man runs a red light because he thinks traffic laws are pointless. He should be...,in jail|celebrated|executed,Morality
 A man is arrested for robbing the rich and giving to the poor. He should be...,in jail|celebrated|executed,Morality
 An alien broadcast asks any planet that receives their message to reply with their position. Earth should...,say something|sit quietly|attack,Morality
@@ -520,7 +519,7 @@ You spot a coworker’s wedding ring in the office sink. You must...,keep it|let
 You accidentally leave the tap running and flood your neighbour’s garage. What you should do is...,tell someone|fix it|leave a note,Morality
 Your child’s goldfish dies while they’re at school. You should then...,secretly replace it|leave it|dispose of it,Morality
 Your best friend’s spouse says your outfit looks terrible. You should...,get outraged|politely agree|change clothes immediately,Morality
-You’re chosen to represent your city in a deadly survival contest. You should try to...,hide and survive|destroy everyone|put an end to this once and for all,Morality
+You’re forced to join a deadly survival contest. You should try to...,hide and survive|destroy everyone|put an end to this once and for all,Morality
 The perfect sofa has been sitting on the footpath for over 24 hours. You should...,take it|leave it|call a friend to help you,Morality
 You see a diamond necklace on a sleeping tiger. You should...,take it|leave it|call a friend to help you,Morality
 You’re arrested and the officer accidentally leaves the cell unlocked. You then...,get out of there|tell someone|leave a note,Morality
@@ -571,7 +570,7 @@ Things in a Fridge,Milk|Eggs|Butter|Yogurt|Water Bottles|Leftovers|Chutney|Ketch
 Things at the Gym,Treadmill|Dumbbells|Barbell|Bench Press|Weights|Exercise Bike|Rowing Machine|Skipping Rope|Yoga Mat|Pull-Up Bar|Mirror|Trainer|Protein Shake|Water Bottle|Towel|Locker|Gloves|Sweat|Push-Ups|Squats,
 Things in a First Aid Kit,Bandage|Plaster|Cotton|Gauze|Antiseptic|Dettol|Tape|Scissors|Tweezers|Thermometer|Eye Drops|Panadol|Burn Cream|Gloves|Safety Pins|Ice Pack|Sling|ORS|Face Mask|Instructions,
 Things in the Northern Areas,Mountains|Glaciers|Snow|Lakes|Waterfalls|Pine Trees|Jeep|Landslide|Suspension Bridge|Yak|Apricots|Cherries|Trout|Camping|Bonfire|Hiking|Fort|Karakoram Highway|Shawl|Cold Wind,
-Things at a Picnic,Chatai|Basket|Sandwiches|Biryani|Cold Drinks|Thermos|Fruit|Chips|Cricket|Frisbee|Kite|Badminton|Ludo|Shade|Trees|Ants|Flies|Sunscreen|Photos|Rubbish Bag,
+Things at a Picnic,Chatai|Basket|Sandwiches|Biryani|Cold Drinks|Thermos|Fruit|Chips|Cricket|Football|Kite|Badminton|Ludo|Shade|Trees|Ants|Flies|Sunscreen|Photos|Rubbish Bag,
 Cars on Pakistani Roads,Mehran|Alto|Cultus|Wagon R|Swift|Bolan|Corolla|Civic|City|Vitz|Yaris|Prado|Land Cruiser|Fortuner|Hilux|Hiace|Sportage|Picanto|Cuore|Khyber,
 Draw a rickshaw.,Draw a Qingqi.|Draw a taxi.|Draw a motorbike carrying a whole family.|Draw a tanga.|Draw a decorated truck.|Draw a bus.,Drawing 2
 Draw a load-shedding evening.,Draw a dark night.|Draw a UPS beeping.|Draw a generator.|Draw a hot summer afternoon.|Draw a candle.,Drawing 2
@@ -1057,3 +1056,10 @@ Your dadi asks you to teach her WhatsApp for the tenth time. You...,teach her pa
 You see a child flying a kite with a metal string (dor) on a busy road. You...,tell his parents|take the string away|call the police,Morality
 Load-shedding hits just as you are about to submit an online assignment. You...,use mobile data|beg for an extension|run to a friend’s house,Morality
 You see a boy riding a motorbike without a helmet with his little sister in front. You...,stay quiet|tell his father|shout at him,Morality
+Things at a Sports Goods Shop,Cricket Bat|Tennis Ball|Tape Ball|Hard Ball|Stumps|Football|Hockey Stick|Badminton Racket|Shuttlecock|Carrom Board|Skipping Rope|Gloves|Pads|Helmet|Jersey|Track Suit|Water Bottle|Whistle|Trophy|Boots,
+Things at a Doodh Dahi Shop,Doodh|Dahi|Lassi|Malai|Makhan|Paneer|Khoya|Rabri|Kheer|Desi Ghee|Steel Drum|Pateela|Ladle|Matka|Plastic Bags|Weighing Scale|Cream|Ice Block|Fridge|Kulhar,
+Things at a Beauty Parlour,Facial|Threading|Waxing|Hair Cut|Hair Dye|Hair Wash|Mehndi|Nail Polish|Manicure|Pedicure|Bridal Makeup|Foundation|Lipstick|Mirror|Salon Chair|Hair Dryer|Hair Straightener|Towel|Cucumber Slices|Magazine,
+Things at a School Sports Day,Race|Sack Race|Spoon Race|Tug of War|Relay Baton|Medals|Trophy|Chief Guest|Tilawat|Parade|Flag|Houses|Whistle|Stopwatch|Finish Line|Cheering|Commentator|Certificates|Refreshments|Shade Tent,
+Draw a kite stuck on a power line.,Draw a bird on a wire.|Draw a cut kite falling.|Draw a tangled rope.|Draw a lamp post.|Draw a plastic bag in a tree.,Drawing 2
+Draw a paratha being flipped on a tawa.,Draw a roti puffing up.|Draw an omelette.|Draw a pancake.|Draw a frying pan.|Draw a plate of food.,Drawing 2
+"You promised to attend a friend’s event, but a much better invitation arrives for the same evening. What you should do is...",keep your promise|make an excuse|go to the better one,Morality

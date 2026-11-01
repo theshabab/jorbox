@@ -7215,11 +7215,11 @@
   {
    "id": "game12-802",
    "Name": "Pony",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Pony"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of Horse (game12-299, live, action keep)."
   },
   {
    "id": "game12-803",
@@ -8385,11 +8385,11 @@
   {
    "id": "game12-932",
    "Name": "Strainer",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Pasta Strainer"
    },
-   "note": "simpler, local usage"
+   "note": "Debate: Same kitchen object as Sieve (live, action add). Pasta Strainer remains as a separate card."
   },
   {
    "id": "game12-933",
@@ -11783,6 +11783,30 @@
    "Name": "Warning",
    "action": "add",
    "note": "New card (debate): Abstract noun, easy to act, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Grater",
+   "action": "add",
+   "note": "New card (debate): Familiar kitchen tool, easy to mime, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Keyboard",
+   "action": "add",
+   "note": "New card (debate): Everyday object, not in deck, distinct from Laptop and Mouse Pad."
+  },
+  {
+   "id": null,
+   "Name": "Tape Measure",
+   "action": "add",
+   "note": "New card (debate): Distinct, easily mimed tool, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Syringe",
+   "action": "add",
+   "note": "New card (debate): Easy to act out, not in deck, and Injection is not live."
   }
  ]
 }

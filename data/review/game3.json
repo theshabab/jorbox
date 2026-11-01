@@ -8172,13 +8172,13 @@
    "Name": "Alien invaders land but will let one person convince them not to conquer Earth. The right choice is...",
    "Description": "a diplomat|a politician|a cricketer",
    "Category": "Morality",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Alien invaders land but will let one person convince them not to conquer Earth. The right choice is...",
     "Description": "Keanu Reeves|Beyoncé|Dwayne “The Rock” Johnson",
     "Category": "Morality"
    },
-   "note": "celebrity options replaced"
+   "note": "Debate: Near-duplicate of idx 627 (give up one person to aliens, also with 'a politician'); 627 (game3-628) is still live."
   },
   {
    "id": "game3-630",
@@ -8494,7 +8494,7 @@
   },
   {
    "id": "game3-654",
-   "Name": "You’re chosen to represent your city in a deadly survival contest. You should try to...",
+   "Name": "You’re forced to join a deadly survival contest. You should try to...",
    "Description": "hide and survive|destroy everyone|put an end to this once and for all",
    "Category": "Morality",
    "action": "edit",
@@ -8503,7 +8503,7 @@
     "Description": "hide and survive|destroy everyone|put an end to this once and for all",
     "Category": "Morality"
    },
-   "note": "removed Hunger Games reference"
+   "note": "removed Hunger Games reference; Debate: Removes the Hunger Games-style 'represent your city' framing; dilemma kept."
   },
   {
    "id": "game3-655",
@@ -8981,10 +8981,10 @@
   {
    "id": null,
    "Name": "Things at a Picnic",
-   "Description": "Chatai|Basket|Sandwiches|Biryani|Cold Drinks|Thermos|Fruit|Chips|Cricket|Frisbee|Kite|Badminton|Ludo|Shade|Trees|Ants|Flies|Sunscreen|Photos|Rubbish Bag",
+   "Description": "Chatai|Basket|Sandwiches|Biryani|Cold Drinks|Thermos|Fruit|Chips|Cricket|Football|Kite|Badminton|Ludo|Shade|Trees|Ants|Flies|Sunscreen|Photos|Rubbish Bag",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Frisbee is obscure locally; Football is not already in the list."
   },
   {
    "id": null,
@@ -12873,6 +12873,62 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Distinct road-safety dilemma, not a duplicate of the challan card."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Sports Goods Shop",
+   "Description": "Cricket Bat|Tennis Ball|Tape Ball|Hard Ball|Stumps|Football|Hockey Stick|Badminton Racket|Shuttlecock|Carrom Board|Skipping Rope|Gloves|Pads|Helmet|Jersey|Track Suit|Water Bottle|Whistle|Trophy|Boots",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local place topic; challenger's amendment replaces vague 'Net' with Tape Ball."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Doodh Dahi Shop",
+   "Description": "Doodh|Dahi|Lassi|Malai|Makhan|Paneer|Khoya|Rabri|Kheer|Desi Ghee|Steel Drum|Pateela|Ladle|Matka|Plastic Bags|Weighing Scale|Cream|Ice Block|Fridge|Kulhar",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani shop; plain local words per challenger amendment."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Beauty Parlour",
+   "Description": "Facial|Threading|Waxing|Hair Cut|Hair Dye|Hair Wash|Mehndi|Nail Polish|Manicure|Pedicure|Bridal Makeup|Foundation|Lipstick|Mirror|Salon Chair|Hair Dryer|Hair Straightener|Towel|Cucumber Slices|Magazine",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Common local place topic not otherwise in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Things at a School Sports Day",
+   "Description": "Race|Sack Race|Spoon Race|Tug of War|Relay Baton|Medals|Trophy|Chief Guest|Tilawat|Parade|Flag|Houses|Whistle|Stopwatch|Finish Line|Cheering|Commentator|Certificates|Refreshments|Shade Tent",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct, relatable school-event topic."
+  },
+  {
+   "id": null,
+   "Name": "Draw a kite stuck on a power line.",
+   "Description": "Draw a bird on a wire.|Draw a cut kite falling.|Draw a tangled rope.|Draw a lamp post.|Draw a plastic bag in a tree.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local, drawable, close decoys; no similar prompt."
+  },
+  {
+   "id": null,
+   "Name": "Draw a paratha being flipped on a tawa.",
+   "Description": "Draw a roti puffing up.|Draw an omelette.|Draw a pancake.|Draw a frying pan.|Draw a plate of food.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Pakistani food drawing prompt with plausible decoys."
+  },
+  {
+   "id": null,
+   "Name": "You promised to attend a friend’s event, but a much better invitation arrives for the same evening. What you should do is...",
+   "Description": "keep your promise|make an excuse|go to the better one",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Clean everyday dilemma that splits groups."
   }
  ]
 }

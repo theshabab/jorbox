@@ -21127,6 +21127,69 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Local setting. The only Hunza card is a snow leopard."
+  },
+  {
+   "id": null,
+   "Description": "a gadha wearing a graduation cap and holding a degree",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a crow on the wall loudly announcing that guests are coming",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct from other crow cards; drawable."
+  },
+  {
+   "id": null,
+   "Description": "a tonga horse wearing sunglasses and a pagri, looking very cool",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct visual from the traffic-jam tonga card."
+  },
+  {
+   "id": null,
+   "Description": "an AC remote hidden under the sofa cushions while the whole family searches",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable, drawable, not duplicated."
+  },
+  {
+   "id": null,
+   "Description": "a samosa wala juggling hot samosas straight into the customers' plates without dropping one",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment fixes the incoherent 'drop' wording."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> teaching Dadi how to use a smartphone",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate; different scene from the goat smartphone card."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> hunting for a parking spot outside the wedding hall",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> pretending to understand the cricket match to impress Chacha",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle local humour, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a hen leading her chicks across the Grand Trunk Road past honking trucks",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, cute and drawable."
   }
  ]
 }
