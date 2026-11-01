@@ -24110,13 +24110,13 @@
    "Name": "Nutella",
    "Description": "1964",
    "Category": "Sauces By Invention Date",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Nutella",
     "Description": "1964",
     "Category": "Sauces By Invention Date"
    },
-   "note": ""
+   "note": "Debate: A hazelnut spread, not a sauce; 6 correctly dated sauces remain."
   },
   {
    "id": "game15-1856",
@@ -26333,13 +26333,13 @@
    "Name": "Hitchhiker's Guide to the Galaxy",
    "Description": "5 (by Douglas Adams)",
    "Category": "Number of Books in a Series",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Hitchhiker’s Guide",
     "Description": "5",
     "Category": "Number of Books in a Series"
    },
-   "note": "full name; 6th book is by Eoin Colfer"
+   "note": "Debate: Obscure for this audience and the 'trilogy in five parts' count is a trap; 4 series remain."
   },
   {
    "id": "game15-2027",
@@ -27282,13 +27282,13 @@
    "Name": "Howler Monkeys",
    "Description": "Up to ~140 dB (claimed)",
    "Category": "Annoying Noises by Decibel",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Howler Monkeys",
     "Description": "140 dB",
     "Category": "Annoying Noises by Decibel"
    },
-   "note": "commonly cited peak; estimates vary"
+   "note": "Debate: Unverified, disputed figure and obscure item; a sorting reveal should rest on a reliable value; 8 items remain."
   },
   {
    "id": "game15-2100",
@@ -31657,6 +31657,38 @@
    "Category": "Scientists - Birth Year",
    "action": "add",
    "note": "New card (debate): Challenger's amendment: deck uses the 'c.' style, and his reason about Al-Biruni and Ibn Sina was wrong. He is the earliest-born item and must be placed before Galileo (1564)."
+  },
+  {
+   "id": null,
+   "Name": "Battle of Tours (Balat al-Shuhada)",
+   "Description": "732 CE - Umayyad advance into France is halted",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Well-known battle missing from the timeline, between Sindh (712) and Talas (751)."
+  },
+  {
+   "id": null,
+   "Name": "Second Battle of Tarain",
+   "Description": "1192 CE - Muhammad Ghori defeats Prithviraj Chauhan",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Key South Asian battle that began Muslim rule in Delhi; accurate and absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Second Battle of Panipat",
+   "Description": "1556 CE - Akbar's forces defeat Hemu",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Mughal battle between the First (1526) and Third (1761) Panipat; description slightly tightened to be safe."
+  },
+  {
+   "id": null,
+   "Name": "Battle of Heliopolis (Conquest of Egypt)",
+   "Description": "640 CE - Amr ibn al-As defeats the Byzantines",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Major Rashidun conquest missing from the timeline, between Yarmouk (636) and the existing later entries; accurate and not a duplicate."
   }
  ]
 }

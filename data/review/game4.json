@@ -3557,13 +3557,13 @@
    "Name": "a llama",
    "Description": "Mendl Weinstock kept a promise he had made five years earlier by bringing ____ as his guest to his sister's wedding.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "a llama",
     "Description": "Mendl Weinstock kept a 5-year-old promise/threat by attending his sister’s wedding with ____ as his guest.",
     "Category": "Final Round"
    },
-   "note": "Debate: Rewords the awkward 'promise/threat' and '5-year-old promise' phrasing.; Debate: Challenger's missed issue: the only remaining blank category among the slice's fact cards."
+   "note": "Debate: Obscure, unverifiable US-local story; the review file has this card as a live edit, so it is not part of a removed pair."
   },
   {
    "id": "game4-275",
@@ -5045,7 +5045,7 @@
     "Description": "You get to pick the next book for our book club! What are you picking?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category."
+   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category."
   },
   {
    "id": "game4-389",
@@ -5058,7 +5058,7 @@
     "Description": "Imagine you were going to a two week camp in the woods... what ONE comfort item would you bring with you?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Hyphenates the compound adjective."
+   "note": "Debate: Hyphenates the compound adjective.; Debate: Personal question missing its category."
   },
   {
    "id": "game4-390",
@@ -5201,7 +5201,7 @@
     "Description": "A sure fire phrase that would cheer you up is \"____\".",
     "Category": "Enough About You"
    },
-   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category."
+   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category."
   },
   {
    "id": "game4-401",
@@ -13696,6 +13696,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Pakistani geography fact, hedged wording, no existing Rakaposhi card."
+  },
+  {
+   "id": null,
+   "Name": "pyramids",
+   "Description": "The African country of Sudan has roughly twice as many ____ as Egypt does.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True and surprising (Sudan has about 200+ pyramids vs roughly 120-140 in Egypt); not a duplicate of the existing pyramid cards."
+  },
+  {
+   "id": null,
+   "Name": "Boaty McBoatface",
+   "Description": "In 2016, an online public vote to name a new British polar research ship was won by the suggestion \"____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, world-famous, clean, and easy to bluff; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the funniest rule your gali cricket group ever invented?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean, Pakistani-relatable personal question; not a duplicate of the existing cricket cards."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What do you usually do the night before a big exam instead of studying?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean, relatable personal question; no exam card exists."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the funniest thing a younger cousin has ever said to you?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family-friendly personal question; no cousin card exists."
   }
  ]
 }

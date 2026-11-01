@@ -1488,7 +1488,7 @@
   {
    "id": "game3-115",
    "Name": "Book Genres",
-   "Description": "Fiction|Non-Fiction|Mystery|Thriller|Adventure|Sci-Fi|Fantasy|Horror|Humour|Poetry|History|Biography|Autobiography|Self-Help|Health|Cookbook|Travel|Islamic|Children's|Science",
+   "Description": "Fiction|Non-Fiction|Mystery|Thriller|Adventure|Sci-Fi|Short Stories|Horror|Humour|Poetry|History|Biography|Autobiography|Self-Help|Health|Cookbook|Travel|Islamic|Children's|Science",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1496,7 +1496,7 @@
     "Description": "Fiction|Non-Fiction|Mystery|Thriller|Romance|Sci-Fi|Fantasy|Horror|Comedy|Drama|Poetry|History|Biography|Autobiography|Memoir|Self-Help|Health|Cookbook|Travel|Guide",
     "Category": ""
    },
-   "note": "grammar; removed Romance/Drama/Memoir, added Islamic, Adventure, Science"
+   "note": "grammar; removed Romance/Drama/Memoir, added Islamic, Adventure, Science; Debate: Corrected idx to 114 (113 is School Supplies); Fantasy replaced with Short Stories."
   },
   {
    "id": "game3-116",
@@ -1774,7 +1774,7 @@
   {
    "id": "game3-137",
    "Name": "Pakistani Archaeological Sites",
-   "Description": "Harappa|Mohenjo Daro|Taxila|Mehrgarh|Takht Bahi|Ranigat|Banbhore|Mansura|Kot Diji|Amri|Rehman Dheri|Rohtas Fort|Attock Fort|Bala Hissar|Jamrud Fort|Sirkap|Jaulian|Katas Raj|Chaukhandi Tombs|Makli",
+   "Description": "Harappa|Mohenjo Daro|Taxila|Mehrgarh|Takht Bahi|Ranigat|Banbhore|Mansura|Kot Diji|Amri|Rehman Dheri|Rohtas Fort|Attock Fort|Bala Hissar|Jamrud Fort|Katas Raj|Chaukhandi Tombs|Makli",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1782,7 +1782,7 @@
     "Description": "Harappa|Mohenjo Daro|Taxila|Mehrgarh|Takht Bahi|Ranigat|Banbhore|Mansura|Debal|Kot Diji|Amri|Rehman Dheri|Sarai Alamgir|Rohtas|Attock|Bala Hissar|Jamrud|Khyber|Bolan|Gomal",
     "Category": ""
    },
-   "note": "removed passes/towns (Khyber, Bolan, Gomal, Sarai Alamgir) and Debal (= Banbhore)"
+   "note": "removed passes/towns (Khyber, Bolan, Gomal, Sarai Alamgir) and Debal (= Banbhore); Debate: Sirkap and Jaulian are parts of Taxila, making the secret word ambiguous."
   },
   {
    "id": "game3-138",
@@ -1852,7 +1852,7 @@
   {
    "id": "game3-143",
    "Name": "Pakistani National Parks",
-   "Description": "Lal Suhanra|Kirthar|Hingol|Khunjerab|Deosai|Ayubia|Margalla Hills|Chitral Gol|Central Karakoram|Saiful Muluk|Lulusar Dudipatsar|Machiara|Broghil Valley|Shandur Hundrup|Ghamot",
+   "Description": "Lal Suhanra|Kirthar|Hingol|Khunjerab|Deosai|Ayubia|Margalla Hills|Chitral Gol|Central Karakoram|Saiful Muluk|Lulusar Dudipatsar|Machiara|Broghil Valley|Hazarganji Chiltan",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1860,7 +1860,7 @@
     "Description": "Lal Suhanra|Kirthar|Hingol|Khunjerab|Deosai|Ayubia|Margalla|Chitral|Swat|Dir|Hazara|Murree|Galiyat|Kaghan|Naran|Neelum|Leepa|Hunza|Gilgit|Skardu",
     "Category": ""
    },
-   "note": "removed places that are not national parks (Swat, Murree, Hunza...); Debate: Challenger amendment: remove only Toli Peer, keep Ghamot"
+   "note": "removed places that are not national parks (Swat, Murree, Hunza...); Debate: Challenger amendment: remove only Toli Peer, keep Ghamot; Debate: Replace obscure Shandur Hundrup/Ghamot with Hazarganji Chiltan; skip Ayub National Park (clashes with Ayubia)."
   },
   {
    "id": "game3-144",
@@ -2203,7 +2203,7 @@
   {
    "id": "game3-170",
    "Name": "Pakistani Charities",
-   "Description": "Edhi|Chhipa|Saylani|Akhuwat|Alkhidmat|JDC|SIUT|TCF|Fatimid|Rizq|LRBT|Al Shifa Trust|Sundas|SOS Village|Dar ul Sukun|Ansar Burney Trust|Shaukat Khanum|Indus Hospital|Pakistan Bait ul Maal|Muslim Hands",
+   "Description": "Edhi|Chhipa|Saylani|Akhuwat|Alkhidmat|JDC|SIUT|TCF|Fatimid Foundation|Rizq|LRBT|Al Shifa Trust|Sundas|SOS Village|Dar ul Sukun|Ansar Burney Trust|Shaukat Khanum|Indus Hospital|Pakistan Bait ul Maal|Muslim Hands",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2211,7 +2211,7 @@
     "Description": "Zakat|Sadaqah|Fitrana|Fidya|Kaffara|Donation|Gift|Aid|Help|Support|Relief|Welfare|Development|Education|Health|Water|Food|Shelter|Clothing|Marriage",
     "Category": ""
    },
-   "note": "list was generic giving words; replaced with real Pakistani charities"
+   "note": "list was generic giving words; replaced with real Pakistani charities; Debate: Bare Fatimid reads as the dynasty; use the full charity name."
   },
   {
    "id": "game3-171",
@@ -2476,7 +2476,7 @@
   {
    "id": "game3-191",
    "Name": "Popular Websites",
-   "Description": "Google|YouTube|Facebook|WhatsApp|Wikipedia|Daraz|OLX|Zameen|PakWheels|Rozee|Amazon|Gmail|LinkedIn|X|Instagram|Quran.com|Sunnah.com|Dawn.com|Google Maps",
+   "Description": "Google|YouTube|Facebook|WhatsApp|Wikipedia|Daraz|OLX|Zameen|PakWheels|Rozee|Amazon|Gmail|LinkedIn|X (Twitter)|Instagram|Quran.com|Sunnah.com|Dawn.com|Google Maps",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2484,7 +2484,7 @@
     "Description": "Google|Facebook|Youtube|Twitter|Instagram|Linkedin|Whatsapp|Tiktok|Snapchat|Pinterest|Reddit|Tumblr|Flickr|Vimeo|Dailymotion|Soundcloud|Spotify|Netflix|Amazon|Daraz",
     "Category": ""
    },
-   "note": "removed Netflix/Spotify/Soundcloud/TikTok etc.; added local sites"
+   "note": "removed Netflix/Spotify/Soundcloud/TikTok etc.; added local sites; Debate: Bare X is unclear as a secret word."
   },
   {
    "id": "game3-192",
@@ -2567,7 +2567,7 @@
   {
    "id": "game3-198",
    "Name": "Draw money.",
-   "Description": "Draw a monkey.|Draw rectangles and circles.|Draw gold coins.|Draw cash.|Draw a piggy bank.|Draw a rupee note.|Draw greed.|Draw a bag of money.|Draw a credit card.",
+   "Description": "Draw a monkey.|Draw rectangles and circles.|Draw gold coins.|Draw cash.|Draw a gullak.|Draw a rupee note.|Draw greed.|Draw a bag of money.|Draw a credit card.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2575,12 +2575,12 @@
     "Description": "Draw a monkey.|Draw rectangles and circles.|Draw gold coins.|Draw cash.|Draw winning the lottery.|Draw a dollar.|Draw greed.|Draw a bag of money.|Draw a credit card.",
     "Category": "Drawing 2"
    },
-   "note": "lottery decoy replaced; dollar -> rupee"
+   "note": "lottery decoy replaced; dollar -> rupee; Debate: Local gullak instead of piggy bank."
   },
   {
    "id": "game3-199",
    "Name": "Draw a duck.",
-   "Description": "Draw almost hitting your head.|Draw a roast chicken.|Draw a swimming dog.|Draw flying south for the winter.|Draw webbed feet.|Draw quacking.|Draw a goose.|Draw a swan.|Draw a pond.",
+   "Description": "Draw ducking under a low beam.|Draw a roast chicken.|Draw a swimming dog.|Draw flying south for the winter.|Draw webbed feet.|Draw quacking.|Draw a goose.|Draw a swan.|Draw a pond.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2588,7 +2588,7 @@
     "Description": "Draw almost hitting your head.|Draw a roast chicken.|Draw a swimming dog.|Draw flying south for the winter.|Draw webbed feet.|Draw quacking.|Draw a goose.|Draw Donald Duck.|Draw Scrooge McDuck.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Donald Duck/Scrooge McDuck decoys"
+   "note": "replaced Donald Duck/Scrooge McDuck decoys; Debate: Clearer duck/duck pun decoy."
   },
   {
    "id": "game3-200",
@@ -2645,7 +2645,7 @@
   {
    "id": "game3-204",
    "Name": "Draw an ancient civilization.",
-   "Description": "Draw a museum.|Draw ruins of an old fort.|Draw a futuristic city.|Draw a cave painting.|Draw the Pyramids of Giza.|Draw an Aztec temple.|Draw ancient Rome.|Draw Neanderthals.",
+   "Description": "Draw a museum.|Draw ruins of an old fort.|Draw a futuristic city.|Draw a cave painting.|Draw the Pyramids of Giza.|Draw Mohenjo Daro.|Draw ancient Rome.|Draw Neanderthals.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2653,7 +2653,7 @@
     "Description": "Draw a costume party.|Draw <i>Jurassic Park</i>.|Draw a futuristic city.|Draw an IKEA.|Draw Gotham City.|Draw the Pyramids of Giza.|Draw an Aztec temple.|Draw ancient Rome.|Draw Neanderthals.",
     "Category": "Drawing 2"
    },
-   "note": "replaced costume party, Jurassic Park, Gotham City, IKEA"
+   "note": "replaced costume party, Jurassic Park, Gotham City, IKEA; Debate: Replace Aztec temple with a locally known Indus Valley decoy."
   },
   {
    "id": "game3-205",
@@ -2671,7 +2671,7 @@
   {
    "id": "game3-206",
    "Name": "Draw a shared starter platter.",
-   "Description": "Draw a plate of samosas.|Draw pakoras with chutney.|Draw a plate of fruit chaat.|Draw a dastarkhwan.|Draw a pot of daal.|Draw chicken wings.|Draw a bowl of soup.|Draw a plate of dates.",
+   "Description": "Draw a plate of samosas.|Draw pakoras with chutney.|Draw a plate of fruit chaat.|Draw a dastarkhwan.|Draw a pot of daal.|Draw a plate of chicken tikka.|Draw a bowl of soup.|Draw a plate of dates.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2679,7 +2679,7 @@
     "Description": "Draw <i>James and the Giant Peach</i>.|Draw a carcass.|Draw “it’s raining tacos.”|Draw chicken wings.|Draw a pot of chili.|Draw nachos.|Draw chips and salsa.|Draw waffles.|Draw soup.",
     "Category": "Drawing 2"
    },
-   "note": "removed book/song refs; localised; Debate: Localise appetizer"
+   "note": "removed book/song refs; localised; Debate: Localise appetizer; Debate: Local chicken tikka instead of chicken wings."
   },
   {
    "id": "game3-207",
@@ -2710,7 +2710,7 @@
   {
    "id": "game3-209",
    "Name": "Draw a tiger.",
-   "Description": "Draw a giant cat.|Draw a lion.|Draw a tiger shark.|Draw a leopard.|Draw a cricketer.|Draw a zoo tiger.|Draw a striped cat.|Draw a tiger cub.|Draw a zebra-lion hybrid.",
+   "Description": "Draw a giant cat.|Draw a lion.|Draw a tiger shark.|Draw a leopard.|Draw a cheetah.|Draw a zoo tiger.|Draw a striped cat.|Draw a tiger cub.|Draw a zebra-lion hybrid.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2718,7 +2718,7 @@
     "Description": "Draw a giant cat.|Draw a skunk.|Draw a tiger shark.|Draw a leopard.|Draw a baseball player.|Draw a zoo tiger.|Draw a striped cat.|Draw Tony the Tiger.|Draw a zebra-lion hybrid.",
     "Category": "Drawing 2"
    },
-   "note": "replaced baseball player, Tony the Tiger; Debate: Replace skunk with lion"
+   "note": "replaced baseball player, Tony the Tiger; Debate: Replace skunk with lion; Debate: Replace unrelated cricketer decoy with a close big cat."
   },
   {
    "id": "game3-210",
@@ -2736,7 +2736,7 @@
   {
    "id": "game3-211",
    "Name": "Draw a fun boat.",
-   "Description": "Draw a whale spout.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the Titanic.|Draw a paddle boat.",
+   "Description": "Draw a ferry to Manora.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the Titanic.|Draw a paddle boat.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2744,7 +2744,7 @@
     "Description": "Draw a whale spout.|Draw a submarine.|Draw a happy duck.|Draw a cruise ship.|Draw a gondola.|Draw a row boat.|Draw the <i>Titanic</i>.|Draw a duck boat.",
     "Category": "Drawing 2"
    },
-   "note": "Debate: 'Duck boat' is a US tour vehicle; replaced with paddle boat."
+   "note": "Debate: 'Duck boat' is a US tour vehicle; replaced with paddle boat.; Debate: Closer local boat decoy than whale spout."
   },
   {
    "id": "game3-212",
@@ -2775,7 +2775,7 @@
   {
    "id": "game3-214",
    "Name": "Draw a chic person.",
-   "Description": "Draw someone in the room.|Draw someone wearing a magnificent hat.|Draw someone with an extremely long scarf.|Draw someone dressed up for a wedding.|Draw a show-off.|Draw a fancy aunty.|Draw a fashion model.|Draw a French woman.",
+   "Description": "Draw someone in the room.|Draw someone wearing a magnificent hat.|Draw someone with an extremely long scarf.|Draw someone dressed up for a wedding.|Draw a show-off.|Draw a fancy aunty.|Draw a fashion model.|Draw someone dressed for Eid.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2783,7 +2783,7 @@
     "Description": "Draw someone in the room.|Draw someone wearing a magnificent hat.|Draw someone with an extremely long scarf.|Draw a very attractive person.|Draw a mean girl.|Draw a celebrity.|Draw a fashion model.|Draw a French woman.|Draw Cruella de Vil.",
     "Category": "Drawing 2"
    },
-   "note": "replaced mean girl, celebrity, Cruella de Vil; Debate: Replace the appearance-focused 'very attractive person' decoy with a close, family-friendly local one."
+   "note": "replaced mean girl, celebrity, Cruella de Vil; Debate: Replace the appearance-focused 'very attractive person' decoy with a close, family-friendly local one.; Debate: Drop French woman stereotype."
   },
   {
    "id": "game3-215",
@@ -2853,7 +2853,7 @@
   {
    "id": "game3-220",
    "Name": "Draw melting snow.",
-   "Description": "Draw a snow angel.|Draw melting ice cream.|Draw water spilling.|Draw a melting ice cube.|Draw a snowball fight.|Draw a melting snowman.|Draw slush.|Draw spring.|Draw melting ice.",
+   "Description": "Draw a snowy mountain.|Draw melting ice cream.|Draw water spilling.|Draw a melting ice cube.|Draw a snowball fight.|Draw a melting snowman.|Draw slush.|Draw spring.|Draw melting ice.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2861,12 +2861,12 @@
     "Description": "Draw a snow angel.|Draw melting ice cream.|Draw water spilling.|Draw a melting ice cube.|Draw a snowball fight.|Draw a melting snowman.|Draw slush.|Draw spring.|Drawing melting ice.",
     "Category": "Drawing 2"
    },
-   "note": "typo"
+   "note": "typo; Debate: Replace US-centric snow angel decoy."
   },
   {
    "id": "game3-221",
    "Name": "Draw a rishta meeting.",
-   "Description": "Draw a wedding.|Draw a fight.|Draw a reunion.|Draw a job interview.|Draw two families having tea.",
+   "Description": "Draw a wedding.|Draw a fight.|Draw a reunion.|Draw a job interview.|Draw a family dinner.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2874,25 +2874,25 @@
     "Description": "Draw two people skydiving.|Draw a fight.|Draw a wedding.|Draw two people holding hands.|Draw kissing.|Draw a destined meeting.|Draw a Rishta meeting.|Draw reunited.|Draw <i>Romeo and Juliet</i>.",
     "Category": "Drawing 2"
    },
-   "note": "romance -> rishta meeting"
+   "note": "romance -> rishta meeting; Debate: Two families having tea is the real scene, not a distinct decoy."
   },
   {
    "id": "game3-222",
    "Name": "Draw Snapchat.",
-   "Description": "Draw Instagram.|Draw a man with rabbit ears.|Draw a selfie.",
+   "Description": "Draw Instagram.|Draw a man with rabbit ears.|Draw a selfie.|Draw a yellow app icon.|Draw TikTok.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw Snapchat.",
     "Description": "Draw Instagram.|Draw a man with rabbit ears.|Draw a selfie.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Add close decoys; only 3 existed."
   },
   {
    "id": "game3-223",
    "Name": "Draw the French Revolution.",
-   "Description": "Draw an angry mob.|Draw the fall of Rome.|Draw a few people wearing berets.|Draw a king losing his crown.|Draw French bread.|Draw the American Revolution.|Draw a battle.|Draw Paris.",
+   "Description": "Draw an angry mob.|Draw the fall of Rome.|Draw a few people wearing berets.|Draw a king losing his crown.|Draw French bread.|Draw the Russian Revolution.|Draw a battle.|Draw Paris.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2900,7 +2900,7 @@
     "Description": "Draw dancers.|Draw the fall of Rome.|Draw a few people wearing berets.|Draw the musical, <i>Les Miserables</i>.|Draw French bread.|Draw the American Revolution.|Draw a battle.|Draw Paris.|Draw Godzilla.",
     "Category": "Drawing 2"
    },
-   "note": "replaced dancers, musical, Godzilla"
+   "note": "replaced dancers, musical, Godzilla; Debate: Replace US-centric American Revolution decoy."
   },
   {
    "id": "game3-224",
@@ -2944,7 +2944,7 @@
   {
    "id": "game3-227",
    "Name": "Draw a pinecone.",
-   "Description": "Draw a pineapple.|Draw a dragon egg.|Draw a spiky ball.",
+   "Description": "Draw a pineapple.|Draw a dragon egg.|Draw a spiky ball.|Draw a sea urchin.|Draw a chilgoza nut.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2952,7 +2952,7 @@
     "Description": "Draw a pineapple.|Draw a dragon egg.|Draw a spikey ball.",
     "Category": "Drawing 2"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Keep allowed dragon egg; add close natural decoys (challenger version)."
   },
   {
    "id": "game3-228",
@@ -12593,6 +12593,78 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New nikah scene card; duplicate words removed."
+  },
+  {
+   "id": null,
+   "Name": "Cities of Punjab",
+   "Description": "Lahore|Faisalabad|Multan|Rawalpindi|Gujranwala|Sialkot|Sargodha|Bahawalpur|Sahiwal|Jhang|Gujrat|Sheikhupura|Kasur|Okara|Rahim Yar Khan|Dera Ghazi Khan|Mianwali|Chiniot|Murree|Attock",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Missing provincial city card; all accurate."
+  },
+  {
+   "id": null,
+   "Name": "Cities of Balochistan",
+   "Description": "Quetta|Gwadar|Turbat|Khuzdar|Sibi|Zhob|Chaman|Loralai|Nushki|Panjgur|Ziarat|Hub|Dera Murad Jamali|Kalat|Mastung|Pishin|Kharan|Gadani|Bela|Ormara",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger version: swap district/obscure words for Gadani and Bela."
+  },
+  {
+   "id": null,
+   "Name": "Cities and Towns of AJK and Gilgit-Baltistan",
+   "Description": "Muzaffarabad|Mirpur|Kotli|Rawalakot|Bagh|Gilgit|Skardu|Chilas|Khaplu|Astore|Gupis|Sost|Karimabad|Bhimber|Pallandri|Athmuqam|Shigar|Gulmit|Aliabad|Dhirkot",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger version: only real towns, no districts or overlapping Hunza."
+  },
+  {
+   "id": null,
+   "Name": "Supermarkets and Retail Chains",
+   "Description": "Imtiaz|Carrefour|Al-Fatah|Metro|Chase Up|Naheed|Rainbow|Jalal Sons|Springs|Utility Stores|Agha's|Bin Hashim|Green Valley",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger version: removed Hyperstar and Makro, which duplicate Carrefour and Metro."
+  },
+  {
+   "id": null,
+   "Name": "Pakistani Clothing Brands",
+   "Description": "Khaadi|Gul Ahmed|Sapphire|Alkaram|Bonanza Satrangi|Nishat Linen|Limelight|Ethnic|Outfitters|Breakout|Cross Stitch|Beechtree|Generation|Zeen|Warda|Edenrobe|Almirah|Ideas|Sefam|Bareeze",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Very familiar topic, distinct from the mixed brands card."
+  },
+  {
+   "id": null,
+   "Name": "Home Appliance Brands",
+   "Description": "Dawlance|Haier|Orient|PEL|Gree|Kenwood|Waves|Samsung|LG|Philips|Panasonic|Singer|Anex|Sogo|Westpoint|Super Asia|Gaba National|Pak Fan|Changhong Ruba|Nasgas",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger version: removed Sony, National and Boss; added local names."
+  },
+  {
+   "id": null,
+   "Name": "Draw a lost child at a mela.",
+   "Description": "Draw a missing person poster.|Draw a child holding a balloon.|Draw a mother searching in a crowd.|Draw a crowded mela.|Draw a child crying.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Distinct local scene with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw waiting for the azan at iftar time.",
+   "Description": "Draw a family at the dastarkhwan.|Draw a hungry person.|Draw breaking the fast with a date.|Draw a person looking at a clock.|Draw a sehri alarm.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Relatable Ramadan scene, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Draw a phone with 1% battery.",
+   "Description": "Draw a power bank.|Draw a charger plugged in.|Draw a phone at 50% battery.|Draw a dead battery.|Draw a phone on a charger with a very long cable.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger version avoids overlap with the existing broken-phone card."
   }
  ]
 }
