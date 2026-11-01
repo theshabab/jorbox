@@ -32,7 +32,7 @@
   {
    "id": "game8-3",
    "Name": "UNLIKELY <---> VERY VERY LIKELY",
-   "Description": "Make up a title for a novel that is this likely to include the line, \"We've got company\"",
+   "Description": "Make up a title for a novel that is this likely to include the line, \"Mehman aa gaye hain\"",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -40,7 +40,7 @@
     "Description": "Make up a title for a movie that is this likely to include the line, \"We've got company\"",
     "Category": "Writing"
    },
-   "note": "movie -> novel"
+   "note": "movie -> novel; Debate: Replaces Western thriller cliche with a local line"
   },
   {
    "id": "game8-4",
@@ -1150,7 +1150,7 @@
   {
    "id": "game8-89",
    "Name": "NOT LIKELY <---> VERY LIKELY",
-   "Description": "Make up a name for a writer who is this likely to have a hit book called \"2 Cool 4 Skool\"",
+   "Description": "Make up a name for a writer who is this likely to have a hit book called \"Topper Banne Ke 10 Raaz\"",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -1158,7 +1158,7 @@
     "Description": "Make up a writer that’s this likely to have a hit book called \"2 Cool 4 Skool\"",
     "Category": "Writing"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: 2 Cool 4 Skool is a BTS album (pop culture); replaced with a local self-help title"
   },
   {
    "id": "game8-90",
@@ -11342,6 +11342,70 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Joint-family house theme is new, local and drawable; only a generic maze card exists."
+  },
+  {
+   "id": null,
+   "Name": "PROPER REPAIR <---> FULL JUGAAD",
+   "Description": "Write a repair-shop sign for a mechanic who fixes things with this much jugaad",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended clear-opposite scale; writing task differs from the existing jugaad drawing card"
+  },
+  {
+   "id": null,
+   "Name": "WEAK SHER <---> WAH WAH!",
+   "Description": "Write a two-line sher for a mushaira that would get this much wah wah from the audience",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local mushaira theme with clear opposite ends"
+  },
+  {
+   "id": null,
+   "Name": "UNFLATTERING <---> VERY FLATTERING",
+   "Description": "Write the caption a shaadi photographer puts under the family group photo that is this flattering",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Amended so scale matches the task"
+  },
+  {
+   "id": null,
+   "Name": "DOCTOR'S ADVICE <---> HAKEEM'S NUSKHA",
+   "Description": "Write a piece of health advice that is this likely to come from a local hakeem",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Amended so the target end is on the right"
+  },
+  {
+   "id": null,
+   "Name": "APOLOGETIC <---> SHAMELESS",
+   "Description": "Write the line a cricket player yells at the neighbour whose window the ball just broke, if the player is this shameless",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Amended so scale and task agree"
+  },
+  {
+   "id": null,
+   "Name": "EMPTY VAN <---> PACKED TO THE ROOF",
+   "Description": "Make up a name for a Hiace van service that is this overcrowded",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Amended to clean opposites"
+  },
+  {
+   "id": null,
+   "Name": "FEW ITEMS <---> FULL MENU",
+   "Description": "Write the menu board of a halwa puri nashta shop that has this many items",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Amended so scale matches the task"
+  },
+  {
+   "id": null,
+   "Name": "MINDS HIS OWN <---> TELLS ALL",
+   "Description": "Write the name of a paan and cold-drink cabin in a mohalla that is this much the local gossip centre",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local mohalla theme, clear opposites"
   }
  ]
 }

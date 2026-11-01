@@ -12846,6 +12846,76 @@
    "Description": "Maqam Ibrahim (Station of Ibrahim)",
    "action": "add",
    "note": "New card (debate): Well-known Hajj knowledge, hedged with 'according to tradition'; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which cereal crop covers the largest farmland area in Pakistan and is the grain behind the daily roti?",
+   "Description": "Wheat",
+   "action": "add",
+   "note": "New card (debate): Accurate; wheat is absent from the deck (rice card 1228 is a different answer)."
+  },
+  {
+   "id": null,
+   "Name": "Which long-grain aromatic rice, grown in Punjab, is one of Pakistan's best-known food exports?",
+   "Description": "Basmati",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani food card; not a duplicate of the world-staple rice card."
+  },
+  {
+   "id": null,
+   "Name": "Which citrus fruit, a mandarin hybrid grown mostly around Sargodha, is one of Pakistan's top fruit exports?",
+   "Description": "Kinnow",
+   "action": "add",
+   "note": "New card (debate): Accurate local fruit card; absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which thick stew of wheat, lentils and shredded meat, cooked for hours, is especially popular in Ramadan and Muharram?",
+   "Description": "Haleem",
+   "action": "add",
+   "note": "New card (debate): Accurate; fits the Pakistani food cards and is absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "To which land did a group of early Muslims migrate first to escape persecution in Makkah, finding refuge with a just king?",
+   "Description": "Abyssinia (modern Ethiopia)",
+   "action": "add",
+   "note": "New card (debate): Well-established seerah fact, respectful, and absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "What title is given to a person who has memorised the whole Quran?",
+   "Description": "Hafiz (Hafiz-e-Quran)",
+   "action": "add",
+   "note": "New card (debate): Challenger's simpler wording is clearer than the proposed version; the fact is common Islamic knowledge and absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Islamabad lies at the foot of which range of green hills?",
+   "Description": "Margalla Hills",
+   "action": "add",
+   "note": "New card (debate): Accurate, easy Pakistan geography card; absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Punjabi Sufi poet, buried in Kasur, wrote the famous kafi 'Bulleya ki jaana main kaun'?",
+   "Description": "Bulleh Shah",
+   "action": "add",
+   "note": "New card (debate): Accurate; adds a Punjabi Sufi poet and is absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which language is the mother tongue of the largest share of Pakistanis?",
+   "Description": "Punjabi",
+   "action": "add",
+   "note": "New card (debate): Accurate and a good surprise question; no Punjabi card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which 17th-century Pashtun Sufi poet, whose shrine lies near Peshawar, is beloved for verses of peace and love for humanity?",
+   "Description": "Rehman Baba",
+   "action": "add",
+   "note": "New card (debate): Accurate (shrine at Hazar Khwani near Peshawar); adds Pashtun literary balance and is absent from the deck."
   }
  ]
 }
