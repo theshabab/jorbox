@@ -7743,13 +7743,13 @@
    "Name": "Well-known fact <---> Little-known fact",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Well known fact <---> Little known fact",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": "Debate: Adds the hyphens these compound adjectives need."
+   "note": "Debate: Same scale as 'Public knowledge <---> Secret' (game8-591, live keep)."
   },
   {
    "id": "game8-597",
@@ -7782,13 +7782,13 @@
    "Name": "Skill <---> Talent",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Skill <---> Talent",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Ends are not clear opposites."
   },
   {
    "id": "game8-600",
@@ -8380,13 +8380,13 @@
    "Name": "Green <---> Blue",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Green <---> Blue- blue man group",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": "stray band reference removed"
+   "note": "Debate: Two colours are not opposites; scale is meaningless."
   },
   {
    "id": "game8-646",
@@ -11102,6 +11102,86 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Challenger's amendment: impatience has real opposites, unlike hunger just before iftar."
+  },
+  {
+   "id": null,
+   "Name": "Dadi's nuskha <---> Doctor's prescription",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local, clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "Gets done by sifarish <---> Gets done on merit",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Desi, clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "Best sehri item <---> Worst sehri item",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fits the existing iftar scale."
+  },
+  {
+   "id": null,
+   "Name": "Tastes better the next day <---> Tastes worse the next day",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Easy, relatable food debate."
+  },
+  {
+   "id": null,
+   "Name": "Good thing to bring to a dawat <---> Bad thing to bring to a dawat",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable local social scale."
+  },
+  {
+   "id": null,
+   "Name": "Pleasant sound <---> Annoying sound",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Broad, easy, no sound scale exists."
+  },
+  {
+   "id": null,
+   "Name": "Better in the rain <---> Ruined by the rain",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable monsoon scale, distinct from existing rain cards."
+  },
+  {
+   "id": null,
+   "Name": "Fixed with jugaad <---> Needs a proper repair",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny, desi, clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "Good excuse <---> Bad excuse",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Easy generic scale, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Better with age <---> Worse with age",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear opposites, easy to answer."
   }
  ]
 }

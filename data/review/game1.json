@@ -4933,7 +4933,7 @@
   {
    "id": "game1-380",
    "Name": "Turquoise",
-   "Description": "Blue-green gemstone colour",
+   "Description": "Firoza; blue-green gemstone colour",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -4941,7 +4941,7 @@
     "Description": "A blue-green color",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Firoza is the standard Urdu word for turquoise and the gemstone clue is accurate. The hint follows the deck's 'LocalWord; clue' pattern."
   },
   {
    "id": "game1-381",
@@ -5037,7 +5037,7 @@
   {
    "id": "game1-388",
    "Name": "Cyan",
-   "Description": "Bright greenish-blue",
+   "Description": "Printer-ink blue; the C in CMYK",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -5045,7 +5045,7 @@
     "Description": "A blue-green",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger's amendment accepted: the old hint was near-identical to Turquoise's. Dropping 'blue-green' keeps the two hints distinct from P2's Turquoise wording."
   },
   {
    "id": "game1-389",
@@ -5453,7 +5453,7 @@
   {
    "id": "game1-420",
    "Name": "Bangle",
-   "Description": "Glass or gold wrist circle",
+   "Description": "Churi; glass or gold wrist circle",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5461,7 +5461,7 @@
     "Description": "A wrist ornament",
     "Category": "Jewelry"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Churi is the standard Urdu/Punjabi word for a bangle and is recognised by players. The hint does not contain the card name."
   },
   {
    "id": "game1-421",

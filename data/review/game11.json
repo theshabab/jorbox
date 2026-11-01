@@ -7097,16 +7097,16 @@
   {
    "id": null,
    "Name": "Customer",
-   "Description": "Marathon Runner",
+   "Description": "Morning Walker (Park Uncle)",
    "action": "add",
-   "note": "New card (debate): Not in deck."
+   "note": "New card (debate): Not in deck.; Debate: Replaces Marathon Runner, which overlaps Olympic Athlete, with a recognisable local type."
   },
   {
    "id": null,
    "Name": "Customer",
    "Description": "Surgeon",
-   "action": "add",
-   "note": "New card (debate): Distinct from Doctor/Dentist; mildly dark is allowed."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of Doctor (game11-392), which is live."
   },
   {
    "id": null,
@@ -7132,9 +7132,9 @@
   {
    "id": null,
    "Name": "Customer",
-   "Description": "Sailor",
+   "Description": "Navy Sailor",
    "action": "add",
-   "note": "New card (debate): More recognisable than Lighthouse Keeper."
+   "note": "New card (debate): More recognisable than Lighthouse Keeper.; Debate: Plain Sailor overlaps Fisherman/Pirate; Navy Sailor is clearer and local."
   },
   {
    "id": null,
@@ -8129,6 +8129,55 @@
    "Description": "CSS Aspirant",
    "action": "add",
    "note": "New card (debate): Very recognisable Pakistani type not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Churi Wala (Bangle Seller)",
+   "action": "add",
+   "note": "New card (debate): Recognisable Eid and Chaand Raat vendor; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Sarkari Babu (Government Clerk)",
+   "action": "add",
+   "note": "New card (debate): Recognisable Pakistani office type; distinct from Patwari and Office Boy."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Tasbeeh Seller outside the Masjid",
+   "action": "add",
+   "note": "New card (debate): Local, respectful, new to deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Sialkot Football Stitcher",
+   "action": "add",
+   "note": "New card (debate): Distinctive local worker; new to deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Ghar Damad (Son-in-law)",
+   "action": "add",
+   "note": "New card (debate): Common family role; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always forget my _____ at home when I leave for Jummah!",
+   "action": "add",
+   "note": "New card (debate): Relatable; no live Jummah-forgetting card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The family WhatsApp group went silent when I mentioned _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing WhatsApp cards (removal, sharing, Jummah pictures)."
   }
  ]
 }
