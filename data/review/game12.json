@@ -11399,6 +11399,42 @@
    "Name": "Lungi",
    "action": "add",
    "note": "New card (debate): Common local garment, easy to act, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Tawaf",
+   "action": "add",
+   "note": "New card (debate): Distinct actable Islamic noun; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Bullock Cart",
+   "action": "add",
+   "note": "New card (debate): Village-flavored, guessable, distinct from Cart."
+  },
+  {
+   "id": null,
+   "Name": "Mirage",
+   "action": "add",
+   "note": "New card (debate): Clean noun, fits Desert theme; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Thimble",
+   "action": "add",
+   "note": "New card (debate): Concrete noun, pairs with Sewing Machine; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Sieve",
+   "action": "add",
+   "note": "New card (debate): Common kitchen noun; no Channi card exists."
+  },
+  {
+   "id": null,
+   "Name": "Bulbul",
+   "action": "add",
+   "note": "New card (debate): Familiar bird from Urdu poetry; distinct from Paranda."
   }
  ]
 }

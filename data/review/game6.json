@@ -4514,6 +4514,54 @@
    "Description": "Things You Put Into a Sandwich or Roll",
    "action": "add",
    "note": "New card (debate): Local-twist food card with many answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Pour",
+   "action": "add",
+   "note": "New card (debate): Many easy answers, no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Chew",
+   "action": "add",
+   "note": "New card (debate): Paan, gum, supari, gannay, saunf, toffee and similar. Clean, and not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Blow",
+   "action": "add",
+   "note": "New card (debate): Balloon, candle, whistle, bubbles, horn, shehnai. Easy, and not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Tie",
+   "action": "add",
+   "note": "New card (debate): Shoelaces, naara, dupatta, turban, rope and more. Has a local frame, and not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Stir or Mix",
+   "action": "add",
+   "note": "New card (debate): Chai, daal, halwa, batter, lassi, paint. Does not duplicate the cooking cards."
+  },
+  {
+   "id": null,
+   "Description": "Things You Cut",
+   "action": "add",
+   "note": "New card (debate): Very guessable, and not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Push or Pull",
+   "action": "add",
+   "note": "New card (debate): Door, thela, trolley, rope, drawer, cart. Everyday, and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do With Your Feet",
+   "action": "add",
+   "note": "New card (debate): Walk, run, kick, jump, pedal, swim. Mirrors the existing Hands card, and not in the deck."
   }
  ]
 }

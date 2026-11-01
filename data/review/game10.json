@@ -6180,8 +6180,8 @@
   {
    "id": null,
    "Name": "What is the most guests a 'small' wedding can have?",
-   "action": "add",
-   "note": "New card (debate): Challenger's amendment gives a clear upper bound so guest counts are comparable; not a duplicate of 'Big Wedding or Simple Nikkah?'."
+   "action": "remove",
+   "note": "Debate: Open numeric answers almost never match exactly, so it cannot score, and it is not a survey prompt."
   },
   {
    "id": null,
@@ -7064,6 +7064,42 @@
    "Name": "Name something Dada or Nani does every morning.",
    "action": "add",
    "note": "New card (debate): Challenger's narrower time frame gives more matching answers; distinct from the 'always says' cards."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal that carries loads.",
+   "action": "add",
+   "note": "New card (debate): Donkey, camel, horse and bullock are common, matchable answers for Pakistani players; no similar card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you wear to Jummah prayer.",
+   "action": "add",
+   "note": "New card (debate): Topi, kurta, shalwar kameez, chappal and attar are common answers; distinct from the 'do on Jummah' card."
+  },
+  {
+   "id": null,
+   "Name": "Name something people give to the needy in Ramazan.",
+   "action": "add",
+   "note": "New card (debate): Challenger's simpler wording accepted; fitrana, ration, iftar food and clothes. Distinct from the sadaqah and charity-organisation cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a province of Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Easy matching prompt with a few well-known answers; the deck has only city-level cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something that slows down traffic in Pakistani cities.",
+   "action": "add",
+   "note": "New card (debate): Speed breakers, rickshaws, rallies, rain and animals are shared experiences; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a drink sold at a roadside stall in summer.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording accepted; avoids the cart and doodh soda issues and the existing A/B drink cards."
   }
  ]
 }
