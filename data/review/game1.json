@@ -4842,7 +4842,7 @@
   {
    "id": "game1-373",
    "Name": "Purple",
-   "Description": "Mix of red and blue",
+   "Description": "Colour of baingan and jamun",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -4850,12 +4850,12 @@
     "Description": "A secondary color",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named Red and Blue; new hint is local and guessable."
   },
   {
    "id": "game1-374",
    "Name": "Pink",
-   "Description": "Light red, like roses",
+   "Description": "Shade of Rooh Afza milk",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -4863,7 +4863,7 @@
     "Description": "A light color",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named 'red', a sibling card; new hint is local and accurate."
   },
   {
    "id": "game1-375",
@@ -5024,7 +5024,7 @@
   {
    "id": "game1-387",
    "Name": "Magenta",
-   "Description": "Bright purplish-pink",
+   "Description": "Vivid shade of bougainvillea flowers",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -5032,7 +5032,7 @@
     "Description": "A pink-purple",
     "Category": "Colors"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named pink and purple; bougainvillea is common and accurately magenta."
   },
   {
    "id": "game1-388",
@@ -5076,7 +5076,7 @@
   {
    "id": "game1-391",
    "Name": "Navy",
-   "Description": "Very dark blue, almost black",
+   "Description": "Dark colour of sailor uniforms and school blazers",
    "Category": "Colors",
    "action": "edit",
    "original": {
@@ -5084,7 +5084,7 @@
     "Description": "A dark blue",
     "Category": "Colors"
    },
-   "note": "Specific hint; Debate: Challenger amendment: school blazers come in many colours; states the shade itself"
+   "note": "Specific hint; Debate: Challenger amendment: school blazers come in many colours; states the shade itself; Debate: Old hint named blue and black; the challenger's amendment is more specific to Navy than the proposer's loose school-uniform clue."
   },
   {
    "id": "game1-392",
@@ -5167,7 +5167,7 @@
   {
    "id": "game1-398",
    "Name": "Hand",
-   "Description": "Ends in five fingers",
+   "Description": "You wave and shake it in greeting",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5175,7 +5175,7 @@
     "Description": "Upper limb",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named 'fingers', a sibling card."
   },
   {
    "id": "game1-399",
@@ -5219,7 +5219,7 @@
   {
    "id": "game1-402",
    "Name": "Finger",
-   "Description": "Five on each hand",
+   "Description": "Used to point; ten in total",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5227,7 +5227,7 @@
     "Description": "Hand part",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named 'hand', a sibling card; consistent with P6. Hint-only edit."
   },
   {
    "id": "game1-403",
@@ -5258,7 +5258,7 @@
   {
    "id": "game1-405",
    "Name": "Elbow",
-   "Description": "Joint in the middle of the arm",
+   "Description": "Bendy joint you lean on a desk with",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5266,12 +5266,12 @@
     "Description": "Arm joint",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named 'arm', a sibling card; same leak fixed in P5 and P7."
   },
   {
    "id": "game1-406",
    "Name": "Shoulder",
-   "Description": "Joint where arm meets body",
+   "Description": "Joint where a bag strap rests",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5279,7 +5279,7 @@
     "Description": "Upper body part",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named 'arm', a sibling card."
   },
   {
    "id": "game1-407",
@@ -5297,7 +5297,7 @@
   {
    "id": "game1-408",
    "Name": "Hair",
-   "Description": "Grows on the head",
+   "Description": "Grows from the scalp; combed daily",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5305,7 +5305,7 @@
     "Description": "Head covering",
     "Category": "Body Parts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named 'head', a sibling card."
   },
   {
    "id": "game1-409",

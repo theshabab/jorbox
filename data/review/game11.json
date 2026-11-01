@@ -8605,6 +8605,13 @@
    "Description": "My relatives post my childhood photo with _____ on the family group every birthday!",
    "action": "add",
    "note": "New card (debate): Relatable and distinct from other family-group cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Nobody in the house will go to the market to buy _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable household complaint with an open blank. A search of the review file and slice found no market-errand card."
   }
  ]
 }

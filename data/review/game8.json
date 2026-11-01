@@ -11678,6 +11678,62 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Generators are new to the deck (no match found); amended ends are cleaner."
+  },
+  {
+   "id": null,
+   "Name": "SAGS TO THE FLOOR <---> DRUM TIGHT",
+   "Description": "Draw an uncle lying on a charpai whose ropes are this loose or tight",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New local object, clear opposites, drawable; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "ONE GLASS <---> ENDLESS REFILLS",
+   "Description": "Write the sign for a ganna juice stall that offers this many refills",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New street-food scale with a concrete writing task."
+  },
+  {
+   "id": null,
+   "Name": "FOUND THE TORCH <---> LOST IN THE DARK",
+   "Description": "Write what Abbu shouts during a blackout when he is this lost in the dark",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Distinct blackout scene, relatable and writable."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> DRENCHED IN CHAAT MASALA",
+   "Description": "Draw a plate of roadside amrood slices with this much chaat masala on it",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New local snack, clear and drawable."
+  },
+  {
+   "id": null,
+   "Name": "LOOSE <---> BUTTONS ABOUT TO FLY",
+   "Description": "Draw a dulha's sherwani that fits this tightly after weeks of dawats",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New shaadi object, clear funny scale."
+  },
+  {
+   "id": null,
+   "Name": "INDOOR VOICE <---> WHOLE BUILDING HEARS",
+   "Description": "Write what Ammi shouts from the balcony to call a kid in for dinner that is this loud",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family scene, clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "OPENS ON TIME <---> OPENS AT NOON",
+   "Description": "Write the sign a bazaar shopkeeper hangs on his shutter explaining why he opened this late",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version removes the inaccurate Fajr framing and has clean opposites."
   }
  ]
 }
