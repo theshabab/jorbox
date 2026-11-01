@@ -1274,12 +1274,12 @@
   },
   {
    "id": "game10-142",
-   "Name": "Name a month with 31 days.",
-   "action": "keep",
+   "Name": "Name your favourite month of the year.",
+   "action": "edit",
    "original": {
     "Name": "Name a month with 31 days."
    },
-   "note": ""
+   "note": "Debate: Months with 31 days has seven correct answers, so matching is poor. Favourite month gives fun clusters (Ramadan, December) and has no duplicate in the deck."
   },
   {
    "id": "game10-143",
@@ -1968,11 +1968,11 @@
   {
    "id": "game10-219",
    "Name": "What is the best hairstyle?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the best hairstyle?"
    },
-   "note": ""
+   "note": "Debate: No common answers to match, so it is unplayable as a survey prompt. It is not part of a duplicate pair."
   },
   {
    "id": "game10-220",
@@ -7328,6 +7328,24 @@
    "Name": "Camera Roll: Selfies or Food Photos?",
    "action": "add",
    "note": "New card (debate): Allowed social-media topic, fits the 'Topic: A or B?' format; the only photo card is 'Photos: Posed or Candid?', which is a different pair."
+  },
+  {
+   "id": null,
+   "Name": "Name something people complain about in summer.",
+   "action": "add",
+   "note": "New card (debate): Not a duplicate. The nearby cards (breaks down in summer, keeps you cool) differ. It gives common answers such as heat, loadshedding, bills and mosquitoes."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of paratha.",
+   "action": "add",
+   "note": "New card (debate): Not a duplicate. The deck has only stuffed-paratha fillings and the paratha breakfast choices. Answers such as aloo, lachha and plain are common."
+  },
+  {
+   "id": null,
+   "Name": "Name something you put chaat masala on.",
+   "action": "add",
+   "note": "New card (debate): Not a duplicate of the fruit chaat or paratha filling cards. Fruit, fries, chana and papri give matchable answers."
   }
  ]
 }

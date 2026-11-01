@@ -4673,9 +4673,9 @@
   },
   {
    "id": null,
-   "Description": "Things With Strings (Dori) (Kite, Tasbeeh, Shoelaces...)",
+   "Description": "Things With Strings or Dori (Kite, Tasbeeh, Shoelaces...)",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment avoids the redundant 'Strings or Dori' and matches the deck's English (Urdu) style.; Debate: Corrected idx (666 is the saag dishes). Hints steer away from the obvious musical-instrument answers."
+   "note": "New card (debate): Challenger's amendment avoids the redundant 'Strings or Dori' and matches the deck's English (Urdu) style.; Debate: Corrected idx (666 is the saag dishes). Hints steer away from the obvious musical-instrument answers.; Debate: Removes the awkward double bracket; harmless redundancy."
   },
   {
    "id": null,
@@ -4769,9 +4769,9 @@
   },
   {
    "id": null,
-   "Description": "Types of Khajoor (Dates): Ajwa, Mabroom, Sukkari...",
+   "Description": "Types of Khajoor (Ajwa, Mabroom, Sukkari...)",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment: naming Khajoor first avoids confusion with calendar dates. Many known varieties and familiar at Iftar. Not in the deck."
+   "note": "New card (debate): Challenger's amendment: naming Khajoor first avoids confusion with calendar dates. Many known varieties and familiar at Iftar. Not in the deck.; Debate: Challenger's amendment: single bracket, no double parentheses, and no calendar-date confusion."
   },
   {
    "id": null,
@@ -4904,6 +4904,30 @@
    "Description": "Acts of Wudu (Wash Hands, Rinse Mouth, Wipe Head...)",
    "action": "add",
    "note": "New card (debate): Roughly 10 well-known steps that everyone can answer, and worship themes are allowed. It is not a duplicate of the Namaz objects card. A grep found only wudu mentions in notes and other cards' text."
+  },
+  {
+   "id": null,
+   "Description": "Things in a Courtroom (Adalat)",
+   "action": "add",
+   "note": "New card (debate): Setting card with many answers; different from the institutions-based 'Pakistani Courts' card."
+  },
+  {
+   "id": null,
+   "Description": "Things That Come in Boxes",
+   "action": "add",
+   "note": "New card (debate): Many easy answers; not a duplicate of the bottles/packets cards."
+  },
+  {
+   "id": null,
+   "Description": "Things With Screens",
+   "action": "add",
+   "note": "New card (debate): Broad property card with many answers beyond Electronic Devices (ATM, microwave, washing machine)."
+  },
+  {
+   "id": null,
+   "Description": "Things You Set",
+   "action": "add",
+   "note": "New card (debate): Challenger's example-free version matches the Things You Tie/Pour/Cut format; many answers."
   }
  ]
 }

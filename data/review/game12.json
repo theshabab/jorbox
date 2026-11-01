@@ -11807,6 +11807,42 @@
    "Name": "Syringe",
    "action": "add",
    "note": "New card (debate): Easy to act out, not in deck, and Injection is not live."
+  },
+  {
+   "id": null,
+   "Name": "Kachori",
+   "action": "add",
+   "note": "New card (debate): Familiar desi snack, absent from deck and review adds, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Barfi",
+   "action": "add",
+   "note": "New card (debate): Distinct, well-known mithai absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Rabri",
+   "action": "add",
+   "note": "New card (debate): Recognisable dessert absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Haveli",
+   "action": "add",
+   "note": "New card (debate): Recognisable, drawable place absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Chikoo",
+   "action": "add",
+   "note": "New card (debate): Common local fruit absent from deck, standard spelling."
+  },
+  {
+   "id": null,
+   "Name": "Mochi",
+   "action": "add",
+   "note": "New card (debate): Recognisable Pakistani trade, fits Darzi/Dhobi, distinct from Shoes."
   }
  ]
 }
