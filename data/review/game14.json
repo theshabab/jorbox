@@ -654,14 +654,14 @@
   },
   {
    "id": "game14-60",
-   "Description": "How many slices of pizza can you eat in one sitting?",
+   "Description": "How many pieces of chicken tikka can you eat in one sitting?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many slices of pizza can you eat in one sitting?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Local food frame, same funny big-eater numbers."
   },
   {
    "id": "game14-61",
@@ -1118,12 +1118,12 @@
    "id": "game14-102",
    "Description": "How many times have you had lucid dreams?",
    "Category": "Number",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How many times have you had lucid dreams?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Obscure concept; most players cannot count it."
   },
   {
    "id": "game14-103",
@@ -7006,6 +7006,41 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Distinct from Eid outfit count and tailor-chasing cards; funny and relatable."
+  },
+  {
+   "id": null,
+   "Description": "How many jars of achaar are in your kitchen right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local, answerable household count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to pretend you did not hear when someone asks you to bring water?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable and clean."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been stuck at a railway crossing waiting for a train to pass?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Common local experience, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take a different route just to avoid a traffic jam you heard about on WhatsApp?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local flavour, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to say no the first time when someone offers you tea or a cold drink at their home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended likelihood version is answerable and avoids the count problem."
   }
  ]
 }

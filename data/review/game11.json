@@ -8444,6 +8444,48 @@
    "Description": "My hostel roommate keeps using my _____ without asking!",
    "action": "add",
    "note": "New card (debate): Relatable student complaint; works with the blank as a possession."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Gas Cylinder Wala",
+   "action": "add",
+   "note": "New card (debate): Distinct local figure, not a live customer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Nihari Wala",
+   "action": "add",
+   "note": "New card (debate): Recognisable food seller, no nihari customer exists."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Photocopy Shop Owner",
+   "action": "add",
+   "note": "New card (debate): Familiar and not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Hiace Wagon Driver",
+   "action": "add",
+   "note": "New card (debate): Distinct from rickshaw, school van, truck and tractor drivers."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Ammi wakes me up for Fajr by threatening to throw _____ on me!",
+   "action": "add",
+   "note": "New card (debate): Distinct family-life angle from the missed-Fajr card; fillable blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every photocopy I take comes out with a big black patch over _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct from the office printer card; pairs with the photocopy customer."
   }
  ]
 }

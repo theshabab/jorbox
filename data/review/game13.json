@@ -6416,9 +6416,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you how many days a month of Ramadan can last.",
+   "Description": "Get a player to tell you how many days Ramadan lasts, depending on the moon.",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment accepted: removes the answer options from the mission text."
+   "note": "New card (debate): Challenger's amendment accepted: removes the answer options from the mission text.; Debate: Challenger's amendment: clarifies the vague wording without revealing the 29/30 answer."
   },
   {
    "id": null,
@@ -6543,8 +6543,8 @@
   {
    "id": null,
    "Description": "Get a player to ask you to pass the raita or chutney.",
-   "action": "add",
-   "note": "New card (debate): Table-etiquette mission, distinct from raita favourite-dish question."
+   "action": "remove",
+   "note": "Debate: Duplicate of live card 860 (pass the achaar), confirmed live in game13.json as an add."
   },
   {
    "id": null,
@@ -6641,6 +6641,48 @@
    "Description": "Get a player to tell you what they do when they hear the azan while busy with something.",
    "action": "add",
    "note": "New card (debate): Worship-related personal question that the owner allows. It differs from the first-azaan-remembered card and the namaz-time card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which angel brought the revelation to the Prophet (peace be upon him).",
+   "action": "add",
+   "note": "New card (debate): Accurate (Jibreel), respectful, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which Islamic month Eid-ul-Fitr falls.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Shawwal), easy, not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which city Allama Iqbal was born.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Sialkot), distinct from the poetry card."
+  },
+  {
+   "id": null,
+   "Description": "Claim that Karachi is the capital of Pakistan and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Clear false claim with correct answer Islamabad; distinct from the largest-city claim (834)."
+  },
+  {
+   "id": null,
+   "Description": "Claim that the Kaaba is in Madinah and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Clearly false (Makkah), not covered by the well card (843)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which Muslim scientist wrote the Book of Optics (Kitab al-Manazir).",
+   "action": "add",
+   "note": "New card (debate): Accurate (Ibn al-Haytham), a specific question distinct from the generic scientist card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they do when the mobile signal or internet drops during an important call.",
+   "action": "add",
+   "note": "New card (debate): Relatable personal question, different from the electricity card."
   }
  ]
 }
