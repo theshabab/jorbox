@@ -7312,7 +7312,7 @@
   {
    "id": "game3-563",
    "Name": "I would make a great Prime Minister.",
-   "Description": "I can be a jerk.|I would make a good cricket captain.|I would make a good dog.",
+   "Description": "I can be a jerk.|I would make a good cricket captain.|I would make a good school principal.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7320,7 +7320,7 @@
     "Description": "I can be a jerk.|I would make a good cult leader.|I would make a good dog.",
     "Category": "Rating"
    },
-   "note": "localised; removed cult decoy"
+   "note": "localised; removed cult decoy; Debate: Off-topic decoy replaced with a close leadership decoy."
   },
   {
    "id": "game3-564",
@@ -7533,15 +7533,15 @@
   {
    "id": "game3-580",
    "Name": "In elections, I tend to vote for the candidate who levitates.",
-   "Description": "I prefer beaches to mountains.|Murder is bad.|I hate politics.|I watch a lot of news.",
+   "Description": "I prefer beaches to mountains.|I always vote on election day.|I hate politics.|I watch a lot of news.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "In elections, I tend to vote for the candidate who levitates.",
     "Description": "I prefer beaches to mountains.|Murder is bad.|I hate politics.|I watch a lot of news.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Irrelevant, jarring decoy replaced with an election-related one."
   },
   {
    "id": "game3-581",
@@ -7780,7 +7780,7 @@
   {
    "id": "game3-599",
    "Name": "Your neighbour accidentally locks themselves out of their house in their pyjamas and asks for help. You would...",
-   "Description": "tell everyone|chase them away|break into their house",
+   "Description": "call a locksmith|tell everyone|help them break in",
    "Category": "Morality",
    "action": "edit",
    "original": {
@@ -7788,20 +7788,20 @@
     "Description": "tell everyone|chase them away|break into their house",
     "Category": "Morality"
    },
-   "note": "modesty: underwear to pyjamas"
+   "note": "modesty: underwear to pyjamas; Debate: Old options were birdhouse leftovers; new ones are distinct and plausible."
   },
   {
    "id": "game3-600",
    "Name": "A bunch of tiny elves move into a tree in your backyard. If you come near them, they hiss and claw at you. You would...",
-   "Description": "tell everyone|lay a trap|break into their house",
+   "Description": "tell everyone|lay a trap|move out",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A bunch of tiny elves move into a tree in your backyard. If you come near them, they hiss and claw at you. You would...",
     "Description": "tell everyone|lay a trap|break into their house",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: 'Break into their house' made no sense for a tree."
   },
   {
    "id": "game3-601",
@@ -7832,28 +7832,28 @@
   {
    "id": "game3-603",
    "Name": "You’re confirming an evening job interview via email. Your last line probably SHOULDN’T be...",
-   "Description": "“See you tonight”|“Hugs are my favorite”|“I’m ticklish”",
+   "Description": "“See you tonight”|“Hugs are my favourite”|“I’m ticklish”",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "You’re confirming an evening job interview via email. Your last line probably SHOULDN’T be...",
     "Description": "“See you tonight”|“Hugs are my favorite”|“I’m ticklish”",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Consistent British/Pakistani spelling."
   },
   {
    "id": "game3-604",
    "Name": "Your child has brought home a creepy, talking doll. You get rid of it when it says to you...",
-   "Description": "“See you tonight”|“I’m ticklish”|“Hugs are my favorite”",
+   "Description": "“See you tonight”|“I’m ticklish”|“Hugs are my favourite”",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Your child has brought home a creepy, talking doll. You get rid of it when it says to you...",
     "Description": "“See you tonight”|“I’m ticklish”|“Hugs are my favorite”",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Consistent British/Pakistani spelling."
   },
   {
    "id": "game3-605",
@@ -7871,7 +7871,7 @@
   {
    "id": "game3-606",
    "Name": "You need to pick a caterer for your walima and all but three are booked. You choose the one known for...",
-   "Description": "bad food|money laundering|health code violations",
+   "Description": "bad food|money laundering|rats in the kitchen",
    "Category": "Morality",
    "action": "edit",
    "original": {
@@ -7879,7 +7879,7 @@
     "Description": "bad food|money laundering|health code violations",
     "Category": "Morality"
    },
-   "note": "rehearsal dinner localised to walima"
+   "note": "rehearsal dinner localised to walima; Debate: Localised Western phrasing."
   },
   {
    "id": "game3-607",
@@ -7899,13 +7899,13 @@
    "Name": "Your town makes any crime legal for one night. You choose...",
    "Description": "jaywalking|money laundering|tax evasion",
    "Category": "Morality",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Your town makes any crime legal for one night. You choose...",
     "Description": "jaywalking|money laundering|health code violations",
     "Category": "Morality"
    },
-   "note": "Debate: Replace US-style 'health code violations'; options still scale mild to serious."
+   "note": "Debate: Duplicate premise of live card 600; options reused in 604/605."
   },
   {
    "id": "game3-609",
@@ -12793,6 +12793,86 @@
    "Category": "Rating",
    "action": "add",
    "note": "New card (debate): Distinct raita opinion with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Ice gola is better than ice cream.",
+   "Description": "I love kulfi.|I prefer sherbet to soft drinks.|I eat from street carts all the time.|I can’t have anything cold in winter.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New local street-food card, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I regret most of my online shopping.",
+   "Description": "I wait for sale days before I buy anything.|I prefer shopping in person to online.|I compare prices on several apps.|I have returned something I ordered online.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable online-shopping card, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I would rather get my clothes stitched by a tailor than buy ready-made.",
+   "Description": "I wait for the sale season to buy clothes.|I have clothes my tailor never finished on time.|I prefer shopping at a mall.|I own more suits than I can wear.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Local darzi theme missing from deck."
+  },
+  {
+   "id": null,
+   "Name": "Voice notes are better than texting.",
+   "Description": "I hate listening to long voice notes.|I prefer calling to texting.|I reply to messages hours late.|I type faster than I talk.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Common WhatsApp habit, no existing prompt card."
+  },
+  {
+   "id": null,
+   "Name": "I try not to miss Jumu’ah prayer.",
+   "Description": "I wear my best clothes on Fridays.|I enjoy listening to the khutbah.|I try to read some Quran every day.|I like going to the masjid.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related personal question; no equivalent card."
+  },
+  {
+   "id": null,
+   "Name": "Everyone else sleeps through the sehri alarm and you are the only one awake. You...",
+   "Description": "wake everyone up|let them sleep|eat quietly on your own",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Fresh Ramadan dilemma with distinct options."
+  },
+  {
+   "id": null,
+   "Name": "Your dadi asks you to teach her WhatsApp for the tenth time. You...",
+   "Description": "teach her patiently|do it for her|say you’ll do it later",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Relatable family scenario, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "You see a child flying a kite with a metal string (dor) on a busy road. You...",
+   "Description": "tell his parents|take the string away|call the police",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Distinct local safety dilemma."
+  },
+  {
+   "id": null,
+   "Name": "Load-shedding hits just as you are about to submit an online assignment. You...",
+   "Description": "use mobile data|beg for an extension|run to a friend’s house",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Different load-shedding scenario from existing card."
+  },
+  {
+   "id": null,
+   "Name": "You see a boy riding a motorbike without a helmet with his little sister in front. You...",
+   "Description": "stay quiet|tell his father|shout at him",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Distinct road-safety dilemma, not a duplicate of the challan card."
   }
  ]
 }

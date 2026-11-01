@@ -9343,7 +9343,7 @@
    "Description": "A single teaspoon of material from a neutron star would weigh about a ____ tonnes.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The number is the surprising part and a better bluffing target than the unit; the figure is accurate.; Debate: Fills missing category."
+   "note": "New card; Debate: The number is the surprising part and a better bluffing target than the unit; the figure is accurate.; Debate: Fills missing category.; Debate: Fills blank category."
   },
   {
    "id": null,
@@ -9396,10 +9396,10 @@
   {
    "id": null,
    "Name": "fingerprints",
-   "Description": "Koalas have ____ so similar to humans' that they could confuse a crime scene.",
-   "Category": "Animal Kingdom",
+   "Description": "Koalas have ____ so similar to humans' that they could confuse detectives at a crime scene.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Clearer wording; fact is true."
   },
   {
    "id": null,
@@ -9407,7 +9407,7 @@
    "Description": "Among birds, the ____ is famous for hovering in mid-air and even flying backwards.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Removes the false 'only bird' claim."
+   "note": "New card; Debate: Removes the false 'only bird' claim.; Debate: Fills blank category."
   },
   {
    "id": null,
@@ -9751,7 +9751,7 @@
    "Description": "The ice lolly on a stick was invented by accident in 1905 by a boy aged just ____ who left his drink outside on a cold night.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff.; Debate: Fills the empty category. The fact (Frank Epperson, aged 11) is correct.; Debate: Fills missing category."
+   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff.; Debate: Fills the empty category. The fact (Frank Epperson, aged 11) is correct.; Debate: Fills missing category.; Debate: Fills blank category."
   },
   {
    "id": null,
@@ -9807,7 +9807,7 @@
    "Description": "Fazlur Rahman Khan, the Dhaka-born engineer whose \"tube\" designs made modern skyscrapers possible, was the structural engineer of Chicago's ____ Tower (now the Willis Tower).",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer.; Debate: Tighter, accurate wording, and fills the empty category.; Debate: Fills missing category."
+   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer.; Debate: Tighter, accurate wording, and fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category."
   },
   {
    "id": null,
@@ -9815,7 +9815,7 @@
    "Description": "Momofuku Ando invented instant noodles in 1958 after experimenting alone in a small shed in his ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Challenger's amendment: 'Japan' was too easy to guess, the backyard shed in Ikeda is true, and the unverified 'months' detail is gone.; Debate: Fills missing category."
+   "note": "New card; Debate: Challenger's amendment: 'Japan' was too easy to guess, the backyard shed in Ikeda is true, and the unverified 'months' detail is gone.; Debate: Fills missing category.; Debate: Fills blank category."
   },
   {
    "id": null,
@@ -9855,7 +9855,7 @@
    "Description": "Sindh's traditional block-printed shawl, dyed in deep red and indigo, is called the ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer.; Debate: Fills the empty category.; Debate: Fills missing category."
+   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer.; Debate: Fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category."
   },
   {
    "id": null,
@@ -9903,7 +9903,7 @@
    "Description": "Pakistan's highest military award, the Nishan-e-Haider, is named after Hazrat Ali (RA), whose title \"Haider\" means ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The old wording gave the answer away. 'Haider' does mean lion, and the honorific is respectful.; Debate: Fills missing category."
+   "note": "New card; Debate: The old wording gave the answer away. 'Haider' does mean lion, and the honorific is respectful.; Debate: Fills missing category.; Debate: Fills blank category."
   },
   {
    "id": null,
@@ -13856,6 +13856,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New, accurate, respectful."
+  },
+  {
+   "id": null,
+   "Name": "rectangular",
+   "Description": "A goat's pupils are not round but ____, which gives it a very wide field of vision.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, new, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "three",
+   "Description": "When the weather is too dry, some snails can sleep for up to ____ years.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, new."
+  },
+  {
+   "id": null,
+   "Name": "storm",
+   "Description": "Jupiter's Great Red Spot, which has been seen for well over a century, is a giant ____ larger than the Earth.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, new, though somewhat guessable."
+  },
+  {
+   "id": null,
+   "Name": "displacement",
+   "Description": "The product name WD-40 stands for \"Water ____, 40th attempt\", the formula the inventors finally got right.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, new."
+  },
+  {
+   "id": null,
+   "Name": "fifth",
+   "Description": "With over 240 million people, Pakistan is the ____ most populous country in the world.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, relevant, new."
+  },
+  {
+   "id": null,
+   "Name": "landlocked",
+   "Description": "Muslim-majority Kazakhstan is the largest ____ country in the world.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, new."
+  },
+  {
+   "id": null,
+   "Name": "90",
+   "Description": "Iran grows roughly ____ percent of all the saffron in the world.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, distinct from the existing saffron card."
   }
  ]
 }

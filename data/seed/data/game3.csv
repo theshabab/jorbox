@@ -438,7 +438,7 @@ I’m obsessed with politics.,I check the news every day.|I call in/text radio s
 I can’t eat dhania (coriander).,I can’t eat peanuts.|I want to go vegan.|I can’t eat baingan.,Rating
 I’m hungry right now.,I’m hungry all the time.|I’m on a diet.|I’m a “foodie.”,Rating
 I can do an excellent British accent.,I enjoy iced tea.|I love to travel.|I can do a good American accent.|I can do a good impression of my teacher.|I’m a sports fan.|I’m a bit of a show-off.,Rating
-I would make a great Prime Minister.,I can be a jerk.|I would make a good cricket captain.|I would make a good dog.,Rating
+I would make a great Prime Minister.,I can be a jerk.|I would make a good cricket captain.|I would make a good school principal.,Rating
 It’s okay to tell a white lie.,It’s okay to lie.|I always tell the truth.|I get a thrill out of lying.,Rating
 I’d like to live in a camper van.,I love camping.|I don’t mind cramped spaces.|I want to see the world.,Rating
 I’d like to live abroad.,I’d like to move to New Zealand.|I love to travel.|I’d like to live in the tropics.|I want to move.|I’d like to live in a camper van.|I’d like to live in China.,Rating
@@ -455,7 +455,7 @@ I want to compete in a half-marathon.,I never have free time.|I worry about the 
 I am superstitious.,I believe in ghosts.|I believe in lucky numbers.|An itchy palm means money is coming.,Rating
 I have amazing fashion sense.,I would read a fashion magazine.|I love coffee.|I own a lot of clothes.|I spend too much on clothes.|I only need one good pair of jeans.|I love shopping.,Rating
 I wish I read more books.,I own a lot of books.|I spend too much time on my phone.|I like reading the newspaper.|Books are my life.|It’s hard to finish a book I started reading.|I’d rather watch a documentary than read a book.,Rating
-"In elections, I tend to vote for the candidate who levitates.",I prefer beaches to mountains.|Murder is bad.|I hate politics.|I watch a lot of news.,Rating
+"In elections, I tend to vote for the candidate who levitates.",I prefer beaches to mountains.|I always vote on election day.|I hate politics.|I watch a lot of news.,Rating
 I made a lot of silly drawings of myself as a half-otter person and now I can’t find them and I’m scared.,I doodle a lot when I’m bored.|I lose important things all the time.|I’m a pretty talented artist.|I often worry about embarrassing things from my past.,Rating
 I am a very passionate person.,I am wiser today than I was five years ago.|Chicken tikka is the best pizza topping.|I have strong opinions about everything.,Rating
 I expect friends to immediately text me back.,I keep my phone on silent.|It’s easy for me to make friends.|I prefer to text rather than call.|I usually have a low phone battery.|I couldn’t go 48 hours without my phone.|I am awkward on the phone.,Rating
@@ -471,16 +471,15 @@ A stranger at a shop is Rs. 300 short of paying for baby milk. You give them...,
 A lady asks you to watch her snarling dog while she runs into a shop. You then...,refuse and leave|agree and stay|agree and leave,Morality
 A lady asks you to watch her invisible gorilla while she runs into a shop. You then...,refuse and leave|agree and stay|agree and leave,Morality
 Some birds are panicked because their babies are stuck in the birdhouse. You would...,tell everyone|chase them away|break into their house,Morality
-Your neighbour accidentally locks themselves out of their house in their pyjamas and asks for help. You would...,tell everyone|chase them away|break into their house,Morality
-"A bunch of tiny elves move into a tree in your backyard. If you come near them, they hiss and claw at you. You would...",tell everyone|lay a trap|break into their house,Morality
+Your neighbour accidentally locks themselves out of their house in their pyjamas and asks for help. You would...,call a locksmith|tell everyone|help them break in,Morality
+"A bunch of tiny elves move into a tree in your backyard. If you come near them, they hiss and claw at you. You would...",tell everyone|lay a trap|move out,Morality
 "All crime is legal for one day. As you approach a red traffic light, you...",stop|continue|slow down,Morality
 A comet is heading on a collision course with Earth. You spend the day...,feasting|reflecting|preparing,Morality
-You’re confirming an evening job interview via email. Your last line probably SHOULDN’T be...,“See you tonight”|“Hugs are my favorite”|“I’m ticklish”,Morality
-"Your child has brought home a creepy, talking doll. You get rid of it when it says to you...",“See you tonight”|“I’m ticklish”|“Hugs are my favorite”,Morality
+You’re confirming an evening job interview via email. Your last line probably SHOULDN’T be...,“See you tonight”|“Hugs are my favourite”|“I’m ticklish”,Morality
+"Your child has brought home a creepy, talking doll. You get rid of it when it says to you...",“See you tonight”|“I’m ticklish”|“Hugs are my favourite”,Morality
 There’s a three-way race for Prime Minister. You vote for the candidate that was once convicted of...,public disturbance|money laundering|tax evasion,Morality
-You need to pick a caterer for your walima and all but three are booked. You choose the one known for...,bad food|money laundering|health code violations,Morality
+You need to pick a caterer for your walima and all but three are booked. You choose the one known for...,bad food|money laundering|rats in the kitchen,Morality
 You find out a burglar is hiding inside your house. You would then...,go out|stay inside and chill|deal with it later,Morality
-Your town makes any crime legal for one night. You choose...,jaywalking|money laundering|tax evasion,Morality
 Your untalented child wants you to drive them to a cricket team trial. You ABSOLUTELY WOULDN’T say...,“I’ll pay you to stop”|“Let’s talk about this”|“Go for it”,Morality
 A hacker wants Rs 50 lakh or they will release your text messages to the world. You would say...,“Go for it”|“Let’s negotiate”|“I’ll pay you to stop”,Morality
 A waiter mistakes you for a famous cricketer. You should...,correct them|go along with it|show off your abilities,Morality
@@ -1048,3 +1047,13 @@ The worst thing to hear when you are hungry is...,The worst thing to hear from a
 The one thing I always forget when leaving the house is...,The first thing I check before leaving home is...|The thing I always keep in my pocket is...|The one thing I never leave home without is...|The most useless thing in my bag is...,Writing
 Paratha with chai is the perfect breakfast.,I skip breakfast most days.|Halwa puri is the best weekend breakfast.|Lassi is better than tea in the morning.|Fried eggs are better than omelettes.,Rating
 Raita is a must with biryani.,Salad is a must with every meal.|I like my biryani extra spicy.|Chutney makes any snack better.|Biryani tastes better eaten by hand.,Rating
+Ice gola is better than ice cream.,I love kulfi.|I prefer sherbet to soft drinks.|I eat from street carts all the time.|I can’t have anything cold in winter.,Rating
+I regret most of my online shopping.,I wait for sale days before I buy anything.|I prefer shopping in person to online.|I compare prices on several apps.|I have returned something I ordered online.,Rating
+I would rather get my clothes stitched by a tailor than buy ready-made.,I wait for the sale season to buy clothes.|I have clothes my tailor never finished on time.|I prefer shopping at a mall.|I own more suits than I can wear.,Rating
+Voice notes are better than texting.,I hate listening to long voice notes.|I prefer calling to texting.|I reply to messages hours late.|I type faster than I talk.,Rating
+I try not to miss Jumu’ah prayer.,I wear my best clothes on Fridays.|I enjoy listening to the khutbah.|I try to read some Quran every day.|I like going to the masjid.,Rating
+Everyone else sleeps through the sehri alarm and you are the only one awake. You...,wake everyone up|let them sleep|eat quietly on your own,Morality
+Your dadi asks you to teach her WhatsApp for the tenth time. You...,teach her patiently|do it for her|say you’ll do it later,Morality
+You see a child flying a kite with a metal string (dor) on a busy road. You...,tell his parents|take the string away|call the police,Morality
+Load-shedding hits just as you are about to submit an online assignment. You...,use mobile data|beg for an extension|run to a friend’s house,Morality
+You see a boy riding a motorbike without a helmet with his little sister in front. You...,stay quiet|tell his father|shout at him,Morality

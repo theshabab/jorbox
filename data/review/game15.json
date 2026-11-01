@@ -31817,6 +31817,78 @@
    "Category": "World Cities By Date Founded",
    "action": "add",
    "note": "New card (debate): Challenger's amended version states what 1960 marks, so the reveal is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Objectives Resolution",
+   "Description": "1949 - passed 12 March by the first Constituent Assembly",
+   "Category": "Pakistan's Constitutional Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate, year-free name, new category"
+  },
+  {
+   "id": null,
+   "Name": "First Constitution of Pakistan",
+   "Description": "1956 - 23 March, Pakistan becomes an Islamic Republic",
+   "Category": "Pakistan's Constitutional Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: name no longer reveals the year"
+  },
+  {
+   "id": null,
+   "Name": "Ayub Khan's Presidential Constitution",
+   "Description": "1962 - introduced presidential rule",
+   "Category": "Pakistan's Constitutional Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: year-free name"
+  },
+  {
+   "id": null,
+   "Name": "The Current Constitution",
+   "Description": "1973 - adopted 10 April, still in force today",
+   "Category": "Pakistan's Constitutional Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: year-free name"
+  },
+  {
+   "id": null,
+   "Name": "Boil Water",
+   "Description": "1st - heat water in the pateeli",
+   "Category": "Making Chai (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Relatable step-order category, no duplicate"
+  },
+  {
+   "id": null,
+   "Name": "Add Chai Patti",
+   "Description": "2nd - drop the tea leaves into the boiling water",
+   "Category": "Making Chai (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Valid step"
+  },
+  {
+   "id": null,
+   "Name": "Pour in Milk",
+   "Description": "3rd - add milk to the brewed tea",
+   "Category": "Making Chai (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Valid step"
+  },
+  {
+   "id": null,
+   "Name": "Simmer",
+   "Description": "4th - let it bubble until dark and creamy",
+   "Category": "Making Chai (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Valid step"
+  },
+  {
+   "id": null,
+   "Name": "Strain and Serve",
+   "Description": "5th - pour through the chalni into cups",
+   "Category": "Making Chai (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Valid final step"
   }
  ]
 }
