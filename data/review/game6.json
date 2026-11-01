@@ -4424,6 +4424,42 @@
    "Description": "Things You Buy Before Ramadan Starts",
    "action": "add",
    "note": "New card (debate): Money and community, local; distinct from Things We Do in Ramadan and Iftar Foods."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Crunchy",
+   "action": "add",
+   "note": "New card (debate): Not in deck, many easy local answers, fits the texture run."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Slippery",
+   "action": "add",
+   "note": "New card (debate): Not in deck, easy answers, distinct from Wet/Smooth."
+  },
+  {
+   "id": null,
+   "Description": "Things Made of Stone (Pathar)",
+   "action": "add",
+   "note": "New card (debate): Challenger's narrower amendment accepted: single clear material completing the Made-of series; avoids wrong tandoor/mazar examples and construction overlap."
+  },
+  {
+   "id": null,
+   "Description": "Things in a Sehan (Courtyard)",
+   "action": "add",
+   "note": "New card (debate): Familiar local setting, many answers; sehan only appears as an answer elsewhere, not as a category."
+  },
+  {
+   "id": null,
+   "Description": "Things You Fill In on a Form",
+   "action": "add",
+   "note": "New card (debate): Clear fail point, familiar bureaucracy theme, 8+ answers."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do With Your Hands",
+   "action": "add",
+   "note": "New card (debate): Broad, easy, forgiving; no equivalent in deck."
   }
  ]
 }

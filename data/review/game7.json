@@ -2678,25 +2678,25 @@
   },
   {
    "id": "game7-244",
-   "Description": "snakes on steaks",
+   "Description": "snakes slithering across a plate of steaks",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "snakes on steaks",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the film-title parody while keeping a visual."
   },
   {
    "id": "game7-245",
    "Description": "chaos!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "chaos!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Abstract one-word prompt, not drawable."
   },
   {
    "id": "game7-246",
@@ -2744,14 +2744,14 @@
   },
   {
    "id": "game7-250",
-   "Description": "tim machine",
+   "Description": "a time machine that only goes back five minutes",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "tim machine",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fixes the typo-like 'tim machine' into a clear, drawable idea."
   },
   {
    "id": "game7-251",
@@ -3010,12 +3010,12 @@
    "id": "game7-274",
    "Description": "denim mummy meets venom mommy",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "denim mummy meets venom mommy",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Obscure western pop-culture pun, not drawable."
   },
   {
    "id": "game7-275",
@@ -3109,12 +3109,12 @@
    "id": "game7-283",
    "Description": "gasp!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "gasp!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Undrawable single exclamation."
   },
   {
    "id": "game7-284",
@@ -3153,12 +3153,12 @@
    "id": "game7-287",
    "Description": "two bugs on a doug",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "two bugs on a doug",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Meaningless in-joke with no drawable image."
   },
   {
    "id": "game7-288",
@@ -3197,12 +3197,12 @@
    "id": "game7-291",
    "Description": "seems kinda vague",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "seems kinda vague",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Abstract phrase that cannot be drawn."
   },
   {
    "id": "game7-292",
@@ -3448,14 +3448,14 @@
   },
   {
    "id": "game7-314",
-   "Description": "broke Monopoly man",
+   "Description": "a broke seth sahab emptying his pockets of lint",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "broke monopoly man",
     "Category": "Standard Prompts"
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: Local, more drawable replacement for the Monopoly mascot."
   },
   {
    "id": "game7-315",
@@ -20658,6 +20658,69 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Affectionate social media angle, different from the existing forward card."
+  },
+  {
+   "id": null,
+   "Description": "kabaddi players all holding on to one very calm goat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local sport prompt, clean and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a falooda glass so tall it needs a bamboo pole for a straw",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local dessert prompt, drawable."
+  },
+  {
+   "id": null,
+   "Description": "a bangle seller tiptoeing across a floor of glass bangles",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New bazaar prompt, drawable."
+  },
+  {
+   "id": null,
+   "Description": "a nazar battu so scary it frightens the whole neighbourhood",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Allowed nazar humour, using the challenger's wording to avoid appearance jokes."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> sitting on the plastic-covered sofa that nobody is allowed to sit on",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, relatable desi household Friend Mode prompt."
+  },
+  {
+   "id": null,
+   "Description": "a sherwani with a train longer than the baraat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Wedding wear prompt, new and drawable."
+  },
+  {
+   "id": null,
+   "Description": "forty school kids hanging off one rickshaw like grapes on a vine",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local and drawable, using the clearer simile."
+  },
+  {
+   "id": null,
+   "Description": "a tailor sewing a shalwar big enough for a camel",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local scale gag, distinct from the giraffe-tailor card."
+  },
+  {
+   "id": null,
+   "Description": "a cockroach doing a victory lap after the chappal missed",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable desi household humour, drawable."
   }
  ]
 }

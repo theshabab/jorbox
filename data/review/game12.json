@@ -7449,11 +7449,11 @@
   {
    "id": "game12-828",
    "Name": "Notepad",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Notepad"
    },
-   "note": ""
+   "note": "Debate: Duplicate of Notebook (game12-899), which is live (keep)."
   },
   {
    "id": "game12-829",
@@ -11333,6 +11333,42 @@
    "Name": "Blue Mosque",
    "action": "add",
    "note": "New card (debate): Not in deck; easy to draw landmark."
+  },
+  {
+   "id": null,
+   "Name": "Janamaz",
+   "action": "add",
+   "note": "New card (debate): Household prayer mat, fits the audience, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Handkerchief",
+   "action": "add",
+   "note": "New card (debate): Everyday object, easy to act out, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Pliers",
+   "action": "add",
+   "note": "New card (debate): Tool not in deck, fits the tool theme."
+  },
+  {
+   "id": null,
+   "Name": "Funnel",
+   "action": "add",
+   "note": "New card (debate): Concrete drawable object, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Abacus",
+   "action": "add",
+   "note": "New card (debate): Easy to draw classroom object, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Peeler",
+   "action": "add",
+   "note": "New card (debate): Kitchen tool not in deck."
   }
  ]
 }
