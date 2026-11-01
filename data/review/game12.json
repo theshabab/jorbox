@@ -8376,11 +8376,11 @@
   {
    "id": "game12-931",
    "Name": "Ice Pick",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Ice Pick"
    },
-   "note": ""
+   "note": "Debate: Obscure Western bar tool, hard to act out or guess."
   },
   {
    "id": "game12-932",
@@ -8805,8 +8805,8 @@
   {
    "id": null,
    "Name": "Matka",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Same meaning as the live Clay Pot card (confirmed still live); remove one of the pair only."
   },
   {
    "id": null,
@@ -8924,9 +8924,9 @@
   },
   {
    "id": null,
-   "Name": "Loadshedding",
+   "Name": "Load Shedding",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Standard two-word spelling."
   },
   {
    "id": null,
@@ -8984,9 +8984,9 @@
   },
   {
    "id": null,
-   "Name": "Golgappa",
+   "Name": "Gol Gappa",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Common two-word spelling."
   },
   {
    "id": null,
@@ -11369,6 +11369,36 @@
    "Name": "Peeler",
    "action": "add",
    "note": "New card (debate): Kitchen tool not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Paya",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani dish, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Karela",
+   "action": "add",
+   "note": "New card (debate): Familiar vegetable, fun to act out, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Kinnow",
+   "action": "add",
+   "note": "New card (debate): Distinct iconic Punjab fruit, not the same as Orange."
+  },
+  {
+   "id": null,
+   "Name": "Taveez",
+   "action": "add",
+   "note": "New card (debate): Amulet; allowed nazar/peer theme, no existing card."
+  },
+  {
+   "id": null,
+   "Name": "Lungi",
+   "action": "add",
+   "note": "New card (debate): Common local garment, easy to act, not in deck."
   }
  ]
 }

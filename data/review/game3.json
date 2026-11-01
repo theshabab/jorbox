@@ -5245,7 +5245,7 @@
   {
    "id": "game3-404",
    "Name": "The best place to have a long chat with a friend is...",
-   "Description": "The most boring place on Earth is...|The best place to see something creepy is...|The worst place to get lost in would be...|My favorite restaurant is...|The last place you bought a souvenir from was...|The place you’d go if you had the day off is...",
+   "Description": "The most boring place on Earth is...|The best place to see something creepy is...|The worst place to get lost in would be...|My favorite restaurant is...|The last place I bought a souvenir from was...|The place I’d go if I had the day off is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5253,7 +5253,7 @@
     "Description": "The most boring place on Earth is...|The best place to see something creepy...|The worst place to get lost in would be...|The location of my favorite movie is...|My favorite restaurant is...|A good place for a first date is...|A good place to meet your soulmate is...|The last place you bought a souvenir from was...|The place you’d go if you had the day off is...",
     "Category": "Writing"
    },
-   "note": "break-up prompt rewritten; removed dating/movie decoys"
+   "note": "break-up prompt rewritten; removed dating/movie decoys; Debate: Decoy voice made consistently first person."
   },
   {
    "id": "game3-405",
@@ -5362,7 +5362,7 @@
   {
    "id": "game3-413",
    "Name": "Something I’m wearing right now is...",
-   "Description": "Something I only wear for special occasions is...|The worst animal for a pet is...|My favorite piece of clothing is...|Something I’d never wear to a wedding is...",
+   "Description": "Something I only wear for special occasions is...|Something I wore to a wedding last year is...|My favorite piece of clothing is...|Something I’d never wear to a wedding is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5370,20 +5370,20 @@
     "Description": "A Valentine’s Day gift I’ve bought before is...|Something I only wear for special occasions is...|The worst animal for a pet is...",
     "Category": "Writing"
    },
-   "note": "replaced Valentine’s decoy; Debate: Removes the awkward 'specifically'."
+   "note": "replaced Valentine’s decoy; Debate: Removes the awkward 'specifically'.; Debate: Replace off-topic 'worst animal for a pet' decoy that exposes the impostor with a close clothing decoy."
   },
   {
    "id": "game3-414",
    "Name": "A beverage I can’t stand is...",
-   "Description": "My favorite beverage is...|A beverage that makes me feel like an adult is...|The beverage I drink the most is...",
+   "Description": "My favorite beverage is...|A beverage that makes me feel like an adult is...|The beverage I drink the most is...|The best drink on a hot day is...|A drink I always order at a restaurant is...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A beverage I can’t stand is...",
     "Description": "My favorite beverage is...|A beverage that makes me feel like an adult is...|The beverage I drink the most is...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: beverage-type decoys only; avoids 'way I take my chai' which invites non-beverage answers."
   },
   {
    "id": "game3-415",
@@ -5622,7 +5622,7 @@
   {
    "id": "game3-433",
    "Name": "My favorite snack is...",
-   "Description": "The coolest thing I’ve ever ordered at a restaurant was...|My favorite comfort food is...|A great snack to serve guests is...|My favorite candy is...|My favorite appetizer is...|I would be upset if I was allergic to...|My favorite vegetable is...|The cutest animal is easily...|We could save the world if cars ran on...",
+   "Description": "The coolest thing I’ve ever ordered at a restaurant was...|My favorite comfort food is...|A great snack to serve guests is...|My favorite candy is...|My favorite appetizer is...|I would be upset if I was allergic to...|My favorite vegetable is...|My favorite fruit is...|The best snack to eat during a cricket match is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5630,7 +5630,7 @@
     "Description": "The coolest thing I’ve ever ordered at a restaurant was...|My favorite comfort food is...|A great party snack is...|My favorite candy is...|My favorite appetizer is...|I would be upset if I was allergic to...|My favorite vegetable is...|The cutest animal is easily...|We could save the world if cars ran on...",
     "Category": "Writing"
    },
-   "note": "party snack→snack for guests"
+   "note": "party snack→snack for guests; Debate: Challenger amendment: replace both off-topic decoys (cars, cutest animal) with close food decoys."
   },
   {
    "id": "game3-434",
@@ -5702,13 +5702,13 @@
    "Name": "The animal I’ve always wanted to pet is a...",
    "Description": "My favorite fictional animal is...|The softest animal is a...|The smoothest animal is a...|My favorite dinosaur is probably...|The creepiest animal is probably...|The animal I’ve always wanted to ride is a...|An odd animal I would consider eating is a...|The animal closest to my personality is a...|An animal that probably feels cool is a...",
    "Category": "Writing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The animal I’ve always wanted to pet is a...",
     "Description": "My favorite fictional animal is...|The softest animal is a....|The smoothest animal is a....|My favorite dinosaur is probably...|The creepiest animal is probably...|The animal I’ve always wanted to ride is a...|An odd animal I would consider eating is a...|The animal closest to my personality is a...|An animal that probably feels cool is a....",
     "Category": "Writing"
    },
-   "note": "punctuation"
+   "note": "Debate: Near-duplicate of live card 439 (review game3-440, action edit); answers interchangeable."
   },
   {
    "id": "game3-440",
@@ -5791,7 +5791,7 @@
   {
    "id": "game3-446",
    "Name": "When I was a kid, I wanted to grow up to be a...",
-   "Description": "An occupation that doesn’t exist anymore is a...|A really cool profession would be a...|A dangerous occupation is probably a...|The worst person to be stuck with in an elevator is a...|The scariest thing to meet in a dark alley is a...",
+   "Description": "An occupation that doesn’t exist anymore is a...|A really cool profession would be a...|A dangerous occupation is probably a...|The worst person to be stuck with in a lift is a...|The scariest thing to meet in a dark alley is a...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5799,7 +5799,7 @@
     "Description": "An occupation that doesn’t exist anymore is a...|A crazy Halloween costume would be a scary...|A really cool profession would be a...|A dangerous occupation is probably a...|The worst person to be stuck with in an elevator is a...|The scariest thing to meet in a dark alley is a....",
     "Category": "Writing"
    },
-   "note": "removed Halloween decoy"
+   "note": "removed Halloween decoy; Debate: Localise elevator to lift."
   },
   {
    "id": "game3-447",
@@ -5934,15 +5934,15 @@
   {
    "id": "game3-457",
    "Name": "My favorite month of the year is...",
-   "Description": "The best month to take a vacation is...|My birthday month is...|The current month is...",
+   "Description": "The best month to take a vacation is...|My birthday month is...|The current month is...|The month with the best weather in Pakistan is...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "My favorite month of the year is...",
     "Description": "The best month to take a vacation is...|My birthday month is...|The current month is...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Add a fourth plausible local decoy."
   },
   {
    "id": "game3-458",
@@ -6037,7 +6037,7 @@
   },
   {
    "id": "game3-465",
-   "Name": "The coolest animal to ride if it would let you would be...",
+   "Name": "The coolest animal to ride, if it would let me, is...",
    "Description": "The coolest animal is...|The biggest animal I’ve seen is...|An animal I’m afraid of is...|My favorite fictional animal is...",
    "Category": "Writing",
    "action": "edit",
@@ -6046,7 +6046,7 @@
     "Description": "My favorite celebrity is...|My favorite movie monster is...|The coolest animal is...|The biggest animal I’ve seen is...|An animal I’m afraid of is...|My favorite fictional animal is...",
     "Category": "Writing"
    },
-   "note": "removed celebrity/movie decoys"
+   "note": "removed celebrity/movie decoys; Debate: Fix ungrammatical real prompt."
   },
   {
    "id": "game3-466",
@@ -6466,8 +6466,8 @@
   },
   {
    "id": "game3-498",
-   "Name": "It’s pronounced “jif,” not “gif.”",
-   "Description": "I’m a grammar nerd.|There are too many cricket leagues.|Ketchup is good on samosas.",
+   "Name": "Aloo belongs in biryani.",
+   "Description": "I always eat the aloo first.|Biryani tastes better the next day.|Ketchup is good on samosas.|I’m a grammar nerd.|There are too many cricket leagues.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6475,7 +6475,7 @@
     "Description": "I’m a grammar nerd.|There are too many <i>Batman</i> movies.|Ketchup is good on hot dogs.",
     "Category": "Rating"
    },
-   "note": "replaced Batman/hot dog decoys"
+   "note": "replaced Batman/hot dog decoys; Debate: Replace niche Western jif/gif joke with the well-known local aloo-in-biryani debate; replaced card (game3-498) is live."
   },
   {
    "id": "game3-499",
@@ -12137,6 +12137,54 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): Money scene drawing."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about Jummah is...",
+   "Description": "The best thing about Sunday is...|The best thing about Eid is...|The best thing about summer holidays is...|The best thing about a long weekend is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Worship-related local theme; no Jummah prompt exists."
+  },
+  {
+   "id": null,
+   "Name": "A good name for a mithai shop would be...",
+   "Description": "A good name for a chai dhaba would be...|A good name for a tailor shop would be...|A good name for a school would be...|A good name for a cricket team would be...|A good name for a goat would be...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny local naming prompt; distinct answers from existing variants."
+  },
+  {
+   "id": null,
+   "Name": "The best way to eat a mango is...",
+   "Description": "The best way to eat a watermelon is...|The best way to drink chai is...|The best way to eat biryani is...|The best way to eat an egg is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local food debate; no 'way to eat' prompt exists."
+  },
+  {
+   "id": null,
+   "Name": "A superstition I secretly follow is...",
+   "Description": "A superstition my Dadi believes in is...|A superstition I think is silly is...|A habit I picked up from my Nani is...|Something I do for good luck is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: decoys closer to the real prompt; not a duplicate of rating card 'I am superstitious'."
+  },
+  {
+   "id": null,
+   "Name": "Sehri is my favourite meal of the year.",
+   "Description": "I never skip breakfast.|I like eating late at night.|Parathas are the best breakfast.|I can eat the same meal every day.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Ramadan-themed rating card; no equivalent rating card exists."
+  },
+  {
+   "id": null,
+   "Name": "I keep empty ice cream boxes to store food.",
+   "Description": "I reuse plastic bags.|I never throw away old clothes.|I am good at saving money.|I have a drawer full of old chargers.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Very relatable local household habit; different format from the topic card."
   }
  ]
 }

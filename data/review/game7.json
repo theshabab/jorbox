@@ -3846,12 +3846,12 @@
    "id": "game7-350",
    "Description": "this is the wrong answer",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "this is the wrong answer",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Abstract statement, nothing to draw (challenger missed issue)."
   },
   {
    "id": "game7-351",
@@ -4132,12 +4132,12 @@
    "id": "game7-376",
    "Description": "can't figure out whether I am a genius",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "can't figure out whether i am a genius",
     "Category": "Standard Prompts"
    },
-   "note": "capitalisation"
+   "note": "Debate: Abstract thought, weak to draw."
   },
   {
    "id": "game7-377",
@@ -4165,12 +4165,12 @@
    "id": "game7-379",
    "Description": "log off!!!!!!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "log off!!!!!!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Undrawable shout (challenger missed issue)."
   },
   {
    "id": "game7-380",
@@ -4308,12 +4308,12 @@
    "id": "game7-392",
    "Description": "yes! hahahah! yes!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "yes! hahahah! yes!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Undrawable."
   },
   {
    "id": "game7-393",
@@ -4438,25 +4438,25 @@
   },
   {
    "id": "game7-404",
-   "Description": "has everyone seen my new beret???",
+   "Description": "has everyone seen my new karakul topi???",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "has everyone seen my new beret???",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises Western beret, keeps joke."
   },
   {
    "id": "game7-405",
-   "Description": "and here's your 1,000,000 calamari",
+   "Description": "and here's your 1,000,000 pakoras",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "and here's your 1,000,000 calamari",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises calamari, keeps absurd quantity."
   },
   {
    "id": "game7-406",
@@ -4891,12 +4891,12 @@
    "id": "game7-445",
    "Description": "heeeeey neighbor, hehehe",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "heeeeey neighbor, hehehe",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Western TV catchphrase, undrawable."
   },
   {
    "id": "game7-446",
@@ -4924,12 +4924,12 @@
    "id": "game7-448",
    "Description": "another day! woohoo!!!!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "another day! woohoo!!!!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Undrawable, no image."
   },
   {
    "id": "game7-449",
@@ -5109,14 +5109,14 @@
   },
   {
    "id": "game7-465",
-   "Description": "assorted Monopoly items",
+   "Description": "assorted Ludo pieces and one very smug dice",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "assorted Monopoly items",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Monopoly is Western/gambling-adjacent; challenger's amended version adds a drawable focal point."
   },
   {
    "id": "game7-466",
@@ -20721,6 +20721,41 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Relatable desi household humour, drawable."
+  },
+  {
+   "id": null,
+   "Description": "a sheep who chewed through the rope on Eid eve and is now leading a rickshaw race",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, funny, drawable, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a cat guarding the last piece of gajar ka halwa",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, drawable, no live duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a chilli so hot the plate runs away",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Easy to draw, distinct."
+  },
+  {
+   "id": null,
+   "Description": "a donkey wearing a karakul topi giving a speech to the other donkeys",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, allowed political-style joke, no named politician."
+  },
+  {
+   "id": null,
+   "Description": "a chai cup sailing the ocean with a biscuit as its sail",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Fun, drawable, distinct from existing chai cards."
   }
  ]
 }
