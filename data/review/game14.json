@@ -6726,6 +6726,41 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Clean, local and answerable by anyone; distinct from the gol gappay cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you dozed off during a khutbah or a religious lecture?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Lighthearted worship-related question, answerable by everyone; no existing card covers it."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to reply with only a thumbs-up emoji to a long message?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): New messaging-habit card; no emoji card exists."
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy watching memes?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Social-media gap; no meme card exists and it matches the 'how much do you enjoy' pattern."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you watched kabootar bazi (pigeon flying) from a rooftop?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local rooftop culture with no existing pigeon card; challenger's clearer wording."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wear attar or perfume on a Friday?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Sunnah-linked, answerable by everyone, no attar/perfume card exists."
   }
  ]
 }

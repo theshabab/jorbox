@@ -7314,9 +7314,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "I want to wake up for tahajjud, but I stay up too late _____!",
+   "Description": "I want to wake up for tahajjud, but I stay up too late scrolling through _____!",
    "action": "add",
-   "note": "New card (debate): Challenger amendment fixes the broken 'asleep during' logic."
+   "note": "New card (debate): Challenger amendment fixes the broken 'asleep during' logic.; Debate: Fixes ungrammatical blank after 'late'; keeps the tahajjud idea."
   },
   {
    "id": null,
@@ -8178,6 +8178,48 @@
    "Description": "The family WhatsApp group went silent when I mentioned _____!",
    "action": "add",
    "note": "New card (debate): Distinct from existing WhatsApp cards (removal, sharing, Jummah pictures)."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The gas cylinder runs out right when I'm cooking _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable household problem; distinct from the gas pressure card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The wedding card says 7 pm, but dinner is served after _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable shaadi timing joke; no existing card covers late dinner."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My fruit chaat is ruined every time someone adds _____!",
+   "action": "add",
+   "note": "New card (debate): Fresh iftar-themed food problem; blank works."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Everyone on the intercity bus has an opinion about _____!",
+   "action": "add",
+   "note": "New card (debate): Local travel problem with a distinct angle from other bus cards."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Hunza Apricot Farmer",
+   "action": "add",
+   "note": "New card (debate): Recognisable Pakistani regional producer; distinct from Farmer and Olive Farmer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Shaadi Card Printer",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording matches the deck's 'Shaadi Hall Manager'; no printer-type customer exists."
   }
  ]
 }

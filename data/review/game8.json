@@ -9009,11 +9009,11 @@
   },
   {
    "id": null,
-   "Name": "FULL SIGNAL <---> NO SIGNAL",
+   "Name": "NEVER DROPS <---> ALWAYS DROPS",
    "Description": "Draw a logo for a made-up mobile network that is this likely to lose signal",
    "Category": "Drawing",
    "action": "add",
-   "note": "New card (debate): Fits made-up logo theme; local and relatable"
+   "note": "New card (debate): Fits made-up logo theme; local and relatable; Debate: Scale ends now match the task, which asks how likely the network is to lose signal."
   },
   {
    "id": null,
@@ -11182,6 +11182,54 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Clear opposites, easy to answer."
+  },
+  {
+   "id": null,
+   "Name": "HIDDEN BEHIND CLOUDS <---> CLEARLY VISIBLE",
+   "Description": "Draw the sky on the 29th of Ramadan where the Eid moon is this easy to spot",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Chaand raat theme, no moon-sighting card exists, clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "NOT PUSHY <---> VERY PUSHY",
+   "Description": "Write a line a bazaar shopkeeper shouts to pull customers into his shop that is this pushy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local bazaar flavour; existing shopkeeper cards cover bargaining, udhaar and slow days, not hawking."
+  },
+  {
+   "id": null,
+   "Name": "LOOSE AND ROOMY <---> TOO TIGHT",
+   "Description": "Draw a pair of brand-new Eid shoes that fit this tightly on your feet",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment makes scale ends true opposites and the task matches the scale."
+  },
+  {
+   "id": null,
+   "Name": "GENTLE HINT <---> SHARP TAANA",
+   "Description": "Write a taana a relative makes about your exam marks that is this sharp",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable desi family humour; no taana card exists."
+  },
+  {
+   "id": null,
+   "Name": "NO CHANCE <---> ABBU AGREES",
+   "Description": "Write the request a kid makes to Abbu for a new cricket bat that is this likely to succeed",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Distinct scenario from Abbu's pocket-money reply card; clean and playable."
+  },
+  {
+   "id": null,
+   "Name": "TINY CRACK <---> COMPLETELY SHATTERED",
+   "Description": "Draw a phone screen that is this cracked",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Easy to draw, relatable, drawable scale, no duplicate."
   }
  ]
 }

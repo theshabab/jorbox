@@ -13320,7 +13320,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-646','game8','KEEPS QUIET <---> TELLS EVERYONE','Draw a parrot that is this likely to repeat family gossip in front of guests','Drawing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-647','game8','MILDLY ANNOYED <---> FURIOUS','Write a text message from Abbu who is this angry about the electricity bill','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-648','game8','KEEPS SECRETS <---> TOTAL CHUGHAL KHOR','Make up a nickname for a cousin who is this likely to tell on everyone','Writing');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-649','game8','FULL SIGNAL <---> NO SIGNAL','Draw a logo for a made-up mobile network that is this likely to lose signal','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-649','game8','NEVER DROPS <---> ALWAYS DROPS','Draw a logo for a made-up mobile network that is this likely to lose signal','Drawing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-650','game8','FOCUSED <---> TOTALLY DISTRACTED','Draw a haircut given by a barber who was this distracted by the cricket match on TV','Drawing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-651','game8','SHAPED LIKE A MAP <---> PERFECTLY GOL','Draw a roti that is this round','Drawing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-652','game8','NOT AFRAID <---> TERRIFIED','Draw a monster that is this afraid of Ammi''s chappal','Drawing');
@@ -13591,6 +13591,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-917','game8','Fixed with jugaad <---> Needs a proper repair','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-918','game8','Good excuse <---> Bad excuse','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-919','game8','Better with age <---> Worse with age','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-920','game8','HIDDEN BEHIND CLOUDS <---> CLEARLY VISIBLE','Draw the sky on the 29th of Ramadan where the Eid moon is this easy to spot','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-921','game8','NOT PUSHY <---> VERY PUSHY','Write a line a bazaar shopkeeper shouts to pull customers into his shop that is this pushy','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-922','game8','LOOSE AND ROOMY <---> TOO TIGHT','Draw a pair of brand-new Eid shoes that fit this tightly on your feet','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-923','game8','GENTLE HINT <---> SHARP TAANA','Write a taana a relative makes about your exam marks that is this sharp','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-924','game8','NO CHANCE <---> ABBU AGREES','Write the request a kid makes to Abbu for a new cricket bat that is this likely to succeed','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-925','game8','TINY CRACK <---> COMPLETELY SHATTERED','Draw a phone screen that is this cracked','Drawing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -16153,7 +16159,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-695','game11','Problem','At every shaadi, my relatives keep comparing their _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-696','game11','Problem','I keep forgetting to say Bismillah before _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-697','game11','Problem','My nani says I should visit more often instead of _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-698','game11','Problem','I want to wake up for tahajjud, but I stay up too late _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-698','game11','Problem','I want to wake up for tahajjud, but I stay up too late scrolling through _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-699','game11','Problem','My screen time report says I spent six hours on _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-700','game11','Problem','At dinner, our whole family stares at _____ instead of talking!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-701','game11','Problem','I promised myself a fresh start this Ramadan, but I keep getting distracted by _____!','');
@@ -16277,6 +16283,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-819','game11','Customer','Ghar Damad (Son-in-law)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-820','game11','Problem','I always forget my _____ at home when I leave for Jummah!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-821','game11','Problem','The family WhatsApp group went silent when I mentioned _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-822','game11','Problem','The gas cylinder runs out right when I''m cooking _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-823','game11','Problem','The wedding card says 7 pm, but dinner is served after _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-824','game11','Problem','My fruit chaat is ruined every time someone adds _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-825','game11','Problem','Everyone on the intercity bus has an opinion about _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-826','game11','Customer','Hunza Apricot Farmer','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-827','game11','Customer','Shaadi Card Printer','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');
@@ -19041,6 +19053,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-709','game14','','How much of Allama Iqbal''s poetry, such as Shikwa and Jawab-e-Shikwa, have you read or can you recite?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-710','game14','','How likely are you to keep a torch or emergency light ready near your bed for load shedding?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-711','game14','','How many bowls of chaat have you eaten at a street stall this month?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-712','game14','','How many times have you dozed off during a khutbah or a religious lecture?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-713','game14','','How likely are you to reply with only a thumbs-up emoji to a long message?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-714','game14','','How much do you enjoy watching memes?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-715','game14','','How many times have you watched kabootar bazi (pigeon flying) from a rooftop?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-716','game14','','How likely are you to wear attar or perfume on a Friday?','0 to 100');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game15','Tareekhi',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1','game15','Khadijah bint Khuwaylid','1st - first person to accept Islam','Sahabas - Order of Accepting Islam');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-2','game15','Ali ibn Abi Talib','2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10','Sahabas - Order of Accepting Islam');
