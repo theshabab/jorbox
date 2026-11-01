@@ -6961,7 +6961,7 @@
   {
    "id": "game3-536",
    "Name": "Snow doesn’t actually exist.",
-   "Description": "Dhaba chai tastes better than chai at home.|People will walk on Mars in fifty years.|I love shopping for clothes.",
+   "Description": "I have never seen snow in real life.|Murree is overrated in winter.|Winter is my favourite season.|People who say they love the cold are lying.|Hailstorms are more fun than snow.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6969,7 +6969,7 @@
     "Description": "Fountain soda is better than can soda.|People will walk on Mars in fifty years.|I love shopping for clothes.",
     "Category": "Rating"
    },
-   "note": "Debate: Replaces the US fountain-soda decoy with a local drink opinion."
+   "note": "Debate: Replaces the US fountain-soda decoy with a local drink opinion.; Debate: Unrelated decoys replaced with close weather-themed ones."
   },
   {
    "id": "game3-537",
@@ -7052,7 +7052,7 @@
   {
    "id": "game3-543",
    "Name": "I could beat Jahangir Khan in a game of squash.",
-   "Description": "I brush my teeth twice a day.|I’m a bit of a show-off.|I’m pretty good at squash.|I could easily give up dairy.|I can get my ping-pong game on.|Golf is boring.",
+   "Description": "I could beat a professional cricketer in a race.|I’m a bit of a show-off.|I’m pretty good at squash.|I can get my ping-pong game on.|Golf is boring.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7060,12 +7060,12 @@
     "Description": "I brush and floss twice a day.|I’m a bit of a show-off.|I’m pretty good at tennis.|I could easily give up dairy.|I can get my ping-pong game on.|Golf is boring.",
     "Category": "Rating"
    },
-   "note": "Debate: Swaps a US celebrity athlete for Pakistan's squash legend and adjusts the matching decoy."
+   "note": "Debate: Swaps a US celebrity athlete for Pakistan's squash legend and adjusts the matching decoy.; Debate: Unrelated teeth/dairy decoys replaced with a close athletic-boast decoy."
   },
   {
    "id": "game3-544",
    "Name": "Teachers are paid too much.",
-   "Description": "Doctors are paid too much.|I like strong-smelling achaar.|I wish dogs could talk.|Parathas are better than puris.",
+   "Description": "Doctors are paid too much.|Cricketers are paid too much.|Politicians are paid too much.|Government employees are paid too much.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7073,7 +7073,7 @@
     "Description": "Doctors are paid too much.|I prefer smelly cheese.|I wish dogs could talk.|Pancakes are better than waffles.",
     "Category": "Rating"
    },
-   "note": "Debate: Localises the Western food decoys."
+   "note": "Debate: Localises the Western food decoys.; Debate: Unrelated decoys replaced with close pay-themed ones."
   },
   {
    "id": "game3-545",
@@ -7130,7 +7130,7 @@
   {
    "id": "game3-549",
    "Name": "I enjoy graphic novels.",
-   "Description": "Comics are only for kids.|I chew my fingernails.|I would go to a sci-fi convention.",
+   "Description": "Comics are only for kids.|I chew my fingernails.|I would go to a book fair.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7138,7 +7138,7 @@
     "Description": "Batman is overrated.|I chew my fingernails.|I would go to a sci-fi convention.",
     "Category": "Rating"
    },
-   "note": "removed Batman"
+   "note": "removed Batman; Debate: Sci-fi convention replaced with a local-friendly book fair."
   },
   {
    "id": "game3-550",
@@ -7169,7 +7169,7 @@
   {
    "id": "game3-552",
    "Name": "You must wash your hands before eating.",
-   "Description": "I must pet a dog if it approaches me.|You must brush your teeth three times a day.|I could give up cheese for the rest of my life.",
+   "Description": "You must say Bismillah before eating.|You must brush your teeth three times a day.|You must wash your hands after eating.|You must always eat with your right hand.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7177,7 +7177,7 @@
     "Description": "I must pet a dog if it approaches me.|You must brush your teeth three times a day.|I could give up cheese for the rest of my life.",
     "Category": "Rating"
    },
-   "note": "Debate: Removes bathroom content, which the owner bans, and keeps the hygiene 'must' idea."
+   "note": "Debate: Removes bathroom content, which the owner bans, and keeps the hygiene 'must' idea.; Debate: Challenger's amendment: close eating-manners decoys, no unrelated cheese decoy."
   },
   {
    "id": "game3-553",
@@ -7247,15 +7247,15 @@
   {
    "id": "game3-558",
    "Name": "I wear my socks for days and days until I can’t stand the smell.",
-   "Description": "I’m environmentally conscious.|I’m kind of a big deal.|I can do a pretty good English accent.",
+   "Description": "I hate doing laundry.|I wear the same clothes two days in a row.|I’m not very hygienic.|I always wash my clothes right away.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I wear my socks for days and days until I can’t stand the smell.",
     "Description": "I’m environmentally conscious.|I’m kind of a big deal.|I can do a pretty good English accent.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Unrelated decoys replaced with laundry and hygiene decoys."
   },
   {
    "id": "game3-559",
@@ -7481,7 +7481,7 @@
   {
    "id": "game3-576",
    "Name": "I want to compete in a half-marathon.",
-   "Description": "I never have free time.|I worry about the future.|I waste a good amount of time on dumb things.|I like to work out.|I go to bed early.|I want to compete in a marathon.|I hike a lot.|I don’t like skiing.|I hate getting up early.",
+   "Description": "I never have free time.|I worry about the future.|I waste a good amount of time on dumb things.|I like to work out.|I go to bed early.|I want to compete in a marathon.|I hike a lot.|I hate cold weather.|I hate getting up early.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -7489,7 +7489,7 @@
     "Description": "I never have free time.|I worry about the future.|I waste a good amount of time on dumb things.|I like to workout.|I go to bed early.|I want to compete in a marathon.|I hike a lot.|I don’t like skiing.|I hate getting up early.",
     "Category": "Rating"
    },
-   "note": "Debate: Grammar: the verb is 'work out', not 'workout'."
+   "note": "Debate: Grammar: the verb is 'work out', not 'workout'.; Debate: Skiing decoy was irrelevant and Western."
   },
   {
    "id": "game3-577",
@@ -7546,15 +7546,15 @@
   {
    "id": "game3-581",
    "Name": "I made a lot of silly drawings of myself as a half-otter person and now I can’t find them and I’m scared.",
-   "Description": "I believe there’s a better-than-average chance of alien life.|I think honesty is the best policy.|I often think about humankind and its destiny.",
+   "Description": "I doodle a lot when I’m bored.|I lose important things all the time.|I’m a pretty talented artist.|I often worry about embarrassing things from my past.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I made a lot of silly drawings of myself as a half-otter person and now I can’t find them and I’m scared.",
     "Description": "I believe there’s a better-than-average chance of alien life.|I think honesty is the best policy.|I often think about humankind and its destiny.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Prompt is clear and funny; keep it and fix the unrelated decoys instead of removing."
   },
   {
    "id": "game3-582",
@@ -7624,15 +7624,15 @@
   {
    "id": "game3-587",
    "Name": "My sense of direction is below average.",
-   "Description": "I like violent video games.|I prefer burgers to hot dogs.|I’m a pretty good cook.",
+   "Description": "I get lost easily in new cities.|I prefer burgers to shawarma.|I’m a pretty good cook.|I always use Google Maps.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "My sense of direction is below average.",
     "Description": "I like violent video games.|I prefer burgers to hot dogs.|I’m a pretty good cook.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Localise hot dogs, drop violent video games decoy for a close navigation decoy."
   },
   {
    "id": "game3-588",
@@ -7740,29 +7740,29 @@
   },
   {
    "id": "game3-596",
-   "Name": "A lady asks you to watch her snarling dog while she uses the restroom. You then...",
+   "Name": "A lady asks you to watch her snarling dog while she runs into a shop. You then...",
    "Description": "refuse and leave|agree and stay|agree and leave",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A lady asks you to watch her snarling dog while she uses the restroom. You then...",
     "Description": "refuse and leave|agree and stay|agree and leave",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Removes restroom reference (bathroom-joke rule)."
   },
   {
    "id": "game3-597",
-   "Name": "A lady asks you to watch her invisible gorilla while she uses the restroom. You then...",
+   "Name": "A lady asks you to watch her invisible gorilla while she runs into a shop. You then...",
    "Description": "refuse and leave|agree and stay|agree and leave",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A lady asks you to watch her invisible gorilla while she uses the restroom. You then...",
     "Description": "refuse and leave|agree and stay|agree and leave",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Removes restroom reference (bathroom-joke rule)."
   },
   {
    "id": "game3-598",
@@ -7858,7 +7858,7 @@
   {
    "id": "game3-605",
    "Name": "There’s a three-way race for Prime Minister. You vote for the candidate that was once convicted of...",
-   "Description": "public disturbance|money laundering|health code violations",
+   "Description": "public disturbance|money laundering|tax evasion",
    "Category": "Morality",
    "action": "edit",
    "original": {
@@ -7866,7 +7866,7 @@
     "Description": "public disturbance|money laundering|health code violations",
     "Category": "Morality"
    },
-   "note": "localised to Prime Minister"
+   "note": "localised to Prime Minister; Debate: 'Health code violations' is US-style; tax evasion fits the political joke."
   },
   {
    "id": "game3-606",
@@ -7897,15 +7897,15 @@
   {
    "id": "game3-608",
    "Name": "Your town makes any crime legal for one night. You choose...",
-   "Description": "jaywalking|money laundering|health code violations",
+   "Description": "jaywalking|money laundering|tax evasion",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Your town makes any crime legal for one night. You choose...",
     "Description": "jaywalking|money laundering|health code violations",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Replace US-style 'health code violations'; options still scale mild to serious."
   },
   {
    "id": "game3-609",
@@ -8026,8 +8026,8 @@
   },
   {
    "id": "game3-618",
-   "Name": "You’re placed in witness protection to avoid the mob. You stand the best chance of hiding in...",
-   "Description": "New York City|the middle of the Sahara|Tokyo, Japan",
+   "Name": "You’re placed in a protection programme to hide from a violent gang. You stand the best chance of hiding in...",
+   "Description": "Islamabad|the middle of the Sahara|Tokyo, Japan",
    "Category": "Morality",
    "action": "edit",
    "original": {
@@ -8035,7 +8035,7 @@
     "Description": "New York City|the middle of Nevada|Tokyo, Japan",
     "Category": "Morality"
    },
-   "note": "Nevada → Sahara"
+   "note": "Nevada → Sahara; Debate: Localise US witness-protection/mob/New York wording; avoid repeating Thar and Karachi used on neighbouring cards."
   },
   {
    "id": "game3-619",
@@ -12185,6 +12185,62 @@
    "Category": "Rating",
    "action": "add",
    "note": "New card (debate): Very relatable local household habit; different format from the topic card."
+  },
+  {
+   "id": null,
+   "Name": "Nihari is the king of all dishes.",
+   "Description": "Haleem is better than nihari.|I prefer karahi to nihari.|Nihari tastes best at breakfast.|I can’t eat that much spicy food.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Local food debate with on-topic decoys; not in deck as a rating card."
+  },
+  {
+   "id": null,
+   "Name": "I would rather take a rickshaw than a ride-hailing app.",
+   "Description": "I always argue about the fare.|I prefer driving myself.|I like travelling by bus.|I feel safer in an app ride.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Local transport rating; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I always bring something when visiting someone’s home.",
+   "Description": "I hate going to people’s houses.|I like hosting guests.|I always arrive empty-handed.|I stay too long at other people’s homes.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Culturally relevant hospitality rating."
+  },
+  {
+   "id": null,
+   "Name": "You’re driving to a wedding and see an accident that nobody is stopping for. You...",
+   "Description": "call Rescue 1122|stop and help yourself|keep driving to arrive on time",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Local morality scenario with a clear scale."
+  },
+  {
+   "id": null,
+   "Name": "A traffic warden stops you for not wearing a helmet. You...",
+   "Description": "pay the challan|argue your way out|call a relative you know",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani dilemma, clean wording."
+  },
+  {
+   "id": null,
+   "Name": "A hungry child asks for food outside a restaurant while you’re mid-meal. You...",
+   "Description": "share your meal|buy them their own meal|give them money",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Charity dilemma with local setting; graded options."
+  },
+  {
+   "id": null,
+   "Name": "At a dawat, there is one last piece of meat and an elderly guest has none. You...",
+   "Description": "give it to the elder|split it with the elder|eat it yourself",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: natural graded options instead of the awkward host's-child option."
   }
  ]
 }

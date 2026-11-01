@@ -5439,14 +5439,14 @@
   },
   {
    "id": "game7-495",
-   "Description": "hot dog archery",
+   "Description": "seekh kebab archery",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "hot dog archery",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises hot dog; skewer shape suits archery; avoids another samosa card."
   },
   {
    "id": "game7-496",
@@ -5705,12 +5705,12 @@
    "id": "game7-519",
    "Description": "makeover montage!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "makeover montage!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Western TV trope, vague and hard to draw; 1515 makeover is a different Friend card."
   },
   {
    "id": "game7-520",
@@ -5749,12 +5749,12 @@
    "id": "game7-523",
    "Description": "this is a funny animation",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "this is a funny animation",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: No drawable subject."
   },
   {
    "id": "game7-524",
@@ -6121,14 +6121,14 @@
   },
   {
    "id": "game7-557",
-   "Description": "a staircase to the sky. The sky is cream soda",
+   "Description": "a staircase to the sky. The sky is lassi",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "a staircase to the sky.sky is cream soda",
     "Category": "Standard Prompts"
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: Localises cream soda; avoids repeating rooh afza."
   },
   {
    "id": "game7-558",
@@ -6231,25 +6231,25 @@
   },
   {
    "id": "game7-567",
-   "Description": "I took donuts into my chambers",
+   "Description": "I took gulab jamuns into my chambers",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "I took donuts into my chambers",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises donuts; round like donuts, no existing gulab jamun card."
   },
   {
    "id": "game7-568",
-   "Description": "no love for possum",
+   "Description": "no love for the jackal",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "no love for possum",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Possum is North American; jackal is familiar and drawable."
   },
   {
    "id": "game7-569",
@@ -6299,12 +6299,12 @@
    "id": "game7-573",
    "Description": "inside joke",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "inside joke",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Abstract, undrawable."
   },
   {
    "id": "game7-574",
@@ -6442,12 +6442,12 @@
    "id": "game7-586",
    "Description": "the 90s are fuzzy",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "the 90s are fuzzy",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: No drawable subject; vague decade reference."
   },
   {
    "id": "game7-587",
@@ -20756,6 +20756,41 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Fun, drawable, distinct from existing chai cards."
+  },
+  {
+   "id": null,
+   "Description": "a chicken tikka making a getaway on a motorbike",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable local food prompt; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a bhutta with braces",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Simple absurd street-food drawing; different gag from the bhutta wala card."
+  },
+  {
+   "id": null,
+   "Description": "a samosa and a pakora arguing over who is the real king of tea time",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Drawable local food rivalry; distinct image from existing samosa and pakora cards."
+  },
+  {
+   "id": null,
+   "Description": "a karela wearing a tiny crown that nobody respects",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable local joke; no karela card exists."
+  },
+  {
+   "id": null,
+   "Description": "a toothbrush on strike holding a tiny protest sign",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Clean household absurdity; no duplicate."
   }
  ]
 }

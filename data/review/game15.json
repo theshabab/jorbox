@@ -31217,6 +31217,102 @@
    "Category": "Pakistan's Hockey World Cup Wins (Chronological)",
    "action": "add",
    "note": "New card (debate): Verified: 1-1, penalties 4-3."
+  },
+  {
+   "id": null,
+   "Name": "Balochistan",
+   "Description": "~347,000 km²",
+   "Category": "Provinces and Regions of Pakistan (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Correct (347,190 km²); largest province."
+  },
+  {
+   "id": null,
+   "Name": "Punjab",
+   "Description": "~205,000 km²",
+   "Category": "Provinces and Regions of Pakistan (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Correct (205,344 km²)."
+  },
+  {
+   "id": null,
+   "Name": "Sindh",
+   "Description": "~141,000 km²",
+   "Category": "Provinces and Regions of Pakistan (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Correct (140,914 km²)."
+  },
+  {
+   "id": null,
+   "Name": "Khyber Pakhtunkhwa",
+   "Description": "~102,000 km²",
+   "Category": "Provinces and Regions of Pakistan (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Correct (101,741 km² incl. merged districts)."
+  },
+  {
+   "id": null,
+   "Name": "Gilgit-Baltistan",
+   "Description": "~73,000 km²",
+   "Category": "Provinces and Regions of Pakistan (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Correct (72,971 km²)."
+  },
+  {
+   "id": null,
+   "Name": "Azad Jammu & Kashmir",
+   "Description": "~13,300 km²",
+   "Category": "Provinces and Regions of Pakistan (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Challenger addition; a major region missing from a Provinces and Regions ranking, fits between GB and ICT."
+  },
+  {
+   "id": null,
+   "Name": "Islamabad Capital Territory",
+   "Description": "~906 km²",
+   "Category": "Provinces and Regions of Pakistan (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Correct; smallest."
+  },
+  {
+   "id": null,
+   "Name": "Tiger",
+   "Description": "~220 kg (adult male)",
+   "Category": "Big Cats (Weight - Heavy to Light)",
+   "action": "add",
+   "note": "New card (debate): Amended to state adult-male basis to avoid disputes."
+  },
+  {
+   "id": null,
+   "Name": "Lion",
+   "Description": "~190 kg (adult male)",
+   "Category": "Big Cats (Weight - Heavy to Light)",
+   "action": "add",
+   "note": "New card (debate): Amended to state adult-male basis."
+  },
+  {
+   "id": null,
+   "Name": "Jaguar",
+   "Description": "~90 kg (adult male)",
+   "Category": "Big Cats (Weight - Heavy to Light)",
+   "action": "add",
+   "note": "New card (debate): Fourth Panthera cat completes the category; value set to ~90 kg (typical adult male range 56-96 kg, up to 100+ in the Pantanal), still between Lion and Leopard."
+  },
+  {
+   "id": null,
+   "Name": "Leopard",
+   "Description": "~60 kg (adult male)",
+   "Category": "Big Cats (Weight - Heavy to Light)",
+   "action": "add",
+   "note": "New card (debate): Amended to state adult-male basis."
+  },
+  {
+   "id": null,
+   "Name": "Snow Leopard",
+   "Description": "~45 kg (adult male)",
+   "Category": "Big Cats (Weight - Heavy to Light)",
+   "action": "add",
+   "note": "New card (debate): Amended: adult male averages ~45 kg; consistent male basis; found in Pakistan's north."
   }
  ]
 }
