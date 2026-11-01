@@ -16155,6 +16155,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-851','game10','Name something people complain about in summer.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-852','game10','Name a type of paratha.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-853','game10','Name something you put chaat masala on.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-854','game10','Name a gift you give to your father.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-855','game10','Name something you never leave home without.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-856','game10','Name something people do to pass the time during a roza.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-857','game10','Name something you do right after waking up.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-858','game10','Name a type of YouTube video you watch.','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -19190,6 +19195,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-810','game13','','Get a player to tell you who in their family always brings back zamzam or khajoor from Saudi Arabia.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-811','game13','','Get a player to ask you why you are holding a miswak.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-812','game13','','Get a player to tell you their favourite winter snack, like gajar ka halwa, dry fruit or roasted peanuts.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-813','game13','','Get a player to tell you how many rakats are in Fajr.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -21876,7 +21882,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-106','game16','If you could jump into a pool of anything, what would it be full of?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-107','game16','What’s the best Wi-Fi name you’ve seen?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-108','game16','What do you think the worst smell is?','','Ice Breakers & Fun General');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-109','game16','Why do you think pizzas are usually round? Give us your funniest theory.','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-109','game16','Why do you think rotis are usually round? Give us your funniest theory.','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-110','game16','Do you talk to yourself?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-111','game16','Were you scared of jinns or monsters as a kid? Are you still?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-112','game16','What’s the funniest moment you’ve ever shared with a stranger?','','Ice Breakers & Fun General');
@@ -21893,7 +21899,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-123','game16','Which mithai or dessert would you compare your best friend to, and why?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-124','game16','Is a bun kebab just a desi burger? Defend your answer.','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-125','game16','If your phone could talk, what’s the most embarrassing thing it would reveal about you?','','Ice Breakers & Fun General');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-126','game16','If raindrops weren’t a thing, what would you want to fall from the sky?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-126','game16','If it could rain something other than water, what would you want to fall from the sky?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-127','game16','What’s the silliest way you’ve ever gotten an injury?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-128','game16','What''s the best clean joke you know by heart? Tell it!','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-129','game16','What completely safe animal are you inexplicably afraid of?','','Ice Breakers & Fun General');
@@ -21907,7 +21913,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-137','game16','Have you ever lied about a talent to impress your friends? What happened next?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-138','game16','If you were famous, what would you be famous for?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-139','game16','If you could only eat at one restaurant forever, what restaurant would it be?','','Ice Breakers & Fun General');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-140','game16','If you could only wear one type of shoes for the rest of your life, what type would it be?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-140','game16','If you could only wear one type of footwear for the rest of your life, what would it be (Peshawari chappal, khussa, sneakers, sandals)?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-141','game16','If you created your own country, what would it be called?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-142','game16','If you had lots of money, what unnecessary thing would you splurge on?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-143','game16','If you could switch places with anyone in your family for a day, who would it be?','','Ice Breakers & Fun General');
@@ -21922,12 +21928,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-152','game16','If you had to be joined at the hip with one person for a week, who would you pick?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-153','game16','If you had to endorse a brand, which brand would it be?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-154','game16','What''s the last funny video you saw?','','Ice Breakers & Fun General');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-155','game16','What do you do to get rid of stress?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-155','game16','What do you do to get rid of stress (a cup of chai, a long walk, a nap, a drive)?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-156','game16','What is something you are obsessed with?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-157','game16','What three words best describe you?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-158','game16','What would be your perfect weekend?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-159','game16','What''s your favorite number, and why?','','Ice Breakers & Fun General');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-160','game16','What are you going to do this weekend?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-160','game16','What is your plan for the coming weekend, and who are you dragging along with you?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-161','game16','What’s the most useful thing you own?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-162','game16','What’s your favorite way to waste time?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-163','game16','Do you have any pets (a cat, a parrot, some chickens, even a goat)? What are their names?','','Ice Breakers & Fun General');
@@ -22658,3 +22664,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-888','game16','Which part of Pakistan''s landscape (the Thar desert, the Karakoram, the Indus delta or the Punjab plains) would you most like to see with your own eyes?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-889','game16','What does your family eat for breakfast on Eid morning, and who always makes sure everyone sits down together for it?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-890','game16','What is the first thing your mother or dadi puts on the tray when an unexpected guest arrives, and who runs to fetch it?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-891','game16','Which kind of chai are you: kadak, doodh patti, kahwa or sabz chai? Why?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-892','game16','Has your phone ever rung or buzzed at the worst possible moment? What happened?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-893','game16','If you named your gully cricket team, what would it be called and who would be captain?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-894','game16','What is the smallest thing that can ruin your whole day (cold chai, no signal, a missing chappal)?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-895','game16','What is the worst advice a friend or cousin ever gave you that you actually followed?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-896','game16','If you could print one sentence on every chai cup in Pakistan, what would it say?','','Ice Breakers & Fun General');

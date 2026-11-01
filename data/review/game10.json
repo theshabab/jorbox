@@ -7346,6 +7346,36 @@
    "Name": "Name something you put chaat masala on.",
    "action": "add",
    "note": "New card (debate): Not a duplicate of the fruit chaat or paratha filling cards. Fruit, fries, chana and papri give matchable answers."
+  },
+  {
+   "id": null,
+   "Name": "Name a gift you give to your father.",
+   "action": "add",
+   "note": "New card (debate): Clear common answers, pairs with the mother-gift card, no father card exists."
+  },
+  {
+   "id": null,
+   "Name": "Name something you never leave home without.",
+   "action": "add",
+   "note": "New card (debate): Strong matching answers (phone, wallet, keys); distinct from the Ammi-reminder card."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do to pass the time during a roza.",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related theme, common answers, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do right after waking up.",
+   "action": "add",
+   "note": "New card (debate): Easy matching answers; different from the alarm and wake-time cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of YouTube video you watch.",
+   "action": "add",
+   "note": "New card (debate): Social media is allowed, answers converge, and it differs from 'Netflix or YouTube?'."
   }
  ]
 }

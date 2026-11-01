@@ -1402,14 +1402,14 @@
   },
   {
    "id": "game16-128",
-   "Name": "Why do you think pizzas are usually round? Give us your funniest theory.",
+   "Name": "Why do you think rotis are usually round? Give us your funniest theory.",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "Why are pizzas usually round?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Debate: As written it is trivia. The challenger's version keeps the original idea and asks for playful theories, while the pizza-box rewrite also had a factual answer"
+   "note": "Debate: As written it is trivia. The challenger's version keeps the original idea and asks for playful theories, while the pizza-box rewrite also had a factual answer; Debate: Local frame; keeps 'usually' because naan and parathas are not always round."
   },
   {
    "id": "game16-129",
@@ -1600,14 +1600,14 @@
   },
   {
    "id": "game16-146",
-   "Name": "If raindrops weren’t a thing, what would you want to fall from the sky?",
+   "Name": "If it could rain something other than water, what would you want to fall from the sky?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If raindrops weren’t a thing, what would you want to fall from the sky?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Original wording was awkward and unclear; the rewrite keeps the idea."
   },
   {
    "id": "game16-147",
@@ -1864,14 +1864,14 @@
   },
   {
    "id": "game16-170",
-   "Name": "If you could only wear one type of shoes for the rest of your life, what type would it be?",
+   "Name": "If you could only wear one type of footwear for the rest of your life, what would it be (Peshawari chappal, khussa, sneakers, sandals)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you could only wear one type of shoes for the rest of your life, what type would it be?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: distinct desi options without the chappal/Peshawari overlap."
   },
   {
    "id": "game16-171",
@@ -2150,14 +2150,14 @@
   },
   {
    "id": "game16-196",
-   "Name": "What do you do to get rid of stress?",
+   "Name": "What do you do to get rid of stress (a cup of chai, a long walk, a nap, a drive)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What do you do to get rid of stress?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Local, relatable examples in the same style as cards 204 and 244."
   },
   {
    "id": "game16-197",
@@ -2205,14 +2205,14 @@
   },
   {
    "id": "game16-201",
-   "Name": "What are you going to do this weekend?",
+   "Name": "What is your plan for the coming weekend, and who are you dragging along with you?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What are you going to do this weekend?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Distinguishes it from the near-duplicate 'perfect weekend' card 198."
   },
   {
    "id": "game16-202",
@@ -9745,6 +9745,48 @@
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
    "note": "New card (debate): Amended version accepted: a clearer single scene that is distinct from the unannounced-guests reaction card."
+  },
+  {
+   "id": null,
+   "Name": "Which kind of chai are you: kadak, doodh patti, kahwa or sabz chai? Why?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: options Pakistani players recognise (replaces sulaimani)."
+  },
+  {
+   "id": null,
+   "Name": "Has your phone ever rung or buzzed at the worst possible moment? What happened?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: funny-story prompt that does not steer toward music ringtones."
+  },
+  {
+   "id": null,
+   "Name": "If you named your gully cricket team, what would it be called and who would be captain?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): New local team-name question; no duplicate in the slice."
+  },
+  {
+   "id": null,
+   "Name": "What is the smallest thing that can ruin your whole day (cold chai, no signal, a missing chappal)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable; distinct from annoyance cards 206 and 241."
+  },
+  {
+   "id": null,
+   "Name": "What is the worst advice a friend or cousin ever gave you that you actually followed?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Clean story prompt; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "If you could print one sentence on every chai cup in Pakistan, what would it say?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Creative, local, family-friendly; nothing similar in the slice."
   }
  ]
 }

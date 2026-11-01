@@ -6767,6 +6767,12 @@
    "Description": "Get a player to tell you their favourite winter snack, like gajar ka halwa, dry fruit or roasted peanuts.",
    "action": "add",
    "note": "New card (debate): Seasonal food prompt with Pakistani examples; no winter snack card exists."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many rakats are in Fajr.",
+   "action": "add",
+   "note": "New card (debate): Worship questions are allowed by the owner. Fajr has 2 fard rakats, so it is accurate. It is distinct from the existing Maghrib rakats card, which asks about a different prayer."
   }
  ]
 }
