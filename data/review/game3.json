@@ -5232,15 +5232,15 @@
   {
    "id": "game3-403",
    "Name": "The best thing to eat at the end of a stressful day is...",
-   "Description": "The creepiest animal is...|My favorite sea creature is...|The worst smell in the world is...|My favorite unhealthy dish is...|The best thing to eat cold is...|My favorite snack is...|My favorite comfort food is...|My idea of an expensive meal is...|My favorite meal would be...",
+   "Description": "My favorite unhealthy dish is...|The best thing to eat cold is...|My favorite snack is...|My favorite comfort food is...|My idea of an expensive meal is...|My favorite meal would be...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "The best thing to eat at the end of a stressful day is...",
     "Description": "The creepiest animal is...|My favorite sea creature is...|The worst smell in the world is...|My favorite unhealthy dish is...|The best thing to eat cold is...|My favorite snack is...|My favorite comfort food is...|My idea of an expensive meal is...|My favorite meal would be...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Removes non-food decoys (creepiest animal, sea creature, worst smell)."
   },
   {
    "id": "game3-404",
@@ -5492,7 +5492,7 @@
   {
    "id": "game3-423",
    "Name": "Something I’ve been too nervous to try is...",
-   "Description": "The first thing you’d do if someone was choking in a restaurant is...|I’m too scared to try...|A skill I’ve wanted to learn is...|Something I have to do every day is...|When I retire, I’d like to...",
+   "Description": "Something I’d be too shy to do in front of everyone is...|I’m too scared to try...|A skill I’ve wanted to learn is...|Something I have to do every day is...|When I retire, I’d like to...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5500,7 +5500,7 @@
     "Description": "The first thing you’d do if someone was choking in a restaurant is...|The movie poster of my life would show me doing this...|I’m too scared to try...|A skill I’ve wanted to learn is...|Something I have to do every day is...|When I retire, I’d like to...",
     "Category": "Writing"
    },
-   "note": "removed movie decoy"
+   "note": "removed movie decoy; Debate: Challenger's amended version: choking decoy replaced with a nearby personal-confession decoy."
   },
   {
    "id": "game3-424",
@@ -5713,7 +5713,7 @@
   {
    "id": "game3-440",
    "Name": "The animal I’ve always wanted as a pet is a...",
-   "Description": "An animal that smells really bad is...|An odd animal I would consider eating is a...|An animal I’d name my cricket team after is a...|My favorite dinosaur is...|The worst animal to get bitten by would be...|My favorite zoo animal is...|The cutest animal alive is...|The coolest fictional animal is...|The animal closest to my personality is a...",
+   "Description": "An animal that smells really bad is...|An animal I’d be scared to meet at night is a...|An animal I’d name my cricket team after is a...|My favorite dinosaur is...|The worst animal to get bitten by would be...|My favorite zoo animal is...|The cutest animal alive is...|The coolest fictional animal is...|The animal closest to my personality is a...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5721,7 +5721,7 @@
     "Description": "An animal that smells really bad is...|An odd animal I would consider eating is a...|An animal I would get as a tattoo is a...|My favorite dinosaur is...|The worst animal to get bit by would be...|My favorite zoo animal is...|The cutest animal alive is...|The coolest fictional animal is...|The animal closest to my personality is a...",
     "Category": "Writing"
    },
-   "note": "replaced tattoo decoy; Debate: Grammar fix: \"get bit by\" is now \"get bitten by\"."
+   "note": "replaced tattoo decoy; Debate: Grammar fix: \"get bit by\" is now \"get bitten by\".; Debate: Removes the awkward eat-an-odd-animal decoy."
   },
   {
    "id": "game3-441",
@@ -5843,7 +5843,7 @@
   {
    "id": "game3-450",
    "Name": "A good activity for a family day out would be...",
-   "Description": "The weirdest thing I look forward to every week is...|A great hobby is...|A way I recently hurt myself was by...|Something I like to do by myself is...|A fad you just don’t get is...|The first thing you’d do if stranded on a desert island is...|The next thing we’ll probably have robots doing is...|The best way to spend a Saturday night is...",
+   "Description": "A good place for a picnic is...|The best way to spend a Saturday night is...|My favorite thing to do on a holiday is...|A great hobby is...|The weirdest thing I look forward to every week is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5851,7 +5851,7 @@
     "Description": "The weirdest thing I look forward to every week is...|The activity I did on my last date was...|A great hobby is...|A way I recently hurt myself was by...|Something I like to do by myself is...|A fad you just don’t get is...|The first thing you’d do if stranded on desert island is...|The next thing we’ll probably have robots doing is...|The best way to spend a Saturday night is...",
     "Category": "Writing"
    },
-   "note": "first date→family day out; removed date decoy"
+   "note": "first date→family day out; removed date decoy; Debate: Removes far-off decoys (self-injury, fads, robots, desert island) and adds nearby outing decoys."
   },
   {
    "id": "game3-451",
@@ -6336,7 +6336,7 @@
   },
   {
    "id": "game3-488",
-   "Name": "If I was a famous poet, my pen name would be...",
+   "Name": "If I was a famous poet, my takhallus (pen name) would be...",
    "Description": "If I was a cricketer, my nickname would be...|The name of my first pet was...|The name of the street I grew up on is...",
    "Category": "Writing",
    "action": "edit",
@@ -6345,7 +6345,7 @@
     "Description": "If I was a gangster, I would call myself...|The name of my first pet was...|The name of the street I grew up on is...",
     "Category": "Writing"
    },
-   "note": "stage name→poet’s pen name; gangster decoy localised"
+   "note": "stage name→poet’s pen name; gangster decoy localised; Debate: Localises to the Urdu takhallus tradition with a clear gloss."
   },
   {
    "id": "game3-489",
@@ -6428,7 +6428,7 @@
   {
    "id": "game3-495",
    "Name": "NOBODY looks better in shalwar kameez than I do.",
-   "Description": "I hate coconut in ice cream.|I will never be on time.|Snakes are better pets than cats.",
+   "Description": "Nobody looks better in a sherwani than I do.|I own more than ten shalwar kameez.|I look best in white.|I iron my clothes every single day.|Shalwar kameez is the most comfortable outfit.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6436,7 +6436,7 @@
     "Description": "I hate coconut in ice cream.|I will never be on time.|Snakes are better pets than cats.",
     "Category": "Rating"
    },
-   "note": "superhero suit→shalwar kameez"
+   "note": "superhero suit→shalwar kameez; Debate: Old decoys were unrelated; replaced with close clothing statements."
   },
   {
    "id": "game3-496",
@@ -6519,7 +6519,7 @@
   {
    "id": "game3-502",
    "Name": "I cry at least once a week.",
-   "Description": "Gulab jamun are so much better than cake.|I cry at sad stories.|I’m in touch with my feelings.|I don’t cry... ever.|I can slaughter a goat on Eid.",
+   "Description": "I get emotional at weddings and rukhsatis.|I cry at sad stories.|I’m in touch with my feelings.|I don’t cry... ever.|I can slaughter a goat on Eid.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6527,7 +6527,7 @@
     "Description": "I love romantic movies.|Pie is so much better than cake.|I cry at sad movies.|I’m in touch with my feelings.|I don’t cry... ever.|I can butcher a hog.",
     "Category": "Rating"
    },
-   "note": "removed romantic-movie/hog decoys; Debate: Keeps this decoy in sync with the localised card 498."
+   "note": "removed romantic-movie/hog decoys; Debate: Keeps this decoy in sync with the localised card 498.; Debate: Replaces the unrelated gulab jamun decoy that gave the impostor away."
   },
   {
    "id": "game3-503",
@@ -12729,6 +12729,70 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Local food prompt in a distinct season from existing cards."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about a long road trip to Murree is...",
+   "Description": "The worst thing about a long bus journey is...|The best thing to pack for a picnic is...|My favorite place to stop on a road trip is...|The best thing about summer holidays is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local travel prompt, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "The best excuse for skipping a family function is...",
+   "Description": "The best reason to leave a wedding early is...|The worst excuse for not doing homework is...|My favorite thing about family gatherings is...|The best excuse for not answering a phone call is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable, distinct from the late-excuse card."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about Eid morning is...",
+   "Description": "The best thing about Friday is...|The best part of a wedding is...|The best thing about summer holidays is...|The best thing about Ramadan is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): No Eid morning card exists; close template decoys."
+  },
+  {
+   "id": null,
+   "Name": "A good nickname for a strict teacher is...",
+   "Description": "A nickname I gave my sibling is...|A word my teacher used to say a lot is...|The scariest teacher I had was...|A good name for a pet goat is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny school prompt, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "The worst thing to hear when you are hungry is...",
+   "Description": "The worst thing to hear from a mechanic is...|The best thing to hear at a restaurant is...|The worst thing to hear during a load-shedding night is...|The worst thing to hear at 6 AM is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Easy, funny, no equivalent in deck."
+  },
+  {
+   "id": null,
+   "Name": "The one thing I always forget when leaving the house is...",
+   "Description": "The first thing I check before leaving home is...|The thing I always keep in my pocket is...|The one thing I never leave home without is...|The most useless thing in my bag is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable; differs from the trip-forgetting card."
+  },
+  {
+   "id": null,
+   "Name": "Paratha with chai is the perfect breakfast.",
+   "Description": "I skip breakfast most days.|Halwa puri is the best weekend breakfast.|Lassi is better than tea in the morning.|Fried eggs are better than omelettes.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Local food Rating card, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Raita is a must with biryani.",
+   "Description": "Salad is a must with every meal.|I like my biryani extra spicy.|Chutney makes any snack better.|Biryani tastes better eaten by hand.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Distinct raita opinion with close decoys."
   }
  ]
 }

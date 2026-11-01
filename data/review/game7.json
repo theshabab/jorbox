@@ -17616,14 +17616,14 @@
   },
   {
    "id": "game7-1602",
-   "Description": "<PLAYER> manually changing the leaves for the season",
+   "Description": "<PLAYER> manually shaking the mangoes off the tree for the season",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> manually changing the leaves for the season",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Changing leaves for autumn is a US reference; mango season is local and drawable."
   },
   {
    "id": "game7-1603",
@@ -17660,14 +17660,14 @@
   },
   {
    "id": "game7-1606",
-   "Description": "<PLAYER> deadlifts pizza people",
+   "Description": "<PLAYER> deadlifting a giant biryani degh",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> deadlifts pizza people",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces unclear 'pizza people' with a clear, local, drawable image."
   },
   {
    "id": "game7-1607",
@@ -17935,14 +17935,14 @@
   },
   {
    "id": "game7-1631",
-   "Description": "<PLAYER> if they were a parade float",
+   "Description": "<PLAYER> as a bridal car decorated with flowers",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> if they were a parade float",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Parade float is a US reference; the challenger's bridal car avoids duplicating the added 'painted on the back of a truck' card."
   },
   {
    "id": "game7-1632",
@@ -18056,14 +18056,14 @@
   },
   {
    "id": "game7-1642",
-   "Description": "<PLAYER> when the caffeine finally hits",
+   "Description": "<PLAYER> when the first sip of chai finally hits",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> when the caffeine finally hits",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises caffeine to chai; distinct from the 'no more chai' card."
   },
   {
    "id": "game7-1643",
@@ -21043,6 +21043,34 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Clean, modern, not duplicated."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> winning at carrom and being insufferable about it",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Local game, affectionate teasing, absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the family's official group-photo taker who is never in the photo",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable and visual; no similar card exists."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to squeeze a rickshaw through a tiny gali",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Parallel parking is not a local scenario; a narrow-lane squeeze is accurate and drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> telling a very long story while everyone's biryani gets cold",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, drawable, local; different joke from other biryani cards."
   }
  ]
 }

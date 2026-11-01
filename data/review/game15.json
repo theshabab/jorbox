@@ -28925,10 +28925,10 @@
   {
    "id": null,
    "Name": "Urdu",
-   "Description": "~78M",
+   "Description": "~70M",
    "Category": "Most Spoken Languages (Native Speakers - High to Low)",
    "action": "add",
-   "note": "New card (debate): Challenger's amended version: adds Urdu with only its native-speaker count, in the same bare '~NM' format as the other cards. The second-language figure is left out because it is not what orders this category."
+   "note": "New card (debate): Challenger's amended version: adds Urdu with only its native-speaker count, in the same bare '~NM' format as the other cards. The second-language figure is left out because it is not what orders this category.; Debate: Standard estimate is about 70M native speakers; order is unchanged, still below Marathi."
   },
   {
    "id": null,
@@ -29220,11 +29220,11 @@
   },
   {
    "id": null,
-   "Name": "Ramadan Returns to the Same Calendar Date",
+   "Name": "Ramadan Returns to the Same Gregorian Date",
    "Description": "About 33 years (lunar year is ~11 days shorter)",
    "Category": "How Frequent? (Time)",
    "action": "add",
-   "note": "New card (debate): Challenger's amended version: the 33-year cycle applies to the Gregorian date, not the season; sorts between Halley's Comet (76) and the sunspot cycle (11)"
+   "note": "New card (debate): Challenger's amended version: the 33-year cycle applies to the Gregorian date, not the season; sorts between Halley's Comet (76) and the sunspot cycle (11); Debate: Removes the Hijri/Gregorian ambiguity; the 33-year cycle refers to the Gregorian date."
   },
   {
    "id": null,
@@ -31761,6 +31761,62 @@
    "Category": "Rivers (Length - Long to Short)",
    "action": "add",
    "note": "New card (debate): Well-known river, correct length, shorter than the Indus."
+  },
+  {
+   "id": null,
+   "Name": "Faisalabad",
+   "Description": "About 184 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct altitude; sits between Multan (122 m) and Lahore (217 m); not yet in this category."
+  },
+  {
+   "id": null,
+   "Name": "Sialkot",
+   "Description": "About 255 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct altitude; sits between Lahore (217 m) and Peshawar (331 m); no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Al-Razi (Rhazes)",
+   "Description": "About 865",
+   "Category": "Scientists - Birth Year",
+   "action": "add",
+   "note": "New card (debate): Muslim physician fitting the category; birth c. 865, between Al-Khwarizmi (780) and Ibn al-Haytham; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Luna 2",
+   "Description": "Launched 1959 (first craft to reach the Moon)",
+   "Category": "Space Missions (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate and unique year, between Sputnik 1 (1957) and Vostok 1 (1961)."
+  },
+  {
+   "id": null,
+   "Name": "Sultan Abdul Hamid II",
+   "Description": "33 years (1876-1909)",
+   "Category": "Length of Reign (Years)",
+   "action": "add",
+   "note": "New card (debate): Accurate; distinct value from every existing card in the category."
+  },
+  {
+   "id": null,
+   "Name": "Karachi",
+   "Description": "c. 1729 (settlement of Kolachi)",
+   "Category": "World Cities By Date Founded",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version marking the traditional date as approximate; fits between New York City (1624) and Melbourne (1835)."
+  },
+  {
+   "id": null,
+   "Name": "Islamabad",
+   "Description": "1960 (construction of the planned capital began)",
+   "Category": "World Cities By Date Founded",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version states what 1960 marks, so the reveal is accurate."
   }
  ]
 }
