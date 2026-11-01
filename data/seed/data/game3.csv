@@ -634,7 +634,7 @@ I drink more than five cups of chai a day.,I drink more than five glasses of wat
 I always reach weddings on time.,I am never late for work.|I always reach the airport early.|I hate waiting for people.|I am the first to leave a dawat.|I am always the last guest to leave.,Rating
 I could survive a Karachi summer without AC.,I could survive a week without my phone.|I love hot weather.|I could sleep through a power cut.|I could survive a Murree winter without a heater.|I never use a fan.,Rating
 I talk to my plants.,I talk to my pets.|I talk to myself.|I love gardening.|I give names to my belongings.|I talk in my sleep.,Rating
-I am the best driver in my family.,I am the best cook in my family.|I can parallel park easily.|I love long drives.|I have never got a traffic challan.|I drive faster than I should.,Rating
+I am the best driver in my family.,I am the best cook in my family.|I can reverse into any tight spot easily.|I love long drives.|I have never got a traffic challan.|I drive faster than I should.,Rating
 I can bargain like a pro.,I always get the best deals online.|I never pay full price.|I hate shopping.|I am good with money.|I can sell anything to anyone.,Rating
 I would happily live in a village.,I’d love to live on a farm.|I could live without the internet.|I’d like to live in the mountains.|I prefer small towns to big cities.|I love camping.,Rating
 I’ve never lost an argument.,I always win at carrom.|I’m always right.|I love debating.|I hate apologising.|I’ve never lost a game of ludo.,Rating
@@ -647,7 +647,7 @@ I’d make a great teacher.,I’d make a great doctor.|I’d make a great Prime 
 I could sleep for twelve hours straight.,I nap every afternoon.|I can sleep anywhere.|I’m a night owl.|I never need an alarm.|I sleep through every alarm.,Rating
 Rainy days are the best days.,I love thunderstorms.|Sunny days are the best.|I hate getting wet.|Winter is the best season.|I love the smell of rain.,Rating
 I’m the funniest person in my family.,I’m the loudest person in my family.|I laugh at my own jokes.|I’m the smartest person in my family.|I’m good at telling stories.|I can make anyone laugh.,Rating
-I could win a cooking competition.,I could win a spelling competition.|I can cook for 50 people.|I love watching cooking videos.|I can make perfectly round rotis.|I could win a quiz show.,Rating
+I could win a cooking competition.,I could win a spelling competition.|I can cook for 50 people.|I love watching cooking videos.|I can make perfectly round rotis.|I could win a school quiz competition.,Rating
 Pakistani weddings are too long.,Pakistani weddings are too expensive.|Nikahs should be kept simple.|Weddings should be one day only.|I always eat too much at weddings.|Weddings are the best way to meet relatives.,Rating
 Your friend’s new biryani is far too salty and they ask for your honest opinion. You say...,“It’s perfect”|“It’s a bit salty”|“I’m not hungry”,Morality
 The cashier accidentally gives you Rs. 500 too much change. You...,return it right away|keep it|give it to charity,Morality
@@ -660,11 +660,11 @@ The food opens at a wedding and the queue is very long. You...,wait your turn|pu
 "You find a lost wallet with Rs. 20,000 and an ID card inside. You...",return it in person|hand it to the police|keep the cash and post the ID card,Morality
 "Your khala asks you to fix her phone, but you make it worse. You...",confess|blame the phone|quietly buy her a new one,Morality
 Spices,Haldi|Zeera|Dhania|Lal Mirch|Kali Mirch|Elaichi|Laung|Darchini|Tej Patta|Saunf|Methi Dana|Rai|Kalonji|Ajwain|Javitri|Jaifal|Badiyan|Zafran|Amchur|Anardana,
-Mango Varieties,Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Desi Aam|Gulab Khas|Tota Pari,
+Mango Varieties,Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Gulab Khas|Tota Pari,
 Cricket Terms,Googly|Yorker|Bouncer|Doosra|No Ball|Wide|LBW|Run Out|Stumped|Hat-trick|Duck|Century|Sixer|Boundary|Maiden Over|Reverse Swing|Super Over|Free Hit|Powerplay|Follow On,
-Biscuits,Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik|Chocolicious|Bakeri,
+Biscuits,Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik|Chocolicious,
 Pakistani Lakes,Saiful Muluk|Attabad Lake|Rawal Lake|Keenjhar Lake|Manchar Lake|Hanna Lake|Satpara Lake|Sheosar Lake|Lulusar Lake|Kachura Lake|Borith Lake|Banjosa Lake|Haleji Lake|Khanpur Lake|Kallar Kahar Lake|Ansoo Lake|Mahodand Lake|Namal Lake|Uchhali Lake|Dudipatsar Lake,
-Pakistani Mountains and Peaks,K2|Nanga Parbat|Rakaposhi|Tirich Mir|Broad Peak|Gasherbrum|Masherbrum|Ladyfinger Peak|Passu Cones|Diran|Haramosh|Makra Peak|Trango Towers|Malika Parbat|Musa ka Musalla|Mukshpuri|Margalla Hills|Chiltan|Takht e Sulaiman|Tilla Jogian,
+Pakistani Mountains and Peaks,K2|Nanga Parbat|Rakaposhi|Tirich Mir|Broad Peak|Gasherbrum|Masherbrum|Ladyfinger Peak|Passu Cones|Diran|Haramosh|Makra Peak|Trango Towers|Malika Parbat|Musa ka Musalla|Mukshpuri|Margalla Hills|Chiltan|Takht e Sulaiman,
 Things at a Bank,Cashier|Counter|Queue|Token|Security Guard|ATM|Cheque Book|Deposit Slip|Passbook|Locker|Signature|CNIC Copy|Branch Manager|Cash Counting Machine|Pen on a Chain|Utility Bills|Account Opening Form|Waiting Chairs|Stamp|Receipt,
 Things at a Post Office,Letter|Envelope|Postage Stamp|Parcel|Postman|Post Box|Address|Postal Code|Money Order|Registered Post|Urgent Mail|Tracking Number|Weighing Scale|Postcard|Postmark|Postal Order|Sorting Rack|Courier Bike|Pension Day|Return to Sender,
 Things in a Government Office,Files|Stamp|Clerk|Peon|Queue|Token|Signature|Attested Copies|Photocopy|Stamp Paper|Thumb Impression|Form|Notice Board|Register|Waiting Bench|Chai|Ceiling Fan|Lunch Break|Officer's Chair|Come Tomorrow,
@@ -987,3 +987,12 @@ Draw a ceiling fan.,Draw a windmill.|Draw a flower.|Draw a propeller.|Draw a ped
 Draw a rooftop water tank.,Draw a water cooler.|Draw a dustbin.|Draw a petrol drum.|Draw a gas cylinder.,Drawing 2
 A cut kite lands on your roof and a child from the street below is crying for it. You...,return it|fly it|keep it,Morality
 Everyone has left the iftar table for Maghrib prayer and one samosa is left on the plate. You...,take it|leave it|save it for someone,Morality
+Things at a Fish Market,Rohu|Pomfret|Prawns|Palla|Singhara|Surmai|Crab|Tilapia|Ice Block|Weighing Scale|Chopping Block|Knife|Crates|Fishmonger|Stray Cats|Crows|Plastic Bag|Bargaining|Wet Floor|Strong Smell,
+Draw a chowkidar.,Draw a policeman.|Draw a security guard at a bank.|Draw a night watchman with a torch.|Draw a traffic warden.|Draw a soldier on duty.,Drawing 2
+Draw a bus conductor hanging from the door.,Draw a bus driver.|Draw a passenger sitting on the roof of a bus.|Draw a rickshaw driver.|Draw a ticket seller at a station.|Draw a crowded Hiace van.,Drawing 2
+Draw a desert cooler.,Draw an air conditioner.|Draw a pedestal fan.|Draw a ceiling fan.|Draw a water cooler.|Draw a room heater.,Drawing 2
+Draw a sewing machine.,Draw a typewriter.|Draw a spinning wheel.|Draw a pair of scissors.|Draw a needle and thread.|Draw a tailor at work.,Drawing 2
+I always read the manual before using a new gadget.,I always read the terms and conditions.|I never ask for directions.|I fix things myself instead of calling a mechanic.|I enjoy setting up a new phone.|I give up quickly when something won't work.,Rating
+I enjoy cooking more than eating.,I enjoy eating more than cooking.|I enjoy washing up after a dawat.|I enjoy shopping for groceries.|I enjoy trying new recipes.|I enjoy cooking for guests.,Rating
+Your friend leaves their phone unlocked on the table and a message pops up. You...,don't look|glance quickly|tell them when they return,Morality
+Someone cuts into the long queue at the bank and the guard doesn't notice. You...,speak up politely|let it go|cut in front of them too,Morality

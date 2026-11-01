@@ -9477,10 +9477,10 @@
   {
    "id": null,
    "Name": "I am the best driver in my family.",
-   "Description": "I am the best cook in my family.|I can parallel park easily.|I love long drives.|I have never got a traffic challan.|I drive faster than I should.",
+   "Description": "I am the best cook in my family.|I can reverse into any tight spot easily.|I love long drives.|I have never got a traffic challan.|I drive faster than I should.",
    "Category": "Rating",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Removes Western parallel-parking reference."
   },
   {
    "id": null,
@@ -9581,10 +9581,10 @@
   {
    "id": null,
    "Name": "I could win a cooking competition.",
-   "Description": "I could win a spelling competition.|I can cook for 50 people.|I love watching cooking videos.|I can make perfectly round rotis.|I could win a quiz show.",
+   "Description": "I could win a spelling competition.|I can cook for 50 people.|I love watching cooking videos.|I can make perfectly round rotis.|I could win a school quiz competition.",
    "Category": "Rating",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Replaces TV quiz show with school quiz."
   },
   {
    "id": null,
@@ -9685,10 +9685,10 @@
   {
    "id": null,
    "Name": "Mango Varieties",
-   "Description": "Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Desi Aam|Gulab Khas|Tota Pari",
+   "Description": "Sindhri|Chaunsa|Anwar Ratol|Langra|Dusehri|Saroli|Fajri|Almas|Began Phali|Neelum|Gulab Khas|Tota Pari",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): A very Pakistani topic with no existing card. Sufaid/Kala Chaunsa dropped as near-duplicates of Chaunsa, Totapuri as mainly Indian, and the challenger's 'Collector' as unverified; Debate: Challenger's amended version. It adds two Pakistani varieties that players know and leaves out Totapuri and Malda (better known in India) and the near-duplicate Sufaid Chaunsa."
+   "note": "New card (debate): A very Pakistani topic with no existing card. Sufaid/Kala Chaunsa dropped as near-duplicates of Chaunsa, Totapuri as mainly Indian, and the challenger's 'Collector' as unverified; Debate: Challenger's amended version. It adds two Pakistani varieties that players know and leaves out Totapuri and Malda (better known in India) and the near-duplicate Sufaid Chaunsa.; Debate: 'Desi A"
   },
   {
    "id": null,
@@ -9701,10 +9701,10 @@
   {
    "id": null,
    "Name": "Biscuits",
-   "Description": "Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik|Chocolicious|Bakeri",
+   "Description": "Prince|Tuc|Gala|Zeera Plus|Sooper|Candi|Rio|Marie|Cocomo|Party|Oreo|Gluco|Nice|Digestive|Peanut Pik|Chocolicious",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Pakistani Snacks already covers crisps, so this card is biscuits only. Challenger's version without Tiger, which may not be a Pakistani brand; Debate: Challenger's amended version. It adds two well-known Pakistani biscuits and keeps Party, because a brand name does not break the no-parties rule and removing it is not justified."
+   "note": "New card (debate): Pakistani Snacks already covers crisps, so this card is biscuits only. Challenger's version without Tiger, which may not be a Pakistani brand; Debate: Challenger's amended version. It adds two well-known Pakistani biscuits and keeps Party, because a brand name does not break the no-parties rule and removing it is not justified.; Debate: Removes unclear 'Bakeri'."
   },
   {
    "id": null,
@@ -9717,10 +9717,10 @@
   {
    "id": null,
    "Name": "Pakistani Mountains and Peaks",
-   "Description": "K2|Nanga Parbat|Rakaposhi|Tirich Mir|Broad Peak|Gasherbrum|Masherbrum|Ladyfinger Peak|Passu Cones|Diran|Haramosh|Makra Peak|Trango Towers|Malika Parbat|Musa ka Musalla|Mukshpuri|Margalla Hills|Chiltan|Takht e Sulaiman|Tilla Jogian",
+   "Description": "K2|Nanga Parbat|Rakaposhi|Tirich Mir|Broad Peak|Gasherbrum|Masherbrum|Ladyfinger Peak|Passu Cones|Diran|Haramosh|Makra Peak|Trango Towers|Malika Parbat|Musa ka Musalla|Mukshpuri|Margalla Hills|Chiltan|Takht e Sulaiman",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New local geography topic; challenger's version removes the Takht e Sulaiman/Koh e Sulaiman overlap and obscure Spantik."
+   "note": "New card (debate): New local geography topic; challenger's version removes the Takht e Sulaiman/Koh e Sulaiman overlap and obscure Spantik.; Debate: Tilla Jogian is a small hill, not a peak."
   },
   {
    "id": null,
@@ -12297,6 +12297,78 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Amended to fix the fasting inaccuracy and unusable option."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Fish Market",
+   "Description": "Rohu|Pomfret|Prawns|Palla|Singhara|Surmai|Crab|Tilapia|Ice Block|Weighing Scale|Chopping Block|Knife|Crates|Fishmonger|Stray Cats|Crows|Plastic Bag|Bargaining|Wet Floor|Strong Smell",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version with realistic market items; new local topic."
+  },
+  {
+   "id": null,
+   "Name": "Draw a chowkidar.",
+   "Description": "Draw a policeman.|Draw a security guard at a bank.|Draw a night watchman with a torch.|Draw a traffic warden.|Draw a soldier on duty.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local figure; swapped 'gatekeeper' decoy (synonym of chowkidar) for a distinct one."
+  },
+  {
+   "id": null,
+   "Name": "Draw a bus conductor hanging from the door.",
+   "Description": "Draw a bus driver.|Draw a passenger sitting on the roof of a bus.|Draw a rickshaw driver.|Draw a ticket seller at a station.|Draw a crowded Hiace van.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable Pakistani scene; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Draw a desert cooler.",
+   "Description": "Draw an air conditioner.|Draw a pedestal fan.|Draw a ceiling fan.|Draw a water cooler.|Draw a room heater.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger's closer cooling-appliance decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a sewing machine.",
+   "Description": "Draw a typewriter.|Draw a spinning wheel.|Draw a pair of scissors.|Draw a needle and thread.|Draw a tailor at work.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger's tighter decoys."
+  },
+  {
+   "id": null,
+   "Name": "I always read the manual before using a new gadget.",
+   "Description": "I always read the terms and conditions.|I never ask for directions.|I fix things myself instead of calling a mechanic.|I enjoy setting up a new phone.|I give up quickly when something won't work.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable rating, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I enjoy cooking more than eating.",
+   "Description": "I enjoy eating more than cooking.|I enjoy washing up after a dawat.|I enjoy shopping for groceries.|I enjoy trying new recipes.|I enjoy cooking for guests.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): No duplicate; close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Your friend leaves their phone unlocked on the table and a message pops up. You...",
+   "Description": "don't look|glance quickly|tell them when they return",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Relatable dilemma, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Someone cuts into the long queue at the bank and the guard doesn't notice. You...",
+   "Description": "speak up politely|let it go|cut in front of them too",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Local dilemma, distinct from wedding queue card."
   }
  ]
 }

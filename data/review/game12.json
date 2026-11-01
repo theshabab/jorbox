@@ -11483,6 +11483,42 @@
    "Name": "Sharbat",
    "action": "add",
    "note": "New card (debate): Distinct drink, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Postman",
+   "action": "add",
+   "note": "New card (debate): Easy-to-act profession noun, not in deck; Parcel is an object, not the job."
+  },
+  {
+   "id": null,
+   "Name": "Wedding Hall",
+   "action": "add",
+   "note": "New card (debate): Local venue noun, distinct from event cards like Walima/Nikah."
+  },
+  {
+   "id": null,
+   "Name": "Hunger",
+   "action": "add",
+   "note": "New card (debate): Relatable abstract noun like Loneliness; distinct from Roza (the act)."
+  },
+  {
+   "id": null,
+   "Name": "Power Bank",
+   "action": "add",
+   "note": "New card (debate): Everyday object, not a duplicate of Charger/Battery/Inverter."
+  },
+  {
+   "id": null,
+   "Name": "Extension Board",
+   "action": "add",
+   "note": "New card (debate): Distinctly Pakistani household object, not a duplicate of Plug/Wall Socket."
+  },
+  {
+   "id": null,
+   "Name": "Orchard",
+   "action": "add",
+   "note": "New card (debate): Distinct place noun, easy to draw, not in deck."
   }
  ]
 }
