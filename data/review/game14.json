@@ -6234,8 +6234,8 @@
    "id": null,
    "Description": "How many items of clothing have you mended or stitched instead of buying new?",
    "Category": "Number",
-   "action": "add",
-   "note": "New card (debate): Thrift theme; not covered (needing stitches and nala card differ)."
+   "action": "remove",
+   "note": "Debate: Subset of live card 659 (repaired something instead of buying new); 659 is a live add in the review file."
   },
   {
    "id": null,
@@ -6642,6 +6642,62 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Fresh family humour; different from the believing-forwards and teaching-WhatsApp cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you recited Ayat-ul-Kursi?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worship-related count, allowed; no Ayat-ul-Kursi card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you attended a janazah?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Respectful, answerable local-life count; no janazah card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many people did you give the traditional three-times hug to on Eid day?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording is answerable; the original was garbled. Eid custom not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you done tasbeeh or istighfar while stuck in traffic?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's shorter version with a single condition and an easier weekly window; no tasbeeh card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you regretted a haircut?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Light, answerable; distinct from hairstyle change and hair dye cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to send durood on the Prophet (peace be upon him) on a Friday?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Jumuah worship question; allowed and no durood card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you flown a kite from a rooftop and had it cut by someone else?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing kite count and skill cards; nostalgic and answerable."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep a generator, UPS or solar backup running just so you never face load shedding?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): New local-life angle; existing load-shedding cards cover panic and hours only."
   }
  ]
 }

@@ -5132,13 +5132,13 @@
   {
    "id": "game11-467",
    "Name": "Customer",
-   "Description": "Runaway",
-   "action": "keep",
+   "Description": "Kid Who Ran Away from Home",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Runaway"
    },
-   "note": ""
+   "note": "Debate: Runaway alone is vague; the longer label is clear and mildly dark content is allowed."
   },
   {
    "id": "game11-468",
@@ -5451,13 +5451,13 @@
   {
    "id": "game11-496",
    "Name": "Customer",
-   "Description": "Trucker",
-   "action": "keep",
+   "Description": "Truck Driver",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Trucker"
    },
-   "note": ""
+   "note": "Debate: Trucker is American; Truck Driver is the natural Pakistani phrasing, and no duplicate exists."
   },
   {
    "id": "game11-497",
@@ -8017,6 +8017,62 @@
    "Description": "Orphanage Caretaker",
    "action": "add",
    "note": "New card (debate): Respectful community and charity customer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Kabaddi Player",
+   "action": "add",
+   "note": "New card (debate): Well-known local sport, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bridal Beautician",
+   "action": "add",
+   "note": "New card (debate): Beautician is the usual Pakistani term; the amended wording is better than Bridal Makeup Artist, and it is not a duplicate of Mehndi Artist."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Tonga Wala",
+   "action": "add",
+   "note": "New card (debate): Recognisable local transport figure, distinct from Rickshaw Driver."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Village Chaudhry",
+   "action": "add",
+   "note": "New card (debate): Recognisable rural figure, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bookseller",
+   "action": "add",
+   "note": "New card (debate): Dropping the city-specific bazaar name lets all players recognise it."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My chacha tells the same story about _____ at every gathering!",
+   "action": "add",
+   "note": "New card (debate): Relatable family humour with a playable blank, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The shaadi hall's AC stopped working in the middle of _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct local shaadi scenario with an open blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The shopkeeper at Anarkali Bazaar sold me _____ as 'original'!",
+   "action": "add",
+   "note": "New card (debate): Local bazaar problem with an open blank; no existing card covers fake original goods."
   }
  ]
 }

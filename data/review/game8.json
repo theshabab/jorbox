@@ -4438,7 +4438,7 @@
   },
   {
    "id": "game8-342",
-   "Name": "NOT SAFE! <---> BABYSITTER 5000",
+   "Name": "NOT SAFE <---> VERY SAFE",
    "Description": "Draw a robot that is this safe to leave in charge of your baby cousin",
    "Category": "Drawing",
    "action": "edit",
@@ -4447,7 +4447,7 @@
     "Description": "Draw a robot that is this safe to babysit a puppy",
     "Category": "Drawing"
    },
-   "note": "Debate: Puppy-sitting is a Western frame; looking after a baby cousin keeps the joke and is more relatable locally."
+   "note": "Debate: Puppy-sitting is a Western frame; looking after a baby cousin keeps the joke and is more relatable locally.; Debate: BABYSITTER 5000 reads as a product name and is not a clear opposite of NOT SAFE; plain safe/unsafe ends keep the idea."
   },
   {
    "id": "game8-343",
@@ -5128,15 +5128,15 @@
   {
    "id": "game8-395",
    "Name": "NOT AFRAID <---> VERY AFRAID",
-   "Description": "Draw a robot that is this afraid of death",
+   "Description": "Draw a robot that is this afraid of water",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT AFRAID <---> VERY AFRAID",
     "Description": "Draw a robot that is this afraid of death",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Fear of water is clearer and easier to draw than fear of death; distinct from the robot-afraid-of-people card."
   },
   {
    "id": "game8-396",
@@ -11006,6 +11006,46 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Easy drawing, money angle; scale ends made clearer opposites."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> LOADED WITH DRY FRUITS",
+   "Description": "Draw a bowl of kheer that is this loaded with dry fruits",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Local dessert, clear opposites, drawable; no kheer card is live."
+  },
+  {
+   "id": null,
+   "Name": "SPOTLESS <---> BIRYANI EVERYWHERE",
+   "Description": "Draw a white kurta at the end of a dawat that is this stained",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable local scene with a clear scale; no kurta or stain card is live."
+  },
+  {
+   "id": null,
+   "Name": "FLAT <---> PERFECTLY PUFFED",
+   "Description": "Draw a puri that is this puffed up",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Local food, clear opposite ends, easy to draw; no puri card is live."
+  },
+  {
+   "id": null,
+   "Name": "SOFT <---> SO ITCHY",
+   "Description": "Draw a hand-knitted sweater from Dadi that is this itchy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable family-gift theme with clear ends; no sweater card is live."
+  },
+  {
+   "id": null,
+   "Name": "SPOTLESS <---> THICK WITH DUST",
+   "Description": "Draw a ceiling fan that is this dusty",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable household object with a clear scale; distinct from the jugaar pedestal fan card."
   }
  ]
 }

@@ -303,7 +303,7 @@ NO WAY <---> COULD BUILD,Draw a robot that you’re this certain you yourself co
 NOT LIKELY <---> VERY LIKELY,Draw a robot that is this likely to have been designed by a teenage boy,Drawing
 BAD DISGUISE <---> LOOKS HUMAN,Draw a robot that is this successfully disguising itself as a human,Drawing
 ONE TASK <---> TEN TASKS,Draw a robot that can perform this many tasks,Drawing
-NOT SAFE! <---> BABYSITTER 5000,Draw a robot that is this safe to leave in charge of your baby cousin,Drawing
+NOT SAFE <---> VERY SAFE,Draw a robot that is this safe to leave in charge of your baby cousin,Drawing
 MESSY <---> SO SLEEK,Draw a robot that is this sleek,Drawing
 NOT HUMAN SHAPED <---> HUMAN SHAPED,Draw a robot that is this human-shaped,Drawing
 SAFE TUMMY <---> TUMMY ACHE,Draw a meal that is this likely to give you a tummy ache,Drawing
@@ -355,7 +355,7 @@ EASY <---> IMPOSSIBLE,Draw a food item that would be this difficult to eat while
 NOT SCARY <---> TOO SCARY,Draw a costume for a school play that is this scary,Drawing
 NOT CUTE <---> VERY CUTE,Draw an outfit for a cat that is this adorable,Drawing
 INAPPROPRIATE <---> APPROPRIATE,Draw an outfit that is this appropriate to wear to a funeral,Drawing
-NOT AFRAID <---> VERY AFRAID,Draw a robot that is this afraid of death,Drawing
+NOT AFRAID <---> VERY AFRAID,Draw a robot that is this afraid of water,Drawing
 COWARD <---> VERY BRAVE,Draw a bug that is this brave,Drawing
 UNHAPPY <---> VERY HAPPY,Draw a stick figure that is this happy with its job,Drawing
 UNRIDEABLE <---> VERY RIDEABLE,Draw a pet that you are this likely to be able to ride,Drawing
@@ -900,3 +900,8 @@ LIGHT PURSE <---> CARAVAN OF GOLD,"Draw the caravan of Mansa Musa of Mali, who w
 CLEARLY KNOWS YOU <---> NO IDEA WHO YOU ARE,"Write what a relative at a shaadi says when she greets you, if she is this unsure who you are",Writing
 WEAK EXCUSE <---> CAN'T SAY NO,Write a message to your manager asking for a day off for your cousin's shaadi that is this convincing,Writing
 STUFFED <---> EMPTY,"Draw Abbu's wallet on the last day of the month, with this much left in it",Drawing
+PLAIN <---> LOADED WITH DRY FRUITS,Draw a bowl of kheer that is this loaded with dry fruits,Drawing
+SPOTLESS <---> BIRYANI EVERYWHERE,Draw a white kurta at the end of a dawat that is this stained,Drawing
+FLAT <---> PERFECTLY PUFFED,Draw a puri that is this puffed up,Drawing
+SOFT <---> SO ITCHY,Draw a hand-knitted sweater from Dadi that is this itchy,Drawing
+SPOTLESS <---> THICK WITH DUST,Draw a ceiling fan that is this dusty,Drawing
