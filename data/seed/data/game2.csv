@@ -114,7 +114,7 @@ Zucchini,Green | Courgette | Squash | Long | Salad,Vegetables
 Pumpkin,Kaddu | Orange | Big | Halwa | Round,Vegetables
 Bitter Gourd,Karela | Kadwa | Green | Diabetes | Spiky,Vegetables
 Bottle Gourd,Lauki | Ghiya | Green | Long | Halwa,Vegetables
-Capsicum,Shimla Mirch | Bell Pepper | Green | Pizza | Stuffed,Vegetables
+Capsicum,Shimla Mirch | Bell Pepper | Green | Stuffed | Qeema,Vegetables
 Chili,Mirch | Spicy | Hot | Green | Red,Vegetables
 Lemon,Nimbu | Sour | Yellow | Juice | Khatta,Fruits
 Beetroot,Chukandar | Red | Purple | Salad | Juice,Vegetables
@@ -126,7 +126,7 @@ Sari,India | Wrap | Bangladesh | Blouse | Six Yards,Clothing
 Lehnga,Bride | Wedding | Choli | Skirt | Heavy,Clothing
 Sherwani,Groom | Dulha | Wedding | Long Coat | Quaid,Clothing
 Waistcoat,Koti | Sleeveless | Kurta | Buttons | Suit,Clothing
-Turban,Pagri | Head | Sikh | Wrap | Pathan,Clothing
+Turban,Pagri | Head | Dastar | Wrap | Pathan,Clothing
 Scarf,Neck | Muffler | Winter | Wool | Wrap,Clothing
 Shawl,Chaadar | Winter | Wool | Kashmiri | Wrap,Clothing
 Ajrak,Sindh | Block Print | Red | Topi | Shawl,Clothing
@@ -154,7 +154,7 @@ Stool,Seat | Three Legs | No Back | Small | Peerhi,Furniture
 Bench,Park | Long | Seat | School | Bus Stop,Furniture
 Bookshelf,Books | Library | Shelves | Read | Rack,Furniture
 Dressing Table,Mirror | Makeup | Drawers | Bedroom | Comb,Furniture
-Mirror,Sheesha | Reflection | Face | Glass | Look,Furniture
+Mirror,Sheesha | Aaina | Reflection | Face | Glass,Furniture
 Lamp,Light | Bulb | Table | Shade | Night,Furniture
 Carpet,Qaleen | Floor | Persian | Wall To Wall | Vacuum,Furniture
 Curtain,Parda | Window | Cloth | Rod | Close,Furniture
@@ -1180,3 +1180,12 @@ Jackfruit,Kathal | Huge | Spiky | Sabzi | Tree,Fruits
 Mosambi,Sweet Lime | Juice | Green | Citrus | Sick,Fruits
 Ber,Jujube | Small | Tree | Sweet | Stone,Fruits
 Dragon Fruit,Pitaya | Pink | Cactus | Scales | Seeds,Fruits
+Tori,Ridge Gourd | Green | Ribbed | Sabzi | Summer,Vegetables
+Gharara,Wedding | Wide Legs | Bride | Kameez | Flared,Clothing
+Rehal,Quran | Stand | Wooden | Folding | Reading,Furniture
+Takht Posh,Wooden | Sit | Sleep | Platform | Lounge,Furniture
+Bunk Bed,Two Levels | Ladder | Kids | Siblings | Top,Furniture
+Chakla,Belan | Roti | Round | Board | Dough,Kitchen Items
+Hot Case,Roti | Keeps Warm | Chapati | Lid | Steel,Kitchen Items
+Hyena,Lakar Baggha | Laugh | Scavenger | Pack | Spotted,Animals
+Bull,Saand | Horns | Male | Cow | Bail,Animals

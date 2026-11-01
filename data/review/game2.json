@@ -1527,7 +1527,7 @@
   {
    "id": "game2-118",
    "Name": "Capsicum",
-   "Description": "Shimla Mirch | Bell Pepper | Green | Pizza | Stuffed",
+   "Description": "Shimla Mirch | Bell Pepper | Green | Stuffed | Qeema",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1535,7 +1535,7 @@
     "Description": "vegetable | green | salad | cook",
     "Category": "Vegetables"
    },
-   "note": ""
+   "note": "Debate: Stuffed and Qeema are more useful banned words than the Western Pizza hint."
   },
   {
    "id": "game2-119",
@@ -1709,7 +1709,7 @@
   {
    "id": "game2-132",
    "Name": "Turban",
-   "Description": "Pagri | Head | Sikh | Wrap | Pathan",
+   "Description": "Pagri | Head | Dastar | Wrap | Pathan",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1717,7 +1717,7 @@
     "Description": "wear | dress | traditional | cloth",
     "Category": "Clothing"
    },
-   "note": ""
+   "note": "Debate: Dastar is a real synonym and a stronger banned word than Sikh."
   },
   {
    "id": "game2-133",
@@ -2086,7 +2086,7 @@
   {
    "id": "game2-161",
    "Name": "Mirror",
-   "Description": "Sheesha | Reflection | Face | Glass | Look",
+   "Description": "Sheesha | Aaina | Reflection | Face | Glass",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2094,7 +2094,7 @@
     "Description": "furniture | wood | sit | home",
     "Category": "Furniture"
    },
-   "note": "Not really furniture; acceptable as household item.; Debate: Spelling: Shesha corrected to Sheesha."
+   "note": "Not really furniture; acceptable as household item.; Debate: Spelling: Shesha corrected to Sheesha.; Debate: Aaina is the word players actually say, and it replaces the weak 'Look'."
   },
   {
    "id": "game2-162",
@@ -13511,6 +13511,78 @@
    "Category": "Fruits",
    "action": "add",
    "note": "New card (debate): Challenger amendment: Pitaya replaces vague Exotic."
+  },
+  {
+   "id": null,
+   "Name": "Tori",
+   "Description": "Ridge Gourd | Green | Ribbed | Sabzi | Summer",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani sabzi, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Gharara",
+   "Description": "Wedding | Wide Legs | Bride | Kameez | Flared",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Classic Pakistani wedding outfit, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Rehal",
+   "Description": "Quran | Stand | Wooden | Folding | Reading",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "New card (debate): Familiar item in Muslim homes, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Takht Posh",
+   "Description": "Wooden | Sit | Sleep | Platform | Lounge",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "New card (debate): Traditional seating/bed, distinct from Charpai and Cot."
+  },
+  {
+   "id": null,
+   "Name": "Bunk Bed",
+   "Description": "Two Levels | Ladder | Kids | Siblings | Top",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "New card (debate): Relatable furniture, distinct from Bed."
+  },
+  {
+   "id": null,
+   "Name": "Chakla",
+   "Description": "Belan | Roti | Round | Board | Dough",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Everyday desi kitchen tool, distinct from Rolling Pin."
+  },
+  {
+   "id": null,
+   "Name": "Hot Case",
+   "Description": "Roti | Keeps Warm | Chapati | Lid | Steel",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Very familiar Pakistani household item, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Hyena",
+   "Description": "Lakar Baggha | Laugh | Scavenger | Pack | Spotted",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Well-known animal missing from the Animals set."
+  },
+  {
+   "id": null,
+   "Name": "Bull",
+   "Description": "Saand | Horns | Male | Cow | Bail",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Common animal missing from the deck; challenger's amendment replaces the weak 'Angry' hint with Bail."
   }
  ]
 }

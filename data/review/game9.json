@@ -4605,12 +4605,12 @@
    "id": "game9-419",
    "Name": "Which country lies between mainland India and its northeastern states, on the Bay of Bengal?",
    "Description": "Bangladesh",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of these countries is located the FURTHEST away from the South China Sea?",
     "Description": "Bangladesh"
    },
-   "note": "multiple-choice remnant rewritten"
+   "note": "Debate: Misleading geography (Siliguri corridor). Bangladesh is covered by two live cards (1971 independence, capital Dhaka), so removing loses nothing."
   },
   {
    "id": "game9-420",
@@ -5188,12 +5188,12 @@
    "id": "game9-472",
    "Name": "From 1940 to 1943, which city was the capital of Free France?",
    "Description": "Brazzaville",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "From 1940 to 1942, what was the capital-in-exile of Free France ?",
     "Description": "Brazzaville"
    },
-   "note": "dates/spacing"
+   "note": "Debate: Too obscure for a family party deck and only a symbolic capital."
   },
   {
    "id": "game9-473",
@@ -13077,6 +13077,48 @@
    "Description": "Chameleon",
    "action": "add",
    "note": "New card (debate): Correct, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "What is molten rock beneath the Earth's surface called?",
+   "Description": "Magma",
+   "action": "add",
+   "note": "New card (debate): Accurate, easy, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which ocean lies between Africa, Asia and Australia?",
+   "Description": "Indian Ocean",
+   "action": "add",
+   "note": "New card (debate): Indian Ocean absent from deck. Challenger's Arabian Sea frame would nearly duplicate the live Arabian Sea card, so the original wording is kept."
+  },
+  {
+   "id": null,
+   "Name": "Which narrow strait between Malaysia and Indonesia is one of the world's busiest shipping lanes?",
+   "Description": "Strait of Malacca",
+   "action": "add",
+   "note": "New card (debate): Accurate, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "What is the clear front layer of the eye that covers the iris and pupil?",
+   "Description": "Cornea",
+   "action": "add",
+   "note": "New card (debate): Accurate, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "At absolute zero, what is the temperature in degrees Celsius?",
+   "Description": "-273.15 degrees Celsius (0 Kelvin)",
+   "action": "add",
+   "note": "New card (debate): Exact by definition; 'About' removed."
+  },
+  {
+   "id": null,
+   "Name": "What is the world's largest rainforest, covering much of Brazil and eight other countries in South America?",
+   "Description": "The Amazon rainforest",
+   "action": "add",
+   "note": "New card (debate): Clearer, accurate wording; distinct from the Amazon river card."
   }
  ]
 }

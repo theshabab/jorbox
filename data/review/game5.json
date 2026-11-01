@@ -30298,13 +30298,13 @@
    "Name": "",
    "Description": "How will the PM help Pakistan start winning against Mother Nature again?",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "How will The PM help Pakistan start winning against Mother Nature again?",
     "Category": ""
    },
-   "note": "Capitalisation"
+   "note": "Debate: Hints at floods and disasters and is vague."
   },
   {
    "id": "game5-2332",
@@ -30699,15 +30699,15 @@
   {
    "id": "game5-2362",
    "Name": "",
-   "Description": "I am fairly certain that ____ is not gluten free.",
+   "Description": "I am fairly certain that ____ is not sugar-free.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I am fairly certain that ____ is not gluten free.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local diabetes-uncle humour instead of gluten-free."
   },
   {
    "id": "game5-2363",
@@ -31011,15 +31011,15 @@
   {
    "id": "game5-2386",
    "Name": "",
-   "Description": "I am woman! Hear me ____.",
+   "Description": "I am Ammi! Hear me ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I am woman! Hear me ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localises a Western lyric reference."
   },
   {
    "id": "game5-2387",
@@ -32064,15 +32064,15 @@
   {
    "id": "game5-2467",
    "Name": "",
-   "Description": "I did not expect to see the popular kid spending most of the time ____ at the farewell party.",
+   "Description": "I did not expect to see the class topper spending most of the time ____ at the farewell function.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I did not expect to see the popular kid spending most of the time ____ at the farewell party.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Pakistani school framing."
   },
   {
    "id": "game5-2468",
@@ -32248,13 +32248,13 @@
    "Name": "",
    "Description": "I don't care if it's fun, ____ is sexism.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "I don't care if it's fun, ____ is sexism.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites preachy answers; weak prompt."
   },
   {
    "id": "game5-2482",
@@ -32662,15 +32662,15 @@
   {
    "id": "game5-2513",
    "Name": "",
-   "Description": "I found ____ in my cupcake.",
+   "Description": "I found ____ in my gulab jamun.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I found ____ in my cupcake.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local equivalent of cupcake."
   },
   {
    "id": "game5-2514",
@@ -32805,7 +32805,7 @@
   {
    "id": "game5-2524",
    "Name": "",
-   "Description": "I get a lot of rishta proposals on Shaadi.com because my bio says ____.",
+   "Description": "I get a lot of rishta proposals on a rishta website because my bio says ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -32813,7 +32813,7 @@
     "Description": "I get a lot of rishta proposals on Shaadi.com because my bio says ____",
     "Category": ""
    },
-   "note": "Punctuation"
+   "note": "Punctuation; Debate: Removes the specific Indian brand name."
   },
   {
    "id": "game5-2525",
@@ -33338,7 +33338,7 @@
   {
    "id": "game5-2565",
    "Name": "",
-   "Description": "I have a dream that one day this nation will rise up and live out the true meaning of ____.",
+   "Description": "I have a dream that one day Pakistan will rise up and live out the true meaning of ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -33346,7 +33346,7 @@
     "Description": "I have a dream that one day this nation wil rise up and live out the true meaning of ____.",
     "Category": ""
    },
-   "note": "Spelling"
+   "note": "Spelling; Debate: Localises a US-specific reference."
   },
   {
    "id": "game5-2566",
@@ -104757,6 +104757,78 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Army in-joke with a food theme, allowed by the owner."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I told the principal I was absent because of ____, and he actually believed me.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct school prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Daraz rider rang my bell at midnight and said, 'Sir, your order has arrived: ____.'",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version, distinct from the existing parcel-reaction card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I opened the fridge at 2 AM looking for biryani and found ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct fridge prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The whole family went silent when Phuppo asked me, 'So, beta, what are your plans for ____?'",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable relatives prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I was late for the dawat because I got stuck behind ____ on the road.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean local prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I knew we would lose the cricket match when our captain showed up with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean cricket prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My secret to scoring full marks is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Short school prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nani pulled ____ out of her steel trunk and said it was a family treasure.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh local grandmother prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Our mohalla cricket team is called 'The ____ Warriors' and nobody dares play against them.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's tightened wording."
   }
  ]
 }
