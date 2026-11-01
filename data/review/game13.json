@@ -6713,6 +6713,30 @@
    "Description": "Get a player to say the word 'Rooh Afza'.",
    "action": "add",
    "note": "New card (debate): Local drink word fits the say-the-word family; no existing Rooh Afza card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to lend you the torch on their phone.",
+   "action": "add",
+   "note": "New card (debate): No torch card exists; harmless and easy to engineer."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you where they buy their Eid clothes.",
+   "action": "add",
+   "note": "New card (debate): Eid clothes not covered; local, family friendly."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to recite the last surah of the Quran, An-Nas.",
+   "action": "add",
+   "note": "New card (debate): An-Nas is surah 114; accurate, worship-related and distinct from existing surah cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to read out the ingredients on a packet for you because you forgot your reading glasses.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: distinct from the expiry-date card and the phone-message card."
   }
  ]
 }

@@ -8350,9 +8350,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "The only thing I had to survive the passport office queue was _____!",
+   "Description": "The only thing that helped me survive the passport office queue was _____!",
    "action": "add",
-   "note": "New card (debate): Amended version keeps the passport-office wait and avoids overlap with the pocket and waiting cards."
+   "note": "New card (debate): Amended version keeps the passport-office wait and avoids overlap with the pocket and waiting cards.; Debate: Original wording is ungrammatical; the fix is clearer and keeps the idea."
   },
   {
    "id": null,
@@ -8556,6 +8556,55 @@
    "Description": "Carpet Weaver",
    "action": "add",
    "note": "New card (debate): A maker, not the existing Turkish Carpet Seller; a Pakistani craft customer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Khokha Owner (Roadside Stall)",
+   "action": "add",
+   "note": "New card (debate): Distinct, recognisable Pakistani small business; no live duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Charpai Weaver",
+   "action": "add",
+   "note": "New card (debate): Distinct local craftsperson; no live duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Murree Hotel Owner",
+   "action": "add",
+   "note": "New card (debate): Recognisable and distinct; no live duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Madrassa Ustaad Ji",
+   "action": "add",
+   "note": "New card (debate): Familiar figure, distinct from Madrassa Student and Qari Sahab."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "University Hostel Mess Cook",
+   "action": "add",
+   "note": "New card (debate): Relatable and distinct from Hostel Warden and Chef."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The mehndi function started three hours late because of _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct from the late-baraat and smudged-mehndi cards; relatable."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My relatives post my childhood photo with _____ on the family group every birthday!",
+   "action": "add",
+   "note": "New card (debate): Relatable and distinct from other family-group cards."
   }
  ]
 }

@@ -4491,8 +4491,8 @@
    "id": null,
    "Description": "How many times have you played cricket this month?",
    "Category": "Number",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Near-duplicate of the live tape-ball cricket count (an add in game14.json, not a remove), so removing this one leaves its pair in the deck."
   },
   {
    "id": null,
@@ -7132,6 +7132,27 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): New book-buying card with local frame; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to stay for all of Taraweeh instead of slipping away after a few rakats?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal question the owner allows. It asks about likelihood, while the existing Taraweeh card counts nights."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you missed your stop because you were on your phone?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's simpler wording is better; the countable travel and phone theme is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many of your cousins' weddings have you attended in total?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording removes the awkward two-year window. The cousins angle is distinct from the general weddings-per-year card."
   }
  ]
 }
