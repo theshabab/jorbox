@@ -7280,6 +7280,42 @@
    "Name": "Name something you do to save electricity at home.",
    "action": "add",
    "note": "New card (debate): Habit question with convergent answers; distinct from the appliance/bill and loadshedding cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do right after Maghrib prayer.",
+   "action": "add",
+   "note": "New card (debate): No Maghrib prompt in the slice; answers cluster and worship-related questions are allowed."
+  },
+  {
+   "id": null,
+   "Name": "Name a flavor of gola ganda.",
+   "action": "add",
+   "note": "New card (debate): Only an either/or gola ganda card exists; flavor prompt has strong matching answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something sold at a bus stop.",
+   "action": "add",
+   "note": "New card (debate): Familiar scene, clustering answers, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name something Ammi packs for relatives when they leave your house.",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing guest cards; relatable with clustering answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something you say after finishing a meal.",
+   "action": "add",
+   "note": "New card (debate): No post-meal phrase card exists; answers cluster."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do in the last minutes before iftar.",
+   "action": "add",
+   "note": "New card (debate): Not covered by existing iftar table cards; answers cluster."
   }
  ]
 }

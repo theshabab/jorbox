@@ -8579,10 +8579,10 @@
   },
   {
    "id": null,
-   "Name": "Al-Jazari's 13th-century inventions included a famous water clock and early mechanical automata. Which machine would you want him to build for your house?",
+   "Name": "Al-Jazari's 1206 Book of Ingenious Mechanical Devices described a famous water clock and early mechanical automata. Which machine would you want him to build for your house?",
    "Category": "Ice Breakers & Fun General",
    "action": "add",
-   "note": "New card (debate): Accurate (1206 book), playful, absent from deck."
+   "note": "New card (debate): Accurate (1206 book), playful, absent from deck.; Debate: The 1206 book date is verifiable and safer than the loose 13th-century claim."
   },
   {
    "id": null,
@@ -9710,6 +9710,27 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card (debate): Clearer wording than the original; light desi parenting humour."
+  },
+  {
+   "id": null,
+   "Name": "Whose homemade achar or chutney would you sneak into your bag if you could, and which meal does it make better?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): No achar card exists; the only chutney mention is bun kebab. Warm and distinct."
+  },
+  {
+   "id": null,
+   "Name": "If you had to teach one thing to a group of children in your mohalla every Sunday for free, what would it be?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Not a duplicate; the existing cards are about teachers or a skill for every child."
+  },
+  {
+   "id": null,
+   "Name": "Which part of Pakistan's landscape (the Thar desert, the Karakoram, the Indus delta or the Punjab plains) would you most like to see with your own eyes?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): No Thar, delta or plains card exists; it differs from the road-journey card."
   }
  ]
 }

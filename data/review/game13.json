@@ -1733,12 +1733,12 @@
   },
   {
    "id": "game13-193",
-   "Description": "Get a player to tell you to be quiet.",
-   "action": "keep",
+   "Description": "Get a player to ask you to keep your voice down.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to tell you to be quiet."
    },
-   "note": ""
+   "note": "Debate: Softer, natural and still doable; no duplicate."
   },
   {
    "id": "game13-194",
@@ -6707,6 +6707,12 @@
    "Description": "Get a player to compliment your topi or cap.",
    "action": "add",
    "note": "New card (debate): Fits the compliment-an-item family; different action from the live 'straighten your topi or cap' add."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Rooh Afza'.",
+   "action": "add",
+   "note": "New card (debate): Local drink word fits the say-the-word family; no existing Rooh Afza card."
   }
  ]
 }
