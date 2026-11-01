@@ -3167,13 +3167,13 @@
    "Name": "Partridge",
    "Description": "Teetar; ground game bird",
    "Category": "Birds",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Partridge",
     "Description": "A game bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Removed in Charades as overlapping Chakor"
   },
   {
    "id": "game1-245",
@@ -12678,6 +12678,78 @@
    "Name": "Swat",
    "Description": "Scenic northern valley, called Switzerland of Pakistan",
    "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Jackal",
+   "Description": "Gidar; wild scavenger that howls at night",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Fish",
+   "Description": "Machli; swims with fins and scales",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Crab",
+   "Description": "Kekra; walks sideways with two claws",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tent Pegging",
+   "Description": "Horseback sport of lifting a ground target on a lance",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Javelin",
+   "Description": "Long spear thrown in athletics; Arshad Nadeem’s event",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Bala Hisar Fort",
+   "Description": "Peshawar’s ancient stronghold above the old city",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pyramids",
+   "Description": "Egypt’s giant tombs of the pharaohs",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Potter",
+   "Description": "Kumhar; shapes clay on a wheel",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Blacksmith",
+   "Description": "Lohar; hammers hot iron into tools",
+   "Category": "Occupations",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }
