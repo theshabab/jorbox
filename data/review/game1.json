@@ -11208,6 +11208,598 @@
    "Category": "Animals",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Dolphin",
+   "Description": "Clever, friendly ocean swimmer that clicks and whistles",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kangaroo",
+   "Description": "Aussie animal carrying its baby in a belly pocket",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Panda",
+   "Description": "Chinese bear that munches on bamboo all day",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Octopus",
+   "Description": "Eight-armed sea creature that squirts dark ink",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Butterfly",
+   "Description": "Colourful winged insect that was once a caterpillar",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Falcon",
+   "Description": "Swift raptor, famous in Gulf hunting traditions",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pelican",
+   "Description": "Large water bird with a huge throat pouch",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kiwi",
+   "Description": "Fuzzy brown fruit with green flesh and tiny black seeds",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Avocado",
+   "Description": "Creamy green fruit with one big seed",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Broccoli",
+   "Description": "Green vegetable that looks like tiny trees",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Lightning",
+   "Description": "Bijli — bright flash in the sky before thunder",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tsunami",
+   "Description": "Giant sea wave after an undersea earthquake",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tornado",
+   "Description": "Violent spinning funnel of wind",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Astronaut",
+   "Description": "Person who travels beyond Earth's atmosphere",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pharmacist",
+   "Description": "Dawai wala who dispenses medicines at a chemist",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Architect",
+   "Description": "Draws plans for houses and towers",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Librarian",
+   "Description": "Looks after a quiet room full of books",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Fisherman",
+   "Description": "Machhera — earns his living from river and sea catch",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Submarine",
+   "Description": "Warship that dives and hides beneath waves",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hot Air Balloon",
+   "Description": "Huge fabric bag lifting a basket with heated gas",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Crowbar",
+   "Description": "Long bent iron lever for prying things open",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Pickaxe",
+   "Description": "Miner's pointed tool for breaking hard ground",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Whisk",
+   "Description": "Wire kitchen tool for beating eggs",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Can Opener",
+   "Description": "Tool for getting into tinned food",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Drone",
+   "Description": "Small flying camera machine with spinning blades",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Charger",
+   "Description": "Wall plug device that refills a phone's battery",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Rowing",
+   "Description": "Pulling oars to move a boat",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Weightlifting",
+   "Description": "Olympic sport of hoisting heavy barbells overhead",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Scissors",
+   "Description": "Qainchi — two-bladed tool for cutting cloth and paper",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Shark",
+   "Description": "Apex predator with sharp teeth in the sea",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Spider",
+   "Description": "Eight-legged creature spinning silk traps",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Bee",
+   "Description": "Insect that makes shahd and lives in a hive",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Cactus",
+   "Description": "Prickly desert plant storing water",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Planet",
+   "Description": "Large body circling a star, like Earth",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Eclipse",
+   "Description": "Grehan — sun or moon appears blocked; special prayer offered",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Surgeon",
+   "Description": "Doctor who operates in a theatre",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Referee",
+   "Description": "Match official who blows the whistle and gives cards",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Lifeguard",
+   "Description": "Watches swimmers and saves them at the beach",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Parachute",
+   "Description": "Fabric canopy that slows a skydiver's fall",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Spatula",
+   "Description": "Flat tool for flipping parathas and omelettes",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hiking",
+   "Description": "Long walk on mountain trails, like Margalla Hills",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sabr",
+   "Description": "Patient endurance through hardship, Ayyub's famous quality",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Shukr",
+   "Description": "Thankfulness to Allah for His blessings",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tawakkul",
+   "Description": "Relying on Allah after doing your best",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sila Rehmi",
+   "Description": "Maintaining good ties with family relatives",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Haya",
+   "Description": "Modesty and shyness; part of Iman",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Riba",
+   "Description": "Interest-based gain, forbidden in Islam",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Israf",
+   "Description": "Extravagance and waste, forbidden even in eating and drinking",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Barakah",
+   "Description": "Divine blessing that makes little go a long way",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Amanah",
+   "Description": "Something entrusted to you that must be returned safely",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Qana'at",
+   "Description": "Contentment with what Allah has given",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tawbah",
+   "Description": "Sincerely turning back to Allah after sin",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Shepherd",
+   "Description": "Charwaha — grazes sheep and goats; many prophets did this",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Calligrapher",
+   "Description": "Khattat — artist of beautiful Arabic lettering",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Beekeeper",
+   "Description": "Raises honey-making insects in wooden boxes",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Joint Family",
+   "Description": "Several generations living in one home, common in Pakistan",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Orphan",
+   "Description": "Child who lost his father; Islam stresses kindness",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Neighbour",
+   "Description": "Hamsaya — person living next door",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Abdullah ibn Umar",
+   "Description": "Son of the second Caliph; followed the Prophet's footsteps exactly",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Abu Darda",
+   "Description": "Ansari companion famous for simple living in Damascus",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Umm Salamah",
+   "Description": "Mother of the Believers who advised at Hudaybiyyah",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Ibn al-Haytham",
+   "Description": "Father of optics; wrote the Book of Optics",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Al-Zahrawi",
+   "Description": "Andalusian surgeon whose illustrated encyclopedia taught Europe medicine",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Al-Jazari",
+   "Description": "Inventor of the elephant water clock and crank-slider",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mimar Sinan",
+   "Description": "Ottoman chief architect of Sulaymaniyah and Selimiye mosques",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Omar Mukhtar",
+   "Description": "Lion of the Desert who resisted Italian rule in Libya",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "House of Wisdom",
+   "Description": "Abbasid centre of learning in Baghdad",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Al-Azhar",
+   "Description": "Historic Cairo mosque and university",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Talbina",
+   "Description": "Barley porridge recommended for the grieving",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Waqf",
+   "Description": "Charitable endowment given for lasting public benefit",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Qard Hasan",
+   "Description": "Beautiful loan with no interest",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Dastarkhwan",
+   "Description": "Cloth spread on the floor for meals",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Ibn al-Nafis",
+   "Description": "Physician who described pulmonary circulation",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Ulugh Beg",
+   "Description": "Timurid ruler-astronomer of Samarkand",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
