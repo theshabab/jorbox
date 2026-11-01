@@ -1480,13 +1480,13 @@
   {
    "id": "game11-135",
    "Name": "Problem",
-   "Description": "I find _____ to be straight-up confusing.",
-   "action": "keep",
+   "Description": "I find _____ completely confusing.",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I find _____ to be straight-up confusing."
    },
-   "note": ""
+   "note": "Debate: Removes US slang 'straight-up'; same idea and blank."
   },
   {
    "id": "game11-136",
@@ -8269,6 +8269,34 @@
    "Description": "The masi never cleans under my _____!",
    "action": "add",
    "note": "New card (debate): Distinct household-help complaint with an open blank; only a Masi Customer exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I hide in the kitchen at family gatherings to avoid questions about _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable desi family complaint; different premise from the keep-out-of-kitchen card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My laptop overheats whenever I open _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct tech problem, not covered by phone-battery or charger cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My pocket money is gone by Tuesday because of _____!",
+   "action": "add",
+   "note": "New card (debate): Clear, relatable problem; no pocket-money card exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My power bank is always empty when I need it for _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct product and blank from the phone-battery and charger cards."
   }
  ]
 }

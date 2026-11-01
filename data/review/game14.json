@@ -6852,6 +6852,55 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Challenger's amended version; avoids speaker/music drift and differs from the existing generator-owning card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you received a rishta proposal or been told 'we have a good rishta for you'?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No rishta card exists; relatable and a valid count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wake up for Fajr without anyone calling you?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Allowed worship question; distinct from the Fajr-on-time count and post-Fajr sleep cards."
+  },
+  {
+   "id": null,
+   "Description": "How many cups of Rooh Afza or sharbat do you drink on a hot summer day?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No summer sharbat card; the iftar Rooh Afza card is a different frame."
+  },
+  {
+   "id": null,
+   "Description": "How many bowls of haleem can you eat in one sitting?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No haleem card exists; valid count."
+  },
+  {
+   "id": null,
+   "Description": "How many thousand rupees of Eidi did you collect last Eid?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): New money angle; the challenger's cleaner wording is preferred."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been served the same food for three days because Ammi made too much?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Funny, relatable, no overlap with the leftovers cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to start singing along when a naat or nasheed plays in the car?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Allowed theme, distinct from the recite-from-memory naat card."
   }
  ]
 }

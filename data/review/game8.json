@@ -10993,11 +10993,11 @@
   },
   {
    "id": null,
-   "Name": "WEAK EXCUSE <---> CAN'T SAY NO",
+   "Name": "UNCONVINCING <---> IMPOSSIBLE TO REFUSE",
    "Description": "Write a message to your manager asking for a day off for your cousin's shaadi that is this convincing",
    "Category": "Writing",
    "action": "add",
-   "note": "New card (debate): Work and family clash, no leave card in deck."
+   "note": "New card (debate): Work and family clash, no leave card in deck.; Debate: Original ends were not clear opposites; new ends measure convincingness as the task does."
   },
   {
    "id": null,
@@ -11257,11 +11257,11 @@
   },
   {
    "id": null,
-   "Name": "NO PAKORAY <---> PAKORA PARTY",
+   "Name": "NO PAKORAY <---> PAKORAY PARTY",
    "Description": "Write a status-line for a WhatsApp family group when the first monsoon rain falls that shows this much excitement about pakoray",
    "Category": "Writing",
    "action": "add",
-   "note": "New card (debate): Pakora and monsoon is new; ends now measure the same thing as the task (enthusiasm)."
+   "note": "New card (debate): Pakora and monsoon is new; ends now measure the same thing as the task (enthusiasm).; Debate: Make the plural 'pakoray' consistent between Name and Description."
   },
   {
    "id": null,
@@ -11310,6 +11310,38 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Gentle, relatable mehmaan humour with clear opposite ends. It is not a duplicate of 904, which is about guests arriving without warning."
+  },
+  {
+   "id": null,
+   "Name": "WATERY <---> THICK AS SYRUP",
+   "Description": "Draw a glass of Rooh Afza sherbet that is this thick",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's single-quality amendment; clear opposite ends, local drink, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "QUIET COOKER <---> ABOUT TO EXPLODE",
+   "Description": "Draw a pressure cooker in Ammi's kitchen that is this close to blowing its whistle",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No pressure cooker card exists; clear ends, drawable, family-friendly."
+  },
+  {
+   "id": null,
+   "Name": "GENUINE <---> TOO GOOD TO BE TRUE",
+   "Description": "Write a signboard slogan for a roadside shop selling a 'brand new' phone charger at a price this hard to believe",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Amended version has clearer opposites and keeps the local bazaar humour."
+  },
+  {
+   "id": null,
+   "Name": "EASY TO FOLLOW <---> TOTAL MAZE",
+   "Description": "Draw the map of a family house that has been extended room by room by Dada's sons and has become this much of a maze",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Joint-family house theme is new, local and drawable; only a generic maze card exists."
   }
  ]
 }
