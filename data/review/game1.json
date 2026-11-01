@@ -12832,6 +12832,70 @@
    "Category": "Transport",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Jhoomar",
+   "Description": "Bridal ornament pinned on one side of the head",
+   "Category": "Jewelry",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Flood",
+   "Description": "Rising river water covering villages (Sailab)",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Canal",
+   "Description": "Man-made waterway for irrigation (Nehar)",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Dust",
+   "Description": "Fine dry grit on furniture (Dhool)",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Extension Board",
+   "Description": "Multi-socket strip for plugs",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hair Dryer",
+   "Description": "Blows hot air to dry wet hair",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Needle",
+   "Description": "Thin sharp tool for sewing (Sui)",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Rope",
+   "Description": "Thick twisted cord for tying (Rassi)",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }

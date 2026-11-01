@@ -1103,6 +1103,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1101','game1','Clerk','Office worker who handles files (Babu)','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1102','game1','Principal','Head of a school','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1103','game1','Motorway','Toll expressway like the M2','Transport');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1104','game1','Jhoomar','Bridal ornament pinned on one side of the head','Jewelry');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1105','game1','Flood','Rising river water covering villages (Sailab)','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1106','game1','Canal','Man-made waterway for irrigation (Nehar)','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1107','game1','Dust','Fine dry grit on furniture (Dhool)','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1108','game1','Extension Board','Multi-socket strip for plugs','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1109','game1','Hair Dryer','Blows hot air to dry wet hair','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1110','game1','Needle','Thin sharp tool for sewing (Sui)','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1111','game1','Rope','Thick twisted cord for tying (Rassi)','Tools');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');
