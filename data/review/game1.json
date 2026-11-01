@@ -13528,6 +13528,70 @@
    "Category": "Animals",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Seagull",
+   "Description": "White seaside bird seen at Karachi beach",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Yak",
+   "Description": "Shaggy mountain ox of the far north",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Marbles",
+   "Description": "Street game of flicking glass balls (Kanchay)",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mountaineering",
+   "Description": "Climbing peaks like K2 with ropes",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Uch Sharif",
+   "Description": "Ancient Punjab town of shrines and blue-tiled tombs",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Takht-i-Bahi",
+   "Description": "Buddhist monastery ruins near Mardan",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Waiter",
+   "Description": "Brings food and bills to restaurant tables",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mufti",
+   "Description": "Scholar who gives rulings on Islamic questions",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
