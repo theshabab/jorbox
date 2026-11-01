@@ -6737,6 +6737,36 @@
    "Description": "Get a player to read out the ingredients on a packet for you because you forgot your reading glasses.",
    "action": "add",
    "note": "New card (debate): Challenger's amended version: distinct from the expiry-date card and the phone-message card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite halwa puri breakfast spot.",
+   "action": "add",
+   "note": "New card (debate): Distinct Pakistani breakfast food prompt; no halwa puri card exists."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say whether they prefer gulab jamun or rasmalai.",
+   "action": "add",
+   "note": "New card (debate): Challenger's cleaner either-or wording matching the paratha-or-naan card; distinct from the open mithai card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who in their family always brings back zamzam or khajoor from Saudi Arabia.",
+   "action": "add",
+   "note": "New card (debate): Warm, respectful family gift story; distinct from the Zamzam knowledge and souvenir cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a miswak.",
+   "action": "add",
+   "note": "New card (debate): Follows the 'why are you holding X' family of cards with a local item."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite winter snack, like gajar ka halwa, dry fruit or roasted peanuts.",
+   "action": "add",
+   "note": "New card (debate): Seasonal food prompt with Pakistani examples; no winter snack card exists."
   }
  ]
 }

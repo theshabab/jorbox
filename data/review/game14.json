@@ -7153,6 +7153,69 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording removes the awkward two-year window. The cousins angle is distinct from the general weddings-per-year card."
+  },
+  {
+   "id": null,
+   "Description": "How many times in a typical week do you hear 'Log kya kahenge?' from someone in your family?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable desi phrase; typical week is easier to estimate than a month. No duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to crave pakoras and chai the moment it starts raining?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local, clean; distinct from the rainy-days, iftar-pakora and chai-love cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to pause what you are doing and listen quietly when the azaan starts?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related personal question; not a duplicate of the azaan/rooster card."
+  },
+  {
+   "id": null,
+   "Description": "How many tasbih or prayer beads do you own?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Countable, answerable by anyone; no tasbih card exists."
+  },
+  {
+   "id": null,
+   "Description": "About how many rupees of pocket money did you get in a typical week as a child?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: approximate and typical, so answerable by most players."
+  },
+  {
+   "id": null,
+   "Description": "How many times a day do you call someone 'bhai' or 'baji' who is not actually your sibling?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Funny desi habit with a countable answer; no existing card."
+  },
+  {
+   "id": null,
+   "Description": "How many PSL matches did you watch in the most recent season?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer time frame; PSL not already in deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to volunteer at a free water or sharbat stall on a hot summer day?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: universal, no sectarian association; distinct from the clean-up volunteering card."
+  },
+  {
+   "id": null,
+   "Description": "How many charpais are in your house or your family's house?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's pivot avoids duplicating the roof-sleeping card; local and countable."
   }
  ]
 }
