@@ -13048,6 +13048,62 @@
    "Category": "Islamic Terms",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tasbeeh",
+   "Description": "String of beads used to count dhikr",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Ghusl",
+   "Description": "Full-body ritual purification bath",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Ruku",
+   "Description": "Bowing with hands on knees in prayer",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Zuhr",
+   "Description": "Midday prayer of four rakat",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Bus Conductor",
+   "Description": "Collects fares and calls out stops (Kiraya)",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Welder",
+   "Description": "Joins metal with sparks and a mask",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Kachori",
+   "Description": "Fried stuffed breakfast snack with daal",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
