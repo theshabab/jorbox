@@ -6694,10 +6694,10 @@
   },
   {
    "id": null,
-   "Description": "How likely are you to keep a generator, UPS or solar backup running just so you never face load shedding?",
+   "Description": "How likely are you to buy a generator, UPS or solar backup just to avoid load shedding?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card (debate): New local-life angle; existing load-shedding cards cover panic and hours only."
+   "note": "New card (debate): New local-life angle; existing load-shedding cards cover panic and hours only.; Debate: Clearer wording; distinct from torch card 762 and noisy-generator card 781."
   },
   {
    "id": null,
@@ -6743,10 +6743,10 @@
   },
   {
    "id": null,
-   "Description": "How much do you enjoy watching memes?",
+   "Description": "How likely are you to laugh out loud at a meme while sitting in a quiet family gathering?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card (debate): Social-media gap; no meme card exists and it matches the 'how much do you enjoy' pattern."
+   "note": "New card (debate): Social-media gap; no meme card exists and it matches the 'how much do you enjoy' pattern.; Debate: Replaces a bland answer-all-high card with a specific, funny behaviour question."
   },
   {
    "id": null,
@@ -6820,10 +6820,10 @@
   },
   {
    "id": null,
-   "Description": "How much do you love kheer?",
+   "Description": "How likely are you to take a second helping of kheer or zarda after a daawat?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card (debate): Kheer is absent from the deck."
+   "note": "New card (debate): Kheer is absent from the deck.; Debate: Behaviour question guesses better than 'how much do you love kheer'."
   },
   {
    "id": null,
@@ -6971,6 +6971,41 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Local bazaar-trust question distinct from the extra-change card 655."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you recited Surah Al-Ikhlas, Al-Falaq and An-Nas before sleeping this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): New bedtime adhkar habit; distinct from Ayat-ul-Kursi card 752."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you decorated your house or rooftop with flags and lights for 14 August?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No 14 August card exists; local, clean, countable."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week has your mobile data run out at the worst possible moment?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani annoyance; no data-pack card exists."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to make dua for someone the moment you hear they are unwell?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Compassion/dua theme; distinct from the by-name dua count card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wear a new Eid outfit that you bought weeks early before Eid arrives?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct from Eid outfit count and tailor-chasing cards; funny and relatable."
   }
  ]
 }

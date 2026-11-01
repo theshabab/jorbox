@@ -8395,6 +8395,55 @@
    "Description": "My reel keeps flopping because of _____!",
    "action": "add",
    "note": "New card (debate): Distinct social-media problem, fits format."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Fruit Wala",
+   "action": "add",
+   "note": "New card (debate): No fruit-seller customer exists; fits the Wala customers."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Qurbani Bakra",
+   "action": "add",
+   "note": "New card (debate): Funny non-human customer, recognisable in Pakistan; not a duplicate of Qurbani Meat Distributor."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My abbu's old scooter won't start whenever _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable, distinct from existing breakdown cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The Chaand Raat bazaar is so crowded that I lost my _____!",
+   "action": "add",
+   "note": "New card (debate): Distinctly Pakistani seasonal scenario with an open blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My cousin's baby keeps pulling my _____ at the shaadi!",
+   "action": "add",
+   "note": "New card (debate): Funny family-event complaint, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My roza gets harder every time someone mentions _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable Ramadan complaint distinct from the thirst card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My hostel roommate keeps using my _____ without asking!",
+   "action": "add",
+   "note": "New card (debate): Relatable student complaint; works with the blank as a possession."
   }
  ]
 }
