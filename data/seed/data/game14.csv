@@ -64,13 +64,12 @@ How many times have you been on TV?,Number
 How many times have you met a famous cricketer?,Number
 How likely are you to forget someone's name right after being introduced?,0 to 100
 How many things have you bought this year that you never used?,Number
-How many bottle flips in a row can you land?,Number
 How likely are you to correct someone's grammar or spelling in the family WhatsApp group?,0 to 100
 How many times have you eaten ice cream for breakfast?,Number
 How likely are you to take a photo of your food before eating it?,0 to 100
 How many times have you missed a flight or train?,Number
 How many times have you lost your luggage?,Number
-How likely are you to parallel park perfectly on the first try?,0 to 100
+How likely are you to reverse a car into a tight spot on the first try?,0 to 100
 How many traffic challans have you received?,Number
 How many times have you had a flat tire?,Number
 How many times have you had to give a car a 'dhakka start'?,Number
@@ -98,7 +97,6 @@ How many times have you needed stitches?,Number
 How many times have you fainted?,Number
 How many times have you had surgery?,Number
 How many times have you dyed your hair?,Number
-How many times have you had your ears pierced?,Number
 How many allergies do you have?,Number
 How many phobias do you have?,Number
 How many meaningful conversations have you had this week?,Number
@@ -710,3 +708,5 @@ How many times have you flown a kite from a rooftop and had it cut by someone el
 "How likely are you to keep a generator, UPS or solar backup running just so you never face load shedding?",0 to 100
 "How many relatives have you helped with a form, NADRA visit or online application this year?",Number
 "How much of Allama Iqbal's poetry, such as Shikwa and Jawab-e-Shikwa, have you read or can you recite?",0 to 100
+How likely are you to keep a torch or emergency light ready near your bed for load shedding?,0 to 100
+How many bowls of chaat have you eaten at a street stall this month?,Number

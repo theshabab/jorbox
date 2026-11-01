@@ -6377,6 +6377,54 @@
    "Description": "Get a player to tell you what they do first when the electricity goes out.",
    "action": "add",
    "note": "New card (debate): It asks for a habit, which differs from the existing load shedding complaint card and the electricity-bill card. It is relatable and harmless."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many surahs the Quran has.",
+   "action": "add",
+   "note": "New card (debate): Established fact (114); distinct from the Fatiha ayahs and first-surah cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which companion accompanied the Prophet (peace be upon him) in the cave of Thawr during the Hijrah.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment accepted: uncontroversial answer (Abu Bakr), avoids the succession debate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which city Mazar-e-Quaid, the Quaid-e-Azam's mausoleum, stands.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Karachi), no existing card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the well in Makkah near the Kaaba whose water pilgrims drink.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Zamzam), respectful, no existing Zamzam card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you to which city the Prophet (peace be upon him) migrated from Makkah.",
+   "action": "add",
+   "note": "New card (debate): Established fact (Madinah); differs from the cave of Thawr card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which city the Faisal Mosque stands.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Islamabad), distinct landmark card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many days a month of Ramadan can last.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment accepted: removes the answer options from the mission text."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time they helped a stranger on the road or at a bus stand.",
+   "action": "add",
+   "note": "New card (debate): Harmless, family-friendly storytelling mission, distinct from existing cards."
   }
  ]
 }

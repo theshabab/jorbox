@@ -788,12 +788,12 @@
    "id": "game14-72",
    "Description": "How many bottle flips in a row can you land?",
    "Category": "Number",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "How many times have you successfully flipped a bottle?",
     "Category": "Number"
    },
-   "note": "Debate: A record in a row can be answered; a lifetime count cannot."
+   "note": "Debate: Dated fad with no meaningful answer for most players; not a duplicate."
   },
   {
    "id": "game14-73",
@@ -874,14 +874,14 @@
   },
   {
    "id": "game14-80",
-   "Description": "How likely are you to parallel park perfectly on the first try?",
+   "Description": "How likely are you to reverse a car into a tight spot on the first try?",
    "Category": "0 to 100",
    "action": "edit",
    "original": {
     "Description": "How many times have you parallel parked perfectly on the first try?",
     "Category": "Number"
    },
-   "note": "Debate: A lifetime count can't be answered; a likelihood can, and non-drivers can answer 0."
+   "note": "Debate: A lifetime count can't be answered; a likelihood can, and non-drivers can answer 0.; Debate: Parallel parking is not a common local skill; tight-spot reversing is the local equivalent and the format is kept."
   },
   {
    "id": "game14-81",
@@ -1228,12 +1228,12 @@
    "id": "game14-112",
    "Description": "How many times have you had your ears pierced?",
    "Category": "Number",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "How many times have you pierced your ears?",
     "Category": "Number"
    },
-   "note": "grammar"
+   "note": "Debate: Gender-specific and answerable by few; the regretted-haircut idea is already a live added card, so remove instead of editing into a duplicate."
   },
   {
    "id": "game14-113",
@@ -6712,6 +6712,20 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Iqbal is not covered in the deck. This takes the challenger's concrete version but fixes the list: Shikwa and Jawab-e-Shikwa are poems in the collection Bang-e-Dra, so they should not be listed as parallel items."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep a torch or emergency light ready near your bed for load shedding?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct preparedness angle from the panic-at-load-shedding card; clean, local and fits the format."
+  },
+  {
+   "id": null,
+   "Description": "How many bowls of chaat have you eaten at a street stall this month?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clean, local and answerable by anyone; distinct from the gol gappay cards."
   }
  ]
 }

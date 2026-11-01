@@ -8175,8 +8175,8 @@
    "id": null,
    "Name": "If you could have chai with yourself 20 years from now, what would you ask?",
    "Category": "Deep & ThoughtProvoking",
-   "action": "add",
-   "note": "New card (debate): Reflective new question distinct from the ten-years and younger-self cards."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of card 839 (letter to yourself ten years from now, ask or promise); 839 is live (action add), so remove 820 and keep 839. Challenger's amendment preferred over the clumsy rewrite."
   },
   {
    "id": null,
@@ -8321,9 +8321,9 @@
   {
    "id": null,
    "Name": "What is your family's tradition around Qurbani on Eid ul-Adha, and who does what?",
-   "Category": "Ice Breakers & Fun General",
+   "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card (debate): The only Qurbani card is the goat-naming one, so this family-tradition angle is new."
+   "note": "New card (debate): The only Qurbani card is the goat-naming one, so this family-tradition angle is new.; Debate: Desi/Islamic family-tradition question is mis-categorised under Ice Breakers; category move only."
   },
   {
    "id": null,
@@ -9332,6 +9332,34 @@
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
    "note": "New card (debate): Inventive extension of the truck-art card, clean."
+  },
+  {
+   "id": null,
+   "Name": "Which Urdu or Punjabi proverb does your family quote all the time, and when do they use it?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Different angle from the muhavra-describes-your-life card; no family-quoted proverb card exists."
+  },
+  {
+   "id": null,
+   "Name": "Who in your family insists on a 'family photo' at every gathering, and how long does it really take?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Relatable, funny family-role question; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Who taught you the most important life lesson without ever giving a lecture?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Warm, open question distinct from grandparent-lesson and advice cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing a baby or toddler in your family has said or done at a gathering?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): No baby/toddler card exists; light and family-friendly."
   }
  ]
 }
