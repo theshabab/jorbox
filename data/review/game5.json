@@ -22849,13 +22849,13 @@
    "Name": "",
    "Description": "Computer! Display ____ on screen. Enhance.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Computer! Display ____ on screen. Enhance.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Western sci-fi TV reference."
   },
   {
    "id": "game5-1759",
@@ -23107,15 +23107,15 @@
   {
    "id": "game5-1778",
    "Name": "",
-   "Description": "Crikey! I've never seen ____ like this before! Let's get a bit closer.",
+   "Description": "Arey wah! I've never seen ____ like this before! Let's get a bit closer.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Crikey! I've never seen ____ like this before! Let's get a bit closer.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces the Steve Irwin 'Crikey' with a neutral Urdu exclamation; avoids using SubhanAllah as a punchline (challenger's amendment)."
   },
   {
    "id": "game5-1779",
@@ -23824,13 +23824,13 @@
    "Name": "",
    "Description": "Despite overwhelming scientific evidence to the contrary, some people still believe that vaccines cause ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Despite overwhelmning scientific evidence to the contrary, some people still believe that vaccines cause ____.",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "Debate: Vaccine misinformation is sensitive in Pakistan (polio)."
   },
   {
    "id": "game5-1834",
@@ -23863,13 +23863,13 @@
    "Name": "",
    "Description": "Diary of a Wimpy ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Diary of a wimpy ____.",
     "Category": ""
    },
-   "note": "capitalisation"
+   "note": "Debate: Western book/film title."
   },
   {
    "id": "game5-1837",
@@ -24836,15 +24836,15 @@
   {
    "id": "game5-1911",
    "Name": "",
-   "Description": "Drop the kids off, call in sick, then hurry home to enjoy ____.",
+   "Description": "Drop the kids off at school, tell the boss you're sick, then hurry home to enjoy ____ in peace and quiet.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Drop the kids off, call in sick, then hurry home to enjoy ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Original reads as innuendo; rewrite keeps the stolen-day-off idea."
   },
   {
    "id": "game5-1912",
@@ -24862,7 +24862,7 @@
   {
    "id": "game5-1913",
    "Name": "",
-   "Description": "Accidentally sending your landlord pictures of ____.",
+   "Description": "Accidentally sending your landlord a photo of ____ instead of the rent receipt.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -24870,7 +24870,7 @@
     "Description": "Drunk texting your landlord pictures of ____.",
     "Category": ""
    },
-   "note": "removed drunk"
+   "note": "removed drunk; Debate: Steers away from inappropriate-photo answers while keeping the mix-up joke."
   },
   {
    "id": "game5-1914",
@@ -25356,15 +25356,15 @@
   {
    "id": "game5-1951",
    "Name": "",
-   "Description": "Duuuuuuude. You have got to go to space. ____ is awesome in space.",
+   "Description": "Yaaaar. You have got to go to space. ____ is awesome in space.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Duuuuuuude. You have got to go to space. ____ is awesome in space.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Swaps Western slang for a local equivalent."
   },
   {
    "id": "game5-1952",
@@ -25748,13 +25748,13 @@
    "Name": "",
    "Description": "Every Pakistani knows what comes next: Dil Dil ____!",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Every Pakistani knows what comes next: Dil Dil ____",
     "Category": ""
    },
-   "note": "punctuation"
+   "note": "Debate: Pop band lyric with a fixed answer."
   },
   {
    "id": "game5-1982",
@@ -26424,13 +26424,13 @@
    "Name": "",
    "Description": "Find a ____ and pick it up, and all the day you'll have good luck.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Find a ____ and pick it up, and all the day you'll have good luck.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Western penny rhyme and luck superstition."
   },
   {
    "id": "game5-2034",
@@ -104669,6 +104669,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Relatable cricket superstition, no lucky-charm card exists"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Dear Ammi, I promise to tidy my room right after ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable family prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Don't worry, Abbu, I will pay you back as soon as ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean family prompt, no near match."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Don't let Chhota Bhai anywhere near ____ ever again.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Sibling prompt, no match."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "During a long power cut, Dadi told us the legend of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local family storytelling prompt, distinct from existing cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Every morning, Abbu reads the newspaper and mutters about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Mild, clean, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Don't tell Ammi I used her good dupatta to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Light family-secret prompt, distinct from existing cards."
   }
  ]
 }

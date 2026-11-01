@@ -28165,10 +28165,10 @@
   {
    "id": null,
    "Name": "Shezan",
-   "Description": "1964 - Lahore",
+   "Description": "1964 - Karachi",
    "Category": "Pakistani Food Brands (Founding Year)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Shezan was founded in Karachi in 1964; the order stays valid."
   },
   {
    "id": null,
@@ -31689,6 +31689,78 @@
    "Category": "Battles of Islamic History (Chronological)",
    "action": "add",
    "note": "New card (debate): Major Rashidun conquest missing from the timeline, between Yarmouk (636) and the existing later entries; accurate and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Hamdard Pakistan",
+   "Description": "1948 - Karachi",
+   "Category": "Pakistani Food Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: the Pakistani Hamdard dates to 1948 in Karachi. The 1906 Delhi date is already used on the Rooh Afza card."
+  },
+  {
+   "id": null,
+   "Name": "Rafhan Foods",
+   "Description": "1953 - Faisalabad",
+   "Category": "Pakistani Food Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Well-known brand, correct date, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Ghazwa of Ta'if",
+   "Description": "8 AH (Shawwal) - siege right after Hunayn",
+   "Category": "Ghazwas - Chronological Order",
+   "action": "add",
+   "note": "New card (debate): Real ghazwa missing from the category, in the right chronological place."
+  },
+  {
+   "id": null,
+   "Name": "Tin",
+   "Description": "232 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value; fits between candle wax and lead."
+  },
+  {
+   "id": null,
+   "Name": "Silver",
+   "Description": "962 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value; fits between aluminium and gold."
+  },
+  {
+   "id": null,
+   "Name": "Copper",
+   "Description": "1,085 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value; fits between gold and iron."
+  },
+  {
+   "id": null,
+   "Name": "Methane",
+   "Description": "0.00019%",
+   "Category": "Atmosphere Gases (Abundance - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Correct trace-gas value, below helium."
+  },
+  {
+   "id": null,
+   "Name": "Taklamakan Desert",
+   "Description": "~0.34M sq km",
+   "Category": "Deserts (Area - Large to Small)",
+   "action": "add",
+   "note": "New card (debate): Correct area; fits between Gobi and Thar."
+  },
+  {
+   "id": null,
+   "Name": "Ganges",
+   "Description": "~2,525 km",
+   "Category": "Rivers (Length - Long to Short)",
+   "action": "add",
+   "note": "New card (debate): Well-known river, correct length, shorter than the Indus."
   }
  ]
 }

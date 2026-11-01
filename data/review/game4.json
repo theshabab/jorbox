@@ -7806,15 +7806,15 @@
   {
    "id": "game4-601",
    "Name": "reproduce",
-   "Description": "Headline from USA Today: \"Scientists made tiny xenobots out of frog cells. Now they say those robots can ____.\"",
-   "Category": "Advanced Robotics",
-   "action": "keep",
+   "Description": "Scientists made tiny xenobots out of frog cells. Now they say those robots can ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "reproduce",
     "Description": "Headline from USA Today: \"Scientists made tiny xenobots out of frog cells. Now they say those robots can ____.\"",
     "Category": "Advanced Robotics"
    },
-   "note": ""
+   "note": "Debate: Drops US newspaper attribution; fact is correct."
   },
   {
    "id": "game4-602",
@@ -7990,13 +7990,13 @@
    "Name": "Uber ride",
    "Description": "Relatable Headline from CNN: \"Man accidentally orders $1,600 ____\"",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Uber Ride",
     "Description": "Relatable Headline from CNN: \"Man accidentally orders $1,600 ____\"",
     "Category": "Financial Antics"
    },
-   "note": "Debate: The blank is mid-sentence, so the answer should be 'Uber ride', not 'Uber Ride'."
+   "note": "Debate: US-local, unverifiable, unguessable blank."
   },
   {
    "id": "game4-616",
@@ -8068,13 +8068,13 @@
    "Name": "acrylic fingernails",
    "Description": "Headline from New York Post: \"Times Square’s First Fountain Features 400,000 ____\"",
    "Category": "Fountains",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "acrylic fingernails",
     "Description": "Headline from New York Post: \"Times Square’s First Fountain Features 400,000 ____\"",
     "Category": "Fountains"
    },
-   "note": ""
+   "note": "Debate: US-local, unverifiable, pure guess."
   },
   {
    "id": "game4-622",
@@ -8377,8 +8377,8 @@
   },
   {
    "id": "game4-645",
-   "Name": "a 300% mortality rate",
-   "Description": "In a famous (possibly exaggerated) story, 19th-century English surgeon Robert Liston once performed an operation with ____.",
+   "Name": "300%",
+   "Description": "In a famous (possibly exaggerated) story, 19th-century Scottish surgeon Robert Liston once performed an operation that ended with a ____ mortality rate, because the patient, an assistant and a spectator all died.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -8386,7 +8386,7 @@
     "Description": "In a truly bizarre day at the hospital, Dr. Robert Liston, infamous English surgeon of the 19th century, once conducted a surgery with ____.",
     "Category": "Medical Experts"
    },
-   "note": "flagged as story; wording; Debate: Moves the card out of the one-card leftover category 'Medical Experts' into History Oddities.; Debate: Missing category; mildly dark content is allowed."
+   "note": "flagged as story; wording; Debate: Moves the card out of the one-card leftover category 'Medical Experts' into History Oddities.; Debate: Missing category; mildly dark content is allowed.; Debate: Fixes blank grammar and Liston's nationality (Scottish), per challenger's amendment."
   },
   {
    "id": "game4-646",
@@ -13736,6 +13736,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Family-friendly personal question; no cousin card exists."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What was your favourite game to play in the gali as a child (gulli danda, pitthu garam, kanchay, etc.)?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct enough from the 'game you would still love to play' card; local and clean."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is your best memory of flying (or trying to fly) a kite from the roof?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean local nostalgia, no kite card exists."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the most memorable school trip or picnic you ever went on, and what went wrong?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean and new."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What was the first thing you ever saved your pocket money to buy?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean and new."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What school subject did you hate at the time but now find useful?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from the favourite-subject card."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is a family recipe that only one person in your family can make properly?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from the uniquely-yours dish card."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the best piece of advice a teacher ever gave you, in or out of class?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Narrower than the generic advice card; acceptable overlap."
+  },
+  {
+   "id": null,
+   "Name": "Chagatai Turkic",
+   "Description": "Babur, founder of the Mughal Empire, wrote his famous memoirs, the Baburnama, in ____ rather than Persian.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, surprising, not a duplicate of the Babur birthplace card."
   }
  ]
 }
