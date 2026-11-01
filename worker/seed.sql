@@ -10565,7 +10565,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-154','game6','','Things You Hear at a Dhaba','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-155','game6','','Cold Drink Brands','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-156','game6','','Things That Are Yellow','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-157','game6','','Words That Rhyme With Chai','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-157','game6','','Words That Rhyme With Chai (Urdu or English)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-158','game6','','Things That Are Red','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-159','game6','','Things That Are White','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-160','game6','','Things That Are Black','');
@@ -10968,6 +10968,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-557','game6','','Urdu Words We Say When Surprised (Hai Allah, Arre, Wah...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-558','game6','','Ways to Say Hello in Different Languages','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-559','game6','','Mountain Passes of Pakistan (Khyber, Bolan, Khunjerab...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-560','game6','','Tea Brands in Pakistan','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-561','game6','','Masala, Cooking Oil and Ghee Brands','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-562','game6','','Milk and Dairy Brands in Pakistan','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-563','game6','','Home Appliance Brands','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-564','game6','','Mobile Networks and Internet Providers in Pakistan','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-565','game6','','Airlines (Pakistani or International)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-566','game6','','Courier and Delivery Services in Pakistan','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-567','game6','','Pakistani Surnames','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game7','NaqshNigar',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1','game7','','a cat in a wig wearing a bib','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-2','game7','','the crusty edge of the universe','Standard Prompts');
@@ -21672,3 +21680,6 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-839','game16','Who taught you the most important life lesson without ever giving a lecture?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-840','game16','What is the funniest thing a baby or toddler in your family has said or done at a gathering?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-841','game16','Which Urdu or Arabic word do you think has no perfect English translation (like tawakkul, sukoon or khuddari), and when do you use it?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-842','game16','Hazrat Umar (RA), the Khalifa, once carried a sack of flour on his own back at night to a woman whose children were hungry. Who in your life steps in personally to help when they see a need?','','Deep & ThoughtProvoking');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-843','game16','What is the funniest or most expensive thing you ever lent to a friend or cousin that never came back?','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-844','game16','After the conquest of Makkah, Bilal (RA) called the adhan from the top of the Kaabah. Whose adhan or Quran recitation do you love listening to most, and why?','','Deep & ThoughtProvoking');

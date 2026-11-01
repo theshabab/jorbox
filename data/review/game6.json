@@ -2153,9 +2153,9 @@
   },
   {
    "id": null,
-   "Description": "Words That Rhyme With Chai",
+   "Description": "Words That Rhyme With Chai (Urdu or English)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: States that both languages count without giving away answers."
   },
   {
    "id": null,
@@ -4592,6 +4592,54 @@
    "Description": "Mountain Passes of Pakistan (Khyber, Bolan, Khunjerab...)",
    "action": "add",
    "note": "New card (debate): Challenger's narrowed version; passes alone have enough known answers."
+  },
+  {
+   "id": null,
+   "Description": "Tea Brands in Pakistan",
+   "action": "add",
+   "note": "New card (debate): Brands are not the same as the types in Tea Varieties; many everyday answers."
+  },
+  {
+   "id": null,
+   "Description": "Masala, Cooking Oil and Ghee Brands",
+   "action": "add",
+   "note": "New card (debate): Challenger's widened version gives 10+ answers and is distinct from the Spice Mixes card."
+  },
+  {
+   "id": null,
+   "Description": "Milk and Dairy Brands in Pakistan",
+   "action": "add",
+   "note": "New card (debate): Brands differ from Milk Products and Dishes Made With Doodh; familiar to everyone."
+  },
+  {
+   "id": null,
+   "Description": "Home Appliance Brands",
+   "action": "add",
+   "note": "New card (debate): Makers differ from Kitchen Appliances; many known answers."
+  },
+  {
+   "id": null,
+   "Description": "Mobile Networks and Internet Providers in Pakistan",
+   "action": "add",
+   "note": "New card (debate): Adding ISPs fixes the narrowness of the removed networks-only card."
+  },
+  {
+   "id": null,
+   "Description": "Airlines (Pakistani or International)",
+   "action": "add",
+   "note": "New card (debate): Adding international airlines fixes the narrowness of the removed Pakistani Airlines card."
+  },
+  {
+   "id": null,
+   "Description": "Courier and Delivery Services in Pakistan",
+   "action": "add",
+   "note": "New card (debate): Familiar from online shopping; no similar card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Pakistani Surnames",
+   "action": "add",
+   "note": "New card (debate): Challenger's version drops 'Castes' to avoid a biradari argument and drops answer-giving examples; first-name cards do not cover this."
   }
  ]
 }
