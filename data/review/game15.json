@@ -4049,7 +4049,7 @@
   {
    "id": "game15-312",
    "Name": "Zinc",
-   "Description": "7.1 g/cm³",
+   "Description": "7.14 g/cm³",
    "Category": "Densities of Metals (Ascending)",
    "action": "edit",
    "original": {
@@ -4057,7 +4057,7 @@
     "Description": "7.1 g/cm3",
     "Category": "Densities of Metals (Ascending)"
    },
-   "note": "unit formatting"
+   "note": "unit formatting; Debate: Standard value, consistent two-decimal precision."
   },
   {
    "id": "game15-313",
@@ -4101,7 +4101,7 @@
   {
    "id": "game15-316",
    "Name": "Lead",
-   "Description": "11.3 g/cm³",
+   "Description": "11.34 g/cm³",
    "Category": "Densities of Metals (Ascending)",
    "action": "edit",
    "original": {
@@ -4109,7 +4109,7 @@
     "Description": "11.3 g/cm3",
     "Category": "Densities of Metals (Ascending)"
    },
-   "note": "unit formatting"
+   "note": "unit formatting; Debate: Standard density of lead is 11.34."
   },
   {
    "id": "game15-317",
@@ -4673,15 +4673,15 @@
   {
    "id": "game15-360",
    "Name": "Windows ME",
-   "Description": "2000",
+   "Description": "2000 (Sep)",
    "Category": "Windows Versions (Chronological Retail Release)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Windows ME",
     "Description": "2000",
     "Category": "Windows Versions (Chronological Retail Release)"
    },
-   "note": ""
+   "note": "Debate: Month needed to order against Windows 2000 (Feb)."
   },
   {
    "id": "game15-361",
@@ -4985,7 +4985,7 @@
   {
    "id": "game15-384",
    "Name": "Jelly Bean",
-   "Description": "Android 4.1 (2012)",
+   "Description": "Android 4.1 (Jul 2012)",
    "Category": "Android Versions (Chronological)",
    "action": "edit",
    "original": {
@@ -4993,12 +4993,12 @@
     "Description": "4.1",
     "Category": "Android Versions (Chronological)"
    },
-   "note": "added release year"
+   "note": "added release year; Debate: Month matches format of earlier cards; correct."
   },
   {
    "id": "game15-385",
    "Name": "KitKat",
-   "Description": "Android 4.4 (2013)",
+   "Description": "Android 4.4 (Oct 2013)",
    "Category": "Android Versions (Chronological)",
    "action": "edit",
    "original": {
@@ -5006,12 +5006,12 @@
     "Description": "4.4",
     "Category": "Android Versions (Chronological)"
    },
-   "note": "added release year"
+   "note": "added release year; Debate: Month matches format; correct."
   },
   {
    "id": "game15-386",
    "Name": "Lollipop",
-   "Description": "Android 5.0 (2014)",
+   "Description": "Android 5.0 (Nov 2014)",
    "Category": "Android Versions (Chronological)",
    "action": "edit",
    "original": {
@@ -5019,7 +5019,7 @@
     "Description": "5.0",
     "Category": "Android Versions (Chronological)"
    },
-   "note": "added release year"
+   "note": "added release year; Debate: Month matches format; correct."
   },
   {
    "id": "game15-387",
@@ -5388,7 +5388,7 @@
   {
    "id": "game15-415",
    "Name": "A0",
-   "Description": "841 x 1189 mm (1 m^2)",
+   "Description": "841 x 1189 mm (1 m²)",
    "Category": "Paper Sizes (Area - Descending)",
    "action": "edit",
    "original": {
@@ -5396,7 +5396,7 @@
     "Description": "1 m^2",
     "Category": "Paper Sizes (Area - Descending)"
    },
-   "note": "added dimensions"
+   "note": "added dimensions; Debate: Proper superscript instead of ASCII m^2."
   },
   {
    "id": "game15-416",
@@ -29449,6 +29449,70 @@
    "Category": "Alkali Metals (Atomic Number)",
    "action": "add",
    "note": "New card (debate): Adds the lightest alkali metal; the other Lithium card is in a different category."
+  },
+  {
+   "id": null,
+   "Name": "Windows 2000",
+   "Description": "2000 (Feb)",
+   "Category": "Windows Versions (Chronological Retail Release)",
+   "action": "add",
+   "note": "New card (debate): Missing retail release, accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "iPhone 14",
+   "Description": "2022",
+   "Category": "iPhone Models (Chronological Launch)",
+   "action": "add",
+   "note": "New card (debate): Accurate; list ends at iPhone 13 (2021)."
+  },
+  {
+   "id": null,
+   "Name": "iPhone 4S",
+   "Description": "2011",
+   "Category": "iPhone Models (Chronological Launch)",
+   "action": "add",
+   "note": "New card (debate): Accurate, unique year between iPhone 4 and 5."
+  },
+  {
+   "id": null,
+   "Name": "Nougat",
+   "Description": "Android 7.0 (Aug 2016)",
+   "Category": "Android Versions (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Well-known release after Lollipop (list ends there)."
+  },
+  {
+   "id": null,
+   "Name": "Oreo",
+   "Description": "Android 8.0 (Aug 2017)",
+   "Category": "Android Versions (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Well-known release, accurate."
+  },
+  {
+   "id": null,
+   "Name": "Pie",
+   "Description": "Android 9 (Aug 2018)",
+   "Category": "Android Versions (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Last dessert-named release, accurate."
+  },
+  {
+   "id": null,
+   "Name": "PlayStation 4 Pro",
+   "Description": "2016",
+   "Category": "PlayStation Consoles (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate mid-generation console, between PS4 and PS5."
+  },
+  {
+   "id": null,
+   "Name": "Tin",
+   "Description": "7.27 g/cm³",
+   "Category": "Densities of Metals (Ascending)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended value (white tin 7.265); sits between zinc and iron."
   }
  ]
 }

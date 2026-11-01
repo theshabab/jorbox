@@ -3347,7 +3347,7 @@
   {
    "id": "game3-258",
    "Name": "Draw a cool person.",
-   "Description": "Draw Dracula.|Draw a snowman.|Draw someone in sunglasses.|Draw a hipster.|Draw a cricket star.|Draw a skateboarder.|Draw a biker.",
+   "Description": "Draw a man in a leather jacket.|Draw a snowman.|Draw someone in sunglasses.|Draw a hipster.|Draw a cricket star.|Draw a skateboarder.|Draw a biker.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3355,7 +3355,7 @@
     "Description": "Draw Dracula.|Draw a snowman.|Draw a monkey with a cigar.|Draw a hipster.|Draw a celebrity.|Draw a skate boarder.|Draw a cool musician.|Draw someone vaping.|Draw a pop star.",
     "Category": "Drawing 2"
    },
-   "note": "removed cigar, vaping, celebrity, musician, pop star"
+   "note": "removed cigar, vaping, celebrity, musician, pop star; Debate: Closer decoy than Dracula."
   },
   {
    "id": "game3-259",
@@ -3386,7 +3386,7 @@
   {
    "id": "game3-261",
    "Name": "Draw your favorite restaurant.",
-   "Description": "Draw a dhaba.|Draw family game night.|Draw a very fun tea house.|Draw your favorite fast food restaurant.|Draw a fancy restaurant.|Draw a trash can.",
+   "Description": "Draw a dhaba.|Draw a food street at night.|Draw a very fun tea house.|Draw your favorite fast food restaurant.|Draw a fancy restaurant.|Draw a roadside kebab stall.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3394,12 +3394,12 @@
     "Description": "Draw a toilet.|Draw family game night.|Draw a very fun tea house.|Draw your favorite fast food restaurant.|Draw a fancy restaurant.|Draw a trash can.",
     "Category": "Drawing 2"
    },
-   "note": "Sweep: toilet decoy replaced"
+   "note": "Sweep: toilet decoy replaced; Debate: Plausible local decoys replace ill-fitting ones."
   },
   {
    "id": "game3-262",
-   "Name": "Draw a crazy night out.",
-   "Description": "Draw a terrible accident.|Draw a couple with a baby.|Draw a house on fire.|Draw a fight.|Draw a family restaurant.|Draw your last night out.|Draw a fun cafe.|Draw a dhaba.|Draw a late-night chai stall.",
+   "Name": "Draw a night out with friends.",
+   "Description": "Draw a late-night chai stall.|Draw a family restaurant.|Draw a dhaba.|Draw a fun cafe.|Draw your last night out.|Draw a midnight drive.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3407,7 +3407,7 @@
     "Description": "Draw a terrible accident.|Draw a couple with a baby.|Draw a house on fire.|Draw a fight.|Draw a family restaurant.|Draw your last night out.|Draw a fun cafe.|Draw a dhaba.|Draw crazy dance moves.",
     "Category": "Drawing 2"
    },
-   "note": "replaced dance moves"
+   "note": "replaced dance moves; Debate: Friendly outing with close decoys."
   },
   {
    "id": "game3-263",
@@ -3633,7 +3633,7 @@
   {
    "id": "game3-280",
    "Name": "Draw a smart baby.",
-   "Description": "Draw a giant toddler.|Draw a dumb baby.|Draw a dumb dog.|Draw a very short scientist.|Draw a baby doctor.|Draw a genius baby.|Draw a baby in glasses.|Draw baby Einstein.|Draw baby Galileo.",
+   "Description": "Draw a giant toddler.|Draw a sleepy baby.|Draw a clever cat.|Draw a very short scientist.|Draw a baby doctor.|Draw a genius baby.|Draw a baby in glasses.|Draw baby Einstein.|Draw baby Galileo.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3641,7 +3641,7 @@
     "Description": "Draw a giant toddler.|Draw a dumb baby.|Draw a dumb dog.|Draw a very short scientist.|Draw a baby doctor.|Draw a genius baby.|Draw a boss baby.|Draw baby Einstein.|Draw baby Galileo.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Boss Baby"
+   "note": "replaced Boss Baby; Debate: Removes insulting 'dumb' decoys."
   },
   {
    "id": "game3-281",
@@ -4035,8 +4035,8 @@
   },
   {
    "id": "game3-311",
-   "Name": "Draw a basketball player dunking.",
-   "Description": "Draw a man with wings.|Draw cookies dunked in milk.|Draw a juggler.|Draw someone missing a dunk.|Draw a basketball game.|Draw a basketball hoop.|Draw a cricketer hitting a six.",
+   "Name": "Draw a batsman hitting a six.",
+   "Description": "Draw a batsman getting bowled.|Draw a fielder taking a catch.|Draw a fast bowler.|Draw a cricket ball in the air.|Draw a wicketkeeper.|Draw a baseball player.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4044,7 +4044,7 @@
     "Description": "Draw a man with wings|Draw cookies dunked in milk|Draw a juggler.|Draw someone missing a dunk.|Draw a basketball game|Draw Michael Jordan",
     "Category": "Drawing 2"
    },
-   "note": "Michael Jordan decoy replaced; punctuation"
+   "note": "Michael Jordan decoy replaced; punctuation; Debate: Local cricket equivalent of basketball dunk."
   },
   {
    "id": "game3-312",
@@ -4114,7 +4114,7 @@
   {
    "id": "game3-317",
    "Name": "Draw your first pet.",
-   "Description": "Draw a hamburger.|Draw yourself holding a baby.|Draw a parrot.|Draw a tick.|Draw a goldfish.|Draw a pet.|Draw a mean dog.|Draw a dead cat.",
+   "Description": "Draw a kitten.|Draw yourself holding a baby.|Draw a parrot.|Draw a tick.|Draw a goldfish.|Draw a pet.|Draw a mean dog.|Draw a rabbit.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4122,7 +4122,7 @@
     "Description": "Draw a hamburger.|Draw yourself holding a baby.|Draw Snoopy.|Draw Godzilla.|Draw a tick.|Draw a goldfish.|Draw a pet.|Draw a mean dog.|Draw a dead cat.",
     "Category": "Drawing 2"
    },
-   "note": "Snoopy/Godzilla decoys replaced"
+   "note": "Snoopy/Godzilla decoys replaced; Debate: Plausible pet decoys replace random and grim ones."
   },
   {
    "id": "game3-318",
@@ -4348,7 +4348,7 @@
   {
    "id": "game3-335",
    "Name": "Draw a surgery.",
-   "Description": "Draw a dentist.|Draw picking your nose.|Draw an autopsy.|Draw plastic surgery.|Draw a broken heart.|Draw a hospital bed.",
+   "Description": "Draw a dentist.|Draw a nurse.|Draw an autopsy.|Draw plastic surgery.|Draw a broken heart.|Draw a hospital bed.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4356,12 +4356,12 @@
     "Description": "Draw a dentist.|Draw picking your nose.|Draw an autopsy.|Draw plastic surgery.|Draw a broken heart.|Draw a game of Operation.",
     "Category": "Drawing 2"
    },
-   "note": "Operation board game -> hospital bed"
+   "note": "Operation board game -> hospital bed; Debate: Removes gross off-theme decoy."
   },
   {
    "id": "game3-336",
    "Name": "Draw a scientist.",
-   "Description": "Draw a teacher.|Draw an idiot.|Draw a dog wearing a hat.|Draw a mad scientist.|Draw a doctor.|Draw Albert Einstein.|Draw a science experiment.|Draw an inventor.|Draw a smart person.",
+   "Description": "Draw a teacher.|Draw a professor.|Draw a dog wearing a hat.|Draw a mad scientist.|Draw a doctor.|Draw Albert Einstein.|Draw a science experiment.|Draw an inventor.|Draw a smart person.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4369,7 +4369,7 @@
     "Description": "Draw a pop star.|Draw an idiot.|Draw a dog wearing a hat.|Draw a mad scientist.|Draw a doctor.|Draw Albert Einstein.|Draw a science experiment.|Draw an inventor.|Draw a smart person.",
     "Category": "Drawing 2"
    },
-   "note": "pop star decoy -> teacher"
+   "note": "pop star decoy -> teacher; Debate: Removes mean 'idiot' decoy."
   },
   {
    "id": "game3-337",
@@ -4439,7 +4439,7 @@
   {
    "id": "game3-342",
    "Name": "Draw something spooky.",
-   "Description": "Draw family game night.|Draw a graveyard at night.|Draw a skeleton.|Draw a scary animal.|Draw a ghost.|Draw a monster.|Draw a haunted house.",
+   "Description": "Draw a dark alley.|Draw a graveyard at night.|Draw a skeleton.|Draw a scary animal.|Draw a ghost.|Draw a monster.|Draw a haunted house.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4447,12 +4447,12 @@
     "Description": "Draw family game night.|Draw your favorite celebrity.|Draw a Disney film.|Draw a skeleton.|Draw a scary animal.|Draw a ghost.|Draw a monster.|Draw a haunted house.|Draw Edgar Allen Poe.",
     "Category": "Drawing 2"
    },
-   "note": "celebrity/Disney/Poe decoys replaced"
+   "note": "celebrity/Disney/Poe decoys replaced; Debate: Fitting decoys replace mismatched one."
   },
   {
    "id": "game3-343",
    "Name": "Draw a crime.",
-   "Description": "Draw a prank.|Draw an ugly dress.|Draw shoplifting.|Draw a thief.|Draw a robbery.|Draw fast cars.|Draw the police.",
+   "Description": "Draw a prank.|Draw a pickpocket.|Draw shoplifting.|Draw a thief.|Draw a robbery.|Draw a security camera.|Draw the police.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4460,7 +4460,7 @@
     "Description": "Draw a prank.|Draw an ugly dress.|Draw pooping.|Draw shoplifting.|Draw a horror movie scene.|Draw a murder.|Draw a robbery.|Draw fast cars.|Draw the police.",
     "Category": "Drawing 2"
    },
-   "note": "removed crude/film/murder decoys"
+   "note": "removed crude/film/murder decoys; Debate: Relevant decoys replace irrelevant ones."
   },
   {
    "id": "game3-344",
@@ -10841,6 +10841,86 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): Relatable drawing card"
+  },
+  {
+   "id": null,
+   "Name": "Draw the Badshahi Mosque.",
+   "Description": "Draw Faisal Mosque.|Draw Minar-e-Pakistan.|Draw a mosque with domes.|Draw Lahore Fort.|Draw a Mughal gate.|Draw a big courtyard.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New local landmark."
+  },
+  {
+   "id": null,
+   "Name": "Draw a tonga ride.",
+   "Description": "Draw a horse cart.|Draw a rickshaw ride.|Draw a bullock cart.|Draw a camel ride.|Draw a bicycle with a passenger.|Draw a coachman.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New local transport card."
+  },
+  {
+   "id": null,
+   "Name": "Draw a mehndi night.",
+   "Description": "Draw a bride's hands with henna.|Draw a nikah ceremony.|Draw a decorated yellow stage.|Draw a bangle stall.|Draw a baraat.|Draw a family gathering.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended decoys avoid duplicating the existing wedding stage card."
+  },
+  {
+   "id": null,
+   "Name": "Draw a glass of lassi.",
+   "Description": "Draw a glass of milkshake.|Draw a jug of sharbat.|Draw a glass of Rooh Afza.|Draw a glass of sugarcane juice.|Draw a glass of mango shake.|Draw a pot of doodh patti.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New local drink card."
+  },
+  {
+   "id": null,
+   "Name": "Draw a school bag that is too heavy.",
+   "Description": "Draw a student carrying many books.|Draw a camel carrying luggage.|Draw an overstuffed suitcase.|Draw a tired student.|Draw a backpack.|Draw a bulging lunch box.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Relatable school-life card."
+  },
+  {
+   "id": null,
+   "Name": "Draw Pakistan winning the cricket World Cup.",
+   "Description": "Draw a team holding a trophy.|Draw a stadium crowd celebrating.|Draw a captain lifting a trophy.|Draw a cricket final.|Draw a victory parade.|Draw a trophy.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local cricket card."
+  },
+  {
+   "id": null,
+   "Name": "Draw a village mud house.",
+   "Description": "Draw a house with a thatched roof.|Draw a haveli.|Draw a farm hut.|Draw a village well.|Draw a house with a courtyard.|Draw a tent.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Village theme."
+  },
+  {
+   "id": null,
+   "Name": "Draw a monsoon downpour.",
+   "Description": "Draw a flooded street.|Draw kids playing in the rain.|Draw an umbrella in a storm.|Draw a muddy road.|Draw dark clouds.|Draw a leaking roof.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Monsoon drawing prompt not yet in deck."
+  },
+  {
+   "id": null,
+   "Name": "A good name for a pet parrot would be...",
+   "Description": "A good name for a pet cat would be...|A good name for a goat for Eid would be...|A good name for a fish would be...|A good name for a cricket team would be...|A good name for a shop would be...|A good name for a baby would be...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family-friendly writing prompt."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about a long weekend is...",
+   "Description": "The best thing about a holiday from school is...|The best thing about Fridays is...|The worst thing about Mondays is...|The best thing about summer vacation is...|The best thing about Sundays is...|The best thing about a rainy day off is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable writing prompt."
   }
  ]
 }

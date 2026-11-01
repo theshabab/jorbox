@@ -6090,15 +6090,15 @@
   {
    "id": "game4-469",
    "Name": "____",
-   "Description": "What two items would go on your family crest?",
-   "Category": "Enough About You",
-   "action": "keep",
+   "Description": "What two items would go on your family's flag?",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "____",
     "Description": "What two items would go on your family crest?",
     "Category": "Enough About You"
    },
-   "note": ""
+   "note": "Debate: Crest is Western heraldry; a family flag keeps the joke."
   },
   {
    "id": "game4-470",
@@ -6610,15 +6610,15 @@
   {
    "id": "game4-509",
    "Name": "____",
-   "Description": "Think about something REALLY creepy you found in an old storeroom, attic or second-hand shop... what was it?",
-   "Category": "Enough About You",
+   "Description": "Think about something REALLY creepy you found in an old storeroom, on a chhat or in a kabari shop... what was it?",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "____",
     "Description": "Think about something REALLY creepy you found in an antique store, garage sale or thrift shop... what was it?",
     "Category": "Enough About You"
    },
-   "note": "localised (antique store/garage sale/thrift shop)"
+   "note": "localised (antique store/garage sale/thrift shop); Debate: Localises attic and second-hand shop; keeps the idea."
   },
   {
    "id": "game4-510",
@@ -7886,39 +7886,39 @@
    "Name": "Monkey mummy",
    "Description": "Bizarre Headline from The Mercury News: \"____ found in old department store grabs the spotlight\"",
    "Category": "Renovations",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Monkey mummy",
     "Description": "Bizarre Headline from The Mercury News: \"____ found in old department store grabs the spotlight\"",
     "Category": "Renovations"
    },
-   "note": ""
+   "note": "Debate: Hyper-local US story with an unguessable answer."
   },
   {
    "id": "game4-608",
    "Name": "too-small pants",
    "Description": "Thought-provoking headline from The Atlantic: \"The Nasty Logistics of Returning Your ____\"",
    "Category": "Logistics",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "too-small pants",
     "Description": "Thought-provoking headline from The Atlantic: \"The Nasty Logistics of Returning Your ____\"",
     "Category": "Logistics"
    },
-   "note": ""
+   "note": "Debate: Vague and unverifiable."
   },
   {
    "id": "game4-609",
    "Name": "Onion",
    "Description": "Headline from Buzzfeed: \"Eat From This Curated Brunch Menu And We'll Reveal What Type Of ____ You Are\"",
    "Category": "Headlines",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Onion",
     "Description": "Headline from Buzzfeed: \"Eat From This Curated Brunch Menu And We'll Reveal What Type Of ____ You Are\"",
     "Category": "Headlines"
    },
-   "note": ""
+   "note": "Debate: Western quiz-bait, low quality."
   },
   {
    "id": "game4-610",
@@ -7938,13 +7938,13 @@
    "Name": "doing pull-ups",
    "Description": "Headline from Huffington Post: \"American Airlines Removes Passenger Who Won’t Stop ____\"",
    "Category": "Travel",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "doing pull-ups",
     "Description": "Headline from Huffington Post: \"American Airlines Removes Passenger Who Won’t Stop ____\"",
     "Category": "Travel"
    },
-   "note": ""
+   "note": "Debate: US-local and unverifiable."
   },
   {
    "id": "game4-612",
@@ -8237,13 +8237,13 @@
    "Name": "a blanket",
    "Description": "Humorous Headline from Newsweek: \"Man Hilariously Fails to Evade Cops by Hiding Under ____\"",
    "Category": "Fugitivity",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Blanket",
     "Description": "Humorous Headline from Newsweek: \"Man Hilariously Fails to Evade Cops by Hiding Under ____\"",
     "Category": "Fugitivity"
    },
-   "note": "answer case"
+   "note": "Debate: Generic and trivially guessable."
   },
   {
    "id": "game4-635",
@@ -12192,6 +12192,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): A family-friendly icebreaker. No live card asks about superpowers, and superpowers are not the forbidden magic content."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "How do you take your chai, and who in your family makes it best?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable; no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is a sentence your mother says so often that you could finish it for her?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family-friendly and funny; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "Which street food stall would you travel across the city for?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Pakistani food question; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the best thing you ever got after bargaining, or the worst deal you ever accepted?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local bargaining culture; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is your favourite way to eat a mango?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Seasonal and relatable; the only mango card is a fact card."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What did you love doing on the roof on a summer evening as a kid?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version without the basant reference, which avoids a banned and discouraged festival."
   }
  ]
 }
