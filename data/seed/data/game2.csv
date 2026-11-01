@@ -957,7 +957,7 @@ Beekeeper,Honey | Hive | Wax | Sting | Smoke,Occupations
 Joint Family,Dada | Cousins | One Roof | Uncles | Together,Family Relations
 Orphan,Yateem | Parents | Sponsor | Kindness | Jannah,Family Relations
 Neighbour,Hamsaya | Next Door | Wall | Plate | Rights,Family Relations
-Abdullah ibn Umar,Sunnah | Hadith | Careful | Caliph | Footsteps,Sahaba
+Abdullah ibn Umar,Sunnah | Hadith | Careful | Father | Footsteps,Sahaba
 Abu Darda,Damascus | Salman | Merchant | Simple | Ansari,Sahaba
 Umm Salamah,Hudaybiyyah | Advice | Wife | Hijrah | Widow,Sahaba
 Ibn al-Haytham,Optics | Alhazen | Light | Cairo | Experiment,Muslim Historical Figures
@@ -1144,3 +1144,12 @@ Jibreel,Angel | Wahi | Gabriel | Messenger | Quran,Islamic Terms
 Ludo,Dice | Board | Token | Six | Home,Sports
 Fairy Meadows,Nanga Parbat | Raikot | Jeep | Camping | Diamer,Nature
 Deosai,Plateau | Skardu | Brown Bear | Sheosar | Wildflowers,Nature
+Candle,Wax | Flame | Light | Wick | Loadshedding,Tools
+Lantern,Laltain | Light | Handle | Oil | Glass,Tools
+Stethoscope,Doctor | Chest | Heartbeat | Listen | Ears,Tools
+Helmet,Head | Bike | Safety | Hard | Wear,Clothing
+Bridge,River | Cross | Pul | Road | Over,Transport
+Minaret,Mosque | Tall | Azan | Tower | Loudspeaker,Islamic Locations
+Madrasa,Quran | Students | Qari | Learn | Hifz,Islamic Locations
+Khandaq,Trench | Battle | Madinah | Salman | Siege,Islamic Locations
+Soap,Wash | Bubbles | Hands | Foam | Lifebuoy,Tools

@@ -15463,7 +15463,7 @@
   {
    "id": "game5-1190",
    "Name": "",
-   "Description": "\"(insert name)'s\" mother doesn't approve of his/her new hobby because it involves collecting ____ and then setting them on fire.",
+   "Description": "\"(insert name)'s\" mother doesn't approve of his/her new hobby because it involves collecting ____ and keeping them under the bed.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -15471,7 +15471,7 @@
     "Description": "\"Insert Name's\" mother doesn't approve of his/her new hobby because it involves collecting ____ and then setting them on fire.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the arson angle, keeps the original name-placeholder format."
   },
   {
    "id": "game5-1191",
@@ -15645,7 +15645,7 @@
   {
    "id": "game5-1204",
    "Name": "",
-   "Description": "\"(insert name)\" got stopped at a police naka today and had to explain a car boot full of ____ for a cousin's shaadi.",
+   "Description": "\"(insert name)\" got stopped by a traffic warden today and had to explain a car roof stacked with ____ for a cousin's shaadi.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -15653,7 +15653,7 @@
     "Description": "\"Insert Name\" got pulled over by the police today and was caught with a large assortment of ____ in the trunk.",
     "Category": ""
    },
-   "note": "localised; Debate: 'Caught with a car boot full of ____' at a checkpoint invites contraband answers. The shaadi frame keeps it clean."
+   "note": "localised; Debate: 'Caught with a car boot full of ____' at a checkpoint invites contraband answers. The shaadi frame keeps it clean.; Debate: Avoids smuggling/drug answers, keeps shaadi chaos."
   },
   {
    "id": "game5-1205",
@@ -16297,13 +16297,13 @@
    "Name": "",
    "Description": "“I have ____.” – Martin Luther King Jr.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "“I have ____.” - Dr. Martin Luther King Jr.",
     "Category": ""
    },
-   "note": "punctuation"
+   "note": "Debate: US-centric, invites flippant answers about a civil-rights speech."
   },
   {
    "id": "game5-1255",
@@ -16802,7 +16802,7 @@
   {
    "id": "game5-1293",
    "Name": "",
-   "Description": "A celebrity can get away with ____, but when I do it, it's a crime.",
+   "Description": "A VIP can get away with ____, but when I do it, I get a long lecture from Ammi.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -16810,7 +16810,7 @@
     "Description": "A celebrity can get away with ____ but when I do it it's a federal offense.",
     "Category": ""
    },
-   "note": "federal offense -> crime"
+   "note": "federal offense -> crime; Debate: Local family punchline, drops the crime framing."
   },
   {
    "id": "game5-1294",
@@ -17023,7 +17023,7 @@
   {
    "id": "game5-1310",
    "Name": "",
-   "Description": "A fast-food worker was recently fired for putting ____ in children's meals.",
+   "Description": "A restaurant was recently shut down by the food authority for putting ____ in the haleem.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -17031,7 +17031,7 @@
     "Description": "A McDonald's employee was recently fired for placing ____ in children's Happy Meals.",
     "Category": ""
    },
-   "note": "brand removed"
+   "note": "brand removed; Debate: Challenger's haleem version localises the card and avoids overlap with live biryani card 1269."
   },
   {
    "id": "game5-1311",
@@ -17777,15 +17777,15 @@
   {
    "id": "game5-1368",
    "Name": "",
-   "Description": "After being crowned King or Queen, your first reception is interrupted by ____.",
+   "Description": "After being crowned the family chai champion, your victory speech is interrupted by ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "After being crowned King or Queen, your first reception is interrupted by ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces Western coronation framing with a local equivalent."
   },
   {
    "id": "game5-1369",
@@ -17855,15 +17855,15 @@
   {
    "id": "game5-1374",
    "Name": "",
-   "Description": "After its unsuccessful campaign, the Secession Movement has shifted its focus to separating ____ from ____.",
+   "Description": "After its failed campaign, the Cricket Club Rebellion has shifted its focus to separating ____ from ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "After its unsuccessful campaign, the Secession Movement has shifted its focus to separating ____ from ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Neutral club-rebellion frame avoids a US secession/separatist reading and keeps the joke."
   },
   {
    "id": "game5-1375",
@@ -18193,7 +18193,7 @@
   {
    "id": "game5-1400",
    "Name": "",
-   "Description": "After the wedding comes the walima, and after the walima comes ____.",
+   "Description": "After the wedding comes the walima, and after the walima comes the argument about ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -18201,7 +18201,7 @@
     "Description": "After the show it’s the afterparty, and after the party it's ____.",
     "Category": ""
    },
-   "note": "afterparty -> walima"
+   "note": "afterparty -> walima; Debate: Keeps the structure, avoids suggestive answers."
   },
   {
    "id": "game5-1401",
@@ -18624,13 +18624,13 @@
    "Name": "",
    "Description": "All hands, brace for ____!",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "All hands, brace for ____!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of live card game5-1351 (action edit, not remove); only this one is removed."
   },
   {
    "id": "game5-1434",
@@ -104597,6 +104597,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Distinct from existing Dadi cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Inflation is so bad that my family now shares one ____ between everyone.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local-theme prompt, inflation absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The jalebi wala looked at me and said, \"Beta, ____ is not for sale.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean street-food prompt, jalebi barely covered."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My dupatta got stuck in ____ and the whole family saw.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean awkward-moment prompt, dupatta rare in deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The barber asked, \"Sir, cutting kaisi karni hai?\" and I replied, \"Like ____.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's more natural Roman Urdu; distinct customer-reply angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The photocopy shop uncle handed me my documents with ____ stapled to them.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct, clean local errand joke."
   }
  ]
 }

@@ -11731,10 +11731,10 @@
   {
    "id": null,
    "Name": "Abdullah ibn Umar",
-   "Description": "Sunnah | Hadith | Careful | Caliph | Footsteps",
+   "Description": "Sunnah | Hadith | Careful | Father | Footsteps",
    "Category": "Sahaba",
    "action": "add",
-   "note": "New card (debate): Amended to drop banned word contained in the answer."
+   "note": "New card (debate): Amended to drop banned word contained in the answer.; Debate: Caliph misleads (his father Umar was the caliph); Umar is in the name so it cannot be a banned word, so use Father."
   },
   {
    "id": null,
@@ -13223,6 +13223,78 @@
    "Category": "Nature",
    "action": "add",
    "note": "New card (debate): Amended version: replaces near-synonym 'Plains' with 'Wildflowers'."
+  },
+  {
+   "id": null,
+   "Name": "Candle",
+   "Description": "Wax | Flame | Light | Wick | Loadshedding",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Common loadshedding-era household item; not a duplicate; Tools alongside Torch."
+  },
+  {
+   "id": null,
+   "Name": "Lantern",
+   "Description": "Laltain | Light | Handle | Oil | Glass",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Household item with local name as banned word; Tools, not Electronics."
+  },
+  {
+   "id": null,
+   "Name": "Stethoscope",
+   "Description": "Doctor | Chest | Heartbeat | Listen | Ears",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Common doctor item, not already a card, accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Helmet",
+   "Description": "Head | Bike | Safety | Hard | Wear",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Everyday item, not a duplicate, fits Pakistani bike culture."
+  },
+  {
+   "id": null,
+   "Name": "Bridge",
+   "Description": "River | Cross | Pul | Road | Over",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Common word, not already a card, local Urdu clue."
+  },
+  {
+   "id": null,
+   "Name": "Minaret",
+   "Description": "Mosque | Tall | Azan | Tower | Loudspeaker",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Core mosque feature, not already a card."
+  },
+  {
+   "id": null,
+   "Name": "Madrasa",
+   "Description": "Quran | Students | Qari | Learn | Hifz",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Familiar place for the players, not already a card."
+  },
+  {
+   "id": null,
+   "Name": "Khandaq",
+   "Description": "Trench | Battle | Madinah | Salman | Siege",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Matches the short battle names (Uhud, Badr, Khaybar); accurate; Khandaq appears only as a banned word elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "Soap",
+   "Description": "Wash | Bubbles | Hands | Foam | Lifebuoy",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Everyday item, not a duplicate, local brand hint, not a bathroom joke."
   }
  ]
 }

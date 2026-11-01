@@ -344,7 +344,7 @@
   {
    "id": "game4-27",
    "Name": "a solid / a liquid",
-   "Description": "Marc-Antoine Fardin won the 2017 Ig Nobel Prize for \"proving\" that cats can simultaneously be ____ and ____.",
+   "Description": "Marc-Antoine Fardin won the 2014 Ig Nobel Prize for \"proving\" that cats can simultaneously be ____ and ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -352,7 +352,7 @@
     "Description": "Marc-Antoine Fardin won the 2017 Ig Nobel Prize for \"proving\" that cats can simultaneously be ____ and ____.",
     "Category": "Kitty Science"
    },
-   "note": "Debate: Both words fill the two blanks; 'or' misread as alternatives."
+   "note": "Debate: Both words fill the two blanks; 'or' misread as alternatives.; Debate: Fardin's cat rheology Ig Nobel was 2014; fixes the wrong year."
   },
   {
    "id": "game4-28",
@@ -710,13 +710,13 @@
    "Name": "A Lion",
    "Description": "Charles Blondin made headlines in the 1800s when he successfully walked a tightrope while pushing a wheelbarrow containing ____.",
    "Category": "Daredevils",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "A Lion",
     "Description": "Charles Blondin made headlines in the 1800s when he successfully walked a tightrope while pushing a wheelbarrow containing ____.",
     "Category": "Daredevils"
    },
-   "note": ""
+   "note": "Debate: Documented Blondin stunts do not include a lion; the claim is unverifiable and likely fabricated, which is bad for a bluffing game."
   },
   {
    "id": "game4-56",
@@ -13680,6 +13680,22 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Family-friendly Eid question, distinct from the Eidi-spending card."
+  },
+  {
+   "id": null,
+   "Name": "watermelons",
+   "Description": "Farmers in Zentsuji, Japan, grow square ____ by raising them inside glass boxes, so they stack neatly and fit in a fridge.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, memorable fact; grep found no watermelon or Zentsuji card, so not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Wall",
+   "Description": "Rakaposhi, the peak towering over Pakistan's Hunza and Nagar valleys, has a name usually translated as the Shining ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Pakistani geography fact, hedged wording, no existing Rakaposhi card."
   }
  ]
 }
