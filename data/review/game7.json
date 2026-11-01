@@ -13095,14 +13095,14 @@
   },
   {
    "id": "game7-1191",
-   "Description": "plumber changing a lightbulb? 3, 2, 1... zapped!",
+   "Description": "electrician changing a lightbulb? 3, 2, 1... zapped!",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "mario changing lightbulb? 3 2 1 electrocuted",
     "Category": "Standard Prompts"
    },
-   "note": "removed video-game character"
+   "note": "removed video-game character; Debate: Electrician makes the joke coherent."
   },
   {
    "id": "game7-1192",
@@ -13139,14 +13139,14 @@
   },
   {
    "id": "game7-1195",
-   "Description": "throwing bread at model UN students",
+   "Description": "throwing tomatoes at debate club students",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "throwing bread at model UN students",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises Model UN; avoids throwing roti or bread, which is disrespectful of food."
   },
   {
    "id": "game7-1196",
@@ -13174,12 +13174,12 @@
    "id": "game7-1198",
    "Description": "triangle storm a-brewin'",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "triangle storm a-brewin'",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Unclear and not drawable."
   },
   {
    "id": "game7-1199",
@@ -13337,14 +13337,14 @@
   },
   {
    "id": "game7-1213",
-   "Description": "mingling at the historic market",
+   "Description": "bargaining at the old bazaar",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "mingling at the historic market",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Clearer, local and drawable."
   },
   {
    "id": "game7-1214",
@@ -13537,12 +13537,12 @@
    "id": "game7-1231",
    "Description": "minister tapeworm",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "senator tapeworm",
     "Category": "Standard Prompts"
    },
-   "note": "localised (senator)"
+   "note": "Debate: Parasite/body humour, no clear drawable idea."
   },
   {
    "id": "game7-1232",
@@ -13799,14 +13799,14 @@
   },
   {
    "id": "game7-1255",
-   "Description": "all bow before the grill king",
+   "Description": "all bow before the tikka king",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "all bow before the grill king",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Harmless local swap."
   },
   {
    "id": "game7-1256",
@@ -14085,14 +14085,14 @@
   },
   {
    "id": "game7-1281",
-   "Description": "chips and dip and a man on horseback",
+   "Description": "samosas and chutney and a man on horseback",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "chips and dip and a man on horseback",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Local snack, keeps the absurd pairing."
   },
   {
    "id": "game7-1282",
@@ -20924,6 +20924,48 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Light and affectionate. No existing mithai card is a sharing joke."
+  },
+  {
+   "id": null,
+   "Description": "a giant degh of haleem with a tiny spoon standing in it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New, local, funny, drawable."
+  },
+  {
+   "id": null,
+   "Description": "a UPS inverter wearing a hero cape during load-shedding",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local and distinct from existing UPS cards."
+  },
+  {
+   "id": null,
+   "Description": "a shawarma spinning on its stick, feeling dizzy",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No shawarma card; simple drawable gag."
+  },
+  {
+   "id": null,
+   "Description": "a room heater fighting the fridge over who is the coldest",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Clean, drawable, no heater card."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to carry every shopping bag in one trip",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, relatable, token intact."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as a chai wala who keeps forgetting the sugar",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate local Friend Mode card, token intact."
   }
  ]
 }

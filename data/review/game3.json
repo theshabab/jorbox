@@ -617,7 +617,7 @@
   {
    "id": "game3-48",
    "Name": "Pashto Words",
-   "Description": "Pakhair|Manana|Kha|Wro|Zama|Sta|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Oba|Dodai|Khkulay|Tsanga Yee",
+   "Description": "Pakhair|Manana|Kha|Zama|Sta|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Oba|Dodai|Khkulay|Tsanga Yee",
    "Category": "",
    "action": "edit",
    "original": {
@@ -625,12 +625,12 @@
     "Description": "Pakhair|Manana|Kha|Wro|Zama|Sta|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Dost|Dushman|Jang|Aman",
     "Category": ""
    },
-   "note": "Debate: Dost, Dushman, Jang and Aman are everyday Urdu words. They are replaced with distinctly Pashto words."
+   "note": "Debate: Dost, Dushman, Jang and Aman are everyday Urdu words. They are replaced with distinctly Pashto words.; Debate: Remove doubtful Wro, a near-duplicate of Wror."
   },
   {
    "id": "game3-49",
    "Name": "Sindhi Words",
-   "Description": "Sain|Ada|Adi|Bhau|Bhen|Wadero|Goth|Chha|Jiye|Sindhu|Ajrak|Ralli|Suthan|Machhi|Pallo|Bhaji|Mani",
+   "Description": "Sain|Ada|Adi|Wadero|Goth|Chha|Jiye|Sindhu|Ajrak|Ralli|Suthan|Machhi|Pallo|Bhaji",
    "Category": "",
    "action": "edit",
    "original": {
@@ -638,7 +638,7 @@
     "Description": "Sain|Ada|Bhau|Bhen|Ammi|Baba|Goth|Shehar|Darya|Sindhu|Ajrak|Topi|Ralli|Khamis|Suthan|Chawal|Machhi|Pallo|Bhaji|Mani",
     "Category": ""
    },
-   "note": "removed doubtful Khamis, Chawal; Debate: Ammi, Baba, Shehar, Darya and Topi are plain Urdu words. They are replaced with Sindhi words. Wadero is used instead of the challenger's Amma, which is also Urdu."
+   "note": "removed doubtful Khamis, Chawal; Debate: Ammi, Baba, Shehar, Darya and Topi are plain Urdu words. They are replaced with Sindhi words. Wadero is used instead of the challenger's Amma, which is also Urdu.; Debate: Bhau/Bhen duplicate Ada/Adi in meaning; Mani is doubtful and obscure."
   },
   {
    "id": "game3-50",
@@ -695,7 +695,7 @@
   {
    "id": "game3-54",
    "Name": "Types of Salah",
-   "Description": "Fard|Sunnah|Nafl|Wajib|Witr|Janaza|Eid|Jummah|Tahajjud|Ishraq|Chasht|Awwabin|Istikhara|Hajat|Tasbih|Tawbah|Tahiyyatul Masjid|Tahiyyatul Wudu|Qaza|Tarawih",
+   "Description": "Fard|Sunnah|Nafl|Wajib|Witr|Janaza|Eid|Jummah|Tahajjud|Ishraq|Chasht|Awwabin|Istikhara|Hajat|Salat ul Tasbih|Salat ut Tawbah|Tahiyyatul Masjid|Tahiyyatul Wudu|Qaza|Tarawih",
    "Category": "",
    "action": "edit",
    "original": {
@@ -703,7 +703,7 @@
     "Description": "Fard|Sunnah|Nafl|Wajib|Witr|Janaza|Eid|Jummah|Tahajjud|Ishraq|Chasht|Awwabin|Istikhara|Hajat|Tasbih|Tawbah|Shukr|Kusuf|Khusuf|Musafir",
     "Category": ""
    },
-   "note": "Musafir replaced with Tarawih; Debate: Kusuf and Khusuf are nearly the same word and obscure to most players, and a separate Shukr salah is disputed. They are replaced with well-known prayers."
+   "note": "Musafir replaced with Tarawih; Debate: Kusuf and Khusuf are nearly the same word and obscure to most players, and a separate Shukr salah is disputed. They are replaced with well-known prayers.; Debate: Bare Tasbih and Tawbah are unclear as prayers; use proper names."
   },
   {
    "id": "game3-55",
@@ -890,7 +890,7 @@
   {
    "id": "game3-69",
    "Name": "Peshawar Landmarks",
-   "Description": "Qissa Khwani|Bala Hissar|Mahabat Khan Masjid|Chowk Yadgar|Sethi House|Peshawar Museum|Islamia College|Khyber Pass|Jamrud Fort|Bab e Khyber|Hayatabad|Saddar|University Road|BRT|Karkhano|Tatara Park|Bagh e Naran|Shahi Bagh|Wazir Bagh|Cunningham Clock",
+   "Description": "Qissa Khwani|Bala Hissar|Mahabat Khan Masjid|Chowk Yadgar|Sethi House|Peshawar Museum|Islamia College|Khyber Pass|Jamrud Fort|Hayatabad|Saddar|University Road|BRT|Karkhano|Tatara Park|Bagh e Naran|Shahi Bagh|Wazir Bagh|Cunningham Clock",
    "Category": "",
    "action": "edit",
    "original": {
@@ -898,7 +898,7 @@
     "Description": "Qissa Khwani|Bala Hissar|Mahabat Khan|Chowk Yadgar|Sethi House|Peshawar Museum|Islamia College|Khyber Pass|Jamrud Fort|Bab e Khyber|Hayatabad|Saddar|University Road|BRT|Karkhano|Tatara Park|Bagh e Naran|Shahi Bagh|Wazir Bagh|Cunningham Clock",
     "Category": ""
    },
-   "note": "Debate: 'Mahabat Khan' alone names a person; the landmark is the masjid"
+   "note": "Debate: 'Mahabat Khan' alone names a person; the landmark is the masjid; Debate: Bab e Khyber is the Khyber Pass gateway, a duplicate of Khyber Pass."
   },
   {
    "id": "game3-70",
@@ -994,7 +994,7 @@
   {
    "id": "game3-77",
    "Name": "Dry Fruits",
-   "Description": "Almond|Pistachio|Cashew|Walnut|Chilgoza|Raisin|Hazelnut|Fig|Dried Apricot|Peanut|Dried Coconut|Chuhara|Munakka|Prune|Cranberry",
+   "Description": "Almond|Pistachio|Cashew|Walnut|Chilgoza|Raisin|Hazelnut|Fig|Dried Apricot|Peanut|Dried Coconut|Chuhara|Munakka|Prune|Dried Mulberry",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1002,7 +1002,7 @@
     "Description": "Date|Fig|Raisin|Apricot|Prune|Currant|Sultana|Cranberry|Blueberry|Cherry|Mango|Pineapple|Papaya|Kiwi|Apple|Banana|Strawberry|Peach|Pear|Melon",
     "Category": ""
    },
-   "note": "list was mostly fresh fruit; rewritten to actual dry fruits; Debate: Date and Chuhara (a dried date) were duplicates; Date replaced with Hazelnut"
+   "note": "list was mostly fresh fruit; rewritten to actual dry fruits; Debate: Date and Chuhara (a dried date) were duplicates; Date replaced with Hazelnut; Debate: Cranberry is unfamiliar locally; dried mulberry (shahtoot) is a local equivalent."
   },
   {
    "id": "game3-78",
@@ -1020,7 +1020,7 @@
   {
    "id": "game3-79",
    "Name": "Meat Types",
-   "Description": "Chicken|Beef|Mutton|Lamb|Teetar|Fish|Prawn|Crab|Lobster|Duck|Turkey|Quail|Rabbit|Camel|Deer|Ostrich|Buffalo",
+   "Description": "Chicken|Beef|Mutton|Lamb|Teetar|Fish|Prawn|Duck|Turkey|Quail|Rabbit|Camel|Deer|Ostrich|Buffalo",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1028,7 +1028,7 @@
     "Description": "Chicken|Beef|Mutton|Lamb|Goat|Fish|Prawn|Shrimp|Crab|Lobster|Duck|Turkey|Quail|Rabbit|Camel|Deer|Ostrich|Buffalo|Cow|Sheep",
     "Category": ""
    },
-   "note": "Shrimp dup of Prawn; Cow/Sheep are animals not meat; Debate: In Pakistan, Goat and Mutton are the same meat; Goat replaced with Teetar"
+   "note": "Shrimp dup of Prawn; Cow/Sheep are animals not meat; Debate: In Pakistan, Goat and Mutton are the same meat; Goat replaced with Teetar; Debate: Crab and lobster are disputed as halal and can derail a round."
   },
   {
    "id": "game3-80",
@@ -1163,7 +1163,7 @@
   {
    "id": "game3-90",
    "Name": "Salads",
-   "Description": "Kachumber|Russian|Macaroni|Fruit|Vegetable|Bean|Chickpea|Potato|Egg|Chicken|Pasta|Corn|Coleslaw|Caesar|Greek",
+   "Description": "Kachumber|Russian|Macaroni|Fruit|Vegetable|Bean|Chickpea|Potato|Egg|Chicken|Corn|Coleslaw|Caesar|Greek",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1171,7 +1171,7 @@
     "Description": "Kachumber|Russian|Macaroni|Fruit|Vegetable|Bean|Chickpea|Potato|Egg|Chicken|Pasta|Corn|Coleslaw|Caesar|Greek|Garden|Tossed|Chopped|Layered|Mixed",
     "Category": ""
    },
-   "note": "many were not Pakistani; renamed; vague entries removed"
+   "note": "many were not Pakistani; renamed; vague entries removed; Debate: Pasta duplicates Macaroni."
   },
   {
    "id": "game3-91",
@@ -1241,15 +1241,15 @@
   {
    "id": "game3-96",
    "Name": "Men's Clothing",
-   "Description": "Kurta|Shalwar|Kameez|Pant|Shirt|T-Shirt|Jeans|Suit|Tie|Coat|Jacket|Sweater|Vest|Shorts|Tracksuit|Pyjama|Dhoti|Lungi|Sherwani|Turban",
+   "Description": "Kurta|Shalwar|Kameez|Pant|Shirt|T-Shirt|Jeans|Suit|Tie|Coat|Jacket|Sweater|Banyan|Shorts|Tracksuit|Pyjama|Waistcoat|Lungi|Sherwani|Turban",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Men's Clothing",
     "Description": "Kurta|Shalwar|Kameez|Pant|Shirt|T-Shirt|Jeans|Suit|Tie|Coat|Jacket|Sweater|Vest|Shorts|Tracksuit|Pyjama|Dhoti|Lungi|Sherwani|Turban",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Dhoti is not Pakistani dress, replaced with Waistcoat; Vest changed to Banyan to avoid clashing with Waistcoat."
   },
   {
    "id": "game3-97",
@@ -1293,7 +1293,7 @@
   {
    "id": "game3-100",
    "Name": "Gems and Precious Metals",
-   "Description": "Gold|Silver|Diamond|Platinum|Pearl|Ruby|Emerald|Sapphire|Topaz|Opal|Jade|Amber|Coral|Turquoise|Garnet|Amethyst|Zircon",
+   "Description": "Gold|Silver|Diamond|Platinum|Pearl|Ruby|Emerald|Sapphire|Topaz|Opal|Jade|Amber|Coral|Turquoise|Garnet|Amethyst|Aqeeq",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1301,7 +1301,7 @@
     "Description": "Gold|Silver|Diamond|Platinum|Pearl|Ruby|Emerald|Sapphire|Topaz|Opal|Jade|Amber|Coral|Turquoise|Garnet|Amethyst|Zircon|Crystal|Glass|Plastic",
     "Category": ""
    },
-   "note": "list was materials not jewelry items; renamed; Glass, Plastic, Crystal removed"
+   "note": "list was materials not jewelry items; renamed; Glass, Plastic, Crystal removed; Debate: Zircon is obscure; Aqeeq is well known locally."
   },
   {
    "id": "game3-101",
@@ -12513,6 +12513,86 @@
    "Category": "Rating",
    "action": "add",
    "note": "New card (debate): New Rating card on a worship theme the owner allows. Zakat is not covered by any Rating card."
+  },
+  {
+   "id": null,
+   "Name": "Multan Landmarks",
+   "Description": "Qasim Bagh Fort|Shah Rukn e Alam Tomb|Bahauddin Zakariya Shrine|Shah Gardez Shrine|Ghanta Ghar|Hussain Agahi Bazaar|Chowk Bazaar|Eid Gah Masjid|Multan Cricket Stadium|Khooni Burj|Nawan Shehr Chowk|Abdali Road|Bosan Road|Wapda Town|Shah Shams Shrine|Multan Railway Station",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Multan landmarks card; Cantt replaced with Abdali Road."
+  },
+  {
+   "id": null,
+   "Name": "Rawalpindi Landmarks",
+   "Description": "Raja Bazaar|Liaquat Bagh|Murree Road|Saddar|Committee Chowk|Ayub Park|Pindi Cricket Stadium|Chandni Chowk|Moti Bazaar|Railway Station|Pindi Club|GHQ|Commercial Market|Bahria Town|Westridge|Lal Kurti|Tench Bhatta|Satellite Town|Pir Wadhai",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Rawalpindi landmarks card; Metro Bus and Rawal Dam dropped as shared with Islamabad."
+  },
+  {
+   "id": null,
+   "Name": "Cities of Khyber Pakhtunkhwa",
+   "Description": "Peshawar|Mardan|Abbottabad|Mingora|Kohat|Bannu|Dera Ismail Khan|Charsadda|Nowshera|Mansehra|Swabi|Haripur|Chitral|Hangu|Balakot|Parachinar|Karak|Dir",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New KP cities card; obscure towns replaced with better-known ones."
+  },
+  {
+   "id": null,
+   "Name": "Cities of Sindh",
+   "Description": "Karachi|Hyderabad|Sukkur|Larkana|Nawabshah|Mirpur Khas|Thatta|Jacobabad|Khairpur|Dadu|Badin|Shikarpur|Sanghar|Umerkot|Ghotki|Tando Allahyar|Kotri|Jamshoro",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Sindh cities card."
+  },
+  {
+   "id": null,
+   "Name": "Types of Karahi",
+   "Description": "Peshawari|Lahori|Namkeen|White|Dumba|Charsi|Mutton|Chicken|Makhni|Balti|Achari|Prawn",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New karahi card; Butter dropped as duplicate of Makhni."
+  },
+  {
+   "id": null,
+   "Name": "Types of Halwa",
+   "Description": "Sohan|Karachi|Gajar|Suji|Habshi|Anday|Moong Daal|Kaddu|Aata|Badam|Chana Daal|Lauki",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New halwa types card."
+  },
+  {
+   "id": null,
+   "Name": "Types of Biryani",
+   "Description": "Sindhi|Karachi|Hyderabadi|Chicken|Mutton|Beef|Kacchi|Tehari|Bombay|Memoni|Egg|Vegetable|Fish|Bohri",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New biryani types card; weak Afghani dropped."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Mithai Shop",
+   "Description": "Ladoo|Barfi|Gulab Jamun|Jalebi|Rasgulla|Cham Cham|Sohan Halwa|Patisa|Kaju Katli|Pista Roll|Khoya|Kadhai|Ghee|Tray|Mithai Box|Scale|Counter|Chashni|Bhatti|Samosa",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New mithai shop scene card; Tikki replaced with Samosa."
+  },
+  {
+   "id": null,
+   "Name": "Things on a Dastarkhwan",
+   "Description": "Roti|Naan|Salan|Raita|Salad|Chutney|Pickle|Water Jug|Glasses|Plates|Spoons|Rice|Daal|Sabzi|Sweet Dish|Lassi|Papar|Tissue Box|Tablecloth|Chai",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New dining scene card; Gosht replaced with Sabzi to avoid overlap with Salan."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Nikah",
+   "Description": "Qazi|Nikah Nama|Witnesses|Haq Mehr|Khajoor|Qubool Hai|Dua|Sehra|Guldasta|Mithai|Groom|Bride|Stage|Sherwani|Pen|Mehmaan|Photographer|Microphone|Sofa",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New nikah scene card; duplicate words removed."
   }
  ]
 }

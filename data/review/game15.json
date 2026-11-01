@@ -21419,13 +21419,13 @@
    "Name": "Squid",
    "Description": "About 100 million years ago",
    "Category": "Animal Groups - First Fossil Appearance (Oldest First)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Squid",
     "Description": "-100 mya",
     "Category": "Spongebob Characters Evolution"
    },
-   "note": "removed TV framing; clearer value"
+   "note": "Debate: Squid-group fossils reach the Jurassic, making the order against Crabs disputable; 4 cards remain, no duplicate pair."
   },
   {
    "id": "game15-1649",
@@ -21650,8 +21650,8 @@
   },
   {
    "id": "game15-1666",
-   "Name": "Stephen Hawking",
-   "Description": "1942",
+   "Name": "Abdul Qadeer Khan",
+   "Description": "1936",
    "Category": "Scientists - Birth Year",
    "action": "edit",
    "original": {
@@ -21659,12 +21659,12 @@
     "Description": "1942",
     "Category": "Scientist Birthdays"
    },
-   "note": "category renamed"
+   "note": "category renamed; Debate: Khan (1936) must precede Hawking (1942); verified slice order was wrong."
   },
   {
    "id": "game15-1667",
-   "Name": "Abdul Qadeer Khan",
-   "Description": "1936",
+   "Name": "Stephen Hawking",
+   "Description": "1942",
    "Category": "Scientists - Birth Year",
    "action": "edit",
    "original": {
@@ -21672,7 +21672,7 @@
     "Description": "1958",
     "Category": "Scientist Birthdays"
    },
-   "note": "category renamed; US TV scientist swapped for Pakistani scientist"
+   "note": "category renamed; US TV scientist swapped for Pakistani scientist; Debate: Second half of the Khan/Hawking swap."
   },
   {
    "id": "game15-1668",
@@ -23444,8 +23444,8 @@
   },
   {
    "id": "game15-1804",
-   "Name": "Android",
-   "Description": "2008 - 23 September (Android 1.0)",
+   "Name": "Chrome",
+   "Description": "2008 - 2 September (beta)",
    "Category": "Google Product Launches (Year)",
    "action": "edit",
    "original": {
@@ -23453,12 +23453,12 @@
     "Description": "2008",
     "Category": "Google Product Launches (Year)"
    },
-   "note": "Debate: Breaks the 2008 tie with Chrome. Android 1.0 came out on 23 Sep 2008."
+   "note": "Debate: Breaks the 2008 tie with Chrome. Android 1.0 came out on 23 Sep 2008.; Debate: Chrome (2 Sep 2008) precedes Android 1.0 (23 Sep 2008); slice had Android first."
   },
   {
    "id": "game15-1805",
-   "Name": "Chrome",
-   "Description": "2008 - 2 September (beta)",
+   "Name": "Android",
+   "Description": "2008 - 23 September (Android 1.0)",
    "Category": "Google Product Launches (Year)",
    "action": "edit",
    "original": {
@@ -23466,7 +23466,7 @@
     "Description": "2008",
     "Category": "Google Product Launches (Year)"
    },
-   "note": "Debate: Breaks the 2008 tie with Android. The Chrome beta came out on 2 Sep 2008."
+   "note": "Debate: Breaks the 2008 tie with Android. The Chrome beta came out on 2 Sep 2008.; Debate: Second half of the Chrome/Android swap."
   },
   {
    "id": "game15-1806",
@@ -23535,8 +23535,8 @@
   },
   {
    "id": "game15-1811",
-   "Name": "Nike",
-   "Description": "1964 (as Blue Ribbon Sports)",
+   "Name": "Gul Ahmed",
+   "Description": "1953",
    "Category": "Fashion Brands (Founding Year)",
    "action": "edit",
    "original": {
@@ -23544,12 +23544,12 @@
     "Description": "1964",
     "Category": "Fashion Brands (Founding Year)"
    },
-   "note": "founded 1964 as Blue Ribbon Sports; Nike name from 1971"
+   "note": "founded 1964 as Blue Ribbon Sports; Nike name from 1971; Debate: Gul Ahmed (1953) precedes Nike (1964); slice had Nike first."
   },
   {
    "id": "game15-1812",
-   "Name": "Gul Ahmed",
-   "Description": "1953",
+   "Name": "Nike",
+   "Description": "1964 (as Blue Ribbon Sports)",
    "Category": "Fashion Brands (Founding Year)",
    "action": "edit",
    "original": {
@@ -23557,7 +23557,7 @@
     "Description": "1968",
     "Category": "Fashion Brands (Founding Year)"
    },
-   "note": "US brand swapped for Pakistani brand"
+   "note": "US brand swapped for Pakistani brand; Debate: Second half of the Gul Ahmed/Nike swap."
   },
   {
    "id": "game15-1813",
@@ -31585,6 +31585,78 @@
    "Category": "Bodies of Water By Size (km²)",
    "action": "add",
    "note": "New card (debate): Challenger's amended version accepted: approximate value since the lake is shrinking."
+  },
+  {
+   "id": null,
+   "Name": "Ahmed Zewail",
+   "Description": "1999 - Chemistry (Egypt, femtochemistry)",
+   "Category": "Nobel Prize Winners (Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate; unique year between Mandela 1993 and Yunus 2006; Muslim-world scientist."
+  },
+  {
+   "id": null,
+   "Name": "Turkey",
+   "Description": "1923 - Republic proclaimed (29 October)",
+   "Category": "Sovereign States (Founding/Independence)",
+   "action": "add",
+   "note": "New card (debate): Accurate, no year tie, sits between Finland 1917 and Pakistan 1947."
+  },
+  {
+   "id": null,
+   "Name": "Bangladesh",
+   "Description": "1971 - became a separate state (16 December)",
+   "Category": "Sovereign States (Founding/Independence)",
+   "action": "add",
+   "note": "New card (debate): Challenger's neutral wording avoids the 26 March vs 16 December dispute and matches the review file's other Bangladesh card; sits between South Korea 1948 and Ukraine 1991."
+  },
+  {
+   "id": null,
+   "Name": "Sultan Mehmed II (Al-Fatih)",
+   "Description": "1432",
+   "Category": "World Leaders (Birth Year)",
+   "action": "add",
+   "note": "New card (debate): Born 1432; sorts between Genghis Khan and Napoleon, no tie."
+  },
+  {
+   "id": null,
+   "Name": "Recep Tayyip Erdogan",
+   "Description": "1954",
+   "Category": "World Leaders (Birth Year)",
+   "action": "add",
+   "note": "New card (debate): Born 1954; sorts between Imran Khan 1952 and Obama 1961, named politicians are allowed."
+  },
+  {
+   "id": null,
+   "Name": "Subway Surfers",
+   "Description": "2012 - Kiloo and SYBO",
+   "Category": "Video Games (Release Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate 2012 release, no tie, popular locally."
+  },
+  {
+   "id": null,
+   "Name": "Adidas",
+   "Description": "1949 - Germany",
+   "Category": "Fashion Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate; 1949 is unique and sorts between Gucci 1921 and Gul Ahmed 1953."
+  },
+  {
+   "id": null,
+   "Name": "Zara",
+   "Description": "1975 - first store, Spain",
+   "Category": "Fashion Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Unambiguous first-store date; sorts between Nike 1964 and Versace 1978."
+  },
+  {
+   "id": null,
+   "Name": "Ibn al-Haytham",
+   "Description": "c. 965",
+   "Category": "Scientists - Birth Year",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: deck uses the 'c.' style, and his reason about Al-Biruni and Ibn Sina was wrong. He is the earliest-born item and must be placed before Galileo (1564)."
   }
  ]
 }
