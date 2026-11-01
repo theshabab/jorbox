@@ -5479,7 +5479,7 @@
   {
    "id": "game1-422",
    "Name": "Nose Pin",
-   "Description": "Small stud worn on a nostril",
+   "Description": "Tiny jewel worn beside a nostril",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5487,7 +5487,7 @@
     "Description": "A nose ornament",
     "Category": "Jewelry"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint said 'stud', the name of card 439. Amended so the hint does not repeat 'nose' or 'pin' from the name."
   },
   {
    "id": "game1-423",
@@ -5505,7 +5505,7 @@
   {
    "id": "game1-424",
    "Name": "Bracelet",
-   "Description": "Chain or band worn on the wrist",
+   "Description": "Band or links worn around the wrist",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5513,7 +5513,7 @@
     "Description": "A wrist ornament",
     "Category": "Jewelry"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint used 'Chain', the name of card 424 in the same category."
   },
   {
    "id": "game1-425",
@@ -5700,7 +5700,7 @@
   {
    "id": "game1-439",
    "Name": "Brooch",
-   "Description": "Decorative pin worn on a dupatta",
+   "Description": "Decorative pin fixed on clothes or a dupatta",
    "Category": "Jewelry",
    "action": "edit",
    "original": {
@@ -5708,7 +5708,7 @@
     "Description": "A pin ornament",
     "Category": "Jewelry"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: A brooch is pinned to clothing generally, so the old dupatta-only hint was too narrow."
   },
   {
    "id": "game1-440",

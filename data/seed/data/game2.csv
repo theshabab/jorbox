@@ -530,7 +530,7 @@ Sherbet,Sharbat | Iftar | Sugar | Pink | Garmi,Beverages
 Rooh Afza,Hamdard | Red | Sharbat | Ramzan | Iftar,Beverages
 Kanji,Carrot | Gajar | Fermented | Purple | Sour,Beverages
 Sattu,Chana | Flour | Roasted | Punjab | Summer,Beverages
-Buttermilk,Chaach | Lassi | Dahi | Namkeen | Butter,Beverages
+Buttermilk,Chaach | Lassi | Dahi | Namkeen | Jeera,Beverages
 Green Tea,Healthy | Leaves | Kehwa | Weight Loss | Bag,Beverages
 Kashmiri Chai,Pink | Gulabi | Pista | Kashmir | Shadi,Beverages
 Doodh Soda,Milk | Sprite | Lahore | Fizzy | Bottle,Beverages
@@ -546,7 +546,7 @@ Halwa,Suji | Gajar | Ghee | Puri | Nashta,Desserts
 Kheer,Rice | Milk | Firni | Eid | Elaichi,Desserts
 Custard,Yellow | Powder | Milk | Fruit | Jelly,Desserts
 Cake,Birthday | Candles | Bake | Slice | Icing,Desserts
-Pastry,Cream | Slice | Bakery | Layers | Small,Desserts
+Pastry,Cream | Slice | Bakery | Layers | Cake,Desserts
 Ice Cream,Cone | Cold | Kulfi | Scoop | Summer,Desserts
 Chocolate,Cadbury | Dairy Milk | Brown | Cocoa | Bar,Desserts
 Cookie,Chocolate Chip | Bake | Crunchy | Jar | Round,Desserts
@@ -595,7 +595,7 @@ Ali,Fourth | Haider | Fatima | Cousin | Khaybar,Sahaba
 Bilal,Azaan | Muezzin | Ahad | Slave | Abyssinia,Sahaba
 Khalid ibn al-Walid,Sword | Saifullah | Yarmouk | General | Undefeated,Sahaba
 Salman al-Farsi,Persia | Trench | Khandaq | Seeker | Isfahan,Sahaba
-Abu Huraira,Cats | Most | Hadith | Narrator | Memory,Sahaba
+Abu Huraira,Cats | Hadith | Narrator | Memory | Suffa,Sahaba
 Aisha,Wife | Abu Bakr | Hadith | Mother | Siddiqa,Sahaba
 Khadija,First | Wife | Merchant | Believer | Fatima,Sahaba
 Fatima,Daughter | Zahra | Ali | Hassan | Hussain,Sahaba
@@ -1110,3 +1110,12 @@ Extension Board,Plug | Sockets | Wire | Switch | Multi,Electronics
 Hair Dryer,Blow | Wet | Hot | Salon | Styling,Electronics
 Needle,Sui | Thread | Sew | Sharp | Haystack,Tools
 Rope,Rassi | Tie | Pull | Knot | Tug,Tools
+Malmal,Cotton | Soft | Thin | Summer | Dupatta,Fabrics
+Karandi,Winter | Warm | Suit | Khaddar | Textured,Fabrics
+Jaljeera,Pudina | Sour | Green | Summer | Masala,Beverages
+Peda,Mithai | Khoya | Round | Milk | Elaichi,Desserts
+Imarti,Jalebi | Orange | Flower | Syrup | Fried,Desserts
+Saad ibn Muadh,Aws | Ansar | Qurayza | Khandaq | Arsh,Sahaba
+Khabbab ibn al-Aratt,Blacksmith | Coals | Torture | Makkah | Patience,Sahaba
+Hudhayfah ibn al-Yaman,Secrets | Munafiqin | Khandaq | Wind | Scout,Sahaba
+Abdullah ibn Rawahah,Poet | Mu'tah | Commander | Ansari | Martyr,Sahaba

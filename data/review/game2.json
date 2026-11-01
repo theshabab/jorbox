@@ -7299,7 +7299,7 @@
   {
    "id": "game2-562",
    "Name": "Buttermilk",
-   "Description": "Chaach | Lassi | Dahi | Namkeen | Butter",
+   "Description": "Chaach | Lassi | Dahi | Namkeen | Jeera",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7307,7 +7307,7 @@
     "Description": "drink | liquid | cup | hot",
     "Category": "Beverages"
    },
-   "note": "Close to Lassi (namkeen lassi/chaach); kept but overlaps"
+   "note": "Close to Lassi (namkeen lassi/chaach); kept but overlaps; Debate: Butter is in the card name, so the ban was dead; Jeera is a real hint."
   },
   {
    "id": "game2-563",
@@ -7533,7 +7533,7 @@
   {
    "id": "game2-580",
    "Name": "Pastry",
-   "Description": "Cream | Slice | Bakery | Layers | Small",
+   "Description": "Cream | Slice | Bakery | Layers | Cake",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7541,7 +7541,7 @@
     "Description": "sweet | sugar | eat | delicious",
     "Category": "Desserts"
    },
-   "note": ""
+   "note": "Debate: Replaces the vague Small with Cake, the word guessers reach for first."
   },
   {
    "id": "game2-581",
@@ -8170,7 +8170,7 @@
   {
    "id": "game2-629",
    "Name": "Abu Huraira",
-   "Description": "Cats | Most | Hadith | Narrator | Memory",
+   "Description": "Cats | Hadith | Narrator | Memory | Suffa",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8178,7 +8178,7 @@
     "Description": "Abu | companion | Prophet | Caliph",
     "Category": "Sahaba"
    },
-   "note": "Debate: 'Kitten' repeated 'Cats'. 'The Sahabi who narrated the most hadith' is the other standard clue, so ban 'Most'."
+   "note": "Debate: 'Kitten' repeated 'Cats'. 'The Sahabi who narrated the most hadith' is the other standard clue, so ban 'Most'.; Debate: Replaces the filler Most with the specific Ahl al-Suffa association."
   },
   {
    "id": "game2-630",
@@ -12951,6 +12951,78 @@
    "Category": "Tools",
    "action": "add",
    "note": "New card (debate): Common word with distinct clues."
+  },
+  {
+   "id": null,
+   "Name": "Malmal",
+   "Description": "Cotton | Soft | Thin | Summer | Dupatta",
+   "Category": "Fabrics",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani fabric, not in the deck; the clues are accurate."
+  },
+  {
+   "id": null,
+   "Name": "Karandi",
+   "Description": "Winter | Warm | Suit | Khaddar | Textured",
+   "Category": "Fabrics",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: Lawn is a summer fabric, so banning it was pointless, and Khaddar is already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Jaljeera",
+   "Description": "Pudina | Sour | Green | Summer | Masala",
+   "Category": "Beverages",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: Jeera is part of the card name, so it was replaced with Masala."
+  },
+  {
+   "id": null,
+   "Name": "Peda",
+   "Description": "Mithai | Khoya | Round | Milk | Elaichi",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: Flat contradicted Round, so it was replaced with the more distinctive Elaichi."
+  },
+  {
+   "id": null,
+   "Name": "Imarti",
+   "Description": "Jalebi | Orange | Flower | Syrup | Fried",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Familiar sweet, not in the deck; the clues are accurate and distinct from Jalebi."
+  },
+  {
+   "id": null,
+   "Name": "Saad ibn Muadh",
+   "Description": "Aws | Ansar | Qurayza | Khandaq | Arsh",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Well-established sahabi; the facts are correct and the card is distinct from Saad ibn Abi Waqqas."
+  },
+  {
+   "id": null,
+   "Name": "Khabbab ibn al-Aratt",
+   "Description": "Blacksmith | Coals | Torture | Makkah | Patience",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: the vague Early was replaced with Patience, the trait he is known for."
+  },
+  {
+   "id": null,
+   "Name": "Hudhayfah ibn al-Yaman",
+   "Description": "Secrets | Munafiqin | Khandaq | Wind | Scout",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: the meaningless Sahib was replaced with Scout, his night scouting at Khandaq."
+  },
+  {
+   "id": null,
+   "Name": "Abdullah ibn Rawahah",
+   "Description": "Poet | Mu'tah | Commander | Ansari | Martyr",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: spelling aligned with the deck's Mu'tah."
   }
  ]
 }
