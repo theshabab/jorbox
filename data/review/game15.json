@@ -31553,6 +31553,38 @@
    "Category": "World Languages (Total Speakers - High to Low)",
    "action": "add",
    "note": "New card (debate): Accurate total-speaker figure; the native-speaker Bengali card is a different category."
+  },
+  {
+   "id": null,
+   "Name": "Dominoes",
+   "Description": "28 tiles (standard double-six set)",
+   "Category": "Board Games By Piece Count (Approx.)",
+   "action": "add",
+   "note": "New card (debate): Familiar family game, accurate count, fits between Checkers and Chess, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Persian Gulf",
+   "Description": "~251,000 km²",
+   "Category": "Bodies of Water By Size (km²)",
+   "action": "add",
+   "note": "New card (debate): Local, accurate, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Bay of Bengal",
+   "Description": "~2.17 million km²",
+   "Category": "Bodies of Water By Size (km²)",
+   "action": "add",
+   "note": "New card (debate): South Asian, accurate (~2.17M), not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Dead Sea",
+   "Description": "~600 km² (shrinking)",
+   "Category": "Bodies of Water By Size (km²)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version accepted: approximate value since the lake is shrinking."
   }
  ]
 }

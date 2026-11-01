@@ -10773,10 +10773,10 @@
   {
    "id": null,
    "Name": "Mobile Phone Brands",
-   "Description": "Samsung|iPhone|Nokia|Huawei|Oppo|Vivo|Infinix|Tecno|Realme|Xiaomi|Itel|QMobile|Honor|Motorola|Sparx|OnePlus|Lenovo|Sony",
+   "Description": "Samsung|Apple|Nokia|Huawei|Oppo|Vivo|Infinix|Tecno|Realme|Xiaomi|Itel|QMobile|Honor|Motorola|Sparx|OnePlus|Lenovo|Sony",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New familiar topic"
+   "note": "New card (debate): New familiar topic; Debate: iPhone is a product, not a brand; replaced with Apple."
   },
   {
    "id": null,
@@ -10925,18 +10925,18 @@
   {
    "id": null,
    "Name": "Mountains of the World",
-   "Description": "Everest|Kangchenjunga|Lhotse|Makalu|Annapurna|Mont Blanc|Kilimanjaro|Aconcagua|Elbrus|Matterhorn|Mount Fuji|Mount Sinai|Mount Ararat|Mount Kenya|Mount Etna|Table Mountain|Jabal e Noor|Mount Damavand|Mount Kinabalu",
+   "Description": "Everest|K2|Nanga Parbat|Kangchenjunga|Lhotse|Makalu|Annapurna|Mont Blanc|Kilimanjaro|Aconcagua|Elbrus|Matterhorn|Mount Fuji|Mount Sinai|Mount Ararat|Table Mountain|Jabal e Noor|Mount Damavand|Mount Etna",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's amended version; obscure peaks swapped for Muslim-world mountains."
+   "note": "New card (debate): Challenger's amended version; obscure peaks swapped for Muslim-world mountains.; Debate: Replaces obscure Mount Kenya and Kinabalu with well-known peaks."
   },
   {
    "id": null,
    "Name": "Deserts of the World",
-   "Description": "Sahara|Gobi|Kalahari|Rub al Khali|Atacama|Namib|Thar|Cholistan|Taklamakan|Nafud|Dasht-e-Lut|Karakum|Syrian Desert|Sinai Desert|Libyan Desert|Nubian Desert|Kharan Desert",
+   "Description": "Sahara|Gobi|Kalahari|Rub al Khali|Atacama|Namib|Thar|Cholistan|Taklamakan|Nafud|Dasht-e-Lut|Karakum|Syrian Desert|Sinai Desert|Kharan Desert",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended version removes obscure and overlapping items."
+   "note": "New card (debate): Amended version removes obscure and overlapping items.; Debate: Libyan and Nubian deserts are parts of the Sahara, so they were ambiguous."
   },
   {
    "id": null,
@@ -10981,10 +10981,10 @@
   {
    "id": null,
    "Name": "Things in a Jungle",
-   "Description": "Vines|Tall Trees|Monkeys|Parrots|Snakes|Tiger|Elephant|Waterfall|Fallen Logs|Moss|Ferns|Footprints|Canopy|Mosquitoes|River|Cave|Bamboo|Gorilla|Leeches|Python",
+   "Description": "Vines|Tall Trees|Monkeys|Parrots|Snakes|Tiger|Elephant|Waterfall|Fallen Logs|Moss|Ferns|Footprints|Canopy|Mosquitoes|River|Cave|Bamboo|Gorilla|Leeches",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended version with clearer items."
+   "note": "New card (debate): Amended version with clearer items.; Debate: Python is a snake, duplicating Snakes."
   },
   {
    "id": null,
@@ -10997,10 +10997,10 @@
   {
    "id": null,
    "Name": "Birds of Prey",
-   "Description": "Eagle|Falcon|Hawk|Owl|Vulture|Kite|Osprey|Harrier|Buzzard|Kestrel|Condor|Shaheen|Golden Eagle|Fish Eagle",
+   "Description": "Eagle|Falcon|Hawk|Owl|Vulture|Kite|Osprey|Harrier|Buzzard|Condor",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended; added Shaheen, dropped obscure species and US-centric Bald Eagle."
+   "note": "New card (debate): Amended; added Shaheen, dropped obscure species and US-centric Bald Eagle.; Debate: Removes ambiguous Shaheen, Golden Eagle, Fish Eagle and Kestrel (falcon); no Peregrine. Challenger version."
   },
   {
    "id": null,
@@ -11119,8 +11119,8 @@
    "Name": "Muslim Scientists and Thinkers",
    "Description": "Al-Khwarizmi|Ibn Sina|Ibn al-Haytham|Al-Biruni|Al-Razi|Jabir ibn Hayyan|Ibn Rushd|Ibn Khaldun|Al-Zahrawi|Al-Jazari|Al-Farabi|Al-Idrisi|Al-Kindi|Ibn al-Nafis|Omar Khayyam|Ibn Battuta",
    "Category": "",
-   "action": "add",
-   "note": "New card (debate): Genuine, well-known figures; no overlap with Historical Figures; fits deck pride."
+   "action": "remove",
+   "note": "Debate: Duplicate of live idx 976."
   },
   {
    "id": null,
@@ -11165,10 +11165,10 @@
   {
    "id": null,
    "Name": "Foods Named in the Quran",
-   "Description": "Dates|Grapes|Olives|Figs|Pomegranates|Honey|Milk|Lentils|Onions|Cucumbers|Fish|Quail|Ginger|Bread|Manna|Pumpkins",
+   "Description": "Dates|Grapes|Olives|Figs|Pomegranates|Honey|Milk|Lentils|Onions|Cucumbers|Fish|Quail|Ginger|Bread|Manna",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Disputed Garlic and generic entries removed; remaining foods are attested."
+   "note": "New card (debate): Disputed Garlic and generic entries removed; remaining foods are attested.; Debate: Pumpkins is not well established (yaqtin identification is debated)."
   },
   {
    "id": null,
@@ -11181,10 +11181,10 @@
   {
    "id": null,
    "Name": "Tests of Sabr",
-   "Description": "Traffic Jam|Slow Internet|Load-Shedding|Long Queue|Waiting for a Rishta Reply|Toddler Tantrum|Exam Result|Delayed Flight|Hot Summer Afternoon|Last Hour of a Fast|Bank Line|Buffering Video|Late Guests|Cold Roti|Red Signal|Leaking Roof|Slow Cooking Daal|Broken Phone Screen|Noisy Neighbours|Waiting for the Bus",
+   "Description": "Traffic Jam|Slow Internet|Load-Shedding|Long Queue|Waiting for a Rishta Reply|Toddler Tantrum|Exam Result|Delayed Flight|Hot Summer Afternoon|Last Hour of a Fast|Late Guests|Cold Roti|Red Signal|Leaking Roof|Slow Cooking Daal|Broken Phone Screen|Noisy Neighbours|Waiting for the Bus",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Relatable, funny patience topic, no duplicate."
+   "note": "New card (debate): Relatable, funny patience topic, no duplicate.; Debate: Removes Buffering Video and Bank Line, duplicates of Slow Internet and Long Queue."
   },
   {
    "id": null,
@@ -11381,18 +11381,18 @@
   {
    "id": null,
    "Name": "Farm Animals",
-   "Description": "Cow|Buffalo|Goat|Sheep|Camel|Donkey|Horse|Hen|Rooster|Duck|Ox|Bull|Calf|Lamb|Mule|Chick|Ram|Goose|Dumba|Pony",
+   "Description": "Cow|Buffalo|Goat|Sheep|Camel|Donkey|Horse|Hen|Rooster|Duck|Ox|Mule|Ram|Goose|Dumba",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger amendment: clearer livestock words"
+   "note": "New card (debate): Challenger amendment: clearer livestock words; Debate: Removes young/male forms (Calf, Lamb, Chick, Bull, Pony) that duplicate other words."
   },
   {
    "id": null,
    "Name": "Pets People Keep at Home",
-   "Description": "Cat|Parrot|Rabbit|Goldfish|Budgie|Hamster|Tortoise|Mynah|Lovebird|Guinea Pig|Canary|Cockatiel|Pigeon|Finch|Cockatoo|Duckling|Kitten|Aquarium Fish",
+   "Description": "Cat|Parrot|Rabbit|Goldfish|Budgie|Hamster|Tortoise|Mynah|Lovebird|Guinea Pig|Canary|Cockatiel|Pigeon|Finch",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended: no dogs, fewer repeats"
+   "note": "New card (debate): Amended: no dogs, fewer repeats; Debate: Removes Kitten, Aquarium Fish, Duckling and Cockatoo, which duplicate or overlap other words."
   },
   {
    "id": null,
@@ -11421,18 +11421,18 @@
   {
    "id": null,
    "Name": "Things at a Naan Shop",
-   "Description": "Tandoor|Dough Balls|Naan|Roti|Kulcha|Sesame Seeds|Kalonji|Flour Sack|Wooden Board|Rolling Pin|Long Tongs|Queue|Newspaper|Gas Cylinder|Cooling Rack|Water Bucket|Apron|Atta|Cloth Wrap|Tandoor Mouth",
+   "Description": "Tandoor|Dough Balls|Naan|Roti|Kulcha|Sesame Seeds|Kalonji|Flour Sack|Wooden Board|Rolling Pin|Long Tongs|Queue|Newspaper|Gas Cylinder|Cooling Rack|Water Bucket|Apron|Cloth Wrap",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended: distinctive naan-shop words"
+   "note": "New card (debate): Amended: distinctive naan-shop words; Debate: Removes Tandoor Mouth and Atta, duplicates of Tandoor and Flour Sack."
   },
   {
    "id": null,
    "Name": "Ways to Save Water",
-   "Description": "Closing the Tap|Short Showers|Bucket Instead of Hose|Fixing Leaks|Collecting Rainwater|Brushing With a Glass|Washing the Car With a Bucket|Full Washing Machine Loads|Moderation in Wuzu|Watering Plants Early|Teaching Kids|Reusing Rice Water|Covering the Tank|Checking Tank Overflow|Sweeping Instead of Hosing|Using a Mug|Half Glass for Guests|Reusing Water for Plants|Fixing the Flush|Shorter Baths",
+   "Description": "Closing the Tap|Short Showers|Bucket Instead of Hose|Fixing Leaks|Collecting Rainwater|Brushing With a Glass|Full Washing Machine Loads|Moderation in Wuzu|Watering Plants Early|Teaching Kids|Reusing Rice Water|Covering the Tank|Checking Tank Overflow|Sweeping Instead of Hosing|Half Glass for Guests|Washing Vegetables in a Bowl",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Worldview: israf; deduped"
+   "note": "New card (debate): Worldview: israf; deduped; Debate: Removes toilet reference and near-duplicate items. Challenger version."
   },
   {
    "id": null,
@@ -11445,10 +11445,10 @@
   {
    "id": null,
    "Name": "Ways to Care for Animals",
-   "Description": "Water Bowl|Feeding Birds|Feeding Stray Cats|Not Overloading a Donkey Cart|Caring for a Qurbani Animal|Shade in Summer|Warm Shelter in Winter|Vet Visit|Clean Cage|Fresh Fodder|Gentle Handling|Rest for Working Animals|Water on the Roof|Not Starving Pets|Clean Stable|Treating an Injured Bird|Sheltering a Kitten From Rain|Bigger Cage for Birds|Not Teasing Animals|Keeping Animals Cool",
+   "Description": "Water Bowl|Feeding Birds|Feeding Stray Cats|Not Overloading a Donkey Cart|Caring for a Qurbani Animal|Shade in Summer|Warm Shelter in Winter|Vet Visit|Clean Cage|Fresh Fodder|Gentle Handling|Rest for Working Animals|Clean Stable|Treating an Injured Bird|Not Teasing Animals",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Worldview: mercy to animals; deduped"
+   "note": "New card (debate): Worldview: mercy to animals; deduped; Debate: Removes overlapping items so the secret word is unambiguous."
   },
   {
    "id": null,
@@ -12433,6 +12433,30 @@
    "Category": "Rating",
    "action": "add",
    "note": "New card (debate): Relatable shopping habit, new to deck."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Dry Cleaner",
+   "Description": "Iron|Steam Press|Hangers|Plastic Covers|Token Slip|Starch|Dry Cleaning Machine|Suit|Sherwani|Shalwar Kameez|Dupatta|Stain|Laundry Bag|Bedsheet|Curtains|Delivery Date",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local topic; wrong or duplicate words removed. Challenger version."
+  },
+  {
+   "id": null,
+   "Name": "At a shop, the owner is scolding a small child harshly for dropping a bottle. You...",
+   "Description": "pay for the bottle|calm the shopkeeper down|walk away",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): New local kindness dilemma, no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "Draw a flour mill (chakki).",
+   "Description": "Draw a wheat field.|Draw a sack of flour.|Draw a tandoor.|Draw a water mill.|Draw a grinding stone.|Draw a sugarcane press.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New local drawing prompt with close decoys."
   }
  ]
 }
