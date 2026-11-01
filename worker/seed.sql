@@ -1181,6 +1181,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1179','game1','Mosambi','Green sweet citrus, popular as juice for the sick','Fruits');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1180','game1','Ber','Small sweet fruit with a stone, also called jujube','Fruits');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1181','game1','Dragon Fruit','Pink cactus fruit with scales (Pitaya)','Fruits');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1182','game1','Tori','Ribbed green summer sabzi (ridge gourd)','Vegetables');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1183','game1','Gharara','Flared wide-legged bridal outfit','Clothing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1184','game1','Rehal','Folding wooden stand for reading the Quran','Furniture');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1185','game1','Takht Posh','Low wooden platform for sitting or sleeping','Furniture');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1186','game1','Bunk Bed','Two beds stacked with a ladder, loved by siblings','Furniture');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1187','game1','Chakla','Round board on which roti dough is rolled','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1188','game1','Hot Case','Insulated box that keeps rotis warm','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1189','game1','Hyena','Spotted scavenger famous for its laugh (Lakar Baggha)','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1190','game1','Bull','Male of the cow with horns (Saand)','Animals');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
