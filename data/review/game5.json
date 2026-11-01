@@ -12135,15 +12135,15 @@
   {
    "id": "game5-934",
    "Name": "",
-   "Description": "____ is the key to recovery.",
+   "Description": "____ is the key to recovering after a week of wedding dawats.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ is the key to recovery.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids rehab/addiction answers; local and clean."
   },
   {
    "id": "game5-935",
@@ -12410,13 +12410,13 @@
    "Name": "",
    "Description": "____ is why I need feminism.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ is why I need feminism.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Divisive ideological prompt, unfixable."
   },
   {
    "id": "game5-956",
@@ -12577,7 +12577,7 @@
   {
    "id": "game5-968",
    "Name": "",
-   "Description": "____ makes \"(insert name)\" scream at the top of his/her lungs.",
+   "Description": "____ makes my little cousin scream at the top of his lungs.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -12585,7 +12585,7 @@
     "Description": "____ makes \"Insert Name\" scream at the top of his/her lungs.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes placeholder and his/her awkwardness."
   },
   {
    "id": "game5-969",
@@ -12655,20 +12655,20 @@
   {
    "id": "game5-974",
    "Name": "",
-   "Description": "____ now comes free with a Happy Meal.",
+   "Description": "____ now comes free with every family-deal biryani order.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ now comes free with a Happy Meal.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces US Happy Meal with local equivalent."
   },
   {
    "id": "game5-975",
    "Name": "",
-   "Description": "____, now gluten-free!",
+   "Description": "____, now sugar-free!",
    "Category": "",
    "action": "edit",
    "original": {
@@ -12676,7 +12676,7 @@
     "Description": "____ now Gluten Free!",
     "Category": ""
    },
-   "note": "punctuation"
+   "note": "punctuation; Debate: Replaces Western gluten-free trend with locally relatable one."
   },
   {
    "id": "game5-976",
@@ -12865,13 +12865,13 @@
    "Name": "",
    "Description": "____ tried to suppress this game!",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ tried to suppress this game!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Meta reference to an adult party game; unplayable here."
   },
   {
    "id": "game5-991",
@@ -13032,15 +13032,15 @@
   {
    "id": "game5-1003",
    "Name": "",
-   "Description": "____ won the talent show by putting a whole ____ in their mouth.",
+   "Description": "____ won the talent show by balancing a whole ____ on their head.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ won the talent show by putting a whole ____ in their mouth.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes crude mouth answers, keeps both blanks."
   },
   {
    "id": "game5-1004",
@@ -13344,15 +13344,15 @@
   {
    "id": "game5-1027",
    "Name": "",
-   "Description": "____ is my secret favorite thing to do when no one is looking.",
+   "Description": "____ is my secret favourite thing to do when Ammi isn't looking.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ is my secret favorite thing to do when no one is looking.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Steers away from inappropriate answers and fixes spelling to match deck."
   },
   {
    "id": "game5-1028",
@@ -13487,7 +13487,7 @@
   {
    "id": "game5-1038",
    "Name": "",
-   "Description": "____ are like cockroaches: you just can't get rid of them.",
+   "Description": "____ are like mosquitoes in Karachi: you just can't get rid of them.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -13495,7 +13495,7 @@
     "Description": "____ is/are like roaches - you can't kill them",
     "Category": ""
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Avoids dehumanising group comparisons; local."
   },
   {
    "id": "game5-1039",
@@ -13773,15 +13773,15 @@
   {
    "id": "game5-1060",
    "Name": "",
-   "Description": "____, you're fired.",
+   "Description": "____, you're removed from the family WhatsApp group.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____, you're fired.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces US catchphrase with local equivalent."
   },
   {
    "id": "game5-1061",
@@ -13905,13 +13905,13 @@
    "Name": "",
    "Description": "____: the only way to solve the Kashmir issue.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____-the only way to solve Kashmir",
     "Category": ""
    },
-   "note": "punctuation/wording"
+   "note": "Debate: Real conflict with human tragedy; unfixable."
   },
   {
    "id": "game5-1071",
@@ -14046,15 +14046,15 @@
   {
    "id": "game5-1081",
    "Name": "",
-   "Description": "____, just for a second. Just to see how it feels.",
+   "Description": "Wearing ____, just for a second. Just to see how it feels.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____, just for a second. Just to see how it feels.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: keeps the idea and closes risky answers."
   },
   {
    "id": "game5-1082",
@@ -14423,15 +14423,15 @@
   {
    "id": "game5-1110",
    "Name": "",
-   "Description": "____: not even once.",
+   "Description": "____: not even once, says Ammi.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____: not even once.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Reframes anti-drug meme as Ammi's rule."
   },
   {
    "id": "game5-1111",
@@ -104533,6 +104533,70 @@
    "Category": "Classic",
    "action": "add",
    "note": "New card (debate): New school Annual Day prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The tuition teacher stopped the class and said, \"Who brought ____ to my house?\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New scenario, distinct from existing tuition cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Mehngai is so bad that Ammi now counts ____ before cooking.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh local inflation theme."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My cousin's mobile load ran out right when ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The sasural's welcome tray had chai, samosas and ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean local rishta/in-laws prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Dahi bhallay are incomplete without ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local food prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu pretended to be asleep in the car so he wouldn't have to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable family prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The cousins' pillow fort in the drawing room was defended with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fun cousins prompt; no live pillow-fort card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nobody at the family dinner could believe it when Dadi asked for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing Dadi cards."
   }
  ]
 }

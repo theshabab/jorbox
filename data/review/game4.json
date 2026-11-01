@@ -13327,7 +13327,7 @@
    "Description": "What is the best thing you ever did with your Eidi money?",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Eidi absent from deck, family friendly."
+   "note": "New card (debate): Eidi absent from deck, family friendly.; Debate: Personal question missing its category."
   },
   {
    "id": null,
@@ -13335,7 +13335,7 @@
    "Description": "Who is the unofficial event manager of your family, the one who ends up organising every wedding and dawat, and what is their favourite thing to say?",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended to avoid duplicating the loadshedding lift card."
+   "note": "New card (debate): Amended to avoid duplicating the loadshedding lift card.; Debate: Personal question missing its category."
   },
   {
    "id": null,
@@ -13375,7 +13375,7 @@
    "Description": "What is the best piece of money advice an elder in your family ever gave you?",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Replaces the near-duplicate A25; family and money."
+   "note": "New card (debate): Replaces the near-duplicate A25; family and money.; Debate: Personal question missing its category."
   },
   {
    "id": null,
@@ -13631,7 +13631,7 @@
    "Description": "What is the best thing your nani or dadi ever cooked for you?",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Clean personal question with local flavour; no equivalent live."
+   "note": "New card (debate): Clean personal question with local flavour; no equivalent live.; Debate: Personal question missing its category."
   },
   {
    "id": null,
@@ -13639,7 +13639,47 @@
    "Description": "What is the funniest thing that has happened to your family at a wedding or Eid gathering?",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Clean family-friendly question; not a duplicate of the wedding food or event manager cards."
+   "note": "New card (debate): Clean family-friendly question; not a duplicate of the wedding food or event manager cards.; Debate: Personal question missing its category."
+  },
+  {
+   "id": null,
+   "Name": "riba",
+   "Description": "In Surah Al-Baqarah, Allah says He has permitted trade and forbidden ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (2:275); challenger's amendment removes the giveaway parenthetical and the contested translation."
+  },
+  {
+   "id": null,
+   "Name": "ears",
+   "Description": "In Surah Al-Baqarah, Allah compares those who spend in His way to a seed that grows seven ____, each carrying a hundred grains.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (2:261); answer shortened to avoid repeating 'grains'."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "If someone gave you Rs. 1 crore tomorrow, what is the very first thing you would do with it?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean, Pakistani-framed personal question; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "If you opened a shop in your mohalla tomorrow, what would you sell and what would you call it?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean personal question with local flavour; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "Who in your family always gives the biggest Eidi, and who always gives the smallest?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family-friendly Eid question, distinct from the Eidi-spending card."
   }
  ]
 }

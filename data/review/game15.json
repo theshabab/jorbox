@@ -18856,7 +18856,7 @@
   {
    "id": "game15-1451",
    "Name": "African Elephant",
-   "Description": "About 4 m (shoulder)",
+   "Description": "About 3.3 m (shoulder)",
    "Category": "Animal Heights",
    "action": "edit",
    "original": {
@@ -18864,7 +18864,7 @@
     "Description": "13 ft",
     "Category": "Animal Heights"
    },
-   "note": "added unit/basis to value; metric; local animal where US-only"
+   "note": "added unit/basis to value; metric; local animal where US-only; Debate: Bull average shoulder height is about 3-3.4 m; keeps order between brown bear and giraffe."
   },
   {
    "id": "game15-1452",
@@ -19401,8 +19401,8 @@
   },
   {
    "id": "game15-1493",
-   "Name": "Formula 1 Car",
-   "Description": "About 1,000 hp",
+   "Name": "Suzuki Mehran",
+   "Description": "About 40 hp",
    "Category": "How Much Horsepower",
    "action": "edit",
    "original": {
@@ -19410,12 +19410,12 @@
     "Description": "750",
     "Category": "How Much Horsepower"
    },
-   "note": "unit; Debate: 'Racecar' is too vague to have one value. A current F1 hybrid makes about 1,000 hp."
+   "note": "unit; Debate: 'Racecar' is too vague to have one value. A current F1 hybrid makes about 1,000 hp.; Debate: Swap so order ascends 14.9, 40, 1,000, 144,000."
   },
   {
    "id": "game15-1494",
-   "Name": "Suzuki Mehran",
-   "Description": "About 40 hp",
+   "Name": "Formula 1 Car",
+   "Description": "About 1,000 hp",
    "Category": "How Much Horsepower",
    "action": "edit",
    "original": {
@@ -19423,7 +19423,7 @@
     "Description": "1000",
     "Category": "How Much Horsepower"
    },
-   "note": "1,000 hp is the electric Hummer EV; Debate: Replaces the US-only Hummer EV with an iconic Pakistani car. Its 796 cc engine makes about 37–39 hp."
+   "note": "1,000 hp is the electric Hummer EV; Debate: Replaces the US-only Hummer EV with an iconic Pakistani car. Its 796 cc engine makes about 37–39 hp.; Debate: Swap partner of P2."
   },
   {
    "id": "game15-1495",
@@ -19895,16 +19895,16 @@
   },
   {
    "id": "game15-1531",
-   "Name": "Cat",
-   "Description": "90%",
+   "Name": "Cow",
+   "Description": "80%",
    "Category": "Genetic Similarity to Humans",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Cat",
     "Description": "90%",
     "Category": "Genetic Similarity to Humans"
    },
-   "note": ""
+   "note": "Debate: Reorder so values ascend 60, 80, 85, 90, 98.8."
   },
   {
    "id": "game15-1532",
@@ -19921,16 +19921,16 @@
   },
   {
    "id": "game15-1533",
-   "Name": "Cow",
-   "Description": "80%",
+   "Name": "Cat",
+   "Description": "90%",
    "Category": "Genetic Similarity to Humans",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Cow",
     "Description": "80%",
     "Category": "Genetic Similarity to Humans"
    },
-   "note": ""
+   "note": "Debate: Swap partner of P4."
   },
   {
    "id": "game15-1534",
@@ -20324,8 +20324,8 @@
   },
   {
    "id": "game15-1564",
-   "Name": "Around the World in Eighty Days",
-   "Description": "80",
+   "Name": "A Tale of Two Cities",
+   "Description": "2",
    "Category": "Books With Numbers In The Title",
    "action": "edit",
    "original": {
@@ -20333,38 +20333,38 @@
     "Description": "1",
     "Category": "Books With Numbers In The Title"
    },
-   "note": "pop-culture title replaced; value is the number in the title"
+   "note": "pop-culture title replaced; value is the number in the title; Debate: Reorder to ascending: 2, 3, 22, 80, 451, 1001, 1984."
   },
   {
    "id": "game15-1565",
-   "Name": "A Tale of Two Cities",
-   "Description": "2",
+   "Name": "The Three Musketeers",
+   "Description": "3",
    "Category": "Books With Numbers In The Title",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A Tale of Two Cities",
     "Description": "2",
     "Category": "Books With Numbers In The Title"
    },
-   "note": "value is the number in the title, not a bare rank"
+   "note": "value is the number in the title, not a bare rank; Debate: Part of the reorder."
   },
   {
    "id": "game15-1566",
-   "Name": "The Three Musketeers",
-   "Description": "3",
+   "Name": "Catch-22",
+   "Description": "22",
    "Category": "Books With Numbers In The Title",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "The Three Musketeers",
     "Description": "3",
     "Category": "Books With Numbers In The Title"
    },
-   "note": "value is the number in the title"
+   "note": "value is the number in the title; Debate: Part of the reorder."
   },
   {
    "id": "game15-1567",
-   "Name": "Catch-22",
-   "Description": "22",
+   "Name": "Around the World in Eighty Days",
+   "Description": "80",
    "Category": "Books With Numbers In The Title",
    "action": "edit",
    "original": {
@@ -20372,7 +20372,7 @@
     "Description": "4",
     "Category": "Books With Numbers In The Title"
    },
-   "note": "value is the number in the title"
+   "note": "value is the number in the title; Debate: 80 belongs after 22 and before 451."
   },
   {
    "id": "game15-1568",
@@ -20389,8 +20389,8 @@
   },
   {
    "id": "game15-1569",
-   "Name": "1984",
-   "Description": "1984",
+   "Name": "Alif Laila (One Thousand and One Nights)",
+   "Description": "1001",
    "Category": "Books With Numbers In The Title",
    "action": "edit",
    "original": {
@@ -20398,12 +20398,12 @@
     "Description": "6",
     "Category": "Books With Numbers In The Title"
    },
-   "note": "value is the number in the title"
+   "note": "value is the number in the title; Debate: Familiar local classic with a number in its title; keeps order ascending."
   },
   {
    "id": "game15-1570",
-   "Name": "2001: A Space Odyssey",
-   "Description": "2001",
+   "Name": "1984",
+   "Description": "1984",
    "Category": "Books With Numbers In The Title",
    "action": "edit",
    "original": {
@@ -20411,7 +20411,7 @@
     "Description": "7",
     "Category": "Books With Numbers In The Title"
    },
-   "note": "value is the number in the title"
+   "note": "value is the number in the title; Debate: Replaces the sci-fi film-linked 2001 card; ascending after 1001."
   },
   {
    "id": "game15-1571",
@@ -20675,8 +20675,8 @@
   },
   {
    "id": "game15-1591",
-   "Name": "Giant Round Pizza (Rome, 2012)",
-   "Description": "About 40 m across (1,261 sq m)",
+   "Name": "Largest Book (Dubai, 2012)",
+   "Description": "8.06 m long (5 x 8.06 m)",
    "Category": "Record-Breaking Objects (Longest Side - Short to Long)",
    "action": "edit",
    "original": {
@@ -20684,12 +20684,12 @@
     "Description": "13,580 sq ft",
     "Category": "World’s Largest Objects"
    },
-   "note": "common measure (length) so items can be ordered; Debate: A larger rectangular pizza took the 'largest pizza' record in 2023, so 'Largest' is out of date; the 40 m diameter matches 1,261 sq m"
+   "note": "common measure (length) so items can be ordered; Debate: A larger rectangular pizza took the 'largest pizza' record in 2023, so 'Largest' is out of date; the 40 m diameter matches 1,261 sq m; Debate: Shortest item, so it goes first."
   },
   {
    "id": "game15-1592",
-   "Name": "Largest Book (Dubai, 2012)",
-   "Description": "8.06 m long (5 x 8.06 m)",
+   "Name": "Giant Rubber Duck (Hong Kong, 2013)",
+   "Description": "16.5 m tall",
    "Category": "Record-Breaking Objects (Longest Side - Short to Long)",
    "action": "edit",
    "original": {
@@ -20697,12 +20697,12 @@
     "Description": "5 x 8 meters",
     "Category": "World’s Largest Objects"
    },
-   "note": "common measure (length); record book on the Prophet's life"
+   "note": "common measure (length); record book on the Prophet's life; Debate: Second shortest."
   },
   {
    "id": "game15-1593",
-   "Name": "Giant Rubber Duck (Hong Kong, 2013)",
-   "Description": "16.5 m tall",
+   "Name": "Giant Round Pizza (Rome, 2012)",
+   "Description": "About 40 m across (1,261 sq m)",
    "Category": "Record-Breaking Objects (Longest Side - Short to Long)",
    "action": "edit",
    "original": {
@@ -20710,12 +20710,12 @@
     "Description": "16.5 meters",
     "Category": "World’s Largest Objects"
    },
-   "note": "clarified which duck"
+   "note": "clarified which duck; Debate: Third; diameter about 40 m checks out from the area."
   },
   {
    "id": "game15-1594",
-   "Name": "San Alfonso del Mar Pool (Chile)",
-   "Description": "1,013 m long",
+   "Name": "Tallest Building (Burj Khalifa)",
+   "Description": "828 m tall",
    "Category": "Record-Breaking Objects (Longest Side - Short to Long)",
    "action": "edit",
    "original": {
@@ -20723,12 +20723,12 @@
     "Description": "1,013 meters long",
     "Category": "World’s Largest Objects"
    },
-   "note": "clarified; Debate: Challenger missed issue (labelled C2): the Citystars Sharm El Sheikh pool (2015) has taken the largest-pool record by area, so 'Largest Swimming Pool' is out of date; the 1,013 m length is still correct"
+   "note": "clarified; Debate: Challenger missed issue (labelled C2): the Citystars Sharm El Sheikh pool (2015) has taken the largest-pool record by area, so 'Largest Swimming Pool' is out of date; the 1,013 m length is still correct; Debate: 828 m is shorter than the 1,013 m pool, so it goes fourth."
   },
   {
    "id": "game15-1595",
-   "Name": "Tallest Building (Burj Khalifa)",
-   "Description": "828 m tall",
+   "Name": "San Alfonso del Mar Pool (Chile)",
+   "Description": "1,013 m long",
    "Category": "Record-Breaking Objects (Longest Side - Short to Long)",
    "action": "edit",
    "original": {
@@ -20736,7 +20736,7 @@
     "Description": "Burj Khalifa",
     "Category": "World’s Largest Objects"
    },
-   "note": "Burj Khalifa is the tallest, not largest, building; gave height. True order: book, duck, pizza, Burj, pool"
+   "note": "Burj Khalifa is the tallest, not largest, building; gave height. True order: book, duck, pizza, Burj, pool; Debate: Longest item, so it goes last."
   },
   {
    "id": "game15-1596",
