@@ -20936,8 +20936,8 @@
    "id": null,
    "Description": "a UPS inverter wearing a hero cape during load-shedding",
    "Category": "Standard Prompts",
-   "action": "add",
-   "note": "New card (debate): Local and distinct from existing UPS cards."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of live 2014."
   },
   {
    "id": null,
@@ -21004,10 +21004,10 @@
   },
   {
    "id": null,
-   "Description": "a goat in a tiny sherwani posing for wedding photos",
+   "Description": "a goat in a tiny waistcoat and turban posing proudly for family photos",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment fixes the Chand Raat/mandi mix and overlap with the mandi card."
+   "note": "New card (debate): Challenger's amendment fixes the Chand Raat/mandi mix and overlap with the mandi card.; Debate: Reduces sherwani repetition; still funny and drawable."
   },
   {
    "id": null,
@@ -21046,10 +21046,10 @@
   },
   {
    "id": null,
-   "Description": "<PLAYER> winning at carrom and being insufferable about it",
+   "Description": "<PLAYER> winning at carrom and celebrating far too dramatically",
    "Category": "Friend Mode Prompts",
    "action": "add",
-   "note": "New card (debate): Local game, affectionate teasing, absent from deck."
+   "note": "New card (debate): Local game, affectionate teasing, absent from deck.; Debate: Friend Mode should be affectionate, not insulting."
   },
   {
    "id": null,
@@ -21095,10 +21095,10 @@
   },
   {
    "id": null,
-   "Description": "a washing machine dancing across the floor on spin cycle while Ammi chases it",
+   "Description": "a washing machine hopping across the floor on spin cycle while Ammi chases it",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): Household chaos, easy to draw. No duplicate."
+   "note": "New card (debate): Household chaos, easy to draw. No duplicate.; Debate: Removes 'dancing' per owner rule, keeps joke."
   },
   {
    "id": null,
@@ -21211,6 +21211,48 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): The challenger's amendment is accurate: al-Biruni used the horizon dip from a mountain at Nandana in the Salt Range. The original stick-and-shadow method was Eratosthenes'. The scene is drawable and fits the deck's Muslim-scholar cards."
+  },
+  {
+   "id": null,
+   "Description": "a dupatta flying off in the wind with the whole family chasing it down the road",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct, drawable chase scene."
+  },
+  {
+   "id": null,
+   "Description": "a cricket ball stuck in the neighbour's tree while the whole gali negotiates with the angry auntie",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Different from existing car-window cricket card."
+  },
+  {
+   "id": null,
+   "Description": "a camel waiting patiently in the queue at the mosque wudu tap",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording; gentle, drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> falling asleep at the dastarkhwan before the biryani even arrives",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate friend prompt."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the cousin who films the entire wedding on a phone and misses the actual wedding",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate and relatable."
+  },
+  {
+   "id": null,
+   "Description": "a nihari pot so big that three uncles are stirring it with oars",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct drawable giant-food image."
   }
  ]
 }

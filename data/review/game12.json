@@ -9549,8 +9549,8 @@
   {
    "id": null,
    "Name": "Sadqa",
-   "action": "add",
-   "note": "New card (debate): Common, respectful Islamic concept; neither Charity nor Zakat is in the deck."
+   "action": "remove",
+   "note": "Debate: Spelling-variant duplicate of Sadaqah, which is live (action add) in game12.json, so only one of the pair is removed."
   },
   {
    "id": null,
@@ -11843,6 +11843,48 @@
    "Name": "Mochi",
    "action": "add",
    "note": "New card (debate): Recognisable Pakistani trade, fits Darzi/Dhobi, distinct from Shoes."
+  },
+  {
+   "id": null,
+   "Name": "Kulhad",
+   "action": "add",
+   "note": "New card (debate): Familiar local clay cup, distinct from Clay Pot, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Heatwave",
+   "action": "add",
+   "note": "New card (debate): Distinct relatable weather noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Ambition",
+   "action": "add",
+   "note": "New card (debate): Abstract noun, allowed and not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Chaadar",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani household item, distinct enough from Shawl, Dupatta and Sheet."
+  },
+  {
+   "id": null,
+   "Name": "Shepherd",
+   "action": "add",
+   "note": "New card (debate): Easy-to-act person noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sunrise",
+   "action": "add",
+   "note": "New card (debate): Drawable natural noun, distinct from Sunset and Sun."
+  },
+  {
+   "id": null,
+   "Name": "Tradition",
+   "action": "add",
+   "note": "New card (debate): Abstract noun, allowed and not in deck."
   }
  ]
 }

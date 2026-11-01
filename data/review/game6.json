@@ -4928,6 +4928,36 @@
    "Description": "Things You Set",
    "action": "add",
    "note": "New card (debate): Challenger's example-free version matches the Things You Tie/Pour/Cut format; many answers."
+  },
+  {
+   "id": null,
+   "Description": "Summer Fruits",
+   "action": "add",
+   "note": "New card (debate): Distinct seasonal card next to Winter Fruits; many well-known local answers (aam, tarbooz, kharbooza, jamun, falsa, lychee, aloo bukhara)."
+  },
+  {
+   "id": null,
+   "Description": "Sports Equipment (Bat, Racket, Net...)",
+   "action": "add",
+   "note": "New card (debate): Gear is not covered by Sports, Cricket Terms or the Sports Day card; easy, broad answers."
+  },
+  {
+   "id": null,
+   "Description": "Things in a School Canteen (Samosa, Juice, Chips...)",
+   "action": "add",
+   "note": "New card (debate): Relatable to every Pakistani player with many answers; no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things People Order Online or by Delivery",
+   "action": "add",
+   "note": "New card (debate): Asks for items, not companies, so it is distinct from Courier and Delivery Services; many everyday answers."
+  },
+  {
+   "id": null,
+   "Description": "Family Functions and Celebrations (Aqiqah, Khatna, Bismillah...)",
+   "action": "add",
+   "note": "New card (debate): Non-wedding family occasions with plenty of known answers. Swapped the Walima example for Khatna and Bismillah, so the examples do not overlap the wedding cards."
   }
  ]
 }
