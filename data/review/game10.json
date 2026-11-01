@@ -6612,8 +6612,8 @@
   {
    "id": null,
    "Name": "Name something Ammi reminds you of before you leave the house.",
-   "action": "add",
-   "note": "New card (debate): Relatable, not a duplicate of the Ammi handbag card."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of the live card 'Name something you check before leaving the house.'; same answers (keys, wallet, phone). Only 849 is removed."
   },
   {
    "id": null,
@@ -7100,6 +7100,12 @@
    "Name": "Name a drink sold at a roadside stall in summer.",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording accepted; avoids the cart and doodh soda issues and the existing A/B drink cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do before a guest arrives.",
+   "action": "add",
+   "note": "New card (debate): Distinct from 'served to guests' and 'when guests arrive without warning'; common clustered answers (clean, cook, set the table)."
   }
  ]
 }

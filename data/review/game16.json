@@ -9041,10 +9041,10 @@
   },
   {
    "id": null,
-   "Name": "You score full marks because the exam paper leaked and you only realise after you answered. Do you tell the teacher? What does halal success look like to you?",
+   "Name": "You score full marks because you accidentally saw the exam paper beforehand, and nobody knows. Do you tell the teacher? What does halal success look like to you?",
    "Category": "Deep & ThoughtProvoking",
    "action": "add",
-   "note": "New card (debate): Fresh exam-setting ethics dilemma, no cheating card exists."
+   "note": "New card (debate): Fresh exam-setting ethics dilemma, no cheating card exists.; Debate: Original scenario was illogical (paper leaked yet you realise only after answering); the rewrite fixes the dilemma and keeps the halal-success follow-up."
   },
   {
    "id": null,
@@ -9360,6 +9360,13 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card (debate): No baby/toddler card exists; light and family-friendly."
+  },
+  {
+   "id": null,
+   "Name": "Which Urdu or Arabic word do you think has no perfect English translation (like tawakkul, sukoon or khuddari), and when do you use it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No untranslatable-word card exists; examples are accurate, and the question is open and friendly."
   }
  ]
 }

@@ -590,12 +590,12 @@
   },
   {
    "id": "game13-66",
-   "Description": "Get a player to repeat a famous Pakistani TV advertisement slogan.",
+   "Description": "Get a player to repeat a famous slogan from a Pakistani brand, like a snack, soap or bank.",
    "action": "edit",
    "original": {
     "Description": "Get a player to recite a line from a commercial."
    },
-   "note": "clarity; Debate: Local frame pointing players to familiar ads."
+   "note": "clarity; Debate: Local frame pointing players to familiar ads.; Debate: Brand slogan is answerable by everyone and avoids the TV/pop-culture frame; not a duplicate."
   },
   {
    "id": "game13-67",
@@ -6425,6 +6425,48 @@
    "Description": "Get a player to tell you about a time they helped a stranger on the road or at a bus stand.",
    "action": "add",
    "note": "New card (debate): Harmless, family-friendly storytelling mission, distinct from existing cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite raita or dahi dish with biryani.",
+   "action": "add",
+   "note": "New card (debate): New local food mission; no raita/dahi card live or queued."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you for a hand cream or lip balm.",
+   "action": "add",
+   "note": "New card (debate): Easy prop mission, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to use a calculator to work out the bill, or any sum, for you.",
+   "action": "add",
+   "note": "New card (debate): Harmless and distinct from the queued electricity bill question card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the first azaan they remember hearing as a child.",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related personal question; challenger's narrowed version is clearer."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to touch your shoulder to get your attention.",
+   "action": "add",
+   "note": "New card (debate): Non-intimate touch mission allowed by owner; the old shoulder cards are removed, so no live duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite Urdu word.",
+   "action": "add",
+   "note": "New card (debate): Distinct language mission, answerable by anyone."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a stapler.",
+   "action": "add",
+   "note": "New card (debate): Ruler is already queued; stapler is a new object."
   }
  ]
 }
