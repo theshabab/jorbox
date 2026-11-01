@@ -6698,6 +6698,20 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): New local-life angle; existing load-shedding cards cover panic and hours only."
+  },
+  {
+   "id": null,
+   "Description": "How many relatives have you helped with a form, NADRA visit or online application this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Not in the deck; the NADRA queue card covers queues, not helping family. Countable, local and answerable by anyone."
+  },
+  {
+   "id": null,
+   "Description": "How much of Allama Iqbal's poetry, such as Shikwa and Jawab-e-Shikwa, have you read or can you recite?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Iqbal is not covered in the deck. This takes the challenger's concrete version but fixes the list: Shikwa and Jawab-e-Shikwa are poems in the collection Bang-e-Dra, so they should not be listed as parallel items."
   }
  ]
 }

@@ -6026,9 +6026,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you in which year Pakistan won the cricket World Cup.",
+   "Description": "Get a player to tell you in which year Pakistan won the 50-over cricket World Cup.",
    "action": "add",
-   "note": "New card (debate): 1992; absent."
+   "note": "New card (debate): 1992; absent.; Debate: Pakistan also won the 2009 T20 World Cup, so the original wording had two possible answers. Saying 50-over gives one answer, 1992."
   },
   {
    "id": null,
@@ -6329,6 +6329,54 @@
    "Description": "Get a player to tell you the best thing they have ever bought from a mela or Eid bazaar.",
    "action": "add",
    "note": "New card (debate): Festive local prompt, distinct from the favourite bazaar card."
+  },
+  {
+   "id": null,
+   "Description": "Claim that Quaid-e-Azam was born in Lahore and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): He was born in Karachi, so the correction is accurate. It fits the claim-and-correct pattern and has a local theme."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the cave where the first revelation came to the Prophet (peace be upon him).",
+   "action": "add",
+   "note": "New card (debate): Ghar-e-Hira is a well-established fact. The wording is respectful and does not duplicate the Al-Fatiha ayah-count card."
+  },
+  {
+   "id": null,
+   "Description": "Claim that Islamabad is the largest city of Pakistan and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Karachi is the largest city, so the correction is accurate. It is a distinct claim from the Quaid birthplace card."
+  },
+  {
+   "id": null,
+   "Description": "Claim that sharks are mammals and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Sharks are fish. The card fits the existing myth cards, such as the bat card, without duplicating them."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which city Minar-e-Pakistan stands.",
+   "action": "add",
+   "note": "New card (debate): The answer is Lahore. It is an easy local landmark question with no duplicate in the slice."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you whether they prefer sweet or salty lassi.",
+   "action": "add",
+   "note": "New card (debate): It is a harmless everyday chat prompt. The existing lassi card asks a player to offer you a drink, which is a different mission."
+  },
+  {
+   "id": null,
+   "Description": "Claim that the Earth is closer to the sun in summer and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): This is a common myth. Seasons come from axial tilt, and Earth is closest to the sun in early January."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they do first when the electricity goes out.",
+   "action": "add",
+   "note": "New card (debate): It asks for a habit, which differs from the existing load shedding complaint card and the electricity-bill card. It is relatable and harmless."
   }
  ]
 }

@@ -15847,7 +15847,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-492','game11','Problem','I keep missing Fajr because of _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-493','game11','Problem','My school van always stops for _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-494','game11','Problem','The street dogs chase me whenever I _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-495','game11','Problem','My biscuits always break when I _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-495','game11','Problem','My biscuits always fall into my chai when I _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-496','game11','Problem','Our exam hall is way too _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-497','game11','Problem','I need a way to keep _____ out of the kitchen!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-498','game11','Problem','The fridge is always full of _____ that nobody eats!','');
@@ -16160,6 +16160,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-805','game11','Problem','My chacha tells the same story about _____ at every gathering!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-806','game11','Problem','The shaadi hall''s AC stopped working in the middle of _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-807','game11','Problem','The shopkeeper at Anarkali Bazaar sold me _____ as ''original''!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-808','game11','Problem','Dengue mosquitoes keep breeding in my _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-809','game11','Problem','Our qurbani animal ran away when it saw _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-810','game11','Problem','My exam centre was changed to _____ the night before the paper!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-811','game11','Problem','The tap water in our area smells like _____ every morning!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-812','game11','Customer','Easyload Shop Owner','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-813','game11','Customer','Lassi Wala','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-814','game11','Customer','Shamiana Wala (Tent House Owner)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-815','game11','Customer','CSS Aspirant','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');
@@ -18125,7 +18133,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-691','game13','','Get a player to tell you Pakistan''s national bird.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-692','game13','','Get a player to name three rivers that flow through Pakistan.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-693','game13','','Get a player to tell you what Abdul Sattar Edhi is remembered for.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-694','game13','','Get a player to tell you in which year Pakistan won the cricket World Cup.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-694','game13','','Get a player to tell you in which year Pakistan won the 50-over cricket World Cup.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-695','game13','','Get a player to tell you in which year Pakistan came into being.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-696','game13','','Get a player to tell you which Muslim scholar wrote the Canon of Medicine, a book taught in European universities for centuries.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-697','game13','','Get a player to tell you what they would do if a shopkeeper gave them too much change by mistake.','');
@@ -18176,6 +18184,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-742','game13','','Get a player to tell you what they love most about 14 August celebrations.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-743','game13','','Get a player to tell you how many dates (khajoor) they eat to open their fast.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-744','game13','','Get a player to tell you the best thing they have ever bought from a mela or Eid bazaar.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-745','game13','','Claim that Quaid-e-Azam was born in Lahore and get a player to correct you.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-746','game13','','Get a player to tell you the name of the cave where the first revelation came to the Prophet (peace be upon him).','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-747','game13','','Claim that Islamabad is the largest city of Pakistan and get a player to correct you.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-748','game13','','Claim that sharks are mammals and get a player to correct you.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-749','game13','','Get a player to tell you in which city Minar-e-Pakistan stands.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-750','game13','','Get a player to tell you whether they prefer sweet or salty lassi.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-751','game13','','Claim that the Earth is closer to the sun in summer and get a player to correct you.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-752','game13','','Get a player to tell you what they do first when the electricity goes out.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -18886,6 +18902,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-707','game14','','How likely are you to send durood on the Prophet (peace be upon him) on a Friday?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-708','game14','','How many times have you flown a kite from a rooftop and had it cut by someone else?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-709','game14','','How likely are you to keep a generator, UPS or solar backup running just so you never face load shedding?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-710','game14','','How many relatives have you helped with a form, NADRA visit or online application this year?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-711','game14','','How much of Allama Iqbal''s poetry, such as Shikwa and Jawab-e-Shikwa, have you read or can you recite?','0 to 100');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game15','Tareekhi',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1','game15','Khadijah bint Khuwaylid','1st - first person to accept Islam','Sahabas - Order of Accepting Islam');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-2','game15','Ali ibn Abi Talib','2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10','Sahabas - Order of Accepting Islam');

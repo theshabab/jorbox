@@ -5886,9 +5886,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "My biscuits always break when I _____!",
+   "Description": "My biscuits always fall into my chai when I _____!",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Clearer, relatable scene than the vague original; not a duplicate of the chai temperature cards."
   },
   {
    "id": null,
@@ -8073,6 +8073,62 @@
    "Description": "The shopkeeper at Anarkali Bazaar sold me _____ as 'original'!",
    "action": "add",
    "note": "New card (debate): Local bazaar problem with an open blank; no existing card covers fake original goods."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Dengue mosquitoes keep breeding in my _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's open-blank amendment is better; local seasonal problem distinct from the generic mosquito card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our qurbani animal ran away when it saw _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct Bakra Eid scenario; existing cards cover goat eating things and mandi prices."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My exam centre was changed to _____ the night before the paper!",
+   "action": "add",
+   "note": "New card (debate): Distinct, relatable student problem not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The tap water in our area smells like _____ every morning!",
+   "action": "add",
+   "note": "New card (debate): Everyday local utility complaint with an open blank."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Easyload Shop Owner",
+   "action": "add",
+   "note": "New card (debate): Recognisable Pakistani trade not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Lassi Wala",
+   "action": "add",
+   "note": "New card (debate): Distinct street vendor alongside other wala customers."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Shamiana Wala (Tent House Owner)",
+   "action": "add",
+   "note": "New card (debate): Distinct event-supplier trade, clear to players."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "CSS Aspirant",
+   "action": "add",
+   "note": "New card (debate): Very recognisable Pakistani type not in deck."
   }
  ]
 }
