@@ -12069,7 +12069,7 @@
    "id": null,
    "Name": "Passport",
    "Description": "Green booklet needed to cross borders abroad",
-   "Category": "Stationery",
+   "Category": "Transport",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   },
@@ -13238,6 +13238,70 @@
    "Name": "Soap",
    "Description": "Foamy bar used to wash hands",
    "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Thunder",
+   "Description": "Loud rumble in the sky after lightning (Garaj)",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Dew",
+   "Description": "Cold drops on grass in the morning (Shabnam)",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sunset",
+   "Description": "Evening sky at Maghrib time",
+   "Category": "Nature",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Thermometer",
+   "Description": "Device that measures fever or temperature",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hedgehog",
+   "Description": "Small spiny animal that curls into a ball",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Imam Tirmidhi",
+   "Description": "Hadith scholar who compiled the Jami",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Chitral",
+   "Description": "Valley town below Tirich Mir, home of the Kalash",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Barzakh",
+   "Description": "Waiting state between death and Qiyamah",
+   "Category": "Islamic Terms",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }

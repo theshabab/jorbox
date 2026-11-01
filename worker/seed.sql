@@ -1007,7 +1007,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1005','game1','Umbrella','Chatri — opens above you against sun or showers','Clothing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1006','game1','Broom','Jharu — bundle of stiff strands for sweeping','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1007','game1','Suitcase','Zipped bag carrying clothes for a journey','Transport');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1008','game1','Passport','Green booklet needed to cross borders abroad','Stationery');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1008','game1','Passport','Green booklet needed to cross borders abroad','Transport');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1009','game1','Razai','Heavy cotton-filled winter cover for cold nights','Furniture');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1010','game1','Bucket','Balti; carries water for bathing and mopping','Kitchen Items');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1011','game1','Homework','Ghar ka kaam — school task done after class','Stationery');
@@ -1154,6 +1154,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1152','game1','Madrasa','School where students learn Quran and hifz','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1153','game1','Khandaq','Trench dug around Madinah in a famous siege','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1154','game1','Soap','Foamy bar used to wash hands','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1155','game1','Thunder','Loud rumble in the sky after lightning (Garaj)','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1156','game1','Dew','Cold drops on grass in the morning (Shabnam)','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1157','game1','Sunset','Evening sky at Maghrib time','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1158','game1','Thermometer','Device that measures fever or temperature','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1159','game1','Hedgehog','Small spiny animal that curls into a ball','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1160','game1','Imam Tirmidhi','Hadith scholar who compiled the Jami','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1161','game1','Chitral','Valley town below Tirich Mir, home of the Kalash','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1162','game1','Barzakh','Waiting state between death and Qiyamah','Islamic Terms');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');
