@@ -18188,25 +18188,25 @@
   },
   {
    "id": "game7-1654",
-   "Description": "<PLAYER> thinks this is the worst thing ever invented",
+   "Description": "<PLAYER>'s idea of the worst invention ever",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> thinks this is the worst thing ever invented",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: The original points at nothing drawable; the rewrite follows the deck's 'idea of' pattern."
   },
   {
    "id": "game7-1655",
-   "Description": "<PLAYER> is literally magnetic",
+   "Description": "<PLAYER> is so magnetic that spoons and keys stick to them",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> is literally magnetic",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Gives a drawable image."
   },
   {
    "id": "game7-1656",
@@ -18221,14 +18221,14 @@
   },
   {
    "id": "game7-1657",
-   "Description": "<PLAYER> (dun dun dun) was the culprit all along!!!!",
+   "Description": "<PLAYER> was the culprit all along!",
    "Category": "Friend Mode Prompts",
    "action": "edit",
    "original": {
     "Description": "<PLAYER> (dun dun dun) was t he murderer all along!!!!",
     "Category": "Friend Mode Prompts"
    },
-   "note": "spelling; softened murder"
+   "note": "spelling; softened murder; Debate: Cleans up awkward filler and punctuation."
   },
   {
    "id": "game7-1658",
@@ -18331,14 +18331,14 @@
   },
   {
    "id": "game7-1667",
-   "Description": "<PLAYER>'s pathetic snack",
+   "Description": "<PLAYER>'s sad little snack",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER>'s pathetic snack",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the put-down tone."
   },
   {
    "id": "game7-1668",
@@ -18353,14 +18353,14 @@
   },
   {
    "id": "game7-1669",
-   "Description": "<PLAYER> being a big scaredy-cat",
+   "Description": "<PLAYER> being a big scaredy-cat at night",
    "Category": "Friend Mode Prompts",
    "action": "edit",
    "original": {
     "Description": "<PLAYER> being a scawed wittle bay-bay",
     "Category": "Friend Mode Prompts"
    },
-   "note": "Debate: The baby-talk spelling reads as a typo and is unclear to Roman-Urdu/English players. 'Scaredy-cat' is clear and affectionate, and it is a different scene from the existing 'scaredy-cat train' card."
+   "note": "Debate: The baby-talk spelling reads as a typo and is unclear to Roman-Urdu/English players. 'Scaredy-cat' is clear and affectionate, and it is a different scene from the existing 'scaredy-cat train' card.; Debate: Adds a concrete setting to draw."
   },
   {
    "id": "game7-1670",
@@ -18375,14 +18375,14 @@
   },
   {
    "id": "game7-1671",
-   "Description": "<PLAYER> being impulsive!!",
+   "Description": "<PLAYER> being wildly impulsive",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> being impulsive!!",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes the '!!' and gives a clearer phrase."
   },
   {
    "id": "game7-1672",
@@ -18652,10 +18652,10 @@
   },
   {
    "id": null,
-   "Description": "the generator only starts after you kick it",
+   "Description": "a generator that only starts after you kick it",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): A relatable load-shedding scene that can be drawn."
+   "note": "New card (debate): A relatable load-shedding scene that can be drawn.; Debate: Noun-phrase prompt matching the category."
   },
   {
    "id": null,
@@ -21071,6 +21071,62 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Affectionate, drawable, local; different joke from other biryani cards."
+  },
+  {
+   "id": null,
+   "Description": "a matka learning to swim in the monsoon",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Drawable and local. No duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a wheelbarrow of watermelons winning the race against a motorbike",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct from the existing watermelon cards. Drawable street scene."
+  },
+  {
+   "id": null,
+   "Description": "a dahi bhalla wearing a tiny sherwani at its own wedding",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny food character. No duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a washing machine dancing across the floor on spin cycle while Ammi chases it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Household chaos, easy to draw. No duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a pigeon wearing a tiny crown on top of the Minar-e-Pakistan",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Real Lahore landmark. Distinct from the other pigeon cards."
+  },
+  {
+   "id": null,
+   "Description": "a roohafza bottle with a tiny straw and a very big head",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct from the rooh afza donkey card. Drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to fold a fitted bedsheet and losing",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate and drawable. No duplicate."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER>'s idea of a perfect picnic at Hunza",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Local setting. The only Hunza card is a snow leopard."
   }
  ]
 }

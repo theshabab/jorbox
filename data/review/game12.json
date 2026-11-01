@@ -6594,11 +6594,11 @@
   {
    "id": "game12-733",
    "Name": "Clothes",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Clothes"
    },
-   "note": ""
+   "note": "Debate: Vague plural collective; specific garments already cover it. Card is live (game12-733 keep)."
   },
   {
    "id": "game12-734",
@@ -11741,6 +11741,48 @@
    "Name": "Sprinkler",
    "action": "add",
    "note": "New card (debate): Concrete drawable noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Wasp",
+   "action": "add",
+   "note": "New card (debate): Distinct, actable insect not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Yoghurt",
+   "action": "add",
+   "note": "New card (debate): Everyday food, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Worry",
+   "action": "add",
+   "note": "New card (debate): Abstract noun, easy to act, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Vendor",
+   "action": "add",
+   "note": "New card (debate): Familiar person noun, distinct from Cart object."
+  },
+  {
+   "id": null,
+   "Name": "Wool",
+   "action": "add",
+   "note": "New card (debate): Distinct material, mimeable, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Weight",
+   "action": "add",
+   "note": "New card (debate): Easy to mime by lifting, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Warning",
+   "action": "add",
+   "note": "New card (debate): Abstract noun, easy to act, not in deck."
   }
  ]
 }
