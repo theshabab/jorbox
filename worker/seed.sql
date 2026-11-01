@@ -1162,6 +1162,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1160','game1','Imam Tirmidhi','Hadith scholar who compiled the Jami','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1161','game1','Chitral','Valley town below Tirich Mir, home of the Kalash','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1162','game1','Barzakh','Waiting state between death and Qiyamah','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1163','game1','Mihrab','Arched niche showing the direction of prayer','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1164','game1','Minbar','Steps in a mosque where the khutbah is given','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1165','game1','Ayat ul Kursi','Verse of the Throne from Surah Baqarah','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1166','game1','Surah Al-Fatiha','Opening chapter recited in every rakat','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1167','game1','Dhul Hijjah','Twelfth Hijri month of Hajj and Qurbani','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1168','game1','Hilal','New crescent sighted to start a month','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1169','game1','Thatta','Sindh town with Makli graveyard and Shah Jahan Mosque','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1170','game1','Neelum Valley','River valley of Kashmir with Arang Kel','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1171','game1','Roti','Round flatbread cooked on a tawa','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1172','game1','Matchbox','Small box of sticks struck to make a flame (Diyasalai)','Tools');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Food','Pakistani Cities');
