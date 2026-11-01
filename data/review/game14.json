@@ -5676,6 +5676,384 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Habit rather than skill, so distinct from the live bargaining-skill card."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you locked your keys inside your house or car?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Universal mishap, countable, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many trees have you planted?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clean, fits values, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many world capital cities can you name in one minute?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fun general knowledge, new."
+  },
+  {
+   "id": null,
+   "Description": "How many seconds can you hold your breath?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Everyone can attempt, new."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you watched the sunrise on purpose?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No sunrise card in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you walked into a glass door or a wall by mistake?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Funny relatable mishap, new."
+  },
+  {
+   "id": null,
+   "Description": "How many different jobs have you had in your life?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from quit/rejected cards."
+  },
+  {
+   "id": null,
+   "Description": "How many bird species can you name?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): New, good spread."
+  },
+  {
+   "id": null,
+   "Description": "How many digits of pi can you recite?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): New, big spread of answers."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you got sunburnt?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Universal, new."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you seen a double rainbow?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Different from shooting stars card, small guessable numbers."
+  },
+  {
+   "id": null,
+   "Description": "How many books have you borrowed from a library this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's answerable this-year version; distinct from never-returned card."
+  },
+  {
+   "id": null,
+   "Description": "How many handwritten letters have you sent in your life?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Nostalgic, distinct from keep-old-letters card."
+  },
+  {
+   "id": null,
+   "Description": "How many hours of time difference are there between home and the farthest place you have travelled?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): More answerable than counting time zones."
+  },
+  {
+   "id": null,
+   "Description": "How afraid are you of heights?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Not in deck, matches fear cards."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at finding your way in a new city without a phone?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Skill framing distinct from directions/Maps cards."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at guessing the time without looking at a clock?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Testable by others, new."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to speak up when someone jumps the queue?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Specific universal scenario."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at remembering people's faces?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Pairs with forgetting-names card without duplicating."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to stay calm in an emergency?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Character question, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy learning about space and the planets?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Different from Mars colony card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take apart a broken gadget to see how it works?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct from fixing-house and manual cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take the stairs instead of the lift?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Everyday habit, new."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at telling if a fruit is ripe just by looking or pressing it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Universal food skill, fun to guess."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you seen a solar or lunar eclipse?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Science/nature, small guessable numbers, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many country flags can you name in one minute?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): World geography, fun to compare."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at drawing?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Everyday skill like other skill cards, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to read the instructions before assembling furniture?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable household situation, different from gadget-manual card."
+  },
+  {
+   "id": null,
+   "Description": "How many times today have you said 'Alhamdulillah' for something small, like cold water on a hot day?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Shukr; amended version is concrete and distinct from the JazakAllah card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to buy something you did not need just because it was on sale?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Anti sale-frenzy self-honesty; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many clothes in your almari have you never worn even once?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Israf; countable, distinct from the messy-almari card."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you thrown away food that went bad?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Israf; playable count."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you given sadaqah, even a few coins to someone at a traffic signal?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Amended weekly habit version separates it from the yearly donation card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to lend money to a relative without writing down or remembering when it is due back?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable, no fiqh claim."
+  },
+  {
+   "id": null,
+   "Description": "How many times in the last year have you visited someone who was sick?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Visiting the sick; plain count, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many Muslim scientists or scholars from history can you name in 30 seconds?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Muslim contributions with pride; playable timed count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to tell a friend a hard truth instead of a comfortable lie?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Honesty and sincere advice."
+  },
+  {
+   "id": null,
+   "Description": "How many Fridays last year did you reach Jumuah before the khutbah began?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Amended to be answerable by anyone."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to buy the newest phone model just because it launched?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Amended; distinct from the phone-age card, contentment theme."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to be the first to say 'Assalamu Alaikum' when you meet someone?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Spreading salam; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many people have you made dua for by name this week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Community care; simple count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to return the extra change if a shopkeeper gives you too much by mistake?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Honesty and halal earning in a relatable bazaar situation."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you lost your temper while driving or riding in traffic?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Sabr; funny and distinct from traffic time/challan cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to look up at the night sky and say SubhanAllah?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Amended concise, non-preachy reflection."
+  },
+  {
+   "id": null,
+   "Description": "How many dinners this week did your whole family eat together at one table or dastarkhwan?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Family as foundation; countable."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you repaired something instead of buying a new one?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Amended with a bounded window."
+  },
+  {
+   "id": null,
+   "Description": "How many hand-me-down clothes from older siblings or cousins are in your almari right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Amended natural wording; very relatable."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to forgive someone who has wronged you without waiting for an apology?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Forgiveness; different angle from the grudge card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to buy something on instalments just because you cannot wait to save for it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Patience and avoiding debt as a habit question, no ruling."
+  },
+  {
+   "id": null,
+   "Description": "If you wake up at night, how likely are you to make a little dua before going back to sleep?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Amended clearer wording; allowed worship-related question."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you taken food or sweets to a neighbour for no special reason?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights; distinct from dish-return card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep a promise you made to a child, even a small one?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Truthfulness and trust; warm and relatable."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you said 'Bismillah' before eating?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Everyday barakah habit; easy count, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you phoned or visited an elderly relative just to ask how they are?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Sila rehmi; distinct by elderly focus and monthly window."
   }
  ]
 }

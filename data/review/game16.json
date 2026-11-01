@@ -8324,6 +8324,356 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): The only Qurbani card is the goat-naming one, so this family-tradition angle is new."
+  },
+  {
+   "id": null,
+   "Name": "If you could spend one day in any period of history as an invisible observer, which would you choose?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No history-visit card in deck; open and clean."
+  },
+  {
+   "id": null,
+   "Name": "Which natural wonder would you most like to see in person (the Northern Lights, the Grand Canyon, the Great Barrier Reef, K2)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Examples are accurate world-famous natural features; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which of your five senses would you hate to lose the most, and why?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): No senses card in deck; gentle gratitude prompt."
+  },
+  {
+   "id": null,
+   "Name": "What small thing instantly puts you in a better mood?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No mood-lifter card; easy for everyone."
+  },
+  {
+   "id": null,
+   "Name": "Which scientist or inventor from history (Ibn al-Haytham, Al-Jazari, Edison, Newton) would you love to quiz, and what is the first question you would ask?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: concrete examples including Muslim-world scientists; no scientist card exists."
+  },
+  {
+   "id": null,
+   "Name": "If dinosaurs were still alive today, would they be a danger or a tourist attraction?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): No dinosaur card; fun and clean."
+  },
+  {
+   "id": null,
+   "Name": "If you could spend one week on the Moon, what are the first three things you would pack?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Distinct from the existing visit-a-planet card; quick to answer."
+  },
+  {
+   "id": null,
+   "Name": "What is the most interesting historic place you have visited (a fort, a museum, old ruins)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No historic-site visit card; only a museum vs hiking preference exists."
+  },
+  {
+   "id": null,
+   "Name": "Who taught you to ride a bicycle, and how many falls did it take?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): No bicycle card in deck; relatable."
+  },
+  {
+   "id": null,
+   "Name": "Can you swim? Tell us who taught you, or how you would feel jumping into a deep pool tomorrow.",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's friendlier version for non-swimmers; no swimming card exists."
+  },
+  {
+   "id": null,
+   "Name": "How many alarms do you set in the morning, and how many times do you press snooze?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): No alarm/snooze card; universal and funny."
+  },
+  {
+   "id": null,
+   "Name": "Which animal would you most love to see in the wild, and what would you do if it came close?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from favourite-animal and ability cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the strangest thing you have done just to avoid being bored while waiting (at a clinic, an airport, a long red light)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's story-based version; separate from queue and road-trip cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the best view you have ever seen from a plane or bus window?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Real travel memory; the existing window card is imagined."
+  },
+  {
+   "id": null,
+   "Name": "Have you ever grown something from a seed (mint, a tomato, a money plant)? How did it go?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): No grow-a-plant card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Would you go to the top of the world's tallest tower, or does the height make your knees shake?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): No fear-of-heights card; fun and clean."
+  },
+  {
+   "id": null,
+   "Name": "How is your handwriting, and who has the worst handwriting you have ever tried to read?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): No handwriting card; school-universal."
+  },
+  {
+   "id": null,
+   "Name": "What is the most uncomfortable place you have ever managed to fall asleep?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): New angle versus class, roof and half-asleep cards."
+  },
+  {
+   "id": null,
+   "Name": "If you were dropped in a random country with no phone and no money, how would you get home?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): No survival scenario card; creative."
+  },
+  {
+   "id": null,
+   "Name": "What was the first dish you ever learned to cook, and who was brave enough to eat it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): First-attempt angle absent from existing cooking cards."
+  },
+  {
+   "id": null,
+   "Name": "Would you rather spend a night alone in a desert under the stars or on a small boat in the middle of the sea?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No desert or sea would-you-rather; vivid and neutral."
+  },
+  {
+   "id": null,
+   "Name": "Which everyday object do you think was most cleverly designed (a paperclip, a zip, a safety pin, a bottle cap)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended examples avoid the pressure cooker already used in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the bravest thing you have ever done, big or small?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Grep found no brave/courage card; warm and universal."
+  },
+  {
+   "id": null,
+   "Name": "If you were given an empty plot of land in your neighbourhood, what would you build on it (a library, a park, a school, a workshop)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Community-minded and general; no similar card."
+  },
+  {
+   "id": null,
+   "Name": "Which skill would you teach every child first: swimming, cycling, cooking or first aid?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Quick debate card with easy options; no first-aid or skills-for-kids card exists."
+  },
+  {
+   "id": null,
+   "Name": "What is the most useless thing you ever bought just because it was on sale?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No sale card in deck; relatable."
+  },
+  {
+   "id": null,
+   "Name": "What is the best thing your family makes from leftovers (bachi hui roti, salan or chawal)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): No leftover card; anti-israf, desi."
+  },
+  {
+   "id": null,
+   "Name": "If you could only keep 10 things for a whole month, what would they be?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No minimalism card; playable."
+  },
+  {
+   "id": null,
+   "Name": "What is your favourite thing that you own that has no brand name on it at all, and why?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended single-question version; avoids judging people."
+  },
+  {
+   "id": null,
+   "Name": "What is your own rule for borrowing money from friends or relatives, and how do you make sure you pay it back?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Borrower side, distinct from lending card; no fiqh claims."
+  },
+  {
+   "id": null,
+   "Name": "When did you last send a plate of food to a neighbour, and what did you send?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing neighbour cards."
+  },
+  {
+   "id": null,
+   "Name": "When did telling the truth cost you something, and would you do it again?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Not covered by existing truth cards."
+  },
+  {
+   "id": null,
+   "Name": "What does haya (modesty) mean to you beyond clothing?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Absent from deck; personal, non-fatwa."
+  },
+  {
+   "id": null,
+   "Name": "How do you know when you have 'enough'? What in your life makes you say 'alhamdulillah, this is enough'?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Contentment; no overlap found."
+  },
+  {
+   "id": null,
+   "Name": "What in your life has barakah, where a little seems to go a very long way?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Barakah absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Al-Qarawiyyin in Fez, founded in 859 by Fatima al-Fihri, is often called the oldest university still running. What would you study there?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Accurate, hedged, fun Muslim history."
+  },
+  {
+   "id": null,
+   "Name": "Al-Jazari's 13th-century inventions included a famous water clock and early mechanical automata. Which machine would you want him to build for your house?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Accurate (1206 book), playful, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "If your family had a strict no-phones rule at dinner, who would be the first to break it and what would be their excuse?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Funny family-presence card; new angle."
+  },
+  {
+   "id": null,
+   "Name": "What would you cook or do for your grandparents to make their whole week?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Duty to elders; distinct from grandparent lesson card."
+  },
+  {
+   "id": null,
+   "Name": "Which of your friends makes it easier for you to do good, and how do they do it?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Good company; positive."
+  },
+  {
+   "id": null,
+   "Name": "When your heart wants one thing but your conscience says another, where do you turn for guidance?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Guidance beyond feelings; open, non-preachy."
+  },
+  {
+   "id": null,
+   "Name": "Tell us about a time you did your absolute best, then left the result to Allah. How did it turn out?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Tawakkul with effort; different angle from existing card."
+  },
+  {
+   "id": null,
+   "Name": "If you could give sadaqah secretly every day, what small thing would you give and to whom?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Sincerity in charity; distinct from existing sadaqah cards."
+  },
+  {
+   "id": null,
+   "Name": "If you woke for Fajr every day, what would you do with that quiet hour before sunrise?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Personal worship allowed; distinct from sunrise/sunset card."
+  },
+  {
+   "id": null,
+   "Name": "Which part of the subcontinent's history do you wish your school textbooks had taught you more about?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Education-framed history; no group insulted."
+  },
+  {
+   "id": null,
+   "Name": "What is the most expensive wedding or Eid trend you wish your family would skip, and what simple thing would you do instead?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Concrete israf question; more playable than the yes/no commercialized card."
+  },
+  {
+   "id": null,
+   "Name": "What is the nicest thing a relative did for you that you have never forgotten, and have you thanked them?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Sila rehmi and gratitude; distinct from existing cards."
+  },
+  {
+   "id": null,
+   "Name": "Ibn Battuta left Morocco in 1325, aged about 21, to perform Hajj, and ended up travelling for nearly thirty years. Which country on his route would you visit first?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim history with a fun travel prompt; replaces A14."
+  },
+  {
+   "id": null,
+   "Name": "What is the oldest thing you still use and refuse to replace, and what is its story?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Anti-consumerism via nostalgic story; only clothing card is similar but narrower."
+  },
+  {
+   "id": null,
+   "Name": "What is one small thing your parents do for you every day that you only noticed once you grew up?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Gratitude to parents; distinct from existing parent cards."
   }
  ]
 }

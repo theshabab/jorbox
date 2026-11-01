@@ -29513,6 +29513,566 @@
    "Category": "Densities of Metals (Ascending)",
    "action": "add",
    "note": "New card (debate): Challenger's amended value (white tin 7.265); sits between zinc and iron."
+  },
+  {
+   "id": null,
+   "Name": "Mercury",
+   "Description": "88 Earth days",
+   "Category": "Planets - Length of Year (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate; new topic, no orbital-period set in deck."
+  },
+  {
+   "id": null,
+   "Name": "Venus",
+   "Description": "~225 Earth days",
+   "Category": "Planets - Length of Year (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate (224.7 days)."
+  },
+  {
+   "id": null,
+   "Name": "Earth",
+   "Description": "~365 Earth days",
+   "Category": "Planets - Length of Year (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate anchor."
+  },
+  {
+   "id": null,
+   "Name": "Mars",
+   "Description": "~687 Earth days (about 1.9 years)",
+   "Category": "Planets - Length of Year (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Jupiter",
+   "Description": "~11.9 Earth years",
+   "Category": "Planets - Length of Year (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Saturn",
+   "Description": "~29.5 Earth years",
+   "Category": "Planets - Length of Year (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Uranus",
+   "Description": "~84 Earth years",
+   "Category": "Planets - Length of Year (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Neptune",
+   "Description": "~165 Earth years",
+   "Category": "Planets - Length of Year (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate; completes the 8-card set."
+  },
+  {
+   "id": null,
+   "Name": "Housefly",
+   "Description": "About 28 days",
+   "Category": "Animal Lifespans (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): No lifespan set in deck; clear spread."
+  },
+  {
+   "id": null,
+   "Name": "House Mouse",
+   "Description": "About 2 years",
+   "Category": "Animal Lifespans (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Clearly between fly and dog."
+  },
+  {
+   "id": null,
+   "Name": "Dog",
+   "Description": "About 12 years",
+   "Category": "Animal Lifespans (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Well known, accurate."
+  },
+  {
+   "id": null,
+   "Name": "Horse",
+   "Description": "About 25-30 years",
+   "Category": "Animal Lifespans (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate, clearly above dog."
+  },
+  {
+   "id": null,
+   "Name": "African Elephant",
+   "Description": "About 60-70 years",
+   "Category": "Animal Lifespans (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate, fun surprise."
+  },
+  {
+   "id": null,
+   "Name": "Giant Tortoise",
+   "Description": "100+ years (some over 150)",
+   "Category": "Animal Lifespans (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Clean last place."
+  },
+  {
+   "id": null,
+   "Name": "Mouse",
+   "Description": "About 20 days",
+   "Category": "Animal Pregnancy Length (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate; no gestation set in deck."
+  },
+  {
+   "id": null,
+   "Name": "Rabbit",
+   "Description": "About 31 days",
+   "Category": "Animal Pregnancy Length (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Within 28-32 day range."
+  },
+  {
+   "id": null,
+   "Name": "Cat",
+   "Description": "About 65 days",
+   "Category": "Animal Pregnancy Length (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Horse",
+   "Description": "About 11 months (340 days)",
+   "Category": "Animal Pregnancy Length (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate; orders clearly before giraffe."
+  },
+  {
+   "id": null,
+   "Name": "Giraffe",
+   "Description": "About 15 months",
+   "Category": "Animal Pregnancy Length (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Elephant",
+   "Description": "About 22 months",
+   "Category": "Animal Pregnancy Length (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Classic surprise last card."
+  },
+  {
+   "id": null,
+   "Name": "Uruguay",
+   "Description": "1930 (first title, hosted the first World Cup)",
+   "Category": "FIFA World Cup Winners (First Title, Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate; no football set in deck."
+  },
+  {
+   "id": null,
+   "Name": "Italy",
+   "Description": "1934 (first title)",
+   "Category": "FIFA World Cup Winners (First Title, Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Germany",
+   "Description": "1954 (first title, as West Germany)",
+   "Category": "FIFA World Cup Winners (First Title, Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger's cleaner Name accepted."
+  },
+  {
+   "id": null,
+   "Name": "Brazil",
+   "Description": "1958 (first title, in Sweden)",
+   "Category": "FIFA World Cup Winners (First Title, Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "England",
+   "Description": "1966 (first title, at home)",
+   "Category": "FIFA World Cup Winners (First Title, Chronological)",
+   "action": "add",
+   "note": "New card (debate): Amended wording avoids a time-sensitive 'only title' claim."
+  },
+  {
+   "id": null,
+   "Name": "Argentina",
+   "Description": "1978 (first title, at home)",
+   "Category": "FIFA World Cup Winners (First Title, Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "France",
+   "Description": "1998 (first title, at home)",
+   "Category": "FIFA World Cup Winners (First Title, Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Spain",
+   "Description": "2010 (first title, in South Africa)",
+   "Category": "FIFA World Cup Winners (First Title, Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Egg",
+   "Description": "1st - tiny eggs laid on a leaf",
+   "Category": "Butterfly Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Universal science ordering; no duplicate; matches deck's '1st -' format."
+  },
+  {
+   "id": null,
+   "Name": "Caterpillar (Larva)",
+   "Description": "2nd - eats leaves and grows",
+   "Category": "Butterfly Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Same set."
+  },
+  {
+   "id": null,
+   "Name": "Chrysalis (Pupa)",
+   "Description": "3rd - body transforms inside",
+   "Category": "Butterfly Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Same set."
+  },
+  {
+   "id": null,
+   "Name": "Adult Butterfly",
+   "Description": "4th - emerges with wings",
+   "Category": "Butterfly Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Same set; meets 3-card minimum."
+  },
+  {
+   "id": null,
+   "Name": "Battle of Plassey",
+   "Description": "1757 - East India Company gains Bengal",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent from deck, starts the colonial-era chain."
+  },
+  {
+   "id": null,
+   "Name": "Fall of Seringapatam (Tipu Sultan)",
+   "Description": "1799 - Tipu Sultan martyred defending Mysore",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): 4 May 1799; Muslim resistance history, non-sectarian."
+  },
+  {
+   "id": null,
+   "Name": "War of Independence (Subcontinent)",
+   "Description": "1857 - uprising against East India Company rule",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger's disambiguated Name; year only in Description."
+  },
+  {
+   "id": null,
+   "Name": "All-India Muslim League founded",
+   "Description": "1906 - Dhaka",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): 30 Dec 1906, Dhaka; correct."
+  },
+  {
+   "id": null,
+   "Name": "Allahabad Address (Allama Iqbal)",
+   "Description": "1930 - idea of a separate Muslim homeland",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Standard reference, correct year."
+  },
+  {
+   "id": null,
+   "Name": "Lahore Resolution",
+   "Description": "1940 - Minar-e-Pakistan site, 23 March",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Correct; Minar card (1968) is in another category, no clash."
+  },
+  {
+   "id": null,
+   "Name": "Creation of Pakistan",
+   "Description": "1947 - 14 August",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Natural endpoint of the chain."
+  },
+  {
+   "id": null,
+   "Name": "Edhi Foundation",
+   "Description": "1951 - Karachi",
+   "Category": "Pakistani Welfare Institutions (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Sadaqah/service theme, accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "The Citizens Foundation (TCF)",
+   "Description": "1995 - Karachi, schools for the underserved",
+   "Category": "Pakistani Welfare Institutions (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Education charity, sadaqah jariyah; fits between 1994 and 1999."
+  },
+  {
+   "id": null,
+   "Name": "Shaukat Khanum Hospital",
+   "Description": "1994 - Lahore, cancer hospital",
+   "Category": "Pakistani Welfare Institutions (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Opened Dec 1994; no living person named."
+  },
+  {
+   "id": null,
+   "Name": "Saylani Welfare Trust",
+   "Description": "1999 - Karachi, free langar",
+   "Category": "Pakistani Welfare Institutions (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Familiar feeding charity, accurate year."
+  },
+  {
+   "id": null,
+   "Name": "Akhuwat",
+   "Description": "2001 - Lahore, interest-free loans",
+   "Category": "Pakistani Welfare Institutions (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Qarz-e-hasna, riba-free; supports worldview with a real fact."
+  },
+  {
+   "id": null,
+   "Name": "Indus Hospital",
+   "Description": "2007 - Karachi, free treatment",
+   "Category": "Pakistani Welfare Institutions (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Charity healthcare, documented 2007 opening."
+  },
+  {
+   "id": null,
+   "Name": "Savings and gold",
+   "Description": "2.5% - one-fortieth, after a year",
+   "Category": "Zakat Rates (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Universally agreed rate."
+  },
+  {
+   "id": null,
+   "Name": "Crops watered by well or bucket",
+   "Description": "5% - one-twentieth",
+   "Category": "Zakat Rates (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Hadith framing of effort-watering; avoids modern irrigation fiqh dispute."
+  },
+  {
+   "id": null,
+   "Name": "Crops watered by rain or springs",
+   "Description": "10% - one-tenth (ushr)",
+   "Category": "Zakat Rates (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Matches hadith wording, avoids canal disputes."
+  },
+  {
+   "id": null,
+   "Name": "Manzils",
+   "Description": "7 - for weekly recitation",
+   "Category": "Quran by the Numbers (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Well-established division."
+  },
+  {
+   "id": null,
+   "Name": "Prophets named in the Quran",
+   "Description": "25",
+   "Category": "Quran by the Numbers (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Standard count, no depiction."
+  },
+  {
+   "id": null,
+   "Name": "Juz (Paras)",
+   "Description": "30",
+   "Category": "Quran by the Numbers (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Universal and known."
+  },
+  {
+   "id": null,
+   "Name": "Beautiful Names of Allah (Asma ul Husna)",
+   "Description": "99 - the well-known hadith count",
+   "Category": "Quran by the Numbers (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Accurate sourcing of 99 to hadith."
+  },
+  {
+   "id": null,
+   "Name": "Ayat in Surah Al-Baqarah",
+   "Description": "286 - the longest surah",
+   "Category": "Quran by the Numbers (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Undisputed; replaces duplicate 114 card; no ties."
+  },
+  {
+   "id": null,
+   "Name": "Ayat (verses)",
+   "Description": "6,236 - commonly counted total",
+   "Category": "Quran by the Numbers (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Standard Hafs count, hedged wording."
+  },
+  {
+   "id": null,
+   "Name": "Iraq",
+   "Description": "1932 - end of the British mandate, 3 October",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): Formal independence 1932; fills early gap; wording tweaked for precision."
+  },
+  {
+   "id": null,
+   "Name": "Indonesia",
+   "Description": "1945 - proclaimed 17 August (recognised 1949)",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): Largest Muslim-majority country; dates verified."
+  },
+  {
+   "id": null,
+   "Name": "Syria",
+   "Description": "1946 - from France, 17 April",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): Accurate date, Levant representation."
+  },
+  {
+   "id": null,
+   "Name": "Libya",
+   "Description": "1951 - from British and French administration, 24 December",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): Challenger corrected administering powers."
+  },
+  {
+   "id": null,
+   "Name": "Morocco",
+   "Description": "1956 - from France",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): 2 March 1956, correct."
+  },
+  {
+   "id": null,
+   "Name": "Malaysia (Malaya)",
+   "Description": "1957 - Merdeka from Britain, 31 August (Malaysia formed 1963)",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): Avoids 1957 vs 1963 dispute."
+  },
+  {
+   "id": null,
+   "Name": "Kuwait",
+   "Description": "1961 - from Britain, 19 June",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): Accurate; unique year."
+  },
+  {
+   "id": null,
+   "Name": "Algeria",
+   "Description": "1962 - after the war of independence, from France",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): 5 July 1962, meaningful history."
+  },
+  {
+   "id": null,
+   "Name": "Bangladesh",
+   "Description": "1971 - became a separate state, 16 December",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): Neutral wording, undisputed date."
+  },
+  {
+   "id": null,
+   "Name": "Brunei",
+   "Description": "1984 - from Britain, 1 January",
+   "Category": "Muslim Countries - Year of Independence",
+   "action": "add",
+   "note": "New card (debate): Correct; long span."
+  },
+  {
+   "id": null,
+   "Name": "Al-Baqarah",
+   "Description": "286 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): Counterpart to Shortest Surahs; correct Hafs count."
+  },
+  {
+   "id": null,
+   "Name": "Al-A'raf",
+   "Description": "206 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): Correct count, 2nd longest."
+  },
+  {
+   "id": null,
+   "Name": "Aal-e-Imran",
+   "Description": "200 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): Correct count, 3rd longest."
+  },
+  {
+   "id": null,
+   "Name": "An-Nisa",
+   "Description": "176 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): Correct count, 4th longest."
+  },
+  {
+   "id": null,
+   "Name": "Al-An'am",
+   "Description": "165 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): Correct count, 5th longest."
+  },
+  {
+   "id": null,
+   "Name": "At-Tawbah",
+   "Description": "129 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): Replaces Al-Ma'idah: Tawbah (129) and Hud (123) are longer than Ma'idah (120), so Tawbah is the true 6th longest."
   }
  ]
 }

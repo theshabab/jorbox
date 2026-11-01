@@ -10247,6 +10247,462 @@
    "Name": "Tuition",
    "action": "add",
    "note": "New card (debate): Familiar student experience, fun to act, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Pyramid",
+   "action": "add",
+   "note": "New card (debate): Not in deck; world-famous and drawable"
+  },
+  {
+   "id": null,
+   "Name": "Waterfall",
+   "action": "add",
+   "note": "New card (debate): Not in deck; good gesture card"
+  },
+  {
+   "id": null,
+   "Name": "Iceberg",
+   "action": "add",
+   "note": "New card (debate): Distinct from Glacier"
+  },
+  {
+   "id": null,
+   "Name": "Skyscraper",
+   "action": "add",
+   "note": "New card (debate): Universal and drawable"
+  },
+  {
+   "id": null,
+   "Name": "Microscope",
+   "action": "add",
+   "note": "New card (debate): School science object"
+  },
+  {
+   "id": null,
+   "Name": "Planet",
+   "action": "add",
+   "note": "New card (debate): Distinct from Galaxy and Star"
+  },
+  {
+   "id": null,
+   "Name": "Comet",
+   "action": "add",
+   "note": "New card (debate): Clear tail to draw"
+  },
+  {
+   "id": null,
+   "Name": "Fossil",
+   "action": "add",
+   "note": "New card (debate): Distinct from Dinosaur"
+  },
+  {
+   "id": null,
+   "Name": "Windmill",
+   "action": "add",
+   "note": "New card (debate): Easy to mime"
+  },
+  {
+   "id": null,
+   "Name": "Sundial",
+   "action": "add",
+   "note": "New card (debate): Distinct from Clock"
+  },
+  {
+   "id": null,
+   "Name": "Backpack",
+   "action": "add",
+   "note": "New card (debate): Universal school object"
+  },
+  {
+   "id": null,
+   "Name": "Ruler",
+   "action": "add",
+   "note": "New card (debate): Stationery, fits Eraser/Sharpener"
+  },
+  {
+   "id": null,
+   "Name": "Stopwatch",
+   "action": "add",
+   "note": "New card (debate): Everyday object, easy to act"
+  },
+  {
+   "id": null,
+   "Name": "Toaster",
+   "action": "add",
+   "note": "New card (debate): Fun to mime"
+  },
+  {
+   "id": null,
+   "Name": "Elbow",
+   "action": "add",
+   "note": "New card (debate): Body part not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Knee",
+   "action": "add",
+   "note": "New card (debate): Body part not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Eyebrow",
+   "action": "add",
+   "note": "New card (debate): Funny to act"
+  },
+  {
+   "id": null,
+   "Name": "Shoulder",
+   "action": "add",
+   "note": "New card (debate): Body part not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Hedgehog",
+   "action": "add",
+   "note": "New card (debate): Drawable animal"
+  },
+  {
+   "id": null,
+   "Name": "Ostrich",
+   "action": "add",
+   "note": "New card (debate): Funny to act"
+  },
+  {
+   "id": null,
+   "Name": "Jellyfish",
+   "action": "add",
+   "note": "New card (debate): Sea animal not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Beehive",
+   "action": "add",
+   "note": "New card (debate): Distinct from Bee and Honey"
+  },
+  {
+   "id": null,
+   "Name": "Orange",
+   "action": "add",
+   "note": "New card (debate): Common fruit not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Pizza",
+   "action": "add",
+   "note": "New card (debate): Halal-neutral world food, no brand"
+  },
+  {
+   "id": null,
+   "Name": "Omelette",
+   "action": "add",
+   "note": "New card (debate): Common breakfast food"
+  },
+  {
+   "id": null,
+   "Name": "Farmer",
+   "action": "add",
+   "note": "New card (debate): Relatable job"
+  },
+  {
+   "id": null,
+   "Name": "Plumber",
+   "action": "add",
+   "note": "New card (debate): Fun mime"
+  },
+  {
+   "id": null,
+   "Name": "Astronaut",
+   "action": "add",
+   "note": "New card (debate): Fun floating mime"
+  },
+  {
+   "id": null,
+   "Name": "Firefighter",
+   "action": "add",
+   "note": "New card (debate): Job missing from deck"
+  },
+  {
+   "id": null,
+   "Name": "Deadline",
+   "action": "add",
+   "note": "New card (debate): Relatable abstract noun"
+  },
+  {
+   "id": null,
+   "Name": "Loneliness",
+   "action": "add",
+   "note": "New card (debate): Matches Boredom/Grief level"
+  },
+  {
+   "id": null,
+   "Name": "Homesickness",
+   "action": "add",
+   "note": "New card (debate): Relatable feeling, Nostalgia level"
+  },
+  {
+   "id": null,
+   "Name": "Airport",
+   "action": "add",
+   "note": "New card (debate): Travel place with strong gestures"
+  },
+  {
+   "id": null,
+   "Name": "Library",
+   "action": "add",
+   "note": "New card (debate): Common place, kept over Librarian"
+  },
+  {
+   "id": null,
+   "Name": "Hospital",
+   "action": "add",
+   "note": "New card (debate): Common place missing from deck"
+  },
+  {
+   "id": null,
+   "Name": "Queue",
+   "action": "add",
+   "note": "New card (debate): Easy to act"
+  },
+  {
+   "id": null,
+   "Name": "Doctor",
+   "action": "add",
+   "note": "New card (debate): Verified absent; easy to act"
+  },
+  {
+   "id": null,
+   "Name": "Nurse",
+   "action": "add",
+   "note": "New card (debate): Verified absent"
+  },
+  {
+   "id": null,
+   "Name": "Mechanic",
+   "action": "add",
+   "note": "New card (debate): Great mime, absent"
+  },
+  {
+   "id": null,
+   "Name": "Carpenter",
+   "action": "add",
+   "note": "New card (debate): Clear actions, absent"
+  },
+  {
+   "id": null,
+   "Name": "Soldier",
+   "action": "add",
+   "note": "New card (debate): Army theme allowed; only Toy Soldier exists"
+  },
+  {
+   "id": null,
+   "Name": "Judge",
+   "action": "add",
+   "note": "New card (debate): Universal figure, absent"
+  },
+  {
+   "id": null,
+   "Name": "Wolf",
+   "action": "add",
+   "note": "New card (debate): Howl to act, absent"
+  },
+  {
+   "id": null,
+   "Name": "Fox",
+   "action": "add",
+   "note": "New card (debate): Common animal, absent"
+  },
+  {
+   "id": null,
+   "Name": "Deer",
+   "action": "add",
+   "note": "New card (debate): Drawable antlers, absent"
+  },
+  {
+   "id": null,
+   "Name": "Starfish",
+   "action": "add",
+   "note": "New card (debate): Drawable sea animal, absent"
+  },
+  {
+   "id": null,
+   "Name": "Globe",
+   "action": "add",
+   "note": "New card (debate): Distinct from Map and Snow Globe"
+  },
+  {
+   "id": null,
+   "Name": "Scientist",
+   "action": "add",
+   "note": "New card (debate): Science job, absent"
+  },
+  {
+   "id": null,
+   "Name": "Equator",
+   "action": "add",
+   "note": "New card (debate): Geography noun, fun to describe"
+  },
+  {
+   "id": null,
+   "Name": "Engineer",
+   "action": "add",
+   "note": "New card (debate): Very common job for the audience"
+  },
+  {
+   "id": null,
+   "Name": "Contentment",
+   "action": "add",
+   "note": "New card (debate): Qana'at; abstract noun like Patience/Gratitude, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Generosity",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy to act out by giving."
+  },
+  {
+   "id": null,
+   "Name": "Humility",
+   "action": "add",
+   "note": "New card (debate): Counterpart to existing Pride; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Justice",
+   "action": "add",
+   "note": "New card (debate): Adl; actable (judge, court); not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Leftovers",
+   "action": "add",
+   "note": "New card (debate): Anti-waste, relatable desi household noun."
+  },
+  {
+   "id": null,
+   "Name": "Clutter",
+   "action": "add",
+   "note": "New card (debate): Simplicity theme, fun to act out."
+  },
+  {
+   "id": null,
+   "Name": "Savings",
+   "action": "add",
+   "note": "New card (debate): Thrift/enough-ness; distinct from Gullak."
+  },
+  {
+   "id": null,
+   "Name": "Receipt",
+   "action": "add",
+   "note": "New card (debate): Concrete, drawable, honest trade."
+  },
+  {
+   "id": null,
+   "Name": "Shopping Mall",
+   "action": "add",
+   "note": "New card (debate): Consumer-culture setting, drawable; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Donation Box",
+   "action": "add",
+   "note": "New card (debate): Everyday sadaqah, concrete and drawable."
+  },
+  {
+   "id": null,
+   "Name": "Parents",
+   "action": "add",
+   "note": "New card (debate): Duty to parents; very playable."
+  },
+  {
+   "id": null,
+   "Name": "Grandparents",
+   "action": "add",
+   "note": "New card (debate): Respect for elders; easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Inheritance",
+   "action": "add",
+   "note": "New card (debate): Mirath; describable via will and property."
+  },
+  {
+   "id": null,
+   "Name": "Caravan",
+   "action": "add",
+   "note": "New card (debate): Muslim trade history, drawable."
+  },
+  {
+   "id": null,
+   "Name": "Fajr",
+   "action": "add",
+   "note": "New card (debate): Same register as Iftar/Sehri; relatable waking-up struggle."
+  },
+  {
+   "id": null,
+   "Name": "Billboard",
+   "action": "add",
+   "note": "New card (debate): Advertising/consumerism, drawable."
+  },
+  {
+   "id": null,
+   "Name": "Influencer",
+   "action": "add",
+   "note": "New card (debate): Unboxing culture, social media allowed, no names."
+  },
+  {
+   "id": null,
+   "Name": "Screen Time",
+   "action": "add",
+   "note": "New card (debate): Relatable, phone mimes."
+  },
+  {
+   "id": null,
+   "Name": "Conscience",
+   "action": "add",
+   "note": "New card (debate): Inner accountability; sits with Guilt/Shame."
+  },
+  {
+   "id": null,
+   "Name": "Shopkeeper",
+   "action": "add",
+   "note": "New card (debate): Halal earning, trade noun, easy to act."
+  },
+  {
+   "id": null,
+   "Name": "Ration Bag",
+   "action": "add",
+   "note": "New card (debate): Ramadan charity, Pakistani frame, drawable."
+  },
+  {
+   "id": null,
+   "Name": "Relatives",
+   "action": "add",
+   "note": "New card (debate): Sila rehmi, very relatable; plural precedent exists."
+  },
+  {
+   "id": null,
+   "Name": "Bribe",
+   "action": "add",
+   "note": "New card (debate): Halal earning/honesty, playable mime."
+  },
+  {
+   "id": null,
+   "Name": "Bargain",
+   "action": "add",
+   "note": "New card (debate): Bazaar haggling, fun desi act-out."
+  },
+  {
+   "id": null,
+   "Name": "Volunteer",
+   "action": "add",
+   "note": "New card (debate): Khidmat, community service, playable."
+  },
+  {
+   "id": null,
+   "Name": "Algebra",
+   "action": "add",
+   "note": "New card (debate): Well-known word with accurate Muslim-heritage link (al-Khwarizmi); better than Astrolabe."
   }
  ]
 }

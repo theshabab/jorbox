@@ -5459,6 +5459,312 @@
    "Description": "Get a player to pat your head affectionately, the way a dadi would.",
    "action": "add",
    "note": "New card (debate): Warm non-intimate touch mission; allowed, not a duplicate of other touch cards."
+  },
+  {
+   "id": null,
+   "Description": "Claim that the Sahara is the largest desert in the world and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Antarctica is the largest desert; matches the K2 correction card."
+  },
+  {
+   "id": null,
+   "Description": "Claim that spiders are insects and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate, easy correction mission, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which continent has the most countries.",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment avoids the disputed continent count; Africa is checkable."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name the largest ocean on Earth.",
+   "action": "add",
+   "note": "New card (debate): Clear answer (Pacific), no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a magnifying glass.",
+   "action": "add",
+   "note": "New card (debate): Fits the why-are-you-holding series with a fresh prop."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a ruler.",
+   "action": "add",
+   "note": "New card (debate): Same proven format, familiar object."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a candle.",
+   "action": "add",
+   "note": "New card (debate): Same format, harmless prop, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to correct your pronunciation of 'February'.",
+   "action": "add",
+   "note": "New card (debate): Fits the pronunciation series; commonly misspoken."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to correct your pronunciation of 'Wednesday'.",
+   "action": "add",
+   "note": "New card (debate): Natural silent-d bait, fits series."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what the weather was like on their last holiday.",
+   "action": "add",
+   "note": "New card (debate): Universal travel chat, distinct from the complain-about-weather card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you whether they prefer the sea or the mountains.",
+   "action": "add",
+   "note": "New card (debate): Simple either-or like paratha or naan, works anywhere."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which subject they struggled with most at school.",
+   "action": "add",
+   "note": "New card (debate): Universal school situation, distinct from favourite subject card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what job they would never want to do.",
+   "action": "add",
+   "note": "New card (debate): Everyday jobs theme, easy to steer."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name three things you would find in a first-aid kit.",
+   "action": "add",
+   "note": "New card (debate): Practical general knowledge with a clear outcome."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the days of the week backwards, starting from Sunday.",
+   "action": "add",
+   "note": "New card (debate): Playable brain-teaser parallel to alphabet backwards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the longest journey they have ever taken.",
+   "action": "add",
+   "note": "New card (debate): Universal travel story, distinct from best trip."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you a fun fact they know about animals.",
+   "action": "add",
+   "note": "New card (debate): Nature prompt for any player."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to fold a paper boat with you.",
+   "action": "add",
+   "note": "New card (debate): Harmless craft mission like the paper cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the first pet they ever had.",
+   "action": "add",
+   "note": "New card (debate): Challenger's single clear ask version is better."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain how a rainbow forms.",
+   "action": "add",
+   "note": "New card (debate): Science explanation in the deck's explain-what-X-means style."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many hours of sleep they usually get.",
+   "action": "add",
+   "note": "New card (debate): Relatable habit, easy to steer, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which is the biggest planet in our solar system.",
+   "action": "add",
+   "note": "New card (debate): Jupiter, checkable fact."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name the tallest animal in the world.",
+   "action": "add",
+   "note": "New card (debate): Giraffe, easy general knowledge."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the tallest building in the world.",
+   "action": "add",
+   "note": "New card (debate): Burj Khalifa, world-famous and checkable."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many days there are in a leap year.",
+   "action": "add",
+   "note": "New card (debate): 366, quick checkable fact."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a compass.",
+   "action": "add",
+   "note": "New card (debate): Fresh prop for the proven format; not a magic item."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain how bees make honey.",
+   "action": "add",
+   "note": "New card (debate): Nature explanation, accurate and not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they would give as sadaqah if they had one thousand rupees to spare.",
+   "action": "add",
+   "note": "New card (debate): Charity, no similar live card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name three blessings (naimatein) they are thankful for today.",
+   "action": "add",
+   "note": "New card (debate): Shukr, easy and warm."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the best advice their parents ever gave them.",
+   "action": "add",
+   "note": "New card (debate): Respect for parents; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you something their dadi or nani always says.",
+   "action": "add",
+   "note": "New card (debate): Family elders; distinct from the head-pat card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a relative they enjoy visiting and why.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: warm sila rehmi without guilt-tripping."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the names of their next-door neighbours.",
+   "action": "add",
+   "note": "New card (debate): Amended: clear single checkable action; neighbour rights."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the last time they sent a plate of food to a neighbour.",
+   "action": "add",
+   "note": "New card (debate): Neighbourliness; common habit, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they would do if they found a wallet full of cash on the road.",
+   "action": "add",
+   "note": "New card (debate): Honesty/amanah hypothetical; no live duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to admit they once bought something only because it was on sale and then never used it.",
+   "action": "add",
+   "note": "New card (debate): Light, relatable anti-waste humour."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the oldest thing they own that still works perfectly.",
+   "action": "add",
+   "note": "New card (debate): Contentment story prompt."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to share a clever way their family uses up leftover roti or salan.",
+   "action": "add",
+   "note": "New card (debate): Avoiding waste, very Pakistani."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain what 'riba' (interest) means.",
+   "action": "add",
+   "note": "New card (debate): Amended with hint to be playable; accurate concept."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they did with their first salary or first pocket money.",
+   "action": "add",
+   "note": "New card (debate): Halal earning/spending story; distinct from first-job card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name a Muslim scientist, like Ibn al-Haytham or Al-Khwarizmi.",
+   "action": "add",
+   "note": "New card (debate): Accurate names, pride in Muslim contributions."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which Arabic word the English word 'algebra' comes from (al-jabr).",
+   "action": "add",
+   "note": "New card (debate): Accurate etymology via Al-Khwarizmi's book; answer on the card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Allah kareem hai'.",
+   "action": "add",
+   "note": "New card (debate): Tawakkul phrase matching existing say-a-phrase cards; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what helps them stay patient (sabr) in a long traffic jam.",
+   "action": "add",
+   "note": "New card (debate): Sabr in a funny everyday setting."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about someone whose kindness they have never forgotten.",
+   "action": "add",
+   "note": "New card (debate): Gratitude story card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they are saving up for and why.",
+   "action": "add",
+   "note": "New card (debate): Planning and moderation; distinct from the saving high-five."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about the best Eid they remember with their family.",
+   "action": "add",
+   "note": "New card (debate): Family bonding; distinct from Eidi and Eid dish cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to agree that a simple meal eaten together tastes better than a fancy meal eaten alone.",
+   "action": "add",
+   "note": "New card (debate): Barakah of sharing food; fits agree-with-statement format."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name Fatima al-Fihri, the woman who founded the Al-Qarawiyyin university in Fez.",
+   "action": "add",
+   "note": "New card (debate): Accurate history (859 CE); trivia with answer on card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time they gave up their seat for an elder.",
+   "action": "add",
+   "note": "New card (debate): Respect for elders; distinct from the offer-you-their-seat mission."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who first taught them to read the Quran.",
+   "action": "add",
+   "note": "New card (debate): Warm worship-adjacent story; teacher not covered live."
   }
  ]
 }
