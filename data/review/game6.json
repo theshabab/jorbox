@@ -2723,15 +2723,15 @@
   },
   {
    "id": null,
-   "Description": "Things About Pakistani Summer",
+   "Description": "Things You Associate With Pakistani Summer (Aam, Lassi, Load Shedding...)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Vague 'Things About' becomes a clear, playable frame with examples."
   },
   {
    "id": null,
-   "Description": "Things About Pakistani Winter",
+   "Description": "Things You Associate With Pakistani Winter (Gajar Halwa, Razai, Fog...)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Same fix as the summer card; parallel wording."
   },
   {
    "id": null,
@@ -4640,6 +4640,24 @@
    "Description": "Pakistani Surnames",
    "action": "add",
    "note": "New card (debate): Challenger's version drops 'Castes' to avoid a biradari argument and drops answer-giving examples; first-name cards do not cover this."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Flat",
+   "action": "add",
+   "note": "New card (debate): Many easy everyday answers; no flat-property card exists."
+  },
+  {
+   "id": null,
+   "Description": "Dishes Made With Fish (Machli)",
+   "action": "add",
+   "note": "New card (debate): Fills a gap beside Fish Types; enough well-known answers (fry, tikka, curry, pakoray, fingers, biryani)."
+  },
+  {
+   "id": null,
+   "Description": "Blessed Days and Nights in Islam (Jummah, Shab-e-Qadr, Arafah...)",
+   "action": "add",
+   "note": "New card (debate): Accurate Islamic card with many familiar answers, distinct from Public Holidays."
   }
  ]
 }

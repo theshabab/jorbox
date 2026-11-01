@@ -7106,6 +7106,18 @@
    "Name": "Name something you do before a guest arrives.",
    "action": "add",
    "note": "New card (debate): Distinct from 'served to guests' and 'when guests arrive without warning'; common clustered answers (clean, cook, set the table)."
+  },
+  {
+   "id": null,
+   "Name": "Name a part of a school uniform.",
+   "action": "add",
+   "note": "New card (debate): No uniform card exists in the deck or the review file. Answers (tie, shirt, blazer, shoes, socks) converge well."
+  },
+  {
+   "id": null,
+   "Name": "Name something you keep in your pocket.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the wallet-contents card. Answers (phone, keys, wallet, rumaal) converge well."
   }
  ]
 }

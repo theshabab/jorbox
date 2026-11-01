@@ -11519,6 +11519,36 @@
    "Name": "Orchard",
    "action": "add",
    "note": "New card (debate): Distinct place noun, easy to draw, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Mihrab",
+   "action": "add",
+   "note": "New card (debate): Prayer niche in a mosque; not in deck. Challenger's standard spelling used."
+  },
+  {
+   "id": null,
+   "Name": "Apricot",
+   "action": "add",
+   "note": "New card (debate): Hunza fruit, not in deck, easy to draw and describe."
+  },
+  {
+   "id": null,
+   "Name": "Drought",
+   "action": "add",
+   "note": "New card (debate): Not in deck; natural counterpart to Flood, easy to describe."
+  },
+  {
+   "id": null,
+   "Name": "Hafiz",
+   "action": "add",
+   "note": "New card (debate): Respectful local noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Hostel",
+   "action": "add",
+   "note": "New card (debate): Everyday student-life noun, no lodging card in deck."
   }
  ]
 }
