@@ -1198,6 +1198,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1196','game1','Takht-i-Bahi','Buddhist monastery ruins near Mardan','Historical Places');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1197','game1','Waiter','Brings food and bills to restaurant tables','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1198','game1','Mufti','Scholar who gives rulings on Islamic questions','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1199','game1','Speed Breaker','Raised hump on a road that slows cars','Transport');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1200','game1','Pickup','Open-backed goods vehicle like a Suzuki Bolan','Transport');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1201','game1','Bail Gari','Village cart pulled by oxen','Transport');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1202','game1','Duster','Wipes chalk off the classroom board','Stationery');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1203','game1','Whiteboard','Teacher writes on it with markers','Stationery');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1204','game1','Pencil Case','Zip box for a student''s geometry set','Stationery');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1205','game1','Sticky Notes','Yellow peel-off paper reminders','Stationery');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1206','game1','Lavender','Pale purple shade, also a fragrant flower','Colors');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1207','game1','Knuckle','Finger joint that cracks when you make a fist','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1208','game1','Throat','Where a sore feels when you swallow (Gala)','Body Parts');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
