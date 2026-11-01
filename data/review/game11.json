@@ -7842,6 +7842,181 @@
    "Description": "Optician",
    "action": "add",
    "note": "New card (debate): Human-body (eyes) customer not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Call Centre Agent",
+   "action": "add",
+   "note": "New card (debate): Not in deck; universally recognisable."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bank Manager",
+   "action": "add",
+   "note": "New card (debate): Only Bank Robber exists; distinct money customer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Freelancer",
+   "action": "add",
+   "note": "New card (debate): Fresh modern work customer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Olive Farmer",
+   "action": "add",
+   "note": "New card (debate): Wider Muslim world flavour, respectful, playable."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Silk Road Trader",
+   "action": "add",
+   "note": "New card (debate): Accurate trade-history customer, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Qurbani Meat Distributor",
+   "action": "add",
+   "note": "New card (debate): Fresh community customer distinct from Qasai."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mohalla Committee Treasurer",
+   "action": "add",
+   "note": "New card (debate): Community plus money, locally recognisable, no treasurer in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bahu in a Joint Family",
+   "action": "add",
+   "note": "New card (debate): Family angle; natural counterpart to Saas."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Turkish Carpet Seller",
+   "action": "add",
+   "note": "New card (debate): Wider Muslim world trader, fun pitch."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our office printer jams every time I need _____!",
+   "action": "add",
+   "note": "New card (debate): No printer card in deck; universal work frustration."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My video call freezes right when I explain _____!",
+   "action": "add",
+   "note": "New card (debate): Fresh modern work scenario."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My salary is finished by the 10th because of _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version uses the deck's complaint pattern."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Al-Idrisi drew a map of the world in 1154, and I still can't find my way to _____!",
+   "action": "add",
+   "note": "New card (debate): Accurate Tabula Rogeriana fact, funny blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Al-Jazari built mechanical robots 800 years ago, yet my _____ still doesn't work!",
+   "action": "add",
+   "note": "New card (debate): Accurate (1206 automata book), proud and pitchable."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Abdul Sattar Edhi wore simple clothes for years, while I can't wear the same _____ twice!",
+   "action": "add",
+   "note": "New card (debate): Respectful, affectionate worldview card on simplicity."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "At Hajj millions wear simple white ihram, but at weddings my family competes over _____!",
+   "action": "add",
+   "note": "New card (debate): Equality versus status competition, relatable."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Zakat is due this Ramadan and I just realised how much I spent on _____!",
+   "action": "add",
+   "note": "New card (debate): No zakat problem card in deck; gentle and relatable."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every Bakra Eid we share the meat in three parts, but my relatives only want _____!",
+   "action": "add",
+   "note": "New card (debate): New angle on qurbani sharing, family humour."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our mohalla meeting lasted three hours and we only decided on _____!",
+   "action": "add",
+   "note": "New card (debate): Fresh community situation."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Fraud callers keep telling me I won a prize if I share my _____!",
+   "action": "add",
+   "note": "New card (debate): Common local scam, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The price of _____ doubled between Monday and Thursday!",
+   "action": "add",
+   "note": "New card (debate): General inflation angle, distinct from petrol/mandi cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our family WhatsApp group sends Jummah Mubarak pictures of _____!",
+   "action": "add",
+   "note": "New card (debate): Fresh affectionate family/social-media angle."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Chartered Accountant",
+   "action": "add",
+   "note": "New card (debate): Money and work customer absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My relatives expect me to give Eidi to _____!",
+   "action": "add",
+   "note": "New card (debate): Family and money angle, distinct from existing Eidi cards."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Orphanage Caretaker",
+   "action": "add",
+   "note": "New card (debate): Respectful community and charity customer."
   }
  ]
 }

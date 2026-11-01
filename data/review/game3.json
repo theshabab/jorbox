@@ -11873,6 +11873,270 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Body and gratitude angle."
+  },
+  {
+   "id": null,
+   "Name": "Famous Mosques of the World",
+   "Description": "Blue Mosque|Suleymaniye Mosque|Sheikh Zayed Mosque|Hassan II Mosque|Umayyad Mosque|Al-Azhar Mosque|Istiqlal Mosque|Sultan Qaboos Grand Mosque|Masjid Negara|Imam Mosque Isfahan|Muhammad Ali Mosque|Jama Masjid Delhi|Great Mosque of Xi'an|Jumeirah Mosque|Great Mosque of Cordoba|Grand Mosque of Algiers",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's recognisable list; fills wider Muslim world gap, excludes Holy Sites."
+  },
+  {
+   "id": null,
+   "Name": "Dishes of the Muslim World",
+   "Description": "Kabsa|Mansaf|Couscous|Falafel|Hummus|Tagine|Rendang|Nasi Goreng|Shakshuka|Fattoush|Tabbouleh|Satay|Baba Ghanoush|Dolma|Pita Bread",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version; Shawarma dropped as it overlaps Street Food."
+  },
+  {
+   "id": null,
+   "Name": "Traditional Dress of the Muslim World",
+   "Description": "Thobe|Abaya|Kaftan|Djellaba|Ghutra|Agal|Fez|Kufi|Chador|Niqab|Bisht|Jilbab",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version; Hijab dropped to avoid overlap with Women's Clothing."
+  },
+  {
+   "id": null,
+   "Name": "Trades of the Mohalla",
+   "Description": "Halwai|Chowkidar|Mali|Mistri|Gawala|Pansari|Kasai|Kabari Wala|Hakeem|Sabzi Wala|Darzi|Chai Wala|Anda Wala|Qulfi Wala",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Avoids caste-linked labels; fresh local work angle."
+  },
+  {
+   "id": null,
+   "Name": "Islamic Money Terms",
+   "Description": "Zakat|Sadaqah|Riba|Waqf|Amanah|Qarz-e-Hasna|Nisab|Fitrana|Mirath|Wasiyyah|Bait ul Maal|Fidya|Kaffarah|Takaful|Rizq|Barakah|Infaq|Israf|Halal Rozi",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Worldview money vocabulary, more accessible words."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Job Interview",
+   "Description": "CV|Interview Panel|Cover Letter|Reference|Waiting Room|Receptionist|Salary Expectation|Formal Shirt|Tie|Original Certificates|CNIC Copy|Appointment Letter|HR Manager|Probation|Passport Photo|Sifarish|Experience Letter|Visiting Card|File Folder|Glass of Water",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Hiring scene gap; concrete local items."
+  },
+  {
+   "id": null,
+   "Name": "Monthly Household Bills and Expenses",
+   "Description": "Electricity Bill|Gas Bill|Water Bill|House Rent|School Fees|Internet|Mobile Load|Petrol|Groceries|Maid Salary|Doctor Fees|Committee Instalment|Maintenance Charges|Dudh Wala|Cable Bill|Van Fare|Sadaqah|Medicines|Gas Cylinder",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Money/family topic with duplicates removed."
+  },
+  {
+   "id": null,
+   "Name": "Things When Mehmaan Arrive",
+   "Description": "Chai Trolley|Good Crockery|Mithai Box|Sofa Covers|Dastarkhwan|Rooh Afza|Samosa|Drawing Room|Air Freshener|Biscuit Tin|Khajoor|Dry Fruit Tray|Fruit Chaat|Gifts for Kids|Door Bell|Tissue Box|Cold Drink Bottles|Salam|Sweet Dish",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local hospitality angle, spelling fixed."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about a big family is...",
+   "Description": "The hardest thing about a big family is...|The best thing about being an only child is...|The best thing about my neighbourhood is...|The most chaotic thing about family weddings is...|The best thing about being the eldest is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New family angle."
+  },
+  {
+   "id": null,
+   "Name": "A skill I wish my elders had taught me is...",
+   "Description": "A skill I taught my parents is...|A skill I learned from my grandmother is...|A skill every child should learn before ten is...|A skill I would love to learn this year is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Generational angle distinct from the generic skill card."
+  },
+  {
+   "id": null,
+   "Name": "The hardest job in the world is probably...",
+   "Description": "The easiest job in the world is probably...|The job with the most respect is...|A job I could do for free is...|The job that deserves a higher salary is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Work prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "The best thing to do with extra money at the end of the month is...",
+   "Description": "The first thing I would cut from my monthly spending is...|The best thing to do with Eidi money is...|Something worth saving money for is...|Something not worth paying for is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Money prompt with gentle worldview."
+  },
+  {
+   "id": null,
+   "Name": "The Muslim country I most want to visit is...",
+   "Description": "The Muslim country with the best food is probably...|The Muslim city with the best architecture is probably...|A country I want to visit is...|The city I most want to pray in is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Wider Muslim world prompt."
+  },
+  {
+   "id": null,
+   "Name": "The best thing a boss can say to staff is...",
+   "Description": "The worst thing a boss can say on Friday evening is...|The best thing a teacher can say to students is...|The best thing a parent can say to a child is...|The thing a boss says before a pay raise is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable work prompt."
+  },
+  {
+   "id": null,
+   "Name": "The best way to repay a favour is...",
+   "Description": "The best way to thank a neighbour is...|The best way to say sorry to a relative is...|The best way to thank my parents is...|The best way to repay a loan is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Gratitude/community prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I know the names of all my neighbours.",
+   "Description": "I have never been inside a neighbour's house.|I send food to my neighbours on special days.|I would lend sugar to a neighbour at midnight.|I have a neighbour I try to avoid.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Community rating statement."
+  },
+  {
+   "id": null,
+   "Name": "A joint family is better than a nuclear family.",
+   "Description": "I enjoy having cousins always around.|I would love my own room without sharing.|Living with grandparents is a blessing.|Big families are too noisy.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Good debate hook, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I would take a lower salary to live close to my parents.",
+   "Description": "I would work abroad for double the salary.|I'd take any job that pays well.|I would rather run my own business than work for a boss.|I could work in the same office for twenty years.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Challenger reframe is less preachy and debatable."
+  },
+  {
+   "id": null,
+   "Name": "I know exactly how much money is in my wallet right now.",
+   "Description": "I never carry cash anymore.|I always find forgotten notes in old pockets.|I keep a written record of what I spend.|I lend money without keeping count.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable money rating."
+  },
+  {
+   "id": null,
+   "Name": "Your boss asks you to write a slightly higher figure on a bill so the company can claim more. You...",
+   "Description": "refuse politely|do it just this once|report it",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Honest work dilemma."
+  },
+  {
+   "id": null,
+   "Name": "A relative you rarely speak to asks for a loan of Rs. 20,000, and you doubt they will repay. You...",
+   "Description": "give it as a gift instead|lend it and write it down|politely say no",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Family and money dilemma."
+  },
+  {
+   "id": null,
+   "Name": "Your elderly aunt insists on giving you Eidi even though you are a grown adult with a job. You...",
+   "Description": "accept with a smile|politely refuse|accept and slip it back later",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Light local family scenario."
+  },
+  {
+   "id": null,
+   "Name": "At the end of the month you have Rs. 5,000 spare. Most of it goes to...",
+   "Description": "savings|someone in need|something I have been wanting",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Non-judgemental money values card."
+  },
+  {
+   "id": null,
+   "Name": "Draw three generations of a family.",
+   "Description": "Draw a family photo.|Draw your family tree.|Draw a grandfather and grandson.|Draw a happy married couple.|Draw a school reunion.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Family drawing."
+  },
+  {
+   "id": null,
+   "Name": "Draw a shopkeeper waiting for customers.",
+   "Description": "Draw a customer bargaining.|Draw an empty shop.|Draw a busy cashier.|Draw a shop shutter closing.|Draw a vendor with a thela.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local work scene."
+  },
+  {
+   "id": null,
+   "Name": "Things in an Office",
+   "Description": "Photocopier|Boardroom|Cubicle|Whiteboard|Attendance Machine|Office Boy|Water Dispenser|Salary Slip|Leave Application|Printer|Lanyard|Notice Board|Laptop|Lunch Break|Appraisal|Boss's Cabin|Wi-Fi Password|Chai Break|Meeting Room",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Private office gap; Visiting Card removed to avoid overlap with interview card."
+  },
+  {
+   "id": null,
+   "Name": "Things in a Joint Family Home",
+   "Description": "Dada Abu|Dadi Jaan|Shared Kitchen|Long Dastarkhwan|Chappal Pile|Cousins|Charpai|Courtyard|Common Lounge|Water Tank|Ammi's Almari|Chacha|Phupho|Kids' Cricket|Storeroom|Rooftop|Chabiyan Bunch|Big Tray of Chai",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Joint family life, new."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Charity Drive",
+   "Description": "Donation Box|Ration Bags|Volunteers|Receipt Book|Collection Tent|Banner|Winter Blankets|Flood Relief Truck|Iftar Dastarkhwan|Registration Desk|Medical Camp|Water Cooler|Qurbani Hissa|School Bags|Clothes Bundles|Fundraising Dinner",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Community charity scene."
+  },
+  {
+   "id": null,
+   "Name": "A habit that helps me save money is...",
+   "Description": "A habit that wastes my money is...|A habit I picked up from my parents is...|A habit I want to quit is...|A habit that helps me stay calm is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Money Writing gap."
+  },
+  {
+   "id": null,
+   "Name": "A contribution of Muslim civilisation the world still uses is...",
+   "Description": "An invention I could not live without is...|A word English borrowed from Arabic is...|A contribution of my grandparents' generation is...|The most useful thing taught in school is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Wider Muslim world pride prompt."
+  },
+  {
+   "id": null,
+   "Name": "A colleague takes credit for your project in front of the boss. You...",
+   "Description": "speak to them privately|calmly tell the boss the facts|let it go and trust Allah sees your work",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Work dilemma."
+  },
+  {
+   "id": null,
+   "Name": "I would rather run a small shop of my own than work in an office.",
+   "Description": "I prefer a fixed salary to a risky business.|I would love to work for the government.|I could never work for someone else.|My family would want me to take a safe job.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Business vs job debate."
+  },
+  {
+   "id": null,
+   "Name": "Draw a person whose salary has just arrived.",
+   "Description": "Draw a person with an empty wallet.|Draw a long queue at an ATM.|Draw a piggy bank.|Draw a person counting notes.|Draw a shopping spree.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Money scene drawing."
   }
  ]
 }

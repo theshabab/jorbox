@@ -30745,6 +30745,398 @@
    "Category": "Rightly Guided Caliphs (Start of Caliphate)",
    "action": "add",
    "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Basra",
+   "Description": "c. 636 CE - garrison city founded under Caliph Umar in Iraq",
+   "Category": "Cities Founded by Muslims (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger amend: approximate date, no (RA) per deck style."
+  },
+  {
+   "id": null,
+   "Name": "Fustat",
+   "Description": "c. 641 CE - Amr ibn al-As founds the first Muslim capital of Egypt",
+   "Category": "Cities Founded by Muslims (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate; deck style."
+  },
+  {
+   "id": null,
+   "Name": "Kairouan",
+   "Description": "670 CE - founded by Uqba ibn Nafi in Tunisia",
+   "Category": "Cities Founded by Muslims (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Samarra",
+   "Description": "836 CE - Caliph al-Mu'tasim moves the Abbasid capital here from Baghdad",
+   "Category": "Cities Founded by Muslims (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Replaces Baghdad, which is already live in World Cities By Date Founded."
+  },
+  {
+   "id": null,
+   "Name": "Madinat al-Zahra",
+   "Description": "c. 936 CE - Abd al-Rahman III begins his palace-city near Cordoba",
+   "Category": "Cities Founded by Muslims (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Replaces Cairo, which is already live in World Cities By Date Founded."
+  },
+  {
+   "id": null,
+   "Name": "French Invasion of Algeria",
+   "Description": "1830 - French troops land near Algiers and begin the conquest",
+   "Category": "Colonial Era in the Muslim World (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Tighter wording; avoids repeating the independence card."
+  },
+  {
+   "id": null,
+   "Name": "British Occupation of Egypt",
+   "Description": "1882 - after the Battle of Tel el-Kebir",
+   "Category": "Colonial Era in the Muslim World (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate; fills worldview history."
+  },
+  {
+   "id": null,
+   "Name": "Italian Invasion of Libya",
+   "Description": "1911 - Italy attacks Ottoman Tripolitania",
+   "Category": "Colonial Era in the Muslim World (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate, checkable."
+  },
+  {
+   "id": null,
+   "Name": "Sykes-Picot Agreement",
+   "Description": "1916 - Britain and France secretly plan to divide Ottoman Arab lands",
+   "Category": "Colonial Era in the Muslim World (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate system-level colonial history."
+  },
+  {
+   "id": null,
+   "Name": "Abolition of the Caliphate",
+   "Description": "1924 - Turkish Grand National Assembly ends the Ottoman caliphate (3 March)",
+   "Category": "Colonial Era in the Muslim World (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate; distinct from the 1922 sultanate card."
+  },
+  {
+   "id": null,
+   "Name": "Form the Group",
+   "Description": "1st - friends or relatives agree on the number of members and the monthly amount",
+   "Category": "How a BC Committee Works (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Local money life; no BC content in deck."
+  },
+  {
+   "id": null,
+   "Name": "Decide the Turns",
+   "Description": "2nd - the payout order is agreed or names are drawn from a bowl",
+   "Category": "How a BC Committee Works (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Fixes step order; neutral wording avoiding gambling connotation."
+  },
+  {
+   "id": null,
+   "Name": "Collect the Money",
+   "Description": "3rd - every month each member hands the same amount to the organiser",
+   "Category": "How a BC Committee Works (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Order fixed so the answer is undisputed."
+  },
+  {
+   "id": null,
+   "Name": "Receive the Lump Sum",
+   "Description": "4th - that month's member takes the whole amount, with no interest charged",
+   "Category": "How a BC Committee Works (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Avoids 'pot' gambling wording; keeps riba-free point."
+  },
+  {
+   "id": null,
+   "Name": "Last Member Gets Paid",
+   "Description": "5th - the committee ends once every member has had a turn",
+   "Category": "How a BC Committee Works (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Natural final step."
+  },
+  {
+   "id": null,
+   "Name": "Pardada",
+   "Description": "1st - Abbu's grandfather",
+   "Category": "Family Tree (Oldest to Youngest Generation)",
+   "action": "add",
+   "note": "New card (debate): Correct Urdu kinship, relatable."
+  },
+  {
+   "id": null,
+   "Name": "Dada",
+   "Description": "2nd - Abbu's father",
+   "Category": "Family Tree (Oldest to Youngest Generation)",
+   "action": "add",
+   "note": "New card (debate): Correct."
+  },
+  {
+   "id": null,
+   "Name": "Abbu",
+   "Description": "3rd - the one all the others are counted from",
+   "Category": "Family Tree (Oldest to Youngest Generation)",
+   "action": "add",
+   "note": "New card (debate): Anchor card."
+  },
+  {
+   "id": null,
+   "Name": "Beta",
+   "Description": "4th - Abbu's son",
+   "Category": "Family Tree (Oldest to Youngest Generation)",
+   "action": "add",
+   "note": "New card (debate): Correct."
+  },
+  {
+   "id": null,
+   "Name": "Pota",
+   "Description": "5th - Abbu's grandson, his son's son",
+   "Category": "Family Tree (Oldest to Youngest Generation)",
+   "action": "add",
+   "note": "New card (debate): Correct."
+  },
+  {
+   "id": null,
+   "Name": "Write a CV",
+   "Description": "1st - list your education, skills and experience on a page",
+   "Category": "Getting a Job (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Work theme; no job category exists."
+  },
+  {
+   "id": null,
+   "Name": "Apply",
+   "Description": "2nd - send the CV to the company or hand it in at the office",
+   "Category": "Getting a Job (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Fine."
+  },
+  {
+   "id": null,
+   "Name": "Interview",
+   "Description": "3rd - answer the manager's questions face to face",
+   "Category": "Getting a Job (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Fine."
+  },
+  {
+   "id": null,
+   "Name": "Offer Letter",
+   "Description": "4th - the company says yes and states the salary and terms",
+   "Category": "Getting a Job (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Fine."
+  },
+  {
+   "id": null,
+   "Name": "First Salary",
+   "Description": "5th - your first halal pay at the end of the month",
+   "Category": "Getting a Job (Step by Step)",
+   "action": "add",
+   "note": "New card (debate): Light halal-earning note."
+  },
+  {
+   "id": null,
+   "Name": "Barter",
+   "Description": "1st - swapping goods directly, such as wheat for cloth",
+   "Category": "Money Through History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): No money-history category in deck."
+  },
+  {
+   "id": null,
+   "Name": "Metal Coins",
+   "Description": "2nd - Lydia (modern Turkey) strikes some of the first coins, c. 600 BC",
+   "Category": "Money Through History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate, hedged."
+  },
+  {
+   "id": null,
+   "Name": "Paper Money",
+   "Description": "3rd - Song-dynasty China issues the first notes, early 11th century",
+   "Category": "Money Through History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Cash Machine (ATM)",
+   "Description": "4th - the first one opens in London in 1967",
+   "Category": "Money Through History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Mobile Wallet",
+   "Description": "5th - Easypaisa launches in Pakistan in 2009",
+   "Category": "Money Through History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Local endpoint, correct date."
+  },
+  {
+   "id": null,
+   "Name": "Tariq ibn Ziyad Crosses to Spain",
+   "Description": "711 CE - lands at Gibraltar (Jabal Tariq) and defeats King Roderic",
+   "Category": "Al-Andalus (Muslim Spain) Timeline",
+   "action": "add",
+   "note": "New card (debate): Fills Muslim Spain gap; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Emirate of Cordoba",
+   "Description": "756 CE - Abd al-Rahman I founds Umayyad rule in Spain",
+   "Category": "Al-Andalus (Muslim Spain) Timeline",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Caliphate of Cordoba",
+   "Description": "929 CE - Abd al-Rahman III takes the title of caliph",
+   "Category": "Al-Andalus (Muslim Spain) Timeline",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Fall of Toledo",
+   "Description": "1085 CE - Alfonso VI of Castile takes the city",
+   "Category": "Al-Andalus (Muslim Spain) Timeline",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Fall of Granada",
+   "Description": "1492 CE - the last Muslim kingdom in Spain ends",
+   "Category": "Al-Andalus (Muslim Spain) Timeline",
+   "action": "add",
+   "note": "New card (debate): Accurate; ends sequence."
+  },
+  {
+   "id": null,
+   "Name": "Sehri",
+   "Description": "1st - the pre-dawn meal before the fast begins",
+   "Category": "A Day in Ramadan (In Order)",
+   "action": "add",
+   "note": "New card (debate): Universal and relatable; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Fajr Prayer",
+   "Description": "2nd - the dawn prayer, and the fast has begun",
+   "Category": "A Day in Ramadan (In Order)",
+   "action": "add",
+   "note": "New card (debate): Fine."
+  },
+  {
+   "id": null,
+   "Name": "Fasting Through the Day",
+   "Description": "3rd - hours of work, school and patience with an empty stomach",
+   "Category": "A Day in Ramadan (In Order)",
+   "action": "add",
+   "note": "New card (debate): Fine."
+  },
+  {
+   "id": null,
+   "Name": "Iftar",
+   "Description": "4th - breaking the fast at the Maghrib adhan, often with dates and water",
+   "Category": "A Day in Ramadan (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Taraweeh",
+   "Description": "5th - the special night prayer after Isha",
+   "Category": "A Day in Ramadan (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Ratti",
+   "Description": "1st - about 0.12 g, a tiny seed-weight used by goldsmiths",
+   "Category": "Desi Weights (Light to Heavy)",
+   "action": "add",
+   "note": "New card (debate): Local trade life; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Masha",
+   "Description": "2nd - about 1 g, equal to 8 rattis",
+   "Category": "Desi Weights (Light to Heavy)",
+   "action": "add",
+   "note": "New card (debate): Standard relation."
+  },
+  {
+   "id": null,
+   "Name": "Tola",
+   "Description": "3rd - about 11.7 g, the unit used for gold, equal to 12 mashas",
+   "Category": "Desi Weights (Light to Heavy)",
+   "action": "add",
+   "note": "New card (debate): Very familiar unit."
+  },
+  {
+   "id": null,
+   "Name": "Seer",
+   "Description": "4th - roughly 0.9 to 1 kg, traditionally 80 tolas",
+   "Category": "Desi Weights (Light to Heavy)",
+   "action": "add",
+   "note": "New card (debate): Range widened for accuracy (80 tolas is about 933 g)."
+  },
+  {
+   "id": null,
+   "Name": "Maund (Man)",
+   "Description": "5th - roughly 37 to 40 kg, 40 seers, a grain-sack weight",
+   "Category": "Desi Weights (Light to Heavy)",
+   "action": "add",
+   "note": "New card (debate): Order safe despite regional variation."
+  },
+  {
+   "id": null,
+   "Name": "Ghusl (Washing the Body)",
+   "Description": "1st - the family or community washes the deceased with respect",
+   "Category": "Janazah Steps (In Order)",
+   "action": "add",
+   "note": "New card (debate): Uncontested order; mildly dark is allowed."
+  },
+  {
+   "id": null,
+   "Name": "Kafan (Shroud)",
+   "Description": "2nd - the body is wrapped in simple white cloth",
+   "Category": "Janazah Steps (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Salat al-Janazah",
+   "Description": "3rd - prayed standing together, with no ruku or sujood",
+   "Category": "Janazah Steps (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate."
+  },
+  {
+   "id": null,
+   "Name": "Burial",
+   "Description": "4th - laid in the grave facing the qibla",
+   "Category": "Janazah Steps (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate; ends sequence."
   }
  ]
 }

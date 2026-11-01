@@ -6119,6 +6119,174 @@
    "Description": "Claim that the Moon makes its own light and get a player to correct you.",
    "action": "add",
    "note": "New card (debate): Accurate space myth."
+  },
+  {
+   "id": null,
+   "Description": "Claim that Sydney is the capital of Australia and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Canberra is the capital; common misconception; matches deck format; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Claim that Istanbul is the capital of Turkey and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Ankara is the capital; Muslim-world geography; fresh."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what their parents or grandparents did for a living.",
+   "action": "add",
+   "note": "New card (debate): Family and work story prompt not covered by first-job or origin cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how they keep track of what they spend each month.",
+   "action": "add",
+   "note": "New card (debate): Money habits; no budgeting card in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which country has the largest Muslim population.",
+   "action": "add",
+   "note": "New card (debate): Indonesia; checkable Muslim-world trivia."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which country the Alhambra palace stands.",
+   "action": "add",
+   "note": "New card (debate): Spain (Granada); respectful heritage trivia; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which city Al-Aqsa Mosque is located.",
+   "action": "add",
+   "note": "New card (debate): Jerusalem; easy and respectful; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which Muslim commander took back Jerusalem in 1187.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version without the hint; Salahuddin Ayyubi."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many times pilgrims walk between Safa and Marwa during Hajj or Umrah.",
+   "action": "add",
+   "note": "New card (debate): Seven; established worship knowledge; allowed."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what the Prophet (peace be upon him) said about paying a worker before his sweat dries.",
+   "action": "add",
+   "note": "New card (debate): Amended clearer wording; Ibn Majah hadith on fair wages; worldview."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who the Prophet (peace be upon him) said an honest and trustworthy trader will be with on the Day of Judgement.",
+   "action": "add",
+   "note": "New card (debate): Amended; Tirmidhi hadith: prophets, the truthful and the martyrs; worldview on honest earning."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what percentage of qualifying savings is given as zakat each year.",
+   "action": "add",
+   "note": "New card (debate): 2.5 percent; well established; zakat absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time they decided not to buy something they wanted, and how it felt.",
+   "action": "add",
+   "note": "New card (debate): Contentment story prompt without lecturing."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time a small amount of money lasted far longer than expected (barakah).",
+   "action": "add",
+   "note": "New card (debate): Barakah in rizq; warm and absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you where they pray Zuhr when they are at work, university or school.",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related personal question; fresh work and community angle."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time they had to wait for payday to repay a friend or relative.",
+   "action": "add",
+   "note": "New card (debate): Challenger's lighter story framing; avoids shaming over debt."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you one thing their family does to stay in touch with distant relatives (sila rehmi).",
+   "action": "add",
+   "note": "New card (debate): Kinship ties worldview; not duplicate of visit/cousin cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who in their family is the unofficial tech support.",
+   "action": "add",
+   "note": "New card (debate): Relatable and funny family card; none in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of their family WhatsApp group.",
+   "action": "add",
+   "note": "New card (debate): Local family humour; no family-group card exists."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a relative who works in Dubai, Saudi Arabia or another Gulf country.",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani overseas-work story; Gulf absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a time their mohalla came together to help a family in need.",
+   "action": "add",
+   "note": "New card (debate): Collective community help; not covered by neighbour cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which relative always asks how much they earn.",
+   "action": "add",
+   "note": "New card (debate): Affectionate, local, fresh work and money card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how their family shares the meat on Eid-ul-Adha.",
+   "action": "add",
+   "note": "New card (debate): Framed as family practice, no fiqh claim; fresh next to goat-naming card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about their first ride on a qingqi, rickshaw or local wagon to work or college.",
+   "action": "add",
+   "note": "New card (debate): Pakistani commuting story; qingqi absent; different from impression card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which city the Prophet's Mosque (Masjid an-Nabawi) stands.",
+   "action": "add",
+   "note": "New card (debate): Madinah; easy respectful trivia; absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what their family does when an electricity or gas bill comes that is far bigger than expected.",
+   "action": "add",
+   "note": "New card (debate): Relatable local money and family card; distinct from load shedding and saving cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about their most nervous job or admission interview.",
+   "action": "add",
+   "note": "New card (debate): Universal work story; no interview card in deck."
+  },
+  {
+   "id": null,
+   "Description": "Claim that the Nile flows through Pakistan and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): World geography in established Claim format; Indus is the Pakistani river."
   }
  ]
 }

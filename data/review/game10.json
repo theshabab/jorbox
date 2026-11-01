@@ -6800,6 +6800,180 @@
    "Name": "Name something your body does when you are scared.",
    "action": "add",
    "note": "New card (debate): Heart racing, sweating, shaking, goosebumps; fun body card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you find on an office desk.",
+   "action": "add",
+   "note": "New card (debate): No office card in deck; answers converge."
+  },
+  {
+   "id": null,
+   "Name": "Name a job where people start work before sunrise.",
+   "action": "add",
+   "note": "New card (debate): Fresh angle, matchable answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do on your first day at a new job.",
+   "action": "add",
+   "note": "New card (debate): Universal, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a skilled worker you need when building a house.",
+   "action": "add",
+   "note": "New card (debate): No building-trades card; converges."
+  },
+  {
+   "id": null,
+   "Name": "Name a document you have to renew every few years.",
+   "action": "add",
+   "note": "New card (debate): Not in deck; passport/CNIC/licence converge."
+  },
+  {
+   "id": null,
+   "Name": "Name a reason people take a day off work.",
+   "action": "add",
+   "note": "New card (debate): Not in deck; converges."
+  },
+  {
+   "id": null,
+   "Name": "Name something a good boss does.",
+   "action": "add",
+   "note": "New card (debate): Harmless, converges, not preachy."
+  },
+  {
+   "id": null,
+   "Name": "Name a Muslim-majority country that is not in the Arab world, other than Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment avoids the trivial Pakistan answer; wider Muslim world."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous dish from Turkey or the Arab world.",
+   "action": "add",
+   "note": "New card (debate): Not in deck; well-known halal dishes."
+  },
+  {
+   "id": null,
+   "Name": "Name a city in Turkey.",
+   "action": "add",
+   "note": "New card (debate): Turkey absent from deck; Istanbul/Ankara converge."
+  },
+  {
+   "id": null,
+   "Name": "Name a place pilgrims visit in Makkah or Madinah.",
+   "action": "add",
+   "note": "New card (debate): Accurate, well known; existing cards cover packing and souvenirs only."
+  },
+  {
+   "id": null,
+   "Name": "Name a Muslim country where many Pakistanis go to work.",
+   "action": "add",
+   "note": "New card (debate): Local life and Muslim world; no Gulf-work card."
+  },
+  {
+   "id": null,
+   "Name": "Name a halal way to earn a living.",
+   "action": "add",
+   "note": "New card (debate): Positive worldview card, converges."
+  },
+  {
+   "id": null,
+   "Name": "Name a good way to use your first salary.",
+   "action": "add",
+   "note": "New card (debate): Worldview and money, relatable."
+  },
+  {
+   "id": null,
+   "Name": "Name something wise to do before a big purchase.",
+   "action": "add",
+   "note": "New card (debate): Gentle worldview, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something people in Pakistan buy on installments (qist).",
+   "action": "add",
+   "note": "New card (debate): Local, neutral, converges."
+  },
+  {
+   "id": null,
+   "Name": "Name an occasion when the whole mohalla comes together.",
+   "action": "add",
+   "note": "New card (debate): Community; no mohalla card."
+  },
+  {
+   "id": null,
+   "Name": "Name something elders say when they meet you after a long time.",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: funny, relatable, avoids overlap with the parents/adab card."
+  },
+  {
+   "id": null,
+   "Name": "Name something at home that you bought but hardly use.",
+   "action": "add",
+   "note": "New card (debate): Amended version converges better and is funny."
+  },
+  {
+   "id": null,
+   "Name": "Name something a shopkeeper says when you ask for a discount.",
+   "action": "add",
+   "note": "New card (debate): Amended simpler wording; local life."
+  },
+  {
+   "id": null,
+   "Name": "Name a responsibility of the eldest child in a family.",
+   "action": "add",
+   "note": "New card (debate): Family worldview, converges."
+  },
+  {
+   "id": null,
+   "Name": "Name a reason kids give when asking parents for extra pocket money.",
+   "action": "add",
+   "note": "New card (debate): Fun and relatable, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something a family cuts back on when money is tight.",
+   "action": "add",
+   "note": "New card (debate): Family and money, converges."
+  },
+  {
+   "id": null,
+   "Name": "Name something people working abroad send money home for.",
+   "action": "add",
+   "note": "New card (debate): Family and money; distinct from A12."
+  },
+  {
+   "id": null,
+   "Name": "Name a way a student can earn pocket money.",
+   "action": "add",
+   "note": "New card (debate): Work and money, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something you give a new neighbour who has just moved in.",
+   "action": "add",
+   "note": "New card (debate): Community, distinct from existing neighbour cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous Muslim city outside Pakistan, other than Makkah and Madinah.",
+   "action": "add",
+   "note": "New card (debate): Wider Muslim world, familiar cities."
+  },
+  {
+   "id": null,
+   "Name": "Name something you check before accepting a job offer.",
+   "action": "add",
+   "note": "New card (debate): Work, converges, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a thing that is given as Eidi besides money.",
+   "action": "add",
+   "note": "New card (debate): Family and Eid; the amount card exists but not alternatives."
   }
  ]
 }

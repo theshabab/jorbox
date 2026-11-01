@@ -12471,6 +12471,270 @@
    "Category": "Occupations",
    "action": "add",
    "note": "New card (debate): Respectful, fresh local public-health job."
+  },
+  {
+   "id": null,
+   "Name": "Cashier",
+   "Description": "Till | Counter | Bill | Supermarket | Change",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Not in deck; playable money job."
+  },
+  {
+   "id": null,
+   "Name": "Journalist",
+   "Description": "News | Newspaper | Interview | Headline | Pen",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Gap in Occupations."
+  },
+  {
+   "id": null,
+   "Name": "Mason",
+   "Description": "Bricks | Cement | Trowel | Wall | Mistri",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment replaces vague Site with local term."
+  },
+  {
+   "id": null,
+   "Name": "Midwife",
+   "Description": "Baby | Birth | Mother | Village | Hospital",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Absent from deck; family and community job."
+  },
+  {
+   "id": null,
+   "Name": "Labourer",
+   "Description": "Wage | Sweat | Chowk | Load | Hands",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Accurate hadith link and local flavour."
+  },
+  {
+   "id": null,
+   "Name": "Influencer",
+   "Description": "Followers | Reels | Sponsored | Unboxing | Phone",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Allowed social-media angle; no overlap."
+  },
+  {
+   "id": null,
+   "Name": "ATM",
+   "Description": "Cash | Card | PIN | Withdraw | Bank",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Mimeable money card, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Blue Mosque",
+   "Description": "Istanbul | Ahmed | Minarets | Tiles | Ottoman",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Accurate; wider Muslim world landmark."
+  },
+  {
+   "id": null,
+   "Name": "Sheikh Zayed Mosque",
+   "Description": "Abu Dhabi | UAE | White | Marble | Domes",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Accurate; Gulf landmark missing from deck."
+  },
+  {
+   "id": null,
+   "Name": "Inheritance",
+   "Description": "Estate | Shares | Deceased | Sons | Quran",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Accurate gap; replaced Mirath (answer in another language) with Estate."
+  },
+  {
+   "id": null,
+   "Name": "Mehr",
+   "Description": "Bride | Groom | Nikah | Right | Gift",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Distinct from Nikah card; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Wasiyyah",
+   "Description": "Will | Last | Third | Death | Heirs",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Accurate one-third rule; no will card."
+  },
+  {
+   "id": null,
+   "Name": "Sadaqah Jariyah",
+   "Description": "Ongoing | Tree | Reward | Dead | School",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment avoids near-duplication with Waqf."
+  },
+  {
+   "id": null,
+   "Name": "Debt",
+   "Description": "Owe | Repay | Creditor | Burden | Loan",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Replaced Qarz (translation of the answer) with Loan; plain debt card is a gap."
+  },
+  {
+   "id": null,
+   "Name": "Rizq",
+   "Description": "Allah | Halal | Earn | Daily | Provider",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Worldview trust and halal earning; only a clue elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "Eidi",
+   "Description": "Eid | Elders | Envelope | Notes | Kids",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Fresh Pakistani family-money card."
+  },
+  {
+   "id": null,
+   "Name": "Foster Mother",
+   "Description": "Milk | Nursing | Baby | Raised | Halima",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Accurate; absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Widow",
+   "Description": "Husband | Iddah | Died | Orphans | Support",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Caring community card; replaced Bewa (translation) with Died."
+  },
+  {
+   "id": null,
+   "Name": "Rishta Aunty",
+   "Description": "Proposal | Biodata | Visit | Tea | Sweets",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Relatable, funny Pakistani family card."
+  },
+  {
+   "id": null,
+   "Name": "Sarajevo",
+   "Description": "Bosnia | Balkans | Europe | Capital | Ottoman",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): No Balkan entry; facts correct."
+  },
+  {
+   "id": null,
+   "Name": "Indonesia",
+   "Description": "Jakarta | Islands | Largest | Population | Java",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Largest Muslim population; Southeast Asia gap."
+  },
+  {
+   "id": null,
+   "Name": "Timbuktu",
+   "Description": "Mali | Sahara | Manuscripts | Scholars | Mansa Musa",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): West African learning centre; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Konya",
+   "Description": "Turkey | Rumi | Seljuk | Anatolia | Poet",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Accurate; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Baibars",
+   "Description": "Mamluk | Ain Jalut | Crusaders | Egypt | Sultan",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment removes misleading Mongols clue."
+  },
+  {
+   "id": null,
+   "Name": "Imam Nawawi",
+   "Description": "Forty | Hadith | Damascus | Riyad | Scholar",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate; hadith scholar gap."
+  },
+  {
+   "id": null,
+   "Name": "Abdullah ibn Abbas",
+   "Description": "Cousin | Tafsir | Young | Scholar | Tarjuman",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Accurate; not in Sahaba list."
+  },
+  {
+   "id": null,
+   "Name": "Kohat",
+   "Description": "Tunnel | Pass | KPK | Peshawar | Cantonment",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Missing local city; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Attock",
+   "Description": "Fort | Indus | Kabul | Bridge | Akbar",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Missing local city; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Sultan Suleiman",
+   "Description": "Ottoman | Magnificent | Kanuni | Law | Vienna",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Major Ottoman figure absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Property Dealer",
+   "Description": "Plot | Commission | Society | File | Office",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Fresh local work and money card."
+  },
+  {
+   "id": null,
+   "Name": "Home Tutor",
+   "Description": "Tuition | Exam | Evening | Notes | Fees",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani family and work life."
+  },
+  {
+   "id": null,
+   "Name": "Bukhara",
+   "Description": "Uzbekistan | Silk Road | Imam | Sahih | Minaret",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Imam Bukhari's city; Central Asia gap."
+  },
+  {
+   "id": null,
+   "Name": "Swat",
+   "Description": "Valley | Mingora | Snow | Kalam | KPK",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Well-known local destination missing from deck."
   }
  ]
 }

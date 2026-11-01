@@ -10782,6 +10782,230 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): No bee or hive card; simple visual nature card."
+  },
+  {
+   "id": null,
+   "Name": "CAN WAIT <---> READ THIS NOW!!!",
+   "Description": "Write an email subject line that is this urgent",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New work card, clear scale."
+  },
+  {
+   "id": null,
+   "Name": "CLEAR DESK <---> BURIED IN FILES",
+   "Description": "Draw an office desk that is this cluttered",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Easy to draw; no office desk card in deck."
+  },
+  {
+   "id": null,
+   "Name": "POLISHED LIE <---> BRUTALLY HONEST",
+   "Description": "Write an answer to \"Where do you see yourself in five years?\" in a job interview that is this honest",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment fixes mismatched scale ends."
+  },
+  {
+   "id": null,
+   "Name": "EMPTY <---> ABOUT TO BURST",
+   "Description": "Draw a child's savings jar that is this full of coins",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fresh money card, easy to draw."
+  },
+  {
+   "id": null,
+   "Name": "FAIR PRICE <---> TOURIST PRICE",
+   "Description": "Write what a souvenir seller says when quoting a price to a visitor that is this inflated",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Seller's side differs from the existing bargaining card."
+  },
+  {
+   "id": null,
+   "Name": "SIMPLE <---> IMPOSSIBLE TO FOLLOW",
+   "Description": "Draw a family tree that is this tangled",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New family card, relatable for big khandans."
+  },
+  {
+   "id": null,
+   "Name": "NO ONE COMES <---> WHOLE GALI TURNS UP",
+   "Description": "Write a mohalla WhatsApp group message calling for volunteers to clean the park that would bring out this many neighbours",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New community angle."
+  },
+  {
+   "id": null,
+   "Name": "QUICK THANKS <---> HEARTFELT",
+   "Description": "Write a thank-you note to a delivery rider who brought your food in heavy rain that is this heartfelt",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Warm gratitude card; rider only appears in a confused-text card."
+  },
+  {
+   "id": null,
+   "Name": "PAYS LATE <---> BEFORE THE SWEAT DRIES",
+   "Description": "Write a message from an employer to a worker about their pay that is this prompt, like the advice of our Prophet (peace be upon him) to pay a worker before his sweat dries",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Well-established hadith (Ibn Majah); wages not in deck."
+  },
+  {
+   "id": null,
+   "Name": "VAGUE <---> WRITTEN AND WITNESSED",
+   "Description": "Write a note recording a loan between two friends that is this clear, as the Quran advises us to write down debts",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Quran 2:282; distinct from repayment and riba cards."
+  },
+  {
+   "id": null,
+   "Name": "PHONES IN HAND <---> PHONES IN A BASKET",
+   "Description": "Draw the dastarkhwan scene of a family who have put their phones away this completely during dinner",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's concrete, drawable version."
+  },
+  {
+   "id": null,
+   "Name": "DISTRACTED <---> FULL ATTENTION",
+   "Description": "Write a line you say on a phone call to your parents that shows this much attention and care",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Duties to parents in a light form; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "TACTLESS <---> VERY COMFORTING",
+   "Description": "Write what you say when visiting a sick relative at home that is this comforting",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Sunnah of visiting the sick; new topic."
+  },
+  {
+   "id": null,
+   "Name": "ALWAYS WANTS MORE <---> TOTALLY CONTENT",
+   "Description": "Write your reply to \"What would you like for your birthday?\" if you are this content with what you already have",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Qana'at in a light, relatable situation."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> RICHLY TILED",
+   "Description": "Draw the dome of a mosque, like those in Isfahan, Iran, covered in tiles that are this richly patterned",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Accurate wider Muslim world card; no Isfahan card."
+  },
+  {
+   "id": null,
+   "Name": "ROUGH GUESS <---> EXACT MEASURE",
+   "Description": "Write the result al-Biruni might have announced after measuring the size of the Earth from a hill near the Salt Range in Punjab about 1,000 years ago, if he is this precise",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Accurate fact (c. 1017, Nandana); ends reworded to clearer opposites; differs from Ibn al-Haytham card."
+  },
+  {
+   "id": null,
+   "Name": "RESTLESS <---> PURE SAKOON",
+   "Description": "Write a postcard home from a pilgrim in Madinah whose heart feels this peaceful",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment gives true opposites."
+  },
+  {
+   "id": null,
+   "Name": "GENTLE <---> NO MORE EXTENSIONS",
+   "Description": "Write a message from a kameti (committee) organiser asking members to pay their instalment that is this strict",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Kameti is new and locally relatable."
+  },
+  {
+   "id": null,
+   "Name": "HELPFUL <---> KAL AANA",
+   "Description": "Write what the clerk behind the counter says when you ask about your file that is this unhelpful",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable office card, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "UDHAAR OK <---> UDHAAR IS CLOSED",
+   "Description": "Write the sign a shopkeeper hangs above the counter about buying on credit (udhaar) that is this firm",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Udhaar is a new topic."
+  },
+  {
+   "id": null,
+   "Name": "OPEN-HANDED <---> SALARY NOT YET",
+   "Description": "Write Abbu's reply when you ask for extra pocket money on the 28th of the month, if he is this short of cash",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family and money card."
+  },
+  {
+   "id": null,
+   "Name": "ANYONE'S SEAT <---> DADA'S THRONE",
+   "Description": "Draw the chair in the living room that is this firmly reserved for Dada",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Warm family card; different from the covered sofa."
+  },
+  {
+   "id": null,
+   "Name": "DURING WORK HOURS <---> 2 AM",
+   "Description": "Write a message from a boss in the office WhatsApp group that is this badly timed",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Modern work-life card, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "TWO CUPS <---> THE WHOLE FLOOR",
+   "Description": "Draw the tray of an office chai-wala carrying orders for this many people",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fun and local; fresh chai angle."
+  },
+  {
+   "id": null,
+   "Name": "LIGHT PURSE <---> CARAVAN OF GOLD",
+   "Description": "Draw the caravan of Mansa Musa of Mali, who went on Hajj in 1324 with so much gold that prices in Cairo were affected, carrying this much gold",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-world history; scale ends simplified."
+  },
+  {
+   "id": null,
+   "Name": "CLEARLY KNOWS YOU <---> NO IDEA WHO YOU ARE",
+   "Description": "Write what a relative at a shaadi says when she greets you, if she is this unsure who you are",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family moment, new angle."
+  },
+  {
+   "id": null,
+   "Name": "WEAK EXCUSE <---> CAN'T SAY NO",
+   "Description": "Write a message to your manager asking for a day off for your cousin's shaadi that is this convincing",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Work and family clash, no leave card in deck."
+  },
+  {
+   "id": null,
+   "Name": "STUFFED <---> EMPTY",
+   "Description": "Draw Abbu's wallet on the last day of the month, with this much left in it",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Easy drawing, money angle; scale ends made clearer opposites."
   }
  ]
 }

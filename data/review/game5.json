@@ -103989,6 +103989,334 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Taqwa/muraqabah worldview; personal and playable."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Eiffel Tower grows up to 15 centimetres taller in summer because the iron expands in the heat. In summer, the thing in my house that expands is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate fact, playable blank, no equivalent card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "People float effortlessly in the Dead Sea because the water is so salty. The thing in my house that always floats to the top of every argument is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's corrected fact; new angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A thirsty camel can drink around a hundred litres of water in about ten minutes. I can finish ____ just as fast.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Tightened fact; no camel-drinking card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Burj Khalifa has 163 floors. The only reason I would climb all of them is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, no Burj card, Gulf link familiar."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The company's new rule says every meeting must end in thirty minutes. Ours ended when ____.",
+   "Category": "Work Life",
+   "action": "add",
+   "note": "New card (debate): Fresh work angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things that should never be left in the office lost-and-found box",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): No lost-and-found card; deck format."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My new job title is Senior Vice President of ____.",
+   "Category": "Work Life",
+   "action": "add",
+   "note": "New card (debate): Distinct blank shape from open job-title prompts."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A terrible motto for a family-run shop",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Family business angle, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My rainy-day fund is actually just ____.",
+   "Category": "Money Problems",
+   "action": "add",
+   "note": "New card (debate): No savings-fund card; short and funny."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Something you should never say when your boss asks, \"Any questions?\"",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Universal work situation, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Every family has one person in charge of ____, and nobody else is allowed to touch it.",
+   "Category": "Family Gatherings",
+   "action": "add",
+   "note": "New card (debate): Fresh family-role angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Zakat is the right of the poor in our wealth. The most surprising place I ever found forgotten savings was ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Worldview zakat card with the answer rewritten so it does not joke about avoiding worship."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A hadith praises the honest and trustworthy merchant. The first thing an honest shopkeeper should remove from his shelf is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate hadith theme, critiques habits, fresh."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Quran tells us not to say even \"uff\" to our parents in frustration. The hardest \"uff\" I ever held back was when ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (17:23), gentle, relatable, no existing card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Mansa Musa of Mali travelled to Hajj in 1324 with so much gold that its value in Cairo was said to drop for years. My Hajj luggage would be full of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Corrected economic claim, hedged; wider Muslim world."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ibn Khaldun of Tunis wrote the Muqaddimah, an early work on history and economics. His first rule for our household budget would be ____.",
+   "Category": "Money Problems",
+   "action": "add",
+   "note": "New card (debate): Accurate; Ibn Khaldun absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Mimar Sinan designed more than three hundred buildings for the Ottomans, including the Selimiye Mosque in Edirne. If he designed our house, the first thing he would fix is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Ottoman heritage, new."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "At Hajj, men of every country wear the same plain white ihram. Lost in any big crowd, my family always finds me by ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Corrected ihram fact and lighter answer."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Prophet (ﷺ) said the best of you are those who are best to their families. This week, my kindest act at home was ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate hadith, positive, playable."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A hadith says that keeping good ties with relatives brings barakah in life and provision. The last time I visited my relatives, they sent me home with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate sila rehmi theme, fun answers."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Prophet (ﷺ) taught that real richness is a content heart, not many possessions. The thing I was sure I needed but never used is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate contentment theme, new."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Medieval Muslim cities had bimaristan hospitals that treated rich and poor alike. If a bimaristan opened on our street, its first patient would be ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim contribution, fresh."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Prophet (ﷺ) said no food is better than what a person earns by his own hands. The hardest-earned rupee of my life went on ____.",
+   "Category": "Work Life",
+   "action": "add",
+   "note": "New card (debate): Accurate hadith, dignity of work."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Timbuktu in Mali was a famous centre of Islamic learning with libraries of handwritten books. If I had a library there, the first book on my shelf would be ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, African Muslim heritage."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Indonesia has the largest Muslim population of any country. After landing in Jakarta, the first thing I would look for is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Sharper amended prompt, accurate fact."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "On Eid ul Adha, it is customary to share a third of the qurbani meat with those in need. In our house, the share for the poor goes out packed in ____.",
+   "Category": "Eid Traditions",
+   "action": "add",
+   "note": "New card (debate): Community sharing angle, not animal-focused."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "In Ramadan, office timings get shorter but ____ stays exactly the same.",
+   "Category": "Work Life",
+   "action": "add",
+   "note": "New card (debate): Fresh Ramadan-at-work angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I told my freelance client in another time zone, \"Sure, I can join the call at 3 a.m.,\" and now I am ____.",
+   "Category": "Work Life",
+   "action": "add",
+   "note": "New card (debate): Relatable freelancer angle, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What Abbu says out loud every time the bijli bill arrives",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Local money prompt in open form."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The plumber said he would be here in ten minutes. He arrived ____, and then asked for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh tradesman humour."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi keeps our Eidi \"safe\" for us, which really means ____.",
+   "Category": "Eid Traditions",
+   "action": "add",
+   "note": "New card (debate): Distinct Eidi angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Our mohalla collected chanda for new streetlights, but somehow the money was spent on ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended to avoid mosque-fund jokes."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Chachu's new business plan is to export ____ to Dubai, and he only needs a small loan from the family.",
+   "Category": "Family Gatherings",
+   "action": "add",
+   "note": "New card (debate): Family, money and Gulf angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "By the 25th of the month, dinner at our house is whatever ____ is left in the kitchen.",
+   "Category": "Money Problems",
+   "action": "add",
+   "note": "New card (debate): Relatable month-end humour."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Every mohalla has an uncle who watches ____ from his window and reports it to everyone.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh community angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A day on Venus lasts longer than its year. In our house, a single day lasts forever when ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate science fact, no Venus card, replaces octopus duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I pressed \"Reply All\" and now the whole company knows about ____.",
+   "Category": "Work Life",
+   "action": "add",
+   "note": "New card (debate): Classic universal work blunder, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Al-Azhar University in Cairo has been teaching for over a thousand years. The oldest thing still working in our house is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim world heritage, new."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The office chai wala knows every secret in the building, including ____.",
+   "Category": "Work Life",
+   "action": "add",
+   "note": "New card (debate): Fresh local work angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mohalla WhatsApp group had its biggest argument this week about ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Mohalla group not covered by existing WhatsApp cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Prophet (ﷺ) said a person's wealth will be asked about on the Day of Judgement: how it was earned and how it was spent. The most regrettable thing I spent money on this year was ____.",
+   "Category": "Money Problems",
+   "action": "add",
+   "note": "New card (debate): Accurate hadith, gentle playable regret blank."
   }
  ]
 }

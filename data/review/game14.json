@@ -6453,6 +6453,195 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Nature, sky and Muslim practice; absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "How many meetings or classes have you sat through this month that could have been a short message?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No work-meeting card exists; universal and easy to answer."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to ask your boss for a raise when you think you deserve one?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No raise or salary card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at tracking where your money goes each month?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Budgeting is absent from the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you lent money to a friend or colleague and never got it back?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Different from the existing relative-lending likelihood card."
+  },
+  {
+   "id": null,
+   "Description": "How many different currencies have you held in your hand?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No currency card in the deck; easy count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to stay calm when a colleague takes credit for your work?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No colleague cards exist."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to volunteer for a neighbourhood clean-up or community project?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Community volunteering is not covered."
+  },
+  {
+   "id": null,
+   "Description": "How many people in your family work in the same field as you?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): New family plus work angle; works for students too."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to pay a worker or helper their wages on time, without making them ask?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Worldview: just dealings, framed as a personal habit with no preaching."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep visiting a relative who never visits you back?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Sila rehmi with humour; distinct from the keeping-in-touch card."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about how zakat is calculated on savings?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Amended version without disputed nisab details; zakat is absent from the deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to refuse a dishonest shortcut at work, like a fake receipt or a bribe, even when everyone else takes it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Halal earning and honesty at work; no similar card."
+  },
+  {
+   "id": null,
+   "Description": "How many Muslim-majority countries have you visited?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Wider Muslim world; easy count and absent from the deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to remember Muslims suffering in other parts of the world in your dua?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended likelihood framing avoids duplicating the dua-count card; no named conflict."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about the House of Wisdom in Baghdad and the scholars who worked there?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-history knowledge card; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about the Islamic rules of fair inheritance and who gets which share?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Knowledge-only, no ruling stated; new topic."
+  },
+  {
+   "id": null,
+   "Description": "How many times has your electricity bill shocked you this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Very local money humour; no bill card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many relatives have asked you to find a job for them or their child?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local family and work comedy, distinct from the career-advice card."
+  },
+  {
+   "id": null,
+   "Description": "How many kameti (committee) groups have you or your family been part of?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Kameti is absent from the deck and very familiar locally."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you sent or received money through a mobile wallet like Easypaisa or JazzCash?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fresh local money habit; easy count."
+  },
+  {
+   "id": null,
+   "Description": "How many weddings have you attended where you barely knew the bride or groom?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fresh angle on the wedding cards, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to join your family's business or shop?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No family-business card; works as a future likelihood for students."
+  },
+  {
+   "id": null,
+   "Description": "How many people in your family or close relatives work abroad, in the Gulf or elsewhere?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Very common in Pakistani families; new to the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you tried to pay the whole bill at a family dinner before an uncle got there first?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable family and money comedy; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you stayed up late finishing work or an assignment due the next morning?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Universal work/school count; no similar card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to be content with what you have when everyone around you is upgrading?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Worldview qana'at as a relatable personal question."
+  },
+  {
+   "id": null,
+   "Description": "How many relatives send you forwarded WhatsApp messages every week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fresh family humour; different from the believing-forwards and teaching-WhatsApp cards."
   }
  ]
 }

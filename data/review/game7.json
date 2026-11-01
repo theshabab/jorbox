@@ -20483,6 +20483,181 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Clean body and modern-habit angle."
+  },
+  {
+   "id": null,
+   "Description": "a tiny tugboat pulling a giant cargo ship out of the harbour",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): General, drawable size contrast; no tugboat in deck."
+  },
+  {
+   "id": null,
+   "Description": "a car mechanic listening to an engine with a stethoscope and nodding gravely",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Fresh work card, easy to sketch."
+  },
+  {
+   "id": null,
+   "Description": "a photocopier that has started copying the office staff instead of the papers",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Fresh office absurdity."
+  },
+  {
+   "id": null,
+   "Description": "a boss's chair spinning faster the longer the meeting goes on",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Fresh office card, simple to draw."
+  },
+  {
+   "id": null,
+   "Description": "a tractor stuck in a field while the entire village gives advice",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No tractor in deck; fun community scene."
+  },
+  {
+   "id": null,
+   "Description": "a glassblower whose bubble keeps growing until it carries him away",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Whimsical, drawable, new craft."
+  },
+  {
+   "id": null,
+   "Description": "a grandmother's sewing basket that holds everything except a needle",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Warm family joke, new."
+  },
+  {
+   "id": null,
+   "Description": "a tired old date palm handing out dates to every traveller who sits in its shade",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle generosity, drawable, no palm card."
+  },
+  {
+   "id": null,
+   "Description": "a man calmly holding one small shopping bag while the cart behind him overflows with things he never needed",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Worldview: contentment, distinct from nearby shopping cards."
+  },
+  {
+   "id": null,
+   "Description": "a man slipping sadaqah into a beggar's hand so secretly that even his own shadow looks away",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: hidden charity as a drawable scene."
+  },
+  {
+   "id": null,
+   "Description": "a cousin returning a borrowed loan on the exact promised day, and the whole family fainting",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate humour on keeping promises; no loan card."
+  },
+  {
+   "id": null,
+   "Description": "a young man visiting his elderly khala every Sunday with a bag of fruit, and being fed three times in return",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Warm sila rehmi card; khala absent."
+  },
+  {
+   "id": null,
+   "Description": "a pair of patched sandals refusing to retire while a shiny new pair waits in its box",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Simplicity theme, distinct from chappal-at-mosque card."
+  },
+  {
+   "id": null,
+   "Description": "Ibn Battuta stamping another far-off city onto a map that has run out of space",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment avoids inaccurate country count and anachronism."
+  },
+  {
+   "id": null,
+   "Description": "a whole family in white ihram taking turns to carry a tired grandfather's shoes and water bottle",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Respectful Hajj/Umrah elder-care card, easy to draw."
+  },
+  {
+   "id": null,
+   "Description": "relatives who arrived 'just for five minutes' now unpacking a suitcase",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani family humour, distinct from late-guest cards."
+  },
+  {
+   "id": null,
+   "Description": "a family kameti where everyone forgets who already got the money",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local community savings circle, halal, absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "an ATM queue where the uncle at the front is still reading the instructions out loud",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable money/everyday life, no ATM card."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the family's official wedding-card delivery person, handing cards to every house and refusing every cup of tea",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate Friend card, Pakistani family duty."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the office intern who gets blamed for the broken printer and then fixes it by gently pressing the right button",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment removes the smack; player is the hero."
+  },
+  {
+   "id": null,
+   "Description": "Abdul Sattar Edhi's ambulance squeezing through Karachi traffic while every driver pulls aside to let it pass",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Respectful local community-service card, accurate, absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "a father dividing his month's salary into envelopes marked rent, bijli, school fees and one tiny one for sadaqah",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable household money and giving; no salary card."
+  },
+  {
+   "id": null,
+   "Description": "a librarian of old Cordoba hunting for one lost book among hundreds of thousands",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Muslim Andalusia pride, wider Muslim world; Cordoba absent."
+  },
+  {
+   "id": null,
+   "Description": "a muezzin climbing up to give the azan while every cat on the street stops to listen",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Allowed muezzin theme, respectful, drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to explain to the whole family group that the forwarded message about free mobile credit is fake",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate social media angle, different from the existing forward card."
   }
  ]
 }
