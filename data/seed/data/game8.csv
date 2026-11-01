@@ -305,7 +305,6 @@ BAD DISGUISE <---> LOOKS HUMAN,Draw a robot that is this successfully disguising
 ONE TASK <---> TEN TASKS,Draw a robot that can perform this many tasks,Drawing
 NOT SAFE <---> VERY SAFE,Draw a robot that is this safe to leave in charge of your baby cousin,Drawing
 MESSY <---> SO SLEEK,Draw a robot that is this sleek,Drawing
-NOT HUMAN SHAPED <---> HUMAN SHAPED,Draw a robot that is this human-shaped,Drawing
 SAFE TUMMY <---> TUMMY ACHE,Draw a meal that is this likely to give you a tummy ache,Drawing
 "RS 100 <---> RS 10,000",Draw a meal that is this expensive,Drawing
 WIDE AWAKE <---> NEED A NAP,Draw a meal that is this likely to put you to sleep afterwards,Drawing
@@ -314,9 +313,9 @@ BRAVE <---> VERY AFRAID,Draw a stick figure that is this fearful,Drawing
 AT HOME <---> AT A SHAADI,Draw an outfit that is this likely to be worn to a shaadi,Drawing
 10 YEARS OLD <---> 100 YEARS OLD,Draw the favourite meal of someone this many years old,Drawing
 UTENSILS <---> ALL HANDS,Draw a meal that is this likely to be eaten with your hands,Drawing
-NOT LIKELY <---> CHAI-TIME SNACK!,Draw a snack that is this likely to be eaten with chai,Drawing
+NOT FOR CHAI <---> PERFECT WITH CHAI,Draw a snack that is this likely to be eaten with chai,Drawing
 UNEATEN <---> SUPER POPULAR,Draw a dish that would be this popular at a family dawat,Drawing
-DOIN’ FINE <---> VERY SAD,Draw a stick figure that is this sad,Drawing
+OKAY <---> VERY SAD,Draw a stick figure that is this sad,Drawing
 SLOW <---> SO FAST,Draw a stick figure that is moving this fast,Drawing
 WEAK <---> VERY STRONG,Draw a stick figure that is this strong,Drawing
 LAND WEAR <---> BOAT WEAR,Draw an outfit that is this likely to be worn on a boat,Drawing
@@ -383,11 +382,10 @@ BAD AT CRICKET <---> PRO LEVEL,Draw a monster that is this good at cricket,Drawi
 HATES BOOKS <---> LOVES BOOKS,Draw a monster that enjoys reading this much,Drawing
 1/2 STAR <---> 5 STARS,Draw an educational toy that would earn this many stars from teachers,Drawing
 NOT EXCITED <---> OVERJOYED,Draw the face of a person who is this excited to meet their favourite author,Drawing
-LOST <---> WON,Draw the face of a person who is this likely to have won the fight,Drawing
+LOST <---> WON,Draw the face of a person who is this likely to have just won an argument,Drawing
 FEELS NICE <---> SO MUCH PAIN!,Draw a toy that would be this painful to step on,Drawing
 HATES ’EM <---> LOVES ’EM,Draw a birthday clown who likes children this much,Drawing
 NOT BROKEN <---> TOTALLY BROKEN,Draw a toy that is this broken,Drawing
-BAD HIGH FIVES <---> GREAT HIGH FIVES,Draw a clown that is this good at high fives,Drawing
 TACKY <---> STYLISH,Draw a clown that is this fashionable,Drawing
 NOT SNEAKY <---> VERY SNEAKY,Draw a clown that is this sneaky,Drawing
 NO CHAI <---> WAY TOO MUCH CHAI,Draw a clown that has had this much chai,Drawing
@@ -958,3 +956,11 @@ TERRIFIED <---> TOTALLY CONFIDENT,Draw the face of a boy reciting a naat at the 
 BORING <---> EDGE-OF-YOUR-SEAT,Write the title of a YouTube video by a Pakistani gaming streamer that is this exciting,Writing
 BRAND NEW <---> WORN SMOOTH WITH AGE,Draw a tasbih that Dadi has used for this many years,Drawing
 SPOTLESS <---> FOOTPRINTS EVERYWHERE,"Draw a bedsheet after a cousin jumped on it in muddy chappals, this dirty",Drawing
+EMPTY BAG <---> BURSTING BAG,Draw a shopping bag that comes home from the bazaar this full,Drawing
+PLAIN <---> FESTIVE,Draw the lights and buntings a mohalla puts up for Chand Raat that look this festive,Drawing
+ONE COLOUR <---> ALL COLOURS,Draw a hand-stitched patchwork rilli (quilt) that uses this many colours,Drawing
+WOBBLY <---> ROCK STEADY,Draw a stack of dishes on Ammi's tray that is this steady while she carries it to the guests,Drawing
+NOT LIKELY <---> VERY LIKELY,Draw a monster that is this likely to be afraid of a cockroach,Drawing
+CLUMSY <---> EXPERT,Draw a bird that is this good at untangling a kite string from a tree,Drawing
+UNTIDY <---> SPOTLESS,Draw a toy cupboard that is this tidy right before guests arrive,Drawing
+NOT CHATTY <---> NEVER STOPS TALKING,"Draw a robot that is this chatty, like an uncle at a wedding",Drawing

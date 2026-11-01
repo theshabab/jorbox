@@ -4467,13 +4467,13 @@
    "Name": "NOT HUMAN SHAPED <---> HUMAN SHAPED",
    "Description": "Draw a robot that is this human-shaped",
    "Category": "Drawing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "OTHER <---> HUMAN SHAPED",
     "Description": "Draw a robot that is this humanoid shaped",
     "Category": "Drawing"
    },
-   "note": "unclear left end"
+   "note": "Debate: Near-duplicate of live game8-340 (action keep); robot cluster is large."
   },
   {
    "id": "game8-345",
@@ -4594,7 +4594,7 @@
   },
   {
    "id": "game8-354",
-   "Name": "NOT LIKELY <---> CHAI-TIME SNACK!",
+   "Name": "NOT FOR CHAI <---> PERFECT WITH CHAI",
    "Description": "Draw a snack that is this likely to be eaten with chai",
    "Category": "Drawing",
    "action": "edit",
@@ -4603,7 +4603,7 @@
     "Description": "Draw a snack that is this likely to be eaten while watching a movie",
     "Category": "Drawing"
    },
-   "note": "movie snack -> chai"
+   "note": "movie snack -> chai; Debate: Clearer opposites; drops vague end and exclamation."
   },
   {
    "id": "game8-355",
@@ -4620,16 +4620,16 @@
   },
   {
    "id": "game8-356",
-   "Name": "DOIN’ FINE <---> VERY SAD",
+   "Name": "OKAY <---> VERY SAD",
    "Description": "Draw a stick figure that is this sad",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "DOIN’ FINE <---> VERY SAD",
     "Description": "Draw a stick figure that is this sad",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Replaces American slang with a crisp opposite."
   },
   {
    "id": "game8-357",
@@ -5492,15 +5492,15 @@
   {
    "id": "game8-423",
    "Name": "LOST <---> WON",
-   "Description": "Draw the face of a person who is this likely to have won the fight",
+   "Description": "Draw the face of a person who is this likely to have just won an argument",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "LOST <---> WON",
     "Description": "Draw the face of a person who is this likely to have won the fight",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Milder, clearer, still drawable."
   },
   {
    "id": "game8-424",
@@ -5546,13 +5546,13 @@
    "Name": "BAD HIGH FIVES <---> GREAT HIGH FIVES",
    "Description": "Draw a clown that is this good at high fives",
    "Category": "Drawing",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "BAD FIVES <---> GREAT FIVES",
     "Description": "Draw a clown that is this good at high fives",
     "Category": "Drawing"
    },
-   "note": "Debate: \"BAD FIVES\" is unclear; spell out high fives."
+   "note": "Debate: Weak, hard to draw distinctively; many other clown cards."
   },
   {
    "id": "game8-428",
@@ -11502,6 +11502,70 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Simpler wording consistent with the scale; relatable family humour."
+  },
+  {
+   "id": null,
+   "Name": "EMPTY BAG <---> BURSTING BAG",
+   "Description": "Draw a shopping bag that comes home from the bazaar this full",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: scale describes the drawn object."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> FESTIVE",
+   "Description": "Draw the lights and buntings a mohalla puts up for Chand Raat that look this festive",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani frame (fanoos is Arab/Egyptian); clearer opposites."
+  },
+  {
+   "id": null,
+   "Name": "ONE COLOUR <---> ALL COLOURS",
+   "Description": "Draw a hand-stitched patchwork rilli (quilt) that uses this many colours",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Rilli is the correct patchwork quilt term."
+  },
+  {
+   "id": null,
+   "Name": "WOBBLY <---> ROCK STEADY",
+   "Description": "Draw a stack of dishes on Ammi's tray that is this steady while she carries it to the guests",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Clear scale, relatable hospitality scene, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "NOT LIKELY <---> VERY LIKELY",
+   "Description": "Draw a monster that is this likely to be afraid of a cockroach",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Funny desi twist, distinct from existing cockroach card."
+  },
+  {
+   "id": null,
+   "Name": "CLUMSY <---> EXPERT",
+   "Description": "Draw a bird that is this good at untangling a kite string from a tree",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger fix makes the task coherent; kite-season flavour."
+  },
+  {
+   "id": null,
+   "Name": "UNTIDY <---> SPOTLESS",
+   "Description": "Draw a toy cupboard that is this tidy right before guests arrive",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable family-visit theme, clean opposites."
+  },
+  {
+   "id": null,
+   "Name": "NOT CHATTY <---> NEVER STOPS TALKING",
+   "Description": "Draw a robot that is this chatty, like an uncle at a wedding",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New talkativeness axis with harmless local joke."
   }
  ]
 }

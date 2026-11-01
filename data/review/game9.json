@@ -3448,14 +3448,14 @@
   },
   {
    "id": "game9-314",
-   "Name": "What are the four phases of mitosis?",
+   "Name": "What are the four phases of mitosis, in order?",
    "Description": "Prophase, metaphase, anaphase, telophase",
    "action": "edit",
    "original": {
     "Name": "Which of these choices is not one of the phases of mitosis?",
     "Description": "Diplophase"
    },
-   "note": "relied on missing options"
+   "note": "relied on missing options; Debate: Clarifies that order is required; answer is correct."
   },
   {
    "id": "game9-315",
@@ -13042,6 +13042,41 @@
    "Description": "One (a Bactrian camel has two)",
    "action": "add",
    "note": "New card (debate): Accurate, distinct from existing camel cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the largest island of Africa?",
+   "Description": "Madagascar",
+   "action": "add",
+   "note": "New card (debate): Correct, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which sea lies between Turkey's northern coast and Ukraine and Russia?",
+   "Description": "Black Sea",
+   "action": "add",
+   "note": "New card (debate): Correct and unambiguous, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "What mainly causes the ocean tides on Earth?",
+   "Description": "The gravity of the Moon (and the Sun)",
+   "action": "add",
+   "note": "New card (debate): Correct, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the name for the event when the Moon passes between the Earth and the Sun and blocks its light?",
+   "Description": "A solar eclipse",
+   "action": "add",
+   "note": "New card (debate): Correct, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which lizard is famous for changing its skin colour and for eyes that can move independently?",
+   "Description": "Chameleon",
+   "action": "add",
+   "note": "New card (debate): Correct, not in deck."
   }
  ]
 }
