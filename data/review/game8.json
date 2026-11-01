@@ -1526,16 +1526,16 @@
   },
   {
    "id": "game8-118",
-   "Name": "A DUMP <---> OOOH LA LA!",
+   "Name": "A DUMP <---> POSH AND GLAMOROUS",
    "Description": "Make up a name for a place that is this glamorous",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A DUMP <---> OOOH LA LA!",
     "Description": "Make up a name for a place that is this glamorous",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clear opposite replaces the vague French-flavoured end."
   },
   {
    "id": "game8-119",
@@ -2007,16 +2007,16 @@
   },
   {
    "id": "game8-155",
-   "Name": "EASY <---> IMPOSSIBLE",
+   "Name": "EASY CROSSING <---> IMPOSSIBLE CROSSING",
    "Description": "Make up a name for a desert that is this difficult to get across alive",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "EASY <---> IMPOSSIBLE",
     "Description": "Make up a name for a desert that is this difficult to get across alive",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Differs from the mountain card; parallel ends (judge amendment of DEADLY DESERT)."
   },
   {
    "id": "game8-156",
@@ -2046,16 +2046,16 @@
   },
   {
    "id": "game8-158",
-   "Name": "EASY <---> IMPOSSIBLE",
+   "Name": "EASY CLIMB <---> IMPOSSIBLE CLIMB",
    "Description": "Make up a name for a mountain that is this difficult to climb",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "EASY <---> IMPOSSIBLE",
     "Description": "Make up a name for a mountain that is this difficult to climb",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Challenger's parallel version; distinguishes it from the desert card."
   },
   {
    "id": "game8-159",
@@ -2072,16 +2072,16 @@
   },
   {
    "id": "game8-160",
-   "Name": "FLATLANDER <---> MOUNTAIN PERSON",
+   "Name": "PLAINS PERSON <---> MOUNTAIN PERSON",
    "Description": "Make up a name for someone who is this likely to live in the mountains",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "FLATLANDER <---> MOUNTAIN PERSON",
     "Description": "Make up a name for someone who is this likely to live in the mountains",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clearer parallel opposite for local players."
   },
   {
    "id": "game8-161",
@@ -2319,8 +2319,8 @@
   },
   {
    "id": "game8-179",
-   "Name": "NOT LIKELY <---> FANTASY CLIMAX",
-   "Description": "Write a line of dialogue that is this likely to be the climax of a fantasy story",
+   "Name": "NOT LIKELY <---> EPIC CLIMAX",
+   "Description": "Write a line of dialogue that is this likely to be the climax of an epic adventure story",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -2328,7 +2328,7 @@
     "Description": "Write a line of dialogue that is this likely to be the climax of a fantasy movie",
     "Category": "Writing"
    },
-   "note": "movie to story"
+   "note": "movie to story; Debate: Avoids wizard/magic answers."
   },
   {
    "id": "game8-180",
@@ -2579,8 +2579,8 @@
   },
   {
    "id": "game8-199",
-   "Name": "NOT A KNIGHT <---> DEFINITELY A KNIGHT",
-   "Description": "Write a piece of advice that is this likely to have been given by a medieval knight",
+   "Name": "NOT A SOLDIER <---> DEFINITELY A MUGHAL SIPAHI",
+   "Description": "Write a piece of advice that is this likely to have been given by a soldier in a Mughal army",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -2588,7 +2588,7 @@
     "Description": "Write a piece of advice that is this likely to have been given by a medieval knight",
     "Category": "Writing"
    },
-   "note": "Debate: Spells out the 'DEF' texting slang."
+   "note": "Debate: Spells out the 'DEF' texting slang.; Debate: Local frame replaces the medieval knight; keeps the original parallel pattern."
   },
   {
    "id": "game8-200",
@@ -2826,16 +2826,16 @@
   },
   {
    "id": "game8-218",
-   "Name": "KINDA NOTHIN’ <---> HUGE NEWS",
+   "Name": "NOTHING MUCH <---> HUGE NEWS",
    "Description": "Write a text message about something that seems this important",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "KINDA NOTHIN’ <---> HUGE NEWS",
     "Description": "Write a text message about something that seems this important",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clearer wording than the awkward slang."
   },
   {
    "id": "game8-219",
@@ -11406,6 +11406,46 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): New local mohalla theme, clear opposites"
+  },
+  {
+   "id": null,
+   "Name": "SOFT AND FRESH <---> ROCK HARD",
+   "Description": "Make up a name for a bakery whose biscuits are this hard",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local shop-name card; no bakery card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "NO SMELL AT ALL <---> SMELLS FROM THE NEXT STREET",
+   "Description": "Make up a name for a seekh kabab stall whose smoke can be smelled this far away",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: scale and task now measure the same thing."
+  },
+  {
+   "id": null,
+   "Name": "SLOWEST IN TOWN <---> FASTEST IN TOWN",
+   "Description": "Make up a name for a tonga horse that is this fast",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Parallel opposites with a local setting."
+  },
+  {
+   "id": null,
+   "Name": "DUSTY SHELVES <---> BOOKWORM'S PARADISE",
+   "Description": "Make up a name for a bookshop that bookworms would find this appealing",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Smoother wording; distinct from the railway bookstall card."
+  },
+  {
+   "id": null,
+   "Name": "NO HOMEWORK <---> EID HOLIDAY HOMEWORK",
+   "Description": "Make up a nickname for a teacher who is this likely to give homework over the Eid holidays",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable Eid/school theme; clear opposites; not a duplicate."
   }
  ]
 }

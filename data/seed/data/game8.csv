@@ -107,7 +107,7 @@ NO BEARS <---> ALL BEARS,Make up a name for a town that is this likely to be run
 NOT A PIRATE <---> TOTAL PIRATE,Make up a name that is this likely to belong to a pirate,Writing
 "RS 100 <---> RS 5,000",Make up a name for a cafe where the drinks cost this much,Writing
 NOT SCARY <---> VERY SCARY,Make up a name for a place that is this scary to get lost in,Writing
-A DUMP <---> OOOH LA LA!,Make up a name for a place that is this glamorous,Writing
+A DUMP <---> POSH AND GLAMOROUS,Make up a name for a place that is this glamorous,Writing
 NOT TOUGH <---> VERY TOUGH,Make up a nickname for a person who is this tough,Writing
 BAD AT JOB <---> GREAT AT JOB,Make up a nickname for a person who is this good at their job,Writing
 ON TOP OF IT <---> VERY CONFUSED,Write a text message from a food delivery rider who seems this confused about where your house is,Writing
@@ -140,12 +140,12 @@ NOT A BIRD <---> THAT’S A BIRD,Write a piece of advice that is this likely to 
 NO AUTOCORRECT <---> ALL AUTOCORRECT,Write a text message that is this riddled with autocorrect,Writing
 NOT NUTRITIOUS <---> VERY NUTRITIOUS,Draw a snack that is this nutritious,Drawing
 NOT LIKELY <---> OLD AGE HOME,Make up a name for a building that is this likely to be an old age home,Writing
-EASY <---> IMPOSSIBLE,Make up a name for a desert that is this difficult to get across alive,Writing
+EASY CROSSING <---> IMPOSSIBLE CROSSING,Make up a name for a desert that is this difficult to get across alive,Writing
 NOT GRAND <---> VERY GRAND,Make up a name for a haveli that is this grand,Writing
 NOT HEROIC <---> SUPER HEROIC,Make up a name for a headquarters that sounds this super-heroic,Writing
-EASY <---> IMPOSSIBLE,Make up a name for a mountain that is this difficult to climb,Writing
+EASY CLIMB <---> IMPOSSIBLE CLIMB,Make up a name for a mountain that is this difficult to climb,Writing
 NOT A POET <---> CLASSICAL URDU POET,Make up a name for a person who is this likely to be a classical Urdu poet,Writing
-FLATLANDER <---> MOUNTAIN PERSON,Make up a name for someone who is this likely to live in the mountains,Writing
+PLAINS PERSON <---> MOUNTAIN PERSON,Make up a name for someone who is this likely to live in the mountains,Writing
 HUMAN <---> NON-HUMAN,Make up a title for a children’s book that is this likely to have a non-human protagonist,Writing
 DISORGANIZED <---> TOO ORGANIZED,Make up a nickname for someone who is this organized,Writing
 NEVER LATE <---> ALWAYS LATE,Make up a nickname for someone who is this frequently late,Writing
@@ -163,7 +163,7 @@ NOT A VILLAIN <---> VILLAIN!,Write a line of dialogue for a character in a made-
 HUH?! <---> GOOD SCIENCE,Write a line of dialogue for a sci-fi story that sounds this scientifically accurate,Writing
 DRY EYES <---> FULL-ON SOBS,Write a line of dialogue from a story that is this likely to make you cry,Writing
 RARELY <---> VERY OFTEN,Make up a name for a drink that gets served this often around Eid,Writing
-NOT LIKELY <---> FANTASY CLIMAX,Write a line of dialogue that is this likely to be the climax of a fantasy story,Writing
+NOT LIKELY <---> EPIC CLIMAX,Write a line of dialogue that is this likely to be the climax of an epic adventure story,Writing
 WHO? <---> VERY SIGNIFICANT,Write a last line of dialogue for a dying character whose death is this significant,Writing
 NOT FRENCH <---> OUI OUI,Make up a perfume name that is this French-sounding,Writing
 CLOSED ON EID <---> OPEN ON EID,Make up a name for a restaurant that is this likely to be open on Eid,Writing
@@ -177,7 +177,7 @@ NOT LIKELY <---> VERY LIKELY,Make up a name for a restaurant that is this likely
 GOAT HATES <---> GOAT LOVES,Make up a name for a perfume that a Bakra Eid goat would love this much,Writing
 1950 <---> 2040,Write a piece of advice that would be helpful for a time traveler visiting this year,Writing
 COMMON <---> ROYALTY,Write the first line of a rishta profile for someone who is this likely to be royalty,Writing
-NOT A KNIGHT <---> DEFINITELY A KNIGHT,Write a piece of advice that is this likely to have been given by a medieval knight,Writing
+NOT A SOLDIER <---> DEFINITELY A MUGHAL SIPAHI,Write a piece of advice that is this likely to have been given by a soldier in a Mughal army,Writing
 TERRIBLE <---> VERY HELPFUL,Write a piece of advice that would be this helpful for a new parent,Writing
 NOT MANLY <---> TOO MANLY,Make up a name for a cologne that’s this manly,Writing
 ADULT NAMED IT <---> CHILD NAMED IT,Make up a name for a perfume that is this likely to have been named by a child,Writing
@@ -193,7 +193,7 @@ EASY <---> SO AWKWARD!,Write a sentence that is this awkward to say out loud at 
 BACKGROUND CHARACTER <---> MAIN CHARACTER,Make up a line of dialogue for a character in a storybook who is this important to the plot,Writing
 TOTAL NONSENSE <---> EXPERT,Write a piece of advice that sounds this much like you know what you're talking about,Writing
 SMALL ROOMS <---> STADIUMS,Make up a name for a motivational speaker who would speak at venues this big,Writing
-KINDA NOTHIN’ <---> HUGE NEWS,Write a text message about something that seems this important,Writing
+NOTHING MUCH <---> HUGE NEWS,Write a text message about something that seems this important,Writing
 NO BIG DEAL <---> SO AWKWARD!,Write a text message that would be this embarrassing if sent to the family WhatsApp group by mistake,Writing
 HUH? <---> OVEREXPLAINS,Make up a book title that is this clear about what the book is actually about,Writing
 1/2 STAR <---> 5 STARS,Make up a title for a children's book that would receive this many stars from reviewers,Writing
@@ -946,3 +946,8 @@ APOLOGETIC <---> SHAMELESS,"Write the line a cricket player yells at the neighbo
 EMPTY VAN <---> PACKED TO THE ROOF,Make up a name for a Hiace van service that is this overcrowded,Writing
 FEW ITEMS <---> FULL MENU,Write the menu board of a halwa puri nashta shop that has this many items,Writing
 MINDS HIS OWN <---> TELLS ALL,Write the name of a paan and cold-drink cabin in a mohalla that is this much the local gossip centre,Writing
+SOFT AND FRESH <---> ROCK HARD,Make up a name for a bakery whose biscuits are this hard,Writing
+NO SMELL AT ALL <---> SMELLS FROM THE NEXT STREET,Make up a name for a seekh kabab stall whose smoke can be smelled this far away,Writing
+SLOWEST IN TOWN <---> FASTEST IN TOWN,Make up a name for a tonga horse that is this fast,Writing
+DUSTY SHELVES <---> BOOKWORM'S PARADISE,Make up a name for a bookshop that bookworms would find this appealing,Writing
+NO HOMEWORK <---> EID HOLIDAY HOMEWORK,Make up a nickname for a teacher who is this likely to give homework over the Eid holidays,Writing

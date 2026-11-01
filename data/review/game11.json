@@ -4495,12 +4495,12 @@
    "id": "game11-409",
    "Name": "Customer",
    "Description": "Hitchhiker",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Hitch Hiker"
    },
-   "note": "spelling"
+   "note": "Debate: Hitchhiking is rare and awkward as a pitch target in Pakistan; no pair partner (game11-409 is live)."
   },
   {
    "id": "game11-410",
@@ -8353,6 +8353,48 @@
    "Description": "The only thing I had to survive the passport office queue was _____!",
    "action": "add",
    "note": "New card (debate): Amended version keeps the passport-office wait and avoids overlap with the pocket and waiting cards."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Samosa Wala",
+   "action": "add",
+   "note": "New card (debate): Familiar street vendor; distinct from Pakoray Wala and Chaat Wala."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "MDCAT Student",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani exam-stress customer, distinct from Matric/College Student."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Overprotective Bhai",
+   "action": "add",
+   "note": "New card (debate): Familiar family character, easy to pitch to, no equivalent card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The masjid parking is always full on Fridays because of _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's cleaner single-blank version; fresh Jumu'ah angle distinct from the generic parking card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My phuppo blames every household problem on _____!",
+   "action": "add",
+   "note": "New card (debate): New angle on phuppo humour (nazar/jinn style), distinct from existing phuppo cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My reel keeps flopping because of _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct social-media problem, fits format."
   }
  ]
 }

@@ -11356,10 +11356,10 @@
   {
    "id": null,
    "Name": "Submarine",
-   "Description": "Warship that dives and hides beneath waves",
+   "Description": "Vessel that dives and sails underwater, with a periscope",
    "Category": "Transport",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Drops 'warship' (not all subs are military); the challenger's wording avoids the backwards 'seen through a periscope'."
   },
   {
    "id": null,
@@ -11540,10 +11540,10 @@
   {
    "id": null,
    "Name": "Sabr",
-   "Description": "Patient endurance through hardship, Ayyub's famous quality",
+   "Description": "Patient endurance through hardship, like Prophet Ayyub",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Ayyub's patience is well established; the full title reads respectfully and clearly."
   },
   {
    "id": null,
@@ -11916,10 +11916,10 @@
   {
    "id": null,
    "Name": "Sewing Machine",
-   "Description": "Tailor's Singer-brand device for stitching clothes",
+   "Description": "Tailor's pedal or electric device for stitching clothes",
    "Category": "Tools",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Removes the brand name Singer while keeping the tailor frame."
   },
   {
    "id": null,
