@@ -6974,6 +6974,42 @@
    "Name": "Name a thing that is given as Eidi besides money.",
    "action": "add",
    "note": "New card (debate): Family and Eid; the amount card exists but not alternatives."
+  },
+  {
+   "id": null,
+   "Name": "Name something you eat with nihari.",
+   "action": "add",
+   "note": "New card (debate): Clustered answers (naan, lemon, ginger, green chilli); only 'Nihari or Haleem?' touches nihari."
+  },
+  {
+   "id": null,
+   "Name": "Name a fielding position in cricket.",
+   "action": "add",
+   "note": "New card (debate): Slip, gully, point, mid-on are widely known; distinct from existing dismissal and shot cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something you squeeze lemon on.",
+   "action": "add",
+   "note": "New card (debate): Matchable answers (chaat, nihari, gol gappay, daal, fruit); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do while watching a Pakistan cricket match.",
+   "action": "add",
+   "note": "New card (debate): Clustered answers (shout, pray, snack, bite nails); distinct from the stadium card."
+  },
+  {
+   "id": null,
+   "Name": "Summer Drink: Ganne Ka Ras or Mango Shake?",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended pairing avoids the nimbu pani/shikanjabeen overlap with Rooh Afza or Shikanjabeen."
+  },
+  {
+   "id": null,
+   "Name": "Name something you eat with daal chawal.",
+   "action": "add",
+   "note": "New card (debate): Common answers (achaar, papad, salad, fried onions, raita); different from the biryani-side card and the daal types card."
   }
  ]
 }

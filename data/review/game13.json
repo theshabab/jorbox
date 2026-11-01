@@ -5270,9 +5270,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to admit their home has a shopper full of other shoppers.",
+   "Description": "Get a player to admit their home has a shopper bag stuffed full of other shopper bags.",
    "action": "add",
-   "note": "New card (debate): Well-known desi household joke; natural 'admit' mission; not in the deck"
+   "note": "New card (debate): Well-known desi household joke; natural 'admit' mission; not in the deck; Debate: Clearer wording."
   },
   {
    "id": null,
@@ -5414,9 +5414,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to say 'Maaf kijiye' (Excuse me).",
+   "Description": "Get a player to say 'Maaf kijiye' (Excuse me / Pardon me).",
    "action": "add",
-   "note": "New card (debate): Challenger's standard spelling; polite phrase distinct enough from the 'Sorry' card."
+   "note": "New card (debate): Challenger's standard spelling; polite phrase distinct enough from the 'Sorry' card.; Debate: Clarifies meaning."
   },
   {
    "id": null,
@@ -6287,6 +6287,48 @@
    "Description": "Claim that the Nile flows through Pakistan and get a player to correct you.",
    "action": "add",
    "note": "New card (debate): World geography in established Claim format; Indus is the Pakistani river."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite filling or flavour of golgappay.",
+   "action": "add",
+   "note": "New card (debate): Local street-food prompt, not in deck; amended to one clear question without the Indian alias."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Haleem'.",
+   "action": "add",
+   "note": "New card (debate): Fits the say-the-food-word pattern; haleem absent."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who did their mehndi last time.",
+   "action": "add",
+   "note": "New card (debate): Mehndi theme absent; amended to one clear ask."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you whether they have ever played kabaddi.",
+   "action": "add",
+   "note": "New card (debate): Local sport absent; amended to a clear, answerable question."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they love most about 14 August celebrations.",
+   "action": "add",
+   "note": "New card (debate): National-day theme absent, clear and harmless."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many dates (khajoor) they eat to open their fast.",
+   "action": "add",
+   "note": "New card (debate): Ramadan theme, distinct from the iftar-dish card, respectful."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the best thing they have ever bought from a mela or Eid bazaar.",
+   "action": "add",
+   "note": "New card (debate): Festive local prompt, distinct from the favourite bazaar card."
   }
  ]
 }

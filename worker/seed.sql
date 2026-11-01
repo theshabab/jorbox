@@ -15294,6 +15294,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-793','game10','Name a famous Muslim city outside Pakistan, other than Makkah and Madinah.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-794','game10','Name something you check before accepting a job offer.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-795','game10','Name a thing that is given as Eidi besides money.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-796','game10','Name something you eat with nihari.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-797','game10','Name a fielding position in cricket.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-798','game10','Name something you squeeze lemon on.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-799','game10','Name something people do while watching a Pakistan cricket match.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-800','game10','Summer Drink: Ganne Ka Ras or Mango Shake?','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-801','game10','Name something you eat with daal chawal.','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -17930,7 +17936,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-565','game13','','Get a player to explain the rules of carrom to you.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-566','game13','','Get a player to tell you which car they would buy if money were no problem.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-567','game13','','Hide this card in a player''s shoe by the front door so they find it when they put it on.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-568','game13','','Get a player to admit their home has a shopper full of other shoppers.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-568','game13','','Get a player to admit their home has a shopper bag stuffed full of other shopper bags.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-569','game13','','Get a player to admit the biscuit tin at their home is full of sewing supplies, not biscuits.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-570','game13','','Get a player to admit their family keeps special crockery that only comes out for guests.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-571','game13','','Get a player to agree that a flying chappal from ammi is the most accurate weapon in Pakistan.','');
@@ -17954,7 +17960,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-589','game13','','Get a player to tell you about a time they or a classmate was made to stand as a murga at school.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-590','game13','','Get a player to tell you their favourite kulfi or gola ganda flavour.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-591','game13','','Get a player to say ''Mubarak ho!'' (Congratulations!).','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-592','game13','','Get a player to say ''Maaf kijiye'' (Excuse me).','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-592','game13','','Get a player to say ''Maaf kijiye'' (Excuse me / Pardon me).','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-593','game13','','Get a player to give you a desi nuskha (home remedy) for a cough or sore throat.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-594','game13','','Get a player to offer you a glass of lassi or sharbat.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-595','game13','','Get a player to tell you their favourite bazaar or market to shop in.','');
@@ -18100,6 +18106,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-735','game13','','Get a player to tell you what their family does when an electricity or gas bill comes that is far bigger than expected.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-736','game13','','Get a player to tell you about their most nervous job or admission interview.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-737','game13','','Claim that the Nile flows through Pakistan and get a player to correct you.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-738','game13','','Get a player to tell you their favourite filling or flavour of golgappay.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-739','game13','','Get a player to say the word ''Haleem''.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-740','game13','','Get a player to tell you who did their mehndi last time.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-741','game13','','Get a player to tell you whether they have ever played kabaddi.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-742','game13','','Get a player to tell you what they love most about 14 August celebrations.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-743','game13','','Get a player to tell you how many dates (khajoor) they eat to open their fast.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-744','game13','','Get a player to tell you the best thing they have ever bought from a mela or Eid bazaar.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -21308,3 +21321,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-822','game16','Khadijah bint Khuwaylid (RA) was a respected businesswoman of Makkah who hired people to trade on her behalf. If you ran a business like hers, what would be your rule for treating your staff?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-823','game16','Akhuwat in Pakistan gives interest-free loans (qarz-e-hasna) to families to start small businesses. If you had a small fund to lend interest-free, who in your area would you pick, and what business would you back?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-824','game16','Who in your family lives or works abroad (the Gulf, UK, anywhere), and what do the rest of the family always ask them to bring back?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-825','game16','What is the best and worst thing about being the eldest, the middle or the youngest in your family?','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-826','game16','Which smell instantly takes you back to your Nani''s or Dadi''s kitchen?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-827','game16','After Jummah, what do you like to do for the rest of Friday (a special lunch, a nap, a drive, cricket)?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-828','game16','What is the best thing about the street or mohalla you grew up in?','','Deep & ThoughtProvoking');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-829','game16','What is the longest you have ever gone without your phone or internet, and what did you do?','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-830','game16','Who is the person you call first when you have good news, and why?','','Deep & ThoughtProvoking');

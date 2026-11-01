@@ -9241,6 +9241,48 @@
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
    "note": "New card (debate): Overseas work angle not covered; distinct from the strange-request card."
+  },
+  {
+   "id": null,
+   "Name": "What is the best and worst thing about being the eldest, the middle or the youngest in your family?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Differs from the sibling-count card by asking for pros and cons of birth order."
+  },
+  {
+   "id": null,
+   "Name": "Which smell instantly takes you back to your Nani's or Dadi's kitchen?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Narrower desi frame than the generic smell-memory card, and different from the Nani dish card."
+  },
+  {
+   "id": null,
+   "Name": "After Jummah, what do you like to do for the rest of Friday (a special lunch, a nap, a drive, cricket)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Friday routine question; the live Jummah card asks about childhood memories of the prayer."
+  },
+  {
+   "id": null,
+   "Name": "What is the best thing about the street or mohalla you grew up in?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Positive reflection, unlike the other mohalla cards (renaming, improving, jokes)."
+  },
+  {
+   "id": null,
+   "Name": "What is the longest you have ever gone without your phone or internet, and what did you do?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Long phone break is not covered by existing no-phone dinner, battery or internet-down cards."
+  },
+  {
+   "id": null,
+   "Name": "Who is the person you call first when you have good news, and why?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Warm, family-friendly and not covered by any existing card."
   }
  ]
 }
