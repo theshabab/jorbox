@@ -3686,6 +3686,306 @@
    "Description": "Things That Need Electricity",
    "action": "add",
    "note": "New card (debate): Broad, distinct enough from batteries card."
+  },
+  {
+   "id": null,
+   "Description": "Gemstones",
+   "action": "add",
+   "note": "New card (debate): Tightened wording; not in deck (Jewellery Items covers ornaments only)."
+  },
+  {
+   "id": null,
+   "Description": "Metals",
+   "action": "add",
+   "note": "New card (debate): Materials rather than objects, distinct from Things Made of Metal."
+  },
+  {
+   "id": null,
+   "Description": "Countries in Africa",
+   "action": "add",
+   "note": "New card (debate): Distinct continent geography card with a large answer pool."
+  },
+  {
+   "id": null,
+   "Description": "Countries in Europe",
+   "action": "add",
+   "note": "New card (debate): Not in deck, large and well-known pool."
+  },
+  {
+   "id": null,
+   "Description": "Countries in Asia",
+   "action": "add",
+   "note": "New card (debate): Only partly overlaps Muslim-Majority Countries; easy and fair."
+  },
+  {
+   "id": null,
+   "Description": "Islands of the World",
+   "action": "add",
+   "note": "New card (debate): Not in deck; accurate, fun answer pool."
+  },
+  {
+   "id": null,
+   "Description": "Famous Cities Around the World (Not in Pakistan)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment avoids the capital-or-not disputes and overlap with Pakistani Cities."
+  },
+  {
+   "id": null,
+   "Description": "Famous Scientists (Any Time, Any Country)",
+   "action": "add",
+   "note": "New card (debate): Broader than the Muslim-scientists card; people not things (unlike Famous Inventions)."
+  },
+  {
+   "id": null,
+   "Description": "Parts of a Computer or Laptop",
+   "action": "add",
+   "note": "New card (debate): Parts, not whole devices; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Sources of Energy",
+   "action": "add",
+   "note": "New card (debate): Tightened wording; science-flavoured and relatable."
+  },
+  {
+   "id": null,
+   "Description": "Things That Have an Expiry Date",
+   "action": "add",
+   "note": "New card (debate): Relatable, many answers, distinct from fridge card."
+  },
+  {
+   "id": null,
+   "Description": "Sources of Light",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy and wide pool."
+  },
+  {
+   "id": null,
+   "Description": "Things in a Museum",
+   "action": "add",
+   "note": "New card (debate): Venue card in the style of Zoo/Library/Bank; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things on a Ship or Boat",
+   "action": "add",
+   "note": "New card (debate): Not in deck; clear answer pool."
+  },
+  {
+   "id": null,
+   "Description": "Things You Can Write On",
+   "action": "add",
+   "note": "New card (debate): Amended to avoid overlap with School/Office Supplies; livelier pool."
+  },
+  {
+   "id": null,
+   "Description": "Types of Shops and Stores",
+   "action": "add",
+   "note": "New card (debate): Deck has specific shops but not shop types; big pool."
+  },
+  {
+   "id": null,
+   "Description": "Types of Buildings",
+   "action": "add",
+   "note": "New card (debate): Plain, fully playable, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Find at a Dentist's Clinic",
+   "action": "add",
+   "note": "New card (debate): Funny relatable venue card, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Deserts (Pakistan or Anywhere in the World)",
+   "action": "add",
+   "note": "New card (debate): Amended to widen the pool, mirrors the Famous Beaches card; distinct from Things in a Desert."
+  },
+  {
+   "id": null,
+   "Description": "Vitamins, Minerals and Nutrients",
+   "action": "add",
+   "note": "New card (debate): Uncontroversial school-science staple, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Hobbies",
+   "action": "add",
+   "note": "New card (debate): Wholesome, universal, wide pool; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Empires and Ancient Civilisations",
+   "action": "add",
+   "note": "New card (debate): General history with proud Muslim answers (Ottoman, Mughal, Abbasid); not a duplicate of Muslim Rulers."
+  },
+  {
+   "id": null,
+   "Description": "Parts of a Plant or Tree",
+   "action": "add",
+   "note": "New card (debate): School-general parts card, same format as Car Parts."
+  },
+  {
+   "id": null,
+   "Description": "Things You Read",
+   "action": "add",
+   "note": "New card (debate): Fun, universal, includes Quran; not covered by Book Genres or Library."
+  },
+  {
+   "id": null,
+   "Description": "Parts of a Bicycle",
+   "action": "add",
+   "note": "New card (debate): Everyone knows these; mirrors Car Parts, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Blessings We Take for Granted",
+   "action": "add",
+   "note": "New card (debate): Shukr theme with easy answers (air, water, sight, health, sleep, rain). No similar card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things Money Can't Buy",
+   "action": "add",
+   "note": "New card (debate): Anti-consumerist, many guessable answers, not preachy. No duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Be Kind to Your Parents",
+   "action": "add",
+   "note": "New card (debate): Birr al-walidayn; relatable, many answers. Not covered by Family Relations or Things Ammi Says."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Keep Ties With Relatives (Sila Rehmi)",
+   "action": "add",
+   "note": "New card (debate): Duty to relatives over individualism; practical answers; different frame from Questions Relatives Ask."
+  },
+  {
+   "id": null,
+   "Description": "Things You Share With Neighbours",
+   "action": "add",
+   "note": "New card (debate): Rights of the neighbour; light, many Pakistani and universal answers. Not a duplicate of People Who Come to Your Door."
+  },
+  {
+   "id": null,
+   "Description": "Things We Waste (Israf)",
+   "action": "add",
+   "note": "New card (debate): Anti-waste theme; plenty of everyday answers; the parenthetical matches the deck's style, as in Good Deeds (Nekiyan)."
+  },
+  {
+   "id": null,
+   "Description": "Things You Can Give in Charity (Sadaqah)",
+   "action": "add",
+   "note": "New card (debate): Sadaqah theme; accepted with the challenger's reframing to tangible items (food, clothes, water, books, blankets, medicine, school fees), which keeps it distinct from Good Deeds."
+  },
+  {
+   "id": null,
+   "Description": "Things That Test Your Patience",
+   "action": "add",
+   "note": "New card (debate): Sabr theme; used the challenger's version without the Sabr tag to avoid sounding like a lecture. Situations are relatable and not duplicated by the traffic or queue cards."
+  },
+  {
+   "id": null,
+   "Description": "Good Character Traits (Akhlaq)",
+   "action": "add",
+   "note": "New card (debate): Character over appearance; easy, many answers, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Good Manners (Adab) Children Are Taught",
+   "action": "add",
+   "note": "New card (debate): Family as foundation; the challenger's shorter wording is better. Concrete, playable answers (salam, right hand, respect elders, knock, shukriya)."
+  },
+  {
+   "id": null,
+   "Description": "Foods and Drinks Mentioned in the Quran",
+   "action": "add",
+   "note": "New card (debate): Quran-based and accurate with the challenger's amended set (dates, grapes, figs, olives, pomegranates, honey, milk, onions, lentils, cucumbers, fish, quail, bread). Barley and garlic are excluded as unsafe or disputed. Distinct from the animals card."
+  },
+  {
+   "id": null,
+   "Description": "Foods the Prophet ﷺ Ate or Recommended",
+   "action": "add",
+   "note": "New card (debate): Well-attested hadith foods (dates, milk, honey, barley, olive oil, vinegar, pumpkin, watermelon, cucumber, black seed). Not in the deck and makes no fiqh claims."
+  },
+  {
+   "id": null,
+   "Description": "Famous Muslim Women in History",
+   "action": "add",
+   "note": "New card (debate): Pride in Muslim history; all named women are real and well established. Enough answers (Khadijah, Aisha, Fatimah, Sumayyah, Hafsa, Zainab, Fatima al-Fihri, Razia Sultana, Fatima Jinnah, Rabia Basri). Not a duplicate of the Sahaba card."
+  },
+  {
+   "id": null,
+   "Description": "Great Cities of Muslim History",
+   "action": "add",
+   "note": "New card (debate): History pride with easy answers for Pakistani players (Makkah, Madinah, Baghdad, Cordoba, Cairo, Damascus, Istanbul, Samarkand, Delhi, Lahore). Distinct from the modern Muslim-majority cities card."
+  },
+  {
+   "id": null,
+   "Description": "English Words That Came From Arabic",
+   "action": "add",
+   "note": "New card (debate): Muslim contributions, checkable. Safe answers: algebra, sugar, cotton, coffee, zero, sofa, mattress, lemon, magazine, admiral, giraffe, safari, candy, jar, tariff. Alcohol and assassin are excluded. Not a duplicate of English Words Used in Everyday Urdu."
+  },
+  {
+   "id": null,
+   "Description": "Things Pakistan Inherited From British Rule",
+   "action": "add",
+   "note": "New card (debate): Colonial history at the level of systems and objects (railways, English, courts, civil service, cantonments, clock towers, Mall Roads, canals). The challenger's framing is clearer than 'left behind'. No people are insulted."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Save Money",
+   "action": "add",
+   "note": "New card (debate): Frugality and anti-waste; practical, relatable answers; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things You Can Repair Instead of Replacing",
+   "action": "add",
+   "note": "New card (debate): Anti-disposable culture; many everyday answers (shoes, phone, watch, umbrella, cycle, fan). Distinct from Things Pakistanis Reuse."
+  },
+  {
+   "id": null,
+   "Description": "Fun Things That Cost Nothing",
+   "action": "add",
+   "note": "New card (debate): Happiness without spending; the zero-cost rule keeps it distinct from Things You Do on a Day Off and Things You Take on a Picnic."
+  },
+  {
+   "id": null,
+   "Description": "Things Everyone Rushes to Buy in a Sale",
+   "action": "add",
+   "note": "New card (debate): Affectionate critique of sale-season frenzy; relatable and fun; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things People Show Off Online",
+   "action": "add",
+   "note": "New card (debate): Habit-level critique of status culture with no individuals named; easy answers; different from the Social Media Apps card."
+  },
+  {
+   "id": null,
+   "Description": "Reasons People Borrow Money",
+   "action": "add",
+   "note": "New card (debate): Debt awareness without fatwa claims (the challenger's neutral wording). Relatable answers (weddings, house, car, school fees, medical bills). Distinct from Excuses for Not Lending Someone Money."
+  },
+  {
+   "id": null,
+   "Description": "Ways We Waste Time",
+   "action": "add",
+   "note": "New card (debate): Time as an amanah; relatable, many answers (scrolling, gaming, gossip, oversleeping). Only slight overlap with the waste card."
+  },
+  {
+   "id": null,
+   "Description": "People You Owe Kindness and Duty To",
+   "action": "add",
+   "note": "New card (debate): Duties over individualism, using the simpler wording instead of 'Huqooq'. Easy people-based answers. It is the one broad duty card, so the similar help-people card was dropped."
+  },
+  {
+   "id": null,
+   "Description": "Things You Can Make at Home Instead of Buying",
+   "action": "add",
+   "note": "New card (debate): Anti-consumerist, practical and fun; many easy answers (dahi, achar, chutney, lassi, roti, jam, ghee, kulfi). Not a duplicate of Gharelu Totkay or the dish cards."
   }
  ]
 }

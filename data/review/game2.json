@@ -11263,6 +11263,598 @@
    "Category": "Animals",
    "action": "add",
    "note": "New card (debate): Well-known animal missing; accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Dolphin",
+   "Description": "Sea | Smart | Fin | Jump | Mammal",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Not in deck; universal and actable."
+  },
+  {
+   "id": null,
+   "Name": "Kangaroo",
+   "Description": "Australia | Pouch | Hop | Joey | Tail",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Not in deck; very actable."
+  },
+  {
+   "id": null,
+   "Name": "Panda",
+   "Description": "China | Bamboo | Black | White | Bear",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Not in deck; universally known."
+  },
+  {
+   "id": null,
+   "Name": "Octopus",
+   "Description": "Eight | Tentacles | Ink | Sea | Squid",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment removes the Tentacles/Arms synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Butterfly",
+   "Description": "Wings | Caterpillar | Cocoon | Flower | Colorful",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Amended: removes answer stem Fly and matches the deck's Color spelling."
+  },
+  {
+   "id": null,
+   "Name": "Falcon",
+   "Description": "Talons | Glove | Dive | Hawk | Hunt",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): Amended: falconry cues are stronger than the vague Bird/Sharp."
+  },
+  {
+   "id": null,
+   "Name": "Pelican",
+   "Description": "Beak | Pouch | Fish | Scoop | Coast",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): Amended: replaces the filler words Big and Water."
+  },
+  {
+   "id": null,
+   "Name": "Kiwi",
+   "Description": "Green | Brown | Fuzzy | Sour | Seeds",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Not in deck; banned words steer to the fruit."
+  },
+  {
+   "id": null,
+   "Name": "Avocado",
+   "Description": "Green | Stone | Creamy | Toast | Guacamole",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Not in deck; distinct banned words."
+  },
+  {
+   "id": null,
+   "Name": "Broccoli",
+   "Description": "Green | Tree | Florets | Healthy | Steam",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Not in deck; fine banned words."
+  },
+  {
+   "id": null,
+   "Name": "Lightning",
+   "Description": "Thunder | Storm | Sky | Flash | Electric",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Flash/Bolt synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Tsunami",
+   "Description": "Wave | Earthquake | Coast | Flood | Ocean",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Amended: replaces the weak filler Giant."
+  },
+  {
+   "id": null,
+   "Name": "Tornado",
+   "Description": "Funnel | Spin | Wind | Debris | Cloud",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the synonym Twister."
+  },
+  {
+   "id": null,
+   "Name": "Astronaut",
+   "Description": "Space | Moon | Rocket | Suit | Float",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Not in deck; fun to act out."
+  },
+  {
+   "id": null,
+   "Name": "Pharmacist",
+   "Description": "Medicine | Prescription | Counter | Syrup | Doctor",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the synonym Chemist and the duplicate clue Tablets."
+  },
+  {
+   "id": null,
+   "Name": "Architect",
+   "Description": "Building | Blueprint | Design | Model | Engineer",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Map/Plan/Design synonym cluster."
+  },
+  {
+   "id": null,
+   "Name": "Librarian",
+   "Description": "Books | Shelf | Borrow | Silence | Stamp",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the answer root Library."
+  },
+  {
+   "id": null,
+   "Name": "Fisherman",
+   "Description": "Net | Rod | Boat | Hook | Bait",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the answer root Fish."
+  },
+  {
+   "id": null,
+   "Name": "Submarine",
+   "Description": "Underwater | Navy | Periscope | Ship | Torpedo",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Underwater/Dive overlap."
+  },
+  {
+   "id": null,
+   "Name": "Hot Air Balloon",
+   "Description": "Basket | Burner | Sky | Float | Turkey",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Amended: sharper clues; Cappadocia in Turkey is a famous ballooning site."
+  },
+  {
+   "id": null,
+   "Name": "Crowbar",
+   "Description": "Iron | Pry | Burglar | Hook | Heavy",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Lever/Pry synonym pair and filler."
+  },
+  {
+   "id": null,
+   "Name": "Pickaxe",
+   "Description": "Dig | Rock | Coal | Heavy | Sharp",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Mine/Miner duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Whisk",
+   "Description": "Eggs | Beat | Cream | Wire | Batter",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Beat/Mix synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Can Opener",
+   "Description": "Tin | Lid | Metal | Twist | Handle",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the answer word Open and the category label Kitchen."
+  },
+  {
+   "id": null,
+   "Name": "Drone",
+   "Description": "Camera | Remote | Propellers | Hover | Buzz",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Fly/Hover synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Charger",
+   "Description": "Phone | Cable | Battery | Plug | Power",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Plug/Socket synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Rowing",
+   "Description": "Oars | Boat | Water | Team | Race",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Oars/Paddle synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Weightlifting",
+   "Description": "Barbell | Heavy | Gym | Muscles | Olympics",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the answer word Lift."
+  },
+  {
+   "id": null,
+   "Name": "Scissors",
+   "Description": "Cut | Paper | Blades | Hair | Tailor",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Amended: removes the Cut/Snip synonym pair."
+  },
+  {
+   "id": null,
+   "Name": "Shark",
+   "Description": "Fin | Teeth | Ocean | Predator | Bite",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy to mime."
+  },
+  {
+   "id": null,
+   "Name": "Spider",
+   "Description": "Web | Eight | Legs | Silk | Crawl",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Not in deck; universal and actable."
+  },
+  {
+   "id": null,
+   "Name": "Bee",
+   "Description": "Honey | Sting | Hive | Buzz | Queen",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy and neutral."
+  },
+  {
+   "id": null,
+   "Name": "Cactus",
+   "Description": "Desert | Thorns | Spiky | Water | Green",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Not in deck; funny to act out."
+  },
+  {
+   "id": null,
+   "Name": "Planet",
+   "Description": "Earth | Orbit | Mars | Space | Round",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Not in deck; basic science word."
+  },
+  {
+   "id": null,
+   "Name": "Eclipse",
+   "Description": "Sun | Moon | Shadow | Darkness | Namaz",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Not in deck; the eclipse prayer (Salat al-Kusuf) is well established."
+  },
+  {
+   "id": null,
+   "Name": "Surgeon",
+   "Description": "Operation | Scalpel | Hospital | Mask | Stitches",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Not in deck; easy to mime."
+  },
+  {
+   "id": null,
+   "Name": "Referee",
+   "Description": "Whistle | Match | Foul | Fair | Rules",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Not in deck; fun to act out."
+  },
+  {
+   "id": null,
+   "Name": "Lifeguard",
+   "Description": "Pool | Rescue | Beach | Float | Drown",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Not in deck; everyday job."
+  },
+  {
+   "id": null,
+   "Name": "Parachute",
+   "Description": "Jump | Sky | Plane | Rope | Land",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Not in deck; visual and actable."
+  },
+  {
+   "id": null,
+   "Name": "Spatula",
+   "Description": "Flip | Fry | Pan | Flat | Handle",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Not in deck; common utensil."
+  },
+  {
+   "id": null,
+   "Name": "Hiking",
+   "Description": "Trail | Mountain | Boots | Backpack | Camp",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Not in deck; Walk replaced with Camp to avoid a near-synonym of Trail."
+  },
+  {
+   "id": null,
+   "Name": "Sabr",
+   "Description": "Patience | Hardship | Wait | Ayyub | Reward",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Core virtue; Calm swapped for Reward to avoid near-synonyms."
+  },
+  {
+   "id": null,
+   "Name": "Shukr",
+   "Description": "Gratitude | Alhamdulillah | Blessings | Count | Ungrateful",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Gratitude over wanting more; distinct banned words."
+  },
+  {
+   "id": null,
+   "Name": "Tawakkul",
+   "Description": "Trust | Allah | Camel | Tie | Effort",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Camel hadith; effort plus reliance; easy to mime."
+  },
+  {
+   "id": null,
+   "Name": "Sila Rehmi",
+   "Description": "Relatives | Visit | Gift | Eid | Cousins",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment removes synonym banned word."
+  },
+  {
+   "id": null,
+   "Name": "Haya",
+   "Description": "Modesty | Faith | Gaze | Character | Branch",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment removes synonyms; hadith framing."
+  },
+  {
+   "id": null,
+   "Name": "Riba",
+   "Description": "Interest | Bank | Haram | Loan | Percent",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Anti-debt economics; amended to remove synonym."
+  },
+  {
+   "id": null,
+   "Name": "Israf",
+   "Description": "Waste | Leftovers | Dustbin | Plate | Tap",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Quran 7:31; avoids weakly graded hadith."
+  },
+  {
+   "id": null,
+   "Name": "Barakah",
+   "Description": "Blessing | Rizq | Enough | Increase | Money",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Enough-ness against consumerism; accepted as proposed."
+  },
+  {
+   "id": null,
+   "Name": "Amanah",
+   "Description": "Trust | Deposit | Return | Safe | Sadiq",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Accurate; honesty and trusts kept."
+  },
+  {
+   "id": null,
+   "Name": "Qana'at",
+   "Description": "Contentment | Greed | Wealth | Soul | Simple",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment removes near-synonym and overlap with Barakah."
+  },
+  {
+   "id": null,
+   "Name": "Tawbah",
+   "Description": "Repentance | Sin | Forgiveness | Return | Sincere",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Not in deck; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Shepherd",
+   "Description": "Flock | Sheep | Stick | Grass | Prophets",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Humble halal work; easy to act."
+  },
+  {
+   "id": null,
+   "Name": "Calligrapher",
+   "Description": "Khattat | Pen | Ink | Arabic | Art",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Islamic art tradition; visual."
+  },
+  {
+   "id": null,
+   "Name": "Beekeeper",
+   "Description": "Honey | Hive | Wax | Sting | Smoke",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Banned word contained in answer removed."
+  },
+  {
+   "id": null,
+   "Name": "Joint Family",
+   "Description": "Dada | Cousins | One Roof | Uncles | Together",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Relatable family-over-individualism card."
+  },
+  {
+   "id": null,
+   "Name": "Orphan",
+   "Description": "Yateem | Parents | Sponsor | Kindness | Jannah",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Emphasised in Quran and Sunnah."
+  },
+  {
+   "id": null,
+   "Name": "Neighbour",
+   "Description": "Hamsaya | Next Door | Wall | Plate | Rights",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights; fun mime."
+  },
+  {
+   "id": null,
+   "Name": "Abdullah ibn Umar",
+   "Description": "Sunnah | Hadith | Careful | Caliph | Footsteps",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Amended to drop banned word contained in the answer."
+  },
+  {
+   "id": null,
+   "Name": "Abu Darda",
+   "Description": "Damascus | Salman | Merchant | Simple | Ansari",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Accurate; simplicity over wealth."
+  },
+  {
+   "id": null,
+   "Name": "Umm Salamah",
+   "Description": "Hudaybiyyah | Advice | Wife | Hijrah | Widow",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Amended to drop banned word contained in the answer."
+  },
+  {
+   "id": null,
+   "Name": "Ibn al-Haytham",
+   "Description": "Optics | Alhazen | Light | Cairo | Experiment",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim science pride."
+  },
+  {
+   "id": null,
+   "Name": "Al-Zahrawi",
+   "Description": "Surgery | Albucasis | Cordoba | Instruments | Tasrif",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate; not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "Al-Jazari",
+   "Description": "Engineer | Elephant Clock | Crankshaft | Water | Diyarbakir",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Synonym banned words removed."
+  },
+  {
+   "id": null,
+   "Name": "Mimar Sinan",
+   "Description": "Architect | Ottoman | Suleymaniye | Domes | Istanbul",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate and well known."
+  },
+  {
+   "id": null,
+   "Name": "Omar Mukhtar",
+   "Description": "Libya | Italy | Teacher | Resistance | Desert",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate anti-colonial history."
+  },
+  {
+   "id": null,
+   "Name": "House of Wisdom",
+   "Description": "Baghdad | Translation | Abbasid | Library | Mamun",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Synonym removed; accurate patron."
+  },
+  {
+   "id": null,
+   "Name": "Al-Azhar",
+   "Description": "Cairo | University | Egypt | Scholars | Mosque",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Talbina",
+   "Description": "Barley | Milk | Honey | Sunnah | Grief",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith food."
+  },
+  {
+   "id": null,
+   "Name": "Waqf",
+   "Description": "Endowment | Property | Ongoing | Well | Reward",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Charity concept; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Qard Hasan",
+   "Description": "Loan | Interest-free | Friend | Return | Reward",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Halal alternative to riba."
+  },
+  {
+   "id": null,
+   "Name": "Dastarkhwan",
+   "Description": "Floor | Meal | Cloth | Sit | Guests",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Relatable, actable, simple shared eating."
+  },
+  {
+   "id": null,
+   "Name": "Ibn al-Nafis",
+   "Description": "Lungs | Blood | Circulation | Cairo | Physician",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim science."
+  },
+  {
+   "id": null,
+   "Name": "Ulugh Beg",
+   "Description": "Observatory | Samarkand | Timurid | Stars | Grandson",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate astronomy figure."
   }
  ]
 }

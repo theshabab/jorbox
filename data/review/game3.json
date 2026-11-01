@@ -10921,6 +10921,462 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Relatable writing prompt."
+  },
+  {
+   "id": null,
+   "Name": "Mountains of the World",
+   "Description": "Everest|Kangchenjunga|Lhotse|Makalu|Annapurna|Mont Blanc|Kilimanjaro|Aconcagua|Elbrus|Matterhorn|Mount Fuji|Mount Sinai|Mount Ararat|Mount Kenya|Mount Etna|Table Mountain|Jabal e Noor|Mount Damavand|Mount Kinabalu",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version; obscure peaks swapped for Muslim-world mountains."
+  },
+  {
+   "id": null,
+   "Name": "Deserts of the World",
+   "Description": "Sahara|Gobi|Kalahari|Rub al Khali|Atacama|Namib|Thar|Cholistan|Taklamakan|Nafud|Dasht-e-Lut|Karakum|Syrian Desert|Sinai Desert|Libyan Desert|Nubian Desert|Kharan Desert",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version removes obscure and overlapping items."
+  },
+  {
+   "id": null,
+   "Name": "Islands of the World",
+   "Description": "Madagascar|Borneo|Sumatra|Java|Sri Lanka|Cyprus|Sicily|Iceland|Greenland|Maldives|Bali|Zanzibar|Bahrain|Mauritius|Langkawi|Tasmania|Astola|Kish|Cuba|Ireland",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version; all real, distinct islands."
+  },
+  {
+   "id": null,
+   "Name": "Famous Towers of the World",
+   "Description": "Burj Khalifa|Eiffel Tower|Petronas Towers|Makkah Clock Tower|CN Tower|Tokyo Skytree|Shanghai Tower|Leaning Tower of Pisa|Big Ben|Galata Tower|Azadi Tower|Milad Tower|Taipei 101|Qutub Minar",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended and further trimmed: dropped unbuilt Jeddah Tower and obscure Merdeka 118."
+  },
+  {
+   "id": null,
+   "Name": "Great Inventions",
+   "Description": "Wheel|Printing Press|Telephone|Light Bulb|Aeroplane|Compass|Paper|Telescope|Camera|Radio|Refrigerator|Steam Engine|Microscope|Typewriter|Clock|Thermometer|Battery|Computer|Internet|Vaccine|X-ray",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Universal, easy to bluff, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Natural Disasters",
+   "Description": "Earthquake|Flood|Tsunami|Cyclone|Landslide|Avalanche|Drought|Volcanic Eruption|Wildfire|Heatwave|Sandstorm|Tornado|Blizzard|Cloudburst|Locust Attack|Sinkhole",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version removes non-disasters and near-synonyms."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Supermarket",
+   "Description": "Trolley|Basket|Aisle|Barcode Scanner|Checkout Counter|Cashier|Shelf|Freezer|Price Tag|Receipt|Shopping Bag|Weighing Scale|Discount Sticker|Bakery Counter|Expiry Date|Loyalty Card|Fruit Section|Security Guard|Billing Machine|Parking Lot",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version; no supermarket topic exists in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Things in a Jungle",
+   "Description": "Vines|Tall Trees|Monkeys|Parrots|Snakes|Tiger|Elephant|Waterfall|Fallen Logs|Moss|Ferns|Footprints|Canopy|Mosquitoes|River|Cave|Bamboo|Gorilla|Leeches|Python",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version with clearer items."
+  },
+  {
+   "id": null,
+   "Name": "Things on a Ship",
+   "Description": "Deck|Anchor|Captain|Lifeboat|Life Jacket|Sail|Funnel|Cabin|Porthole|Engine Room|Radar|Compass|Crew|Rope|Mast|Steering Wheel|Bridge|Hull|Cargo|Horn",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version; removed lighthouse and duplicate containers."
+  },
+  {
+   "id": null,
+   "Name": "Birds of Prey",
+   "Description": "Eagle|Falcon|Hawk|Owl|Vulture|Kite|Osprey|Harrier|Buzzard|Kestrel|Condor|Shaheen|Golden Eagle|Fish Eagle",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended; added Shaheen, dropped obscure species and US-centric Bald Eagle."
+  },
+  {
+   "id": null,
+   "Name": "Dinosaurs",
+   "Description": "T-Rex|Triceratops|Stegosaurus|Velociraptor|Brachiosaurus|Diplodocus|Ankylosaurus|Spinosaurus|Allosaurus|Iguanodon|Parasaurolophus|Apatosaurus",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended to well-known dinosaurs only."
+  },
+  {
+   "id": null,
+   "Name": "Parts of a House",
+   "Description": "Roof|Door|Window|Wall|Floor|Stairs|Balcony|Courtyard|Gate|Hall|Basement|Chimney|Veranda|Ceiling|Garage|Terrace|Lobby|Storeroom|Drawing Room|Boundary Wall",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version; Doorbell replaced with a room."
+  },
+  {
+   "id": null,
+   "Name": "Parts of a Computer",
+   "Description": "Monitor|Keyboard|Mouse|CPU|RAM|Hard Drive|Motherboard|Graphics Card|Power Supply|Cooling Fan|USB Port|Webcam|Speaker|SSD|Heat Sink|Sound Card",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended to avoid overlap with Electronic Devices."
+  },
+  {
+   "id": null,
+   "Name": "Draw a lighthouse.",
+   "Description": "Draw a tall tower.|Draw a ship at sea.|Draw a minaret.|Draw a windmill.|Draw a watchtower.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Drawable, general, no lighthouse card exists."
+  },
+  {
+   "id": null,
+   "Name": "Draw a volcano erupting.",
+   "Description": "Draw a mountain in a storm.|Draw a campfire.|Draw a geyser.|Draw a kettle boiling over.|Draw a chimney with smoke.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Fun to draw, no duplicate, good decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a compass.",
+   "Description": "Draw a clock.|Draw a map.|Draw a wristwatch.|Draw a magnifying glass.|Draw a globe.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Simple universal object with plausible decoys."
+  },
+  {
+   "id": null,
+   "Name": "The most useful thing I have ever learned is...",
+   "Description": "The most useless thing I have ever learned is...|The best advice I ever received is...|The hardest thing I ever learned is...|The best thing I learned at school is...|The first thing I learned to cook is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Universal reflective prompt, no equivalent."
+  },
+  {
+   "id": null,
+   "Name": "The best advice a grandparent ever gave me is...",
+   "Description": "The best advice a teacher gave me is...|The worst advice I have ever received is...|The best advice I would give my younger self is...|The thing my grandfather says most often is...|The best thing my grandmother cooks is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Warm, family-centred, distinct from the ten-year-old-self advice card."
+  },
+  {
+   "id": null,
+   "Name": "The best thing to take on a long journey is...",
+   "Description": "The best thing to take on a picnic is...|The worst thing to forget at home is...|The best snack for a road trip is...|The one thing I never travel without is...|The best thing to read on a train is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Universal travel prompt, distinct from existing journey cards."
+  },
+  {
+   "id": null,
+   "Name": "I would rather be early than make others wait.",
+   "Description": "I hate being rushed.|I always arrive late.|I set three alarms.|I am the first to arrive at any meeting.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable punctuality statement, distinct from the weddings card."
+  },
+  {
+   "id": null,
+   "Name": "A handwritten letter means more than a text message.",
+   "Description": "I prefer voice notes to texts.|I still remember phone numbers.|I like receiving parcels.|I keep a diary.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Clean debate statement, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "You see a mother struggling with heavy bags and a toddler on a crowded bus. You...",
+   "Description": "offer your seat|help carry the bags|pretend not to notice",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Clean everyday ethics scenario, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "You find a stray kitten crying in the rain outside your door. You...",
+   "Description": "bring it inside|put out a bowl of milk|call an animal rescue",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Gentle universal dilemma, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Your younger sibling asks for help with homework just as your favourite match starts. You...",
+   "Description": "help them first|watch the match, then help|send them to Ammi",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Relatable family dilemma with distinct options."
+  },
+  {
+   "id": null,
+   "Name": "Muslim Scientists and Thinkers",
+   "Description": "Al-Khwarizmi|Ibn Sina|Ibn al-Haytham|Al-Biruni|Al-Razi|Jabir ibn Hayyan|Ibn Rushd|Ibn Khaldun|Al-Zahrawi|Al-Jazari|Al-Farabi|Al-Idrisi|Al-Kindi|Ibn al-Nafis|Omar Khayyam|Ibn Battuta",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Genuine, well-known figures; no overlap with Historical Figures; fits deck pride."
+  },
+  {
+   "id": null,
+   "Name": "Famous Historic Sites of the World",
+   "Description": "Pyramids of Giza|Great Wall of China|Taj Mahal|Petra|Machu Picchu|Colosseum|Alhambra|Hagia Sophia|Stonehenge|Angkor Wat|Persepolis|Registan|Forbidden City|Blue Mosque|Cordoba Mosque",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Missing world-heritage topic; removed Mohenjo Daro to avoid overlap with Pakistani Monuments."
+  },
+  {
+   "id": null,
+   "Name": "A printed book is better than reading on a screen.",
+   "Description": "I read more on my phone than in books.|I never finish a book.|I love the smell of a library.|I prefer audiobooks.|I always carry a book with me.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Universal opinion, no book-vs-screen card exists."
+  },
+  {
+   "id": null,
+   "Name": "An elderly neighbour is carrying heavy shopping up the stairs as you head out. You...",
+   "Description": "carry it up for them|offer help on your way back|say salam and keep walking",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Everyday ethics scenario with real duty-to-neighbour flavour; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Muslim Scientists and Thinkers",
+   "Description": "Al-Khwarizmi|Ibn al-Haytham|Al-Biruni|Ibn Sina|Al-Razi|Al-Zahrawi|Jabir ibn Hayyan|Ibn Khaldun|Ibn al-Nafis|Al-Jazari|Al-Kindi|Ibn Rushd|Al-Farabi|Omar Khayyam|Abbas ibn Firnas|Fatima al-Fihri",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's trimmed list; obscure or ambiguous names removed, no existing duplicate topic."
+  },
+  {
+   "id": null,
+   "Name": "Animals Named in the Quran",
+   "Description": "Camel|Elephant|Ant|Bee|Spider|Hoopoe|Cow|Whale|Crow|Dog|Horse|Mule|Donkey|Locust|Frog|Wolf|Snake|Sheep|Quail|Fly",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fish replaced (overlaps Whale); Calf replaced by Snake (overlaps Cow). All attested in the Quran."
+  },
+  {
+   "id": null,
+   "Name": "Foods Named in the Quran",
+   "Description": "Dates|Grapes|Olives|Figs|Pomegranates|Honey|Milk|Lentils|Onions|Cucumbers|Fish|Quail|Ginger|Bread|Manna|Pumpkins",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Disputed Garlic and generic entries removed; remaining foods are attested."
+  },
+  {
+   "id": null,
+   "Name": "Blessings We Take for Granted",
+   "Description": "Clean Water|Eyesight|Hearing|Parents|Good Health|A Roof|Hot Food|Electricity|Sleep|Breath|Friends|Faith|Family|Hands|Rain|Sunlight|Education|Safety|Peace|Freedom to Pray",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Warm gratitude topic, all words fit, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Tests of Sabr",
+   "Description": "Traffic Jam|Slow Internet|Load-Shedding|Long Queue|Waiting for a Rishta Reply|Toddler Tantrum|Exam Result|Delayed Flight|Hot Summer Afternoon|Last Hour of a Fast|Bank Line|Buffering Video|Late Guests|Cold Roti|Red Signal|Leaking Roof|Slow Cooking Daal|Broken Phone Screen|Noisy Neighbours|Waiting for the Bus",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable, funny patience topic, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Shopping Temptations",
+   "Description": "Sale Season|Buy One Get One|Flash Sale|Unboxing Videos|Easy Instalments|Credit Card|Free Delivery|Limited Edition|Brand Logo|Discount Code|Loyalty Points|Cashback Offer|Influencer Ad|Mall Window Display|Online Cart|Last Piece Left|Eid Collection|New Model Launch|Pop-Up Ad|Clearance Rack",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Affectionate anti-consumerism, every word fits."
+  },
+  {
+   "id": null,
+   "Name": "People With Rights Over Us",
+   "Description": "Parents|Neighbours|Guests|Orphans|Relatives|Spouse|Children|Teachers|Employees|Travellers|Elderly|The Poor|The Sick|Friends|Animals|Widows|Domestic Staff",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's tightened list; duties to family and community."
+  },
+  {
+   "id": null,
+   "Name": "Ways to Give Sadaqah",
+   "Description": "Feeding the Hungry|Planting a Tree|Giving Water|Teaching Someone|Smiling|Removing a Thorn from the Road|Sponsoring an Orphan|Donating a Quran|Digging a Well|Gifting Books|Helping a Neighbour|Paying Someone’s Debt|Kind Words|Giving Clothes|Building a Masjid|Offering a Seat|Lending a Hand|Feeding a Stray Cat",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Overlapping and non-sadaqah items removed; charity beyond money."
+  },
+  {
+   "id": null,
+   "Name": "Something I bought but never used is...",
+   "Description": "Something I own that I use every day is...|Something I got for free and loved is...|The last thing I ordered online was...|The most useful thing in my bag is...|Something I borrowed and never returned is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny anti-consumerist Writing card with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Something I have more than enough of is...",
+   "Description": "Something I never have enough of is...|Something I wish I had more of is...|Something I own too many of is...|Something I would happily share is...|Something I could give away tomorrow is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Contentment theme, open and playable."
+  },
+  {
+   "id": null,
+   "Name": "A way to make a neighbour smile is...",
+   "Description": "A way to make my mother smile is...|A way to make a stranger smile is...|A way to make a cranky teacher smile is...|A way to make my little cousin smile is...|A way to annoy a neighbour is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights, warm and fun."
+  },
+  {
+   "id": null,
+   "Name": "A good deed that costs nothing is...",
+   "Description": "A small thing that makes my day is...|A free thing I enjoy is...|A tiny habit I am proud of is...|A cheap thing that feels luxurious is...|A kind thing someone did for me is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Sadaqah without money, broad answers."
+  },
+  {
+   "id": null,
+   "Name": "Something my grandparents had that we have lost is...",
+   "Description": "Something my grandparents did better than us is...|An old-fashioned thing I still love is...|Something I have inherited from my grandparents is...|Something that was better in the past is...|A story my grandparents love telling is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Respect for elders and family roots."
+  },
+  {
+   "id": null,
+   "Name": "Something money cannot buy is...",
+   "Description": "Something money can buy that is not worth it is...|Something I would pay anything for is...|Something I would never sell is...|The best thing I bought with my own money is...|Something I would pay to avoid is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Purpose beyond wealth; distinct from the existing money rating card."
+  },
+  {
+   "id": null,
+   "Name": "A bigger house would make me happier.",
+   "Description": "A newer phone would make me happier.|I would like a bigger room.|I am happy with what I have.|Having a garden would make me happy.|I would be happier with a new car.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Contentment vs buy-more-to-be-happy."
+  },
+  {
+   "id": null,
+   "Name": "I have clothes in my cupboard that I have never worn.",
+   "Description": "I own more shoes than I need.|I give away clothes I no longer wear.|I wear the same few outfits all the time.|I have a drawer full of random cables.|I buy clothes just because they are on sale.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Wardrobe excess, relatable and funny."
+  },
+  {
+   "id": null,
+   "Name": "I always finish everything on my plate.",
+   "Description": "I take small portions the first time.|I always take a second helping.|I cannot stand wasting bread.|I sometimes leave food on my plate.|I always pack leftovers for later.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Anti food-waste; appears only as a decoy elsewhere, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I have bought something just because I saw it online.",
+   "Description": "I have bought something because it was on sale.|I trust reviews on shopping sites.|I follow a lot of influencers.|I compare prices before I buy anything.|I buy things only when I really need them.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Affectionate impulse-shopping critique."
+  },
+  {
+   "id": null,
+   "Name": "A new phone model is launched and yours still works perfectly. You...",
+   "Description": "buy it immediately|wait a year|keep your old one",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Light, debatable contentment dilemma."
+  },
+  {
+   "id": null,
+   "Name": "Your neighbour’s family is sick and nobody can cook. You...",
+   "Description": "send them a full meal|ask if they need anything|assume someone else will help",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Challenger's version adds a tempting lazy option for real debate."
+  },
+  {
+   "id": null,
+   "Name": "At a wedding, half the food on the buffet will be thrown away. You...",
+   "Description": "ask the host to send it to the needy|take extra for yourself|say nothing",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): More realistic and hygienic option; anti-israf."
+  },
+  {
+   "id": null,
+   "Name": "Draw a full shopping cart.",
+   "Description": "Draw an empty shopping cart.|Draw a shopping bag.|Draw a crowded bazaar.|Draw a grocery list.|Draw a loaded trolley at the airport.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Easy to draw, decent decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a masjid courtyard on a Friday.",
+   "Description": "Draw a masjid courtyard at sunset.|Draw an Eid prayer ground.|Draw a madrasa courtyard.|Draw a crowded bazaar.|Draw a railway station.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Challenger's closer decoys keep the bluff fair."
+  },
+  {
+   "id": null,
+   "Name": "Draw a plate of food being sent to a neighbour.",
+   "Description": "Draw a plate of food at a restaurant.|Draw a lunch box.|Draw a food delivery rider.|Draw a tray of Eid sweets.|Draw a stranger at the door.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Warm, drawable neighbour-sharing card."
+  },
+  {
+   "id": null,
+   "Name": "Manners of Eating",
+   "Description": "Saying Bismillah|Right Hand|Eating Together|Eating from Your Side|Sharing Food|Saying Alhamdulillah After|Washing Hands|Not Overeating|Not Wasting Food|Licking Your Fingers|Praising the Cook|Cleaning Up Crumbs|Sitting on the Dastarkhwan",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Trimmed to well-attested etiquette; dropped Starting with Dates, Inviting Guests, Offering Elders First as weak or loosely fitting."
+  },
+  {
+   "id": null,
+   "Name": "The grocery bill misses an item worth Rs. 2,000 and the cashier does not notice. You...",
+   "Description": "tell the cashier|stay quiet|come back and pay later",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Fresh honesty/halal earning dilemma; replaces rejected A19."
+  },
+  {
+   "id": null,
+   "Name": "Your friends start talking badly about someone who is not there. You...",
+   "Description": "change the topic|leave quietly|join in",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Backbiting dilemma, relatable and not preachy."
+  },
+  {
+   "id": null,
+   "Name": "I check my phone within five minutes of waking up.",
+   "Description": "I keep my phone away at meals.|I charge my phone outside my bedroom.|I get distracted by my phone during family time.|I could go a whole day without social media.|I have deleted an app to save time.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Screen-time and attention; relatable."
+  },
+  {
+   "id": null,
+   "Name": "Something I am grateful for today is...",
+   "Description": "Something that went wrong today is...|Something I am looking forward to is...|The best part of my day was...|A person I am thankful for is...|Something I take for granted is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Shukr in an easy Writing card with close decoys."
   }
  ]
 }
