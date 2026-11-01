@@ -35,7 +35,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-33','game1','Chapli Kabab','Flat minced-meat patty from Peshawar','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-34','game1','Seekh Kabab','Minced meat moulded onto long skewers','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-35','game1','Paye','Trotters cooked in spicy gravy','Traditional Dishes');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-36','game1','Halwa Puri','Sunday breakfast of semolina and fried bread','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-36','game1','Halwa Puri','Weekend breakfast: fried bread, sweet semolina, chana','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-37','game1','Saag','Mustard greens dish from Punjab','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-38','game1','Makki Ki Roti','Cornflour flatbread eaten with saag','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-39','game1','Daal Chawal','Lentils poured over plain rice','Traditional Dishes');
@@ -63,7 +63,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-61','game1','Fennel','Saunf; seeds chewed after meals','Spices');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-62','game1','Fenugreek','Bitter seeds and leaves, methi','Spices');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-63','game1','Mustard Seeds','Tiny rai used in tarka','Spices');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-64','game1','Poppy Seeds','Khashkhash, used in halwa','Spices');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-64','game1','Poppy Seeds','Khashkhash, thickens korma and sweets','Spices');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-65','game1','Sesame','Seeds on naan and in til laddoo','Spices');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-66','game1','Bay Leaf','Tez patta in pulao','Spices');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-67','game1','Black Salt','Kala namak, smells of eggs','Spices');
@@ -80,7 +80,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-78','game1','Pomegranate','Fruit full of red juicy seeds, anaar','Fruits');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-79','game1','Guava','Green fruit eaten with salt, amrood','Fruits');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-80','game1','Watermelon','Big green fruit, red inside, tarbooz','Fruits');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-81','game1','Melon','Sweet summer fruit, kharbooza','Fruits');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-81','game1','Melon','Pale orange summer fruit, kharbooza','Fruits');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-82','game1','Apricot','Small orange fruit from Hunza, khubani','Fruits');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-83','game1','Peach','Fuzzy-skinned stone fruit, aarhu','Fruits');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-84','game1','Plum','Purple stone fruit, aloo bukhara','Fruits');
@@ -13480,7 +13480,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-464','game8','Beautiful <---> Ugly','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-465','game8','Happens suddenly <---> Happens slowly','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-466','game8','Dream job <---> Nightmare job','Think of something that falls on this scale','Writing');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-467','game8','Good pizza topping <---> Bad pizza topping','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-467','game8','Good paratha filling <---> Bad paratha filling','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-468','game8','Utopia <---> Dystopia','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-469','game8','Immature person <---> Mature person','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-470','game8','Overrated thing to own <---> Underrated thing to own','Think of something that falls on this scale','Writing');
@@ -13979,6 +13979,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-963','game8','CLUMSY <---> EXPERT','Draw a bird that is this good at untangling a kite string from a tree','Drawing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-964','game8','UNTIDY <---> SPOTLESS','Draw a toy cupboard that is this tidy right before guests arrive','Drawing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-965','game8','NOT CHATTY <---> NEVER STOPS TALKING','Draw a robot that is this chatty, like an uncle at a wedding','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-966','game8','Good thing to dip in chai <---> Bad thing to dip in chai','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-967','game8','Good name for a shop <---> Bad name for a shop','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-968','game8','Good password <---> Bad password','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-969','game8','Safe thing to say to Abbu <---> Risky thing to say to Abbu','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-970','game8','Good way to spend a holiday <---> Bad way to spend a holiday','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-971','game8','Good thing to find in your biryani <---> Bad thing to find in your biryani','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-972','game8','Easy to misplace <---> Hard to misplace','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -16803,6 +16810,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-861','game11','Customer','Hiace Wagon Driver','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-862','game11','Problem','Ammi wakes me up for Fajr by threatening to throw _____ on me!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-863','game11','Problem','Every photocopy I take comes out with a big black patch over _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-864','game11','Customer','Kashmiri Shawl Seller','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-865','game11','Customer','PT Master (School Sports Teacher)','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');

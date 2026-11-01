@@ -6739,16 +6739,16 @@
   },
   {
    "id": "game8-519",
-   "Name": "Good pizza topping <---> Bad pizza topping",
+   "Name": "Good paratha filling <---> Bad paratha filling",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Good pizza topping <---> Bad pizza topping",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Pizza topping invites pork and is Western; paratha filling is local and playable."
   },
   {
    "id": "game8-520",
@@ -11566,6 +11566,62 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): New talkativeness axis with harmless local joke."
+  },
+  {
+   "id": null,
+   "Name": "Good thing to dip in chai <---> Bad thing to dip in chai",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local, funny, clear opposites, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Good name for a shop <---> Bad name for a shop",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Familiar bazaar-shop humour, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "Good password <---> Bad password",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable; distinct from the Wi-Fi password drawing task."
+  },
+  {
+   "id": null,
+   "Name": "Safe thing to say to Abbu <---> Risky thing to say to Abbu",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: keeps family humour without mocking a parent, clearer opposites."
+  },
+  {
+   "id": null,
+   "Name": "Good way to spend a holiday <---> Bad way to spend a holiday",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: avoids Jumu'ah irreverence and overlap with the Friday khutba card."
+  },
+  {
+   "id": null,
+   "Name": "Good thing to find in your biryani <---> Bad thing to find in your biryani",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny local food scale, playable and not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "Easy to misplace <---> Hard to misplace",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment removes the lose-a-game ambiguity."
   }
  ]
 }

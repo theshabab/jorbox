@@ -461,7 +461,7 @@
   {
    "id": "game1-36",
    "Name": "Halwa Puri",
-   "Description": "Sunday breakfast of semolina and fried bread",
+   "Description": "Weekend breakfast: fried bread, sweet semolina, chana",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -469,7 +469,7 @@
     "Description": "A traditional breakfast dish",
     "Category": "Traditional Dishes"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: The old hint left out the chana, which is a defining part of the dish. The new one is accurate and does not contain the name."
   },
   {
    "id": "game1-37",
@@ -851,7 +851,7 @@
   {
    "id": "game1-66",
    "Name": "Poppy Seeds",
-   "Description": "Khashkhash, used in halwa",
+   "Description": "Khashkhash, thickens korma and sweets",
    "Category": "Spices",
    "action": "edit",
    "original": {
@@ -859,7 +859,7 @@
     "Description": "A nutty spice",
     "Category": "Spices"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Khashkhash is a standard korma thickener, so this is a stronger clue than halwa alone, and it does not contain the answer."
   },
   {
    "id": "game1-67",
@@ -1072,7 +1072,7 @@
   {
    "id": "game1-83",
    "Name": "Melon",
-   "Description": "Sweet summer fruit, kharbooza",
+   "Description": "Pale orange summer fruit, kharbooza",
    "Category": "Fruits",
    "action": "edit",
    "original": {
@@ -1080,7 +1080,7 @@
     "Description": "A sweet fruit",
     "Category": "Fruits"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds a visual cue and separates it from Watermelon (tarbooz). The hint is accurate and does not contain the answer."
   },
   {
    "id": "game1-84",

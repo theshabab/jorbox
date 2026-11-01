@@ -8486,6 +8486,20 @@
    "Description": "Every photocopy I take comes out with a big black patch over _____!",
    "action": "add",
    "note": "New card (debate): Distinct from the office printer card; pairs with the photocopy customer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Kashmiri Shawl Seller",
+   "action": "add",
+   "note": "New card (debate): Recognisable winter-bazaar figure; no shawl or winter peddler card exists in the review file."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "PT Master (School Sports Teacher)",
+   "action": "add",
+   "note": "New card (debate): Universally recognised Pakistani school figure; no PT or sports teacher card exists, and it gives good pitch potential."
   }
  ]
 }
