@@ -4192,15 +4192,15 @@
   {
    "id": "game5-323",
    "Name": "",
-   "Description": "I'm hiding ____ from my spouse.",
+   "Description": "I secretly bought ____ and I'm hiding it from my family.",
    "Category": "Money Problems",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I'm hiding ____ from my spouse.",
     "Category": "Money Problems"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: removes spouse framing and stays in Money Problems."
   },
   {
    "id": "game5-324",
@@ -5674,15 +5674,15 @@
   {
    "id": "game5-437",
    "Name": "",
-   "Description": "I learned ____ from the internet.",
+   "Description": "The weirdest thing I learned from YouTube is ____.",
    "Category": "Internet Culture",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I learned ____ from the internet.",
     "Category": "Internet Culture"
    },
-   "note": ""
+   "note": "Debate: Cleaner, funnier framing than open internet learning."
   },
   {
    "id": "game5-438",
@@ -5765,7 +5765,7 @@
   {
    "id": "game5-444",
    "Name": "",
-   "Description": "The worst thing a spouse can do is ____.",
+   "Description": "The worst thing a rishta family can do is ____.",
    "Category": "Rishta Red Flags",
    "action": "edit",
    "original": {
@@ -5773,7 +5773,7 @@
     "Description": "The worst thing a partner can do is ____.",
     "Category": "Relationship Red Flags"
    },
-   "note": "Partner -> spouse; category renamed"
+   "note": "Partner -> spouse; category renamed; Debate: Removes spouse framing that invites adult answers; fits the category."
   },
   {
    "id": "game5-445",
@@ -5947,7 +5947,7 @@
   {
    "id": "game5-458",
    "Name": "",
-   "Description": "Love is blind, but ____ should be obvious.",
+   "Description": "The rishta aunty called them perfect, but ____ was obvious.",
    "Category": "Rishta Red Flags",
    "action": "edit",
    "original": {
@@ -5955,7 +5955,7 @@
     "Description": "Love is blind but ____ should be obvious.",
     "Category": "Relationship Red Flags"
    },
-   "note": "Punctuation; category renamed"
+   "note": "Punctuation; category renamed; Debate: Removes Western romance idiom, keeps the joke in a rishta frame."
   },
   {
    "id": "game5-459",
@@ -5986,15 +5986,15 @@
   {
    "id": "game5-461",
    "Name": "",
-   "Description": "I know it's wrong but I ____.",
+   "Description": "I know it's silly, but I always ____.",
    "Category": "Toxic Traits",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I know it's wrong but I ____.",
     "Category": "Toxic Traits"
    },
-   "note": ""
+   "note": "Debate: Avoids sinful or crude confessions in mixed groups; keeps the habit joke."
   },
   {
    "id": "game5-462",
@@ -6064,15 +6064,15 @@
   {
    "id": "game5-467",
    "Name": "",
-   "Description": "I gaslight people by ____.",
+   "Description": "I always win arguments by ____.",
    "Category": "Toxic Traits",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "I gaslight people by ____.",
     "Category": "Toxic Traits"
    },
-   "note": ""
+   "note": "Debate: Replaces Western therapy jargon with a clear toxic-trait prompt."
   },
   {
    "id": "game5-468",
@@ -104397,6 +104397,38 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Relatable household card with an open blank; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My hostel roommate never returns my ____.",
+   "Category": "Student Life",
+   "action": "add",
+   "note": "New card (debate): Clean, relatable, distinct answer space."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I pretended to be sick to avoid ____.",
+   "Category": "Student Life",
+   "action": "add",
+   "note": "New card (debate): Clean and universal; answer space (event avoided) is distinct."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The shopkeeper said the price is final, but then ____.",
+   "Category": "Money Problems",
+   "action": "add",
+   "note": "New card (debate): Distinct bargaining-culture setup."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I tried a desi totka and ended up with ____.",
+   "Category": "Medical Mishaps",
+   "action": "add",
+   "note": "New card (debate): Outcome-style totka prompt not covered by existing list cards."
   }
  ]
 }

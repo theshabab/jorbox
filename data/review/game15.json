@@ -13721,7 +13721,7 @@
   {
    "id": "game15-1056",
    "Name": "Great Wall of China (Qin wall)",
-   "Description": "c. 206 BC (Qin era; mostly rebuilt by Ming)",
+   "Description": "c. 220 BC (Qin era; mostly rebuilt by Ming)",
    "Category": "World Buildings By Completion",
    "action": "edit",
    "original": {
@@ -13729,7 +13729,7 @@
     "Description": "-206",
     "Category": "World Buildings By Completion"
    },
-   "note": "BC format; clarified which wall"
+   "note": "BC format; clarified which wall; Debate: Qin walls date from about 220 BC; 206 BC is the fall of the dynasty."
   },
   {
    "id": "game15-1057",
@@ -31393,6 +31393,86 @@
    "Category": "Deepest Lakes (Depth - Deep to Shallow)",
    "action": "add",
    "note": "New card (debate): Correct value; Muslim-world lake."
+  },
+  {
+   "id": null,
+   "Name": "Taipei 101",
+   "Description": "508 m",
+   "Category": "Tallest Buildings (Height - Tall to Short)",
+   "action": "add",
+   "note": "New card (debate): Famous, accurate, not in category."
+  },
+  {
+   "id": null,
+   "Name": "Gaddafi Stadium",
+   "Description": "Pakistan - ~34,000",
+   "Category": "Famous Sports Stadiums (Capacity - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Local low-end anchor; plain name matches other stadium cards."
+  },
+  {
+   "id": null,
+   "Name": "Samsung",
+   "Description": "1938 (as a trading company)",
+   "Category": "Tech Companies (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Well-known brand, distinct year."
+  },
+  {
+   "id": null,
+   "Name": "Google",
+   "Description": "1998",
+   "Category": "Tech Companies (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Missing from category; the other Google card is live in a different category and the removed one was a different category."
+  },
+  {
+   "id": null,
+   "Name": "BMW",
+   "Description": "1916",
+   "Category": "Car Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Common brand, distinct year."
+  },
+  {
+   "id": null,
+   "Name": "Mercedes-Benz",
+   "Description": "1926 (Daimler-Benz merger)",
+   "Category": "Car Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Common brand, distinct year."
+  },
+  {
+   "id": null,
+   "Name": "Tesla",
+   "Description": "2003",
+   "Category": "Car Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Modern end of timeline, distinct year."
+  },
+  {
+   "id": null,
+   "Name": "Benazir Bhutto",
+   "Description": "1988 (became Prime Minister of Pakistan)",
+   "Category": "Modern Leaders by Rise To Power",
+   "action": "add",
+   "note": "New card (debate): Mahathir 1981 would tie Khamenei 1981; Benazir 1988 is distinct and locally relevant."
+  },
+  {
+   "id": null,
+   "Name": "Nelson Mandela",
+   "Description": "1994 (became President of South Africa)",
+   "Category": "Modern Leaders by Rise To Power",
+   "action": "add",
+   "note": "New card (debate): Famous leader, distinct year."
+  },
+  {
+   "id": null,
+   "Name": "Imran Khan",
+   "Description": "2018 (became Prime Minister of Pakistan)",
+   "Category": "Modern Leaders by Rise To Power",
+   "action": "add",
+   "note": "New card (debate): Local leader, distinct year; political jokes allowed."
   }
  ]
 }

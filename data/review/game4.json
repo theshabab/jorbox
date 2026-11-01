@@ -11323,11 +11323,11 @@
   },
   {
    "id": null,
-   "Name": "deer",
-   "Description": "Near Sheikhupura, Mughal emperor Jahangir built a tall minaret as a memorial to his favourite pet ____.",
+   "Name": "antelope",
+   "Description": "Near Sheikhupura, Mughal emperor Jahangir built a tall minaret as a memorial to his favourite pet ____, named Mansraj.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment: the Hiran Minar card mentions only the minaret, which is firmly Jahangir's, and uses 'deer', the answer local players would give.; Debate: Assign existing category Pakistan Facts"
+   "note": "New card (debate): Challenger's amendment: the Hiran Minar card mentions only the minaret, which is firmly Jahangir's, and uses 'deer', the answer local players would give.; Debate: Assign existing category Pakistan Facts; Debate: Sources describe Mansraj as a pet antelope; more precise. Left out the Hiran name since it gives away the answer."
   },
   {
    "id": null,
@@ -11476,10 +11476,10 @@
   {
    "id": null,
    "Name": "lakes",
-   "Description": "Canada has more ____ than all the other countries in the world combined.",
+   "Description": "Canada has more ____ than any other country in the world.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): A widely cited lake-census fact. The existing card with the answer 'lakes' is about ice trade, so this one is not a duplicate.; Debate: Assign existing category Geography Oddities"
+   "note": "New card (debate): A widely cited lake-census fact. The existing card with the answer 'lakes' is about ice trade, so this one is not a duplicate.; Debate: Assign existing category Geography Oddities; Debate: The original 'more than all other countries combined' claim is disputed; the softened claim is true."
   },
   {
    "id": null,
@@ -13488,6 +13488,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate, short, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "javelin",
+   "Description": "In 2024, Arshad Nadeem won Pakistan's first individual Olympic gold medal with an Olympic-record ____ throw of 92.97 metres.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: correct fact (Paris 2024), cleaner blank, no duplicate in deck."
+  },
+  {
+   "id": null,
+   "Name": "six",
+   "Description": "In the 1986 Sharjah final against India, Javed Miandad needed four runs off the last ball and won Pakistan the match by hitting a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, well-known Pakistani moment; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "300",
+   "Description": "After it was completed in 1673, Lahore's Badshahi Mosque remained the largest mosque in the world for more than ____ years.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: true (until 1986) and a concrete numeric answer; distinct from the Aurangzeb card."
+  },
+  {
+   "id": null,
+   "Name": "battlefield",
+   "Description": "The Siachen Glacier in the Karakoram is often called the world's highest ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-established fact, army theme allowed, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "101",
+   "Description": "Malaysia's Petronas Towers were officially the world's tallest buildings from 1998 until 2004, when they were overtaken by Taiwan's Taipei ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: hedged, accurate, and a non-guessable answer; distinct from the star floor-plan card."
   }
  ]
 }
