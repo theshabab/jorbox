@@ -2480,14 +2480,14 @@
   },
   {
    "id": "game14-226",
-   "Description": "How many ties do you own?",
+   "Description": "How many neckties do you own?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many ties do you own?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: 'Ties' is ambiguous (could mean drawn matches); 'neckties' is clearer, same answer type."
   },
   {
    "id": "game14-227",
@@ -7041,6 +7041,41 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Challenger's amended likelihood version is answerable and avoids the count problem."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you played tape-ball cricket this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No tape-ball card exists; clean countable local question."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to mute a chat instead of replying to it?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct from muted-groups count; relatable 0-100 question."
+  },
+  {
+   "id": null,
+   "Description": "How many earphones or headphones have you lost or broken so far?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No earphone/headphone card exists (verified); clean Number question."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to block someone on social media after an argument?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Blocking is absent from the deck; social media is allowed."
+  },
+  {
+   "id": null,
+   "Description": "How often do you win at Ludo?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording; complements the Ludo cheating/anger cards without duplicating them."
   }
  ]
 }

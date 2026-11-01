@@ -59,12 +59,12 @@
   },
   {
    "id": "game13-7",
-   "Description": "Get a player to say 'You're not ugly.'",
+   "Description": "Get a player to say 'You look great today.'",
    "action": "edit",
    "original": {
     "Description": "Get a player to say “you’re not ugly.”"
    },
-   "note": "Debate: Curly quotes and lowercase do not match the deck's straight-quote, capitalised say-card format"
+   "note": "Debate: Curly quotes and lowercase do not match the deck's straight-quote, capitalised say-card format; Debate: Replaces a backhanded line with a plain compliment that is just as hard to extract; not a duplicate of the item-compliment cards."
   },
   {
    "id": "game13-8",
@@ -6683,6 +6683,30 @@
    "Description": "Get a player to tell you what they do when the mobile signal or internet drops during an important call.",
    "action": "add",
    "note": "New card (debate): Relatable personal question, different from the electricity card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you for a comb.",
+   "action": "add",
+   "note": "New card (debate): No comb card exists; easy, clear and harmless."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to use hand sanitizer after you mention your hands are sticky.",
+   "action": "add",
+   "note": "New card (debate): New, clear mission; no sanitizer card in the deck or the review file."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to offer you a second cup of chai.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the other chai cards, and a familiar local situation."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to compliment your topi or cap.",
+   "action": "add",
+   "note": "New card (debate): Fits the compliment-an-item family; different action from the live 'straighten your topi or cap' add."
   }
  ]
 }
