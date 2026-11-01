@@ -15809,6 +15809,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-829','game10','Name something you wear on your wrist.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-830','game10','Name a green vegetable cooked in winter.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-831','game10','Name something girls put on for Eid.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-832','game10','Name a dish made with keema (mince).','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -18612,14 +18613,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-634','game13','','Get a player to explain what ''riba'' (interest) means.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-635','game13','','Get a player to tell you what they did with their first salary or first pocket money.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-636','game13','','Get a player to name a Muslim scientist, like Ibn al-Haytham or Al-Khwarizmi.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-637','game13','','Get a player to tell you which Arabic word the English word ''algebra'' comes from (al-jabr).','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-637','game13','','Get a player to tell you which Arabic word the English word ''algebra'' comes from.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-638','game13','','Get a player to say ''Allah kareem hai''.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-639','game13','','Get a player to tell you what helps them stay patient (sabr) in a long traffic jam.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-640','game13','','Get a player to tell you about someone whose kindness they have never forgotten.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-641','game13','','Get a player to tell you what they are saving up for and why.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-642','game13','','Get a player to tell you about the best Eid they remember with their family.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-643','game13','','Get a player to agree that a simple meal eaten together tastes better than a fancy meal eaten alone.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-644','game13','','Get a player to name Fatima al-Fihri, the woman who founded the Al-Qarawiyyin university in Fez.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-644','game13','','Get a player to tell you who founded the Al-Qarawiyyin university in Fez.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-645','game13','','Get a player to tell you about a time they gave up their seat for an elder.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-646','game13','','Get a player to tell you who first taught them to read the Quran.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-647','game13','','Claim that camels store water in their humps and get a player to correct you.','');
@@ -18764,6 +18765,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-786','game13','','Get a player to tell you how many Juz (paras) the Quran has.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-787','game13','','Get a player to tell you the funniest thing a relative has said at a shaadi.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-788','game13','','Get a player to tell you how many pockets a carrom board has.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-789','game13','','Get a player to tell you who wrote the words of Pakistan''s national anthem.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-790','game13','','Get a player to tell you the name of the first mosque built after the Hijrah, on the outskirts of Madinah.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-791','game13','','Get a player to ask you why you are holding a hand fan (pankha).','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-792','game13','','Get a player to tell you what they do when they hear the azan while busy with something.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -22118,3 +22123,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-861','game16','What is one question you would love to ask your grandparents about their young days?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-862','game16','What would you like your family and community to remember you for?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-863','game16','Who believed in you more than you believed in yourself, and what did it change?','','Deep & ThoughtProvoking');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-864','game16','Who wakes everyone up for sehri in your house, and what is their method?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-865','game16','Which phupho or khala is the one everyone secretly hopes will visit, and what do they always bring?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-866','game16','Gol gappay: how many can you eat in one go, and do you take extra teekha pani?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-867','game16','Jalebi with doodh or jalebi with rabri: what is the perfect sweet breakfast or winter treat?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-868','game16','What did your father or dada say to you that you only understood years later?','','Deep & ThoughtProvoking');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-869','game16','Which Eid outfit do you remember the most from your childhood, and was it comfortable or itchy?','','More Fun Questions');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-870','game16','What is the most useful thing you learned from watching your mother or nani cook?','','Deep & ThoughtProvoking');

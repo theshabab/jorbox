@@ -7208,6 +7208,12 @@
    "Name": "Name something girls put on for Eid.",
    "action": "add",
    "note": "New card (debate): Mehndi, chooriyan, new dress and perfume are matchable answers, and the card fits the Eid theme. It is not a duplicate of the Chand Raat or dulhan cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a dish made with keema (mince).",
+   "action": "add",
+   "note": "New card (debate): No keema card exists in the deck or review file; answers (keema aloo, kebab, samosa, keema naan, shami) are common, Pakistani and matchable."
   }
  ]
 }

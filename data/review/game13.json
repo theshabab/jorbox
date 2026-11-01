@@ -5708,9 +5708,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you which Arabic word the English word 'algebra' comes from (al-jabr).",
+   "Description": "Get a player to tell you which Arabic word the English word 'algebra' comes from.",
    "action": "add",
-   "note": "New card (debate): Accurate etymology via Al-Khwarizmi's book; answer on the card."
+   "note": "New card (debate): Accurate etymology via Al-Khwarizmi's book; answer on the card.; Debate: The original gives away the answer '(al-jabr)'. The fact is correct, so only the hint is removed."
   },
   {
    "id": null,
@@ -5750,9 +5750,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to name Fatima al-Fihri, the woman who founded the Al-Qarawiyyin university in Fez.",
+   "Description": "Get a player to tell you who founded the Al-Qarawiyyin university in Fez.",
    "action": "add",
-   "note": "New card (debate): Accurate history (859 CE); trivia with answer on card."
+   "note": "New card (debate): Accurate history (859 CE); trivia with answer on card.; Debate: Challenger's amendment: the original names Fatima al-Fihri, giving away the answer. The fact is correct (859 CE)."
   },
   {
    "id": null,
@@ -6617,6 +6617,30 @@
    "Description": "Get a player to tell you how many pockets a carrom board has.",
    "action": "add",
    "note": "New card (debate): Challenger's clean rewording; answer is four."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who wrote the words of Pakistan's national anthem.",
+   "action": "add",
+   "note": "New card (debate): Hafeez Jalandhari is correct and well known. Card 526 only covers the first line, so this is a different fact."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the first mosque built after the Hijrah, on the outskirts of Madinah.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: Quba is not in the deck, and the wording no longer names the answer."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a hand fan (pankha).",
+   "action": "add",
+   "note": "New card (debate): A familiar local object for the 'why are you holding' format. It is distinct from the fan-you card (475) and harmless."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they do when they hear the azan while busy with something.",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal question that the owner allows. It differs from the first-azaan-remembered card and the namaz-time card."
   }
  ]
 }
