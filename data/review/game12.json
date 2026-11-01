@@ -4272,11 +4272,11 @@
   {
    "id": "game12-475",
    "Name": "Putty",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Putty"
    },
-   "note": ""
+   "note": "Debate: Obscure and hard to describe or draw."
   },
   {
    "id": "game12-476",
@@ -4542,11 +4542,11 @@
   {
    "id": "game12-505",
    "Name": "Rug",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Rug"
    },
-   "note": ""
+   "note": "Debate: Duplicate of Carpet, which is live (game12-101, keep)."
   },
   {
    "id": "game12-506",
@@ -4632,11 +4632,11 @@
   {
    "id": "game12-515",
    "Name": "Sauna",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Sauna"
    },
-   "note": ""
+   "note": "Debate: Unfamiliar to most local players and hard to draw."
   },
   {
    "id": "game12-516",
@@ -11693,6 +11693,36 @@
    "Name": "Pebble",
    "action": "add",
    "note": "New card (debate): Distinct from Rock; simple concrete noun."
+  },
+  {
+   "id": null,
+   "Name": "Pistachio",
+   "action": "add",
+   "note": "New card (debate): Common dry fruit, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sadaqah",
+   "action": "add",
+   "note": "New card (debate): Familiar Islamic noun, distinct from Zakat."
+  },
+  {
+   "id": null,
+   "Name": "Selfie",
+   "action": "add",
+   "note": "New card (debate): Social media noun, allowed and not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Result",
+   "action": "add",
+   "note": "New card (debate): Relatable abstract noun, distinct from Exam."
+  },
+  {
+   "id": null,
+   "Name": "Raisin",
+   "action": "add",
+   "note": "New card (debate): Common dry fruit (kishmish), not in deck."
   }
  ]
 }

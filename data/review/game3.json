@@ -3737,7 +3737,7 @@
   {
    "id": "game3-288",
    "Name": "Draw a fancy dress.",
-   "Description": "Draw a princess gown.|Draw someone dressed for success.|Draw a shalwar kameez.|Draw a fancy lady.|Draw a wedding dress.|Draw a kilt.",
+   "Description": "Draw a princess gown.|Draw someone dressed for success.|Draw a shalwar kameez.|Draw a fancy lady.|Draw a wedding dress.|Draw a sherwani.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3745,7 +3745,7 @@
     "Description": "Draw Wonder Woman.|Draw dressed for success.|Draw Batman.|Draw a fancy lady.|Draw a prom dress.|Draw a wedding dress.|Draw a kilt.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Wonder Woman, Batman, prom dress; Debate: Grammar fix."
+   "note": "replaced Wonder Woman, Batman, prom dress; Debate: Grammar fix.; Debate: Kilt is a Western/Scottish garment; replaced with a local garment."
   },
   {
    "id": "game3-289",
@@ -3827,8 +3827,8 @@
   },
   {
    "id": "game3-295",
-   "Name": "Draw a yoga class.",
-   "Description": "Draw a zombie horde.|Draw someone with no bones.|Draw a workout class.|Draw nap time at preschool.|Draw a yoga instructor.|Draw goat yoga.|Draw sitting on the floor.|Draw someone stretching.",
+   "Name": "Draw a morning walk in the park.",
+   "Description": "Draw a jogger.|Draw an uncle exercising in a park.|Draw people stretching.|Draw a park bench.|Draw a gym workout.|Draw a group of aunties on an evening walk.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3836,7 +3836,7 @@
     "Description": "Draw a zombie horde.|Draw a farting lady.|Draw someone with no bones.|Draw a workout class.|Draw nap time at preschool.|Draw a yoga instructor.|Draw goat yoga.|Draw sitting in the floor.|Draw someone stretching.",
     "Category": "Drawing 2"
    },
-   "note": "removed crude decoy; grammar"
+   "note": "removed crude decoy; grammar; Debate: Yoga/goat yoga is Western wellness; local walk prompt with close decoys."
   },
   {
    "id": "game3-296",
@@ -3866,8 +3866,8 @@
   },
   {
    "id": "game3-298",
-   "Name": "Draw a skirt.",
-   "Description": "Draw a pair of shorts.|Draw fancy clothes.|Draw a frock.|Draw a lehenga.|Draw a flowing dress.|Draw a Scotsman’s kilt.|Draw an apron.",
+   "Name": "Draw a dupatta.",
+   "Description": "Draw a shawl.|Draw a scarf.|Draw a cape.|Draw a curtain.|Draw a bedsheet.|Draw a chadar.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3875,7 +3875,7 @@
     "Description": "Draw a pair of shorts.|Draw fancy clothes.|Draw dirty underwear.|Draw a poodle skirt.|Draw a cheerleader|Draw a flowing dress.|Draw a Scotsman’s kilt.|Draw an apron.|Draw a ballerina’s tutu.",
     "Category": "Drawing 2"
    },
-   "note": "replaced underwear, cheerleader, tutu, poodle skirt"
+   "note": "replaced underwear, cheerleader, tutu, poodle skirt; Debate: Local, drawable, removes kilt; no existing dupatta drawing card."
   },
   {
    "id": "game3-299",
@@ -4075,15 +4075,15 @@
   {
    "id": "game3-314",
    "Name": "Draw the grossest vegetable.",
-   "Description": "Draw a terrible appetizer.|Draw an angry eggplant.|Draw a banana taking a shower.|Draw the weirdest vegetable.|Draw a plant.|Draw a rotten tomato.|Draw a turnip.|Draw a delicious apple.|Draw your favorite vegetable.",
+   "Description": "Draw a terrible appetizer.|Draw an angry eggplant.|Draw a sad karela.|Draw the weirdest vegetable.|Draw a plant.|Draw a rotten tomato.|Draw a turnip.|Draw a delicious apple.|Draw your favorite vegetable.",
    "Category": "Drawing 2",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Draw the grossest vegetable.",
     "Description": "Draw a terrible appetizer.|Draw an angry eggplant.|Draw a banana taking a shower.|Draw the weirdest vegetable.|Draw a plant.|Draw a rotten tomato.|Draw a turnip.|Draw a delicious apple.|Draw your favorite vegetable.",
     "Category": "Drawing 2"
    },
-   "note": ""
+   "note": "Debate: Closer, local vegetable decoy instead of the shower one."
   },
   {
    "id": "game3-315",
@@ -4126,8 +4126,8 @@
   },
   {
    "id": "game3-318",
-   "Name": "Draw a pizza chef.",
-   "Description": "Draw a naan maker at a tandoor.|Draw a “chef’s kiss.”|Draw a chef.|Draw a child chef.|Draw a guy throwing a frisbee.|Draw a guy with a huge mustache.",
+   "Name": "Draw a chai wala.",
+   "Description": "Draw a naan maker at a tandoor.|Draw a chef.|Draw a waiter.|Draw a man with a huge mustache.|Draw a street vendor.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4135,7 +4135,7 @@
     "Description": "Draw Mario and Luigi|Draw a “chef kiss.”|Draw a chef.|Draw a child chef.|Draw a guy throwing a frisbee.|Draw a guy with a huge mustache.",
     "Category": "Drawing 2"
    },
-   "note": "Mario and Luigi -> tandoor naan maker; punctuation"
+   "note": "Mario and Luigi -> tandoor naan maker; punctuation; Debate: Pizza chef is Western; chai wala is distinct from the chai dhaba card."
   },
   {
    "id": "game3-319",
@@ -4153,7 +4153,7 @@
   {
    "id": "game3-320",
    "Name": "Draw a bowl of your favorite cereal.",
-   "Description": "Draw a mug of hot chocolate.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of cornflakes.|Draw a bowl of kheer.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a glass of milk.",
+   "Description": "Draw a cup of doodh patti.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of cornflakes.|Draw a bowl of kheer.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a glass of milk.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4161,7 +4161,7 @@
     "Description": "Draw a mug of cocoa and marshmallows.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of Cheerios.|Draw a mascot stealing a bowl of cereal.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a handful of Cherrios.",
     "Category": "Drawing 2"
    },
-   "note": "brand names -> cornflakes; typo; Debate: Drop the marshmallows (gelatin).; Debate: Replaces the US cereal-mascot reference with a local decoy."
+   "note": "brand names -> cornflakes; typo; Debate: Drop the marshmallows (gelatin).; Debate: Replaces the US cereal-mascot reference with a local decoy.; Debate: Replace Western hot chocolate decoy with doodh patti."
   },
   {
    "id": "game3-321",
@@ -4582,7 +4582,7 @@
   {
    "id": "game3-353",
    "Name": "My dream job would be...",
-   "Description": "A job my parents want me to do is...|A good job for right after college would be...|A job where you make lots of money would be...|The job where I currently work is...|I’m most relaxed when I’m...|The job I wanted when I grew up was...|A job I associate with heavy labor is...|A job that sounds intimidating is...|A job I always thought looked fun is...",
+   "Description": "A job my parents want me to do is...|A good job for right after college would be...|A job where you make lots of money would be...|The job where I currently work is...|A job that pays very badly is...|The job I wanted when I grew up was...|A job I associate with heavy labor is...|A job that sounds intimidating is...|A job I always thought looked fun is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4590,7 +4590,7 @@
     "Description": "There should be a law against...|A good job for right after college would be...|A job where you make lots of money would be...|The job where I currently work is...|I’m most relaxed when I’m...|The job I wanted when I grew up was...|A job I associate with heavy labor is...|A job that sounds intimidating is...|A job I always thought looked fun is...",
     "Category": "Writing"
    },
-   "note": "Debate: Replaces the off-topic law decoy with a close, relatable job decoy."
+   "note": "Debate: Replaces the off-topic law decoy with a close, relatable job decoy.; Debate: Off-pattern decoy replaced with a job decoy."
   },
   {
    "id": "game3-354",
@@ -4699,7 +4699,7 @@
   {
    "id": "game3-362",
    "Name": "The best thing to dip a french fry into is...",
-   "Description": "The best kind of dip to serve at a dawat is...|The best snack food is...|The best thing to dip a pakora into is...|The best thing to dip a chicken nugget into is...|The best thing to put on a hamburger is...|The best thing to dip a potato chip into is...|The best thing to put in a bun kabab is...|The grossest thing in your refrigerator is...|The best thing to eat with your fingers is...",
+   "Description": "The best kind of dip to serve at a dawat is...|The best snack food is...|The best thing to dip a pakora into is...|The best thing to dip a chicken nugget into is...|The best thing to put on a samosa is...|The best thing to dip a potato chip into is...|The best thing to put in a bun kabab is...|The grossest thing in your refrigerator is...|The best thing to eat with your fingers is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4707,7 +4707,7 @@
     "Description": "The best kind of dip to serve at a party is...|The best snack food is...|The best thing to dip tortilla chips into is...|The best thing to dip a chicken nugget into is...|The best thing to put on a hamburger is...|The best thing to dip a potato chip into is...|The best thing to put on a hot dog is...|The grossest thing in your refrigerator is...|The best thing to eat with your fingers is...",
     "Category": "Writing"
    },
-   "note": "party -> dawat; Debate: Localize US decoys."
+   "note": "party -> dawat; Debate: Localize US decoys.; Debate: US-centric hamburger decoy replaced with samosa."
   },
   {
    "id": "game3-363",
@@ -12665,6 +12665,70 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): Challenger version avoids overlap with the existing broken-phone card."
+  },
+  {
+   "id": null,
+   "Name": "Draw a baraat arriving.",
+   "Description": "Draw a groom on a horse.|Draw a bridal car covered in flowers.|Draw a political rally.|Draw an Eid procession.|Draw a crowded wedding hall.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local wedding scene; only appears as a decoy elsewhere, not as a card."
+  },
+  {
+   "id": null,
+   "Name": "Draw a tasbeeh.",
+   "Description": "Draw a necklace.|Draw a bracelet.|Draw a bunch of keys.|Draw a prayer mat.|Draw a wristwatch.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local religious object; dropped 'string of beads' decoy since it is essentially the same drawing."
+  },
+  {
+   "id": null,
+   "Name": "Draw the Hunza Valley.",
+   "Description": "Draw a mountain village.|Draw an apricot orchard.|Draw a snowy valley.|Draw a river in the mountains.|Draw a hill station like Murree.|Draw Fairy Meadows.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Pakistani geography prompt with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a pehlwan at an akhara.",
+   "Description": "Draw a man with a big mustache.|Draw a wrestler.|Draw a strong man lifting a gada.|Draw a man covered in mud.|Draw a security guard.|Draw a butcher.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local traditional wrestling scene."
+  },
+  {
+   "id": null,
+   "Name": "Draw a wedding invitation card.",
+   "Description": "Draw a birthday card.|Draw an Eid card.|Draw a visiting card.|Draw a letter.|Draw a shopping list.|Draw a menu.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Familiar local object with plausible decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a gola ganda stall.",
+   "Description": "Draw an ice cream truck.|Draw a juice stall.|Draw a kulfi cart.|Draw a fruit chaat cart.|Draw a falooda shop.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Street-food scene; challenger's amendment replaces snow cone synonym with kulfi cart."
+  },
+  {
+   "id": null,
+   "Name": "Draw a sweater knitted by your grandmother.",
+   "Description": "Draw a warm shawl.|Draw a quilt.|Draw a pair of socks.|Draw a muffler.|Draw a ball of wool with knitting needles.|Draw a cold winter morning.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Warm family/winter prompt; no sweater card in deck."
+  },
+  {
+   "id": null,
+   "Name": "The best thing to eat on a cold winter night is...",
+   "Description": "The best thing to eat on a hot summer afternoon is...|The best thing to eat after Eid prayers is...|The best street food is...|The best thing to eat for breakfast on Sunday is...|The best thing to have with chai is...|The best thing to eat at midnight is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local food prompt in a distinct season from existing cards."
   }
  ]
 }

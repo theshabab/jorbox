@@ -15658,14 +15658,14 @@
   },
   {
    "id": "game7-1424",
-   "Description": "flamin' hot raisins",
+   "Description": "extra-spicy chaat masala raisins",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "flamin' hot raisins",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Flamin' Hot is a US brand; local swap stays drawable."
   },
   {
    "id": "game7-1425",
@@ -16351,14 +16351,14 @@
   },
   {
    "id": "game7-1487",
-   "Description": "<PLAYER>'s guilty pleasure",
+   "Description": "<PLAYER> sneaking a nap at their desk",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER>'s guilty pleasure",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Vague 'guilty pleasure' becomes a clear affectionate scene; avoids more snack cards and the cartoon/TV theme the owner excluded."
   },
   {
    "id": "game7-1488",
@@ -16538,14 +16538,14 @@
   },
   {
    "id": "game7-1504",
-   "Description": "<PLAYER>'s last daydream",
+   "Description": "<PLAYER> daydreaming in the middle of class",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER>'s last daydream",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Clear drawable scene replacing a vague prompt."
   },
   {
    "id": "game7-1505",
@@ -16593,14 +16593,14 @@
   },
   {
    "id": "game7-1509",
-   "Description": "<PLAYER>'s upcoming scandal",
+   "Description": "<PLAYER> making headlines tomorrow",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER>'s upcoming scandal",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Keeps the news joke without implying scandal about a named player."
   },
   {
    "id": "game7-1510",
@@ -20987,6 +20987,62 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Gentle, affectionate Friend Mode prompt, not embarrassing."
+  },
+  {
+   "id": null,
+   "Description": "a power bank at 1% telling everyone it will be fine",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a rishta aunty's notebook so thick it needs a trolley",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local humour, distinct from the proposal card."
+  },
+  {
+   "id": null,
+   "Description": "a goat in a tiny sherwani posing for wedding photos",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment fixes the Chand Raat/mandi mix and overlap with the mandi card."
+  },
+  {
+   "id": null,
+   "Description": "a ludo piece one step from home getting eaten again",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable and different from existing ludo cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to hide from the relatives at a family gathering",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the person who always says 'bas five minutes' and takes an hour",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle local teasing."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> opening the fridge for the fifth time hoping new food appeared",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, drawable, no similar card."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> winning an argument with the auto-correct",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Clean, modern, not duplicated."
   }
  ]
 }
