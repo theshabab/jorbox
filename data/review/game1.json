@@ -5013,7 +5013,7 @@
    "Name": "Violet",
    "Description": "Bluish-purple colour of flowers",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Violet",
     "Description": "A purple shade",
@@ -5052,7 +5052,7 @@
    "Name": "Teal",
    "Description": "Dark blue-green",
    "Category": "Colors",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Teal",
     "Description": "A blue-green",
@@ -12750,6 +12750,86 @@
    "Name": "Blacksmith",
    "Description": "Lohar; hammers hot iron into tools",
    "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "School Bag",
+   "Description": "Carried on shoulders with books (Bastah)",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Crayon",
+   "Description": "Waxy colouring stick used by kids",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Palm",
+   "Description": "Inner part of the hand (Hatheli)",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Spine",
+   "Description": "Backbone down your back (Reerh)",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Jaw",
+   "Description": "Bone you chew with (Jabra)",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Ankle",
+   "Description": "Joint between foot and leg (Takhna)",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Qari",
+   "Description": "Recites the Quran with tajweed",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Clerk",
+   "Description": "Office worker who handles files (Babu)",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Principal",
+   "Description": "Head of a school",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Motorway",
+   "Description": "Toll expressway like the M2",
+   "Category": "Transport",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }
