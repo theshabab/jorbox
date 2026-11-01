@@ -10029,10 +10029,10 @@
   {
    "id": null,
    "Name": "Draw a hand fan (pankhi).",
-   "Description": "Draw a ceiling fan.|Draw a kite.|Draw a fly swatter.|Draw a leaf.|Draw a peacock.",
+   "Description": "Draw a ceiling fan.|Draw a table fan.|Draw a fly swatter.|Draw a leaf.|Draw a pedestal fan.",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card (debate): Local object with plausible look-alike decoys; not in the deck."
+   "note": "New card (debate): Local object with plausible look-alike decoys; not in the deck.; Debate: Replaces far decoys; challenger's pedestal fan avoids a paper fan, which is itself a hand fan."
   },
   {
    "id": null,
@@ -10205,10 +10205,10 @@
   {
    "id": null,
    "Name": "Jewellery",
-   "Description": "Ring|Necklace|Churiyan|Jhumkay|Earrings|Nose Pin|Nath|Maang Tikka|Payal|Bracelet|Locket|Chain|Kara|Choker|Jhoomar|Gold Set",
+   "Description": "Ring|Necklace|Churiyan|Jhumkay|Nose Pin|Nath|Maang Tikka|Payal|Bracelet|Locket|Chain|Kara|Choker|Jhoomar",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): No jewellery card exists. Haar duplicated Necklace, so it is replaced. Challenger's amended version.; Debate: Brooch is not a common South Asian jewellery item."
+   "note": "New card (debate): No jewellery card exists. Haar duplicated Necklace, so it is replaced. Challenger's amended version.; Debate: Brooch is not a common South Asian jewellery item.; Debate: Earrings duplicates Jhumkay and Gold Set is vague; 14 clear words remain."
   },
   {
    "id": null,
@@ -10221,10 +10221,10 @@
   {
    "id": null,
    "Name": "Ice Cream Flavours",
-   "Description": "Vanilla|Chocolate|Strawberry|Mango|Pista|Kulfa|Tutti Frutti|Butterscotch|Pineapple|Cookies and Cream|Malai|Chikoo|Lychee|Coconut|Bubblegum|Coffee|Caramel|Badam",
+   "Description": "Vanilla|Chocolate|Strawberry|Mango|Pista|Kulfi|Tutti Frutti|Butterscotch|Pineapple|Cookies and Cream|Malai|Chikoo|Lychee|Coconut|Bubblegum|Coffee|Caramel|Badam",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): A family-friendly dessert topic with local flavours. The rare Falsa is replaced with Coconut. Challenger's amended version.; Debate: Praline is obscure locally; Pineapple is a common flavour (Falsa is a gola flavour, not ice cream)."
+   "note": "New card (debate): A family-friendly dessert topic with local flavours. The rare Falsa is replaced with Coconut. Challenger's amended version.; Debate: Praline is obscure locally; Pineapple is a common flavour (Falsa is a gola flavour, not ice cream).; Debate: Kulfa is a misspelling of Kulfi; verified in game3.json that the card has Kulfa and no Kulfi."
   },
   {
    "id": null,
@@ -10237,10 +10237,10 @@
   {
    "id": null,
    "Name": "Types of Chai",
-   "Description": "Doodh Patti|Karak Chai|Kashmiri Chai|Green Tea|Kahwa|Gur wali Chai|Elaichi Chai|Adrak wali Chai|Lemon Tea|Dum Chai|Mixed Chai|Black Tea|Iced Tea|Masala Chai|Dhaba Chai|Mint Tea",
+   "Description": "Doodh Patti|Karak Chai|Kashmiri Chai|Green Tea|Kahwa|Gur wali Chai|Elaichi Chai|Adrak wali Chai|Lemon Tea|Dum Chai|Black Tea|Masala Chai|Dhaba Chai|Mint Tea",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): The deck has coffee types but no chai types. Sulemani and Tandoori Chai are Indian, so they are replaced with local terms. Challenger's amended version."
+   "note": "New card (debate): The deck has coffee types but no chai types. Sulemani and Tandoori Chai are Indian, so they are replaced with local terms. Challenger's amended version.; Debate: Iced Tea is not chai and Mixed Chai is vague."
   },
   {
    "id": null,
@@ -10277,10 +10277,10 @@
   {
    "id": null,
    "Name": "Pakistani Political Parties",
-   "Description": "PTI|PML-N|PPP|MQM|JUI-F|Jamaat-e-Islami|ANP|PML-Q|TLP|BAP|BNP|IPP|Pakistan Awami Tehreek|National Party",
+   "Description": "PTI|PML-N|PPP|MQM|JUI-F|Jamaat-e-Islami|ANP|PML-Q|TLP|BNP|IPP",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Politics is allowed, and the deck has politicians but no parties card. Merged (PSP), alliance (GDA), banned (TLP) and obscure entries are left out (challenger's version).; Debate: Remove obscure MWM, Awami Muslim League and PML-F; add well-known TLP."
+   "note": "New card (debate): Politics is allowed, and the deck has politicians but no parties card. Merged (PSP), alliance (GDA), banned (TLP) and obscure entries are left out (challenger's version).; Debate: Remove obscure MWM, Awami Muslim League and PML-F; add well-known TLP.; Debate: Drops obscure parties; 11 words remain."
   },
   {
    "id": null,
@@ -10709,10 +10709,10 @@
   {
    "id": null,
    "Name": "Battles in Islamic History",
-   "Description": "Badr|Uhud|Khandaq|Khaybar|Hunain|Tabuk|Fath e Makkah|Mutah|Yarmouk|Qadisiyyah|Nahavand|Debal|Hattin|Ain Jalut|Manzikert|Panipat|Fall of Constantinople",
+   "Description": "Badr|Uhud|Khandaq|Khaybar|Hunain|Tabuk|Fath e Makkah|Mutah|Yarmouk|Qadisiyyah|Nahavand|Debal|Hattin|Ain Jalut|Fall of Constantinople",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Accurate, well-known battles; no battles card exists in the deck."
+   "note": "New card (debate): Accurate, well-known battles; no battles card exists in the deck.; Debate: Panipat is not an Islamic-history battle name and Manzikert is obscure."
   },
   {
    "id": null,
@@ -10789,10 +10789,10 @@
   {
    "id": null,
    "Name": "Barrages of Pakistan",
-   "Description": "Sukkur Barrage|Guddu Barrage|Kotri Barrage|Taunsa Barrage|Chashma Barrage|Jinnah Barrage|Marala Barrage|Rasul Barrage|Qadirabad Barrage|Trimmu Barrage|Panjnad Barrage|Islam Barrage",
+   "Description": "Sukkur Barrage|Guddu Barrage|Kotri Barrage|Taunsa Barrage|Chashma Barrage|Jinnah Barrage|Marala Barrage|Trimmu Barrage|Panjnad Barrage|Rasul Barrage",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger amendment: better-known barrages only"
+   "note": "New card (debate): Challenger amendment: better-known barrages only; Debate: Removes the least known barrages; 10 words remain."
   },
   {
    "id": null,
@@ -13009,6 +13009,70 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Light honesty dilemma with distinct options, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Things in a Pakistani Summer",
+   "Description": "Load-shedding|Desert Cooler|Lassi|Rooh Afza|Mangoes|Watermelon|Hand Fan|Ice Block|Sleeping on the Rooftop|Kulfi|Prickly Heat|Matka|Falsa|Heatwave|UPS|Gola Ganda|Summer Vacations|Sweat|Topi|Sugarcane Juice",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Summer topic, using the challenger's version without overlapping words."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Traffic Signal",
+   "Description": "Red Light|Green Light|Traffic Warden|Challan|Zebra Crossing|Countdown Timer|Horn|Rickshaws|Motorbikes|Ambulance|Newspaper Hawker|Flower Seller|Window Wiper|Balloon Seller|Whistle|Traffic Jam|Wrong-Way Driver|Pedestrian Bridge|Gajray Seller|Bus",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Common local scene, no existing duplicate; challenger's distinct word set."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Milad",
+   "Description": "Naat Khawan|Salat o Salam|Itr|Rose Petals|Niaz|Carpet|Sound System|Qari Sahib|Dua|Tabarruk|Green Flags|Tasbeeh|Topi|Dastarkhwan|Sweets|Microphone|Fairy Lights|Shoes Outside|Relatives|Chai",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Family religious gathering; removed duplicate Durood Sharif and vague decoration entry."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Gaming Zone",
+   "Description": "Controller|VR Headset|Headphones|Console|Big Screen|Keyboard|Mouse|Gaming Chair|Hourly Rate|Energy Drink|Tournament|Leaderboard|Respawn|Lag|Wi-Fi Router|Snacks|Shouting Friends|Low Battery|Racing Seat|Owner at the Counter",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Video games are allowed; overlapping or obscure words replaced."
+  },
+  {
+   "id": null,
+   "Name": "Draw a lantern.",
+   "Description": "Draw a torch.|Draw a candle.|Draw a street lamp.|Draw an emergency light.|Draw a bulb.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Load-shedding era object; bulb is a closer decoy than moon."
+  },
+  {
+   "id": null,
+   "Name": "Draw a hand pump (nalka).",
+   "Description": "Draw a water tap.|Draw a tube well.|Draw a bucket.|Draw a water tank.|Draw a village well.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Village object; Water Pump replaced as it is the same object."
+  },
+  {
+   "id": null,
+   "Name": "I am usually the last one ready when the family goes out.",
+   "Description": "I am always the first one ready.|I hate being late.|I take ages to choose what to wear.|I always forget something at home.|Ammi has to call me three times.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable family Rating card, no duplicate in deck."
+  },
+  {
+   "id": null,
+   "Name": "Something that always goes missing in our house is...",
+   "Description": "Something that always breaks in our house is...|Something Abbu always loses is...|Something my siblings always fight over is...|Something Ammi keeps asking for is...|Something that is never in its place is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Household Writing prompt with close decoys, no duplicate."
   }
  ]
 }

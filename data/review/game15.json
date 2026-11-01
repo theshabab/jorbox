@@ -32049,6 +32049,86 @@
    "Category": "Scientists - Birth Year",
    "action": "add",
    "note": "New card (debate): Standard birth year, unique in category."
+  },
+  {
+   "id": null,
+   "Name": "First Kashmir War",
+   "Description": "1947-48",
+   "Category": "Wars of Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Correct dating, fits the army/history theme, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Indo-Pak War of 1965",
+   "Description": "Aug-Sep 1965",
+   "Category": "Wars of Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: standard span (Operation Gibraltar to 23 Sep ceasefire) is less ambiguous."
+  },
+  {
+   "id": null,
+   "Name": "Indo-Pak War of 1971",
+   "Description": "December 1971",
+   "Category": "Wars of Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Correct (3-16 Dec 1971); not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Kargil Conflict",
+   "Description": "1999",
+   "Category": "Wars of Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Correct year; completes a 4-item chronology."
+  },
+  {
+   "id": null,
+   "Name": "Osman I",
+   "Description": "1299",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Conventional accession year; different category from the Muslim Empires card."
+  },
+  {
+   "id": null,
+   "Name": "Bayezid I",
+   "Description": "1389",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Accession year correct."
+  },
+  {
+   "id": null,
+   "Name": "Mehmed II (Al-Fatih)",
+   "Description": "1444 (first reign; again from 1451)",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Correct, description resolves the two-reign ambiguity."
+  },
+  {
+   "id": null,
+   "Name": "Selim I",
+   "Description": "1512",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Accession year correct."
+  },
+  {
+   "id": null,
+   "Name": "Suleiman the Magnificent",
+   "Description": "1520",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Accession year correct; not a duplicate of the reign-length card in another category."
+  },
+  {
+   "id": null,
+   "Name": "Ahmed I",
+   "Description": "1603 (builder of the Blue Mosque)",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Accession year correct; completes a 6-item chronology."
   }
  ]
 }
