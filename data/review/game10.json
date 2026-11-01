@@ -7256,6 +7256,30 @@
    "Name": "Name something you give a guest who is staying overnight.",
    "action": "add",
    "note": "New card (debate): Clear hospitality card; bedsheet, pillow, razai (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do when you cannot sleep at night.",
+   "action": "add",
+   "note": "New card (debate): Relatable, convergent answers; distinct from the 'before going to sleep' card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do to cure a headache.",
+   "action": "add",
+   "note": "New card (debate): Common shared answers (Panadol, chai, balm, sleep); no headache card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something that is always crowded in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Local, convergent answers (bazaar, motorway, wedding hall, Eid masjid); nothing similar in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do to save electricity at home.",
+   "action": "add",
+   "note": "New card (debate): Habit question with convergent answers; distinct from the appliance/bill and loadshedding cards."
   }
  ]
 }

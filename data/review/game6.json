@@ -2897,9 +2897,9 @@
   },
   {
    "id": null,
-   "Description": "Oceans and Seas",
+   "Description": "Oceans, Seas and Gulfs (Arabian Sea, Red Sea, Persian Gulf...)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Local examples give the card a clear scope and enough answers."
   },
   {
    "id": null,
@@ -4850,6 +4850,48 @@
    "Description": "Things Kept in Dadi's Sandooq (Old Trunk)",
    "action": "add",
    "note": "New card (debate): Challenger's tighter wording; nostalgic desi category distinct from Things Dadi Says."
+  },
+  {
+   "id": null,
+   "Description": "Things That Grow (Hair, Plants, Nails, Beard...)",
+   "action": "add",
+   "note": "New card (debate): Broad, many easy answers, no live duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things You Can Ride (Camel, Tonga, Horse, Swing...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment steers away from the Vehicles card."
+  },
+  {
+   "id": null,
+   "Description": "Things We Ask Allah For in Dua (Sehat, Rizq, Hidayat...)",
+   "action": "add",
+   "note": "New card (debate): Respectful, many answers, distinct from the occasions-for-dua card."
+  },
+  {
+   "id": null,
+   "Description": "Things That Collect Dust",
+   "action": "add",
+   "note": "New card (debate): Fun everyday category with many answers."
+  },
+  {
+   "id": null,
+   "Description": "Things That Go Up and Down",
+   "action": "add",
+   "note": "New card (debate): Playful, many answers, minimal overlap."
+  },
+  {
+   "id": null,
+   "Description": "Sabzi Dishes (Bhindi Masala, Baingan Bharta, Tinday, Karela...)",
+   "action": "add",
+   "note": "New card (debate): Cooked-dish examples avoid duplicating Vegetables and Sabzi Mandi."
+  },
+  {
+   "id": null,
+   "Description": "Things You Wait For",
+   "action": "add",
+   "note": "New card (debate): Relatable and local; live waiting cards cover places and activities, not things waited for."
   }
  ]
 }

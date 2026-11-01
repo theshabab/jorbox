@@ -11723,6 +11723,24 @@
    "Name": "Raisin",
    "action": "add",
    "note": "New card (debate): Common dry fruit (kishmish), not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sunset",
+   "action": "add",
+   "note": "New card (debate): Common drawable noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sneeze",
+   "action": "add",
+   "note": "New card (debate): Easy to act, clean, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sprinkler",
+   "action": "add",
+   "note": "New card (debate): Concrete drawable noun, not in deck."
   }
  ]
 }
