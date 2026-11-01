@@ -7327,13 +7327,13 @@
    "Name": "Conservative <---> Liberal",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Conservative <---> Liberal",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Same meaning as live 'Radical <---> Traditional' (game8-629, keep); 'Liberal' is a confusing, loaded label."
   },
   {
    "id": "game8-565",
@@ -7470,13 +7470,13 @@
    "Name": "Nurture <---> Nature",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Nurture <---> Nature",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Abstract debate, not a scale players can place a thing on; unplayable."
   },
   {
    "id": "game8-576",
@@ -7691,13 +7691,13 @@
    "Name": "Too big <---> Too small",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Too big <---> Too small",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Overlaps live 'Tiny <---> Gigantic' (game8-606, edit) and live 'Too much <---> Not enough' (game8-620, keep); neither is removed."
   },
   {
    "id": "game8-593",
@@ -7727,16 +7727,16 @@
   },
   {
    "id": "game8-595",
-   "Name": "Capitalist <---> Socialist",
+   "Name": "Run for profit <---> Run for charity",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Capitalist <---> Socialist",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Replaces the vague textbook Capitalist/Socialist pair with clear opposite ends that work for shops, mosques, schools and stalls."
   },
   {
    "id": "game8-596",
@@ -11622,6 +11622,38 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Challenger's amendment removes the lose-a-game ambiguity."
+  },
+  {
+   "id": null,
+   "Name": "SHORT WAIT <---> ALL DAY WAIT",
+   "Description": "Write the notice a NADRA office puts on its door for a wait this long",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: ends are true opposites and match the notice task; relatable local setting, no existing NADRA card."
+  },
+  {
+   "id": null,
+   "Name": "CHEAP CHAPPAL <---> PREMIUM CHAPPAL",
+   "Description": "Make up a brand name for a pair of chappals that sounds this premium",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear scale, desi object, easy to write and guess; no chappal brand card is live."
+  },
+  {
+   "id": null,
+   "Name": "QUICK CALL <---> NEVER HANGS UP",
+   "Description": "Write the line a khala says when you try to end a phone call that has already lasted this long",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: the answer now shows the scale position; relatable family scenario, no existing khala call card."
+  },
+  {
+   "id": null,
+   "Name": "RAW <---> BURNT TO A CRISP",
+   "Description": "Draw a roti that has been cooked this much",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version fixes the overcooked vs RAW mismatch; distinct from the roti roundness drawing card."
   }
  ]
 }

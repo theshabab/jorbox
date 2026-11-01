@@ -8500,6 +8500,62 @@
    "Description": "PT Master (School Sports Teacher)",
    "action": "add",
    "note": "New card (debate): Universally recognised Pakistani school figure; no PT or sports teacher card exists, and it gives good pitch potential."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The Sunnah is to eat in moderation, but at every dawat I keep going back for more _____!",
+   "action": "add",
+   "note": "New card (debate): Accurate, relatable, and not covered by the existing dawat cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Ibn al-Haytham worked out how the camera obscura works, yet every photo I take shows only _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording states the history accurately."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Our school science fair project on _____ exploded in front of the chief guest!",
+   "action": "add",
+   "note": "New card (debate): Mild, funny, noun blank, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every monsoon the open nala in our mohalla overflows and brings _____ to our door!",
+   "action": "add",
+   "note": "New card (debate): Local complaint; the blank is what the overflow brings, so it differs from the street-floods card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I borrowed a neighbour's _____ months ago and I am too embarrassed to return it!",
+   "action": "add",
+   "note": "New card (debate): Reverse of the existing 'tired of people borrowing my' card, so not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Puncture Wala (Tyre Repairer)",
+   "action": "add",
+   "note": "New card (debate): Recognisable local trade; the deck only has it inside a Problem card."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mallah (Boatman)",
+   "action": "add",
+   "note": "New card (debate): Recognisable local trade with a fresh pitching angle; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Carpet Weaver",
+   "action": "add",
+   "note": "New card (debate): A maker, not the existing Turkish Carpet Seller; a Pakistani craft customer."
   }
  ]
 }

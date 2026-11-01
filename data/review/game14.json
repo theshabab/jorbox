@@ -3428,12 +3428,12 @@
    "id": "game14-312",
    "Description": "How good are you at staying hydrated?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "How good are you at staying hydrated?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Vague; overlaps game14-61 and game14-313, both confirmed live."
   },
   {
    "id": "game14-313",
@@ -3569,14 +3569,14 @@
   },
   {
    "id": "game14-325",
-   "Description": "How likely are you to cry at a graduation?",
+   "Description": "How likely are you to cry at a convocation or a farewell?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to cry at a graduation?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Local frame; avoids the word party (challenger's amendment)."
   },
   {
    "id": "game14-326",
@@ -7076,6 +7076,62 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Challenger's clearer wording; complements the Ludo cheating/anger cards without duplicating them."
+  },
+  {
+   "id": null,
+   "Description": "How many shirts or kameez have you ruined by spilling curry or chai on them?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): New, relatable, no stain card live."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take your clothes to a dhobi or dry cleaner instead of washing them at home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): New laundry card with local frame."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to buy bhutta (roasted corn) or moongphali from a roadside vendor on a road trip?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): New street-food card, absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wear your seat belt when sitting in the back seat of a car?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): New car-safety card, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to squeeze nimbu on everything from fruit chaat to daal?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): New desi food-habit card."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at folding clothes neatly the way a shop does?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): New chores card, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times this winter have you had to bathe with cold water because the geyser or gas stopped working?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clearer wording with time frame (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to buy a book from a street-side stall or Sunday book bazaar?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): New book-buying card with local frame; not in deck."
   }
  ]
 }
