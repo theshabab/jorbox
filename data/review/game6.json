@@ -4110,14 +4110,14 @@
   {
    "id": null,
    "Description": "Questions to Ask Before Buying Something",
-   "action": "add",
-   "note": "New card (debate): Anti-consumerism worldview, non-preachy and playable."
+   "action": "remove",
+   "note": "Debate: Abstract and open-ended; no clear set of known items to name quickly."
   },
   {
    "id": null,
    "Description": "Things an Honest Shopkeeper Does",
-   "action": "add",
-   "note": "New card (debate): Halal earning and honesty; distinct from Things Shopkeepers Say."
+   "action": "remove",
+   "note": "Debate: Subjective with few concrete answers; 'Things Shopkeepers Say' is better."
   },
   {
    "id": null,
@@ -4460,6 +4460,60 @@
    "Description": "Things You Do With Your Hands",
    "action": "add",
    "note": "New card (debate): Broad, easy, forgiving; no equivalent in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Hang on a Clothesline",
+   "action": "add",
+   "note": "New card (debate): Many easy everyday answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things Sold by the Dozen",
+   "action": "add",
+   "note": "New card (debate): Very Pakistani, many answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things Sold by the Kilo",
+   "action": "add",
+   "note": "New card (debate): Everyday bazaar category with many answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do With Your Mouth",
+   "action": "add",
+   "note": "New card (debate): Fun, wide open, pairs with the Hands card; clean."
+  },
+  {
+   "id": null,
+   "Description": "Things You See in the Sky",
+   "action": "add",
+   "note": "New card (debate): Easy with many answers; distinct from Things That Fly."
+  },
+  {
+   "id": null,
+   "Description": "Things That Come in Bottles",
+   "action": "add",
+   "note": "New card (debate): Many everyday answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Squeeze",
+   "action": "add",
+   "note": "New card (debate): Playful with many answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things That Come in Packets",
+   "action": "add",
+   "note": "New card (debate): Everyday items, clean wording; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Put Into a Sandwich or Roll",
+   "action": "add",
+   "note": "New card (debate): Local-twist food card with many answers; not in deck."
   }
  ]
 }

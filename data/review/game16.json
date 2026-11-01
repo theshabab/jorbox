@@ -7641,10 +7641,10 @@
   },
   {
    "id": null,
-   "Name": "Which Urdu muhavra (idiom) best describes your life right now?",
+   "Name": "Which Urdu muhavra (idiom) best describes your life right now (for example, 'jaisa des waisa bhes' or 'sabr ka phal meetha')?",
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card (debate): Fun language prompt; no idiom or proverb card exists."
+   "note": "New card (debate): Fun language prompt; no idiom or proverb card exists.; Debate: Clean, well-known idioms as examples help players who blank. Supersedes P1."
   },
   {
    "id": null,
@@ -9283,6 +9283,55 @@
    "Category": "Deep & ThoughtProvoking",
    "action": "add",
    "note": "New card (debate): Warm, family-friendly and not covered by any existing card."
+  },
+  {
+   "id": null,
+   "Name": "What did your family do on 14 August when you were a child (flags, badges, bunting, a drive out)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): No Independence Day card exists; Pakistani frame, clean."
+  },
+  {
+   "id": null,
+   "Name": "Which relative can fit the most people in one car, and what is the record you have seen?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Light family humour, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing you have heard someone say in their sleep, or have you been caught talking in yours?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Different angle from the half-asleep card."
+  },
+  {
+   "id": null,
+   "Name": "Which surah or short verse did you memorise first as a child, and who helped you learn it?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Respectful worship question, allowed by owner; distinct from the Quran-teacher card."
+  },
+  {
+   "id": null,
+   "Name": "Which exam result that went badly taught you something you still use today?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Challenger's narrower amended version avoids overlap with the generic mistake card and the stressful-exam add."
+  },
+  {
+   "id": null,
+   "Name": "Which phone number do you still remember by heart from before smartphones, and whose is it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from the gadget card; quick and nostalgic."
+  },
+  {
+   "id": null,
+   "Name": "If your family had a motto painted on the back of a truck, what would it say?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Inventive extension of the truck-art card, clean."
   }
  ]
 }

@@ -7010,6 +7010,60 @@
    "Name": "Name something you eat with daal chawal.",
    "action": "add",
    "note": "New card (debate): Common answers (achaar, papad, salad, fried onions, raita); different from the biryani-side card and the daal types card."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of chai.",
+   "action": "add",
+   "note": "New card (debate): No chai-types card; doodh patti, kahwa, karak, sulemani give easy matches."
+  },
+  {
+   "id": null,
+   "Name": "Name an Urdu word for a family relative.",
+   "action": "add",
+   "note": "New card (debate): Chacha, mamu, khala, phuppo, taya; high match rate, distinct from the judgmental/funny relative cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a scent of attar (itr).",
+   "action": "add",
+   "note": "New card (debate): Gulab, chandan, mushk, oud, kewra; not in deck, culturally apt."
+  },
+  {
+   "id": null,
+   "Name": "Name something you ask Allah for in dua.",
+   "action": "add",
+   "note": "New card (debate): Allowed worship question; distinct from the existing dua-time and dua-before-doing cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do before leaving for Eid prayer.",
+   "action": "add",
+   "note": "New card (debate): Ghusl, new clothes, itr, something sweet; narrower than 'Name something you do on Eid'."
+  },
+  {
+   "id": null,
+   "Name": "Name something Pakistanis keep covered in plastic or cloth.",
+   "action": "add",
+   "note": "New card (debate): Sofa, TV, fridge, fan; relatable and well-matched, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something wrapped in newspaper.",
+   "action": "add",
+   "note": "New card (debate): Pakoray, samosay, fish; not covered by the street-food cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a place families go on Eid day.",
+   "action": "add",
+   "note": "New card (debate): Challenger's generic wording avoids city-specific answers and splits."
+  },
+  {
+   "id": null,
+   "Name": "Name something Dada or Nani does every morning.",
+   "action": "add",
+   "note": "New card (debate): Challenger's narrower time frame gives more matching answers; distinct from the 'always says' cards."
   }
  ]
 }
