@@ -12657,6 +12657,69 @@
    "Description": "Al-Qaswa",
    "action": "add",
    "note": "New card (debate): Standard seerah answer; distinct from the Thamud camel card."
+  },
+  {
+   "id": null,
+   "Name": "Which was the last military expedition led by the Prophet (PBUH) himself, in 9 AH, towards the Byzantine frontier?",
+   "Description": "Expedition of Tabuk",
+   "action": "add",
+   "note": "New card (debate): Accurate Seerah fact; no Tabuk card in game9."
+  },
+  {
+   "id": null,
+   "Name": "Who is widely regarded as the first martyr of Islam, a woman killed in Makkah for her faith?",
+   "Description": "Sumayyah bint Khubbat (RA)",
+   "action": "add",
+   "note": "New card (debate): Challenger's hedged wording avoids the first-male-martyr dispute; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "The Quran tells the story of which righteous ruler who travelled east and west and built a barrier against Yajuj and Majuj?",
+   "Description": "Dhul-Qarnayn",
+   "action": "add",
+   "note": "New card (debate): Surah Al-Kahf story; accurate and absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which caliph is known as Dhun-Nurayn (Possessor of Two Lights) because he married two daughters of the Prophet (PBUH)?",
+   "Description": "Uthman ibn Affan (RA)",
+   "action": "add",
+   "note": "New card (debate): Accurate; distinct from the Quran compilation card."
+  },
+  {
+   "id": null,
+   "Name": "On which day of Muharram is the day of Ashura, when Muslims often fast?",
+   "Description": "The 10th",
+   "action": "add",
+   "note": "New card (debate): Well-established and not a duplicate of the first-month card."
+  },
+  {
+   "id": null,
+   "Name": "Which companion is given the title \"As-Siddiq\" (the Truthful)?",
+   "Description": "Abu Bakr (RA)",
+   "action": "add",
+   "note": "New card (debate): Accurate, distinct from first-caliph and Cave of Thawr cards."
+  },
+  {
+   "id": null,
+   "Name": "Which companion is given the title \"Al-Farooq\" (the one who distinguishes truth from falsehood)?",
+   "Description": "Umar ibn al-Khattab (RA)",
+   "action": "add",
+   "note": "New card (debate): Accurate title card, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "How many companions are famously given the glad tidings of Paradise in a single hadith (Ashra Mubashshara)?",
+   "Description": "Ten",
+   "action": "add",
+   "note": "New card (debate): Well-known and accurate; absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "To which tribe of Makkah did the Prophet Muhammad (PBUH) belong?",
+   "Description": "Quraysh",
+   "action": "add",
+   "note": "New card (debate): Basic correct fact; Quraysh appears only inside the Hudaybiyyah card, which asks something different."
   }
  ]
 }

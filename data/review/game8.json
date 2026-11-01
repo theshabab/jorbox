@@ -11230,6 +11230,38 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Easy to draw, relatable, drawable scale, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "UNBOTHERED <---> FULL PANIC",
+   "Description": "Write what Ammi says when the gas pressure drops while the dawat food is half cooked, that sounds this panicked",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clean calm-to-panic scale; gas-pressure dawat scene is new and local."
+  },
+  {
+   "id": null,
+   "Name": "BEGINNER <---> CARROM CHAMPION",
+   "Description": "Draw a player at the mohalla carrom board who is this skilled",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Carrom is new; clear skill scale and an easy drawing target."
+  },
+  {
+   "id": null,
+   "Name": "MILD <---> TEARS IN YOUR EYES",
+   "Description": "Write a golgappay-wala's sign for pani that is this spicy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Golgappay is new, local, and the spice scale matches the task."
+  },
+  {
+   "id": null,
+   "Name": "NO PAKORAY <---> PAKORA PARTY",
+   "Description": "Write a status-line for a WhatsApp family group when the first monsoon rain falls that shows this much excitement about pakoray",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Pakora and monsoon is new; ends now measure the same thing as the task (enthusiasm)."
   }
  ]
 }

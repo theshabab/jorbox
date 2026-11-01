@@ -7000,7 +7000,7 @@
   {
    "id": "game1-539",
    "Name": "Tea",
-   "Description": "Pakistan's favourite hot drink, chai",
+   "Description": "Pakistan's favourite hot drink, with milk and sugar",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7008,7 +7008,7 @@
     "Description": "A hot beverage",
     "Category": "Beverages"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint was only 'chai', a pure translation of the word."
   },
   {
    "id": "game1-540",
@@ -7182,7 +7182,7 @@
   {
    "id": "game1-553",
    "Name": "Green Tea",
-   "Description": "Light unfermented brew, kehwa-like",
+   "Description": "Light unfermented brew, drunk after heavy meals",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7190,12 +7190,12 @@
     "Description": "A healthy beverage",
     "Category": "Beverages"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Clearer than 'kehwa-like'; no word from the name."
   },
   {
    "id": "game1-554",
    "Name": "Kashmiri Chai",
-   "Description": "Pink tea with nuts, winter favourite",
+   "Description": "Pink brew with nuts, a winter favourite",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7203,12 +7203,12 @@
     "Description": "A traditional tea",
     "Category": "Beverages"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Hint said 'tea', a translation of Chai."
   },
   {
    "id": "game1-555",
    "Name": "Doodh Soda",
-   "Description": "Milk mixed with fizzy lemon-lime",
+   "Description": "Dairy mixed with fizzy lemon-lime drink",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7216,7 +7216,7 @@
     "Description": "A milk soda",
     "Category": "Beverages"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Removes 'Milk', a translation of Doodh."
   },
   {
    "id": "game1-556",
@@ -7572,7 +7572,7 @@
   {
    "id": "game1-583",
    "Name": "Kalakand",
-   "Description": "Milk cake: moist, grainy sweet of curdled milk",
+   "Description": "Moist, grainy sweet of curdled milk",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7580,7 +7580,7 @@
     "Description": "A milk sweet",
     "Category": "Desserts"
    },
-   "note": "Specific hint; Debate: Tells it apart from barfi and uses the name Pakistani sweet shops commonly sell it under."
+   "note": "Specific hint; Debate: Tells it apart from barfi and uses the name Pakistani sweet shops commonly sell it under.; Debate: Shorter, drops the 'Milk cake' translation."
   },
   {
    "id": "game1-584",
@@ -7702,7 +7702,7 @@
   {
    "id": "game1-593",
    "Name": "Grandfather",
-   "Description": "Dada or Nana",
+   "Description": "Dada or Nana: your parent's dad",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7710,12 +7710,12 @@
     "Description": "A male grandparent",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds a description; 'dad' avoids 'father' from the name, matching the in-law cards."
   },
   {
    "id": "game1-594",
    "Name": "Grandmother",
-   "Description": "Dadi or Nani",
+   "Description": "Dadi or Nani: your parent's mum",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7723,7 +7723,7 @@
     "Description": "A female grandparent",
     "Category": "Family Relations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Adds a description; 'mum' avoids 'mother' from the name."
   },
   {
    "id": "game1-595",
@@ -7845,7 +7845,7 @@
   {
    "id": "game1-604",
    "Name": "Brother-in-law",
-   "Description": "Behnoi, devar or saala",
+   "Description": "Devar, saala: spouse's male sibling or sister's husband",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7853,12 +7853,12 @@
     "Description": "Spouse's brother",
     "Category": "Family Relations"
    },
-   "note": "Specific hint; Debate: Familiar local terms, matching the style of Grandfather/Grandmother hints."
+   "note": "Specific hint; Debate: Familiar local terms, matching the style of Grandfather/Grandmother hints.; Debate: Adds a description and keeps the valid behnoi (sister's husband) sense."
   },
   {
    "id": "game1-605",
    "Name": "Sister-in-law",
-   "Description": "Bhabhi, nand or saali",
+   "Description": "Nand, saali: spouse's female sibling or brother's wife",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7866,12 +7866,12 @@
     "Description": "Spouse's sister",
     "Category": "Family Relations"
    },
-   "note": "Specific hint; Debate: Familiar local terms, short and accurate."
+   "note": "Specific hint; Debate: Familiar local terms, short and accurate.; Debate: Adds a description and keeps the bhabhi (brother's wife) sense."
   },
   {
    "id": "game1-606",
    "Name": "Step-mother",
-   "Description": "Sauteli maa: father's wife, not birth mother",
+   "Description": "Sauteli maa: dad's wife, not your biological parent",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7879,12 +7879,12 @@
     "Description": "Father's wife",
     "Category": "Family Relations"
    },
-   "note": "Specific hint; Debate: Adds the standard Urdu term and tightens the wording."
+   "note": "Specific hint; Debate: Adds the standard Urdu term and tightens the wording.; Debate: Removes 'mother'/'mom' from the hint."
   },
   {
    "id": "game1-607",
    "Name": "Step-father",
-   "Description": "Sautela baap: mother's husband, not birth father",
+   "Description": "Sautela baap: mum's husband, not your biological parent",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7892,7 +7892,7 @@
     "Description": "Mother's husband",
     "Category": "Family Relations"
    },
-   "note": "Specific hint; Debate: Adds the standard Urdu term and tightens the wording."
+   "note": "Specific hint; Debate: Adds the standard Urdu term and tightens the wording.; Debate: Removes 'father'/'dad' from the hint."
   },
   {
    "id": "game1-608",
@@ -7962,41 +7962,41 @@
   {
    "id": "game1-613",
    "Name": "Umar",
-   "Description": "Second Caliph",
+   "Description": "Second Caliph, known as al-Farooq",
    "Category": "Sahaba",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Umar",
     "Description": "Second Caliph",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Adds his well-established title."
   },
   {
    "id": "game1-614",
    "Name": "Uthman",
-   "Description": "Third Caliph",
+   "Description": "Third Caliph, Zun-Noorain (owner of two lights)",
    "Category": "Sahaba",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Uthman",
     "Description": "Third Caliph",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Adds his title in the form Pakistani players know."
   },
   {
    "id": "game1-615",
    "Name": "Ali",
-   "Description": "Fourth Caliph",
+   "Description": "Fourth Caliph, cousin and son-in-law of the Prophet",
    "Category": "Sahaba",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Ali",
     "Description": "Fourth Caliph",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Adds identifying facts to a bare ordinal."
   },
   {
    "id": "game1-616",
@@ -8118,7 +8118,7 @@
   {
    "id": "game1-625",
    "Name": "Zaid ibn Harithah",
-   "Description": "Adopted son of the Prophet",
+   "Description": "Freed slave raised by the Prophet; named in Quran",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8126,7 +8126,7 @@
     "Description": "Adopted son of the Prophet",
     "Category": "Sahaba"
    },
-   "note": "Same fix as Charades"
+   "note": "Same fix as Charades; Debate: Replaces the imprecise 'adopted son'. He is the only companion named in the Quran (33:37). Plain wording."
   },
   {
    "id": "game1-626",

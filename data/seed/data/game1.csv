@@ -513,7 +513,7 @@ Corduroy,Fabric with raised ridged lines,Fabrics
 Canvas,Heavy cloth for tents and bags,Fabrics
 Water,Clear liquid essential for life,Beverages
 Milk,White drink from cows and buffaloes,Beverages
-Tea,"Pakistan's favourite hot drink, chai",Beverages
+Tea,"Pakistan's favourite hot drink, with milk and sugar",Beverages
 Coffee,Hot drink brewed from roasted beans,Beverages
 Juice,Liquid squeezed from fruit,Beverages
 Lassi,"Yogurt drink, sweet or salty",Beverages
@@ -526,9 +526,9 @@ Rooh Afza,Famous red rose syrup drink,Beverages
 Kanji,Fermented black carrot drink,Beverages
 Sattu,Roasted gram flour drink,Beverages
 Buttermilk,Chhach: thin liquid left after churning,Beverages
-Green Tea,"Light unfermented brew, kehwa-like",Beverages
-Kashmiri Chai,"Pink tea with nuts, winter favourite",Beverages
-Doodh Soda,Milk mixed with fizzy lemon-lime,Beverages
+Green Tea,"Light unfermented brew, drunk after heavy meals",Beverages
+Kashmiri Chai,"Pink brew with nuts, a winter favourite",Beverages
+Doodh Soda,Dairy mixed with fizzy lemon-lime drink,Beverages
 Cold Drink,Fizzy bottled soft beverage,Beverages
 Energy Drink,Caffeinated can for staying awake,Beverages
 Soup,"Hot liquid dish, like winter chicken corn",Beverages
@@ -554,7 +554,7 @@ Ras Malai,Soft cheese patties in sweet milk,Desserts
 Cham Cham,"Oval, spongy Bengali milk sweet",Desserts
 Sohan Halwa,"Hard, nutty sweet famous from Multan",Desserts
 Patisa,"Flaky gram-flour sweet, like soan papdi",Desserts
-Kalakand,"Milk cake: moist, grainy sweet of curdled milk",Desserts
+Kalakand,"Moist, grainy sweet of curdled milk",Desserts
 Zarda,Sweet yellow rice with nuts,Desserts
 Sheer Khurma,"Eid dessert of milk, vermicelli and dates",Desserts
 Sawaiyan,"Thin roasted vermicelli, cooked sweet for Eid",Desserts
@@ -564,8 +564,8 @@ Brother,Bhai: a male sibling,Family Relations
 Sister,Behen: a female sibling,Family Relations
 Son,Beta: a male child,Family Relations
 Daughter,Beti: a female child,Family Relations
-Grandfather,Dada or Nana,Family Relations
-Grandmother,Dadi or Nani,Family Relations
+Grandfather,Dada or Nana: your parent's dad,Family Relations
+Grandmother,Dadi or Nani: your parent's mum,Family Relations
 Uncle,Chacha or Mamu: parent's brother,Family Relations
 Aunt,Khala or Phuppo: parent's sister,Family Relations
 Cousin,Child of your aunt or uncle,Family Relations
@@ -575,18 +575,18 @@ Husband,Shohar or Miyan: a male spouse,Family Relations
 Wife,Biwi or Begum: a female spouse,Family Relations
 Father-in-law,Sasur: your spouse's dad,Family Relations
 Mother-in-law,Saas: your spouse's mum,Family Relations
-Brother-in-law,"Behnoi, devar or saala",Family Relations
-Sister-in-law,"Bhabhi, nand or saali",Family Relations
-Step-mother,"Sauteli maa: father's wife, not birth mother",Family Relations
-Step-father,"Sautela baap: mother's husband, not birth father",Family Relations
+Brother-in-law,"Devar, saala: spouse's male sibling or sister's husband",Family Relations
+Sister-in-law,"Nand, saali: spouse's female sibling or brother's wife",Family Relations
+Step-mother,"Sauteli maa: dad's wife, not your biological parent",Family Relations
+Step-father,"Sautela baap: mum's husband, not your biological parent",Family Relations
 Grandson,Pota or Nawasa: your child's son,Family Relations
 Granddaughter,Poti or Nawasi: your child's daughter,Family Relations
 Ancestor,Forefather from generations ago,Family Relations
 Relative,Rishtedaar: any member of your extended family,Family Relations
 Abu Bakr,First Caliph of Islam,Sahaba
-Umar,Second Caliph,Sahaba
-Uthman,Third Caliph,Sahaba
-Ali,Fourth Caliph,Sahaba
+Umar,"Second Caliph, known as al-Farooq",Sahaba
+Uthman,"Third Caliph, Zun-Noorain (owner of two lights)",Sahaba
+Ali,"Fourth Caliph, cousin and son-in-law of the Prophet",Sahaba
 Bilal,First muezzin of Islam,Sahaba
 Khalid ibn al-Walid,"Sword of Allah, undefeated commander",Sahaba
 Salman al-Farsi,Persian companion who suggested the trench,Sahaba
@@ -596,7 +596,7 @@ Khadija,First wife of the Prophet,Sahaba
 Fatima,"Daughter of the Prophet, wife of Ali",Sahaba
 Hassan,Elder grandson of the Prophet,Sahaba
 Hussain,"Younger grandson of the Prophet, martyred at Karbala",Sahaba
-Zaid ibn Harithah,Adopted son of the Prophet,Sahaba
+Zaid ibn Harithah,Freed slave raised by the Prophet; named in Quran,Sahaba
 Talha,Shielded the Prophet at Uhud,Sahaba
 Zubair,Cousin and disciple (hawari) of the Prophet,Sahaba
 Saad ibn Abi Waqqas,"Archer, victor at Qadisiyyah",Sahaba
