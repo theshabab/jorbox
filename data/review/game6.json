@@ -1202,12 +1202,12 @@
   },
   {
    "id": "game6-134",
-   "Description": "Islamic Books",
-   "action": "keep",
+   "Description": "Islamic Books (Quran, Sahih Bukhari, Riyad-us-Saliheen...)",
+   "action": "edit",
    "original": {
     "Description": "Islamic Books"
    },
-   "note": ""
+   "note": "Debate: Accurate, well-known titles; examples clarify the vague category."
   },
   {
    "id": "game6-135",
@@ -1364,12 +1364,12 @@
   },
   {
    "id": "game6-152",
-   "Description": "Parks in Pakistan",
+   "Description": "Parks and Gardens in Pakistan (Jinnah Park, Jilani Park...)",
    "action": "edit",
    "original": {
     "Description": "Pakistani Parks"
    },
-   "note": "wording"
+   "note": "wording; Debate: Widens the answer pool; examples are real and clarify the category."
   },
   {
    "id": "game6-153",
@@ -1536,11 +1536,11 @@
   {
    "id": "game6-171",
    "Description": "Pakistani Industries",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Pakistani Industries"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of Pakistani Exports (idx 168, game6-169, action edit so still live)."
   },
   {
    "id": "game6-172",
@@ -4814,6 +4814,42 @@
    "Description": "Types of Biryani and Pulao",
    "action": "add",
    "note": "New card (debate): Many popular answers (Sindhi, Bombay, Memoni, Kabuli, Yakhni, Tehri, beef, chicken, egg, aloo). A sub-type list, distinct from Rice Dishes and Things That Go in Biryani."
+  },
+  {
+   "id": null,
+   "Description": "Things Pakistan Is Famous For (Mangoes, K2, Cricket...)",
+   "action": "add",
+   "note": "New card (debate): Broad, easy, patriotic category with many answers; no equivalent in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Chips and Packaged Snack Brands (Kurkure, Lays, Slanty...)",
+   "action": "add",
+   "note": "New card (debate): Well-known brands; distinct from Pakistani Snacks (dishes) and Biscuit Brands."
+  },
+  {
+   "id": null,
+   "Description": "Packaged Juice Brands (Shezan, Slice, Nestle Fruita Vitals...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: Pakola is a soda, so narrowed to packaged juices with accurate examples."
+  },
+  {
+   "id": null,
+   "Description": "Things Rickshaw Drivers Say",
+   "action": "add",
+   "note": "New card (debate): Fun local category consistent with the Bus Conductors and Shopkeepers cards."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Sabzi Mandi (Vegetable Market)",
+   "action": "add",
+   "note": "New card (debate): Familiar everyday place with many answers; only mild overlap with other market cards."
+  },
+  {
+   "id": null,
+   "Description": "Things Kept in Dadi's Sandooq (Old Trunk)",
+   "action": "add",
+   "note": "New card (debate): Challenger's tighter wording; nostalgic desi category distinct from Things Dadi Says."
   }
  ]
 }

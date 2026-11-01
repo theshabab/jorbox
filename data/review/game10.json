@@ -5897,9 +5897,9 @@
   },
   {
    "id": null,
-   "Name": "Mango: Sliced or Choos Ke?",
+   "Name": "Mango: Sliced or Chusna?",
    "action": "add",
-   "note": "New card (debate): The challenger's amendment uses the natural phrase 'choos ke'. It differs from Sindhri vs Chaunsa."
+   "note": "New card (debate): The challenger's amendment uses the natural phrase 'choos ke'. It differs from Sindhri vs Chaunsa.; Debate: Replaces awkward 'Choos Ke', keeps short 'Sliced' (challenger amendment)."
   },
   {
    "id": null,
@@ -6191,9 +6191,9 @@
   },
   {
    "id": null,
-   "Name": "Name a famous waterfall in Pakistan.",
+   "Name": "Name a famous waterfall in the world.",
    "action": "add",
-   "note": "New card (debate): Fits the deck's geography set and has common answers (Sajikot, Manthoka, Jarogo, Umbrella Waterfall). The deck has no waterfall card yet."
+   "note": "New card (debate): Fits the deck's geography set and has common answers (Sajikot, Manthoka, Jarogo, Umbrella Waterfall). The deck has no waterfall card yet.; Debate: Pakistani waterfalls too obscure; world waterfalls give matching answers."
   },
   {
    "id": null,
@@ -7214,6 +7214,48 @@
    "Name": "Name a dish made with keema (mince).",
    "action": "add",
    "note": "New card (debate): No keema card exists in the deck or review file; answers (keema aloo, kebab, samosa, keema naan, shami) are common, Pakistani and matchable."
+  },
+  {
+   "id": null,
+   "Name": "Name a piece of furniture found in most Pakistani homes.",
+   "action": "add",
+   "note": "New card (debate): Common answers; no furniture card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something a bride's family gives in her jahez.",
+   "action": "add",
+   "note": "New card (debate): Wedding theme, common answers, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name an act of worship people increase in the last ten days of Ramazan.",
+   "action": "add",
+   "note": "New card (debate): Narrower wording gives convergent answers (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Name a sweet people eat on Eid morning.",
+   "action": "add",
+   "note": "New card (debate): Sheer khurma, seviyan are strong common answers; distinct from existing cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a vehicle you see on Pakistani roads that is decorated colourfully.",
+   "action": "add",
+   "note": "New card (debate): Local theme with clear answers (truck, bus, rickshaw)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do while waiting for a late bus.",
+   "action": "add",
+   "note": "New card (debate): Simpler wording, convergent answers (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you give a guest who is staying overnight.",
+   "action": "add",
+   "note": "New card (debate): Clear hospitality card; bedsheet, pillow, razai (challenger amendment)."
   }
  ]
 }
