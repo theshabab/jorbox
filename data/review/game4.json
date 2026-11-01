@@ -10111,7 +10111,7 @@
    "Description": "Mariam al-Fihri, whose sister founded the famous al-Qarawiyyin university, built the ____ Mosque in Fez, Morocco.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The current text names Fatima al-Fihri, which gives away the answer to the deck's al-Qarawiyyin founder card (692). The rewrite keeps her name hidden and is accurate: Mariam founded the Mosque of the Andalusians around 859."
+   "note": "New card; Debate: The current text names Fatima al-Fihri, which gives away the answer to the deck's al-Qarawiyyin founder card (692). The rewrite keeps her name hidden and is accurate: Mariam founded the Mosque of the Andalusians around 859.; Debate: Fact correct; fills the empty category."
   },
   {
    "id": null,
@@ -10500,10 +10500,10 @@
   {
    "id": null,
    "Name": "copper",
-   "Description": "The Statue of Liberty was originally a shiny reddish-brown colour; it turned green because it is covered in ____.",
-   "Category": "History Oddities",
+   "Description": "The Statue of Liberty is made of thin sheets of shiny, reddish-brown ____, which slowly turned green in the weather.",
+   "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Fixes the illogical old wording; accurate."
   },
   {
    "id": null,
@@ -10543,7 +10543,7 @@
    "Description": "France's King Louis XIV reigned for ____ years, longer than any other king or queen in European history.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Challenger's amended version. 'Any major monarch' is vague and arguably false worldwide (Sobhuza II reigned about 82 years). 'Any monarch in Europe' would also be open to challenge (Count Bernhard VII of Lippe ruled about 81 years). 'King or queen' is a claim that holds up."
+   "note": "New card; Debate: Challenger's amended version. 'Any major monarch' is vague and arguably false worldwide (Sobhuza II reigned about 82 years). 'Any monarch in Europe' would also be open to challenge (Count Bernhard VII of Lippe ruled about 81 years). 'King or queen' is a claim that holds up.; Debate: Fact correct (1643-1715); fills the empty category."
   },
   {
    "id": null,
@@ -13448,6 +13448,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Challenger's clearer wording; complements existing owl cards without duplicating them."
+  },
+  {
+   "id": null,
+   "Name": "Saints",
+   "Description": "The Punjab city of Multan, famous for its Sufi shrines, is nicknamed the \"City of ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate local nickname, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "East",
+   "Description": "With its green mountains, rivers and orchards, Pakistan's Swat Valley is nicknamed the \"Switzerland of the ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, relatable, good bluffing options."
+  },
+  {
+   "id": null,
+   "Name": "sanatorium",
+   "Description": "The hill town of Murree, near Islamabad, was founded by the British in 1851 as a ____, a place where soldiers could rest and recover in the cool mountain air.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment accepted: avoids the guessable stock phrase 'hill station'; fact correct."
+  },
+  {
+   "id": null,
+   "Name": "arches",
+   "Description": "The Great Mosque of Córdoba in Spain is famous for its forest of more than 800 columns topped by red-and-white striped ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment accepted: columns are counted, arches are striped; more accurate."
+  },
+  {
+   "id": null,
+   "Name": "compartments",
+   "Description": "A cow's stomach has four ____, which help it digest tough grass.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, short, no duplicate."
   }
  ]
 }

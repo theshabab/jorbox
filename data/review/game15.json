@@ -10239,13 +10239,13 @@
    "Name": "Kuril-Kamchatka Trench",
    "Description": "~9,600 m",
    "Category": "Deepest Ocean Trenches (Depth - Deep to Shallow)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Kuril-Kamchatka Trench",
     "Description": "10,542 m",
     "Category": "Deepest Ocean Trenches (Depth - Deep to Shallow)"
    },
-   "note": "Debate: Challenger amendment: 10,542 m is an outdated sounding; modern surveys give ~9,600 m, placing it after Izu-Ogasawara (9,780 m) in the true order. Fixable, so edit rather than remove; also removes the near-tie with the Philippine Trench."
+   "note": "Debate: Value is wrong (about 10,542 m); corrected value would near-tie Philippine Trench, so remove. 9 cards remain."
   },
   {
    "id": "game15-789",
@@ -10447,13 +10447,13 @@
    "Name": "Manchac Swamp Bridge",
    "Description": "36.7 km",
    "Category": "Longest Bridges (Length - Long to Short)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Manchac Swamp Bridge",
     "Description": "36.7 km",
     "Category": "Longest Bridges (Length - Long to Short)"
    },
-   "note": ""
+   "note": "Debate: US-centric and obscure. 9 cards remain."
   },
   {
    "id": "game15-805",
@@ -31313,6 +31313,86 @@
    "Category": "Big Cats (Weight - Heavy to Light)",
    "action": "add",
    "note": "New card (debate): Amended: adult male averages ~45 kg; consistent male basis; found in Pakistan's north."
+  },
+  {
+   "id": null,
+   "Name": "K2 (Chogori)",
+   "Description": "8,611 m",
+   "Category": "Eight-Thousanders of Pakistan (Height - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Pakistani-themed ranking; accurate category name per challenger."
+  },
+  {
+   "id": null,
+   "Name": "Nanga Parbat",
+   "Description": "8,126 m",
+   "Category": "Eight-Thousanders of Pakistan (Height - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Pakistan's second-highest 8000er; Himalayan, so category renamed."
+  },
+  {
+   "id": null,
+   "Name": "Gasherbrum I",
+   "Description": "8,080 m",
+   "Category": "Eight-Thousanders of Pakistan (Height - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Correct value; part of the five 8,000 m peaks of Pakistan."
+  },
+  {
+   "id": null,
+   "Name": "Broad Peak",
+   "Description": "8,051 m",
+   "Category": "Eight-Thousanders of Pakistan (Height - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Correct value; part of the category."
+  },
+  {
+   "id": null,
+   "Name": "Gasherbrum II",
+   "Description": "8,035 m",
+   "Category": "Eight-Thousanders of Pakistan (Height - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Correct value; part of the category."
+  },
+  {
+   "id": null,
+   "Name": "Lake Baikal",
+   "Description": "1,642 m deep",
+   "Category": "Deepest Lakes (Depth - Deep to Shallow)",
+   "action": "add",
+   "note": "New card (debate): New depth ranking, distinct from the existing area ranking."
+  },
+  {
+   "id": null,
+   "Name": "Lake Tanganyika",
+   "Description": "1,470 m deep",
+   "Category": "Deepest Lakes (Depth - Deep to Shallow)",
+   "action": "add",
+   "note": "New card (debate): Second deepest lake; correct."
+  },
+  {
+   "id": null,
+   "Name": "Caspian Sea (lake)",
+   "Description": "1,025 m deep",
+   "Category": "Deepest Lakes (Depth - Deep to Shallow)",
+   "action": "add",
+   "note": "New card (debate): Matches the deck's existing naming for the Caspian."
+  },
+  {
+   "id": null,
+   "Name": "Lake Malawi",
+   "Description": "706 m deep",
+   "Category": "Deepest Lakes (Depth - Deep to Shallow)",
+   "action": "add",
+   "note": "New card (debate): Correct value."
+  },
+  {
+   "id": null,
+   "Name": "Issyk-Kul",
+   "Description": "668 m deep",
+   "Category": "Deepest Lakes (Depth - Deep to Shallow)",
+   "action": "add",
+   "note": "New card (debate): Correct value; Muslim-world lake."
   }
  ]
 }

@@ -8263,13 +8263,13 @@
    "Name": "A great flood is coming and your rescue boat is too small for every animal. You’d have no problem leaving behind...",
    "Description": "mosquitoes|snakes|rats",
    "Category": "Morality",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "You’re a modern-day Noah but with a smaller boat. You’d have no problem leaving behind...",
     "Description": "mosquitoes|snakes|rats",
     "Category": "Morality"
    },
-   "note": "removed casual Prophet Nuh (AS) reference"
+   "note": "Debate: Near-duplicate of idx 636; 636 confirmed live."
   },
   {
    "id": "game3-637",
@@ -8325,16 +8325,16 @@
   },
   {
    "id": "game3-641",
-   "Name": "You seriously dent a stranger’s car in a parking lot. You then...",
+   "Name": "You seriously dent a stranger’s car in a parking area. You then...",
    "Description": "get out of there|leave a note|try and fix it",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "You seriously dent a stranger’s car in a parking lot. You then...",
     "Description": "get out of there|leave a note|try and fix it",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Replaces US-leaning 'parking lot' wording."
   },
   {
    "id": "game3-642",
@@ -8455,7 +8455,7 @@
   },
   {
    "id": "game3-651",
-   "Name": "You accidentally leave the tap running and flood a petrol pump washroom. What you should do is...",
+   "Name": "You accidentally leave the tap running and flood your neighbour’s garage. What you should do is...",
    "Description": "tell someone|fix it|leave a note",
    "Category": "Morality",
    "action": "edit",
@@ -8464,7 +8464,7 @@
     "Description": "tell someone|fix It|leave a note",
     "Category": "Morality"
    },
-   "note": "gas station → petrol pump; capitalisation; Sweep: toilet clogging joke rewritten"
+   "note": "gas station → petrol pump; capitalisation; Sweep: toilet clogging joke rewritten; Debate: Removes washroom setting, keeps dilemma."
   },
   {
    "id": "game3-652",
@@ -8520,16 +8520,16 @@
   },
   {
    "id": "game3-656",
-   "Name": "You see a diamond necklace on a sleeping grizzly bear. You should...",
+   "Name": "You see a diamond necklace on a sleeping tiger. You should...",
    "Description": "take it|leave it|call a friend to help you",
    "Category": "Morality",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "You see a diamond necklace on a sleeping grizzly bear. You should...",
     "Description": "take it|leave it|call a friend to help you",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Replaces US-centric grizzly bear."
   },
   {
    "id": "game3-657",
@@ -8666,13 +8666,13 @@
    "Name": "Your plane is crashing and you’re one parachute short. You DON’T save...",
    "Description": "the billionaire|the parent|the surgeon",
    "Category": "Morality",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Your plane is crashing and you’re one parachute short. You DON’T save...",
     "Description": "the billionaire|the parent|the surgeon",
     "Category": "Morality"
    },
-   "note": ""
+   "note": "Debate: Duplicate of idx 637; 637 confirmed live (keep)."
   },
   {
    "id": null,
@@ -8909,10 +8909,10 @@
   {
    "id": null,
    "Name": "Vegetables",
-   "Description": "Aloo|Pyaz|Tamatar|Gobhi|Band Gobhi|Gajar|Mooli|Matar|Palak|Bhindi|Karela|Baingan|Lauki|Tinday|Shimla Mirch|Kheera|Shaljam|Arvi|Saag|Hari Mirch",
+   "Description": "Aloo|Pyaz|Tamatar|Gobhi|Band Gobhi|Gajar|Mooli|Matar|Palak|Bhindi|Karela|Baingan|Lauki|Tinday|Shimla Mirch|Kheera|Shaljam|Arvi|Methi|Hari Mirch",
    "Category": "",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Saag is a generic term overlapping Palak; Methi is a distinct vegetable."
   },
   {
    "id": null,
@@ -12241,6 +12241,62 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Challenger's amendment: natural graded options instead of the awkward host's-child option."
+  },
+  {
+   "id": null,
+   "Name": "Things on a Motorway",
+   "Description": "Toll Plaza|Service Area|Ambulance|Fast Lane|Slow Lane|Speed Limit Sign|Motorway Police|Flyover|Underpass|Billboard|Petrol Station|Prayer Area|Interchange|Exit Sign|Speed Camera|Coaster|Truck|Tow Truck|Fog Lights|Toll Ticket",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local topic using the challenger's amended word list."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Chand Raat Bazaar",
+   "Description": "Mehndi Cones|Glass Bangles|Stalls|Crowd|Bargaining|Fairy Lights|Dupattas|Sandals|Perfume|Beauty Parlour|Chaat Stall|Ice Cream|Eidi Notes|Henna Artists|Shopping Bags|Tailor|Traffic Jam|Loudspeaker|Last-Minute Shopping|Shopkeepers",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct bazaar setting; amended list removes near-duplicates and off-topic words."
+  },
+  {
+   "id": null,
+   "Name": "Things on a Fruit Thela",
+   "Description": "Weighing Scale|Iron Weights|Plastic Bags|Chaat Masala|Mangoes|Bananas|Grapes|Apples|Melon|Price Sign|Wooden Cart|Pomegranates|Tarpaulin|Flies|Newspaper|Knife|Guavas|Oranges|Customers|Bargaining",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local street-vendor topic with clearer amended words."
+  },
+  {
+   "id": null,
+   "Name": "Draw a ceiling fan.",
+   "Description": "Draw a windmill.|Draw a flower.|Draw a propeller.|Draw a pedestal fan.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Everyday local object, not already a prompt."
+  },
+  {
+   "id": null,
+   "Name": "Draw a rooftop water tank.",
+   "Description": "Draw a water cooler.|Draw a dustbin.|Draw a petrol drum.|Draw a gas cylinder.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Recognisable local object, distinct from water tanker card."
+  },
+  {
+   "id": null,
+   "Name": "A cut kite lands on your roof and a child from the street below is crying for it. You...",
+   "Description": "return it|fly it|keep it",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Clearer wording of a local clean dilemma."
+  },
+  {
+   "id": null,
+   "Name": "Everyone has left the iftar table for Maghrib prayer and one samosa is left on the plate. You...",
+   "Description": "take it|leave it|save it for someone",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Amended to fix the fasting inaccuracy and unusable option."
   }
  ]
 }
