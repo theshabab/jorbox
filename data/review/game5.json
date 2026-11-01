@@ -9431,7 +9431,7 @@
   {
    "id": "game5-726",
    "Name": "",
-   "Description": "Do the Dew ® with our most extreme flavor yet! Get ready for Mountain Dew ____!",
+   "Description": "Try our most extreme flavour yet! Get ready for Pakola ____!",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -9439,7 +9439,7 @@
     "Description": "Do the Dew ® with our most extreme flavor yet! Get ready for Mountain Dew ____!",
     "Category": "The Fifth Expansion"
    },
-   "note": ""
+   "note": "Debate: Replaces a US brand slogan with a Pakistani drink."
   },
   {
    "id": "game5-727",
@@ -9717,7 +9717,7 @@
   {
    "id": "game5-748",
    "Name": "",
-   "Description": "I have become ____, destroyer of ____!",
+   "Description": "Behold, I am ____, destroyer of ____!",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -9725,7 +9725,7 @@
     "Description": "I am become ____, destroyer of ____!",
     "Category": "The Fourth Expansion"
    },
-   "note": "removed scripture quote"
+   "note": "removed scripture quote; Debate: Removes the scripture quote and keeps the blanks."
   },
   {
    "id": "game5-749",
@@ -10107,7 +10107,7 @@
   {
    "id": "game5-778",
    "Name": "",
-   "Description": "Next time on the Morning Show: How to talk to your child about ____.",
+   "Description": "Next time on the Morning Show: How to convince your child to eat ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -10115,7 +10115,7 @@
     "Description": "Next time on the Morning Show: How to talk to your child about ____.",
     "Category": "The Second Expansion"
    },
-   "note": ""
+   "note": "Debate: Keeps the morning-show joke without inviting sexual answers."
   },
   {
    "id": "game5-779",
@@ -10315,7 +10315,7 @@
   {
    "id": "game5-794",
    "Name": "",
-   "Description": "My grandfather worked his way up from nothing. When he came to this country, all he had was the shoes on his feet and ____.",
+   "Description": "My grandfather worked his way up from nothing. When he first came to the city, all he had was the shoes on his feet and ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -10323,7 +10323,7 @@
     "Description": "My grandfather worked his way up from nothing. When he came to this country, all he had was the shoes on his feet and ____.",
     "Category": "The Sixth Expansion"
    },
-   "note": ""
+   "note": "Debate: Localises the immigrant framing."
   },
   {
    "id": "game5-795",
@@ -10380,7 +10380,7 @@
   {
    "id": "game5-799",
    "Name": "",
-   "Description": "Listen Ghulam, I like you. But if you want that corner office, you're going to have to show me ____.",
+   "Description": "Listen Ghulam, I like you. But if you want that corner office, you're going to have to show me ____ by Monday.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -10388,7 +10388,7 @@
     "Description": "Listen Gary, I like you. But if you want that corner office, you're going to have to show me ____.",
     "Category": "The Sixth Expansion"
    },
-   "note": "localised name"
+   "note": "localised name; Debate: Removes the sexual-favour reading while keeping the boss joke."
   },
   {
    "id": "game5-800",
@@ -10627,7 +10627,7 @@
   {
    "id": "game5-818",
    "Name": "",
-   "Description": "Call our lawyer right now, because no one should have to tolerate ____ in the workplace.",
+   "Description": "Call our lawyer right now, because no one should have to tolerate ____ in the office pantry.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -10635,7 +10635,7 @@
     "Description": "Call the law offices of Goldstein & Goldstein, because no one should have to tolerate ____ in the workplace.",
     "Category": "The Third Expansion"
    },
-   "note": "removed stereotyped law-firm name"
+   "note": "removed stereotyped law-firm name; Debate: Clean version of a workplace-misconduct setup."
   },
   {
    "id": "game5-819",
@@ -10731,7 +10731,7 @@
   {
    "id": "game5-826",
    "Name": "",
-   "Description": "Hey, come visit my house and I'll show you ____.",
+   "Description": "Hey, come visit my house and I'll show you my collection of ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -10739,7 +10739,7 @@
     "Description": "Hey, come visit my house and I'll show you ____.",
     "Category": "The Third Expansion"
    },
-   "note": ""
+   "note": "Debate: Removes the creepy reading while keeping the joke."
   },
   {
    "id": "game5-827",
@@ -10876,13 +10876,13 @@
    "Name": "",
    "Description": "____ + ____ = ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ + ____ = ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Exact duplicate of idx 569, which is live."
   },
   {
    "id": "game5-838",
@@ -11056,15 +11056,15 @@
   {
    "id": "game5-851",
    "Name": "",
-   "Description": "____ + ____ = Hipsters",
+   "Description": "____ + ____ = Instagram influencer.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "____ + ____ = Hipsters",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces a Western hipster reference with social media, which is allowed."
   },
   {
    "id": "game5-852",
@@ -12111,13 +12111,13 @@
    "Name": "",
    "Description": "____ is the gift that keeps on giving.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "____ is the gift that keeps on giving.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of idx 735, which is live."
   },
   {
    "id": "game5-933",
@@ -104501,6 +104501,38 @@
    "Category": "Classic",
    "action": "add",
    "note": "New card (debate): Distinct from the existing Lahore metro card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The rishta aunty's biodata for my cousin lists his hobbies as sleeping, cricket and ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): New rishta biodata theme, clean and funny."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The shaadi card was so fancy that it arrived in a box with ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): New wedding-card prompt, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Eid salami was great until Abbu announced that this year it will be paid in ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): Amended to the deck's usual 'Abbu' spelling."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Our school's Annual Day was ruined when the chief guest arrived with ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): New school Annual Day prompt."
   }
  ]
 }

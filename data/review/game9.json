@@ -10546,10 +10546,10 @@
   },
   {
    "id": null,
-   "Name": "What is the Prophet's (PBUH) ascent through the heavens during the Night Journey called?",
+   "Name": "What is the Prophet's (PBUH) ascent through the heavens, which followed the Night Journey (Al-Isra) from Makkah to Jerusalem, called?",
    "Description": "Al-Mi'raj",
    "action": "add",
-   "note": "New card (debate): Pairs with the existing Al-Isra card (it is in the live deck) without repeating it. Mi'raj is not yet in the deck."
+   "note": "New card (debate): Pairs with the existing Al-Isra card (it is in the live deck) without repeating it. Mi'raj is not yet in the deck.; Debate: Clarifies Isra vs Mi'raj; answer unchanged."
   },
   {
    "id": null,
@@ -12720,6 +12720,76 @@
    "Description": "Quraysh",
    "action": "add",
    "note": "New card (debate): Basic correct fact; Quraysh appears only inside the Hudaybiyyah card, which asks something different."
+  },
+  {
+   "id": null,
+   "Name": "Where do pilgrims spend the night after leaving Arafat, collecting pebbles for the stoning ritual?",
+   "Description": "Muzdalifah",
+   "action": "add",
+   "note": "New card (debate): Accurate Hajj question, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the Hajj ritual of throwing pebbles at three pillars in Mina called?",
+   "Description": "Rami al-Jamarat (stoning of the Jamarat)",
+   "action": "add",
+   "note": "New card (debate): Accurate Hajj question, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Kuwait?",
+   "Description": "Kuwait City",
+   "action": "add",
+   "note": "New card (debate): Correct, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which is the longest of the five rivers that give Punjab its name?",
+   "Description": "Sutlej",
+   "action": "add",
+   "note": "New card (debate): Correct, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the voluntary night prayer, prayed in the last third of the night, called?",
+   "Description": "Tahajjud",
+   "action": "add",
+   "note": "New card (debate): Correct, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which short surah, described in a hadith as equal to a third of the Quran, speaks about the oneness of Allah?",
+   "Description": "Surah Al-Ikhlas",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith in Bukhari, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which franchise won the first Pakistan Super League title in 2016?",
+   "Description": "Islamabad United",
+   "action": "add",
+   "note": "New card (debate): Correct, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Sindh city on the Indus is famous for its colourful glass bangles (churian)?",
+   "Description": "Hyderabad",
+   "action": "add",
+   "note": "New card (debate): Correct local culture question, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Red Sea port city is the main air and sea gateway for pilgrims travelling to Makkah?",
+   "Description": "Jeddah",
+   "action": "add",
+   "note": "New card (debate): Correct, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which 8,000 m Karakoram peak on the Pakistan-China border, nicknamed the \"Hidden Peak\", is the 11th highest mountain in the world?",
+   "Description": "Gasherbrum I",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording fixes the ranking error (11th in the world, not Pakistan's 11th)."
   }
  ]
 }

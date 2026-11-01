@@ -9600,7 +9600,7 @@
   {
    "id": "game2-739",
    "Name": "Tariq ibn Ziyad",
-   "Description": "Gibraltar | Spain | Boats | Burn | Andalus",
+   "Description": "Gibraltar | Spain | Boats | Strait | Andalus",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9608,7 +9608,7 @@
     "Description": "Tariq | scholar | Islamic | famous",
     "Category": "Muslim Historical Figures"
    },
-   "note": ""
+   "note": "Debate: The burning-of-the-ships story is a doubtful legend; rules require well-established facts. 'Strait' fits the Jabal Tariq link."
   },
   {
    "id": "game2-740",
@@ -9835,10 +9835,10 @@
   {
    "id": null,
    "Name": "Tahajjud",
-   "Description": "Night | Prayer | Wake | Nafl | Late",
+   "Description": "Night | Prayer | Wake | Nafl | Last Third",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Last third of the night is the established timing of Tahajjud; stronger than vague 'Late'."
   },
   {
    "id": null,
@@ -9891,10 +9891,10 @@
   {
    "id": null,
    "Name": "Tinda",
-   "Description": "Gourd | Round | Green | Sabzi | Bachay",
+   "Description": "Gourd | Round | Green | Sabzi | Apple",
    "Category": "Vegetables",
    "action": "add",
-   "note": "New card (debate): Everyday Pakistani vegetable that is not in the deck; Vegetables has only 21 cards.; Debate: Swaps the weak 'Small' for 'Bachay', the obvious 'the sabzi kids hate' clue."
+   "note": "New card (debate): Everyday Pakistani vegetable that is not in the deck; Vegetables has only 21 cards.; Debate: Swaps the weak 'Small' for 'Bachay', the obvious 'the sabzi kids hate' clue.; Debate: Challenger's amendment: replaces weak 'Bachay' with 'Apple' without redundant 'Apple Gourd'."
   },
   {
    "id": null,
@@ -10163,10 +10163,10 @@
   {
    "id": null,
    "Name": "Waterfall",
-   "Description": "Abshaar | Niagara | Rocks | Swat | Height",
+   "Description": "Abshaar | Rocks | Swat | Height | Cliff",
    "Category": "Nature",
    "action": "add",
-   "note": "New card (debate): Well-known nature feature; not in the deck. 'Water' is part of the word itself, so it is replaced with 'Niagara' (challenger's amendment)."
+   "note": "New card (debate): Well-known nature feature; not in the deck. 'Water' is part of the word itself, so it is replaced with 'Niagara' (challenger's amendment).; Debate: Drops US/Canada-centric Niagara for a more natural taboo word."
   },
   {
    "id": null,
@@ -13103,6 +13103,62 @@
    "Category": "Islamic Terms",
    "action": "add",
    "note": "New card (debate): First Islamic month; no live card."
+  },
+  {
+   "id": null,
+   "Name": "Tasbeeh",
+   "Description": "Beads | Dhikr | Count | SubhanAllah | 33",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: matches the deck's spelling on the Dhikr card and uses a stronger hint than 'Fingers'. Not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Ghusl",
+   "Description": "Bath | Purification | Wash | Whole Body | Wudu",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: well-known term, cleaner banned words for family play. Not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Ruku",
+   "Description": "Bow | Namaz | Back | Hands on Knees | Subhana Rabbiyal Azeem",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Core prayer position, not in deck; banned words accurate."
+  },
+  {
+   "id": null,
+   "Name": "Zuhr",
+   "Description": "Noon | Namaz | Afternoon | Four Rakat | Dhuhr",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: uses the spelling Pakistani players use and bans the Arabic variant. Not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Bus Conductor",
+   "Description": "Kiraya | Bus | Ticket | Seat | Aage Chalo",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Familiar local occupation; no existing conductor card."
+  },
+  {
+   "id": null,
+   "Name": "Welder",
+   "Description": "Weld | Sparks | Iron | Mask | Torch",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: removes ambiguous 'Joint' and bans the obvious giveaway 'Weld'. Not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Kachori",
+   "Description": "Fried | Daal | Aloo | Breakfast | Stuffed",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Popular Pakistani snack, distinct from existing items; not in deck."
   }
  ]
 }

@@ -700,7 +700,7 @@ Ibn Battuta,Traveller | Morocco | Journey | Rihla | Explorer,Muslim Historical F
 Al-Biruni,Earth | Radius | India | Ghazni | Astronomer,Muslim Historical Figures
 Ibn Khaldun,Muqaddimah | Sociology | History | Tunisia | Asabiyyah,Muslim Historical Figures
 Harun al-Rashid,Abbasid | Caliph | Baghdad | Wisdom | Golden Age,Muslim Historical Figures
-Tariq ibn Ziyad,Gibraltar | Spain | Boats | Burn | Andalus,Muslim Historical Figures
+Tariq ibn Ziyad,Gibraltar | Spain | Boats | Strait | Andalus,Muslim Historical Figures
 Umar ibn Abdul Aziz,Umayyad | Fifth | Caliph | Just | Zakat,Muslim Historical Figures
 Imam Bukhari,Sahih | Hadith | Bukhara | Uzbekistan | Collection,Muslim Historical Figures
 Imam Muslim,Sahih | Hadith | Nishapur | Second | Bukhari,Muslim Historical Figures
@@ -720,14 +720,14 @@ Nurse,Hospital | Injection | Doctor | Patient | Ward,Occupations
 Shopkeeper,Dukandar | Shop | Sell | Counter | Customer,Occupations
 Dentist,Teeth | Daant | Filling | Chair | Drill,Occupations
 Sadaqah,Charity | Give | Poor | Voluntary | Khairat,Islamic Terms
-Tahajjud,Night | Prayer | Wake | Nafl | Late,Islamic Terms
+Tahajjud,Night | Prayer | Wake | Nafl | Last Third,Islamic Terms
 Iftar,Ramzan | Fast | Sunset | Dates | Pakoray,Islamic Terms
 Sehri,Ramzan | Morning | Before Fajr | Paratha | Wake Up,Islamic Terms
 Azan,Call | Prayer | Muazzin | Bilal | Allahu Akbar,Islamic Terms
 Tawaf,Kaaba | Seven | Circle | Hajj | Umrah,Islamic Terms
 Sugarcane Juice,Ganna | Ras | Machine | Summer | Ginger,Beverages
 Doodh Patti,Chai | Milk | Tea | Dhaba | Strong,Beverages
-Tinda,Gourd | Round | Green | Sabzi | Bachay,Vegetables
+Tinda,Gourd | Round | Green | Sabzi | Apple,Vegetables
 Ginger,Adrak | Lehsan | Root | Chai | Spicy,Spices
 Corn,Makai | Bhutta | Yellow | Cob | Rain,Vegetables
 Mushroom,Khumbi | Umbrella | Fungus | White | Pizza,Vegetables
@@ -761,7 +761,7 @@ Generator,Loadshedding | Bijli | Petrol | Noise | Engine,Electronics
 UPS,Battery | Bijli | Backup | Beep | Loadshedding,Electronics
 Washing Machine,Kapray | Dhona | Spin | Surf | Laundry,Electronics
 Rainbow,Dhanak | Colors | Rain | Seven | Sky,Nature
-Waterfall,Abshaar | Niagara | Rocks | Swat | Height,Nature
+Waterfall,Abshaar | Rocks | Swat | Height | Cliff,Nature
 Desert,Sehra | Sand | Thar | Camel | Hot,Nature
 Earthquake,Zalzala | Shake | Ground | 2005 | Building,Nature
 Fog,Dhund | Winter | Smog | Motorway | See,Nature
@@ -1129,3 +1129,10 @@ Tafsir,Quran | Explanation | Commentary | Ibn Kathir | Meaning,Islamic Terms
 Tayammum,Dust | Wudu | Water | Substitute | Clean,Islamic Terms
 Karbala,Hussain | Muharram | Ashura | Iraq | Euphrates,Islamic Locations
 Muharram,Ashura | Hijri | Islamic | New Year | Month,Islamic Terms
+Tasbeeh,Beads | Dhikr | Count | SubhanAllah | 33,Islamic Terms
+Ghusl,Bath | Purification | Wash | Whole Body | Wudu,Islamic Terms
+Ruku,Bow | Namaz | Back | Hands on Knees | Subhana Rabbiyal Azeem,Islamic Terms
+Zuhr,Noon | Namaz | Afternoon | Four Rakat | Dhuhr,Islamic Terms
+Bus Conductor,Kiraya | Bus | Ticket | Seat | Aage Chalo,Occupations
+Welder,Weld | Sparks | Iron | Mask | Torch,Occupations
+Kachori,Fried | Daal | Aloo | Breakfast | Stuffed,Traditional Dishes
