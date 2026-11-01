@@ -9886,6 +9886,462 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Fresh clown card, clear ends."
+  },
+  {
+   "id": null,
+   "Name": "TRUE <---> MADE UP",
+   "Description": "Write a \"fun fact\" about the ocean that is this likely to be made up",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): No ocean or fun-fact card; clear ends."
+  },
+  {
+   "id": null,
+   "Name": "SHORT TRIP <---> AROUND THE WORLD",
+   "Description": "Make up a name for a travel company whose tours go this far",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Universal travel, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "BORING JOB <---> DREAM JOB",
+   "Description": "Make up a job title that sounds this exciting",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment gives crisper opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "LOCAL SHOP <---> GLOBAL BRAND",
+   "Description": "Make up a name for a company that sounds this international",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fresh naming angle, clean."
+  },
+  {
+   "id": null,
+   "Name": "WHISPERS OK <---> NOT A SOUND",
+   "Description": "Write a sign for a library that is this strict about silence",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): No library card exists; clear scale."
+  },
+  {
+   "id": null,
+   "Name": "NOT BURNT <---> COMPLETELY BURNT",
+   "Description": "Write a one-line review of a dish that is this burnt",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Single clear axis, amended version better."
+  },
+  {
+   "id": null,
+   "Name": "NO EXPERIMENTS <---> ONLY EXPERIMENTS",
+   "Description": "Make up a title for a science lesson that has this many experiments in it",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Avoids yawns/loves clone; wording tweaked so right end is unambiguous."
+  },
+  {
+   "id": null,
+   "Name": "SMALLER THAN A ROOM <---> SIZE OF A COUNTRY",
+   "Description": "Make up a name for an island that is this big",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): No island card; clear size scale."
+  },
+  {
+   "id": null,
+   "Name": "DONE LAST WEEK <---> DUE TOMORROW MORNING",
+   "Description": "Write a text message from a student who is finishing a project this close to the deadline",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Universal and distinct from excuse cards."
+  },
+  {
+   "id": null,
+   "Name": "ONE SMALL BAG <---> SIX SUITCASES",
+   "Description": "Write a packing list for a trip taken by someone who packs this much",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New writing task, clean."
+  },
+  {
+   "id": null,
+   "Name": "NORMAL WEATHER <---> RAINING FISH",
+   "Description": "Write a weather forecast for tomorrow that is this unusual",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Avoids dramatic-headline duplication."
+  },
+  {
+   "id": null,
+   "Name": "NEXT YEAR <---> 1,000 YEARS FROM NOW",
+   "Description": "Write a message for a time capsule that will be opened this far in the future",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): No time capsule card; clear ends."
+  },
+  {
+   "id": null,
+   "Name": "SNAIL SPEED <---> LIGHTNING FAST",
+   "Description": "Draw a snail that is this fast",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Easy to draw, no snail card."
+  },
+  {
+   "id": null,
+   "Name": "CALM SEA <---> HUGE WAVES",
+   "Description": "Draw a fishing boat on a sea this rough",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Drawable nature scene, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "SHALLOW <---> BOTTOMLESS",
+   "Description": "Draw a well that is this deep",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No well card; simple depth scale."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> WILDLY PATTERNED",
+   "Description": "Draw a butterfly whose wings are this patterned",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Works with one pen; amended version better."
+  },
+  {
+   "id": null,
+   "Name": "BRAND NEW <---> 5,000 YEARS OLD",
+   "Description": "Draw a clay pot in a museum that is this old",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Factually sound, no ancient-object card."
+  },
+  {
+   "id": null,
+   "Name": "LIFELESS <---> FULL OF LIFE",
+   "Description": "Draw a planet that is this full of life",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Distinct from alien name/pet cards."
+  },
+  {
+   "id": null,
+   "Name": "EASY TO CLIMB <---> IMPOSSIBLE TO CLIMB",
+   "Description": "Draw a tree that is this hard to climb",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Clear scale, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "BARELY A BEEP <---> WAKES THE WHOLE STREET",
+   "Description": "Draw an alarm clock that is this loud",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Amended version has real opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "SIMPLE <---> SUPER COMPLICATED",
+   "Description": "Draw a machine for peeling a potato that is this complicated",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fun invention drawing."
+  },
+  {
+   "id": null,
+   "Name": "WOBBLY <---> UNBREAKABLE",
+   "Description": "Draw a bridge that is this safe to cross",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No bridge card; clear scale."
+  },
+  {
+   "id": null,
+   "Name": "FAST ASLEEP <---> ERUPTING",
+   "Description": "Draw a volcano that is this close to erupting",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Very drawable, no volcano card."
+  },
+  {
+   "id": null,
+   "Name": "JUST A CHICK <---> TOTAL SURPRISE",
+   "Description": "Draw what hatches out of an egg that is this surprising",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Single axis after amendment."
+  },
+  {
+   "id": null,
+   "Name": "NORMAL <---> VERY STRANGE",
+   "Description": "Make up a name for a fruit that looks this strange",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fresh naming card, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "ONE HOUR <---> A WHOLE YEAR",
+   "Description": "Write the first line of a travel diary for a journey that takes this long",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New format, universal."
+  },
+  {
+   "id": null,
+   "Name": "SHORT <---> REACHES THE CLOUDS",
+   "Description": "Draw a lighthouse that is this tall",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Easy to draw, clear height scale."
+  },
+  {
+   "id": null,
+   "Name": "LIGHT LOAD <---> ABOUT TO COLLAPSE",
+   "Description": "Draw a camel that is carrying a load this heavy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Differs from the camel-spitting card."
+  },
+  {
+   "id": null,
+   "Name": "SMOOTH ROAD <---> BUMPY ROAD",
+   "Description": "Draw a passenger on a cart who is riding a road this bumpy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Funny and drawable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "TINY <---> ENORMOUS",
+   "Description": "Make up a name for an animal that is this big",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Generic size ends are clearer than naming two specific animals."
+  },
+  {
+   "id": null,
+   "Name": "HAVE ENOUGH <---> MUST BUY MORE",
+   "Description": "Write a reply to a friend inviting you to a '70% OFF' sale that shows you are this much into shopping",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Qana'at vs sale frenzy; challenger's clearer ends."
+  },
+  {
+   "id": null,
+   "Name": "JUST GROCERIES <---> SALE-SEASON FRENZY",
+   "Description": "Draw a shopping trolley that is this full of things nobody planned to buy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Light anti-consumerism, very drawable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "SAYS NOTHING <---> FULL LECTURE",
+   "Description": "Write the line Dadi says when she finds leftover rice in the bin that is this much of a lecture on waste",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Affectionate israf/ni'mat theme, funny not preachy."
+  },
+  {
+   "id": null,
+   "Name": "JUST OPENS IT <---> FULL UNBOXING STUDIO",
+   "Description": "Draw the setup of someone unboxing a parcel on camera that is this over the top",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Playful dig at unboxing culture, drawable."
+  },
+  {
+   "id": null,
+   "Name": "JUST ENOUGH <---> BARAKAH!",
+   "Description": "Write what the host whispers when one pot of daal somehow feeds this many surprise guests",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Barakah and hospitality; amended clearer scale end."
+  },
+  {
+   "id": null,
+   "Name": "QUIET SADAQAH <---> SHOWY POST",
+   "Description": "Write the caption of a donation photo that is this much about the camera and not the cause",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Critiques a habit (sincerity), not people."
+  },
+  {
+   "id": null,
+   "Name": "ONE SAMOSA <---> OVERFLOWING TRAY",
+   "Description": "Draw the plate Ammi sends over to the neighbours that is this generous",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights, drawable, distinct from dabba card."
+  },
+  {
+   "id": null,
+   "Name": "TEMPTED <---> FIRMLY NO",
+   "Description": "Write your reply to an SMS offering an instant interest-based loan that refuses this firmly",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Anti-riba/debt via relatable spam SMS, no fiqh claims."
+  },
+  {
+   "id": null,
+   "Name": "SHORT-CHANGES <---> FULL HONEST WEIGHT",
+   "Description": "Write the sign a sabzi-wala hangs above his scale if he is this honest with his weights",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Honest weights (83:1-3); amended to avoid shop-name duplicate."
+  },
+  {
+   "id": null,
+   "Name": "GRUMBLING <---> SO GRATEFUL",
+   "Description": "Draw the face of a person looking at a plain plate of daal chawal who feels this grateful",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Shukr; easy to draw and guess."
+  },
+  {
+   "id": null,
+   "Name": "PANICKING <---> PURE SABR",
+   "Description": "Write a note to yourself while waiting for an important result that shows this much sabr",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Sabr in relatable scenario; writing, so not a duplicate of the drawing card."
+  },
+  {
+   "id": null,
+   "Name": "WORRIED <---> FULL TAWAKKUL",
+   "Description": "Write the sign a shopkeeper puts up on a very slow day that shows this much trust in Allah's rizq",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Tawakkul in a funny frame; replaces A12 which nearly duplicates the exam WhatsApp card."
+  },
+  {
+   "id": null,
+   "Name": "AWKWARD <---> FEELS LIKE FAMILY",
+   "Description": "Write the first message to a cousin you have not spoken to in years that is this warm",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Sila rehmi, relatable."
+  },
+  {
+   "id": null,
+   "Name": "KEEPS SITTING <---> JUMPS UP TO HELP",
+   "Description": "Draw the face of a young person on a bus who sees an elder standing and gives up their seat this quickly",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Respect for elders; wording fixed."
+  },
+  {
+   "id": null,
+   "Name": "PRIVATE <---> OVERSHARES EVERYTHING",
+   "Description": "Write the caption of a post by someone who overshares this much about their day",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Haya/privacy gently joked as a habit; scale now matches the task."
+  },
+  {
+   "id": null,
+   "Name": "EMPTY SHELVES <---> BOOKS TO THE CEILING",
+   "Description": "Draw a library from the golden age of Baghdad that is this packed with books",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Accurate Abbasid heritage, drawable, no depictions."
+  },
+  {
+   "id": null,
+   "Name": "NOBODY GIVES <---> WHOLE MOHALLA GIVES",
+   "Description": "Write a slogan for a Ramadan food drive that would get this many families in the mohalla to give",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Charity and community; task now matches the scale."
+  },
+  {
+   "id": null,
+   "Name": "ONE SMALL BAG <---> A BAG FOR EVERY HOUSE",
+   "Description": "Draw the pile of Qurbani meat bags ready to be delivered by a family that is this generous",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Sharing at Eid ul Adha; visible scale, no fiqh claim."
+  },
+  {
+   "id": null,
+   "Name": "FIBS <---> BRUTALLY HONEST",
+   "Description": "Write a child's answer to Ammi's 'Did you finish your homework?' that is this honest",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Truthfulness in a funny family scene."
+  },
+  {
+   "id": null,
+   "Name": "TAP CLOSED <---> TAP LEFT RUNNING",
+   "Description": "Draw Abbu's face when he finds the tap left running for this long",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Avoiding waste of water; funny desi-dad face."
+  },
+  {
+   "id": null,
+   "Name": "COLD <---> WARM WELCOME",
+   "Description": "Write the note stuck on the door of a new neighbour that is this welcoming",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights, warm tone."
+  },
+  {
+   "id": null,
+   "Name": "PHONE AWAY <---> GLUED TO PHONE",
+   "Description": "Write the line Ammi says at dinner to a family member who is this glued to their phone",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family time over screens; scale direction fixed."
+  },
+  {
+   "id": null,
+   "Name": "NOBODY READS IT <---> READ FOR 1,000 YEARS",
+   "Description": "Make up a title for a maths textbook that students would keep reading for this long, like al-Khwarizmi's book that gave us the word 'algebra'",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Accurate (Kitab al-Jabr, c. 820); hedged, clearer scale."
+  },
+  {
+   "id": null,
+   "Name": "KEEPS IT <---> RETURNS IT AT ONCE",
+   "Description": "Write the note left with a wallet found on the road by someone who is this honest",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Amanah and honesty; no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "HOLDS A GRUDGE <---> FORGIVES INSTANTLY",
+   "Description": "Write the family WhatsApp group message of a cousin who forgave an argument this completely",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Afw and mending ties; distinct from apology card."
+  },
+  {
+   "id": null,
+   "Name": "NEW AND SHINY <---> PATCHED AND LOVED",
+   "Description": "Draw a school bag that has been kept going this long by Abbu's stitching instead of buying a new one",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Simplicity and anti-waste; drawable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "TAKES IT FOR GRANTED <---> SO THANKFUL",
+   "Description": "Write the first line a person says out loud after their bus arrives safely, if they are this thankful",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Shukr in an everyday moment; scale ends reworded to be clear opposites."
   }
  ]
 }

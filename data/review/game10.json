@@ -6242,6 +6242,258 @@
    "Name": "Name something you use for light during loadshedding.",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording; every common answer fits (candle, torch, emergency light, lantern, phone flashlight) and it differs from the live activity card."
+  },
+  {
+   "id": null,
+   "Name": "Name a continent.",
+   "action": "add",
+   "note": "New card (debate): No continent card in deck; clean general geography."
+  },
+  {
+   "id": null,
+   "Name": "Name a shape.",
+   "action": "add",
+   "note": "New card (debate): No shape card; clear common answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something you find in a library.",
+   "action": "add",
+   "note": "New card (debate): No library card; easy matchable answers."
+  },
+  {
+   "id": null,
+   "Name": "Name a river in the world.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording matches 'Name a desert in the world.'; deck only has Pakistan rivers."
+  },
+  {
+   "id": null,
+   "Name": "Name a mountain in the world.",
+   "action": "add",
+   "note": "New card (debate): Amended wording is cleaner; deck only has Pakistan mountains."
+  },
+  {
+   "id": null,
+   "Name": "Name a world-famous tower or monument.",
+   "action": "add",
+   "note": "New card (debate): Existing landmark cards are Pakistan-only; world landmarks cluster well."
+  },
+  {
+   "id": null,
+   "Name": "Name a metal.",
+   "action": "add",
+   "note": "New card (debate): No metal card; answers cluster (iron, gold, silver, copper)."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal that lives in a jungle.",
+   "action": "add",
+   "note": "New card (debate): Only a desert-animal card exists; jungle animals cluster well."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of soup.",
+   "action": "add",
+   "note": "New card (debate): No soup card; matchable answers known to Pakistani players."
+  },
+  {
+   "id": null,
+   "Name": "Name something you find in a park.",
+   "action": "add",
+   "note": "New card (debate): Shorter amended wording; differs from famous-park-in-your-city card."
+  },
+  {
+   "id": null,
+   "Name": "Name something with a lock.",
+   "action": "add",
+   "note": "New card (debate): No lock card; door, phone, locker, bike cluster."
+  },
+  {
+   "id": null,
+   "Name": "Name a part of a bicycle.",
+   "action": "add",
+   "note": "New card (debate): No bicycle card; wheel, pedal, chain, brake cluster."
+  },
+  {
+   "id": null,
+   "Name": "Name something that comes from a farm.",
+   "action": "add",
+   "note": "New card (debate): Simpler amended wording; distinct from the farm-animal card."
+  },
+  {
+   "id": null,
+   "Name": "Travel: Plane or Train?",
+   "action": "add",
+   "note": "New card (debate): Reworded to the deck's 'Travel: A or B?' format; distinct from Car or Train."
+  },
+  {
+   "id": null,
+   "Name": "Reading: Paper Book or Phone Screen?",
+   "action": "add",
+   "note": "New card (debate): Amended to 'Topic: A or B?' format; differs from the book-vs-video card."
+  },
+  {
+   "id": null,
+   "Name": "Travel: Mountains or Desert?",
+   "action": "add",
+   "note": "New card (debate): Matches 'Travel: Mountains or Beach?' format with a different option."
+  },
+  {
+   "id": null,
+   "Name": "Name something that melts.",
+   "action": "add",
+   "note": "New card (debate): Strong common answers (ice, butter, chocolate, ghee); no overlap in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a planet in our solar system.",
+   "action": "add",
+   "note": "New card (debate): Only eight answers with clear favourites; existing planet card is an opinion card."
+  },
+  {
+   "id": null,
+   "Name": "Name something that flies.",
+   "action": "add",
+   "note": "New card (debate): Universal and matchable (bird, plane, kite); no general flying card."
+  },
+  {
+   "id": null,
+   "Name": "Name a country in Africa.",
+   "action": "add",
+   "note": "New card (debate): General geography with common answers (Egypt, Nigeria, Kenya, South Africa); none in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of boat or ship.",
+   "action": "add",
+   "note": "New card (debate): No boat card; ferry, fishing boat, cruise ship, submarine cluster."
+  },
+  {
+   "id": null,
+   "Name": "Name something you thank Allah for every day.",
+   "action": "add",
+   "note": "New card (debate): Shukr; clustered answers, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a good deed that costs nothing.",
+   "action": "add",
+   "note": "New card (debate): Smile, salam, dua, helping; fun and clear."
+  },
+  {
+   "id": null,
+   "Name": "Name a time when dua is accepted.",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment is better: several well-established times can match, avoids a single 'best' claim."
+  },
+  {
+   "id": null,
+   "Name": "Name a blessing people only notice when it is gone.",
+   "action": "add",
+   "note": "New card (debate): Gratitude; relatable clustered answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something that gets wasted the most at a wedding.",
+   "action": "add",
+   "note": "New card (debate): Israf, affectionate and relatable; no existing wedding-waste card."
+  },
+  {
+   "id": null,
+   "Name": "Name a way to save water at home.",
+   "action": "add",
+   "note": "New card (debate): Practical, converging answers, non-preachy."
+  },
+  {
+   "id": null,
+   "Name": "Name something you buy in a sale that you did not need.",
+   "action": "add",
+   "note": "New card (debate): Light jab at sale-season frenzy; clustered answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something people show off on social media.",
+   "action": "add",
+   "note": "New card (debate): Affectionate status critique; clustered answers; social media allowed."
+  },
+  {
+   "id": null,
+   "Name": "Name a way to be good to your parents.",
+   "action": "add",
+   "note": "New card (debate): Duty to parents; converging answers; distinct from existing parent cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a way to keep in touch with relatives.",
+   "action": "add",
+   "note": "New card (debate): Sila rehmi; relatable; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a quality of a good neighbour.",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights; converging answers. Kept over C3 to avoid two neighbour cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something that tests your sabr.",
+   "action": "add",
+   "note": "New card (debate): Patience; funny strongly clustered answers (traffic, loadshedding, queues)."
+  },
+  {
+   "id": null,
+   "Name": "Name a subject Muslim scholars made big contributions to.",
+   "action": "add",
+   "note": "New card (debate): Accurate heritage card; asks for fields, distinct from famous Muslim scientist card."
+  },
+  {
+   "id": null,
+   "Name": "Name a city famous for Muslim learning or history.",
+   "action": "add",
+   "note": "New card (debate): Accurate, proud, non-preachy; clustered answers."
+  },
+  {
+   "id": null,
+   "Name": "Weekend: Visit Relatives or Stay Home?",
+   "action": "add",
+   "note": "New card (debate): Matches pair format; splits the room; gentle sila rehmi angle."
+  },
+  {
+   "id": null,
+   "Name": "Eid Clothes: Brand New Suit or Last Year's?",
+   "action": "add",
+   "note": "New card (debate): Relatable Eid pair; simplicity vs consumerism; distinct from branded-or-local card."
+  },
+  {
+   "id": null,
+   "Name": "Name a Sunnah habit you try to follow.",
+   "action": "add",
+   "note": "New card (debate): Undisputed practices (miswak, salam, bismillah, right hand); no fiqh claims."
+  },
+  {
+   "id": null,
+   "Name": "Name something you say Mashaallah for.",
+   "action": "add",
+   "note": "New card (debate): Appreciation without envy; clustered answers; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something that is free but priceless.",
+   "action": "add",
+   "note": "New card (debate): Contentment and gratitude; clustered answers (health, air, family, smile)."
+  },
+  {
+   "id": null,
+   "Name": "Name a way to avoid wasting food at home.",
+   "action": "add",
+   "note": "New card (debate): Israf; practical converging answers; relatable."
+  },
+  {
+   "id": null,
+   "Name": "Name a good habit to start in Ramadan and keep.",
+   "action": "add",
+   "note": "New card (debate): Clustered answers (Quran, charity, tahajjud, praying on time); no Ramadan card exists."
   }
  ]
 }

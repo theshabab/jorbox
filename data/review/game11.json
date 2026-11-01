@@ -7051,6 +7051,412 @@
    "Description": "Mureed (Peer's Devotee)",
    "action": "add",
    "note": "New card (debate): Recognisable local customer, distinct from Peer Baba; fits allowed peer jokes."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Librarian",
+   "action": "add",
+   "note": "New card (debate): Not in deck; universal."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Beekeeper",
+   "action": "add",
+   "note": "New card (debate): Not in deck; good pitch angles."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Archaeologist",
+   "action": "add",
+   "note": "New card (debate): Not in deck; recognisable."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Zookeeper",
+   "action": "add",
+   "note": "New card (debate): Not in deck; universal."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Deep-Sea Diver",
+   "action": "add",
+   "note": "New card (debate): Distinct from Lifeguard/Fisherman."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Twins",
+   "action": "add",
+   "note": "New card (debate): No twin card; funny."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Marathon Runner",
+   "action": "add",
+   "note": "New card (debate): Not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Surgeon",
+   "action": "add",
+   "note": "New card (debate): Distinct from Doctor/Dentist; mildly dark is allowed."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Barhai (Carpenter)",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment matches the deck's Urdu-with-gloss trade naming."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Architect",
+   "action": "add",
+   "note": "New card (debate): Not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Judge",
+   "action": "add",
+   "note": "New card (debate): Not in deck; recognised in Pakistan."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Sailor",
+   "action": "add",
+   "note": "New card (debate): More recognisable than Lighthouse Keeper."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Sunar (Goldsmith)",
+   "action": "add",
+   "note": "New card (debate): Familiar from weddings; matches gloss naming."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Veterinarian",
+   "action": "add",
+   "note": "New card (debate): Not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Bodyguard",
+   "action": "add",
+   "note": "New card (debate): Distinct from Security Guard and Commando."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I get the hiccups whenever I _____!",
+   "action": "add",
+   "note": "New card (debate): Clean, funny; no hiccup card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The airline lost my luggage, and now I only have _____!",
+   "action": "add",
+   "note": "New card (debate): Not a duplicate of the forgetting-items card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My teacher never believes my excuse about _____!",
+   "action": "add",
+   "note": "New card (debate): Amended version avoids the dog cliche."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My group project partner never brings _____!",
+   "action": "add",
+   "note": "New card (debate): Universal; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I get seasick even on _____!",
+   "action": "add",
+   "note": "New card (debate): Noun blank reads naturally."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Jet lag has me wide awake at 3 AM, so I _____!",
+   "action": "add",
+   "note": "New card (debate): Grammar fix."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My snoring is so loud that it wakes up _____!",
+   "action": "add",
+   "note": "New card (debate): Clearer grammar."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My phone's autocorrect keeps changing _____!",
+   "action": "add",
+   "note": "New card (debate): Universal; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always get sunburnt while _____!",
+   "action": "add",
+   "note": "New card (debate): Activity blank is funnier."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My shopping bag tore open under the weight of _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct from bazaar-overload card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I sneezed so hard that I blew away my _____!",
+   "action": "add",
+   "note": "New card (debate): Clean slapstick; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I get lost every time I go to _____!",
+   "action": "add",
+   "note": "New card (debate): Universal; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My little sister always hides my _____!",
+   "action": "add",
+   "note": "New card (debate): Sibling card; only brother versions exist."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I sneeze every time I smell _____!",
+   "action": "add",
+   "note": "New card (debate): Clean; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always fall asleep in the middle of _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable; distinct from the sleepy card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I keep buying _____ just because there's a 70% sale!",
+   "action": "add",
+   "note": "New card (debate): No duplicate; sale-season frenzy with a natural need-vs-want pitch."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I took a loan to buy _____ and now the instalments are crushing me!",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment; debt stress without a fiqh ruling."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My cupboard is full of _____ I bought once and never used!",
+   "action": "add",
+   "note": "New card (debate): Israf and clutter, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I made too much _____ and now I have to send a plate to every neighbour!",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights, affectionate desi humour."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "At every shaadi, my relatives keep comparing their _____!",
+   "action": "add",
+   "note": "New card (debate): Status obsession, a different complaint from the live shaadi cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I keep forgetting to say Bismillah before _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable, respectful, good reminder-gadget pitch."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My nani says I should visit more often instead of _____!",
+   "action": "add",
+   "note": "New card (debate): Duties to elders; distinct from the existing nani cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I want to wake up for tahajjud, but I stay up too late _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment fixes the broken 'asleep during' logic."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My screen time report says I spent six hours on _____!",
+   "action": "add",
+   "note": "New card (debate): Accountability for time, modern and funny, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "At dinner, our whole family stares at _____ instead of talking!",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment; shorter, family-time theme."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I promised myself a fresh start this Ramadan, but I keep getting distracted by _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment; less preachy, relatable."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My cousin posts an unboxing video of every single _____!",
+   "action": "add",
+   "note": "New card (debate): Unboxing culture, affectionate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I tried to give sadaqah secretly, but _____ gave me away!",
+   "action": "add",
+   "note": "New card (debate): Funny setup that respects charity."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I fell for a 'buy now, pay later' offer on _____!",
+   "action": "add",
+   "note": "New card (debate): Modern debt trap, distinct from the loan card."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Zakat Collector",
+   "action": "add",
+   "note": "New card (debate): Recognisable community figure, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Hafiz-e-Quran",
+   "action": "add",
+   "note": "New card (debate): Respected figure, distinct from Qari Sahab."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Sale-Season Shopper",
+   "action": "add",
+   "note": "New card (debate): Consumerism customer, fun to pitch to."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Unboxing Vlogger",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment; matches the 'Food Vlogger' naming."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Credit Card Salesman",
+   "action": "add",
+   "note": "New card (debate): Recognisable cold-caller, not in deck, critiques the system."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Masjid Khadim (Mosque Caretaker)",
+   "action": "add",
+   "note": "New card (debate): Distinct from Imam, Muezzin and Qari Sahab."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Ammi says 'shukr karo' every time I complain about _____!",
+   "action": "add",
+   "note": "New card (debate): Gratitude in a warm desi voice."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I want to save for Hajj, but I keep spending on _____!",
+   "action": "add",
+   "note": "New card (debate): Saving vs impulse, respectful, good pitch prompt."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "After the dawat, we threw away so much _____ that I felt guilty!",
+   "action": "add",
+   "note": "New card (debate): Food waste after events; distinct from leftovers cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My abbu says that in his time, people were happy with just _____!",
+   "action": "add",
+   "note": "New card (debate): Contentment, affectionate generational humour."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can't focus in namaz because I keep thinking about _____!",
+   "action": "add",
+   "note": "New card (debate): Sincere and relatable, not mocking."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My neighbours and I stopped talking after the argument about _____!",
+   "action": "add",
+   "note": "New card (debate): Neighbour rights, peacemaker pitch."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Iftar Stall Volunteer",
+   "action": "add",
+   "note": "New card (debate): Ramadan service, recognisable, replaces the Ambulance Volunteer near-duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Gulf Labourer (Pardesi)",
+   "action": "add",
+   "note": "New card (debate): Familiar figure; distinct from Mazdoor."
   }
  ]
 }

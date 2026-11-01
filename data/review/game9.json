@@ -11292,6 +11292,461 @@
    "Description": "The cerebellum",
    "action": "add",
    "note": "New card (debate): Accurate biology card; no cerebellum card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Ethiopia?",
+   "Description": "Addis Ababa",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Italian artist painted the Mona Lisa?",
+   "Description": "Leonardo da Vinci",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "What shape are the cells of a bee's honeycomb?",
+   "Description": "Hexagons",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which blood cells carry oxygen around the body?",
+   "Description": "Red blood cells",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Who became the first human in space in 1961?",
+   "Description": "Yuri Gagarin",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Who was the first person to walk on the Moon in 1969?",
+   "Description": "Neil Armstrong",
+   "action": "add",
+   "note": "New card (debate): Accurate, not a duplicate of the Collins card."
+  },
+  {
+   "id": null,
+   "Name": "Which physicist developed the theory of relativity?",
+   "Description": "Albert Einstein",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "The Great Barrier Reef, the world's largest coral reef system, lies off the coast of which country?",
+   "Description": "Australia",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "What is the scientific study of weather called?",
+   "Description": "Meteorology",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "What does HTML, the language used to build web pages, stand for?",
+   "Description": "HyperText Markup Language",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which British mathematician helped break the German Enigma code in World War II?",
+   "Description": "Alan Turing",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which volcano erupted in 79 CE and buried the Roman city of Pompeii?",
+   "Description": "Mount Vesuvius",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version avoids the Herculaneum ambiguity."
+  },
+  {
+   "id": null,
+   "Name": "The ancient rose-red city of Petra, carved into rock, is in which country?",
+   "Description": "Jordan",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "In which country is the huge temple complex of Angkor Wat?",
+   "Description": "Cambodia",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Nigeria?",
+   "Description": "Abuja",
+   "action": "add",
+   "note": "New card (debate): Accurate, good trap against Lagos."
+  },
+  {
+   "id": null,
+   "Name": "Which Venetian merchant wrote a famous account of his 13th-century travels to China?",
+   "Description": "Marco Polo",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which pair of bean-shaped organs filters waste from the blood?",
+   "Description": "The kidneys",
+   "action": "add",
+   "note": "New card (debate): Accurate, clean wording."
+  },
+  {
+   "id": null,
+   "Name": "Spiders belong to which class of animals, along with scorpions and ticks?",
+   "Description": "Arachnids",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Australian mammal has a duck-like bill and lays eggs?",
+   "Description": "Platypus",
+   "action": "add",
+   "note": "New card (debate): Accurate, bill clue makes it unique."
+  },
+  {
+   "id": null,
+   "Name": "The Komodo dragon is the world's largest what?",
+   "Description": "Lizard",
+   "action": "add",
+   "note": "New card (debate): Accurate; the only Komodo card is a removed one."
+  },
+  {
+   "id": null,
+   "Name": "In which year was Magna Carta sealed by King John of England?",
+   "Description": "1215",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which stone, found in 1799, helped scholars decipher Egyptian hieroglyphs?",
+   "Description": "The Rosetta Stone",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "The Prime Meridian (0° longitude) passes through which district of London?",
+   "Description": "Greenwich",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "What is the scientific name for the Northern Lights?",
+   "Description": "Aurora borealis",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which famous comet returns to Earth's skies roughly every 76 years?",
+   "Description": "Halley's Comet",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which planet is the farthest from the Sun in our Solar System?",
+   "Description": "Neptune",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "What is the name of the stage, inside a hard casing, in which a caterpillar transforms into a butterfly?",
+   "Description": "The chrysalis (pupa)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version is more accurate."
+  },
+  {
+   "id": null,
+   "Name": "Which flightless bird of Mauritius became extinct in the 17th century?",
+   "Description": "The dodo",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "In the Fibonacci sequence 1, 1, 2, 3, 5, 8, which number comes next?",
+   "Description": "13",
+   "action": "add",
+   "note": "New card (debate): Accurate, playable."
+  },
+  {
+   "id": null,
+   "Name": "Which Russian chemist published the first widely recognised periodic table in 1869?",
+   "Description": "Dmitri Mendeleev",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Brazil?",
+   "Description": "Brasília",
+   "action": "add",
+   "note": "New card (debate): Accurate, good trap against Rio and São Paulo, no capital card exists."
+  },
+  {
+   "id": null,
+   "Name": "What is the largest moon in the Solar System?",
+   "Description": "Ganymede",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "The Great Wall, one of the world's most famous structures, was built across the northern border of which country?",
+   "Description": "China",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "What is the Arabic word for interest (usury) on loans, which the Quran forbids?",
+   "Description": "Riba",
+   "action": "add",
+   "note": "New card (debate): Accurate, one-word answer, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Arabic word for wastefulness or extravagance does the Quran warn against, saying Allah does not love those who do it?",
+   "Description": "Israf",
+   "action": "add",
+   "note": "New card (debate): Accurate (7:31), not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which surah warns that rivalry in piling up worldly gains keeps people distracted until they reach their graves?",
+   "Description": "At-Takathur",
+   "action": "add",
+   "note": "New card (debate): Accurate, clear answer, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "In a famous hadith, Jibreel (AS) kept advising the Prophet (PBUH) about the rights of which people so strongly that he thought they might be made heirs?",
+   "Description": "Neighbours",
+   "action": "add",
+   "note": "New card (debate): Bukhari and Muslim; clear answer."
+  },
+  {
+   "id": null,
+   "Name": "When a man asked who most deserved his good company, whom did the Prophet (PBUH) name three times before naming the father?",
+   "Description": "Your mother",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording is clearer; accurate hadith."
+  },
+  {
+   "id": null,
+   "Name": "What is the Arabic term for keeping good ties with your relatives, known in Urdu as sila rehmi?",
+   "Description": "Silat ar-Rahim",
+   "action": "add",
+   "note": "New card (debate): Accurate, familiar to players, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "According to a hadith in Bukhari and Muslim, haya (modesty) is a branch of what?",
+   "Description": "Iman (faith)",
+   "action": "add",
+   "note": "New card (debate): Accurate, short, well known."
+  },
+  {
+   "id": null,
+   "Name": "According to a famous hadith, true richness is not having many possessions but richness of what?",
+   "Description": "The soul (contentment of the heart)",
+   "action": "add",
+   "note": "New card (debate): Bukhari and Muslim; clear answer."
+  },
+  {
+   "id": null,
+   "Name": "In a famous hadith, the 'upper hand' is better than the 'lower hand'. Which hand is the upper hand?",
+   "Description": "The giving hand",
+   "action": "add",
+   "note": "New card (debate): Accurate and clear."
+  },
+  {
+   "id": null,
+   "Name": "In a hadith narrated by Ibn Umar (RA), the Prophet (PBUH) said to be in this world like a stranger or what?",
+   "Description": "A traveller (wayfarer)",
+   "action": "add",
+   "note": "New card (debate): Sahih al-Bukhari; accurate."
+  },
+  {
+   "id": null,
+   "Name": "According to a hadith in Tirmidhi, smiling in your brother's face is counted as what?",
+   "Description": "Sadaqah (charity)",
+   "action": "add",
+   "note": "New card (debate): Accurate, light and fun."
+  },
+  {
+   "id": null,
+   "Name": "How many categories of people who may receive zakat are listed in Surah At-Tawbah?",
+   "Description": "Eight",
+   "action": "add",
+   "note": "New card (debate): Quran 9:60; single number; distinct from existing zakat-rate card."
+  },
+  {
+   "id": null,
+   "Name": "What is the term for ongoing charity, such as digging a well or planting a tree, whose reward keeps flowing?",
+   "Description": "Sadaqah Jariyah",
+   "action": "add",
+   "note": "New card (debate): Well-established concept, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani organisation, founded in Lahore in 2001, is famous for giving interest-free loans (qard hasan) to the poor?",
+   "Description": "Akhuwat",
+   "action": "add",
+   "note": "New card (debate): Accurate, locally relevant."
+  },
+  {
+   "id": null,
+   "Name": "According to Surah Adh-Dhariyat, for what purpose did Allah create jinn and mankind?",
+   "Description": "To worship Him",
+   "action": "add",
+   "note": "New card (debate): Quran 51:56; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Which short surah begins 'By time, indeed mankind is in loss', and ends by mentioning truth and patience?",
+   "Description": "Al-Asr",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which surah is named after a wise man who advises his son not to associate partners with Allah and to be humble?",
+   "Description": "Luqman",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which surah tells believers not to mock one another, backbite, or call each other bad nicknames?",
+   "Description": "Al-Hujurat",
+   "action": "add",
+   "note": "New card (debate): Accurate (49:11-12)."
+  },
+  {
+   "id": null,
+   "Name": "Which very wealthy man in the Quran boasted that his riches came from his own knowledge and was swallowed by the earth with his treasures?",
+   "Description": "Qarun (Korah)",
+   "action": "add",
+   "note": "New card (debate): Accurate story question."
+  },
+  {
+   "id": null,
+   "Name": "In Surah Ibrahim, Allah promises 'If you are grateful, I will surely increase you'. What is this quality of being grateful called in Arabic?",
+   "Description": "Shukr",
+   "action": "add",
+   "note": "New card (debate): Accurate (14:7)."
+  },
+  {
+   "id": null,
+   "Name": "Which short surah repeats twice 'Indeed, with hardship comes ease'?",
+   "Description": "Ash-Sharh (Al-Inshirah)",
+   "action": "add",
+   "note": "New card (debate): Accurate; both names accepted."
+  },
+  {
+   "id": null,
+   "Name": "Before prophethood, which title meaning 'the Trustworthy' did the people of Makkah give to Muhammad (PBUH)?",
+   "Description": "Al-Amin",
+   "action": "add",
+   "note": "New card (debate): Well known and accurate; easy card for mixed difficulty."
+  },
+  {
+   "id": null,
+   "Name": "When the Ansar offered to share half their wealth with Abdur Rahman ibn Auf (RA) in Madinah, what did he ask to be shown so he could earn his own living?",
+   "Description": "The marketplace",
+   "action": "add",
+   "note": "New card (debate): Sahih al-Bukhari; fun story card."
+  },
+  {
+   "id": null,
+   "Name": "At which 1757 battle did the East India Company defeat Siraj ud-Daulah, the Nawab of Bengal, opening the way to British rule in India?",
+   "Description": "Battle of Plassey",
+   "action": "add",
+   "note": "New card (debate): Accurate history about a system, not people."
+  },
+  {
+   "id": null,
+   "Name": "In which city did British troops open fire on a crowd gathered at Jallianwala Bagh in April 1919?",
+   "Description": "Amritsar",
+   "action": "add",
+   "note": "New card (debate): Accurate and relevant to players."
+  },
+  {
+   "id": null,
+   "Name": "Which movement (1919-1924) saw Muslims of British India campaign to protect the Ottoman Caliphate?",
+   "Description": "The Khilafat Movement",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim history, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which secret 1916 agreement between Britain and France planned how to divide much of the Ottoman Arab lands between them?",
+   "Description": "The Sykes-Picot Agreement",
+   "action": "add",
+   "note": "New card (debate): Accurate; critiques a system."
+  },
+  {
+   "id": null,
+   "Name": "Surah Al-Isra tells us never to say which tiny word of annoyance to our parents when they grow old?",
+   "Description": "Uff (\"Ugh\" / \"Fie\")",
+   "action": "add",
+   "note": "New card (debate): Accurate (17:23), memorable."
+  },
+  {
+   "id": null,
+   "Name": "Which humble job, according to a hadith in Sahih al-Bukhari, did Allah's prophets do before prophethood, including our Prophet (PBUH)?",
+   "Description": "Shepherding (tending sheep)",
+   "action": "add",
+   "note": "New card (debate): Accurate, no depiction."
+  },
+  {
+   "id": null,
+   "Name": "What is the charity, known in Urdu as fitrana, that every Muslim pays before the Eid al-Fitr prayer?",
+   "Description": "Zakat al-Fitr (Sadaqat al-Fitr)",
+   "action": "add",
+   "note": "New card (debate): Very familiar to players; no duplicate in deck."
+  },
+  {
+   "id": null,
+   "Name": "In the famous hadith about the man who asked whether to leave his camel untied, the Prophet (PBUH) said to tie it first and then do what?",
+   "Description": "Trust in Allah (tawakkul)",
+   "action": "add",
+   "note": "New card (debate): Tirmidhi; playful, teaches tawakkul with effort."
+  },
+  {
+   "id": null,
+   "Name": "The longest verse of the Quran (2:282) gives the command to write down what kind of agreement?",
+   "Description": "Debts (it is called Ayat ad-Dayn, the Verse of Debt)",
+   "action": "add",
+   "note": "New card (debate): Accurate; fits anti-debt values; not in deck."
   }
  ]
 }
