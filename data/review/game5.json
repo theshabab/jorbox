@@ -7637,7 +7637,7 @@
   {
    "id": "game5-588",
    "Name": "",
-   "Description": "I've got 99 problems but ____ isn't one of them.",
+   "Description": "Life is full of problems, but ____ isn't one of them.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7645,7 +7645,7 @@
     "Description": "I got 99 problems but ____ ain't one.",
     "Category": "Base Game"
    },
-   "note": "Rap lyric softened; grammar"
+   "note": "Rap lyric softened; grammar; Debate: Rap lyric (music) removed; structure kept."
   },
   {
    "id": "game5-589",
@@ -7975,7 +7975,7 @@
   {
    "id": "game5-614",
    "Name": "",
-   "Description": "Papa, come quickly! There, in the garden! Do you see ____? Tell me you see it, Papa!",
+   "Description": "Abbu, come quickly! There, in the garden! Do you see ____? Tell me you see it, Abbu!",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -7983,7 +7983,7 @@
     "Description": "Papa, come quickly! There, in the garden! Do you see ____? Tell me you see it, Papa!",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Corrected idx; Papa to Abbu for local voice."
   },
   {
    "id": "game5-615",
@@ -8144,7 +8144,7 @@
   {
    "id": "game5-627",
    "Name": "",
-   "Description": "Kids, Dad is trying something new this week. It's called \"____.\"",
+   "Description": "Kids, Abbu is trying something new this week. It's called \"____.\"",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8152,7 +8152,7 @@
     "Description": "Kids, Dad is trying something new this week. It's called \"____.\"",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Corrected idx; Dad to Abbu."
   },
   {
    "id": "game5-628",
@@ -8404,7 +8404,7 @@
   {
    "id": "game5-647",
    "Name": "",
-   "Description": "We're not supposed to go in the attic. My parents keep ____ in there.",
+   "Description": "We're not supposed to go in the store room. My parents keep ____ in there.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8412,7 +8412,7 @@
     "Description": "We're not supposed to go in the attic. My parents keep ____ in there.",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Corrected idx; attic is a Western house feature."
   },
   {
    "id": "game5-648",
@@ -8508,7 +8508,7 @@
   {
    "id": "game5-655",
    "Name": "",
-   "Description": "We're off to see the king, the wonderful king of ____!",
+   "Description": "Make way for the king, the wonderful king of ____!",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8516,7 +8516,7 @@
     "Description": "We're off to see the wizard, the wonderful wizard of ____!",
     "Category": "Family Edition"
    },
-   "note": "removed wizard (magic)"
+   "note": "removed wizard (magic); Debate: Wizard of Oz song parody replaced; king-of idea kept."
   },
   {
    "id": "game5-656",
@@ -8573,7 +8573,7 @@
   {
    "id": "game5-660",
    "Name": "",
-   "Description": "Well, look what we have here! A big fancy man walkin' in like he's ____.",
+   "Description": "Well, look at what we have here! A big fancy sahab strutting like he's ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8581,7 +8581,7 @@
     "Description": "Well, look what we have here! A big fancy man walkin' in like he's ____.",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Corrected idx; localizes the Western phrasing. Keeps the lower id; live duplicate 5287 can be removed later."
   },
   {
    "id": "game5-661",
@@ -8911,7 +8911,7 @@
   {
    "id": "game5-686",
    "Name": "",
-   "Description": "Girls just want ____.",
+   "Description": "All the cousins at the shaadi just want ____.",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -8919,7 +8919,7 @@
     "Description": "Girls just wanna have ____.",
     "Category": "Family Edition"
    },
-   "note": "removed song lyric"
+   "note": "removed song lyric; Debate: Corrected idx; replaces a pop-song line with a local setup."
   },
   {
    "id": "game5-687",
@@ -9054,7 +9054,7 @@
   {
    "id": "game5-697",
    "Name": "",
-   "Description": "Boys? No. ____? Yes!",
+   "Description": "Homework? No. ____? Yes!",
    "Category": "Classic",
    "action": "edit",
    "original": {
@@ -9062,7 +9062,7 @@
     "Description": "Boys? No. ____? Yes!",
     "Category": "Family Edition"
    },
-   "note": ""
+   "note": "Debate: Corrected idx; removes the boys/romance angle."
   },
   {
    "id": "game5-698",
@@ -104429,6 +104429,78 @@
    "Category": "Medical Mishaps",
    "action": "add",
    "note": "New card (debate): Outcome-style totka prompt not covered by existing list cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The peer baba's taveez turned out to be ____.",
+   "Category": "Supernatural",
+   "action": "add",
+   "note": "New card (debate): New peer/taveez prompt; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The chowkidar warned us never to open ____ in the old haveli.",
+   "Category": "Supernatural",
+   "action": "add",
+   "note": "New card (debate): New local haunted-place prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My dadi swears she heard ____ whispering from the well.",
+   "Category": "Supernatural",
+   "action": "add",
+   "note": "New card (debate): New family ghost-story prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I will never admit I was wrong about ____.",
+   "Category": "Toxic Traits",
+   "action": "add",
+   "note": "New card (debate): New toxic-trait prompt, distinct wording."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "At every shaadi I secretly judge my cousins' ____.",
+   "Category": "Toxic Traits",
+   "action": "add",
+   "note": "New card (debate): New shaadi-frame toxic-trait prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I believed a WhatsApp forward about ____ and got kicked out of the family group.",
+   "Category": "Bad Life Choices",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing WhatsApp cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "I lent my cousin ____ and never saw it again.",
+   "Category": "Bad Life Choices",
+   "action": "add",
+   "note": "New card (debate): New relatable prompt; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Everything was fine until I told Phupho about ____.",
+   "Category": "Bad Life Choices",
+   "action": "add",
+   "note": "New card (debate): New family-gossip prompt; no matching setup."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The new Lahore Metro station is named after ____.",
+   "Category": "Classic",
+   "action": "add",
+   "note": "New card (debate): Distinct from the existing Lahore metro card."
   }
  ]
 }

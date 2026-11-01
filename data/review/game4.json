@@ -12131,11 +12131,11 @@
   },
   {
    "id": null,
-   "Name": "stand in the aisle",
-   "Description": "In January 2017, a PIA flight from Karachi to Madinah took off with seven extra passengers who had to ____ for the whole journey, because every seat was already taken.",
+   "Name": "seven",
+   "Description": "In January 2017, a PIA flight from Karachi to Madinah took off carrying ____ more passengers than its seats allowed, and the airline launched an inquiry.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): A verified Pakistani news story (PK-743, 20 January 2017) that is not already in the deck."
+   "note": "New card (debate): A verified Pakistani news story (PK-743, 20 January 2017) that is not already in the deck.; Debate: Removes the disputed claim that the passengers stood the whole flight; keeps the confirmed overbooking."
   },
   {
    "id": null,
@@ -13528,6 +13528,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Challenger's amendment: hedged, accurate, and a non-guessable answer; distinct from the star floor-plan card."
+  },
+  {
+   "id": null,
+   "Name": "waist",
+   "Description": "The English word \"cummerbund\" comes from the Persian \"kamarband\", meaning a ____ band.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Correct Persian origin (kamar = waist); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "ball",
+   "Description": "The word \"polo\" comes from \"pulu\", a word in the Balti language of northern Pakistan meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Correct Balti etymology, Pakistani frame; distinct from the Shandur ground card."
+  },
+  {
+   "id": null,
+   "Name": "gravel",
+   "Description": "The name of the Karakoram mountain range comes from Turkic words meaning \"black ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Standard gloss (kara + koram); local geography, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "wool",
+   "Description": "The word \"pashmina\" comes from the Persian \"pashm\", meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Correct, familiar local word; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "pavilion",
+   "Description": "The English word \"kiosk\" comes from the Turkish \"köşk\", which came from Persian, meaning a garden ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's more accurate wording accepted."
   }
  ]
 }

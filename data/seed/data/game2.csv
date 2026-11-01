@@ -608,14 +608,14 @@ Saad ibn Abi Waqqas,Arrow | Kufa | Qadisiyyah | Persia | Ashara,Sahaba
 Abdur Rahman ibn Awf,Rich | Merchant | Market | Ashara | Caravan,Sahaba
 Anas ibn Malik,Servant | Hadith | Ten Years | Young | Basra,Sahaba
 Abdullah ibn Masud,Quran | Reciter | Kufa | Shepherd | Short,Sahaba
-Muadh,Jabal | Yemen | Knowledge | Halal | Haram,Sahaba
-Usamah,Zaid | Young | Commander | Army | Beloved,Sahaba
+Muadh ibn Jabal,Yemen | Knowledge | Halal | Haram | Governor,Sahaba
+Usamah ibn Zaid,Young | Commander | Army | Beloved | Father,Sahaba
 Ammar,Yasir | Sumayyah | Torture | Martyr | Siffin,Sahaba
 Suhaib,Rumi | Roman | Wealth | Profitable | Hijrah,Sahaba
 Abu Ubaidah,Ameen | Trustworthy | Jarrah | Syria | Plague,Sahaba
-Hamza,Uncle | Lion | Uhud | Shaheed | Hunter,Sahaba
+Hamza,Uncle | Lion | Uhud | Shaheed | Sayyid,Sahaba
 Abbas ibn Abdul Muttalib,Uncle | Zamzam | Water | Pilgrims | Badr,Sahaba
-Jafar,Wings | Tayyar | Abyssinia | Najashi | Ali,Sahaba
+Jafar ibn Abi Talib,Wings | Tayyar | Abyssinia | Najashi | Mu'tah,Sahaba
 Adam,First | Human | Hawwa | Clay | Jannah,Prophets
 Noah,Nuh | Ark | Flood | Boat | Animals,Prophets
 Abraham,Ibrahim | Fire | Kaaba | Sacrifice | Khalilullah,Prophets
@@ -633,20 +633,20 @@ Elisha,Al-Yasa | Ilyas | Elijah | Successor | Bani Israel,Prophets
 Zachariah,Zakariya | Yahya | Maryam | Old Age | Mihrab,Prophets
 Yahya,John | Zakariya | Isa | Cousin | Old Age,Prophets
 Jesus,Isa | Maryam | Masih | Injeel | Return,Prophets
-Muhammad,Last Prophet | Makkah | Madinah | Quran | Abdullah,Prophets
+Prophet Muhammad (PBUH),Last Prophet | Makkah | Madinah | Quran | Abdullah,Prophets
 Lot,Lut | Sodom | Ibrahim | Wife | Stones,Prophets
 Shuaib,Madyan | Scales | Weights | Cheating | Trade,Prophets
 Hud,Aad | Wind | Iram | Storm | Tall,Prophets
 Saleh,Thamud | Camel | Rock | Houses | Earthquake,Prophets
-Idris,Enoch | Pen | Writing | Tailor | Raised,Prophets
-Dhul-Kifl,Sabr | Patience | Promise | Quran | Ismail,Prophets
+Idris,Enoch | Pen | Writing | Raised | Truthful,Prophets
+Dhul-Kifl,Sabr | Patience | Idris | Quran | Ismail,Prophets
 Yunus,Whale | Fish | Machli | Belly | Dua,Prophets
 Allah,God | Khuda | Rab | One | Creator,Islamic Terms
 Islam,Religion | Deen | Muslim | Quran | Peace,Islamic Terms
 Muslim,Islam | Believer | Musalman | Follower | Ummah,Islamic Terms
 Quran,Book | Kitab | Recite | Surah | Allah,Islamic Terms
 Hadith,Sayings | Prophet | Bukhari | Narration | Sunnah,Islamic Terms
-Sunnah,Prophet | Practice | Way | Hadith | Nafl,Islamic Terms
+Sunnah,Prophet | Practice | Way | Hadith | Follow,Islamic Terms
 Salah,Namaz | Prayer | Five | Sajda | Rakat,Islamic Terms
 Zakat,Charity | Poor | Wealth | 2.5 Percent | Pillar,Islamic Terms
 Sawm,Roza | Fast | Ramadan | Hungry | Sehri,Islamic Terms
@@ -663,8 +663,8 @@ Eid,Fitr | Adha | Mubarak | Sewaiyan | Celebration,Islamic Terms
 Masjid,Mosque | Namaz | Minaret | Azan | Pray,Islamic Terms
 Imam,Leads | Namaz | Masjid | Front | Molvi,Islamic Terms
 Wudu,Wash | Water | Namaz | Ablution | Hands,Islamic Terms
-Mecca,Kaaba | Hajj | Saudi | Qibla | Haram,Islamic Locations
-Medina,Prophet | Hijrah | Nabawi | Saudi | Ansar,Islamic Locations
+Makkah,Mecca | Kaaba | Hajj | Qibla | Haram,Islamic Locations
+Madinah,Medina | Prophet | Hijrah | Nabawi | Ansar,Islamic Locations
 Jerusalem,Aqsa | Quds | Palestine | Dome | Isra,Islamic Locations
 Kaaba,Black Stone | Tawaf | Cube | Qibla | Makkah,Islamic Locations
 Masjid al-Haram,Kaaba | Makkah | Biggest | Tawaf | Hajj,Islamic Locations
@@ -1119,3 +1119,13 @@ Saad ibn Muadh,Aws | Ansar | Qurayza | Khandaq | Arsh,Sahaba
 Khabbab ibn al-Aratt,Blacksmith | Coals | Torture | Makkah | Patience,Sahaba
 Hudhayfah ibn al-Yaman,Secrets | Munafiqin | Khandaq | Wind | Scout,Sahaba
 Abdullah ibn Rawahah,Poet | Mu'tah | Commander | Ansari | Martyr,Sahaba
+Amr ibn al-As,Egypt | Conqueror | Fustat | General | Governor,Sahaba
+Ubay ibn Kab,Quran | Reciter | Best | Ansari | Madinah,Sahaba
+Khutbah,Jummah | Imam | Sermon | Minbar | Eid,Islamic Terms
+Hijrah,Madinah | Migration | Makkah | Abu Bakr | Thawr,Islamic Terms
+Niyyah,Intention | Heart | Salah | Deeds | Sincere,Islamic Terms
+Sajdah,Prostration | Forehead | Namaz | Ground | Rakat,Islamic Terms
+Tafsir,Quran | Explanation | Commentary | Ibn Kathir | Meaning,Islamic Terms
+Tayammum,Dust | Wudu | Water | Substitute | Clean,Islamic Terms
+Karbala,Hussain | Muharram | Ashura | Iraq | Euphrates,Islamic Locations
+Muharram,Ashura | Hijri | Islamic | New Year | Month,Islamic Terms

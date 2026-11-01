@@ -8338,8 +8338,8 @@
   },
   {
    "id": "game2-642",
-   "Name": "Muadh",
-   "Description": "Jabal | Yemen | Knowledge | Halal | Haram",
+   "Name": "Muadh ibn Jabal",
+   "Description": "Yemen | Knowledge | Halal | Haram | Governor",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8347,12 +8347,12 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Full name removes ambiguity; accurate hints."
   },
   {
    "id": "game2-643",
-   "Name": "Usamah",
-   "Description": "Zaid | Young | Commander | Army | Beloved",
+   "Name": "Usamah ibn Zaid",
+   "Description": "Young | Commander | Army | Beloved | Father",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8360,7 +8360,7 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Full name clarifies; hints accurate."
   },
   {
    "id": "game2-644",
@@ -8404,7 +8404,7 @@
   {
    "id": "game2-647",
    "Name": "Hamza",
-   "Description": "Uncle | Lion | Uhud | Shaheed | Hunter",
+   "Description": "Uncle | Lion | Uhud | Shaheed | Sayyid",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8412,7 +8412,7 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Sayyid al-Shuhada is the real title; replaces vague Hunter."
   },
   {
    "id": "game2-648",
@@ -8429,8 +8429,8 @@
   },
   {
    "id": "game2-649",
-   "Name": "Jafar",
-   "Description": "Wings | Tayyar | Abyssinia | Najashi | Ali",
+   "Name": "Jafar ibn Abi Talib",
+   "Description": "Wings | Tayyar | Abyssinia | Najashi | Mu'tah",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8438,7 +8438,7 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Bare Jafar is ambiguous; Mu'tah is a stronger hint than Ali."
   },
   {
    "id": "game2-650",
@@ -8676,7 +8676,7 @@
   },
   {
    "id": "game2-668",
-   "Name": "Muhammad",
+   "Name": "Prophet Muhammad (PBUH)",
    "Description": "Last Prophet | Makkah | Madinah | Quran | Abdullah",
    "Category": "Prophets",
    "action": "edit",
@@ -8685,7 +8685,7 @@
     "Description": "prophet | messenger | Allah | revelation",
     "Category": "Prophets"
    },
-   "note": ""
+   "note": "Debate: Respectful honorific and disambiguates from other Muhammads."
   },
   {
    "id": "game2-669",
@@ -8742,7 +8742,7 @@
   {
    "id": "game2-673",
    "Name": "Idris",
-   "Description": "Enoch | Pen | Writing | Tailor | Raised",
+   "Description": "Enoch | Pen | Writing | Raised | Truthful",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8750,12 +8750,12 @@
     "Description": "prophet | messenger | Allah | revelation",
     "Category": "Prophets"
    },
-   "note": ""
+   "note": "Debate: Drops weak Israiliyyat Tailor; Quran 19:56-57 grounds Truthful and Raised."
   },
   {
    "id": "game2-674",
    "Name": "Dhul-Kifl",
-   "Description": "Sabr | Patience | Promise | Quran | Ismail",
+   "Description": "Sabr | Patience | Idris | Quran | Ismail",
    "Category": "Prophets",
    "action": "edit",
    "original": {
@@ -8763,7 +8763,7 @@
     "Description": "Dhul | prophet | messenger | Allah",
     "Category": "Prophets"
    },
-   "note": "Obscure; little known about him, may be hard to guess; Debate: Challenger's version: Promise and Pledge meant the same thing. Banning 'Kifl' wastes a slot because it is part of the name. The Quran names Dhul-Kifl alongside Ismail in both of its mentions (21:85, 38:48)."
+   "note": "Obscure; little known about him, may be hard to guess; Debate: Challenger's version: Promise and Pledge meant the same thing. Banning 'Kifl' wastes a slot because it is part of the name. The Quran names Dhul-Kifl alongside Ismail in both of its mentions (21:85, 38:48).; Debate: Quranic grounding (21:85, 38:48) replaces unsupported Promise."
   },
   {
    "id": "game2-675",
@@ -8846,7 +8846,7 @@
   {
    "id": "game2-681",
    "Name": "Sunnah",
-   "Description": "Prophet | Practice | Way | Hadith | Nafl",
+   "Description": "Prophet | Practice | Way | Hadith | Follow",
    "Category": "Islamic Terms",
    "action": "edit",
    "original": {
@@ -8854,7 +8854,7 @@
     "Description": "Islam | Muslim | Arabic | religious",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: Follow is a more natural banned word than Nafl."
   },
   {
    "id": "game2-682",
@@ -9105,8 +9105,8 @@
   },
   {
    "id": "game2-701",
-   "Name": "Mecca",
-   "Description": "Kaaba | Hajj | Saudi | Qibla | Haram",
+   "Name": "Makkah",
+   "Description": "Mecca | Kaaba | Hajj | Qibla | Haram",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9114,12 +9114,12 @@
     "Description": "mosque | holy | pilgrimage | similar",
     "Category": "Islamic Locations"
    },
-   "note": ""
+   "note": "Debate: Live card is 'Mecca' while the deck spells Makkah; standardise and ban the variant."
   },
   {
    "id": "game2-702",
-   "Name": "Medina",
-   "Description": "Prophet | Hijrah | Nabawi | Saudi | Ansar",
+   "Name": "Madinah",
+   "Description": "Medina | Prophet | Hijrah | Nabawi | Ansar",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9127,7 +9127,7 @@
     "Description": "mosque | holy | Mecca | pilgrimage",
     "Category": "Islamic Locations"
    },
-   "note": ""
+   "note": "Debate: Same spelling fix; ban the variant Medina."
   },
   {
    "id": "game2-703",
@@ -13023,6 +13023,86 @@
    "Category": "Sahaba",
    "action": "add",
    "note": "New card (debate): Challenger amendment accepted: spelling aligned with the deck's Mu'tah."
+  },
+  {
+   "id": null,
+   "Name": "Amr ibn al-As",
+   "Description": "Egypt | Conqueror | Fustat | General | Governor",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Major Sahabi missing; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Ubay ibn Kab",
+   "Description": "Quran | Reciter | Best | Ansari | Madinah",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Famous Quran reciter; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Khutbah",
+   "Description": "Jummah | Imam | Sermon | Minbar | Eid",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Everyday Jummah concept; no live card."
+  },
+  {
+   "id": null,
+   "Name": "Hijrah",
+   "Description": "Madinah | Migration | Makkah | Abu Bakr | Thawr",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Core event; no live card."
+  },
+  {
+   "id": null,
+   "Name": "Niyyah",
+   "Description": "Intention | Heart | Salah | Deeds | Sincere",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known concept; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Sajdah",
+   "Description": "Prostration | Forehead | Namaz | Ground | Rakat",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Basic prayer term; no live card."
+  },
+  {
+   "id": null,
+   "Name": "Tafsir",
+   "Description": "Quran | Explanation | Commentary | Ibn Kathir | Meaning",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Common term; no live card."
+  },
+  {
+   "id": null,
+   "Name": "Tayammum",
+   "Description": "Dust | Wudu | Water | Substitute | Clean",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Familiar fiqh term; no live card."
+  },
+  {
+   "id": null,
+   "Name": "Karbala",
+   "Description": "Hussain | Muharram | Ashura | Iraq | Euphrates",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Well-known location; no live card."
+  },
+  {
+   "id": null,
+   "Name": "Muharram",
+   "Description": "Ashura | Hijri | Islamic | New Year | Month",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): First Islamic month; no live card."
   }
  ]
 }
