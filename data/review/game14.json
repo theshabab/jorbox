@@ -7272,6 +7272,55 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Hoarding-habit angle is distinct enough from the repair cards."
+  },
+  {
+   "id": null,
+   "Description": "How many companions (Sahaba) of the Prophet (peace be upon him) can you name in 30 seconds?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clean, answerable Islamic-knowledge count; no companion card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many hadith do you know by heart?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording accepted; new religious-knowledge count."
+  },
+  {
+   "id": null,
+   "Description": "How much do you know about the life of Quaid-e-Azam Muhammad Ali Jinnah?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No Jinnah-life card exists, only the Mazar-e-Quaid visit count; fits the format."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to carry your own cloth bag to the market instead of taking plastic bags?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Only the bag-of-bags count exists; this is a distinct habit question."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to use a miswak?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Sunnah habit absent from the deck and easy to answer."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you visited a graveyard to make dua for your relatives?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related personal question; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you prayed istikhara before an important decision?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related personal question; accurate; no duplicate."
   }
  ]
 }

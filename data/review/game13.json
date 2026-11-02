@@ -6773,6 +6773,42 @@
    "Description": "Get a player to tell you how many rakats are in Fajr.",
    "action": "add",
    "note": "New card (debate): Worship questions are allowed by the owner. Fajr has 2 fard rakats, so it is accurate. It is distinct from the existing Maghrib rakats card, which asks about a different prayer."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite memory from a cousin's wedding or mehndi.",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording; distinct from 'last shaadi they went to' and 'who did their mehndi'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about a tuition teacher or academy they attended.",
+   "action": "add",
+   "note": "New card (debate): No tuition card in the deck; relatable and harmless."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the best summer drink at their house, like Rooh Afza, sattu or lemon sharbat.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the say-Rooh Afza and lassi/sharbat cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what their family does during a long load shedding evening, like stories or carrom.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the complain-about-load-shedding and first-thing-when-power-goes-out cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you a lori (lullaby) their ammi or nani used to sing.",
+   "action": "add",
+   "note": "New card (debate): No lori card exists; warm folk content."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which shop in their area sells the best samosas or pakoras.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the school canteen and say-the-word cards."
   }
  ]
 }

@@ -2954,13 +2954,13 @@
   {
    "id": "game11-269",
    "Name": "Problem",
-   "Description": "My neighbor's kid keeps stealing my _____!",
-   "action": "keep",
+   "Description": "My neighbour's kid keeps stealing my _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My neighbor's kid keeps stealing my _____!"
    },
-   "note": ""
+   "note": "Debate: Spelling consistent with the deck's British 'neighbour'."
   },
   {
    "id": "game11-270",
@@ -3031,13 +3031,13 @@
   {
    "id": "game11-276",
    "Name": "Problem",
-   "Description": "I wish I could trade my _____ for a pizza!",
-   "action": "keep",
+   "Description": "I wish I could trade my _____ for a plate of hot samosas!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I wish I could trade my _____ for a pizza!"
    },
-   "note": ""
+   "note": "Debate: Local frame, keeps the open blank and joke."
   },
   {
    "id": "game11-277",
@@ -8661,6 +8661,62 @@
    "Description": "I dream of a holiday without _____!",
    "action": "add",
    "note": "New card (debate): Open-ended and easy to answer, with no duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a bag that keeps my _____ hot until I reach home!",
+   "action": "add",
+   "note": "New card (debate): Relatable takeaway problem, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a foldable _____ for our tiny flat!",
+   "action": "add",
+   "note": "New card (debate): Open, relatable space-saving prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I'm sick of stirring _____ for hours over the stove!",
+   "action": "add",
+   "note": "New card (debate): Local cooking frustration, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a bigger freezer for all the Qurbani _____!",
+   "action": "add",
+   "note": "New card (debate): Local Eid problem about storage, distinct from goat cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a wearable that warns me before Ammi finds my _____!",
+   "action": "add",
+   "note": "New card (debate): Desi family humour fitting the pitch format."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The rickshaw ride is so bumpy that my _____ keeps flying out!",
+   "action": "add",
+   "note": "New card (debate): Distinct from overcharge card; local and open."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a helmet that protects my _____ from the madness on our roads!",
+   "action": "add",
+   "note": "New card (debate): Local road-safety problem, no helmet card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I want to wake up for Sehri without disturbing _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording; differs from the dhol wala and food Sehri cards."
   }
  ]
 }
