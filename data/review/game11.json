@@ -8906,6 +8906,20 @@
    "Description": "Khajoor Wala (Dates Seller)",
    "action": "add",
    "note": "New card (debate): Recognisable Ramadan seller, distinct from other vendors."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My solar panels are covered in _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: solar/load-shedding theme with a structure distinct from the existing 'stops working when it rains' card; open blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My homemade achar always goes bad because of _____!",
+   "action": "add",
+   "note": "New card (debate): Recognisably Pakistani kitchen theme, open blank, no equivalent in deck or pending adds."
   }
  ]
 }

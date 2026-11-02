@@ -13892,10 +13892,10 @@
   {
    "id": null,
    "Name": "Goldsmith",
-   "Description": "Crafts jewellery and weighs it in karats (Sonar)",
+   "Description": "Makes rings and necklaces from precious metal (Sonar)",
    "Category": "Occupations",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Old hint said karats measure weight, which is wrong; new hint is accurate."
   },
   {
    "id": null,
@@ -13924,10 +13924,10 @@
   {
    "id": null,
    "Name": "Fruit Chaat",
-   "Description": "Iftar bowl of chopped fruit with chaat masala",
+   "Description": "Iftar bowl of cut apples and bananas with tangy spice",
    "Category": "Traditional Dishes",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Old hint contained 'fruit' and 'chaat', the card's own words."
   },
   {
    "id": null,
@@ -14052,10 +14052,10 @@
   {
    "id": null,
    "Name": "Truck Art",
-   "Description": "Colourful flower paintings on highway trucks",
+   "Description": "Bright flowers and poetry painted on lorries",
    "Category": "Transport",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Old hint contained 'trucks', part of the word."
   },
   {
    "id": null,
@@ -14100,18 +14100,18 @@
   {
    "id": null,
    "Name": "Iceberg",
-   "Description": "Floating polar ice with only its tip visible",
+   "Description": "Giant floating polar mass with only its tip visible",
    "Category": "Nature",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Old hint contained 'ice', part of the word."
   },
   {
    "id": null,
    "Name": "Ajwa Dates",
-   "Description": "Black sweet dates of Madinah",
+   "Description": "Black sweet fruit of Madinah, a Sunnah favourite",
    "Category": "Fruits",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Old hint contained 'dates', part of the word."
   },
   {
    "id": null,
@@ -14172,10 +14172,10 @@
   {
    "id": null,
    "Name": "Padlock",
-   "Description": "Metal lock with a key for shop shutters (Taala)",
+   "Description": "Hangs on shop shutters, opened with a key (Taala)",
    "Category": "Tools",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Old hint contained 'lock', part of the word."
   },
   {
    "id": null,
@@ -14244,10 +14244,10 @@
   {
    "id": null,
    "Name": "Eidgah",
-   "Description": "Open ground where Eid prayers are offered",
+   "Description": "Open ground for the two festival prayers",
    "Category": "Islamic Locations",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Old hint contained 'Eid', part of the word."
   }
  ]
 }
