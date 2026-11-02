@@ -2930,12 +2930,12 @@
   },
   {
    "id": "game10-326",
-   "Name": "Name a brand you trust.",
-   "action": "keep",
+   "Name": "Name a Pakistani brand you trust.",
+   "action": "edit",
    "original": {
     "Name": "Name a brand you trust."
    },
-   "note": ""
+   "note": "Debate: Pakistani frame gives common matchable answers; distinct from queued clothing and ghee brand cards."
   },
   {
    "id": "game10-327",
@@ -3074,12 +3074,12 @@
   },
   {
    "id": "game10-342",
-   "Name": "What is the most difficult decision in life?",
+   "Name": "Name a big decision people make in life.",
    "action": "edit",
    "original": {
     "Name": "What is the most difficult decision?"
    },
-   "note": "incomplete"
+   "note": "incomplete; Debate: Name-a prompt gives clustered answers (marriage, career, studies) instead of scattered subjective ones."
   },
   {
    "id": "game10-343",
@@ -7586,6 +7586,30 @@
    "Name": "Name a piece of clothing that needs ironing.",
    "action": "add",
    "note": "New card (debate): Challenger's tighter wording gives better matches (shirt, shalwar kameez, trousers, dupatta)."
+  },
+  {
+   "id": null,
+   "Name": "Kheer or Zarda?",
+   "action": "add",
+   "note": "New card (debate): Local sweet pair, different from existing Kheer or Gajar Ka Halwa."
+  },
+  {
+   "id": null,
+   "Name": "Summer Cooling: AC or Air Cooler?",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: 'air cooler' is the Pakistani term, not 'desert cooler'."
+  },
+  {
+   "id": null,
+   "Name": "Going to School: Van or Walk?",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: recognisable commute pair, avoids overlap with Motorbike or Car."
+  },
+  {
+   "id": null,
+   "Name": "Name something you put in a sandwich.",
+   "action": "add",
+   "note": "New card (debate): Easy common answers; no sandwich card in the deck."
   }
  ]
 }

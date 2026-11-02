@@ -1391,14 +1391,14 @@
   },
   {
    "id": "game16-127",
-   "Name": "What do you think the worst smell is?",
+   "Name": "Which smell can you not stand (burnt milk, a fish market, wet laundry)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What do you think the worst smell is?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Local examples make it funnier and steer away from bathroom jokes. It is not a duplicate of the smell-memory card."
   },
   {
    "id": "game16-128",
@@ -1512,14 +1512,14 @@
   },
   {
    "id": "game16-138",
-   "Name": "Who would you elect as president of the internet, and why?",
+   "Name": "Who would you appoint as Prime Minister of the internet, and why?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "Who would you elect the president of the internet?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Debate: Grammar fix and open follow-up."
+   "note": "Debate: Grammar fix and open follow-up.; Debate: Pakistani Prime Minister frame fits the audience better than a US-style president."
   },
   {
    "id": "game16-139",
@@ -1811,12 +1811,12 @@
    "id": "game16-165",
    "Name": "If you were famous, what would you be famous for?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "If you were famous, what would you be famous for?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Duplicate of game16-109 'What is your claim to fame?', which is still live (action keep in game16.json)."
   },
   {
    "id": "game16-166",
@@ -9920,6 +9920,48 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Fresh constraint; distinct from the bag/wallet and washed-pocket cards."
+  },
+  {
+   "id": null,
+   "Name": "If the week had an eighth day, what would you do with it?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Light opener, no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "Which sound makes you laugh no matter what, even at the most serious moment?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from the pending 'hardest you have laughed' and 'sound that makes you happy' cards."
+  },
+  {
+   "id": null,
+   "Name": "Who in your family always peels and cuts the fruit and serves it after dinner?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Relatable desi family habit. It is different from the pending peeling-oranges skill card, which is about being the best at a task."
+  },
+  {
+   "id": null,
+   "Name": "What is the proudest thing you have ever repaired or fixed yourself?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No repair-pride card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "If you could move one place in Pakistan next to your house (Fairy Meadows, Attabad Lake, Clifton beach, a Lahore food street), which would you choose?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Local pick with real places, distinct from the other geography cards."
+  },
+  {
+   "id": null,
+   "Name": "What small thing do you do every single day that nobody else notices?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Reflective opener, distinct from the pending mood-lifter and parents-habit cards."
   }
  ]
 }

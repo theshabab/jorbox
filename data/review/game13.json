@@ -4502,9 +4502,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you the result of Pakistan's last cricket match.",
+   "Description": "Get a player to tell you the score of the last Pakistan cricket match they watched.",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Easier to answer and verify than the last match overall, and it keeps the Pakistani frame."
   },
   {
    "id": null,
@@ -7031,6 +7031,42 @@
    "Description": "Get a player to say 'Eid Mubarak' to you when it is not Eid.",
    "action": "add",
    "note": "New card (debate): Challenger's clearer wording. It is distinct from the 'Mubarak ho!' card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name all five pillars of Islam.",
+   "action": "add",
+   "note": "New card (debate): Well-established fact, and the deck has no pillars card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which city was the first capital of Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Karachi is accurate, and the card is distinct from the capital-correction cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite paratha filling, like aloo, qeema or paneer.",
+   "action": "add",
+   "note": "New card (debate): Relatable food card, distinct from the paratha-vs-naan card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many cups of chai they drink in a day.",
+   "action": "add",
+   "note": "New card (debate): Easy, harmless trigger, and no existing card asks this."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what the crescent and the star on Pakistan's flag stand for.",
+   "action": "add",
+   "note": "New card (debate): Standard explanation (progress, and light and knowledge), distinct from the flag-colour card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you Pakistan's national tree, the deodar.",
+   "action": "add",
+   "note": "New card (debate): Accurate, and no national tree card exists."
   }
  ]
 }
