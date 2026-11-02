@@ -7790,9 +7790,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "The glacier near our northern trip is melting faster than my _____!",
+   "Description": "The glacier we visited in Hunza is melting faster than my _____!",
    "action": "add",
-   "note": "New card (debate): Local nature/climate angle with a funny blank."
+   "note": "New card (debate): Local nature/climate angle with a funny blank.; Debate: Names a real local place instead of the clumsy 'near our northern trip'; the blank still works and the angle differs from game11-41."
   },
   {
    "id": null,
@@ -9116,6 +9116,13 @@
    "Description": "My phone charger disappears every time I need it before leaving for _____!",
    "action": "add",
    "note": "New card (debate): Open blank, different premise from the existing charger card; challenger agreed."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Ruet-e-Hilal Committee Member",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording uses the name Pakistani players actually use for the moon-sighting committee; it is a recognisable customer and is not in the deck."
   }
  ]
 }

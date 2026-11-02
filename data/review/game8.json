@@ -12310,6 +12310,38 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Challenger's clearer scale ends; a Writing nickname card is distinct from the kite drawing cards."
+  },
+  {
+   "id": null,
+   "Name": "NO SALT <---> WAY TOO SALTY",
+   "Description": "Write a one-line review of a karahi that is this salty",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: parallel plain ends, local food, salt not used elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "LENIENT <---> VERY STRICT",
+   "Description": "Write what a traffic warden says to a driver he has just pulled over, if he is this strict",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording is clearer; local, guessable scale, no warden card exists."
+  },
+  {
+   "id": null,
+   "Name": "SMALL GLASS <---> GIANT JUG",
+   "Description": "Draw a glass of lassi that is this big",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Clear drawable size scale, local drink, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "ALWAYS FOUND <---> LOST FOREVER",
+   "Description": "Write what Abbu shouts from the lounge when the TV remote is this lost",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: as Writing the position is guessable; distinct from the taped-remote drawing card."
   }
  ]
 }

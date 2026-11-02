@@ -14824,6 +14824,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1049','game8','FAIR PRICE <---> TOURIST PRICE','Make up a name for a bazaar shop whose prices are this unfair to visitors','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1050','game8','PURE URDU <---> TRIPLE LANGUAGE MIX','Write a sentence a cousin says at a family dawat that mixes Urdu, Punjabi and English this much','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1051','game8','NEVER CUTS A KITE <---> CUTS EVERY KITE','Make up a nickname for a rooftop kite flyer who is this good at cutting other kites','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1052','game8','NO SALT <---> WAY TOO SALTY','Write a one-line review of a karahi that is this salty','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1053','game8','LENIENT <---> VERY STRICT','Write what a traffic warden says to a driver he has just pulled over, if he is this strict','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1054','game8','SMALL GLASS <---> GIANT JUG','Draw a glass of lassi that is this big','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1055','game8','ALWAYS FOUND <---> LOST FOREVER','Write what Abbu shouts from the lounge when the TV remote is this lost','Writing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -17730,7 +17734,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-760','game11','Problem','Every year we plant a sapling, and every year it gets eaten by _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-761','game11','Problem','At Mohenjo-daro the guide talked about a 4,500-year-old city, but I only noticed _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-762','game11','Problem','The hakeem says my body has too much garmi because of _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-763','game11','Problem','The glacier near our northern trip is melting faster than my _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-763','game11','Problem','The glacier we visited in Hunza is melting faster than my _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-764','game11','Problem','Ibn Battuta crossed deserts on a camel, and I complain when the AC breaks in my _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-765','game11','Problem','The House of Wisdom in Baghdad was full of books, but my bookshelf is full of _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-766','game11','Problem','The locust swarm ate the whole crop, and now the farmers only have _____!','');
@@ -17920,6 +17924,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-950','game11','Customer','Hijama Practitioner','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-951','game11','Customer','Zameendar (Landlord)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-952','game11','Problem','My phone charger disappears every time I need it before leaving for _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-953','game11','Customer','Ruet-e-Hilal Committee Member','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');
@@ -20535,7 +20540,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-312','game14','','How many times have you got lost in a new city?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-313','game14','','How many tabs are open in your phone''s browser right now?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-314','game14','','How many biscuits do you dunk in one cup of chai?','Number');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-315','game14','','How likely are you to say ''I''m on my way'' while still at home?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-315','game14','','How likely are you to say ''bas nikal raha hoon'' while still at home?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-316','game14','','How good are you at reading Urdu handwriting?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-317','game14','','How likely are you to eat a mango the desi way, squeezing and sucking it straight from the skin?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-318','game14','','How likely are you to save gift wrapping paper to reuse it?','0 to 100');
@@ -21083,6 +21088,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-860','game14','','How likely are you to buy fruit from a thela (handcart) instead of a shop?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-861','game14','','How good are you at telling a bedtime story that puts children to sleep?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-862','game14','','How many times this year has a relative borrowed your phone for ''just one quick call''?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-863','game14','','How many times have you copied someone''s homework just before class?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-864','game14','','How many seekh kababs can you eat in one sitting?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-865','game14','','How many times have you waited for a late relative before the whole family could leave for a wedding?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-866','game14','','How good are you at carrying a full tray of chai without spilling a drop?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-867','game14','','How likely are you to say ''main khana kha ke aaya hoon'' and then eat anyway at a relative''s house?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-868','game14','','How likely are you to be the one reminding everyone of the leaving time on a family trip?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-869','game14','','What is the most people you have ever seen riding on one motorbike?','Number');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game15','Tareekhi',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1','game15','Khadijah bint Khuwaylid','1st - first person to accept Islam','Sahabas - Order of Accepting Islam');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-2','game15','Ali ibn Abi Talib','2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10','Sahabas - Order of Accepting Islam');

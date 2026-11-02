@@ -3936,10 +3936,10 @@
   },
   {
    "id": null,
-   "Description": "How likely are you to say 'I'm on my way' while still at home?",
+   "Description": "How likely are you to say 'bas nikal raha hoon' while still at home?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Local phrasing, same idea and category."
   },
   {
    "id": null,
@@ -7818,6 +7818,55 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Challenger's tighter relatable family count; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you copied someone's homework just before class?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable, distinct from homework-in-van card."
+  },
+  {
+   "id": null,
+   "Description": "How many seekh kababs can you eat in one sitting?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): New food-count idea."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you waited for a late relative before the whole family could leave for a wedding?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from arriving late yourself."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at carrying a full tray of chai without spilling a drop?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct from making chai."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to say 'main khana kha ke aaya hoon' and then eat anyway at a relative's house?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Guest-side hospitality, distinct from host card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to be the one reminding everyone of the leaving time on a family trip?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Clean and answerable, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "What is the most people you have ever seen riding on one motorbike?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Locally recognisable, distinct from helmet card."
   }
  ]
 }
