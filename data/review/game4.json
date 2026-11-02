@@ -9343,7 +9343,7 @@
    "Description": "A single teaspoon of material from a neutron star would weigh about a ____ tonnes.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The number is the surprising part and a better bluffing target than the unit; the figure is accurate.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category; fact is fine."
+   "note": "New card; Debate: The number is the surprising part and a better bluffing target than the unit; the figure is accurate.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category; fact is fine.; Debate: Missing category; fact is fine."
   },
   {
    "id": null,
@@ -9399,15 +9399,15 @@
    "Description": "Koalas have ____ so similar to humans' that they could confuse detectives at a crime scene.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Clearer wording; fact is true.; Debate: Fills the missing category."
+   "note": "New card; Debate: Clearer wording; fact is true.; Debate: Fills the missing category.; Debate: Missing category."
   },
   {
    "id": null,
-   "Name": "hummingbird",
-   "Description": "Among birds, the ____ is famous for hovering in mid-air and even flying backwards.",
+   "Name": "1,200",
+   "Description": "A hummingbird's heart can beat more than ____ times a minute.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Removes the false 'only bird' claim.; Debate: Fills blank category.; Debate: Fills the missing category."
+   "note": "New card; Debate: Removes the false 'only bird' claim.; Debate: Fills blank category.; Debate: Fills the missing category.; Debate: Numeric version is a real guessing game; category added."
   },
   {
    "id": null,
@@ -9751,7 +9751,7 @@
    "Description": "The ice lolly on a stick was invented by accident in 1905 by a boy aged just ____ who left his drink outside on a cold night.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff.; Debate: Fills the empty category. The fact (Frank Epperson, aged 11) is correct.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
+   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff.; Debate: Fills the empty category. The fact (Frank Epperson, aged 11) is correct.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category.; Debate: Missing category."
   },
   {
    "id": null,
@@ -9807,7 +9807,7 @@
    "Description": "Fazlur Rahman Khan, the Dhaka-born engineer whose \"tube\" designs made modern skyscrapers possible, was the structural engineer of Chicago's ____ Tower (now the Willis Tower).",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer.; Debate: Tighter, accurate wording, and fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
+   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer.; Debate: Tighter, accurate wording, and fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category.; Debate: Missing category."
   },
   {
    "id": null,
@@ -9815,7 +9815,7 @@
    "Description": "Momofuku Ando invented instant noodles in 1958 after experimenting alone in a small shed in his ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Challenger's amendment: 'Japan' was too easy to guess, the backyard shed in Ikeda is true, and the unverified 'months' detail is gone.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
+   "note": "New card; Debate: Challenger's amendment: 'Japan' was too easy to guess, the backyard shed in Ikeda is true, and the unverified 'months' detail is gone.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category.; Debate: Missing category."
   },
   {
    "id": null,
@@ -9855,7 +9855,7 @@
    "Description": "Sindh's traditional block-printed shawl, dyed in deep red and indigo, is called the ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer.; Debate: Fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
+   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer.; Debate: Fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category.; Debate: Missing category."
   },
   {
    "id": null,
@@ -9903,7 +9903,7 @@
    "Description": "Pakistan's highest military award, the Nishan-e-Haider, is named after Hazrat Ali (RA), whose title \"Haider\" means ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The old wording gave the answer away. 'Haider' does mean lion, and the honorific is respectful.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
+   "note": "New card; Debate: The old wording gave the answer away. 'Haider' does mean lion, and the honorific is respectful.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category.; Debate: Missing category."
   },
   {
    "id": null,
@@ -14712,6 +14712,38 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate surprising fact, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Ramadan",
+   "Description": "Pakistan came into being on 14 August 1947, which fell on the 27th of the Islamic month of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, locally meaningful; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "mirror",
+   "Description": "Elephants, dolphins and magpies are among the few animals that can recognise themselves in a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True and surprising; no overlap."
+  },
+  {
+   "id": null,
+   "Name": "jelly bean",
+   "Description": "A newborn kangaroo, called a joey, is only about the size of a ____ when it crawls into its mother's pouch.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended spelling matches the deck; fact is true."
+  },
+  {
+   "id": null,
+   "Name": "354",
+   "Description": "A year in the Islamic lunar calendar has about ____ days, roughly eleven fewer than the solar year.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate numeric card; no duplicate."
   }
  ]
 }

@@ -3425,7 +3425,7 @@
   {
    "id": "game3-264",
    "Name": "Draw a nightmare you’ve had.",
-   "Description": "Draw abstract art.|Draw a wedding.|Draw a cartoon mouse.|Draw an animal attack.|Draw an awkward situation.|Draw a haunted house.|Draw your biggest fear.|Draw a lumberjack.|Draw a tiny vampire.",
+   "Description": "Draw being chased.|Draw falling from a height.|Draw an animal attack.|Draw an awkward situation.|Draw a haunted house.|Draw your biggest fear.|Draw a dark room.|Draw being lost in a crowd.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3433,7 +3433,7 @@
     "Description": "Draw abstract art.|Draw a wedding.|Draw Mickey Mouse.|Draw an animal attack.|Draw an awkward situation.|Draw a horror movie scene.|Draw your biggest fear.|Draw a lumberjack.|Draw a tiny vampire.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Mickey Mouse, horror movie"
+   "note": "replaced Mickey Mouse, horror movie; Debate: Replace all random decoys with nightmare-like ones (challenger's amendment, cartoon mouse swapped for a closer decoy)."
   },
   {
    "id": "game3-265",
@@ -3490,7 +3490,7 @@
   {
    "id": "game3-269",
    "Name": "Draw a wedding.",
-   "Description": "Draw an engagement.|Draw a court wedding.|Draw a wrestling match.|Draw a debate.|Draw a bride.|Draw a graduation ceremony.|Draw a groom.",
+   "Description": "Draw an engagement.|Draw a court wedding.|Draw a nikah ceremony.|Draw a walima dinner.|Draw a bride.|Draw a graduation ceremony.|Draw a groom.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3498,7 +3498,7 @@
     "Description": "Draw Adam and Eve.|Draw wedding vows.|Draw a court wedding.|Draw a wrestling match.|Draw a debate.|Draw a bride.|Draw a ballet.|Draw a high school prom.|Draw a groom.",
     "Category": "Drawing 2"
    },
-   "note": "removed Adam and Eve, ballet, prom, vows"
+   "note": "removed Adam and Eve, ballet, prom, vows; Debate: Replace far-off decoys (wrestling, debate) with close local ones."
   },
   {
    "id": "game3-270",
@@ -3581,7 +3581,7 @@
   {
    "id": "game3-276",
    "Name": "Draw the last photo you put on social media.",
-   "Description": "Draw a family dinner.|Draw something spooky.|Draw a sunset.|Draw a car crash.|Draw a picture of your pet.|Draw the last photo you took.|Draw a selfie.|Draw the last thing you ate.|Draw your last vacation.",
+   "Description": "Draw a family dinner.|Draw something spooky.|Draw a sunset.|Draw a plate of food.|Draw a picture of your pet.|Draw the last photo you took.|Draw a selfie.|Draw the last thing you ate.|Draw your last vacation.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3589,7 +3589,7 @@
     "Description": "Draw a picture from a party.|Draw something spooky.|Draw a classic movie scene.|Draw a car crash.|Draw a picture of your pet.|Draw the last photo you took.|Draw a selfie.|Draw the last thing you ate.|Draw your last vacation.",
     "Category": "Drawing 2"
    },
-   "note": "replaced party, movie scene"
+   "note": "replaced party, movie scene; Debate: Car crash decoy could never pass as a social media photo."
   },
   {
    "id": "game3-277",
@@ -3776,7 +3776,7 @@
   {
    "id": "game3-291",
    "Name": "Draw your typical Friday night.",
-   "Description": "Draw an arcade.|Draw someone playing video games.|Draw watching cricket.|Draw a late-night chai stall.|Draw someone in bed.|Draw eating a pizza.|Draw a family dinner.|Draw ugly crying.",
+   "Description": "Draw an arcade.|Draw someone playing video games.|Draw watching cricket.|Draw a late-night chai stall.|Draw someone in bed.|Draw a plate of biryani.|Draw a family dinner.|Draw ugly crying.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3784,7 +3784,7 @@
     "Description": "Draw an arcade.|Draw a vigilante.|Draw an R-rated movie.|Draw riding a dog like a horse.|Draw someone in bed.|Draw eating a pizza.|Draw a big party.|Draw a crowded bar.|Draw ugly crying.",
     "Category": "Drawing 2"
    },
-   "note": "replaced R-rated movie, party, bar; Debate: Replaces random decoys with plausible local Friday-night activities. Video games are allowed."
+   "note": "replaced R-rated movie, party, bar; Debate: Replaces random decoys with plausible local Friday-night activities. Video games are allowed.; Debate: Local dish decoy instead of pizza."
   },
   {
    "id": "game3-292",
@@ -3945,7 +3945,7 @@
   {
    "id": "game3-304",
    "Name": "Draw a birthday present.",
-   "Description": "Draw a fictional weapon.|Draw an empty box.|Draw a toy car.|Draw your last birthday present.|Draw a gift basket.|Draw a gift.|Draw a birthday party.|Draw an Eid gift.|Draw a package.",
+   "Description": "Draw a wrapped book.|Draw an empty box.|Draw a toy car.|Draw your last birthday present.|Draw a gift basket.|Draw a gift.|Draw a wedding gift.|Draw an Eid gift.|Draw a package.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3953,7 +3953,7 @@
     "Description": "Draw a fictional weapon.|Draw an empty box.|Draw an illegal item.|Draw your last Birthday present.|Draw a gift basket.|Draw a gift.|Draw a birthday party.|Draw a Christmas present.|Draw a package.",
     "Category": "Drawing 2"
    },
-   "note": "Christmas present -> Eid gift; capitalisation; Debate: 'Illegal item' invites drawings of drugs."
+   "note": "Christmas present -> Eid gift; capitalisation; Debate: 'Illegal item' invites drawings of drugs.; Debate: Fictional weapon decoy gives the impostor away at once, and birthday party is off-topic; replaced with close gift decoys."
   },
   {
    "id": "game3-305",
@@ -4569,15 +4569,15 @@
   {
    "id": "game3-352",
    "Name": "If I could only eat one dish every meal for one year, I’d choose...",
-   "Description": "The worst smell is probably...|Something I always order in restaurants is...|Yesterday for lunch, I ate...|A food I think is highly overrated is...|A food I cannot stand the taste or smell is...|The last thing I ate was...|A food I associate with weddings is...|A food I associate with being sick is...|Something in my refrigerator right now is...",
+   "Description": "The best street food is...|Something I always order in restaurants is...|Yesterday for lunch, I ate...|A food I think is highly overrated is...|A food I cannot stand the taste or smell is...|The last thing I ate was...|A food I associate with weddings is...|A food I associate with being sick is...|Something in my refrigerator right now is...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If I could only eat one dish every meal for one year, I’d choose...",
     "Description": "The worst smell is probably...|Something I always order in restaurants is...|Yesterday for lunch, I ate...|A food I think is highly overrated is...|A food I cannot stand the taste or smell is...|The last thing I ate was...|A food I associate with weddings is...|A food I associate with being sick is...|Something in my refrigerator right now is...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Replace the non-food decoy; keep the already-correct Name."
   },
   {
    "id": "game3-353",
@@ -13969,6 +13969,54 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): Drawable travel prompt with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a carrom board.",
+   "Description": "Draw a chessboard.|Draw a ludo board.|Draw a dartboard.|Draw a snooker table.|Draw a table tennis game.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Classic Pakistani home game, no drawing card exists."
+  },
+  {
+   "id": null,
+   "Name": "Draw a kabaddi match.",
+   "Description": "Draw a wrestling match.|Draw a tug of war.|Draw a game of tag.|Draw a rugby match.|Draw a hockey match.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Popular local sport with no drawing card."
+  },
+  {
+   "id": null,
+   "Name": "Draw a tailor measuring a customer.",
+   "Description": "Draw a barber.|Draw a sewing machine.|Draw a shopkeeper.|Draw a cobbler.|Draw a doctor checking a patient.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Clear everyday scene; the existing tailor cards are a topic list and a statement, not a drawing."
+  },
+  {
+   "id": null,
+   "Name": "Draw a winter night with a gas heater.",
+   "Description": "Draw a foggy winter morning.|Draw a coal angeethi.|Draw a family under a razai.|Draw a bonfire.|Draw a hot water bottle.|Draw a room with a fireplace.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani winter scene, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "The best place to hide from relatives at a wedding is...",
+   "Description": "The best place to hide during hide and seek is...|The best place to take a nap at work is...|The best place to eat at a wedding is...|The best place to sit in a classroom is...|The best place to park a car is...|The best place to hide from a teacher is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny relatable family prompt, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "The first sound I hear in my neighbourhood in the morning is...",
+   "Description": "The last sound I hear at night is...|The loudest sound at a wedding is probably...|The sound of my alarm is...|The sound I hear most on the road is...|The sound that scares me is...|The best sound in the world is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's reframing avoids overlap with the annoying-sound card and any azan-joke risk."
   }
  ]
 }

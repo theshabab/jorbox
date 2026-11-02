@@ -32941,10 +32941,10 @@
   {
    "id": null,
    "Name": "Faisal Mosque Minarets",
-   "Description": "90 m",
+   "Description": "79 m",
    "Category": "Heights of Famous Landmarks (Low to High)",
    "action": "add",
-   "note": "New card (debate): Challenger's cleaner version. Local landmark, sorts between Minar-e-Pakistan (62 m) and Big Ben (96 m); no duplicate in the category."
+   "note": "New card (debate): Challenger's cleaner version. Local landmark, sorts between Minar-e-Pakistan (62 m) and Big Ben (96 m); no duplicate in the category.; Debate: Factual fix: Faisal Mosque minarets are 79 m (260 ft), not 90 m; order unchanged."
   },
   {
    "id": null,
@@ -33313,6 +33313,70 @@
    "Category": "Wars of Pakistan (Chronological)",
    "action": "add",
    "note": "New card (debate): Starts in 1984, between 1971 and Kargil; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Microsoft Edge",
+   "Description": "2015",
+   "Category": "Web Browsers (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Edge launched 2015 with Windows 10; unique year, correct order."
+  },
+  {
+   "id": null,
+   "Name": "Android 11",
+   "Description": "Sep 2020",
+   "Category": "Android Versions (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate release date, follows Android 10 (Sep 2019) with no tie."
+  },
+  {
+   "id": null,
+   "Name": "iPhone 6s",
+   "Description": "2015",
+   "Category": "iPhone Models (Chronological Launch)",
+   "action": "add",
+   "note": "New card (debate): iPhone 6s launched Sep 2015; fills the 2015 gap with a unique year."
+  },
+  {
+   "id": null,
+   "Name": "Uranus",
+   "Description": "About 17 hours",
+   "Category": "Planets - Rotation Period (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Uranus rotates in about 17.2 h, between Neptune (16 h) and Earth (24 h); no tie."
+  },
+  {
+   "id": null,
+   "Name": "Neptune",
+   "Description": "About -201 °C (cloud-top, 1 bar level)",
+   "Category": "Planets - Average Surface Temperature (Hot to Cold)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version accepted: Neptune has no solid surface, so the qualifier keeps the reveal accurate; still the coldest."
+  },
+  {
+   "id": null,
+   "Name": "Femto",
+   "Description": "10^-15",
+   "Category": "SI Prefixes (Smallest to Largest)",
+   "action": "add",
+   "note": "New card (debate): Correct SI prefix, sits below Pico, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Umayyad Mosque (Damascus)",
+   "Description": "715 CE (completed under al-Walid I)",
+   "Category": "Famous Mosques Construction (Chronological - Estimated)",
+   "action": "add",
+   "note": "New card (debate): Famous mosque missing from deck; 715 is after Al-Aqsa c. 705 and before Cordoba 784, no tie."
+  },
+  {
+   "id": null,
+   "Name": "Ibn Tulun Mosque (Cairo)",
+   "Description": "879 CE",
+   "Category": "Famous Mosques Construction (Chronological - Estimated)",
+   "action": "add",
+   "note": "New card (debate): Completed 879 CE; unique year between Samarra 848 and Al-Azhar 970."
   }
  ]
 }
