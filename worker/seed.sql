@@ -1225,6 +1225,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1223','game1','Dulhan','Bride with mehndi on her wedding day','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1224','game1','Bhabhi','Your brother''s wife','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1225','game1','Ruqayyah','Prophet''s daughter who migrated to Abyssinia','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1226','game1','Asr','Afternoon prayer of four rakat','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1227','game1','Isha','Night prayer that ends with Witr','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1228','game1','Israfil','Angel who will blow the trumpet on Judgement Day','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1229','game1','Mikail','Angel in charge of rain and provision','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1230','game1','Miraj','Night journey through the heavens when prayers were gifted','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1231','game1','Ashura','Tenth of Muharram, a day of fasting','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1232','game1','Sirat','Bridge every soul must cross on Judgement Day','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1233','game1','Rumi','Persian poet of the Mathnawi buried in Konya','Muslim Historical Figures');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
