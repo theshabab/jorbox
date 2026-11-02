@@ -13309,10 +13309,10 @@
   {
    "id": null,
    "Name": "Parts of Salah",
-   "Description": "Niyyah|Takbeer|Qiyam|Surah Fatiha|Short Surah|Ruku|Qauma|Sujood|Jalsa|Qadah|Tashahhud|Durood|Salam|Sana|Taawwuz|Tasmiyah|Ameen|Dua Masura|Rakat|Tasbeeh",
+   "Description": "Niyyah|Takbeer|Qiyam|Surah Fatiha|Short Surah|Ruku|Qauma|Sujood|Jalsa|Qadah|Tashahhud|Durood|Salam|Sana|Taawwuz|Tasmiyah|Ameen|Dua Masura",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Parts of prayer, well known; corrected Qaida to Qadah and removed non-parts/overlaps."
+   "note": "New card (debate): Parts of prayer, well known; corrected Qaida to Qadah and removed non-parts/overlaps.; Debate: Rakat is a unit and Tasbeeh is mainly recited after Salah, so neither is a part of it. 18 clear words remain."
   },
   {
    "id": null,
@@ -13613,10 +13613,10 @@
   {
    "id": null,
    "Name": "Famous Bridges",
-   "Description": "Lansdowne Bridge|Attock Bridge|Jinnah Bridge|Hussaini Suspension Bridge|Golden Gate Bridge|Tower Bridge|Brooklyn Bridge|Sydney Harbour Bridge|Rialto Bridge|Bosphorus Bridge|Charles Bridge|Howrah Bridge",
+   "Description": "Lansdowne Bridge|Attock Bridge|Jinnah Bridge|Hussaini Suspension Bridge|Howrah Bridge|Golden Gate Bridge|Tower Bridge|Brooklyn Bridge|Sydney Harbour Bridge|Bosphorus Bridge",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New topic; challenger's amendment removes the Ayub/Lansdowne pair and obscure Stari Most."
+   "note": "New card (debate): New topic; challenger's amendment removes the Ayub/Lansdowne pair and obscure Stari Most.; Debate: Drops obscure Charles/Rialto; Howrah is better known than Kohala. Keeps 10 words."
   },
   {
    "id": null,
@@ -13785,6 +13785,54 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): Drawable local tradesman. The unrelated spider web decoy is replaced with a close local scene."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Taraweeh Night",
+   "Description": "Imam|Hafiz Sahib|Saf|Prayer Mat|Quran Recitation|Rakat Count|Khatam Night|Mithai Distribution|Water Cooler|Shoe Rack|Loudspeaker|Chairs for Elders|Children in the Back Row|Late Comers|Tasbeeh|Wudu Area|Topi|Masjid Carpet|Isha Prayer|Witr",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Ramadan scene using the challenger's Taraweeh-specific word list."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Kebab Stall",
+   "Description": "Charcoal Grill|Skewers|Naan|Raita|Mint Chutney|Sliced Onions|Lemon Wedges|Hand Fan|Smoke|Steel Plate|Queue|Tandoor|Paratha Roll|Tawa|Coal|Chilli Powder|Menu Board|Takeaway Box|Cook|Salt Shaker",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Uses the deck spelling and focuses on the stall, so it does not overlap the Kebabs and BBQ card."
+  },
+  {
+   "id": null,
+   "Name": "Things on a House Painter's Job",
+   "Description": "Paint Bucket|Brush|Roller|Ladder|Putty Knife|Sandpaper|Distemper|Enamel Paint|Thinner|Old Newspapers|Masking Tape|Whitewash|Colour Chart|Paint Splatters|Scaffolding|Plaster|Primer|Cloth Rag|Ustaad|Helper Boy",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh local trade scene with well-known words and no existing painter-job card."
+  },
+  {
+   "id": null,
+   "Name": "I read the Quran with translation at least once a week.",
+   "Description": "I read the Quran every day.|I listen to tafseer lectures.|I memorised a new surah this year.|I read the Quran mostly in Ramadan.|I understand what I recite in Salah.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal question the owner allows. The amended decoys stay close to the real prompt."
+  },
+  {
+   "id": null,
+   "Name": "A beggar knocks at your gate just as you sit down for iftar. You...",
+   "Description": "give him food from your own table|give him money and send him away|ask him to come back after iftar",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Relatable local dilemma with three distinct options."
+  },
+  {
+   "id": null,
+   "Name": "Draw a roadside sabeel.",
+   "Description": "Draw a water cooler at a masjid.|Draw a juice cart.|Draw a hand pump.|Draw a water tanker.|Draw a tea stall.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New drawable local scene with close decoys."
   }
  ]
 }

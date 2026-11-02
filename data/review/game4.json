@@ -5045,7 +5045,7 @@
     "Description": "You get to pick the next book for our book club! What are you picking?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency with sibling personal questions."
+   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency with sibling personal questions.; Debate: Harmless category fill."
   },
   {
    "id": "game4-389",
@@ -5058,7 +5058,7 @@
     "Description": "Imagine you were going to a two week camp in the woods... what ONE comfort item would you bring with you?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Hyphenates the compound adjective.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency."
+   "note": "Debate: Hyphenates the compound adjective.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency.; Debate: Harmless category fill."
   },
   {
    "id": "game4-390",
@@ -5201,7 +5201,7 @@
     "Description": "A sure fire phrase that would cheer you up is \"____\".",
     "Category": "Enough About You"
    },
-   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency."
+   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency.; Debate: Harmless category fill."
   },
   {
    "id": "game4-401",
@@ -5466,15 +5466,15 @@
   {
    "id": "game4-421",
    "Name": "____",
-   "Description": "If you have kids, they can be anything they want when they grow up EXCEPT ____.",
-   "Category": "Enough About You",
+   "Description": "If you had children, they could be anything they wanted when they grow up EXCEPT ____.",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "____",
     "Description": "If you were to have kids, they can be anything they want when they grow up EXCEPT....",
     "Category": "Enough About You"
    },
-   "note": "wording, blank"
+   "note": "wording, blank; Debate: Hypothetical phrasing fits players without kids (challenger amendment)."
   },
   {
    "id": "game4-422",
@@ -5539,7 +5539,7 @@
     "Description": "Think of a cringey moment from your life that still bothers you, what did it involve?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Fix comma splice.; Debate: Adds the missing personal-question category.; Debate: Fills the empty category for consistency."
+   "note": "Debate: Fix comma splice.; Debate: Adds the missing personal-question category.; Debate: Fills the empty category for consistency.; Debate: Harmless category fill."
   },
   {
    "id": "game4-427",
@@ -5552,7 +5552,7 @@
     "Description": "What must a perfect night in include?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Clearer, less Western phrasing than 'night in'.; Debate: Adds the missing personal-question category.; Debate: Fills the empty category for consistency."
+   "note": "Debate: Clearer, less Western phrasing than 'night in'.; Debate: Adds the missing personal-question category.; Debate: Fills the empty category for consistency.; Debate: Harmless category fill."
   },
   {
    "id": "game4-428",
@@ -5617,7 +5617,7 @@
     "Description": "What piece of clothing or accessory makes you feel super confident or - at least - more confident?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Remove clumsy aside.; Debate: Adds the missing personal-question category.; Debate: Fills blank category on a clean personal question."
+   "note": "Debate: Remove clumsy aside.; Debate: Adds the missing personal-question category.; Debate: Fills blank category on a clean personal question.; Debate: Harmless category fill."
   },
   {
    "id": "game4-433",
@@ -14584,6 +14584,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): True fact, no chameleon card; category corrected."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the one thing you always forget to pack for a trip, no matter how many times you check?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean, relatable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What was the first mobile phone you ever owned, and what do you remember most about it?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean nostalgia, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What did you secretly hope to find in your lunch box at school?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): No lunch box card exists."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is your favourite thing to do on a rainy day when the whole family is at home?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Activity question, distinct from the rainy-day food card."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "If you were the principal of your old school for one day, what is the first rule you would change?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New, funny, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the funniest thing you ever lost and then found in a very strange place?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New storytelling question; the existing Lost & Found cards are fact cards."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "Which family member would be the funniest to hand a microphone to at a wedding, and what would they say?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local personal question, no microphone card exists."
   }
  ]
 }

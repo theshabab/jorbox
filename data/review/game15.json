@@ -33097,6 +33097,70 @@
    "Category": "Battles of Islamic History (Chronological)",
    "action": "add",
    "note": "New card (debate): Major, well-established event of Islamic history; 1258 sits between Hattin 1187 and Ain Jalut 1260 with no tie. Mildly dark content is allowed."
+  },
+  {
+   "id": null,
+   "Name": "Ash-Shu'ara",
+   "Description": "227 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): Ash-Shu'ara (227) is the 2nd longest surah; without it the list is wrong."
+  },
+  {
+   "id": null,
+   "Name": "As-Saffat",
+   "Description": "182 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): 182 ayat, longer than An-Nisa (176); correct and missing."
+  },
+  {
+   "id": null,
+   "Name": "Ta-Ha",
+   "Description": "135 ayat",
+   "Category": "Longest Surahs (Ayat Count - Descending)",
+   "action": "add",
+   "note": "New card (debate): 135 ayat, longer than At-Tawbah (129); completes the list."
+  },
+  {
+   "id": null,
+   "Name": "Migration to Abyssinia",
+   "Description": "c. 615 CE - first Muslims leave Makkah for the Negus's protection",
+   "Category": "Seerah Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Well-established seerah milestone between 610 and the boycott; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Conquest of Makkah",
+   "Description": "630 CE - 8 AH, Ramadan, Makkah opened almost without fighting",
+   "Category": "Seerah Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording is more accurate; different category from the Ghazwas card, and its live there (edit, not remove)."
+  },
+  {
+   "id": null,
+   "Name": "Lucknow Pact",
+   "Description": "1916 - Congress and Muslim League agree on separate electorates",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Standard Pakistan Studies milestone missing between 1906 and 1930."
+  },
+  {
+   "id": null,
+   "Name": "Jinnah's Fourteen Points",
+   "Description": "1929 - Quaid-e-Azam's demands for Muslim rights",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Standard milestone just before the 1930 Allahabad Address; missing."
+  },
+  {
+   "id": null,
+   "Name": "Al-Biruni",
+   "Description": "c. 1030 CE - finished Kitab al-Hind about the subcontinent",
+   "Category": "Muslim Travellers and Mapmakers (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Locally relevant; distinct category and value from the existing birth-year card, so not a duplicate."
   }
  ]
 }
