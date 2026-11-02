@@ -12796,10 +12796,10 @@
   {
    "id": null,
    "Name": "paws",
-   "Description": "Dogs can only sweat through the pads of their ____, which is why they pant to cool down.",
+   "Description": "Dogs sweat mainly through the pads of their ____, but they cool down mostly by panting.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's safer wording kept."
+   "note": "New card (debate): Challenger's safer wording kept.; Debate: More accurate; answer unchanged."
   },
   {
    "id": null,
@@ -14408,6 +14408,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Relatable personal question, no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "himself",
+   "Description": "The Prophet (PBUH) said none of you truly believes until he loves for his brother what he loves for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "stories",
+   "Description": "In Surah Yusuf, Allah says He is telling the Prophet (PBUH) the 'best of ____'.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording follows Quran 12:3."
+  },
+  {
+   "id": null,
+   "Name": "third",
+   "Description": "The Prophet (PBUH) said that reciting Surah Al-Ikhlas is equal in reward to one ____ of the Quran.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "difficult",
+   "Description": "The Prophet (PBUH) told his companions: 'Make things easy and do not make them ____.'",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "silent",
+   "Description": "The Prophet (PBUH) said whoever believes in Allah and the Last Day should speak good or keep ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "beauty",
+   "Description": "The Prophet (PBUH) said, 'Allah is Beautiful and He loves ____.'",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith (Muslim), not in deck."
   }
  ]
 }

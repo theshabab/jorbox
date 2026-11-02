@@ -14431,6 +14431,62 @@
    "Category": "Animals",
    "action": "add",
    "note": "New card (debate): Familiar from Eid and Qurbani; distinct from Cow."
+  },
+  {
+   "id": null,
+   "Name": "Goose",
+   "Description": "Honk | Feathers | Pond | Golden Egg | Duck",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): Common bird absent from the deck; sound banned words."
+  },
+  {
+   "id": null,
+   "Name": "Stork",
+   "Description": "Laglag | Long Legs | Migration | Nest | Beak",
+   "Category": "Birds",
+   "action": "add",
+   "note": "New card (debate): Well-known bird, not in the deck; accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Horse Riding",
+   "Description": "Saddle | Reins | Gallop | Ghora | Jockey",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment applied: 'Rider' shares a stem with 'Riding', so Ghora and Jockey replace it."
+  },
+  {
+   "id": null,
+   "Name": "Software Developer",
+   "Description": "Code | Laptop | Bug | Programmer | Computer",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Modern occupation with no existing card; clues avoid the name's stem."
+  },
+  {
+   "id": null,
+   "Name": "Veterinarian",
+   "Description": "Animals | Doctor | Cow | Injection | Clinic",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): No vet card exists; fun to act out."
+  },
+  {
+   "id": null,
+   "Name": "Shah Jahan Mosque",
+   "Description": "Thatta | Mughal | Domes | Sindh | Echo",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Real Thatta mosque known for its domes and acoustics; not a duplicate of the Thatta city card."
+  },
+  {
+   "id": null,
+   "Name": "Mahabat Khan Mosque",
+   "Description": "Peshawar | Mughal | Governor | Qissa Khwani | Masjid",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Real Peshawar mosque (1630). Challenger's amendment applied: Qissa Khwani replaces the generic 'Courtyard'."
   }
  ]
 }

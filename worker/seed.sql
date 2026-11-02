@@ -2593,6 +2593,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1294','game2','Basket','Tokri | Weave | Fruit | Wicker | Carry','Kitchen Items');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1295','game2','Snail','Ghonga | Shell | Slow | Slime | Garden','Animals');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1296','game2','Calf','Bachra | Baby | Cow | Young | Milk','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1297','game2','Goose','Honk | Feathers | Pond | Golden Egg | Duck','Birds');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1298','game2','Stork','Laglag | Long Legs | Migration | Nest | Beak','Birds');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1299','game2','Horse Riding','Saddle | Reins | Gallop | Ghora | Jockey','Sports');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1300','game2','Software Developer','Code | Laptop | Bug | Programmer | Computer','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1301','game2','Veterinarian','Animals | Doctor | Cow | Injection | Clinic','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1302','game2','Shah Jahan Mosque','Thatta | Mughal | Domes | Sindh | Echo','Historical Places');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1303','game2','Mahabat Khan Mosque','Peshawar | Mughal | Governor | Qissa Khwani | Masjid','Historical Places');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game3','Jasoosi Club',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1','game3','Pakistani Cities','Karachi|Lahore|Islamabad|Rawalpindi|Faisalabad|Multan|Peshawar|Quetta|Sialkot|Gujranwala|Hyderabad|Abbottabad|Bahawalpur|Sargodha|Sukkur|Larkana|Sheikhupura|Jhelum|Rahim Yar Khan|Mardan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-2','game3','Islamic Prophets','Adam|Idris|Nuh|Hud|Saleh|Ibrahim|Lut|Ismail|Ishaq|Yaqub|Yusuf|Ayyub|Shuaib|Musa|Harun|Dawud|Sulaiman|Ilyas|Yunus|Isa','');
@@ -4574,7 +4581,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-836','game4','best friends','Researchers found that cows have ____ and feel stressed when they are separated from them.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-837','game4','poisonous','In 18th-century Europe, many people avoided tomatoes because they believed they were ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-838','game4','leisure','The English word "school" comes from an ancient Greek word meaning ____.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-839','game4','paws','Dogs can only sweat through the pads of their ____, which is why they pant to cool down.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-839','game4','paws','Dogs sweat mainly through the pads of their ____, but they cool down mostly by panting.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-840','game4','pressure','Look closely at an aeroplane window and you will find a tiny "breather hole" that helps balance the air ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-841','game4','kinship','The Prophet (PBUH) said whoever wants more provision and a longer life should keep ties of ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-842','game4','uff','In Surah Al-Isra, Allah tells us not to say even "____" to our parents when they grow old.','');
@@ -4776,6 +4783,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1038','game4','Retreat','Every evening at the Wagah border near Lahore, guards from Pakistan and India lower their flags in a ceremony called Beating ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1039','game4','____','What is the funniest thing you have ever seen written on the back of a rickshaw or truck?','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1040','game4','____','What is the one dish your family orders every single time you eat out?','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1041','game4','himself','The Prophet (PBUH) said none of you truly believes until he loves for his brother what he loves for ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1042','game4','stories','In Surah Yusuf, Allah says He is telling the Prophet (PBUH) the ''best of ____''.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1043','game4','third','The Prophet (PBUH) said that reciting Surah Al-Ikhlas is equal in reward to one ____ of the Quran.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1044','game4','difficult','The Prophet (PBUH) told his companions: ''Make things easy and do not make them ____.''','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1045','game4','silent','The Prophet (PBUH) said whoever believes in Allah and the Last Day should speak good or keep ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1046','game4','beauty','The Prophet (PBUH) said, ''Allah is Beautiful and He loves ____.''','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game5','Haiwani Pattay',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-1','game5','','My most embarrassing moment was when I ____ in front of the whole family.','Awkward Moments');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2','game5','','I accidentally called my teacher ____.','Awkward Moments');
@@ -9309,7 +9322,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4530','game5','','____? Reminds me of ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4531','game5','','____? Talk to me when you''ve experienced ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4532','game5','','____? What a load of ____.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4533','game5','','____. A straight road to divorce.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4533','game5','','____. A straight road to a family feud.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4534','game5','','____. Better with ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4535','game5','','____. Tastes so good on ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4536','game5','','____. Guaranteed to make me lose my temper.','');
@@ -9464,7 +9477,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4685','game5','','Doctors Without Borders is a much better organization than Doctors Without ____','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4686','game5','','The most memorable category you’d ever see on a quiz show','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4687','game5','','What unicorn meat tastes like','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4688','game5','','Something that should never be described as “juicy”','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4688','game5','','Something that should never be described as “crunchy”','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4689','game5','','The next big school play is going to be about ____','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4690','game5','','Good Idea: reusable bags. Bad Idea: reusable ____','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-4691','game5','','The weirdest thing your Uber driver could offer you','Quiplash');
@@ -11047,6 +11060,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6268','game5','','Why did the rishta aunty leave our house in a hurry without finishing her chai?','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6269','game5','','You know the shaadi food is almost finished when the aunties start ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6270','game5','','You should never lend your cousin ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6271','game5','','The nikah was delayed by an hour because the dulha couldn''t find ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6272','game5','','The photographer shouted, "Everyone look at the camera!" but the whole family was busy with ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6273','game5','','Why is the dulha wearing sunglasses at his own nikah?','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6274','game5','','A terrible name for a shaadi hall: ____ Palace','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6275','game5','','What Phuppo whispers to the bride in the middle of the nikah','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6276','game5','','My reel went viral for all the wrong reasons because of ____ in the background.','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6277','game5','','Nobody is allowed to touch the last piece of ____ at the dawat. Ammi is watching.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game6','Categories Game',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-1','game6','','Pakistani Cities','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-2','game6','','Prophets Named in the Quran','');

@@ -81919,7 +81919,7 @@
   {
    "id": "game5-6302",
    "Name": "",
-   "Description": "____. A straight road to divorce.",
+   "Description": "____. A straight road to a family feud.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -81927,7 +81927,7 @@
     "Description": "____. A STRAIGHT ROAD TO DIVORCE.",
     "Category": ""
    },
-   "note": "case"
+   "note": "case; Debate: Divorce joke is a poor fit for mixed family play; same joke with a family-feud frame."
   },
   {
    "id": "game5-6303",
@@ -84220,15 +84220,15 @@
   {
    "id": "game5-6479",
    "Name": "",
-   "Description": "Something that should never be described as “juicy”",
+   "Description": "Something that should never be described as “crunchy”",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Something that should never be described as “juicy”",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Avoids the gossip and crude answers invited by 'juicy'; keeps the format and category."
   },
   {
    "id": "game5-6480",
@@ -105317,6 +105317,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Simple relatable prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The nikah was delayed by an hour because the dulha couldn't find ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: matches the deck's 'nikah' spelling. The justification that nikah is missing was wrong, but the card is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The photographer shouted, \"Everyone look at the camera!\" but the whole family was busy with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Group-photo chaos is clean and distinct from the existing photographer cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Why is the dulha wearing sunglasses at his own nikah?",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Short question prompt, clean and with no duplicate. It is a question rather than a fill-in-the-blank, so it goes in Quiplash."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A terrible name for a shaadi hall: ____ Palace",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Local naming prompt in the proven 'worst restaurant' format; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What Phuppo whispers to the bride in the middle of the nikah",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: spelling matches the deck's 'Phuppo' and 'nikah'."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My reel went viral for all the wrong reasons because of ____ in the background.",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Social media is an allowed theme; the card is clean and distinct from the existing viral cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nobody is allowed to touch the last piece of ____ at the dawat. Ammi is watching.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Dawat food-guarding joke with a different angle from the kheer and 'last piece split' cards."
   }
  ]
 }
