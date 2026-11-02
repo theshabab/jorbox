@@ -7832,6 +7832,24 @@
    "Name": "Name something you check on your phone first thing in the morning.",
    "action": "add",
    "note": "New card (debate): Answers cluster (time, WhatsApp, messages, weather); distinct from existing morning cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a brand of soap.",
+   "action": "add",
+   "note": "New card (debate): Challenger's single-product wording; not in deck, answers converge (Lux, Safeguard, Dettol, Dove)."
+  },
+  {
+   "id": null,
+   "Name": "Name a toffee or candy kids buy from the kiryana shop.",
+   "action": "add",
+   "note": "New card (debate): Local nostalgic prompt, not in deck; amended wording drops the price that would go stale."
+  },
+  {
+   "id": null,
+   "Name": "Name a sharbat or drink served to guests in summer.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the live food-for-guests card and the fruit/winter-drink cards; answers (Rooh Afza, lemon, Sandal) converge."
   }
  ]
 }

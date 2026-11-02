@@ -12371,6 +12371,36 @@
    "Name": "Punctuality",
    "action": "add",
    "note": "New card (debate): Not in deck; abstract virtue noun, welcomed"
+  },
+  {
+   "id": null,
+   "Name": "Visa",
+   "action": "add",
+   "note": "New card (debate): Plain travel-document noun, easy to act out, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Heritage",
+   "action": "add",
+   "note": "New card (debate): Valid abstract noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Gardener",
+   "action": "add",
+   "note": "New card (debate): Common local occupation, easy to act, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Driver",
+   "action": "add",
+   "note": "New card (debate): Everyday figure in Pakistani households, not in deck (screwdriver is a different word)."
+  },
+  {
+   "id": null,
+   "Name": "Patriotism",
+   "action": "add",
+   "note": "New card (debate): Abstract noun that fits the Flag and Freedom cards, not in deck."
   }
  ]
 }

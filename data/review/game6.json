@@ -5522,6 +5522,30 @@
    "Description": "Things That Fall (Rain, Leaves, Snow, Prices...)",
    "action": "add",
    "note": "New card (debate): Open category with many answers; distinct from Things That Go Up and Down."
+  },
+  {
+   "id": null,
+   "Description": "Things Fixed With Jugaar (Tape, Rubber Band, Safety Pin, Wire...)",
+   "action": "add",
+   "note": "New card (debate): Relatable desi category with many answers; no jugaar card exists in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things Pakistanis Complain About (Load Shedding, Petrol Prices, Traffic...)",
+   "action": "add",
+   "note": "New card (debate): Funny, everyone has answers; no complaint card in deck. The challenger's C1 is the same card and is not a separate change."
+  },
+  {
+   "id": null,
+   "Description": "Things Sold Outside a Masjid on Jummah (Attar, Topi, Miswak, Tasbeeh...)",
+   "action": "add",
+   "note": "New card (debate): Distinct local scene with enough guessable answers; only 'Things You Do on Jummah' is nearby and it is about actions."
+  },
+  {
+   "id": null,
+   "Description": "Texting Short Forms (LOL, BRB, Plz, JZK, Thx...)",
+   "action": "add",
+   "note": "New card (debate): Clean, common to all players, many answers; not in deck."
   }
  ]
 }
