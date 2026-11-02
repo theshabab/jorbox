@@ -13851,10 +13851,10 @@
   {
    "id": null,
    "Name": "Bhabhi",
-   "Description": "Bhai | Wife | Devar | Brother | Sister-in-law",
+   "Description": "Bhai | Wife | Devar | Jethani | Sister-in-law",
    "Category": "Family Relations",
    "action": "add",
-   "note": "New card (debate): Not in deck; amended to drop redundant Bhaiya."
+   "note": "New card (debate): Not in deck; amended to drop redundant Bhaiya.; Debate: Challenger's amendment: replace duplicate Brother with Jethani and keep the natural Sister-in-law describer."
   },
   {
    "id": null,
@@ -13891,10 +13891,10 @@
   {
    "id": null,
    "Name": "Mikail",
-   "Description": "Angel | Rain | Clouds | Jibreel | Quran",
+   "Description": "Angel | Rain | Clouds | Jibreel | Provision",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "New card (debate): Challenger's amended version: drops Western 'Michael' and the less certain 'Provision'."
+   "note": "New card (debate): Challenger's amended version: drops Western 'Michael' and the less certain 'Provision'.; Debate: Provision/rain is the angel's actual role; Quran was misleading."
   },
   {
    "id": null,
@@ -14247,6 +14247,62 @@
    "Category": "Nature",
    "action": "add",
    "note": "New card (debate): Simple actable word, not a card duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Dajjal",
+   "Description": "Fitna | Akhir uz Zaman | One Eye | Masih | Deceiver",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Not in deck; accurate hadith figure."
+  },
+  {
+   "id": null,
+   "Name": "Munkar Nakir",
+   "Description": "Angels | Grave | Questions | Rabb | Barzakh",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Not in deck; accurate and fits theme."
+  },
+  {
+   "id": null,
+   "Name": "Kawthar",
+   "Description": "Jannah | River | Prophet | Surah | Hawd",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Not in deck; facts correct."
+  },
+  {
+   "id": null,
+   "Name": "Shirk",
+   "Description": "Tawheed | Sin | Partner | Allah | Idols",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: Idols is a more natural describer word than Greatest."
+  },
+  {
+   "id": null,
+   "Name": "Tawheed",
+   "Description": "Oneness | Allah | Shirk | Kalima | Belief",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Not in deck; core term with natural banned words."
+  },
+  {
+   "id": null,
+   "Name": "Kafan",
+   "Description": "White | Janaza | Cloth | Burial | Wrapped",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Only appears as a banned word on Janaza; not its own card."
+  },
+  {
+   "id": null,
+   "Name": "Eidgah",
+   "Description": "Eid | Open Ground | Namaz | Khutbah | Takbeer",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Not in deck; very familiar in Pakistan."
   }
  ]
 }

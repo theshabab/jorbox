@@ -71053,13 +71053,13 @@
    "Name": "",
    "Description": "What if ____ is just, like, in your mind, you know?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What if ____ is just, like, in your mind, you know?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Stoner-style phrasing, unclear"
   },
   {
    "id": "game5-5467",
@@ -71326,13 +71326,13 @@
    "Name": "",
    "Description": "What is happening right now in India?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What is happening right now in India?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites hateful answers about another country"
   },
   {
    "id": "game5-5488",
@@ -72015,13 +72015,13 @@
    "Name": "",
    "Description": "What is the true meaning of Eid?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What is the true meaning of Eid?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites jokes about a religious festival; rewrite would duplicate live Eid cards"
   },
   {
    "id": "game5-5541",
@@ -72845,15 +72845,15 @@
   {
    "id": "game5-5604",
    "Name": "",
-   "Description": "What ruined my last barbecue at Gaddafi Stadium?",
+   "Description": "What ruined my last family barbecue at Jilani Park?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What ruined my last barbecue at Gaddafi Stadium?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Stadium is not a barbecue spot; Jilani Park is a real Lahore park"
   },
   {
    "id": "game5-5605",
@@ -73196,15 +73196,15 @@
   {
    "id": "game5-5631",
    "Name": "",
-   "Description": "What was always concealed inside Quaid-e-Azam's Jinnah cap?",
+   "Description": "What was always hidden inside Quaid-e-Azam's cap?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What was always concealed inside Quaid-e-Azam's Jinnah cap?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fix redundant wording"
   },
   {
    "id": "game5-5632",
@@ -73599,28 +73599,28 @@
   {
    "id": "game5-5662",
    "Name": "",
-   "Description": "What will put some hair on your chest?",
+   "Description": "What will make you big and strong like a pehlwan?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What will put some hair on your chest?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Crude body idiom replaced with local strength frame"
   },
   {
    "id": "game5-5663",
    "Name": "",
-   "Description": "What will the groom think of when he first sees the bride on their wedding day?",
+   "Description": "What will the groom say first when he sees the bride's family on the wedding day?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What will the groom think of when he first sees the bride on their wedding day?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Original invites romantic answers"
   },
   {
    "id": "game5-5664",
@@ -73729,15 +73729,15 @@
   {
    "id": "game5-5672",
    "Name": "",
-   "Description": "What would our forefathers think of today's military?",
+   "Description": "What would our grandfathers think of today's army?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What would our forefathers think of today's military?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localise 'forefathers' phrasing without adding another Subedar Major card"
   },
   {
    "id": "game5-5673",
@@ -73937,15 +73937,15 @@
   {
    "id": "game5-5688",
    "Name": "",
-   "Description": "What's a surefire way to get detention?",
+   "Description": "What's a surefire way to get sent to the principal's office?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's a surefire way to get detention?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Detention' is US school term"
   },
   {
    "id": "game5-5689",
@@ -74134,13 +74134,13 @@
    "Name": "",
    "Description": "What's hot, smelly, and about to die?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What's hot, smelly, and about to die?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Crude, invites gross or cruel answers"
   },
   {
    "id": "game5-5704",
@@ -74238,26 +74238,26 @@
    "Name": "",
    "Description": "What's in the box?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What's in the box?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Film reference, not playable without it"
   },
   {
    "id": "game5-5712",
    "Name": "",
-   "Description": "What's in the briefcase?",
+   "Description": "What's in the briefcase the PM's secretary won't let anyone touch?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's in the briefcase?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes film reference, local political frame"
   },
   {
    "id": "game5-5713",
@@ -74613,7 +74613,7 @@
   {
    "id": "game5-5740",
    "Name": "",
-   "Description": "What's the absolute last thing you want to catch your Dad doing at a family get-together?",
+   "Description": "What is the most embarrassing thing Dad does at family get-togethers?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -74621,7 +74621,7 @@
     "Description": "What's the absolute last thing you want to catch your Dad doing?",
     "Category": ""
    },
-   "note": "invited crude answers; Debate: Drops wedding/dancing answers without adding to the heavy dawat theme (challenger amendment)."
+   "note": "invited crude answers; Debate: Drops wedding/dancing answers without adding to the heavy dawat theme (challenger amendment).; Debate: Original invites crude answers"
   },
   {
    "id": "game5-5741",
@@ -105181,6 +105181,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Distinct relatable family scenario."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The dulha's friends were asked to leave the walima because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct clean wedding situation"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Taya Abu's famous advice on every Eid: always carry ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Taya not in deck, clean"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Tayi Ammi's secret to finding the perfect rishta is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct rishta prompt, clean"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My burger cousin's Instagram bio says: '____'.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Uncovered Instagram bio angle, social media allowed"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What is Chacha's go-to excuse when the family asks him to help with the cooking?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh family situation"
   }
  ]
 }

@@ -10111,7 +10111,7 @@
    "Description": "Mariam al-Fihri, whose sister founded the famous al-Qarawiyyin university, built the ____ Mosque in Fez, Morocco.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The current text names Fatima al-Fihri, which gives away the answer to the deck's al-Qarawiyyin founder card (692). The rewrite keeps her name hidden and is accurate: Mariam founded the Mosque of the Andalusians around 859.; Debate: Fact correct; fills the empty category.; Debate: Fills missing category; fact correct."
+   "note": "New card; Debate: The current text names Fatima al-Fihri, which gives away the answer to the deck's al-Qarawiyyin founder card (692). The rewrite keeps her name hidden and is accurate: Mariam founded the Mosque of the Andalusians around 859.; Debate: Fact correct; fills the empty category.; Debate: Fills missing category; fact correct.; Debate: Fact correct; fills empty category."
   },
   {
    "id": null,
@@ -10503,7 +10503,7 @@
    "Description": "The Statue of Liberty is made of thin sheets of shiny, reddish-brown ____, which slowly turned green in the weather.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Fixes the illogical old wording; accurate.; Debate: Fills missing category; world-famous landmark so the US-centric rule does not apply."
+   "note": "New card; Debate: Fixes the illogical old wording; accurate.; Debate: Fills missing category; world-famous landmark so the US-centric rule does not apply.; Debate: Fact correct and world-famous; fills empty category."
   },
   {
    "id": null,
@@ -14328,6 +14328,22 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate local landmark with plausible fake answers; no existing Fairy Meadows card."
+  },
+  {
+   "id": null,
+   "Name": "Margalla",
+   "Description": "Islamabad, planned as a new capital in the 1960s, was built at the foot of the green ____ Hills.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate local fact, not duplicated by the Faisal Mosque or Pakistan Monument cards."
+  },
+  {
+   "id": null,
+   "Name": "enamel",
+   "Description": "The hardest substance in the human body is tooth ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Correct, surprising, no duplicate in deck."
   }
  ]
 }
