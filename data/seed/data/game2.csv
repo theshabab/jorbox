@@ -1105,7 +1105,7 @@ Motorway,M2 | Toll | Islamabad | Lanes | Speed,Transport
 Jhoomar,Side | Hair | Bride | Hanging | Chandelier,Jewelry
 Flood,Water | Rain | Sailab | Village | Rescue,Nature
 Canal,Nehar | Water | Irrigation | Lahore | Boat,Nature
-Dust,Dhool | Gard | Furniture | Sneeze | Wipe,Nature
+Dust,Dhool | Mitti | Furniture | Sneeze | Wipe,Nature
 Extension Board,Plug | Sockets | Wire | Switch | Adapter,Electronics
 Hair Dryer,Blow | Wet | Hot | Salon | Styling,Electronics
 Needle,Sui | Thread | Sew | Sharp | Haystack,Tools
@@ -1140,7 +1140,7 @@ Hunza,Karakoram | Karimabad | Baltit | Apricot | Gilgit,Pakistani Cities
 Hajar al-Aswad,Black Stone | Kaaba | Corner | Tawaf | Silver,Islamic Locations
 Aurangzeb Alamgir,Mughal | Emperor | Badshahi | Fatawa | Sixth,Muslim Historical Figures
 Shah Jahan,Taj Mahal | Mughal | Emperor | Mumtaz | Shalimar,Muslim Historical Figures
-Jibreel,Angel | Wahi | Gabriel | Messenger | Quran,Islamic Terms
+Jibreel,Angel | Wahi | Messenger | Quran | Ruh ul Amin,Islamic Terms
 Ludo,Dice | Board | Token | Six | Home,Sports
 Fairy Meadows,Nanga Parbat | Raikot | Jeep | Camping | Diamer,Nature
 Deosai,Plateau | Skardu | Brown Bear | Sheosar | Wildflowers,Nature
@@ -1163,17 +1163,17 @@ Chitral,Tirich Mir | Kalash | Valley | KPK | Shandur,Pakistani Cities
 Barzakh,Grave | Between | Death | Qiyamah | Waiting,Islamic Terms
 Mihrab,Niche | Imam | Qibla | Masjid | Arch,Islamic Terms
 Minbar,Khutbah | Imam | Steps | Jummah | Pulpit,Islamic Terms
-Ayat ul Kursi,Verse | Throne | Protection | Baqarah | Bedtime,Islamic Terms
+Ayat ul Kursi,Baqarah | Protection | Bedtime | 255 | Greatest | Quran,Islamic Terms
 Surah Al-Fatiha,Opening | Seven | Every Rakat | Alhamdulillah | Chapter,Islamic Terms
 Dhul Hijjah,Month | Hajj | Twelfth | Arafat | Qurbani,Islamic Terms
 Hilal,Crescent | Moon | Eid | Sighting | Ruet,Islamic Terms
 Thatta,Makli | Sindh | Shah Jahan Mosque | Indus | Old Capital,Pakistani Cities
 Neelum Valley,Kashmir | River | Kel | Arang Kel | Muzaffarabad,Nature
 Roti,Flour | Tawa | Round | Chapati | Bread,Traditional Dishes
-Matchbox,Diyasalai | Flame | Strike | Stick | Light,Tools
+Matchbox,Maachis | Flame | Strike | Stick | Light,Tools
 Naan,Tandoor | Bread | Flour | Kulcha | Garlic,Traditional Dishes
 Kaleji,Liver | Tawa | Eid | Qurbani | Fry,Traditional Dishes
-Dera Ghazi Khan,Punjab | Balochi | Sakhi Sarwar | Indus | DG Khan,Pakistani Cities
+Dera Ghazi Khan,Punjab | Baloch | Sakhi Sarwar | Fort Munro | Sulaiman Range | Indus,Pakistani Cities
 Mianwali,Niazi | Punjab | Indus | Chashma | Air Force,Pakistani Cities
 Nankana Sahib,Punjab | Gurdwara | Guru Nanak | Sheikhupura | Sikh,Pakistani Cities
 Jackfruit,Kathal | Huge | Spiky | Sabzi | Tree,Fruits
@@ -1191,7 +1191,7 @@ Hyena,Lakar Baggha | Laugh | Scavenger | Pack | Spotted,Animals
 Bull,Saand | Horns | Male | Cow | Bail,Animals
 Seagull,Sea | Karachi | Beach | White | Fish,Birds
 Yak,Gilgit | Mountain | Hair | Ox | Himalaya,Animals
-Marbles,Kanchay | Glass | Gali | Flick | Circle,Sports
+Marbles,Kanchay | Bantay | Glass | Flick | Circle,Sports
 Mountaineering,K2 | Summit | Rope | Karakoram | Everest,Sports
 Uch Sharif,Bahawalpur | Tombs | Blue Tiles | Sufi | Multan,Historical Places
 Takht-i-Bahi,Mardan | Buddhist | Monastery | Hilltop | Gandhara,Historical Places
@@ -1262,3 +1262,13 @@ Hijama,Cupping | Sunnah | Back | Cups | Blood,Islamic Terms
 Surma,Eyes | Sunnah | Black | Kohl | Applicator,Islamic Terms
 Iceberg,Ship | Tip | Floating | Polar | Melt,Nature
 Ajwa Dates,Madinah | Sunnah | Black | Sweet | Morning,Fruits
+Takbeer,Allahu Akbar | Salah | Eid | Raise Hands | Loud,Islamic Terms
+Qiyamah,Judgement | Israfil | Trumpet | Hisab | End of World,Islamic Terms
+Fidya,Missed Fast | Feed | Poor | Ramadan | Elderly,Islamic Terms
+Tashahhud,Attahiyyat | Sitting | Salah | Finger | Shahada,Islamic Terms
+Khubayb ibn Adi,Rajee | Captured | Quraysh | Two Rakat | Martyr,Sahaba
+Sawdah bint Zamah,Umm ul Momineen | Khadija | Makkah | Abyssinia | Wife,Sahaba
+Jacobabad,Hottest | Sindh | Summer | Balochistan Border | 50 Degrees,Pakistani Cities
+Padlock,Taala | Key | Door | Shop | Metal,Tools
+Drought,Rain | Dry | Thar | Crops | Famine,Nature
+Cliff,Edge | Mountain | Fall | Steep | Rock,Nature

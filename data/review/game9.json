@@ -247,14 +247,14 @@
   },
   {
    "id": "game9-23",
-   "Name": "What is the name for South Asian food cooked over charcoal in a clay oven?",
-   "Description": "Tandoori",
+   "Name": "What is the name of the traditional South Asian clay oven used to cook naan, tikka and kebabs?",
+   "Description": "Tandoor",
    "action": "edit",
    "original": {
     "Name": "What is the name given to Indian food cooked over charcoal in a clay oven?",
     "Description": "Tandoori"
    },
-   "note": "Debate: The tandoor is as Pakistani as it is Indian, so this frame is accurate and closer to home for players."
+   "note": "Debate: The tandoor is as Pakistani as it is Indian, so this frame is accurate and closer to home for players.; Debate: Clearer question with one unambiguous answer."
   },
   {
    "id": "game9-24",
@@ -1184,12 +1184,12 @@
    "id": "game9-108",
    "Name": "What is the capital city of Bermuda?",
    "Description": "Hamilton",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the capital city of Bermuda?",
     "Description": "Hamilton"
    },
-   "note": ""
+   "note": "Debate: Obscure territory capital with weak value."
   },
   {
    "id": "game9-109",
@@ -1459,12 +1459,12 @@
    "id": "game9-133",
    "Name": "What is the capital of British Columbia, Canada?",
    "Description": "Victoria",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is the capital of British Columbia, Canada?",
     "Description": "Victoria"
    },
-   "note": ""
+   "note": "Debate: Obscure and shares the answer Victoria with the live Seychelles card."
   },
   {
    "id": "game9-134",
@@ -1811,12 +1811,12 @@
    "id": "game9-165",
    "Name": "What type of animal is a natterjack?",
    "Description": "Toad",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What type of animal is a natterjack?",
     "Description": "Toad"
    },
-   "note": ""
+   "note": "Debate: Too obscure and not bluffable."
   },
   {
    "id": "game9-166",
@@ -13511,6 +13511,48 @@
    "Description": "Nouakchott",
    "action": "add",
    "note": "New card (debate): Correct; Mauritania is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Thailand?",
+   "Description": "Bangkok",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in the deck, Asian capital."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of the Netherlands?",
+   "Description": "Amsterdam",
+   "action": "add",
+   "note": "New card (debate): Accurate; only removed Amsterdam cards exist; The Hague is a good wrong guess."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of the Philippines?",
+   "Description": "Manila",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in the deck, Quezon City is a plausible bluff."
+  },
+  {
+   "id": null,
+   "Name": "What is the smallest and shallowest of the world's five oceans?",
+   "Description": "The Arctic Ocean",
+   "action": "add",
+   "note": "New card (debate): Accurate, no existing smallest-ocean card."
+  },
+  {
+   "id": null,
+   "Name": "Which shy, scaly mammal that curls into a ball when threatened lives in Pakistan and is heavily poached?",
+   "Description": "Pangolin",
+   "action": "add",
+   "note": "New card (debate): Accurate with a local angle, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which animals are the longest-living land animals, sometimes reaching over 150 years?",
+   "Description": "Giant tortoises",
+   "action": "add",
+   "note": "New card (debate): Accurate, no existing tortoise card."
   }
  ]
 }

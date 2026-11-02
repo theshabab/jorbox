@@ -12915,10 +12915,10 @@
   {
    "id": null,
    "Name": "Dust",
-   "Description": "Dhool | Gard | Furniture | Sneeze | Wipe",
+   "Description": "Dhool | Mitti | Furniture | Sneeze | Wipe",
    "Category": "Nature",
    "action": "add",
-   "note": "New card (debate): Correct Urdu (Dhool, not Mitti) and distinct clues."
+   "note": "New card (debate): Correct Urdu (Dhool, not Mitti) and distinct clues.; Debate: Mitti is what players say; Gard is obscure."
   },
   {
    "id": null,
@@ -13195,10 +13195,10 @@
   {
    "id": null,
    "Name": "Jibreel",
-   "Description": "Angel | Wahi | Gabriel | Messenger | Quran",
+   "Description": "Angel | Wahi | Messenger | Quran | Ruh ul Amin",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "New card (debate): Amended version: drops 'Revelation', which duplicates Wahi."
+   "note": "New card (debate): Amended version: drops 'Revelation', which duplicates Wahi.; Debate: Gabriel is just the English form of the name (giveaway)."
   },
   {
    "id": null,
@@ -13379,10 +13379,10 @@
   {
    "id": null,
    "Name": "Ayat ul Kursi",
-   "Description": "Verse | Throne | Protection | Baqarah | Bedtime",
+   "Description": "Baqarah | Protection | Bedtime | 255 | Greatest | Quran",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "New card (debate): Well-known and accurate; absent from the deck."
+   "note": "New card (debate): Well-known and accurate; absent from the deck.; Debate: Verse and Throne translate the name directly; replaced with better hints."
   },
   {
    "id": null,
@@ -13435,10 +13435,10 @@
   {
    "id": null,
    "Name": "Matchbox",
-   "Description": "Diyasalai | Flame | Strike | Stick | Light",
+   "Description": "Maachis | Flame | Strike | Stick | Light",
    "Category": "Tools",
    "action": "add",
-   "note": "New card (debate): Challenger's amendment: Diyasalai is the better local clue than the awkward 'Gas Stove'."
+   "note": "New card (debate): Challenger's amendment: Diyasalai is the better local clue than the awkward 'Gas Stove'.; Debate: Maachis is the word everyone says; Diyasalai is formal."
   },
   {
    "id": null,
@@ -13459,10 +13459,10 @@
   {
    "id": null,
    "Name": "Dera Ghazi Khan",
-   "Description": "Punjab | Balochi | Sakhi Sarwar | Indus | DG Khan",
+   "Description": "Punjab | Baloch | Sakhi Sarwar | Fort Munro | Sulaiman Range | Indus",
    "Category": "Pakistani Cities",
    "action": "add",
-   "note": "New card (debate): Major city missing from deck."
+   "note": "New card (debate): Major city missing from deck.; Debate: Removes DG Khan giveaway; challenger's amendment avoids Taunsa, now a separate district."
   },
   {
    "id": null,
@@ -13603,10 +13603,10 @@
   {
    "id": null,
    "Name": "Marbles",
-   "Description": "Kanchay | Glass | Gali | Flick | Circle",
+   "Description": "Kanchay | Bantay | Glass | Flick | Circle",
    "Category": "Sports",
    "action": "add",
-   "note": "New card (debate): Classic street game, not in deck."
+   "note": "New card (debate): Classic street game, not in deck.; Debate: Gali is ambiguous; Bantay is the Urdu word."
   },
   {
    "id": null,
@@ -14167,6 +14167,86 @@
    "Category": "Fruits",
    "action": "add",
    "note": "New card (debate): Hadith-linked, accurate; no existing Ajwa Dates card."
+  },
+  {
+   "id": null,
+   "Name": "Takbeer",
+   "Description": "Allahu Akbar | Salah | Eid | Raise Hands | Loud",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Missing common term, easy to act; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Qiyamah",
+   "Description": "Judgement | Israfil | Trumpet | Hisab | End of World",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Core concept missing as a card (only used as banned word); accurate."
+  },
+  {
+   "id": null,
+   "Name": "Fidya",
+   "Description": "Missed Fast | Feed | Poor | Ramadan | Elderly",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Distinct from Kaffarah; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Tashahhud",
+   "Description": "Attahiyyat | Sitting | Salah | Finger | Shahada",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Amended: Last Rakat inaccurate as the sitting also occurs mid-prayer."
+  },
+  {
+   "id": null,
+   "Name": "Khubayb ibn Adi",
+   "Description": "Rajee | Captured | Quraysh | Two Rakat | Martyr",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Accurate Sahabi story, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sawdah bint Zamah",
+   "Description": "Umm ul Momineen | Khadija | Makkah | Abyssinia | Wife",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Mother of the Believers missing from deck; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Jacobabad",
+   "Description": "Hottest | Sindh | Summer | Balochistan Border | 50 Degrees",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Famous city missing; replaced near-synonym Heat with a distinct hint."
+  },
+  {
+   "id": null,
+   "Name": "Padlock",
+   "Description": "Taala | Key | Door | Shop | Metal",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Everyday item missing from deck."
+  },
+  {
+   "id": null,
+   "Name": "Drought",
+   "Description": "Rain | Dry | Thar | Crops | Famine",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Missing nature card with local hints."
+  },
+  {
+   "id": null,
+   "Name": "Cliff",
+   "Description": "Edge | Mountain | Fall | Steep | Rock",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Simple actable word, not a card duplicate."
   }
  ]
 }
