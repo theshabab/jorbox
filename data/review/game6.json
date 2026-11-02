@@ -2993,9 +2993,9 @@
   },
   {
    "id": null,
-   "Description": "Battles in Islamic History",
+   "Description": "Battles in Islamic History (Badr, Uhud, Khandaq, Yarmuk...)",
    "action": "add",
-   "note": "New card (debate): Accurate, with many well-known answers (Badr, Uhud, Khandaq, Khaibar, Hunain, Yarmouk, Qadisiyyah, Hattin, Ain Jalut). Nothing like it is in the deck."
+   "note": "New card (debate): Accurate, with many well-known answers (Badr, Uhud, Khandaq, Khaibar, Hunain, Yarmouk, Qadisiyyah, Hattin, Ain Jalut). Nothing like it is in the deck.; Debate: Examples clarify the expected answer level; facts are accurate and no depictions are involved."
   },
   {
    "id": null,
@@ -5492,6 +5492,36 @@
    "Description": "Pakistani National Heroes (Edhi, Jahangir Khan, Major Aziz Bhatti, Fatima Jinnah...)",
    "action": "add",
    "note": "New card (debate): Challenger's version avoids subjective 'proud' wording, contentious examples and celebrity drift; answerable by all ages."
+  },
+  {
+   "id": null,
+   "Description": "Things You Eat With a Spoon (Kheer, Soup, Ice Cream, Custard...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: unambiguous spoon foods, no existing spoon category in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things That Sink",
+   "action": "add",
+   "note": "New card (debate): Many easy answers; not a duplicate of Things That Float."
+  },
+  {
+   "id": null,
+   "Description": "Winter Snacks (Moongphali, Gajak, Rewri, Chikki...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: Chikki is more familiar than Chilgoza; distinct from generic Pakistani Snacks and Dry Fruits."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Rectangular",
+   "action": "add",
+   "note": "New card (debate): Completes the shapes series with many easy answers; no duplicate found."
+  },
+  {
+   "id": null,
+   "Description": "Things That Fall (Rain, Leaves, Snow, Prices...)",
+   "action": "add",
+   "note": "New card (debate): Open category with many answers; distinct from Things That Go Up and Down."
   }
  ]
 }

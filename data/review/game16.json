@@ -9650,10 +9650,10 @@
   },
   {
    "id": null,
-   "Name": "Who in your family always carries a tiny first-aid kit in their bag, with a Disprin, a safety pin and a band-aid for every emergency?",
+   "Name": "Who in your family always carries a tiny first-aid kit in their bag, with a Disprin, a safety pin and a patti for every emergency?",
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card (debate): Challenger's amended version adopted: avoids overlap with the missing-charger and random-bag-item cards."
+   "note": "New card (debate): Challenger's amended version adopted: avoids overlap with the missing-charger and random-bag-item cards.; Debate: Replaces the US brand term band-aid with the local patti."
   },
   {
    "id": null,
@@ -9750,8 +9750,8 @@
    "id": null,
    "Name": "Which kind of chai are you: kadak, doodh patti, kahwa or sabz chai? Why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "add",
-   "note": "New card (debate): Challenger's amendment: options Pakistani players recognise (replaces sulaimani)."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of the live added card 'Doodh patti or kahwa? Defend your choice.' (action add, not removed), so only this one is removed."
   },
   {
    "id": null,
@@ -10158,6 +10158,34 @@
    "Category": "Deep & ThoughtProvoking",
    "action": "add",
    "note": "New card (debate): Accurate (94:5-6), respectful, reflective and not yet in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Do you remember the day you, a sibling or a cousin completed reading the whole Quran for the first time (ameen)? How did the family celebrate?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Respectful family milestone not covered; distinct from the Quran-teacher card."
+  },
+  {
+   "id": null,
+   "Name": "Did you ever share a room with your siblings or cousins? What were the unwritten rules, and who always broke them?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Relatable shared-room family life, no existing card."
+  },
+  {
+   "id": null,
+   "Name": "Who taught you to drive (or ride a motorbike), and what is the funniest thing that happened during your first lesson?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): No driving-lesson card exists; distinct from the first-vehicle card."
+  },
+  {
+   "id": null,
+   "Name": "If you had a free month to learn one skill online (coding, graphic design, spoken English or cooking), which would you choose, and how could it help your family?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: a single natural follow-up question and a modern online-skills angle distinct from game16-110."
   }
  ]
 }

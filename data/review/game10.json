@@ -50,12 +50,12 @@
   },
   {
    "id": "game10-6",
-   "Name": "What is a good time to wake up?",
-   "action": "keep",
+   "Name": "Which prayer is the hardest to wake up for?",
+   "action": "edit",
    "original": {
     "Name": "What is a good time to wake up?"
    },
-   "note": ""
+   "note": "Debate: Numeric time answers never match; Fajr is a dominant matchable answer and worship questions are allowed."
   },
   {
    "id": "game10-7",
@@ -329,12 +329,12 @@
   },
   {
    "id": "game10-37",
-   "Name": "What is the best time to go to bed?",
-   "action": "keep",
+   "Name": "Name a reason you stay up late.",
+   "action": "edit",
    "original": {
     "Name": "What is the best time to go to bed?"
    },
-   "note": ""
+   "note": "Debate: Clock-time answers rarely match; reasons (phone, exams, cricket, chatting, work) cluster."
   },
   {
    "id": "game10-38",
@@ -7820,6 +7820,18 @@
    "Name": "Name something you put on a bed to sleep comfortably.",
    "action": "add",
    "note": "New card (debate): Challenger's tighter bedding prompt is clearer and overlaps less with the other bed cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a cure for hiccups.",
+   "action": "add",
+   "note": "New card (debate): Universal home remedies, no existing hiccup card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you check on your phone first thing in the morning.",
+   "action": "add",
+   "note": "New card (debate): Answers cluster (time, WhatsApp, messages, weather); distinct from existing morning cards."
   }
  ]
 }
