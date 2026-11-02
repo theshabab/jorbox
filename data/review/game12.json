@@ -6557,12 +6557,12 @@
   },
   {
    "id": "game12-729",
-   "Name": "CD",
+   "Name": "Compact Disc",
    "action": "edit",
    "original": {
     "Name": "Game Cd"
    },
-   "note": "clearer wording"
+   "note": "clearer wording; Debate: Spells out the abbreviation as a plain noun."
   },
   {
    "id": "game12-730",
@@ -12167,6 +12167,36 @@
    "Name": "Uncle",
    "action": "add",
    "note": "New card (debate): Family noun that suits the audience. Chacha is a separate, more specific card, so this is not a true duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Prayer Rug",
+   "action": "add",
+   "note": "New card (debate): Common local object, not in deck, easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Ceiling Fan",
+   "action": "add",
+   "note": "New card (debate): Distinct from Fan and Hand Fan, very common household item."
+  },
+  {
+   "id": null,
+   "Name": "Inflation",
+   "action": "add",
+   "note": "New card (debate): Relatable abstract noun, not a synonym of any live card."
+  },
+  {
+   "id": null,
+   "Name": "Ramadan",
+   "action": "add",
+   "note": "New card (debate): Accurate Islamic noun missing from deck."
+  },
+  {
+   "id": null,
+   "Name": "Password",
+   "action": "add",
+   "note": "New card (debate): Everyday modern noun, not a duplicate."
   }
  ]
 }

@@ -4961,9 +4961,9 @@
   },
   {
    "id": null,
-   "Name": "Fries: Ketchup or Mayo?",
+   "Name": "Fries: Ketchup or Garlic Mayo?",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Garlic mayo is the usual Pakistani pairing, so the choice is more even."
   },
   {
    "id": null,
@@ -5069,9 +5069,9 @@
   },
   {
    "id": null,
-   "Name": "Name a type of hat or cap.",
+   "Name": "Name a type of hat, cap or topi.",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Challenger's amendment: adds topi for local answers without narrowing the hat answers."
   },
   {
    "id": null,
@@ -7652,6 +7652,42 @@
    "Name": "Name something villagers carry on their head.",
    "action": "add",
    "note": "New card (debate): Village frame avoids cap answers; matka, tokri, wood bundle."
+  },
+  {
+   "id": null,
+   "Name": "Name something made of clay (mitti).",
+   "action": "add",
+   "note": "New card (debate): Local, common matchable answers (matka, diya, kulhar); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something a farmer needs.",
+   "action": "add",
+   "note": "New card (debate): Fits village and farm cards; answers like tractor, seeds, water are matchable."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do at the masjid besides praying.",
+   "action": "add",
+   "note": "New card (debate): Respectful worship question, allowed; distinct from the other masjid cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a food that tastes sweet.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: pairs with the existing sour card and has a clear food scope."
+  },
+  {
+   "id": null,
+   "Name": "Name something that tastes bitter.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: karela, neem, medicine and coffee all fit."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal that gives wool.",
+   "action": "add",
+   "note": "New card (debate): High-matching answers (sheep, goat, camel); distinct from the milk card."
   }
  ]
 }

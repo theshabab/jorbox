@@ -5330,6 +5330,36 @@
    "Description": "Things People Search on Google (Weather, Cricket Score, Recipes, Namaz Timings...)",
    "action": "add",
    "note": "New card (debate): Modern and relatable with many answers; no existing search card."
+  },
+  {
+   "id": null,
+   "Description": "Farm Tools and Machines (Hal, Tractor, Daranti, Kassi...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's narrowed wording; checkable answers, not covered by Tools, Crops, or Village cards."
+  },
+  {
+   "id": null,
+   "Description": "Winter Vegetables (Gajar, Gobhi, Matar, Saag, Shalgam...)",
+   "action": "add",
+   "note": "New card (debate): Not in deck; deck has winter fruits and generic Vegetables only; many familiar local answers."
+  },
+  {
+   "id": null,
+   "Description": "Things You Buy Before School Reopens (Bag, Uniform, Copies, Shoes...)",
+   "action": "add",
+   "note": "New card (debate): Relatable; includes clothes and shoes so distinct from School Supplies."
+  },
+  {
+   "id": null,
+   "Description": "Wild Animals of Africa (Lion, Giraffe, Zebra, Rhino...)",
+   "action": "add",
+   "note": "New card (debate): Only Pakistan wild animals and zoo exist; 12+ well-known answers; overlap with Zoo acceptable."
+  },
+  {
+   "id": null,
+   "Description": "Things We Recite or Say After Namaz (Astaghfirullah, Subhanallah, Ayat-ul-Kursi...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's widened wording; accurate, respectful, 8+ distinct answers; distinct from dua occasions and greetings cards."
   }
  ]
 }
