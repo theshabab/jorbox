@@ -8769,8 +8769,8 @@
   {
    "id": null,
    "Name": "Jainamaz",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Spelling variant of Janamaz; verified Janamaz and Prayer Rug are live adds in game12.json, so one is not left without a prayer-mat card."
   },
   {
    "id": null,
@@ -12245,6 +12245,18 @@
    "Name": "Bookshelf",
    "action": "add",
    "note": "New card (debate): Everyday drawable object, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Blacksmith",
+   "action": "add",
+   "note": "New card (debate): Trade noun like Darzi/Dhobi, not in deck, easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Mulberry",
+   "action": "add",
+   "note": "New card (debate): Shahtoot, a common Pakistani summer fruit, distinct from Berry and Strawberry, not in deck."
   }
  ]
 }

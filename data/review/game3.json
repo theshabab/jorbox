@@ -11661,10 +11661,10 @@
   {
    "id": null,
    "Name": "Rocks and Minerals",
-   "Description": "Marble|Granite|Limestone|Sandstone|Slate|Rock Salt|Coal|Gypsum|Quartz|Chalk|Basalt|Onyx|Pumice|Flint|Pebble|Boulder|Gravel|Obsidian",
+   "Description": "Marble|Granite|Limestone|Sandstone|Slate|Rock Salt|Coal|Gypsum|Quartz|Chalk|Basalt|Onyx|Pumice|Flint|Obsidian",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended; geology topic missing, local Khewra salt and marble.; Debate: Lava is molten rock, not a rock or mineral; Obsidian is a real rock and not a repeat."
+   "note": "New card (debate): Amended; geology topic missing, local Khewra salt and marble.; Debate: Lava is molten rock, not a rock or mineral; Obsidian is a real rock and not a repeat.; Debate: Pebble, Boulder, Gravel are sizes not rock types."
   },
   {
    "id": null,
@@ -11837,10 +11837,10 @@
   {
    "id": null,
    "Name": "Natural Wonders",
-   "Description": "Great Barrier Reef|Victoria Falls|Niagara Falls|Grand Canyon|Dead Sea|Amazon Rainforest|Northern Lights|Lake Baikal|Ha Long Bay|Iguazu Falls|Cappadocia|Sundarbans|Lake Titicaca|Uluru|Deosai Plains|Fairy Meadows",
+   "Description": "Great Barrier Reef|Victoria Falls|Niagara Falls|Grand Canyon|Dead Sea|Amazon Rainforest|Northern Lights|Cappadocia|Sundarbans|Uluru|Deosai Plains|Fairy Meadows|Mount Everest|K2|Hunza Valley|Neelum Valley",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Nature gap with two Pakistani sites."
+   "note": "New card (debate): Nature gap with two Pakistani sites.; Debate: Replaced obscure Lake Baikal, Ha Long Bay, Iguazu Falls, Lake Titicaca with well-known sites."
   },
   {
    "id": null,
@@ -11943,8 +11943,8 @@
    "Name": "The best thing about a big family is...",
    "Description": "The hardest thing about a big family is...|The best thing about being an only child is...|The best thing about my neighbourhood is...|The most chaotic thing about family weddings is...|The best thing about being the eldest is...",
    "Category": "Writing",
-   "action": "add",
-   "note": "New card (debate): New family angle."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of live card 'The best thing about living in a joint family is...' (game3.json action add, not remove)."
   },
   {
    "id": null,
@@ -13657,6 +13657,70 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): On-theme Writing card; no live Writing card with this prompt."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Wheat Harvest",
+   "Description": "Darati|Thresher|Tractor Trolley|Bhoosa|Kisan|Labourers|Gunny Bags|Sheaves|Scarecrow|Lassi Jug|Golden Fields|Combine Harvester|Bullock Cart|Godown|Grain Mandi",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's tightened harvest-specific list; dropped awkward 'Sacks Being Stitched' (15 words)."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Blood Donation Camp",
+   "Description": "Donor Form|Nurse|Blood Bag|Cotton Ball|Plaster|Juice Box|Biscuits|Blood Group|Haemoglobin Test|Reclining Chair|Doctor|Needle|Thank-You Certificate|Blood Pressure Machine|Cold Box|Weight Check|Stress Ball|Ambulance",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version avoids overlap with Charity Drive card."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Tree Plantation Drive",
+   "Description": "Saplings|Shovel|Watering Can|Pit|Manure|Gloves|Tree Guards|Banner|Chief Guest|School Children|Water Tanker|Photo Session|Wheelbarrow|Nursery|Name Plates|Inauguration Plaque|Press Reporter|Speech|Tea Break|Ribbon Cutting",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's version with funnier drive-specific words and fewer Garden Items overlaps."
+  },
+  {
+   "id": null,
+   "Name": "I compare prices at three shops before buying anything.",
+   "Description": "I check prices online before going to the market.|I ask a relative to get it for me at a discount.|I read reviews before buying anything.|I make a shopping list and stick to it.|I always check the expiry date before buying.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Closer decoys; removes the opposite and duplicate ones."
+  },
+  {
+   "id": null,
+   "Name": "I have been part of a committee (bisi) with family or friends.",
+   "Description": "I prefer keeping my savings at home.|I trust banks more than committees.|I have lent money and never got it back.|I save a fixed amount every month.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Distinctly Pakistani money custom, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "A friend asks you to sign as a witness on a document you have not read. You...",
+   "Description": "read it first|sign out of trust|refuse to sign",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Clean honesty dilemma, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "A relative's shop has a weighing scale that is slightly off in his favour. You...",
+   "Description": "tell him to fix it|remind him that cheating in weights is a sin|say nothing",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Accurate Islamic-ethics dilemma, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Draw a tube well gushing water into a field.",
+   "Description": "Draw a hand pump.|Draw a canal.|Draw a farmer irrigating a field.|Draw a well with a bucket.|Draw a water tanker.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): More drawable prompt, decoys de-duplicated against nalka and rooftop tank cards."
   }
  ]
 }

@@ -15911,14 +15911,14 @@
   },
   {
    "id": "game7-1447",
-   "Description": "a squishy grapefruit for each hand",
+   "Description": "a squishy mango for each hand",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "a gooshy grapefruit for each hand",
     "Category": "Standard Prompts"
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Mango is far more familiar locally than grapefruit and the squishy joke survives."
   },
   {
    "id": "game7-1448",
@@ -16230,14 +16230,14 @@
   },
   {
    "id": "game7-1476",
-   "Description": "<PLAYER>'s favorite street food",
+   "Description": "<PLAYER>'s favorite street food stall",
    "Category": "Friend Mode Prompts",
    "action": "edit",
    "original": {
     "Description": "<PLAYER>'s favorite midnight snack",
     "Category": "Friend Mode Prompts"
    },
-   "note": "Debate: 'favorite midnight snack' overlaps 1492 '<PLAYER> sneaking a midnight snack'; street food is local and not duplicated in game7."
+   "note": "Debate: 'favorite midnight snack' overlaps 1492 '<PLAYER> sneaking a midnight snack'; street food is local and not duplicated in game7.; Debate: Adding 'stall' gives a drawable scene instead of just a dish."
   },
   {
    "id": "game7-1477",
@@ -17024,12 +17024,12 @@
    "id": "game7-1548",
    "Description": "<PLAYER>'s most cherished memory",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "<PLAYER>'s most cherished memory",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Same meaning as '<PLAYER>'s favorite memory with this group' (game7-1460), which is live (keep); only this one is removed."
   },
   {
    "id": "game7-1549",
@@ -17110,14 +17110,14 @@
   },
   {
    "id": "game7-1556",
-   "Description": "<PLAYER> is a dumpling now",
+   "Description": "<PLAYER> is a samosa now",
    "Category": "Friend Mode Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "<PLAYER> is a dumpling now",
     "Category": "Friend Mode Prompts"
    },
-   "note": ""
+   "note": "Debate: Lightly localises dumpling to samosa; funny, drawable and affectionate."
   },
   {
    "id": "game7-1557",
@@ -21631,6 +21631,41 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Challenger amendment: clear kitchen image, no overlap with kettle or cooker cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the captain of the gully cricket team",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, affectionate and drawable; no live duplicate."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as a shopkeeper who never has change",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable, affectionate, distinct from existing shopkeeper scenes."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> winning the family tug of war at the picnic",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Clean, drawable; existing tug-of-war cards (alien, scorpion) are different scenes."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER>'s mango-eating technique",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable and local; distinct from carrying six mangoes."
+  },
+  {
+   "id": null,
+   "Description": "a cat stealing the last paratha from the nashta table",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Clean, funny local breakfast scene; existing paratha cards are different."
   }
  ]
 }
