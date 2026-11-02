@@ -1254,6 +1254,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1252','game1','Mizan','Scale on which deeds will be weighed','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1253','game1','Kaffarah','Expiation for deliberately breaking a Ramadan fast','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1254','game1','Gas Cylinder','Heavy refillable tank that fuels the stove','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1255','game1','K2','World''s second-highest peak, in the Karakoram','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1256','game1','Truck Art','Colourful flower paintings on highway trucks','Transport');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1257','game1','Cockroach','Kitchen pest that scurries away at night','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1258','game1','Lighthouse','Coastal tower that guides ships with a beam','Historical Places');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1259','game1','Ruqyah','Reciting Quran as a cure against nazar','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1260','game1','Hijama','Sunnah cupping therapy done on the back','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1261','game1','Surma','Sunnah black eye powder applied with a stick','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1262','game1','Iceberg','Floating polar ice with only its tip visible','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1263','game1','Ajwa Dates','Black sweet dates of Madinah','Fruits');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
