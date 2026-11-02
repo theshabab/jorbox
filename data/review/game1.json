@@ -14376,6 +14376,62 @@
    "Category": "Animals",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Goose",
+   "Description": "Large white farm bird that honks",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Stork",
+   "Description": "Laglag, long-legged migrating bird",
+   "Category": "Birds",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Horse Riding",
+   "Description": "Ghora sawari with a saddle and reins",
+   "Category": "Sports",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Software Developer",
+   "Description": "Writes programs on a laptop all day",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Veterinarian",
+   "Description": "Doctor who treats cows and pets",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Shah Jahan Mosque",
+   "Description": "Mughal mosque in Thatta famed for its echo",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Mahabat Khan Mosque",
+   "Description": "Mughal mosque in Peshawar near Qissa Khwani",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }

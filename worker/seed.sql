@@ -1296,6 +1296,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1294','game1','Basket','Tokri, woven carrier for fruit','Kitchen Items');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1295','game1','Snail','Ghonga, slow with a shell on its back','Animals');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1296','game1','Calf','Bachra, a baby cow','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1297','game1','Goose','Large white farm bird that honks','Birds');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1298','game1','Stork','Laglag, long-legged migrating bird','Birds');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1299','game1','Horse Riding','Ghora sawari with a saddle and reins','Sports');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1300','game1','Software Developer','Writes programs on a laptop all day','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1301','game1','Veterinarian','Doctor who treats cows and pets','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1302','game1','Shah Jahan Mosque','Mughal mosque in Thatta famed for its echo','Historical Places');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1303','game1','Mahabat Khan Mosque','Mughal mosque in Peshawar near Qissa Khwani','Historical Places');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
