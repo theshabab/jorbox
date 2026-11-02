@@ -7260,15 +7260,15 @@
   {
    "id": "game3-559",
    "Name": "I’m obsessed with politics.",
-   "Description": "I check the news every day.|I call in/text radio shows.|I regularly get into social media fights.",
+   "Description": "I check the news every day.|I watch political talk shows every night.|I regularly get into social media fights.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I’m obsessed with politics.",
     "Description": "I check the news every day.|I call in/text radio shows.|I regularly get into social media fights.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Radio call-in is US-centric; watching political talk shows is a common Pakistani habit (challenger amendment)."
   },
   {
    "id": "game3-560",
@@ -7468,15 +7468,15 @@
   {
    "id": "game3-575",
    "Name": "I hate cheese.",
-   "Description": "I love chocolate.|I’m kind of a big deal.|I’m humble.",
+   "Description": "I love chocolate.|I hate mayonnaise.|I love desi ghee.|I prefer chutney to ketchup.",
    "Category": "Rating",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "I hate cheese.",
     "Description": "I love chocolate.|I’m kind of a big deal.|I’m humble.",
     "Category": "Rating"
    },
-   "note": ""
+   "note": "Debate: Replaces unrelated decoys with close food-taste decoys."
   },
   {
    "id": "game3-576",
@@ -13465,6 +13465,46 @@
    "Category": "Rating",
    "action": "add",
    "note": "New card (debate): New dawat-etiquette Rating card."
+  },
+  {
+   "id": null,
+   "Name": "I give Eidi to children even when money is tight.",
+   "Description": "I enjoy giving gifts more than receiving them.|I save my Eidi for months.|I spend my Eidi on the first day.|I still expect Eidi from my elders.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Distinct Eidi angle (giving), local and relatable."
+  },
+  {
+   "id": null,
+   "Name": "I would rather ride a motorbike than sit in a car.",
+   "Description": "I love long motorbike rides.|I would rather drive than be a passenger.|I am scared of motorbikes.|I prefer a rickshaw to a bike.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani transport; simpler wording per challenger amendment."
+  },
+  {
+   "id": null,
+   "Name": "I can recite Surah Ar-Rahman from memory.",
+   "Description": "I can recite Ayatul Kursi from memory.|I know all four Quls by heart.|I listen to Quran recitation every day.|I would like to become a hafiz.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related personal question; accurate and no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I ask for the Wi-Fi password the moment I enter someone’s house.",
+   "Description": "I use mobile data everywhere.|I never ask for passwords.|I check my phone as soon as I sit down.|I would rather talk to people than use my phone at someone’s house.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable, no existing Rating card on this."
+  },
+  {
+   "id": null,
+   "Name": "I have hidden in my room to avoid guests.",
+   "Description": "I enjoy hosting guests.|I love visiting relatives.|I like quiet evenings at home.|I pretend to be asleep when guests arrive.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New family-life angle, funny and local."
   }
  ]
 }

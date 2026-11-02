@@ -16320,8 +16320,8 @@
   },
   {
    "id": "game15-1256",
-   "Name": "Standard Arabic",
-   "Description": "~330 million",
+   "Name": "French",
+   "Description": "~310 million",
    "Category": "World Languages (Total Speakers - High to Low)",
    "action": "edit",
    "original": {
@@ -16329,7 +16329,7 @@
     "Description": "273 million",
     "Category": "World Languages (Speakers)"
    },
-   "note": "updated to Ethnologue 2024 total speakers ; now ranks above French; Debate: Whole-category rename"
+   "note": "updated to Ethnologue 2024 total speakers ; now ranks above French; Debate: Whole-category rename; Debate: Idx 1254 Standard Arabic ~335M is live, so 1255 is a true duplicate. Editing it in place to French keeps the order correct (335, 310, 245) with no churn."
   },
   {
    "id": "game15-1257",
@@ -32681,6 +32681,54 @@
    "Category": "Popular Toys (Release Year)",
    "action": "add",
    "note": "New card (debate): Classic toy, released 1945, sorts before Lego 1958 and keeps the category full."
+  },
+  {
+   "id": null,
+   "Name": "Portuguese",
+   "Description": "~264 million",
+   "Category": "World Languages (Total Speakers - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Major language missing from the ranking; figure matches Ethnologue 2024."
+  },
+  {
+   "id": null,
+   "Name": "Russian",
+   "Description": "~255 million",
+   "Category": "World Languages (Total Speakers - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Ranks just above Urdu (~245M); not in this category."
+  },
+  {
+   "id": null,
+   "Name": "Umayyad Caliphate (Damascus)",
+   "Description": "750 (Abbasid Revolution)",
+   "Category": "Fall of Empires",
+   "action": "add",
+   "note": "New card (debate): Relevant to the audience; the Damascus qualifier avoids ambiguity with the Cordoba Umayyads, who fell in 1031."
+  },
+  {
+   "id": null,
+   "Name": "Mamluk Sultanate (Egypt)",
+   "Description": "1517 (Ottoman conquest)",
+   "Category": "Fall of Empires",
+   "action": "add",
+   "note": "New card (debate): Accurate date that sorts between 1453 and 1806; no Mamluk card in the category."
+  },
+  {
+   "id": null,
+   "Name": "Chandrayaan-3 (India)",
+   "Description": "Launched 2023 (landed near the Moon's south pole)",
+   "Category": "Space Missions (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate, regionally relevant, and the year is unique in the category."
+  },
+  {
+   "id": null,
+   "Name": "Copper",
+   "Description": "63.546",
+   "Category": "Elements by Atomic Mass",
+   "action": "add",
+   "note": "New card (debate): Correct standard atomic weight; fills the gap between Iron and Silver and matches the 3-decimal format."
   }
  ]
 }

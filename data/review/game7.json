@@ -10972,14 +10972,14 @@
   },
   {
    "id": "game7-998",
-   "Description": "emotional porches",
+   "Description": "emotional verandas",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "emotional porches",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Local equivalent of porches; joke intact."
   },
   {
    "id": "game7-999",
@@ -21463,6 +21463,20 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Silly local vegetable, drawable, bhindi is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a banyan tree hosting a whole village's gossip",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, drawable, no banyan card exists."
+  },
+  {
+   "id": null,
+   "Description": "the maths teacher discovers the chalk is missing, so he uses a samosa",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New absurd school scene; no chalk card exists."
   }
  ]
 }

@@ -2997,7 +2997,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-433','game3','I will ruin someone in this room... someday.','I like the people in this room.|I’m having a good time.|I look good today.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-434','game3','Short hair is the best hair.','I would dye my hair blue.|I look good today.|I spend a lot on my hair.|I wash my hair every day.|I wear a lot of hats.|Fashion is everything.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-435','game3','I wear my socks for days and days until I can’t stand the smell.','I hate doing laundry.|I wear the same clothes two days in a row.|I’m not very hygienic.|I always wash my clothes right away.','Rating');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-436','game3','I’m obsessed with politics.','I check the news every day.|I call in/text radio shows.|I regularly get into social media fights.','Rating');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-436','game3','I’m obsessed with politics.','I check the news every day.|I watch political talk shows every night.|I regularly get into social media fights.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-437','game3','I can’t eat dhania (coriander).','I can’t eat peanuts.|I want to go vegan.|I can’t eat baingan.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-438','game3','I’m hungry right now.','I’m hungry all the time.|I’m on a diet.|I’m a “foodie.”','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-439','game3','I can do an excellent British accent.','I enjoy iced tea.|I love to travel.|I can do a good American accent.|I can do a good impression of my teacher.|I’m a sports fan.|I’m a bit of a show-off.','Rating');
@@ -3013,7 +3013,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-449','game3','I could’ve topped my class if I tried harder.','I enjoyed school.|I’m one of the best people at my work.|I’m smart.|I’m motivated by money.|College is a waste of time.|I want to take night classes.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-450','game3','I’m scared of flying.','On a plane, give me the window seat.|I’m afraid of heights.|I get sick on flights.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-451','game3','I’m a morning person.','I love coffee.|I love a halwa puri breakfast.|I go to bed early.|I like to wake up early.|I’d rather stay up late than get up early.|I’d rather get up early than stay up late.','Rating');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-452','game3','I hate cheese.','I love chocolate.|I’m kind of a big deal.|I’m humble.','Rating');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-452','game3','I hate cheese.','I love chocolate.|I hate mayonnaise.|I love desi ghee.|I prefer chutney to ketchup.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-453','game3','I want to compete in a half-marathon.','I never have free time.|I worry about the future.|I waste a good amount of time on dumb things.|I like to work out.|I go to bed early.|I want to compete in a marathon.|I hike a lot.|I hate cold weather.|I hate getting up early.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-454','game3','I am superstitious.','I believe in ghosts.|I believe in lucky numbers.|An itchy palm means money is coming.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-455','game3','I have amazing fashion sense.','I would read a fashion magazine.|I love coffee.|I own a lot of clothes.|I spend too much on clothes.|I only need one good pair of jeans.|I love shopping.','Rating');
@@ -3692,6 +3692,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1128','game3','I can eat very spicy food without drinking any water.','I add green chillies to everything.|I prefer mild food.|I can’t eat anything without raita.|I drink lassi with spicy food.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1129','game3','I always carry cash, even though I have a banking app.','I never leave the house without my wallet.|I pay for everything with my phone.|I always keep emergency money hidden at home.|I never carry more than Rs 500.','Rating');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1130','game3','I prefer sitting on the floor to a chair when eating at a dawat.','I prefer eating at a dining table.|I always take second helpings at a dawat.|I always sit near the food at a dawat.|I eat with my hands whenever I can.','Rating');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1131','game3','I give Eidi to children even when money is tight.','I enjoy giving gifts more than receiving them.|I save my Eidi for months.|I spend my Eidi on the first day.|I still expect Eidi from my elders.','Rating');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1132','game3','I would rather ride a motorbike than sit in a car.','I love long motorbike rides.|I would rather drive than be a passenger.|I am scared of motorbikes.|I prefer a rickshaw to a bike.','Rating');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1133','game3','I can recite Surah Ar-Rahman from memory.','I can recite Ayatul Kursi from memory.|I know all four Quls by heart.|I listen to Quran recitation every day.|I would like to become a hafiz.','Rating');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1134','game3','I ask for the Wi-Fi password the moment I enter someone’s house.','I use mobile data everywhere.|I never ask for passwords.|I check my phone as soon as I sit down.|I would rather talk to people than use my phone at someone’s house.','Rating');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1135','game3','I have hidden in my room to avoid guests.','I enjoy hosting guests.|I love visiting relatives.|I like quiet evenings at home.|I pretend to be asleep when guests arrive.','Rating');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game4','Daal men Kaala',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1','game4','Big Macs','In 2021, Wisconsin resident Donald Gorske nabbed a Guinness world record for consuming 32,340 ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-2','game4','Sand','For over twenty years, Stanislava Montsvilene of Telšiai, Lithuania, has reportedly eaten ____ every day.','');
@@ -12437,7 +12442,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-783','game7','','goodbye ponytail helicopter lady','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-784','game7','','very aggressive attar','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-785','game7','','addicted to snuggling my cat :)','Standard Prompts');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-786','game7','','emotional porches','Standard Prompts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-786','game7','','emotional verandas','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-787','game7','','earthquake (girl power!)','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-788','game7','','bird-fed bird','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-789','game7','','such a glamorous camper','Standard Prompts');
@@ -13461,6 +13466,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1807','game7','','a ceiling fan so slow that the flies are overtaking it','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1808','game7','','<PLAYER> trying to carry all the grocery bags in one trip','Friend Mode Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1809','game7','','a bhindi that wants to be a giant rocket','Standard Prompts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1810','game7','','a banyan tree hosting a whole village''s gossip','Standard Prompts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1811','game7','','the maths teacher discovers the chalk is missing, so he uses a samosa','Standard Prompts');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game8','Dil ki Sun',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1','game8','NOT LIKELY <---> VERY VERY LIKELY','Make up a title for a book that is this likely to be the bestseller of the year','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-2','game8','UNLIKELY <---> VERY VERY LIKELY','Make up a title for a children''s book that is this likely to have a talking animal in it','Writing');
@@ -21382,7 +21389,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-857','game15','Hindi','~610 million','World Languages (Total Speakers - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-858','game15','Spanish','~560 million','World Languages (Total Speakers - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-859','game15','Standard Arabic','~335 million','World Languages (Total Speakers - High to Low)');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-860','game15','Standard Arabic','~330 million','World Languages (Total Speakers - High to Low)');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-860','game15','French','~310 million','World Languages (Total Speakers - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-861','game15','Urdu','~245 million','World Languages (Total Speakers - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-862','game15','German','~135 million','World Languages (Total Speakers - High to Low)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-863','game15','Earthworm','0','Animals By Leg Count');
@@ -22383,6 +22390,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1858','game15','Sony','1946 (as Tokyo Tsushin Kogyo)','Tech Companies (Founding Year)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1859','game15','Rolls-Royce','1906','Car Brands (Founding Year)');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1860','game15','Slinky','1945','Popular Toys (Release Year)');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1861','game15','Portuguese','~264 million','World Languages (Total Speakers - High to Low)');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1862','game15','Russian','~255 million','World Languages (Total Speakers - High to Low)');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1863','game15','Umayyad Caliphate (Damascus)','750 (Abbasid Revolution)','Fall of Empires');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1864','game15','Mamluk Sultanate (Egypt)','1517 (Ottoman conquest)','Fall of Empires');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1865','game15','Chandrayaan-3 (India)','Launched 2023 (landed near the Moon''s south pole)','Space Missions (Launch Year)');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1866','game15','Copper','63.546','Elements by Atomic Mass');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game16','GupShup',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-1','game16','What is your favorite kitchen utensil (belan, chimta, pressure cooker), and why?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-2','game16','If the world were full of clones of you, what would that world be like?','','Ice Breakers & Fun General');
