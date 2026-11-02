@@ -29149,10 +29149,10 @@
   {
    "id": null,
    "Name": "Pakola",
-   "Description": "1950 - Karachi",
+   "Description": "1950",
    "Category": "Soft Drinks (Introduction Year)",
    "action": "add",
-   "note": "New card (debate): Adds a classic Pakistani soft drink. 1950 does not clash with any other year in the category."
+   "note": "New card (debate): Adds a classic Pakistani soft drink. 1950 does not clash with any other year in the category.; Debate: Origin city is uncertain (early history is linked to East Pakistan); the year alone orders the card, between Fanta 1940 and Sprite 1961."
   },
   {
    "id": null,
@@ -33057,6 +33057,46 @@
    "Category": "Pakistani Cities by Population (2023 Census)",
    "action": "add",
    "note": "New card (debate): Major city missing from the population list. About 2.36 million places it between Gujranwala (~2.5 million) and Multan (~2.2 million). It is not a duplicate: the review file's only Peshawar add is under Altitude."
+  },
+  {
+   "id": null,
+   "Name": "Hong Kong Sixes",
+   "Description": "About 5-6 overs per side (6 players)",
+   "Category": "Cricket Formats (Length - Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Challenger's hedged wording accepted: over count varied between editions, but it is the shortest format either way, shorter than T10."
+  },
+  {
+   "id": null,
+   "Name": "Rawalpindi",
+   "Description": "About 508 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Familiar city; 508 m sits between Peshawar 331 m and Islamabad 540 m with no ties."
+  },
+  {
+   "id": null,
+   "Name": "Mecca-Cola",
+   "Description": "2002 - France",
+   "Category": "Soft Drinks (Introduction Year)",
+   "action": "add",
+   "note": "New card (debate): Muslim-world drink, 2002 is unique among live cards (1886-1987 plus Pakola 1950)."
+  },
+  {
+   "id": null,
+   "Name": "Battle of Zallaqah (Sagrajas)",
+   "Description": "1086 CE - Almoravids under Yusuf ibn Tashfin defeat Castile",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim victory in Spain; 1086 fits between Manzikert 1071 and Hattin 1187 with no tie."
+  },
+  {
+   "id": null,
+   "Name": "Siege of Baghdad",
+   "Description": "1258 CE - Mongols under Hulagu sack the Abbasid capital",
+   "Category": "Battles of Islamic History (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Major, well-established event of Islamic history; 1258 sits between Hattin 1187 and Ain Jalut 1260 with no tie. Mildly dark content is allowed."
   }
  ]
 }

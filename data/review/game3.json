@@ -12549,10 +12549,10 @@
   {
    "id": null,
    "Name": "Types of Karahi",
-   "Description": "Peshawari|Lahori|Namkeen|White|Dumba|Charsi|Mutton|Chicken|Makhni|Balti|Achari|Prawn",
+   "Description": "Peshawari|Lahori|Namkeen|White|Dumba|Charsi|Mutton|Chicken|Makhni|Balti|Achari|Prawn|Shinwari",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New karahi card; Butter dropped as duplicate of Makhni."
+   "note": "New card (debate): New karahi card; Butter dropped as duplicate of Makhni.; Debate: Adds the well-known Shinwari karahi and keeps Mutton, which is a common name parallel to Chicken."
   },
   {
    "id": null,
@@ -12989,10 +12989,10 @@
   {
    "id": null,
    "Name": "I pick up every call from an unknown number.",
-   "Description": "I never call back a missed call.|I let calls go to voicemail.|I reply to messages after a day.|I keep my phone on silent.|I answer my mother’s call on the first ring.",
+   "Description": "I never call back a missed call.|I let unknown calls ring out.|I reply to messages after a day.|I keep my phone on silent.|I answer my mother’s call on the first ring.",
    "Category": "Rating",
    "action": "add",
-   "note": "New card (debate): Relatable, splits a group, no duplicate."
+   "note": "New card (debate): Relatable, splits a group, no duplicate.; Debate: Voicemail is rare in Pakistan; the replacement decoy is local and close in subject."
   },
   {
    "id": null,
@@ -13125,18 +13125,18 @@
   {
    "id": null,
    "Name": "Scientific Instruments",
-   "Description": "Microscope|Telescope|Thermometer|Barometer|Stopwatch|Magnifying Glass|Weighing Balance|Measuring Cylinder|Voltmeter|Binoculars|Stethoscope|Ammeter|Compass|Seismograph|Rain Gauge|Calipers",
+   "Description": "Microscope|Telescope|Thermometer|Barometer|Stopwatch|Magnifying Glass|Weighing Balance|Measuring Cylinder|Voltmeter|Binoculars|Stethoscope|Ammeter|Compass|Seismograph|Rain Gauge|Spring Balance",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's coherent lab list; Lab Coat swapped for Retort Stand since a coat is not an instrument.; Debate: Beaker, Test Tube, Bunsen Burner etc. are lab apparatus, not instruments, and duplicate the Science Lab card; replaced with real instruments."
+   "note": "New card (debate): Challenger's coherent lab list; Lab Coat swapped for Retort Stand since a coat is not an instrument.; Debate: Beaker, Test Tube, Bunsen Burner etc. are lab apparatus, not instruments, and duplicate the Science Lab card; replaced with real instruments.; Debate: Replaces obscure Calipers with Spring Balance, a school-lab instrument. Speedometer is a vehicle gauge and would let in "
   },
   {
    "id": null,
    "Name": "Vitamins and Nutrients",
-   "Description": "Protein|Carbohydrates|Fats|Fibre|Vitamin A|Vitamin B12|Vitamin C|Vitamin D|Vitamin E|Vitamin K|Vitamin B6|Folic Acid|Omega-3|Antioxidants|Calcium|Iron|Iodine|Electrolytes",
+   "Description": "Protein|Carbohydrates|Fats|Fibre|Vitamin A|Vitamin B12|Vitamin C|Vitamin D|Vitamin E|Vitamin K|Vitamin B6|Folic Acid|Omega-3|Zinc|Calcium|Iron|Iodine|Electrolytes",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended version avoids overlap with the Chemical Elements card."
+   "note": "New card (debate): Amended version avoids overlap with the Chemical Elements card.; Debate: Antioxidants is a class of compounds, not a nutrient like the rest; Zinc fits the list."
   },
   {
    "id": null,
@@ -13721,6 +13721,70 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): More drawable prompt, decoys de-duplicated against nalka and rooftop tank cards."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Puncture Shop",
+   "Description": "Tube|Tyre Lever|Water Basin|Rubber Patch|Rubber Solution|Valve|Sandpaper|Bubbles|Nail|Old Tyres|Motorbike Wheel|Rickshaw Tyre|Stool|Pressure Gauge|Hand Pump|Chalk|Wheel Nuts|Cycle Tube|Tyre Rim|Hammer",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar local scene. The challenger's version drops words shared with the Mechanic's Workshop card and the duplicate Air Pump."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Mobile Load Shop",
+   "Description": "Easyload|Scratch Cards|SIM Cards|Fingerprint Scanner|CNIC Copy|Jazz Banner|Zong Banner|Telenor Banner|Money Transfer|Bill Payment|Receipt|Counter|Customer Queue|Tea Cup|Phone Charger|Earphones|Mobile Cover|Tempered Glass|Shop Boy|Signal Booster",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Common neighbourhood shop, distinct from the Mobile Repair Shop card; no duplicate found in the slice."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Bridal Boutique",
+   "Description": "Lehenga|Gharara|Farshi Shalwar|Heavy Dupatta|Mannequin|Trial Room|Embroidery Samples|Catalogue|Alterations|Advance Booking|Master Tailor|Sequins|Dabka Work|Zari|Bridal Jora|Fitting Appointment|Mirror|Gota Lace|Bridal Veil|Wedding Date Register",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh wedding-season setting. The amended version replaces generic words that overlap the Tailor's Shop card."
+  },
+  {
+   "id": null,
+   "Name": "Things at an Electrician's Shop",
+   "Description": "Wire|Switch|Socket|Bulb|Fuse|Plug|Extension Board|Tester|Pliers|Meter|Insulation Tape|Fan Regulator|Breaker|Doorbell|Stabilizer|Ladder|UPS Battery|Tube Light|Ceiling Fan|Energy Saver",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Everyday local shop. The amended version removes the Wire/Copper Wire near-duplicate and the obscure Capacitor and Soldering Iron."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Chicken Shop",
+   "Description": "Cage|Weighing Scale|Feathers|Chopping Block|Qeema Machine|Fresh Chicken|Plastic Bag|Cleaver|Blue Drum|Egg Tray|Eggs|Water Hose|Crates|Fan|Ice|Cut Pieces|Boneless|Kaleji Gurda|Customer Haggling|Shop Apron",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar shop. The amended version removes the Knife/Cleaver duplicate and the Chicks overlap with the Pet Shop."
+  },
+  {
+   "id": null,
+   "Name": "The best thing to say when Ammi asks why your room is still untidy is...",
+   "Description": "The best thing to say when Abbu asks about your result is...|The best thing to say when a guest asks where you were during the dawat is...|The best thing to say when the teacher asks for your homework is...|The best thing to say when Ammi asks who ate the last paratha is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Funny family-friendly writing prompt with closer family-scene decoys."
+  },
+  {
+   "id": null,
+   "Name": "Your friend gets the job you applied for and were rejected from. You...",
+   "Description": "congratulate them sincerely|stay away until it stops hurting|ask them to refer you",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Genuine character dilemma. The options are now three parallel actions."
+  },
+  {
+   "id": null,
+   "Name": "Draw an electrician on a ladder.",
+   "Description": "Draw a painter on a ladder.|Draw a plumber fixing a pipe.|Draw a man changing a bulb.|Draw a street lamp being repaired.|Draw a man climbing an electric pole.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Drawable local tradesman. The unrelated spider web decoy is replaced with a close local scene."
   }
  ]
 }

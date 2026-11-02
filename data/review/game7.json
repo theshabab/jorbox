@@ -17858,14 +17858,14 @@
   },
   {
    "id": "game7-1624",
-   "Description": "<PLAYER> doing secret stuff in the storeroom",
+   "Description": "<PLAYER> hiding in the storeroom so guests can't find them",
    "Category": "Friend Mode Prompts",
    "action": "edit",
    "original": {
     "Description": "<PLAYER> doing secret stuff in the attic",
     "Category": "Friend Mode Prompts"
    },
-   "note": "Debate: Few Pakistani homes have an attic; the storeroom keeps the same joke in a local setting."
+   "note": "Debate: Few Pakistani homes have an attic; the storeroom keeps the same joke in a local setting.; Debate: Replaces the vague, suggestive 'secret stuff' with a clean, drawable scene that keeps the local storeroom setting."
   },
   {
    "id": "game7-1625",
@@ -21666,6 +21666,48 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Clean, funny local breakfast scene; existing paratha cards are different."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> hunting for the phone charger that was right here a minute ago",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable and drawable. The only live charger card is the brain-on-charger joke, which is a different gag."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> fighting with cousins over the TV remote",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Family-friendly scene. Live remote cards are object prompts, not a player scene."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> posing for one wedding selfie with fourteen relatives",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct wedding scene, easy to draw. Not the same gag as the group-photo taker card."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> sleeping through the group chat's 300 messages",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Social media theme, affectionate. Differs from the family WhatsApp forwards cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> crying over a golgappa that was too spicy",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Player reaction gag, distinct from the queue-cutting golgappa card and the spicy-pani seller card."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> grabbing the last piece of chicken karahi before anyone else",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Light local food humour. The only karahi cards are the hot-karahi burn and the karahi-vs-naan card, neither a player scene."
   }
  ]
 }
