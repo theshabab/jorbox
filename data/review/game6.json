@@ -1238,21 +1238,21 @@
   },
   {
    "id": "game6-138",
-   "Description": "Events in Pakistani History",
+   "Description": "Events in Pakistani History (Lahore Resolution, Independence 1947, 1965 War, 1992 World Cup...)",
    "action": "edit",
    "original": {
     "Description": "Pakistani History Events"
    },
-   "note": "wording"
+   "note": "wording; Debate: Examples make the card playable; the challenger's version replaces the unfinished 1971 example with clear, well-known events."
   },
   {
    "id": "game6-139",
-   "Description": "Pakistan Movement Leaders",
+   "Description": "Pakistan Movement Leaders (Jinnah, Liaquat Ali Khan, Allama Iqbal...)",
    "action": "edit",
    "original": {
     "Description": "Pakistani Independence Leaders"
    },
-   "note": "accurate wording"
+   "note": "accurate wording; Debate: Accurate examples clarify scope and match the deck's hint style."
   },
   {
    "id": "game6-140",
@@ -2111,9 +2111,9 @@
   },
   {
    "id": null,
-   "Description": "Gharelu Totkay (Home Remedies)",
+   "Description": "Gharelu Totkay (Home Remedies Like Haldi Doodh, Shahd, Ajwain, Namak Walay Ghargharay...)",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Challenger's version uses deck-style parenthetical and natural Roman Urdu examples."
   },
   {
    "id": null,
@@ -2153,9 +2153,9 @@
   },
   {
    "id": null,
-   "Description": "Words That Rhyme With Chai (Urdu or English)",
+   "Description": "Words That Rhyme With Chai (Urdu or English: Bhai, Sky, Buy...)",
    "action": "add",
-   "note": "New card; Debate: States that both languages count without giving away answers."
+   "note": "New card; Debate: States that both languages count without giving away answers.; Debate: Keeps the explicit Urdu-or-English rule and gives examples from both languages."
   },
   {
    "id": null,
@@ -5480,6 +5480,18 @@
    "Description": "Hot Drinks for Cold Days (Kehwa, Doodh Patti, Haldi Doodh...)",
    "action": "add",
    "note": "New card (debate): Winter favourite with many easy answers, distinct from Tea Varieties and Sharbat cards."
+  },
+  {
+   "id": null,
+   "Description": "Kite Flying Words and Things (Patang, Dor, Manjha, Charkhi, Bo Kata...)",
+   "action": "add",
+   "note": "New card (debate): Fun desi category with plenty of answers; widened to words and things so it is not narrow, and distinct from the Strings or Dori card. Wording adjusted since Bo Kata is a word, not a thing."
+  },
+  {
+   "id": null,
+   "Description": "Pakistani National Heroes (Edhi, Jahangir Khan, Major Aziz Bhatti, Fatima Jinnah...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's version avoids subjective 'proud' wording, contentious examples and celebrity drift; answerable by all ages."
   }
  ]
 }

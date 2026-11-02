@@ -12287,6 +12287,60 @@
    "Name": "Thaal",
    "action": "add",
    "note": "New card (debate): Common household item, easy to draw, more specific than Plate/Tray."
+  },
+  {
+   "id": null,
+   "Name": "Badshahi Mosque",
+   "action": "add",
+   "note": "New card (debate): Famous Lahore landmark, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Minar-e-Pakistan",
+   "action": "add",
+   "note": "New card (debate): Iconic landmark, distinct from Minaret."
+  },
+  {
+   "id": null,
+   "Name": "Faisal Mosque",
+   "action": "add",
+   "note": "New card (debate): Well-known Islamabad landmark, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Seekh Kabab",
+   "action": "add",
+   "note": "New card (debate): Distinct dish from Chapli and Bun Kabab; common Pakistani food."
+  },
+  {
+   "id": null,
+   "Name": "Shami Kabab",
+   "action": "add",
+   "note": "New card (debate): Distinct dish, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Flyover",
+   "action": "add",
+   "note": "New card (debate): Everyday noun, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Petrol Pump",
+   "action": "add",
+   "note": "New card (debate): Familiar place, distinct from Pump and Hand Pump."
+  },
+  {
+   "id": null,
+   "Name": "Hand Sanitizer",
+   "action": "add",
+   "note": "New card (debate): Common household item, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Roundabout",
+   "action": "add",
+   "note": "New card (debate): Everyday road noun, distinct from Chowk."
   }
  ]
 }

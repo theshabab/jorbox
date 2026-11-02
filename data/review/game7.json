@@ -21708,6 +21708,62 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Light local food humour. The only karahi cards are the hot-karahi burn and the karahi-vs-naan card, neither a player scene."
+  },
+  {
+   "id": null,
+   "Description": "a cow in a school uniform on her first day of class",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a Suzuki pickup so overloaded with mangoes that everyone has to push it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, visual, distinct from the Mehran card."
+  },
+  {
+   "id": null,
+   "Description": "a samosa in a green jersey cheering in the stadium",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Clean, drawable, unique."
+  },
+  {
+   "id": null,
+   "Description": "a chai stall open for business on top of a snowy mountain peak",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct image, easy to draw."
+  },
+  {
+   "id": null,
+   "Description": "a fridge door so covered in magnets that it can barely open",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a falcon landing on a very nervous uncle's shoulder",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable, local flavour."
+  },
+  {
+   "id": null,
+   "Description": "a line of ants carrying a biscuit crumb in a doli on their shoulders",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording of the wedding-ant idea; drawable."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the family's chief mango cutter",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Warm, local, correct token use, distinct from other mango cards."
   }
  ]
 }
