@@ -11345,9 +11345,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-457','game6','','Things You Can Make at Home Instead of Buying','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-458','game6','','Animals That Live in Cold Places','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-459','game6','','Animals That Work for Humans','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-460','game6','','Animal Homes','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-460','game6','','Animal Homes (Nest, Den, Burrow, Hive...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-461','game6','','Animals That Live in Trees','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-462','game6','','Things Animals Eat','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-462','game6','','Foods Animals Eat (Grass, Bones, Nectar, Seeds...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-463','game6','','Things You Boil','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-464','game6','','Things You Eat Raw','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-465','game6','','Things You Hang on a Wall','');
@@ -11522,6 +11522,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-634','game6','','Excuses for Not Attending a Wedding','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-635','game6','','Things Kids Beg Their Parents to Buy','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-636','game6','','Things You Say to Politely Refuse More Food at a Dawat','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-637','game6','','Things That Make You Laugh','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-638','game6','','Things That Make You Happy','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-639','game6','','Things You Do to Stay Awake','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-640','game6','','Things You Say on a Phone Call (Hello, Awaz Nahi Aa Rahi...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-641','game6','','Things You Say to Cheer Someone Up','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-642','game6','','Ways to Save Electricity (Switch Off Fan, Use LED...)','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game7','NaqshNigar',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1','game7','','a cat in a wig wearing a bib','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-2','game7','','the crusty edge of the universe','Standard Prompts');
@@ -16365,6 +16371,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-869','game10','Name a sweet people give out when they hear good news.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-870','game10','Name a sport played in Pakistan besides cricket.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-871','game10','Name something you buy to prepare for Ramazan.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-872','game10','Name something you do after Jummah prayer.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-873','game10','Name something you find in a Pakistani courtyard (sehan).','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-874','game10','Name something you keep in the fridge besides food.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-875','game10','Name something people do to stay awake after sehri.','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -23010,3 +23020,4 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-903','game16','What scary story did your elders tell you to make you behave or go to sleep (chor aa jaye ga, jinn, ulti-latki churail)?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-904','game16','What was the first thing you bought with your first salary, and who did you share it with?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-905','game16','What is the funniest signboard or shop name you have seen in your city?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-906','game16','What is the most memorable Taraweeh or Eid prayer you have been part of?','','Deep & ThoughtProvoking');

@@ -4001,9 +4001,9 @@
   },
   {
    "id": null,
-   "Description": "Animal Homes",
+   "Description": "Animal Homes (Nest, Den, Burrow, Hive...)",
    "action": "add",
-   "note": "New card (debate): Not in the deck; plenty of answers (avoid sty)."
+   "note": "New card (debate): Not in the deck; plenty of answers (avoid sty).; Debate: Examples clarify players name the home."
   },
   {
    "id": null,
@@ -4013,9 +4013,9 @@
   },
   {
    "id": null,
-   "Description": "Things Animals Eat",
+   "Description": "Foods Animals Eat (Grass, Bones, Nectar, Seeds...)",
    "action": "add",
-   "note": "New card (debate): Easy, fun, not in the deck."
+   "note": "New card (debate): Easy, fun, not in the deck.; Debate: Examples clarify players name foods."
   },
   {
    "id": null,
@@ -5072,6 +5072,42 @@
    "Description": "Things You Say to Politely Refuse More Food at a Dawat",
    "action": "add",
    "note": "New card (debate): Distinctly local hospitality humour with many answers; wording long but clear."
+  },
+  {
+   "id": null,
+   "Description": "Things That Make You Laugh",
+   "action": "add",
+   "note": "New card (debate): Many easy clean answers, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things That Make You Happy",
+   "action": "add",
+   "note": "New card (debate): Wholesome with many answers, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do to Stay Awake",
+   "action": "add",
+   "note": "New card (debate): Relatable, many answers, distinct from sleep cards."
+  },
+  {
+   "id": null,
+   "Description": "Things You Say on a Phone Call (Hello, Awaz Nahi Aa Rahi...)",
+   "action": "add",
+   "note": "New card (debate): Familiar desi phrases, distinct from phone excuses card."
+  },
+  {
+   "id": null,
+   "Description": "Things You Say to Cheer Someone Up",
+   "action": "add",
+   "note": "New card (debate): Kind, many answers, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Save Electricity (Switch Off Fan, Use LED...)",
+   "action": "add",
+   "note": "New card (debate): Relevant to Pakistani bills, distinct from save money and electricity cards."
   }
  ]
 }

@@ -7466,6 +7466,30 @@
    "Name": "Name something you buy to prepare for Ramazan.",
    "action": "add",
    "note": "New card (debate): Shopping prompt with common answers (dates, besan, Rooh Afza, oil); distinct from the existing Ramazan activity, charity and worship cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do after Jummah prayer.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the existing 'do on Jummah' and 'wear to Jummah' cards, with shared answers (lunch, visit relatives, nap)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you find in a Pakistani courtyard (sehan).",
+   "action": "add",
+   "note": "New card (debate): Fresh home theme with common matching answers (charpai, hand pump, plants, clothesline)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you keep in the fridge besides food.",
+   "action": "add",
+   "note": "New card (debate): The twist separates it from the existing fridge card and gives funny shared answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do to stay awake after sehri.",
+   "action": "add",
+   "note": "New card (debate): Ramazan card with shared answers; distinct from the sehri food and sound cards."
   }
  ]
 }
