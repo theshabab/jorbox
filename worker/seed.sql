@@ -1280,6 +1280,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1278','game1','Tawheed','Belief in the oneness of Allah','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1279','game1','Kafan','White cloth a body is wrapped in for burial','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1280','game1','Eidgah','Open ground for the two festival prayers','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1281','game1','Jhang','Punjab city of the Heer-Ranjha legend on the Chenab','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1282','game1','Mansehra','Hazara town on the Karakoram Highway','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1283','game1','Narowal','Border city near the Kartarpur gurdwara','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1284','game1','Kabuli Pulao','Afghan rice with raisins, carrots and lamb','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1285','game1','Namkeen Gosht','Peshawari mutton cooked simply with just salt','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1286','game1','Lahori Fish','Crispy besan-coated fried fish of Lahore winters','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1287','game1','Sheermal','Saffron-tinted sweet tandoori bread','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1288','game1','Hing','Pungent resin used in tarka for daal','Spices');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
