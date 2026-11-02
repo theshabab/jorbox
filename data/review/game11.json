@@ -7706,9 +7706,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "Every time the ground shakes during an earthquake, I run out without my _____!",
+   "Description": "Whenever the ground shakes, I run out of the house without my _____!",
    "action": "add",
-   "note": "New card (debate): Challenger's amended version avoids the unproven dog claim; relevant to Pakistan."
+   "note": "New card (debate): Challenger's amended version avoids the unproven dog claim; relevant to Pakistan.; Debate: Removes the redundant 'during an earthquake'; keeps the format and idea."
   },
   {
    "id": null,
@@ -8843,6 +8843,27 @@
    "Description": "The pothole outside my house is now big enough to swallow _____!",
    "action": "add",
    "note": "New card (debate): No pothole card exists; noun blank fits."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I promised to bring dates for iftar, but I got distracted by _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording. The dates premise is new, and 'got distracted by' gives better answers than 'because of'."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The Friday khutba was beautiful, but I only remember _____!",
+   "action": "add",
+   "note": "New card (debate): Light worship-related personal question, which the owner allows. It is respectful and has no near duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Jummah Bazaar Vendor",
+   "action": "add",
+   "note": "New card (debate): Recognisable Pakistani weekly-market seller. Distinct enough from the live Street Vendor card."
   }
  ]
 }

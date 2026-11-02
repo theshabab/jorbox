@@ -7496,6 +7496,27 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): No repeat-order card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many unread notifications are on your phone right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct, checkable phone count; no live equivalent."
+  },
+  {
+   "id": null,
+   "Description": "How many times a day does someone at home ask if you have eaten yet?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Unique desi family humour; no live card covers it."
+  },
+  {
+   "id": null,
+   "Description": "How many almonds or other dry fruits do you eat in a typical day?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct local food habit; no dry-fruit card exists."
   }
  ]
 }

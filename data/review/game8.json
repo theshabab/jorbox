@@ -11990,6 +11990,38 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): No nervous batsman face card exists; cricket fits the audience."
+  },
+  {
+   "id": null,
+   "Name": "Smart way to spend Eidi <---> Wasteful way to spend Eidi",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable Eid theme with parallel wording; only a Small/Huge Eidi scale exists, no spending scale."
+  },
+  {
+   "id": null,
+   "Name": "Thrilling mela ride <---> Boring mela ride",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local fair theme; amended ends are true opposites; no mela scale exists."
+  },
+  {
+   "id": null,
+   "Name": "Good thing to keep in your school bag <---> Bad thing to keep in your school bag",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear parallel opposites, relatable, easy to play; existing school-bag cards are drawings."
+  },
+  {
+   "id": null,
+   "Name": "Cool nickname <---> Embarrassing nickname",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family and friends scale; amended ends are clearer opposites and it differs from the make-up-a-nickname tasks."
   }
  ]
 }
