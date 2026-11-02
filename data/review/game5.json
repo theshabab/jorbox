@@ -59546,15 +59546,15 @@
   {
    "id": "game5-4581",
    "Name": "",
-   "Description": "The firefighters have secret orders to let ____ burn.",
+   "Description": "The firefighters have secret orders to rescue ____ first.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The firefighters have secret orders to let ____ burn.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Keeps absurd-priority joke, avoids cruel answers."
   },
   {
    "id": "game5-4582",
@@ -59975,7 +59975,7 @@
   {
    "id": "game5-4614",
    "Name": "",
-   "Description": "The ideal way to punish people who throw litter out of car windows is to force-feed them ____.",
+   "Description": "The ideal way to punish people who throw litter out of car windows is to make them ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -59983,20 +59983,20 @@
     "Description": "The ideal way to punish those assholes who throw trash off the ship is to force-feed them ____.",
     "Category": ""
    },
-   "note": "profanity; localised"
+   "note": "profanity; localised; Debate: Softer punishment keeps the joke without cruelty."
   },
   {
    "id": "game5-4615",
    "Name": "",
    "Description": "The incredible awesomeness of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The incredible awesomeness of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Filler with no hook."
   },
   {
    "id": "game5-4616",
@@ -60560,15 +60560,15 @@
   {
    "id": "game5-4659",
    "Name": "",
-   "Description": "The military is set apart from other professions because Jawans must be prepared to use ____.",
+   "Description": "The military is set apart from other professions because Jawans must be prepared to carry ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The military is set apart from other professions because Jawans must be prepared to use ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Cleaner and funnier."
   },
   {
    "id": "game5-4660",
@@ -60729,15 +60729,15 @@
   {
    "id": "game5-4672",
    "Name": "",
-   "Description": "The most important person in the room on the day I give birth is ____.",
+   "Description": "The most important person in the room on the day of my wedding is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The most important person in the room on the day I give birth is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Better for mixed family groups."
   },
   {
    "id": "game5-4673",
@@ -61028,15 +61028,15 @@
   {
    "id": "game5-4695",
    "Name": "",
-   "Description": "The New World Order is really just ____ on steroids.",
+   "Description": "The New World Order is really just ____ in disguise.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The New World Order is really just ____ on steroids.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Keeps joke, avoids drug references."
   },
   {
    "id": "game5-4696",
@@ -61394,18 +61394,18 @@
    "Name": "",
    "Description": "The ones who hate war the most are the ones who ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The ones who hate war the most are the ones who ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Vague and weak."
   },
   {
    "id": "game5-4724",
    "Name": "",
-   "Description": "The only addiction I'll admit to is ____.",
+   "Description": "The only habit I'll admit to is ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -61413,7 +61413,7 @@
     "Description": "The only mind-altering substance I use is ____.",
     "Category": ""
    },
-   "note": "drugs reference removed"
+   "note": "drugs reference removed; Debate: Avoids drug/alcohol answers."
   },
   {
    "id": "game5-4725",
@@ -61810,26 +61810,26 @@
    "Name": "",
    "Description": "The phrase \"Pakistan Zindabad!\" should be shouted whenever ____ is combined with ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The phrase \"Pakistan Zindabad!\" should be hollered whenever ____ is combined with ____.",
     "Category": ""
    },
-   "note": "wording"
+   "note": "Debate: Trivialises national slogan; confusing double blank."
   },
   {
    "id": "game5-4756",
    "Name": "",
    "Description": "The phrase \"Fix Yourself!\" reminds me of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The phrase \"Fix Yourself!\" reminds me of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Obscure, unclear."
   },
   {
    "id": "game5-4757",
@@ -61873,15 +61873,15 @@
   {
    "id": "game5-4760",
    "Name": "",
-   "Description": "The PM is currently under fire from the opposing party for his \"extremist stance\" on ____.",
+   "Description": "The PM is currently under fire from the opposing party for his \"controversial stance\" on ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The PM is currently under fire from the opposing party for his \"extremist stance\" on ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Political joke kept, avoids 'extremist'."
   },
   {
    "id": "game5-4761",
@@ -62798,13 +62798,13 @@
    "Name": "",
    "Description": "The sweet sensation of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The sweet sensation of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Vague filler."
   },
   {
    "id": "game5-4832",
@@ -63045,13 +63045,13 @@
    "Name": "",
    "Description": "The topic of the next big scandal: ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The topic of the next Paypal Scandal.",
     "Category": ""
    },
-   "note": "PayPal -> generic; added blank"
+   "note": "Debate: Duplicate of live idx 4707."
   },
   {
    "id": "game5-4851",
@@ -63214,13 +63214,13 @@
    "Name": "",
    "Description": "The unforgettable memory of ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The unforgettable memory of ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Vague filler."
   },
   {
    "id": "game5-4864",
@@ -105101,6 +105101,38 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Relatable household prompt with a new angle."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mehmaan said 'bas, bas, I'm full' and then ate ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh relatable hospitality joke."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The cable wala disconnected our TV because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh local scenario."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My cousin's Eid outfit was so loud that even ____ looked shy.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean Eid/cousin humour."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The sabzi wala gave me ____ free with my kilo of dhaniya.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh local bazaar scene."
   }
  ]
 }

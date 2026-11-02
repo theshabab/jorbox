@@ -5617,7 +5617,7 @@
     "Description": "What piece of clothing or accessory makes you feel super confident or - at least - more confident?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Remove clumsy aside.; Debate: Adds the missing personal-question category."
+   "note": "Debate: Remove clumsy aside.; Debate: Adds the missing personal-question category.; Debate: Fills blank category on a clean personal question."
   },
   {
    "id": "game4-433",
@@ -5812,7 +5812,7 @@
     "Description": "What is something you will NEVER put in your mouth again!",
     "Category": "Enough About You"
    },
-   "note": "Debate: Question needs a question mark.; Debate: Challenger's amendment: adds the category and limits answers to food, so the card does not invite drink or crude answers."
+   "note": "Debate: Question needs a question mark.; Debate: Challenger's amendment: adds the category and limits answers to food, so the card does not invite drink or crude answers.; Debate: Fills blank category."
   },
   {
    "id": "game4-448",
@@ -5825,7 +5825,7 @@
     "Description": "Think of a weird/harmless superstition you had as a kid... what did it involve?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Tidy punctuation and wording.; Debate: Adds the missing personal-question category."
+   "note": "Debate: Tidy punctuation and wording.; Debate: Adds the missing personal-question category.; Debate: Fills blank category."
   },
   {
    "id": "game4-449",
@@ -5929,7 +5929,7 @@
     "Description": "What’s a business you have saved on your phone? (Or should have because you use it so often)",
     "Category": "Enough About You"
    },
-   "note": "Debate: Original wording was unclear.; Debate: Adds the missing personal-question category."
+   "note": "Debate: Original wording was unclear.; Debate: Adds the missing personal-question category.; Debate: Fills blank category."
   },
   {
    "id": "game4-457",
@@ -6098,7 +6098,7 @@
     "Description": "What two items would go on your family crest?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Crest is Western heraldry; a family flag keeps the joke."
+   "note": "Debate: Crest is Western heraldry; a family flag keeps the joke.; Debate: Fills blank category."
   },
   {
    "id": "game4-470",
@@ -6254,7 +6254,7 @@
     "Description": "What fictional character do you really feel sorry for? One that you felt had a really rough time? Or the one that makes you cry?",
     "Category": "Enough About You"
    },
-   "note": "wording; Debate: Steer away from film/TV characters and smooth grammar.; Debate: Adds the missing personal-question category."
+   "note": "wording; Debate: Steer away from film/TV characters and smooth grammar.; Debate: Adds the missing personal-question category.; Debate: Fills blank category."
   },
   {
    "id": "game4-482",
@@ -6285,15 +6285,15 @@
   {
    "id": "game4-484",
    "Name": "____",
-   "Description": "If you had really fun kids’ pyjamas, what character or animal would you want on them?",
-   "Category": "Enough About You",
+   "Description": "If you had really fun kids’ pyjamas, what animal or food would you want printed all over them?",
+   "Category": "",
    "action": "edit",
    "original": {
     "Name": "____",
     "Description": "If you had really fun kid PJs, what character/animal/etc. would you like to dress as when you go to bed?",
     "Category": "Enough About You"
    },
-   "note": "wording"
+   "note": "wording; Debate: Drops open-ended character angle (pop culture) while keeping the idea."
   },
   {
    "id": "game4-485",
@@ -6410,7 +6410,7 @@
     "Description": "What is a dish you make you feel is uniquely yours? (Because you make it all the time or add something special to the recipe?)",
     "Category": "Enough About You"
    },
-   "note": "grammar; Debate: Fix awkward question inside parentheses.; Debate: Adds the missing personal-question category."
+   "note": "grammar; Debate: Fix awkward question inside parentheses.; Debate: Adds the missing personal-question category.; Debate: Fills blank category."
   },
   {
    "id": "game4-494",
@@ -6462,7 +6462,7 @@
     "Description": "What was featured in one of the better dreams you can remember having?",
     "Category": "Enough About You"
    },
-   "note": "Debate: 'What was featured in one of the better dreams' is awkward.; Debate: Adds the missing personal-question category."
+   "note": "Debate: 'What was featured in one of the better dreams' is awkward.; Debate: Adds the missing personal-question category.; Debate: Fills blank category."
   },
   {
    "id": "game4-498",
@@ -6527,7 +6527,7 @@
     "Description": "Think of a moment where you acted somewhat - or very - heroic... name one element of that story?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Fix broken grammar.; Debate: Adds the missing personal-question category."
+   "note": "Debate: Fix broken grammar.; Debate: Adds the missing personal-question category.; Debate: Fills blank category."
   },
   {
    "id": "game4-503",
@@ -6618,7 +6618,7 @@
     "Description": "Think about something REALLY creepy you found in an antique store, garage sale or thrift shop... what was it?",
     "Category": "Enough About You"
    },
-   "note": "localised (antique store/garage sale/thrift shop); Debate: Localises attic and second-hand shop; keeps the idea."
+   "note": "localised (antique store/garage sale/thrift shop); Debate: Localises attic and second-hand shop; keeps the idea.; Debate: Fills blank category."
   },
   {
    "id": "game4-510",
@@ -14200,6 +14200,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate and easy to bluff; different from the bamboo growth card."
+  },
+  {
+   "id": null,
+   "Name": "provinces",
+   "Description": "The Pakistan Monument in Islamabad is shaped like a blooming flower, with four large petals representing the country's four ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True local fact, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "Mountain",
+   "Description": "Concordia, where several giant glaciers meet in front of K2, is nicknamed the \"Throne Room of the ____ Gods\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True Karakoram fact, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "rivers",
+   "Description": "The name Punjab comes from Persian words meaning \"land of five ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, well-known local fact; no duplicate in deck."
+  },
+  {
+   "id": null,
+   "Name": "sheep",
+   "Description": "Khunjerab National Park in northern Pakistan is famous as a home of the Marco Polo ____, a wild animal with huge curling horns.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True wildlife fact; no existing card on it."
+  },
+  {
+   "id": null,
+   "Name": "marble",
+   "Description": "The mausoleum of Quaid-e-Azam in Karachi is clad in gleaming white ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True Karachi landmark fact; not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "Nepali",
+   "Description": "In January 2021, a team of ten ____ climbers made the first-ever winter ascent of K2, the last 8,000-metre peak to be climbed in winter.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True K2 fact; supersedes the placeholder P17."
   }
  ]
 }

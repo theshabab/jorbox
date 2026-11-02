@@ -14039,6 +14039,62 @@
    "Category": "Animals",
    "action": "add",
    "note": "New card (debate): Easy to act out and not a card yet."
+  },
+  {
+   "id": null,
+   "Name": "Jellyfish",
+   "Description": "Sea | Sting | Tentacles | Float | Transparent",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Common sea animal, not in the deck; clues are clean."
+  },
+  {
+   "id": null,
+   "Name": "Hourglass",
+   "Description": "Sand | Time | Grains | Flip | Minutes",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Easy visual object; challenger's amendment removes 'Glass', which is part of the answer."
+  },
+  {
+   "id": null,
+   "Name": "Ihsan",
+   "Description": "Jibreel | Hadith | Worship | Seeing | Iman",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Core concept missing; amended clues avoid translations of the answer."
+  },
+  {
+   "id": null,
+   "Name": "Zuhd",
+   "Description": "Dunya | Heart | Luxury | Little | Hasan Basri",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Core virtue missing; amended clues drop the translation 'Detachment' and the vague 'Hold'."
+  },
+  {
+   "id": null,
+   "Name": "Mizan",
+   "Description": "Deeds | Qiyamah | Weigh | Heavy | Light",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-established concept; amended clues drop 'Scale' and 'Balance', which translate the answer."
+  },
+  {
+   "id": null,
+   "Name": "Kaffarah",
+   "Description": "Ramadan | Intentional | Sixty | Feed | Poor",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Common fiqh term; clues limited to the accurate Ramadan-fast ruling."
+  },
+  {
+   "id": null,
+   "Name": "Gas Cylinder",
+   "Description": "Stove | Kitchen | Shortage | Heavy | Refill",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Distinct, relatable Pakistani household item, not in the deck."
   }
  ]
 }
