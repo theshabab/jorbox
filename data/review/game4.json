@@ -216,13 +216,13 @@
    "Name": "Purification Grave",
    "Description": "To help relieve anxiety, students at Radboud University in the Netherlands can sign up to spend up to three hours lying in the school's ____.",
    "Category": "Student Aid",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Purification Grave",
     "Description": "To help relieve anxiety, students attending the Radboud University in Belgium can sign up to spend up to three hours using the school's ____.",
     "Category": "Student Aid"
    },
-   "note": "Radboud is in the Netherlands, not Belgium"
+   "note": "Debate: Unguessable, unverifiable answer."
   },
   {
    "id": "game4-18",
@@ -684,13 +684,13 @@
    "Name": "foosball table",
    "Description": "Fun-loving Pope Francis was granted a very special gift in August 2021: his very own ____.",
    "Category": "Pope Culture",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "foosball table",
     "Description": "Fun-loving Pope Francis was granted a very special gift in August 2021: his very own ____.",
     "Category": "Pope Culture"
    },
-   "note": ""
+   "note": "Debate: Coin-flip answer, little relevance to the audience."
   },
   {
    "id": "game4-54",
@@ -1347,13 +1347,13 @@
    "Name": "Couch",
    "Description": "A walrus named Wally was observed traveling solo between the coasts of England, France and Spain in 2021, and was gifted a ____ by Seal Rescue Ireland.",
    "Category": "Animal Vacation",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Couch",
     "Description": "A walrus named Wally was observed traveling solo between the coasts of England, France and Spain in 2021, and was gifted a ____ by Seal Rescue Ireland.",
     "Category": "Animal Vacation"
    },
-   "note": ""
+   "note": "Debate: Answer likely wrong and not confidently fixable."
   },
   {
    "id": "game4-105",
@@ -1672,13 +1672,13 @@
    "Name": "married women",
    "Description": "According to Polish superstition, when ____ die, they turn into owls.",
    "Category": "Superstitions",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "married women",
     "Description": "According to Polish superstition, when ____ die, they turn into owls.",
     "Category": "Superstitions"
    },
-   "note": ""
+   "note": "Debate: Unverifiable folklore claim."
   },
   {
    "id": "game4-130",
@@ -1942,29 +1942,29 @@
   },
   {
    "id": "game4-150",
-   "Name": "a mood stabilizer",
+   "Name": "lithium",
    "Description": "Up until the year 1948, the recipe for 7 Up surprisingly included ____.",
-   "Category": "Soft Drinks",
-   "action": "keep",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "a mood stabilizer",
     "Description": "Up until the year 1948, the recipe for 7 Up surprisingly included ____.",
     "Category": "Soft Drinks"
    },
-   "note": ""
+   "note": "Debate: Concrete, accurate ingredient (lithium citrate)."
   },
   {
    "id": "game4-151",
    "Name": "exploding toads",
-   "Description": "In 2005, Danish locals began to avoid a scenic pond in Laasby due to several appalling and confusing reports of ____.",
-   "Category": "Down by the Pond",
-   "action": "keep",
+   "Description": "In 2005, locals in Hamburg, Germany began avoiding a pond in the Altona district due to several appalling and confusing reports of ____.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "exploding toads",
     "Description": "In 2005, Danish locals began to avoid a scenic pond in Laasby due to several appalling and confusing reports of ____.",
     "Category": "Down by the Pond"
    },
-   "note": ""
+   "note": "Debate: Corrects location to Hamburg-Altona."
   },
   {
    "id": "game4-152",
@@ -14128,6 +14128,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Clean, relatable personal question; distinct from the other road-trip cards."
+  },
+  {
+   "id": null,
+   "Name": "fireproof",
+   "Description": "After a deadly fire in 1997, the vast tent city at Mina, where pilgrims stay during Hajj, was rebuilt with ____ tents.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Hajj fact, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "winter",
+   "Description": "Pakistan's Lowari Tunnel, opened in 2017, keeps the Chitral valley connected to the rest of the country during ____, when snow used to close the Lowari Pass.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistan fact, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "cold",
+   "Description": "Skardu's Katpana Desert, surrounded by snowy mountains, is one of the highest ____ deserts in the world.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistan geography fact."
+  },
+  {
+   "id": null,
+   "Name": "Madinah",
+   "Description": "Ajwa dates, praised in the hadith for their blessings, are famously grown in the oasis of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate and respectful, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "drummer",
+   "Description": "In many Muslim countries, a ____ walks the streets before dawn in Ramadan to wake people up for sehri.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Real tradition, no duplicate."
   }
  ]
 }

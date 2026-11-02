@@ -4763,16 +4763,16 @@
   },
   {
    "id": "game15-367",
-   "Name": "iPhone",
+   "Name": "iPhone (original)",
    "Description": "2007",
    "Category": "iPhone Models (Chronological Launch)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "iPhone",
     "Description": "2007",
     "Category": "iPhone Models (Chronological Launch)"
    },
-   "note": ""
+   "note": "Debate: Bare 'iPhone' is ambiguous next to numbered models; year is correct."
   },
   {
    "id": "game15-368",
@@ -32281,6 +32281,70 @@
    "Category": "Web Browsers (Launch Year)",
    "action": "add",
    "note": "New card (debate): Safari launched January 2003, unambiguous and unique year; brings the category to 5 cards."
+  },
+  {
+   "id": null,
+   "Name": "A10",
+   "Description": "26 x 37 mm",
+   "Category": "Paper Sizes (Area - Descending)",
+   "action": "add",
+   "note": "New card (debate): Correct ISO 216 size; completes the series; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "2⁶",
+   "Description": "64",
+   "Category": "Powers (Value - Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value; fits between 36 and 81; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "6³",
+   "Description": "216",
+   "Category": "Powers (Value - Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value; fits between 125 and 256; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "2¹⁶",
+   "Description": "65,536",
+   "Category": "Powers (Value - Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct; extends top end beyond 3,125."
+  },
+  {
+   "id": null,
+   "Name": "Windows 8.1",
+   "Description": "2013 (Oct)",
+   "Category": "Windows Versions (Chronological Retail Release)",
+   "action": "add",
+   "note": "New card (debate): Real distinct retail release between 8 and 10; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "iPhone 3GS",
+   "Description": "2009",
+   "Category": "iPhone Models (Chronological Launch)",
+   "action": "add",
+   "note": "New card (debate): Correct launch year; fills the 2009 gap."
+  },
+  {
+   "id": null,
+   "Name": "iPhone 5s",
+   "Description": "2013",
+   "Category": "iPhone Models (Chronological Launch)",
+   "action": "add",
+   "note": "New card (debate): Correct launch year; fills the 2013 gap."
+  },
+  {
+   "id": null,
+   "Name": "Android 10",
+   "Description": "Sep 2019 (first version without a dessert name)",
+   "Category": "Android Versions (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Marshmallow, Nougat, Oreo and Pie are already live additions in game15.json, so the challenger's Marshmallow amendment would be a duplicate; Android 10 correctly continues after Pie (Aug 2018)."
   }
  ]
 }

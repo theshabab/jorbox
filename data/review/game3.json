@@ -12637,10 +12637,10 @@
   {
    "id": null,
    "Name": "Home Appliance Brands",
-   "Description": "Dawlance|Haier|Orient|PEL|Gree|Kenwood|Waves|Samsung|LG|Philips|Panasonic|Singer|Anex|Sogo|Westpoint|Super Asia|Gaba National|Pak Fan|Changhong Ruba|Nasgas",
+   "Description": "Dawlance|Haier|Orient|PEL|Gree|Kenwood|Waves|Samsung|LG|Philips|Panasonic|Singer|Anex|Sogo|Westpoint|Super Asia|Gaba National|Pak Fan|Changhong Ruba|Homage",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger version: removed Sony, National and Boss; added local names."
+   "note": "New card (debate): Challenger version: removed Sony, National and Boss; added local names.; Debate: Nasgas is a gas utility, not an appliance brand; Homage is a real local appliance brand."
   },
   {
    "id": null,
@@ -13125,10 +13125,10 @@
   {
    "id": null,
    "Name": "Scientific Instruments",
-   "Description": "Microscope|Telescope|Thermometer|Barometer|Stopwatch|Magnifying Glass|Beaker|Test Tube|Weighing Balance|Measuring Cylinder|Voltmeter|Binoculars|Bunsen Burner|Pipette|Retort Stand|Conical Flask|Dropper|Tongs",
+   "Description": "Microscope|Telescope|Thermometer|Barometer|Stopwatch|Magnifying Glass|Weighing Balance|Measuring Cylinder|Voltmeter|Binoculars|Stethoscope|Ammeter|Compass|Seismograph|Rain Gauge|Calipers",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's coherent lab list; Lab Coat swapped for Retort Stand since a coat is not an instrument."
+   "note": "New card (debate): Challenger's coherent lab list; Lab Coat swapped for Retort Stand since a coat is not an instrument.; Debate: Beaker, Test Tube, Bunsen Burner etc. are lab apparatus, not instruments, and duplicate the Science Lab card; replaced with real instruments."
   },
   {
    "id": null,
@@ -13149,10 +13149,10 @@
   {
    "id": null,
    "Name": "Things at a Potter's Workshop",
-   "Description": "Clay|Potter's Wheel|Matka|Diya|Kiln|Surahi|Water Bucket|Flower Pots|Clay Cups|Gullak|Handi|Drying Rack|Clay Plates|Sacks of Clay|Firewood|Glazing|Donkey Cart|Clay Pitcher",
+   "Description": "Clay|Potter's Wheel|Matka|Tandoor|Kiln|Surahi|Water Bucket|Flower Pots|Clay Cups|Gullak|Handi|Drying Rack|Clay Plates|Sacks of Clay|Firewood|Glazing|Donkey Cart|Clay Toys",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Pottery-specific items; Kulhar dropped as it duplicated Clay Cups, Handi added."
+   "note": "New card (debate): Pottery-specific items; Kulhar dropped as it duplicated Clay Cups, Handi added.; Debate: Diya removed (Hindu festival worship); challenger's amendment avoids duplicates Kulhar/Clay Cups and Clay Pitcher/Matka/Surahi."
   },
   {
    "id": null,
@@ -13185,6 +13185,62 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Honesty-in-trade dilemma with the contradictory wording fixed."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Tikka Shop",
+   "Description": "Charcoal|Skewers|Chicken Tikka|Seekh Kebab|Malai Boti|Hand Fan|Naan|Raita|Chutney|Onion Rings|Lemon|Tandoor|Smoke|Leg Piece|Bihari Kebab|Paper Plates|Tissue Box|Cold Drink|Chopping Block|Knife",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct, well-known local setting."
+  },
+  {
+   "id": null,
+   "Name": "Things in a Bookshop",
+   "Description": "Novels|Urdu Digest|Textbooks|Bookmarks|Notebooks|Shelves|Past Papers|Dictionary|Poetry Collections|Islamic Books|Children's Stories|Pens|Cover Paper|Second-Hand Books|Guess Papers|Discount Sticker|Price Tag|Carry Bag|Geometry Box|Shopkeeper",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New shop topic using the challenger's more specific local words."
+  },
+  {
+   "id": null,
+   "Name": "Draw a pair of khussay.",
+   "Description": "Draw a pair of chappals.|Draw a pair of sneakers.|Draw a pair of socks.|Draw a pair of boots.|Draw a pair of slippers.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Drawable local item; decoys made consistently plural so none gives itself away."
+  },
+  {
+   "id": null,
+   "Name": "Draw a bangle seller on Chand Raat.",
+   "Description": "Draw a mehndi stall.|Draw a jeweller's shop.|Draw a wrist full of bangles.|Draw a balloon seller.|Draw a bracelet.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local Eid-eve scene with plausible decoys."
+  },
+  {
+   "id": null,
+   "Name": "A good name for a tikka shop would be...",
+   "Description": "A good name for a tuition academy would be...|A good name for a barber shop would be...|A good name for a rickshaw would be...|A good name for a cricket team would be...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Matches existing 'good name for a ...' cards."
+  },
+  {
+   "id": null,
+   "Name": "I always put my phone on silent before entering the masjid.",
+   "Description": "I check my phone during family gatherings.|I forget to switch off my phone before a meeting.|I keep my phone on silent all day.|I have had my phone ring in class.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable worship-related rating, which the owner allows."
+  },
+  {
+   "id": null,
+   "Name": "At a dawat, a relative loudly compares your marks to your cousin's. You...",
+   "Description": "smile and change the topic|politely defend yourself|quietly leave the room",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Relatable dilemma with three distinct options (challenger's amendment)."
   }
  ]
 }
