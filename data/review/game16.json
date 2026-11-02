@@ -4592,14 +4592,14 @@
   },
   {
    "id": "game16-418",
-   "Name": "Which do you prefer, autumn or spring?",
+   "Name": "Which season do you prefer, autumn or spring, and why?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "Which do you prefer, fall or spring?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "autumn (local usage)"
+   "note": "autumn (local usage); Debate: Adds a 'why' so it opens conversation instead of a one-word answer."
   },
   {
    "id": "game16-419",
@@ -4680,14 +4680,14 @@
   },
   {
    "id": "game16-426",
-   "Name": "Which do you enjoy more, Eid ul-Fitr or Eid ul-Adha?",
+   "Name": "Which do you enjoy more, Eid ul-Fitr or Eid ul-Adha, and why?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "What is your favorite holiday?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Muslim framing"
+   "note": "Muslim framing; Debate: Adds a 'why' for a richer answer."
   },
   {
    "id": "game16-427",
@@ -4702,14 +4702,14 @@
   },
   {
    "id": "game16-428",
-   "Name": "Do you wish there were more or fewer holidays?",
+   "Name": "Do you wish Pakistan had more or fewer holidays, and why?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Do you wish there were more or fewer holidays?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger's amended version: localises and adds a 'why' without duplicating the new-holiday card."
   },
   {
    "id": "game16-429",
@@ -4779,14 +4779,14 @@
   },
   {
    "id": "game16-435",
-   "Name": "Are bigger or smaller schools better?",
+   "Name": "Are bigger or smaller schools better, and which kind did you attend?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Are bigger or smaller schools better?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Adds a personal angle so everyone can answer."
   },
   {
    "id": "game16-436",

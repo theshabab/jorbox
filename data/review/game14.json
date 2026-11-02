@@ -7321,6 +7321,55 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Allowed worship-related personal question; accurate; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many Eid Mubarak messages did you send or forward on Eid day?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from Eid hug/Eidi cards; clean count question."
+  },
+  {
+   "id": null,
+   "Description": "How many Fridays this month have you read Surah Al-Kahf?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal question, allowed; no Al-Kahf card exists."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to wait for the elders to start eating before you touch your food at a family meal?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Adab theme, how-likely maps to 0 to 100; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you walked to the masjid for prayer instead of driving or riding?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worship-related count, not covered by existing masjid cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take mithai or fruit with you when visiting someone's home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local hospitality custom, distinct from the suitcase card."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week has the rising price of atta, sugar or petrol come up in conversation at your home?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable local daily life; no price-talk card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been asked to recite a naat or a surah in front of guests?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Different from the naats-from-memory card; naats allowed."
   }
  ]
 }

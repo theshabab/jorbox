@@ -6008,9 +6008,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you Pakistan's national bird.",
+   "Description": "Get a player to tell you Pakistan's national bird, the chukar partridge (chakor).",
    "action": "add",
-   "note": "New card (debate): Chukar partridge; accurate, not covered."
+   "note": "New card (debate): Chukar partridge; accurate, not covered.; Debate: Answer is obscure; naming it keeps the mission clear and playable, like other cards that name their answer."
   },
   {
    "id": null,
@@ -6809,6 +6809,42 @@
    "Description": "Get a player to tell you which shop in their area sells the best samosas or pakoras.",
    "action": "add",
    "note": "New card (debate): Distinct from the school canteen and say-the-word cards."
+  },
+  {
+   "id": null,
+   "Description": "Claim that an ostrich buries its head in the sand when scared and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate common myth, fits the myth-card format, no ostrich card in deck."
+  },
+  {
+   "id": null,
+   "Description": "Claim that Mount Everest is in Pakistan and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): False claim easy to correct; distinct from the K2 card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which dam on the Indus river is one of the largest earth-filled dams in the world (Tarbela).",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistan knowledge, new topic, answer given so playable."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they usually do on a Friday after Jummah prayer.",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related personal question; distinct from the Friday lunch dish card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name three things their family always packs for a picnic or day trip.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: answerable by players from any city."
+  },
+  {
+   "id": null,
+   "Description": "Claim that an octopus has only one heart and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate (octopus has three hearts), fits the myth format, not in deck."
   }
  ]
 }
