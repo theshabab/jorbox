@@ -92789,13 +92789,13 @@
    "Name": "",
    "Description": "Serious question: who’s a good boy? Who’s a good boy??",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Serious question: who’s a good boy? Who’s a good boy??",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: No real ask, weak answers; removed on quality grounds."
   },
   {
    "id": "game5-7139",
@@ -93983,15 +93983,15 @@
   {
    "id": "game5-7230",
    "Name": "",
-   "Description": "Three things that’ll melt your heart EVERY. DANG. TIME.",
+   "Description": "Three things that’ll melt your heart EVERY. SINGLE. TIME.",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three things that’ll melt your heart EVERY. DANG. TIME.",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes US slang, keeps rhythm."
   },
   {
    "id": "game5-7231",
@@ -94373,15 +94373,15 @@
   {
    "id": "game5-7260",
    "Name": "",
-   "Description": "Three words that can describe both a person and a pair of jeans",
+   "Description": "Three words that can describe both a person and a roti",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three words that can describe both a person and a pair of jeans",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Avoids innuendo from the jeans version; roti keeps the double-meaning joke locally."
   },
   {
    "id": "game5-7261",
@@ -94399,15 +94399,15 @@
   {
    "id": "game5-7262",
    "Name": "",
-   "Description": "Three things they discourage you from doing in the Grand Canyon",
+   "Description": "Three things they discourage you from doing at Mohenjo-daro",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three things they discourage you from doing in the Grand Canyon",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Swaps US landmark for a Pakistani one."
   },
   {
    "id": "game5-7263",
@@ -94464,7 +94464,7 @@
   {
    "id": "game5-7267",
    "Name": "",
-   "Description": "The three lamest superpowers would be...",
+   "Description": "The three lamest superpowers are...",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -94472,7 +94472,7 @@
     "Description": "The three lamest super powers would be...",
     "Category": "Quiplash"
    },
-   "note": "Debate: Spelling fix."
+   "note": "Debate: Spelling fix.; Debate: Fixes grammar to match sibling open-ended prompts."
   },
   {
    "id": "game5-7268",
@@ -94737,15 +94737,15 @@
   {
    "id": "game5-7288",
    "Name": "",
-   "Description": "The three steps to surgically removing your own appendix",
+   "Description": "The three steps to performing surgery on a teddy bear",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The three steps to surgically removing your own appendix",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes gory self-surgery answers, keeps the three-steps joke."
   },
   {
    "id": "game5-7289",
@@ -105469,6 +105469,46 @@
    "Category": "Quiplash",
    "action": "add",
    "note": "New card (debate): Challenger's stronger bazaar-haggling version"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things you will find in every shaadi house the night before the baraat",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Challenger's neutral reframe of the wedding-week prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things the carrom board has seen that it will never forgive",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Clean, local, carrom lightly covered."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The three worst places to hear \"Beta, ek minute idhar aana\"",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Relatable Roman Urdu parent-call prompt, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A basant kite's last words before it gets cut",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh basant format, no real duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The three rules every umpire in gully cricket secretly follows",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Umpire angle distinct from the golden rules card."
   }
  ]
 }

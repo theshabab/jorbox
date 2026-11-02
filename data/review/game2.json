@@ -7233,7 +7233,7 @@
   },
   {
    "id": "game2-557",
-   "Name": "Squash",
+   "Name": "Squash Drink",
    "Description": "Concentrate | Orange | Dilute | Bottle | Mix",
    "Category": "Beverages",
    "action": "edit",
@@ -7242,7 +7242,7 @@
     "Description": "drink | liquid | cup | hot",
     "Category": "Beverages"
    },
-   "note": "Ambiguous with the sport/vegetable; fine as drink"
+   "note": "Ambiguous with the sport/vegetable; fine as drink; Debate: Disambiguates from the live Sports card Squash."
   },
   {
    "id": "game2-558",
@@ -7325,7 +7325,7 @@
   {
    "id": "game2-564",
    "Name": "Kashmiri Chai",
-   "Description": "Pink | Gulabi | Pista | Kashmir | Shadi",
+   "Description": "Pink | Pista | Namkeen | Shadi | Badam",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7333,7 +7333,7 @@
     "Description": "Kashmiri | drink | liquid | cup",
     "Category": "Beverages"
    },
-   "note": ""
+   "note": "Debate: Removes duplicated Pink/Gulabi and Kashmir already in Name."
   },
   {
    "id": "game2-565",
@@ -7429,7 +7429,7 @@
   {
    "id": "game2-572",
    "Name": "Gulab Jamun",
-   "Description": "Shira | Brown | Round | Syrup | Mithai",
+   "Description": "Chashni | Brown | Round | Mithai | Khoya",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7437,7 +7437,7 @@
     "Description": "Gulab | sweet | sugar | eat",
     "Category": "Desserts"
    },
-   "note": ""
+   "note": "Debate: Chashni and Khoya are common Pakistani hint words."
   },
   {
    "id": "game2-573",
@@ -7715,7 +7715,7 @@
   {
    "id": "game2-594",
    "Name": "Zarda",
-   "Description": "Rice | Yellow | Colorful | Shadi | Chawal",
+   "Description": "Rice | Yellow | Meetha | Shadi | Kishmish",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7723,7 +7723,7 @@
     "Description": "sweet | sugar | eat | delicious",
     "Category": "Desserts"
    },
-   "note": ""
+   "note": "Debate: Stronger, non-duplicate hints."
   },
   {
    "id": "game2-595",
@@ -8131,7 +8131,7 @@
   {
    "id": "game2-626",
    "Name": "Bilal",
-   "Description": "Azaan | Muezzin | Ahad | Slave | Abyssinia",
+   "Description": "Azaan | Muezzin | Ahad | Kaaba | Abyssinia",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8139,7 +8139,7 @@
     "Description": "companion | Prophet | Caliph | Muslim",
     "Category": "Sahaba"
    },
-   "note": ""
+   "note": "Debate: Replaces the awkward Slave hint with the well-established Kaaba azaan fact."
   },
   {
    "id": "game2-627",
@@ -14639,6 +14639,62 @@
    "Category": "Fabrics",
    "action": "add",
    "note": "New card (debate): Common local fabric, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Lab-e-Shireen",
+   "Description": "Custard | Jelly | Fruit | Cream | Shadi",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Popular Pakistani dessert missing from the deck; challenger's hints avoid the overlap with Sheer Khurma and Sawaiyan."
+  },
+  {
+   "id": null,
+   "Name": "Shakarpara",
+   "Description": "Maida | Fried | Diamond | Crispy | Eid",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Familiar Eid sweet snack not in the deck; the amended hints no longer just translate the Name."
+  },
+  {
+   "id": null,
+   "Name": "Jethani",
+   "Description": "Shohar | Elder | Bhabhi | Devrani | Wife",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani family relation, missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Devrani",
+   "Description": "Shohar | Younger | Jethani | Brother | Wife",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Pairs with Jethani; common local relation, missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Muawiya",
+   "Description": "Umayyad | Caliph | Damascus | Scribe | Governor",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Well-known Sahabi missing from the deck; spelling matches the deck and the duplicate Syria hint is dropped."
+  },
+  {
+   "id": null,
+   "Name": "Abu Sufyan",
+   "Description": "Quraysh | Makkah | Fath | Uhud | Umm Habibah",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Well-known Sahabi missing from the deck; Uhud replaces the vacuous Leader hint."
+  },
+  {
+   "id": null,
+   "Name": "Abdullah ibn Zubair",
+   "Description": "Asma | Hijrah | Madinah | Aisha | Hajjaj",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Well-known Sahabi, distinct from the live Zubair card; Hajjaj replaces the vacuous Born hint."
   }
  ]
 }

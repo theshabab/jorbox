@@ -294,13 +294,13 @@
    "Name": "Cats",
    "Description": "When asked if her husband Abe had any hobbies, Mary Todd Lincoln famously responded with a single word: \"____.\"",
    "Category": "Historical Hobbies",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Cats",
     "Description": "When asked if her husband Abe had any hobbies, Mary Todd Lincoln famously responded with a single word: \"____.\"",
     "Category": "Historical Hobbies"
    },
-   "note": ""
+   "note": "Debate: US-centric and an apocryphal, unverifiable anecdote."
   },
   {
    "id": "game4-24",
@@ -14544,6 +14544,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate local history, no duplicate, real category."
+  },
+  {
+   "id": null,
+   "Name": "murder",
+   "Description": "A group of crows is called a ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True collective noun, mildly dark but allowed; category aligned with existing Animal Kingdom."
+  },
+  {
+   "id": null,
+   "Name": "Mountains",
+   "Description": "The snowy 5,290-metre peak that rises above Lake Saiful Muluk in the Kaghan Valley is called Malika Parbat, which means \"Queen of the ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local Pakistani geography, accurate, not in deck; category corrected to Pakistan Facts."
+  },
+  {
+   "id": null,
+   "Name": "bees",
+   "Description": "African elephants are so afraid of ____ that farmers use beehive fences to keep them out of their crops.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Verified fact; cleaner wording and correct category per challenger."
+  },
+  {
+   "id": null,
+   "Name": "dwarf",
+   "Description": "In 2006, astronomers decided that Pluto is not a full planet and reclassified it as a ____ planet.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True 2006 IAU fact, no Pluto card in deck; category corrected."
+  },
+  {
+   "id": null,
+   "Name": "body",
+   "Description": "A chameleon's sticky tongue can shoot out to a length longer than its own ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True fact, no chameleon card; category corrected."
   }
  ]
 }

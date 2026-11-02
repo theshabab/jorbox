@@ -525,20 +525,20 @@ Lassi,Dahi | Yogurt | Punjab | Meethi | Namkeen,Beverages
 Shake,Milk | Banana | Mango | Blender | Thick,Beverages
 Smoothie,Blender | Fruit | Yogurt | Thick | Healthy,Beverages
 Lemonade,Nimbu | Shikanjvi | Lemon | Sour | Sugar,Beverages
-Squash,Concentrate | Orange | Dilute | Bottle | Mix,Beverages
+Squash Drink,Concentrate | Orange | Dilute | Bottle | Mix,Beverages
 Sherbet,Sharbat | Iftar | Sugar | Pink | Garmi,Beverages
 Rooh Afza,Hamdard | Red | Sharbat | Ramzan | Iftar,Beverages
 Kanji,Carrot | Gajar | Fermented | Purple | Sour,Beverages
 Sattu,Chana | Flour | Roasted | Gur | Summer,Beverages
 Buttermilk,Chaach | Lassi | Dahi | Namkeen | Jeera,Beverages
 Green Tea,Healthy | Leaves | Kehwa | Weight Loss | Bag,Beverages
-Kashmiri Chai,Pink | Gulabi | Pista | Kashmir | Shadi,Beverages
+Kashmiri Chai,Pink | Pista | Namkeen | Shadi | Badam,Beverages
 Doodh Soda,Milk | Sprite | Lahore | Fizzy | Bottle,Beverages
 Cold Drink,Coke | Pepsi | Fizzy | Bottle | Soda,Beverages
 Energy Drink,Red Bull | Sting | Caffeine | Can | Wings,Beverages
 Soup,Yakhni | Chicken | Corn | Bowl | Winter,Beverages
 Cocoa,Chocolate | Hot | Powder | Milk | Brown,Beverages
-Gulab Jamun,Shira | Brown | Round | Syrup | Mithai,Desserts
+Gulab Jamun,Chashni | Brown | Round | Mithai | Khoya,Desserts
 Barfi,Mithai | Square | Khoya | Silver | Box,Desserts
 Jalebi,Orange | Spiral | Syrup | Crispy | Fried,Desserts
 Laddu,Round | Ball | Yellow | Motichoor | Mithai,Desserts
@@ -560,7 +560,7 @@ Cham Cham,Bengali | Oval | Coconut | Pink | Syrup,Desserts
 Sohan Halwa,Multan | Tin | Nuts | Hard | Ghee,Desserts
 Patisa,Flaky | Sohan Papdi | Square | Box | Thread,Desserts
 Kalakand,Milk | Khoya | Paneer | Square | Mithai,Desserts
-Zarda,Rice | Yellow | Colorful | Shadi | Chawal,Desserts
+Zarda,Rice | Yellow | Meetha | Shadi | Kishmish,Desserts
 Sheer Khurma,Eid | Seviyan | Khajoor | Milk | Dry Fruits,Desserts
 Sawaiyan,Eid | Vermicelli | Noodles | Breakfast | Sheer Khurma,Desserts
 Mother,Ammi | Maa | Jannat | Feet | Mom,Family Relations
@@ -592,7 +592,7 @@ Abu Bakr,Siddiq | First | Caliph | Cave | Hijrah,Sahaba
 Umar,Farooq | Second | Caliph | Justice | Jerusalem,Sahaba
 Uthman,Ghani | Third | Caliph | Quran | Dhun Nurayn,Sahaba
 Ali,Fourth | Haider | Fatima | Cousin | Khaybar,Sahaba
-Bilal,Azaan | Muezzin | Ahad | Slave | Abyssinia,Sahaba
+Bilal,Azaan | Muezzin | Ahad | Kaaba | Abyssinia,Sahaba
 Khalid ibn al-Walid,Sword | Saifullah | Yarmouk | General | Undefeated,Sahaba
 Salman al-Farsi,Persia | Trench | Khandaq | Seeker | Isfahan,Sahaba
 Abu Huraira,Cats | Hadith | Narrator | Memory | Suffa,Sahaba
@@ -1321,3 +1321,10 @@ Gamepad,Controller | Buttons | PlayStation | Thumbs | Joystick,Electronics
 Hacksaw,Saw | Metal | Blade | Pipe | Cut,Tools
 Boski,Men | Kameez | Shiny | Wedding | Cream,Fabrics
 Cambric,Cotton | Fine | Light | Dupatta | Summer,Fabrics
+Lab-e-Shireen,Custard | Jelly | Fruit | Cream | Shadi,Desserts
+Shakarpara,Maida | Fried | Diamond | Crispy | Eid,Desserts
+Jethani,Shohar | Elder | Bhabhi | Devrani | Wife,Family Relations
+Devrani,Shohar | Younger | Jethani | Brother | Wife,Family Relations
+Muawiya,Umayyad | Caliph | Damascus | Scribe | Governor,Sahaba
+Abu Sufyan,Quraysh | Makkah | Fath | Uhud | Umm Habibah,Sahaba
+Abdullah ibn Zubair,Asma | Hijrah | Madinah | Aisha | Hajjaj,Sahaba
