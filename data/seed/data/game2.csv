@@ -450,7 +450,7 @@ Radio,FM | Station | News | Commentary | Signal,Electronics
 Computer,PC | Monitor | Desktop | Internet | Windows,Electronics
 Laptop,Computer | Portable | Keyboard | Charger | Bag,Electronics
 Mobile,Phone | Call | Message | Smartphone | iPhone,Electronics
-Tablet,iPad | Big Phone | Touch | Screen | Kids,Electronics
+Tablet,iPad | Big Phone | Touch | Screen | Android,Electronics
 Camera,Photo | Picture | Click | Lens | Selfie,Electronics
 Speaker,Sound | Loud | Volume | Bluetooth | Bass,Electronics
 Headphones,Ears | Listen | Wire | Bluetooth | Earphones,Electronics
@@ -476,7 +476,7 @@ Screw,Twist | Nut | Turn | Wood | Thread,Tools
 Screwdriver,Turn | Twist | Bolt | Tighten | Flathead,Tools
 Wrench,Spanner | Nut | Bolt | Tighten | Plumber,Tools
 Pliers,Plas | Grip | Wire | Bend | Electrician,Tools
-Saw,Wood | Cut | Teeth | Carpenter | Aari,Tools
+Saw,Wood | Cut | Teeth | Carpenter | Aara,Tools
 Drill,Hole | Wall | Bit | Screw | Machine,Tools
 Axe,Kulhari | Wood | Chop | Tree | Lakarhara,Tools
 Shovel,Dig | Soil | Sand | Belcha | Hole,Tools
@@ -1311,3 +1311,13 @@ Heel,Foot | Shoe | Ankle | Back | Cracked,Body Parts
 Fist,Hand | Punch | Closed | Fingers | Grip,Body Parts
 Golden,Sunehri | Gold | Yellow | Shiny | Medal,Colors
 Waist,Belt | Naap | Tailor | Middle | Slim,Body Parts
+Aqeeq,Ring | Stone | Red | Yemeni | Gem,Jewelry
+Paranda,Hair | Braid | Tassel | Bride | Black,Jewelry
+Sunrise,Sun | Morning | East | Fajr | Rising,Nature
+Comet,Tail | Space | Halley | Sky | Fireball,Nature
+Monitor,Screen | Computer | Display | Desktop | LED,Electronics
+Projector,Screen | Presentation | Beam | Light | Classroom,Electronics
+Gamepad,Controller | Buttons | PlayStation | Thumbs | Joystick,Electronics
+Hacksaw,Saw | Metal | Blade | Pipe | Cut,Tools
+Boski,Men | Kameez | Shiny | Wedding | Cream,Fabrics
+Cambric,Cotton | Fine | Light | Dupatta | Summer,Fabrics

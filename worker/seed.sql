@@ -340,7 +340,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-338','game1','Marker','Thick-tipped pen for whiteboards','Stationery');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-339','game1','Highlighter','Bright pen to mark text','Stationery');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-340','game1','Stapler','Joins papers with metal staples','Stationery');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-341','game1','Pin','Small sharp metal fastener','Stationery');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-341','game1','Pin','Sharp metal fastener for notice boards or hijabs','Stationery');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-342','game1','Clip','Holds papers together without holes','Stationery');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-343','game1','Tape','Sticky strip on a roll','Stationery');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-344','game1','Calculator','Device for doing sums','Stationery');
@@ -383,7 +383,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-381','game1','Finger','Used to point; ten in total','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-382','game1','Thumb','Angootha; short, thick first digit','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-383','game1','Knee','Ghutna; joint in the middle of the leg','Body Parts');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-384','game1','Elbow','Bendy joint you lean on a desk with','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-384','game1','Elbow','Arm joint you rest on a desk','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-385','game1','Shoulder','Joint where a bag strap rests','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-386','game1','Neck','Connects head to body','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-387','game1','Hair','Grows from the scalp; combed daily','Body Parts');
@@ -1764,7 +1764,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-449','game2','Computer','PC | Monitor | Desktop | Internet | Windows','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-450','game2','Laptop','Computer | Portable | Keyboard | Charger | Bag','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-451','game2','Mobile','Phone | Call | Message | Smartphone | iPhone','Electronics');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-452','game2','Tablet','iPad | Big Phone | Touch | Screen | Kids','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-452','game2','Tablet','iPad | Big Phone | Touch | Screen | Android','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-453','game2','Camera','Photo | Picture | Click | Lens | Selfie','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-454','game2','Speaker','Sound | Loud | Volume | Bluetooth | Bass','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-455','game2','Headphones','Ears | Listen | Wire | Bluetooth | Earphones','Electronics');
@@ -1790,7 +1790,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-475','game2','Screwdriver','Turn | Twist | Bolt | Tighten | Flathead','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-476','game2','Wrench','Spanner | Nut | Bolt | Tighten | Plumber','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-477','game2','Pliers','Plas | Grip | Wire | Bend | Electrician','Tools');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-478','game2','Saw','Wood | Cut | Teeth | Carpenter | Aari','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-478','game2','Saw','Wood | Cut | Teeth | Carpenter | Aara','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-479','game2','Drill','Hole | Wall | Bit | Screw | Machine','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-480','game2','Axe','Kulhari | Wood | Chop | Tree | Lakarhara','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-481','game2','Shovel','Dig | Soil | Sand | Belcha | Hole','Tools');
@@ -2625,6 +2625,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1310','game2','Fist','Hand | Punch | Closed | Fingers | Grip','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1311','game2','Golden','Sunehri | Gold | Yellow | Shiny | Medal','Colors');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1312','game2','Waist','Belt | Naap | Tailor | Middle | Slim','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1313','game2','Aqeeq','Ring | Stone | Red | Yemeni | Gem','Jewelry');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1314','game2','Paranda','Hair | Braid | Tassel | Bride | Black','Jewelry');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1315','game2','Sunrise','Sun | Morning | East | Fajr | Rising','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1316','game2','Comet','Tail | Space | Halley | Sky | Fireball','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1317','game2','Monitor','Screen | Computer | Display | Desktop | LED','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1318','game2','Projector','Screen | Presentation | Beam | Light | Classroom','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1319','game2','Gamepad','Controller | Buttons | PlayStation | Thumbs | Joystick','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1320','game2','Hacksaw','Saw | Metal | Blade | Pipe | Cut','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1321','game2','Boski','Men | Kameez | Shiny | Wedding | Cream','Fabrics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1322','game2','Cambric','Cotton | Fine | Light | Dupatta | Summer','Fabrics');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game3','Jasoosi Club',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1','game3','Pakistani Cities','Karachi|Lahore|Islamabad|Rawalpindi|Faisalabad|Multan|Peshawar|Quetta|Sialkot|Gujranwala|Hyderabad|Abbottabad|Bahawalpur|Sargodha|Sukkur|Larkana|Sheikhupura|Jhelum|Rahim Yar Khan|Mardan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-2','game3','Islamic Prophets','Adam|Idris|Nuh|Hud|Saleh|Ibrahim|Lut|Ismail|Ishaq|Yaqub|Yusuf|Ayyub|Shuaib|Musa|Harun|Dawud|Sulaiman|Ilyas|Yunus|Isa','');
@@ -15893,6 +15903,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1207','game9','Which Pakistani captain lifted the 2017 ICC Champions Trophy at The Oval?','Sarfaraz Ahmed','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1208','game9','In which city of Punjab is the shrine of Baba Farid (Fariduddin Ganjshakar)?','Pakpattan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1209','game9','What is the height of K2, the world''s second-highest mountain, to the nearest 100 metres?','About 8,600 metres (8,611 m)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1210','game9','The Aral Sea, which has shrunk dramatically since the 1960s, lies between which two Central Asian countries?','Kazakhstan and Uzbekistan','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1211','game9','What is the highest mountain in Turkey?','Mount Ararat','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game10','Aik Rangi Soch',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-1','game10','Name a fruit that is yellow.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-2','game10','What is the best flavor of ice cream?','','');

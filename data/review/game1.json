@@ -4608,7 +4608,7 @@
   {
    "id": "game1-355",
    "Name": "Pin",
-   "Description": "Small sharp metal fastener",
+   "Description": "Sharp metal fastener for notice boards or hijabs",
    "Category": "Stationery",
    "action": "edit",
    "original": {
@@ -4616,7 +4616,7 @@
     "Description": "A fastening tool",
     "Category": "Stationery"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Distinguishes Pin from neighbouring Stapler and Clip with concrete local uses; does not contain the word."
   },
   {
    "id": "game1-356",
@@ -5258,7 +5258,7 @@
   {
    "id": "game1-405",
    "Name": "Elbow",
-   "Description": "Bendy joint you lean on a desk with",
+   "Description": "Arm joint you rest on a desk",
    "Category": "Body Parts",
    "action": "edit",
    "original": {
@@ -5266,7 +5266,7 @@
     "Description": "Arm joint",
     "Category": "Body Parts"
    },
-   "note": "Specific hint; Debate: Old hint named 'arm', a sibling card; same leak fixed in P5 and P7."
+   "note": "Specific hint; Debate: Old hint named 'arm', a sibling card; same leak fixed in P5 and P7.; Debate: Fixes the trailing preposition and clarifies it is an arm joint, separating it from Knee."
   },
   {
    "id": "game1-406",

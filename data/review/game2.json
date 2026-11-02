@@ -6194,7 +6194,7 @@
   {
    "id": "game2-477",
    "Name": "Tablet",
-   "Description": "iPad | Big Phone | Touch | Screen | Kids",
+   "Description": "iPad | Big Phone | Touch | Screen | Android",
    "Category": "Electronics",
    "action": "edit",
    "original": {
@@ -6202,7 +6202,7 @@
     "Description": "electric | device | screen | battery",
     "Category": "Electronics"
    },
-   "note": ""
+   "note": "Debate: Android is a stronger banned clue than Kids."
   },
   {
    "id": "game2-478",
@@ -6532,7 +6532,7 @@
   {
    "id": "game2-503",
    "Name": "Saw",
-   "Description": "Wood | Cut | Teeth | Carpenter | Aari",
+   "Description": "Wood | Cut | Teeth | Carpenter | Aara",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6540,7 +6540,7 @@
     "Description": "tool | metal | work | fix",
     "Category": "Tools"
    },
-   "note": ""
+   "note": "Debate: Aara is the standard Urdu word for a saw."
   },
   {
    "id": "game2-504",
@@ -14559,6 +14559,86 @@
    "Category": "Body Parts",
    "action": "add",
    "note": "New card (debate): Common body part missing."
+  },
+  {
+   "id": null,
+   "Name": "Aqeeq",
+   "Description": "Ring | Stone | Red | Yemeni | Gem",
+   "Category": "Jewelry",
+   "action": "add",
+   "note": "New card (debate): Familiar local ring stone, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Paranda",
+   "Description": "Hair | Braid | Tassel | Bride | Black",
+   "Category": "Jewelry",
+   "action": "add",
+   "note": "New card (debate): Traditional bridal hair ornament, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sunrise",
+   "Description": "Sun | Morning | East | Fajr | Rising",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Distinct from Sun; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Comet",
+   "Description": "Tail | Space | Halley | Sky | Fireball",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Actable nature/space word, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Monitor",
+   "Description": "Screen | Computer | Display | Desktop | LED",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Everyday device, no card exists."
+  },
+  {
+   "id": null,
+   "Name": "Projector",
+   "Description": "Screen | Presentation | Beam | Light | Classroom",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Common and actable, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Gamepad",
+   "Description": "Controller | Buttons | PlayStation | Thumbs | Joystick",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Video games allowed; no gaming device card."
+  },
+  {
+   "id": null,
+   "Name": "Hacksaw",
+   "Description": "Saw | Metal | Blade | Pipe | Cut",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: banning Saw closes the shortcut and avoids overlap with the Saw card's hints."
+  },
+  {
+   "id": null,
+   "Name": "Boski",
+   "Description": "Men | Kameez | Shiny | Wedding | Cream",
+   "Category": "Fabrics",
+   "action": "add",
+   "note": "New card (debate): Classic Pakistani men's fabric, missing."
+  },
+  {
+   "id": null,
+   "Name": "Cambric",
+   "Description": "Cotton | Fine | Light | Dupatta | Summer",
+   "Category": "Fabrics",
+   "action": "add",
+   "note": "New card (debate): Common local fabric, not in deck."
   }
  ]
 }
