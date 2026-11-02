@@ -997,7 +997,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-995','game1','Halal','Permissible in Islam, like zabiha meat','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-996','game1','Bismillah','Words said before starting any task or meal','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-997','game1','Walima','Groom''s family feast after the nikah','Islamic Terms');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-998','game1','Guest','Mehman — visitor treated with dastarkhwan generosity','Family Relations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-998','game1','Guest','Mehman — visitor Islam teaches us to honour','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-999','game1','Elderly','Buzurg — wise senior whose dua we seek','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1000','game1','Pitthu Garam','Street game of toppling stacked stones with a ball','Sports');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1001','game1','Kite Flying','Rooftop pastime with patang and manjha string','Sports');
@@ -14375,6 +14375,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1006','game8','STINGY BOXES <---> OVERFLOWING BOXES','Write the sign outside a bakery whose pastry boxes are this generously filled','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1007','game8','JUST A GAME <---> LIFE OR DEATH','Write the first line of a rishta profile for someone who is this serious about gully cricket','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1008','game8','ONE-LINE REPLY <---> LONG LECTURE','Write Abbu''s answer when you ask if you can get a pet kitten, and his answer is this long-winded','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1009','game8','PLAIN <---> LOADED','Draw a bowl of haleem that is this loaded with toppings','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1010','game8','BARELY WORKS <---> WORKS PERFECTLY','Draw a robot that is this good at making roti','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1011','game8','PLAIN <---> VERY FANCY','Draw a groom''s pagri that is this fancy','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1012','game8','NO LINE <---> ENDLESS LINE','Draw the queue outside a naan shop just before iftar that is this long','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1013','game8','CALM <---> SHAKING WITH NERVES','Draw the face of a batsman who is this nervous before the last ball of a match','Drawing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -17332,6 +17337,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-907','game11','Customer','Falooda Wala','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-908','game11','Customer','Travel Agent','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-909','game11','Customer','Seekh Kabab Wala','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-910','game11','Customer','Kumhar (Potter)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-911','game11','Customer','Lohar (Blacksmith)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-912','game11','Problem','The carrom board in our house is missing _____ again!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-913','game11','Problem','The pothole outside my house is now big enough to swallow _____!','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');

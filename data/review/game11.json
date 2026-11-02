@@ -8815,6 +8815,34 @@
    "Description": "Seekh Kabab Wala",
    "action": "add",
    "note": "New card (debate): Popular food seller, no kabab seller in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Kumhar (Potter)",
+   "action": "add",
+   "note": "New card (debate): Not in deck; distinct trade with good pitch potential."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Lohar (Blacksmith)",
+   "action": "add",
+   "note": "New card (debate): Not in deck; distinct from other trades."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The carrom board in our house is missing _____ again!",
+   "action": "add",
+   "note": "New card (debate): No carrom card exists; noun blank fits."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The pothole outside my house is now big enough to swallow _____!",
+   "action": "add",
+   "note": "New card (debate): No pothole card exists; noun blank fits."
   }
  ]
 }

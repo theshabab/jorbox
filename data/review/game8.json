@@ -11950,6 +11950,46 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Challenger fixed the ambiguous subject."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> LOADED",
+   "Description": "Draw a bowl of haleem that is this loaded with toppings",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Local food, clear drawable scale, no haleem card exists."
+  },
+  {
+   "id": null,
+   "Name": "BARELY WORKS <---> WORKS PERFECTLY",
+   "Description": "Draw a robot that is this good at making roti",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Distinct from the existing robot and roti cards; clear opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> VERY FANCY",
+   "Description": "Draw a groom's pagri that is this fancy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No groom or pagri card exists; distinct wedding item with a clear scale."
+  },
+  {
+   "id": null,
+   "Name": "NO LINE <---> ENDLESS LINE",
+   "Description": "Draw the queue outside a naan shop just before iftar that is this long",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Distinct local Ramadan scene, clear scale."
+  },
+  {
+   "id": null,
+   "Name": "CALM <---> SHAKING WITH NERVES",
+   "Description": "Draw the face of a batsman who is this nervous before the last ball of a match",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No nervous batsman face card exists; cricket fits the audience."
   }
  ]
 }
