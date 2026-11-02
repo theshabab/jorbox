@@ -1475,7 +1475,7 @@
   {
    "id": "game2-114",
    "Name": "Zucchini",
-   "Description": "Green | Courgette | Squash | Long | Salad",
+   "Description": "Courgette | Squash | Green | Long | Summer",
    "Category": "Vegetables",
    "action": "edit",
    "original": {
@@ -1483,7 +1483,7 @@
     "Description": "vegetable | green | salad | cook",
     "Category": "Vegetables"
    },
-   "note": "Debate: Lauki is its own live card; cross-reference was confusing."
+   "note": "Debate: Lauki is its own live card; cross-reference was confusing.; Debate: Replaces the weak Salad hint; avoids Marrow, which is a different, larger vegetable."
   },
   {
    "id": "game2-115",
@@ -14367,6 +14367,70 @@
    "Category": "Spices",
    "action": "add",
    "note": "New card (debate): Challenger's amendment: Hing is the name Pakistani players actually say; checked, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Lettuce",
+   "Description": "Salad Patta | Leaves | Green | Crunchy | Sandwich",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Common vegetable missing from the deck; accurate hints."
+  },
+  {
+   "id": null,
+   "Name": "Spring Onion",
+   "Description": "Hara Pyaaz | Green | Stalks | Garnish | Thin",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "New card (debate): Distinct local vegetable not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Hanger",
+   "Description": "Wardrobe | Clothes | Hook | Wire | Shirt",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Easy-to-mime everyday item with no card of its own."
+  },
+  {
+   "id": null,
+   "Name": "Hammock",
+   "Description": "Rope | Trees | Lazy | Swing | Relax",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "New card (debate): Fun to mime and not in the deck; the vague Between hint is replaced with Relax."
+  },
+  {
+   "id": null,
+   "Name": "Saucer",
+   "Description": "Cup | Plate | Tea | Small | Under",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Appears only as a hint on Cup, with no card of its own."
+  },
+  {
+   "id": null,
+   "Name": "Basket",
+   "Description": "Tokri | Weave | Fruit | Wicker | Carry",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Common household item missing from the deck; not a duplicate of Basketball."
+  },
+  {
+   "id": null,
+   "Name": "Snail",
+   "Description": "Ghonga | Shell | Slow | Slime | Garden",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Easy, funny animal to act out and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Calf",
+   "Description": "Bachra | Baby | Cow | Young | Milk",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Familiar from Eid and Qurbani; distinct from Cow."
   }
  ]
 }

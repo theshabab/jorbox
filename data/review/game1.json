@@ -487,7 +487,7 @@
   {
    "id": "game1-38",
    "Name": "Makki Ki Roti",
-   "Description": "Cornflour flatbread eaten with saag",
+   "Description": "Cornmeal flatbread eaten with saag",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -495,7 +495,7 @@
     "Description": "A traditional flatbread",
     "Category": "Traditional Dishes"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Makki ka atta is maize flour (cornmeal); 'cornflour' in British usage means starch, so the old hint was inaccurate."
   },
   {
    "id": "game1-39",

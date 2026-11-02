@@ -37,7 +37,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-35','game1','Paye','Trotters cooked in spicy gravy','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-36','game1','Halwa Puri','Weekend breakfast: fried bread, sweet semolina, chana','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-37','game1','Saag','Mustard greens dish from Punjab','Traditional Dishes');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-38','game1','Makki Ki Roti','Cornflour flatbread eaten with saag','Traditional Dishes');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-38','game1','Makki Ki Roti','Cornmeal flatbread eaten with saag','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-39','game1','Daal Chawal','Lentils poured over plain rice','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-40','game1','Aloo Gosht','Everyday meat curry with potatoes','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-41','game1','Koftay','Meatballs cooked in curry','Traditional Dishes');
@@ -1400,7 +1400,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-109','game2','Okra','Bhindi | Ladyfinger | Slimy | Green | Fry','Vegetables');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-110','game2','Eggplant','Baingan | Brinjal | Purple | Bharta | Aubergine','Vegetables');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-111','game2','Cucumber','Kheera | Green | Raita | Cool | Salad','Vegetables');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-112','game2','Zucchini','Green | Courgette | Squash | Long | Salad','Vegetables');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-112','game2','Zucchini','Courgette | Squash | Green | Long | Summer','Vegetables');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-113','game2','Pumpkin','Kaddu | Orange | Big | Halwa | Round','Vegetables');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-114','game2','Bitter Gourd','Karela | Kadwa | Green | Diabetes | Spiky','Vegetables');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-115','game2','Bottle Gourd','Lauki | Ghiya | Green | Long | Halwa','Vegetables');
@@ -2577,6 +2577,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1286','game2','Lahori Fish','Machli | Fried | Besan | Winter | Crispy','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1287','game2','Sheermal','Saffron | Sweet | Bread | Nihari | Tandoor','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1288','game2','Hing','Asafoetida | Smell | Daal | Tarka | Resin','Spices');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1289','game2','Lettuce','Salad Patta | Leaves | Green | Crunchy | Sandwich','Vegetables');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1290','game2','Spring Onion','Hara Pyaaz | Green | Stalks | Garnish | Thin','Vegetables');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1291','game2','Hanger','Wardrobe | Clothes | Hook | Wire | Shirt','Clothing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1292','game2','Hammock','Rope | Trees | Lazy | Swing | Relax','Furniture');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1293','game2','Saucer','Cup | Plate | Tea | Small | Under','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1294','game2','Basket','Tokri | Weave | Fruit | Wicker | Carry','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1295','game2','Snail','Ghonga | Shell | Slow | Slime | Garden','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1296','game2','Calf','Bachra | Baby | Cow | Young | Milk','Animals');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game3','Jasoosi Club',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1','game3','Pakistani Cities','Karachi|Lahore|Islamabad|Rawalpindi|Faisalabad|Multan|Peshawar|Quetta|Sialkot|Gujranwala|Hyderabad|Abbottabad|Bahawalpur|Sargodha|Sukkur|Larkana|Sheikhupura|Jhelum|Rahim Yar Khan|Mardan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-2','game3','Islamic Prophets','Adam|Idris|Nuh|Hud|Saleh|Ibrahim|Lut|Ismail|Ishaq|Yaqub|Yusuf|Ayyub|Shuaib|Musa|Harun|Dawud|Sulaiman|Ilyas|Yunus|Isa','');
@@ -15739,6 +15747,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1190','game9','What is the largest cold desert in the world?','Antarctica','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1191','game9','Which gas in the upper atmosphere forms a layer that protects Earth from the Sun''s harmful ultraviolet rays?','Ozone','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1192','game9','The famous 1883 eruption of Krakatoa took place in a strait between which two Indonesian islands?','Sumatra and Java','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1193','game9','Which event in Sarajevo in June 1914 triggered the outbreak of World War I?','The assassination of Archduke Franz Ferdinand of Austria','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1194','game9','Which Afghan ruler defeated the Marathas at the Third Battle of Panipat in 1761?','Ahmad Shah Abdali (Durrani)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1195','game9','Which Persian ruler invaded Delhi in 1739 and carried off the Mughal Peacock Throne?','Nadir Shah','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1196','game9','Which famous diamond, whose name means ''Mountain of Light'', passed from the Sikh rulers of Lahore to the British Crown Jewels?','Koh-i-Noor','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1197','game9','Which Sikh ruler, proclaimed Maharaja in 1801, made Lahore the capital of his empire?','Maharaja Ranjit Singh','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1198','game9','In what year did the Soviet Union dissolve?','1991','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1199','game9','The Aswan High Dam, completed in 1970, controls which river?','The Nile','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game10','Aik Rangi Soch',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-1','game10','Name a fruit that is yellow.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-2','game10','What is the best flavor of ice cream?','','');
