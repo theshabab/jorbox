@@ -12023,6 +12023,36 @@
    "Name": "Dilemma",
    "action": "add",
    "note": "New card (debate): Abstract noun that can be acted out, not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Handshake",
+   "action": "add",
+   "note": "New card (debate): Common noun, distinct from Hand and Hug, easy to act out; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Hill",
+   "action": "add",
+   "note": "New card (debate): Simple geography noun not in deck; distinct from Mountain, Valley, Dune."
+  },
+  {
+   "id": null,
+   "Name": "Invitation",
+   "action": "add",
+   "note": "New card (debate): Everyday wedding/gathering noun not in deck; distinct from Eid Card."
+  },
+  {
+   "id": null,
+   "Name": "Harvest",
+   "action": "add",
+   "note": "New card (debate): Familiar farming noun in Pakistan, related to but distinct from Wheat and Farmer."
+  },
+  {
+   "id": null,
+   "Name": "Hut",
+   "action": "add",
+   "note": "New card (debate): Concrete, easy to draw; distinct from Tent and House."
   }
  ]
 }

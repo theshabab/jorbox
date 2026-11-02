@@ -8497,14 +8497,14 @@
   },
   {
    "id": "game7-773",
-   "Description": "light snowfall of grated parmesan",
+   "Description": "light snowfall of grated coconut",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "decorative gasoline wedding fountain",
     "Category": "Standard Prompts"
    },
-   "note": "removed Christmas"
+   "note": "removed Christmas; Debate: Localises parmesan; still drawable."
   },
   {
    "id": "game7-774",
@@ -8607,14 +8607,14 @@
   },
   {
    "id": "game7-783",
-   "Description": "ice princess but with meat powers",
+   "Description": "ice princess but with kabab powers",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "centaur works at target",
     "Category": "Standard Prompts"
    },
-   "note": "removed Disney film reference"
+   "note": "removed Disney film reference; Debate: Challenger amendment: keeps the original 'princess', localises the meat wording to kabab."
   },
   {
    "id": "game7-784",
@@ -9102,14 +9102,14 @@
   },
   {
    "id": "game7-828",
-   "Description": "going to the exam in a golf cart",
+   "Description": "going to the exam on a tractor trolley",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "going to the exam in a golf cart",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Local and funnier than a golf cart."
   },
   {
    "id": "game7-829",
@@ -9223,14 +9223,14 @@
   },
   {
    "id": "game7-839",
-   "Description": "ow! sharp cheddar",
+   "Description": "ow! sharp cheese",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "ow! sharp cheddar",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger amendment: keeps the sharp-cheese pun, since paneer is soft and loses it."
   },
   {
    "id": "game7-840",
@@ -9643,12 +9643,12 @@
    "id": "game7-877",
    "Description": "join us in the grain tub",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "join us in the grain tub",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Unclear, hard to draw, no clear joke."
   },
   {
    "id": "game7-878",
@@ -21435,6 +21435,34 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Affectionate Friend Mode card with the player token."
+  },
+  {
+   "id": null,
+   "Description": "a lassi glass so tall it needs a ladder",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct from the thick-lassi card, drawable and local."
+  },
+  {
+   "id": null,
+   "Description": "a ceiling fan so slow that the flies are overtaking it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable summer joke, the opposite of the existing fast-fan idea, easy to draw."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to carry all the grocery bags in one trip",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, relatable, PLAYER token kept exactly, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "a bhindi that wants to be a giant rocket",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Silly local vegetable, drawable, bhindi is not in the deck."
   }
  ]
 }

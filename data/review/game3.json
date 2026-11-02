@@ -4842,7 +4842,7 @@
   {
    "id": "game3-373",
    "Name": "I would probably use the word “mouthwatering” to describe...",
-   "Description": "The worst smell is probably...|I would probably use the word “spicy” to describe...|I would probably use the word “crispy” to describe...|I would probably use the words “to die for” to describe...|I would probably use the word “savory” to describe...|I would probably use the word “delicious” to describe...|I would probably use the word “yummy” to describe...|I would probably use the word “homemade” to describe...|I would probably use the word “tempting” to describe...",
+   "Description": "I would probably use the word “aromatic” to describe...|I would probably use the word “spicy” to describe...|I would probably use the word “crispy” to describe...|I would probably use the words “to die for” to describe...|I would probably use the word “savory” to describe...|I would probably use the word “delicious” to describe...|I would probably use the word “yummy” to describe...|I would probably use the word “homemade” to describe...|I would probably use the word “tempting” to describe...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4850,7 +4850,7 @@
     "Description": "The worst smell is probably...|I would probably use the word “spicy” to describe...|I would probably use the word “forbidden” to describe...|I would probably use the words “to die for” to describe...|I would probably use the word “savory” to describe...|I would probably use the word “delicious” to describe...|I would probably use the word “yummy” to describe...|I would probably use the word “homemade” to describe...|I would probably use the word “tempting” to describe...",
     "Category": "Writing"
    },
-   "note": "“forbidden” decoy -> “crispy”"
+   "note": "“forbidden” decoy -> “crispy”; Debate: Off-topic 'worst smell' decoy replaced with a close word prompt."
   },
   {
    "id": "game3-374",
@@ -4868,7 +4868,7 @@
   {
    "id": "game3-375",
    "Name": "I would probably use the word “sweaty” to describe...",
-   "Description": "My least favorite chore is...|I would probably use the word “humid” to describe...|I would probably use the word “hot” to describe...|When I think of the gym, I think of...|A weird body part is...|I would probably use the word “ewww” to describe...|I would probably use the word “stinky” to describe...|I would probably use the word “clammy” to describe...|I would probably use the word “gross” to describe...",
+   "Description": "I would probably use the word “sticky” to describe...|I would probably use the word “humid” to describe...|I would probably use the word “hot” to describe...|When I think of the gym, I think of...|I would probably use the word “muggy” to describe...|I would probably use the word “ewww” to describe...|I would probably use the word “stinky” to describe...|I would probably use the word “clammy” to describe...|I would probably use the word “gross” to describe...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4876,12 +4876,12 @@
     "Description": "My favorite cartoon character is...|I would probably use the word “humid” to describe...|I would probably use the word “hot” to describe...|When I think of the gym, I think of...|A weird body part is...|I would probably use the word “ewww” to describe...|I would probably use the word “stinky” to describe...|I would probably use the word “clammy” to describe...|I would probably use the word “gross” to describe...",
     "Category": "Writing"
    },
-   "note": "cartoon decoy replaced"
+   "note": "cartoon decoy replaced; Debate: Replace off-topic decoys with close word prompts."
   },
   {
    "id": "game3-376",
    "Name": "I would probably use the word “miracle” to describe...",
-   "Description": "I would probably use the word “rare” to describe...|I would probably use the word “sweaty” to describe...|My favorite person is...|My favorite way to relax is...|I would probably use the word “uplifting” to describe...|I would probably use the word “jaw-dropping” to describe...|I would probably use the word “wonderful” to describe...|I would probably use the word “common” to describe...",
+   "Description": "I would probably use the word “rare” to describe...|I would probably use the word “unusual” to describe...|I would probably use the word “lucky” to describe...|I would probably use the word “blessed” to describe...|I would probably use the word “uplifting” to describe...|I would probably use the word “jaw-dropping” to describe...|I would probably use the word “wonderful” to describe...|I would probably use the word “common” to describe...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4889,25 +4889,25 @@
     "Description": "I would probably use the word “rare” to describe...|I would probably use the word “sweaty” to describe...|My favorite person is...|My favorite way to relax is...|I would probably use the word “uplifting” to describe...|I would probably use the word “jawdropping” to describe...|I would probably use the word “magical” to describe...|I would probably use the word “common” to describe...",
     "Category": "Writing"
    },
-   "note": "Sweep: magic decoy replaced; Debate: Challenger's missed issue C2: spelling fix 'jawdropping' to 'jaw-dropping'."
+   "note": "Sweep: magic decoy replaced; Debate: Challenger's missed issue C2: spelling fix 'jawdropping' to 'jaw-dropping'.; Debate: Off-topic decoys replaced with close word prompts."
   },
   {
    "id": "game3-377",
-   "Name": "When I hear the term “inspirational,” I think...",
-   "Description": "My favorite athlete is...|My favorite person is...|Something I have to do every day is...|My favorite snack is...|When I hear the word “leadership,” I think...|When I hear the word “hero,” I think...|When I hear the word “miracle,” I think...|When I hear the word “ewww,” I think...",
+   "Name": "When I hear the word “inspirational,” I think...",
+   "Description": "When I hear the word “role model,” I think...|When I hear the word “courage,” I think...|When I hear the word “success,” I think...|When I hear the word “determination,” I think...|When I hear the word “leadership,” I think...|When I hear the word “hero,” I think...|When I hear the word “miracle,” I think...|When I hear the word “brave,” I think...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "When I hear the term “inspirational,” I think...",
     "Description": "My favorite athlete is...|My favorite person is...|Something I have to do every day is...|My favorite snack is...|When I hear the word “leadership,” I think...|When I hear the word “hero,” I think...|When I hear the word “miracle,” I think...|When I hear the word “ewww,” I think...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Off-topic decoys replaced; 'term' changed to 'word' to match decoys (challenger amendment)."
   },
   {
    "id": "game3-378",
    "Name": "When I hear the word “clumsy,” I think of...",
-   "Description": "The coolest fictional person is...|When I hear the word “stunning,” I think of...|When I hear the word “goofy,” I think of...|When I hear the word “butterfingers,” I think of...|When I hear the word “silly,” I think of...|When I hear the word “absent-minded,” I think of...|When I hear the word “muscular,” I think of...",
+   "Description": "When I hear the word “shy,” I think of...|When I hear the word “stunning,” I think of...|When I hear the word “goofy,” I think of...|When I hear the word “butterfingers,” I think of...|When I hear the word “silly,” I think of...|When I hear the word “absent-minded,” I think of...|When I hear the word “muscular,” I think of...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4915,7 +4915,7 @@
     "Description": "The coolest fictional person is...|When I hear the word “stunning,” I think of...|A celebrity that annoys me is...|When I hear the word “goofy,” I think of...|A celebrity I think is super-muscular is...|When I hear the word “dork,” I think of...|When I hear the word “silly,” I think of...|When I hear the word “doofus,” I think of...|When I hear the word “muscular,” I think of...",
     "Category": "Writing"
    },
-   "note": "obscure “goober” -> “clumsy”; celebrity decoys removed; Debate: Replaces the American slang 'dork' and 'doofus' with familiar words close to 'clumsy'."
+   "note": "obscure “goober” -> “clumsy”; celebrity decoys removed; Debate: Replaces the American slang 'dork' and 'doofus' with familiar words close to 'clumsy'.; Debate: Replace unrelated decoy with a matching word prompt."
   },
   {
    "id": "game3-379",
@@ -5310,7 +5310,7 @@
   {
    "id": "game3-409",
    "Name": "A historical figure I’d like to meet is...",
-   "Description": "My favorite person is...|A historical figure who was probably a jerk is...|My favorite athlete is...|My favorite fictional character is...|A historical figure I’d probably be buddies with is...|A historical figure that I’d probably hate is...|The name of the last person I texted is...",
+   "Description": "My favorite person is...|A historical figure who was probably a jerk is...|My favorite athlete is...|My favorite fictional character is...|A historical figure I’d probably be buddies with is...|A historical figure that I’d probably hate is...|A leader I would like to meet is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5318,7 +5318,7 @@
     "Description": "My favorite person is...|A historical figure who was probably a jerk is...|My favorite old-timey celebrity is...|My favorite athlete is...|My favorite fictional character is...|A historical figure I’d probably be buddies with is...|A historical figure that I’d probably hate is...|A historical figure I could probably marry is...|The name the last person I texted is...",
     "Category": "Writing"
    },
-   "note": "removed marry/celebrity decoys; grammar"
+   "note": "removed marry/celebrity decoys; grammar; Debate: Off-topic 'last person I texted' decoy replaced."
   },
   {
    "id": "game3-410",
@@ -5505,7 +5505,7 @@
   {
    "id": "game3-424",
    "Name": "My most annoying habit is probably...",
-   "Description": "My favorite summertime activity is...|A habit my co-worker has is...|A behaviour I always see on a local bus is...|They should outlaw...|My favorite hobby is...|A habit that annoys me is...|The minor thing that needs to be outlawed is...|A fad I never got into is...|When I wake in the morning, the first thing I do is...",
+   "Description": "A habit my sibling has that drives me crazy is...|A habit my co-worker has is...|A behaviour I always see on a local bus is...|They should outlaw...|My favorite hobby is...|A habit that annoys me is...|The minor thing that needs to be outlawed is...|A fad I never got into is...|When I wake in the morning, the first thing I do is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5513,7 +5513,7 @@
     "Description": "My favorite summertime activity is...|A habit my co-worker has is...|A behavior I always see on public transit is...|They should outlaw...|My favorite hobby is...|A habit that annoys me is...|The minor thing that needs to be outlawed is...|A fad I never got into is...|When I wake in the morning, the first thing I do is...",
     "Category": "Writing"
    },
-   "note": "Debate: 'Public transit' is US usage; 'local bus' is the natural local equivalent."
+   "note": "Debate: 'Public transit' is US usage; 'local bus' is the natural local equivalent.; Debate: Off-topic summertime decoy replaced with a habit decoy."
   },
   {
    "id": "game3-425",
@@ -5635,7 +5635,7 @@
   {
    "id": "game3-434",
    "Name": "I wish my nickname was...",
-   "Description": "The name of someone in this room is...|A historical figure I’d probably hate in person is...|A place I’d like to visit is...|My guilty pleasure food is...|A nickname I used to have was...|If I was a cricketer, my nickname would be...",
+   "Description": "A nickname I gave a friend is...|A historical figure I’d probably hate in person is...|A place I’d like to visit is...|My guilty pleasure food is...|A nickname I used to have was...|If I was a cricketer, my nickname would be...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5643,7 +5643,7 @@
     "Description": "The name of someone in this room is...|If I was in a the mob, they would call me...|If I was a hip hop artist, they would call me...|A historical figure I’d probably hate in person is....|A celebrity I’ve heard enough about is...|The best old TV show was...|A place I’d like to visit is...|My guilty pleasure food is...|A nickname I used to have was...",
     "Category": "Writing"
    },
-   "note": "removed mob/hip hop/celebrity/TV decoys"
+   "note": "removed mob/hip hop/celebrity/TV decoys; Debate: Off-topic 'someone in this room' decoy replaced with a nickname one."
   },
   {
    "id": "game3-435",
@@ -5934,7 +5934,7 @@
   {
    "id": "game3-457",
    "Name": "My favorite month of the year is...",
-   "Description": "The best month to take a vacation is...|My birthday month is...|The current month is...|The month with the best weather in Pakistan is...",
+   "Description": "The best month to take a vacation is...|My least favorite month of the year is...|My birthday month is...|The best month to visit the northern areas is...|The month with the best weather in Pakistan is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5942,20 +5942,20 @@
     "Description": "The best month to take a vacation is...|My birthday month is...|The current month is...",
     "Category": "Writing"
    },
-   "note": "Debate: Add a fourth plausible local decoy."
+   "note": "Debate: Add a fourth plausible local decoy.; Debate: Remove factual 'current month' tell."
   },
   {
    "id": "game3-458",
    "Name": "The best month to take a vacation is...",
-   "Description": "The current month is...|My favorite month of the year is...|A month I can never spell is...",
+   "Description": "The worst month to take a vacation is...|My favorite month of the year is...|The best month to visit Murree is...|The best month for a wedding is...",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "The best month to take a vacation is...",
     "Description": "The current month is...|My favorite month of the year is...|A month I can never spell is...",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Replace weak decoys with close opinion prompts."
   },
   {
    "id": "game3-459",
@@ -5999,7 +5999,7 @@
   {
    "id": "game3-462",
    "Name": "The worst smell in the world would have to be...",
-   "Description": "My favorite type of cheese is...|The grossest thing in my refrigerator right now is...|The worst smelling animal is...|The worst smelling food is...|A smell I can’t stand is...|The name of someone in this room is...|The most powerful smell is...",
+   "Description": "The best smell in the world would have to be...|The grossest thing in my refrigerator right now is...|The worst smelling animal is...|The worst smelling food is...|A smell I can’t stand is...|The worst smelling place I have been to is...|The most powerful smell is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -6007,7 +6007,7 @@
     "Description": "My favorite type of cheese is...|The grossest thing in my refrigerator right now is...|The worst smelling animal is...|My favorite celebrity is...|The worst smelling food is...|A smell I can’t stand is...|The name of someone in this room is...|The most powerful smell is...",
     "Category": "Writing"
    },
-   "note": "removed celebrity decoy"
+   "note": "removed celebrity decoy; Debate: Replace off-topic decoys with smell-related ones."
   },
   {
    "id": "game3-463",
@@ -6077,7 +6077,7 @@
   {
    "id": "game3-468",
    "Name": "My favorite video game is...",
-   "Description": "The name of this game is...|A great game for family get-togethers is...|They should make a video game out of...|The video game with the best story is...|The last video game I played was...|A video game I used to love is...|The hardest video game is...|My favorite childhood video game was...|A video game I stink at is...",
+   "Description": "A video game I would recommend to a friend is...|A great game for family get-togethers is...|They should make a video game out of...|The video game with the best story is...|The last video game I played was...|A video game I used to love is...|The hardest video game is...|My favorite childhood video game was...|A video game I stink at is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -6085,7 +6085,7 @@
     "Description": "The name of this game is...|A great party game is...|They should make a video game out of...|The video game with the best story is...|The last video game I played was...|A video game I used to love is...|The hardest video game is...|My favorite childhood video game was...|A video game I stink at is...",
     "Category": "Writing"
    },
-   "note": "party game→family game"
+   "note": "party game→family game; Debate: Meaningless 'name of this game' decoy replaced."
   },
   {
    "id": "game3-469",
@@ -6181,7 +6181,7 @@
   {
    "id": "game3-476",
    "Name": "One of the best gifts I ever got was...",
-   "Description": "The grossest thing I’ve ever touched is...|The most expensive thing I own is...|The item in my home I’ve had the longest is...|The weirdest thing I’ve ever stepped on was...|The best superpower would be...|My favorite article of clothing is my...|The best gift I’ve ever given someone was...|A gift I never use is...|My favorite book is...",
+   "Description": "The worst gift I ever received is...|The most expensive thing I own is...|The item in my home I’ve had the longest is...|The weirdest thing I’ve ever stepped on was...|My favorite article of clothing is my...|The best gift I’ve ever given someone was...|A gift I never use is...|My favorite book is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -6189,7 +6189,7 @@
     "Description": "The grossest thing I’ve ever touched is...|The most expensive thing I own is...|The item in my home I’ve had the longest is...|The grossest thing I’ve ever stepped in was...|The best superpower would be...|My favorite article of clothing is my...|The best gift I’ve ever given someone was...|A gift I never use is...|My favorite book is...",
     "Category": "Writing"
    },
-   "note": "Debate: \"The grossest thing I’ve ever stepped in\" invites bathroom-type answers, which the owner does not allow. Changed it to \"the weirdest thing I’ve ever stepped on\"."
+   "note": "Debate: \"The grossest thing I’ve ever stepped in\" invites bathroom-type answers, which the owner does not allow. Changed it to \"the weirdest thing I’ve ever stepped on\".; Debate: Dropped 'grossest thing touched' and replaced superpower decoy with a gift-related one."
   },
   {
    "id": "game3-477",
@@ -6311,7 +6311,7 @@
   {
    "id": "game3-486",
    "Name": "A country I want to visit is...",
-   "Description": "The country with the most beautiful natural landmarks is...|The name of a country I can never spell is...|The country closest to Pakistan is...|My favorite fictional location is...|A landmark I want to see is...|A city I want to visit is...",
+   "Description": "The country with the most beautiful natural landmarks is...|The name of a country I can never spell is...|A country I would never want to live in is...|The country with the best food is...|A landmark I want to see is...|A city I want to visit is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -6319,7 +6319,7 @@
     "Description": "The country with the most beautiful natural landmarks is...|The name of a country I can never spell is....|The next closest country is...|My favorite fictional location is...|A landmark I want to see is...|A city I want to visit is...",
     "Category": "Writing"
    },
-   "note": "Debate: Challenger's missed issue C7: four dots become an ellipsis.; Debate: \"The next closest country\" had no reference point. It now names Pakistan."
+   "note": "Debate: Challenger's missed issue C7: four dots become an ellipsis.; Debate: \"The next closest country\" had no reference point. It now names Pakistan.; Debate: Remove factual-answer and off-topic decoys."
   },
   {
    "id": "game3-487",
@@ -6414,8 +6414,8 @@
   },
   {
    "id": "game3-494",
-   "Name": "I could run a mile in under six minutes.",
-   "Description": "I could bench press 70 kg.|I can fix almost anything on my car.|I could bowl a bouncer at 140 km/h.",
+   "Name": "I could run 5 km without stopping.",
+   "Description": "I could bench press 70 kg.|I can fix almost anything on my car.|I could bowl a bouncer at 140 km/h.|I could cycle to work every day.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6423,7 +6423,7 @@
     "Description": "I could bench press 150 pounds.|I can fix most anything on my car.|I can slam dunk.",
     "Category": "Rating"
    },
-   "note": "Debate: Challenger amendment: localise the US decoys (pounds, slam dunk) and fix 'most anything' to 'almost anything'."
+   "note": "Debate: Challenger amendment: localise the US decoys (pounds, slam dunk) and fix 'most anything' to 'almost anything'.; Debate: Localise mile to km; add a decoy."
   },
   {
    "id": "game3-495",
@@ -6505,8 +6505,8 @@
   },
   {
    "id": "game3-501",
-   "Name": "Spaghetti is the best food, hands down.",
-   "Description": "I love pasta.|I love trying new restaurants.|Chicken karahi is the best food, hands down.|Pizza is the best food, hands down.|Pasta should always be extra spicy.|I am a “foodie.”",
+   "Name": "Biryani is the best food, hands down.",
+   "Description": "I love nihari.|I love trying new restaurants.|Chicken karahi is the best food, hands down.|Pizza is the best food, hands down.|Haleem should always be extra spicy.|I am a “foodie.”",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6514,12 +6514,12 @@
     "Description": "I love pasta.|I am a movie buff.|Grilled cheese are the best sandwiches, hands down.|Pizza is the best food, hands down.|No steak should be cooked well done.|I am a “foodie.”",
     "Category": "Rating"
    },
-   "note": "replaced movie decoy; grammar; Debate: Replaces the American decoys (grilled cheese, well-done steak) with close local ones."
+   "note": "replaced movie decoy; grammar; Debate: Replaces the American decoys (grilled cheese, well-done steak) with close local ones.; Debate: Localise Western spaghetti/pasta frame."
   },
   {
    "id": "game3-502",
    "Name": "I cry at least once a week.",
-   "Description": "I get emotional at weddings and rukhsatis.|I cry at sad stories.|I’m in touch with my feelings.|I don’t cry... ever.|I can slaughter a goat on Eid.",
+   "Description": "I get emotional at weddings and rukhsatis.|I cry at sad stories.|I’m in touch with my feelings.|I don’t cry... ever.|I tear up when I hear a moving naat.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6527,12 +6527,12 @@
     "Description": "I love romantic movies.|Pie is so much better than cake.|I cry at sad movies.|I’m in touch with my feelings.|I don’t cry... ever.|I can butcher a hog.",
     "Category": "Rating"
    },
-   "note": "removed romantic-movie/hog decoys; Debate: Keeps this decoy in sync with the localised card 498.; Debate: Replaces the unrelated gulab jamun decoy that gave the impostor away."
+   "note": "removed romantic-movie/hog decoys; Debate: Keeps this decoy in sync with the localised card 498.; Debate: Replaces the unrelated gulab jamun decoy that gave the impostor away.; Debate: Replace unrelated decoy with emotional-response one."
   },
   {
    "id": "game3-503",
    "Name": "I’m a cat person.",
-   "Description": "I’m not a big fan of naps.|I hate pets.|I want to own 5 cats.|I like dogs.|I feed stray cats.|I would go hunting.",
+   "Description": "I’d rather have a parrot than a cat.|I hate pets.|I want to own 5 cats.|I like dogs.|I feed stray cats.|I had a pet growing up.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6540,7 +6540,7 @@
     "Description": "I’m not a big fan of naps.|I hate pets.|I want to own 5 cats.|I like dogs.|I wear fur.|I would go hunting.",
     "Category": "Rating"
    },
-   "note": "Debate: Challenger's missed issue C3: 'I wear fur' is a Western reference; replaced with a close local decoy."
+   "note": "Debate: Challenger's missed issue C3: 'I wear fur' is a Western reference; replaced with a close local decoy.; Debate: Replace unrelated decoys with pet-themed ones."
   },
   {
    "id": "game3-504",
@@ -13417,6 +13417,54 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Fits naming cards and Eid theme; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about living in a joint family is...",
+   "Description": "The worst thing about living in a joint family is...|The loudest person in my family is...|The best thing about my cousins is...|The funniest thing my uncle does is...|My favorite family tradition is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local family-life prompt; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "The most useful thing in a Pakistani kitchen is...",
+   "Description": "The most useless gadget in my kitchen is...|The first thing I would save from a kitchen fire is...|My favorite spice is...|The thing my mother never lets me touch in the kitchen is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New kitchen prompt, distinct from existing cards."
+  },
+  {
+   "id": null,
+   "Name": "A place in Pakistan I would take a foreign guest to first is...",
+   "Description": "The first place I would take a guest in my own city is...|A place in Pakistan I would never take a guest is...|The best place in Pakistan for a picnic is...|A city in Pakistan everyone should visit is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local travel prompt with place-based decoys (challenger amendment)."
+  },
+  {
+   "id": null,
+   "Name": "I can eat very spicy food without drinking any water.",
+   "Description": "I add green chillies to everything.|I prefer mild food.|I can’t eat anything without raita.|I drink lassi with spicy food.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New familiar local Rating card."
+  },
+  {
+   "id": null,
+   "Name": "I always carry cash, even though I have a banking app.",
+   "Description": "I never leave the house without my wallet.|I pay for everything with my phone.|I always keep emergency money hidden at home.|I never carry more than Rs 500.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New Rating card with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "I prefer sitting on the floor to a chair when eating at a dawat.",
+   "Description": "I prefer eating at a dining table.|I always take second helpings at a dawat.|I always sit near the food at a dawat.|I eat with my hands whenever I can.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New dawat-etiquette Rating card."
   }
  ]
 }
