@@ -4086,14 +4086,14 @@
   },
   {
    "id": "game16-372",
-   "Name": "Have you traveled to any different countries? Which ones?",
+   "Name": "Which countries have you travelled to, and which was your favourite?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Have you traveled to any different countries? Which ones?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Clearer wording with a follow-up; distinct from the best/worst travel card."
   },
   {
    "id": "game16-373",
@@ -4317,14 +4317,14 @@
   },
   {
    "id": "game16-393",
-   "Name": "What old trend is coming back these days (flared trousers, retro kurtas, old cartoons)?",
+   "Name": "What old trend is coming back these days (flared trousers, retro kurtas, kohlapuri chappals)?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "What old trend is coming back these days?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "Debate: Local examples make the question easier to answer."
+   "note": "Debate: Local examples make the question easier to answer.; Debate: Removes the pop-culture example (old cartoons) for a local fashion one."
   },
   {
    "id": "game16-394",
@@ -9962,6 +9962,41 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Reflective opener, distinct from the pending mood-lifter and parents-habit cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest mistake an elder in your family has made with a smartphone?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable, family-friendly, no equivalent card."
+  },
+  {
+   "id": null,
+   "Name": "When has your phone saved you in an emergency or a tight spot?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Story prompt distinct from the existing phone habit/annoyance cards."
+  },
+  {
+   "id": null,
+   "Name": "Which shop or stall (a bakery, a chaat stand, a cloth merchant) have you been loyal to for years, and why do you keep going back?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording avoids overlap with the tailor/barber and kiryana cards."
+  },
+  {
+   "id": null,
+   "Name": "Which sport have you never tried but would love to learn (squash, swimming, archery, horse riding)?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Distinct from the sports you play and Pakistan hockey/squash cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the best piece of advice you ever got from a book?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): New angle on books, not a duplicate."
   }
  ]
 }

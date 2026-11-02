@@ -3768,11 +3768,11 @@
   {
    "id": "game10-419",
    "Name": "Name a useless superpower.",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What is a lame super power?"
    },
-   "note": "Debate: Fixes the 'super power' spelling and replaces the slang 'lame'. Not a duplicate of 150."
+   "note": "Debate: Scattered answers, poor for matching."
   },
   {
    "id": "game10-420",
@@ -3813,11 +3813,11 @@
   {
    "id": "game10-424",
    "Name": "What is a word you associate with home?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is a word you associate with home?"
    },
-   "note": ""
+   "note": "Debate: Open word association, no convergent answers."
   },
   {
    "id": "game10-425",
@@ -3849,11 +3849,11 @@
   {
    "id": "game10-428",
    "Name": "Name something that is better smaller.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Name something that is better smaller."
    },
-   "note": ""
+   "note": "Debate: Vague, no convergent answers."
   },
   {
    "id": "game10-429",
@@ -3885,11 +3885,11 @@
   {
    "id": "game10-432",
    "Name": "What is something you can learn by yourself?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "What is something you can learn by yourself?"
    },
-   "note": ""
+   "note": "Debate: Scattered answers, weak for matching."
   },
   {
    "id": "game10-433",
@@ -3975,11 +3975,11 @@
   {
    "id": "game10-442",
    "Name": "What would you buy if it were cheap?",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "What would you buy if it was cheap?"
    },
-   "note": "grammar"
+   "note": "Debate: Wildly scattered answers."
   },
   {
    "id": "game10-443",
@@ -4109,12 +4109,12 @@
   },
   {
    "id": "game10-457",
-   "Name": "Who in history would you like to meet?",
-   "action": "keep",
+   "Name": "Which Pakistani or Muslim hero from history would you like to meet?",
+   "action": "edit",
    "original": {
     "Name": "Who in history would you like to meet?"
    },
-   "note": ""
+   "note": "Debate: Bounded frame makes answers converge without awkward prophet exclusion."
   },
   {
    "id": "game10-458",
@@ -4290,11 +4290,11 @@
   {
    "id": "game10-477",
    "Name": "Why would an alien visit Earth?",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Why would an alien visit Earth?"
    },
-   "note": ""
+   "note": "Debate: Sentence answers cannot be matched."
   },
   {
    "id": "game10-478",
@@ -4523,12 +4523,12 @@
   },
   {
    "id": "game10-503",
-   "Name": "Name a famous shoe brand.",
-   "action": "keep",
+   "Name": "Name a famous shoe brand in Pakistan.",
+   "action": "edit",
    "original": {
     "Name": "Name a famous shoe brand."
    },
-   "note": ""
+   "note": "Debate: Localises the prompt and distinguishes it from the other identical shoe brand card."
   },
   {
    "id": "game10-504",
@@ -7610,6 +7610,48 @@
    "Name": "Name something you put in a sandwich.",
    "action": "add",
    "note": "New card (debate): Easy common answers; no sandwich card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal known for being slow.",
+   "action": "add",
+   "note": "New card (debate): Clear common answers (tortoise, snail, sloth); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a bird of prey.",
+   "action": "add",
+   "note": "New card (debate): Clear category (eagle, falcon, hawk); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal with horns.",
+   "action": "add",
+   "note": "New card (debate): Common answers goat, cow, buffalo, deer; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something that floats on water.",
+   "action": "add",
+   "note": "New card (debate): Converging answers (boat, leaf, wood); not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name a flower used to make garlands.",
+   "action": "add",
+   "note": "New card (debate): Simpler wording than proposed; answers rose, motia, marigold."
+  },
+  {
+   "id": null,
+   "Name": "Name an animal that lives both in water and on land.",
+   "action": "add",
+   "note": "New card (debate): Frog, crocodile, turtle; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something villagers carry on their head.",
+   "action": "add",
+   "note": "New card (debate): Village frame avoids cap answers; matka, tokri, wood bundle."
   }
  ]
 }

@@ -3575,9 +3575,9 @@
   },
   {
    "id": null,
-   "Description": "Things You Can Buy for Under 100 Rupees",
+   "Description": "Things You Can Buy for Under 200 Rupees",
    "action": "add",
-   "note": "New card (debate): A local everyday category that starts inflation arguments: toffee, matchbox, pencil, eraser, sharpener, pakora, roti, small water bottle, balloon, chewing gum. The reason uses the challenger's cleaned-up wording."
+   "note": "New card (debate): A local everyday category that starts inflation arguments: toffee, matchbox, pencil, eraser, sharpener, pakora, roti, small water bottle, balloon, chewing gum. The reason uses the challenger's cleaned-up wording.; Debate: 100 rupees buys very little today; 200 gives more guessable answers."
   },
   {
    "id": null,
@@ -5294,6 +5294,42 @@
    "Description": "Things You Paint (Wall, Nails, Gate, Truck...)",
    "action": "add",
    "note": "New card (debate): Many easy answers; only related live card is the narrower 'Things Painted on Pakistani Trucks'."
+  },
+  {
+   "id": null,
+   "Description": "Things Ammi Hides From the Kids (Mithai, Eidi, Remote, Chocolates...)",
+   "action": "add",
+   "note": "New card (debate): Relatable desi category; challenger's amendment avoids overlap with 'Things Ammi Saves for Mehmaan'."
+  },
+  {
+   "id": null,
+   "Description": "Excuses for Not Waking Up for Fajr",
+   "action": "add",
+   "note": "New card (debate): Funny, relatable, allowed worship-related personal question; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things You Sign (Cheque, Form, Application, Nikahnama...)",
+   "action": "add",
+   "note": "New card (debate): Everyday category with many well-known answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things With Pages (Book, Copy, Diary, Quran, Calendar...)",
+   "action": "add",
+   "note": "New card (debate): Easy, broad category; different property from 'Things Made of Paper'."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do While Watching a Cricket Match (Shout, Eat Samosay, Bite Nails...)",
+   "action": "add",
+   "note": "New card (debate): Culturally apt, activities rather than objects, distinct from 'Things at a Cricket Match'."
+  },
+  {
+   "id": null,
+   "Description": "Things People Search on Google (Weather, Cricket Score, Recipes, Namaz Timings...)",
+   "action": "add",
+   "note": "New card (debate): Modern and relatable with many answers; no existing search card."
   }
  ]
 }
