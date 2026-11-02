@@ -11276,10 +11276,10 @@
   {
    "id": null,
    "Name": "flag",
-   "Description": "In 2012, 24,200 people at Lahore's National Hockey Stadium set a Guinness World Record by forming the largest human national ____.",
+   "Description": "In Lahore, tens of thousands of people filled a stadium to set a Guinness World Record by forming the largest human national ____.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Verified Pakistani record fact; not in deck.; Debate: Assign existing category Pakistan Facts"
+   "note": "New card (debate): Verified Pakistani record fact; not in deck.; Debate: Assign existing category Pakistan Facts; Debate: Exact year and crowd figure cannot be verified; vaguer wording keeps the true core and the same answer."
   },
   {
    "id": null,
@@ -14344,6 +14344,30 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Correct, surprising, no duplicate in deck."
+  },
+  {
+   "id": null,
+   "Name": "Yemen",
+   "Description": "The coffee drink called mocha is named after a port city in ____ that once shipped much of the world's coffee.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (Al-Mokha), no mocha card in deck, different from the existing coffee-origin card."
+  },
+  {
+   "id": null,
+   "Name": "N",
+   "Description": "The English word \"orange\" comes from the Persian \"narenj\" and once began with the letter ____, until \"a norange\" became \"an orange\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-established etymology, surprising, not in deck (carrot card is a different fact)."
+  },
+  {
+   "id": null,
+   "Name": "coin",
+   "Description": "The word \"sequin\" comes from the Arabic \"sikka\", and it was originally a gold ____ of Venice.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (sikka to zecchino to sequin), not in deck, fits the Arabic-loanword cluster."
   }
  ]
 }

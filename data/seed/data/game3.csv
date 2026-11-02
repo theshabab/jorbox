@@ -513,7 +513,7 @@ An ATM gives you twice the amount of money you requested. What you should do is.
 A ten-year-old eats a supermarket grape without paying. What you should do is...,report them|tell them to confess|give a thumbs up,Morality
 You find out the leader of your country is a space alien. But life for everyone has never been better. What you should do is...,turn them in|enjoy the ride|tip off the press,Morality
 A teammate wins your cricket final by secretly tampering with the ball. What you should do is...,turn them in|keep it secret|tip off the press,Morality
-You find out your beloved grandfather has been lying about being a war hero. What you should do is...,expose him to the family|keep it secret|tip off the press,Morality
+You find out your beloved grandfather has been lying about being a war hero. What you should do is...,expose him to the family|keep it secret|talk to him privately,Morality
 A good friend is worried they’ll fail the board exam and asks to copy from your paper. What you should do is...,help them|refuse|report them,Morality
 You spot a coworker’s wedding ring in the office sink. You must...,keep it|let it go down the drain|bring it to them,Morality
 You accidentally leave the tap running and flood your neighbour’s garage. What you should do is...,tell someone|fix it|leave a note,Morality
@@ -547,13 +547,13 @@ Things at a Sunday Bazaar,Stalls|Vegetables|Fruit|Second-Hand Clothes|Shoes|Croc
 Things on a Pakistani Truck,Truck Art|Chamak Patti|Bells|Chains|Painted Eyes|Peacock|Eagle|Flowers|Poetry|Mountains|Wooden Doors|Mirrors|Horn|Headlights|Mud Flaps|Driver|Cleaner|Load|Tarpaulin|Spare Tyre,
 Things at an Airport,Runway|Terminal|Boarding Pass|Passport|Visa|Check-In Counter|Luggage|Trolley|Conveyor Belt|Security Check|Immigration|Customs|Gate|Departure Lounge|Pilot|Flight Attendant|Control Tower|Duty Free|Arrivals|Announcement,
 Things at a Dhaba,Charpai|Doodh Patti|Paratha|Daal|Karahi|Tandoor|Roti|Steel Glass|Water Jug|Truck|Waiter|Raita|Salad|Achaar|Fire|Smoke|Flies|Plastic Table|Chotu|Bill,
-Things in Ramadan,Sehri|Iftar|Roza|Taraweeh|Laylatul Qadr|Itikaf|Zakat|Fitrana|Siren|Azan|Dates|Rooh Afza|Pakoray|Fruit Chaat|Khatam ul Quran|Dua|Jumma tul Wida|Moon Sighting|Iftar Dawat|Sehri Wala Drum,
+Things in Ramadan,Sehri|Iftar|Roza|Taraweeh|Laylatul Qadr|Itikaf|Zakat|Fitrana|Siren|Azan|Dates|Rooh Afza|Pakoray|Fruit Chaat|Khatam ul Quran|Dua|Jumma tul Wida|Moon Sighting|Ramadan Timetable|Sehri Wala Drum,
 Things on Hajj and Umrah,Ihram|Kaaba|Masjid al-Haram|Tawaf|Sai|Safa|Marwa|Zamzam|Hajar al-Aswad|Mina|Arafat|Muzdalifah|Rami|Talbiyah|Qurbani|Halq|Madinah|Masjid an-Nabawi|Tents|Miqat,
 Things at a Barber Shop,Scissors|Comb|Razor|Trimmer|Clippers|Mirror|Chair|Cape|Shaving Foam|Brush|Spray Bottle|Hair Gel|Talcum Powder|Towel|Beard|Moustache|Head Massage|Waiting Bench|Newspaper|Hair on the Floor,
 Things in a Kiryana Store,Atta|Chawal|Cheeni|Daal|Ghee|Cooking Oil|Tea Leaves|Salt|Spices|Biscuits|Soap|Shampoo|Washing Powder|Eggs|Bread|Milk Packs|Toffees|Matchbox|Udhaar Register|Scale,
 Things in a Playground,Swing|Slide|See-Saw|Merry-Go-Round|Monkey Bars|Sandpit|Climbing Frame|Bench|Football|Cricket Bat|Ball|Cycle|Kite|Grass|Trees|Children|Ice Cream Cart|Fence|Gate|Water Tap,
 Things in Space,Sun|Moon|Earth|Mars|Jupiter|Saturn|Venus|Mercury|Star|Comet|Asteroid|Meteor|Galaxy|Milky Way|Black Hole|Satellite|Rocket|Astronaut|Space Station|Telescope,
-Shapes,Circle|Square|Triangle|Rectangle|Oval|Star|Heart|Diamond|Pentagon|Hexagon|Octagon|Crescent|Cube|Sphere|Cone|Cylinder|Pyramid|Arrow|Cross|Spiral,
+Shapes,Circle|Square|Triangle|Rectangle|Oval|Star|Heart|Diamond|Pentagon|Hexagon|Octagon|Crescent|Cube|Sphere|Cone|Cylinder|Pyramid|Parallelogram|Trapezium|Spiral,
 Things at a Petrol Pump,Petrol|Diesel|CNG|Nozzle|Pump Attendant|Meter|Queue|Tyre Air|Car Wash|Tuck Shop|Mobile Oil|Receipt|Card Machine|Canopy|Fire Extinguisher|No Smoking Sign|Motorbikes|Rickshaws|Price Board|Washroom,
 Things in a Village,Fields|Tube Well|Tractor|Buffalo|Cow|Goat|Hens|Charpai|Hookah|Chaupal|Mud House|Tandoor|Uplay|Canal|Haveli|Choudhry|Kachi Road|Bullock Cart|Lassi|Masjid,
 Things in Pakistani Winter,Razai|Shawl|Sweater|Jacket|Gloves|Socks|Muffler|Topi|Gas Heater|Fog|Smog|Gajar ka Halwa|Peanuts|Chilgoza|Soup|Sarson ka Saag|Makki ki Roti|Gas Load-Shedding|Geyser|Chapped Lips,
@@ -588,7 +588,7 @@ Draw a sleepy student.,Draw a tired worker.|Draw a bored teacher.|Draw a lazy ca
 Draw a broken umbrella.,Draw a windy day.|Draw a bat.|Draw a mushroom.|Draw a broken chair.|Draw a rainy day.,Drawing 2
 Draw a cricket bat.,Draw a paddle.|Draw a hockey stick.|Draw a rolling pin.|Draw a cricket ball.|Draw an oar.,Drawing 2
 Draw a crow.,Draw a pigeon.|Draw a parrot.|Draw a black cat.|Draw a scarecrow.|Draw a sparrow.,Drawing 2
-Draw a lost shoe.,Draw a lost sock.|Draw a lost child.|Draw an old boot.|Draw a chappal.|Draw a shoe shop.,Drawing 2
+Draw a lost shoe.,Draw a lost sock.|Draw a lost key.|Draw an old boot.|Draw a chappal.|Draw a shoe shop.,Drawing 2
 Draw an angry chef.,Draw an angry teacher.|Draw a busy kitchen.|Draw a burnt meal.|Draw a hungry customer.|Draw a butcher.,Drawing 2
 Draw a qurbani goat.,Draw a cow.|Draw a sheep.|Draw a cattle market.|Draw a mountain goat.|Draw a pet lamb.|Draw a butcher.,Drawing 2
 Draw a snowman.,Draw a polar bear.|Draw a cloud.|Draw a scarecrow.|Draw a snowy mountain.|Draw a penguin.,Drawing 2
@@ -1134,3 +1134,7 @@ I would rather ride a motorbike than sit in a car.,I love long motorbike rides.|
 I can recite Surah Ar-Rahman from memory.,I can recite Ayatul Kursi from memory.|I know all four Quls by heart.|I listen to Quran recitation every day.|I would like to become a hafiz.,Rating
 I ask for the Wi-Fi password the moment I enter someone’s house.,I use mobile data everywhere.|I never ask for passwords.|I check my phone as soon as I sit down.|I would rather talk to people than use my phone at someone’s house.,Rating
 I have hidden in my room to avoid guests.,I enjoy hosting guests.|I love visiting relatives.|I like quiet evenings at home.|I pretend to be asleep when guests arrive.,Rating
+Things at a NADRA Office,CNIC|B-Form|Token|Queue|Counter|Form|Fingerprint Scanner|Camera|Fee Challan|Photocopy|Waiting Hall|Agent|Stamp|Receipt|Security Guard|Water Cooler|Family Tree|Smart Card|Biometric Verification|Verification Slip,
+Things at an Aqiqah,Goat|Newborn Baby|Cradle|Naming|Shaving the Baby's Head|Butcher|Dua|Mithai Boxes|Biryani|Relatives|Grandparents|Gifts|Baby Clothes|Cousins|Meat Distribution|Photos|Guests|Poor Neighbours|Feast|Gold Chain,
+Things at a Haji's Send-Off,Garlands|Relatives|Dua|Ihram Set|Suitcase|Zamzam Can|Passport|Airport|Hugs|Tasbeeh|Prayer Mat|Mithai|Neighbours|Tears|Handshakes|Forgiveness|Convoy of Cars|Attar|Hajj Guide Book|Sendoff Banner,
+Draw a flooded street.,Draw a river.|Draw a swimming pool.|Draw a broken water pipe.|Draw a rainy day.|Draw a muddy road.,Drawing 2

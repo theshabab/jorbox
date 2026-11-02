@@ -17402,13 +17402,13 @@
    "Name": "Napoleon Bonaparte",
    "Description": "~5'7\" (1.69 m)",
    "Category": "Heights of Historical Figures",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Napoleon Bonaparte",
     "Description": "5'6\"",
     "Category": "Heights of Historical Figures"
    },
-   "note": "commonly cited 1.69 m"
+   "note": "Debate: Height is contested and about 1 cm from Churchill, so the order is unprovable; 5 items remain."
   },
   {
    "id": "game15-1340",
@@ -17519,13 +17519,13 @@
    "Name": "Monopoly",
    "Description": "~52 (32 houses, 12 hotels, ~8 tokens)",
    "Category": "Board Games By Piece Count (Approx.)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Monopoly",
     "Description": "~56",
     "Category": "Board Games By Piece Count (Approx.)"
    },
-   "note": "counted pieces instead of unverifiable ~56"
+   "note": "Debate: Piece count is misleading and unverifiable; the category has enough other items."
   },
   {
    "id": "game15-1349",
@@ -18362,7 +18362,7 @@
   {
    "id": "game15-1413",
    "Name": "Gas oven",
-   "Description": "~290 °C",
+   "Description": "~250 °C (typical maximum)",
    "Category": "Maximum Heat (Celsius)",
    "action": "edit",
    "original": {
@@ -18370,7 +18370,7 @@
     "Description": "550",
     "Category": "Maximum Heat (Fahrenheit)"
    },
-   "note": "added unit/basis to value; converted from Fahrenheit; Celsius"
+   "note": "added unit/basis to value; converted from Fahrenheit; Celsius; Debate: Gas mark 9 is about 240 °C, so ~290 overstates it; ~250 still fits between the iron and the Bunsen burner."
   },
   {
    "id": "game15-1414",
@@ -18621,7 +18621,7 @@
   },
   {
    "id": "game15-1433",
-   "Name": "Color",
+   "Name": "Colour",
    "Description": "6th – e.g. green",
    "Category": "Proper Order of Adjectives (English)",
    "action": "edit",
@@ -18630,7 +18630,7 @@
     "Description": "6",
     "Category": "Proper Order of Adjectives (English)"
    },
-   "note": "added unit/basis to value"
+   "note": "added unit/basis to value; Debate: British spelling, as used in Pakistan."
   },
   {
    "id": "game15-1434",
@@ -32729,6 +32729,62 @@
    "Category": "Elements by Atomic Mass",
    "action": "add",
    "note": "New card (debate): Correct standard atomic weight; fills the gap between Iron and Silver and matches the 3-decimal format."
+  },
+  {
+   "id": null,
+   "Name": "Rabbit",
+   "Description": "28 (adults)",
+   "Category": "Animals By Tooth Count",
+   "action": "add",
+   "note": "New card (debate): Accurate and not a duplicate in this category."
+  },
+  {
+   "id": null,
+   "Name": "Camel",
+   "Description": "34 (adults)",
+   "Category": "Animals By Tooth Count",
+   "action": "add",
+   "note": "New card (debate): Familiar local animal; accurate adult count; not a duplicate in this category."
+  },
+  {
+   "id": null,
+   "Name": "Dust Mite",
+   "Description": "~0.3 mm",
+   "Category": "Tiny Things (Small to Large)",
+   "action": "add",
+   "note": "New card (debate): Accurate; fits between human egg and grain of sand."
+  },
+  {
+   "id": null,
+   "Name": "Jenga",
+   "Description": "54 blocks",
+   "Category": "Board Games By Piece Count (Approx.)",
+   "action": "add",
+   "note": "New card (debate): Accurate; fits between Chess and Scrabble."
+  },
+  {
+   "id": null,
+   "Name": "Surface of the Sun",
+   "Description": "~5,500 °C",
+   "Category": "Maximum Heat (Celsius)",
+   "action": "add",
+   "note": "New card (debate): Accurate; fills the gap between the light bulb filament and the Sun's core."
+  },
+  {
+   "id": null,
+   "Name": "Milk (full cream)",
+   "Description": "~150 kcal",
+   "Category": "Calories Per Cup (Approx.)",
+   "action": "add",
+   "note": "New card (debate): Accurate and an everyday local item; fits between apple slices and cooked rice."
+  },
+  {
+   "id": null,
+   "Name": "Daal (boiled lentils)",
+   "Description": "~230 kcal",
+   "Category": "Calories Per Cup (Approx.)",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani staple; fits between cooked rice and chocolate ice cream."
   }
  ]
 }

@@ -912,7 +912,6 @@ Dolphins,80-250,Animals By Tooth Count
 Great White Shark,300,Animals By Tooth Count
 Snails,"14,000+",Animals By Tooth Count
 Queen Victoria,"5'0""",Heights of Historical Figures
-Napoleon Bonaparte,"~5'7"" (1.69 m)",Heights of Historical Figures
 Winston Churchill,"5'6""",Heights of Historical Figures
 Charles de Gaulle,"6'5"" (1.96 m)",Heights of Historical Figures
 Abraham Lincoln,"6'4""",Heights of Historical Figures
@@ -920,7 +919,6 @@ Peter the Great,"6'8""",Heights of Historical Figures
 Tic Tac Toe,9 marks (5 X + 4 O),Board Games By Piece Count (Approx.)
 Checkers,24 (12 per player),Board Games By Piece Count (Approx.)
 Chess,32 (16 per player),Board Games By Piece Count (Approx.)
-Monopoly,"~52 (32 houses, 12 hotels, ~8 tokens)",Board Games By Piece Count (Approx.)
 Scrabble,100 tiles,Board Games By Piece Count (Approx.)
 3.,1st (3.),First Digits of Pi
 4,3rd (3.14),First Digits of Pi
@@ -964,7 +962,7 @@ Hair dryer,60 °C,Maximum Heat (Celsius)
 Boiling water,100 °C,Maximum Heat (Celsius)
 Sauna,~90 °C,Maximum Heat (Celsius)
 Clothes iron,~200 °C,Maximum Heat (Celsius)
-Gas oven,~290 °C,Maximum Heat (Celsius)
+Gas oven,~250 °C (typical maximum),Maximum Heat (Celsius)
 Bunsen burner,"~1,500 °C",Maximum Heat (Celsius)
 Light bulb filament,"~2,500 °C",Maximum Heat (Celsius)
 Sun's Core,"~15,000,000 °C",Maximum Heat (Celsius)
@@ -980,7 +978,7 @@ Size,2nd – e.g. big,Proper Order of Adjectives (English)
 Physical Quality,3rd – e.g. rough,Proper Order of Adjectives (English)
 Shape,4th – e.g. round,Proper Order of Adjectives (English)
 Age,5th – e.g. old,Proper Order of Adjectives (English)
-Color,6th – e.g. green,Proper Order of Adjectives (English)
+Colour,6th – e.g. green,Proper Order of Adjectives (English)
 Origin,7th – e.g. Pakistani,Proper Order of Adjectives (English)
 Material,8th – e.g. wooden,Proper Order of Adjectives (English)
 Type,9th – e.g. dining (as in dining table),Proper Order of Adjectives (English)
@@ -1865,3 +1863,10 @@ Umayyad Caliphate (Damascus),750 (Abbasid Revolution),Fall of Empires
 Mamluk Sultanate (Egypt),1517 (Ottoman conquest),Fall of Empires
 Chandrayaan-3 (India),Launched 2023 (landed near the Moon's south pole),Space Missions (Launch Year)
 Copper,63.546,Elements by Atomic Mass
+Rabbit,28 (adults),Animals By Tooth Count
+Camel,34 (adults),Animals By Tooth Count
+Dust Mite,~0.3 mm,Tiny Things (Small to Large)
+Jenga,54 blocks,Board Games By Piece Count (Approx.)
+Surface of the Sun,"~5,500 °C",Maximum Heat (Celsius)
+Milk (full cream),~150 kcal,Calories Per Cup (Approx.)
+Daal (boiled lentils),~230 kcal,Calories Per Cup (Approx.)
