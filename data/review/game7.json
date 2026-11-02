@@ -788,12 +788,12 @@
    "id": "game7-72",
    "Description": "famous robots prepare for a flood",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "famous robots prepare for a flood",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Depends on film/TV robots; unclear."
   },
   {
    "id": "game7-73",
@@ -830,14 +830,14 @@
   },
   {
    "id": "game7-76",
-   "Description": "our cricket team celebrates earth day",
+   "Description": "our cricket team plants a tree before the match",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "our baseball team celebrates earth day",
     "Category": "Standard Prompts"
    },
-   "note": "baseball -> cricket"
+   "note": "baseball -> cricket; Debate: Drops Earth Day, keeps cricket joke."
   },
   {
    "id": "game7-77",
@@ -865,23 +865,23 @@
    "id": "game7-79",
    "Description": "nobody wants this",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "nobody wants this",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Netflix title, abstract and undrawable."
   },
   {
    "id": "game7-80",
    "Description": "mission: b.i.l.l.i.",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "mission: p.i.g.",
     "Category": "Standard Prompts"
    },
-   "note": "Debate: Replaces the pig imagery with a cat (billi) and keeps the spy-acronym gag."
+   "note": "Debate: Film title spoof, unclear."
   },
   {
    "id": "game7-81",
@@ -1138,14 +1138,14 @@
   },
   {
    "id": "game7-104",
-   "Description": "elevator is full. full of love <3",
+   "Description": "elevator is full. full of cousins!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "elevator is full. full of love <3",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes romance flavour; drawable family scene."
   },
   {
    "id": "game7-105",
@@ -1182,14 +1182,14 @@
   },
   {
    "id": "game7-108",
-   "Description": "work the runway swamp creature",
+   "Description": "a swamp creature strutting down a fashion-show runway",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "work the runway swamp creature",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Removes Project Runway catchphrase; drawable."
   },
   {
    "id": "game7-109",
@@ -21253,6 +21253,48 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Distinct drawable giant-food image."
+  },
+  {
+   "id": null,
+   "Description": "load shedding hits the cricket final",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, funny, no existing load shedding card."
+  },
+  {
+   "id": null,
+   "Description": "a chicken karahi arguing with a naan about who is spicier",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local food humour, no karahi card."
+  },
+  {
+   "id": null,
+   "Description": "a goldfish swimming in a jug of Rooh Afza sharbat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct image from existing Rooh Afza cards; brand spelling fixed."
+  },
+  {
+   "id": null,
+   "Description": "the whole family telling stories around one candle during a power cut",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable and distinct from the cave candle card."
+  },
+  {
+   "id": null,
+   "Description": "an uncle fast asleep in the front row during a very long wedding speech",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable family-event scene with fixed phrasing."
+  },
+  {
+   "id": null,
+   "Description": "hair oil so strong that the hair grows into a bush",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Desi hair-oil joke, absent from deck, drawable."
   }
  ]
 }

@@ -11885,6 +11885,18 @@
    "Name": "Tradition",
    "action": "add",
    "note": "New card (debate): Abstract noun, allowed and not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sajdah",
+   "action": "add",
+   "note": "New card (debate): Respectful, common Islamic noun, easy to act out, not in deck (only Prayer exists)."
+  },
+  {
+   "id": null,
+   "Name": "Electrician",
+   "action": "add",
+   "note": "New card (debate): Local profession alongside Barber/Darzi/Plumber, easy to act out, not in deck."
   }
  ]
 }

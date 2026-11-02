@@ -799,7 +799,7 @@ Official Documents,CNIC|B-Form|Passport|Domicile|Driving Licence|Birth Certifica
 Barrages of Pakistan,Sukkur Barrage|Guddu Barrage|Kotri Barrage|Taunsa Barrage|Chashma Barrage|Jinnah Barrage|Marala Barrage|Trimmu Barrage|Panjnad Barrage|Rasul Barrage,
 Motorbike Brands,Honda|Yamaha|Suzuki|United|Road Prince|Super Power|Unique|Hi Speed|Metro|Eagle|Ravi|Kawasaki|Vespa|Ducati|BMW|Harley Davidson,
 Soap and Detergent Brands,Lux|Lifebuoy|Safeguard|Dettol|Capri|Dove|Palmolive|Camay|Medicam|Surf Excel|Ariel|Bonus Tristar|Brite|Express Power|Vim|Sunlight|Comfort|Lemon Max,
-Courier Companies,TCS|Leopards Courier|M&P|Trax|Call Courier|BlueEx|DHL|FedEx|Pakistan Post|Daewoo Express|PostEx|Rider|Tranzo|Swyft,
+Courier Companies,TCS|Leopards Courier|M&P|Trax|Call Courier|BlueEx|DHL|FedEx|Pakistan Post|Daewoo Express|PostEx,
 Draw a school assembly.,Draw a morning drill.|Draw a queue of students.|Draw a school bus.|Draw a flag raising.|Draw a classroom.|Draw a principal's speech.,Drawing 2
 Draw an electricity bill.,Draw a gas bill.|Draw a phone bill.|Draw a shocked person holding a paper.|Draw a meter reader.|Draw a bank receipt.|Draw a tax form.,Drawing 2
 Draw a long queue at an office.,Draw a crowded bus.|Draw a ticket counter.|Draw a petrol pump line.|Draw a waiting room.|Draw a bank queue.|Draw a ration queue.,Drawing 2
@@ -814,15 +814,15 @@ Draw a monsoon downpour.,Draw a flooded street.|Draw kids playing in the rain.|D
 A good name for a pet parrot would be...,A good name for a pet cat would be...|A good name for a goat for Eid would be...|A good name for a fish would be...|A good name for a cricket team would be...|A good name for a shop would be...|A good name for a baby would be...,Writing
 The best thing about a long weekend is...,The best thing about a holiday from school is...|The best thing about Fridays is...|The worst thing about Mondays is...|The best thing about summer vacation is...|The best thing about Sundays is...|The best thing about a rainy day off is...,Writing
 Mountains of the World,Everest|K2|Nanga Parbat|Kangchenjunga|Lhotse|Makalu|Annapurna|Mont Blanc|Kilimanjaro|Aconcagua|Elbrus|Matterhorn|Mount Fuji|Mount Sinai|Mount Ararat|Table Mountain|Jabal e Noor|Mount Damavand|Mount Etna,
-Deserts of the World,Sahara|Gobi|Kalahari|Rub al Khali|Atacama|Namib|Thar|Cholistan|Taklamakan|Nafud|Dasht-e-Lut|Karakum|Syrian Desert|Sinai Desert|Kharan Desert,
-Islands of the World,Madagascar|Borneo|Sumatra|Java|Sri Lanka|Cyprus|Sicily|Iceland|Greenland|Maldives|Bali|Zanzibar|Bahrain|Mauritius|Langkawi|Tasmania|Astola|Kish|Cuba|Ireland,
+Deserts of the World,Sahara|Gobi|Kalahari|Rub al Khali|Atacama|Namib|Thar|Cholistan|Taklamakan|Dasht-e-Lut|Syrian Desert|Sinai Desert|Kharan Desert,
+Islands of the World,Madagascar|Borneo|Sumatra|Java|Sri Lanka|Cyprus|Sicily|Iceland|Greenland|Maldives|Bali|Zanzibar|Bahrain|Mauritius|Langkawi|Tasmania|Astola|Penang|Cuba|Ireland,
 Famous Towers of the World,Burj Khalifa|Eiffel Tower|Petronas Towers|Makkah Clock Tower|CN Tower|Tokyo Skytree|Shanghai Tower|Leaning Tower of Pisa|Big Ben|Galata Tower|Azadi Tower|Milad Tower|Taipei 101|Qutub Minar,
 Great Inventions,Wheel|Printing Press|Telephone|Light Bulb|Aeroplane|Compass|Paper|Telescope|Camera|Radio|Refrigerator|Steam Engine|Microscope|Typewriter|Clock|Thermometer|Battery|Computer|Internet|Vaccine|X-ray,
 Natural Disasters,Earthquake|Flood|Tsunami|Cyclone|Landslide|Avalanche|Drought|Volcanic Eruption|Wildfire|Heatwave|Sandstorm|Tornado|Blizzard|Cloudburst|Locust Attack|Sinkhole,
 Things at a Supermarket,Trolley|Basket|Aisle|Barcode Scanner|Checkout Counter|Cashier|Shelf|Freezer|Price Tag|Receipt|Shopping Bag|Weighing Scale|Discount Sticker|Bakery Counter|Expiry Date|Loyalty Card|Fruit Section|Security Guard|Billing Machine|Parking Lot,
 Things in a Jungle,Vines|Tall Trees|Monkeys|Parrots|Snakes|Tiger|Elephant|Waterfall|Fallen Logs|Moss|Ferns|Footprints|Canopy|Mosquitoes|River|Cave|Bamboo|Gorilla|Leeches,
 Things on a Ship,Deck|Anchor|Captain|Lifeboat|Life Jacket|Sail|Funnel|Cabin|Porthole|Engine Room|Radar|Compass|Crew|Rope|Mast|Steering Wheel|Bridge|Hull|Cargo|Horn,
-Birds of Prey,Eagle|Falcon|Hawk|Owl|Vulture|Kite|Osprey|Harrier|Buzzard|Condor,
+Birds of Prey,Eagle|Falcon|Hawk|Owl|Vulture|Kite|Osprey|Kestrel|Buzzard|Condor,
 Dinosaurs,T-Rex|Triceratops|Stegosaurus|Velociraptor|Brachiosaurus|Diplodocus|Ankylosaurus|Spinosaurus|Allosaurus|Iguanodon|Parasaurolophus|Apatosaurus,
 Parts of a House,Roof|Door|Window|Wall|Floor|Stairs|Balcony|Courtyard|Gate|Hall|Basement|Chimney|Veranda|Ceiling|Garage|Terrace|Lobby|Storeroom|Drawing Room|Boundary Wall,
 Parts of a Computer,Monitor|Keyboard|Mouse|CPU|RAM|Hard Drive|Motherboard|Graphics Card|Power Supply|Cooling Fan|USB Port|Webcam|Speaker|SSD|Heat Sink|Sound Card,
@@ -862,12 +862,11 @@ A new phone model is launched and yours still works perfectly. You...,buy it imm
 Your neighbour’s family is sick and nobody can cook. You...,send them a full meal|ask if they need anything|assume someone else will help,Morality
 "At a wedding, half the food on the buffet will be thrown away. You...",ask the host to send it to the needy|take extra for yourself|say nothing,Morality
 Draw a full shopping cart.,Draw an empty shopping cart.|Draw a shopping bag.|Draw a crowded bazaar.|Draw a grocery list.|Draw a loaded trolley at the airport.,Drawing 2
-Draw a masjid courtyard on a Friday.,Draw a masjid courtyard at sunset.|Draw an Eid prayer ground.|Draw a madrasa courtyard.|Draw a crowded bazaar.|Draw a railway station.,Drawing 2
+Draw a masjid courtyard on a Friday.,Draw a masjid courtyard at sunset.|Draw an Eid prayer ground.|Draw a madrasa courtyard.|Draw a crowded bazaar.|Draw people making wuzu at a masjid.,Drawing 2
 Draw a plate of food being sent to a neighbour.,Draw a plate of food at a restaurant.|Draw a lunch box.|Draw a food delivery rider.|Draw a tray of Eid sweets.|Draw a stranger at the door.,Drawing 2
 Manners of Eating,Saying Bismillah|Right Hand|Eating Together|Eating from Your Side|Sharing Food|Saying Alhamdulillah After|Washing Hands|Not Overeating|Not Wasting Food|Licking Your Fingers|Praising the Cook|Cleaning Up Crumbs|Sitting on the Dastarkhwan,
 "The grocery bill misses an item worth Rs. 2,000 and the cashier does not notice. You...",tell the cashier|stay quiet|come back and pay later,Morality
 Your friends start talking badly about someone who is not there. You...,change the topic|leave quietly|join in,Morality
-I check my phone within five minutes of waking up.,I keep my phone away at meals.|I charge my phone outside my bedroom.|I get distracted by my phone during family time.|I could go a whole day without social media.|I have deleted an app to save time.,Rating
 Something I am grateful for today is...,Something that went wrong today is...|Something I am looking forward to is...|The best part of my day was...|A person I am thankful for is...|Something I take for granted is...,Writing
 Farm Animals,Cow|Buffalo|Goat|Sheep|Camel|Donkey|Horse|Hen|Rooster|Duck|Ox|Mule|Ram|Goose|Dumba,
 Pets People Keep at Home,Cat|Parrot|Rabbit|Goldfish|Budgie|Hamster|Tortoise|Mynah|Lovebird|Guinea Pig|Canary|Cockatiel|Pigeon|Finch,
@@ -1081,3 +1080,9 @@ Draw a lantern.,Draw a torch.|Draw a candle.|Draw a street lamp.|Draw an emergen
 Draw a hand pump (nalka).,Draw a water tap.|Draw a tube well.|Draw a bucket.|Draw a water tank.|Draw a village well.,Drawing 2
 I am usually the last one ready when the family goes out.,I am always the first one ready.|I hate being late.|I take ages to choose what to wear.|I always forget something at home.|Ammi has to call me three times.,Rating
 Something that always goes missing in our house is...,Something that always breaks in our house is...|Something Abbu always loses is...|Something my siblings always fight over is...|Something Ammi keeps asking for is...|Something that is never in its place is...,Writing
+Things at a Wedding Hall,Stage|Round Tables|Chandeliers|Buffet Counter|Entrance Gate|Flower Decoration|Bridal Room|Valet Parking|Waiters|Photographer|Guest Gift Table|Red Carpet|Handwash Area|Dessert Counter|Generator|Fairy Lights|Dulha Dulhan Sofa|Menu Cards|Guest Chairs|Water Dispenser,
+Draw people looking for the Eid moon.,Draw a full moon night.|Draw a telescope.|Draw people on a rooftop at night.|Draw a star-filled sky.|Draw a family at iftar.|Draw a Chand Raat henna stall.,Drawing 2
+The best thing about being the eldest sibling is...,The worst thing about being the eldest sibling is...|The best thing about being the youngest sibling is...|The best thing about being the middle child is...|The best thing about having a big brother is...|The best thing about having a big sister is...|The best thing about being an only child is...,Writing
+One thing I would fix about my city is...,One thing I love about my city is...|One thing I would add to my city is...|One thing visitors always complain about in my city is...|The worst road in my city is...|The best place in my city for a family outing is...|One thing my city does better than any other is...,Writing
+I help with housework without being asked.,I wash the dishes after a dawat.|I make my own bed every morning.|I help Ammi in the kitchen on Eid.|I only help when someone is watching.|I leave my plate on the table for others to clear.|I iron my own clothes.,Rating
+You hear the azan while in the middle of a close game with friends. You...,stop and go to pray|finish the game first|ask your friends to come along,Morality

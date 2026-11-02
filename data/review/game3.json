@@ -10813,10 +10813,10 @@
   {
    "id": null,
    "Name": "Courier Companies",
-   "Description": "TCS|Leopards Courier|M&P|Trax|Call Courier|BlueEx|DHL|FedEx|Pakistan Post|Daewoo Express|PostEx|Rider|Tranzo|Swyft",
+   "Description": "TCS|Leopards Courier|M&P|Trax|Call Courier|BlueEx|DHL|FedEx|Pakistan Post|Daewoo Express|PostEx",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): New topic"
+   "note": "New card (debate): New topic; Debate: Challenger's missed issue: drops obscure Rider, Tranzo and Swyft; 11 words remain."
   },
   {
    "id": null,
@@ -10933,18 +10933,18 @@
   {
    "id": null,
    "Name": "Deserts of the World",
-   "Description": "Sahara|Gobi|Kalahari|Rub al Khali|Atacama|Namib|Thar|Cholistan|Taklamakan|Nafud|Dasht-e-Lut|Karakum|Syrian Desert|Sinai Desert|Kharan Desert",
+   "Description": "Sahara|Gobi|Kalahari|Rub al Khali|Atacama|Namib|Thar|Cholistan|Taklamakan|Dasht-e-Lut|Syrian Desert|Sinai Desert|Kharan Desert",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended version removes obscure and overlapping items.; Debate: Libyan and Nubian deserts are parts of the Sahara, so they were ambiguous."
+   "note": "New card (debate): Amended version removes obscure and overlapping items.; Debate: Libyan and Nubian deserts are parts of the Sahara, so they were ambiguous.; Debate: Drops obscure Nafud and Karakum; 13 words remain."
   },
   {
    "id": null,
    "Name": "Islands of the World",
-   "Description": "Madagascar|Borneo|Sumatra|Java|Sri Lanka|Cyprus|Sicily|Iceland|Greenland|Maldives|Bali|Zanzibar|Bahrain|Mauritius|Langkawi|Tasmania|Astola|Kish|Cuba|Ireland",
+   "Description": "Madagascar|Borneo|Sumatra|Java|Sri Lanka|Cyprus|Sicily|Iceland|Greenland|Maldives|Bali|Zanzibar|Bahrain|Mauritius|Langkawi|Tasmania|Astola|Penang|Cuba|Ireland",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended version; all real, distinct islands."
+   "note": "New card (debate): Amended version; all real, distinct islands.; Debate: Replaces obscure Kish with well-known Penang."
   },
   {
    "id": null,
@@ -10997,10 +10997,10 @@
   {
    "id": null,
    "Name": "Birds of Prey",
-   "Description": "Eagle|Falcon|Hawk|Owl|Vulture|Kite|Osprey|Harrier|Buzzard|Condor",
+   "Description": "Eagle|Falcon|Hawk|Owl|Vulture|Kite|Osprey|Kestrel|Buzzard|Condor",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended; added Shaheen, dropped obscure species and US-centric Bald Eagle.; Debate: Removes ambiguous Shaheen, Golden Eagle, Fish Eagle and Kestrel (falcon); no Peregrine. Challenger version."
+   "note": "New card (debate): Amended; added Shaheen, dropped obscure species and US-centric Bald Eagle.; Debate: Removes ambiguous Shaheen, Golden Eagle, Fish Eagle and Kestrel (falcon); no Peregrine. Challenger version.; Debate: Harrier is obscure; Shaheen would duplicate Falcon, so Kestrel (challenger's amendment)."
   },
   {
    "id": null,
@@ -11325,10 +11325,10 @@
   {
    "id": null,
    "Name": "Draw a masjid courtyard on a Friday.",
-   "Description": "Draw a masjid courtyard at sunset.|Draw an Eid prayer ground.|Draw a madrasa courtyard.|Draw a crowded bazaar.|Draw a railway station.",
+   "Description": "Draw a masjid courtyard at sunset.|Draw an Eid prayer ground.|Draw a madrasa courtyard.|Draw a crowded bazaar.|Draw people making wuzu at a masjid.",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card (debate): Challenger's closer decoys keep the bluff fair."
+   "note": "New card (debate): Challenger's closer decoys keep the bluff fair.; Debate: Closer decoy than railway station."
   },
   {
    "id": null,
@@ -11367,8 +11367,8 @@
    "Name": "I check my phone within five minutes of waking up.",
    "Description": "I keep my phone away at meals.|I charge my phone outside my bedroom.|I get distracted by my phone during family time.|I could go a whole day without social media.|I have deleted an app to save time.",
    "Category": "Rating",
-   "action": "add",
-   "note": "New card (debate): Screen-time and attention; relatable."
+   "action": "remove",
+   "note": "Debate: Duplicate of live card 'I check my phone first thing in the morning.' (action add)."
   },
   {
    "id": null,
@@ -13073,6 +13073,54 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Household Writing prompt with close decoys, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Wedding Hall",
+   "Description": "Stage|Round Tables|Chandeliers|Buffet Counter|Entrance Gate|Flower Decoration|Bridal Room|Valet Parking|Waiters|Photographer|Guest Gift Table|Red Carpet|Handwash Area|Dessert Counter|Generator|Fairy Lights|Dulha Dulhan Sofa|Menu Cards|Guest Chairs|Water Dispenser",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local topic, using the challenger's cleaner word list."
+  },
+  {
+   "id": null,
+   "Name": "Draw people looking for the Eid moon.",
+   "Description": "Draw a full moon night.|Draw a telescope.|Draw people on a rooftop at night.|Draw a star-filled sky.|Draw a family at iftar.|Draw a Chand Raat henna stall.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): New moon-sighting prompt. A 'crescent moon' decoy was swapped out because it is nearly the same drawing as the answer."
+  },
+  {
+   "id": null,
+   "Name": "The best thing about being the eldest sibling is...",
+   "Description": "The worst thing about being the eldest sibling is...|The best thing about being the youngest sibling is...|The best thing about being the middle child is...|The best thing about having a big brother is...|The best thing about having a big sister is...|The best thing about being an only child is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Different prompt from the youngest-sibling card; family theme."
+  },
+  {
+   "id": null,
+   "Name": "One thing I would fix about my city is...",
+   "Description": "One thing I love about my city is...|One thing I would add to my city is...|One thing visitors always complain about in my city is...|The worst road in my city is...|The best place in my city for a family outing is...|One thing my city does better than any other is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New civic prompt; existing city cards are about food."
+  },
+  {
+   "id": null,
+   "Name": "I help with housework without being asked.",
+   "Description": "I wash the dishes after a dawat.|I make my own bed every morning.|I help Ammi in the kitchen on Eid.|I only help when someone is watching.|I leave my plate on the table for others to clear.|I iron my own clothes.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable family rating prompt, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "You hear the azan while in the middle of a close game with friends. You...",
+   "Description": "stop and go to pray|finish the game first|ask your friends to come along",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal question allowed by the owner; no azan morality card exists."
   }
  ]
 }
