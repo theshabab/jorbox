@@ -97740,7 +97740,7 @@
   {
    "id": "game5-7519",
    "Name": "",
-   "Description": "The name of a clothing store for overweight dinosaurs",
+   "Description": "The name of a clothing store for very large dinosaurs",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -97748,7 +97748,7 @@
     "Description": "The name of a clothing store for overweight leprechauns",
     "Category": "Quiplash"
    },
-   "note": "Debate: Leprechauns are Irish folklore."
+   "note": "Debate: Leprechauns are Irish folklore.; Debate: Removes body-shaming angle."
   },
   {
    "id": "game5-7520",
@@ -97766,15 +97766,15 @@
   {
    "id": "game5-7521",
    "Name": "",
-   "Description": "A terrible theme for a high school farewell party",
+   "Description": "A terrible theme for a college farewell function",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A terrible theme for a high school farewell party",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes party wording."
   },
   {
    "id": "game5-7522",
@@ -97961,15 +97961,15 @@
   {
    "id": "game5-7536",
    "Name": "",
-   "Description": "Something that would not work as well as skis",
+   "Description": "Something that would not work as well as a cricket bat",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Something that would not work as well as skis",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Skis irrelevant locally."
   },
   {
    "id": "game5-7537",
@@ -98910,7 +98910,7 @@
   {
    "id": "game5-7609",
    "Name": "",
-   "Description": "A new use for cooked spaghetti",
+   "Description": "A new use for leftover seviyan",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -98918,7 +98918,7 @@
     "Description": "New use for cooked spaghetti",
     "Category": "Quiplash"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Local swap."
   },
   {
    "id": "game5-7610",
@@ -99832,16 +99832,16 @@
   },
   {
    "id": "game5-7680",
-   "Name": "the sound of a sad slide trombone",
+   "Name": "the sound of a sad ‘wah-wah’ failure jingle",
    "Description": "don’t use words!",
    "Category": "Suno Bolo",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "the sound of a sad slide trombone",
     "Description": "don’t use words!",
     "Category": "Suno Bolo"
    },
-   "note": ""
+   "note": "Debate: Slide trombone obscure."
   },
   {
    "id": "game5-7681",
@@ -100028,15 +100028,15 @@
   {
    "id": "game5-7695",
    "Name": "",
-   "Description": "shout an unpopular opinion!",
+   "Description": "shout an unpopular opinion about food!",
    "Category": "Suno Bolo",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "shout an unpopular opinion!",
     "Category": "Suno Bolo"
    },
-   "note": ""
+   "note": "Debate: Avoids religion/politics drift."
   },
   {
    "id": "game5-7696",
@@ -100547,16 +100547,16 @@
   },
   {
    "id": "game5-7735",
-   "Name": "the sound of taking a bite of a big marshmallow",
+   "Name": "the sound of taking a bite of a big, soft gulab jamun",
    "Description": "don’t use words!",
    "Category": "Suno Bolo",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "the sound of taking a bite of a big marshmallow",
     "Description": "don’t use words!",
     "Category": "Suno Bolo"
    },
-   "note": ""
+   "note": "Debate: Local sweet."
   },
   {
    "id": "game5-7736",
@@ -105549,6 +105549,86 @@
    "Category": "Quiplash",
    "action": "add",
    "note": "New card (debate): No unread-messages card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A rejected flavour of kulfi",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): New local food prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A terrible slogan for a ghee brand",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): New local slogan subject."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The worst thing to say to the doodh wala at 6 am",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A rejected slogan to paint on the back of a truck",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Truck art theme."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The worst name for a wedding hall",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh naming subject."
+  },
+  {
+   "id": null,
+   "Name": "the sound of a hand pump (nalka) giving up halfway through a pump",
+   "Description": "don’t use words!",
+   "Category": "Suno Bolo",
+   "action": "add",
+   "note": "New card (debate): Amended to the standard sound-prompt format so it is playable."
+  },
+  {
+   "id": null,
+   "Name": "the sound of a motorbike that refuses to start after the fourth kick",
+   "Description": "don’t use words!",
+   "Category": "Suno Bolo",
+   "action": "add",
+   "note": "New card (debate): Relatable sound prompt."
+  },
+  {
+   "id": null,
+   "Name": "the sound of the doodh wala’s bicycle bell at dawn",
+   "Description": "don’t use words!",
+   "Category": "Suno Bolo",
+   "action": "add",
+   "note": "New card (debate): Amended to start with 'the sound of' for clarity."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "make up an excuse to your teacher for not doing your homework",
+   "Category": "Suno Bolo",
+   "action": "add",
+   "note": "New card (debate): Clean acting prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A rejected name for the neighbour’s noisy generator",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Local humour, new subject."
   }
  ]
 }

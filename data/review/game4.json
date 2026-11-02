@@ -14640,6 +14640,22 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New local personal question, no microphone card exists."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the longest you have gone without your phone, and what did you do with the time?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean, relatable personal question; no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the best surprise you ever planned for someone, or that someone planned for you?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Warm, family-friendly personal question; no duplicate found."
   }
  ]
 }

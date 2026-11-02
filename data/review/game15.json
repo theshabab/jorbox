@@ -33161,6 +33161,86 @@
    "Category": "Muslim Travellers and Mapmakers (Chronological)",
    "action": "add",
    "note": "New card (debate): Locally relevant; distinct category and value from the existing birth-year card, so not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Seed",
+   "Description": "1st - a tiny package holding the baby plant and its food store",
+   "Category": "Plant Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): New category, accurate order"
+  },
+  {
+   "id": null,
+   "Name": "Germination",
+   "Description": "2nd - with water and warmth the seed splits and a root grows down",
+   "Category": "Plant Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate"
+  },
+  {
+   "id": null,
+   "Name": "Seedling",
+   "Description": "3rd - the first leaves open and the shoot reaches for sunlight",
+   "Category": "Plant Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate"
+  },
+  {
+   "id": null,
+   "Name": "Flowering",
+   "Description": "4th - the grown plant blooms and insects carry pollen between flowers",
+   "Category": "Plant Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate"
+  },
+  {
+   "id": null,
+   "Name": "Fruit and New Seeds",
+   "Description": "5th - the flower turns into fruit holding seeds for the next plant",
+   "Category": "Plant Life Cycle (In Order)",
+   "action": "add",
+   "note": "New card (debate): Accurate"
+  },
+  {
+   "id": null,
+   "Name": "Intention and Washing Hands",
+   "Description": "1st - make the niyyah in the heart and wash both hands",
+   "Category": "Steps of Ghusl (Sunnah Order)",
+   "action": "add",
+   "note": "New card (debate): New category, well-established order"
+  },
+  {
+   "id": null,
+   "Name": "Washing the Private Parts",
+   "Description": "2nd - wash the private parts and remove any impurity from the body",
+   "Category": "Steps of Ghusl (Sunnah Order)",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: description now states the step the name promises"
+  },
+  {
+   "id": null,
+   "Name": "Performing Wudu",
+   "Description": "3rd - complete wudu as for prayer",
+   "Category": "Steps of Ghusl (Sunnah Order)",
+   "action": "add",
+   "note": "New card (debate): Correct order"
+  },
+  {
+   "id": null,
+   "Name": "Pouring Water Over the Head",
+   "Description": "4th - pour water three times so it reaches the roots of the hair",
+   "Category": "Steps of Ghusl (Sunnah Order)",
+   "action": "add",
+   "note": "New card (debate): Correct order"
+  },
+  {
+   "id": null,
+   "Name": "Washing the Rest of the Body",
+   "Description": "5th - wash the right side, then the left, so no dry spot remains",
+   "Category": "Steps of Ghusl (Sunnah Order)",
+   "action": "add",
+   "note": "New card (debate): Correct order"
   }
  ]
 }
