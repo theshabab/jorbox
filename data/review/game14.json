@@ -7867,6 +7867,48 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Locally recognisable, distinct from helmet card."
+  },
+  {
+   "id": null,
+   "Description": "How many people usually eat from one big thaal (shared platter) at your family gatherings?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No thaal/shared-platter card in deck; clear Number question."
+  },
+  {
+   "id": null,
+   "Description": "How many Eid prayers have you offered in an open Eidgah or ground instead of a mosque?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No Eidgah card; distinct from late-to-Eid-prayer card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep nafl fasts on Mondays and Thursdays?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Accurate Sunnah practice, worship questions allowed, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to give someone the last piece of mithai on the plate instead of taking it yourself?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Opposite of the last-kabab card; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to give cash as a wedding gift instead of a wrapped present?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local custom; no wedding gift card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times during last Ramadan did you help cook something for iftar?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from iftari-sending card; valid Number question."
   }
  ]
 }

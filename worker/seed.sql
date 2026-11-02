@@ -17890,7 +17890,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-863','game11','Customer','Kashmiri Shawl Seller','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-864','game11','Customer','PT Master (School Sports Teacher)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-865','game11','Problem','The Sunnah is to eat in moderation, but at every dawat I keep going back for more _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-866','game11','Problem','Ibn al-Haytham worked out how the camera obscura works, yet every photo I take shows only _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-866','game11','Problem','Ibn al-Haytham explained how the camera obscura works, yet every photo I take shows only _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-867','game11','Problem','Our school science fair project on _____ exploded in front of the chief guest!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-868','game11','Problem','Every monsoon the open nala in our mohalla overflows and brings _____ to our door!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-869','game11','Problem','I borrowed a neighbour''s _____ months ago and I am too embarrassed to return it!','');
@@ -17924,7 +17924,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-897','game11','Problem','My Facebook memories keep reminding me of _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-898','game11','Problem','Every Eid photo shoot gets ruined by _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-899','game11','Problem','My abbu insists on taking a ''shortcut'' through _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-900','game11','Problem','The school van uncle plays _____ at full volume every morning!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-900','game11','Problem','The school van uncle shouts about _____ at full volume every morning!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-901','game11','Problem','The helpline kept me on hold for an hour with nothing but _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-902','game11','Problem','My chai wala never remembers that I take my chai without _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-903','game11','Customer','Baraati (Wedding Guest)','');
@@ -17978,6 +17978,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-951','game11','Customer','Zameendar (Landlord)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-952','game11','Problem','My phone charger disappears every time I need it before leaving for _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-953','game11','Customer','Ruet-e-Hilal Committee Member','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-954','game11','Problem','The imam asked us to close the gaps in the saff, but the uncle next to me is standing on _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-955','game11','Problem','My Eid shopping budget is gone every year because of _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-956','game11','Problem','My dadi''s pickle jar has been hiding _____ since 1995!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-957','game11','Problem','Every Sunday the halwa puri wala has such a long queue because of _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-958','game11','Customer','Halwa Puri Wala','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-959','game11','Customer','Dry Fruit Seller','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');
@@ -19660,7 +19666,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-265','game13','','Get a player to send you a voice note.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-266','game13','','Get a player to send you a WhatsApp message with just one emoji.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-267','game13','','Get a player to read out a message on your phone.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-268','game13','','Get a player to guess the price of an item you are holding.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-268','game13','','Get a player to guess the price of an item you are holding, like a bag of chips or a pen.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-269','game13','','Get a player to count how many people are in the room.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-270','game13','','Get a player to name three colours they can see in the room.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-271','game13','','Get a player to hand you something red.','');
@@ -19681,7 +19687,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-286','game13','','Get a player to hide a small object somewhere in the room for you.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-287','game13','','Hide a coin and get a player to find it.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-288','game13','','Get a player to solve a riddle.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-289','game13','','Get a player to say the tongue twister ''Kacha papar, pakka papar'' three times fast and stumble over it.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-289','game13','','Get a player to say the tongue twister ''Kacha papar, pakka papar'' three times fast.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-290','game13','','Get a player to say ''Meri ghalti'' (My mistake).','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-291','game13','','Get a player to apologize for interrupting you.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-292','game13','','Get a player to accept a challenge you set, like naming ten cricketers in one minute.','');
@@ -20283,6 +20289,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-888','game13','','Get a player to compliment your watch.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-889','game13','','Get a player to agree that mangoes are the best fruit in the world.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-890','game13','','Get a player to explain what a ''wide ball'' means in cricket.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-891','game13','','Get a player to ask you for a straw.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-892','game13','','Get a player to say ''Kamal hai!'' (Amazing!).','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-893','game13','','Get a player to save a video or post that you show them.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-894','game13','','Get a player to straighten a picture, cushion or tablecloth that you deliberately left crooked.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-895','game13','','Get a player to tell you which route they take to avoid traffic.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-896','game13','','Get a player to say ''Chalo, kal milte hain'' (Okay, see you tomorrow).','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -21153,6 +21165,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-867','game14','','How likely are you to say ''main khana kha ke aaya hoon'' and then eat anyway at a relative''s house?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-868','game14','','How likely are you to be the one reminding everyone of the leaving time on a family trip?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-869','game14','','What is the most people you have ever seen riding on one motorbike?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-870','game14','','How many people usually eat from one big thaal (shared platter) at your family gatherings?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-871','game14','','How many Eid prayers have you offered in an open Eidgah or ground instead of a mosque?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-872','game14','','How likely are you to keep nafl fasts on Mondays and Thursdays?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-873','game14','','How likely are you to give someone the last piece of mithai on the plate instead of taking it yourself?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-874','game14','','How likely are you to give cash as a wedding gift instead of a wrapped present?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-875','game14','','How many times during last Ramadan did you help cook something for iftar?','Number');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game15','Tareekhi',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1','game15','Khadijah bint Khuwaylid','1st - first person to accept Islam','Sahabas - Order of Accepting Islam');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-2','game15','Ali ibn Abi Talib','2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10','Sahabas - Order of Accepting Islam');

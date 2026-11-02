@@ -2885,12 +2885,12 @@
   },
   {
    "id": "game13-321",
-   "Description": "Get a player to guess the price of an item you are holding.",
-   "action": "keep",
+   "Description": "Get a player to guess the price of an item you are holding, like a bag of chips or a pen.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to guess the price of an item you are holding."
    },
-   "note": ""
+   "note": "Debate: Corrected idx (320 is the price-guess card); examples ease setup."
   },
   {
    "id": "game13-322",
@@ -3110,12 +3110,12 @@
   },
   {
    "id": "game13-346",
-   "Description": "Get a player to say the tongue twister 'Kacha papar, pakka papar' three times fast and stumble over it.",
+   "Description": "Get a player to say the tongue twister 'Kacha papar, pakka papar' three times fast.",
    "action": "edit",
    "original": {
     "Description": "Get a player to fail at a tongue twister."
    },
-   "note": "Debate: A concrete, well-known local tongue twister makes the mission clear and playable.; Debate: Idx 345 is correct. The condition is clearer and checkable."
+   "note": "Debate: A concrete, well-known local tongue twister makes the mission clear and playable.; Debate: Idx 345 is correct. The condition is clearer and checkable.; Debate: Three times fast is a clear, checkable goal."
   },
   {
    "id": "game13-347",
@@ -7253,6 +7253,42 @@
    "Description": "Get a player to explain what a 'wide ball' means in cricket.",
    "action": "add",
    "note": "New card (debate): Distinct cricket concept, not in deck, explainable by most players."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you for a straw.",
+   "action": "add",
+   "note": "New card (debate): No straw card; natural and clear."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Kamal hai!' (Amazing!).",
+   "action": "add",
+   "note": "New card (debate): Local phrase mission, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to save a video or post that you show them.",
+   "action": "add",
+   "note": "New card (debate): Single checkable action (challenger's amended version); distinct from save-a-number."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to straighten a picture, cushion or tablecloth that you deliberately left crooked.",
+   "action": "add",
+   "note": "New card (debate): Clear, harmless, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which route they take to avoid traffic.",
+   "action": "add",
+   "note": "New card (debate): Distinct conversation mission, locally relevant."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Chalo, kal milte hain' (Okay, see you tomorrow).",
+   "action": "add",
+   "note": "New card (debate): Local phrase mission, no duplicate."
   }
  ]
 }

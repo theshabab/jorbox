@@ -8511,9 +8511,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "Ibn al-Haytham worked out how the camera obscura works, yet every photo I take shows only _____!",
+   "Description": "Ibn al-Haytham explained how the camera obscura works, yet every photo I take shows only _____!",
    "action": "add",
-   "note": "New card (debate): Challenger's amended wording states the history accurately."
+   "note": "New card (debate): Challenger's amended wording states the history accurately.; Debate: More accurate wording for his optics work."
   },
   {
    "id": null,
@@ -8749,9 +8749,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "The school van uncle plays _____ at full volume every morning!",
+   "Description": "The school van uncle shouts about _____ at full volume every morning!",
    "action": "add",
-   "note": "New card (debate): Everyday local scene; distinct from the existing school-van-stops card. Naats/qawwali are allowed."
+   "note": "New card (debate): Everyday local scene; distinct from the existing school-van-stops card. Naats/qawwali are allowed.; Debate: Original invites music answers; shouting reframe is allowed and funny."
   },
   {
    "id": null,
@@ -9123,6 +9123,48 @@
    "Description": "Ruet-e-Hilal Committee Member",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording uses the name Pakistani players actually use for the moon-sighting committee; it is a recognisable customer and is not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The imam asked us to close the gaps in the saff, but the uncle next to me is standing on _____!",
+   "action": "add",
+   "note": "New card (debate): New masjid-life card, no saff card exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My Eid shopping budget is gone every year because of _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's cause-style blank is better; no budget/Eid shopping card found."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My dadi's pickle jar has been hiding _____ since 1995!",
+   "action": "add",
+   "note": "New card (debate): No pickle jar card; open funny blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every Sunday the halwa puri wala has such a long queue because of _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's cause-style blank avoids the predictable puri/halwa answer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Halwa Puri Wala",
+   "action": "add",
+   "note": "New card (debate): Recognisable street-food customer; only Halwai exists, which is a different seller."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Dry Fruit Seller",
+   "action": "add",
+   "note": "New card (debate): Familiar market customer, not a duplicate of Khajoor Wala."
   }
  ]
 }
