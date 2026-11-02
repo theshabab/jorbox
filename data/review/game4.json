@@ -3375,13 +3375,13 @@
    "Name": "name babies",
    "Description": "In 2022, IKEA Norway gathered its homegrown data to build a very special informational catalogue to help customers ____.",
    "Category": "IKEA",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "name babies",
     "Description": "In 2022, IKEA Norway gathered its homegrown data to build a very special informational catalogue to help customers ____.",
     "Category": "IKEA"
    },
-   "note": ""
+   "note": "Debate: Vague and unguessable; the answer cannot be bluffed or checked."
   },
   {
    "id": "game4-261",
@@ -3713,13 +3713,13 @@
    "Name": "Crashing funerals",
    "Description": "An Australian man named Bill Edgar has made a living out of professionally ____.",
    "Category": "Final Round",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Crashing funerals",
     "Description": "An Australian man named Bill Edgar has made a living out of professionally ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Debate: Unverifiable claim about a private individual with no believable answer to bluff toward."
   },
   {
    "id": "game4-287",
@@ -4308,16 +4308,16 @@
   },
   {
    "id": "game4-332",
-   "Name": "french fries",
-   "Description": "The New York City business Serendipity 3 is home to the world’s most expensive ____.",
-   "Category": "Final Round",
-   "action": "keep",
+   "Name": "ice cream sundae",
+   "Description": "The New York City business Serendipity 3 once set a record with a $1,000 ____ topped with edible gold.",
+   "Category": "",
+   "action": "edit",
    "original": {
     "Name": "french fries",
     "Description": "The New York City business Serendipity 3 is home to the world’s most expensive ____.",
     "Category": "Final Round"
    },
-   "note": ""
+   "note": "Debate: Original was ambiguous; the challenger's amended wording is verifiable and avoids an outdated superlative."
   },
   {
    "id": "game4-333",
@@ -5045,7 +5045,7 @@
     "Description": "You get to pick the next book for our book club! What are you picking?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category."
+   "note": "Debate: Most family groups have no book club; the new wording works for anyone.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency with sibling personal questions."
   },
   {
    "id": "game4-389",
@@ -5058,7 +5058,7 @@
     "Description": "Imagine you were going to a two week camp in the woods... what ONE comfort item would you bring with you?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Hyphenates the compound adjective.; Debate: Personal question missing its category."
+   "note": "Debate: Hyphenates the compound adjective.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency."
   },
   {
    "id": "game4-390",
@@ -5201,7 +5201,7 @@
     "Description": "A sure fire phrase that would cheer you up is \"____\".",
     "Category": "Enough About You"
    },
-   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category."
+   "note": "Debate: Spelling fix.; Debate: Fills blank category for a personal question.; Debate: Personal question with an empty category.; Debate: Personal question missing its category.; Debate: Fills the empty category for consistency."
   },
   {
    "id": "game4-401",
@@ -5539,7 +5539,7 @@
     "Description": "Think of a cringey moment from your life that still bothers you, what did it involve?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Fix comma splice.; Debate: Adds the missing personal-question category."
+   "note": "Debate: Fix comma splice.; Debate: Adds the missing personal-question category.; Debate: Fills the empty category for consistency."
   },
   {
    "id": "game4-427",
@@ -5552,7 +5552,7 @@
     "Description": "What must a perfect night in include?",
     "Category": "Enough About You"
    },
-   "note": "Debate: Clearer, less Western phrasing than 'night in'.; Debate: Adds the missing personal-question category."
+   "note": "Debate: Clearer, less Western phrasing than 'night in'.; Debate: Adds the missing personal-question category.; Debate: Fills the empty category for consistency."
   },
   {
    "id": "game4-428",
@@ -14168,6 +14168,38 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Real tradition, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "spur",
+   "Description": "Male platypuses have a venomous ____ on each hind leg.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, surprising, easy to bluff; no live platypus card."
+  },
+  {
+   "id": null,
+   "Name": "knead",
+   "Description": "The English word \"yoghurt\" comes from a Turkish word meaning to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Sound etymology with a Muslim-world link; no yoghurt card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "room",
+   "Description": "The word \"camera\" comes from the Latin for \"chamber\" or ____, as in the camera obscura that Ibn al-Haytham studied in his Book of Optics.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate etymology tied to Ibn al-Haytham; no overlap with live cards."
+  },
+  {
+   "id": null,
+   "Name": "bamboo",
+   "Description": "Giant pandas spend up to fourteen hours a day eating ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate and easy to bluff; different from the bamboo growth card."
   }
  ]
 }

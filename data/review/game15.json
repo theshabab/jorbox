@@ -7376,8 +7376,8 @@
   },
   {
    "id": "game15-568",
-   "Name": "China",
-   "Description": "9.6 million km²",
+   "Name": "United States",
+   "Description": "9.83 million km² (total incl. water)",
    "Category": "Largest Countries (Area - Descending)",
    "action": "edit",
    "original": {
@@ -7385,12 +7385,12 @@
     "Description": "3",
     "Category": "Largest Countries (Area - Descending)"
    },
-   "note": "area value; by total area (incl. water) the US (9.83M) is ahead of China, so true order is US 3rd, China 4th"
+   "note": "area value; by total area (incl. water) the US (9.83M) is ahead of China, so true order is US 3rd, China 4th; Debate: US (9.83) outranks China (9.6) by total area; swap so card order matches the reveal."
   },
   {
    "id": "game15-569",
-   "Name": "United States",
-   "Description": "9.83 million km² (total incl. water)",
+   "Name": "China",
+   "Description": "9.6 million km² (total incl. water)",
    "Category": "Largest Countries (Area - Descending)",
    "action": "edit",
    "original": {
@@ -7398,7 +7398,7 @@
     "Description": "4",
     "Category": "Largest Countries (Area - Descending)"
    },
-   "note": "area value; ahead of China by total area (rankings vary by water counting)"
+   "note": "area value; ahead of China by total area (rankings vary by water counting); Debate: China ranks 4th; basis stated same as the US card so the pair is comparable."
   },
   {
    "id": "game15-570",
@@ -32345,6 +32345,102 @@
    "Category": "Android Versions (Chronological)",
    "action": "add",
    "note": "New card (debate): Marshmallow, Nougat, Oreo and Pie are already live additions in game15.json, so the challenger's Marshmallow amendment would be a duplicate; Android 10 correctly continues after Pie (Aug 2018)."
+  },
+  {
+   "id": null,
+   "Name": "Daal",
+   "Description": "11th (د)",
+   "Category": "Huruf-e-Tahajji (11th to 15th)",
+   "action": "add",
+   "note": "New card (debate): Urdu alphabet continuation; letters 11-15 absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Ddaal",
+   "Description": "12th (ڈ)",
+   "Category": "Huruf-e-Tahajji (11th to 15th)",
+   "action": "add",
+   "note": "New card (debate): 12th Urdu letter."
+  },
+  {
+   "id": null,
+   "Name": "Zaal",
+   "Description": "13th (ذ)",
+   "Category": "Huruf-e-Tahajji (11th to 15th)",
+   "action": "add",
+   "note": "New card (debate): 13th Urdu letter."
+  },
+  {
+   "id": null,
+   "Name": "Ray",
+   "Description": "14th (ر)",
+   "Category": "Huruf-e-Tahajji (11th to 15th)",
+   "action": "add",
+   "note": "New card (debate): 14th Urdu letter."
+  },
+  {
+   "id": null,
+   "Name": "Rray",
+   "Description": "15th (ڑ)",
+   "Category": "Huruf-e-Tahajji (11th to 15th)",
+   "action": "add",
+   "note": "New card (debate): 15th Urdu letter."
+  },
+  {
+   "id": null,
+   "Name": "Algeria",
+   "Description": "2.38 million km²",
+   "Category": "Muslim-Majority Countries (Area - Descending)",
+   "action": "add",
+   "note": "New card (debate): Challenger's accurate renamed category; 2nd after Kazakhstan."
+  },
+  {
+   "id": null,
+   "Name": "Saudi Arabia",
+   "Description": "2.15 million km²",
+   "Category": "Muslim-Majority Countries (Area - Descending)",
+   "action": "add",
+   "note": "New card (debate): 3rd in renamed category."
+  },
+  {
+   "id": null,
+   "Name": "Libya",
+   "Description": "1.76 million km²",
+   "Category": "Muslim-Majority Countries (Area - Descending)",
+   "action": "add",
+   "note": "New card (debate): 5th, below Sudan."
+  },
+  {
+   "id": null,
+   "Name": "Iran",
+   "Description": "1.65 million km²",
+   "Category": "Muslim-Majority Countries (Area - Descending)",
+   "action": "add",
+   "note": "New card (debate): 6th in renamed category."
+  },
+  {
+   "id": null,
+   "Name": "Pakistan",
+   "Description": "0.88 million km²",
+   "Category": "Muslim-Majority Countries (Area - Descending)",
+   "action": "add",
+   "note": "New card (debate): 7th; local-interest entry, valid now that category does not claim to be the largest."
+  },
+  {
+   "id": null,
+   "Name": "Kazakhstan",
+   "Description": "2.72 million km²",
+   "Category": "Muslim-Majority Countries (Area - Descending)",
+   "action": "add",
+   "note": "New card (debate): Largest Muslim-majority country by area; challenger-missed card."
+  },
+  {
+   "id": null,
+   "Name": "Sudan",
+   "Description": "1.86 million km²",
+   "Category": "Muslim-Majority Countries (Area - Descending)",
+   "action": "add",
+   "note": "New card (debate): Larger than Libya; omitting it would make the ranking wrong."
   }
  ]
 }

@@ -56270,15 +56270,15 @@
   {
    "id": "game5-4329",
    "Name": "",
-   "Description": "So many people forget to bring ____ when they camp out in the woods.",
+   "Description": "So many people forget to bring ____ when they go camping in Naran.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "So many people forget to bring ____ when they camp out in the woods.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localises the US woods frame."
   },
   {
    "id": "game5-4330",
@@ -56634,15 +56634,15 @@
   {
    "id": "game5-4357",
    "Name": "",
-   "Description": "Speculating whether the other people in the waiting room are also seeing the doctor about ____.",
+   "Description": "Wondering why the person next to you in the clinic waiting room is carrying ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Speculating whether the other people in the waiting room are also seeing the doctor about ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids crude medical answers."
   },
   {
    "id": "game5-4358",
@@ -57076,15 +57076,15 @@
   {
    "id": "game5-4391",
    "Name": "",
-   "Description": "Studies show that married people are much more likely than single people to have ____.",
+   "Description": "Studies show that people who live with their in-laws are much more likely to have ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Studies show that married people are much more likely than single people to have ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids sexual answers, local frame."
   },
   {
    "id": "game5-4392",
@@ -57364,13 +57364,13 @@
    "Name": "",
    "Description": "Sweet dreams are made of ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Sweet dreams are made of ____. Who am I to disagree?",
     "Category": ""
    },
-   "note": "dropped song lyric"
+   "note": "Debate: western/secular: pop song lyric."
   },
   {
    "id": "game5-4414",
@@ -57466,15 +57466,15 @@
   {
    "id": "game5-4421",
    "Name": "",
-   "Description": "Taking up ____ as a new hobby to help you stop smoking.",
+   "Description": "Taking up ____ as a new hobby to help you stop biting your nails.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Taking up ____ as a new hobby to help you stop smoking.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces smoking theme."
   },
   {
    "id": "game5-4422",
@@ -57869,15 +57869,15 @@
   {
    "id": "game5-4452",
    "Name": "",
-   "Description": "That time you got tired and accidentally told your boss about your ____ session.",
+   "Description": "That time you got tired and accidentally told your boss about your ____ hobby.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "That time you got tired and accidentally told your boss about your ____ session.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes innuendo from 'session'."
   },
   {
    "id": "game5-4453",
@@ -58298,15 +58298,15 @@
   {
    "id": "game5-4485",
    "Name": "",
-   "Description": "The bake sale goes to support ____.",
+   "Description": "The charity bazaar goes to support ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The bake sale goes to support ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local replacement for bake sale."
   },
   {
    "id": "game5-4486",
@@ -58831,7 +58831,7 @@
   {
    "id": "game5-4526",
    "Name": "",
-   "Description": "The biggest motivator to help \"(insert name)\" quit smoking was ____.",
+   "Description": "The biggest motivator to help \"(insert name)\" quit staying up all night on his/her phone was ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -58839,7 +58839,7 @@
     "Description": "The biggest motivator to help \"Insert Name\" quit smoking was ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Challenger's amended version: replaces smoking without repeating P5's nail-biting."
   },
   {
    "id": "game5-4527",
@@ -59455,15 +59455,15 @@
   {
    "id": "game5-4574",
    "Name": "",
-   "Description": "The fastest route to parental PTSD.",
+   "Description": "The fastest way to give your parents a headache is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The fastest route to parental PTSD.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes PTSD joke, adds a blank."
   },
   {
    "id": "game5-4575",
@@ -105061,6 +105061,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Clean local mehndi-night humour with no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The jeep to Hunza stalled halfway up the mountain road because ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct local travel prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The sack race at school sports day was won by ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh, clean prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu's old briefcase in the almirah turned out to contain ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from the generic 'What's in the briefcase?' card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The school trip to Lahore Fort took a turn when the guide noticed ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local, clean; differs from the haunted-fort card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nobody in our house can explain why there is ____ on top of the fridge.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable household prompt with a new angle."
   }
  ]
 }
