@@ -660,7 +660,7 @@ Jannah,Heaven | Paradise | Garden | Reward | Firdaus,Islamic Terms
 Jahannam,Hell | Fire | Dozakh | Aag | Punishment,Islamic Terms
 Ramadan,Roza | Fasting | Month | Iftar | Sehri,Islamic Terms
 Eid,Fitr | Adha | Mubarak | Sewaiyan | Celebration,Islamic Terms
-Masjid,Mosque | Namaz | Minaret | Azan | Pray,Islamic Terms
+Masjid,Mosque | Namaz | Minaret | Azan | Pray,Islamic Locations
 Imam,Leads | Namaz | Masjid | Front | Molvi,Islamic Terms
 Wudu,Wash | Water | Namaz | Ablution | Hands,Islamic Terms
 Makkah,Mecca | Kaaba | Hajj | Qibla | Haram,Islamic Locations
@@ -671,7 +671,7 @@ Masjid al-Haram,Kaaba | Makkah | Biggest | Tawaf | Hajj,Islamic Locations
 Masjid al-Nabawi,Madinah | Green Dome | Prophet | Rawdah | Second,Islamic Locations
 Al-Aqsa,Jerusalem | Palestine | Quds | First Qibla | Isra,Islamic Locations
 Dome of the Rock,Golden | Jerusalem | Aqsa | Miraj | Palestine,Islamic Locations
-Mount Arafat,Hajj | Day | Jabal Rahmah | Standing | Khutbah,Islamic Locations
+Mount Arafat,Hajj | Jabal Rahmah | Standing | Khutbah | Wuquf,Islamic Locations
 Mina,Tents | Jamarat | Stoning | Hajj | Shaytan,Islamic Locations
 Muzdalifah,Pebbles | Night | Hajj | Open Sky | Arafat,Islamic Locations
 Safa,Marwa | Sa'i | Hajar | Hill | Run,Islamic Locations
@@ -1328,3 +1328,13 @@ Devrani,Shohar | Younger | Jethani | Brother | Wife,Family Relations
 Muawiya,Umayyad | Caliph | Damascus | Scribe | Governor,Sahaba
 Abu Sufyan,Quraysh | Makkah | Fath | Uhud | Umm Habibah,Sahaba
 Abdullah ibn Zubair,Asma | Hijrah | Madinah | Aisha | Hajjaj,Sahaba
+Buraq,Miraj | Isra | Animal | White | Ride,Islamic Terms
+Iqamah,Azan | Namaz | Jamaat | Begin | Stand,Islamic Terms
+Tajweed,Quran | Recitation | Rules | Qari | Makhraj,Islamic Terms
+Ashab al-Kahf,Cave | Sleep | Youth | Surah Kahf | Dog,Islamic Terms
+Yajooj Majooj,Gog | Wall | Dhul-Qarnayn | Akhir uz Zaman | Dig,Islamic Terms
+Surah Yaseen,Heart | Quran | Dying | Recite | 36,Islamic Terms
+Surah Al-Kahf,Friday | Cave | Jummah | Light | Dajjal,Islamic Terms
+Luqman,Wise | Son | Advice | Quran | Surah,Muslim Historical Figures
+Zainab bint Jahsh,Wife | Cousin | Zaid | Generous | Mother of Believers,Sahaba
+Sidrat al-Muntaha,Miraj | Lote Tree | Heavens | Jibreel | Boundary,Islamic Locations

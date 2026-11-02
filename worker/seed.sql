@@ -1991,7 +1991,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-659','game2','Jahannam','Hell | Fire | Dozakh | Aag | Punishment','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-660','game2','Ramadan','Roza | Fasting | Month | Iftar | Sehri','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-661','game2','Eid','Fitr | Adha | Mubarak | Sewaiyan | Celebration','Islamic Terms');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-662','game2','Masjid','Mosque | Namaz | Minaret | Azan | Pray','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-662','game2','Masjid','Mosque | Namaz | Minaret | Azan | Pray','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-663','game2','Imam','Leads | Namaz | Masjid | Front | Molvi','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-664','game2','Wudu','Wash | Water | Namaz | Ablution | Hands','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-665','game2','Makkah','Mecca | Kaaba | Hajj | Qibla | Haram','Islamic Locations');
@@ -2002,7 +2002,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-670','game2','Masjid al-Nabawi','Madinah | Green Dome | Prophet | Rawdah | Second','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-671','game2','Al-Aqsa','Jerusalem | Palestine | Quds | First Qibla | Isra','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-672','game2','Dome of the Rock','Golden | Jerusalem | Aqsa | Miraj | Palestine','Islamic Locations');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-673','game2','Mount Arafat','Hajj | Day | Jabal Rahmah | Standing | Khutbah','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-673','game2','Mount Arafat','Hajj | Jabal Rahmah | Standing | Khutbah | Wuquf','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-674','game2','Mina','Tents | Jamarat | Stoning | Hajj | Shaytan','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-675','game2','Muzdalifah','Pebbles | Night | Hajj | Open Sky | Arafat','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-676','game2','Safa','Marwa | Sa''i | Hajar | Hill | Run','Islamic Locations');
@@ -2659,6 +2659,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1327','game2','Muawiya','Umayyad | Caliph | Damascus | Scribe | Governor','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1328','game2','Abu Sufyan','Quraysh | Makkah | Fath | Uhud | Umm Habibah','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1329','game2','Abdullah ibn Zubair','Asma | Hijrah | Madinah | Aisha | Hajjaj','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1330','game2','Buraq','Miraj | Isra | Animal | White | Ride','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1331','game2','Iqamah','Azan | Namaz | Jamaat | Begin | Stand','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1332','game2','Tajweed','Quran | Recitation | Rules | Qari | Makhraj','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1333','game2','Ashab al-Kahf','Cave | Sleep | Youth | Surah Kahf | Dog','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1334','game2','Yajooj Majooj','Gog | Wall | Dhul-Qarnayn | Akhir uz Zaman | Dig','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1335','game2','Surah Yaseen','Heart | Quran | Dying | Recite | 36','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1336','game2','Surah Al-Kahf','Friday | Cave | Jummah | Light | Dajjal','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1337','game2','Luqman','Wise | Son | Advice | Quran | Surah','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1338','game2','Zainab bint Jahsh','Wife | Cousin | Zaid | Generous | Mother of Believers','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1339','game2','Sidrat al-Muntaha','Miraj | Lote Tree | Heavens | Jibreel | Boundary','Islamic Locations');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game3','Jasoosi Club',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1','game3','Pakistani Cities','Karachi|Lahore|Islamabad|Rawalpindi|Faisalabad|Multan|Peshawar|Quetta|Sialkot|Gujranwala|Hyderabad|Abbottabad|Bahawalpur|Sargodha|Sukkur|Larkana|Sheikhupura|Jhelum|Rahim Yar Khan|Mardan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-2','game3','Islamic Prophets','Adam|Idris|Nuh|Hud|Saleh|Ibrahim|Lut|Ismail|Ishaq|Yaqub|Yusuf|Ayyub|Shuaib|Musa|Harun|Dawud|Sulaiman|Ilyas|Yunus|Isa','');
@@ -10228,7 +10238,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5335','game5','','The best tent-pegging horse trainers never let their horses ____, ____, or ____','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5336','game5','','Three odd outfit choices for a ghost haunting an old haveli','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5337','game5','','The three gifts every dad secretly wants for Eid','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5338','game5','','Three extracurricular activities at a really, really, really rich high school','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5338','game5','','Three extracurricular activities at a really, really, really rich private school','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5339','game5','','Three signs that your neighbor is upset with you','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5340','game5','','Three things your body does when you meet your favourite cricketer','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5341','game5','','Three ways of perking yourself up when chai isn’t enough','Quiplash');
@@ -10237,7 +10247,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5344','game5','','The three words that best describe your current mental state','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5345','game5','','Three things you''ll find in any uncle''s waist pouch','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5346','game5','','Three qualities that make a man “marriage material”','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5347','game5','','The last three words you’ll say before you die','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5347','game5','','The last three words you''ll say before load shedding hits in the middle of your favourite match','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5348','game5','','Three things that will happen on the best day of your life','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5349','game5','','The three things that would concern you if they showed up in your dreams','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5350','game5','','Three things that’ll put you right to sleep','Quiplash');
@@ -10272,7 +10282,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5379','game5','','The three things you need to be good at to truly get ahead in life','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5380','game5','','The three steps to having a perfect little morning','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5381','game5','','Kids are made of things like “sugar, spice, and everything nice.” What are adults made of?','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5382','game5','','Three things you really don’t want your doctor to say during an exam','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5382','game5','','Three things you really don''t want your dentist to say during a check-up','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5383','game5','','Three things you always forget when you leave the house','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5384','game5','','Three things that are better when they’re fast','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5385','game5','','Three things you can say to immediately get everyone’s attention','Quiplash');
@@ -10291,11 +10301,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5398','game5','','Three Zoom backgrounds nobody’s asking for','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5399','game5','','Three things you should never get wet','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5400','game5','','Let’s be positive! Name three things you’re looking forward to!','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5401','game5','','Three signs you live next door to a mob boss','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5401','game5','','Three signs you live next door to the most dramatic family in the mohalla','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5402','game5','','Three of Einstein’s less impressive discoveries','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5403','game5','','Three things that are the REAL treasures we found along the way','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5404','game5','','The three things you need to start that new society of yours','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5405','game5','','Three neutral things to write in a birthday card for a coworker you don’t know that well','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5405','game5','','Three neutral things to write in a farewell card for a colleague you don''t know that well','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5406','game5','','Summarize your last family dawat in three words','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5407','game5','','Three things you can wear to a business meeting to show you deserve respect','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5408','game5','','Three things Mars needs before we can live there','Quiplash');
@@ -10306,7 +10316,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5413','game5','','Three things you''d put in a trap as bait for your laziest cousin','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5414','game5','','Three things you want to eat RIGHT NOW','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5415','game5','','Three unrealistic goals to set for yourself this year','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5416','game5','','Three secret off-menu items you can order at McDonald’s','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5416','game5','','Three secret off-menu items you can order at your favourite fast-food place','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5417','game5','','Three words that could describe both a hug and a sandwich','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5418','game5','','Three simple truths about humanity','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5419','game5','','The three things standing between you and becoming president','Quiplash');
@@ -10317,7 +10327,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5424','game5','','Three things you would say to a wolf disguised as your grandma','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5425','game5','','Three things you really thought we would have invented by now','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5426','game5','','Three things a good parent packs in their kid’s backpack','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5427','game5','','The three things you MUST consider when buying a wedding ring','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5427','game5','','The three things you MUST consider when choosing a wedding venue','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5428','game5','','Three distracting things to yell as a batsman waits for the bowler''s delivery','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5429','game5','','Three ways to beat the heat this summer','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5430','game5','','The three things space aliens are thinking as they observe us from afar','Quiplash');
@@ -10351,7 +10361,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5458','game5','','The first thing you would do after becoming a crorepati overnight','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5459','game5','','Name a TV drama that''s about a vampire doctor','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5460','game5','','What''s the Mona Lisa smiling about?','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5461','game5','','The crime you would commit if you could get away with it','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5461','game5','','The harmless prank you would pull if you knew you would never get caught','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5462','game5','','A terrible name for a cruise ship','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5463','game5','','The name of a font nobody would ever use','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5464','game5','','Something you should never put on an open wound','Quiplash');
@@ -10384,7 +10394,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5491','game5','','If you were allowed to name someone else''s baby any weird thing you wanted, what would you name it?','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5492','game5','','You know you''re in for a bad rickshaw ride when ____.','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5493','game5','','The worst way to spell Rawalpindi','Quiplash');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5494','game5','','Come up with a name for the most difficult yoga pose known to mankind','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5494','game5','','Come up with a name for the most difficult gym stretch known to mankind','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5495','game5','','What''s lurking under your bed when you sleep?','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5496','game5','','The name of a canine comedy club with puppy stand-up comedians','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-5497','game5','','A custom number plate a show-off in an expensive car would get','Quiplash');
@@ -11180,6 +11190,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6287','game5','','The three worst places to hear "Beta, ek minute idhar aana"','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6288','game5','','A basant kite''s last words before it gets cut','Quiplash');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6289','game5','','The three rules every umpire in gully cricket secretly follows','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6290','game5','','Three things Abbu pretends to understand about your phone','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6291','game5','','Three things your family packs for a road trip to Murree that nobody actually needs','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6292','game5','','Three things a teacher says when handing back the exam papers','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6293','game5','','Three suspicious things to find in a school lunchbox on the last day of term','Quiplash');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6294','game5','','Three reasons the family WhatsApp group has 400 unread messages','Quiplash');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game6','Categories Game',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-1','game6','','Pakistani Cities','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-2','game6','','Prophets Named in the Quran','');
@@ -15992,6 +16007,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1213','game9','What is the lower house of Pakistan''s Parliament called?','The National Assembly','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1214','game9','Which Pakistani city is known as the ''Gateway to the Khyber Pass''?','Peshawar','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1215','game9','Which Pakistani cricketer is nicknamed the ''Sultan of Swing''?','Wasim Akram','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1216','game9','Which companion is the only one named in the Quran, in Surah Al-Ahzab?','Zayd ibn Haritha (RA)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1217','game9','Which branch of mathematics gets its name from the title of al-Khwarizmi''s book ''al-Jabr''?','Algebra','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1218','game9','Which wooden board game, played by flicking a striker to pocket discs, is hugely popular in South Asian homes?','Carrom','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1219','game9','How many kalimas are traditionally taught to children in Pakistan?','Six (Tayyab, Shahadat, Tamjeed, Tawheed, Astaghfar, Radd-e-Kufr)','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game10','Aik Rangi Soch',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-1','game10','Name a fruit that is yellow.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-2','game10','What is the best flavor of ice cream?','','');

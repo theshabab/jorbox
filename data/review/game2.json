@@ -9068,14 +9068,14 @@
    "id": "game2-698",
    "Name": "Masjid",
    "Description": "Mosque | Namaz | Minaret | Azan | Pray",
-   "Category": "Islamic Terms",
+   "Category": "Islamic Locations",
    "action": "edit",
    "original": {
     "Name": "Masjid",
     "Description": "Islam | Muslim | Arabic | religious",
     "Category": "Islamic Terms"
    },
-   "note": ""
+   "note": "Debate: A place; fits with Masjid al-Haram, Minaret, Eidgah in Islamic Locations."
   },
   {
    "id": "game2-699",
@@ -9210,7 +9210,7 @@
   {
    "id": "game2-709",
    "Name": "Mount Arafat",
-   "Description": "Hajj | Day | Jabal Rahmah | Standing | Khutbah",
+   "Description": "Hajj | Jabal Rahmah | Standing | Khutbah | Wuquf",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9218,7 +9218,7 @@
     "Description": "Mount | mosque | holy | Mecca",
     "Category": "Islamic Locations"
    },
-   "note": ""
+   "note": "Debate: Replaces the vague banned word 'Day' with Wuquf, the key Hajj term."
   },
   {
    "id": "game2-710",
@@ -14695,6 +14695,86 @@
    "Category": "Sahaba",
    "action": "add",
    "note": "New card (debate): Well-known Sahabi, distinct from the live Zubair card; Hajjaj replaces the vacuous Born hint."
+  },
+  {
+   "id": null,
+   "Name": "Buraq",
+   "Description": "Miraj | Isra | Animal | White | Ride",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known Isra/Miraj element, absent from the deck and not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Iqamah",
+   "Description": "Azan | Namaz | Jamaat | Begin | Stand",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Everyday salah term, distinct from Azan."
+  },
+  {
+   "id": null,
+   "Name": "Tajweed",
+   "Description": "Quran | Recitation | Rules | Qari | Makhraj",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Familiar from Quran classes; not a duplicate of Qari."
+  },
+  {
+   "id": null,
+   "Name": "Ashab al-Kahf",
+   "Description": "Cave | Sleep | Youth | Surah Kahf | Dog",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Famous, well-established Quranic story."
+  },
+  {
+   "id": null,
+   "Name": "Yajooj Majooj",
+   "Description": "Gog | Wall | Dhul-Qarnayn | Akhir uz Zaman | Dig",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known Quranic story and sign of Qiyamah."
+  },
+  {
+   "id": null,
+   "Name": "Surah Yaseen",
+   "Description": "Heart | Quran | Dying | Recite | 36",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Commonly recited surah; deck only has Al-Fatiha."
+  },
+  {
+   "id": null,
+   "Name": "Surah Al-Kahf",
+   "Description": "Friday | Cave | Jummah | Light | Dajjal",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known Jummah sunnah; a different answer from Ashab al-Kahf."
+  },
+  {
+   "id": null,
+   "Name": "Luqman",
+   "Description": "Wise | Son | Advice | Quran | Surah",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Quranic figure known for wisdom; safe category given the dispute over prophethood."
+  },
+  {
+   "id": null,
+   "Name": "Zainab bint Jahsh",
+   "Description": "Wife | Cousin | Zaid | Generous | Mother of Believers",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Accurate facts; adds to the Mothers of the Believers already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Sidrat al-Muntaha",
+   "Description": "Miraj | Lote Tree | Heavens | Jibreel | Boundary",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Key Miraj destination; challenger's amendment avoids the disputed 'Seventh Heaven' detail."
   }
  ]
 }

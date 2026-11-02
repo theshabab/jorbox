@@ -13847,6 +13847,34 @@
    "Description": "Wasim Akram",
    "action": "add",
    "note": "New card (debate): Accurate, and no nickname card for Akram exists."
+  },
+  {
+   "id": null,
+   "Name": "Which companion is the only one named in the Quran, in Surah Al-Ahzab?",
+   "Description": "Zayd ibn Haritha (RA)",
+   "action": "add",
+   "note": "New card (debate): Accurate (33:37), unique in the deck, and good Islamic general knowledge."
+  },
+  {
+   "id": null,
+   "Name": "Which branch of mathematics gets its name from the title of al-Khwarizmi's book 'al-Jabr'?",
+   "Description": "Algebra",
+   "action": "add",
+   "note": "New card (debate): Accurate and not a duplicate of the algorithm card."
+  },
+  {
+   "id": null,
+   "Name": "Which wooden board game, played by flicking a striker to pocket discs, is hugely popular in South Asian homes?",
+   "Description": "Carrom",
+   "action": "add",
+   "note": "New card (debate): Accurate, familiar to the audience, and absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "How many kalimas are traditionally taught to children in Pakistan?",
+   "Description": "Six (Tayyab, Shahadat, Tamjeed, Tawheed, Astaghfar, Radd-e-Kufr)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: the names make the answer verifiable and mark it as a local tradition."
   }
  ]
 }

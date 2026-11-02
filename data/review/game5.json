@@ -94919,15 +94919,15 @@
   {
    "id": "game5-7302",
    "Name": "",
-   "Description": "Three extracurricular activities at a really, really, really rich high school",
+   "Description": "Three extracurricular activities at a really, really, really rich private school",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three extracurricular activities at a really, really, really rich high school",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local wording."
   },
   {
    "id": "game5-7303",
@@ -95036,15 +95036,15 @@
   {
    "id": "game5-7311",
    "Name": "",
-   "Description": "The last three words you’ll say before you die",
+   "Description": "The last three words you'll say before load shedding hits in the middle of your favourite match",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The last three words you’ll say before you die",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local, funnier, avoids morbid answers."
   },
   {
    "id": "game5-7312",
@@ -95556,15 +95556,15 @@
   {
    "id": "game5-7351",
    "Name": "",
-   "Description": "Three things you really don’t want your doctor to say during an exam",
+   "Description": "Three things you really don't want your dentist to say during a check-up",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three things you really don’t want your doctor to say during an exam",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Safer for mixed groups, joke kept."
   },
   {
    "id": "game5-7352",
@@ -95803,15 +95803,15 @@
   {
    "id": "game5-7370",
    "Name": "",
-   "Description": "Three signs you live next door to a mob boss",
+   "Description": "Three signs you live next door to the most dramatic family in the mohalla",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three signs you live next door to a mob boss",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local equivalent of mob boss."
   },
   {
    "id": "game5-7371",
@@ -95868,15 +95868,15 @@
   {
    "id": "game5-7375",
    "Name": "",
-   "Description": "Three neutral things to write in a birthday card for a coworker you don’t know that well",
+   "Description": "Three neutral things to write in a farewell card for a colleague you don't know that well",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three neutral things to write in a birthday card for a coworker you don’t know that well",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Farewell card is the more local fit."
   },
   {
    "id": "game5-7376",
@@ -96011,15 +96011,15 @@
   {
    "id": "game5-7386",
    "Name": "",
-   "Description": "Three secret off-menu items you can order at McDonald’s",
+   "Description": "Three secret off-menu items you can order at your favourite fast-food place",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Three secret off-menu items you can order at McDonald’s",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Removes brand reference."
   },
   {
    "id": "game5-7387",
@@ -96154,15 +96154,15 @@
   {
    "id": "game5-7397",
    "Name": "",
-   "Description": "The three things you MUST consider when buying a wedding ring",
+   "Description": "The three things you MUST consider when choosing a wedding venue",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The three things you MUST consider when buying a wedding ring",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local frame replaces wedding ring buying."
   },
   {
    "id": "game5-7398",
@@ -96635,15 +96635,15 @@
   {
    "id": "game5-7434",
    "Name": "",
-   "Description": "The crime you would commit if you could get away with it",
+   "Description": "The harmless prank you would pull if you knew you would never get caught",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The crime you would commit if you could get away with it",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Avoids crime answers, keeps the idea."
   },
   {
    "id": "game5-7435",
@@ -97142,15 +97142,15 @@
   {
    "id": "game5-7473",
    "Name": "",
-   "Description": "Come up with a name for the most difficult yoga pose known to mankind",
+   "Description": "Come up with a name for the most difficult gym stretch known to mankind",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Come up with a name for the most difficult yoga pose known to mankind",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Challenger's amended wording, unambiguous."
   },
   {
    "id": "game5-7474",
@@ -105509,6 +105509,46 @@
    "Category": "Quiplash",
    "action": "add",
    "note": "New card (debate): Umpire angle distinct from the golden rules card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things Abbu pretends to understand about your phone",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean, distinct format."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things your family packs for a road trip to Murree that nobody actually needs",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Distinct angle from existing Murree cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things a teacher says when handing back the exam papers",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Relatable, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three suspicious things to find in a school lunchbox on the last day of term",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Clean and distinct."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three reasons the family WhatsApp group has 400 unread messages",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): No unread-messages card exists."
   }
  ]
 }
