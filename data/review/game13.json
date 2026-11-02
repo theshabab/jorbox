@@ -3309,11 +3309,11 @@
     {
       "id": "game13-368",
       "Description": "Get a player to crack their neck.",
-      "action": "remove",
+      "action": "keep",
       "original": {
         "Description": "Get a player to crack their neck."
       },
-      "note": "unsafe; similar to game13-284"
+      "note": "Restored at the deck owner's request"
     },
     {
       "id": "game13-369",
@@ -3921,11 +3921,11 @@
     {
       "id": "game13-436",
       "Description": "Get a player to stand on a chair.",
-      "action": "remove",
+      "action": "keep",
       "original": {
         "Description": "Get a player to stand on a chair."
       },
-      "note": "unsafe"
+      "note": "Restored at the deck owner's request"
     },
     {
       "id": "game13-437",

@@ -4228,12 +4228,13 @@
       "id": "game11-356",
       "Name": "Customer",
       "Description": "Amputee",
-      "action": "remove",
+      "action": "keep",
       "original": {
         "Name": "Customer",
         "Description": "Amputee"
       },
-      "note": "insensitive"
+      "note": "Restored at the deck owner's request",
+      "Category": "Customer"
     },
     {
       "id": "game11-357",

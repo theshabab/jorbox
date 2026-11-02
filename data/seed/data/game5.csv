@@ -243,6 +243,7 @@ Name,Description,Category
 ,The worst medical advice is ____.,Medical Mishaps
 ,I Googled my symptoms and found out I have ____.,Medical Mishaps
 ,The hospital waiting room smells like ____.,Medical Mishaps
+,I'm too embarrassed to tell the doctor about ____.,Medical Mishaps
 ,Desi totkas include ____.,Medical Mishaps
 ,My mom thinks all illnesses are cured by ____.,Medical Mishaps
 ,The worst place to get sick is ____.,Medical Mishaps
@@ -336,6 +337,7 @@ Name,Description,Category
 ,The real reason for ____ is a conspiracy.,Conspiracy Theories
 ,I actually believe the conspiracy that ____.,Conspiracy Theories
 ,Pakistan is secretly controlled by ____.,Conspiracy Theories
+,The Yahoodi Sazish uses ____ to control us.,Conspiracy Theories
 ,Aliens are responsible for ____.,Conspiracy Theories
 ,The moon landing was faked using ____.,Conspiracy Theories
 ,Pharma companies don't want you to know about ____.,Conspiracy Theories
@@ -701,6 +703,7 @@ Name,Description,Category
 ,"____. Awesome in theory, kind of a mess in practice.",Classic
 ,I'm not like the rest of you. I'm too rich and busy for ____.,Classic
 ,____: Hours of fun. Easy to use. Perfect for ____!,Classic
+,What left this stain on my couch?,The Third Expansion
 ,"Call our lawyer right now, because no one should have to tolerate ____ in the office pantry.",Classic
 ,"When you get right down to it, ____ is just ____.",Classic
 ,Turns out that ____-Man was neither the hero we needed nor wanted.,Classic
@@ -743,6 +746,7 @@ Name,Description,Category
 ,____ and ____: may they never meet.,
 ,____ and loneliness are a dangerous combination.,
 ,____ are out to get me.,
+,____ bought 100 million rounds of ammunition last year because of ____.,
 ,____ broke six of my ribs.,
 ,____ builds trust between friends.,
 ,____ burns 360 calories per hour.,
@@ -795,6 +799,7 @@ Name,Description,Category
 ,____ is reporting to Putin right now.,
 ,____ is subverting the natural order with ____.,
 ,____ is the active ingredient in Ammi's desi totkay.,
+,____ is the best indication why Asians are such bad drivers.,
 ,____ is the best thing since ____.,
 ,____ is the best way to avoid volunteering at the school's parent-teacher meeting.,
 ,____ is the key to a healthy lifestyle.,
@@ -808,6 +813,7 @@ Name,Description,Category
 ,____ is the only thing that gets me out of bed in the morning.,
 ,____ is the secret ingredient in the world's most famous fizzy drink.,
 ,____ is the secret ingredient in Nani's famous biryani.,
+,____ is the tool of ____ to reduce world population.,
 ,____ is totally acceptable. If you're Chachu.,
 ,____ is wasted on the youth.,
 ,____ is way better in ____ mode.,
@@ -1146,6 +1152,7 @@ Name,Description,Category
 ,Adulting is stressful. At least as a child I was ____.,
 ,"After ____, I don't take anything for granted.",
 ,"After ____, the elevator ride got really uncomfortable.",
+,"after 24 hours in labor, my wife grabbed the nurse by the throat and yelled ____",
 ,"After a long day, ____ relaxes me.",
 ,"After a long shaadi night, I found ____ in my kurta pocket.",
 ,"After a week-long binge of biryani and nihari, I woke up with a henna design of ____!",
@@ -1160,6 +1167,7 @@ Name,Description,Category
 ,"After getting lost at a mela as a baby, I was raised by ____.",
 ,"After reading Stephen Hawking's theory of ____, I curled up into a corner and cried for three days straight.",
 ,"After eating too much spicy nihari, I dreamt I was being chased by ____.",
+,"After stomping Indian spy into the dirt, Major Aziz celebrated his victory with ____.",
 ,"After surviving a serious illness, I really want to make the most of my life by ____.",
 ,"After my wife told me she was expecting, I said ____.",
 ,"After the baby arrives, I'm going to have to ____.",
@@ -1231,6 +1239,7 @@ Name,Description,Category
 ,"As a kid, I spent my hard-earned pocket money on ____.",
 ,"As a kid, I was afraid ____ was hiding under my bed.",
 ,"As a parent, I get excited about ____.",
+,"As a show of loyalty to Pakistan, every foreign visitor must burn a science book and pledge allegiance to ____.",
 ,"As a small child, I used to feed my goldfish ____.",
 ,"As a firm believer in small government, I believe the only role for government is ____.",
 ,"As a rickshaw driver, I have one rule: No ____.",
@@ -1243,6 +1252,7 @@ Name,Description,Category
 ,"As of today, all local staff will be paid in ____.",
 ,"As PM, the hardest task is dealing with ____.",
 ,"As PM, I would include a policy on ____.",
+,"As PM, Imran Khan promises to take Iran's oil, return Afghanistan's Afghans, and ____.",
 ,"As PM, I will create a new holiday that celebrates ____.",
 ,"As the mom of five rambunctious boys, I'm no stranger to ____.",
 ,"As First Lady of Pakistan, she will be an outspoken advocate for ____.",
@@ -1252,16 +1262,19 @@ Name,Description,Category
 ,Asking the hotel manager to arrange ____ for your room.,
 ,Asking your rishta if they also like ____.,
 ,"Astronomers have discovered that the universe consists of 5% ordinary matter, 25% dark matter, and 70% ____.",
+,"At 8 months pregnant, mom should do (or have) a lot of ____.",
 ,"At a parent-teacher meeting, your teacher confessed you have a serious problem focusing on ____.",
 ,"At a work meeting, I suggested shifting our core competencies away from web-based monetization and toward ____.",
 ,"At a Mehndi, eating ____ is not only allowed, it's encouraged.",
 ,"At my command, SUPARCO will shoot ____ into space.",
+,"At my father's funeral, I put ____ in the casket with him.",
 ,"At my last dholki, there was so much ____ that I ____.",
 ,"At my last check-up, the doctor told me I need to cut back on ____.",
 ,At night when I close my eyes ____ occupies my thoughts.,
 ,"At Eid, I hugged my father-in-law and whispered ____.",
 ,"At the Eid milan, my boss whispered ____.",
 ,"At the union council meeting this month, we will talk about ____.",
+,"At the end of the day, my underwear is so ____ in the front and ____ in the back.",
 ,"At the end of the rishta meeting, the boy's mother anxiously blurted out ____.",
 ,"At the end of the night, the venue smelled like ____.",
 ,"At the Food Street, you can buy deep-fried ____.",
@@ -1284,6 +1297,7 @@ Name,Description,Category
 ,Beauty and the ____.,
 ,"Because of my investment in Bitcoin, soon I'll be able to afford ____.",
 ,"Because you enjoyed ____, we thought you'd like ____.",
+,Becoming transgender - the most attention seeking thing since ____,
 ,"Before their first birthday, babies should be kept far away from ____.",
 ,"Before biryani, the town eating champion was famous for devouring ____.",
 ,"Before I attend your dawat, I must inform you: I don't care for sweets. I prefer ____.",
@@ -1416,6 +1430,7 @@ Name,Description,Category
 ,Cry havoc and let slip ____!,
 ,Abbu never seems to notice ____.,
 ,Dad shouldn't be playing with ____ like a toy.,
+,"Daddy, why does Mommy always call you ____ behind your back? That's because Mommy is ____, my dear.",
 ,Abbu's worst nightmare.,
 ,"Come on, Bilal. You can't just solve every problem with ____.",
 ,I don't care what anyone thinks! I'm obsessed with ____.,
@@ -1441,6 +1456,7 @@ Name,Description,Category
 ,Describe army life in three words.,
 ,Describing ____ as the highlight of your year during a birthday speech.,
 ,Metro Bus: now with ____ for the children!,
+,"Despite overwhelmning scientific evidence to the contrary, some people still believe that vaccines cause ____.",
 ,"Despite what I've been told, ____ is not a crime in Pakistan.",
 ,"Deviating from his usual landscapes, a famous Pakistani painter painted ____ for his latest exhibition.",
 ,"Bilal and Hamza drink chai at the dhaba, and then ____.",
@@ -1461,6 +1477,7 @@ Name,Description,Category
 ,"Doctor, you've gone too far! The human body wasn't meant to withstand that amount of ____!",
 ,DOCTOR: What seems to be the problem? YOU: ____.,
 ,Does anybody wanna play ____?,
+,Domestic Violence is not ok! But it is okay to ask for ____.,
 ,Cheezious now sells a pizza with two great toppings: ____ and ____.,
 ,Don't be silly! Of course I can ____.,
 ,"Don't blame me, I voted for ____.",
@@ -1499,6 +1516,7 @@ Name,Description,Category
 ,"Due to heightened security, please have ____ out and ready for inspection.",
 ,"Duh, of course I know what the spleen does. It's for ____.",
 ,"During a math test, I like to think about ____.",
+,"During delivery, I would like to think about ____.",
 ,"During his childhood, Salvador Dali produced hundreds of paintings of ____.",
 ,"During his short-lived boxing career, Abbu fought under the name ""Sultan ____"".",
 ,"During lengthy sessions of ""hurry up and wait,"" I enjoy ____ to help pass the time.",
@@ -1541,6 +1559,7 @@ Name,Description,Category
 ,"Every time I sneeze, ____ comes out of my nose.",
 ,"Every Tuesday, I purchase a box of jalebi. I sit on the roof. I eat the jalebi. I remember ____, and I cry.",
 ,Every wedding speech should include at least one mention of ____.,
+,Every woman knows what it's like to be called ____ while walking down the street.,
 ,"Every young boy dreams about ____, but only a few will get to experience the glory.",
 ,"Every day has 86,400 seconds. And I'm always a second away from ____.",
 ,Every day I dress up like ____.,
@@ -1597,6 +1616,7 @@ Name,Description,Category
 ,"For every magazine subscription I sell, I've been promised ____ by ____.",
 ,"For the school fancy-dress competition, I dressed as ____.",
 ,"For her birthday, I surprised my begum with ____. We haven't spoken since.",
+,"For hunting in the Royal forest, I hereby sentence you to death by ____.",
 ,"For my best friend's dholki, we all wore shirts that said ____.",
 ,For my birthday ____ jumped out of my cake.,
 ,"For my birthday, my mom gave me a year's supply of ____.",
@@ -1604,6 +1624,7 @@ Name,Description,Category
 ,"For my last rishta meeting, I scored big points with the aunties by suggesting we first ____.",
 ,For only Rs. 2000 plus shipping and handling you can get ____ delivered right to your door.,
 ,"For such a ""know-it-all"" kid, he was not ready for ____.",
+,"For the crime of treason, I sentence you to a slow and torturous death by ____.",
 ,"For the price, you’d think a self-driving car could also include ____.",
 ,"For the Science Fair, I made ____.",
 ,"For your crimes against the people, I hereby sentence you to ____.",
@@ -1616,6 +1637,7 @@ Name,Description,Category
 ,"Free trade can be wonderful if you have smart people in office. Unfortunately, we have ____.",
 ,Freedom. Markhor. ____. PAKISTAN!,
 ,Friday's safety brief warns Jawans to avoid ____.,
+,Friendly fire or ____; I don’t know what's worse.,
 ,Friends don't let friends try ____.,
 ,Friendship is all about ____ together.,
 ,Lay's just revealed that its mystery masala flavour was actually ____.,
@@ -1673,6 +1695,7 @@ Name,Description,Category
 ,"Growing up, Ammi always told me life is like a box of ____.",
 ,PTA is now promoting smartphones for ____.,
 ,"Havaldar keeps saying he's got a meeting at Regiment, but what he's really doing is ____.",
+,Havaldar on Havaldar violence: a serious scourge plaguing our Army. How do we stop it?,
 ,Havaldar told me if I don't cut back on ____ then I'm for sure getting punished.,
 ,"Havaldar, why are you crying?",
 ,Guys? I know I agreed to go along but now I think we have to stop ____.,
@@ -1762,6 +1785,7 @@ Name,Description,Category
 ,How did I lose my car keys this time?,
 ,How did I spend my inheritance?,
 ,How did my grandparents survive without mobile phones?,
+,How did The Army fend off Indian forces at the Battle of Chawinda?,
 ,How did these ____ get broken?,
 ,How did you celebrate your first anniversary?,
 ,How do I know if I have dengue?,
@@ -1794,6 +1818,7 @@ Name,Description,Category
 ,I always find the key to success is ____.,
 ,I always keep ____ in my car.,
 ,I always knew I would end up in the military because I enjoyed ____ at an early age.,
+,"I always knew my cousin was disturbed, then we found his rambling manifesto on ____.",
 ,I always put achar on my ____ for breakfast.,
 ,I always want to think of myself as ____.,
 ,I am ____. I speak for ____.,
@@ -1822,6 +1847,7 @@ Name,Description,Category
 ,I am so proud of my drawing of ____.,
 ,I am so talented because I can ____.,
 ,I am storing all the ____ I can for the inevitable apocalypse.,
+,I am the least racist person there is. I'm even friends with ____.,
 ,I am very paranoid that my friends will ____.,
 ,I am Ammi! Hear me ____.,
 ,I am writing my thesis on ____.,
@@ -2052,6 +2078,7 @@ Name,Description,Category
 ,"I managed to avoid ____, all thanks to ____.",
 ,"I may forget a name, I may forget a face, but I never forget ____.",
 ,"I may not agree with what you just said, but I respect your right to be ____.",
+,"I mean, really, who knows how much the Japs will pay for ____(s) these days?",
 ,I miss the good old days when ____ could be done without ____.,
 ,"I missed my last flight to Dubai because ""(insert name)"" hid ____ in my luggage and airport security stopped me.",
 ,I need you like ____ needs ____.,
@@ -2095,11 +2122,13 @@ Name,Description,Category
 ,I really hope my baby is ____.,
 ,I really hope my grandma doesn’t ask me to explain ____ again.,
 ,I really hope the picture of me ____ doesn't show up in the Facebook photo album.,
+,I really miss the good old days when men were men and ____ could not vote.,
 ,I really think my baby will look like ____.,
 ,"I said, ""Do you speak my language?"" He just smiled and gave me ____.",
 ,I saw ____ on Snapchat the other day.,
 ,I saw ____ on the internet today. It made my whole day.,
 ,I had a dream about ____ after eating ____ before bed.,
+,"I see London, I see France, I see ____.",
 ,I deserve a Pride of Performance award for the time I successfully ____.,
 ,I should have learned more about ____.,
 ,"I should really go to sleep right now, but I can't stop eating ____.",
@@ -2218,6 +2247,7 @@ Name,Description,Category
 ,I would build a wall around ____.,
 ,I would consider it a miracle if my parents would only just ____.,
 ,"I would do anything for my friends, but I won't do ____.",
+,I would eat my best friend's earlobe if he offered to ____ first.,
 ,I would give talks about ____ to youth groups.,
 ,I would learn Japanese specifically for ____.,
 ,"I would move mountains, I would cross oceans; even ____ would not stop me from getting to the biryani.",
@@ -2270,6 +2300,7 @@ Name,Description,Category
 ,I'm making a viral video to raise awareness of ____.,
 ,I'm never going to be rich and famous because I'm too busy ____.,
 ,"I'm not a child anymore, Mom. I'm ____.",
+,"I'm not a racist, but I love ____.",
 ,I'm not ashamed of ____.,
 ,"I'm not going to lie. I despise ____. There, I said it.",
 ,"I'm not irresponsible. Just today, I started ____.",
@@ -2323,6 +2354,7 @@ Name,Description,Category
 ,"If at first you don't succeed, ____.",
 ,"If a yeti came to your house, what would you feed him for dinner?",
 ,"If Captain Pakistan transferred to the Air Force, his indestructible shield would be replaced with ____, and his new catchphrase would be ""____!""",
+,"If JCOs are the backbone, what is the rectum of the Navy?",
 ,"If counting sheep doesn't work, sometimes I'll try ____.",
 ,"If General Zia were alive he'd bust through that door, put an end to all this ____, and then bring back ____!",
 ,"If he were alive today, Quaid-e-Azam would be most proud of ____, but also disappointed in ____.",
@@ -2367,6 +2399,7 @@ Name,Description,Category
 ,"If Shahbaz Sharif could dream, he would dream about ____.",
 ,"If my deployment was made into an action story, it would be full of ____ and ____.",
 ,"If my friendship doesn't involve ____, then I don't want it.",
+,"If NCOs are the backbone, what is the rectum of the Army?",
 ,"If nobody would laugh, I would happily gift ____ to the person on my left.",
 ,"If public speaking makes you nervous, try imagining that the audience is just a room full of ____.",
 ,"If the Arabian Sea had a mascot, it would be ____.",
@@ -2390,6 +2423,7 @@ Name,Description,Category
 ,If you don't laugh at ____ it's just sad.,
 ,"If you don't stop ____, I'll turn this car around!",
 ,"If you don't want anyone to find out, try ____.",
+,"If you enjoy ____, it's because you are weak, your bloodline is weak, and you will not survive the winter.",
 ,"If you forgot your lunch money, how would you pay for lunch?",
 ,"If you get cold feet the night before your wedding, try ____.",
 ,"If you get toys from a Happy Meal, what would you get from a Sad Meal?",
@@ -2403,6 +2437,7 @@ Name,Description,Category
 ,"If you eat too much paan, you are likely to ____.",
 ,"If you think your life is hard, I was just ____.",
 ,"If you thought the mess daal was bad, just wait until you try the newest ration flavour. It tastes like ____!",
+,"If you want a picture of the future, imagine a boot stamping on ____--forever.",
 ,"If you want someone to leave you alone, just tell them about ____.",
 ,"To impress the rishta family, plan the whole visit around ____.",
 ,"If you wish upon a star, you are likely to then ____.",
@@ -2434,6 +2469,7 @@ Name,Description,Category
 ,"In an effort to fight poverty in Pakistan, the PM bans ____ for all citizens.",
 ,"In an exclusive Geo News interview, the PM revealed his new hobby: ____.",
 ,"In an incredible plot twist, ____ was the murderer and it was done with ____.",
+,"In ancient Sparta, boys became men only after killing and eating ____.",
 ,"In Australia, ____ is twice as big and twice as deadly.",
 ,"In Adiala Jail, word is you can trade 200 biscuit packets for ____.",
 ,"In bookstores now: ""From ____ to ____: A memoir.""",
@@ -2474,6 +2510,7 @@ Name,Description,Category
 ,"In the 1950s, hakeems prescribed ____ as a cure for baldness.",
 ,"In the category ____, the first prize is awarded to ____.",
 ,"Inside the cave, Ali Baba turned to the forty thieves and said, ""____.""",
+,in the delivery room the doctor examined ____,
 ,"After his best-selling book, the PM is now launching ____, a documentary series about ____.",
 ,"In the future, the government will send someone back in time to warn us about ____.",
 ,"In the future, we will refer to this year as “The Year of ____.”",
@@ -2515,7 +2552,9 @@ Name,Description,Category
 ,"Instead of rings, Sonic now collects ____.",
 ,"Instead of trusting my inner voice, I think I'll just trust ____.",
 ,"Instead of mutton this year, my family is going to eat ____ for Eid.",
+,"Instead of waterboarding Adiala Jail prisoners now have to endure ____, sometimes for hours on end.",
 ,Instructions unclear: head stuck in ____.,
+,Interrogators are now using ____ and ____ as their new go-to torture methods.,
 ,Introducing powdered ____! Simply add water to activate.,
 ,"Introducing ____, the new children's book by a best-selling author.",
 ,Investing in ____ was a total waste of money.,
@@ -2569,6 +2608,7 @@ Name,Description,Category
 ,It's one thing to have a cat stare at you while you're eating; it's another to be stared at while ____ in front of the whole family.,
 ,It's pretty obvious my kid's first word will be ____.,
 ,It's raining cats and ____.,
+,It's simple: we kill: ____.,
 ,It's so easy to hack the NADRA database. Even ____ can do it.,
 ,"It's so sad. Even with ____, ""(insert name)"" can't get a rishta.",
 ,It's the 21st century. A woman shouldn't have to apologize for ____.,
@@ -2585,6 +2625,7 @@ Name,Description,Category
 ,Job interviews: not the best place for ____.,
 ,"Bhai, look out behind you! It's ____!",
 ,Kamran from the office tried ____ at the dhaba last night.,
+,Join ____ and help wipe out ____!,
 ,"Join our peaceful community. We eat grapes. We live in tents. We enjoy ____, together.",
 ,Ammi's secret for getting the medicine down: a spoonful of ____.,
 ,Just because you're married doesn't mean you have to give up ____.,
@@ -2616,6 +2657,7 @@ Name,Description,Category
 ,"Last night I ate so much, I wanted to ____.",
 ,Last night was totally epic and can only be explained through hashtags! #____ #____ #____.,
 ,"Last night, I crossed ____ off my bucket list.",
+,"Last night, I had a horrible nightmare. I was on my knees, dressed in an orange jumpsuit and about to be interrogated by ____ in the name of ____.",
 ,"I gave ____ a second chance, and it was MUCH better the second time.",
 ,"Last time I ate too much biryani, I stupidly decided to ____.",
 ,"Last time I went to a dawat with ""(insert name)"" he/she brought home ____.",
@@ -2635,11 +2677,14 @@ Name,Description,Category
 ,Let's fight one of the most terrible diseases of all: ____.,
 ,Let's go to the mela and see ____.,
 ,Liar liar pants on ____.,
+,Life for Aboriginal people was forever changed when the white man introduced them to ____.,
+,Life for the Bushmen was changed when the white man introduced them to ____.,
 ,"Life is a tale told by an idiot, full of sound and fury, signifying ____.",
 ,Life is what happens while you're ____.,
 ,Life isn't about finding yourself. Life is about ____.,
 ,LIFE PRO TIP: Try ____ instead of ____.,
 ,Life was difficult for cavemen before ____.,
+,Life was difficult for the Bushmen before ____.,
 ,"Like ____, State Life Insurance is there.",
 ,"Like donkeys, the PM only sleeps three hours a night. When he does, he dreams of ____.",
 ,Everything she touches turns to ____.,
@@ -2650,6 +2695,7 @@ Name,Description,Category
 ,"Look at my record, I am the biggest proponent of ____.",
 ,Look before you ____.,
 ,Look up at the sky and wish upon a ____.,
+,"Look, over there! It's a bomb crater! It's a mass grave! No, it's ____!",
 ,Looking to earn big bucks? Learn how to make ____ work for you!,
 ,Looks like I picked the wrong day to start ____.,
 ,Loose lips sink ships. Don't ever discuss ____ or ____.,
@@ -2682,6 +2728,7 @@ Name,Description,Category
 ,Maturity is a process that involves patience and ____.,
 ,May I have your attention please! ____. That is all.,
 ,Me + ____ = ____.,
+,Me a racist? I don't think so. You know how many of my friends are ____?,
 ,Me after I do 3 squats: ____.,
 ,Me and ____? That's just a rumour!,
 ,Me Tarzan. You ____.,
@@ -2692,6 +2739,7 @@ Name,Description,Category
 ,Men are from Mars. Women are from ____.,
 ,Pakistani men really like ____.,
 ,Lawrencepur: You're gonna like ____. I guarantee it.,
+,India and Pakistan will reunite once they get rid of ____.,
 ,"A long-lost Chughtai painting has just been found. It's titled ""____.""",
 ,Maryam Nawaz surprised everyone when she announced ____ as her first policy.,
 ,"Millions of copies sold! The new bestseller ""The Art of ____.""",
@@ -2717,6 +2765,7 @@ Name,Description,Category
 ,Mood: ____.,
 ,Morale at work was boosted when they put ____ in the office canteen.,
 ,More restaurants need ____ on the menu.,
+,Most Pakistanis would not vote for a candidate who is openly ____.,
 ,"Most of the new activities at the mall seem cool, but I absolutely refuse to try ____!",
 ,"Mother, Father: today I am a man. Fetch me ____.",
 ,Ammi's birthday would not be complete without ____.,
@@ -2909,6 +2958,7 @@ Name,Description,Category
 ,My two-pronged strategy for winning this election: ____ and ____.,
 ,My chacha woke me up for sehri and whispered ____.,
 ,My uncle has an almari in his house that leads to ____.,
+,My vacation to the Murree ended with me sucking out venom from ____.,
 ,My way of dealing with conflict is ____.,
 ,My wife and I both love ____. That's why our marriage is so strong.,
 ,My wife Bushra Bibi will be a great First Lady. Her most important platform will be ____.,
@@ -2957,6 +3007,7 @@ Name,Description,Category
 ,No one listened to the scientist who warned us about ____.,
 ,No one retweets my stuff unless I post about ____.,
 ,No one should be allowed to ____ in this country. Forward to all family WhatsApp groups!,
+,No one wants to ____ but sometimes it just happens.,
 ,No one warned me about teenagers and ____.,
 ,"No pain, no ____.",
 ,No sleep till ____.,
@@ -2967,6 +3018,7 @@ Name,Description,Category
 ,Nobody seems to understand my political philosophy at all. Especially the part about ____.,
 ,None of us recognized that his subtle interest in ____ was really a terrible obsession.,
 ,"Normally I can cope, but ____ broke me.",
+,India will achieve global domination with ____.,
 ,Not a good idea to do a science project on the effect of ____ on plants.,
 ,Not again! You just caught your hostel roommate dreaming about ____ for the third time this week!,
 ,"Not content with just camping trips, the Girl Guides are now offering ____.",
@@ -2983,12 +3035,14 @@ Name,Description,Category
 ,Nothing scares the Elites more than ____.,
 ,Nothing goes better with biryani than ____.,
 ,Nothing spells trouble like ____.,
+,"Now is my time: I'm young, dumb and full of ____.",
 ,"Now that he has retired, The General can finally devote time to his true passion: ____.",
 ,"Now that I have kids, my time for ____ has disappeared.",
 ,"Now that I'm more secure in my life, I take care of ____.",
 ,"Now that my child is in day care, I think about ____.",
 ,Pakistan wants to be ____-free by 2028.,
 ,The PM believes ____ is his greatest achievement in office.,
+,odd things to say while taking a beating ____,
 ,Of course Sheikh Rasheed never got married! He was too busy with ____.,
 ,Offering the rickshaw driver ____ because you don't have enough money for the fare.,
 ,"Oh no, now I have ____ on my face.",
@@ -3012,6 +3066,7 @@ Name,Description,Category
 ,"Chacha Bashir had a farm, and on that farm he had ____. E-I-E-I-O.",
 ,"Old Chacha Rafiq used to be just like you or me, before ____ got hold of him.",
 ,Old and young guests alike were surprised by the success of the ____ stall at our Friday night mehndi.,
+,"On a 2012 hunting trip in Africa, what did The PM's sons feed to hungry villagers?",
 ,"At a rishta meeting, I usually say I like ____ and long walks in the park.",
 ,"On Eid, Ammi always stuffs the raan with ____.",
 ,"On their new job application, ""(insert name)"" lied and claimed to have six years' experience with ____.",
@@ -3030,6 +3085,7 @@ Name,Description,Category
 ,"One day, this little girl will be ____.",
 ,One good thing about climate change: no more ____.,
 ,Please hold. All our helpline agents are currently busy ____.,
+,One more thing. Watch out for Big Mo. They say he killed a man with ____.,
 ,One of the benefits of using a dai is ____.,
 ,One of the best things about Friday night is ____.,
 ,One parenting tip I wish I'd learned sooner is to never ____ without ____.,
@@ -3049,6 +3105,7 @@ Name,Description,Category
 ,The wedding host surprised all the guests by giving everyone ____.,
 ,Other parents worry about ____ but I stress over ____.,
 ,Our ancestors must have been really tired when they made ____.,
+,Our great Pakistani Prime Minister hasn't exactly had a positive impact on (the) ____ who are so happily and openly destroying Karachi.,
 ,Our next speaker is a distinguished professor of ____ at LUMS.,
 ,Our perfect dawat ended with an argument over ____.,
 ,Our perfect family evening was ruined by ____.,
@@ -3131,6 +3188,7 @@ Name,Description,Category
 ,Rumor has it that my doctor really loves ____. Especially when it comes with ____.,
 ,Rumor has it that the PM House has a big red button labeled “____.”,
 ,Rumor has it that the Prime Minister's favorite dish is ____ stuffed with ____.,
+,"Rumor is, The PM is executing prisoners with ____.",
 ,"Sadly, ____ was not one of the amenities the hotel offered.",
 ,"Sadly, the Minar-e-Pakistan is looking a bit tired. It really needs ____.",
 ,Sally sold seashells down by the ____.,
@@ -3138,6 +3196,7 @@ Name,Description,Category
 ,Save the Children will now be saving ____.,
 ,Say no to ____.,
 ,"Say what you will about ____, but at least it never killed anybody.",
+,scariest things to hear in jail ____,
 ,"Scholars have discovered a lost Imran Series novel by Ibn-e-Safi called ""The Mystery of ____.""",
 ,School guidelines now prohibit ____.,
 ,School principals dream of ____.,
@@ -3241,10 +3300,12 @@ Name,Description,Category
 ,"It was the night before ____, and nobody in the house could sleep.",
 ,"Take it from me, yar. I do not recommend ____.",
 ,Taking up ____ as a new hobby to help you stop biting your nails.,
+,Always: Don’t let your period ruin ____.,
 ,"Karachi is full of Burgers, old people and ____.",
 ,Lok Virsa's latest exhibit is the rare ____.,
 ,Teaching the class about ____ got me out of detention early.,
 ,Sheikh Rasheed caused a stir today when he called a press conference to denounce ____.,
+,"Teenagers are calling it ""____"" and it's NOT what you think!",
 ,A YouTube channel will make a fortune with a series about ____.,
 ,Telling a story about ____ as you introduce yourself to your new work colleagues.,
 ,Telling your story about ____ in an attempt to salvage the interview.,
@@ -3265,6 +3326,7 @@ Name,Description,Category
 ,"That's easy for you to say, Mr. Born-With-A-Golden-Spoon, but for me, ____ is all I've got.",
 ,"That's my secret, I'm always ____.",
 ,That's not a technique or a procedure! That's just ____!,
+,That's the most fun I've ever had without ____.,
 ,The ____ Society was the most popular one at my school.,
 ,The ____ industry will propel us toward a brighter future.,
 ,The ____ must flow.,
@@ -3328,6 +3390,7 @@ Name,Description,Category
 ,The house looked so much better with ____ perched on top.,
 ,The ISI reports that India is spending billions to influence ____.,
 ,The concept of global warming was invented by ____.,
+,The MNA accidentally tweeted a shirtless picture of himself with what appears to be ____.,
 ,The couple has a wonderful life filled with ____ ahead of them.,
 ,The course of ____ never did run smooth.,
 ,The curious lieutenant found ____ on the other side of the barracks wall.,
@@ -3342,6 +3405,7 @@ Name,Description,Category
 ,The Discovery Channel presents: ____ week.,
 ,"The doctor asked my sister to say ""Aaaaah,"" and ran screaming from the room when he saw ____.",
 ,The doctor looked up my brother's nose and found ____.,
+,"The doctor told us it would be a girl, but to our horror, what came out was ____.",
 ,The drones that deliver groceries today will carry ____ tomorrow.,
 ,The elders of the village recommend ____ as a cure for baldness.,
 ,The emperor's new ____.,
@@ -3402,6 +3466,7 @@ Name,Description,Category
 ,"The latest university scandal: a society dinner where the theme was ""____.""",
 ,The latest DIY video is about making ____ with only wire and ____.,
 ,The little ____ that could.,
+,The local butcher sells delicious meat made from ____.,
 ,"The low point of the wedding was when the bride's uncle gave a long, incoherent speech about ____.",
 ,The magazine cover featured ____ as well as ____.,
 ,The main life lesson I learned in school was ____.,
@@ -3531,6 +3596,7 @@ Name,Description,Category
 ,The top-selling item on OLX is ____ made to look like ____.,
 ,The true meaning of family is ____.,
 ,The true secret to happiness is ____.,
+,"The Adiala Jail revamp? Fantastic waterboarding grotto, beautiful cultural humiliation lounge, and ____.",
 ,The two most awkward topics of conversation during our first rishta meeting? ____ and ____.,
 ,The two secrets to stress-free parenting are ____ and ____.,
 ,The two things that happen at every family reunion: ____ and ____.,
@@ -3563,12 +3629,15 @@ Name,Description,Category
 ,The Youth Minister has a giant poster of ____ in his office.,
 ,Their first fight as a married couple was about ____.,
 ,"Then the princess picked up the frog, and all of a sudden the frog was ____!",
+,There are ____ everywhere. And yet they do not contribute to the growth of their own countries.,
 ,"There are only three things kids need in life: food, water and ____.",
 ,There are times I think I would do anything for ____.,
 ,There are two things I hate. Load shedding and ____.,
 ,"There are two types of people in the world. People who are ____, and people who aren't.",
+,"There is a new axis of evil: ____, ____, and ____.",
 ,There is a new smartphone app to help with ____.,
 ,"There is a small, remote town in Punjab where ____ is totally normal.",
+,It’s just ____ and then you die.,
 ,There is only one way to handle this enemy situation: ____.,
 ,There was a recall on the doll when she was accidentally programmed to say ____.,
 ,There was a riot at the gaming convention when they gave the attendees ____.,
@@ -3594,6 +3663,7 @@ Name,Description,Category
 ,"There's nothing that money can't buy, except ____.",
 ,"There's nothing to worry about, the doctor said; it's just a simple, routine check for ____.",
 ,There's more concrete proof that ____ exists than Naya Pakistan.,
+,"these days you say ____ ONE time and suddenly you're an HR ""problem""",
 ,These don't belong in government: ____.,
 ,"They grow up so fast. One minute they're crawling around trying to say their first words, the next minute they're ____.",
 ,"They laughed at me for ____. Well, now look at me.",
@@ -3611,6 +3681,7 @@ Name,Description,Category
 ,They've announced they'll finally be arming Punjab police with ____.,
 ,They've discovered an exoplanet capable of supporting ____.,
 ,Something the PM never spoke about: ____.,
+,things said during a medical exam ____,
 ,Things you should never say to your mom: ____.,
 ,Things you should never whisper while patting a teammate on the back: ____.,
 ,Thinking about ____ to help you stay calm before an interview.,
@@ -3620,11 +3691,13 @@ Name,Description,Category
 ,This bottle of Pakola has notes of ____ and ____.,
 ,This Eid give the gift of ____.,
 ,This COAS will make their mark on heritage by changing ____.,
+,This film has been censorrd for graphic depictions of ____ and ____.,
 ,"This Friday at the chai dhaba, it's ____ Night! Students eat free.",
 ,"This Friday night I've got a meeting with me, myself, and ____.",
 ,This Eid I am going to dress up as ____.,
 ,This hashtag will save the world: #____.,
 ,"This Eid, our hero must overcome his fear of ____ to save the day.",
+,This is a little embarrassing but I was wondering if you could recommend a doctor who specializes in ____.,
 ,This is a top secret mission… it's called Operation: ____.,
 ,This is an absolutely hilarious video. Please share it! #____,
 ,This is my favourite thing to bring to a dawat: ____.,
@@ -3658,6 +3731,7 @@ Name,Description,Category
 ,Three cheers for ____!,
 ,"Three things in life are certain: death, taxes, and ____.",
 ,"Three wishes: ____, ____, and more wishes.",
+,Throwing ____ at Sheikh Rasheed.,
 ,"Times have changed, sister. If you want to make friends in Lahore, you've got to be up for ____.",
 ,Liberty Chowk is filling up with people protesting ____.,
 ,Title of a bestselling memoir later revealed to be fabricated:,
@@ -3729,6 +3803,7 @@ Name,Description,Category
 ,"Trust me, I'm ____.",
 ,Try walking a mile in my ____.,
 ,Trying to explain to your boss why ____ is on your expense statement.,
+,Trying to explain to your doctor that you got the rash from ____.,
 ,Tune in for ____ on Geo Business.,
 ,Turn the car around. I think I left ____ back there.,
 ,"'Twas the night before Eid, and all through the house, not a creature was stirring, not even ____.",
@@ -3764,6 +3839,7 @@ Name,Description,Category
 ,Defence Day is all about broadcasting ____ on every TV channel.,
 ,"Wake me up with ____. Oh, so good!",
 ,Wanna arm wrestle? I've been eating ____ every morning.,
+,"Want a ""Promote Now""? Well, make sure you receive a bullet for ____.",
 ,"WANTED: a clean, quiet place for ____.",
 ,WARNING: ____ may cause ____.,
 ,Warning: Common side effects include ____ and ____.,
@@ -3771,6 +3847,7 @@ Name,Description,Category
 ,Watch out for ____. They will steal your lunch.,
 ,"Watching now as an adult, I realize all my favourite '90s cartoons were secretly about ____.",
 ,Chittrol is ____.,
+,"Chittrol? Too easy! When The PM's in charge, we'll smother Indian spies with towels soaked in ____.",
 ,"Everyone says ""What happens in Lahore stays in Lahore,"" so why did my cousin bring home ____?",
 ,We are going to build a dam and make ____ pay for it.,
 ,We are witnessing the relentless spread of ____.,
@@ -3799,6 +3876,7 @@ Name,Description,Category
 ,We were late to school today because of ____.,
 ,"We were losing the battle, until our reinforcements brought ____ to the battlefield.",
 ,We were perfect parents until ____.,
+,"We were the two best hand-to-hand combatants on the ship. I had reach, but she had ____.",
 ,We will redirect the ISI to spy on ____.,
 ,We wish you a Happy ____.,
 ,We'll be holding you in an isolation chamber until we can rule out ____ Syndrome.,
@@ -3874,8 +3952,10 @@ Name,Description,Category
 ,What did you see the last time you were on Mall Road?,
 ,What did you spend your salami cash on?,
 ,What did your Dai Amma bring to the delivery room to calm you down?,
+,What did your labor feel like?,
 ,What did your marriage counselor recommend?,
 ,What do babies smell like?,
+,What do Indian Spies' begums like?,
 ,What do Maryam Nawaz and Firdous Ashiq Awan have in common?,
 ,What do I dream about at night?,
 ,What do I have rotting away in the store room?,
@@ -3914,6 +3994,7 @@ Name,Description,Category
 ,What does the PM do for fun?,
 ,"What does Islamabad need? I always give the same answer, ____!",
 ,What does your mother do to embarrass you?,
+,What drove your commander to chug and gouge out his eyes with a Piano® pen.,
 ,What earned your troop their latest safety violation?,
 ,What else can you buy secondhand at the Sunday Bazaar?,
 ,What else could go wrong?,
@@ -3931,6 +4012,7 @@ Name,Description,Category
 ,What gives Sahab his awe-inspiring power?,
 ,What gives the DG Rangers the creeps?,
 ,What got me kicked out of the wedding hall?,
+,What happened to my bed sheets?,
 ,What happens when you eat too much sugar?,
 ,What has been seen cannot be unseen! I just saw Chacha wearing ____ to the wedding.,
 ,"What has my life become? I'm watching a video called ""Student absolutely destroyed by ____.""",
@@ -3958,6 +4040,7 @@ Name,Description,Category
 ,What was Pervez Musharraf's favourite pastime?,
 ,What is nature's biggest mistake?,
 ,What is Grandpa hiding from us?,
+,What is happening right now in India?,
 ,What is Maryam Nawaz's new hobby in retirement?,
 ,What is hidden in your cupboard that you never talk about?,
 ,What is keeping Mummy up at night?,
@@ -4016,6 +4099,7 @@ Name,Description,Category
 ,What made the whole wedding so awkward?,
 ,What made this the most dramatic Mehndi ever?,
 ,What made the long car ride with my parents awkward?,
+,"What made your grandmother knit ""A hardcore death dealer sleeps here"" into a quilt she made for you?",
 ,What makes Pindi boys laugh hysterically?,
 ,What makes ustads seethe with rage?,
 ,What makes Grandpa yell at night?,
@@ -4074,6 +4158,7 @@ Name,Description,Category
 ,What will Asif Zardari announce as his next big project?,
 ,What will cause the third world war?,
 ,What will defeat ____? Only ____.,
+,What will end racism once and for all?,
 ,What will finally bring our civilization to an end?,
 ,What will finally make me care?,
 ,What will heal your emotional scars?,
@@ -4102,6 +4187,7 @@ Name,Description,Category
 ,What's a foolproof way to get rid of hiccups?,
 ,What's a great way to bring your families together at your wedding?,
 ,What's a surefire way to get sent to the principal's office?,
+,What's The PM's son googling at this very moment?,
 ,What's been making life miserable in your office?,
 ,What's better when clowns are involved?,
 ,What's causing that awful smell in the hostel room?,
@@ -4109,6 +4195,7 @@ Name,Description,Category
 ,What's for dinner?,
 ,"What's ruining my mood, yaar?",
 ,What's holding you back from achieving your dreams?,
+,"What's hot, smelly, and about to die?",
 ,What's in a name? ____ by any other name would smell as sweet.,
 ,What's hiding in the Margalla Hills besides monkeys?,
 ,What's in my Eid gift this year?,
@@ -4126,6 +4213,7 @@ Name,Description,Category
 ,What's my cure for a food coma after a shaadi?,
 ,What's my spirit animal?,
 ,What's next after engagement?,
+,What's oozing down my leg?,
 ,What's really below Islamabad Airport?,
 ,What's secretly a plot by the neighbours to ruin your Eid?,
 ,What's so important right now that you can't call your mother?,
@@ -4138,6 +4226,7 @@ Name,Description,Category
 ,What's the biggest source of tension in your family?,
 ,What's the biggest threat facing the Pakistan cricket team?,
 ,What's the crustiest thing in your fridge?,
+,What's the fastest way to kill a human?,
 ,What's the fastest way to fix Pakistan's economy?,
 ,What's the first thing I would do after getting my committee money?,
 ,What's the latest nonsense that's troubling this quiet mohalla?,
@@ -4269,10 +4358,12 @@ Name,Description,Category
 ,"When the school bully asked for my pocket money, I gave him ____ instead.",
 ,"When the earthquake hit last week, ""(insert name)'s"" first concern was to save his/her collection of ____.",
 ,"When the lift got stuck, the CEO turned to the intern and said, ""____.""",
+,When the ghost of your mate who died reckless driving offers you ____.,
 ,"When the going gets tough, the tough get ____.",
 ,"When the dinosaurs come back, they will eat ____ first.",
 ,"When the bride walked past, she smelled like jasmine and ____.",
 ,"When they built Tarbela Dam, they never could have imagined it would need to withstand ____.",
+,"When they came for ____, I did nothing. When they came for ____, I sat idly by. But when they came for ____, they went too far.",
 ,"When told that the people had no bread to eat, Maryam Nawaz is said to have suggested: ""Let them eat ____.""",
 ,"When vacationing in Murree, I was detained by monkeys for ____.",
 ,When was your dignity at its lowest?,
@@ -4280,11 +4371,13 @@ Name,Description,Category
 ,"When we were walking past your house, I saw (a/an) ____ in the window.",
 ,"When you ""graduate"" from Online University, you get ____ instead of a diploma.",
 ,When you ask for a raise and get ____ instead.,
+,"When you don't have sanitary pads handy, ____ is an acceptable subsititute says ____.",
 ,When you find ____ in the family pack you bought at the biryani shop.,
 ,When you get in a rickshaw and it smells like ____.,
 ,"When you have a great dream about ____, but wake up before the best part.",
 ,"When you put a gulab jamun in an Anday Wala Burger, you get: ____.",
 ,"When you run out of anniversary gift ideas, you should get ____.",
+,"When you smash a terrorist's head, what oozes out?",
 ,"When you visit Lahore, make sure that you try ____. Everyone says it's the best there.",
 ,When you're super sleepy and think ____ is a good idea.,
 ,"When you're in trouble, ____ can be very comforting.",
@@ -4309,17 +4402,20 @@ Name,Description,Category
 ,"While standing in battalion formation, I often think about ____.",
 ,"While eating at the mess hall, you suddenly think of ____ and immediately lose your appetite.",
 ,"While the USA raced the USSR to the moon, the Pakistani Government funnelled millions of Rupees into research on ____.",
+,"While The PM admits he was ""not a fan of the 1971 War,"" he's absolutely crazy about ____.",
 ,"While vacationing in Dubai, I picked up the phrase ""____.""",
 ,"While working with civilian contractors, a complaint was lodged against you for ____.",
 ,"While writing my wedding speech, I often looked to ____ for inspiration.",
 ,Who ate my ____ again?,
 ,Who do you think you are?,
+,Who killed the Bhuttos and why?,
 ,Who knew that ____ was really just a collection of ____?,
 ,Who knew there'd be so much ____ in the book about the life of ____.,
 ,Who or what has the best chance of surviving the PM's full term in office?,
 ,Who stole the mithai from Nani's box?,
 ,Who was the last person to ____?,
 ,Who will be behind the next big scandal?,
+,Who will be first against the wall when the revolution comes?,
 ,Who will be the next President?,
 ,Who will the agencies hack to help the PM finally win an election?,
 ,"Who's got ____, ____, and two thumbs? This guy!",
@@ -4328,6 +4424,8 @@ Name,Description,Category
 ,"Whoever said ""time cures all wounds"" has clearly never experienced ____.",
 ,Who's afraid of the big bad wolf?,
 ,Whose subliminal messages are hidden in the TV ads? ____.,
+,Why am giving birth again?,
+,Why am I bleeding?,
 ,Why am I in jail?,
 ,Why am I so tired?,
 ,Why am I trembling?,
@@ -4407,6 +4505,7 @@ Name,Description,Category
 ,"With my skills in ____, and your knowledge in ____, we could rule the world!",
 ,"With the 3D printer, I can make ____ in a matter of minutes.",
 ,"With the donkeys on strike, the donkey cart is now powered by ____.",
+,Within our borders are three million illegal agents of ____!,
 ,"Without ____, our family dinners would be peaceful and full of joy and love.",
 ,"Without doubt, this is the golden age of ____.",
 ,Wondering if other commuters on the train also daydream about ____.,
@@ -4415,12 +4514,15 @@ Name,Description,Category
 ,"What on earth, why did you ____?",
 ,www.____.com,
 ,"Yeah, I saw him, Thanedar Sahib. He was ____ with a big ____ strapped to his back.",
+,"Yeah? Well, your MOM is ____!",
 ,"Yes Doctor, we are here again. This time it's because of ____.",
 ,"Yes, actors were hired to clap at the PM's campaign announcement. Their payment: ____.",
 ,"Yes, I have a question. Well, not so much a question as ____.",
 ,"Yes, it is I, the world's most dangerous supervillain: Baron Von ____!",
 ,"Yes, Mr. Death … I'll play your game! But not chess! My game is ____.",
 ,Yesterday I found ____ for sale on OLX.,
+,"Yo, is ____racist?",
+,Yo' mama's so fat she ____!,
 ,DHA's latest fad diet is called ____.,
 ,"You ____, bro!",
 ,Ammi + the Wi-Fi password = ____.,
@@ -4466,6 +4568,7 @@ Name,Description,Category
 ,You know things are bad when your YouTube recommendations are: ____.,
 ,You know what annoys me? ____,
 ,"You know what's, like, really funny when you think about it? ____.",
+,You know who else liked ____? Hitler.,
 ,You know you are a parent when ____ seems normal.,
 ,You know you're Desi when you love talking about ____.,
 ,You know you're a grown-up when ____ makes you happy.,
@@ -4478,6 +4581,7 @@ Name,Description,Category
 ,"Come on, guys! There's nothing funny about ____.",
 ,"You say potato, I say ____.",
 ,You scared me half to death! For a second I thought you were ____.,
+,You scratch ____ and I'll scratch ____.,
 ,"You see, beta, cricket is like ____. Don't overthink it.",
 ,You should never ever put ____ in your chai.,
 ,You should never expect to bring up ____ until at least the third rishta meeting.,
@@ -4612,6 +4716,7 @@ Name,Description,Category
 ,A good sign that you’re a terrible farmer,Quiplash
 ,"If your childhood toys came to life, they would probably say ""____""",Quiplash
 ,The worst restaurant: ____ Hut.,Quiplash
+,What skin tags probably taste like,Quiplash
 ,What your mom thinks the word “yeet” means,Quiplash
 ,You know it's a real dawat when someone shows up with ____.,Quiplash
 ,A surprising new use for karela,Quiplash
@@ -4687,6 +4792,7 @@ Name,Description,Category
 ,The most memorable category you’d ever see on a quiz show,Quiplash
 ,What unicorn meat tastes like,Quiplash
 ,Something that should never be described as “crunchy”,Quiplash
+,A fun nickname for tampons,Quiplash
 ,The next big school play is going to be about ____,Quiplash
 ,Good Idea: reusable bags. Bad Idea: reusable ____,Quiplash
 ,The weirdest thing your Uber driver could offer you,Quiplash
@@ -4911,6 +5017,7 @@ Name,Description,Category
 ,Name a snack food for mummies,Quiplash
 ,The title of a gritty sequel to a famous bedtime story,Quiplash
 ,Did you know that (insert name) founded the ____ Club at school?,Quiplash
+,"Ok, which one of you used the Xerox to make copies of <BLANK>?",Quiplash
 ,An accurate slogan would be “Housing Societies: ____”,Quiplash
 ,The button on the microwave that never gets used,Quiplash
 ,The most useless feature of luxury coffins,Quiplash
@@ -4972,6 +5079,7 @@ Name,Description,Category
 ,A search phrase you’d probably find in a politician’s browser history,Quiplash
 ,The most embarrassing sentence in your diary,Quiplash
 ,A good way to become known as the office troublemaker,Quiplash
+,"Idea for an improved hotel room sign: “Privacy, Please. I’m <BLANK>”",Quiplash
 ,Two good emojis to send when leaving the family WhatsApp group,Quiplash
 ,A sign that your gym instructor hates you,Quiplash
 ,Passive-aggressive ghosts are always writing ____ on your mirror,Quiplash
@@ -5028,6 +5136,7 @@ Name,Description,Category
 ,The weirdest function a superhero’s high-tech armour can perform,Quiplash
 ,The personality quiz the internet refuses to publish,Quiplash
 ,The most underrated use for a tree,Quiplash
+,"How to get the guy at the kayak rental place to say, “Yuck, just keep it”",Quiplash
 ,A country is only as strong as its ____,Quiplash
 ,"“Objection, My Lord! The defence counsel is clearly ____ the witness!”",Quiplash
 ,A team-building exercise that is far too extreme for most company retreats,Quiplash
@@ -5073,6 +5182,7 @@ Name,Description,Category
 ,A cautionary road sign no one would ignore,Quiplash
 ,The most common meeting faux pas among dragons,Quiplash
 ,The most haunted item at the Sunday bazaar,Quiplash
+,You can tell a serial killer is trying to be caught when they <BLANK>,Quiplash
 ,The most common error found on Wikipedia,Quiplash
 ,This 3D fantasy adventure game is so real you can actually ____,Quiplash
 ,What screen name can you just go ahead and assume is a bot?,Quiplash
@@ -5102,6 +5212,7 @@ Name,Description,Category
 ,"I want to go as (insert name) for fancy-dress day at school, but I don’t have ____",Quiplash
 ,The new (insert name) doll is perfect! Everytime you pull the string it says “____”,Quiplash
 ,All the jesters have failed! Only one thing will entertain the king...,Quiplash
+,What’s the hardest part of fighting a killer doll?,Quiplash
 ,The main difference between TV doctors and real doctors,Quiplash
 ,"Right before open-heart surgery, improve your odds by telling your doctor ____",Quiplash
 ,The landmark court case of 2045: Biwi v. ____,Quiplash
@@ -5138,6 +5249,7 @@ Name,Description,Category
 ,You should never sign a document that includes the phrase...,Quiplash
 ,An unlikely candidate for Colour of the Year,Quiplash
 ,The best thing to come out of Gujranwala,Quiplash
+,An absolutely faaabulous way to die,Quiplash
 ,How to turn farming into “high fashion”,Quiplash
 ,"An awesome side effect of climate change, hopefully",Quiplash
 ,A radical new use for a tea strainer,Quiplash
@@ -5243,6 +5355,7 @@ Name,Description,Category
 ,"If there were a Fall Olympics, the most dangerous sport would be ____",Quiplash
 ,The three things you must do to survive a zombie apocalypse,Quiplash
 ,The three most painful ways a squirrel can hurt you,Quiplash
+,The three things you can say to defuse a tense hostage situation,Quiplash
 ,The three things you need to do to be a good dog... such a good dog,Quiplash
 ,The 3 R’s of a successful fast food franchise,Quiplash
 ,The three things a chowkidar insists on doing every day,Quiplash
@@ -5251,6 +5364,7 @@ Name,Description,Category
 ,A baby’s three first words that would raise much concern,Quiplash
 ,Three toppings an ice cream shop will never offer,Quiplash
 ,The three most annoying habits in the world,Quiplash
+,The three steps to castrating a horse,Quiplash
 ,The three hardest things about being Mario,Quiplash
 ,The three nicknames every hostel boy tries to give himself,Quiplash
 ,Three words that would make great titles for a ghost story,Quiplash
@@ -5349,6 +5463,7 @@ Name,Description,Category
 ,Three things that will happen on the best day of your life,Quiplash
 ,The three things that would concern you if they showed up in your dreams,Quiplash
 ,Three things that’ll put you right to sleep,Quiplash
+,Three things that’ll make you grunt,Quiplash
 ,Three words that could describe your family or a plate of biryani,Quiplash
 ,Three words that could describe the circus or your dad,Quiplash
 ,"Three things that when you see them, you can’t un-see them",Quiplash
@@ -5472,6 +5587,7 @@ Name,Description,Category
 ,What would you do if you were left alone in the Prime Minister's House for an hour?,Quiplash
 ,Invent a family-friendly replacement word that you could say instead of an actual curse word,Quiplash
 ,The best thing about living in an igloo,Quiplash
+,The worst way to be murdered,Quiplash
 ,A dangerous thing to do while driving,Quiplash
 ,The #1 reason penguins can't fly,Quiplash
 ,"Using only two words, a new provincial motto for Punjab",Quiplash
@@ -5512,11 +5628,13 @@ Name,Description,Category
 ,Where's the best place to hide from the shadow monsters?,Quiplash
 ,The most presidential name you can think of (that isn't already the name of a president),Quiplash
 ,A good way to get fired,Quiplash
+,A good place to hide boogers,Quiplash
 ,Something it'd be fun to throw off the Minar-e-Pakistan,Quiplash
 ,Write a newspaper headline that will really catch people's attention,Quiplash
 ,"The worst job title that starts with ""Assistant""",Quiplash
 ,The last person you'd consider inviting to your birthday party,Quiplash
 ,The grossest thing you'd put in your mouth for Rs 500,Quiplash
+,What Aamir Liaquat's belches smell like,Quiplash
 ,The name of a new perfume by your khala,Quiplash
 ,The worst name for a robot,Quiplash
 ,The most embarrassing name for a dog,Quiplash
@@ -5565,7 +5683,9 @@ Name,Description,Category
 ,Something you shouldn't buy on OLX,Quiplash
 ,We can all agree that ____.,Quiplash
 ,What robots dream about,Quiplash
+,How far is too far?,Quiplash
 ,"Finish this sentence: When I'm rich, my mansion will have a room called the ____ Room.",Quiplash
+,Something you'd be surprised to see come out of a pimple you pop,Quiplash
 ,A fun trick to play on your doctor,Quiplash
 ,A bad place for your rocket ship to crash would be the Planet of the ____.,Quiplash
 ,A bad campaign slogan for an MNA,Quiplash
@@ -5656,6 +5776,7 @@ a super annoying laugh,don’t use words!,Suno Bolo
 ,open wide for the dentist,Suno Bolo
 ,the sound of dial-up internet,Suno Bolo
 ,the sound of getting hit in the stomach by a cricket ball,Suno Bolo
+what you sound like when you’re throwing up,don’t use words!,Suno Bolo
 the sound of a sad ‘wah-wah’ failure jingle,don’t use words!,Suno Bolo
 ,the sounds you make stretching your limbs in the morning,Suno Bolo
 your best dolphin impression,don’t use words!,Suno Bolo
