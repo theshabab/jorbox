@@ -11148,14 +11148,14 @@
   },
   {
    "id": "game7-1014",
-   "Description": "welcome 2 brain palace",
+   "Description": "welcome to brain palace",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "welcome 2 brain palace",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Fixes 'welcome 2' shorthand typo."
   },
   {
    "id": "game7-1015",
@@ -11962,14 +11962,14 @@
   },
   {
    "id": "game7-1088",
-   "Description": "basketball player dribbling but no ball",
+   "Description": "fast bowler running in to bowl but no ball",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "basketball player dribbling but no ball",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises basketball to cricket; joke and drawability survive."
   },
   {
    "id": "game7-1089",
@@ -21477,6 +21477,62 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): New absurd school scene; no chalk card exists."
+  },
+  {
+   "id": null,
+   "Description": "a truck-art bus so decorated it forgot where it was going",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, drawable, funny; no duplicate in slice."
+  },
+  {
+   "id": null,
+   "Description": "a bhai doing a wheelie on a motorbike with a fridge strapped behind",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, very drawable, clean."
+  },
+  {
+   "id": null,
+   "Description": "a cricket ball hiding in a pocket so the bowler can't find it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording adopted."
+  },
+  {
+   "id": null,
+   "Description": "nani's pressure cooker whistling the whole mohalla awake",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local household humour, clean."
+  },
+  {
+   "id": null,
+   "Description": "a crow stealing a whole roti from the dastarkhwan while everyone argues about the last piece",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Amended version avoids tying a theft gag to prayer."
+  },
+  {
+   "id": null,
+   "Description": "a lassi glass wearing a tiny crown and a moustache",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Silly, drawable food prompt."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to find a seat at a shaadi buffet",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, relatable; token kept exactly."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> explaining to uncle why the phone is not broken, just slow",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, relatable; token kept exactly."
   }
  ]
 }

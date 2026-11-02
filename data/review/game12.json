@@ -4677,11 +4677,11 @@
   {
    "id": "game12-520",
    "Name": "Scoop",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Scoop"
    },
-   "note": ""
+   "note": "Debate: Ambiguous noun (ice cream, news, shovel) and hard to clue. The proposal's idx 500 was wrong; Scoop is idx 519 (game12-520). It is still live in the review file."
   },
   {
    "id": "game12-521",
@@ -5001,11 +5001,11 @@
   {
    "id": "game12-556",
    "Name": "Smoothie",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Smoothie"
    },
-   "note": ""
+   "note": "Debate: Western trend drink that overlaps Juice and the pending Lassi. Removing it is low risk. Smoothie is still live (game12-556)."
   },
   {
    "id": "game12-557",
@@ -12107,6 +12107,12 @@
    "Name": "Moth",
    "action": "add",
    "note": "New card (debate): Concrete animal, not in the deck and distinct from Butterfly and Insect."
+  },
+  {
+   "id": null,
+   "Name": "Coconut",
+   "action": "add",
+   "note": "New card (debate): Common concrete noun that is easy to act out and familiar locally. It is not in the slice or the review file, so it is not a duplicate."
   }
  ]
 }

@@ -5270,6 +5270,30 @@
    "Description": "Things That Protect You From Sun or Rain (Chhatri, Topi, Raincoat...)",
    "action": "add",
    "note": "New card (debate): Local weather-themed category with many answers; differs from the rain-events card."
+  },
+  {
+   "id": null,
+   "Description": "Things That Have Layers (Paratha, Onion, Cake, Earth...)",
+   "action": "add",
+   "note": "New card (debate): Broad everyday answers; used challenger's amendment dropping the weak 'Samosa Patti' example; no layers card exists."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Curly or Twisted (Jalebi, Hair, Rope...)",
+   "action": "add",
+   "note": "New card (debate): Many easy answers (jalebi, imarti, noodles, spring, phone cord); fits the shape series; no duplicate in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Put on Your Face (Cream, Face Wash, Mask, Sunglasses...)",
+   "action": "add",
+   "note": "New card (debate): Everyday, modest, many answers; challenger's amendment removes Surma so it does not echo the Grooming card."
+  },
+  {
+   "id": null,
+   "Description": "Things You Paint (Wall, Nails, Gate, Truck...)",
+   "action": "add",
+   "note": "New card (debate): Many easy answers; only related live card is the narrower 'Things Painted on Pakistani Trucks'."
   }
  ]
 }
