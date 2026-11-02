@@ -14496,6 +14496,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Clean, relatable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Afghanistan",
+   "Description": "The historic Khyber Pass, used by traders and armies for centuries, links Peshawar in Pakistan with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate local geography, real category, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Hira",
+   "Description": "The first revelation of the Quran came to the Prophet (PBUH) in the Cave of ____ on Jabal al-Noor near Makkah.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate; challenger's category fix accepted since 'Faith' is not a real category."
+  },
+  {
+   "id": null,
+   "Name": "Bismillah",
+   "Description": "Surah At-Tawbah is the only surah of the Quran that does not begin with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-established fact, no duplicate; blank category matches other Quran cards."
+  },
+  {
+   "id": null,
+   "Name": "cow",
+   "Description": "Surah Al-Baqarah, the longest surah, is named after the ____ that Bani Israel were told to sacrifice.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate; distinct from existing Baqarah cards (286, riba, ears, 255, debts); blank category."
+  },
+  {
+   "id": null,
+   "Name": "31",
+   "Description": "In Surah Ar-Rahman, the verse 'Which of the favours of your Lord will you deny?' is repeated ____ times.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate; distinct from the Ar-Rahman balance card; blank category."
+  },
+  {
+   "id": null,
+   "Name": "Millat",
+   "Description": "Fatima Jinnah, the sister of Quaid-e-Azam, is remembered as Madar-e-____, meaning Mother of the Nation.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate local history, no duplicate, real category."
   }
  ]
 }

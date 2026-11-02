@@ -89849,7 +89849,7 @@
   {
    "id": "game5-6912",
    "Name": "",
-   "Description": "“Objection, Your Honor! The defense counsel is clearly ____ the witness!”",
+   "Description": "“Objection, My Lord! The defence counsel is clearly ____ the witness!”",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -89857,7 +89857,7 @@
     "Description": "“Objection, Your Honor! The defense counsel is clearly <BLANK> the witness!”",
     "Category": "Quiplash"
    },
-   "note": "blank token/formatting"
+   "note": "blank token/formatting; Debate: Pakistani court address and spelling; joke kept"
   },
   {
    "id": "game5-6913",
@@ -89927,7 +89927,7 @@
   {
    "id": "game5-6918",
    "Name": "",
-   "Description": "A better wedding tradition than stealing the groom’s shoes would be stealing his ____",
+   "Description": "A better wedding tradition than joota chupai would be stealing the groom's ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -89935,12 +89935,12 @@
     "Description": "A better wedding tradition than tossing the bouquet would be tossing <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "Western tradition replaced"
+   "note": "Western tradition replaced; Debate: Names the local custom"
   },
   {
    "id": "game5-6919",
    "Name": "",
-   "Description": "WARNING: Fairy dust may contain ____",
+   "Description": "WARNING: This glitter may contain ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -89948,7 +89948,7 @@
     "Description": "WARNING: Fairy dust may contain <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token/formatting"
+   "note": "blank token/formatting; Debate: Removes fairy dust magic content, joke kept"
   },
   {
    "id": "game5-6920",
@@ -90473,15 +90473,15 @@
   {
    "id": "game5-6960",
    "Name": "",
-   "Description": "An underwhelming political slogan from a centrist candidate",
+   "Description": "An underwhelming political slogan from a candidate who is scared to offend anyone",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "An underwhelming political slogan from a centrist candidate",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Drops US-style centrist label; clearer"
   },
   {
    "id": "game5-6961",
@@ -90577,15 +90577,15 @@
   {
    "id": "game5-6968",
    "Name": "",
-   "Description": "The worst thing a father could tell his son on his wedding day",
+   "Description": "The worst thing a father could say about his son in his wedding speech",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The worst thing a father could tell his son on his wedding day",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Steers away from crude answers, joke kept"
   },
   {
    "id": "game5-6969",
@@ -90837,7 +90837,7 @@
   {
    "id": "game5-6988",
    "Name": "",
-   "Description": "Your friend would never hurt a fly, but they would hurt ____",
+   "Description": "Your friend would never hurt a fly, but they would show no mercy to ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -90845,20 +90845,20 @@
     "Description": "<ANYPLAYER> would never hurt a fly, but they would hurt <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "player token"
+   "note": "player token; Debate: Steers answers to food/objects rather than violence"
   },
   {
    "id": "game5-6989",
    "Name": "",
    "Description": "A terrible theme for your daughter’s school graduation ceremony",
    "Category": "Quiplash",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "A terrible theme for your daughter’s debutante ball",
     "Category": "Quiplash"
    },
-   "note": "debutante ball replaced"
+   "note": "Debate: Fourth card on the school farewell theme setup; weakest, others remain live"
   },
   {
    "id": "game5-6990",
@@ -90889,15 +90889,15 @@
   {
    "id": "game5-6992",
    "Name": "",
-   "Description": "A thought you’ve had in the last 24 hours but didn’t share with anyone",
+   "Description": "A thought you had at the family dinner table but wisely didn't say out loud",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A thought you’ve had in the last 24 hours but didn’t share with anyone",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Family setting keeps open prompt clean"
   },
   {
    "id": "game5-6993",
@@ -91047,13 +91047,13 @@
    "Name": "",
    "Description": "The worst thing to say after making eye contact with someone in an elevator",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "The worst thing to say after making eye contact with someone in an elevator",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of live game5-6679; only one of the pair removed"
   },
   {
    "id": "game5-7005",
@@ -105437,6 +105437,38 @@
    "Category": "Quiplash",
    "action": "add",
    "note": "New card (debate): Fresh family prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The secret ingredient in your friend's famous karahi is ____",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Clean local food prompt, not a duplicate"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Your friend's phone storage is full because of 4,000 photos of ____",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean, not in deck"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Bus announcement: “Passengers, please remain seated because ____”",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh setup, no similar card"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The excuse your friend gives the shopkeeper for bargaining over a 20 rupee item",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Challenger's stronger bazaar-haggling version"
   }
  ]
 }
