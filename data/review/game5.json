@@ -78695,7 +78695,7 @@
   {
    "id": "game5-6054",
    "Name": "",
-   "Description": "Why do I keep having children?",
+   "Description": "Why do I keep losing the kids at weddings?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -78703,7 +78703,7 @@
     "Description": "Why do I keep havintg children?",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Keeps the parent humour in a clean wedding frame."
   },
   {
    "id": "game5-6055",
@@ -78892,13 +78892,13 @@
    "Name": "",
    "Description": "Why hasn't my friend crossed the border?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Why hasn't my friend crossed the border?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Vague, no joke; PM border card stays."
   },
   {
    "id": "game5-6070",
@@ -79737,13 +79737,13 @@
    "Name": "",
    "Description": "World War III was caused by ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "World War III was caused by ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of live game5-5653 and war theme."
   },
   {
    "id": "game5-6135",
@@ -80424,7 +80424,7 @@
   {
    "id": "game5-6187",
    "Name": "",
-   "Description": "You can't wait forever. It's time to visit the hakeem about ____.",
+   "Description": "Dadi insists the hakeem's herbal sharbat cures everything, even ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -80432,7 +80432,7 @@
     "Description": "You can't wait forever. It's time to talk to your doctor about ____.",
     "Category": ""
    },
-   "note": "Debate: Localises the US pharma-ad phrasing."
+   "note": "Debate: Localises the US pharma-ad phrasing.; Debate: Keeps the hakeem joke, family-safe."
   },
   {
    "id": "game5-6188",
@@ -80736,7 +80736,7 @@
   {
    "id": "game5-6211",
    "Name": "",
-   "Description": "Ammi always said too much ____ would ruin my eyes.",
+   "Description": "Ammi always said sitting too close to ____ would ruin my eyes.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -80744,7 +80744,7 @@
     "Description": "You know they say, too much ____ and you'll go blind.",
     "Category": ""
    },
-   "note": "removed innuendo"
+   "note": "removed innuendo; Debate: Removes the go-blind innuendo, keeps the Ammi warning."
   },
   {
    "id": "game5-6212",
@@ -105277,6 +105277,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): New family trip card, distinct from the Suzuki pickup card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Why is Abbu standing in the dark with a torch and a very serious face?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable load-shedding scene, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Why did Nani's phone ring at full volume in the middle of Abbu's speech?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended setting avoids making worship the butt of the joke."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Why did the rishta aunty leave our house in a hurry without finishing her chai?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fits the rishta theme, open funny answer."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "You know the shaadi food is almost finished when the aunties start ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean wedding-buffet humour, not overused pattern."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "You should never lend your cousin ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Simple relatable prompt, no duplicate."
   }
  ]
 }

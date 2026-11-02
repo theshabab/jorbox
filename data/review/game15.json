@@ -32785,6 +32785,70 @@
    "Category": "Calories Per Cup (Approx.)",
    "action": "add",
    "note": "New card (debate): Accurate Pakistani staple; fits between cooked rice and chocolate ice cream."
+  },
+  {
+   "id": null,
+   "Name": "Donkey (Gadha)",
+   "Description": "About 1.2 m (shoulder)",
+   "Category": "Animal Heights",
+   "action": "add",
+   "note": "New card (debate): Familiar local animal, correct ordering between Markhor and Water Buffalo."
+  },
+  {
+   "id": null,
+   "Name": "African Elephant",
+   "Description": "About 25 km/h",
+   "Category": "Land Animal Speeds",
+   "action": "add",
+   "note": "New card (debate): Uses the challenger's corrected measured speed; still orders between Black Mamba and Human."
+  },
+  {
+   "id": null,
+   "Name": "Giant Tortoise",
+   "Description": "0.3 km/h",
+   "Category": "Land Animal Speeds",
+   "action": "add",
+   "note": "New card (debate): Clear slowest entry; the existing Giant Tortoise add is in a different category (lifespans)."
+  },
+  {
+   "id": null,
+   "Name": "Tomato (Tamatar)",
+   "Description": "pH 4.30",
+   "Category": "Food Acidity (pH - Most to Least Acidic)",
+   "action": "add",
+   "note": "New card (debate): Everyday desi item, accurate and correctly ordered."
+  },
+  {
+   "id": null,
+   "Name": "Millat 385 Tractor",
+   "Description": "About 85 hp",
+   "Category": "How Much Horsepower",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani tractor, orders between Mehran and Formula 1."
+  },
+  {
+   "id": null,
+   "Name": "Blender (Jug)",
+   "Description": "About 20,000 RPM",
+   "Category": "Spinning Objects By Rotation Speed (RPM)",
+   "action": "add",
+   "note": "New card (debate): Familiar kitchen object, correctly ordered between Hard Drive and Dentist Drill."
+  },
+  {
+   "id": null,
+   "Name": "Red-necked Wallaby",
+   "Description": "About 14 kg",
+   "Category": "Marsupials (Average Weight)",
+   "action": "add",
+   "note": "New card (debate): Accurate average weight, orders between Koala and Wombat."
+  },
+  {
+   "id": null,
+   "Name": "Brown Rat (Choha)",
+   "Description": "About 350 g",
+   "Category": "Rodents - Average Weight (Light to Heavy)",
+   "action": "add",
+   "note": "New card (debate): Common local rodent, correctly ordered, no duplicate."
   }
  ]
 }

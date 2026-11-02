@@ -11700,10 +11700,10 @@
   {
    "id": null,
    "Name": "the national anthem",
-   "Description": "In December 2014, more than 42,000 people packed a hockey stadium in Lahore to set a world record for the most people singing ____ together.",
+   "Description": "More than 42,000 people packed a stadium in Lahore to set a world record for the most people singing ____ together.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Verified Pakistani world record; distinct from the human-flag card."
+   "note": "New card (debate): Verified Pakistani world record; distinct from the human-flag card.; Debate: Date and venue disputed between proposer and challenger; dropping both keeps the fact accurate."
   },
   {
    "id": null,
@@ -14368,6 +14368,46 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate (sikka to zecchino to sequin), not in deck, fits the Arabic-loanword cluster."
+  },
+  {
+   "id": null,
+   "Name": "bluish",
+   "Description": "The English word \"lilac\" comes from the Persian \"lilak\", meaning ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Persian loanword fact, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "opposite",
+   "Description": "The English word \"nadir\", meaning the lowest point, comes from the Arabic \"nazir as-samt\", meaning \"____ to the zenith\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's cleaner blank placement; accurate Arabic origin."
+  },
+  {
+   "id": null,
+   "Name": "Retreat",
+   "Description": "Every evening at the Wagah border near Lahore, guards from Pakistan and India lower their flags in a ceremony called Beating ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-known local fact, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the funniest thing you have ever seen written on the back of a rickshaw or truck?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local personal question, no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What is the one dish your family orders every single time you eat out?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable personal question, no duplicate found."
   }
  ]
 }
