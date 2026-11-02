@@ -2458,14 +2458,14 @@
   },
   {
    "id": "game7-224",
-   "Description": "kilt-o-mania",
+   "Description": "topi-o-mania: every head has a different topi",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "kilt-o-mania",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Kilt is a Scottish reference; the topi version keeps the pun and is drawable."
   },
   {
    "id": "game7-225",
@@ -21295,6 +21295,34 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Desi hair-oil joke, absent from deck, drawable."
+  },
+  {
+   "id": null,
+   "Description": "a gilli danda match that has gone completely out of control",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No gilli danda card in the deck; local, funny and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a nimco packet that is mostly air",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No nimco or namkeen card in the deck; relatable and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a hot water bottle that is clearly on fire",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Different scene from the added 'giant hot-water bottle fighting the winter fog' and from game7-1443; funny and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a barber who has fallen asleep mid-haircut, scissors still snipping",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: more visual than a long story, and distinct from the existing barber cards."
   }
  ]
 }

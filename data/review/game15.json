@@ -32193,6 +32193,94 @@
    "Category": "SI Prefixes (Smallest to Largest)",
    "action": "add",
    "note": "New card (debate): Correctly extends scale above Tera."
+  },
+  {
+   "id": null,
+   "Name": "Beryllium",
+   "Description": "4",
+   "Category": "Alkaline Earth Metals (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Correct atomic number; new group-2 ranking, none exists in deck."
+  },
+  {
+   "id": null,
+   "Name": "Magnesium",
+   "Description": "12",
+   "Category": "Alkaline Earth Metals (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Correct; same category."
+  },
+  {
+   "id": null,
+   "Name": "Calcium",
+   "Description": "20",
+   "Category": "Alkaline Earth Metals (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Correct; same category."
+  },
+  {
+   "id": null,
+   "Name": "Strontium",
+   "Description": "38",
+   "Category": "Alkaline Earth Metals (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Correct; same category."
+  },
+  {
+   "id": null,
+   "Name": "Barium",
+   "Description": "56",
+   "Category": "Alkaline Earth Metals (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Correct; same category."
+  },
+  {
+   "id": null,
+   "Name": "Radium",
+   "Description": "88",
+   "Category": "Alkaline Earth Metals (Atomic Number)",
+   "action": "add",
+   "note": "New card (debate): Correct; completes the group."
+  },
+  {
+   "id": null,
+   "Name": "Netscape Navigator",
+   "Description": "1994",
+   "Category": "Web Browsers (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Correct year; new category with no existing duplicates."
+  },
+  {
+   "id": null,
+   "Name": "Internet Explorer",
+   "Description": "1995",
+   "Category": "Web Browsers (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Correct year; same category."
+  },
+  {
+   "id": null,
+   "Name": "Firefox",
+   "Description": "2004",
+   "Category": "Web Browsers (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Firefox 1.0 launched 2004; kept bare year to match the numeric ranking format used by other cards, rejecting the parenthetical amendment."
+  },
+  {
+   "id": null,
+   "Name": "Google Chrome",
+   "Description": "2008",
+   "Category": "Web Browsers (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Correct year; different category from the existing Google launches card."
+  },
+  {
+   "id": null,
+   "Name": "Safari",
+   "Description": "2003",
+   "Category": "Web Browsers (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Safari launched January 2003, unambiguous and unique year; brings the category to 5 cards."
   }
  ]
 }

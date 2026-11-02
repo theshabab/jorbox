@@ -11685,10 +11685,10 @@
   {
    "id": null,
    "Name": "Great Women of Muslim History",
-   "Description": "Khadija|Ayesha|Fatima al-Zahra|Umm Salamah|Hafsa|Sumayyah|Asma bint Abi Bakr|Nusaybah|Zubaidah|Fatima al-Fihri|Razia Sultana|Fatima Jinnah|Bi Amma",
+   "Description": "Khadija|Ayesha|Fatima al-Zahra|Umm Salamah|Hafsa|Sumayyah|Asma bint Abi Bakr|Nusaybah|Zubaidah|Fatima al-Fihri|Razia Sultana|Fatima Jinnah|Rabia Basri|Zainab bint Ali",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Amended: accurate Muslim-history figures, deck spelling."
+   "note": "New card (debate): Amended: accurate Muslim-history figures, deck spelling.; Debate: Replaces obscure Bi Amma with well-known figures."
   },
   {
    "id": null,
@@ -12133,10 +12133,10 @@
   {
    "id": null,
    "Name": "Draw a person whose salary has just arrived.",
-   "Description": "Draw a person with an empty wallet.|Draw a long queue at an ATM.|Draw a piggy bank.|Draw a person counting notes.|Draw a shopping spree.",
+   "Description": "Draw a person with an empty wallet.|Draw a long queue at an ATM.|Draw a gullak.|Draw a person counting notes.|Draw a shopping spree.",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card (debate): Money scene drawing."
+   "note": "New card (debate): Money scene drawing.; Debate: Piggy bank decoy replaced with local gullak, matching existing deck decisions."
   },
   {
    "id": null,
@@ -13121,6 +13121,70 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Worship-related personal question allowed by the owner; no azan morality card exists."
+  },
+  {
+   "id": null,
+   "Name": "Scientific Instruments",
+   "Description": "Microscope|Telescope|Thermometer|Barometer|Stopwatch|Magnifying Glass|Beaker|Test Tube|Weighing Balance|Measuring Cylinder|Voltmeter|Binoculars|Bunsen Burner|Pipette|Retort Stand|Conical Flask|Dropper|Tongs",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's coherent lab list; Lab Coat swapped for Retort Stand since a coat is not an instrument."
+  },
+  {
+   "id": null,
+   "Name": "Vitamins and Nutrients",
+   "Description": "Protein|Carbohydrates|Fats|Fibre|Vitamin A|Vitamin B12|Vitamin C|Vitamin D|Vitamin E|Vitamin K|Vitamin B6|Folic Acid|Omega-3|Antioxidants|Calcium|Iron|Iodine|Electrolytes",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Amended version avoids overlap with the Chemical Elements card."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Kabari Wala's Cart",
+   "Description": "Newspapers|Old Iron|Plastic Bottles|Cardboard|Empty Tins|Broken Fan|Old Batteries|Weighing Scale|Cycle Tyre|Glass Bottles|Copper Wire|Old Books|Sack|Thela|Aluminium Pots|Cooler Parts|Gatta Boxes|Bargaining|Broken Chairs|Old Fridge",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local scene; concrete items replace vague phrases."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Potter's Workshop",
+   "Description": "Clay|Potter's Wheel|Matka|Diya|Kiln|Surahi|Water Bucket|Flower Pots|Clay Cups|Gullak|Handi|Drying Rack|Clay Plates|Sacks of Clay|Firewood|Glazing|Donkey Cart|Clay Pitcher",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Pottery-specific items; Kulhar dropped as it duplicated Clay Cups, Handi added."
+  },
+  {
+   "id": null,
+   "Name": "Draw a gullak.",
+   "Description": "Draw a matka.|Draw a money bag.|Draw a treasure chest.|Draw a pot full of coins.|Draw a jar of sweets.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local gullak, consistent with deck precedent, instead of Western piggy bank."
+  },
+  {
+   "id": null,
+   "Name": "Draw a weighing scale (tarazu).",
+   "Description": "Draw a see-saw.|Draw a hanging basket.|Draw a hanging lamp.|Draw a pair of scissors.|Draw a set of iron weights.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Common spelling and a less ambiguous decoy than crane."
+  },
+  {
+   "id": null,
+   "Name": "The best advice about money I ever got is...",
+   "Description": "The worst advice about money I ever got is...|The best advice about friends I ever got is...|The best advice about marriage I ever got is...|The best advice about work I ever got is...|The best advice about health I ever got is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clean, non-duplicate writing prompt with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "A shopkeeper charges you Rs. 300 less than the real price of an item by mistake, and you notice after leaving. You...",
+   "Description": "go back and pay the difference|say nothing|pay it next time you visit",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Honesty-in-trade dilemma with the contradictory wording fixed."
   }
  ]
 }
