@@ -1288,6 +1288,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1286','game1','Lahori Fish','Crispy besan-coated fried fish of Lahore winters','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1287','game1','Sheermal','Saffron-tinted sweet tandoori bread','Traditional Dishes');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1288','game1','Hing','Pungent resin used in tarka for daal','Spices');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1289','game1','Lettuce','Leafy green salad vegetable','Vegetables');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1290','game1','Spring Onion','Hara pyaaz, green stalks used as garnish','Vegetables');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1291','game1','Hanger','Holds clothes in the wardrobe','Clothing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1292','game1','Hammock','Rope bed hung between trees','Furniture');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1293','game1','Saucer','Small plate under a tea cup','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1294','game1','Basket','Tokri, woven carrier for fruit','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1295','game1','Snail','Ghonga, slow with a shell on its back','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1296','game1','Calf','Bachra, a baby cow','Animals');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');

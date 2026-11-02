@@ -14312,6 +14312,70 @@
    "Category": "Spices",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Lettuce",
+   "Description": "Leafy green salad vegetable",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Spring Onion",
+   "Description": "Hara pyaaz, green stalks used as garnish",
+   "Category": "Vegetables",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hanger",
+   "Description": "Holds clothes in the wardrobe",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hammock",
+   "Description": "Rope bed hung between trees",
+   "Category": "Furniture",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Saucer",
+   "Description": "Small plate under a tea cup",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Basket",
+   "Description": "Tokri, woven carrier for fruit",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Snail",
+   "Description": "Ghonga, slow with a shell on its back",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Calf",
+   "Description": "Bachra, a baby cow",
+   "Category": "Animals",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
