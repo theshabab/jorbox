@@ -17281,6 +17281,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-903','game11','Customer','Baraati (Wedding Guest)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-904','game11','Customer','Foodie','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-905','game11','Customer','Daily Bus Commuter','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-906','game11','Customer','NADRA Counter Officer','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-907','game11','Customer','Falooda Wala','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-908','game11','Customer','Travel Agent','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-909','game11','Customer','Seekh Kabab Wala','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');
@@ -19454,7 +19458,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-813','game13','','Get a player to tell you how many rakats are in Fajr.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-814','game13','','Get a player to tell you their favourite memory from a cousin''s wedding or mehndi.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-815','game13','','Get a player to tell you about a tuition teacher or academy they attended.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-816','game13','','Get a player to tell you the best summer drink at their house, like Rooh Afza, sattu or lemon sharbat.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-816','game13','','Get a player to tell you the best summer drink at their house, like falsa, sattu or lemon sharbat.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-817','game13','','Get a player to tell you what their family does during a long load shedding evening, like stories or carrom.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-818','game13','','Get a player to tell you a lori (lullaby) their ammi or nani used to sing.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-819','game13','','Get a player to tell you which shop in their area sells the best samosas or pakoras.','');
@@ -19474,6 +19478,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-833','game13','','Get a player to tell you how many times SubhanAllah is recited in the tasbih after prayer.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-834','game13','','Get a player to tell you how their family makes kheer, or what they like best in it.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-835','game13','','Get a player to tell you what their family cooks in a big daig for a wedding or a large gathering.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-836','game13','','Get a player to tell you their favourite sheer khurma or sewaiyan memory from Eid morning.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-837','game13','','Get a player to tell you the name of the night journey of the Prophet (peace be upon him) to Jerusalem and the heavens.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-838','game13','','Get a player to tell you their favourite memory of eating roasted bhutta (corn) in the rain.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-839','game13','','Get a player to tell you where they get the best ganna ras (sugarcane juice).','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-840','game13','','Get a player to tell you the name of Pakistan''s national flower.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -19671,7 +19680,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-194','game14','','How many pairs of khussas do you own?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-195','game14','','How much do you enjoy wearing heavy jewelry?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-196','game14','','How likely are you to wear a Sherwani casually?','0 to 100');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-197','game14','','How many neckties do you own?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-197','game14','','How many waistcoats (waskats) do you own?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-198','game14','','How good are you at tying a tie?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-199','game14','','How likely are you to wear sneakers with Shalwar Kameez?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-200','game14','','How much do you care about fashion trends?','0 to 100');
@@ -20279,6 +20288,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-802','game14','','How many times have you travelled by Daewoo or an intercity bus this year?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-803','game14','','How many times have you helped push a stuck car or rickshaw?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-804','game14','','How likely are you to carry cash instead of using a card or app?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-805','game14','','How many sixes have you hit in your whole street cricket career?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-806','game14','','How likely are you to ask for a rematch right after losing at Carrom?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-807','game14','','How many times have you lost at Ludo with your last token one step from home?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-808','game14','','How good are you at playing Uno?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-809','game14','','How many times have you been added to a WhatsApp group without being asked?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-810','game14','','How likely are you to screenshot a chat to show it to someone else?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-811','game14','','How much do you enjoy fielding in a cricket match?','0 to 100');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game15','Tareekhi',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1','game15','Khadijah bint Khuwaylid','1st - first person to accept Islam','Sahabas - Order of Accepting Islam');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-2','game15','Ali ibn Abi Talib','2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10','Sahabas - Order of Accepting Islam');

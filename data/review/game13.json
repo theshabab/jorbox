@@ -6788,9 +6788,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you the best summer drink at their house, like Rooh Afza, sattu or lemon sharbat.",
+   "Description": "Get a player to tell you the best summer drink at their house, like falsa, sattu or lemon sharbat.",
    "action": "add",
-   "note": "New card (debate): Distinct from the say-Rooh Afza and lassi/sharbat cards."
+   "note": "New card (debate): Distinct from the say-Rooh Afza and lassi/sharbat cards.; Debate: Challenger's amendment: card 895 already covers Rooh Afza, so it is dropped here; falsa is added and sattu (a Punjab drink) is kept."
   },
   {
    "id": null,
@@ -6905,6 +6905,36 @@
    "Description": "Get a player to tell you what their family cooks in a big daig for a wedding or a large gathering.",
    "action": "add",
    "note": "New card (debate): Challenger's amendment avoids niaz wording that may not fit every family."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite sheer khurma or sewaiyan memory from Eid morning.",
+   "action": "add",
+   "note": "New card (debate): New Eid food prompt. It is distinct from the kheer card 926 and nothing similar is in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the night journey of the Prophet (peace be upon him) to Jerusalem and the heavens.",
+   "action": "add",
+   "note": "New card (debate): The fact is well established and nothing similar is in the deck. The bracketed answer is removed so the card does not give itself away, and the (peace be upon him) phrase matches the deck's style."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite memory of eating roasted bhutta (corn) in the rain.",
+   "action": "add",
+   "note": "New card (debate): Local street-food and monsoon prompt. The only rain card (116) is a photo mission, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you where they get the best ganna ras (sugarcane juice).",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: a single clear question instead of a two-part one. Ganna ras is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of Pakistan's national flower.",
+   "action": "add",
+   "note": "New card (debate): The national flower is the jasmine (chambeli), so the fact is accurate and fits the national symbols theme. The answer is removed from the text so the card does not give itself away."
   }
  ]
 }

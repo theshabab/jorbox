@@ -2480,14 +2480,14 @@
   },
   {
    "id": "game14-226",
-   "Description": "How many neckties do you own?",
+   "Description": "How many waistcoats (waskats) do you own?",
    "Category": "Number",
    "action": "edit",
    "original": {
     "Description": "How many ties do you own?",
     "Category": "Number"
    },
-   "note": "Debate: 'Ties' is ambiguous (could mean drawn matches); 'neckties' is clearer, same answer type."
+   "note": "Debate: 'Ties' is ambiguous (could mean drawn matches); 'neckties' is clearer, same answer type.; Debate: Replaces the Western necktie count with the local formal equivalent; not a duplicate of the wear-a-waistcoat card."
   },
   {
    "id": "game14-227",
@@ -7398,6 +7398,55 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): No cash-habit card exists; the mobile wallet card is a different question."
+  },
+  {
+   "id": null,
+   "Description": "How many sixes have you hit in your whole street cricket career?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No sixes card exists; clear countable item."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to ask for a rematch right after losing at Carrom?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing Carrom enjoyment and beat-you cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you lost at Ludo with your last token one step from home?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from Ludo cheating, board-flipping and win-rate cards."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at playing Uno?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No Uno card exists; not gambling."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been added to a WhatsApp group without being asked?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No existing added-to-group card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to screenshot a chat to show it to someone else?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Different from the screenshot-count card."
+  },
+  {
+   "id": null,
+   "Description": "How much do you enjoy fielding in a cricket match?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No fielding card exists; dropped the batting comparison to avoid a two-part, vague question."
   }
  ]
 }

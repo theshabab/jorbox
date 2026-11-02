@@ -8787,6 +8787,34 @@
    "Description": "Daily Bus Commuter",
    "action": "add",
    "note": "New card (debate): Challenger's amended, city-neutral label is preferred; the passenger counterpart to the bus driver, conductor and hostess cards."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "NADRA Counter Officer",
+   "action": "add",
+   "note": "New card (debate): Recognisable Pakistani figure, no duplicate (CNIC card is a Problem)."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Falooda Wala",
+   "action": "add",
+   "note": "New card (debate): Street-food seller not in deck; fits Gol Gappay Wala pattern."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Travel Agent",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: plain name matches deck style; Umrah Group Leader is distinct."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Seekh Kabab Wala",
+   "action": "add",
+   "note": "New card (debate): Popular food seller, no kabab seller in deck."
   }
  ]
 }
