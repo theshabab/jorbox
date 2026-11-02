@@ -7821,13 +7821,13 @@
    "Name": "Large number <---> Small number",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Large number <---> Small number",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Vague, number-only scale, weak to guess; both sides agree."
   },
   {
    "id": "game8-603",
@@ -8068,13 +8068,13 @@
    "Name": "Vertical <---> Horizontal",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Vertical <---> Horizontal",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Two orientations, not a spectrum; both sides agree."
   },
   {
    "id": "game8-622",
@@ -12022,6 +12022,30 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Relatable family and friends scale; amended ends are clearer opposites and it differs from the make-up-a-nickname tasks."
+  },
+  {
+   "id": null,
+   "Name": "HUMBLE <---> TOTAL SHOW-OFF",
+   "Description": "Write a WhatsApp status about a new phone that shows this much show-off",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear opposites, social media allowed, relatable; not a duplicate of the peacock drawing card."
+  },
+  {
+   "id": null,
+   "Name": "BUDGET <---> FIVE-STAR",
+   "Description": "Make up a name for a hotel in Murree that is this fancy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear opposites, Pakistani travel frame, no existing hotel-name card."
+  },
+  {
+   "id": null,
+   "Name": "FREE THIS SUNDAY <---> FULLY BOOKED",
+   "Description": "Write your reply to a cousin who asks if you are free on Sunday, if you are this busy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family-life prompt with clear opposite ends; not a duplicate of any live card."
   }
  ]
 }

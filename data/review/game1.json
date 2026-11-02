@@ -13116,10 +13116,10 @@
   {
    "id": null,
    "Name": "Hajar al-Aswad",
-   "Description": "Black stone set in the Kaaba's corner",
+   "Description": "Pilgrims try to kiss it at the Kaaba's corner during tawaf",
    "Category": "Islamic Locations",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Amended: the proposed hint still used the word 'stone', which translates the name; this describes its role instead. Accurate."
   },
   {
    "id": null,
@@ -13228,10 +13228,10 @@
   {
    "id": null,
    "Name": "Khandaq",
-   "Description": "Trench dug to defend Madinah from invading tribes",
+   "Description": "Defence dug on Salman al-Farsi's advice at Madinah",
    "Category": "Islamic Locations",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list; Debate: The trench covered only Madinah's open northern side, so 'around Madinah' was inaccurate. Naming the invading tribes is more specific than 'a famous siege'."
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: The trench covered only Madinah's open northern side, so 'around Madinah' was inaccurate. Naming the invading tribes is more specific than 'a famous siege'.; Debate: Old hint translated the name (Trench); Salman al-Farsi's suggestion is a well-established fact."
   },
   {
    "id": null,
@@ -13324,18 +13324,18 @@
   {
    "id": null,
    "Name": "Ayat ul Kursi",
-   "Description": "Verse of the Throne from Surah Baqarah",
+   "Description": "Verse 255 of Surah Baqarah, recited before sleep",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Accurate (2:255, sunnah before sleep); removes the English translation of the name."
   },
   {
    "id": null,
    "Name": "Surah Al-Fatiha",
-   "Description": "Opening chapter recited in every rakat",
+   "Description": "First chapter of the Quran, recited in every rakat",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Accurate and no longer just translates the name."
   },
   {
    "id": null,
@@ -13404,10 +13404,10 @@
   {
    "id": null,
    "Name": "Dera Ghazi Khan",
-   "Description": "Southern Punjab city near the Indus, known as DG Khan",
+   "Description": "Southern Punjab city near Fort Munro hill station",
    "Category": "Pakistani Cities",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Fort Munro is in DG Khan district; removes the name from the hint."
   },
   {
    "id": null,

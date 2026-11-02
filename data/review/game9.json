@@ -2425,14 +2425,14 @@
   },
   {
    "id": "game9-221",
-   "Name": "What is the scientific term for \"brain freeze\"?",
-   "Description": "Sphenopalatine ganglioneuralgia",
+   "Name": "Eating ice cream too fast gives you 'brain freeze' when something cold touches which part of your mouth?",
+   "Description": "The roof of the mouth (palate)",
    "action": "edit",
    "original": {
     "Name": "Which one of these is scientific term for \"Brain Freeze\"?",
     "Description": "Sphenopalatine Ganglioneuralgia"
    },
-   "note": "wording"
+   "note": "wording; Debate: Makes an unguessable jargon card answerable while keeping the idea."
   },
   {
    "id": "game9-222",
@@ -2713,12 +2713,12 @@
    "id": "game9-247",
    "Name": "What is the medical term for a surgical sponge accidentally left inside a patient's body?",
    "Description": "Gossypiboma",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Which of the following is the term for \"surgical complications resulting from surgical sponges left inside the patient's body?",
     "Description": "Gossypiboma"
    },
-   "note": "grammar"
+   "note": "Debate: Unguessable jargon, not fair to players."
   },
   {
    "id": "game9-248",
@@ -3162,14 +3162,14 @@
   },
   {
    "id": "game9-288",
-   "Name": "What is Canada's smallest province?",
-   "Description": "Prince Edward Island",
-   "action": "keep",
+   "Name": "Which is the smallest country in mainland Africa by area?",
+   "Description": "The Gambia",
+   "action": "edit",
    "original": {
     "Name": "What is Canada's smallest province?",
     "Description": "Prince Edward Island"
    },
-   "note": ""
+   "note": "Debate: Accurate; replaces Canada-only fact (card 344 already removed). Distinct from card 280."
   },
   {
    "id": "game9-289",
@@ -3217,14 +3217,14 @@
   },
   {
    "id": "game9-293",
-   "Name": "What scientific family does the Aardwolf belong to?",
-   "Description": "Hyaenidae",
-   "action": "keep",
+   "Name": "The aardwolf, a termite-eating African mammal, belongs to the same family as which scavenging animal?",
+   "Description": "The hyena",
+   "action": "edit",
    "original": {
     "Name": "What scientific family does the Aardwolf belong to?",
     "Description": "Hyaenidae"
    },
-   "note": ""
+   "note": "Debate: Replaces Latin family name with a fair, guessable answer."
   },
   {
    "id": "game9-294",
@@ -13553,6 +13553,69 @@
    "Description": "Giant tortoises",
    "action": "add",
    "note": "New card (debate): Accurate, no existing tortoise card."
+  },
+  {
+   "id": null,
+   "Name": "Which spiral galaxy is the nearest large galaxy to the Milky Way?",
+   "Description": "Andromeda",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which planet spins on its side, with its axis tilted about 98 degrees?",
+   "Description": "Uranus",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Polish astronomer proposed that the Earth orbits the Sun?",
+   "Description": "Nicolaus Copernicus",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the largest moon of Saturn?",
+   "Description": "Titan",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Approximately how fast does sound travel through air at room temperature?",
+   "Description": "About 343 metres per second",
+   "action": "add",
+   "note": "New card (debate): Accurate, hedged as approximate."
+  },
+  {
+   "id": null,
+   "Name": "Besides mercury, which element is a liquid at room temperature?",
+   "Description": "Bromine",
+   "action": "add",
+   "note": "New card (debate): Accurate; distinct from the mercury card."
+  },
+  {
+   "id": null,
+   "Name": "Why do we see lightning before we hear the thunder?",
+   "Description": "Light travels much faster than sound",
+   "action": "add",
+   "note": "New card (debate): Accurate everyday science."
+  },
+  {
+   "id": null,
+   "Name": "Which organ of the body produces bile?",
+   "Description": "Liver",
+   "action": "add",
+   "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "How many colours are traditionally counted in a rainbow?",
+   "Description": "Seven",
+   "action": "add",
+   "note": "New card (debate): Easy but fine, no duplicate."
   }
  ]
 }
