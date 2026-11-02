@@ -9714,10 +9714,10 @@
   {
    "id": null,
    "Name": "TRUSTWORTHY <---> TOTAL FRAUD",
-   "Description": "Make up a name for a mobile repair shop that is this trustworthy",
+   "Description": "Make up a name for a mobile repair shop that is this likely to be a fraud",
    "Category": "Writing",
    "action": "add",
-   "note": "New card (debate): New local shop-name card; no duplicate."
+   "note": "New card (debate): New local shop-name card; no duplicate.; Debate: Task wording ran opposite to the scale's right end; now aligned."
   },
   {
    "id": null,
@@ -9770,10 +9770,10 @@
   {
    "id": null,
    "Name": "BELIEVABLE <---> PURE FANTASY",
-   "Description": "Write an excuse for not picking up Ammi's call that is this believable",
+   "Description": "Write an excuse for not picking up Ammi's call that is this far-fetched",
    "Category": "Writing",
    "action": "add",
-   "note": "New card (debate): Relatable; no missed-call excuse card exists."
+   "note": "New card (debate): Relatable; no missed-call excuse card exists.; Debate: Task wording ran opposite to the scale's right end; now aligned."
   },
   {
    "id": null,
@@ -12118,6 +12118,38 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Amended: same-dish scale with clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "DRY RUSK <---> SOGGY IN SECONDS",
+   "Description": "Draw a rusk that has been dunked in chai for this long",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fresh everyday chai-time drawing card with clear opposite ends; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "WARM <---> FREEZING",
+   "Description": "Draw an uncle sitting in a car where the AC is set this cold",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable desi car scene with clear scale; no AC card exists."
+  },
+  {
+   "id": null,
+   "Name": "DULL <---> MIRROR SHINE",
+   "Description": "Draw Abbu's shoes after being polished for Jummah to this shine",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Wholesome, drawable, clean scale; shoe polishing not in deck."
+  },
+  {
+   "id": null,
+   "Name": "JUST MISPLACED <---> LOST FOREVER",
+   "Description": "Write what Ammi announces to the whole family about the missing house keys, if she is this convinced they are gone for good",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment fixes the task/scale mismatch and the illogical door notice."
   }
  ]
 }

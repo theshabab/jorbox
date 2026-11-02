@@ -7608,6 +7608,55 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Local summer habit; differs from the umbrella-count card."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you used the Qibla direction or prayer-time app on your phone?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from the sun/stars Qibla card; clean count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to give your seat or your place in a queue to a mother with small children?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Courtesy likelihood; distinct from the elderly-seat card."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year have you watched or heard a Friday khutbah all the way to the end without checking your phone?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Different behaviour from the dozing and Jumuah-timing cards; worship questions allowed."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to walk away from a bargain when the shopkeeper will not drop the price?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct from the bargaining-skill and fixed-price-tag cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week has an auntie or uncle asked you when you are getting married, getting a job or having a baby?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable desi family count, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you insisted that a guest stay for a meal, saying 'khana khaye baghair nahi jana'?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer countable wording of the hospitality card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep a rishta proposal to yourself instead of telling the whole family?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Likelihood question distinct from the rishta-proposal count card."
   }
  ]
 }
