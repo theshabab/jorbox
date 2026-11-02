@@ -1364,12 +1364,12 @@
   },
   {
    "id": "game6-152",
-   "Description": "Parks and Gardens in Pakistan (Jinnah Park, Jilani Park...)",
+   "Description": "Parks and Gardens in Pakistan (Bagh-e-Jinnah, Jilani Park, Fatima Jinnah Park...)",
    "action": "edit",
    "original": {
     "Description": "Pakistani Parks"
    },
-   "note": "wording; Debate: Widens the answer pool; examples are real and clarify the category."
+   "note": "wording; Debate: Widens the answer pool; examples are real and clarify the category.; Debate: Replaces the vague 'Jinnah Park' with real, well-known named parks."
   },
   {
    "id": "game6-153",
@@ -4958,6 +4958,48 @@
    "Description": "Family Functions and Celebrations (Aqiqah, Khatna, Bismillah...)",
    "action": "add",
    "note": "New card (debate): Non-wedding family occasions with plenty of known answers. Swapped the Walima example for Khatna and Bismillah, so the examples do not overlap the wedding cards."
+  },
+  {
+   "id": null,
+   "Description": "Airports in Pakistan",
+   "action": "add",
+   "note": "New card (debate): Local, 10+ answers, distinct from Things at an Airport."
+  },
+  {
+   "id": null,
+   "Description": "Things Sold at a Mobile Shop (Charger, Cover, Earphones, Screen Guard...)",
+   "action": "add",
+   "note": "New card (debate): Everyday local setting with many answers; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Things on a Dhaba Menu (Daal Fry, Karahi, Paye, Tandoori Roti...)",
+   "action": "add",
+   "note": "New card (debate): Local food frame with many answers; distinct from the Dhaba sounds card."
+  },
+  {
+   "id": null,
+   "Description": "Things You See in a Park",
+   "action": "add",
+   "note": "New card (debate): Easy, broad, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Dangerous",
+   "action": "add",
+   "note": "New card (debate): Fills a gap in the Things That Are family with many answers."
+  },
+  {
+   "id": null,
+   "Description": "Things Written on a CNIC (Name, Father's Name, Date of Birth...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version avoids the thumbprint ambiguity; distinctly Pakistani with 10+ answers."
+  },
+  {
+   "id": null,
+   "Description": "Famous Roads and Chowks in Pakistan (Mall Road, Shahrah-e-Faisal, GT Road...)",
+   "action": "add",
+   "note": "New card (debate): Local geography with many answers; no live duplicate."
   }
  ]
 }

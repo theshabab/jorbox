@@ -3789,14 +3789,14 @@
   },
   {
    "id": "game16-345",
-   "Name": "Who are the 3 greatest athletes of all time?",
+   "Name": "Who are the 3 greatest athletes of all time, from any sport or country?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who are the 3 greatest athletes of all time?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Clarifies scope so cricket and other local stars count."
   },
   {
    "id": "game16-346",
@@ -3998,14 +3998,14 @@
   },
   {
    "id": "game16-364",
-   "Name": "Where would you like to travel next?",
+   "Name": "Where would you like to travel next (Umrah, the Northern Areas, or somewhere else)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Where would you like to travel next?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Challenger's amended version: local frame with distinct options."
   },
   {
    "id": "game16-365",
@@ -4317,14 +4317,14 @@
   },
   {
    "id": "game16-393",
-   "Name": "What old trend is coming back these days?",
+   "Name": "What old trend is coming back these days (flared trousers, retro kurtas, old cartoons)?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What old trend is coming back these days?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Local examples make the question easier to answer."
   },
   {
    "id": "game16-394",
@@ -9787,6 +9787,48 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Creative, local, family-friendly; nothing similar in the slice."
+  },
+  {
+   "id": null,
+   "Name": "Do you trust Google Maps or a local's directions more, and when did one of them lead you completely astray?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Amended: grammar fixed; distinct from the family directions card."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani app or service (Easypaisa, JazzCash, Daraz, Foodpanda) has made your life easier?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Local tech card, no equivalent in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the longest you have waited for a food delivery, and what did you do while waiting?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Delivery is not covered by existing food cards."
+  },
+  {
+   "id": null,
+   "Name": "Pakistan once ruled the world in hockey and squash. Which sport would you bring back to glory?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Factually accurate local sports card."
+  },
+  {
+   "id": null,
+   "Name": "Which Islamic book (tafseer, seerah or stories of the sahaba) would you recommend to everyone?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Respectful deen card distinct from 298."
+  },
+  {
+   "id": null,
+   "Name": "Which goal are you working on right now that you have not told your family about yet?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Secret-goals angle is distinct from the generic goal cards."
   }
  ]
 }

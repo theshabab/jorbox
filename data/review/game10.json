@@ -3840,11 +3840,11 @@
   {
    "id": "game10-427",
    "Name": "If you were tiny, where would you live?",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "If you were tiny where would you live?"
    },
-   "note": "punctuation"
+   "note": "Debate: Answers too scattered to match; the tiny idea is covered by live idx 388. Proposal had the wrong idx (427 is 'better smaller'), so the removal targets 426."
   },
   {
    "id": "game10-428",
@@ -7376,6 +7376,60 @@
    "Name": "Name a type of YouTube video you watch.",
    "action": "add",
    "note": "New card (debate): Social media is allowed, answers converge, and it differs from 'Netflix or YouTube?'."
+  },
+  {
+   "id": null,
+   "Name": "Name something blue.",
+   "action": "add",
+   "note": "New card (debate): Blue is missing from the colour prompts; sky, sea and jeans cluster well."
+  },
+  {
+   "id": null,
+   "Name": "Name something white.",
+   "action": "add",
+   "note": "New card (debate): No white prompt exists; milk, rice, cloud and shalwar kameez match well."
+  },
+  {
+   "id": null,
+   "Name": "Name something black.",
+   "action": "add",
+   "note": "New card (debate): No black prompt exists; night, crow, coal and tyre match strongly."
+  },
+  {
+   "id": null,
+   "Name": "Name a very fast animal.",
+   "action": "add",
+   "note": "New card (debate): No fast-animal card; cheetah, horse, rabbit and falcon converge."
+  },
+  {
+   "id": null,
+   "Name": "Name something very tall.",
+   "action": "add",
+   "note": "New card (debate): No height prompt; Burj Khalifa, Minar-e-Pakistan, K2 and giraffe are clear clusters."
+  },
+  {
+   "id": null,
+   "Name": "Name something sharp.",
+   "action": "add",
+   "note": "New card (debate): Simple property prompt not in the deck; knife, needle and blade match."
+  },
+  {
+   "id": null,
+   "Name": "Name something shiny.",
+   "action": "add",
+   "note": "New card (debate): Property prompt not in the deck; gold, mirror, diamond and stars match."
+  },
+  {
+   "id": null,
+   "Name": "Name something you see in the sky during the day.",
+   "action": "add",
+   "note": "New card (debate): Only the night-sky card exists; sun, clouds, birds and kites are clear answers."
+  },
+  {
+   "id": null,
+   "Name": "Name a famous Pakistani fast bowler.",
+   "action": "add",
+   "note": "New card (debate): Narrower than the generic cricketer card with strong matches (Wasim, Waqar, Shoaib, Shaheen); not a duplicate."
   }
  ]
 }
