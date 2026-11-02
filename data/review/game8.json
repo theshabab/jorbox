@@ -7532,16 +7532,16 @@
   },
   {
    "id": "game8-580",
-   "Name": "Infinite <---> Limited",
+   "Name": "Never runs out <---> Runs out fast",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Infinite <---> Limited",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Concrete wording gives players clear answers (chai, load shedding)."
   },
   {
    "id": "game8-581",
@@ -8117,16 +8117,16 @@
   },
   {
    "id": "game8-625",
-   "Name": "Exclusive <---> Inclusive",
+   "Name": "Welcoming <---> Unwelcoming",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Exclusive <---> Inclusive",
     "Description": "Think of something that falls on this scale",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clearer opposite pair than the abstract Exclusive/Inclusive."
   },
   {
    "id": "game8-626",
@@ -12462,6 +12462,38 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): No heavy-bag card exists; universal local school joke with clear ends."
+  },
+  {
+   "id": null,
+   "Name": "Good mango variety <---> Bad mango variety",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local mango debate; no existing variety-ranking scale."
+  },
+  {
+   "id": null,
+   "Name": "Good thing to say to a rishta aunty <---> Bad thing to say to a rishta aunty",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family humour; existing rishta cards are profile-line tasks, not duplicates."
+  },
+  {
+   "id": null,
+   "Name": "Good job for a cousin <---> Bad job for a cousin",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fresh family-banter scale with clear opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "Good name for a pet parrot <---> Bad name for a pet parrot",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Original, clean and fun; parrot cards in the deck are drawing/gossip tasks."
   }
  ]
 }

@@ -14405,7 +14405,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-513','game8','Weird greeting <---> Normal greeting','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-514','game8','Cat name <---> Dog name','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-515','game8','Biased <---> Neutral','Think of something that falls on this scale','Writing');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-516','game8','Infinite <---> Limited','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-516','game8','Never runs out <---> Runs out fast','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-517','game8','Dress up for it <---> Go in chappals','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-518','game8','Good investment <---> Bad investment','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-519','game8','Heavy topic <---> Small talk','Think of something that falls on this scale','Writing');
@@ -14441,7 +14441,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-549','game8','Scented <---> Unscented','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-550','game8','Not huggable <---> Huggable','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-551','game8','All the same <---> All different','Think of something that falls on this scale','Writing');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-552','game8','Exclusive <---> Inclusive','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-552','game8','Welcoming <---> Unwelcoming','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-553','game8','Good bird to keep <---> Bad bird to keep','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-554','game8','Good advice <---> Bad advice','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-555','game8','Good mithai <---> Bad mithai','Think of something that falls on this scale','Writing');
@@ -14960,6 +14960,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1068','game8','Good thing to hear from Ammi <---> Bad thing to hear from Ammi','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1069','game8','Good use of a Sunday <---> Bad use of a Sunday','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1070','game8','LIGHT <---> BREAKS YOUR BACK','Draw a school bag that is this heavy','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1071','game8','Good mango variety <---> Bad mango variety','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1072','game8','Good thing to say to a rishta aunty <---> Bad thing to say to a rishta aunty','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1073','game8','Good job for a cousin <---> Bad job for a cousin','Think of something that falls on this scale','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1074','game8','Good name for a pet parrot <---> Bad name for a pet parrot','Think of something that falls on this scale','Writing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -17142,7 +17146,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-7','game11','Problem','I’ve always wanted to explore _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-8','game11','Problem','I’m tired of getting _____ every single day!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-9','game11','Problem','I wish I were more _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-10','game11','Problem','I keep getting _____ on me!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-10','game11','Problem','I keep getting _____ all over me!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-11','game11','Problem','I am not looking forward to _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-12','game11','Problem','_____ just doesn’t satisfy me anymore!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-13','game11','Problem','I’m tired of people borrowing my _____!','');
@@ -17178,7 +17182,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-43','game11','Problem','I regret that I never _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-44','game11','Problem','_____ always makes me cry!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-45','game11','Problem','I’m worried I’m not prepared for _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-46','game11','Problem','I want to safely _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-46','game11','Problem','I want to _____ without getting hurt!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-47','game11','Problem','I want to help the environment while I _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-48','game11','Problem','I have trouble climbing _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-49','game11','Problem','I need to defend myself from _____!','');
@@ -17211,12 +17215,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-76','game11','Problem','I can never find a good _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-77','game11','Problem','All I do is work on my _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-78','game11','Problem','I’m due in court, but I have a _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-79','game11','Problem','_____ is too cold!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-79','game11','Problem','My _____ is always too cold!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-80','game11','Problem','I’m tired of endless _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-81','game11','Problem','There’s always a _____ outside my window!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-82','game11','Problem','I really need access to _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-83','game11','Problem','I wish I knew more about _____!','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-84','game11','Problem','I hate that everyone calls me _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-84','game11','Problem','I hate that everyone in the family calls me _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-85','game11','Problem','I want to get into the Guinness World Records for _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-86','game11','Problem','I love sleeping on the chhat in summer but I hate _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-87','game11','Problem','My lunch break is always interrupted by _____!','');
@@ -18097,6 +18101,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-962','game11','Customer','Furniture Shop Owner','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-963','game11','Customer','Gali Cricket Kid','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-964','game11','Problem','Ammi''s chappal is flying toward me because of _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-965','game11','Problem','I can''t sleep because my brother snores like _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-966','game11','Problem','My hair always gets ruined by _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-967','game11','Problem','Every time I sit down to eat, someone asks me to pass the _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-968','game11','Problem','Inflation has made me stop buying _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-969','game11','Problem','I get homesick whenever I smell _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-970','game11','Problem','I always lose arguments with my little sister about _____!','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');

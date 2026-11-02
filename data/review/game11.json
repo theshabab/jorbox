@@ -105,13 +105,13 @@
   {
    "id": "game11-10",
    "Name": "Problem",
-   "Description": "I keep getting _____ on me!",
-   "action": "keep",
+   "Description": "I keep getting _____ all over me!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I keep getting _____ on me!"
    },
-   "note": ""
+   "note": "Debate: Clearer comic image."
   },
   {
    "id": "game11-11",
@@ -501,13 +501,13 @@
   {
    "id": "game11-46",
    "Name": "Problem",
-   "Description": "I want to safely _____!",
-   "action": "keep",
+   "Description": "I want to _____ without getting hurt!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I want to safely _____!"
    },
-   "note": ""
+   "note": "Debate: More natural wording."
   },
   {
    "id": "game11-47",
@@ -886,13 +886,13 @@
   {
    "id": "game11-81",
    "Name": "Problem",
-   "Description": "_____ is too cold!",
-   "action": "keep",
+   "Description": "My _____ is always too cold!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "_____ is too cold!"
    },
-   "note": ""
+   "note": "Debate: Clearer, personal complaint."
   },
   {
    "id": "game11-82",
@@ -941,13 +941,13 @@
   {
    "id": "game11-86",
    "Name": "Problem",
-   "Description": "I hate that everyone calls me _____!",
-   "action": "keep",
+   "Description": "I hate that everyone in the family calls me _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I hate that everyone calls me _____!"
    },
-   "note": ""
+   "note": "Debate: Local family-nickname frame."
   },
   {
    "id": "game11-87",
@@ -9200,6 +9200,48 @@
    "Description": "Ammi's chappal is flying toward me because of _____!",
    "action": "add",
    "note": "New card (debate): Classic desi household humour with an open blank; no thrown-chappal card exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can't sleep because my brother snores like _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct comparison pitch from the live own-snoring card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My hair always gets ruined by _____!",
+   "action": "add",
+   "note": "New card (debate): New everyday problem."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every time I sit down to eat, someone asks me to pass the _____!",
+   "action": "add",
+   "note": "New card (debate): New family-table problem."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Inflation has made me stop buying _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable local problem, different from the price-doubled card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I get homesick whenever I smell _____!",
+   "action": "add",
+   "note": "New card (debate): New emotional angle."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I always lose arguments with my little sister about _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct sibling complaint."
   }
  ]
 }
