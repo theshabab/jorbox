@@ -7103,7 +7103,7 @@
   },
   {
    "id": "game1-547",
-   "Name": "Squash",
+   "Name": "Squash Drink",
    "Description": "Fruit concentrate diluted with water",
    "Category": "Beverages",
    "action": "edit",
@@ -14582,6 +14582,62 @@
    "Name": "Cambric",
    "Description": "Fine light cotton for summer dupattas",
    "Category": "Fabrics",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Lab-e-Shireen",
+   "Description": "Creamy fruit and jelly dessert for shaadi tables",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Shakarpara",
+   "Description": "Crispy diamond-cut fried sweet snack for Eid",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Jethani",
+   "Description": "Wife of your husband's elder brother",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Devrani",
+   "Description": "Wife of your husband's younger brother",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Muawiya",
+   "Description": "First Umayyad caliph, ruled from Damascus",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Abu Sufyan",
+   "Description": "Quraysh leader who later accepted Islam at the conquest of Makkah",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Abdullah ibn Zubair",
+   "Description": "Son of Asma, ruled from Makkah after Yazid",
+   "Category": "Sahaba",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }

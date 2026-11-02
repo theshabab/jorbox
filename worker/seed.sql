@@ -521,7 +521,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-519','game1','Shake','Cold, thick milk drink blended with ice cream, e.g. mango or chocolate','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-520','game1','Smoothie','Thick blend of fruit and yogurt','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-521','game1','Lemonade','Nimbu pani: sweetened citrus water','Beverages');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-522','game1','Squash','Fruit concentrate diluted with water','Beverages');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-522','game1','Squash Drink','Fruit concentrate diluted with water','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-523','game1','Sherbet','Sweet chilled drink served at iftar','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-524','game1','Rooh Afza','Famous red rose syrup drink','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-525','game1','Kanji','Fermented black carrot drink','Beverages');
@@ -1322,6 +1322,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1320','game1','Hacksaw','Toothed blade for cutting metal pipes','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1321','game1','Boski','Shiny cream cloth for men''s wedding kameez','Fabrics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1322','game1','Cambric','Fine light cotton for summer dupattas','Fabrics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1323','game1','Lab-e-Shireen','Creamy fruit and jelly dessert for shaadi tables','Desserts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1324','game1','Shakarpara','Crispy diamond-cut fried sweet snack for Eid','Desserts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1325','game1','Jethani','Wife of your husband''s elder brother','Family Relations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1326','game1','Devrani','Wife of your husband''s younger brother','Family Relations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1327','game1','Muawiya','First Umayyad caliph, ruled from Damascus','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1328','game1','Abu Sufyan','Quraysh leader who later accepted Islam at the conquest of Makkah','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1329','game1','Abdullah ibn Zubair','Son of Asma, ruled from Makkah after Yazid','Sahaba');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
