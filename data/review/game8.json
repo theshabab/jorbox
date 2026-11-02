@@ -1643,16 +1643,16 @@
   },
   {
    "id": "game8-127",
-   "Name": "A MESS <---> VERY FANCY",
+   "Name": "PLAIN <---> VERY FANCY",
    "Description": "Make up a nickname for a person who is this fancy",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "A MESS <---> VERY FANCY",
     "Description": "Make up a nickname for a person who is this fancy",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: 'A MESS' is a different axis than 'VERY FANCY'; PLAIN is a proper opposite and matches other PLAIN scales."
   },
   {
    "id": "game8-128",
@@ -11862,6 +11862,30 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Relatable school-diary scenario with clear scale; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "ACCEPTS NO <---> WON'T TAKE NO",
+   "Description": "Write what an aunty says to make you take a third helping of biryani that is this pushy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable dawat humour, not duplicated; challenger's amended ends describe the aunty's pushiness, matching the task."
+  },
+  {
+   "id": null,
+   "Name": "LIGHT AND FLUFFY <---> HEAVY AS A BRICK",
+   "Description": "Make up a name for a paratha stall whose parathas are this heavy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local, clean, distinct from existing paratha cards (filling, crow)."
+  },
+  {
+   "id": null,
+   "Name": "FAIR <---> TOTALLY BIASED",
+   "Description": "Make up a nickname for a gully cricket umpire who is this biased towards his own team",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): No umpire card exists; clear opposite ends and fun local theme."
   }
  ]
 }

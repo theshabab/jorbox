@@ -687,14 +687,14 @@
   },
   {
    "id": "game14-63",
-   "Description": "How many hours a day do you spend watching reels/TikToks?",
+   "Description": "How many hours a day do you spend watching reels or YouTube shorts?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many hours a day do you spend watching reels/TikToks?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Platform-neutral wording; still a countable Number. Card game14-63 is live."
   },
   {
    "id": "game14-64",
@@ -896,14 +896,14 @@
   },
   {
    "id": "game14-82",
-   "Description": "How many times have you had a flat tire?",
+   "Description": "How many times have you had a flat tyre?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many times have you had a flat tire?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Matches the 'tyre' spelling used in game14-242."
   },
   {
    "id": "game14-83",
@@ -1270,14 +1270,14 @@
   },
   {
    "id": "game14-116",
-   "Description": "How many meaningful conversations have you had this week?",
+   "Description": "How many long phone calls with friends or family have you had this week?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many meaningful conversations have you had this week?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Replaces the subjective 'meaningful conversations' with a countable question."
   },
   {
    "id": "game14-117",
@@ -7370,6 +7370,34 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Different from the naats-from-memory card; naats allowed."
+  },
+  {
+   "id": null,
+   "Description": "How many laddoos can you eat in one sitting?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No laddoo card exists; fits the eating-count theme."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you travelled by Daewoo or an intercity bus this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No bus-travel count in the deck; local and countable."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you helped push a stuck car or rickshaw?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from the dhakka start card; countable and local."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to carry cash instead of using a card or app?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No cash-habit card exists; the mobile wallet card is a different question."
   }
  ]
 }

@@ -5221,12 +5221,12 @@
    "id": "game11-475",
    "Name": "Customer",
    "Description": "Snowman",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Customer",
     "Description": "Snowman"
    },
-   "note": ""
+   "note": "Debate: Western cartoon figure Pakistani players do not meet; fits the Western-only removal rule."
   },
   {
    "id": "game11-476",
@@ -8738,6 +8738,55 @@
    "Description": "Every Eid photo shoot gets ruined by _____!",
    "action": "add",
    "note": "New card (debate): Local family-friendly Eid angle, distinct from other Eid cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My abbu insists on taking a 'shortcut' through _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable desi family-car problem with an open blank; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The school van uncle plays _____ at full volume every morning!",
+   "action": "add",
+   "note": "New card (debate): Everyday local scene; distinct from the existing school-van-stops card. Naats/qawwali are allowed."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The helpline kept me on hold for an hour with nothing but _____!",
+   "action": "add",
+   "note": "New card (debate): Hold frustration is not covered by the fraud-caller or call-centre cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My chai wala never remembers that I take my chai without _____!",
+   "action": "add",
+   "note": "New card (debate): Open blank, distinct from the chai-too and biscuit-in-chai cards."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Baraati (Wedding Guest)",
+   "action": "add",
+   "note": "New card (debate): Recognisable shaadi figure with no equivalent; gloss style matches the deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Foodie",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended, nationwide label is preferred over the Lahori version; distinct from Food Vlogger and Food Delivery Rider."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Daily Bus Commuter",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended, city-neutral label is preferred; the passenger counterpart to the bus driver, conductor and hostess cards."
   }
  ]
 }
