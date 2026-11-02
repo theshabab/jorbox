@@ -658,104 +658,104 @@
       "Name": "Mercury",
       "Description": "58 million km (average)",
       "Category": "Solar System Planets - Distance from Sun",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Mercury",
         "Description": "1",
         "Category": "Solar System Planets - Distance from Sun"
       },
-      "note": "replaced bare rank with distance"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-52",
       "Name": "Venus",
       "Description": "108 million km (average)",
       "Category": "Solar System Planets - Distance from Sun",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Venus",
         "Description": "2",
         "Category": "Solar System Planets - Distance from Sun"
       },
-      "note": "replaced bare rank with distance"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-53",
       "Name": "Earth",
       "Description": "150 million km (average)",
       "Category": "Solar System Planets - Distance from Sun",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Earth",
         "Description": "3",
         "Category": "Solar System Planets - Distance from Sun"
       },
-      "note": "replaced bare rank with distance"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-54",
       "Name": "Mars",
       "Description": "228 million km (average)",
       "Category": "Solar System Planets - Distance from Sun",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Mars",
         "Description": "4",
         "Category": "Solar System Planets - Distance from Sun"
       },
-      "note": "replaced bare rank with distance"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-55",
       "Name": "Jupiter",
       "Description": "778 million km (average)",
       "Category": "Solar System Planets - Distance from Sun",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Jupiter",
         "Description": "5",
         "Category": "Solar System Planets - Distance from Sun"
       },
-      "note": "replaced bare rank with distance"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-56",
       "Name": "Saturn",
       "Description": "1.43 billion km (average)",
       "Category": "Solar System Planets - Distance from Sun",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Saturn",
         "Description": "6",
         "Category": "Solar System Planets - Distance from Sun"
       },
-      "note": "replaced bare rank with distance"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-57",
       "Name": "Uranus",
       "Description": "2.87 billion km (average)",
       "Category": "Solar System Planets - Distance from Sun",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Uranus",
         "Description": "7",
         "Category": "Solar System Planets - Distance from Sun"
       },
-      "note": "replaced bare rank with distance"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-58",
       "Name": "Neptune",
       "Description": "4.5 billion km (average)",
       "Category": "Solar System Planets - Distance from Sun",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Neptune",
         "Description": "8",
         "Category": "Solar System Planets - Distance from Sun"
       },
-      "note": "replaced bare rank with distance"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-59",
@@ -1698,52 +1698,52 @@
       "Name": "Crust",
       "Description": "Surface to ~35 km deep",
       "Category": "Layers of Earth (Outside In)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Crust",
         "Description": "1",
         "Category": "Layers of Earth (Outside In)"
       },
-      "note": "bare rank replaced with depth range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-132",
       "Name": "Mantle",
       "Description": "~35-2,900 km deep",
       "Category": "Layers of Earth (Outside In)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Mantle",
         "Description": "2",
         "Category": "Layers of Earth (Outside In)"
       },
-      "note": "bare rank replaced with depth range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-133",
       "Name": "Outer Core",
       "Description": "~2,900-5,150 km deep",
       "Category": "Layers of Earth (Outside In)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Outer Core",
         "Description": "3",
         "Category": "Layers of Earth (Outside In)"
       },
-      "note": "bare rank replaced with depth range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-134",
       "Name": "Inner Core",
       "Description": "~5,150-6,371 km deep (centre)",
       "Category": "Layers of Earth (Outside In)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Inner Core",
         "Description": "4",
         "Category": "Layers of Earth (Outside In)"
       },
-      "note": "bare rank replaced with depth range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-135",
@@ -1997,260 +1997,260 @@
       "Name": "Hydrogen",
       "Description": "1",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Hydrogen",
         "Description": "1",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-155",
       "Name": "Helium",
       "Description": "2",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Helium",
         "Description": "2",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-156",
       "Name": "Lithium",
       "Description": "3",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Lithium",
         "Description": "3",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-157",
       "Name": "Beryllium",
       "Description": "4",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Beryllium",
         "Description": "4",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-158",
       "Name": "Boron",
       "Description": "5",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Boron",
         "Description": "5",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-159",
       "Name": "Carbon",
       "Description": "6",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Carbon",
         "Description": "6",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-160",
       "Name": "Nitrogen",
       "Description": "7",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Nitrogen",
         "Description": "7",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-161",
       "Name": "Oxygen",
       "Description": "8",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Oxygen",
         "Description": "8",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-162",
       "Name": "Fluorine",
       "Description": "9",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Fluorine",
         "Description": "9",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-163",
       "Name": "Neon",
       "Description": "10",
       "Category": "Elements (Atomic Number 1-10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Neon",
         "Description": "10",
         "Category": "Elements (Atomic Number 1-10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-164",
       "Name": "Muharram",
       "Description": "1st month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Muharram",
         "Description": "1",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-165",
       "Name": "Safar",
       "Description": "2nd month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Safar",
         "Description": "2",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-166",
       "Name": "Rabi al-Awwal",
       "Description": "3rd month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Rabi al-Awwal",
         "Description": "3",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-167",
       "Name": "Rabi al-Thani",
       "Description": "4th month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Rabi al-Thani",
         "Description": "4",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-168",
       "Name": "Jumada al-Awwal",
       "Description": "5th month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Jumada al-Awwal",
         "Description": "5",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-169",
       "Name": "Jumada al-Thani",
       "Description": "6th month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Jumada al-Thani",
         "Description": "6",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-170",
       "Name": "Rajab",
       "Description": "7th month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Rajab",
         "Description": "7",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-171",
       "Name": "Sha'ban",
       "Description": "8th month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Sha'ban",
         "Description": "8",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-172",
       "Name": "Ramadan",
       "Description": "9th month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Ramadan",
         "Description": "9",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-173",
       "Name": "Shawwal",
       "Description": "10th month",
       "Category": "Islamic Months (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Shawwal",
         "Description": "10",
         "Category": "Islamic Months (Chronological)"
       },
-      "note": "clarified bare number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-174",
@@ -2920,130 +2920,130 @@
       "Name": "Triangle",
       "Description": "3 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Triangle",
         "Description": "3",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-226",
       "Name": "Quadrilateral",
       "Description": "4 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Quadrilateral",
         "Description": "4",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-227",
       "Name": "Pentagon",
       "Description": "5 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Pentagon",
         "Description": "5",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-228",
       "Name": "Hexagon",
       "Description": "6 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Hexagon",
         "Description": "6",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-229",
       "Name": "Heptagon",
       "Description": "7 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Heptagon",
         "Description": "7",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-230",
       "Name": "Octagon",
       "Description": "8 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Octagon",
         "Description": "8",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-231",
       "Name": "Nonagon",
       "Description": "9 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Nonagon",
         "Description": "9",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-232",
       "Name": "Decagon",
       "Description": "10 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Decagon",
         "Description": "10",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-233",
       "Name": "Hendecagon",
       "Description": "11 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Hendecagon",
         "Description": "11",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-234",
       "Name": "Dodecagon",
       "Description": "12 sides",
       "Category": "Geometric Shapes (Sides - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Dodecagon",
         "Description": "12",
         "Category": "Geometric Shapes (Sides - Ascending)"
       },
-      "note": "value states unit"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-235",
@@ -3180,221 +3180,221 @@
       "Name": "Red",
       "Description": "~700nm",
       "Category": "Rainbow Colors (Wavelength - Long to Short)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Red",
         "Description": "~700nm",
         "Category": "Rainbow Colors (Wavelength - Long to Short)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-246",
       "Name": "Orange",
       "Description": "~600nm",
       "Category": "Rainbow Colors (Wavelength - Long to Short)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Orange",
         "Description": "~600nm",
         "Category": "Rainbow Colors (Wavelength - Long to Short)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-247",
       "Name": "Yellow",
       "Description": "~580nm",
       "Category": "Rainbow Colors (Wavelength - Long to Short)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Yellow",
         "Description": "~580nm",
         "Category": "Rainbow Colors (Wavelength - Long to Short)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-248",
       "Name": "Green",
       "Description": "~540nm",
       "Category": "Rainbow Colors (Wavelength - Long to Short)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Green",
         "Description": "~540nm",
         "Category": "Rainbow Colors (Wavelength - Long to Short)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-249",
       "Name": "Blue",
       "Description": "~470nm",
       "Category": "Rainbow Colors (Wavelength - Long to Short)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Blue",
         "Description": "~470nm",
         "Category": "Rainbow Colors (Wavelength - Long to Short)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-250",
       "Name": "Indigo",
       "Description": "~445nm",
       "Category": "Rainbow Colors (Wavelength - Long to Short)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Indigo",
         "Description": "~445nm",
         "Category": "Rainbow Colors (Wavelength - Long to Short)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-251",
       "Name": "Violet",
       "Description": "~400nm",
       "Category": "Rainbow Colors (Wavelength - Long to Short)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Violet",
         "Description": "~400nm",
         "Category": "Rainbow Colors (Wavelength - Long to Short)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-252",
       "Name": "Zygote",
       "Description": "Fertilised egg (day 1)",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Zygote",
         "Description": "1",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with stage timing"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-253",
       "Name": "Embryo",
       "Description": "Weeks 2-8 after fertilisation",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Embryo",
         "Description": "2",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with stage timing; Debate: The embryonic period is counted from fertilisation, not in pregnancy weeks"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-254",
       "Name": "Fetus",
       "Description": "Week 9 after fertilisation to birth",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Fetus",
         "Description": "3",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with stage timing; Debate: Uses the same fertilisation-based counting as the corrected Embryo card"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-255",
       "Name": "Neonate",
       "Description": "Birth to 4 weeks",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Neonate",
         "Description": "Newborn",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "value states age range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-256",
       "Name": "Infant",
       "Description": "1 month to 1 year",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Infant",
         "Description": "5",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with age range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-257",
       "Name": "Toddler",
       "Description": "1-3 years",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Toddler",
         "Description": "6",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with age range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-258",
       "Name": "Child",
       "Description": "3-12 years",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Child",
         "Description": "7",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with age range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-259",
       "Name": "Adolescent",
       "Description": "13-19 years",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Adolescent",
         "Description": "8",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with age range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-260",
       "Name": "Adult",
       "Description": "20-64 years",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Adult",
         "Description": "9",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with age range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-261",
       "Name": "Senior",
       "Description": "65+ years",
       "Category": "Life Stages (Human - Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Senior",
         "Description": "10",
         "Category": "Life Stages (Human - Chronological)"
       },
-      "note": "bare rank replaced with age range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-262",
@@ -3596,260 +3596,260 @@
       "Name": "Million",
       "Description": "10^6",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Million",
         "Description": "10^6",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-278",
       "Name": "Billion",
       "Description": "10^9",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Billion",
         "Description": "10^9",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-279",
       "Name": "Trillion",
       "Description": "10^12",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Trillion",
         "Description": "10^12",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-280",
       "Name": "Quadrillion",
       "Description": "10^15",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Quadrillion",
         "Description": "10^15",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-281",
       "Name": "Quintillion",
       "Description": "10^18",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Quintillion",
         "Description": "10^18",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-282",
       "Name": "Sextillion",
       "Description": "10^21",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Sextillion",
         "Description": "10^21",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-283",
       "Name": "Septillion",
       "Description": "10^24",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Septillion",
         "Description": "10^24",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-284",
       "Name": "Octillion",
       "Description": "10^27",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Octillion",
         "Description": "10^27",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-285",
       "Name": "Nonillion",
       "Description": "10^30",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Nonillion",
         "Description": "10^30",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-286",
       "Name": "Decillion",
       "Description": "10^33",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Decillion",
         "Description": "10^33",
         "Category": "Large Numbers (Powers of 10)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-287",
       "Name": "Bit",
       "Description": "Smallest unit (0 or 1)",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Bit",
         "Description": "1",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "value clarified"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-288",
       "Name": "Byte",
       "Description": "8 bits",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Byte",
         "Description": "8 bits",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-289",
       "Name": "Kilobyte",
       "Description": "1,024 bytes",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Kilobyte",
         "Description": "1024 bytes",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "number formatting"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-290",
       "Name": "Megabyte",
       "Description": "1,024 KB",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Megabyte",
         "Description": "4",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "bare rank replaced with size"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-291",
       "Name": "Gigabyte",
       "Description": "1,024 MB",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Gigabyte",
         "Description": "5",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "bare rank replaced with size"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-292",
       "Name": "Terabyte",
       "Description": "1,024 GB",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Terabyte",
         "Description": "6",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "bare rank replaced with size"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-293",
       "Name": "Petabyte",
       "Description": "1,024 TB",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Petabyte",
         "Description": "7",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "bare rank replaced with size"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-294",
       "Name": "Exabyte",
       "Description": "1,024 PB",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Exabyte",
         "Description": "8",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "bare rank replaced with size"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-295",
       "Name": "Zettabyte",
       "Description": "1,024 EB",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Zettabyte",
         "Description": "9",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "bare rank replaced with size"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-296",
       "Name": "Yottabyte",
       "Description": "1,024 ZB",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Yottabyte",
         "Description": "10",
         "Category": "Computer Bytes (Size - Ascending)"
       },
-      "note": "bare rank replaced with size"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-297",
@@ -4506,689 +4506,689 @@
       "Name": "2⁵",
       "Description": "32",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "1",
         "Description": "1^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: The Perfect Cubes cards were named with their own values, so sorting them took no knowledge. Mixed-base powers make a real challenge. All 10 cards are converted and the category is renamed on every one."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-348",
       "Name": "6²",
       "Description": "36",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "8",
         "Description": "2^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 36 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-349",
       "Name": "3⁴",
       "Description": "81",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "27",
         "Description": "3^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 81 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-350",
       "Name": "5³",
       "Description": "125",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "64",
         "Description": "4^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 125 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-351",
       "Name": "2⁸",
       "Description": "256",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "125",
         "Description": "5^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 256 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-352",
       "Name": "7³",
       "Description": "343",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "216",
         "Description": "6^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 343 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-353",
       "Name": "3⁶",
       "Description": "729",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "343",
         "Description": "7^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 729 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-354",
       "Name": "10³",
       "Description": "1,000",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "512",
         "Description": "8^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 1,000 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-355",
       "Name": "2¹⁰",
       "Description": "1,024",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "729",
         "Description": "9^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 1,024 is correct and makes a good near-tie with 10³."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-356",
       "Name": "5⁵",
       "Description": "3,125",
       "Category": "Powers (Value - Low to High)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "1000",
         "Description": "10^3",
         "Category": "Perfect Cubes (Values)"
       },
-      "note": "Debate: Part of the Powers conversion. 3,125 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-357",
       "Name": "Windows 3.1",
       "Description": "1992",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Windows 3.1",
         "Description": "1992",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-358",
       "Name": "Windows 95",
       "Description": "1995",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Windows 95",
         "Description": "1995",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-359",
       "Name": "Windows 98",
       "Description": "1998",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Windows 98",
         "Description": "1998",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-360",
       "Name": "Windows ME",
       "Description": "2000 (Sep)",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Windows ME",
         "Description": "2000",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": "Debate: Month needed to order against Windows 2000 (Feb)."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-361",
       "Name": "Windows XP",
       "Description": "2001",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Windows XP",
         "Description": "2001",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-362",
       "Name": "Windows Vista",
       "Description": "2007 (retail; business edition Nov 2006)",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Windows Vista",
         "Description": "2006",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": "Vista retail release was January 2007"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-363",
       "Name": "Windows 7",
       "Description": "2009",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Windows 7",
         "Description": "2009",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-364",
       "Name": "Windows 8",
       "Description": "2012",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Windows 8",
         "Description": "2012",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-365",
       "Name": "Windows 10",
       "Description": "2015",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Windows 10",
         "Description": "2015",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-366",
       "Name": "Windows 11",
       "Description": "2021",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Windows 11",
         "Description": "2021",
         "Category": "Windows Versions (Chronological Retail Release)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-367",
       "Name": "iPhone (original)",
       "Description": "2007",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "iPhone",
         "Description": "2007",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": "Debate: Bare 'iPhone' is ambiguous next to numbered models; year is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-368",
       "Name": "iPhone 3G",
       "Description": "2008",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone 3G",
         "Description": "2008",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-369",
       "Name": "iPhone 4",
       "Description": "2010",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone 4",
         "Description": "2010",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-370",
       "Name": "iPhone 5",
       "Description": "2012",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone 5",
         "Description": "2012",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-371",
       "Name": "iPhone 6",
       "Description": "2014",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone 6",
         "Description": "2014",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-372",
       "Name": "iPhone 7",
       "Description": "2016",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone 7",
         "Description": "2016",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-373",
       "Name": "iPhone X",
       "Description": "2017",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone X",
         "Description": "2017",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-374",
       "Name": "iPhone 11",
       "Description": "2019",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone 11",
         "Description": "2019",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-375",
       "Name": "iPhone 12",
       "Description": "2020",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone 12",
         "Description": "2020",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-376",
       "Name": "iPhone 13",
       "Description": "2021",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "iPhone 13",
         "Description": "2021",
         "Category": "iPhone Models (Chronological Launch)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-377",
       "Name": "Cupcake",
       "Description": "Android 1.5 (Apr 2009)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Cupcake",
         "Description": "1.5",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: Three versions share 2009, so the month settles the order. Apr 2009 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-378",
       "Name": "Donut",
       "Description": "Android 1.6 (Sep 2009)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Donut",
         "Description": "1.6",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: The month breaks the 2009 tie. Sep 2009 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-379",
       "Name": "Eclair",
       "Description": "Android 2.0 (Oct 2009)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Eclair",
         "Description": "2.0",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: The month breaks the 2009 tie. Oct 2009 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-380",
       "Name": "Froyo",
       "Description": "Android 2.2 (May 2010)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Froyo",
         "Description": "2.2",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: The month breaks the 2010 tie. May 2010 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-381",
       "Name": "Gingerbread",
       "Description": "Android 2.3 (Dec 2010)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Gingerbread",
         "Description": "2.3",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: The month breaks the 2010 tie. Dec 2010 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-382",
       "Name": "Honeycomb",
       "Description": "Android 3.0 (Feb 2011)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Honeycomb",
         "Description": "3.0",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: The month breaks the 2011 tie. Feb 2011 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-383",
       "Name": "Ice Cream Sandwich",
       "Description": "Android 4.0 (Oct 2011)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Ice Cream Sandwich",
         "Description": "4.0",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: The month breaks the 2011 tie. Oct 2011 is correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-384",
       "Name": "Jelly Bean",
       "Description": "Android 4.1 (Jul 2012)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Jelly Bean",
         "Description": "4.1",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: Month matches format of earlier cards; correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-385",
       "Name": "KitKat",
       "Description": "Android 4.4 (Oct 2013)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "KitKat",
         "Description": "4.4",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: Month matches format; correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-386",
       "Name": "Lollipop",
       "Description": "Android 5.0 (Nov 2014)",
       "Category": "Android Versions (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Lollipop",
         "Description": "5.0",
         "Category": "Android Versions (Chronological)"
       },
-      "note": "added release year; Debate: Month matches format; correct."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-387",
       "Name": "PlayStation",
       "Description": "1994",
       "Category": "PlayStation Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "PlayStation",
         "Description": "1994",
         "Category": "PlayStation Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-388",
       "Name": "PlayStation 2",
       "Description": "2000",
       "Category": "PlayStation Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "PlayStation 2",
         "Description": "2000",
         "Category": "PlayStation Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-389",
       "Name": "PlayStation Portable (PSP)",
       "Description": "2004",
       "Category": "PlayStation Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "PlayStation Portable (PSP)",
         "Description": "2004",
         "Category": "PlayStation Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-390",
       "Name": "PlayStation 3",
       "Description": "2006",
       "Category": "PlayStation Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "PlayStation 3",
         "Description": "2006",
         "Category": "PlayStation Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-391",
       "Name": "PlayStation Vita",
       "Description": "2011",
       "Category": "PlayStation Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "PlayStation Vita",
         "Description": "2011",
         "Category": "PlayStation Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-392",
       "Name": "PlayStation 4",
       "Description": "2013",
       "Category": "PlayStation Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "PlayStation 4",
         "Description": "2013",
         "Category": "PlayStation Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-393",
       "Name": "PlayStation 5",
       "Description": "2020",
       "Category": "PlayStation Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "PlayStation 5",
         "Description": "2020",
         "Category": "PlayStation Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-394",
       "Name": "Xbox",
       "Description": "2001",
       "Category": "Xbox Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Xbox",
         "Description": "2001",
         "Category": "Xbox Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-395",
       "Name": "Xbox 360",
       "Description": "2005",
       "Category": "Xbox Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Xbox 360",
         "Description": "2005",
         "Category": "Xbox Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-396",
       "Name": "Xbox One",
       "Description": "2013",
       "Category": "Xbox Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Xbox One",
         "Description": "2013",
         "Category": "Xbox Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-397",
       "Name": "Xbox One S",
       "Description": "2016",
       "Category": "Xbox Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Xbox One S",
         "Description": "2016",
         "Category": "Xbox Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-398",
       "Name": "Xbox One X",
       "Description": "2017",
       "Category": "Xbox Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Xbox One X",
         "Description": "2017",
         "Category": "Xbox Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-399",
       "Name": "Xbox Series X/S",
       "Description": "2020",
       "Category": "Xbox Consoles (Chronological)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Xbox Series X/S",
         "Description": "2020",
         "Category": "Xbox Consoles (Chronological)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-400",
@@ -5520,247 +5520,247 @@
       "Name": "5 Rupee",
       "Description": "Rs 5 (old note, now coin only)",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "5 Rupee",
         "Description": "Coin now, but was note",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "clarified value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-426",
       "Name": "10 Rupee",
       "Description": "Rs 10",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "10 Rupee",
         "Description": "2",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-427",
       "Name": "20 Rupee",
       "Description": "Rs 20",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "20 Rupee",
         "Description": "3",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-428",
       "Name": "50 Rupee",
       "Description": "Rs 50",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "50 Rupee",
         "Description": "4",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-429",
       "Name": "75 Rupee",
       "Description": "Rs 75 (2022 commemorative)",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "75 Rupee",
         "Description": "Commemorative",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "added value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-430",
       "Name": "100 Rupee",
       "Description": "Rs 100",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "100 Rupee",
         "Description": "6",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-431",
       "Name": "500 Rupee",
       "Description": "Rs 500",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "500 Rupee",
         "Description": "7",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-432",
       "Name": "1000 Rupee",
       "Description": "Rs 1,000",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "1000 Rupee",
         "Description": "8",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-433",
       "Name": "5000 Rupee",
       "Description": "Rs 5,000",
       "Category": "Pak Rupee Notes (Value)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "5000 Rupee",
         "Description": "9",
         "Category": "Pak Rupee Notes (Value)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-434",
       "Name": "Second",
       "Description": "1 second",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Second",
         "Description": "1",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-435",
       "Name": "Minute",
       "Description": "60 seconds",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Minute",
         "Description": "2",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-436",
       "Name": "Hour",
       "Description": "60 minutes",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Hour",
         "Description": "3",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-437",
       "Name": "Day",
       "Description": "24 hours",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Day",
         "Description": "4",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-438",
       "Name": "Week",
       "Description": "7 days",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Week",
         "Description": "5",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-439",
       "Name": "Month",
       "Description": "About 30 days",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Month",
         "Description": "Avg",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-440",
       "Name": "Year",
       "Description": "365 days",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Year",
         "Description": "7",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-441",
       "Name": "Decade",
       "Description": "10 years",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Decade",
         "Description": "8",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-442",
       "Name": "Century",
       "Description": "100 years",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Century",
         "Description": "9",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-443",
       "Name": "Millennium",
       "Description": "1,000 years",
       "Category": "Time Units (Ascending)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Millennium",
         "Description": "10",
         "Category": "Time Units (Ascending)"
       },
-      "note": "replaced bare rank with real value"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-444",
@@ -5897,182 +5897,182 @@
       "Name": "I",
       "Description": "1",
       "Category": "Roman Numerals (Value)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "I",
         "Description": "1",
         "Category": "Roman Numerals (Value)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-455",
       "Name": "V",
       "Description": "5",
       "Category": "Roman Numerals (Value)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "V",
         "Description": "5",
         "Category": "Roman Numerals (Value)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-456",
       "Name": "X",
       "Description": "10",
       "Category": "Roman Numerals (Value)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "X",
         "Description": "10",
         "Category": "Roman Numerals (Value)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-457",
       "Name": "L",
       "Description": "50",
       "Category": "Roman Numerals (Value)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "L",
         "Description": "50",
         "Category": "Roman Numerals (Value)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-458",
       "Name": "C",
       "Description": "100",
       "Category": "Roman Numerals (Value)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "C",
         "Description": "100",
         "Category": "Roman Numerals (Value)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-459",
       "Name": "D",
       "Description": "500",
       "Category": "Roman Numerals (Value)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "D",
         "Description": "500",
         "Category": "Roman Numerals (Value)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-460",
       "Name": "M",
       "Description": "1000",
       "Category": "Roman Numerals (Value)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "M",
         "Description": "1000",
         "Category": "Roman Numerals (Value)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-461",
       "Name": "Red",
       "Description": "1",
       "Category": "Snooker Balls (Points)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Red",
         "Description": "1",
         "Category": "Snooker Balls (Points)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-462",
       "Name": "Yellow",
       "Description": "2",
       "Category": "Snooker Balls (Points)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Yellow",
         "Description": "2",
         "Category": "Snooker Balls (Points)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-463",
       "Name": "Green",
       "Description": "3",
       "Category": "Snooker Balls (Points)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Green",
         "Description": "3",
         "Category": "Snooker Balls (Points)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-464",
       "Name": "Brown",
       "Description": "4",
       "Category": "Snooker Balls (Points)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Brown",
         "Description": "4",
         "Category": "Snooker Balls (Points)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-465",
       "Name": "Blue",
       "Description": "5",
       "Category": "Snooker Balls (Points)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Blue",
         "Description": "5",
         "Category": "Snooker Balls (Points)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-466",
       "Name": "Pink",
       "Description": "6",
       "Category": "Snooker Balls (Points)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Pink",
         "Description": "6",
         "Category": "Snooker Balls (Points)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-467",
       "Name": "Black",
       "Description": "7",
       "Category": "Snooker Balls (Points)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Black",
         "Description": "7",
         "Category": "Snooker Balls (Points)"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-468",
@@ -6209,91 +6209,91 @@
       "Name": "Love",
       "Description": "0 points won",
       "Category": "Tennis Scores (Sequence in Game)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Love",
         "Description": "0",
         "Category": "Tennis Scores (Sequence in Game)"
       },
-      "note": "replaced inconsistent position numbers with meaning"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-479",
       "Name": "15",
       "Description": "1 point won",
       "Category": "Tennis Scores (Sequence in Game)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "15",
         "Description": "2",
         "Category": "Tennis Scores (Sequence in Game)"
       },
-      "note": "replaced inconsistent position numbers with meaning"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-480",
       "Name": "30",
       "Description": "2 points won",
       "Category": "Tennis Scores (Sequence in Game)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "30",
         "Description": "3",
         "Category": "Tennis Scores (Sequence in Game)"
       },
-      "note": "replaced inconsistent position numbers with meaning"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-481",
       "Name": "40",
       "Description": "3 points won",
       "Category": "Tennis Scores (Sequence in Game)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "40",
         "Description": "4",
         "Category": "Tennis Scores (Sequence in Game)"
       },
-      "note": "replaced inconsistent position numbers with meaning"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-482",
       "Name": "Deuce",
       "Description": "40-40 tie",
       "Category": "Tennis Scores (Sequence in Game)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Deuce",
         "Description": "5",
         "Category": "Tennis Scores (Sequence in Game)"
       },
-      "note": "replaced inconsistent position numbers with meaning"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-483",
       "Name": "Advantage",
       "Description": "Next point after deuce",
       "Category": "Tennis Scores (Sequence in Game)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Advantage",
         "Description": "6",
         "Category": "Tennis Scores (Sequence in Game)"
       },
-      "note": "replaced inconsistent position numbers with meaning"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-484",
       "Name": "Game",
       "Description": "Winning point",
       "Category": "Tennis Scores (Sequence in Game)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Game",
         "Description": "7",
         "Category": "Tennis Scores (Sequence in Game)"
       },
-      "note": "replaced inconsistent position numbers with meaning"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-485",
@@ -6508,299 +6508,299 @@
       "Name": "Niyyah",
       "Description": "1st: intention",
       "Category": "Wudu Steps (Sunnah Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Niyyah",
         "Description": "Intention",
         "Category": "Wudu Steps (Sunnah Order)"
       },
-      "note": "added step number so the order is revealed"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-502",
       "Name": "Washing Hands",
       "Description": "2nd: up to wrists, x3",
       "Category": "Wudu Steps (Sunnah Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Washing Hands",
         "Description": "x3",
         "Category": "Wudu Steps (Sunnah Order)"
       },
-      "note": "added step number so the order is revealed"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-503",
       "Name": "Rinsing Mouth",
       "Description": "3rd: x3",
       "Category": "Wudu Steps (Sunnah Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Rinsing Mouth",
         "Description": "x3",
         "Category": "Wudu Steps (Sunnah Order)"
       },
-      "note": "added step number so the order is revealed"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-504",
       "Name": "Rinsing Nose",
       "Description": "4th: x3",
       "Category": "Wudu Steps (Sunnah Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Rinsing Nose",
         "Description": "x3",
         "Category": "Wudu Steps (Sunnah Order)"
       },
-      "note": "added step number so the order is revealed"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-505",
       "Name": "Washing Face",
       "Description": "5th: x3",
       "Category": "Wudu Steps (Sunnah Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Washing Face",
         "Description": "x3",
         "Category": "Wudu Steps (Sunnah Order)"
       },
-      "note": "added step number so the order is revealed"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-506",
       "Name": "Washing Arms",
       "Description": "6th: up to elbows, x3",
       "Category": "Wudu Steps (Sunnah Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Washing Arms",
         "Description": "x3",
         "Category": "Wudu Steps (Sunnah Order)"
       },
-      "note": "added step number so the order is revealed"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-507",
       "Name": "Masah",
       "Description": "7th: head and ears, once",
       "Category": "Wudu Steps (Sunnah Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Masah",
         "Description": "Head/Ears",
         "Category": "Wudu Steps (Sunnah Order)"
       },
-      "note": "added step number so the order is revealed"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-508",
       "Name": "Washing Feet",
       "Description": "8th: up to ankles, x3",
       "Category": "Wudu Steps (Sunnah Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Washing Feet",
         "Description": "x3",
         "Category": "Wudu Steps (Sunnah Order)"
       },
-      "note": "added step number so the order is revealed"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-509",
       "Name": "Fajr",
       "Description": "1st: dawn",
       "Category": "Daily Prayers (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Fajr",
         "Description": "Dawn",
         "Category": "Daily Prayers (Chronological)"
       },
-      "note": "added order number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-510",
       "Name": "Dhuhr",
       "Description": "2nd: after midday",
       "Category": "Daily Prayers (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Dhuhr",
         "Description": "Noon",
         "Category": "Daily Prayers (Chronological)"
       },
-      "note": "added order number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-511",
       "Name": "Asr",
       "Description": "3rd: afternoon",
       "Category": "Daily Prayers (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Asr",
         "Description": "Afternoon",
         "Category": "Daily Prayers (Chronological)"
       },
-      "note": "added order number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-512",
       "Name": "Maghrib",
       "Description": "4th: sunset",
       "Category": "Daily Prayers (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Maghrib",
         "Description": "Sunset",
         "Category": "Daily Prayers (Chronological)"
       },
-      "note": "added order number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-513",
       "Name": "Isha",
       "Description": "5th: night",
       "Category": "Daily Prayers (Chronological)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Isha",
         "Description": "Night",
         "Category": "Daily Prayers (Chronological)"
       },
-      "note": "added order number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-514",
       "Name": "Alif",
       "Description": "1st (ا)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Alif",
         "Description": "1",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-515",
       "Name": "Bay",
       "Description": "2nd (ب)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Bay",
         "Description": "2",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-516",
       "Name": "Pay",
       "Description": "3rd (پ)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Pay",
         "Description": "3",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-517",
       "Name": "Tay",
       "Description": "4th (ت)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Tay",
         "Description": "4",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-518",
       "Name": "Ttay",
       "Description": "5th (ٹ)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Tay",
         "Description": "Hard T",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "second Tay renamed Ttay (ٹ) to avoid duplicate name; added position"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-519",
       "Name": "Say",
       "Description": "6th (ث)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Say",
         "Description": "6",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-520",
       "Name": "Jeem",
       "Description": "7th (ج)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Jeem",
         "Description": "7",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-521",
       "Name": "Chay",
       "Description": "8th (چ)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Chay",
         "Description": "8",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-522",
       "Name": "Hay",
       "Description": "9th (ح, Bari Hay)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Hay",
         "Description": "9",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-523",
       "Name": "Khay",
       "Description": "10th (خ)",
       "Category": "Huruf-e-Tahajji (First 10)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Khay",
         "Description": "10",
         "Category": "Huruf-e-Tahajji (First 10)"
       },
-      "note": "added position and letter"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-524",
@@ -7743,65 +7743,65 @@
       "Name": "Brown",
       "Description": "1st group after GO",
       "Category": "Monopoly Color Groups (Board Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Brown",
         "Description": "1",
         "Category": "Monopoly Color Groups (Board Order)"
       },
-      "note": "clarified position"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-597",
       "Name": "Light Blue",
       "Description": "2nd group",
       "Category": "Monopoly Color Groups (Board Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Light Blue",
         "Description": "2",
         "Category": "Monopoly Color Groups (Board Order)"
       },
-      "note": "clarified position"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-598",
       "Name": "Pink",
       "Description": "3rd group (after Jail)",
       "Category": "Monopoly Color Groups (Board Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Pink",
         "Description": "3",
         "Category": "Monopoly Color Groups (Board Order)"
       },
-      "note": "clarified position"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-599",
       "Name": "Orange",
       "Description": "4th group",
       "Category": "Monopoly Color Groups (Board Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Orange",
         "Description": "4",
         "Category": "Monopoly Color Groups (Board Order)"
       },
-      "note": "clarified position"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-600",
       "Name": "Yellow",
       "Description": "6th group (after Free Parking and Red)",
       "Category": "Monopoly Color Groups (Board Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Yellow",
         "Description": "6",
         "Category": "Monopoly Color Groups (Board Order)"
       },
-      "note": "clarified position; Red (5th) is not in the deck"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-601",
@@ -7834,65 +7834,65 @@
       "Name": "Shahada",
       "Description": "1st: declaration of faith",
       "Category": "Islamic Pillars (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Shahada",
         "Description": "Faith",
         "Category": "Islamic Pillars (Order)"
       },
-      "note": "order number added; Description only named the meaning"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-604",
       "Name": "Salah",
       "Description": "2nd: the five daily prayers",
       "Category": "Islamic Pillars (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Salah",
         "Description": "Prayer",
         "Category": "Islamic Pillars (Order)"
       },
-      "note": "order number added"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-605",
       "Name": "Zakat",
       "Description": "3rd: obligatory charity",
       "Category": "Islamic Pillars (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Zakat",
         "Description": "Charity",
         "Category": "Islamic Pillars (Order)"
       },
-      "note": "order number added"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-606",
       "Name": "Sawm",
       "Description": "4th: fasting in Ramadan",
       "Category": "Islamic Pillars (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Sawm",
         "Description": "Fasting",
         "Category": "Islamic Pillars (Order)"
       },
-      "note": "order number added"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-607",
       "Name": "Hajj",
       "Description": "5th: pilgrimage to Makkah",
       "Category": "Islamic Pillars (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Hajj",
         "Description": "Pilgrimage",
         "Category": "Islamic Pillars (Order)"
       },
-      "note": "order number added"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-608",
@@ -8965,52 +8965,52 @@
       "Name": "Thermal Equilibrium Defines Temperature",
       "Description": "Zeroth Law",
       "Category": "Laws of Thermodynamics (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Zeroth Law",
         "Description": "1",
         "Category": "Laws of Thermodynamics (Order)"
       },
-      "note": "names gave away the order; now the law's idea, law number as answer; Debate: 'Is Shared' is vague; new wording states what the zeroth law establishes."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-691",
       "Name": "Energy Is Conserved",
       "Description": "First Law",
       "Category": "Laws of Thermodynamics (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "First Law",
         "Description": "2",
         "Category": "Laws of Thermodynamics (Order)"
       },
-      "note": "names gave away the order; now the law's idea, law number as answer"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-692",
       "Name": "Entropy Never Decreases",
       "Description": "Second Law",
       "Category": "Laws of Thermodynamics (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Second Law",
         "Description": "3",
         "Category": "Laws of Thermodynamics (Order)"
       },
-      "note": "names gave away the order; now the law's idea, law number as answer"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-693",
       "Name": "Absolute Zero Is Unreachable",
       "Description": "Third Law",
       "Category": "Laws of Thermodynamics (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Third Law",
         "Description": "4",
         "Category": "Laws of Thermodynamics (Order)"
       },
-      "note": "names gave away the order; now the law's idea, law number as answer"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-694",
@@ -10109,104 +10109,104 @@
       "Name": "New Moon",
       "Description": "Day 0 of 29.5 (not visible; the hilal is sighted a day or two later)",
       "Category": "Moon Phases (Cycle)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "New Moon",
         "Description": "1",
         "Category": "Moon Phases (Cycle)"
       },
-      "note": "bare rank replaced with approximate day of the lunar cycle; Debate: Accurate hilal-sighting link familiar from Ramadan/Eid."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-779",
       "Name": "Waxing Crescent",
       "Description": "Day ~4 of 29.5",
       "Category": "Moon Phases (Cycle)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Waxing Crescent",
         "Description": "2",
         "Category": "Moon Phases (Cycle)"
       },
-      "note": "bare rank replaced with approximate day of the lunar cycle"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-780",
       "Name": "First Quarter",
       "Description": "Day ~7 of 29.5 (half lit)",
       "Category": "Moon Phases (Cycle)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "First Quarter",
         "Description": "3",
         "Category": "Moon Phases (Cycle)"
       },
-      "note": "bare rank replaced with approximate day of the lunar cycle"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-781",
       "Name": "Waxing Gibbous",
       "Description": "Day ~11 of 29.5",
       "Category": "Moon Phases (Cycle)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Waxing Gibbous",
         "Description": "4",
         "Category": "Moon Phases (Cycle)"
       },
-      "note": "bare rank replaced with approximate day of the lunar cycle"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-782",
       "Name": "Full Moon",
       "Description": "Day ~15 of 29.5 (fully lit; around Ayyam al-Bid, 13th-15th of the Islamic month)",
       "Category": "Moon Phases (Cycle)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Full Moon",
         "Description": "5",
         "Category": "Moon Phases (Cycle)"
       },
-      "note": "bare rank replaced with approximate day of the lunar cycle; Debate: Accurate, hedged Islamic connection."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-783",
       "Name": "Waning Gibbous",
       "Description": "Day ~18 of 29.5",
       "Category": "Moon Phases (Cycle)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Waning Gibbous",
         "Description": "6",
         "Category": "Moon Phases (Cycle)"
       },
-      "note": "bare rank replaced with approximate day of the lunar cycle"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-784",
       "Name": "Third Quarter",
       "Description": "Day ~22 of 29.5 (half lit)",
       "Category": "Moon Phases (Cycle)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Third Quarter",
         "Description": "7",
         "Category": "Moon Phases (Cycle)"
       },
-      "note": "bare rank replaced with approximate day of the lunar cycle"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-785",
       "Name": "Waning Crescent",
       "Description": "Day ~26 of 29.5",
       "Category": "Moon Phases (Cycle)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Waning Crescent",
         "Description": "8",
         "Category": "Moon Phases (Cycle)"
       },
-      "note": "bare rank replaced with approximate day of the lunar cycle"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-786",
@@ -16362,104 +16362,104 @@
       "Name": "Earthworm",
       "Description": "0",
       "Category": "Animals By Leg Count",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Earthworm",
         "Description": "0",
         "Category": "Animals By Leg Count"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1260",
       "Name": "Human",
       "Description": "2",
       "Category": "Animals By Leg Count",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Human",
         "Description": "2",
         "Category": "Animals By Leg Count"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1261",
       "Name": "Cat",
       "Description": "4",
       "Category": "Animals By Leg Count",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Cat",
         "Description": "4",
         "Category": "Animals By Leg Count"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1262",
       "Name": "Ant",
       "Description": "6",
       "Category": "Animals By Leg Count",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Ant",
         "Description": "6",
         "Category": "Animals By Leg Count"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1263",
       "Name": "Spider",
       "Description": "8",
       "Category": "Animals By Leg Count",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Spider",
         "Description": "8",
         "Category": "Animals By Leg Count"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1264",
       "Name": "Crab",
       "Description": "10",
       "Category": "Animals By Leg Count",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Crab",
         "Description": "10",
         "Category": "Animals By Leg Count"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1265",
       "Name": "Centipede",
       "Description": "30 to 382",
       "Category": "Animals By Leg Count",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Centipede",
         "Description": "30+",
         "Category": "Animals By Leg Count"
       },
-      "note": "clarified range"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1266",
       "Name": "Millipede",
       "Description": "Usually hundreds; record 1,306",
       "Category": "Animals By Leg Count",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Millipede",
         "Description": "300+",
         "Category": "Animals By Leg Count"
       },
-      "note": "\"300+\" inaccurate; most have fewer, record is 1,306"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1267",
@@ -16583,104 +16583,104 @@
       "Name": "Alpha",
       "Description": "1st letter",
       "Category": "Greek Alphabet Letters (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Alpha",
         "Description": "1",
         "Category": "Greek Alphabet Letters (Order)"
       },
-      "note": "position stated as letter number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1277",
       "Name": "Beta",
       "Description": "2nd letter",
       "Category": "Greek Alphabet Letters (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Beta",
         "Description": "2",
         "Category": "Greek Alphabet Letters (Order)"
       },
-      "note": "position stated as letter number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1278",
       "Name": "Gamma",
       "Description": "3rd letter",
       "Category": "Greek Alphabet Letters (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Gamma",
         "Description": "3",
         "Category": "Greek Alphabet Letters (Order)"
       },
-      "note": "position stated as letter number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1279",
       "Name": "Delta",
       "Description": "4th letter",
       "Category": "Greek Alphabet Letters (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Delta",
         "Description": "4",
         "Category": "Greek Alphabet Letters (Order)"
       },
-      "note": "position stated as letter number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1280",
       "Name": "Epsilon",
       "Description": "5th letter",
       "Category": "Greek Alphabet Letters (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Epsilon",
         "Description": "5",
         "Category": "Greek Alphabet Letters (Order)"
       },
-      "note": "position stated as letter number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1281",
       "Name": "Theta",
       "Description": "8th letter",
       "Category": "Greek Alphabet Letters (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Theta",
         "Description": "8",
         "Category": "Greek Alphabet Letters (Order)"
       },
-      "note": "position stated as letter number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1282",
       "Name": "Pi",
       "Description": "16th letter",
       "Category": "Greek Alphabet Letters (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Pi",
         "Description": "16",
         "Category": "Greek Alphabet Letters (Order)"
       },
-      "note": "position stated as letter number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1283",
       "Name": "Omega",
       "Description": "24th (last) letter",
       "Category": "Greek Alphabet Letters (Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Omega",
         "Description": "24",
         "Category": "Greek Alphabet Letters (Order)"
       },
-      "note": "position stated as letter number"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1284",
@@ -17571,117 +17571,117 @@
       "Name": "3.",
       "Description": "1st (3.)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "3.",
         "Description": "1",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1353",
       "Name": "4",
       "Description": "3rd (3.14)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "4",
         "Description": "3",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1354",
       "Name": "1",
       "Description": "4th (3.141)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "1",
         "Description": "4",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1355",
       "Name": "5",
       "Description": "5th (3.1415)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "5",
         "Description": "5",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1356",
       "Name": "9",
       "Description": "6th (3.14159)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "9",
         "Description": "6",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1357",
       "Name": "2",
       "Description": "7th (3.141592)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "2",
         "Description": "7",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1358",
       "Name": "6",
       "Description": "8th (3.1415926)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "6",
         "Description": "8",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1359",
       "Name": "5",
       "Description": "9th (3.14159265)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "5",
         "Description": "9",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1360",
       "Name": "3",
       "Description": "10th (3.141592653)",
       "Category": "First Digits of Pi",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "3",
         "Description": "10",
         "Category": "First Digits of Pi"
       },
-      "note": "digit position with pi so far (2nd digit '1' is not in the deck)"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1361",
@@ -19677,78 +19677,78 @@
       "Name": "Mouth",
       "Description": "1st - chewing, saliva",
       "Category": "Organs of the Body (Digestive Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Mouth",
         "Description": "1",
         "Category": "Organs of the Body (Digestive Order)"
       },
-      "note": "reason added to bare rank"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1515",
       "Name": "Esophagus",
       "Description": "2nd - carries food to stomach",
       "Category": "Organs of the Body (Digestive Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Esophagus",
         "Description": "2",
         "Category": "Organs of the Body (Digestive Order)"
       },
-      "note": "reason added to bare rank"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1516",
       "Name": "Stomach",
       "Description": "3rd - acid digestion",
       "Category": "Organs of the Body (Digestive Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Stomach",
         "Description": "3",
         "Category": "Organs of the Body (Digestive Order)"
       },
-      "note": "reason added to bare rank"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1517",
       "Name": "Small Intestine",
       "Description": "4th - absorbs nutrients",
       "Category": "Organs of the Body (Digestive Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Small Intestine",
         "Description": "4",
         "Category": "Organs of the Body (Digestive Order)"
       },
-      "note": "reason added to bare rank"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1518",
       "Name": "Large Intestine",
       "Description": "5th - absorbs water",
       "Category": "Organs of the Body (Digestive Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Large Intestine",
         "Description": "5",
         "Category": "Organs of the Body (Digestive Order)"
       },
-      "note": "reason added to bare rank"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1519",
       "Name": "Rectum",
       "Description": "6th - stores waste",
       "Category": "Organs of the Body (Digestive Order)",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Rectum",
         "Description": "6",
         "Category": "Organs of the Body (Digestive Order)"
       },
-      "note": "reason added to bare rank"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1520",
@@ -19963,13 +19963,13 @@
       "Name": "Finland",
       "Description": "1",
       "Category": "Happiest Countries (Rank)",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Finland",
         "Description": "1",
         "Category": "Happiest Countries (Rank)"
       },
-      "note": "Restored at the deck owner's request"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1537",
@@ -20327,91 +20327,91 @@
       "Name": "A Tale of Two Cities",
       "Description": "2",
       "Category": "Books With Numbers In The Title",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Ready Player One",
         "Description": "1",
         "Category": "Books With Numbers In The Title"
       },
-      "note": "pop-culture title replaced; value is the number in the title; Debate: Reorder to ascending: 2, 3, 22, 80, 451, 1001, 1984."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1565",
       "Name": "The Three Musketeers",
       "Description": "3",
       "Category": "Books With Numbers In The Title",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "A Tale of Two Cities",
         "Description": "2",
         "Category": "Books With Numbers In The Title"
       },
-      "note": "value is the number in the title, not a bare rank; Debate: Part of the reorder."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1566",
       "Name": "Catch-22",
       "Description": "22",
       "Category": "Books With Numbers In The Title",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "The Three Musketeers",
         "Description": "3",
         "Category": "Books With Numbers In The Title"
       },
-      "note": "value is the number in the title; Debate: Part of the reorder."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1567",
       "Name": "Around the World in Eighty Days",
       "Description": "80",
       "Category": "Books With Numbers In The Title",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Catch-22",
         "Description": "4",
         "Category": "Books With Numbers In The Title"
       },
-      "note": "value is the number in the title; Debate: 80 belongs after 22 and before 451."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1568",
       "Name": "Fahrenheit 451",
       "Description": "451",
       "Category": "Books With Numbers In The Title",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Fahrenheit 451",
         "Description": "5",
         "Category": "Books With Numbers In The Title"
       },
-      "note": "value is the number in the title"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1569",
       "Name": "Alif Laila (One Thousand and One Nights)",
       "Description": "1001",
       "Category": "Books With Numbers In The Title",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "1984",
         "Description": "6",
         "Category": "Books With Numbers In The Title"
       },
-      "note": "value is the number in the title; Debate: Familiar local classic with a number in its title; keeps order ascending."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1570",
       "Name": "1984",
       "Description": "1984",
       "Category": "Books With Numbers In The Title",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "2001: A Space Odyssey",
         "Description": "7",
         "Category": "Books With Numbers In The Title"
       },
-      "note": "value is the number in the title; Debate: Replaces the sci-fi film-linked 2001 card; ascending after 1001."
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1571",
@@ -21081,52 +21081,52 @@
       "Name": "10 - 10",
       "Description": "0",
       "Category": "Math Operators on 10",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "10 - 10",
         "Description": "0",
         "Category": "Math Operators on 10"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1623",
       "Name": "10 ÷ 10",
       "Description": "1",
       "Category": "Math Operators on 10",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "10 / 10",
         "Description": "1",
         "Category": "Math Operators on 10"
       },
-      "note": "Debate: Normal division sign"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1624",
       "Name": "10 + 10",
       "Description": "20",
       "Category": "Math Operators on 10",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "10 + 10",
         "Description": "20",
         "Category": "Math Operators on 10"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1625",
       "Name": "10 × 10",
       "Description": "100",
       "Category": "Math Operators on 10",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "10 * 10",
         "Description": "100",
         "Category": "Math Operators on 10"
       },
-      "note": "Debate: Normal multiplication sign"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1626",
@@ -21146,78 +21146,78 @@
       "Name": "10³ (10 to the power 3)",
       "Description": "1,000",
       "Category": "Math Operators on 10",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "10 ^ 3",
         "Description": "1000",
         "Category": "Math Operators on 10"
       },
-      "note": "formatting; Debate: Standard notation instead of programming '^'"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1628",
       "Name": "√144 (square root of 144)",
       "Description": "12",
       "Category": "Do The Math",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "Sqrt(144)",
         "Description": "12",
         "Category": "Do The Math"
       },
-      "note": "Debate: Standard notation instead of 'Sqrt()'"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1629",
       "Name": "5 × 25",
       "Description": "125",
       "Category": "Do The Math",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "5 * 25",
         "Description": "125",
         "Category": "Do The Math"
       },
-      "note": "Debate: Normal multiplication sign"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1630",
       "Name": "1,000 + 40",
       "Description": "1,040",
       "Category": "Do The Math",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "1000 + 40",
         "Description": "1040",
         "Category": "Do The Math"
       },
-      "note": "Debate: Challenger missed issue (labelled C1): adds thousands separators to match P18"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1631",
       "Name": "100,000 - 1",
       "Description": "99,999",
       "Category": "Do The Math",
-      "action": "edit",
+      "action": "remove",
       "original": {
         "Name": "100000 - 1",
         "Description": "99999",
         "Category": "Do The Math"
       },
-      "note": "Debate: Thousands separators"
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1632",
       "Name": "Half of 6.5 Million",
       "Description": "3.25 Million",
       "Category": "Do The Math",
-      "action": "keep",
+      "action": "remove",
       "original": {
         "Name": "Half of 6.5 Million",
         "Description": "3.25 Million",
         "Category": "Do The Math"
       },
-      "note": ""
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": "game15-1633",
@@ -28487,16 +28487,16 @@
       "Name": "Dhul Qa'dah",
       "Description": "11th month",
       "Category": "Islamic Months (Chronological)",
-      "action": "add",
-      "note": "New card (debate): The category stops at Shawwal (10th). Dhul Qa'dah is the 11th month and is not elsewhere in the deck."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Dhul Hijjah",
       "Description": "12th month (month of Hajj)",
       "Category": "Islamic Months (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Completes the Islamic year."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -28567,40 +28567,40 @@
       "Name": "Hazaar",
       "Description": "1,000",
       "Category": "Desi Numbers (Small to Large)",
-      "action": "add",
-      "note": "New card (debate): New local category using the lakh/crore system; no such category exists in the deck yet"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Lakh",
       "Description": "1,00,000 (100 thousand)",
       "Category": "Desi Numbers (Small to Large)",
-      "action": "add",
-      "note": "New card (debate): New Desi Numbers item; value is correct"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Crore",
       "Description": "1,00,00,000 (10 million)",
       "Category": "Desi Numbers (Small to Large)",
-      "action": "add",
-      "note": "New card (debate): New Desi Numbers item; value is correct"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Arab",
       "Description": "1,00,00,00,000 (1 billion)",
       "Category": "Desi Numbers (Small to Large)",
-      "action": "add",
-      "note": "New card (debate): New Desi Numbers item; value is correct"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Kharab",
       "Description": "1,00,00,00,00,000 (100 billion)",
       "Category": "Desi Numbers (Small to Large)",
-      "action": "add",
-      "note": "New card (debate): New Desi Numbers item (100 arab); value is correct"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -28655,16 +28655,16 @@
       "Name": "iPhone 15",
       "Description": "2023",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "add",
-      "note": "New card (debate): Brings the list closer to the present. 2023 is correct, and it is not a duplicate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Marshmallow",
       "Description": "Android 6.0 (Oct 2015)",
       "Category": "Android Versions (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Comes after Lollipop, and Oct 2015 is correct."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -28679,8 +28679,8 @@
       "Name": "Fortnight",
       "Description": "14 days",
       "Category": "Time Units (Ascending)",
-      "action": "add",
-      "note": "New card (debate): Accurate, familiar unit that fits between Week and Month. It is not a duplicate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -28727,32 +28727,32 @@
       "Name": "The Hundred",
       "Description": "100 balls per side (16 overs and 4 balls)",
       "Category": "Cricket Formats (Length - Short to Long)",
-      "action": "add",
-      "note": "New card (debate): New cricket category that suits Pakistani players. Accurate twist: The Hundred is shorter than T20.; Debate: 100 balls is exactly 16.4 overs in cricket notation, so spelling it out avoids the decimal misreading."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "T20",
       "Description": "20 overs per side",
       "Category": "Cricket Formats (Length - Short to Long)",
-      "action": "add",
-      "note": "New card (debate): Part of the new Cricket Formats category."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "ODI",
       "Description": "50 overs per side",
       "Category": "Cricket Formats (Length - Short to Long)",
-      "action": "add",
-      "note": "New card (debate): Part of the new Cricket Formats category."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Test Match",
       "Description": "Up to 5 days, two innings per side",
       "Category": "Cricket Formats (Length - Short to Long)",
-      "action": "add",
-      "note": "New card (debate): Part of the new Cricket Formats category."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -28767,8 +28767,8 @@
       "Name": "Red",
       "Description": "5th group (just after Free Parking)",
       "Category": "Monopoly Color Groups (Board Order)",
-      "action": "add",
-      "note": "New card (debate): Fills the missing 5th group, which Yellow's card ('after Free Parking and Red') already refers to."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -28991,8 +28991,8 @@
       "Name": "1",
       "Description": "2nd (3.1)",
       "Category": "First Digits of Pi",
-      "action": "add",
-      "note": "New card (debate): The 2nd digit of pi is missing from the sequence (the cards jump from 3. to the 3rd digit)"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -29319,24 +29319,24 @@
       "Name": "T10",
       "Description": "10 overs per side (e.g. Abu Dhabi T10)",
       "Category": "Cricket Formats (Length - Short to Long)",
-      "action": "add",
-      "note": "New card (debate): An ICC-sanctioned format with 60 balls per side, shorter than The Hundred's 100 balls, so it sorts clearly to the front. Gives the category a 5th item."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Sau",
       "Description": "100",
       "Category": "Desi Numbers (Small to Large)",
-      "action": "add",
-      "note": "New card (debate): A correct, easy starting item below Hazaar."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Neel",
       "Description": "1,00,00,00,00,00,000 (10 trillion)",
       "Category": "Desi Numbers (Small to Large)",
-      "action": "add",
-      "note": "New card (debate): Correct value: Neel = 100 Kharab = 10^13, written in South Asian digit grouping. It is the next unit after Kharab."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -29407,16 +29407,16 @@
       "Name": "Googol",
       "Description": "10^100",
       "Category": "Large Numbers (Powers of 10)",
-      "action": "add",
-      "note": "New card (debate): Exact and well known; extends the ladder past Decillion."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Nibble",
       "Description": "4 bits (half a byte)",
       "Category": "Computer Bytes (Size - Ascending)",
-      "action": "add",
-      "note": "New card (debate): Real unit that sorts between Bit and Byte."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -29455,56 +29455,56 @@
       "Name": "Windows 2000",
       "Description": "2000 (Feb)",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "add",
-      "note": "New card (debate): Missing retail release, accurate, not a duplicate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "iPhone 14",
       "Description": "2022",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "add",
-      "note": "New card (debate): Accurate; list ends at iPhone 13 (2021)."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "iPhone 4S",
       "Description": "2011",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "add",
-      "note": "New card (debate): Accurate, unique year between iPhone 4 and 5."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Nougat",
       "Description": "Android 7.0 (Aug 2016)",
       "Category": "Android Versions (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Well-known release after Lollipop (list ends there)."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Oreo",
       "Description": "Android 8.0 (Aug 2017)",
       "Category": "Android Versions (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Well-known release, accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Pie",
       "Description": "Android 9 (Aug 2018)",
       "Category": "Android Versions (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Last dessert-named release, accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "PlayStation 4 Pro",
       "Description": "2016",
       "Category": "PlayStation Consoles (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Accurate mid-generation console, between PS4 and PS5."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -29743,32 +29743,32 @@
       "Name": "Egg",
       "Description": "1st - tiny eggs laid on a leaf",
       "Category": "Butterfly Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Universal science ordering; no duplicate; matches deck's '1st -' format."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Caterpillar (Larva)",
       "Description": "2nd - eats leaves and grows",
       "Category": "Butterfly Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Same set."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Chrysalis (Pupa)",
       "Description": "3rd - body transforms inside",
       "Category": "Butterfly Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Same set."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Adult Butterfly",
       "Description": "4th - emerges with wings",
       "Category": "Butterfly Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Same set; meets 3-card minimum."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -30119,40 +30119,40 @@
       "Name": "Check-in",
       "Description": "1st - show passport and ticket, hand over your suitcase",
       "Category": "At the Airport (Chronological Order)",
-      "action": "add",
-      "note": "New card (debate): New travel category, unambiguous order."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Boarding",
       "Description": "2nd - walk through the gate and take your seat",
       "Category": "At the Airport (Chronological Order)",
-      "action": "add",
-      "note": "New card (debate): Clear step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Takeoff",
       "Description": "3rd - the plane leaves the runway",
       "Category": "At the Airport (Chronological Order)",
-      "action": "add",
-      "note": "New card (debate): Clear step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Landing",
       "Description": "4th - the plane touches down at your destination",
       "Category": "At the Airport (Chronological Order)",
-      "action": "add",
-      "note": "New card (debate): Clear step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Baggage Claim",
       "Description": "5th - wait for your suitcase on the belt",
       "Category": "At the Airport (Chronological Order)",
-      "action": "add",
-      "note": "New card (debate): Relatable final step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -30239,160 +30239,160 @@
       "Name": "Make Dough",
       "Description": "1st - mix atta and water and knead it soft",
       "Category": "Making Roti (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Fresh local-food category."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Rest the Dough",
       "Description": "2nd - cover it and let it sit so it turns soft",
       "Category": "Making Roti (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Clear order."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Make Peda",
       "Description": "3rd - pinch off a ball of dough and flatten it",
       "Category": "Making Roti (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Desi term, clear order."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Roll It Out",
       "Description": "4th - roll it round and thin with the belan",
       "Category": "Making Roti (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Amended cleaner name."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Cook on Tawa",
       "Description": "5th - turn it on the hot tawa until it puffs",
       "Category": "Making Roti (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Completes sequence."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Foundation (Neenv)",
       "Description": "1st - dig and lay the base of the house",
       "Category": "Building a House (Chronological Steps)",
-      "action": "add",
-      "note": "New card (debate): Clear first step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Brick Walls",
       "Description": "2nd - raise the walls up to the roof level",
       "Category": "Building a House (Chronological Steps)",
-      "action": "add",
-      "note": "New card (debate): Clear step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Roof Slab (Lenter)",
       "Description": "3rd - pour the concrete roof on top of the walls",
       "Category": "Building a House (Chronological Steps)",
-      "action": "add",
-      "note": "New card (debate): Local term, correct order."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Plaster",
       "Description": "4th - cover the rough walls with a smooth cement coat",
       "Category": "Building a House (Chronological Steps)",
-      "action": "add",
-      "note": "New card (debate): Before paint."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Paint",
       "Description": "5th - colour the plastered walls",
       "Category": "Building a House (Chronological Steps)",
-      "action": "add",
-      "note": "New card (debate): Amended to remove arguable 'final touch'."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Egg (Frogspawn)",
       "Description": "1st - jelly-like eggs laid in water",
       "Category": "Frog Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Fills animal gap; butterfly cycle exists but no frog."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Tadpole",
       "Description": "2nd - hatches and swims with a tail and gills",
       "Category": "Frog Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Tadpole with Legs",
       "Description": "3rd - back legs grow, then front legs",
       "Category": "Frog Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Froglet",
       "Description": "4th - tail shrinks and it looks like a tiny frog",
       "Category": "Frog Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Reworded: lungs develop earlier than this stage."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Adult Frog",
       "Description": "5th - fully grown, hops about on land and in water",
       "Category": "Frog Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Reworded to be accurate for adult frogs."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Primary (Class 1-5)",
       "Description": "1st - the first five years of school",
       "Category": "School Ladder in Pakistan (Order)",
-      "action": "add",
-      "note": "New card (debate): New local school category."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Middle (Class 6-8)",
       "Description": "2nd - after primary, before Matric",
       "Category": "School Ladder in Pakistan (Order)",
-      "action": "add",
-      "note": "New card (debate): More informative description."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Matric (Class 9-10)",
       "Description": "3rd - ends with the board exam called Matric",
       "Category": "School Ladder in Pakistan (Order)",
-      "action": "add",
-      "note": "New card (debate): Familiar Pakistani term."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Intermediate (FSc/FA)",
       "Description": "4th - Class 11-12, before university",
       "Category": "School Ladder in Pakistan (Order)",
-      "action": "add",
-      "note": "New card (debate): Correct stage."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Bachelor's Degree",
       "Description": "5th - university after Intermediate",
       "Category": "School Ladder in Pakistan (Order)",
-      "action": "add",
-      "note": "New card (debate): Completes the ladder."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -30687,64 +30687,64 @@
       "Name": "Evaporation",
       "Description": "1st - the sun heats water and it rises as vapour",
       "Category": "Water Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Nature; no water cycle in deck, matches butterfly/frog cycle format."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Condensation",
       "Description": "2nd - vapour cools high up and forms clouds",
       "Category": "Water Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Correct order."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Precipitation",
       "Description": "3rd - water falls as rain, hail or snow",
       "Category": "Water Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Correct order."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Collection",
       "Description": "4th - water runs into rivers, lakes and seas, ready to start again",
       "Category": "Water Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Correct order."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Abu Bakr as-Siddiq",
       "Description": "1st - 11 AH (632 CE), right after the passing of the Prophet SAW",
       "Category": "Rightly Guided Caliphs (Start of Caliphate)",
-      "action": "add",
-      "note": "New card (debate): Accurate dates; distinct from Ashara death order and empire starts."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Umar ibn al-Khattab",
       "Description": "2nd - 13 AH (634 CE), named by Abu Bakr",
       "Category": "Rightly Guided Caliphs (Start of Caliphate)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Uthman ibn Affan",
       "Description": "3rd - 23 AH (644 CE), chosen by a council of six",
       "Category": "Rightly Guided Caliphs (Start of Caliphate)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Ali ibn Abi Talib",
       "Description": "4th - 35 AH (656 CE), after Uthman's martyrdom",
       "Category": "Rightly Guided Caliphs (Start of Caliphate)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -30831,160 +30831,160 @@
       "Name": "Form the Group",
       "Description": "1st - friends or relatives agree on the number of members and the monthly amount",
       "Category": "How a BC Committee Works (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Local money life; no BC content in deck."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Decide the Turns",
       "Description": "2nd - the payout order is agreed or names are drawn from a bowl",
       "Category": "How a BC Committee Works (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Fixes step order; neutral wording avoiding gambling connotation."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Collect the Money",
       "Description": "3rd - every month each member hands the same amount to the organiser",
       "Category": "How a BC Committee Works (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Order fixed so the answer is undisputed."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Receive the Lump Sum",
       "Description": "4th - that month's member takes the whole amount, with no interest charged",
       "Category": "How a BC Committee Works (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Avoids 'pot' gambling wording; keeps riba-free point."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Last Member Gets Paid",
       "Description": "5th - the committee ends once every member has had a turn",
       "Category": "How a BC Committee Works (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Natural final step."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Pardada",
       "Description": "1st - Abbu's grandfather",
       "Category": "Family Tree (Oldest to Youngest Generation)",
-      "action": "add",
-      "note": "New card (debate): Correct Urdu kinship, relatable."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Dada",
       "Description": "2nd - Abbu's father",
       "Category": "Family Tree (Oldest to Youngest Generation)",
-      "action": "add",
-      "note": "New card (debate): Correct."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Abbu",
       "Description": "3rd - the one all the others are counted from",
       "Category": "Family Tree (Oldest to Youngest Generation)",
-      "action": "add",
-      "note": "New card (debate): Anchor card."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Beta",
       "Description": "4th - Abbu's son",
       "Category": "Family Tree (Oldest to Youngest Generation)",
-      "action": "add",
-      "note": "New card (debate): Correct."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Pota",
       "Description": "5th - Abbu's grandson, his son's son",
       "Category": "Family Tree (Oldest to Youngest Generation)",
-      "action": "add",
-      "note": "New card (debate): Correct."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Write a CV",
       "Description": "1st - list your education, skills and experience on a page",
       "Category": "Getting a Job (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Work theme; no job category exists."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Apply",
       "Description": "2nd - send the CV to the company or hand it in at the office",
       "Category": "Getting a Job (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Fine."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Interview",
       "Description": "3rd - answer the manager's questions face to face",
       "Category": "Getting a Job (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Fine."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Offer Letter",
       "Description": "4th - the company says yes and states the salary and terms",
       "Category": "Getting a Job (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Fine."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "First Salary",
       "Description": "5th - your first halal pay at the end of the month",
       "Category": "Getting a Job (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Light halal-earning note."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Barter",
       "Description": "1st - swapping goods directly, such as wheat for cloth",
       "Category": "Money Through History (Chronological)",
-      "action": "add",
-      "note": "New card (debate): No money-history category in deck."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Metal Coins",
       "Description": "2nd - Lydia (modern Turkey) strikes some of the first coins, c. 600 BC",
       "Category": "Money Through History (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Accurate, hedged."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Paper Money",
       "Description": "3rd - Song-dynasty China issues the first notes, early 11th century",
       "Category": "Money Through History (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Cash Machine (ATM)",
       "Description": "4th - the first one opens in London in 1967",
       "Category": "Money Through History (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Mobile Wallet",
       "Description": "5th - Easypaisa launches in Pakistan in 2009",
       "Category": "Money Through History (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Local endpoint, correct date."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -31031,40 +31031,40 @@
       "Name": "Sehri",
       "Description": "1st - the pre-dawn meal before the fast begins",
       "Category": "A Day in Ramadan (In Order)",
-      "action": "add",
-      "note": "New card (debate): Universal and relatable; not in deck."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Fajr Prayer",
       "Description": "2nd - the dawn prayer, and the fast has begun",
       "Category": "A Day in Ramadan (In Order)",
-      "action": "add",
-      "note": "New card (debate): Fine."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Fasting Through the Day",
       "Description": "3rd - hours of work, school and patience with an empty stomach",
       "Category": "A Day in Ramadan (In Order)",
-      "action": "add",
-      "note": "New card (debate): Fine."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Iftar",
       "Description": "4th - breaking the fast at the Maghrib adhan, often with dates and water",
       "Category": "A Day in Ramadan (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Taraweeh",
       "Description": "5th - the special night prayer after Isha",
       "Category": "A Day in Ramadan (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -31111,80 +31111,80 @@
       "Name": "Ghusl (Washing the Body)",
       "Description": "1st - the family or community washes the deceased with respect",
       "Category": "Janazah Steps (In Order)",
-      "action": "add",
-      "note": "New card (debate): Uncontested order; mildly dark is allowed."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Kafan (Shroud)",
       "Description": "2nd - the body is wrapped in simple white cloth",
       "Category": "Janazah Steps (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Salat al-Janazah",
       "Description": "3rd - prayed standing together, with no ruku or sujood",
       "Category": "Janazah Steps (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Burial",
       "Description": "4th - laid in the grave facing the qibla",
       "Category": "Janazah Steps (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate; ends sequence."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Qiyam (Standing)",
       "Description": "1st: standing and reciting Al-Fatihah",
       "Category": "Salah Steps in One Rak'ah (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate, not a duplicate, new Islamic sequencing category."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Ruku (Bowing)",
       "Description": "2nd: bowing with hands on the knees",
       "Category": "Salah Steps in One Rak'ah (In Order)",
-      "action": "add",
-      "note": "New card (debate): Correct position and description."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Qawmah",
       "Description": "3rd: standing up straight after ruku",
       "Category": "Salah Steps in One Rak'ah (In Order)",
-      "action": "add",
-      "note": "New card (debate): Correct position."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "First Sajdah",
       "Description": "4th: first prostration",
       "Category": "Salah Steps in One Rak'ah (In Order)",
-      "action": "add",
-      "note": "New card (debate): Correct position."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Jalsah",
       "Description": "5th: sitting briefly between the two sajdahs",
       "Category": "Salah Steps in One Rak'ah (In Order)",
-      "action": "add",
-      "note": "New card (debate): Correct position."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Second Sajdah",
       "Description": "6th: second prostration, completing the rak'ah",
       "Category": "Salah Steps in One Rak'ah (In Order)",
-      "action": "add",
-      "note": "New card (debate): Completes the sequence; a rak'ah has two sajdahs."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -31855,40 +31855,40 @@
       "Name": "Boil Water",
       "Description": "1st - heat water in the pateeli",
       "Category": "Making Chai (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Relatable step-order category, no duplicate"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Add Chai Patti",
       "Description": "2nd - drop the tea leaves into the boiling water",
       "Category": "Making Chai (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Valid step"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Pour in Milk",
       "Description": "3rd - add milk to the brewed tea",
       "Category": "Making Chai (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Valid step"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Simmer",
       "Description": "4th - let it bubble until dark and creamy",
       "Category": "Making Chai (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Valid step"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Strain and Serve",
       "Description": "5th - pour through the chalni into cups",
       "Category": "Making Chai (Step by Step)",
-      "action": "add",
-      "note": "New card (debate): Valid final step"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -32295,96 +32295,96 @@
       "Name": "2⁶",
       "Description": "64",
       "Category": "Powers (Value - Low to High)",
-      "action": "add",
-      "note": "New card (debate): Correct value; fits between 36 and 81; not a duplicate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "6³",
       "Description": "216",
       "Category": "Powers (Value - Low to High)",
-      "action": "add",
-      "note": "New card (debate): Correct value; fits between 125 and 256; not a duplicate."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "2¹⁶",
       "Description": "65,536",
       "Category": "Powers (Value - Low to High)",
-      "action": "add",
-      "note": "New card (debate): Correct; extends top end beyond 3,125."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Windows 8.1",
       "Description": "2013 (Oct)",
       "Category": "Windows Versions (Chronological Retail Release)",
-      "action": "add",
-      "note": "New card (debate): Real distinct retail release between 8 and 10; not in deck."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "iPhone 3GS",
       "Description": "2009",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "add",
-      "note": "New card (debate): Correct launch year; fills the 2009 gap."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "iPhone 5s",
       "Description": "2013",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "add",
-      "note": "New card (debate): Correct launch year; fills the 2013 gap."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Android 10",
       "Description": "Sep 2019 (first version without a dessert name)",
       "Category": "Android Versions (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Marshmallow, Nougat, Oreo and Pie are already live additions in game15.json, so the challenger's Marshmallow amendment would be a duplicate; Android 10 correctly continues after Pie (Aug 2018)."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Daal",
       "Description": "11th (د)",
       "Category": "Huruf-e-Tahajji (11th to 15th)",
-      "action": "add",
-      "note": "New card (debate): Urdu alphabet continuation; letters 11-15 absent from deck."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Ddaal",
       "Description": "12th (ڈ)",
       "Category": "Huruf-e-Tahajji (11th to 15th)",
-      "action": "add",
-      "note": "New card (debate): 12th Urdu letter."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Zaal",
       "Description": "13th (ذ)",
       "Category": "Huruf-e-Tahajji (11th to 15th)",
-      "action": "add",
-      "note": "New card (debate): 13th Urdu letter."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Ray",
       "Description": "14th (ر)",
       "Category": "Huruf-e-Tahajji (11th to 15th)",
-      "action": "add",
-      "note": "New card (debate): 14th Urdu letter."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Rray",
       "Description": "15th (ڑ)",
       "Category": "Huruf-e-Tahajji (11th to 15th)",
-      "action": "add",
-      "note": "New card (debate): 15th Urdu letter."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -33063,8 +33063,8 @@
       "Name": "Hong Kong Sixes",
       "Description": "About 5-6 overs per side (6 players)",
       "Category": "Cricket Formats (Length - Short to Long)",
-      "action": "add",
-      "note": "New card (debate): Challenger's hedged wording accepted: over count varied between editions, but it is the shortest format either way, shorter than T10."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -33167,80 +33167,80 @@
       "Name": "Seed",
       "Description": "1st - a tiny package holding the baby plant and its food store",
       "Category": "Plant Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): New category, accurate order"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Germination",
       "Description": "2nd - with water and warmth the seed splits and a root grows down",
       "Category": "Plant Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Seedling",
       "Description": "3rd - the first leaves open and the shoot reaches for sunlight",
       "Category": "Plant Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Flowering",
       "Description": "4th - the grown plant blooms and insects carry pollen between flowers",
       "Category": "Plant Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Fruit and New Seeds",
       "Description": "5th - the flower turns into fruit holding seeds for the next plant",
       "Category": "Plant Life Cycle (In Order)",
-      "action": "add",
-      "note": "New card (debate): Accurate"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Intention and Washing Hands",
       "Description": "1st - make the niyyah in the heart and wash both hands",
       "Category": "Steps of Ghusl (Sunnah Order)",
-      "action": "add",
-      "note": "New card (debate): New category, well-established order"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Washing the Private Parts",
       "Description": "2nd - wash the private parts and remove any impurity from the body",
       "Category": "Steps of Ghusl (Sunnah Order)",
-      "action": "add",
-      "note": "New card (debate): Challenger amendment: description now states the step the name promises"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Performing Wudu",
       "Description": "3rd - complete wudu as for prayer",
       "Category": "Steps of Ghusl (Sunnah Order)",
-      "action": "add",
-      "note": "New card (debate): Correct order"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Pouring Water Over the Head",
       "Description": "4th - pour water three times so it reaches the roots of the hair",
       "Category": "Steps of Ghusl (Sunnah Order)",
-      "action": "add",
-      "note": "New card (debate): Correct order"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "Washing the Rest of the Body",
       "Description": "5th - wash the right side, then the left, so no dry spot remains",
       "Category": "Steps of Ghusl (Sunnah Order)",
-      "action": "add",
-      "note": "New card (debate): Correct order"
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
@@ -33327,16 +33327,16 @@
       "Name": "Android 11",
       "Description": "Sep 2020",
       "Category": "Android Versions (Chronological)",
-      "action": "add",
-      "note": "New card (debate): Accurate release date, follows Android 10 (Sep 2019) with no tie."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
       "Name": "iPhone 6s",
       "Description": "2015",
       "Category": "iPhone Models (Chronological Launch)",
-      "action": "add",
-      "note": "New card (debate): iPhone 6s launched Sep 2015; fills the 2015 gap with a unique year."
+      "action": "remove",
+      "note": "Removed at the deck owner's request: the order is common knowledge, so there is nothing to guess"
     },
     {
       "id": null,
