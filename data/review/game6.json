@@ -5360,6 +5360,60 @@
    "Description": "Things We Recite or Say After Namaz (Astaghfirullah, Subhanallah, Ayat-ul-Kursi...)",
    "action": "add",
    "note": "New card (debate): Challenger's widened wording; accurate, respectful, 8+ distinct answers; distinct from dua occasions and greetings cards."
+  },
+  {
+   "id": null,
+   "Description": "Things Cooked on a Tawa (Roti, Paratha, Anda, Chapli Kebab...)",
+   "action": "add",
+   "note": "New card (debate): No tawa card exists; many familiar answers."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Spend the Last Ten Nights of Ramadan (Tahajjud, Itikaf, Dua...)",
+   "action": "add",
+   "note": "New card (debate): Accurate, worship-related, not in deck; distinct from the broader Ramadan card."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Keep Warm in Winter (Razai, Heater, Chai, Sweater...)",
+   "action": "add",
+   "note": "New card (debate): Actions, not clothes; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Ways to Beat the Summer Heat (Lassi, Pankha, Ice Golay, Canal Swim...)",
+   "action": "add",
+   "note": "New card (debate): Action-based, many answers; not a duplicate of the drinks card."
+  },
+  {
+   "id": null,
+   "Description": "Documents You Need for Official Work (CNIC, Passport, Domicile, B-Form...)",
+   "action": "add",
+   "note": "New card (debate): Everyday Pakistani knowledge; distinct from CNIC fields and form cards."
+  },
+  {
+   "id": null,
+   "Description": "Desi Slang Words (Yaar, Oye, Scene, Bhai...)",
+   "action": "add",
+   "note": "New card (debate): Fun and guessable; only partial overlap with surprise words."
+  },
+  {
+   "id": null,
+   "Description": "Things Farmers Do During the Year (Ploughing, Sowing, Harvesting...)",
+   "action": "add",
+   "note": "New card (debate): Activities, not tools or crops; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Foods Ammi Makes When You Are Sick (Khichdi, Yakhni, Daliya...)",
+   "action": "add",
+   "note": "New card (debate): Relatable, many answers; distinct from the sick-visit and remedies cards."
+  },
+  {
+   "id": null,
+   "Description": "Sections of a Newspaper (Headlines, Sports, Editorial, Rishta Ads...)",
+   "action": "add",
+   "note": "New card (debate): Only newspaper names exist; easy, many answers."
   }
  ]
 }

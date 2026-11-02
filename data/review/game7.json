@@ -14855,14 +14855,14 @@
   },
   {
    "id": "game7-1351",
-   "Description": "friendship in 300 BC",
+   "Description": "two cavemen shaking hands over a stone chapati",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "friendship in 300 BC",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Concrete drawable image replacing a vague prompt."
   },
   {
    "id": "game7-1352",
@@ -15341,12 +15341,12 @@
    "id": "game7-1395",
    "Description": "pit full of grown-up dreams",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "pit full of adult dreams",
     "Category": "Standard Prompts"
    },
-   "note": "removed innuendo"
+   "note": "Debate: Abstract and not drawable."
   },
   {
    "id": "game7-1396",
@@ -15812,14 +15812,14 @@
   },
   {
    "id": "game7-1438",
-   "Description": "fisherman kicked out of salmon wedding",
+   "Description": "fisherman kicked out of rohu wedding",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "fisherman kicked out of salmon wedding",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Rohu is familiar locally; joke intact."
   },
   {
    "id": "game7-1439",
@@ -21596,6 +21596,41 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): New absurd heist image, drawable."
+  },
+  {
+   "id": null,
+   "Description": "a golgappa seller whose pani is so spicy that the whole queue breathes fire",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: local name and a clear visual gag, distinct from the queue-cutting card."
+  },
+  {
+   "id": null,
+   "Description": "a sugarcane cart stuck in a very narrow gali",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, funny, drawable, no live duplicate."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> hiding behind a pillar at a wedding to avoid the rishta aunty",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, relatable, token kept."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to carry six mangoes in two hands",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Light and drawable, token kept."
+  },
+  {
+   "id": null,
+   "Description": "a roti puffing up so proudly that it floats off the tawa",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment: clear kitchen image, no overlap with kettle or cooker cards."
   }
  ]
 }

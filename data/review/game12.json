@@ -7323,11 +7323,11 @@
   {
    "id": "game12-814",
    "Name": "Candy Bar",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Candy Bar"
    },
-   "note": ""
+   "note": "Debate: US wording; Candy was already turned into Toffee, and Chocolate and Candy Wrapper stay live."
   },
   {
    "id": "game12-815",
@@ -7395,11 +7395,11 @@
   {
    "id": "game12-822",
    "Name": "Jam Jar",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Jar Of Jam"
    },
-   "note": "clearer/standard spelling: was Jar Of Jam"
+   "note": "Debate: Near-duplicate of the live Jar; the review file already removes Cookie Jar and Jar of Peanut Butter."
   },
   {
    "id": "game12-823",
@@ -12197,6 +12197,54 @@
    "Name": "Password",
    "action": "add",
    "note": "New card (debate): Everyday modern noun, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Hair Dryer",
+   "action": "add",
+   "note": "New card (debate): Common household object, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Toolbox",
+   "action": "add",
+   "note": "New card (debate): Fits the tools theme, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Dustpan",
+   "action": "add",
+   "note": "New card (debate): Clear household pair with Broom, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Tablecloth",
+   "action": "add",
+   "note": "New card (debate): Familiar and easy to draw, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Clothesline",
+   "action": "add",
+   "note": "New card (debate): Familiar in Pakistani homes, pairs with Clothespin, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Chopping Board",
+   "action": "add",
+   "note": "New card (debate): Distinct kitchen item, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Feeding Bottle",
+   "action": "add",
+   "note": "New card (debate): Easy to act out, distinct from Bottle, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Bookshelf",
+   "action": "add",
+   "note": "New card (debate): Everyday drawable object, not in the deck."
   }
  ]
 }
