@@ -9908,10 +9908,10 @@
   {
    "id": null,
    "Name": "Bun Kabab",
-   "Description": "Karachi street burger with egg-dipped patty and chutney",
+   "Description": "Karachi street burger with egg-dipped patty",
    "Category": "Traditional Dishes",
    "action": "add",
-   "note": "New card (debate): Challenger's missed card. Charades added Bun Kabab to Traditional Dishes; the hint does not contain the word."
+   "note": "New card (debate): Challenger's missed card. Charades added Bun Kabab to Traditional Dishes; the hint does not contain the word.; Debate: The current hint is 10 words, over the roughly 8-word limit. Dropping 'and chutney' leaves the identifying details (Karachi, street burger, egg-dipped patty) and does not contain the name."
   },
   {
    "id": null,
@@ -10076,10 +10076,10 @@
   {
    "id": null,
    "Name": "Shah Rukn-e-Alam",
-   "Description": "Sufi saint's brick tomb in Multan",
+   "Description": "Blue-tiled Tughlaq-era tomb of a Multani saint",
    "Category": "Historical Places",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Accurate: the tomb in Multan was built in the early 1320s under Ghiyasuddin Tughlaq in red brick with blue glazed tiles. It identifies the monument more specifically than the old hint, which could fit other Multan shrines."
   },
   {
    "id": null,

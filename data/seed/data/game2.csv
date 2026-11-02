@@ -799,7 +799,7 @@ Gwadar,Port | CPEC | Balochistan | Sea | China,Pakistani Cities
 Skardu,Gilgit-Baltistan | K2 | Mountains | Shangrila | Cold Desert,Pakistani Cities
 Samosa,Triangle | Fried | Aloo | Iftar | Chutney,Traditional Dishes
 Gol Gappay,Pani Puri | Crispy | Imli | Chaat | Street,Traditional Dishes
-Shami Kabab,Daal | Mince | Fried | Round | Freezer,Traditional Dishes
+Shami Kabab,Daal | Mince | Fried | Chana | Patty,Traditional Dishes
 Bun Kabab,Karachi | Anda | Street | Bread | Chutney,Traditional Dishes
 Kalonji,Black Seed | Shifa | Naan | Achaar | Onion Seeds,Spices
 Ajwain,Carom | Seeds | Stomach | Pakora | Paratha,Spices
@@ -843,7 +843,7 @@ Volcano,Lava | Erupt | Mountain | Hot | Ash,Nature
 Island,Jazeera | Sea | Surrounded | Beach | Water,Nature
 Glacier,Ice | Siachen | Baltoro | Melt | Cold,Nature
 Cave,Ghaar | Dark | Hira | Rock | Bats,Nature
-Toe,Foot | Ungli | Shoe | Nail | Ten,Body Parts
+Toe,Foot | Ungli | Nail | Shoe | Big,Body Parts
 Wheelbarrow,Wheel | Push | Cement | Mazdoor | Sand,Tools
 Kehwa,Green Tea | Peshawar | Elaichi | Pathan | Digestion,Beverages
 Badam Doodh,Almond | Milk | Nuts | Winter | Garam,Beverages
@@ -876,7 +876,7 @@ Halwai,Mithai | Jalebi | Halwa | Sweets | Karahi,Occupations
 Naanbai,Tandoor | Naan | Roti | Oven | Garam,Occupations
 Maghrib,Sunset | Namaz | Three Rakat | Iftar | Shaam,Islamic Terms
 Pakora,Besan | Fried | Baarish | Iftar | Pyaz,Traditional Dishes
-Dahi Bhallay,Dahi | Phulki | Imli | Chaat | Iftar,Traditional Dishes
+Dahi Bhallay,Yogurt | Phulki | Imli | Chaat | Iftar,Traditional Dishes
 Raddi Wala,Akhbar | Kilo | Scrap | Bottles | Thela,Occupations
 Remote,TV | Buttons | Channel | Batteries | Sofa,Electronics
 Mongoose,Neola | Snake | Fight | Brown | Cobra,Animals
@@ -1238,3 +1238,11 @@ Goldsmith,Sonar | Zewar | Jewellery | Ring | Karat,Occupations
 Jamarat,Hajj | Stoning | Mina | Shaitan | Pebbles,Islamic Locations
 Shawwal,Tenth | Eid | Six Fasts | Month | Hijri,Islamic Terms
 Balushahi,Syrup | Flaky | Fried | Mithai | Round,Desserts
+Fruit Chaat,Iftar | Mixed | Masala | Bowl | Chopped,Traditional Dishes
+Sil Batta,Stone | Grind | Chutney | Masala | Rub,Kitchen Items
+Amla,Gooseberry | Sour | Green | Murabba | Hair,Fruits
+Pakol,Hat | Chitral | Wool | Round | Head,Clothing
+Dimple,Cheek | Smile | Gaal | Hole | Pit,Body Parts
+Smog,Lahore | Winter | Air | Fog | Pollution,Nature
+Electric Meter,Bijli | Bill | Units | Wapda | Reading,Electronics
+Firefly,Glow | Night | Light | Insect | Jugnu,Animals

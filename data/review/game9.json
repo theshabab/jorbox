@@ -13385,6 +13385,69 @@
    "Description": "Witr",
    "action": "add",
    "note": "New card (debate): Common household knowledge; the only similar card (Tahajjud) has a different answer."
+  },
+  {
+   "id": null,
+   "Name": "Which spiral-shaped, deep-fried sweet soaked in sugar syrup is a favourite on Pakistani iftar tables?",
+   "Description": "Jalebi",
+   "action": "add",
+   "note": "New card (debate): Accurate, unique answer, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which triangular fried pastry, stuffed with spiced potato or mince, is the classic Ramadan iftar snack in Pakistan?",
+   "Description": "Samosa",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which dense frozen dessert, flavoured with cardamom and pistachio and often served from a matka pot, is a Pakistani summer favourite?",
+   "Description": "Kulfi",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "According to a hadith in Bukhari and Muslim, the strong person is not the one who wrestles but the one who does what?",
+   "Description": "Controls himself when angry",
+   "action": "add",
+   "note": "New card (debate): Well-established hadith; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "According to a hadith in Sahih al-Bukhari, the best of you are those who do what with the Quran?",
+   "Description": "Learn it and teach it",
+   "action": "add",
+   "note": "New card (debate): Well-established hadith; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the wedding feast hosted by the groom's family, a sunnah after the marriage, called?",
+   "Description": "Walima",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording avoids the contestable nikah timing claim."
+  },
+  {
+   "id": null,
+   "Name": "What are the designated boundary points called, from which pilgrims coming to Makkah must enter the state of ihram?",
+   "Description": "Miqat (plural: mawaqit)",
+   "action": "add",
+   "note": "New card (debate): Accurate Hajj fact; distinct from the existing Ihram card."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani fast bowler, nicknamed the 'Burewala Express', was famous for his reverse-swing yorkers?",
+   "Description": "Waqar Younis",
+   "action": "add",
+   "note": "New card (debate): Accurate; Waqar not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which cancer hospital, founded in Lahore in 1994 by Imran Khan in memory of his mother, treats many patients for free?",
+   "Description": "Shaukat Khanum Memorial Cancer Hospital",
+   "action": "add",
+   "note": "New card (debate): Accurate; fits Pakistani charity theme; not in deck."
   }
  ]
 }

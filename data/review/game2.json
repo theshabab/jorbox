@@ -10467,10 +10467,10 @@
   {
    "id": null,
    "Name": "Shami Kabab",
-   "Description": "Daal | Mince | Fried | Round | Freezer",
+   "Description": "Daal | Mince | Fried | Chana | Patty",
    "Category": "Traditional Dishes",
    "action": "add",
-   "note": "New card (debate): Common household kabab not in the deck."
+   "note": "New card (debate): Common household kabab not in the deck.; Debate: Chana is the key missing clue; Round and Freezer are weak. Challenger's amended version."
   },
   {
    "id": null,
@@ -10819,10 +10819,10 @@
   {
    "id": null,
    "Name": "Toe",
-   "Description": "Foot | Ungli | Shoe | Nail | Ten",
+   "Description": "Foot | Ungli | Nail | Shoe | Big",
    "Category": "Body Parts",
    "action": "add",
-   "note": "New card (debate): Basic body part that is missing; the deck has Finger and Foot but no Toe."
+   "note": "New card (debate): Basic body part that is missing; the deck has Finger and Foot but no Toe.; Debate: Ten is a weak ban; Big (big toe) is a natural clue."
   },
   {
    "id": null,
@@ -11083,10 +11083,10 @@
   {
    "id": null,
    "Name": "Dahi Bhallay",
-   "Description": "Dahi | Phulki | Imli | Chaat | Iftar",
+   "Description": "Yogurt | Phulki | Imli | Chaat | Iftar",
    "Category": "Traditional Dishes",
    "action": "add",
-   "note": "New card (debate): Classic iftar and street dish; only 'Dahi Baray' appears as a ban on Chaat Masala."
+   "note": "New card (debate): Classic iftar and street dish; only 'Dahi Baray' appears as a ban on Chaat Masala.; Debate: Dahi is already in the name, so ban Yogurt instead. Phulki is a core clue and stays (challenger's amendment)."
   },
   {
    "id": null,
@@ -13975,6 +13975,70 @@
    "Category": "Desserts",
    "action": "add",
    "note": "New card (debate): Popular Pakistani mithai not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Fruit Chaat",
+   "Description": "Iftar | Mixed | Masala | Bowl | Chopped",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Classic iftar dish not in the deck; only Chana Chaat exists."
+  },
+  {
+   "id": null,
+   "Name": "Sil Batta",
+   "Description": "Stone | Grind | Chutney | Masala | Rub",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Distinct traditional grinding tool, different from Mortar and Pestle."
+  },
+  {
+   "id": null,
+   "Name": "Amla",
+   "Description": "Gooseberry | Sour | Green | Murabba | Hair",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Familiar desi fruit not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Pakol",
+   "Description": "Hat | Chitral | Wool | Round | Head",
+   "Category": "Clothing",
+   "action": "add",
+   "note": "New card (debate): Iconic northern Pakistani cap, distinct from the Topi and Turban cards."
+  },
+  {
+   "id": null,
+   "Name": "Dimple",
+   "Description": "Cheek | Smile | Gaal | Hole | Pit",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Easy to act out and not a card yet. Gaal and Pit replace the weak Small and Cute (challenger's amendment). The Cheek card bans Dimple, but the two are different words."
+  },
+  {
+   "id": null,
+   "Name": "Smog",
+   "Description": "Lahore | Winter | Air | Fog | Pollution",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Relatable local winter phenomenon. Fog is a separate item, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Electric Meter",
+   "Description": "Bijli | Bill | Units | Wapda | Reading",
+   "Category": "Electronics",
+   "action": "add",
+   "note": "New card (debate): Relatable Pakistani household item, not duplicated in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Firefly",
+   "Description": "Glow | Night | Light | Insect | Jugnu",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Easy to act out and not a card yet."
   }
  ]
 }
