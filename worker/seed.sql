@@ -1263,6 +1263,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1261','game1','Surma','Sunnah black eye powder applied with a stick','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1262','game1','Iceberg','Floating polar ice with only its tip visible','Nature');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1263','game1','Ajwa Dates','Black sweet dates of Madinah','Fruits');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1264','game1','Takbeer','Saying Allahu Akbar with hands raised','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1265','game1','Qiyamah','Day of Judgement when Israfil blows the trumpet','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1266','game1','Fidya','Feeding a poor person for a missed fast','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1267','game1','Tashahhud','Sitting recitation of Attahiyyat in salah','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1268','game1','Khubayb ibn Adi','Captive companion who prayed two rakat before martyrdom','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1269','game1','Sawdah bint Zamah','Mother of the Believers who migrated to Abyssinia','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1270','game1','Jacobabad','Sindh city famed as one of the hottest on Earth','Pakistani Cities');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1271','game1','Padlock','Metal lock with a key for shop shutters (Taala)','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1272','game1','Drought','Long dry spell with no rain that ruins crops','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1273','game1','Cliff','Steep rocky edge where the ground drops away','Nature');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
