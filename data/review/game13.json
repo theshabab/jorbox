@@ -7301,6 +7301,18 @@
    "Description": "Get a player to tell you their favourite place to sit at home, like a charpai, sofa or floor.",
    "action": "add",
    "note": "New card (debate): Local conversation prompt, no duplicate found."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to offer you a slice of tarbooz (watermelon).",
+   "action": "add",
+   "note": "New card (debate): Local food idea; the challenger's amended wording needs no knife or props and is easy to trigger. No tarbooz card exists."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to name their favourite cricket ground.",
+   "action": "add",
+   "note": "New card (debate): Both sides agree. The cricket question is easy to ask, and no ground or stadium card exists."
   }
  ]
 }

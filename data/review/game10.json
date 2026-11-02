@@ -7850,6 +7850,24 @@
    "Name": "Name a sharbat or drink served to guests in summer.",
    "action": "add",
    "note": "New card (debate): Distinct from the live food-for-guests card and the fruit/winter-drink cards; answers (Rooh Afza, lemon, Sandal) converge."
+  },
+  {
+   "id": null,
+   "Name": "Name something a dulha wears at his wedding.",
+   "action": "add",
+   "note": "New card (debate): Answers (sherwani, sehra, kulla, khussa) converge; only a dulhan card exists."
+  },
+  {
+   "id": null,
+   "Name": "Name a filling for a samosa.",
+   "action": "add",
+   "note": "New card (debate): Answers (aloo, keema, chicken, vegetables) converge; live samosa cards cover dip and samosa-or-pakora only."
+  },
+  {
+   "id": null,
+   "Name": "Name something you cook in a karahi.",
+   "action": "add",
+   "note": "New card (debate): Open survey with overlapping answers (chicken, mutton, pakoray, halwa); the live karahi cards are A-or-B choices."
   }
  ]
 }

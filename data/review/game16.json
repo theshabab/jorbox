@@ -137,14 +137,14 @@
   },
   {
    "id": "game16-13",
-   "Name": "If you were just given a yacht or a boat, what would you name it?",
+   "Name": "If someone gifted you a boat, what would you name it?",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "If you were just given a yacht or a boat, what would you name it?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: Simpler wording; the shorter duplicate boat card is already marked remove, so this stays as the single live boat card."
   },
   {
    "id": "game16-14",
@@ -368,14 +368,14 @@
   },
   {
    "id": "game16-34",
-   "Name": "Based on something you've already done, how might you get into the Guinness World Records?",
+   "Name": "What strange skill or habit of yours could earn you a place in the Guinness World Records?",
    "Category": "Ice Breakers & Fun General",
    "action": "edit",
    "original": {
     "Name": "Based on something you've already done, how might you make it into the Guinness Book of World Records?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "correct name"
+   "note": "correct name; Debate: Original wording is clumsy; the rewrite keeps the idea and is easier to answer."
   },
   {
    "id": "game16-35",
@@ -687,14 +687,14 @@
   },
   {
    "id": "game16-63",
-   "Name": "What is your best scar? Tell the story of how you got it.",
+   "Name": "Do you have a scar or mark with a good story behind it? Tell us how you got it.",
    "Category": "Ice Breakers & Fun General",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "What is your best scar? Tell the story of how you got it.",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": ""
+   "note": "Debate: 'Best scar' is odd; the reworded card keeps the story prompt and is more natural."
   },
   {
    "id": "game16-64",
@@ -1062,13 +1062,13 @@
   {
    "id": "game16-97",
    "Name": "Would you ever lend a large amount of money to a friend or relative? Why or why not?",
-   "Category": "Ice Breakers & Fun General",
+   "Category": "Deep & ThoughtProvoking",
    "action": "edit",
    "original": {
     "Name": "Would you ever loan a significant amount of money to a friend/relative? Why or why not?",
     "Category": "Ice Breakers & Fun General"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Trust and money is a weightier topic that fits the Deep category better than Ice Breakers."
   },
   {
    "id": "game16-98",
@@ -10193,6 +10193,27 @@
    "Category": "Deep & ThoughtProvoking",
    "action": "add",
    "note": "New card (debate): New angle. The existing Ramadan cards cover Taraweeh/Eid, sehri/iftar and a habit to keep, not the last ten nights. Worship-related personal questions are allowed."
+  },
+  {
+   "id": null,
+   "Name": "What would you do if the umbrella you left at the masjid door was missing after prayer?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Relatable, light situational question; no umbrella or missing-item card exists."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing you have ever heard a doctor or dentist say to you?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Broad and easy to answer; different from the hadith-based doctor card."
+  },
+  {
+   "id": null,
+   "Name": "If you could keep a diary of one day of your life for your grandchildren, which day would you write about?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): Reflective and distinct from the time-capsule card because it asks for one specific day."
   }
  ]
 }
