@@ -8432,10 +8432,10 @@
   },
   {
    "id": null,
-   "Name": "Would you go to the top of the world's tallest tower, or does the height make your knees shake?",
+   "Name": "Would you go to the top of the Burj Khalifa, the world's tallest tower, or does the height make your knees shake?",
    "Category": "More Fun Questions",
    "action": "add",
-   "note": "New card (debate): No fear-of-heights card; fun and clean."
+   "note": "New card (debate): No fear-of-heights card; fun and clean.; Debate: Gives players a concrete, accurate reference; same idea kept."
   },
   {
    "id": null,
@@ -9885,6 +9885,20 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card (debate): Distinct and funny."
+  },
+  {
+   "id": null,
+   "Name": "Which relative's house has the strictest rules for guests (shoes outside, no touching the showcase), and what is the most famous rule?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Relatable desi humour; no guest-rules card exists (the drawing-room card is about the sofa)."
+  },
+  {
+   "id": null,
+   "Name": "If a new neighbour who had never heard of Ramadan asked you what it is like, what three things would you tell them?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Challenger's respectful framing accepted over the alien-visitor version; distinct from the existing fasting-body card."
   }
  ]
 }

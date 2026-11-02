@@ -6959,6 +6959,42 @@
    "Description": "Get a player to tell you about the last time they visited a doctor or dentist.",
    "action": "add",
    "note": "New card (debate): No doctor/dentist story card; relatable and harmless."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a tawa (griddle).",
+   "action": "add",
+   "note": "New card (debate): No tawa card exists; fits the holding-an-object pattern with a Pakistani kitchen item."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to correct your pronunciation of 'Sialkot'.",
+   "action": "add",
+   "note": "New card (debate): Local city pronunciation card; the existing Sialkot card is a different (poetry) ask."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain what a 'no-ball' means in cricket.",
+   "action": "add",
+   "note": "New card (debate): Accurate, familiar cricket explain card; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Yorker'.",
+   "action": "add",
+   "note": "New card (debate): Cricket say-the-word card like Googly; absent from deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a hammer.",
+   "action": "add",
+   "note": "New card (debate): Plausible household object for the holding pattern; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Golgappay'.",
+   "action": "add",
+   "note": "New card (debate): Street-food say-the-word card using the deck's existing golgappay spelling (challenger's amendment)."
   }
  ]
 }

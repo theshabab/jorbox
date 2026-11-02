@@ -7061,9 +7061,9 @@
   },
   {
    "id": null,
-   "Name": "Name something Dada or Nani does every morning.",
+   "Name": "Name something Dadi or Nani does every morning.",
    "action": "add",
-   "note": "New card (debate): Challenger's narrower time frame gives more matching answers; distinct from the 'always says' cards."
+   "note": "New card (debate): Challenger's narrower time frame gives more matching answers; distinct from the 'always says' cards.; Debate: Dada (grandfather) paired with Nani (grandmother) is mismatched; Dadi or Nani matches the deck's other card."
   },
   {
    "id": null,
@@ -7439,9 +7439,9 @@
   },
   {
    "id": null,
-   "Name": "Name a flavour of lassi.",
+   "Name": "Name a flavor of lassi.",
    "action": "add",
-   "note": "New card (debate): Answers converge (Sweet, Salty, Mango, Mint). The existing lassi cards are either/or choices, so this is a different format."
+   "note": "New card (debate): Answers converge (Sweet, Salty, Mango, Mint). The existing lassi cards are either/or choices, so this is a different format.; Debate: Spelling consistency with the other 'flavor' cards."
   },
   {
    "id": null,
@@ -7494,8 +7494,8 @@
   {
    "id": null,
    "Name": "Name something you do to get ready for Jumu'ah.",
-   "action": "add",
-   "note": "New card (debate): No Friday prayer card exists; the answers are accurate and common."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of the live 'Name something you do on Jummah' (confirmed live) and of the 'wear to Jummah prayer' card; Jummah is over-represented and spelling is inconsistent. Partners stay."
   },
   {
    "id": null,
@@ -7520,6 +7520,24 @@
    "Name": "Name a place where you take off your shoes before entering.",
    "action": "add",
    "note": "New card (debate): Common Pakistani etiquette; no existing card covers it."
+  },
+  {
+   "id": null,
+   "Name": "Name something people do on Chand Raat.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the 'buy on Chand Raat' card; answers like mehndi, bangles and spotting the moon cluster well."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do before eating at the dastarkhwan.",
+   "action": "add",
+   "note": "New card (debate): Strongly clustered answers (Bismillah, wash hands, spread the dastarkhwan); distinct from the 'say after finishing a meal' card."
+  },
+  {
+   "id": null,
+   "Name": "Name something very small.",
+   "action": "add",
+   "note": "New card (debate): Answers converge (ant, atom, seed) and it fits the deck's adjective prompts; not a duplicate."
   }
  ]
 }
