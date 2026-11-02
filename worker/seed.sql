@@ -11217,7 +11217,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-34','game6','','Islamic Scholars','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-35','game6','','Companions of the Prophet ﷺ (Sahaba)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-36','game6','','Surah Names','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-37','game6','','Islamic Terms','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-37','game6','','Islamic Terms (Halal, Sunnah, Hijrah, Tawakkul...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-38','game6','','Famous Masjids in Pakistan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-39','game6','','Pakistani Universities','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-40','game6','','Pakistani Brands','');
@@ -11236,7 +11236,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-53','game6','','Pakistani Snacks','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-54','game6','','Pakistani Beverages','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-55','game6','','Tea Varieties','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-56','game6','','Coffee Types','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-56','game6','','Coffee Types (Espresso, Latte, Cappuccino, Cold Coffee...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-57','game6','','Milk Products','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-58','game6','','Grains','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-59','game6','','Pulses (Daals)','');
@@ -11881,6 +11881,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-698','game6','','Things You Sew or Stitch (Kurta, Button, Torn Shirt, Quilt Cover...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-699','game6','','Things You Cover (Dish, Head, Mouth When Yawning, Bed, Quran...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-700','game6','','Things You Turn (Tap, Page, Key, Steering Wheel, Knob...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-701','game6','','Toffees, Candies and Chocolates (Mentos, Polo, Candyland, Dairy Milk...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-702','game6','','Soups and Shorba (Chicken Corn, Hot and Sour, Daal Shorba...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-703','game6','','Hot Drinks for Cold Days (Kehwa, Doodh Patti, Haldi Doodh...)','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game7','NaqshNigar',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1','game7','','a cat in a wig wearing a bib','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-2','game7','','the crusty edge of the universe','Standard Prompts');
@@ -16749,7 +16752,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-759','game10','Name a document you have to renew every few years.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-760','game10','Name a reason people take a day off work.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-761','game10','Name something a good boss does.','','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-762','game10','Name a Muslim-majority country that is not in the Arab world, other than Pakistan.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-762','game10','Name a Muslim-majority country that is not Arab and not Pakistan.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-763','game10','Name a famous dish from Turkey or the Arab world.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-764','game10','Name a city in Turkey.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-765','game10','Name a place pilgrims visit in Makkah or Madinah.','','');
@@ -16769,7 +16772,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-779','game10','Name a way a student can earn pocket money.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-780','game10','Name something you give a new neighbour who has just moved in.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-781','game10','Name something you check before accepting a job offer.','','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-782','game10','Name a thing that is given as Eidi besides money.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-782','game10','Name something kids get as Eidi besides money.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-783','game10','Name something you eat with nihari.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-784','game10','Name a fielding position in cricket.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-785','game10','Name something you squeeze lemon on.','','');
@@ -16898,6 +16901,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-908','game10','Name something kids do with the Qurbani animal before Eid.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-909','game10','Name an excuse to leave a boring gathering early.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-910','game10','Name something you hear at night when you are lying in bed.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-911','game10','Name a type of dates (khajoor).','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-912','game10','Name a document you need to travel abroad.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-913','game10','Name a way to save money every month.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-914','game10','Name something you wear to a job interview.','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -19243,6 +19250,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1392','game12','Bookshelf','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1393','game12','Blacksmith','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1394','game12','Mulberry','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1395','game12','Gharara','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1396','game12','Khutbah','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1397','game12','Kafan','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1398','game12','Tahajjud','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1399','game12','Thaal','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game13','Phansna Nahi',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-1','game13','','Stick this card underneath some food. Get a player to take the food and reveal the card.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-2','game13','','Get a player to compliment your hair.','');

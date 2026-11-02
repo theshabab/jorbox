@@ -6845,9 +6845,9 @@
   },
   {
    "id": null,
-   "Name": "Name a Muslim-majority country that is not in the Arab world, other than Pakistan.",
+   "Name": "Name a Muslim-majority country that is not Arab and not Pakistan.",
    "action": "add",
-   "note": "New card (debate): Challenger amendment avoids the trivial Pakistan answer; wider Muslim world."
+   "note": "New card (debate): Challenger amendment avoids the trivial Pakistan answer; wider Muslim world.; Debate: Clearer wording, same answer set."
   },
   {
    "id": null,
@@ -6971,9 +6971,9 @@
   },
   {
    "id": null,
-   "Name": "Name a thing that is given as Eidi besides money.",
+   "Name": "Name something kids get as Eidi besides money.",
    "action": "add",
-   "note": "New card (debate): Family and Eid; the amount card exists but not alternatives."
+   "note": "New card (debate): Family and Eid; the amount card exists but not alternatives.; Debate: Fixes clumsy grammar, same idea."
   },
   {
    "id": null,
@@ -7748,6 +7748,30 @@
    "Name": "Name something you hear at night when you are lying in bed.",
    "action": "add",
    "note": "New card (debate): Challenger's amended wording anchors the card at home, distinct from the street-sound card."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of dates (khajoor).",
+   "action": "add",
+   "note": "New card (debate): No date-variety card exists; Ajwa, Mabroom, Sukkari and Aseel are familiar answers."
+  },
+  {
+   "id": null,
+   "Name": "Name a document you need to travel abroad.",
+   "action": "add",
+   "note": "New card (debate): Passport, visa and ticket converge; only a loose overlap with the renew-document card."
+  },
+  {
+   "id": null,
+   "Name": "Name a way to save money every month.",
+   "action": "add",
+   "note": "New card (debate): Pakistani-flavoured answers (committee, gullak); distinct from the existing money cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something you wear to a job interview.",
+   "action": "add",
+   "note": "New card (debate): No interview card exists; neutral and matchable answers."
   }
  ]
 }

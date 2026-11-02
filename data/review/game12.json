@@ -12257,6 +12257,36 @@
    "Name": "Mulberry",
    "action": "add",
    "note": "New card (debate): Shahtoot, a common Pakistani summer fruit, distinct from Berry and Strawberry, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Gharara",
+   "action": "add",
+   "note": "New card (debate): Concrete, well-known Pakistani garment, not in deck, distinct from Dupatta/Kurta."
+  },
+  {
+   "id": null,
+   "Name": "Khutbah",
+   "action": "add",
+   "note": "New card (debate): Familiar worship noun, actable as a speech, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Kafan",
+   "action": "add",
+   "note": "New card (debate): Well-known noun, mildly dark but allowed, distinct from Coffin/Funeral."
+  },
+  {
+   "id": null,
+   "Name": "Tahajjud",
+   "action": "add",
+   "note": "New card (debate): Distinct, well-known night prayer; worship nouns allowed."
+  },
+  {
+   "id": null,
+   "Name": "Thaal",
+   "action": "add",
+   "note": "New card (debate): Common household item, easy to draw, more specific than Plate/Tray."
   }
  ]
 }
