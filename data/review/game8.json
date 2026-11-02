@@ -318,15 +318,15 @@
   {
    "id": "game8-25",
    "Name": "! <---> !!!!!!!!!!",
-   "Description": "Write a text message that would probably end with this many exclamation marks",
+   "Description": "Write a text message that would probably end with this many exclamation marks (the more excited the sender, the more marks)",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "! <---> !!!!!!!!!!",
     "Description": "Write a text message that would probably end with this many exclamation marks",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clarifies what drives the scale so guessers have something to read."
   },
   {
    "id": "game8-26",
@@ -12254,6 +12254,46 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): No matka card; the only temperature card is the car AC one, so this is a different scene."
+  },
+  {
+   "id": null,
+   "Name": "SOUR <---> SUPER SWEET",
+   "Description": "Make up a name for a mango variety that is this sweet",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Pakistani mango frame, no duplicate in slice; tidier scale end."
+  },
+  {
+   "id": null,
+   "Name": "ALWAYS LATE <---> ALWAYS ON TIME",
+   "Description": "Make up a name for an intercity bus company whose buses are this punctual",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local theme; scale end now matches the 'punctual' wording of the task."
+  },
+  {
+   "id": null,
+   "Name": "STARVING <---> FULL TO BURSTING",
+   "Description": "Write a one-line review of a roadside dhaba that left you this full",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Distinct desi dhaba frame; clear opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "COPY-PASTED FORWARD <---> TRULY HEARTFELT",
+   "Description": "Write an Eid Mubarak message that is this heartfelt",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version has clearer opposites and simpler task."
+  },
+  {
+   "id": null,
+   "Name": "FAIR PRICE <---> TOURIST PRICE",
+   "Description": "Make up a name for a bazaar shop whose prices are this unfair to visitors",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Distinct bazaar theme; clear opposite ends."
   }
  ]
 }

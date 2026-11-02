@@ -13708,7 +13708,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-20','game8','THEY DON''T KNOW <---> LOL, THEY KNOW','Write a text message where the sender is this likely to know what "lol" means','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-21','game8','NOT ABDUCTED <---> ABDUCTED!','Write a text message where the sender was this likely to have been abducted by aliens mid-message','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-22','game8','NOT BEAUTIFUL <---> VERY BEAUTIFUL','Write a text message that is this beautifully written','Writing');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-23','game8','! <---> !!!!!!!!!!','Write a text message that would probably end with this many exclamation marks','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-23','game8','! <---> !!!!!!!!!!','Write a text message that would probably end with this many exclamation marks (the more excited the sender, the more marks)','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-24','game8','UNEMOTIONAL <---> EXTREMELY EMOTIONAL','Make up a title for a book that is this tear-jerkingly emotional','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-25','game8','10 YEARS OLD <---> 100 YEARS OLD','Make up a title for a book that is read by someone this many years old','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-26','game8','NOT LIKELY <---> VERY LIKELY','Make up a book title that is this likely to be a detective mystery','Writing');
@@ -14730,6 +14730,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1042','game8','NEAT <---> TANGLED MESS','Draw the cables behind the TV that are this tangled','Drawing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1043','game8','ONE LINE <---> NEVER-ENDING PARAGRAPHS','Write an Eid Mubarak message for the family WhatsApp group that is this long','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1044','game8','WARM <---> ICE COLD','Draw a matka of water at a roadside stall that is this cold','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1045','game8','SOUR <---> SUPER SWEET','Make up a name for a mango variety that is this sweet','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1046','game8','ALWAYS LATE <---> ALWAYS ON TIME','Make up a name for an intercity bus company whose buses are this punctual','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1047','game8','STARVING <---> FULL TO BURSTING','Write a one-line review of a roadside dhaba that left you this full','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1048','game8','COPY-PASTED FORWARD <---> TRULY HEARTFELT','Write an Eid Mubarak message that is this heartfelt','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1049','game8','FAIR PRICE <---> TOURIST PRICE','Make up a name for a bazaar shop whose prices are this unfair to visitors','Writing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -15942,6 +15947,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1209','game9','What is the height of K2, the world''s second-highest mountain, to the nearest 100 metres?','About 8,600 metres (8,611 m)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1210','game9','The Aral Sea, which has shrunk dramatically since the 1960s, lies between which two Central Asian countries?','Kazakhstan and Uzbekistan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1211','game9','What is the highest mountain in Turkey?','Mount Ararat','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1212','game9','What is the upper house of Pakistan''s Parliament called?','The Senate','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1213','game9','What is the lower house of Pakistan''s Parliament called?','The National Assembly','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1214','game9','Which Pakistani city is known as the ''Gateway to the Khyber Pass''?','Peshawar','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1215','game9','Which Pakistani cricketer is nicknamed the ''Sultan of Swing''?','Wasim Akram','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game10','Aik Rangi Soch',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-1','game10','Name a fruit that is yellow.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-2','game10','What is the best flavor of ice cream?','','');

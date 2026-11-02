@@ -13819,6 +13819,34 @@
    "Description": "Mount Ararat",
    "action": "add",
    "note": "New card (debate): Not in the deck. The challenger's plain wording avoids the disputed Ark-site claim (the Quran names Mount Judi)."
+  },
+  {
+   "id": null,
+   "Name": "What is the upper house of Pakistan's Parliament called?",
+   "Description": "The Senate",
+   "action": "add",
+   "note": "New card (debate): No Senate card exists; accurate civics question."
+  },
+  {
+   "id": null,
+   "Name": "What is the lower house of Pakistan's Parliament called?",
+   "Description": "The National Assembly",
+   "action": "add",
+   "note": "New card (debate): No National Assembly card exists; pairs with the Senate card."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani city is known as the 'Gateway to the Khyber Pass'?",
+   "Description": "Peshawar",
+   "action": "add",
+   "note": "New card (debate): Accurate, and distinct from the existing Peshawar and Khyber Pass cards."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani cricketer is nicknamed the 'Sultan of Swing'?",
+   "Description": "Wasim Akram",
+   "action": "add",
+   "note": "New card (debate): Accurate, and no nickname card for Akram exists."
   }
  ]
 }
