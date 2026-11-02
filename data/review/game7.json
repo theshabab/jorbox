@@ -21440,8 +21440,8 @@
    "id": null,
    "Description": "a lassi glass so tall it needs a ladder",
    "Category": "Standard Prompts",
-   "action": "add",
-   "note": "New card (debate): Distinct from the thick-lassi card, drawable and local."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of the live falooda glass card (same oversized-glass gag); the ladder gag is also in the biryani deg and ghee tin cards."
   },
   {
    "id": null,
@@ -21473,10 +21473,10 @@
   },
   {
    "id": null,
-   "Description": "the maths teacher discovers the chalk is missing, so he uses a samosa",
+   "Description": "a maths teacher who finds the chalk missing and writes with a samosa instead",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): New absurd school scene; no chalk card exists."
+   "note": "New card (debate): New absurd school scene; no chalk card exists.; Debate: Fixes broken tense and grammar, keeps the idea."
   },
   {
    "id": null,
@@ -21550,10 +21550,10 @@
   },
   {
    "id": null,
-   "Description": "a patang cutting the string of a plane",
+   "Description": "a patang with razor-sharp manjha trying to cut down a passing aeroplane",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): New absurd kite image, distinct from existing kite cards."
+   "note": "New card (debate): New absurd kite image, distinct from existing kite cards.; Debate: Planes have no string so the original was unclear; patang as actor is drawable (challenger's amended version)."
   },
   {
    "id": null,
@@ -21781,10 +21781,10 @@
   },
   {
    "id": null,
-   "Description": "a man with a mochi's tiny hammer repairing a chappal while a long queue of single sandals waits",
+   "Description": "a mochi repairing a chappal while a long queue of single sandals waits for its turn",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): New local street scene, drawable."
+   "note": "New card (debate): New local street scene, drawable.; Debate: Tightens wordy original with correct grammar (challenger's amended version)."
   },
   {
    "id": null,
@@ -21834,6 +21834,41 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): No ghee or halwai card exists; drawable local exaggeration."
+  },
+  {
+   "id": null,
+   "Description": "a jar of mango achar sunbathing on the roof while a crow plans a raid",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No achar rooftop card exists; distinct, drawable desi scene."
+  },
+  {
+   "id": null,
+   "Description": "a doodh wala secretly topping up the milk can from the hand pump while the buffalo watches in shock",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Well-known desi gag, drawable, not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a goat riding a Murree chairlift and looking down in terror",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No chairlift card exists; local setting, drawable."
+  },
+  {
+   "id": null,
+   "Description": "a tuition teacher's chalk flying across the room to hit the one sleeping student",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Classic school scene, easy to draw, distinct from existing teacher cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> walking proudly out of the bazaar with a bargain that is two sizes too small",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle friend prompt, different from the haggling cards."
   }
  ]
 }

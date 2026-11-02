@@ -5544,7 +5544,7 @@
   {
    "id": "game3-427",
    "Name": "Something I do every morning is...",
-   "Description": "My favorite breakfast food/drink is...|I admire other people who do this...|The first thing I’d do if I were invisible is...|The first thing I’d do if I were prime minister is...|The first thing I do when I wake up is...|Something I do every day is...|Something I do almost every weekend is...|A habit I wish I could get into is...|A chore that I hate to do is...",
+   "Description": "My favorite breakfast food/drink is...|I admire other people who do this...|The first thing I’d do if I were invisible is...|The first thing I’d do if I were prime minister is...|Something I do every day is...|Something I do almost every weekend is...|A habit I wish I could get into is...|A chore that I hate to do is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -5552,7 +5552,7 @@
     "Description": "My favorite breakfast food/drink is...|I admire other people who do this...|The first thing I’d do if I were Wonder Woman is...|The first thing I’d do if I were president is...|The first thing I do when I wake up is...|Something I do every day is...|Something I do most every weekend is...|A habit I wish I could get into is...|A chore that I hate to do is...",
     "Category": "Writing"
    },
-   "note": "replaced Wonder Woman decoy; president→prime minister; Debate: Grammar fix: \"most every weekend\" is now \"almost every weekend\"."
+   "note": "replaced Wonder Woman decoy; president→prime minister; Debate: Grammar fix: \"most every weekend\" is now \"almost every weekend\".; Debate: Removed the near-identical decoy that would not expose the impostor."
   },
   {
    "id": "game3-428",
@@ -6168,7 +6168,7 @@
   {
    "id": "game3-475",
    "Name": "The weirdest thing I like on my pizza is...",
-   "Description": "The best gift I ever got was...|My favorite type of meat is...|My favorite vegetable is...|My favorite type of cheese is...|My favorite summertime food is...|The cutest animal is...",
+   "Description": "The weirdest thing I like in my chai is...|The weirdest thing I like on my chaat is...|The weirdest thing I like on my paratha is...|The weirdest thing I like in my biryani is...|The weirdest thing I like on my fries is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -6176,7 +6176,7 @@
     "Description": "The best gift I ever got was...|My favorite type of meat is...|My favorite vegetable is...|My favorite type of cheese is....|My favorite summertime food is...|The cutest animal is...",
     "Category": "Writing"
    },
-   "note": "Debate: Challenger's missed issue C6: four dots become an ellipsis."
+   "note": "Debate: Challenger's missed issue C6: four dots become an ellipsis.; Debate: Current decoys are unrelated and expose the impostor; close same-shape decoys fix it."
   },
   {
    "id": "game3-476",
@@ -6389,7 +6389,7 @@
   {
    "id": "game3-492",
    "Name": "I know way too much about cricket stats.",
-   "Description": "I know way too much about cars.|I don’t wear pajamas.|I have strong opinions on biryani.|I know way too much about history.",
+   "Description": "I know way too much about cars.|I know way too much about mobile phones.|I have strong opinions on biryani.|I know way too much about history.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6397,7 +6397,7 @@
     "Description": "I swear too much.|I don’t wear pajamas.|I know way too much about superheroes.|I love cartoons for adults.|I have strong opinions on TV shows.|I know way too much about history.",
     "Category": "Rating"
    },
-   "note": "Simpsons→cricket stats; removed swearing/TV decoys"
+   "note": "Simpsons→cricket stats; removed swearing/TV decoys; Debate: Replaced unrelated decoy with a same-shape one."
   },
   {
    "id": "game3-493",
@@ -6441,7 +6441,7 @@
   {
    "id": "game3-496",
    "Name": "Fireworks are stupid.",
-   "Description": "I hate crowds.|I love my alone time.|Cold drinks are better than water.|I can’t sleep on planes.|I hate picnics.",
+   "Description": "I hate crowds.|I love my alone time.|I don’t like loud noises.|I can’t sleep on planes.|I hate picnics.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6449,12 +6449,12 @@
     "Description": "I hate crowds.|I love my alone time.|I’m a trash person.|Soda is better than water.|I can’t sleep on planes.|I hate picnics.",
     "Category": "Rating"
    },
-   "note": "removed unclear decoy; soda→cold drinks"
+   "note": "removed unclear decoy; soda→cold drinks; Debate: Thematically close decoy replaces a random one."
   },
   {
    "id": "game3-497",
    "Name": "I want to change my name.",
-   "Description": "I want to change my hair colour.|I own a lot of shoes.|I hate fireworks.",
+   "Description": "I want to change my hair colour.|I own a lot of shoes.|I like my nickname more than my real name.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6462,12 +6462,12 @@
     "Description": "I want to change hair color.|I own a lot of shoes.|I hate fireworks.",
     "Category": "Rating"
    },
-   "note": "Debate: Grammar fix in a decoy."
+   "note": "Debate: Grammar fix in a decoy.; Debate: Fireworks decoy belonged to another card; replaced with a name-related one."
   },
   {
    "id": "game3-498",
    "Name": "Aloo belongs in biryani.",
-   "Description": "I always eat the aloo first.|Biryani tastes better the next day.|Ketchup is good on samosas.|I’m a grammar nerd.|There are too many cricket leagues.",
+   "Description": "I always eat the aloo first.|Biryani tastes better the next day.|Ketchup is good on samosas.|Boiled eggs belong in biryani.|Biryani should be eaten with raita.",
    "Category": "Rating",
    "action": "edit",
    "original": {
@@ -6475,7 +6475,7 @@
     "Description": "I’m a grammar nerd.|There are too many <i>Batman</i> movies.|Ketchup is good on hot dogs.",
     "Category": "Rating"
    },
-   "note": "replaced Batman/hot dog decoys; Debate: Replace niche Western jif/gif joke with the well-known local aloo-in-biryani debate; replaced card (game3-498) is live."
+   "note": "replaced Batman/hot dog decoys; Debate: Replace niche Western jif/gif joke with the well-known local aloo-in-biryani debate; replaced card (game3-498) is live.; Debate: Challenger's amended version: on-topic decoys and avoids copying the separate raita card's prompt."
   },
   {
    "id": "game3-499",
@@ -14017,6 +14017,62 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Challenger's reframing avoids overlap with the annoying-sound card and any azan-joke risk."
+  },
+  {
+   "id": null,
+   "Name": "I eat with my hands rather than a spoon whenever I can.",
+   "Description": "I prefer a fork and spoon for most meals.|I always wash my hands before eating.|I can eat rice neatly with a spoon.|I enjoy dipping roti into salan.|I prefer eating at a table over the floor.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New local Rating card using the amended decoys."
+  },
+  {
+   "id": null,
+   "Name": "Jalebi is best eaten hot and fresh.",
+   "Description": "Halwa puri is the best weekend breakfast.|I like my mithai less sweet.|Rabri is better than kheer.|I prefer gulab jamun to jalebi.|Mithai tastes better the next day.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): New Pakistani mithai card, no jalebi rating card exists."
+  },
+  {
+   "id": null,
+   "Name": "I get nervous speaking in front of everyone.",
+   "Description": "I volunteer to give speeches.|I get nervous before exams.|I am confident leading a group.|I like being the centre of attention.|I get shy meeting new relatives.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean personality card."
+  },
+  {
+   "id": null,
+   "Name": "I never delete old WhatsApp chats.",
+   "Description": "I clear my phone gallery every month.|I have over a hundred unread messages.|I leave family group chats on mute.|I save every photo people send me.|I read every message in the family group.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable phone-habit card; social media is allowed."
+  },
+  {
+   "id": null,
+   "Name": "A good name for a tailor shop would be...",
+   "Description": "A good name for a bakery would be...|A good name for a mobile repair shop would be...|A good name for a laundry would be...|A good name for a bookshop would be...|A good name for a juice corner would be...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended decoys avoid leaks from sibling cards that use tailor/barber shop as decoys."
+  },
+  {
+   "id": null,
+   "Name": "The best place to fly a kite is...",
+   "Description": "The best place for a picnic is...|The best place to play gully cricket is...|The best place to watch the sunset is...|The best rooftop view in Pakistan is...|The best place to take a family photo is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local pastime card, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "The funniest thing a child has said to me is...",
+   "Description": "The funniest thing I overheard at a wedding is...|The cutest thing a child ever did is...|The funniest thing my grandparent said is...|The funniest message in my family group is...|The funniest thing I said as a child is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family-friendly funny Writing card."
   }
  ]
 }

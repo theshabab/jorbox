@@ -12401,6 +12401,42 @@
    "Name": "Patriotism",
    "action": "add",
    "note": "New card (debate): Abstract noun that fits the Flag and Freedom cards, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Almond",
+   "action": "add",
+   "note": "New card (debate): Common dry fruit, not in deck, easy to describe."
+  },
+  {
+   "id": null,
+   "Name": "Arrow",
+   "action": "add",
+   "note": "New card (debate): Concrete, easy to draw or act out, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Badge",
+   "action": "add",
+   "note": "New card (debate): Familiar object, distinct from Medal, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Bench",
+   "action": "add",
+   "note": "New card (debate): Distinct drawable furniture item, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Ceiling",
+   "action": "add",
+   "note": "New card (debate): Common concrete noun, distinct from Ceiling Fan."
+  },
+  {
+   "id": null,
+   "Name": "Bouquet",
+   "action": "add",
+   "note": "New card (debate): Distinct item, fits weddings and Eid gifting, no live duplicate."
   }
  ]
 }
