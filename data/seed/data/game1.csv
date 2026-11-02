@@ -517,7 +517,7 @@ Tea,"Pakistan's favourite hot drink, with milk and sugar",Beverages
 Coffee,Hot drink brewed from roasted beans,Beverages
 Juice,Liquid squeezed from fruit,Beverages
 Lassi,"Yogurt drink, sweet or salty",Beverages
-Shake,"Cold, thick milk drink blended with ice cream, e.g. mango or chocolate",Beverages
+Shake,"Thick, cold milk drink with ice cream",Beverages
 Smoothie,Thick blend of fruit and yogurt,Beverages
 Lemonade,Nimbu pani: sweetened citrus water,Beverages
 Squash Drink,Fruit concentrate diluted with water,Beverages
@@ -532,7 +532,7 @@ Doodh Soda,Dairy mixed with fizzy lemon-lime drink,Beverages
 Cold Drink,Fizzy bottled soft beverage,Beverages
 Energy Drink,Caffeinated can for staying awake,Beverages
 Soup,"Hot liquid dish, like winter chicken corn",Beverages
-Cocoa,Hot chocolate drink,Beverages
+Cocoa,Brown powder stirred into hot milk,Beverages
 Gulab Jamun,Fried milk balls in sugar syrup,Desserts
 Barfi,Dense milk fudge cut in squares,Desserts
 Jalebi,"Orange syrupy spirals, fried crisp",Desserts
@@ -543,8 +543,8 @@ Custard,Yellow creamy dessert made with powder,Desserts
 Cake,"Spongy baked treat, often iced",Desserts
 Pastry,"Small flaky, cream-filled bakery treat",Desserts
 Ice Cream,Frozen sweet scooped into cones,Desserts
-Chocolate,Sweet made from cocoa,Desserts
-Cookie,"Round sweet baked treat, soft and chewy, often with chocolate bits",Desserts
+Chocolate,Brown sweet bar that melts in the heat,Desserts
+Cookie,"Soft, chewy round baked treat, dotted with chips",Desserts
 Biscuit,Crisp baked snack dipped in chai,Desserts
 Brownie,"Dense, fudgy chocolate square",Desserts
 Pudding,"Wobbly set dessert, caramel or chocolate",Desserts
@@ -576,7 +576,7 @@ Wife,Biwi or Begum: a female spouse,Family Relations
 Father-in-law,Sasur: your spouse's dad,Family Relations
 Mother-in-law,Saas: your spouse's mum,Family Relations
 Brother-in-law,"Devar, saala: spouse's male sibling or sister's husband",Family Relations
-Sister-in-law,"Nand, saali: spouse's female sibling or brother's wife",Family Relations
+Sister-in-law,"Bhabhi, nand, saali: spouse's sister or brother's wife",Family Relations
 Step-mother,"Sauteli maa: dad's wife, not your biological parent",Family Relations
 Step-father,"Sautela baap: mum's husband, not your biological parent",Family Relations
 Grandson,Pota or Nawasa: your child's son,Family Relations
@@ -597,8 +597,8 @@ Fatima,"Daughter of the Prophet, wife of Ali",Sahaba
 Hassan,Elder grandson of the Prophet,Sahaba
 Hussain,"Younger grandson of the Prophet, martyred at Karbala",Sahaba
 Zaid ibn Harithah,Freed slave raised by the Prophet; named in Quran,Sahaba
-Talha,Shielded the Prophet at Uhud,Sahaba
-Zubair,Cousin and disciple (hawari) of the Prophet,Sahaba
+Talha,Shielded the Prophet at Uhud; promised Paradise,Sahaba
+Zubair,"Son of Safiyya, called the Prophet's hawari",Sahaba
 Saad ibn Abi Waqqas,"Archer, victor at Qadisiyyah",Sahaba
 Abdur Rahman ibn Awf,"Wealthy merchant, promised Paradise",Sahaba
 Anas ibn Malik,Served the Prophet for ten years,Sahaba

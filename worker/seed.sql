@@ -518,7 +518,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-516','game1','Coffee','Hot drink brewed from roasted beans','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-517','game1','Juice','Liquid squeezed from fruit','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-518','game1','Lassi','Yogurt drink, sweet or salty','Beverages');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-519','game1','Shake','Cold, thick milk drink blended with ice cream, e.g. mango or chocolate','Beverages');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-519','game1','Shake','Thick, cold milk drink with ice cream','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-520','game1','Smoothie','Thick blend of fruit and yogurt','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-521','game1','Lemonade','Nimbu pani: sweetened citrus water','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-522','game1','Squash Drink','Fruit concentrate diluted with water','Beverages');
@@ -533,7 +533,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-531','game1','Cold Drink','Fizzy bottled soft beverage','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-532','game1','Energy Drink','Caffeinated can for staying awake','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-533','game1','Soup','Hot liquid dish, like winter chicken corn','Beverages');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-534','game1','Cocoa','Hot chocolate drink','Beverages');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-534','game1','Cocoa','Brown powder stirred into hot milk','Beverages');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-535','game1','Gulab Jamun','Fried milk balls in sugar syrup','Desserts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-536','game1','Barfi','Dense milk fudge cut in squares','Desserts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-537','game1','Jalebi','Orange syrupy spirals, fried crisp','Desserts');
@@ -544,8 +544,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-542','game1','Cake','Spongy baked treat, often iced','Desserts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-543','game1','Pastry','Small flaky, cream-filled bakery treat','Desserts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-544','game1','Ice Cream','Frozen sweet scooped into cones','Desserts');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-545','game1','Chocolate','Sweet made from cocoa','Desserts');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-546','game1','Cookie','Round sweet baked treat, soft and chewy, often with chocolate bits','Desserts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-545','game1','Chocolate','Brown sweet bar that melts in the heat','Desserts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-546','game1','Cookie','Soft, chewy round baked treat, dotted with chips','Desserts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-547','game1','Biscuit','Crisp baked snack dipped in chai','Desserts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-548','game1','Brownie','Dense, fudgy chocolate square','Desserts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-549','game1','Pudding','Wobbly set dessert, caramel or chocolate','Desserts');
@@ -577,7 +577,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-575','game1','Father-in-law','Sasur: your spouse''s dad','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-576','game1','Mother-in-law','Saas: your spouse''s mum','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-577','game1','Brother-in-law','Devar, saala: spouse''s male sibling or sister''s husband','Family Relations');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-578','game1','Sister-in-law','Nand, saali: spouse''s female sibling or brother''s wife','Family Relations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-578','game1','Sister-in-law','Bhabhi, nand, saali: spouse''s sister or brother''s wife','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-579','game1','Step-mother','Sauteli maa: dad''s wife, not your biological parent','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-580','game1','Step-father','Sautela baap: mum''s husband, not your biological parent','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-581','game1','Grandson','Pota or Nawasa: your child''s son','Family Relations');
@@ -598,8 +598,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-596','game1','Hassan','Elder grandson of the Prophet','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-597','game1','Hussain','Younger grandson of the Prophet, martyred at Karbala','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-598','game1','Zaid ibn Harithah','Freed slave raised by the Prophet; named in Quran','Sahaba');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-599','game1','Talha','Shielded the Prophet at Uhud','Sahaba');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-600','game1','Zubair','Cousin and disciple (hawari) of the Prophet','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-599','game1','Talha','Shielded the Prophet at Uhud; promised Paradise','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-600','game1','Zubair','Son of Safiyya, called the Prophet''s hawari','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-601','game1','Saad ibn Abi Waqqas','Archer, victor at Qadisiyyah','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-602','game1','Abdur Rahman ibn Awf','Wealthy merchant, promised Paradise','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-603','game1','Anas ibn Malik','Served the Prophet for ten years','Sahaba');
@@ -13905,7 +13905,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-178','game8','COMMON <---> ROYALTY','Write the first line of a rishta profile for someone who is this likely to be royalty','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-179','game8','NOT A SOLDIER <---> DEFINITELY A MUGHAL SIPAHI','Write a piece of advice that is this likely to have been given by a soldier in a Mughal army','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-180','game8','TERRIBLE <---> VERY HELPFUL','Write a piece of advice that would be this helpful for a new parent','Writing');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-181','game8','NOT MANLY <---> TOO MANLY','Make up a name for a cologne that’s this manly','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-181','game8','NOT MANLY <---> TOO MANLY','Make up a name for an attar for men that is this manly','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-182','game8','ADULT NAMED IT <---> CHILD NAMED IT','Make up a name for a perfume that is this likely to have been named by a child','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-183','game8','AWFEL SPELER <---> GREAT SPELLER','Write the first line of a rishta profile for someone who is this good at spelling','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-184','game8','TOO EASY <---> TOO HARD','Make up a title for a trivia game that is this challenging','Writing');
@@ -14774,6 +14774,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1047','game8','STARVING <---> FULL TO BURSTING','Write a one-line review of a roadside dhaba that left you this full','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1048','game8','COPY-PASTED FORWARD <---> TRULY HEARTFELT','Write an Eid Mubarak message that is this heartfelt','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1049','game8','FAIR PRICE <---> TOURIST PRICE','Make up a name for a bazaar shop whose prices are this unfair to visitors','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1050','game8','PURE URDU <---> TRIPLE LANGUAGE MIX','Write a sentence a cousin says at a family dawat that mixes Urdu, Punjabi and English this much','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1051','game8','NEVER CUTS A KITE <---> CUTS EVERY KITE','Make up a nickname for a rooftop kite flyer who is this good at cutting other kites','Writing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -17855,6 +17857,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-947','game11','Problem','The Metro bus was so crowded that I had to hold my _____ above my head!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-948','game11','Problem','I put on my Eid kurta and realised it smells like _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-949','game11','Problem','My mobile cover always has _____ stuck inside it!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-950','game11','Customer','Hijama Practitioner','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-951','game11','Customer','Zameendar (Landlord)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-952','game11','Problem','My phone charger disappears every time I need it before leaving for _____!','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');

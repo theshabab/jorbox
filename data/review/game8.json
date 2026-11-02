@@ -2606,15 +2606,15 @@
   {
    "id": "game8-201",
    "Name": "NOT MANLY <---> TOO MANLY",
-   "Description": "Make up a name for a cologne that’s this manly",
+   "Description": "Make up a name for an attar for men that is this manly",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT MANLY <---> TOO MANLY",
     "Description": "Make up a name for a cologne that’s this manly",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Cologne is alcohol-based and Western; attar is the local fit and the idea is kept."
   },
   {
    "id": "game8-202",
@@ -12294,6 +12294,22 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Distinct bazaar theme; clear opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "PURE URDU <---> TRIPLE LANGUAGE MIX",
+   "Description": "Write a sentence a cousin says at a family dawat that mixes Urdu, Punjabi and English this much",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean, clear opposite ends, and no existing code-switching card."
+  },
+  {
+   "id": null,
+   "Name": "NEVER CUTS A KITE <---> CUTS EVERY KITE",
+   "Description": "Make up a nickname for a rooftop kite flyer who is this good at cutting other kites",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer scale ends; a Writing nickname card is distinct from the kite drawing cards."
   }
  ]
 }

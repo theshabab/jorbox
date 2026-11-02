@@ -7065,7 +7065,7 @@
   {
    "id": "game1-544",
    "Name": "Shake",
-   "Description": "Cold, thick milk drink blended with ice cream, e.g. mango or chocolate",
+   "Description": "Thick, cold milk drink with ice cream",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7073,7 +7073,7 @@
     "Description": "A blended beverage",
     "Category": "Beverages"
    },
-   "note": "Specific hint; Debate: Milk plus ice cream base is a clear differentiator from Smoothie (fruit and yogurt); the original hint was close to Smoothie's."
+   "note": "Specific hint; Debate: Milk plus ice cream base is a clear differentiator from Smoothie (fruit and yogurt); the original hint was close to Smoothie's.; Debate: Shorter, drops example list; accurate."
   },
   {
    "id": "game1-545",
@@ -7286,7 +7286,7 @@
   {
    "id": "game1-561",
    "Name": "Cocoa",
-   "Description": "Hot chocolate drink",
+   "Description": "Brown powder stirred into hot milk",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7294,7 +7294,7 @@
     "Description": "A chocolate beverage",
     "Category": "Beverages"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Removes the Chocolate card's word from the hint."
   },
   {
    "id": "game1-562",
@@ -7429,7 +7429,7 @@
   {
    "id": "game1-572",
    "Name": "Chocolate",
-   "Description": "Sweet made from cocoa",
+   "Description": "Brown sweet bar that melts in the heat",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7437,12 +7437,12 @@
     "Description": "A sweet treat",
     "Category": "Desserts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Removes the circular reference to Cocoa and is more descriptive."
   },
   {
    "id": "game1-573",
    "Name": "Cookie",
-   "Description": "Round sweet baked treat, soft and chewy, often with chocolate bits",
+   "Description": "Soft, chewy round baked treat, dotted with chips",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7450,7 +7450,7 @@
     "Description": "A baked treat",
     "Category": "Desserts"
    },
-   "note": "Specific hint; Debate: Separates Cookie from Biscuit (crisp, dipped in chai) by stressing soft and chewy."
+   "note": "Specific hint; Debate: Separates Cookie from Biscuit (crisp, dipped in chai) by stressing soft and chewy.; Debate: Challenger's amendment: avoids the Chocolate card's word and stays distinct from Biscuit."
   },
   {
    "id": "game1-574",
@@ -7858,7 +7858,7 @@
   {
    "id": "game1-605",
    "Name": "Sister-in-law",
-   "Description": "Nand, saali: spouse's female sibling or brother's wife",
+   "Description": "Bhabhi, nand, saali: spouse's sister or brother's wife",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7866,7 +7866,7 @@
     "Description": "Spouse's sister",
     "Category": "Family Relations"
    },
-   "note": "Specific hint; Debate: Familiar local terms, short and accurate.; Debate: Adds a description and keeps the bhabhi (brother's wife) sense."
+   "note": "Specific hint; Debate: Familiar local terms, short and accurate.; Debate: Adds a description and keeps the bhabhi (brother's wife) sense.; Debate: Challenger's amendment: adds the common local term bhabhi and stays near 8 words."
   },
   {
    "id": "game1-606",
@@ -8131,7 +8131,7 @@
   {
    "id": "game1-626",
    "Name": "Talha",
-   "Description": "Shielded the Prophet at Uhud",
+   "Description": "Shielded the Prophet at Uhud; promised Paradise",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8139,12 +8139,12 @@
     "Description": "Companion of the Prophet",
     "Category": "Sahaba"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: More specific, and accurate: Talha ibn Ubaydullah was one of the ten promised Paradise."
   },
   {
    "id": "game1-627",
    "Name": "Zubair",
-   "Description": "Cousin and disciple (hawari) of the Prophet",
+   "Description": "Son of Safiyya, called the Prophet's hawari",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8152,7 +8152,7 @@
     "Description": "Companion of the Prophet",
     "Category": "Sahaba"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Accurate and unique, and removes the overlap with the Ali card's 'cousin'."
   },
   {
    "id": "game1-628",

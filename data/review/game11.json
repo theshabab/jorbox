@@ -9095,6 +9095,27 @@
    "Description": "My mobile cover always has _____ stuck inside it!",
    "action": "add",
    "note": "New card (debate): Accepted the challenger's amendment: it drops the stash connotation and keeps the blank open."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Hijama Practitioner",
+   "action": "add",
+   "note": "New card (debate): Distinct, recognisable figure, not in deck; challenger agreed."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Zameendar (Landlord)",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani figure; only a rent Problem card exists, so no overlap; challenger agreed."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My phone charger disappears every time I need it before leaving for _____!",
+   "action": "add",
+   "note": "New card (debate): Open blank, different premise from the existing charger card; challenger agreed."
   }
  ]
 }
