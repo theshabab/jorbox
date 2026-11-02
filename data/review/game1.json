@@ -7065,7 +7065,7 @@
   {
    "id": "game1-544",
    "Name": "Shake",
-   "Description": "Thick blended drink of milk and fruit",
+   "Description": "Cold, thick milk drink blended with ice cream, e.g. mango or chocolate",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7073,7 +7073,7 @@
     "Description": "A blended beverage",
     "Category": "Beverages"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Milk plus ice cream base is a clear differentiator from Smoothie (fruit and yogurt); the original hint was close to Smoothie's."
   },
   {
    "id": "game1-545",
@@ -7442,7 +7442,7 @@
   {
    "id": "game1-573",
    "Name": "Cookie",
-   "Description": "Crunchy baked treat, often chocolate chip",
+   "Description": "Round sweet baked treat, soft and chewy, often with chocolate bits",
    "Category": "Desserts",
    "action": "edit",
    "original": {
@@ -7450,7 +7450,7 @@
     "Description": "A baked treat",
     "Category": "Desserts"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Separates Cookie from Biscuit (crisp, dipped in chai) by stressing soft and chewy."
   },
   {
    "id": "game1-574",

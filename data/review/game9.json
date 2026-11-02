@@ -13287,6 +13287,76 @@
    "Description": "Seville",
    "action": "add",
    "note": "New card (debate): Correct, Seville absent, Al-Andalus coverage."
+  },
+  {
+   "id": null,
+   "Name": "How many of the world's fourteen 8,000-metre peaks lie in Pakistan?",
+   "Description": "Five (K2, Nanga Parbat, Gasherbrum I, Gasherbrum II, Broad Peak)",
+   "action": "add",
+   "note": "New card (debate): Fact verified; question in Name, answer in Description; hint removed."
+  },
+  {
+   "id": null,
+   "Name": "What is the second call, given just before the congregational prayer begins, called?",
+   "Description": "Iqamah",
+   "action": "add",
+   "note": "New card (debate): Accurate; not in deck; deck field order."
+  },
+  {
+   "id": null,
+   "Name": "How many fard rakats are in the Maghrib prayer?",
+   "Description": "Three",
+   "action": "add",
+   "note": "New card (debate): Accurate; pairs with Fajr card; no Maghrib rakat card exists."
+  },
+  {
+   "id": null,
+   "Name": "Which holy book was revealed to Prophet Isa (AS)?",
+   "Description": "The Injil (Gospel)",
+   "action": "add",
+   "note": "New card (debate): Accurate; no Injil card; deck field order."
+  },
+  {
+   "id": null,
+   "Name": "How many prophets are mentioned by name in the Quran?",
+   "Description": "Twenty-five",
+   "action": "add",
+   "note": "New card (debate): Well-established figure; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which resort town in the Kaghan Valley is the usual base for visiting Lake Saiful Muluk?",
+   "Description": "Naran",
+   "action": "add",
+   "note": "New card (debate): Different answer from existing Saiful Muluk valley card, so not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which group of granite spires in the Baltoro Karakoram is famous for some of the world's tallest sheer cliffs?",
+   "Description": "Trango Towers",
+   "action": "add",
+   "note": "New card (debate): Answer leak removed; deck field order."
+  },
+  {
+   "id": null,
+   "Name": "Khan Research Laboratories, founded by Dr Abdul Qadeer Khan, is based in which town near Islamabad?",
+   "Description": "Kahuta",
+   "action": "add",
+   "note": "New card (debate): Accurate; deck field order."
+  },
+  {
+   "id": null,
+   "Name": "Which Punjab city, famous for its chargha, is nicknamed the 'City of Wrestlers'?",
+   "Description": "Gujranwala",
+   "action": "add",
+   "note": "New card (debate): Pehlwan hint removed; deck field order."
+  },
+  {
+   "id": null,
+   "Name": "Which 9th-century Baghdad scholar, called the 'Philosopher of the Arabs', worked on cryptanalysis, optics and mathematics?",
+   "Description": "Al-Kindi",
+   "action": "add",
+   "note": "New card (debate): Accurate; not in deck; deck field order."
   }
  ]
 }

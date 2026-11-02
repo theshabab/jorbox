@@ -11108,8 +11108,8 @@
    "Name": "Dadi's nuskha <---> Doctor's prescription",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "add",
-   "note": "New card (debate): Local, clear opposites."
+   "action": "remove",
+   "note": "Debate: Generic duplicate of live DOCTOR'S ADVICE <---> HAKEEM'S NUSKHA, which has a concrete task."
   },
   {
    "id": null,
@@ -11164,8 +11164,8 @@
    "Name": "Fixed with jugaad <---> Needs a proper repair",
    "Description": "Think of something that falls on this scale",
    "Category": "Writing",
-   "action": "add",
-   "note": "New card (debate): Funny, desi, clear opposites."
+   "action": "remove",
+   "note": "Debate: Same scale as live PROPER REPAIR <---> FULL JUGAAD, which has a concrete task."
   },
   {
    "id": null,
@@ -11682,10 +11682,10 @@
   {
    "id": null,
    "Name": "SAGS TO THE FLOOR <---> DRUM TIGHT",
-   "Description": "Draw an uncle lying on a charpai whose ropes are this loose or tight",
+   "Description": "Draw an uncle lying on a charpai whose ropes are this tight",
    "Category": "Drawing",
    "action": "add",
-   "note": "New card (debate): New local object, clear opposites, drawable; not in the deck."
+   "note": "New card (debate): New local object, clear opposites, drawable; not in the deck.; Debate: Single clear direction along the scale instead of the confusing 'loose or tight'."
   },
   {
    "id": null,
@@ -11798,6 +11798,30 @@
    "Category": "Drawing",
    "action": "add",
    "note": "New card (debate): Desi-home humour, distinct from existing dabba and cupboard cards."
+  },
+  {
+   "id": null,
+   "Name": "AFFORDABLE <---> HIGHWAY ROBBERY",
+   "Description": "Write what Ammi says when the sabzi wala tells her the price of tomatoes, if she finds it this outrageous",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): New local mehngai scenario, clear opposites, no existing price card."
+  },
+  {
+   "id": null,
+   "Name": "DRY <---> SOAKED THROUGH",
+   "Description": "Draw the washing on a rooftop clothesline after a sudden monsoon shower that is this wet",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Distinct drawable monsoon scene; no rooftop-washing card exists."
+  },
+  {
+   "id": null,
+   "Name": "RUDE <---> FULL ADAB",
+   "Description": "Write how a child greets the elderly guests at the door if the child shows this much adab",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Culturally fitting, clear scale, no existing adab card."
   }
  ]
 }

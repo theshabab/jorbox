@@ -517,7 +517,7 @@ Tea,"Pakistan's favourite hot drink, with milk and sugar",Beverages
 Coffee,Hot drink brewed from roasted beans,Beverages
 Juice,Liquid squeezed from fruit,Beverages
 Lassi,"Yogurt drink, sweet or salty",Beverages
-Shake,Thick blended drink of milk and fruit,Beverages
+Shake,"Cold, thick milk drink blended with ice cream, e.g. mango or chocolate",Beverages
 Smoothie,Thick blend of fruit and yogurt,Beverages
 Lemonade,Nimbu pani: sweetened citrus water,Beverages
 Squash,Fruit concentrate diluted with water,Beverages
@@ -544,7 +544,7 @@ Cake,"Spongy baked treat, often iced",Desserts
 Pastry,"Small flaky, cream-filled bakery treat",Desserts
 Ice Cream,Frozen sweet scooped into cones,Desserts
 Chocolate,Sweet made from cocoa,Desserts
-Cookie,"Crunchy baked treat, often chocolate chip",Desserts
+Cookie,"Round sweet baked treat, soft and chewy, often with chocolate bits",Desserts
 Biscuit,Crisp baked snack dipped in chai,Desserts
 Brownie,"Dense, fudgy chocolate square",Desserts
 Pudding,"Wobbly set dessert, caramel or chocolate",Desserts
