@@ -940,7 +940,7 @@ Customer,Meter Reader (Bijli Wala)
 Customer,University Professor
 Customer,Housewife on a Tight Budget
 Customer,Hospital Ward Boy
-Problem,"We can no longer afford _____, so now the whole family shares one!"
+Problem,"We can no longer afford a _____ each, so now the whole family shares one!"
 Problem,I forgot to switch off the water motor and now _____ is flooded!
 Problem,My abbu's old Suzuki breaks down every time we carry _____!
 Problem,I'm fasting and the whole street smells of fried _____!
@@ -958,3 +958,8 @@ Problem,My dadi's pickle jar has been hiding _____ since 1995!
 Problem,Every Sunday the halwa puri wala has such a long queue because of _____!
 Customer,Halwa Puri Wala
 Customer,Dry Fruit Seller
+Customer,Courier Wala
+Customer,Masjid Chanda Collector
+Customer,Furniture Shop Owner
+Customer,Gali Cricket Kid
+Problem,Ammi's chappal is flying toward me because of _____!

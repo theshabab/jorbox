@@ -12406,6 +12406,62 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Family-life humour; no nap-excuse card exists."
+  },
+  {
+   "id": null,
+   "Name": "Easy to wake up for <---> Hard to wake up for",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Distinct from the sleeper-type scale; relatable and has a clear opposite."
+  },
+  {
+   "id": null,
+   "Name": "Good hiding spot <---> Bad hiding spot",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): No hiding-spot writing card exists; clear opposites."
+  },
+  {
+   "id": null,
+   "Name": "Worth the wait <---> Not worth the wait",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear opposites; not a duplicate of the drawing/naming wait cards."
+  },
+  {
+   "id": null,
+   "Name": "Best part of winter <---> Worst part of winter",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Distinct from summer/winter food and best/worst day cards; local frame."
+  },
+  {
+   "id": null,
+   "Name": "Good thing to hear from Ammi <---> Bad thing to hear from Ammi",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): About phrases, not Ammi's approval; different angle and relatable."
+  },
+  {
+   "id": null,
+   "Name": "Good use of a Sunday <---> Bad use of a Sunday",
+   "Description": "Think of something that falls on this scale",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Generic Sunday scale not present."
+  },
+  {
+   "id": null,
+   "Name": "LIGHT <---> BREAKS YOUR BACK",
+   "Description": "Draw a school bag that is this heavy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No heavy-bag card exists; universal local school joke with clear ends."
   }
  ]
 }

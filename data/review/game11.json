@@ -9043,9 +9043,9 @@
   {
    "id": null,
    "Name": "Problem",
-   "Description": "We can no longer afford _____, so now the whole family shares one!",
+   "Description": "We can no longer afford a _____ each, so now the whole family shares one!",
    "action": "add",
-   "note": "New card (debate): Challenger's amended wording is clearer and differs from the price-doubled card."
+   "note": "New card (debate): Challenger's amended wording is clearer and differs from the price-doubled card.; Debate: Challenger's tighter amendment fixes the awkward blank and 'shares one' referent."
   },
   {
    "id": null,
@@ -9165,6 +9165,41 @@
    "Description": "Dry Fruit Seller",
    "action": "add",
    "note": "New card (debate): Familiar market customer, not a duplicate of Khajoor Wala."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Courier Wala",
+   "action": "add",
+   "note": "New card (debate): Brand-free local customer, not already in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Masjid Chanda Collector",
+   "action": "add",
+   "note": "New card (debate): Familiar figure, distinct from Zakat Collector and Masjid Khadim."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Furniture Shop Owner",
+   "action": "add",
+   "note": "New card (debate): Local trader without dowry framing; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Gali Cricket Kid",
+   "action": "add",
+   "note": "New card (debate): Relatable customer using deck spelling; existing gali card is a Problem, not a Customer."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Ammi's chappal is flying toward me because of _____!",
+   "action": "add",
+   "note": "New card (debate): Classic desi household humour with an open blank; no thrown-chappal card exists."
   }
  ]
 }
