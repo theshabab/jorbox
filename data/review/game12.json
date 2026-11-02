@@ -12341,6 +12341,36 @@
    "Name": "Roundabout",
    "action": "add",
    "note": "New card (debate): Everyday road noun, distinct from Chowk."
+  },
+  {
+   "id": null,
+   "Name": "Pharmacist",
+   "action": "add",
+   "note": "New card (debate): Distinct person noun from live Pharmacy; fits profession set"
+  },
+  {
+   "id": null,
+   "Name": "Orphanage",
+   "action": "add",
+   "note": "New card (debate): Not in deck; clean place noun fitting charity theme"
+  },
+  {
+   "id": null,
+   "Name": "Notification",
+   "action": "add",
+   "note": "New card (debate): Not live; guessable modern noun"
+  },
+  {
+   "id": null,
+   "Name": "Podcast",
+   "action": "add",
+   "note": "New card (debate): Not in deck; allowed media noun"
+  },
+  {
+   "id": null,
+   "Name": "Punctuality",
+   "action": "add",
+   "note": "New card (debate): Not in deck; abstract virtue noun, welcomed"
   }
  ]
 }

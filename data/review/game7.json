@@ -19527,10 +19527,10 @@
   },
   {
    "id": null,
-   "Description": "the tuition teacher has fallen asleep on the charpai",
+   "Description": "a tuition teacher fast asleep on the charpai",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): Relatable, drawable, no duplicate."
+   "note": "New card (debate): Relatable, drawable, no duplicate.; Debate: Matches the deck's 'a ...' noun-phrase style; meaning unchanged."
   },
   {
    "id": null,
@@ -21764,6 +21764,20 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Warm, local, correct token use, distinct from other mango cards."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> trying to cross a busy road with a tray of chai in each hand",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct, drawable, affectionate; the existing chai-waiter card is a different gag."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> fighting a mosquito at 3 a.m. with a slipper and a torch",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Relatable and drawable; existing mosquito cards (coil, net, song) are different gags."
   }
  ]
 }
