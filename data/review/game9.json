@@ -14029,6 +14029,48 @@
    "Description": "Sui gas field",
    "action": "add",
    "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani captain led the team to the number one Test ranking in August 2016?",
+   "Description": "Misbah-ul-Haq",
+   "action": "add",
+   "note": "New card (debate): Accurate; Misbah not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani batsman became the first from his country to score 10,000 Test runs?",
+   "Description": "Younis Khan",
+   "action": "add",
+   "note": "New card (debate): Accurate; only Waqar Younis (a bowler) is in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which language is the mother tongue of most people in Khyber Pakhtunkhwa?",
+   "Description": "Pashto",
+   "action": "add",
+   "note": "New card (debate): Accurate; no Pashto card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Spanish city was the capital of Umayyad Andalusia and is home to a famous Great Mosque, now a cathedral?",
+   "Description": "Cordoba",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-history card; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which cold dessert drink of milk, rose syrup, vermicelli and basil seeds is a Pakistani summer and Ramadan favourite?",
+   "Description": "Falooda",
+   "action": "add",
+   "note": "New card (debate): Accurate food card; not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the name of the Islamic marriage contract, signed with the consent of both bride and groom, that is announced before witnesses?",
+   "Description": "Nikah",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version used. It avoids the answer leak in the mehndi wording and the music/dancing association. The existing nikah card is about mahr, so this is not a duplicate."
   }
  ]
 }

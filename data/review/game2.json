@@ -12267,10 +12267,10 @@
   {
    "id": null,
    "Name": "Alhambra",
-   "Description": "Granada | Spain | Palace | Nasrid | Red",
+   "Description": "Granada | Spain | Palace | Moors | Red",
    "Category": "Historical Places",
    "action": "add",
-   "note": "New card (debate): Muslim Andalus heritage; Spain/Andalus overlap removed."
+   "note": "New card (debate): Muslim Andalus heritage; Spain/Andalus overlap removed.; Debate: Moors is the clue guessers reach for; Nasrid was obscure."
   },
   {
    "id": null,
@@ -14943,6 +14943,78 @@
    "Category": "Kitchen Items",
    "action": "add",
    "note": "New card (debate): Challenger's amendment removes the redundant Atta/Flour pair."
+  },
+  {
+   "id": null,
+   "Name": "Pulse",
+   "Description": "Nabz | Wrist | Heartbeat | Doctor | Count",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Easy to act out, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Ribs",
+   "Description": "Pasli | Chest | Bones | Cage | Heart",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Everyday body word, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Locust",
+   "Description": "Tiddi | Swarm | Crops | Green | Jump",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Familiar in Pakistan and fun to act out; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Alp Arslan",
+   "Description": "Seljuk | Manzikert | Sultan | Byzantines | Turk",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Accurate and well-known; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Data Darbar",
+   "Description": "Lahore | Shrine | Sufi | Langar | Saint",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: banned words must not echo the Name word Data; Sufi and Saint are natural clues."
+  },
+  {
+   "id": null,
+   "Name": "Wicket",
+   "Description": "Stumps | Bails | Bowler | Out | Cricket",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Familiar to Pakistani players; distinct from the Cricket card."
+  },
+  {
+   "id": null,
+   "Name": "Cricket Bat",
+   "Description": "Balla | Willow | Hit | Handle | Six",
+   "Category": "Sports",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment accepted: dropped Batsman and Cricket, which echo the Name; added Balla."
+  },
+  {
+   "id": null,
+   "Name": "Nile",
+   "Description": "Egypt | Longest | River | Delta | Africa",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): World-famous river; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Indus",
+   "Description": "Sindhu | River | Sindh | Tarbela | Mohenjo-daro",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Pakistan's main river; not in deck."
   }
  ]
 }

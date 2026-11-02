@@ -11220,10 +11220,10 @@
   {
    "id": null,
    "Name": "Kangaroo",
-   "Description": "Aussie animal carrying its baby in a belly pocket",
+   "Description": "Australian hopper carrying its baby in a pouch",
    "Category": "Animals",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Replaces slangy 'Aussie' and 'belly pocket' with clearer wording. Still identifies the animal."
   },
   {
    "id": null,
@@ -11268,10 +11268,10 @@
   {
    "id": null,
    "Name": "Kiwi",
-   "Description": "Fuzzy brown fruit with green flesh and tiny black seeds",
+   "Description": "Fuzzy brown fruit with bright green flesh",
    "Category": "Fruits",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Shortened from 10 to 7 words and still clearly the fruit, not the bird."
   },
   {
    "id": null,
@@ -11676,10 +11676,10 @@
   {
    "id": null,
    "Name": "Abdullah ibn Umar",
-   "Description": "Son of the second Caliph; followed the Prophet's footsteps exactly",
+   "Description": "Second Caliph's son who followed the Prophet's footsteps",
    "Category": "Sahaba",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Slightly tighter and within the limit. Correct (son of Umar) and it does not contain the name."
   },
   {
    "id": null,
@@ -11708,10 +11708,10 @@
   {
    "id": null,
    "Name": "Al-Zahrawi",
-   "Description": "Andalusian surgeon whose illustrated encyclopedia taught Europe medicine",
+   "Description": "Andalusian surgeon whose encyclopedia taught Europe surgery",
    "Category": "Muslim Historical Figures",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Original was over the ~8-word limit; shortened, with the surgical focus of his Al-Tasrif kept."
   },
   {
    "id": null,
@@ -11724,10 +11724,10 @@
   {
    "id": null,
    "Name": "Mimar Sinan",
-   "Description": "Ottoman chief architect of Sulaymaniyah and Selimiye mosques",
+   "Description": "Ottoman chief architect of the Selimiye mosque",
    "Category": "Muslim Historical Figures",
    "action": "add",
-   "note": "Synced from Charades: Main follows the Charades word list"
+   "note": "Synced from Charades: Main follows the Charades word list; Debate: Shortened to fit the limit. Selimiye is still a clearly identifying work."
   },
   {
    "id": null,
