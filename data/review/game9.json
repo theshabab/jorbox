@@ -13224,6 +13224,69 @@
    "Description": "Yahya (AS)",
    "action": "add",
    "note": "New card (debate): Accurate, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "For which Mughal empress did Shah Jahan build the Taj Mahal as a tomb?",
+   "Description": "Mumtaz Mahal",
+   "action": "add",
+   "note": "New card (debate): Amended wording is clearer; Mumtaz Mahal not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Mongol commander led the 1258 siege of Baghdad?",
+   "Description": "Hulagu Khan",
+   "action": "add",
+   "note": "New card (debate): Correct, absent from deck, complements the 1258 card."
+  },
+  {
+   "id": null,
+   "Name": "Which Mamluk sultan led the Muslim army to victory at Ain Jalut in 1260?",
+   "Description": "Sultan Qutuz",
+   "action": "add",
+   "note": "New card (debate): Correct, Qutuz absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Which Ottoman sultan conquered Mamluk Egypt in 1517?",
+   "Description": "Selim I (Yavuz Sultan Selim)",
+   "action": "add",
+   "note": "New card (debate): Correct, Selim absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Which army chief became Pakistan's first military ruler after the 1958 coup?",
+   "Description": "Ayub Khan",
+   "action": "add",
+   "note": "New card (debate): Challenger's phrasing is more accurate (Mirza declared martial law first); Ayub absent."
+  },
+  {
+   "id": null,
+   "Name": "Who founded the Pakistan Peoples Party in 1967?",
+   "Description": "Zulfiqar Ali Bhutto",
+   "action": "add",
+   "note": "New card (debate): Correct; only Benazir is in the deck; politics allowed."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Turkmenistan?",
+   "Description": "Ashgabat",
+   "action": "add",
+   "note": "New card (debate): Correct, not in deck, fits the capitals set."
+  },
+  {
+   "id": null,
+   "Name": "Which powerful Mughal empress, wife of Jahangir, is buried in Lahore's Shahdara Bagh?",
+   "Description": "Nur Jahan",
+   "action": "add",
+   "note": "New card (debate): Correct; distinct from the existing Jahangir tomb card."
+  },
+  {
+   "id": null,
+   "Name": "The Giralda tower, a former minaret turned bell tower, stands in which Spanish city?",
+   "Description": "Seville",
+   "action": "add",
+   "note": "New card (debate): Correct, Seville absent, Al-Andalus coverage."
   }
  ]
 }

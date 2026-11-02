@@ -529,7 +529,7 @@ Squash,Concentrate | Orange | Dilute | Bottle | Mix,Beverages
 Sherbet,Sharbat | Iftar | Sugar | Pink | Garmi,Beverages
 Rooh Afza,Hamdard | Red | Sharbat | Ramzan | Iftar,Beverages
 Kanji,Carrot | Gajar | Fermented | Purple | Sour,Beverages
-Sattu,Chana | Flour | Roasted | Punjab | Summer,Beverages
+Sattu,Chana | Flour | Roasted | Gur | Summer,Beverages
 Buttermilk,Chaach | Lassi | Dahi | Namkeen | Jeera,Beverages
 Green Tea,Healthy | Leaves | Kehwa | Weight Loss | Bag,Beverages
 Kashmiri Chai,Pink | Gulabi | Pista | Kashmir | Shadi,Beverages
@@ -564,8 +564,8 @@ Zarda,Rice | Yellow | Colorful | Shadi | Chawal,Desserts
 Sheer Khurma,Eid | Seviyan | Khajoor | Milk | Dry Fruits,Desserts
 Sawaiyan,Eid | Vermicelli | Noodles | Breakfast | Sheer Khurma,Desserts
 Mother,Ammi | Maa | Jannat | Feet | Mom,Family Relations
-Father,Abbu | Dad | Papa | Mother | Husband,Family Relations
-Brother,Bhai | Bhaiya | Sibling | Bro | Elder,Family Relations
+Father,Abbu | Dad | Papa | Baap | Mother,Family Relations
+Brother,Bhai | Bhaiya | Sibling | Bro | Sister,Family Relations
 Sister,Behen | Baji | Apa | Sibling | Sis,Family Relations
 Son,Beta | Boy | Child | Parents | Daughter,Family Relations
 Daughter,Beti | Girl | Child | Parents | Son,Family Relations
@@ -1215,3 +1215,12 @@ Pebble,Small | Stone | River | Smooth | Throw,Nature
 Plough,Hal | Farmer | Field | Bull | Soil,Tools
 Light Bulb,Bijli | Switch | Glow | Fuse | Room,Electronics
 Plug,Socket | Pin | Wire | Switch | Charger,Electronics
+Phulkari,Punjab | Embroidery | Dupatta | Flowers | Colorful,Fabrics
+Chikankari,Lucknow | Embroidery | Kurta | White | Thread,Fabrics
+Goli Soda,Marble | Bottle | Fizzy | Lemon | Thela,Beverages
+Gajar ka Halwa,Carrot | Winter | Khoya | Ghee | Orange,Desserts
+Mithai,Box | Eid | Sweet | Ladoo | Shadi,Desserts
+Dulha,Shadi | Sehra | Sherwani | Nikah | Dulhan,Family Relations
+Dulhan,Shadi | Joda | Mehndi | Red | Dulha,Family Relations
+Bhabhi,Bhai | Wife | Devar | Brother | Sister-in-law,Family Relations
+Ruqayyah,Daughter | Uthman | Prophet | Abyssinia | Badr,Sahaba

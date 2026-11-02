@@ -6636,7 +6636,7 @@
   {
    "id": "game1-511",
    "Name": "Brush",
-   "Description": "Bristled tool for sweeping or scrubbing",
+   "Description": "Bristled tool for painting, scrubbing or tidying hair",
    "Category": "Tools",
    "action": "edit",
    "original": {
@@ -6644,7 +6644,7 @@
     "Description": "A cleaning tool",
     "Category": "Tools"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint named sweeping, which overlaps the live Broom card (Jharu, for sweeping). The challenger's wording is parallel and names the hair action. The hint does not contain the word Brush and stays at about 8 words."
   },
   {
    "id": "game1-512",

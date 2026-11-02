@@ -7286,7 +7286,7 @@
   {
    "id": "game2-561",
    "Name": "Sattu",
-   "Description": "Chana | Flour | Roasted | Punjab | Summer",
+   "Description": "Chana | Flour | Roasted | Gur | Summer",
    "Category": "Beverages",
    "action": "edit",
    "original": {
@@ -7294,7 +7294,7 @@
     "Description": "drink | liquid | cup | hot",
     "Category": "Beverages"
    },
-   "note": ""
+   "note": "Debate: Corrected idx; Gur is a more natural clue than Punjab."
   },
   {
    "id": "game2-562",
@@ -7767,7 +7767,7 @@
   {
    "id": "game2-598",
    "Name": "Father",
-   "Description": "Abbu | Dad | Papa | Mother | Husband",
+   "Description": "Abbu | Dad | Papa | Baap | Mother",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7775,12 +7775,12 @@
     "Description": "family | relative | blood | relation",
     "Category": "Family Relations"
    },
-   "note": "Debate: All five bans were synonyms, so 'Ammi's husband' gave the answer away. Mother and Husband are now banned, and Abba and Baba were near-duplicates of Abbu and Papa."
+   "note": "Debate: All five bans were synonyms, so 'Ammi's husband' gave the answer away. Mother and Husband are now banned, and Abba and Baba were near-duplicates of Abbu and Papa.; Debate: Corrected idx; Husband replaced by Baap; natural clue Mother kept."
   },
   {
    "id": "game2-599",
    "Name": "Brother",
-   "Description": "Bhai | Bhaiya | Sibling | Bro | Elder",
+   "Description": "Bhai | Bhaiya | Sibling | Bro | Sister",
    "Category": "Family Relations",
    "action": "edit",
    "original": {
@@ -7788,7 +7788,7 @@
     "Description": "family | relative | blood | relation",
     "Category": "Family Relations"
    },
-   "note": ""
+   "note": "Debate: Corrected idx; Sister replaces weak Elder."
   },
   {
    "id": "game2-600",
@@ -13791,6 +13791,78 @@
    "Category": "Electronics",
    "action": "add",
    "note": "New card (debate): Everyday, easily acted word, not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Phulkari",
+   "Description": "Punjab | Embroidery | Dupatta | Flowers | Colorful",
+   "Category": "Fabrics",
+   "action": "add",
+   "note": "New card (debate): Not in deck; accurate Punjabi craft."
+  },
+  {
+   "id": null,
+   "Name": "Chikankari",
+   "Description": "Lucknow | Embroidery | Kurta | White | Thread",
+   "Category": "Fabrics",
+   "action": "add",
+   "note": "New card (debate): Not in deck; accurate."
+  },
+  {
+   "id": null,
+   "Name": "Goli Soda",
+   "Description": "Marble | Bottle | Fizzy | Lemon | Thela",
+   "Category": "Beverages",
+   "action": "add",
+   "note": "New card (debate): Iconic street drink; distinct from Doodh Soda."
+  },
+  {
+   "id": null,
+   "Name": "Gajar ka Halwa",
+   "Description": "Carrot | Winter | Khoya | Ghee | Orange",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Distinct from generic Halwa; Orange is the natural clue."
+  },
+  {
+   "id": null,
+   "Name": "Mithai",
+   "Description": "Box | Eid | Sweet | Ladoo | Shadi",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Everyday word, no Mithai card exists."
+  },
+  {
+   "id": null,
+   "Name": "Dulha",
+   "Description": "Shadi | Sehra | Sherwani | Nikah | Dulhan",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): No Dulha/Groom card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Dulhan",
+   "Description": "Shadi | Joda | Mehndi | Red | Dulha",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): No Dulhan/Bride card in deck."
+  },
+  {
+   "id": null,
+   "Name": "Bhabhi",
+   "Description": "Bhai | Wife | Devar | Brother | Sister-in-law",
+   "Category": "Family Relations",
+   "action": "add",
+   "note": "New card (debate): Not in deck; amended to drop redundant Bhaiya."
+  },
+  {
+   "id": null,
+   "Name": "Ruqayyah",
+   "Description": "Daughter | Uthman | Prophet | Abyssinia | Badr",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Accurate; Badr replaces weak Wife."
   }
  ]
 }
