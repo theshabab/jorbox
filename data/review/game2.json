@@ -4400,7 +4400,7 @@
   {
    "id": "game2-339",
    "Name": "Fire Truck",
-   "Description": "Ladder | Water | Siren | Red | Aag",
+   "Description": "Ladder | Water | Siren | Aag | Rescue 1122",
    "Category": "Transport",
    "action": "edit",
    "original": {
@@ -4408,7 +4408,7 @@
     "Description": "Fire | vehicle | ride | wheels",
     "Category": "Transport"
    },
-   "note": ""
+   "note": "Debate: Local fire service replaces generic Red."
   },
   {
    "id": "game2-340",
@@ -14487,6 +14487,78 @@
    "Category": "Historical Places",
    "action": "add",
    "note": "New card (debate): Real Peshawar mosque (1630). Challenger's amendment applied: Qissa Khwani replaces the generic 'Courtyard'."
+  },
+  {
+   "id": null,
+   "Name": "Flyover",
+   "Description": "Pul | Bridge | Road | Traffic | Signal",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Distinct common city sight."
+  },
+  {
+   "id": null,
+   "Name": "Donkey Cart",
+   "Description": "Gadha | Rehri | Load | Wheels | Bojh",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Local transport, distinct from Donkey."
+  },
+  {
+   "id": null,
+   "Name": "Stretcher",
+   "Description": "Patient | Hospital | Carry | Emergency | Ambulance",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Not in deck, easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Stamp",
+   "Description": "Post | Letter | Envelope | Ticket | Seal",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Companion to Envelope."
+  },
+  {
+   "id": null,
+   "Name": "Blackboard",
+   "Description": "Chalk | Duster | Teacher | Class | Write",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "New card (debate): Classroom staple, distinct from Whiteboard."
+  },
+  {
+   "id": null,
+   "Name": "Heel",
+   "Description": "Foot | Shoe | Ankle | Back | Cracked",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Missing body part."
+  },
+  {
+   "id": null,
+   "Name": "Fist",
+   "Description": "Hand | Punch | Closed | Fingers | Grip",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Golden",
+   "Description": "Sunehri | Gold | Yellow | Shiny | Medal",
+   "Category": "Colors",
+   "action": "add",
+   "note": "New card (debate): Gold Colors card is marked remove, so Colors needs this distinct word."
+  },
+  {
+   "id": null,
+   "Name": "Waist",
+   "Description": "Belt | Naap | Tailor | Middle | Slim",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "New card (debate): Common body part missing."
   }
  ]
 }

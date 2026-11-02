@@ -323,7 +323,7 @@ Scooter,Vespa | Two Wheels | Kick | Electric | Small,Transport
 Tractor,Farmer | Kisan | Fields | Trolley | Massey,Transport
 Trolley,Luggage | Airport | Push | Cart | Shopping,Transport
 Ambulance,Hospital | Siren | Edhi | Emergency | Patient,Transport
-Fire Truck,Ladder | Water | Siren | Red | Aag,Transport
+Fire Truck,Ladder | Water | Siren | Aag | Rescue 1122,Transport
 Police Car,Siren | Patrol | Thana | Cop | Chase,Transport
 Jeep,Off Road | Army | Four By Four | Safari | Rally,Transport
 Helicopter,Propeller | Fly | Blades | Chopper | Army,Transport
@@ -1302,3 +1302,12 @@ Software Developer,Code | Laptop | Bug | Programmer | Computer,Occupations
 Veterinarian,Animals | Doctor | Cow | Injection | Clinic,Occupations
 Shah Jahan Mosque,Thatta | Mughal | Domes | Sindh | Echo,Historical Places
 Mahabat Khan Mosque,Peshawar | Mughal | Governor | Qissa Khwani | Masjid,Historical Places
+Flyover,Pul | Bridge | Road | Traffic | Signal,Transport
+Donkey Cart,Gadha | Rehri | Load | Wheels | Bojh,Transport
+Stretcher,Patient | Hospital | Carry | Emergency | Ambulance,Transport
+Stamp,Post | Letter | Envelope | Ticket | Seal,Stationery
+Blackboard,Chalk | Duster | Teacher | Class | Write,Stationery
+Heel,Foot | Shoe | Ankle | Back | Cracked,Body Parts
+Fist,Hand | Punch | Closed | Fingers | Grip,Body Parts
+Golden,Sunehri | Gold | Yellow | Shiny | Medal,Colors
+Waist,Belt | Naap | Tailor | Middle | Slim,Body Parts

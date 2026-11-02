@@ -85169,7 +85169,7 @@
   {
    "id": "game5-6552",
    "Name": "",
-   "Description": "Carl, the kind cat burglar, leaves your valuables and takes your ____",
+   "Description": "Faisal, the kind chor, leaves your valuables and takes your ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -85177,7 +85177,7 @@
     "Description": "Carl, the kind cat burglar, leaves your valuables and takes your <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Local frame replaces Carl and cat burglar."
   },
   {
    "id": "game5-6553",
@@ -85546,15 +85546,15 @@
   {
    "id": "game5-6581",
    "Name": "",
-   "Description": "The worst ringtone to play on your phone during a work meeting",
+   "Description": "The most embarrassing thing for your phone to shout out loud during an office meeting",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The worst ringtone to play on your phone during a work meeting",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Clean reframe, avoids ringtone/song answers."
   },
   {
    "id": "game5-6582",
@@ -85949,7 +85949,7 @@
   {
    "id": "game5-6612",
    "Name": "",
-   "Description": "Unfortunately, Curious George was the most curious about ____",
+   "Description": "Unfortunately, the curious monkey at the zoo was most curious about ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -85957,7 +85957,7 @@
     "Description": "Unfortunately, Curious George was the most curious about <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Removes Western pop culture, keeps joke."
   },
   {
    "id": "game5-6613",
@@ -86391,7 +86391,7 @@
   {
    "id": "game5-6646",
    "Name": "",
-   "Description": "The most difficult hole in mini-golf is a tiny version of ____",
+   "Description": "The hardest level in any video game features a giant version of ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -86399,7 +86399,7 @@
     "Description": "The most difficult hole in mini-golf is a tiny version of <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Removes mini-golf; video games allowed."
   },
   {
    "id": "game5-6647",
@@ -86560,15 +86560,15 @@
   {
    "id": "game5-6659",
    "Name": "",
-   "Description": "A sign it’s time to wrap up your day at the beach",
+   "Description": "A sure sign it’s time to wrap up your day at Sea View",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A sign it’s time to wrap up your day at the beach",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local beach."
   },
   {
    "id": "game5-6660",
@@ -86627,26 +86627,26 @@
    "Name": "",
    "Description": "Fine! If nobody is going to ask... I will! What’s that smell?",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Fine! If nobody is going to ask... I will! What’s that smell?",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Duplicate of live game5-591 and invites toilet answers."
   },
   {
    "id": "game5-6665",
    "Name": "",
-   "Description": "A good excuse for not reading your friend’s new screenplay",
+   "Description": "A good excuse for not reading your friend’s new novel",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "A good excuse for not reading your friend’s new screenplay",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Screenplay is film framing."
   },
   {
    "id": "game5-6666",
@@ -86781,15 +86781,15 @@
   {
    "id": "game5-6676",
    "Name": "",
-   "Description": "The perfect excuse for getting out of gym class",
+   "Description": "The perfect excuse for getting out of PT period at school",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The perfect excuse for getting out of gym class",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Local term for gym class."
   },
   {
    "id": "game5-6677",
@@ -86872,7 +86872,7 @@
   {
    "id": "game5-6683",
    "Name": "",
-   "Description": "Book adaptations have gone too far! Now they’re making ____: On Ice!",
+   "Description": "Book adaptations have gone too far! Now they’re making a 60-episode drama serial about ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -86880,7 +86880,7 @@
     "Description": "Book adaptations have gone too far! Now they’re making <BLANK><i>: On Ice!</i>",
     "Category": "Quiplash"
    },
-   "note": "blank token; HTML tags removed"
+   "note": "blank token; HTML tags removed; Debate: Challenger amendment: keeps the book-adaptation joke, drops the ice show."
   },
   {
    "id": "game5-6684",
@@ -87002,7 +87002,7 @@
   {
    "id": "game5-6693",
    "Name": "",
-   "Description": "You’re twelve years old and you just got a blank check! What’s the first thing you’re buying?",
+   "Description": "You’re twelve years old and Abbu just gave you Rs. 10,000 to spend! What’s the first thing you’re buying?",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -87010,7 +87010,7 @@
     "Description": "You’re twelve years old and you just got a blank check! What’s the first thing you’re buying?",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Blank check is a US concept."
   },
   {
    "id": "game5-6694",
@@ -87314,7 +87314,7 @@
   {
    "id": "game5-6717",
    "Name": "",
-   "Description": "The slowest draw in the West: Billy the ____",
+   "Description": "The slowest runner in the whole mohalla: Bilal the ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -87322,7 +87322,7 @@
     "Description": "The slowest draw in the West: Billy the <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Removes Wild West reference."
   },
   {
    "id": "game5-6718",
@@ -87392,15 +87392,15 @@
   {
    "id": "game5-6723",
    "Name": "",
-   "Description": "The name of a summer camp for extremely shy children",
+   "Description": "The name of a tuition academy for extremely shy children",
    "Category": "Quiplash",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "The name of a summer camp for extremely shy children",
     "Category": "Quiplash"
    },
-   "note": ""
+   "note": "Debate: Summer camp is US-centric."
   },
   {
    "id": "game5-6724",
@@ -87446,13 +87446,13 @@
    "Name": "",
    "Description": "When in England, remember that they ____ on the other side of the road",
    "Category": "Quiplash",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "When in England, remember that they <BLANK> on the other side of the road",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "Debate: Premise is wrong for a Pakistani audience; unfixable."
   },
   {
    "id": "game5-6728",
@@ -87847,7 +87847,7 @@
   {
    "id": "game5-6758",
    "Name": "",
-   "Description": "If you want to be a SUPER model, strut to the end of the runway and then ____",
+   "Description": "To make a grand entrance at a shaadi, walk up to the stage and then ____",
    "Category": "Quiplash",
    "action": "edit",
    "original": {
@@ -87855,7 +87855,7 @@
     "Description": "If you want to be a SUPER model, strut to the end of the runway and then <BLANK>",
     "Category": "Quiplash"
    },
-   "note": "blank token"
+   "note": "blank token; Debate: Local replacement for runway framing."
   },
   {
    "id": "game5-6759",
@@ -105373,6 +105373,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Dawat food-guarding joke with a different angle from the kheer and 'last piece split' cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The most annoying thing the pilot announces right after landing in Karachi",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment avoids crash answers."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The most suspicious sign you could see in a bazaar shop window",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh, clean, local."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What the bus conductor shouts when the bus is already overflowing",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh local transport prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The strangest thing the canteen uncle sells besides samosas",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Challenger amendment avoids contraband answers."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "An item you’d be shocked to find inside Dadi’s steel almari",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh family prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The secret reason the Eid-day sheer khurma tastes different this year",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh Eid prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "A bad name for a pet pigeon on your rooftop",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh kabootar prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Chacha’s new business idea that the whole family begs him to forget",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): Fresh family prompt."
   }
  ]
 }

@@ -13756,6 +13756,55 @@
    "Description": "About 8,800 metres (8,849 m)",
    "action": "add",
    "note": "New card (debate): Everest height is not in the deck; challenger's simpler wording is better."
+  },
+  {
+   "id": null,
+   "Name": "Which surah is recommended to be recited on Fridays?",
+   "Description": "Al-Kahf",
+   "action": "add",
+   "note": "New card (debate): Well-established Jumu'ah sunnah; no Friday-surah card live."
+  },
+  {
+   "id": null,
+   "Name": "Which Companion, originally from Persia, suggested digging the trench to defend Madinah?",
+   "Description": "Salman al-Farsi (RA)",
+   "action": "add",
+   "note": "New card (debate): Accurate; different from the Battle of the Trench card."
+  },
+  {
+   "id": null,
+   "Name": "Which of the four Sunni schools of fiqh was founded by Imam Ahmad ibn Hanbal?",
+   "Description": "Hanbali school",
+   "action": "add",
+   "note": "New card (debate): Accurate; only a Hanafi-related card exists."
+  },
+  {
+   "id": null,
+   "Name": "In which UAE city is the Sheikh Zayed Grand Mosque?",
+   "Description": "Abu Dhabi",
+   "action": "add",
+   "note": "New card (debate): Accurate; existing Abu Dhabi card asks for the capital, a different question."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani captain lifted the 2017 ICC Champions Trophy at The Oval?",
+   "Description": "Sarfaraz Ahmed",
+   "action": "add",
+   "note": "New card (debate): Accurate; existing card asks only for the year."
+  },
+  {
+   "id": null,
+   "Name": "In which city of Punjab is the shrine of Baba Farid (Fariduddin Ganjshakar)?",
+   "Description": "Pakpattan",
+   "action": "add",
+   "note": "New card (debate): Accurate; no live card covers it."
+  },
+  {
+   "id": null,
+   "Name": "What is the height of K2, the world's second-highest mountain, to the nearest 100 metres?",
+   "Description": "About 8,600 metres (8,611 m)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: consistent with the Everest height card format; K2 is 8,611 m."
   }
  ]
 }
