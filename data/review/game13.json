@@ -6935,6 +6935,30 @@
    "Description": "Get a player to tell you the name of Pakistan's national flower.",
    "action": "add",
    "note": "New card (debate): The national flower is the jasmine (chambeli), so the fact is accurate and fits the national symbols theme. The answer is removed from the text so the card does not give itself away."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite kind of achar (pickle), like mango, mixed or lemon.",
+   "action": "add",
+   "note": "New card (debate): No achar card in the deck; local food topic, clear and harmless."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Falooda'.",
+   "action": "add",
+   "note": "New card (debate): No falooda card; fits the say-the-word format with a local dessert."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a blanket or shawl indoors.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording; distinct object from existing holding-X cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you about the last time they visited a doctor or dentist.",
+   "action": "add",
+   "note": "New card (debate): No doctor/dentist story card; relatable and harmless."
   }
  ]
 }

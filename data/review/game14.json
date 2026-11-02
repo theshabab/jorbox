@@ -2777,14 +2777,14 @@
   },
   {
    "id": "game14-253",
-   "Description": "How likely are you to try exotic street food?",
+   "Description": "How likely are you to try a street food you have never seen before?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to try exotic street food?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Challenger's retarget is correct: idx 252 is the exotic street food card (253 is the vacation card). The review file lists game14-253 as the street-food card in its own numbering, but the slice shows 252. Wording is clearer."
   },
   {
    "id": "game14-254",
@@ -7447,6 +7447,55 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): No fielding card exists; dropped the batting comparison to avoid a two-part, vague question."
+  },
+  {
+   "id": null,
+   "Description": "How many lawn suits do you buy during the summer sale season?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local, no duplicate, valid Number."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to buy new shoes or chappals just before Eid?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct Eid shoe angle, not covered by shoe-count cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to stop the car just to take a photo of a beautiful view?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No scenic-stop card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you swum in a river, canal or lake?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local, distinct from pool cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to pack your bag at the last minute before a trip?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Timing habit distinct from overpacking and efficiency."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you slept outdoors under the stars?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Not covered by existing cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to order the same dish every time you go to a restaurant?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): No repeat-order card exists."
   }
  ]
 }
