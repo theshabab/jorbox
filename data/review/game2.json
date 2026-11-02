@@ -12243,10 +12243,10 @@
   {
    "id": null,
    "Name": "Snow Leopard",
-   "Description": "Leopard | Snow | Gilgit | Ghost | Rare",
+   "Description": "Gilgit | Ghost | Rare | Spots | Mountains",
    "Category": "Animals",
    "action": "add",
-   "note": "New card (debate): Banning name words makes it playable."
+   "note": "New card (debate): Banning name words makes it playable.; Debate: Old banned list contained the card's own name word Leopard; replaced with useful hints."
   },
   {
    "id": null,
@@ -14095,6 +14095,78 @@
    "Category": "Kitchen Items",
    "action": "add",
    "note": "New card (debate): Distinct, relatable Pakistani household item, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "K2",
+   "Description": "Karakoram | Skardu | Second | Climb | Summit",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Iconic Pakistani peak, no existing K2 card."
+  },
+  {
+   "id": null,
+   "Name": "Truck Art",
+   "Description": "Colourful | Flowers | Paint | Chamak | Highway",
+   "Category": "Transport",
+   "action": "add",
+   "note": "New card (debate): Strong Pakistani culture card, not a duplicate of Truck."
+  },
+  {
+   "id": null,
+   "Name": "Cockroach",
+   "Description": "Kitchen | Spray | Wings | Pest | Night",
+   "Category": "Animals",
+   "action": "add",
+   "note": "New card (debate): Easy to act, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Lighthouse",
+   "Description": "Ships | Beam | Coast | Sea | Tower",
+   "Category": "Historical Places",
+   "action": "add",
+   "note": "New card (debate): Clear guessable object, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Ruqyah",
+   "Description": "Recite | Quran | Nazar | Blow | Cure",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Accurate; jinn/nazar themes allowed; distinct from Ruqayyah."
+  },
+  {
+   "id": null,
+   "Name": "Hijama",
+   "Description": "Cupping | Sunnah | Back | Cups | Blood",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Established prophetic medicine practice, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Surma",
+   "Description": "Eyes | Sunnah | Black | Kohl | Applicator",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Sunnah and household item, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Iceberg",
+   "Description": "Ship | Tip | Floating | Polar | Melt",
+   "Category": "Nature",
+   "action": "add",
+   "note": "New card (debate): Accurate, no film reference, distinct from Glacier."
+  },
+  {
+   "id": null,
+   "Name": "Ajwa Dates",
+   "Description": "Madinah | Sunnah | Black | Sweet | Morning",
+   "Category": "Fruits",
+   "action": "add",
+   "note": "New card (debate): Hadith-linked, accurate; no existing Ajwa Dates card."
   }
  ]
 }

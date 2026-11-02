@@ -63745,15 +63745,15 @@
   {
    "id": "game5-4904",
    "Name": "",
-   "Description": "There are two things I hate. Racism and ____.",
+   "Description": "There are two things I hate. Load shedding and ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "There are two things I hate. Racism and ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces racism with a safe local frame."
   },
   {
    "id": "game5-4905",
@@ -64122,15 +64122,15 @@
   {
    "id": "game5-4933",
    "Name": "",
-   "Description": "There's been a murder and ____ is the only suspect.",
+   "Description": "Someone ate the last piece of kheer and ____ is the only suspect.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "There's been a murder and ____ is the only suspect.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Clean whodunit keeps the joke."
   },
   {
    "id": "game5-4934",
@@ -64577,7 +64577,7 @@
   {
    "id": "game5-4968",
    "Name": "",
-   "Description": "They wrote an article about me in the paper because I grew the world's longest ____.",
+   "Description": "They wrote an article about me in the paper because I made the world's longest ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -64585,7 +64585,7 @@
     "Description": "They wrote an article about me in the paper because I grew the worlds longest ____.",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Avoids body-part answers."
   },
   {
    "id": "game5-4969",
@@ -65019,7 +65019,7 @@
   {
    "id": "game5-5002",
    "Name": "",
-   "Description": "Don't worry Ami, that mark on my arm is just from ____.",
+   "Description": "Don't worry Ami, that stain on my kameez is just from ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -65027,20 +65027,20 @@
     "Description": "This is your pilot speaking. Please prepare for ____.",
     "Category": ""
    },
-   "note": "Debate: Original is hickey innuendo; the proposed edit kept the same text, so reframed as a parent-excuse prompt."
+   "note": "Debate: Original is hickey innuendo; the proposed edit kept the same text, so reframed as a parent-excuse prompt.; Debate: Removes drug/self-harm bait, keeps excuse joke."
   },
   {
    "id": "game5-5003",
    "Name": "",
    "Description": "This isn't a bruise, it's just ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "This isn't a bruise, it's just ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites abuse answers; same excuse joke as 5001 which is kept."
   },
   {
    "id": "game5-5004",
@@ -65658,13 +65658,13 @@
    "Name": "",
    "Description": "To deny the opportunity to any of our daughters and sons solely on the basis of ____ is to deny them the chance to live up to their Allah-given potential.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "To deny the opportunity to any of our daughters and sons solely on the basis of ____ is to deny them the chance to live up to their Allah given potential.",
     "Category": ""
    },
-   "note": "punctuation"
+   "note": "Debate: Solemn, unfunny, invites discriminatory answers."
   },
   {
    "id": "game5-5052",
@@ -65747,15 +65747,15 @@
   {
    "id": "game5-5058",
    "Name": "",
-   "Description": "To help sick people feel better, Sehat Card will include tax credits for ____.",
+   "Description": "To help sick people feel better, Sehat Card will now cover ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "To help sick people feel better, Sehat Card will include tax credits for ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes US-style tax credits wording."
   },
   {
    "id": "game5-5059",
@@ -67218,13 +67218,13 @@
    "Name": "",
    "Description": "Under Sehat Card, essential benefits will include ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Under Sehat Card, essential benefits will include ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of 5057 (live, lower idx)."
   },
   {
    "id": "game5-5172",
@@ -105133,6 +105133,38 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Fresh local bazaar scene."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Chief Minister cut the ribbon to open Pakistan's first ever ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New clean frame, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Tonight's drama serial finale ends with the mother-in-law finally admitting ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct local drama frame."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "This Chaand Raat, the bangle seller refused to give me a discount because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct, culturally apt frame."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Tonight on the news: breaking report that ____ was spotted inside the National Assembly.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh news frame, mild political humour, no named person."
   }
  ]
 }

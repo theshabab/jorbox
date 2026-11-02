@@ -13476,6 +13476,41 @@
    "Description": "Petronas Towers",
    "action": "add",
    "note": "New card (debate): Accurate, Muslim-world landmark, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which spiced rice dish, layered with marinated meat and potatoes and cooked on dum, is a famous Karachi and Sindhi speciality?",
+   "Description": "Biryani",
+   "action": "add",
+   "note": "New card (debate): No biryani card in the deck; accurate clue, single-word answer."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Senegal, a Muslim-majority West African country?",
+   "Description": "Dakar",
+   "action": "add",
+   "note": "New card (debate): Correct; Senegal and Dakar are not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Mali, a Muslim-majority West African country?",
+   "Description": "Bamako",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: removes the Timbuktu clue that would leak the answer to the existing Timbuktu card."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Bahrain?",
+   "Description": "Manama",
+   "action": "add",
+   "note": "New card (debate): Correct; fills a missing Gulf capital, matches neighbouring capital cards."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Mauritania?",
+   "Description": "Nouakchott",
+   "action": "add",
+   "note": "New card (debate): Correct; Mauritania is not in the deck."
   }
  ]
 }
