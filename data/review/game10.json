@@ -7694,6 +7694,60 @@
    "Name": "Name something you hold in your hand after namaz.",
    "action": "add",
    "note": "New card (debate): Challenger's narrowed wording removes the ambiguity of the original (topi and rumal are worn, not held). Tasbih, Quran and dua book are clear matching answers. Checked game10.json: no tasbih or janamaz card, and the live Jummah and after-Jummah cards are different."
+  },
+  {
+   "id": null,
+   "Name": "Name someone you call first in an emergency.",
+   "action": "add",
+   "note": "New card (debate): No emergency-contact card exists; answers (Abbu, Ammi, bhai, 1122) match easily."
+  },
+  {
+   "id": null,
+   "Name": "Name a grocery item that runs out first at home.",
+   "action": "add",
+   "note": "New card (debate): Different from the buy-from-kiryana card; answers converge (doodh, cheeni, atta, chai patti)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you carry to an exam hall.",
+   "action": "add",
+   "note": "New card (debate): Distinct from school bag and night-before-exam cards; common answers (pen, admit card, geometry box)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you need to sleep comfortably.",
+   "action": "add",
+   "note": "New card (debate): Not covered by action-based sleep cards; clear answers (pillow, fan, blanket, AC)."
+  },
+  {
+   "id": null,
+   "Name": "Name something vendors sell on a train.",
+   "action": "add",
+   "note": "New card (debate): Local travel theme with strongly matching answers (chanay, chai, peanuts, water)."
+  },
+  {
+   "id": null,
+   "Name": "Name something you buy at a Sunday bazaar.",
+   "action": "add",
+   "note": "New card (debate): Local bazaar theme, different from bargain and famous-bazaar cards; matchable answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something kids do with the Qurbani animal before Eid.",
+   "action": "add",
+   "note": "New card (debate): Wholesome Eid ul-Adha theme not in the deck; answers like walk it, feed it, decorate it."
+  },
+  {
+   "id": null,
+   "Name": "Name an excuse to leave a boring gathering early.",
+   "action": "add",
+   "note": "New card (debate): Distinct from guest-leaving sign and other excuse cards; matchable answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something you hear at night when you are lying in bed.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording anchors the card at home, distinct from the street-sound card."
   }
  ]
 }

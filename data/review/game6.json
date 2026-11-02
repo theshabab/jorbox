@@ -5255,9 +5255,9 @@
   },
   {
    "id": null,
-   "Description": "Things Roasted on Coals or an Open Fire (Bhutta, Shakarkandi, Chestnuts, Seekh...)",
+   "Description": "Things Roasted on Coals or an Open Fire (Bhutta, Shakarkandi, Seekh, Tikka...)",
    "action": "add",
-   "note": "New card (debate): Broadened version stays distinct from the Kebab, Tandoor and Karahi cards."
+   "note": "New card (debate): Broadened version stays distinct from the Kebab, Tandoor and Karahi cards.; Debate: Chestnuts is a rare Western item; local examples fit better."
   },
   {
    "id": null,
@@ -5414,6 +5414,54 @@
    "Description": "Sections of a Newspaper (Headlines, Sports, Editorial, Rishta Ads...)",
    "action": "add",
    "note": "New card (debate): Only newspaper names exist; easy, many answers."
+  },
+  {
+   "id": null,
+   "Description": "Things You Bake (Cake, Naan, Biscuits, Bread...)",
+   "action": "add",
+   "note": "New card (debate): Verb-based card with many answers; different from Things at a Bakery."
+  },
+  {
+   "id": null,
+   "Description": "Things You Dip (Biscuit in Chai, Roti in Salan, Jalebi in Rabri, Samosa in Chutney...)",
+   "action": "add",
+   "note": "New card (debate): Relatable desi card with many answers; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Charge (Phone, Laptop, Power Bank, Torch...)",
+   "action": "add",
+   "note": "New card (debate): Verb frame with many answers and load-shedding context; only partly overlaps Things That Need Electricity."
+  },
+  {
+   "id": null,
+   "Description": "Things You Count (Money, Tasbeeh, Sheep, Steps, Days to Eid...)",
+   "action": "add",
+   "note": "New card (debate): Many answers with local flavour; nothing similar in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Plant (Seeds, Tree, Flag, Pudina, Gulab...)",
+   "action": "add",
+   "note": "New card (debate): Verb frame asks what a person puts in the ground; distinct from Things That Grow and Crops cards."
+  },
+  {
+   "id": null,
+   "Description": "Things You Sew or Stitch (Kurta, Button, Torn Shirt, Quilt Cover...)",
+   "action": "add",
+   "note": "New card (debate): Different from Things at a Tailor's Shop; about 10 or more answers."
+  },
+  {
+   "id": null,
+   "Description": "Things You Cover (Dish, Head, Mouth When Yawning, Bed, Quran...)",
+   "action": "add",
+   "note": "New card (debate): Many easy answers; covering is different from wrapping."
+  },
+  {
+   "id": null,
+   "Description": "Things You Turn (Tap, Page, Key, Steering Wheel, Knob...)",
+   "action": "add",
+   "note": "New card (debate): Many easy answers; only slight overlap with Things That Open and Close."
   }
  ]
 }
