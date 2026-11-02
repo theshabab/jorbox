@@ -8864,6 +8864,48 @@
    "Description": "Jummah Bazaar Vendor",
    "action": "add",
    "note": "New card (debate): Recognisable Pakistani weekly-market seller. Distinct enough from the live Street Vendor card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My new Eid joray got ruined by _____ before I could even wear it!",
+   "action": "add",
+   "note": "New card (debate): Distinct from the Eid photo-shoot and darzi cards; local frame with an open blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every time my result comes out, Abbu compares me with _____!",
+   "action": "add",
+   "note": "New card (debate): Familiar desi parent complaint, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Wedding season is here and I have nothing to wear except _____!",
+   "action": "add",
+   "note": "New card (debate): Different angle from the timing/comparison wedding cards; open blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Dadi's old trunk in the store room is full of _____ nobody is allowed to touch!",
+   "action": "add",
+   "note": "New card (debate): Fresh household frame, no similar card."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Ittar Wala (Perfume Seller)",
+   "action": "add",
+   "note": "New card (debate): Recognisable Eid/Jummah figure, specific rather than generic vendor."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Khajoor Wala (Dates Seller)",
+   "action": "add",
+   "note": "New card (debate): Recognisable Ramadan seller, distinct from other vendors."
   }
  ]
 }

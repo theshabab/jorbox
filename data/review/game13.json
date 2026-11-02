@@ -3011,12 +3011,12 @@
   },
   {
    "id": "game13-335",
-   "Description": "Get a player to cover their mouth.",
-   "action": "keep",
+   "Description": "Get a player to cover their mouth when they laugh.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to cover their mouth."
    },
-   "note": ""
+   "note": "Debate: Challenger's retarget to idx 334 (idx 335 is the ear card). The laugh trigger avoids duplicating the live yawn card."
   },
   {
    "id": "game13-336",
@@ -3083,12 +3083,12 @@
   },
   {
    "id": "game13-343",
-   "Description": "Get a player to hide something for you.",
-   "action": "keep",
+   "Description": "Get a player to hide a small object somewhere in the room for you.",
+   "action": "edit",
    "original": {
     "Description": "Get a player to hide something for you."
    },
-   "note": ""
+   "note": "Debate: Original was vague; the edit is clearer and distinct from the hide-a-coin card (343)."
   },
   {
    "id": "game13-344",
@@ -3110,12 +3110,12 @@
   },
   {
    "id": "game13-346",
-   "Description": "Get a player to try the tongue twister 'Kacha papar, pakka papar' fast and stumble over it.",
+   "Description": "Get a player to say the tongue twister 'Kacha papar, pakka papar' three times fast and stumble over it.",
    "action": "edit",
    "original": {
     "Description": "Get a player to fail at a tongue twister."
    },
-   "note": "Debate: A concrete, well-known local tongue twister makes the mission clear and playable."
+   "note": "Debate: A concrete, well-known local tongue twister makes the mission clear and playable.; Debate: Idx 345 is correct. The condition is clearer and checkable."
   },
   {
    "id": "game13-347",
@@ -6995,6 +6995,42 @@
    "Description": "Get a player to say the word 'Golgappay'.",
    "action": "add",
    "note": "New card (debate): Street-food say-the-word card using the deck's existing golgappay spelling (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Khayal rakhna' (Take care) to you.",
+   "action": "add",
+   "note": "New card (debate): The phrase is new to the deck, accurate and playable."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you 'Kya haal hai?' (How are you?).",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: a single utterance is easier to check than 'twice in a row'."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Arre yaar!' in surprise.",
+   "action": "add",
+   "note": "New card (debate): A common local exclamation that is not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to mime flying a patang (kite) with you.",
+   "action": "add",
+   "note": "New card (debate): A local mime mission. The deck only has a kite story question."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you to drink more water.",
+   "action": "add",
+   "note": "New card (debate): Natural elder-style advice mission with no equivalent in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Eid Mubarak' to you when it is not Eid.",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer wording. It is distinct from the 'Mubarak ho!' card."
   }
  ]
 }

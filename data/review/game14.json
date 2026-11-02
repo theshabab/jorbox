@@ -7517,6 +7517,48 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Distinct local food habit; no dry-fruit card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been told 'Itni dair se kahan thay?' when you came home this month?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable, clean, true count; no duplicate in the review file."
+  },
+  {
+   "id": null,
+   "Description": "How many jalebis can you eat in one sitting?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from the 'love jalebi' card; fits the food-capacity theme."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been told 'Pehle apna kamra saaf karo' this month?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Common household scene; no duplicate found."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep a sweet or chocolate hidden from your siblings or cousins?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Asks about hiding; the existing card asks about being a victim, so it is distinct."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to count pressure cooker whistles instead of using a timer?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended likelihood framing is answerable by anyone; no existing pressure cooker card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to say 'Bas, ek aakhri over' and then play for another hour?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Gully-cricket humour distinct from the existing cricket cards."
   }
  ]
 }
