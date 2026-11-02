@@ -1312,6 +1312,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1310','game1','Fist','Closed hand ready to punch','Body Parts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1311','game1','Golden','Sunehri, shiny like gold','Colors');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1312','game1','Waist','Naap for the belt, middle of the body','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1313','game1','Aqeeq','Red stone set in a ring','Jewelry');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1314','game1','Paranda','Tasselled braid ornament for a bride''s hair','Jewelry');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1315','game1','Sunrise','Morning sky glowing in the east','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1316','game1','Comet','Space object with a long glowing tail','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1317','game1','Monitor','Desktop computer''s display','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1318','game1','Projector','Beams slides onto a classroom wall','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1319','game1','Gamepad','Handheld controller with buttons for video games','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1320','game1','Hacksaw','Toothed blade for cutting metal pipes','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1321','game1','Boski','Shiny cream cloth for men''s wedding kameez','Fabrics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1322','game1','Cambric','Fine light cotton for summer dupattas','Fabrics');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
