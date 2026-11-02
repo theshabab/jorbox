@@ -1303,6 +1303,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1301','game1','Veterinarian','Doctor who treats cows and pets','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1302','game1','Shah Jahan Mosque','Mughal mosque in Thatta famed for its echo','Historical Places');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1303','game1','Mahabat Khan Mosque','Mughal mosque in Peshawar near Qissa Khwani','Historical Places');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1304','game1','Flyover','Pul, raised road over a busy junction','Transport');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1305','game1','Donkey Cart','Gadha gaari carrying heavy loads','Transport');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1306','game1','Stretcher','Carries a patient in an emergency','Transport');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1307','game1','Stamp','Small sticker that pays for posting a letter','Stationery');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1308','game1','Blackboard','Teacher writes on it with chalk','Stationery');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1309','game1','Heel','Back of the foot, often cracked in winter','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1310','game1','Fist','Closed hand ready to punch','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1311','game1','Golden','Sunehri, shiny like gold','Colors');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1312','game1','Waist','Naap for the belt, middle of the body','Body Parts');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');

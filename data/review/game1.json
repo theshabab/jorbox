@@ -14432,6 +14432,78 @@
    "Category": "Historical Places",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Flyover",
+   "Description": "Pul, raised road over a busy junction",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Donkey Cart",
+   "Description": "Gadha gaari carrying heavy loads",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Stretcher",
+   "Description": "Carries a patient in an emergency",
+   "Category": "Transport",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Stamp",
+   "Description": "Small sticker that pays for posting a letter",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Blackboard",
+   "Description": "Teacher writes on it with chalk",
+   "Category": "Stationery",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Heel",
+   "Description": "Back of the foot, often cracked in winter",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Fist",
+   "Description": "Closed hand ready to punch",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Golden",
+   "Description": "Sunehri, shiny like gold",
+   "Category": "Colors",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Waist",
+   "Description": "Naap for the belt, middle of the body",
+   "Category": "Body Parts",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
