@@ -1233,6 +1233,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1231','game1','Ashura','Tenth of Muharram, a day of fasting','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1232','game1','Sirat','Bridge every soul must cross on Judgement Day','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1233','game1','Rumi','Persian poet of the Mathnawi buried in Konya','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1234','game1','Dr Abdul Qadeer Khan','Nuclear scientist of Kahuta, called Mohsin-e-Pakistan','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1235','game1','Chaudhry Rahmat Ali','Cambridge student who coined the name Pakistan','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1236','game1','Goldsmith','Crafts jewellery and weighs it in karats (Sonar)','Occupations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1237','game1','Jamarat','Pillars at Mina where pilgrims throw pebbles','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1238','game1','Shawwal','Tenth Hijri month that begins with Eid','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1239','game1','Balushahi','Flaky fried sweet dipped in syrup','Desserts');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
