@@ -10111,7 +10111,7 @@
    "Description": "Mariam al-Fihri, whose sister founded the famous al-Qarawiyyin university, built the ____ Mosque in Fez, Morocco.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The current text names Fatima al-Fihri, which gives away the answer to the deck's al-Qarawiyyin founder card (692). The rewrite keeps her name hidden and is accurate: Mariam founded the Mosque of the Andalusians around 859.; Debate: Fact correct; fills the empty category.; Debate: Fills missing category; fact correct.; Debate: Fact correct; fills empty category."
+   "note": "New card; Debate: The current text names Fatima al-Fihri, which gives away the answer to the deck's al-Qarawiyyin founder card (692). The rewrite keeps her name hidden and is accurate: Mariam founded the Mosque of the Andalusians around 859.; Debate: Fact correct; fills the empty category.; Debate: Fills missing category; fact correct.; Debate: Fact correct; fills empty category.; Debate: Fact is "
   },
   {
    "id": null,
@@ -10503,7 +10503,7 @@
    "Description": "The Statue of Liberty is made of thin sheets of shiny, reddish-brown ____, which slowly turned green in the weather.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Fixes the illogical old wording; accurate.; Debate: Fills missing category; world-famous landmark so the US-centric rule does not apply.; Debate: Fact correct and world-famous; fills empty category."
+   "note": "New card; Debate: Fixes the illogical old wording; accurate.; Debate: Fills missing category; world-famous landmark so the US-centric rule does not apply.; Debate: Fact correct and world-famous; fills empty category.; Debate: Fact is correct and world-famous; fills the empty category."
   },
   {
    "id": null,
@@ -14744,6 +14744,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate numeric card; no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Iraq",
+   "Description": "Salahuddin Ayyubi, who recaptured Jerusalem, was born in the town of Tikrit, in today's ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, respectful, not a duplicate of the 1187 or ethnicity cards."
+  },
+  {
+   "id": null,
+   "Name": "laurel",
+   "Description": "Aleppo soap, one of the oldest soaps in the world, is made from olive oil and ____ oil.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-established fact, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Iran",
+   "Description": "The world's first practical windmills, used to grind grain, appeared over 1,000 years ago in eastern Persia, in today's ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording removes the Iran/Afghanistan ambiguity of Sistan."
+  },
+  {
+   "id": null,
+   "Name": "10",
+   "Description": "Jupiter is the biggest planet, yet it spins so fast that one day there lasts only about ____ hours.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Correct (about 9h 56m) and not a duplicate of the Great Red Spot card."
+  },
+  {
+   "id": null,
+   "Name": "dates",
+   "Description": "The Eid dessert sheer khurma gets its name from Persian words meaning \"milk\" and ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Correct etymology, fitting Eid theme, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Flowers",
+   "Description": "Peshawar, one of the oldest living cities in South Asia, has long been nicknamed the \"City of ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-known nickname, distinct from other Peshawar cards."
+  },
+  {
+   "id": null,
+   "Name": "standing",
+   "Description": "Horses can sleep ____, because a special locking system in their legs keeps them from falling over.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate and no existing horse-sleep card."
   }
  ]
 }

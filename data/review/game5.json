@@ -104961,10 +104961,10 @@
   {
    "id": null,
    "Name": "",
-   "Description": "The whole muhalla found out about the rishta when the aunty next door announced ____.",
+   "Description": "The whole mohalla found out about the rishta when the aunty next door announced ____.",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Local gossip prompt, no equivalent."
+   "note": "New card (debate): Local gossip prompt, no equivalent.; Debate: Spelling consistency with 'mohalla'."
   },
   {
    "id": null,
@@ -105315,8 +105315,8 @@
    "Name": "",
    "Description": "You should never lend your cousin ____.",
    "Category": "",
-   "action": "add",
-   "note": "New card (debate): Simple relatable prompt, no duplicate."
+   "action": "remove",
+   "note": "Debate: Duplicate of live 8200 (confirmed action add in game5.json)."
   },
   {
    "id": null,
@@ -105587,8 +105587,8 @@
    "Name": "",
    "Description": "The worst name for a wedding hall",
    "Category": "Quiplash",
-   "action": "add",
-   "note": "New card (debate): Fresh naming subject."
+   "action": "remove",
+   "note": "Debate: Duplicate of live 8308."
   },
   {
    "id": null,
@@ -105733,6 +105733,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate Muslim-scientist fact, mild family-safe teasing, distinct from existing card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The qingqi rickshaw driver squeezed in one more passenger, and now the roof also carries ____.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): New local vehicle scenario, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The kabari wala weighed our old newspapers, then gave us a strange look and asked, \"Baji, what is this ____ doing in here?\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New scenario, clean."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The desert cooler was running full blast when ____ floated out of the water tank.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Category cleared per challenger, since a running cooler contradicts Load Shedding."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "At the family group photo, Dadi refused to stand anywhere except next to ____.",
+   "Category": "Family Gatherings",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing photo cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The visa officer looked at my file, raised an eyebrow, and asked, \"Why do you want to take ____ abroad?\"",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): No visa card exists."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi's winter rule: nobody leaves the house without wearing ____ under their jacket.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New winter-clothing prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Three things the mela vendor swears are 'original, imported and guaranteed'",
+   "Category": "Quiplash",
+   "action": "add",
+   "note": "New card (debate): New angle on mela theme."
   }
  ]
 }

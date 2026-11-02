@@ -33377,6 +33377,78 @@
    "Category": "Famous Mosques Construction (Chronological - Estimated)",
    "action": "add",
    "note": "New card (debate): Completed 879 CE; unique year between Samarra 848 and Al-Azhar 970."
+  },
+  {
+   "id": null,
+   "Name": "Almohad Caliphate",
+   "Description": "1121 CE",
+   "Category": "Muslim Empires - Chronological Start",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent, sorts between Seljuq and Ayyubid."
+  },
+  {
+   "id": null,
+   "Name": "Durrani Empire",
+   "Description": "1747 CE",
+   "Category": "Muslim Empires - Chronological Start",
+   "action": "add",
+   "note": "New card (debate): Accurate and relevant to Pakistan region; sorts between Mughal and Sokoto."
+  },
+  {
+   "id": null,
+   "Name": "Abdulhamid II",
+   "Description": "1876",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Correct accession year; the other Abdul Hamid card is a reign-length card in a different category."
+  },
+  {
+   "id": null,
+   "Name": "Khilafat Movement",
+   "Description": "1919 - Muslims of India support the Ottoman Caliphate",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Real milestone between Lucknow Pact and Fourteen Points."
+  },
+  {
+   "id": null,
+   "Name": "Cabinet Mission Plan",
+   "Description": "1946 - British plan for a united India with three groups of provinces; the Muslim League later withdrew its acceptance",
+   "Category": "Road to Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended description is more accurate than the original."
+  },
+  {
+   "id": null,
+   "Name": "Volga",
+   "Description": "~3,530 km",
+   "Category": "Rivers (Length - Long to Short)",
+   "action": "add",
+   "note": "New card (debate): Correct length; sorts between Yenisei and Indus."
+  },
+  {
+   "id": null,
+   "Name": "Danube",
+   "Description": "~2,850 km",
+   "Category": "Rivers (Length - Long to Short)",
+   "action": "add",
+   "note": "New card (debate): Correct length; sorts between Indus and Euphrates."
+  },
+  {
+   "id": null,
+   "Name": "Sodium",
+   "Description": "98 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value (97.8 °C); sorts between Candle Wax and Tin. Other Sodium cards are in different categories."
+  },
+  {
+   "id": null,
+   "Name": "Platinum",
+   "Description": "1,768 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct value; sorts between Iron and Tungsten. The other Platinum card is a density card in a different category."
   }
  ]
 }
