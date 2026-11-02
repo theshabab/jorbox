@@ -113,12 +113,12 @@
   },
   {
    "id": "game13-13",
-   "Description": "Make a player yawn.",
-   "action": "keep",
+   "Description": "Get a player to yawn.",
+   "action": "edit",
    "original": {
     "Description": "Make a player yawn."
    },
-   "note": ""
+   "note": "Debate: Matches the deck's 'Get a player to ...' phrasing."
   },
   {
    "id": "game13-14",
@@ -249,11 +249,11 @@
   {
    "id": "game13-28",
    "Description": "Get a player to check the time for you.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to check the time for you."
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of live 'Get a player to ask what time it is'; one of the pair stays."
   },
   {
    "id": "game13-29",
@@ -7193,6 +7193,42 @@
    "Description": "Claim that the Badshahi Mosque is in Islamabad and get a player to correct you.",
    "action": "add",
    "note": "New card (debate): Accurate false claim (it is in Lahore); fits claim-and-correct pattern."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to compliment your kurta or shalwar kameez.",
+   "action": "add",
+   "note": "New card (debate): Distinct local clothing-compliment card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a handkerchief (rumal).",
+   "action": "add",
+   "note": "New card (debate): A different prop from the existing cushion and tissue cards, with a local word."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to correct your pronunciation of 'Peshawar'.",
+   "action": "add",
+   "note": "New card (debate): No Peshawar pronunciation card exists; distinct from the accent card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say the word 'Kulcha'.",
+   "action": "add",
+   "note": "New card (debate): New local food say-the-word card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which sibling or cousin is the funniest in their family.",
+   "action": "add",
+   "note": "New card (debate): A different prompt from the existing cousin cards, and warm."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they had for dinner last night.",
+   "action": "add",
+   "note": "New card (debate): Easy food talk, and no dinner card exists."
   }
  ]
 }

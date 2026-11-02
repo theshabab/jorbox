@@ -3206,14 +3206,14 @@
   },
   {
    "id": "game14-292",
-   "Description": "How likely are you to try a recipe from TikTok?",
+   "Description": "How likely are you to try a recipe you saw on Instagram or YouTube?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to try a recipe from TikTok?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: TikTok is often blocked in Pakistan; same idea with platforms players use."
   },
   {
    "id": "game14-293",
@@ -3316,14 +3316,14 @@
   },
   {
    "id": "game14-302",
-   "Description": "How likely are you to order a salad at a burger joint?",
+   "Description": "How likely are you to order a salad at a burger place?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to order a salad at a burger joint?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Clearer wording, less US-flavoured slang."
   },
   {
    "id": "game14-303",
@@ -7755,6 +7755,69 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Not in deck; social media/gaming allowed; answerable by anyone including 0."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to double-check that the front door is locked after leaving home?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Relatable habit; distinct from the locked-keys count card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to pack a flask of chai and parathas for a road trip?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local road-trip food card; distinct from bhutta/moongphali and road-trip count cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you travelled by train in Pakistan?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Answerable count (0 allowed); distinct from train-journey enjoyment and railway-crossing cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to rush to bring in the washing the moment it starts raining?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's shorter wording; distinct from pakora-craving rain card."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at riding a bicycle without holding the handlebars?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Fun skill card, distinct from the fallen-off-a-bicycle count."
+  },
+  {
+   "id": null,
+   "Description": "How many people have you taught to ride a bicycle?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Single clear skill, avoids double-barrelled wording."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to buy fruit from a thela (handcart) instead of a shop?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local shopping habit, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How good are you at telling a bedtime story that puts children to sleep?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Family-friendly, answerable by anyone with nieces/nephews or siblings."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year has a relative borrowed your phone for 'just one quick call'?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's tighter relatable family count; no duplicate."
   }
  ]
 }

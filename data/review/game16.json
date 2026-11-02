@@ -8117,10 +8117,10 @@
   },
   {
    "id": null,
-   "Name": "If you had to cook one deg for 50 guests tomorrow, which dish would you make?",
+   "Name": "If you had to cook one deg (giant cooking pot) for 50 guests tomorrow, which dish would you make?",
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card (debate): Desi cooking hypothetical not covered by 'best thing you cooked' or 'cooking vs going out'."
+   "note": "New card (debate): Desi cooking hypothetical not covered by 'best thing you cooked' or 'cooking vs going out'.; Debate: Glosses 'deg' for non-Urdu speakers."
   },
   {
    "id": null,
@@ -8334,10 +8334,10 @@
   },
   {
    "id": null,
-   "Name": "Which natural wonder would you most like to see in person (the Northern Lights, the Grand Canyon, the Great Barrier Reef, K2)?",
+   "Name": "Which natural wonder would you most like to see in person (the Northern Lights, the Great Barrier Reef, Fairy Meadows, K2)?",
    "Category": "Ice Breakers & Fun General",
    "action": "add",
-   "note": "New card (debate): Examples are accurate world-famous natural features; no duplicate."
+   "note": "New card (debate): Examples are accurate world-famous natural features; no duplicate.; Debate: Replaces US-centric Grand Canyon with a local option."
   },
   {
    "id": null,
@@ -10060,6 +10060,69 @@
    "Category": "More Fun Questions",
    "action": "add",
    "note": "New card (debate): Jinn/nazar/peer jokes allowed; humorous and distinct; Description fixed to empty."
+  },
+  {
+   "id": null,
+   "Name": "Which regional accent or way of speaking (Punjabi, Pashto, Sindhi, Karachi Urdu, Kashmiri) do you love imitating, and can you do one line right now?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): No accent cards in the deck; playable and local."
+  },
+  {
+   "id": null,
+   "Name": "Would you rather camp under the stars in Cholistan or beside a lake in the northern areas, and what is the one thing you would never leave at home?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Camping not covered."
+  },
+  {
+   "id": null,
+   "Name": "Do you have a favourite old shalwar kameez that your family keeps begging you to throw away? Why can you not let go?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Relatable family humour, distinct from existing outfit cards."
+  },
+  {
+   "id": null,
+   "Name": "Did you have a jhoola (swing) at home or in the neighbourhood growing up? Who pushed you the highest?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Nostalgic; jhoola only appears as an option in another card."
+  },
+  {
+   "id": null,
+   "Name": "What is the most awkward question you have been asked in an interview, whether for a job, admission or a rishta visit?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Interviews not covered."
+  },
+  {
+   "id": null,
+   "Name": "Do you have a ritual before an exam or an important match (the same pen, the same shirt, a particular dua), and does it actually work?",
+   "Category": "Ice Breakers & Fun General",
+   "action": "add",
+   "note": "New card (debate): Rituals differ from existing exam-stress cards."
+  },
+  {
+   "id": null,
+   "Name": "Who in your family is the real chess master, and who only pretends to understand the game?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Chess absent; challenger's clearer wording adopted."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest thing that has happened during a sleepover at a cousin's house, and when did the elders finally say 'ab so jao'?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Sleepover theme not covered."
+  },
+  {
+   "id": null,
+   "Name": "Which language would your parents say you speak best: Urdu, your mother tongue, English or 'Urdish', and when do you switch between them?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): Code-switching topic not covered."
   }
  ]
 }
