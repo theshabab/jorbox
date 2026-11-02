@@ -11815,8 +11815,8 @@
    "id": null,
    "Name": "According to a hadith, food enough for two people is enough for how many?",
    "Description": "Three",
-   "action": "add",
-   "note": "New card (debate): Authentic Bukhari/Muslim hadith, worldview-safe."
+   "action": "remove",
+   "note": "Debate: Hadith versions differ (Bukhari says three, Muslim says four), so the answer is contestable."
   },
   {
    "id": null,
@@ -13875,6 +13875,55 @@
    "Description": "Six (Tayyab, Shahadat, Tamjeed, Tawheed, Astaghfar, Radd-e-Kufr)",
    "action": "add",
    "note": "New card (debate): Challenger's amended version: the names make the answer verifiable and mark it as a local tradition."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani dessert is made from fried bread slices soaked in thick sweetened milk and topped with nuts, and is a wedding favourite?",
+   "Description": "Shahi Tukray",
+   "action": "add",
+   "note": "New card (debate): Accurate local food card, no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "Which traditional South Asian contact sport, hugely popular in rural Punjab, has a raider who must hold one breath while repeating a chant as they tag opponents?",
+   "Description": "Kabaddi",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording avoids leaking the answer."
+  },
+  {
+   "id": null,
+   "Name": "Which classic Sunday breakfast in Lahore pairs puffy fried puri with chana and sooji halwa?",
+   "Description": "Halwa puri",
+   "action": "add",
+   "note": "New card (debate): Accurate local food card, distinct from Nihari."
+  },
+  {
+   "id": null,
+   "Name": "In the Hadith of Jibreel, what is the Arabic word for worshipping Allah as if you see Him, knowing that He sees you?",
+   "Description": "Ihsan",
+   "action": "add",
+   "note": "New card (debate): Well-established Islamic knowledge, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which Delhi poet-musician, a disciple of Nizamuddin Auliya, is traditionally credited as the father of qawwali?",
+   "Description": "Amir Khusro",
+   "action": "add",
+   "note": "New card (debate): Allowed qawwali theme, correctly hedged, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Which creamy dessert of rice slow-cooked in milk with sugar and cardamom is often served on Eid and at weddings?",
+   "Description": "Kheer",
+   "action": "add",
+   "note": "New card (debate): Accurate local food card, distinct from shahi tukray."
+  },
+  {
+   "id": null,
+   "Name": "In a famous hadith, the Prophet (PBUH) said that if one small piece of flesh in the body is sound, the whole body is sound. Which organ is it?",
+   "Description": "The heart (qalb)",
+   "action": "add",
+   "note": "New card (debate): Well-established hadith in Bukhari and Muslim, no duplicate."
   }
  ]
 }

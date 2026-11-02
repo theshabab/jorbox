@@ -10077,8 +10077,8 @@
    "Name": "Gadha Gari",
    "Description": "Donkey | Cart | Rehra | Load | Wheels",
    "Category": "Transport",
-   "action": "add",
-   "note": "New card (debate): Classic local transport that is separate from the Donkey animal card."
+   "action": "remove",
+   "note": "Debate: Same meaning as live card Donkey Cart (action add in game2.json); only one of the pair removed."
   },
   {
    "id": null,
@@ -14775,6 +14775,86 @@
    "Category": "Islamic Locations",
    "action": "add",
    "note": "New card (debate): Key Miraj destination; challenger's amendment avoids the disputed 'Seventh Heaven' detail."
+  },
+  {
+   "id": null,
+   "Name": "Sweeper",
+   "Description": "Jharoo | Safai | Street | Municipality | Kachra",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Common local job, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Jinn",
+   "Description": "Smokeless Fire | Unseen | Iblis | Genie | Hidden",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: avoids equating jinn with bhoot; genies are allowed."
+  },
+  {
+   "id": null,
+   "Name": "Naat",
+   "Description": "Poetry | Praise | Rabi ul Awal | Mehfil | Hassan ibn Thabit",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Naats allowed by owner; accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Witr",
+   "Description": "Isha | Odd | Qunoot | Night | Three Rakat",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known prayer, only a clue elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "Dawah",
+   "Description": "Invite | Preach | Message | Tabligh | Call",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Common Islamic term missing from deck."
+  },
+  {
+   "id": null,
+   "Name": "Najashi",
+   "Description": "Abyssinia | Ethiopia | King | Hijrah | Jafar",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: Sahabi status is disputed, so use the safer category; clues less redundant."
+  },
+  {
+   "id": null,
+   "Name": "Miqdad ibn al-Aswad",
+   "Description": "Horse | Badr | Rider | Early Muslim | Bow",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Valid Sahabi; clues diversified and trimmed to five to match the deck format."
+  },
+  {
+   "id": null,
+   "Name": "Jabir ibn Abdullah",
+   "Description": "Hadith | Ansari | Trench | Dinner | Madinah",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Major hadith narrator, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Bulleh Shah",
+   "Description": "Kasur | Sufi | Punjabi | Kafi | Poet",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Famous Punjabi Sufi poet; only a clue on the Kasur card."
+  },
+  {
+   "id": null,
+   "Name": "Mirza Ghalib",
+   "Description": "Delhi | Urdu | Shayar | Ghazal | Diwan",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Iconic Urdu poet missing from deck."
   }
  ]
 }

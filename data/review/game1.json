@@ -9067,7 +9067,7 @@
   {
    "id": "game1-698",
    "Name": "Mount Arafat",
-   "Description": "Place of standing during Hajj",
+   "Description": "Pilgrims stand here on 9 Dhul Hijjah",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9075,7 +9075,7 @@
     "Description": "Place of standing",
     "Category": "Islamic Locations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: More specific than the old hint. Mina and Muzdalifah are also Hajj stops, so 'place of standing' was vague. The date points to Arafat and the hint does not contain the card name."
   },
   {
    "id": "game1-699",
@@ -9158,7 +9158,7 @@
   {
    "id": "game1-705",
    "Name": "Cave Thawr",
-   "Description": "Hiding place during the Hijrah",
+   "Description": "Hid here with Abu Bakr during Hijrah",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9166,7 +9166,7 @@
     "Description": "Refuge during migration",
     "Category": "Islamic Locations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Naming Abu Bakr identifies the cave, since the Hijrah had other stops. The hint leaves the subject unstated, so it does not depict the Prophet, and it does not contain the card name."
   },
   {
    "id": "game1-706",
@@ -9184,7 +9184,7 @@
   {
    "id": "game1-707",
    "Name": "Badr",
-   "Description": "Site of the first great battle",
+   "Description": "First great battle, 17 Ramadan 2 AH",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9192,7 +9192,7 @@
     "Description": "Historic battlefield",
     "Category": "Islamic Locations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: 17 Ramadan 2 AH is the standard date. It makes the hint sharper and does not contain the card name."
   },
   {
    "id": "game1-708",
