@@ -1256,12 +1256,12 @@
   },
   {
    "id": "game6-140",
-   "Description": "Pakistani National Symbols",
-   "action": "keep",
+   "Description": "Pakistani National Symbols (Flag, Markhor, Chambeli, Chukar...)",
+   "action": "edit",
    "original": {
     "Description": "Pakistani National Symbols"
    },
-   "note": ""
+   "note": "Debate: Examples clarify the card; challenger's version keeps to official symbols (flag, animal, flower, bird) and avoids overlap with the Monuments card."
   },
   {
    "id": "game6-141",
@@ -2130,8 +2130,8 @@
   {
    "id": null,
    "Description": "Things in Ammi's Handbag",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Duplicate of the live added card 'Things You Carry in a Handbag or Backpack'; confirmed that card is live (action add)."
   },
   {
    "id": null,
@@ -5234,6 +5234,42 @@
    "Description": "Things Needed to Make Chai (Pateeli, Chhanni, Chai Patti, Elaichi...)",
    "action": "add",
    "note": "New card (debate): Very Pakistani and relatable; distinct from tea varieties and pairings. Wording clarified from 'Patti' to 'Chai Patti' to remove ambiguity."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Mehndi Function (Henna Cones, Ubtan, Yellow Dupatta...)",
+   "action": "add",
+   "note": "New card (debate): Local wedding-event category with many answers; no mehndi card exists."
+  },
+  {
+   "id": null,
+   "Description": "Things at a Qasai's (Butcher's) Shop",
+   "action": "add",
+   "note": "New card (debate): Fits the 'Things at a ...' shop series with plenty of answers; distinct from meat cuts."
+  },
+  {
+   "id": null,
+   "Description": "Things to Take When Visiting a Sick Person (Ayadat)",
+   "action": "add",
+   "note": "New card (debate): Islamic and local etiquette theme with many answers (fruit, juice, dua, sadaqah, soup, flowers); not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Things Roasted on Coals or an Open Fire (Bhutta, Shakarkandi, Chestnuts, Seekh...)",
+   "action": "add",
+   "note": "New card (debate): Broadened version stays distinct from the Kebab, Tandoor and Karahi cards."
+  },
+  {
+   "id": null,
+   "Description": "Places That Get Very Crowded (Bazaar, Railway Station, Chand Raat Market...)",
+   "action": "add",
+   "note": "New card (debate): Relatable with many answers; differs from the queue and named bazaar cards."
+  },
+  {
+   "id": null,
+   "Description": "Things That Protect You From Sun or Rain (Chhatri, Topi, Raincoat...)",
+   "action": "add",
+   "note": "New card (debate): Local weather-themed category with many answers; differs from the rain-events card."
   }
  ]
 }

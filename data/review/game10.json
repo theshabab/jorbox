@@ -1337,12 +1337,12 @@
   },
   {
    "id": "game10-149",
-   "Name": "Who is usually the favorite child in a family?",
+   "Name": "Who is usually the favourite child in a family?",
    "action": "edit",
    "original": {
     "Name": "Who is the favorite child in a family?"
    },
-   "note": "clarity"
+   "note": "clarity; Debate: Spelling consistent with 'favourite' elsewhere in the deck."
   },
   {
    "id": "game10-150",
@@ -7556,6 +7556,36 @@
    "Name": "Name a food delivery app in Pakistan.",
    "action": "add",
    "note": "New card (debate): Challenger's tighter wording; local, answerable, and not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Name something you use to clean the house.",
+   "action": "add",
+   "note": "New card (debate): No cleaning card exists; jhadu, mop, duster and surf are common matching answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something you buy by the kilo.",
+   "action": "add",
+   "note": "New card (debate): Distinct from 'sold by the dozen'; sugar, rice, atta and mangoes are common answers."
+  },
+  {
+   "id": null,
+   "Name": "Name a reason a baby cries.",
+   "action": "add",
+   "note": "New card (debate): No similar card; hungry, sleepy, diaper and teething match well."
+  },
+  {
+   "id": null,
+   "Name": "Name something you add to raita.",
+   "action": "add",
+   "note": "New card (debate): Raita is only in a this-or-that card; cucumber, onion, mint and boondi are common answers."
+  },
+  {
+   "id": null,
+   "Name": "Name a piece of clothing that needs ironing.",
+   "action": "add",
+   "note": "New card (debate): Challenger's tighter wording gives better matches (shirt, shalwar kameez, trousers, dupatta)."
   }
  ]
 }

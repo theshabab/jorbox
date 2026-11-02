@@ -12053,6 +12053,60 @@
    "Name": "Hut",
    "action": "add",
    "note": "New card (debate): Concrete, easy to draw; distinct from Tent and House."
+  },
+  {
+   "id": null,
+   "Name": "Mischief",
+   "action": "add",
+   "note": "New card (debate): Valid abstract noun, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Opinion",
+   "action": "add",
+   "note": "New card (debate): Valid abstract noun, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Obedience",
+   "action": "add",
+   "note": "New card (debate): Abstract virtue noun that fits the deck's themes and is distinct from Discipline."
+  },
+  {
+   "id": null,
+   "Name": "Pineapple",
+   "action": "add",
+   "note": "New card (debate): Concrete fruit, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Peach",
+   "action": "add",
+   "note": "New card (debate): Concrete fruit, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Palace",
+   "action": "add",
+   "note": "New card (debate): Easy to draw, not in the deck and distinct from Castle."
+  },
+  {
+   "id": null,
+   "Name": "Poverty",
+   "action": "add",
+   "note": "New card (debate): Valid abstract noun, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Olive",
+   "action": "add",
+   "note": "New card (debate): Concrete food noun, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Moth",
+   "action": "add",
+   "note": "New card (debate): Concrete animal, not in the deck and distinct from Butterfly and Insect."
   }
  ]
 }
