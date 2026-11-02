@@ -3119,13 +3119,13 @@
   {
    "id": "game11-284",
    "Name": "Problem",
-   "Description": "My tea gets cold when I _____!",
-   "action": "keep",
+   "Description": "My chai goes cold whenever I _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "My tea gets cold when I _____!"
    },
-   "note": ""
+   "note": "Debate: Retargeted from 284 (brain download card) to 283, the actual tea card. Localises tea to chai with clean grammar."
   },
   {
    "id": "game11-285",
@@ -8962,6 +8962,20 @@
    "Description": "I get stuck listening to long speeches at _____!",
    "action": "add",
    "note": "New card (debate): Relatable, playable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a polite way to refuse a third helping of _____!",
+   "action": "add",
+   "note": "New card (debate): Host-insists-you-eat culture is relatable; no existing card about refusing food; open blank for pitches."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I need a sofa cover that can survive _____!",
+   "action": "add",
+   "note": "New card (debate): No sofa card in the deck; relatable household problem with an open blank."
   }
  ]
 }

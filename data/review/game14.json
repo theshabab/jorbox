@@ -6708,10 +6708,10 @@
   },
   {
    "id": null,
-   "Description": "How much of Allama Iqbal's poetry, such as Shikwa and Jawab-e-Shikwa, have you read or can you recite?",
+   "Description": "How much of Allama Iqbal's poetry, such as Shikwa and Jawab-e-Shikwa, have you read or memorised?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card (debate): Iqbal is not covered in the deck. This takes the challenger's concrete version but fixes the list: Shikwa and Jawab-e-Shikwa are poems in the collection Bang-e-Dra, so they should not be listed as parallel items."
+   "note": "New card (debate): Iqbal is not covered in the deck. This takes the challenger's concrete version but fixes the list: Shikwa and Jawab-e-Shikwa are poems in the collection Bang-e-Dra, so they should not be listed as parallel items.; Debate: Fixes mismatched grammar for a 0 to 100 answer."
   },
   {
    "id": null,
@@ -6801,8 +6801,8 @@
    "id": null,
    "Description": "How likely are you to finish the last piece of food on the table without asking anyone?",
    "Category": "0 to 100",
-   "action": "add",
-   "note": "New card (debate): Relatable family-gathering food card, not a duplicate."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of live game14-19 (last kabab without asking, action edit)."
   },
   {
    "id": null,
@@ -6883,10 +6883,10 @@
   },
   {
    "id": null,
-   "Description": "How many thousand rupees of Eidi did you collect last Eid?",
+   "Description": "About how many thousand rupees of Eidi did you collect last Eid?",
    "Category": "Number",
    "action": "add",
-   "note": "New card (debate): New money angle; the challenger's cleaner wording is preferred."
+   "note": "New card (debate): New money angle; the challenger's cleaner wording is preferred.; Debate: Clearer phrasing for a thousands-based answer."
   },
   {
    "id": null,
@@ -7037,10 +7037,10 @@
   },
   {
    "id": null,
-   "Description": "How likely are you to say no the first time when someone offers you tea or a cold drink at their home?",
+   "Description": "How likely are you to politely refuse the first time someone offers you tea or a cold drink at their home?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card (debate): Challenger's amended likelihood version is answerable and avoids the count problem."
+   "note": "New card (debate): Challenger's amended likelihood version is answerable and avoids the count problem.; Debate: Fixes broken grammar; keeps the taarof idea."
   },
   {
    "id": null,
@@ -7172,8 +7172,8 @@
    "id": null,
    "Description": "How likely are you to pause what you are doing and listen quietly when the azaan starts?",
    "Category": "0 to 100",
-   "action": "add",
-   "note": "New card (debate): Allowed worship-related personal question; not a duplicate of the azaan/rooster card."
+   "action": "remove",
+   "note": "Debate: Duplicate of live card 'stop talking and listen quietly when the azan starts' (action add, not removed)."
   },
   {
    "id": null,
@@ -7303,10 +7303,10 @@
   },
   {
    "id": null,
-   "Description": "How likely are you to use a miswak?",
+   "Description": "How likely are you to use a miswak before praying?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card (debate): Sunnah habit absent from the deck and easy to answer."
+   "note": "New card (debate): Sunnah habit absent from the deck and easy to answer.; Debate: Ties the vague card to a well-established sunnah moment for consistent answers."
   },
   {
    "id": null,
@@ -7657,6 +7657,20 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Likelihood question distinct from the rishta-proposal count card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to take a spoonful of saunf or a piece of elaichi after a heavy meal?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local, clean, new habit; no saunf/elaichi card exists."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to say the dua for leaving the house (Bismillah, tawakkaltu alallah) every time you step out?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: the established leaving-home dua is more accurate than Ayat-ul-Kursi, and distinct from the weekly Ayat-ul-Kursi count."
   }
  ]
 }

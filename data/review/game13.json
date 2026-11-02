@@ -7067,6 +7067,30 @@
    "Description": "Get a player to tell you Pakistan's national tree, the deodar.",
    "action": "add",
    "note": "New card (debate): Accurate, and no national tree card exists."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which cousin they used to fight with the most as a child.",
+   "action": "add",
+   "note": "New card (debate): Fresh family-banter mission; only 'how many cousins' and the cousin-wedding memory exist."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who in their family makes the best chai.",
+   "action": "add",
+   "note": "New card (debate): Distinct from the chai rating, sugar, cups-per-day and doodh patti/kahwa cards; easy to ask and local."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to say 'Dastarkhwan laga do' (Lay out the food).",
+   "action": "add",
+   "note": "New card (debate): Fits the existing Roman Urdu 'say ...' cards; absent from the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they like to snack on during a long car journey.",
+   "action": "add",
+   "note": "New card (debate): Relatable, easy to ask, and distinct from the packing, picnic and longest-journey cards."
   }
  ]
 }

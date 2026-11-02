@@ -704,7 +704,7 @@ How likely are you to send durood on the Prophet (peace be upon him) on a Friday
 How many times have you flown a kite from a rooftop and had it cut by someone else?,Number
 "How likely are you to buy a generator, UPS or solar backup just to avoid load shedding?",0 to 100
 "How many relatives have you helped with a form, NADRA visit or online application this year?",Number
-"How much of Allama Iqbal's poetry, such as Shikwa and Jawab-e-Shikwa, have you read or can you recite?",0 to 100
+"How much of Allama Iqbal's poetry, such as Shikwa and Jawab-e-Shikwa, have you read or memorised?",0 to 100
 How likely are you to keep a torch or emergency light ready near your bed for load shedding?,0 to 100
 How many bowls of chaat have you eaten at a street stall this month?,Number
 How many times have you dozed off during a khutbah or a religious lecture?,Number
@@ -717,7 +717,6 @@ How likely are you to wear a waistcoat or topi to a family function?,0 to 100
 How many times have you waited in a long queue at a petrol pump or CNG station?,Number
 How good are you at finding a parking spot in a crowded bazaar?,0 to 100
 How many cups of chai or kahwa do you drink on a cold winter day?,Number
-How likely are you to finish the last piece of food on the table without asking anyone?,0 to 100
 How many times this week have you been told to wear a sweater or cap because 'thand lag jaye gi'?,Number
 How likely are you to ask for extra raita or dahi with your biryani?,0 to 100
 How likely are you to take a second helping of kheer or zarda after a daawat?,0 to 100
@@ -729,7 +728,7 @@ How many times have you received a rishta proposal or been told 'we have a good 
 How likely are you to wake up for Fajr without anyone calling you?,0 to 100
 How many cups of Rooh Afza or sharbat do you drink on a hot summer day?,Number
 How many bowls of haleem can you eat in one sitting?,Number
-How many thousand rupees of Eidi did you collect last Eid?,Number
+About how many thousand rupees of Eidi did you collect last Eid?,Number
 How many times have you been served the same food for three days because Ammi made too much?,Number
 How likely are you to start singing along when a naat or nasheed plays in the car?,0 to 100
 "How many times have you sneezed at exactly the wrong moment, such as during a khutbah or a family dua?",Number
@@ -751,7 +750,7 @@ How many jars of achaar are in your kitchen right now?,Number
 How likely are you to pretend you did not hear when someone asks you to bring water?,0 to 100
 How many times have you been stuck at a railway crossing waiting for a train to pass?,Number
 How likely are you to take a different route just to avoid a traffic jam you heard about on WhatsApp?,0 to 100
-How likely are you to say no the first time when someone offers you tea or a cold drink at their home?,0 to 100
+How likely are you to politely refuse the first time someone offers you tea or a cold drink at their home?,0 to 100
 How many times have you played tape-ball cricket this year?,Number
 How likely are you to mute a chat instead of replying to it?,0 to 100
 How many earphones or headphones have you lost or broken so far?,Number
@@ -770,7 +769,6 @@ How many times have you missed your stop because you were on your phone?,Number
 How many of your cousins' weddings have you attended in total?,Number
 How many times in a typical week do you hear 'Log kya kahenge?' from someone in your family?,Number
 How likely are you to crave pakoras and chai the moment it starts raining?,0 to 100
-How likely are you to pause what you are doing and listen quietly when the azaan starts?,0 to 100
 How many tasbih or prayer beads do you own?,Number
 About how many rupees of pocket money did you get in a typical week as a child?,Number
 How many times a day do you call someone 'bhai' or 'baji' who is not actually your sibling?,Number
@@ -789,7 +787,7 @@ How many companions (Sahaba) of the Prophet (peace be upon him) can you name in 
 How many hadith do you know by heart?,Number
 How much do you know about the life of Quaid-e-Azam Muhammad Ali Jinnah?,0 to 100
 How likely are you to carry your own cloth bag to the market instead of taking plastic bags?,0 to 100
-How likely are you to use a miswak?,0 to 100
+How likely are you to use a miswak before praying?,0 to 100
 How many times this year have you visited a graveyard to make dua for your relatives?,Number
 How many times have you prayed istikhara before an important decision?,Number
 How many Eid Mubarak messages did you send or forward on Eid day?,Number
@@ -840,3 +838,5 @@ How likely are you to walk away from a bargain when the shopkeeper will not drop
 "How many times this week has an auntie or uncle asked you when you are getting married, getting a job or having a baby?",Number
 "How many times this month have you insisted that a guest stay for a meal, saying 'khana khaye baghair nahi jana'?",Number
 How likely are you to keep a rishta proposal to yourself instead of telling the whole family?,0 to 100
+How likely are you to take a spoonful of saunf or a piece of elaichi after a heavy meal?,0 to 100
+"How likely are you to say the dua for leaving the house (Bismillah, tawakkaltu alallah) every time you step out?",0 to 100
