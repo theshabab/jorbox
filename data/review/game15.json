@@ -11708,13 +11708,13 @@
    "Name": "The Standard Bearer",
    "Description": "~$198M (Rembrandt, 2022)",
    "Category": "Most Expensive Paintings (Sold Price - High to Low)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "The Standard Bearer",
     "Description": "Rembrandt",
     "Category": "Most Expensive Paintings (Sold Price - High to Low)"
    },
-   "note": "replaced artist-only description with reported sale price and year"
+   "note": "Debate: Obscure painting with a press-estimate price; 5 cards remain and the order is unaffected."
   },
   {
    "id": "game15-902",
@@ -12462,13 +12462,13 @@
    "Name": "Skylanders",
    "Description": "2011",
    "Category": "Popular Toys (Release Year)",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Skylanders",
     "Description": "2011",
     "Category": "Popular Toys (Release Year)"
    },
-   "note": ""
+   "note": "Debate: Niche US game-toy line, obscure for Pakistani players; category keeps 7 cards plus Slinky."
   },
   {
    "id": "game15-960",
@@ -32601,6 +32601,86 @@
    "Category": "Planets - Average Surface Temperature (Hot to Cold)",
    "action": "add",
    "note": "New card (debate): NASA fact sheet average is about -63 °C."
+  },
+  {
+   "id": null,
+   "Name": "Eiffel Tower",
+   "Description": "1889",
+   "Category": "World Buildings By Completion",
+   "action": "add",
+   "note": "New card (debate): Accurate, famous, sorts between Big Ben 1859 and Minar-e-Pakistan 1968."
+  },
+  {
+   "id": null,
+   "Name": "Hagia Sophia",
+   "Description": "537 AD (completed as a cathedral)",
+   "Category": "World Buildings By Completion",
+   "action": "add",
+   "note": "New card (debate): Well-known to Muslim players; sorts between the Colosseum and Machu Picchu. Shortened description keeps only the ordering value."
+  },
+  {
+   "id": null,
+   "Name": "Sichuan, China 2008",
+   "Description": "7.9",
+   "Category": "Major Earthquakes (Magnitude - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Famous quake, Mw 7.9, no ties."
+  },
+  {
+   "id": null,
+   "Name": "Turkey-Syria 2023",
+   "Description": "7.8",
+   "Category": "Major Earthquakes (Magnitude - High to Low)",
+   "action": "add",
+   "note": "New card (debate): Recent well-known quake, Mw 7.8, relevant to the Muslim world."
+  },
+  {
+   "id": null,
+   "Name": "Smallpox Vaccine (Edward Jenner)",
+   "Description": "1796",
+   "Category": "Inventions by Year",
+   "action": "add",
+   "note": "New card (debate): Landmark invention, correct date, sorts between Watt 1769 and Daguerreotype 1839."
+  },
+  {
+   "id": null,
+   "Name": "Radio (Wireless Telegraphy)",
+   "Description": "c. 1895 (Marconi's first wireless transmissions)",
+   "Category": "Inventions by Year",
+   "action": "add",
+   "note": "New card (debate): Common invention; wording avoids a sole-inventor claim that could be disputed (Bose, Tesla, Popov)."
+  },
+  {
+   "id": null,
+   "Name": "Nokia",
+   "Description": "1865 (as a pulp mill in Finland)",
+   "Category": "Tech Companies (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Familiar to Pakistani players, correct date, matches the style of the other notes."
+  },
+  {
+   "id": null,
+   "Name": "Sony",
+   "Description": "1946 (as Tokyo Tsushin Kogyo)",
+   "Category": "Tech Companies (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Household brand not in the deck; original name added for consistency with the other entries."
+  },
+  {
+   "id": null,
+   "Name": "Rolls-Royce",
+   "Description": "1906",
+   "Category": "Car Brands (Founding Year)",
+   "action": "add",
+   "note": "New card (debate): Famous brand, correct year, sorts between Ford 1903 and Suzuki 1909."
+  },
+  {
+   "id": null,
+   "Name": "Slinky",
+   "Description": "1945",
+   "Category": "Popular Toys (Release Year)",
+   "action": "add",
+   "note": "New card (debate): Classic toy, released 1945, sorts before Lego 1958 and keeps the category full."
   }
  ]
 }

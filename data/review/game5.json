@@ -67996,15 +67996,15 @@
   {
    "id": "game5-5231",
    "Name": "",
-   "Description": "We can look forward, someday, to a kinder and gentler ____.",
+   "Description": "We can look forward, someday, to a kinder and gentler WAPDA, which will finally ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "We can look forward, someday, to a kinder and gentler ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localises US political slogan."
   },
   {
    "id": "game5-5232",
@@ -68074,15 +68074,15 @@
   {
    "id": "game5-5237",
    "Name": "",
-   "Description": "We go together like apples and ____.",
+   "Description": "We go together like aloo and ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "We go together like apples and ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local equivalent of the Western apples idiom."
   },
   {
    "id": "game5-5238",
@@ -68726,13 +68726,13 @@
    "Name": "",
    "Description": "Well, look at what we have here! A big fancy sahab strutting like he's ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Well, look at what we have here! A big fancy man walkin' like he's ____.",
     "Category": ""
    },
-   "note": "Debate: Local phrasing"
+   "note": "Debate: Exact duplicate of live game5-660."
   },
   {
    "id": "game5-5288",
@@ -69205,7 +69205,7 @@
   {
    "id": "game5-5324",
    "Name": "",
-   "Description": "What caused those mysterious stains on my kameez?",
+   "Description": "What caused those mysterious stains on my white kameez on Eid morning?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -69213,7 +69213,7 @@
     "Description": "What caused those smelly stains on my kameez?",
     "Category": ""
    },
-   "note": "avoid crude answers"
+   "note": "avoid crude answers; Debate: Context steers answers to food and chai, away from crude ones."
   },
   {
    "id": "game5-5325",
@@ -69309,15 +69309,15 @@
   {
    "id": "game5-5332",
    "Name": "",
-   "Description": "What defines my brand of feminism?",
+   "Description": "What defines my brand of chai?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What defines my brand of feminism?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Replaces unclear feminism prompt with a local chai frame."
   },
   {
    "id": "game5-5333",
@@ -69688,13 +69688,13 @@
    "Name": "",
    "Description": "What did your labor feel like?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What did your labor feel like?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Childbirth question invites crude answers and is awkward for mixed family groups."
   },
   {
    "id": "game5-5362",
@@ -69803,15 +69803,15 @@
   {
    "id": "game5-5370",
    "Name": "",
-   "Description": "What do I really believe in? ____.",
+   "Description": "I will defend ____ until my last breath.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What do I really believe in? ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids inviting religion jokes; clean single blank."
   },
   {
    "id": "game5-5371",
@@ -70468,13 +70468,13 @@
    "Name": "",
    "Description": "What don't you want to find in your Biryani?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What don't you want to find in your Biryani?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Duplicate of live samosa card 5368 plus many find-in-biryani prompts."
   },
   {
    "id": "game5-5422",
@@ -70882,7 +70882,7 @@
   {
    "id": "game5-5453",
    "Name": "",
-   "Description": "What has been seen cannot be unseen! I just witnessed Chacha ____.",
+   "Description": "What has been seen cannot be unseen! I just saw Chacha wearing ____ to the wedding.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -70890,7 +70890,7 @@
     "Description": "What has been seen cannot be unssen! I just witnessed ____.",
     "Category": ""
    },
-   "note": "spelling; Debate: Anchors open prompt to keep answers family-friendly."
+   "note": "spelling; Debate: Anchors open prompt to keep answers family-friendly.; Debate: Concrete frame avoids crude answers."
   },
   {
    "id": "game5-5454",
@@ -70962,13 +70962,13 @@
    "Name": "",
    "Description": "What helps the PM unwind?",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "What helps The PM unwind?",
     "Category": ""
    },
-   "note": "capitalisation"
+   "note": "Debate: Near-duplicate of live 5417 (What does the PM do for fun?)."
   },
   {
    "id": "game5-5460",
@@ -105165,6 +105165,22 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Fresh news frame, mild political humour, no named person."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The groom's friends decorated the wedding car with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New baraat prompt, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The neighbour's cricket ball broke our window, and Abbu demanded ____ as compensation.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct relatable family scenario."
   }
  ]
 }

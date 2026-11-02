@@ -9343,7 +9343,7 @@
    "Description": "A single teaspoon of material from a neutron star would weigh about a ____ tonnes.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The number is the surprising part and a better bluffing target than the unit; the figure is accurate.; Debate: Fills missing category.; Debate: Fills blank category."
+   "note": "New card; Debate: The number is the surprising part and a better bluffing target than the unit; the figure is accurate.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category; fact is fine."
   },
   {
    "id": null,
@@ -9399,7 +9399,7 @@
    "Description": "Koalas have ____ so similar to humans' that they could confuse detectives at a crime scene.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Clearer wording; fact is true."
+   "note": "New card; Debate: Clearer wording; fact is true.; Debate: Fills the missing category."
   },
   {
    "id": null,
@@ -9407,7 +9407,7 @@
    "Description": "Among birds, the ____ is famous for hovering in mid-air and even flying backwards.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Removes the false 'only bird' claim.; Debate: Fills blank category."
+   "note": "New card; Debate: Removes the false 'only bird' claim.; Debate: Fills blank category.; Debate: Fills the missing category."
   },
   {
    "id": null,
@@ -9751,7 +9751,7 @@
    "Description": "The ice lolly on a stick was invented by accident in 1905 by a boy aged just ____ who left his drink outside on a cold night.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff.; Debate: Fills the empty category. The fact (Frank Epperson, aged 11) is correct.; Debate: Fills missing category.; Debate: Fills blank category."
+   "note": "New card; Debate: 'an ____-year-old' only reads correctly with some numbers. The new wording works with any bluff.; Debate: Fills the empty category. The fact (Frank Epperson, aged 11) is correct.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
   },
   {
    "id": null,
@@ -9807,7 +9807,7 @@
    "Description": "Fazlur Rahman Khan, the Dhaka-born engineer whose \"tube\" designs made modern skyscrapers possible, was the structural engineer of Chicago's ____ Tower (now the Willis Tower).",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer.; Debate: Tighter, accurate wording, and fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category."
+   "note": "New card; Debate: The tower was renamed in 2009. Adding the current name avoids confusion without giving away the answer.; Debate: Tighter, accurate wording, and fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
   },
   {
    "id": null,
@@ -9815,7 +9815,7 @@
    "Description": "Momofuku Ando invented instant noodles in 1958 after experimenting alone in a small shed in his ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Challenger's amendment: 'Japan' was too easy to guess, the backyard shed in Ikeda is true, and the unverified 'months' detail is gone.; Debate: Fills missing category.; Debate: Fills blank category."
+   "note": "New card; Debate: Challenger's amendment: 'Japan' was too easy to guess, the backyard shed in Ikeda is true, and the unverified 'months' detail is gone.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
   },
   {
    "id": null,
@@ -9855,7 +9855,7 @@
    "Description": "Sindh's traditional block-printed shawl, dyed in deep red and indigo, is called the ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer.; Debate: Fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category."
+   "note": "New card; Debate: 'an ____' hints that the answer starts with a vowel and reads wrongly with most bluffs. 'the ____' works with any answer.; Debate: Fills the empty category.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
   },
   {
    "id": null,
@@ -9903,7 +9903,7 @@
    "Description": "Pakistan's highest military award, the Nishan-e-Haider, is named after Hazrat Ali (RA), whose title \"Haider\" means ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: The old wording gave the answer away. 'Haider' does mean lion, and the honorific is respectful.; Debate: Fills missing category.; Debate: Fills blank category."
+   "note": "New card; Debate: The old wording gave the answer away. 'Haider' does mean lion, and the honorific is respectful.; Debate: Fills missing category.; Debate: Fills blank category.; Debate: Fills the missing category."
   },
   {
    "id": null,
@@ -14312,6 +14312,22 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accurate (about 164.8), good numeric bluff."
+  },
+  {
+   "id": null,
+   "Name": "west",
+   "Description": "Venus spins backwards compared with most planets, so on Venus the Sun rises in the ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): True, surprising, and distinct from the live Venus day-vs-year card."
+  },
+  {
+   "id": null,
+   "Name": "Nanga Parbat",
+   "Description": "Fairy Meadows, a grassy plateau in Gilgit-Baltistan, is famous for its close view of the \"Killer Mountain\", ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate local landmark with plausible fake answers; no existing Fairy Meadows card."
   }
  ]
 }
