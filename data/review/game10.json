@@ -7772,6 +7772,54 @@
    "Name": "Name something you wear to a job interview.",
    "action": "add",
    "note": "New card (debate): No interview card exists; neutral and matchable answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something hawkers sell at a traffic signal.",
+   "action": "add",
+   "note": "New card (debate): Local, matchable answers; no signal-vendor card exists."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do when you are bored.",
+   "action": "add",
+   "note": "New card (debate): Universal, easy to match; no bored card."
+  },
+  {
+   "id": null,
+   "Name": "Name something people say after someone sneezes.",
+   "action": "add",
+   "note": "New card (debate): Islamic etiquette with convergent answers; no similar card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do when you have a fever.",
+   "action": "add",
+   "note": "New card (debate): No fever card exists; matchable home-remedy answers."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do to calm down when you are angry.",
+   "action": "add",
+   "note": "New card (debate): Relatable and Islamic; asks what you do, distinct from the 'Ammi says when angry' card."
+  },
+  {
+   "id": null,
+   "Name": "Name a gift you give your teacher.",
+   "action": "add",
+   "note": "New card (debate): Fits the gift-card family; matchable answers; no teacher gift card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do when you are tired after a long day.",
+   "action": "add",
+   "note": "New card (debate): Relatable routine with matchable answers; not covered."
+  },
+  {
+   "id": null,
+   "Name": "Name something you put on a bed to sleep comfortably.",
+   "action": "add",
+   "note": "New card (debate): Challenger's tighter bedding prompt is clearer and overlaps less with the other bed cards."
   }
  ]
 }

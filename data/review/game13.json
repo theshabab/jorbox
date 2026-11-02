@@ -1554,11 +1554,11 @@
   {
    "id": "game13-173",
    "Description": "Get a player to correct your pronunciation of 'Shoes'.",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "Get a player to correct your pronunciation of 'Shoes'."
    },
-   "note": ""
+   "note": "Debate: Trivial word nobody mispronounces, so unnatural and easy to spot; both sides agree and other shoe cards remain."
   },
   {
    "id": "game13-174",
@@ -7229,6 +7229,30 @@
    "Description": "Get a player to tell you what they had for dinner last night.",
    "action": "add",
    "note": "New card (debate): Easy food talk, and no dinner card exists."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to ask you why you are holding a clothes peg.",
+   "action": "add",
+   "note": "New card (debate): Harmless, funny, easy to carry; not in the deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to compliment your watch.",
+   "action": "add",
+   "note": "New card (debate): Easy to trigger; fills the compliment-an-item set; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to agree that mangoes are the best fruit in the world.",
+   "action": "add",
+   "note": "New card (debate): Natural, easy, Pakistani-themed agree-that mission; no existing duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to explain what a 'wide ball' means in cricket.",
+   "action": "add",
+   "note": "New card (debate): Distinct cricket concept, not in deck, explainable by most players."
   }
  ]
 }
