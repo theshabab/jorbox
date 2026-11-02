@@ -1355,6 +1355,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1353','game1','Kiswah','Black cloth embroidered in gold that covers the Kaaba','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1354','game1','Multazam','Wall between the Black Stone and the Kaaba door','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1355','game1','Mataf','Marble circle where pilgrims perform tawaf','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1356','game1','Sundial','Garden dial that tells time by a shadow','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1357','game1','Hand Pump','Nalka, press its handle to draw village water','Tools');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1358','game1','Akbar the Great','Mughal emperor who built Fatehpur Sikri','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1359','game1','Chakki','Village stone mill that turns wheat into flour','Kitchen Items');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');

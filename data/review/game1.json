@@ -14856,6 +14856,38 @@
    "Category": "Islamic Locations",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sundial",
+   "Description": "Garden dial that tells time by a shadow",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Hand Pump",
+   "Description": "Nalka, press its handle to draw village water",
+   "Category": "Tools",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Akbar the Great",
+   "Description": "Mughal emperor who built Fatehpur Sikri",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Chakki",
+   "Description": "Village stone mill that turns wheat into flour",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
   }
  ]
 }
