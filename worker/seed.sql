@@ -20548,6 +20548,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-825','game14','','How likely are you to keep a sweet or chocolate hidden from your siblings or cousins?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-826','game14','','How likely are you to count pressure cooker whistles instead of using a timer?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-827','game14','','How likely are you to say ''Bas, ek aakhri over'' and then play for another hour?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-828','game14','','How many paras (juz) of the Quran have you memorised?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-829','game14','','How likely are you to stop talking and listen quietly when the azan starts?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-830','game14','','How many times have you mixed up whether someone is your khala, phupho, mamu or chacha?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-831','game14','','How many times has the electricity gone off in the middle of a cricket match you were watching?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-832','game14','','How many times have you been stopped at a police checkpost or naka this year?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-833','game14','','How many bottles of Zamzam water have you been gifted or brought home?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-834','game14','','How likely are you to carry an umbrella to shade yourself from the sun in summer?','0 to 100');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game15','Tareekhi',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1','game15','Khadijah bint Khuwaylid','1st - first person to accept Islam','Sahabas - Order of Accepting Islam');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-2','game15','Ali ibn Abi Talib','2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10','Sahabas - Order of Accepting Islam');
@@ -23329,3 +23336,5 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-911','game16','Which relative''s house has the strictest rules for guests (shoes outside, no touching the showcase), and what is the most famous rule?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-912','game16','If a new neighbour who had never heard of Ramadan asked you what it is like, what three things would you tell them?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-913','game16','Who used to oil your hair on Sundays when you were little, and what advice or gossip came free with the champi?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-914','game16','If you could build your dream house, which three rooms would you make sure it has?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-915','game16','If you could carry only one thing in your pocket every day, what would it be?','','Ice Breakers & Fun General');

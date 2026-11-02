@@ -7559,6 +7559,55 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Gully-cricket humour distinct from the existing cricket cards."
+  },
+  {
+   "id": null,
+   "Description": "How many paras (juz) of the Quran have you memorised?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal question, allowed; no hifz card exists and 0 is a valid answer."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to stop talking and listen quietly when the azan starts?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Respectful local habit question; no azan card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you mixed up whether someone is your khala, phupho, mamu or chacha?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's clearer amended wording; a count of mix-ups anyone can answer, with a very Pakistani family theme."
+  },
+  {
+   "id": null,
+   "Description": "How many times has the electricity gone off in the middle of a cricket match you were watching?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from the load-shedding panic card and the cricket cards; clear and local."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been stopped at a police checkpost or naka this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable local experience, clean, no similar card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "How many bottles of Zamzam water have you been gifted or brought home?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Allowed worship-related local gifting custom; respectful; 0 is valid."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to carry an umbrella to shade yourself from the sun in summer?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Local summer habit; differs from the umbrella-count card."
   }
  ]
 }
