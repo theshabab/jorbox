@@ -8976,6 +8976,41 @@
    "Description": "I need a sofa cover that can survive _____!",
    "action": "add",
    "note": "New card (debate): No sofa card in the deck; relatable household problem with an open blank."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mela Jhoola Operator (Fairground Swing Man)",
+   "action": "add",
+   "note": "New card (debate): Distinct local fairground figure, not in deck or pending adds."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mohalla Gossip Aunty",
+   "action": "add",
+   "note": "New card (debate): Recognisable type with a different pitch angle from Rishta Aunty and Online Boutique Aunty."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Student Union Leader",
+   "action": "add",
+   "note": "New card (debate): Campus political figure, allowed content, distinct from College Student and Politician."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Mehfil-e-Milad Organiser",
+   "action": "add",
+   "note": "New card (debate): Allowed religious-gathering customer, no overlap with Imam or Masjid Khadim."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Wedding Planner",
+   "action": "add",
+   "note": "New card (debate): Not in the deck or pending adds, which have only photographer, hall manager and card printer."
   }
  ]
 }

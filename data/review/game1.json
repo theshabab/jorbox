@@ -2905,7 +2905,7 @@
   {
    "id": "game1-224",
    "Name": "Sparrow",
-   "Description": "Small brown chirping bird; chiriya",
+   "Description": "Chiriya; small brown chirping bird",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2913,7 +2913,7 @@
     "Description": "A small bird",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Urdu word first like neighbouring bird cards; same facts."
   },
   {
    "id": "game1-225",
@@ -2970,7 +2970,7 @@
   {
    "id": "game1-229",
    "Name": "Hen",
-   "Description": "Female bird that lays eggs; murghi",
+   "Description": "Murghi; female bird that lays eggs",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -2978,7 +2978,7 @@
     "Description": "A female chicken",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Matches the Urdu-first pattern of Murga, Batakh, Ullu; facts unchanged."
   },
   {
    "id": "game1-230",
@@ -3035,7 +3035,7 @@
   {
    "id": "game1-234",
    "Name": "Hawk",
-   "Description": "Sharp-eyed hunting bird; baaz",
+   "Description": "Baaz; sharp-eyed hunting bird",
    "Category": "Birds",
    "action": "edit",
    "original": {
@@ -3043,7 +3043,7 @@
     "Description": "A bird of prey",
     "Category": "Birds"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Matches the Urdu-first pattern of Cheel and Uqaab; facts unchanged."
   },
   {
    "id": "game1-235",
