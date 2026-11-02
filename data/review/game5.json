@@ -105653,6 +105653,86 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Repurposed-furniture joke, distinct from the existing sewing-machine stitching card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Taj Mahal took about twenty years to build. The small repair at our house that has taken just as long is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (c. 1632-1653), clean, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The numbers we use today travelled from India through Arab scholars to the whole world. The one number I can never remember is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate science-history frame, clean, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Tulips reached Europe from the gardens of the Ottomans. The only thing growing in our garden is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Ottoman fact, clean punchline."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Karakoram Highway is often called the Eighth Wonder of the World. My family's own eighth wonder is ____.",
+   "Category": "Traffic & Travel",
+   "action": "add",
+   "note": "New card (debate): Pakistani landmark, existing category, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The markhor, Pakistan's national animal, has magnificent spiral horns. If I had spiral horns, I would use them to ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani wildlife, clean."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Coffee spread to the world from Yemen, but in our house chai wins every argument because ____.",
+   "Category": "Food Debates",
+   "action": "add",
+   "note": "New card (debate): Accurate history, desi chai humour, existing category."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Pakistan has won the Hockey World Cup four times. In our family, Dadi is the undefeated champion of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: blank at the end reads better; facts (1971, 1978, 1982, 1994) correct."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The walls of the Alhambra in Granada are covered in calligraphy and poetry. If I decorated our drawing room wall, it would say ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Islamic Spain fact, clean, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Shandur Pass in northern Pakistan has the highest polo ground in the world. The strangest place my cousins ever played cricket is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani geography, gali-cricket joke, distinct prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ibn al-Haytham explained a thousand years ago that we see because light enters our eyes. Even in bright light, my brother cannot see ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Muslim-scientist fact, mild family-safe teasing, distinct from existing card."
   }
  ]
 }

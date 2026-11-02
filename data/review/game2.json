@@ -11979,10 +11979,10 @@
   {
    "id": null,
    "Name": "Air Cooler",
-   "Description": "Water | Fan | Summer | Pad | Cheap",
+   "Description": "Water | Fan | Summer | Pad | Ice",
    "Category": "Electronics",
    "action": "add",
-   "note": "New card (debate): Very Pakistani, absent from deck."
+   "note": "New card (debate): Very Pakistani, absent from deck.; Debate: Replaces vague 'Cheap' with a more useful banned word."
   },
   {
    "id": null,
@@ -14911,6 +14911,38 @@
    "Category": "Islamic Locations",
    "action": "add",
    "note": "New card (debate): Familiar to Hajj and Umrah families; distinct from the Tawaf act card."
+  },
+  {
+   "id": null,
+   "Name": "Sundial",
+   "Description": "Shadow | Sun | Time | Clock | Garden",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Not in deck, guessable, sensible banned words."
+  },
+  {
+   "id": null,
+   "Name": "Hand Pump",
+   "Description": "Nalka | Water | Handle | Village | Press",
+   "Category": "Tools",
+   "action": "add",
+   "note": "New card (debate): Familiar local item not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Akbar the Great",
+   "Description": "Mughal | Emperor | Fatehpur Sikri | Jalaluddin | Agra",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment drops the contested Din-i-Ilahi clue; Akbar is missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Chakki",
+   "Description": "Flour | Grind | Wheat | Stone | Village",
+   "Category": "Kitchen Items",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment removes the redundant Atta/Flour pair."
   }
  ]
 }

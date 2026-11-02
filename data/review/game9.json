@@ -13973,6 +13973,62 @@
    "Description": "Sheer khurma",
    "action": "add",
    "note": "New card (debate): Accurate, culturally relevant, not in the deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Iraq?",
+   "Description": "Baghdad",
+   "action": "add",
+   "note": "New card (debate): Correct, no existing Iraq capital card."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Syria?",
+   "Description": "Damascus",
+   "action": "add",
+   "note": "New card (debate): Correct, existing Damascus cards test different facts."
+  },
+  {
+   "id": null,
+   "Name": "What is the capital of Ghana?",
+   "Description": "Accra",
+   "action": "add",
+   "note": "New card (debate): Correct, Ghana absent."
+  },
+  {
+   "id": null,
+   "Name": "What is the official capital of Tanzania, which replaced Dar es Salaam as the seat of government?",
+   "Description": "Dodoma",
+   "action": "add",
+   "note": "New card (debate): Correct, good bluffable card, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Which soft, round milk-solid dessert fried and soaked in sugar syrup is a staple of Pakistani weddings and Eid tables?",
+   "Description": "Gulab jamun",
+   "action": "add",
+   "note": "New card (debate): Accurate, fits Pakistani food theme, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which slow-cooked dish of goat or cow trotters is a classic Pakistani winter breakfast, often eaten with naan?",
+   "Description": "Paya",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which ancient temple complex near Chakwal in Punjab, built around a sacred pond, is a major heritage site of Pakistan?",
+   "Description": "Katas Raj",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
+  },
+  {
+   "id": null,
+   "Name": "Which Pakistani natural gas field in Balochistan, discovered in 1952, supplied much of the country's gas for decades?",
+   "Description": "Sui gas field",
+   "action": "add",
+   "note": "New card (debate): Accurate, absent."
   }
  ]
 }
