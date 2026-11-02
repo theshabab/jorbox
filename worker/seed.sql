@@ -1216,6 +1216,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1214','game1','Plough','Farmer''s tool pulled by bulls to turn soil (Hal)','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1215','game1','Light Bulb','Glows in a room when you flick the switch','Electronics');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1216','game1','Plug','Pronged end that goes into a socket','Electronics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1217','game1','Phulkari','Colourful flower embroidery of Punjab','Fabrics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1218','game1','Chikankari','White thread embroidery from Lucknow on kurtas','Fabrics');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1219','game1','Goli Soda','Fizzy bottle sealed with a glass marble','Beverages');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1220','game1','Gajar ka Halwa','Winter sweet of grated orange roots cooked in ghee and khoya','Desserts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1221','game1','Mithai','Box of sweets shared on Eid and weddings','Desserts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1222','game1','Dulha','Groom wearing a sehra at his shaadi','Family Relations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1223','game1','Dulhan','Bride with mehndi on her wedding day','Family Relations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1224','game1','Bhabhi','Your brother''s wife','Family Relations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1225','game1','Ruqayyah','Prophet''s daughter who migrated to Abyssinia','Sahaba');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
