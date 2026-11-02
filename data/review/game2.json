@@ -14855,6 +14855,62 @@
    "Category": "Muslim Historical Figures",
    "action": "add",
    "note": "New card (debate): Iconic Urdu poet missing from deck."
+  },
+  {
+   "id": null,
+   "Name": "Kulcha",
+   "Description": "Naan | Chanay | Tandoor | Soft | Breakfast",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Distinct, common bread; not a card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Lobia",
+   "Description": "Beans | Black-Eyed | Salan | Chawal | Protein",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Everyday dish missing from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Bakarkhani",
+   "Description": "Layers | Crisp | Chai | Round | Bakery",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Well-known bread, distinct from Sheermal."
+  },
+  {
+   "id": null,
+   "Name": "Yasir ibn Amir",
+   "Description": "Sumayyah | Ammar | Husband | Father | Torture",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "New card (debate): Accurate; only appears as a banned word elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "Kiswah",
+   "Description": "Kaaba | Black | Cloth | Gold | Cover",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Accurate Hajj item absent from the deck."
+  },
+  {
+   "id": null,
+   "Name": "Multazam",
+   "Description": "Kaaba | Door | Black Stone | Dua | Hug",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Accurate; challenger's amendment replaces vague 'Between' with the concrete 'Hug'."
+  },
+  {
+   "id": null,
+   "Name": "Mataf",
+   "Description": "Tawaf | Circle | Kaaba | Marble | Courtyard",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Familiar to Hajj and Umrah families; distinct from the Tawaf act card."
   }
  ]
 }

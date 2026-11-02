@@ -102267,8 +102267,8 @@
    "Name": "",
    "Description": "The gol gappay wala secretly adds ____ to his pani.",
    "Category": "",
-   "action": "add",
-   "note": "New card (debate): Gol gappay is not in the deck."
+   "action": "remove",
+   "note": "Debate: Duplicate of live card 7814; 7814 has no remove action in the review file, so only one of the pair is removed."
   },
   {
    "id": null,
@@ -105629,6 +105629,30 @@
    "Category": "Quiplash",
    "action": "add",
    "note": "New card (debate): Local humour, new subject."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The Dubai-returned cousin handed out chocolates, perfume and ____ to the whole family.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean, local fill-in with a distinct gift-giving setup."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Ammi's pressure cooker whistled three times, and then ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fill-in kitchen prompt, a different format from the existing Suno Bolo pressure-cooker sound card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Dadi's old Singer sewing machine is now used to store ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Repurposed-furniture joke, distinct from the existing sewing-machine stitching card."
   }
  ]
 }

@@ -8551,7 +8551,7 @@
    "Description": "Pakistan's first capital, until the government began moving to Rawalpindi in 1959, was ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category.; Debate: Fills empty category; wording more precise."
+   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category.; Debate: Fills empty category; wording more precise.; Debate: Fills the empty category; fact is accurate."
   },
   {
    "id": null,
@@ -8783,7 +8783,7 @@
    "Description": "Istanbul is the world's largest city to sit on two ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category.; Debate: Fills empty category."
+   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category.; Debate: Fills empty category.; Debate: Fills the empty category."
   },
   {
    "id": null,
@@ -14656,6 +14656,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Warm, family-friendly personal question; no duplicate found."
+  },
+  {
+   "id": null,
+   "Name": "Leader",
+   "Description": "The title \"Quaid-e-Azam\", given to Muhammad Ali Jinnah, means \"Great ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate title meaning, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "World",
+   "Description": "The Iranian city of Isfahan, famous for its blue-tiled mosques and grand square, is nicknamed \"Half the ____\" (Nesf-e-Jahan).",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, new topic."
+  },
+  {
+   "id": null,
+   "Name": "22",
+   "Description": "Built by Shah Jahan for his wife Mumtaz Mahal, the Taj Mahal took about ____ years to complete.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (1632-1653); existing Taj cards ask different things."
+  },
+  {
+   "id": null,
+   "Name": "Ismail",
+   "Description": "According to Islamic tradition, the Zamzam spring in Makkah first gushed forth near Hajar (RA) and her baby son ____ (AS).",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-established, respectful; differs from the Safa-Marwah card."
+  },
+  {
+   "id": null,
+   "Name": "Aqsa",
+   "Description": "Before the direction of prayer was changed to the Kaaba, early Muslims prayed facing Masjid al-____ in Jerusalem.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-established fact, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "chimneys",
+   "Description": "The strange cone-shaped rock towers of Cappadocia in Turkey, where tourists float over in hot air balloons, are nicknamed \"fairy ____\".",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, new topic."
+  },
+  {
+   "id": null,
+   "Name": "Sun",
+   "Description": "Young sunflowers slowly turn their heads to follow the ____ across the sky each day.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate surprising fact, not in deck."
   }
  ]
 }
