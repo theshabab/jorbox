@@ -656,7 +656,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-654','game1','Jahannam','The Fire of punishment in the Hereafter','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-655','game1','Ramadan','Ninth month, the month of fasting','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-656','game1','Eid','Festival ending Ramadan, or of sacrifice','Islamic Terms');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-657','game1','Masjid','Mosque, place of prayer','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-657','game1','Masjid','Mosque, place of prayer','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-658','game1','Imam','Prayer leader','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-659','game1','Wudu','Ritual washing before prayer','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-660','game1','Makkah','Holiest city in Islam','Islamic Locations');
@@ -1329,6 +1329,16 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1327','game1','Muawiya','First Umayyad caliph, ruled from Damascus','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1328','game1','Abu Sufyan','Quraysh leader who later accepted Islam at the conquest of Makkah','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1329','game1','Abdullah ibn Zubair','Son of Asma, ruled from Makkah after Yazid','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1330','game1','Buraq','White heavenly steed of the night journey','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1331','game1','Iqamah','Second call just before the congregational prayer begins','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1332','game1','Tajweed','Rules for reciting the Quran correctly','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1333','game1','Ashab al-Kahf','Youths who slept for ages in a cave','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1334','game1','Yajooj Majooj','Tribes held behind a wall by Dhul-Qarnayn','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1335','game1','Surah Yaseen','Called the heart of the Quran, chapter 36','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1336','game1','Surah Al-Kahf','Chapter recited on Fridays about the cave','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1337','game1','Luqman','Wise man who advised his son in the Quran','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1338','game1','Zainab bint Jahsh','Generous Mother of the Believers, cousin of the Prophet','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1339','game1','Sidrat al-Muntaha','Lote tree marking the limit reached on the Miraj','Islamic Locations');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');

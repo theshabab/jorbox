@@ -8938,7 +8938,7 @@
    "id": "game1-688",
    "Name": "Masjid",
    "Description": "Mosque, place of prayer",
-   "Category": "Islamic Terms",
+   "Category": "Islamic Locations",
    "action": "edit",
    "original": {
     "Name": "Masjid",
@@ -14638,6 +14638,86 @@
    "Name": "Abdullah ibn Zubair",
    "Description": "Son of Asma, ruled from Makkah after Yazid",
    "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Buraq",
+   "Description": "White heavenly steed of the night journey",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Iqamah",
+   "Description": "Second call just before the congregational prayer begins",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Tajweed",
+   "Description": "Rules for reciting the Quran correctly",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Ashab al-Kahf",
+   "Description": "Youths who slept for ages in a cave",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Yajooj Majooj",
+   "Description": "Tribes held behind a wall by Dhul-Qarnayn",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Surah Yaseen",
+   "Description": "Called the heart of the Quran, chapter 36",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Surah Al-Kahf",
+   "Description": "Chapter recited on Fridays about the cave",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Luqman",
+   "Description": "Wise man who advised his son in the Quran",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Zainab bint Jahsh",
+   "Description": "Generous Mother of the Believers, cousin of the Prophet",
+   "Category": "Sahaba",
+   "action": "add",
+   "note": "Synced from Charades: Main follows the Charades word list"
+  },
+  {
+   "id": null,
+   "Name": "Sidrat al-Muntaha",
+   "Description": "Lote tree marking the limit reached on the Miraj",
+   "Category": "Islamic Locations",
    "action": "add",
    "note": "Synced from Charades: Main follows the Charades word list"
   }
