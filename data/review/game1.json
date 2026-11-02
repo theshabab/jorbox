@@ -1592,7 +1592,7 @@
   {
    "id": "game1-123",
    "Name": "Shalwar",
-   "Description": "Loose pants worn with a kameez",
+   "Description": "Loose baggy legwear of a Pakistani suit",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1600,12 +1600,12 @@
     "Description": "Traditional pants",
     "Category": "Clothing"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained Kameez, and Kameez's hint contained Shalwar. Shortened version used to stay within the word limit."
   },
   {
    "id": "game1-124",
    "Name": "Kameez",
-   "Description": "Long shirt, top half of a shalwar suit",
+   "Description": "Long tunic, top half of a Pakistani suit",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1613,7 +1613,7 @@
     "Description": "Traditional shirt",
     "Category": "Clothing"
    },
-   "note": "Specific hint; Debate: The old hint was almost the same as Kurta's. The new one tells the two apart and is accurate."
+   "note": "Specific hint; Debate: The old hint was almost the same as Kurta's. The new one tells the two apart and is accurate.; Debate: Old hint contained the deck words Shalwar and Shirt."
   },
   {
    "id": "game1-125",
@@ -1683,7 +1683,7 @@
   {
    "id": "game1-130",
    "Name": "Waistcoat",
-   "Description": "Sleeveless jacket over a kurta, waskat",
+   "Description": "Sleeveless formal layer for weddings, waskat",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1691,7 +1691,7 @@
     "Description": "A sleeveless jacket",
     "Category": "Clothing"
    },
-   "note": "Specific hint; Debate: Adds correct local word waskat."
+   "note": "Specific hint; Debate: Adds correct local word waskat.; Debate: Old hint contained the deck words Jacket and Kurta."
   },
   {
    "id": "game1-131",
@@ -1839,7 +1839,7 @@
   {
    "id": "game1-142",
    "Name": "Tie",
-   "Description": "Knotted strip worn under a shirt collar",
+   "Description": "Knotted strip worn at the neck with a suit",
    "Category": "Clothing",
    "action": "edit",
    "original": {
@@ -1847,7 +1847,7 @@
     "Description": "Neck accessory",
     "Category": "Clothing"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained the deck word Shirt."
   },
   {
    "id": "game1-143",
@@ -2138,7 +2138,7 @@
   {
    "id": "game1-165",
    "Name": "Mattress",
-   "Description": "Thick padded base of a bed",
+   "Description": "Thick padded layer you sleep on, gadda",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2146,7 +2146,7 @@
     "Description": "Bed cushion",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained the deck word Bed."
   },
   {
    "id": "game1-166",
@@ -2164,7 +2164,7 @@
   {
    "id": "game1-167",
    "Name": "Cushion",
-   "Description": "Soft pad for a sofa",
+   "Description": "Soft stuffed square for leaning on",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2172,7 +2172,7 @@
     "Description": "Soft padding",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained the deck word Sofa."
   },
   {
    "id": "game1-168",
@@ -2190,7 +2190,7 @@
   {
    "id": "game1-169",
    "Name": "Sheet",
-   "Description": "Thin cloth spread on a bed",
+   "Description": "Thin washable cloth covering the bedding, chadar",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2198,12 +2198,12 @@
     "Description": "Bed covering",
     "Category": "Furniture"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Old hint contained the deck word Bed."
   },
   {
    "id": "game1-170",
    "Name": "Cot",
-   "Description": "Simple string-and-wood bed, charpai",
+   "Description": "Narrow portable sleeping frame, folds for travel",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2211,12 +2211,12 @@
     "Description": "A small bed",
     "Category": "Furniture"
    },
-   "note": "Specific hint; Debate: Small was misleading for a charpai; describes it accurately."
+   "note": "Specific hint; Debate: Small was misleading for a charpai; describes it accurately.; Debate: Challenger's amendment: drops Bed and Charpai, both separate deck words."
   },
   {
    "id": "game1-171",
    "Name": "Cradle",
-   "Description": "Rocking bed for a baby, palna",
+   "Description": "Swinging baby sleeper, palna",
    "Category": "Furniture",
    "action": "edit",
    "original": {
@@ -2224,7 +2224,7 @@
     "Description": "Baby bed",
     "Category": "Furniture"
    },
-   "note": "Specific hint; Debate: Palna is the correct Urdu word for cradle; jhoola means swing and would mislead."
+   "note": "Specific hint; Debate: Palna is the correct Urdu word for cradle; jhoola means swing and would mislead.; Debate: Removes the deck word Bed; palna is the correct local word."
   },
   {
    "id": "game1-172",
@@ -2268,7 +2268,7 @@
   {
    "id": "game1-175",
    "Name": "Knife",
-   "Description": "Sharp blade for cutting",
+   "Description": "Sharp blade for cutting, chhuri",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2276,7 +2276,7 @@
     "Description": "Cutting tool",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Less generic hint with the local word, no deck words."
   },
   {
    "id": "game1-176",
@@ -2398,7 +2398,7 @@
   {
    "id": "game1-185",
    "Name": "Cooker",
-   "Description": "Pressure pot that whistles",
+   "Description": "Sealed steamer with a whistling vent, cooks fast",
    "Category": "Kitchen Items",
    "action": "edit",
    "original": {
@@ -2406,7 +2406,7 @@
     "Description": "Cooking appliance",
     "Category": "Kitchen Items"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Challenger's amendment: removes Pot and avoids naming Daal, both deck words."
   },
   {
    "id": "game1-186",

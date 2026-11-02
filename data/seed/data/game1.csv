@@ -118,14 +118,14 @@ Capsicum,"Bell pepper, Shimla mirch",Vegetables
 Chili,Hot green or red mirch,Vegetables
 Lemon,"Sour yellow citrus, nimbu",Fruits
 Beetroot,"Deep red root, chukandar",Vegetables
-Shalwar,Loose pants worn with a kameez,Clothing
-Kameez,"Long shirt, top half of a shalwar suit",Clothing
+Shalwar,Loose baggy legwear of a Pakistani suit,Clothing
+Kameez,"Long tunic, top half of a Pakistani suit",Clothing
 Kurta,Loose tunic often worn with pajama on Jummah,Clothing
 Dupatta,Long scarf draped over head or shoulders,Clothing
 Sari,Long draped cloth worn by women,Clothing
 Lehnga,Heavy flared bridal skirt,Clothing
 Sherwani,Long formal coat worn by the groom,Clothing
-Waistcoat,"Sleeveless jacket over a kurta, waskat",Clothing
+Waistcoat,"Sleeveless formal layer for weddings, waskat",Clothing
 Turban,"Long cloth wrapped around the head, pagri",Clothing
 Scarf,Cloth wrapped around the neck in winter,Clothing
 Shawl,"Large warm wrap, often wool",Clothing
@@ -137,7 +137,7 @@ Coat,Long heavy outer layer for winter,Clothing
 Sweater,"Knitted woollen top, jersey",Clothing
 Socks,"Worn on feet inside shoes, jurab",Clothing
 Gloves,Worn on hands in cold weather,Clothing
-Tie,Knotted strip worn under a shirt collar,Clothing
+Tie,Knotted strip worn at the neck with a suit,Clothing
 Belt,Strap with buckle around the waist,Clothing
 Trousers,Full-length formal pants worn to the office,Clothing
 Jeans,Blue denim pants,Clothing
@@ -158,17 +158,17 @@ Mirror,"Shows your reflection, aaina",Furniture
 Lamp,Bedside light with a shade,Furniture
 Carpet,Thick woven floor covering,Furniture
 Curtain,Cloth hung over a window,Furniture
-Mattress,Thick padded base of a bed,Furniture
+Mattress,"Thick padded layer you sleep on, gadda",Furniture
 Pillow,Soft rest for your head,Furniture
-Cushion,Soft pad for a sofa,Furniture
+Cushion,Soft stuffed square for leaning on,Furniture
 Blanket,Warm covering for cold nights,Furniture
-Sheet,Thin cloth spread on a bed,Furniture
-Cot,"Simple string-and-wood bed, charpai",Furniture
-Cradle,"Rocking bed for a baby, palna",Furniture
+Sheet,"Thin washable cloth covering the bedding, chadar",Furniture
+Cot,"Narrow portable sleeping frame, folds for travel",Furniture
+Cradle,"Swinging baby sleeper, palna",Furniture
 Recliner,Armchair that leans back,Furniture
 Spoon,Utensil for eating soup or rice,Kitchen Items
 Fork,Pronged utensil for eating,Kitchen Items
-Knife,Sharp blade for cutting,Kitchen Items
+Knife,"Sharp blade for cutting, chhuri",Kitchen Items
 Plate,Flat dish you eat from,Kitchen Items
 Bowl,"Deep, round dish for soup",Kitchen Items
 Glass,"Clear tumbler for water or juice, gilaas",Kitchen Items
@@ -178,7 +178,7 @@ Jug,Large pitcher for pouring water,Kitchen Items
 Teapot,Spouted chai server with a lid,Kitchen Items
 Pan,Shallow long-handled vessel for frying eggs,Kitchen Items
 Pot,"Deep vessel for cooking salan, degchi",Kitchen Items
-Cooker,Pressure pot that whistles,Kitchen Items
+Cooker,"Sealed steamer with a whistling vent, cooks fast",Kitchen Items
 Tawa,Flat iron pan for roti,Kitchen Items
 Rolling Pin,Belan; flattens dough,Kitchen Items
 Grater,Shreds carrots and cheese,Kitchen Items

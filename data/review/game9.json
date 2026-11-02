@@ -13735,6 +13735,27 @@
    "Description": "The Nile",
    "action": "add",
    "note": "New card (debate): Accurate Muslim-world geography; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Who designed the national flag of Pakistan, adopted on 11 August 1947?",
+   "Description": "Syed Amir-uddin Kedwaii",
+   "action": "add",
+   "note": "New card (debate): Not in the deck; well-established fact (flag adopted 11 Aug 1947, designed by Syed Amiruddin Kidwai)."
+  },
+  {
+   "id": null,
+   "Name": "What is the currency of Bangladesh?",
+   "Description": "Taka",
+   "action": "add",
+   "note": "New card (debate): Correct, not in the deck, fits existing currency cards and Pakistani frame."
+  },
+  {
+   "id": null,
+   "Name": "What is the height of Mount Everest, the world's highest mountain, to the nearest 100 metres?",
+   "Description": "About 8,800 metres (8,849 m)",
+   "action": "add",
+   "note": "New card (debate): Everest height is not in the deck; challenger's simpler wording is better."
   }
  ]
 }
