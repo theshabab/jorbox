@@ -7688,6 +7688,12 @@
    "Name": "Name an animal that gives wool.",
    "action": "add",
    "note": "New card (debate): High-matching answers (sheep, goat, camel); distinct from the milk card."
+  },
+  {
+   "id": null,
+   "Name": "Name something you hold in your hand after namaz.",
+   "action": "add",
+   "note": "New card (debate): Challenger's narrowed wording removes the ambiguity of the original (topi and rumal are worn, not held). Tasbih, Quran and dua book are clear matching answers. Checked game10.json: no tasbih or janamaz card, and the live Jummah and after-Jummah cards are different."
   }
  ]
 }

@@ -6132,14 +6132,14 @@
   },
   {
    "id": "game16-558",
-   "Name": "Who makes the best Chai in your family?",
+   "Name": "Who makes the best chai in your family, and what makes theirs special?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Who makes the best Chai in your family?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: The follow-up turns a one-word answer into a story. I took the challenger's lighter wording and lowercase chai."
   },
   {
    "id": "game16-559",
@@ -10004,6 +10004,13 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): No live card covers starting somewhere new or who helped settle in; fits the audience, open-ended and clean."
+  },
+  {
+   "id": null,
+   "Name": "Which relative always compares you to the neighbour's son or daughter, and how do you reply?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): No live card covers this comparison theme. It is relatable and clean, and it differs from the good-neighbour card 641 and the neighbour's-house card."
   }
  ]
 }

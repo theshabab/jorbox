@@ -16789,6 +16789,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-898','game10','Name a food that tastes sweet.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-899','game10','Name something that tastes bitter.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-900','game10','Name an animal that gives wool.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-901','game10','Name something you hold in your hand after namaz.','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -19991,6 +19992,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-867','game13','','Get a player to tell you what their family always serves a guest first when they arrive.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-868','game13','','Get a player to tell you how many sides a hexagon has.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-869','game13','','Get a player to tell you what their ammi says when you are about to leave their house.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-870','game13','','Get a player to tell you who the first muezzin of Islam was.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-871','game13','','Get a player to tell you the name of the longest surah of the Quran.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-872','game13','','Get a player to tell you what colour the covering (kiswa) of the Kaaba is.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-873','game13','','Get a player to tell you the name of the plain near Makkah where pilgrims gather on the most important day of Hajj.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-874','game13','','Get a player to tell you which two prophets (peace be upon them) raised the foundations of the Kaaba.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-875','game13','','Get a player to tell you which of their relatives gives the best advice about money.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-876','game13','','Get a player to tell you the first word revealed to the Prophet (peace be upon him) in the cave of Hira.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -23156,7 +23164,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-421','game16','What is the one thing your mother always nags you about?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-422','game16','Imagine you are a news anchor on a Pakistani channel for a day. What is your breaking news?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-423','game16','If you could invent a new flavor of Lay''s or Kurkure, what would it be?','','Desi Life & Culture Adaptations');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-424','game16','Who makes the best Chai in your family?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-424','game16','Who makes the best chai in your family, and what makes theirs special?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-425','game16','What''s the craziest dare you ever took?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-426','game16','What''s the grossest food you ever had to eat to be polite?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-427','game16','What''s the worst thing you ever did as a kid — and got away with?','','More Fun Questions');
@@ -23659,3 +23667,4 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-924','game16','Which sport have you never tried but would love to learn (squash, swimming, archery, horse riding)?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-925','game16','What is the best piece of advice you ever got from a book?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-926','game16','What was the hardest part of starting at a new school, university or workplace, and who helped you settle in?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-927','game16','Which relative always compares you to the neighbour''s son or daughter, and how do you reply?','','Desi Life & Culture Adaptations');

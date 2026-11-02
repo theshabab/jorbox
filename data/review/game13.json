@@ -7109,6 +7109,48 @@
    "Description": "Get a player to tell you what their ammi says when you are about to leave their house.",
    "action": "add",
    "note": "New card (debate): Relatable hospitality humour; challenger's amended version without the quoted phrase so the answer is not given away."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who the first muezzin of Islam was.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Bilal ibn Rabah); challenger's version drops the self-revealing answer."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the longest surah of the Quran.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Al-Baqarah), not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what colour the covering (kiswa) of the Kaaba is.",
+   "action": "add",
+   "note": "New card (debate): Easy accurate fact, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the plain near Makkah where pilgrims gather on the most important day of Hajj.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Arafat), fits Hajj theme."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which two prophets (peace be upon them) raised the foundations of the Kaaba.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Ibrahim and Ismail); challenger's clearer wording without the answer."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which of their relatives gives the best advice about money.",
+   "action": "add",
+   "note": "New card (debate): Harmless, distinct personal question."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the first word revealed to the Prophet (peace be upon him) in the cave of Hira.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Iqra); challenger's clean wording; not a duplicate of the Hira card."
   }
  ]
 }
