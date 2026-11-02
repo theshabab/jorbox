@@ -13828,10 +13828,10 @@
   {
    "id": null,
    "Name": "Allahabad",
-   "Description": "In 1930, Allama Iqbal gave his famous presidential address to the Muslim League, envisioning a Muslim state in north-western India, in the Indian city of ____.",
+   "Description": "In 1930, Allama Iqbal gave his famous presidential address to the Muslim League, envisioning a Muslim state in north-western India, in the Indian city then called ____ (today Prayagraj).",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's more precise wording adopted; Iqbal's 1930 address not in deck."
+   "note": "New card (debate): Challenger's more precise wording adopted; Iqbal's 1930 address not in deck.; Debate: Challenger's amendment: blank is explicitly the old name so Prayagraj is not a competing right answer."
   },
   {
    "id": null,
@@ -14080,6 +14080,54 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Single clear question, warm and local; no duplicate (only nani/dadi cooking card exists)."
+  },
+  {
+   "id": null,
+   "Name": "40",
+   "Description": "Rising from the Cholistan Desert near Bahawalpur, the mighty Derawar Fort has ____ massive bastions.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Pakistani heritage fact; no Derawar card exists."
+  },
+  {
+   "id": null,
+   "Name": "three",
+   "Description": "Pakistan's field hockey team has won ____ Olympic gold medals, the most recent in 1984.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Correct (1960, 1968, 1984); distinct from the World Cup card."
+  },
+  {
+   "id": null,
+   "Name": "spider",
+   "Description": "Surah Al-Ankabut is named after the ____, whose house Allah calls the weakest of houses.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Established fact (29:41); no existing Al-Ankabut card."
+  },
+  {
+   "id": null,
+   "Name": "Arafat",
+   "Description": "The Prophet (PBUH) said, \"Hajj is ____.\" On the 9th of Dhul Hijjah, pilgrims stand on its plain from noon until sunset.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Authentic hadith and correct ritual timing; no Arafat card exists."
+  },
+  {
+   "id": null,
+   "Name": "255",
+   "Description": "Ayat al-Kursi, the Throne Verse, is verse number ____ of Surah Al-Baqarah.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-established fact; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "____",
+   "Description": "What does your family argue about most on a long car journey, and who always wins?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean, relatable personal question; distinct from the other road-trip cards."
   }
  ]
 }

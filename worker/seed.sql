@@ -1900,7 +1900,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-672','game2','Dome of the Rock','Golden | Jerusalem | Aqsa | Miraj | Palestine','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-673','game2','Mount Arafat','Hajj | Day | Jabal Rahmah | Standing | Khutbah','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-674','game2','Mina','Tents | Jamarat | Stoning | Hajj | Shaytan','Islamic Locations');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-675','game2','Muzdalifah','Pebbles | Night | Hajj | Open Sky | Between','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-675','game2','Muzdalifah','Pebbles | Night | Hajj | Open Sky | Arafat','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-676','game2','Safa','Marwa | Sa''i | Hajar | Hill | Run','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-677','game2','Marwa','Safa | Sa''i | Hajar | Hill | Seven','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-678','game2','Zamzam','Water | Well | Ismail | Hajar | Makkah','Islamic Locations');
@@ -1911,7 +1911,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-683','game2','Quba','First | Masjid | Madinah | Hijrah | Umrah','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-684','game2','Jannat al-Baqi','Graveyard | Madinah | Qabristan | Sahaba | Buried','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-685','game2','Hudaybiyyah','Treaty | Sulh | Peace | Ten Years | Umrah','Islamic Locations');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-686','game2','Taif','Stones | Hills | Roses | Thaqif | Cool','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-686','game2','Taif','Stones | Hills | Roses | Thaqif | Makkah','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-687','game2','Tabuk','Expedition | Romans | Last | Heat | Saudi','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-688','game2','Khaybar','Fort | Battle | Ali | Gate | Dates','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-689','game2','Yemen','Sanaa | Saba | Coffee | Arabia | Aden','Islamic Locations');
@@ -2451,6 +2451,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1223','game2','Dulhan','Shadi | Joda | Mehndi | Red | Dulha','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1224','game2','Bhabhi','Bhai | Wife | Devar | Brother | Sister-in-law','Family Relations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1225','game2','Ruqayyah','Daughter | Uthman | Prophet | Abyssinia | Badr','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1226','game2','Asr','Namaz | Afternoon | Prayer | Four | Zuhr','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1227','game2','Isha','Namaz | Night | Prayer | Witr | Maghrib','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1228','game2','Israfil','Angel | Trumpet | Qiyamah | Sur | Blow','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1229','game2','Mikail','Angel | Rain | Clouds | Jibreel | Quran','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1230','game2','Miraj','Night | Heavens | Buraq | Isra | Prayers','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1231','game2','Ashura','Muharram | Tenth | Fast | Musa | Karbala','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1232','game2','Sirat','Bridge | Hell | Qiyamah | Cross | Jannah','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1233','game2','Rumi','Poet | Mathnawi | Konya | Turkey | Persian','Muslim Historical Figures');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game3','Jasoosi Club',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-1','game3','Pakistani Cities','Karachi|Lahore|Islamabad|Rawalpindi|Faisalabad|Multan|Peshawar|Quetta|Sialkot|Gujranwala|Hyderabad|Abbottabad|Bahawalpur|Sargodha|Sukkur|Larkana|Sheikhupura|Jhelum|Rahim Yar Khan|Mardan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game3-2','game3','Islamic Prophets','Adam|Idris|Nuh|Hud|Saleh|Ibrahim|Lut|Ismail|Ishaq|Yaqub|Yusuf|Ayyub|Shuaib|Musa|Harun|Dawud|Sulaiman|Ilyas|Yunus|Isa','');
@@ -4513,7 +4521,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-971','game4','Buddhist','Taxila, near Islamabad, is a UNESCO World Heritage Site that was once a famous centre of ____ learning.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-972','game4','Jhelum','Mangla Dam, one of Pakistan''s largest, is built on the ____ River.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-973','game4','field hockey','Despite cricket''s huge popularity, Pakistan''s official national sport is ____.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-974','game4','Allahabad','In 1930, Allama Iqbal gave his famous presidential address to the Muslim League, envisioning a Muslim state in north-western India, in the Indian city of ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-974','game4','Allahabad','In 1930, Allama Iqbal gave his famous presidential address to the Muslim League, envisioning a Muslim state in north-western India, in the Indian city then called ____ (today Prayagraj).','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-975','game4','Konya','The great Persian poet Jalaluddin Rumi is buried in the Turkish city of ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-976','game4','codes','The 9th-century Baghdad scholar al-Kindi wrote the earliest known description of breaking secret ____ by counting how often letters appear.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-977','game4','pebbles','During Hajj, pilgrims collect small ____ at Muzdalifah to throw at the pillars in Mina.','');
@@ -4545,6 +4553,12 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1003','game4','Friday','The Prophet (PBUH) said the best day on which the sun rises is ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1004','game4','____','What dua do your parents often make for you that you hope comes true one day?','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1005','game4','____','Which story told to you by a grandparent or elder when you were small do you still remember?','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1006','game4','40','Rising from the Cholistan Desert near Bahawalpur, the mighty Derawar Fort has ____ massive bastions.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1007','game4','three','Pakistan''s field hockey team has won ____ Olympic gold medals, the most recent in 1984.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1008','game4','spider','Surah Al-Ankabut is named after the ____, whose house Allah calls the weakest of houses.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1009','game4','Arafat','The Prophet (PBUH) said, "Hajj is ____." On the 9th of Dhul Hijjah, pilgrims stand on its plain from noon until sunset.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1010','game4','255','Ayat al-Kursi, the Throne Verse, is verse number ____ of Surah Al-Baqarah.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game4-1011','game4','____','What does your family argue about most on a long car journey, and who always wins?','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game5','Haiwani Pattay',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-1','game5','','My most embarrassing moment was when I ____ in front of the whole family.','Awkward Moments');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2','game5','','I accidentally called my teacher ____.','Awkward Moments');
@@ -7339,7 +7353,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2791','game5','','My first obsession was ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2792','game5','','My first major was Philosophy, but I recently switched to majoring in ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2793','game5','','My first scandal as Prime Minister will involve huge amounts of ____.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2794','game5','','My first thought when my water broke was ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2794','game5','','My first thought when the load-shedding started in the middle of the wedding was ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2795','game5','','My Nani said I should spend more time playing with ____ and less time with ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2796','game5','','My fridge is starting to represent ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2797','game5','','My friend claims to have lost 5 kg in two weeks by simply ____.','');
@@ -7397,7 +7411,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2849','game5','','My neighbour shocked the whole mohalla when he was arrested for ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2850','game5','','My new favourite lassi flavour is called ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2851','game5','','My new hostel roommate was great until he started ____.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2852','game5','','My new scented candle is called ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2852','game5','','My new attar is called ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2853','game5','','My new startup features overnight delivery of ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2854','game5','','My new YouTube channel is called ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2855','game5','','The new sticker on my rickshaw shows everyone that I support ____.','');
@@ -7428,7 +7442,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2880','game5','','My doctor was quite impressed when he saw ____ on my x-rays.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2881','game5','','My relationship with my mother could be best described as ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2882','game5','','My relatives won''t shut up about ____ at Eid.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2883','game5','','My research paper on the human body is titled ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2883','game5','','My research paper on the human brain is titled ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2884','game5','','My road rage really gets out of control when the other driver is ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2885','game5','','My sacred oath has sworn me to protect ____ from both ____ and ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2886','game5','','My school bag is filled with my lunch, my books, and ____.','');
@@ -7455,7 +7469,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2907','game5','','My two favorite pizza toppings are olives and ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2908','game5','','My two-pronged strategy for winning this election: ____ and ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2909','game5','','My chacha woke me up for sehri and whispered ____.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2910','game5','','My uncle has a wardrobe in his house that leads to ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2910','game5','','My uncle has an almari in his house that leads to ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2911','game5','','My way of dealing with conflict is ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2912','game5','','My wife and I both love ____. That''s why our marriage is so strong.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2913','game5','','My wife Bushra Bibi will be a great First Lady. Her most important platform will be ____.','');
@@ -7475,7 +7489,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2927','game5','','Never take sweets from ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2928','game5','','Never tell an expectant father about ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2929','game5','','New at Salt n Pepper! It''s what you''ve been waiting for: The ____ Burger.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2930','game5','','New citizens are now being forced to pledge their allegiance to ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2930','game5','','New citizens are now being forced to take an oath of loyalty to ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2931','game5','','New franchise idea: ____ vs. ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2932','game5','','Pakistan''s newest superhero is fighting ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2933','game5','','New shoes, new clothes, ____ on point: Eid morning, here I come.','');
@@ -7491,7 +7505,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2943','game5','','Winter nights are not so cold when you have a razai, a cup of chai and ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2944','game5','','A shoe company has spent millions of rupees on its new tagline: Just ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2945','game5','','Nine out of ten dentists agree that ____ causes cavities.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2946','game5','','No justice, no peace, no ____. #NayaPakistan','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2946','game5','','No roti, no sukoon, no ____. #NayaPakistan','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2947','game5','','No matter how hard I scrubbed, it was impossible to get ____ out of my ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2948','game5','','No matter how many times I shower, I''ll never be able to get rid of the stench of ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-2949','game5','','No more ____ jumping on the bed.','');
@@ -10810,6 +10824,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6262','game5','','Mamu tells the same story at every dawat, and somehow it always ends with ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6263','game5','','Nani took one look at my result card and immediately sent for ____.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6264','game5','','The guests stayed an extra three hours at our house because of ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6265','game5','','My cousin''s WhatsApp DP is a photo of him posing proudly with ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6266','game5','','On result day, Ammi made halwa, Abbu asked questions, and I blamed ____.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game5-6267','game5','','Our badminton match on the street ended when the shuttlecock landed in ____.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game6','Categories Game',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-1','game6','','Pakistani Cities','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-2','game6','','Prophets Named in the Quran','');

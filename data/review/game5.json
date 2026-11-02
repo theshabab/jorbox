@@ -48652,15 +48652,15 @@
   {
    "id": "game5-3743",
    "Name": "",
-   "Description": "My first thought when my water broke was ____.",
+   "Description": "My first thought when the load-shedding started in the middle of the wedding was ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My first thought when my water broke was ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Childbirth prompt is awkward for mixed families; the local load-shedding frame keeps the joke."
   },
   {
    "id": "game5-3744",
@@ -49588,7 +49588,7 @@
   {
    "id": "game5-3815",
    "Name": "",
-   "Description": "My new scented candle is called ____.",
+   "Description": "My new attar is called ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -49596,7 +49596,7 @@
     "Description": "my new scented candle is called ____",
     "Category": ""
    },
-   "note": "Capitalisation; punctuation"
+   "note": "Capitalisation; punctuation; Debate: Local equivalent of the scented candle; joke works the same."
   },
   {
    "id": "game5-3816",
@@ -50069,7 +50069,7 @@
   {
    "id": "game5-3852",
    "Name": "",
-   "Description": "My research paper on the human body is titled ____.",
+   "Description": "My research paper on the human brain is titled ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -50077,7 +50077,7 @@
     "Description": "my research paper on the human body is titled ____",
     "Category": ""
    },
-   "note": "Capitalisation; punctuation"
+   "note": "Capitalisation; punctuation; Debate: Keeps the joke and avoids crude body answers."
   },
   {
    "id": "game5-3853",
@@ -50472,15 +50472,15 @@
   {
    "id": "game5-3883",
    "Name": "",
-   "Description": "My uncle has a wardrobe in his house that leads to ____.",
+   "Description": "My uncle has an almari in his house that leads to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My uncle has a wardrobe in his house that leads to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Local almari swap keeps the Narnia-style joke."
   },
   {
    "id": "game5-3884",
@@ -50823,7 +50823,7 @@
   {
    "id": "game5-3910",
    "Name": "",
-   "Description": "New citizens are now being forced to pledge their allegiance to ____.",
+   "Description": "New citizens are now being forced to take an oath of loyalty to ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -50831,7 +50831,7 @@
     "Description": "New Pakistanis are not being forced to pledge their allegiance to ____",
     "Category": ""
    },
-   "note": "Clarity"
+   "note": "Clarity; Debate: Removes the US pledge ritual and keeps the joke."
   },
   {
    "id": "game5-3911",
@@ -51291,15 +51291,15 @@
   {
    "id": "game5-3946",
    "Name": "",
-   "Description": "No justice, no peace, no ____. #NayaPakistan",
+   "Description": "No roti, no sukoon, no ____. #NayaPakistan",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "No justice, no peace, no ____. #NayaPakistan",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localises the US slogan and keeps the hashtag."
   },
   {
    "id": "game5-3947",
@@ -105013,6 +105013,30 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Relatable mehmaan prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My cousin's WhatsApp DP is a photo of him posing proudly with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh, local social-media prompt; no WhatsApp DP card in the slice."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "On result day, Ammi made halwa, Abbu asked questions, and I blamed ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct, relatable local family scenario."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Our badminton match on the street ended when the shuttlecock landed in ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Fresh gali sport prompt that is not cricket."
   }
  ]
 }

@@ -673,7 +673,7 @@ Al-Aqsa,Jerusalem | Palestine | Quds | First Qibla | Isra,Islamic Locations
 Dome of the Rock,Golden | Jerusalem | Aqsa | Miraj | Palestine,Islamic Locations
 Mount Arafat,Hajj | Day | Jabal Rahmah | Standing | Khutbah,Islamic Locations
 Mina,Tents | Jamarat | Stoning | Hajj | Shaytan,Islamic Locations
-Muzdalifah,Pebbles | Night | Hajj | Open Sky | Between,Islamic Locations
+Muzdalifah,Pebbles | Night | Hajj | Open Sky | Arafat,Islamic Locations
 Safa,Marwa | Sa'i | Hajar | Hill | Run,Islamic Locations
 Marwa,Safa | Sa'i | Hajar | Hill | Seven,Islamic Locations
 Zamzam,Water | Well | Ismail | Hajar | Makkah,Islamic Locations
@@ -684,7 +684,7 @@ Badr,Battle | First | 313 | Ramadan | Victory,Islamic Locations
 Quba,First | Masjid | Madinah | Hijrah | Umrah,Islamic Locations
 Jannat al-Baqi,Graveyard | Madinah | Qabristan | Sahaba | Buried,Islamic Locations
 Hudaybiyyah,Treaty | Sulh | Peace | Ten Years | Umrah,Islamic Locations
-Taif,Stones | Hills | Roses | Thaqif | Cool,Islamic Locations
+Taif,Stones | Hills | Roses | Thaqif | Makkah,Islamic Locations
 Tabuk,Expedition | Romans | Last | Heat | Saudi,Islamic Locations
 Khaybar,Fort | Battle | Ali | Gate | Dates,Islamic Locations
 Yemen,Sanaa | Saba | Coffee | Arabia | Aden,Islamic Locations
@@ -1224,3 +1224,11 @@ Dulha,Shadi | Sehra | Sherwani | Nikah | Dulhan,Family Relations
 Dulhan,Shadi | Joda | Mehndi | Red | Dulha,Family Relations
 Bhabhi,Bhai | Wife | Devar | Brother | Sister-in-law,Family Relations
 Ruqayyah,Daughter | Uthman | Prophet | Abyssinia | Badr,Sahaba
+Asr,Namaz | Afternoon | Prayer | Four | Zuhr,Islamic Terms
+Isha,Namaz | Night | Prayer | Witr | Maghrib,Islamic Terms
+Israfil,Angel | Trumpet | Qiyamah | Sur | Blow,Islamic Terms
+Mikail,Angel | Rain | Clouds | Jibreel | Quran,Islamic Terms
+Miraj,Night | Heavens | Buraq | Isra | Prayers,Islamic Terms
+Ashura,Muharram | Tenth | Fast | Musa | Karbala,Islamic Terms
+Sirat,Bridge | Hell | Qiyamah | Cross | Jannah,Islamic Terms
+Rumi,Poet | Mathnawi | Konya | Turkey | Persian,Muslim Historical Figures

@@ -9236,7 +9236,7 @@
   {
    "id": "game2-711",
    "Name": "Muzdalifah",
-   "Description": "Pebbles | Night | Hajj | Open Sky | Between",
+   "Description": "Pebbles | Night | Hajj | Open Sky | Arafat",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9244,7 +9244,7 @@
     "Description": "mosque | holy | Mecca | pilgrimage",
     "Category": "Islamic Locations"
    },
-   "note": ""
+   "note": "Debate: Replaces vague 'Between' with a natural clue word."
   },
   {
    "id": "game2-712",
@@ -9392,7 +9392,7 @@
   {
    "id": "game2-723",
    "Name": "Taif",
-   "Description": "Stones | Hills | Roses | Thaqif | Cool",
+   "Description": "Stones | Hills | Roses | Thaqif | Makkah",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -9400,7 +9400,7 @@
     "Description": "mosque | holy | Mecca | pilgrimage",
     "Category": "Islamic Locations"
    },
-   "note": ""
+   "note": "Debate: Replaces weak 'Cool' with a likelier clue word."
   },
   {
    "id": "game2-724",
@@ -13863,6 +13863,70 @@
    "Category": "Sahaba",
    "action": "add",
    "note": "New card (debate): Accurate; Badr replaces weak Wife."
+  },
+  {
+   "id": null,
+   "Name": "Asr",
+   "Description": "Namaz | Afternoon | Prayer | Four | Zuhr",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Missing daily prayer, verified absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Isha",
+   "Description": "Namaz | Night | Prayer | Witr | Maghrib",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Completes the five prayers; absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Israfil",
+   "Description": "Angel | Trumpet | Qiyamah | Sur | Blow",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-established angel, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Mikail",
+   "Description": "Angel | Rain | Clouds | Jibreel | Quran",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: drops Western 'Michael' and the less certain 'Provision'."
+  },
+  {
+   "id": null,
+   "Name": "Miraj",
+   "Description": "Night | Heavens | Buraq | Isra | Prayers",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Important event, absent from deck; banned word simplified to a single word."
+  },
+  {
+   "id": null,
+   "Name": "Ashura",
+   "Description": "Muharram | Tenth | Fast | Musa | Karbala",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Well-known day in Pakistan, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Sirat",
+   "Description": "Bridge | Hell | Qiyamah | Cross | Jannah",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Established Day of Judgment concept, absent from deck."
+  },
+  {
+   "id": null,
+   "Name": "Rumi",
+   "Description": "Poet | Mathnawi | Konya | Turkey | Persian",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version replaces obscure 'Mevlevi' with 'Turkey'."
   }
  ]
 }
