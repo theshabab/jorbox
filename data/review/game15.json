@@ -33241,6 +33241,78 @@
    "Category": "Steps of Ghusl (Sunnah Order)",
    "action": "add",
    "note": "New card (debate): Correct order"
+  },
+  {
+   "id": null,
+   "Name": "Orhan",
+   "Description": "1324",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Fits between Osman I and Bayezid I; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Murad I",
+   "Description": "1362",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Solid date, sorts between Orhan and Bayezid I."
+  },
+  {
+   "id": null,
+   "Name": "Murad II",
+   "Description": "1421",
+   "Category": "Ottoman Sultans (Start of Reign)",
+   "action": "add",
+   "note": "New card (debate): Correct date, sorts between Bayezid I and Mehmed II."
+  },
+  {
+   "id": null,
+   "Name": "Euphrates",
+   "Description": "~2,800 km",
+   "Category": "Rivers (Length - Long to Short)",
+   "action": "add",
+   "note": "New card (debate): About 2,800 km; sits between Indus and Ganges; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Tigris",
+   "Description": "~1,850 km",
+   "Category": "Rivers (Length - Long to Short)",
+   "action": "add",
+   "note": "New card (debate): Within the quoted range; ranks after Ganges and Euphrates."
+  },
+  {
+   "id": null,
+   "Name": "Zinc",
+   "Description": "420 °C",
+   "Category": "Melting Points (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Melts at 419.5 C; sorts between tin and silver in the live cards. Only a density card exists elsewhere, so not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Sukkur",
+   "Description": "About 67 m",
+   "Category": "Pakistani Cities by Altitude (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Correct altitude, well separated from neighbours."
+  },
+  {
+   "id": null,
+   "Name": "18th Amendment",
+   "Description": "2010 - gave provinces more powers",
+   "Category": "Pakistan's Constitutional Milestones (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Genuine milestone after 1973; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Siachen Conflict",
+   "Description": "1984",
+   "Category": "Wars of Pakistan (Chronological)",
+   "action": "add",
+   "note": "New card (debate): Starts in 1984, between 1971 and Kargil; not in deck."
   }
  ]
 }

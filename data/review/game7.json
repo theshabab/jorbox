@@ -20220,10 +20220,10 @@
   },
   {
    "id": null,
-   "Description": "a grandfather telling the family to turn off the extra lights, and the whole house going dark except the bulb above his chair",
+   "Description": "a grandfather switching off every extra light in the house until only the bulb above his own chair is left glowing",
    "Category": "Standard Prompts",
    "action": "add",
-   "note": "New card (debate): Avoiding waste, joke on the grandfather."
+   "note": "New card (debate): Avoiding waste, joke on the grandfather.; Debate: Clearer, single drawable scene."
   },
   {
    "id": null,
@@ -21778,6 +21778,55 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Relatable and drawable; existing mosquito cards (coil, net, song) are different gags."
+  },
+  {
+   "id": null,
+   "Description": "a man with a mochi's tiny hammer repairing a chappal while a long queue of single sandals waits",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New local street scene, drawable."
+  },
+  {
+   "id": null,
+   "Description": "a gulli flying off the stick and the whole street ducking at once",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Gulli danda not in deck; drawable."
+  },
+  {
+   "id": null,
+   "Description": "a boy trying to keep his place in the taraweeh row while his little cousin crawls between everyone's feet",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Taraweeh absent; gentle and respectful."
+  },
+  {
+   "id": null,
+   "Description": "a roadside chai stall owner pouring tea from a great height into a row of tiny cups without spilling a drop",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct visual scene."
+  },
+  {
+   "id": null,
+   "Description": "a hot air balloon over the Badshahi Mosque with the passengers waving at the minarets",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New landmark and object."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> as the ustad of a cooking class, tasting every dish and saying 'thora namak aur' to everyone",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate, new."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> setting up a campsite and discovering the tent poles were left at home",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Gentle, new theme."
   }
  ]
 }

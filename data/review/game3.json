@@ -1579,7 +1579,7 @@
   {
    "id": "game3-122",
    "Name": "Pakistan Movement Leaders",
-   "Description": "Quaid e Azam|Allama Iqbal|Liaquat Ali Khan|Fatima Jinnah|Muhammad Ali Johar|Shaukat Ali|Sir Syed Ahmed Khan|Chaudhry Rehmat Ali|Abdur Rab Nishtar|Fazlul Huq|Suhrawardy|Khawaja Nazimuddin|Shabbir Ahmad Usmani|Raja of Mahmudabad|Ra'ana Liaquat Ali Khan|Aga Khan III|I I Chundrigar|Jahanara Shahnawaz|Qazi Muhammad Isa",
+   "Description": "Quaid e Azam|Allama Iqbal|Liaquat Ali Khan|Fatima Jinnah|Muhammad Ali Johar|Shaukat Ali|Sir Syed Ahmed Khan|Chaudhry Rehmat Ali|Abdur Rab Nishtar|Fazlul Huq|Suhrawardy|Khawaja Nazimuddin|Shabbir Ahmad Usmani|Raja of Mahmudabad|Ra'ana Liaquat Ali Khan|Aga Khan III|I I Chundrigar|Jahanara Shahnawaz|Maulana Zafar Ali Khan",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1587,7 +1587,7 @@
     "Description": "Jinnah|Iqbal|Liaquat|Fatima|Johar|Shaukat|Sir Syed|Hali|Shibli|Azad|Madani|Thanvi|Maududi|Bhashani|Suhrawardy|Fazlul Huq|Nishtar|Chundrigar|Nazimuddin|Bogra",
     "Category": ""
    },
-   "note": "full names; removed Azad/Madani/Bhashani etc. (not Pakistan Movement leaders)"
+   "note": "full names; removed Azad/Madani/Bhashani etc. (not Pakistan Movement leaders); Debate: Swap obscure Qazi Muhammad Isa for the better-known Maulana Zafar Ali Khan."
   },
   {
    "id": "game3-123",
@@ -1865,7 +1865,7 @@
   {
    "id": "game3-144",
    "Name": "Endangered Species in Pakistan",
-   "Description": "Markhor|Snow Leopard|Indus River Dolphin|Green Turtle|Olive Ridley Turtle|Vulture|Siberian Crane|Houbara Bustard|Saker Falcon|Whale Shark|Mugger Crocodile|Brown Bear|Pangolin|Smooth-Coated Otter|Asiatic Black Bear|Punjab Urial|Blackbuck|Hog Deer|Chinkara|Marco Polo Sheep",
+   "Description": "Markhor|Snow Leopard|Indus River Dolphin|Green Turtle|Olive Ridley Turtle|Vulture|Siberian Crane|Houbara Bustard|Saker Falcon|Whale Shark|Mugger Crocodile|Brown Bear|Pangolin|Smooth-Coated Otter|Asiatic Black Bear|Punjab Urial|Sindh Ibex|Hog Deer|Chinkara|Marco Polo Sheep",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1873,7 +1873,7 @@
     "Description": "Markhor|Ibex|Urial|Leopard|Bear|Dolphin|Turtle|Vulture|Crane|Bustard|Falcon|Eagle|Shark|Whale|Ray|Sawfish|Guitarfish|Pangolin|Otter|Civet",
     "Category": ""
    },
-   "note": "made generic words (Shark, Whale, Eagle) specific species; Debate: Sawfish and Guitarfish unknown to most players."
+   "note": "made generic words (Shark, Whale, Eagle) specific species; Debate: Sawfish and Guitarfish unknown to most players.; Debate: Challenger's amendment: replace only Blackbuck (extinct in the wild in Pakistan) with Sindh Ibex; keep the genuinely threatened otter."
   },
   {
    "id": "game3-145",
@@ -2580,7 +2580,7 @@
   {
    "id": "game3-199",
    "Name": "Draw a duck.",
-   "Description": "Draw ducking under a low beam.|Draw a roast chicken.|Draw a swimming dog.|Draw flying south for the winter.|Draw webbed feet.|Draw quacking.|Draw a goose.|Draw a swan.|Draw a pond.",
+   "Description": "Draw ducking under a low beam.|Draw a roast chicken.|Draw a swimming dog.|Draw a flock of birds flying away.|Draw webbed feet.|Draw quacking.|Draw a goose.|Draw a swan.|Draw a pond.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2588,7 +2588,7 @@
     "Description": "Draw almost hitting your head.|Draw a roast chicken.|Draw a swimming dog.|Draw flying south for the winter.|Draw webbed feet.|Draw quacking.|Draw a goose.|Draw Donald Duck.|Draw Scrooge McDuck.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Donald Duck/Scrooge McDuck decoys; Debate: Clearer duck/duck pun decoy."
+   "note": "replaced Donald Duck/Scrooge McDuck decoys; Debate: Clearer duck/duck pun decoy.; Debate: Replace Western winter-migration idiom decoy with a neutral close decoy."
   },
   {
    "id": "game3-200",
@@ -3112,7 +3112,7 @@
   },
   {
    "id": "game3-240",
-   "Name": "Draw the back end of a horse.",
+   "Name": "Draw a horse from behind.",
    "Description": "Draw a horse’s tail.|Draw a donkey from behind.|Draw the back of a cow.|Draw an elephant.|Draw a majestic unicorn.",
    "Category": "Drawing 2",
    "action": "edit",
@@ -3121,7 +3121,7 @@
     "Description": "Draw horse poop.|Draw a horse with a big butt|Draw the back of a cow.|Draw an elephant|Draw a majestic unicorn.|Draw a human butt.",
     "Category": "Drawing 2"
    },
-   "note": "removed crude decoys"
+   "note": "removed crude decoys; Debate: Cleaner wording, same idea."
   },
   {
    "id": "game3-241",
@@ -13897,6 +13897,78 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Accessories topic; removed synonym and clothing entries."
+  },
+  {
+   "id": null,
+   "Name": "Mountain Passes of Pakistan",
+   "Description": "Khyber Pass|Bolan Pass|Khunjerab Pass|Babusar Pass|Lowari Pass|Malakand Pass|Kohat Pass|Shandur Pass|Gomal Pass|Khojak Pass",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New geography topic; dropped obscure/disputed Burzil and Kurram, added Khojak."
+  },
+  {
+   "id": null,
+   "Name": "Valleys of Pakistan",
+   "Description": "Hunza|Neelum|Swat|Kaghan|Naltar|Kumrat|Bumburet|Astore|Shigar|Leepa|Chitral|Skardu",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New topic using known valleys; challenger's amended list contained non-valleys and junk (Gojra, 'Kaghan Valley Naran'), so a cleaned list is used; overlapping Nagar/Kalash/Gojal and obscure Yarkhun/Ghizer dropped."
+  },
+  {
+   "id": null,
+   "Name": "Milk and Dairy Brands",
+   "Description": "Olpers|Milkpak|Haleeb|Day Fresh|Prema|Nurpur|Good Milk|Adam's|Gourmet|Everyday|Tarang|Nido",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local brand topic; unverifiable names dropped per challenger."
+  },
+  {
+   "id": null,
+   "Name": "Food and Grocery Brands",
+   "Description": "National Foods|Mehran Spices|Laziza|Shangrila|Rafhan|Knorr|Maggi|Tapal|Lipton|Peek Freans|Dalda|Habib Oil|Kolson|Mitchell's|Young's|EBM",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's clarified names, removing ambiguous Mehran/Habib/Nestle/Shan overlaps."
+  },
+  {
+   "id": null,
+   "Name": "Mughal Emperors",
+   "Description": "Babur|Humayun|Akbar|Jahangir|Shah Jahan|Aurangzeb|Bahadur Shah Zafar|Muhammad Shah|Shah Alam II|Farrukhsiyar",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): History topic trimmed to recognisable emperors."
+  },
+  {
+   "id": null,
+   "Name": "Draw a family of four on one motorbike.",
+   "Description": "Draw a motorbike race.|Draw a rickshaw full of passengers.|Draw a bicycle.|Draw a traffic police officer.|Draw a helmet.|Draw a picnic trip.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Relatable local drawing prompt with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a report card.",
+   "Description": "Draw an exam paper.|Draw a prize ceremony.|Draw a school diary.|Draw an angry parent.|Draw a certificate.|Draw a sleepy student.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Relatable school prompt, not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Draw a kinnow orchard.",
+   "Description": "Draw an orange.|Draw a lemon tree.|Draw a mango tree.|Draw a farmer picking fruit.|Draw a fruit basket.|Draw a juice stall.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local crop drawing prompt."
+  },
+  {
+   "id": null,
+   "Name": "Draw a train crossing a bridge.",
+   "Description": "Draw a railway station.|Draw a bridge over a river.|Draw a tunnel.|Draw a railway crossing.|Draw a plane flying over a river.|Draw a metro bus.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Drawable travel prompt with close decoys."
   }
  ]
 }
