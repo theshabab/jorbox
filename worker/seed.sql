@@ -1359,6 +1359,15 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1357','game1','Hand Pump','Nalka, press its handle to draw village water','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1358','game1','Akbar the Great','Mughal emperor who built Fatehpur Sikri','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1359','game1','Chakki','Village stone mill that turns wheat into flour','Kitchen Items');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1360','game1','Pulse','Nabz, felt at the wrist and counted by doctors','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1361','game1','Ribs','Pasli, curved bones guarding the chest','Body Parts');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1362','game1','Locust','Tiddi, swarming insect that devours green crops','Animals');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1363','game1','Alp Arslan','Seljuk sultan who won at Manzikert','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1364','game1','Data Darbar','Lahore''s famous Sufi shrine with free langar','Historical Places');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1365','game1','Wicket','Three wooden stumps the bowler aims at','Sports');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1366','game1','Cricket Bat','Balla, flat willow blade for hitting sixes','Sports');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1367','game1','Nile','Longest river, flows through Egypt to the sea','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1368','game1','Indus','Sindhu, Pakistan''s mighty river from the mountains','Nature');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
