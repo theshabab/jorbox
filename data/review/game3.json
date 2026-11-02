@@ -11125,10 +11125,10 @@
   {
    "id": null,
    "Name": "Famous Historic Sites of the World",
-   "Description": "Pyramids of Giza|Great Wall of China|Taj Mahal|Petra|Machu Picchu|Colosseum|Alhambra|Hagia Sophia|Stonehenge|Angkor Wat|Persepolis|Registan|Forbidden City|Blue Mosque|Cordoba Mosque",
+   "Description": "Pyramids of Giza|Great Wall of China|Taj Mahal|Petra|Machu Picchu|Colosseum|Alhambra|Hagia Sophia|Stonehenge|Angkor Wat|Persepolis|Registan|Forbidden City|Pompeii|Chichen Itza",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Missing world-heritage topic; removed Mohenjo Daro to avoid overlap with Pakistani Monuments."
+   "note": "New card (debate): Missing world-heritage topic; removed Mohenjo Daro to avoid overlap with Pakistani Monuments.; Debate: Challenger's amendment: drops mosque overlap without duplicating the Pakistani Archaeological Sites card."
   },
   {
    "id": null,
@@ -11149,10 +11149,10 @@
   {
    "id": null,
    "Name": "Muslim Scientists and Thinkers",
-   "Description": "Al-Khwarizmi|Ibn al-Haytham|Al-Biruni|Ibn Sina|Al-Razi|Al-Zahrawi|Jabir ibn Hayyan|Ibn Khaldun|Ibn al-Nafis|Al-Jazari|Al-Kindi|Ibn Rushd|Al-Farabi|Omar Khayyam|Abbas ibn Firnas|Fatima al-Fihri",
+   "Description": "Al-Khwarizmi|Ibn al-Haytham|Al-Biruni|Ibn Sina|Al-Razi|Al-Zahrawi|Jabir ibn Hayyan|Ibn Khaldun|Ibn al-Nafis|Al-Jazari|Al-Kindi|Ibn Rushd|Al-Farabi|Omar Khayyam|Abbas ibn Firnas|Al-Idrisi",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Challenger's trimmed list; obscure or ambiguous names removed, no existing duplicate topic."
+   "note": "New card (debate): Challenger's trimmed list; obscure or ambiguous names removed, no existing duplicate topic.; Debate: Fatima al-Fihri is in the Great Women card and was not a scientist; Al-Idrisi fits."
   },
   {
    "id": null,
@@ -11351,8 +11351,8 @@
    "Name": "The grocery bill misses an item worth Rs. 2,000 and the cashier does not notice. You...",
    "Description": "tell the cashier|stay quiet|come back and pay later",
    "Category": "Morality",
-   "action": "add",
-   "note": "New card (debate): Fresh honesty/halal earning dilemma; replaces rejected A19."
+   "action": "remove",
+   "note": "Debate: Same honesty-windfall dilemma as the live cashier-change and fruit-seller cards, both still live."
   },
   {
    "id": null,
@@ -13609,6 +13609,54 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Light family dilemma with army in-joke; reworded for clarity."
+  },
+  {
+   "id": null,
+   "Name": "Famous Bridges",
+   "Description": "Lansdowne Bridge|Attock Bridge|Jinnah Bridge|Hussaini Suspension Bridge|Golden Gate Bridge|Tower Bridge|Brooklyn Bridge|Sydney Harbour Bridge|Rialto Bridge|Bosphorus Bridge|Charles Bridge|Howrah Bridge",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New topic; challenger's amendment removes the Ayub/Lansdowne pair and obscure Stari Most."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Campsite",
+   "Description": "Tent|Sleeping Bag|Campfire|Torch|Firewood|Matches|Lantern|Kettle|Mosquito Net|Hiking Boots|Backpack|Water Bottle|Map|Compass|Rope|Tent Pegs|Gas Stove|Chai Pot|Binoculars|Insect Repellent",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New relatable topic with well-known words."
+  },
+  {
+   "id": null,
+   "Name": "Things in a Fruit Orchard",
+   "Description": "Mango Tree|Ladder|Basket|Ripe Fruit|Scarecrow|Bees|Wooden Crates|Water Channel|Gardener|Sparrows|Wheelbarrow|Fallen Leaves|Raw Mangoes|Pruning Shears|Rope Swing|Shade|Tractor|Parrots|Kinnow|Fence",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local village-life topic with no orchard topic in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Things on a Fishing Trip",
+   "Description": "Fishing Rod|Hook|Bait|Fishing Net|Small Boat|Float|Bucket|Reel|Fishing Line|Life Jacket|Cooler Box|Earthworms|Straw Hat|Jetty|Sinker|Tackle Box|Thermos Flask|Dragonflies|Lake|Fresh Catch",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New topic; challenger swapped abstract Patience and out-of-place Seagulls for concrete items."
+  },
+  {
+   "id": null,
+   "Name": "The best thing to do while waiting in a long queue is...",
+   "Description": "The worst thing about waiting in a queue is...|The best excuse for cutting a queue is...|The best thing to do during load-shedding is...|The best thing to do in a traffic jam is...|The best thing to do while waiting for a bus is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable desi situation with no existing Writing card; decoys close but distinguishable."
+  },
+  {
+   "id": null,
+   "Name": "The thing I always bargain for is...",
+   "Description": "The thing I would never bargain for is...|The best bargaining line is...|The thing I always overpay for is...|The thing I only buy on sale is...|The best deal I ever got was...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): On-theme Writing card; no live Writing card with this prompt."
   }
  ]
 }

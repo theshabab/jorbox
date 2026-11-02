@@ -32929,6 +32929,54 @@
    "Category": "Robot and A.I. Debuts",
    "action": "add",
    "note": "New card (debate): Accurate milestone with a unique year, placed before Deep Blue."
+  },
+  {
+   "id": null,
+   "Name": "Normal Conversation",
+   "Description": "About 60 dB",
+   "Category": "Annoying Noises by Decibel",
+   "action": "add",
+   "note": "New card (debate): Standard 60 dB figure, fits between Whispering (30) and Vacuum Cleaner (70); not already in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Faisal Mosque Minarets",
+   "Description": "90 m",
+   "Category": "Heights of Famous Landmarks (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Challenger's cleaner version. Local landmark, sorts between Minar-e-Pakistan (62 m) and Big Ben (96 m); no duplicate in the category."
+  },
+  {
+   "id": null,
+   "Name": "Burj Khalifa",
+   "Description": "828 m",
+   "Category": "Heights of Famous Landmarks (Low to High)",
+   "action": "add",
+   "note": "New card (debate): Accurate; extends the range past CN Tower. The other Burj Khalifa card is in a different category."
+  },
+  {
+   "id": null,
+   "Name": "Indonesia",
+   "Description": "54,720",
+   "Category": "Countries By Coastline Size (km)",
+   "action": "add",
+   "note": "New card (debate): Factbook value sorts correctly between Philippines and Canada. The proposer's 'second-longest' reasoning was wrong but the card is accurate."
+  },
+  {
+   "id": null,
+   "Name": "Malory Towers (Enid Blyton)",
+   "Description": "6",
+   "Category": "Number of Books in a Series",
+   "action": "add",
+   "note": "New card (debate): Accurate (6 books), distinct value, familiar to local players."
+  },
+  {
+   "id": null,
+   "Name": "Fard Rakats in Maghrib",
+   "Description": "3",
+   "Category": "How Many? (Count)",
+   "action": "add",
+   "note": "New card (debate): Accurate, local, pairs with the Zuhr card; not already in the category."
   }
  ]
 }
