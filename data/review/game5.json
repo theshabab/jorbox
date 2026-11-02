@@ -74938,7 +74938,7 @@
   {
    "id": "game5-5765",
    "Name": "",
-   "Description": "What's the next kids' meal toy?",
+   "Description": "What's the next free toy inside a chips packet?",
    "Category": "",
    "action": "edit",
    "original": {
@@ -74946,7 +74946,7 @@
     "Description": "What's the next Happy Meal toy?",
     "Category": ""
    },
-   "note": "brand"
+   "note": "brand; Debate: Kids' meal toy is Western; chips-packet toy is the local equivalent."
   },
   {
    "id": "game5-5766",
@@ -75172,15 +75172,15 @@
   {
    "id": "game5-5783",
    "Name": "",
-   "Description": "What's up, YouTube? User DanTheMan wanted to see ____, so here we go.",
+   "Description": "Assalamualaikum YouTube! Subscriber Danish_Gamer wanted to see ____, so here we go.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "What's up, YouTube? User DanTheMan wanted to see ____, so here we go.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localizes the Western YouTuber intro."
   },
   {
    "id": "game5-5784",
@@ -75718,7 +75718,7 @@
   {
    "id": "game5-5825",
    "Name": "",
-   "Description": "When autocorrect changes \"Let's get crazy tonight!\" to \"Let's ____ tonight!\"",
+   "Description": "When autocorrect changes \"Let's meet at the dawat!\" to \"Let's ____ at the dawat!\"",
    "Category": "",
    "action": "edit",
    "original": {
@@ -75726,7 +75726,7 @@
     "Description": "When auto-correct changes \"Let's get crazy tonight!\" to \"Let's ____ tonight!\"",
     "Category": ""
    },
-   "note": "spelling"
+   "note": "spelling; Debate: Removes the 'get crazy tonight' party framing and keeps the autocorrect joke."
   },
   {
    "id": "game5-5826",
@@ -77473,15 +77473,15 @@
   {
    "id": "game5-5960",
    "Name": "",
-   "Description": "When you're mad or feeling sad, just go ____.",
+   "Description": "When you're mad or feeling sad, just go to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "When you're mad or feeling sad, just go ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Fixes the ungrammatical 'just go ____' (challenger's amended version, which keeps 'mad')."
   },
   {
    "id": "game5-5961",
@@ -78021,13 +78021,13 @@
    "Name": "",
    "Description": "Who knows the secrets that Man was not meant to know? ____ knows.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Who knows the secrets that Man was not meant to know? ____ knows.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Obscure Lovecraft-style reference that is unfixable. It is not a duplicate of any other card."
   },
   {
    "id": "game5-6003",
@@ -78084,15 +78084,15 @@
   {
    "id": "game5-6007",
    "Name": "",
-   "Description": "Who stole the cookies from the cookie jar?",
+   "Description": "Who stole the mithai from Nani's box?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Who stole the cookies from the cookie jar?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localizes the Western cookie jar rhyme."
   },
   {
    "id": "game5-6008",
@@ -105221,6 +105221,62 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Fresh family situation"
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "When the doorbell rang at midnight, Nani whispered, \"Don't open it, it must be ____.\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New jinn/nazar-style family joke. It differs from the existing doorbell cards about hiding things from guests."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "When I opened Abu's old suitcase from Karachi, I found ____ and a very suspicious ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New family nostalgia card. The existing suitcase cards are different jokes."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "When the principal announced a surprise inspection, our class hid ____ inside the cupboard.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New school card. It differs from the existing principal and cupboard cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "What was hiding in the pocket of my Eid sherwani?",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New clean Eid card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "When the bijli went off mid-Ludo, my cousin secretly moved ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New card combining Ludo and load shedding. It is not a duplicate of the existing Ludo or load-shedding cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mango seller swore it was sweet, but it tasted exactly like ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New mango punchline, distinct from the other mango cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "When the whole family squeezed into one Suzuki for the picnic, somehow there was still room for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New family trip card, distinct from the Suzuki pickup card."
   }
  ]
 }

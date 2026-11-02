@@ -9,12 +9,12 @@ Peshawar,KPK | Pathan | Qissa Khwani | Chapli Kabab | Khyber,Pakistani Cities
 Quetta,Balochistan | Capital | Cold | Hazara | Dry Fruit,Pakistani Cities
 Sialkot,Football | Sports Goods | Iqbal | Cricket Bats | Export,Pakistani Cities
 Gujranwala,Pehlwan | Lahore | Chargha | GT Road | Punjab,Pakistani Cities
-Hyderabad,Sindh | Bangles | Rabri | Pakka Qila | India,Pakistani Cities
+Hyderabad,Sindh | Bangles | Rabri | Pakka Qila | Indus,Pakistani Cities
 Abbottabad,PMA | Army | Kakul | Hills | Hazara,Pakistani Cities
 Murree,Hill Station | Snow | Mall Road | Pindi | Holiday,Pakistani Cities
 Sukkur,Indus | Barrage | Sindh | Dates | Bridge,Pakistani Cities
 Bahawalpur,Nawab | Noor Mahal | Desert | Cholistan | Derawar Fort,Pakistani Cities
-Sargodha,Air Force | Kinnow | Oranges | Shaheen | Punjab,Pakistani Cities
+Sargodha,Air Force | Kinnow | Pilot | Shaheen | Punjab,Pakistani Cities
 Gujrat,Fans | Pottery | Chenab | Punjab | Chaudhry,Pakistani Cities
 Larkana,Bhutto | Mohenjo-daro | Sindh | PPP | Garhi Khuda Bakhsh,Pakistani Cities
 Sheikhupura,Lahore | Punjab | Industry | Hiran Minar | Jahangir,Pakistani Cities
@@ -46,7 +46,7 @@ Tikka,BBQ | Chicken | Boti | Coal | Red,Traditional Dishes
 Malai Boti,Cream | Chicken | BBQ | White | Boneless,Traditional Dishes
 Reshmi Kabab,Silky | Soft | Chicken | Mince | Cream,Traditional Dishes
 Gola Kabab,Round | Soft | Mince | Karachi | Melt,Traditional Dishes
-Bihari Kabab,Karachi | Thread | Beef | Papaya | Smoky,Traditional Dishes
+Bihari Kabab,Karachi | Paratha | Beef | Papaya | Smoky,Traditional Dishes
 Kunna,Chiniot | Clay Pot | Mutton | Punjab | Slow Cooked,Traditional Dishes
 Bong Paye,Bone Marrow | Nalli | Beef | Lahore | Shank,Traditional Dishes
 Salt,Namak | Sea | Khewra | White | Pinch,Spices
@@ -1279,3 +1279,11 @@ Shirk,Tawheed | Sin | Partner | Allah | Idols,Islamic Terms
 Tawheed,Oneness | Allah | Shirk | Kalima | Belief,Islamic Terms
 Kafan,White | Janaza | Cloth | Burial | Wrapped,Islamic Terms
 Eidgah,Eid | Open Ground | Namaz | Khutbah | Takbeer,Islamic Locations
+Jhang,Heer | Chenab | Punjab | Sial | Ranjha,Pakistani Cities
+Mansehra,KPK | Hazara | KKH | Hills | Abbottabad,Pakistani Cities
+Narowal,Kartarpur | Gurdwara | Border | Ravi | Punjab,Pakistani Cities
+Kabuli Pulao,Afghan | Raisins | Carrot | Rice | Lamb,Traditional Dishes
+Namkeen Gosht,Peshawar | Mutton | Salt | Eid | Simple,Traditional Dishes
+Lahori Fish,Machli | Fried | Besan | Winter | Crispy,Traditional Dishes
+Sheermal,Saffron | Sweet | Bread | Nihari | Tandoor,Traditional Dishes
+Hing,Asafoetida | Smell | Daal | Tarka | Resin,Spices

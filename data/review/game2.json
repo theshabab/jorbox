@@ -136,7 +136,7 @@
   {
    "id": "game2-11",
    "Name": "Hyderabad",
-   "Description": "Sindh | Bangles | Rabri | Pakka Qila | India",
+   "Description": "Sindh | Bangles | Rabri | Pakka Qila | Indus",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -144,7 +144,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": "QA: removed duplicate clue"
+   "note": "QA: removed duplicate clue; Debate: Challenger's amendment: replaces confusing 'India' with Indus, a clue every player knows."
   },
   {
    "id": "game2-12",
@@ -201,7 +201,7 @@
   {
    "id": "game2-16",
    "Name": "Sargodha",
-   "Description": "Air Force | Kinnow | Oranges | Shaheen | Punjab",
+   "Description": "Air Force | Kinnow | Pilot | Shaheen | Punjab",
    "Category": "Pakistani Cities",
    "action": "edit",
    "original": {
@@ -209,7 +209,7 @@
     "Description": "city | Pakistan | Sindh | Punjab",
     "Category": "Pakistani Cities"
    },
-   "note": ""
+   "note": "Debate: Replaces redundant 'Oranges'; Pilot is clearer and avoids Mushaf reading as a Quran clue."
   },
   {
    "id": "game2-17",
@@ -617,7 +617,7 @@
   {
    "id": "game2-48",
    "Name": "Bihari Kabab",
-   "Description": "Karachi | Thread | Beef | Papaya | Smoky",
+   "Description": "Karachi | Paratha | Beef | Papaya | Smoky",
    "Category": "Traditional Dishes",
    "action": "edit",
    "original": {
@@ -625,7 +625,7 @@
     "Description": "Bihari | food | rice | meat",
     "Category": "Traditional Dishes"
    },
-   "note": ""
+   "note": "Debate: Replaces odd 'Thread' with Paratha, how Bihari kabab is actually served; sharper than generic Marinated."
   },
   {
    "id": "game2-49",
@@ -14303,6 +14303,70 @@
    "Category": "Islamic Locations",
    "action": "add",
    "note": "New card (debate): Not in deck; very familiar in Pakistan."
+  },
+  {
+   "id": null,
+   "Name": "Jhang",
+   "Description": "Heer | Chenab | Punjab | Sial | Ranjha",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Real city, not in deck, accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Mansehra",
+   "Description": "KPK | Hazara | KKH | Hills | Abbottabad",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Real city on the KKH, not in deck, accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Narowal",
+   "Description": "Kartarpur | Gurdwara | Border | Ravi | Punjab",
+   "Category": "Pakistani Cities",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment removes redundant 'Corridor'."
+  },
+  {
+   "id": null,
+   "Name": "Kabuli Pulao",
+   "Description": "Afghan | Raisins | Carrot | Rice | Lamb",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Distinct popular dish, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Namkeen Gosht",
+   "Description": "Peshawar | Mutton | Salt | Eid | Simple",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Genuine Peshawari dish, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Lahori Fish",
+   "Description": "Machli | Fried | Besan | Winter | Crispy",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: 'Fish' is in the name so the banned slot was wasted."
+  },
+  {
+   "id": null,
+   "Name": "Sheermal",
+   "Description": "Saffron | Sweet | Bread | Nihari | Tandoor",
+   "Category": "Traditional Dishes",
+   "action": "add",
+   "note": "New card (debate): Classic bread, not in deck, accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Hing",
+   "Description": "Asafoetida | Smell | Daal | Tarka | Resin",
+   "Category": "Spices",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment: Hing is the name Pakistani players actually say; checked, not in deck."
   }
  ]
 }

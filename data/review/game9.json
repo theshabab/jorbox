@@ -13616,6 +13616,76 @@
    "Description": "Seven",
    "action": "add",
    "note": "New card (debate): Easy but fine, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "What is the SI unit of electric current?",
+   "Description": "Ampere",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the SI unit of frequency?",
+   "Description": "Hertz",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the SI unit of energy?",
+   "Description": "Joule",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the SI unit of pressure?",
+   "Description": "Pascal",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "What is the SI unit of electric charge?",
+   "Description": "Coulomb",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "The name of which supercontinent means 'all lands', from which today's continents split apart?",
+   "Description": "Pangaea",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Victoria Falls lies on the border of which two African countries?",
+   "Description": "Zambia and Zimbabwe",
+   "action": "add",
+   "note": "New card (debate): Accurate, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "What is the largest cold desert in the world?",
+   "Description": "Antarctica",
+   "action": "add",
+   "note": "New card (debate): Accurate, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "Which gas in the upper atmosphere forms a layer that protects Earth from the Sun's harmful ultraviolet rays?",
+   "Description": "Ozone",
+   "action": "add",
+   "note": "New card (debate): Different from the O3 formula card."
+  },
+  {
+   "id": null,
+   "Name": "The famous 1883 eruption of Krakatoa took place in a strait between which two Indonesian islands?",
+   "Description": "Sumatra and Java",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version is more answerable than the Sunda Strait name question."
   }
  ]
 }
