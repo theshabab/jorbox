@@ -3864,8 +3864,8 @@
   {
    "id": null,
    "Description": "Things You Share With Neighbours",
-   "action": "add",
-   "note": "New card (debate): Rights of the neighbour; light, many Pakistani and universal answers. Not a duplicate of People Who Come to Your Door."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of live card 'Ways to Be Kind to Your Neighbours (Salam, Sharing Food, Helping...)' (action add in game6.json, so still live). Deck has four neighbour cards, so removing one is safe."
   },
   {
    "id": null,
@@ -5546,6 +5546,24 @@
    "Description": "Texting Short Forms (LOL, BRB, Plz, JZK, Thx...)",
    "action": "add",
    "note": "New card (debate): Clean, common to all players, many answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Examples of Sadaqah Jariyah (Well, School, Masjid, Planting a Tree...)",
+   "action": "add",
+   "note": "New card (debate): Well-established Islamic concept with many guessable answers; distinct from 'Things You Can Give in Charity (Sadaqah)'."
+  },
+  {
+   "id": null,
+   "Description": "Words Related to the Quran (Para, Surah, Ayat, Ruku, Tajweed...)",
+   "action": "add",
+   "note": "New card (debate): Familiar terminology for Pakistani players; distinct from Surah Names and the other Quran cards on foods and nations."
+  },
+  {
+   "id": null,
+   "Description": "Things That Run on Petrol, Diesel or Gas",
+   "action": "add",
+   "note": "New card (debate): Many easy answers (car, rickshaw, generator, stove, geyser); pairs with the electricity card without duplicating Vehicles or Petrol Pump."
   }
  ]
 }

@@ -20957,8 +20957,8 @@
    "id": null,
    "Description": "<PLAYER> trying to carry every shopping bag in one trip",
    "Category": "Friend Mode Prompts",
-   "action": "add",
-   "note": "New card (debate): Affectionate, relatable, token intact."
+   "action": "remove",
+   "note": "Debate: Verified duplicate of live added card 'trying to carry all the grocery bags in one trip'; only one of the pair removed."
   },
   {
    "id": null,
@@ -21258,8 +21258,8 @@
    "id": null,
    "Description": "load shedding hits the cricket final",
    "Category": "Standard Prompts",
-   "action": "add",
-   "note": "New card (debate): Local, funny, no existing load shedding card."
+   "action": "remove",
+   "note": "Debate: Verified near-duplicate of live added 'load-shedding during the last over'; load-shedding is already common."
   },
   {
    "id": null,
@@ -21827,6 +21827,13 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Gentle, new theme."
+  },
+  {
+   "id": null,
+   "Description": "a ghee tin so big that the halwai climbs inside it with a ladder",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No ghee or halwai card exists; drawable local exaggeration."
   }
  ]
 }
