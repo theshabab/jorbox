@@ -7808,26 +7808,26 @@
    "Name": "Green",
    "Description": "7th group (after Go To Jail)",
    "Category": "Monopoly Color Groups (Board Order)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Green",
     "Description": "7",
     "Category": "Monopoly Color Groups (Board Order)"
    },
-   "note": "clarified position"
+   "note": "Debate: US-centric, obscure; category falls below 3 live items."
   },
   {
    "id": "game15-602",
    "Name": "Dark Blue",
    "Description": "8th group (last before GO)",
    "Category": "Monopoly Color Groups (Board Order)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Dark Blue",
     "Description": "8",
     "Category": "Monopoly Color Groups (Board Order)"
    },
-   "note": "clarified position"
+   "note": "Debate: Same category as P2."
   },
   {
    "id": "game15-603",
@@ -8612,7 +8612,7 @@
   {
    "id": "game15-663",
    "Name": "Makemake",
-   "Description": "~45.4 AU (avg)",
+   "Description": "~45.8 AU (avg)",
    "Category": "Dwarf Planets (Distance from Sun)",
    "action": "edit",
    "original": {
@@ -8620,7 +8620,7 @@
     "Description": "4",
     "Category": "Dwarf Planets (Distance from Sun)"
    },
-   "note": "replaced bare rank with average distance"
+   "note": "replaced bare rank with average distance; Debate: Updated mean distance; order unchanged."
   },
   {
    "id": "game15-664",
@@ -32441,6 +32441,94 @@
    "Category": "Muslim-Majority Countries (Area - Descending)",
    "action": "add",
    "note": "New card (debate): Larger than Libya; omitting it would make the ranking wrong."
+  },
+  {
+   "id": null,
+   "Name": "Warsak Dam",
+   "Description": "Completed 1960",
+   "Category": "Hydropower Projects of Pakistan (Completion Year)",
+   "action": "add",
+   "note": "New card (debate): Local geography; category renamed since not all are dams."
+  },
+  {
+   "id": null,
+   "Name": "Mangla Dam",
+   "Description": "Completed 1967",
+   "Category": "Hydropower Projects of Pakistan (Completion Year)",
+   "action": "add",
+   "note": "New card (debate): Same category rename."
+  },
+  {
+   "id": null,
+   "Name": "Tarbela Dam",
+   "Description": "Completed 1976",
+   "Category": "Hydropower Projects of Pakistan (Completion Year)",
+   "action": "add",
+   "note": "New card (debate): Same category rename."
+  },
+  {
+   "id": null,
+   "Name": "Ghazi Barotha",
+   "Description": "Completed 2004",
+   "Category": "Hydropower Projects of Pakistan (Completion Year)",
+   "action": "add",
+   "note": "New card (debate): Shorter name, exact year."
+  },
+  {
+   "id": null,
+   "Name": "Neelum-Jhelum",
+   "Description": "Completed 2018",
+   "Category": "Hydropower Projects of Pakistan (Completion Year)",
+   "action": "add",
+   "note": "New card (debate): Shorter name, renamed category."
+  },
+  {
+   "id": null,
+   "Name": "Core",
+   "Description": "1st: centre, where fusion happens (~15 million °C)",
+   "Category": "Layers of the Sun (Centre Outward)",
+   "action": "add",
+   "note": "New card (debate): Accurate science category; degree sign added."
+  },
+  {
+   "id": null,
+   "Name": "Radiative Zone",
+   "Description": "2nd: energy travels outward as light",
+   "Category": "Layers of the Sun (Centre Outward)",
+   "action": "add",
+   "note": "New card (debate): Correct order and fact."
+  },
+  {
+   "id": null,
+   "Name": "Convection Zone",
+   "Description": "3rd: hot gas churns up and down",
+   "Category": "Layers of the Sun (Centre Outward)",
+   "action": "add",
+   "note": "New card (debate): Correct order and fact."
+  },
+  {
+   "id": null,
+   "Name": "Photosphere",
+   "Description": "4th: the visible surface (~5,500 °C)",
+   "Category": "Layers of the Sun (Centre Outward)",
+   "action": "add",
+   "note": "New card (debate): Degree sign added."
+  },
+  {
+   "id": null,
+   "Name": "Chromosphere",
+   "Description": "5th: thin reddish layer above the surface",
+   "Category": "Layers of the Sun (Centre Outward)",
+   "action": "add",
+   "note": "New card (debate): Real layer missing between photosphere and corona."
+  },
+  {
+   "id": null,
+   "Name": "Corona",
+   "Description": "6th: outer atmosphere, seen in a total eclipse",
+   "Category": "Layers of the Sun (Centre Outward)",
+   "action": "add",
+   "note": "New card (debate): Ordinal corrected to 6th with chromosphere included."
   }
  ]
 }

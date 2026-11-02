@@ -1553,7 +1553,7 @@
   {
    "id": "game3-120",
    "Name": "Muslim Empires and Dynasties",
-   "Description": "Rashidun|Umayyad|Abbasid|Fatimid|Ayyubid|Mamluk|Seljuk|Ottoman|Safavid|Mughal|Ghaznavid|Ghori|Slave Dynasty|Khilji|Tughlaq|Lodi|Suri|Timurid|Durrani|Almoravid",
+   "Description": "Rashidun|Umayyad|Abbasid|Fatimid|Ayyubid|Mamluk|Seljuk|Ottoman|Safavid|Mughal|Ghaznavid|Ghori|Slave Dynasty|Khilji|Tughlaq|Lodi|Suri|Timurid|Durrani|Mysore Sultanate",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1561,7 +1561,7 @@
     "Description": "Sealed Nectar|Lost Islamic History|Destiny Disrupted|Islam and the World|Road to Mecca|In the Footsteps of the Prophet|Muhammad|Islam|History of Arabs|History of Islam|Caliphate|Crusades|Ottomans|Mughals|Andalus|Baghdad|Cairo|Damascus|Istanbul|Mecca",
     "Category": ""
    },
-   "note": "book list was obscure and mixed with cities; refocused on Islamic history dynasties; QA: Al-Andalus is a region, not a dynasty"
+   "note": "book list was obscure and mixed with cities; refocused on Islamic history dynasties; QA: Al-Andalus is a region, not a dynasty; Debate: Almoravid too obscure; Mysore Sultanate well known locally."
   },
   {
    "id": "game3-121",
@@ -1722,7 +1722,7 @@
   {
    "id": "game3-133",
    "Name": "Pakistani Stadiums",
-   "Description": "Gaddafi Stadium|National Stadium Karachi|Rawalpindi Cricket Stadium|Multan Cricket Stadium|Iqbal Stadium|Arbab Niaz Stadium|Bugti Stadium|Niaz Stadium|Jinnah Stadium|National Hockey Stadium|Punjab Stadium|Gwadar Cricket Stadium|Abbottabad Cricket Stadium",
+   "Description": "Gaddafi Stadium|National Stadium Karachi|Rawalpindi Cricket Stadium|Multan Cricket Stadium|Iqbal Stadium|Arbab Niaz Stadium|Bugti Stadium|Jinnah Stadium|National Hockey Stadium|Gwadar Cricket Stadium|Abbottabad Cricket Stadium",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1730,7 +1730,7 @@
     "Description": "Gaddafi|National|Rawalpindi|Multan|Faisalabad|Peshawar|Quetta|Hyderabad|Sialkot|Gujranwala|Abbottabad|Mirpur|Muzaffarabad|Gwadar|Karachi|Lahore|Islamabad|Pindi|Cricket|Hockey",
     "Category": ""
    },
-   "note": "replaced bare city names with real stadiums"
+   "note": "replaced bare city names with real stadiums; Debate: Removed confusable Niaz Stadium and ambiguous Punjab Stadium; 11 words remain."
   },
   {
    "id": "game3-134",
@@ -1761,7 +1761,7 @@
   {
    "id": "game3-136",
    "Name": "Pakistani Monuments",
-   "Description": "Minar e Pakistan|Pakistan Monument|Mazar e Quaid|Iqbal Manzil|Ziarat Residency|Rohtas Fort|Derawar Fort|Ranikot Fort|Baltit Fort|Altit Fort|Shigar Fort|Khaplu Palace|Noor Mahal|Darbar Mahal|Sadiq Garh Palace|Faiz Mahal|Mohatta Palace|Frere Hall|Empress Market|Clock Tower",
+   "Description": "Minar e Pakistan|Pakistan Monument|Mazar e Quaid|Iqbal Manzil|Ziarat Residency|Rohtas Fort|Derawar Fort|Ranikot Fort|Baltit Fort|Altit Fort|Shigar Fort|Khaplu Palace|Noor Mahal|Darbar Mahal|Sadiq Garh Palace|Faiz Mahal|Mohatta Palace|Frere Hall|Empress Market|Lahore Fort",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1769,7 +1769,7 @@
     "Description": "Minar e Pakistan|Monument|Mazar e Quaid|Iqbal Manzil|Ziarat Residency|Rohtas Fort|Derawar Fort|Ranikot Fort|Baltit Fort|Altit Fort|Shigar Fort|Khaplu Palace|Noor Mahal|Darbar Mahal|Sadiq Garh|Faiz Mahal|Mohatta Palace|Frere Hall|Empress Market|Clock Tower",
     "Category": ""
    },
-   "note": "Monument -> Pakistan Monument"
+   "note": "Monument -> Pakistan Monument; Debate: Clock Tower ambiguous; replaced with Lahore Fort."
   },
   {
    "id": "game3-137",
@@ -1865,7 +1865,7 @@
   {
    "id": "game3-144",
    "Name": "Endangered Species in Pakistan",
-   "Description": "Markhor|Snow Leopard|Indus River Dolphin|Green Turtle|Olive Ridley Turtle|Vulture|Siberian Crane|Houbara Bustard|Saker Falcon|Whale Shark|Sawfish|Guitarfish|Pangolin|Smooth-Coated Otter|Asiatic Black Bear|Punjab Urial|Blackbuck|Hog Deer|Chinkara|Marco Polo Sheep",
+   "Description": "Markhor|Snow Leopard|Indus River Dolphin|Green Turtle|Olive Ridley Turtle|Vulture|Siberian Crane|Houbara Bustard|Saker Falcon|Whale Shark|Mugger Crocodile|Brown Bear|Pangolin|Smooth-Coated Otter|Asiatic Black Bear|Punjab Urial|Blackbuck|Hog Deer|Chinkara|Marco Polo Sheep",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1873,7 +1873,7 @@
     "Description": "Markhor|Ibex|Urial|Leopard|Bear|Dolphin|Turtle|Vulture|Crane|Bustard|Falcon|Eagle|Shark|Whale|Ray|Sawfish|Guitarfish|Pangolin|Otter|Civet",
     "Category": ""
    },
-   "note": "made generic words (Shark, Whale, Eagle) specific species"
+   "note": "made generic words (Shark, Whale, Eagle) specific species; Debate: Sawfish and Guitarfish unknown to most players."
   },
   {
    "id": "game3-145",
@@ -2021,7 +2021,7 @@
   {
    "id": "game3-156",
    "Name": "Mobile Networks and Packages",
-   "Description": "Jazz|Zong|Ufone|Telenor|Scratch Card|Roaming|SCO|Onic|SIM|Balance|Load|Package|Missed Call|SMS|4G|5G|Signal|Prepaid|Postpaid|Data",
+   "Description": "Jazz|Zong|Ufone|Telenor|Scratch Card|Roaming|SCO|Tower|SIM|Balance|Load|Package|Missed Call|SMS|4G|5G|Signal|Prepaid|Postpaid|Data",
    "Category": "",
    "action": "edit",
    "original": {
@@ -2029,7 +2029,7 @@
     "Description": "Jazz|Telenor|Zong|Ufone|Warid|Paktel|Instaphone|Mobilink|Sco|Vwireless|3G|4G|5G|LTE|GSM|CDMA|Prepaid|Postpaid|Sim|Data",
     "Category": ""
    },
-   "note": "too few real networks; broadened topic, removed obscure names; Debate: Mobilink rebranded to Jazz and Warid merged into Jazz, so the three were effectively one word; replaced Mobilink and Warid."
+   "note": "too few real networks; broadened topic, removed obscure names; Debate: Mobilink rebranded to Jazz and Warid merged into Jazz, so the three were effectively one word; replaced Mobilink and Warid.; Debate: Onic obscure; Tower is distinct and on-topic (Daily Bundle would duplicate Package)."
   },
   {
    "id": "game3-157",
@@ -2099,15 +2099,15 @@
   {
    "id": "game3-162",
    "Name": "Pakistani Dams",
-   "Description": "Tarbela|Mangla|Warsak|Ghazi Barotha|Neelum Jhelum|Dasu|Diamer Bhasha|Mohmand|Kurram Tangi|Gomal Zam|Satpara|Khanpur|Rawal|Simly|Hub|Mirani|Sabakzai|Darawat|Nai Gaj|Hingol",
+   "Description": "Tarbela|Mangla|Warsak|Ghazi Barotha|Neelum Jhelum|Dasu|Diamer Bhasha|Mohmand|Kurram Tangi|Gomal Zam|Satpara|Khanpur|Rawal|Simly|Hub|Mirani",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Pakistani Dams",
     "Description": "Tarbela|Mangla|Warsak|Ghazi Barotha|Neelum Jhelum|Dasu|Diamer Bhasha|Mohmand|Kurram Tangi|Gomal Zam|Satpara|Khanpur|Rawal|Simly|Hub|Mirani|Sabakzai|Darawat|Nai Gaj|Hingol",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removed obscure dams; 16 words remain."
   },
   {
    "id": "game3-163",
@@ -2749,7 +2749,7 @@
   {
    "id": "game3-212",
    "Name": "Draw something evil.",
-   "Description": "Draw adorable.|Draw a mean teacher.|Draw a mean baby.|Draw a baby duck.|Draw a troll.|Draw a villain.|Draw a bully.|Draw a big business.|Draw a churail.",
+   "Description": "Draw something adorable.|Draw a mean teacher.|Draw a mean baby.|Draw a baby duck.|Draw a troll.|Draw a villain.|Draw a bully.|Draw a greedy businessman.|Draw a churail.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -2757,7 +2757,7 @@
     "Description": "Draw adorable.|Draw a mean teacher.|Draw a mean baby.|Draw a baby duck.|Draw a troll.|Draw Voldemort.|Draw the devil.|Draw a big business.|Draw a witch.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Voldemort, devil, witch"
+   "note": "replaced Voldemort, devil, witch; Debate: Fix ungrammatical decoy and vague 'big business' decoy."
   },
   {
    "id": "game3-213",
@@ -13289,6 +13289,86 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Ramzan/rainy-day favourite; Besan (batter) and Cheese (dup of Paneer) removed."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Rishta Visit",
+   "Description": "Rishta Aunty|Chai Trolley|Samosas|Bio-data|Mithai Box|Proposal|Biscuits|Dupatta|Awkward Silence|Salary|Education|Family Background|Photo|Pakoras|Sofa|Drawing Room|Hosting Family|Istikhara|Height Remark|Waiting for Reply",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable local scene; challenger's de-duplicated list."
+  },
+  {
+   "id": null,
+   "Name": "Things at a School Assembly",
+   "Description": "Tilawat|Naat|Qaumi Tarana|Dua|Pledge|Prefect|Straight Line|Flag|Microphone|Principal|Announcements|Drill|Sports Captain|House Colours|Hair Check|Nail Check|Uniform Check|Hot Sun|Stage|Thought of the Day",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Common school experience; Attendance replaced by Uniform Check."
+  },
+  {
+   "id": null,
+   "Name": "Parts of Salah",
+   "Description": "Niyyah|Takbeer|Qiyam|Surah Fatiha|Short Surah|Ruku|Qauma|Sujood|Jalsa|Qadah|Tashahhud|Durood|Salam|Sana|Taawwuz|Tasmiyah|Ameen|Dua Masura|Rakat|Tasbeeh",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Parts of prayer, well known; corrected Qaida to Qadah and removed non-parts/overlaps."
+  },
+  {
+   "id": null,
+   "Name": "Occasions for Daily Duas",
+   "Description": "Before Eating|After Eating|Before Sleeping|Waking Up|Entering Home|Leaving Home|Entering Masjid|Leaving Masjid|Starting a Journey|Wearing New Clothes|Looking in the Mirror|After Sneezing|Hearing Thunder|Seeing the New Moon|Starting Wudu|After Wudu|Visiting the Sick|Hearing the Azan|Seeing Rain|Feeling Worried",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate worship-related occasions; removed inaccurate/duplicate entries."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Dairy Farm",
+   "Description": "Buffalo|Cow|Calf|Milking Pail|Milk Can|Chara|Fodder Cutter|Trough|Bhoosa|Shed|Churn|Gwala|Tokra|Khoonta|Cow Dung Cakes|Tractor|Water Pump|Ghee|Makhan|Lassi",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local rural theme; Hay replaced by Bhoosa, generic Rope by Khoonta."
+  },
+  {
+   "id": null,
+   "Name": "Things on Result Day",
+   "Description": "Result Card|Position|Marks|A+ Grade|Mithai|Dua|Fail|Re-check|Distinction|Gold Medal|Principal|Trophy|Percentage|Grace Marks|Prize Distribution|Congratulation Calls|Class Teacher|Ammi's Tension|Parents' Meeting|Admission Form",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable theme; duplicates removed and weak entries replaced with clearer ones."
+  },
+  {
+   "id": null,
+   "Name": "Things in a School Van",
+   "Description": "Driver Uncle|Seats|School Bags|Tiffin|Water Bottle|Window|Horn|Roof Rack|Speed Breaker|Morning Dua|Homework Copy|Seat Belt|Pick-up Time|Route|Traffic Jam|Naat|Sliding Door|Fare|Late Kid|Sleepy Kids",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Everyday scene; replaced off-topic and awkward words with clearer van words."
+  },
+  {
+   "id": null,
+   "Name": "Draw a puncture wala.",
+   "Description": "Draw a bicycle repair shop.|Draw a flat tyre on the motorway.|Draw an air pump.|Draw a mechanic under a car.|Draw a tyre shop.|Draw a man pushing a broken-down car.|Draw a motorbike mechanic.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local drawable figure with close decoys; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Draw a snowy day in Murree.",
+   "Description": "Draw Naran in winter.|Draw a snowman.|Draw a hill station hotel.|Draw a chairlift.|Draw a family in woollen caps.|Draw snow on a car.|Draw a snowy mountain.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Pakistani winter-trip drawing with plausible decoys."
+  },
+  {
+   "id": null,
+   "Name": "Draw a rishta aunty.",
+   "Description": "Draw a khala with a mithai box.|Draw a gossiping neighbour.|Draw a wedding planner.|Draw a nosy relative.|Draw a teacher.|Draw a bride's mother.|Draw a lady at a wedding.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Recognisable local character; synonym decoy replaced."
   }
  ]
 }

@@ -5505,14 +5505,14 @@
   },
   {
    "id": "game7-501",
-   "Description": "the poison ivy club",
+   "Description": "the prickly cactus club",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "the poison ivy club",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Poison ivy is a US plant; cactus is drawable and not a duplicate of 'cactus dodging rain drops'."
   },
   {
    "id": "game7-502",
@@ -5969,12 +5969,12 @@
    "id": "game7-543",
    "Description": "No one asked for this!!!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "No one asked for this!!!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Vague exclamation with no drawable subject."
   },
   {
    "id": "game7-544",
@@ -6310,67 +6310,67 @@
    "id": "game7-574",
    "Description": "1 hour from now",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "1 hour from now",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Abstract and undrawable."
   },
   {
    "id": "game7-575",
    "Description": "unbearable awkward tension",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "unbearable awkward tension",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Abstract and undrawable, same flaw as other removed cards."
   },
   {
    "id": "game7-576",
    "Description": "this is why life is good",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "this is why life is good",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Too vague to draw or bluff on."
   },
   {
    "id": "game7-577",
    "Description": "the greatest invention ever",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "the greatest invention ever",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Vague, nothing specific to draw or bluff on."
   },
   {
    "id": "game7-578",
    "Description": "my favorite shapes",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "my favorite shapes",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Nothing concrete to draw."
   },
   {
    "id": "game7-579",
-   "Description": "a.i. a.i. matey",
+   "Description": "a.i. a.i. captain, the robot pirate",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "a.i. a.i. matey",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Keeps the pun and adds a drawable robot pirate."
   },
   {
    "id": "game7-580",
@@ -6385,14 +6385,14 @@
   },
   {
    "id": "game7-581",
-   "Description": "angry parade balloon!",
+   "Description": "angry Eid mela balloon!",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "angry macy's balloon!",
     "Category": "Standard Prompts"
    },
-   "note": "US store reference (Macy's)"
+   "note": "US store reference (Macy's); Debate: Parade balloon is a Western reference; Eid mela balloon is local and drawable."
   },
   {
    "id": "game7-582",
@@ -21393,6 +21393,13 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Concrete, drawable scene, distinct from the giant kettle card."
+  },
+  {
+   "id": null,
+   "Description": "a kachori so big the shopkeeper needs a crane",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, funny and drawable food prompt; no kachori card in the deck."
   }
  ]
 }
