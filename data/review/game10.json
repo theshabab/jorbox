@@ -5046,8 +5046,8 @@
   {
    "id": null,
    "Name": "Name a popular snack for kids.",
-   "action": "add",
-   "note": "New card"
+   "action": "remove",
+   "note": "Debate: Vague near-duplicate of live cards 545 (school lunchbox), 333 (a snack you buy) and the fried snack card. Only this one is removed and the others stay live."
   },
   {
    "id": null,
@@ -7430,6 +7430,30 @@
    "Name": "Name a famous Pakistani fast bowler.",
    "action": "add",
    "note": "New card (debate): Narrower than the generic cricketer card with strong matches (Wasim, Waqar, Shoaib, Shaheen); not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name a type of biryani.",
+   "action": "add",
+   "note": "New card (debate): Local prompt with converging answers (Sindhi, Bombay, Chicken, Beef, Mutton). Existing biryani cards are choice or ingredient cards, so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name a flavour of lassi.",
+   "action": "add",
+   "note": "New card (debate): Answers converge (Sweet, Salty, Mango, Mint). The existing lassi cards are either/or choices, so this is a different format."
+  },
+  {
+   "id": null,
+   "Name": "Name something you see or hear during a storm.",
+   "action": "add",
+   "note": "New card (debate): The challenger's wording is better. 'Hear' alone made lightning an invalid answer, while this lets thunder, lightning, rain and wind all fit."
+  },
+  {
+   "id": null,
+   "Name": "Name a sweet people give out when they hear good news.",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani custom with converging answers (laddu, barfi, gulab jamun, jalebi). Distinct from the good-news phrase card and the best-sweet-to-gift card."
   }
  ]
 }

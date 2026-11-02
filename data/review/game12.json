@@ -11897,6 +11897,24 @@
    "Name": "Electrician",
    "action": "add",
    "note": "New card (debate): Local profession alongside Barber/Darzi/Plumber, easy to act out, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Butcher",
+   "action": "add",
+   "note": "New card (debate): Distinct profession, fits Bakra Mandi theme, easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Photographer",
+   "action": "add",
+   "note": "New card (debate): Distinct, easy-to-act profession not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Scholarship",
+   "action": "add",
+   "note": "New card (debate): Relatable school noun not in deck."
   }
  ]
 }
