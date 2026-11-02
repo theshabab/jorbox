@@ -17,7 +17,7 @@ How likely are you to forget a friend's birthday?,0 to 100
 How obsessed are you with cricket?,0 to 100
 How likely are you to eat the last kabab on the plate without asking?,0 to 100
 How much do you trust a street food vendor's hygiene?,0 to 100
-How likely are you to recommend a restaurant you've never been to?,0 to 100
+How likely are you to confidently recommend a restaurant you have never actually eaten at?,0 to 100
 How much of a sore loser are you?,0 to 100
 How likely are you to laugh at a serious moment?,0 to 100
 How much do you hate waking up early?,0 to 100
@@ -31,7 +31,7 @@ How many languages can you speak fluently?,Number
 How many different cities have you lived in?,Number
 How many WhatsApp groups are you currently in?,Number
 How many cups of Chai do you drink in a typical day?,Number
-How many suits/kurtas do you own?,Number
+How many shalwar kameez suits do you own?,Number
 How many contacts are saved in your phone?,Number
 How many times have you broken a bone?,Number
 How many countries have you visited?,Number
@@ -78,7 +78,7 @@ How old were you when you first drove a car or motorbike?,Number
 How many times have you ridden in a rickshaw or Qingqi this month?,Number
 How many times have you sat on the roof of a bus or car?,Number
 How many samosas can you eat in one sitting?,Number
-What is your record for plates of Biryani in one sitting?,Number
+What is your record for plates of biryani eaten in one sitting?,Number
 How many gulab jamuns can you fit in your mouth at once?,Number
 How many parathas can you eat at one breakfast?,Number
 How many cups of coffee do you drink in a typical week?,Number
@@ -843,3 +843,8 @@ How likely are you to take a spoonful of saunf or a piece of elaichi after a hea
 How likely are you to fall asleep in the car within minutes of a long journey starting?,0 to 100
 How many times this month have you been asked 'Kitne ka liya?' about something you bought?,Number
 How many times this week have you walked into a room and forgotten why you went there?,Number
+How many times have you visited a barber or salon in the last year?,Number
+How many times have you had a fever or a bad cold this year?,Number
+How many dreams do you remember in a typical week?,Number
+How likely are you to accept a compliment without brushing it off?,0 to 100
+How many times have you been hit by a cricket ball on the body?,Number

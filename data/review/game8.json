@@ -12162,10 +12162,10 @@
   {
    "id": null,
    "Name": "IGNORES THE THORNS <---> CLEARS THE WHOLE PATH",
-   "Description": "Write the sign a child puts up after clearing thorny branches off the footpath, reminding people that removing harm from the road is sadaqah, having cleared this much",
+   "Description": "Write the sign a child puts up after clearing this much of a thorny footpath, reminding people that removing harm from the road is sadaqah",
    "Category": "Writing",
    "action": "add",
-   "note": "New card (debate): Challenger's amended version: accurate, well-established teaching (removing harm from the path is charity); clear continuum matching the task. Description lightly tidied."
+   "note": "New card (debate): Challenger's amended version: accurate, well-established teaching (removing harm from the path is charity); clear continuum matching the task. Description lightly tidied.; Debate: Challenger's amended wording: removes the dangling 'having cleared this much' and ties the scale to how much of the path is cleared."
   },
   {
    "id": null,
@@ -12214,6 +12214,46 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Sheer khurma is not in the deck. The card follows the existing Good/Bad scale format used for chai and biryani."
+  },
+  {
+   "id": null,
+   "Name": "FEW BEADS <---> ENDLESS BEADS",
+   "Description": "Draw Dada's tasbeeh with this many beads",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Tasbeeh appears only inside the Umrah suitcase card; this is a distinct drawing with clear opposite ends."
+  },
+  {
+   "id": null,
+   "Name": "FRIENDLY KABADDI <---> FINAL SHOWDOWN",
+   "Description": "Draw a mohalla kabaddi match that is this intense",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No kabaddi card in the live deck; familiar local sport, drawable."
+  },
+  {
+   "id": null,
+   "Name": "NEAT <---> TANGLED MESS",
+   "Description": "Draw the cables behind the TV that are this tangled",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No cable or wire card in the deck; relatable household scene."
+  },
+  {
+   "id": null,
+   "Name": "ONE LINE <---> NEVER-ENDING PARAGRAPHS",
+   "Description": "Write an Eid Mubarak message for the family WhatsApp group that is this long",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: the scale ends are plain length opposites, and an Eid message is a new scenario compared with the existing WhatsApp cards."
+  },
+  {
+   "id": null,
+   "Name": "WARM <---> ICE COLD",
+   "Description": "Draw a matka of water at a roadside stall that is this cold",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): No matka card; the only temperature card is the car AC one, so this is a different scene."
   }
  ]
 }

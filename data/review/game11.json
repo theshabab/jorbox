@@ -9011,6 +9011,62 @@
    "Description": "Wedding Planner",
    "action": "add",
    "note": "New card (debate): Not in the deck or pending adds, which have only photographer, hall manager and card printer."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Meter Reader (Bijli Wala)",
+   "action": "add",
+   "note": "New card (debate): Recognisable local figure, absent from deck, distinct from Electrician."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "University Professor",
+   "action": "add",
+   "note": "New card (debate): No professor card; fills gap beyond teacher, tuition teacher and principal."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Housewife on a Tight Budget",
+   "action": "add",
+   "note": "New card (debate): Relatable household customer, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Customer",
+   "Description": "Hospital Ward Boy",
+   "action": "add",
+   "note": "New card (debate): Recognisable hospital role distinct from doctor and nurse."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "We can no longer afford _____, so now the whole family shares one!",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording is clearer and differs from the price-doubled card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I forgot to switch off the water motor and now _____ is flooded!",
+   "action": "add",
+   "note": "New card (debate): Concrete noun blank, distinct from the existing tank-runs-out card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My abbu's old Suzuki breaks down every time we carry _____!",
+   "action": "add",
+   "note": "New card (debate): Local family-car frame with a noun blank; no Suzuki card exists."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I'm fasting and the whole street smells of fried _____!",
+   "action": "add",
+   "note": "New card (debate): Amended version has a tight food-noun blank, distinct from the existing roza cards."
   }
  ]
 }

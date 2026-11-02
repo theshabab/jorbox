@@ -225,14 +225,14 @@
   },
   {
    "id": "game14-21",
-   "Description": "How likely are you to recommend a restaurant you've never been to?",
+   "Description": "How likely are you to confidently recommend a restaurant you have never actually eaten at?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How likely are you to recommend a restaurant you've never been to?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Clearer, funnier, answerable wording."
   },
   {
    "id": "game14-22",
@@ -412,14 +412,14 @@
   },
   {
    "id": "game14-38",
-   "Description": "How many suits/kurtas do you own?",
+   "Description": "How many shalwar kameez suits do you own?",
    "Category": "Number",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How many suits/kurtas do you own?",
     "Category": "Number"
    },
-   "note": ""
+   "note": "Debate: Removes ambiguous slash wording; local term."
   },
   {
    "id": "game14-39",
@@ -973,14 +973,14 @@
   },
   {
    "id": "game14-89",
-   "Description": "What is your record for plates of Biryani in one sitting?",
+   "Description": "What is your record for plates of biryani eaten in one sitting?",
    "Category": "Number",
    "action": "edit",
    "original": {
     "Description": "How many plates of Biryani is your record?",
     "Category": "Number"
    },
-   "note": "grammar"
+   "note": "grammar; Debate: Fixes capitalisation and grammar."
   },
   {
    "id": "game14-90",
@@ -7692,6 +7692,41 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Clean, countable and not duplicated by the forgot-something or parking cards."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you visited a barber or salon in the last year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Everyday countable question; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you had a fever or a bad cold this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable count; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many dreams do you remember in a typical week?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clean count; only dream card (lucid dreams, game14-102) is removed, so no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to accept a compliment without brushing it off?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Fun guessable personality question; no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been hit by a cricket ball on the body?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Fits cricket theme; not a duplicate of lost-balls card."
   }
  ]
 }
