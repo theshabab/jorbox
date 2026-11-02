@@ -19827,7 +19827,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-360','game13','','Get a player to fold your dupatta or shawl for you.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-361','game13','','Get a player to peel a kinnu or banana for you.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-362','game13','','Get a player to tell you what they ate for breakfast.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-363','game13','','Get a player to rate the biryani out of ten.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-363','game13','','Get a player to rate the biryani, pulao or qorma out of ten.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-364','game13','','Get a player to say which Pakistani city has the best food.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-365','game13','','Get a player to tell you the time of the next namaz.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-366','game13','','Get a player to ask you ''Khana khaya?'' (Have you eaten?).','');
@@ -20361,6 +20361,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-894','game13','','Get a player to straighten a picture, cushion or tablecloth that you deliberately left crooked.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-895','game13','','Get a player to tell you which route they take to avoid traffic.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-896','game13','','Get a player to say ''Chalo, kal milte hain'' (Okay, see you tomorrow).','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-897','game13','','Get a player to tell you where the best place for a late-night chai is in their city.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-898','game13','','Get a player to tell you their favourite place to sit at home, like a charpai, sofa or floor.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -21237,6 +21239,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-873','game14','','How likely are you to give someone the last piece of mithai on the plate instead of taking it yourself?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-874','game14','','How likely are you to give cash as a wedding gift instead of a wrapped present?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-875','game14','','How many times during last Ramadan did you help cook something for iftar?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-876','game14','','How many nights have you stayed awake in worship on Laylat al-Qadr?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-877','game14','','How many times have you been to Lahore?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-878','game14','','How many times do you press snooze on a typical morning?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-879','game14','','How many times a week did your mother or grandmother put oil in your hair when you were a child?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-880','game14','','How many times have you eaten a gola ganda (shaved ice) from a street cart in summer?','Number');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game15','Tareekhi',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1','game15','Khadijah bint Khuwaylid','1st - first person to accept Islam','Sahabas - Order of Accepting Islam');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-2','game15','Ali ibn Abi Talib','2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10','Sahabas - Order of Accepting Islam');
@@ -24081,7 +24088,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-903','game16','What is the funniest signboard or shop name you have seen in your city?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-904','game16','What is the most memorable Taraweeh or Eid prayer you have been part of?','','Deep & ThoughtProvoking');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-905','game16','What is the funniest thing your family argued about while packing the car for a long road trip?','','More Fun Questions');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-906','game16','Have you ever seen snow for the first time? Where was it, and what did you do?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-906','game16','Do you remember seeing snow for the first time? Where were you, and what did you do?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-907','game16','Which family recipe worries you most that nobody has written down, and who would you ask to teach it to you?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-908','game16','Who in your family always falls asleep first at a long dawat or gathering, and where do they usually end up sleeping?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-909','game16','Which relative''s house has the strictest rules for guests (shoes outside, no touching the showcase), and what is the most famous rule?','','Desi Life & Culture Adaptations');
@@ -24091,7 +24098,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-913','game16','If you could carry only one thing in your pocket every day, what would it be?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-914','game16','If the week had an eighth day, what would you do with it?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-915','game16','Which sound makes you laugh no matter what, even at the most serious moment?','','Ice Breakers & Fun General');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-916','game16','Who in your family always peels and cuts the fruit and serves it after dinner?','','Desi Life & Culture Adaptations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-916','game16','Who in your family always peels and cuts the fruit after dinner, and which fruit disappears from the plate first?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-917','game16','What is the proudest thing you have ever repaired or fixed yourself?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-918','game16','If you could move one place in Pakistan next to your house (Fairy Meadows, Attabad Lake, Clifton beach, a Lahore food street), which would you choose?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-919','game16','What small thing do you do every single day that nobody else notices?','','Ice Breakers & Fun General');
@@ -24127,3 +24134,4 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-949','game16','Did you ever share a room with your siblings or cousins? What were the unwritten rules, and who always broke them?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-950','game16','Who taught you to drive (or ride a motorbike), and what is the funniest thing that happened during your first lesson?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-951','game16','If you had a free month to learn one skill online (coding, graphic design, spoken English or cooking), which would you choose, and how could it help your family?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-952','game16','What is your favourite memory of the last ten nights of Ramadan, whether at the masjid or at home?','','Deep & ThoughtProvoking');

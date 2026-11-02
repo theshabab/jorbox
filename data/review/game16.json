@@ -9867,10 +9867,10 @@
   },
   {
    "id": null,
-   "Name": "Have you ever seen snow for the first time? Where was it, and what did you do?",
+   "Name": "Do you remember seeing snow for the first time? Where were you, and what did you do?",
    "Category": "Ice Breakers & Fun General",
    "action": "add",
-   "note": "New card (debate): No existing first-snow card."
+   "note": "New card (debate): No existing first-snow card.; Debate: Fixes the ungrammatical 'Have you ever seen snow for the first time?'."
   },
   {
    "id": null,
@@ -9937,10 +9937,10 @@
   },
   {
    "id": null,
-   "Name": "Who in your family always peels and cuts the fruit and serves it after dinner?",
+   "Name": "Who in your family always peels and cuts the fruit after dinner, and which fruit disappears from the plate first?",
    "Category": "Desi Life & Culture Adaptations",
    "action": "add",
-   "note": "New card (debate): Relatable desi family habit. It is different from the pending peeling-oranges skill card, which is about being the best at a task."
+   "note": "New card (debate): Relatable desi family habit. It is different from the pending peeling-oranges skill card, which is about being the best at a task.; Debate: Adds a light follow-up to a flat question. No duplicate: the other fruit cards are about the most underrated fruit and renaming a fruit."
   },
   {
    "id": null,
@@ -10186,6 +10186,13 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Challenger's amended version: a single natural follow-up question and a modern online-skills angle distinct from game16-110."
+  },
+  {
+   "id": null,
+   "Name": "What is your favourite memory of the last ten nights of Ramadan, whether at the masjid or at home?",
+   "Category": "Deep & ThoughtProvoking",
+   "action": "add",
+   "note": "New card (debate): New angle. The existing Ramadan cards cover Taraweeh/Eid, sehri/iftar and a habit to keep, not the last ten nights. Worship-related personal questions are allowed."
   }
  ]
 }

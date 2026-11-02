@@ -7909,6 +7909,41 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Distinct from iftari-sending card; valid Number question."
+  },
+  {
+   "id": null,
+   "Description": "How many nights have you stayed awake in worship on Laylat al-Qadr?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal count is allowed; no similar card exists."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you been to Lahore?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clean local travel count; not covered by the UNESCO heritage card."
+  },
+  {
+   "id": null,
+   "Description": "How many times do you press snooze on a typical morning?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version: easier to answer and distinct from the alarm-count card."
+  },
+  {
+   "id": null,
+   "Description": "How many times a week did your mother or grandmother put oil in your hair when you were a child?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Familiar memory made answerable as a weekly frequency (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you eaten a gola ganda (shaved ice) from a street cart in summer?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Local street-food count; no gola ganda card in the deck."
   }
  ]
 }

@@ -4070,9 +4070,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to rate the biryani out of ten.",
+   "Description": "Get a player to rate the biryani, pulao or qorma out of ten.",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Widening the dish list keeps the mission doable when there is no biryani; stays distinct from other rating cards."
   },
   {
    "id": null,
@@ -7289,6 +7289,18 @@
    "Description": "Get a player to say 'Chalo, kal milte hain' (Okay, see you tomorrow).",
    "action": "add",
    "note": "New card (debate): Local phrase mission, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you where the best place for a late-night chai is in their city.",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing chai cards, local, easy to steer, harmless."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite place to sit at home, like a charpai, sofa or floor.",
+   "action": "add",
+   "note": "New card (debate): Local conversation prompt, no duplicate found."
   }
  ]
 }
