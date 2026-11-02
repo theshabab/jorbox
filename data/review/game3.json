@@ -3347,7 +3347,7 @@
   {
    "id": "game3-258",
    "Name": "Draw a cool person.",
-   "Description": "Draw a man in a leather jacket.|Draw a snowman.|Draw someone in sunglasses.|Draw a hipster.|Draw a cricket star.|Draw a skateboarder.|Draw a biker.",
+   "Description": "Draw a man in a leather jacket.|Draw someone in sunglasses.|Draw a cricket star.|Draw a skateboarder.|Draw a biker.|Draw a bike stunt rider doing a wheelie.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3355,7 +3355,7 @@
     "Description": "Draw Dracula.|Draw a snowman.|Draw a monkey with a cigar.|Draw a hipster.|Draw a celebrity.|Draw a skate boarder.|Draw a cool musician.|Draw someone vaping.|Draw a pop star.",
     "Category": "Drawing 2"
    },
-   "note": "removed cigar, vaping, celebrity, musician, pop star; Debate: Closer decoy than Dracula."
+   "note": "removed cigar, vaping, celebrity, musician, pop star; Debate: Closer decoy than Dracula.; Debate: Removes off decoys (snowman, hipster) for closer local ones."
   },
   {
    "id": "game3-259",
@@ -3438,7 +3438,7 @@
   {
    "id": "game3-265",
    "Name": "Draw a mohawk.",
-   "Description": "Draw a tall beehive hairdo.|Draw a hawk.|Draw a punk.|Draw bed head.|Draw a bad hair day.|Draw a porcupine.",
+   "Description": "Draw a tall beehive hairdo.|Draw a hawk.|Draw a spiky hairstyle.|Draw bed head.|Draw a bad hair day.|Draw a porcupine.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3446,7 +3446,7 @@
     "Description": "Draw Marge Simpson.|Draw a hawk.|Draw a punk.|Draw bed head.|Draw a bad hair day.|Draw Medusa.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Marge Simpson; Sweep: Greek myth decoy replaced"
+   "note": "replaced Marge Simpson; Sweep: Greek myth decoy replaced; Debate: Replaces the subculture-flavoured punk decoy with a cleaner close decoy."
   },
   {
    "id": "game3-266",
@@ -3477,7 +3477,7 @@
   {
    "id": "game3-268",
    "Name": "Draw a flower garden.",
-   "Description": "Draw a vegetable garden.|Draw wild flowers.|Draw a field of tulips.|Draw roses.|Draw a bouquet of flowers.|Draw two flowers.",
+   "Description": "Draw a vegetable garden.|Draw wild flowers.|Draw a field of mustard flowers.|Draw roses.|Draw a bouquet of flowers.|Draw two flowers.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3485,7 +3485,7 @@
     "Description": "Draw a vegetable garden.|Draw wild flowers.|Draw a a field of tulips.|Draw roses.|Draw a bouquet of flowers.|Draw two flowers.",
     "Category": "Drawing 2"
    },
-   "note": "typo"
+   "note": "typo; Debate: Local sarson field replaces tulip field."
   },
   {
    "id": "game3-269",
@@ -3516,7 +3516,7 @@
   {
    "id": "game3-271",
    "Name": "Draw the end of the world.",
-   "Description": "Draw a big flood.|Draw a shrug.|Draw a meteor strike.|Draw World War II.|Draw an earthquake.|Draw a volcano.|Draw how the dinosaurs died.|Draw robots.",
+   "Description": "Draw a big flood.|Draw a giant tsunami.|Draw a meteor strike.|Draw World War II.|Draw an earthquake.|Draw a volcano.|Draw how the dinosaurs died.|Draw robots.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3524,7 +3524,7 @@
     "Description": "Draw <i>Infinity War</i>.|Draw kissing.|Draw a shrug.|Draw a meteor strike.|Draw World War II.|Draw an earthquake.|Draw a volcano.|Draw how the dinosaurs died.|Draw robots.",
     "Category": "Drawing 2"
    },
-   "note": "replaced film, kissing"
+   "note": "replaced film, kissing; Debate: Shrug is not a plausible decoy."
   },
   {
    "id": "game3-272",
@@ -3789,7 +3789,7 @@
   {
    "id": "game3-292",
    "Name": "Draw a judge.",
-   "Description": "Draw a vampire.|Draw a referee.|Draw a courtroom.|Draw a science fair judge.|Draw a mean judge.|Draw a lawyer.|Draw the Supreme Court.|Draw a guy in a toga.",
+   "Description": "Draw a barrister in a black coat.|Draw a referee.|Draw a courtroom.|Draw a science fair judge.|Draw a mean judge.|Draw a lawyer.|Draw the Supreme Court.|Draw a guy in a toga.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3797,7 +3797,7 @@
     "Description": "Draw a vampire.|Draw Batman.|Draw the spirit of Death.|Draw a courtroom.|Draw a science fair judge.|Draw a mean judge.|Draw a TV judge.|Draw the Supreme Court.|Draw a guy in a toga.",
     "Category": "Drawing 2"
    },
-   "note": "replaced Batman, spirit of Death, TV judge"
+   "note": "replaced Batman, spirit of Death, TV judge; Debate: Unrelated vampire decoy replaced by a close local one."
   },
   {
    "id": "game3-293",
@@ -3932,7 +3932,7 @@
   {
    "id": "game3-303",
    "Name": "Draw Mount Everest.",
-   "Description": "Draw a villain’s secret headquarters.|Draw a volcano.|Draw Nanga Parbat.|Draw a blizzard on a mountain.|Draw an ant hill.|Draw a mountain.|Draw mountain climbers.|Draw mountains.|Draw a ski resort.",
+   "Description": "Draw a villain’s secret headquarters.|Draw a volcano.|Draw K2.|Draw a blizzard on a mountain.|Draw an ant hill.|Draw a mountain.|Draw mountain climbers.|Draw mountains.|Draw a ski resort.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -3940,7 +3940,7 @@
     "Description": "Draw a villain’s secret headquarters.|Draw a volcano.|Draw Mount Rushmore.|Draw a blizzard on a mountain.|Draw an ant hill.|Draw a mountain.|Draw mountain climbers.|Draw mountains.|Draw a ski resort.",
     "Category": "Drawing 2"
    },
-   "note": "Mount Rushmore -> Nanga Parbat"
+   "note": "Mount Rushmore -> Nanga Parbat; Debate: K2 is a well-known close decoy."
   },
   {
    "id": "game3-304",
@@ -4036,7 +4036,7 @@
   {
    "id": "game3-311",
    "Name": "Draw a batsman hitting a six.",
-   "Description": "Draw a batsman getting bowled.|Draw a fielder taking a catch.|Draw a fast bowler.|Draw a cricket ball in the air.|Draw a wicketkeeper.|Draw a baseball player.",
+   "Description": "Draw a batsman getting bowled.|Draw a fielder taking a catch.|Draw a fast bowler.|Draw a cricket ball in the air.|Draw a wicketkeeper.|Draw a batsman celebrating a century.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4044,7 +4044,7 @@
     "Description": "Draw a man with wings|Draw cookies dunked in milk|Draw a juggler.|Draw someone missing a dunk.|Draw a basketball game|Draw Michael Jordan",
     "Category": "Drawing 2"
    },
-   "note": "Michael Jordan decoy replaced; punctuation; Debate: Local cricket equivalent of basketball dunk."
+   "note": "Michael Jordan decoy replaced; punctuation; Debate: Local cricket equivalent of basketball dunk.; Debate: US baseball decoy replaced by cricket decoy."
   },
   {
    "id": "game3-312",
@@ -4114,7 +4114,7 @@
   {
    "id": "game3-317",
    "Name": "Draw your first pet.",
-   "Description": "Draw a kitten.|Draw yourself holding a baby.|Draw a parrot.|Draw a tick.|Draw a goldfish.|Draw a pet.|Draw a mean dog.|Draw a rabbit.",
+   "Description": "Draw a kitten.|Draw yourself holding a baby.|Draw a parrot.|Draw a pet pigeon.|Draw a goldfish.|Draw a pet.|Draw a mean dog.|Draw a rabbit.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4122,7 +4122,7 @@
     "Description": "Draw a hamburger.|Draw yourself holding a baby.|Draw Snoopy.|Draw Godzilla.|Draw a tick.|Draw a goldfish.|Draw a pet.|Draw a mean dog.|Draw a dead cat.",
     "Category": "Drawing 2"
    },
-   "note": "Snoopy/Godzilla decoys replaced; Debate: Plausible pet decoys replace random and grim ones."
+   "note": "Snoopy/Godzilla decoys replaced; Debate: Plausible pet decoys replace random and grim ones.; Debate: Tick is not a pet; pet pigeon is a better decoy."
   },
   {
    "id": "game3-318",
@@ -4153,7 +4153,7 @@
   {
    "id": "game3-320",
    "Name": "Draw a bowl of your favorite cereal.",
-   "Description": "Draw a cup of doodh patti.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of cornflakes.|Draw a bowl of kheer.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a glass of milk.",
+   "Description": "Draw a cup of doodh patti.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of cornflakes.|Draw a bowl of kheer.|Draw a bowl of daliya.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a glass of milk.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4161,7 +4161,7 @@
     "Description": "Draw a mug of cocoa and marshmallows.|Draw a bowl of piping hot soup.|Draw ice cream.|Draw a bowl of Cheerios.|Draw a mascot stealing a bowl of cereal.|Draw a bowl of cereal.|Draw a box of cereal.|Draw a bowl of oatmeal.|Draw a handful of Cherrios.",
     "Category": "Drawing 2"
    },
-   "note": "brand names -> cornflakes; typo; Debate: Drop the marshmallows (gelatin).; Debate: Replaces the US cereal-mascot reference with a local decoy.; Debate: Replace Western hot chocolate decoy with doodh patti."
+   "note": "brand names -> cornflakes; typo; Debate: Drop the marshmallows (gelatin).; Debate: Replaces the US cereal-mascot reference with a local decoy.; Debate: Replace Western hot chocolate decoy with doodh patti.; Debate: Decoy identical to the real prompt replaced."
   },
   {
    "id": "game3-321",
@@ -4386,8 +4386,8 @@
   },
   {
    "id": "game3-338",
-   "Name": "Draw a ventriloquist puppet.",
-   "Description": "Draw a big man fighting a small man.|Draw a scary clown.|Draw a scary doll.|Draw a creepy mannequin.|Draw a child in a suit.|Draw a puppet show.",
+   "Name": "Draw a kathputli.",
+   "Description": "Draw a ventriloquist with his dummy.|Draw a scary clown.|Draw a scary doll.|Draw a creepy mannequin.|Draw a child in a suit.|Draw a street puppet show.",
    "Category": "Drawing 2",
    "action": "edit",
    "original": {
@@ -4395,7 +4395,7 @@
     "Description": "Draw a big man fighting a small man.|Draw a scary clown.|Draw a scary doll.|Draw a creepy mannequin.|Draw a child in a suit.|Draw a dance.",
     "Category": "Drawing 2"
    },
-   "note": "dance decoy replaced"
+   "note": "dance decoy replaced; Debate: Ventriloquist is obscure locally; kathputli is familiar."
   },
   {
    "id": "game3-339",
@@ -4543,7 +4543,7 @@
   {
    "id": "game3-350",
    "Name": "A good gift for a college graduate would be...",
-   "Description": "Something you buy on every grocery store visit is...|Something embarrassing to buy is...|A good gift for your dad would be...|A product you’ve seen advertised on TV is...|An item you’ve kept from childhood is...|A good gift for a housewarming would be...|The last thing you bought was...|Something you shouldn’t keep more than two weeks is...",
+   "Description": "Something you buy on every grocery store visit is...|Something embarrassing to buy is...|A good gift for your dad would be...|A product you’ve seen advertised on TV is...|An item you’ve kept from childhood is...|A good gift for a newly married couple would be...|The last thing you bought was...|Something you shouldn’t keep more than two weeks is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4551,7 +4551,7 @@
     "Description": "Something you buy on every grocery store visit is...|Something embarrassing to buy is...|A good gift for your dad would be...|A product you’ve seen advertised on tv is...|An item you’ve kept from childhood is...|A good gift for a housewarming would be...|The last thing you bought was...|Something you shouldn’t keep more than two weeks is...",
     "Category": "Writing"
    },
-   "note": "capitalisation"
+   "note": "capitalisation; Debate: Housewarming is a Western custom."
   },
   {
    "id": "game3-351",
@@ -4634,7 +4634,7 @@
   {
    "id": "game3-357",
    "Name": "The best city to visit in the summer is probably...",
-   "Description": "The city I am currently in is...|A city I recently visited was...|A city I’ve always wanted to visit is...|A place known for its cold weather is...|A city I will probably spell incorrectly is...|The best city to vacation in is...|The best fictional location is...|The name of my hometown is...|The name of a place that doesn’t exist anymore is...",
+   "Description": "The city I am currently in is...|A city I recently visited was...|A city I’ve always wanted to visit is...|A place known for its cold weather is...|A city I will probably spell incorrectly is...|The best city to visit in the winter is probably...|The best fictional location is...|The name of my hometown is...|The name of a place that doesn’t exist anymore is...",
    "Category": "Writing",
    "action": "edit",
    "original": {
@@ -4642,7 +4642,7 @@
     "Description": "The city I am currently in is...|A city I recently visited was...|A city I’ve always wanted to visit is...|A place known for it’s cold weather is...|A city I will probably spell incorrectly is...|The best city to vacation in is...|The best fictional location is...|The name of my hometown is...|The name of a place that doesn’t exist anymore is...",
     "Category": "Writing"
    },
-   "note": "grammar (its)"
+   "note": "grammar (its); Debate: Old decoy was nearly identical to the real prompt."
   },
   {
    "id": "game3-358",
@@ -13369,6 +13369,54 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): Recognisable local character; synonym decoy replaced."
+  },
+  {
+   "id": null,
+   "Name": "Draw a chappal flying through the air.",
+   "Description": "Draw a cricket ball in flight.|Draw a boomerang.|Draw an angry mother.|Draw a shoe rack.|Draw a paper plane.|Draw a frisbee.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Funny, local, drawable; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Draw a foggy winter morning in Lahore.",
+   "Description": "Draw a smoggy city skyline.|Draw a rainy morning.|Draw a snowy village.|Draw a cloudy sky.|Draw people sitting around a bonfire.|Draw a quiet street at dawn.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local seasonal scene; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Draw a jeep ride on a mountain road.",
+   "Description": "Draw a bus on a cliff road.|Draw a car stuck in snow.|Draw a landslide blocking the road.|Draw a truck on a bridge.|Draw a donkey on a hill path.|Draw a motorbike on a dirt track.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Northern areas trip theme; not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Draw a bhai fixing the TV antenna on the roof.",
+   "Description": "Draw a man painting a wall.|Draw a man flying a kite on the roof.|Draw a man hanging laundry.|Draw a pigeon on an antenna.|Draw a man fixing a ceiling fan.|Draw a man climbing a tree.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Familiar desi rooftop scene; challenger's amended decoy avoids overlap with the water tank card."
+  },
+  {
+   "id": null,
+   "Name": "Something every Pakistani house keeps in a drawer is...",
+   "Description": "Something every Pakistani house keeps on the roof is...|Something every Pakistani house keeps under the bed is...|Something every Pakistani house keeps in the fridge door is...|Something every Pakistani house keeps in the kitchen cupboard is...|Something every Pakistani house keeps in the car is...|Something every Pakistani house keeps for guests is...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Local relatable humour; no equivalent in deck."
+  },
+  {
+   "id": null,
+   "Name": "A good name for a qurbani goat would be...",
+   "Description": "A good name for a pet parrot would be...|A good name for a chai dhaba would be...|A good name for a mithai shop would be...|A good name for a tikka shop would be...|A good name for a cricket team would be...|A good name for a rickshaw would be...",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Fits naming cards and Eid theme; not in deck."
   }
  ]
 }

@@ -8548,10 +8548,10 @@
   {
    "id": null,
    "Name": "Karachi",
-   "Description": "Pakistan's first capital, until the government moved out in 1959, was ____.",
+   "Description": "Pakistan's first capital, until the government began moving to Rawalpindi in 1959, was ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category."
+   "note": "New card; Debate: Accuracy: Rawalpindi was the interim capital from 1959 while Islamabad was built, so Karachi did not come directly before Islamabad.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category.; Debate: Fills empty category; wording more precise."
   },
   {
    "id": null,
@@ -8783,7 +8783,7 @@
    "Description": "Istanbul is the world's largest city to sit on two ____.",
    "Category": "",
    "action": "add",
-   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category."
+   "note": "New card; Debate: Accuracy: other cities (e.g. Orenburg, Atyrau) also straddle Europe and Asia; Istanbul is the largest.; Debate: Fact correct; fills missing category.; Debate: Fact correct; fills empty category.; Debate: Fills empty category."
   },
   {
    "id": null,
@@ -14248,6 +14248,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): True K2 fact; supersedes the placeholder P17."
+  },
+  {
+   "id": null,
+   "Name": "Abul-Abbas",
+   "Description": "In 802, the Abbasid caliph Harun al-Rashid sent the European emperor Charlemagne an elephant named ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Documented fact, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "domes",
+   "Description": "The Shah Jahan Mosque in Thatta, Sindh, is famous for its 93 tiled ____ and its remarkable acoustics.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate heritage fact, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "doors",
+   "Description": "The old Stone Town of Zanzibar, a historic Swahili Muslim trading port, is famous for its hundreds of carved wooden ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording ('hundreds') is more accurate."
+  },
+  {
+   "id": null,
+   "Name": "caps",
+   "Description": "Mughal emperor Aurangzeb is remembered for paying for his personal needs by stitching prayer ____ and copying the Quran by hand.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Well-known Mughal fact, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Aligarh",
+   "Description": "In 1875, Sir Syed Ahmad Khan founded a college in the Indian town of ____ that grew into a famous Muslim university.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, important South Asian Muslim history."
+  },
+  {
+   "id": null,
+   "Name": "Rangoon",
+   "Description": "After the 1857 uprising, the British exiled the last Mughal emperor, the Urdu poet Bahadur Shah Zafar, to ____ in Burma, where he died.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Kufa",
+   "Description": "Zubaida, wife of the caliph Harun al-Rashid, paid for wells and rest stops along the pilgrim road from ____ to Makkah.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate Hajj history, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "165",
+   "Description": "Neptune is so far from the Sun that one year there lasts about ____ Earth years.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Accurate (about 164.8), good numeric bluff."
   }
  ]
 }

@@ -10457,8 +10457,8 @@
   },
   {
    "id": "game15-805",
-   "Name": "Line 1 (Wuhan Metro) Bridge",
-   "Description": "37.8 km",
+   "Name": "Beijing Grand Bridge",
+   "Description": "48.15 km",
    "Category": "Longest Bridges (Length - Long to Short)",
    "action": "edit",
    "original": {
@@ -10466,7 +10466,7 @@
     "Description": "37.7 km",
     "Category": "Longest Bridges (Length - Long to Short)"
    },
-   "note": "rounded correctly; longer than Manchac (37.8 > 36.7 km), true order differs from card order"
+   "note": "rounded correctly; longer than Manchac (37.8 > 36.7 km), true order differs from card order; Debate: Replaces the obscure Wuhan Metro entry with the well-documented Beijing Grand Bridge. True order puts it before Lake Pontchartrain (38.4 km); the Description states the correct value."
   },
   {
    "id": "game15-806",
@@ -32529,6 +32529,78 @@
    "Category": "Layers of the Sun (Centre Outward)",
    "action": "add",
    "note": "New card (debate): Ordinal corrected to 6th with chromosphere included."
+  },
+  {
+   "id": null,
+   "Name": "Jupiter",
+   "Description": "About 10 hours",
+   "Category": "Planets - Rotation Period (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Rotates once in about 9.9 h. Category named Rotation Period to avoid the solar day ambiguity."
+  },
+  {
+   "id": null,
+   "Name": "Neptune",
+   "Description": "About 16 hours",
+   "Category": "Planets - Rotation Period (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Rotates in about 16.1 h."
+  },
+  {
+   "id": null,
+   "Name": "Earth",
+   "Description": "About 24 hours",
+   "Category": "Planets - Rotation Period (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Familiar anchor; rotation is 23 h 56 m."
+  },
+  {
+   "id": null,
+   "Name": "Mercury",
+   "Description": "About 59 Earth days",
+   "Category": "Planets - Rotation Period (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Rotates once in about 58.6 Earth days."
+  },
+  {
+   "id": null,
+   "Name": "Venus",
+   "Description": "About 243 Earth days",
+   "Category": "Planets - Rotation Period (Short to Long)",
+   "action": "add",
+   "note": "New card (debate): Slowest rotation of any planet, about 243 Earth days."
+  },
+  {
+   "id": null,
+   "Name": "Venus",
+   "Description": "About 465 °C",
+   "Category": "Planets - Average Surface Temperature (Hot to Cold)",
+   "action": "add",
+   "note": "New card (debate): Hottest planet, mean about 464-465 °C."
+  },
+  {
+   "id": null,
+   "Name": "Mercury",
+   "Description": "About 167 °C",
+   "Category": "Planets - Average Surface Temperature (Hot to Cold)",
+   "action": "add",
+   "note": "New card (debate): Mean about 167 °C; suffix dropped for consistency."
+  },
+  {
+   "id": null,
+   "Name": "Earth",
+   "Description": "About 15 °C",
+   "Category": "Planets - Average Surface Temperature (Hot to Cold)",
+   "action": "add",
+   "note": "New card (debate): Well-known global mean."
+  },
+  {
+   "id": null,
+   "Name": "Mars",
+   "Description": "About -63 °C",
+   "Category": "Planets - Average Surface Temperature (Hot to Cold)",
+   "action": "add",
+   "note": "New card (debate): NASA fact sheet average is about -63 °C."
   }
  ]
 }
