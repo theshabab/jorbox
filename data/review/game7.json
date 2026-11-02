@@ -12589,14 +12589,14 @@
   },
   {
    "id": "game7-1145",
-   "Description": "she hates rainy mondays",
+   "Description": "she hates rainy Mondays but loves pakoras",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "she hates vermont!!",
     "Category": "Standard Prompts"
    },
-   "note": "US-local reference; Debate: Light clean-up that drops the double exclamation marks."
+   "note": "US-local reference; Debate: Light clean-up that drops the double exclamation marks.; Debate: Adds a local, drawable element to a bare line."
   },
   {
    "id": "game7-1146",
@@ -12745,12 +12745,12 @@
    "id": "game7-1159",
    "Description": "haven't we done enough work?",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "haven't we done enough working",
     "Category": "Standard Prompts"
    },
-   "note": "grammar"
+   "note": "Debate: Only a line of dialogue with no scene to draw."
   },
   {
    "id": "game7-1160",
@@ -12842,25 +12842,25 @@
   },
   {
    "id": "game7-1168",
-   "Description": "a pizza stuffing its crust",
+   "Description": "a paratha stuffing its own filling",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "a pizza stuffing its crust",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises the pizza; same joke."
   },
   {
    "id": "game7-1169",
    "Description": "honeeey, i'm fooooam!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "honeeey, i'm fooooam!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Film parody and not drawable."
   },
   {
    "id": "game7-1170",
@@ -13073,14 +13073,14 @@
   },
   {
    "id": "game7-1189",
-   "Description": "getting stuck on the log flume ride",
+   "Description": "getting stuck at the top of the mela giant swing",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "gettin stuck on the log flume",
     "Category": "Standard Prompts"
    },
-   "note": "Debate: Spelling fix, and 'ride' makes the meaning clear."
+   "note": "Debate: Spelling fix, and 'ride' makes the meaning clear.; Debate: Localises the Western log flume ride; still drawable."
   },
   {
    "id": "game7-1190",
@@ -13185,23 +13185,23 @@
    "id": "game7-1199",
    "Description": "sampling the... buffet of emotions",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "sampling the... buffet of emotions",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Abstract and not drawable."
   },
   {
    "id": "game7-1200",
-   "Description": "children are remixes of their parents",
+   "Description": "children are photocopies of their parents",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "children are remixes of their parents",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Remix is a music term; photocopies keeps the joke and is drawable. Not a duplicate of the photocopier card."
   },
   {
    "id": "game7-1201",
@@ -21533,6 +21533,20 @@
    "Category": "Friend Mode Prompts",
    "action": "add",
    "note": "New card (debate): Affectionate, relatable; token kept exactly."
+  },
+  {
+   "id": null,
+   "Description": "a lattu (spinning top) dizzy after too much spinning",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Traditional toy, drawable and funny. Uses the deck's 'lattu' spelling. The shawarma card uses a different object."
+  },
+  {
+   "id": null,
+   "Description": "the groom's shoes locked in a cupboard by the bride's cousins until he pays the ransom",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Juta chupai, with the custom stated correctly (the groom's shoes). No existing card covers it."
   }
  ]
 }

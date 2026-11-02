@@ -12113,6 +12113,60 @@
    "Name": "Coconut",
    "action": "add",
    "note": "New card (debate): Common concrete noun that is easy to act out and familiar locally. It is not in the slice or the review file, so it is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Tailor",
+   "action": "add",
+   "note": "New card (debate): Plain trade noun, drawable, fits the frame, not live."
+  },
+  {
+   "id": null,
+   "Name": "Taxi",
+   "action": "add",
+   "note": "New card (debate): Everyday noun, easy to act out, not live."
+  },
+  {
+   "id": null,
+   "Name": "Steam",
+   "action": "add",
+   "note": "New card (debate): Concrete noun, easy to act or draw."
+  },
+  {
+   "id": null,
+   "Name": "Tripod",
+   "action": "add",
+   "note": "New card (debate): Concrete drawable object."
+  },
+  {
+   "id": null,
+   "Name": "Sultan",
+   "action": "add",
+   "note": "New card (debate): Well-known title, fits the audience."
+  },
+  {
+   "id": null,
+   "Name": "Tribe",
+   "action": "add",
+   "note": "New card (debate): Clear group noun, no rule issues."
+  },
+  {
+   "id": null,
+   "Name": "Stitch",
+   "action": "add",
+   "note": "New card (debate): Concrete sewing term, easy to act out."
+  },
+  {
+   "id": null,
+   "Name": "Talent",
+   "action": "add",
+   "note": "New card (debate): Abstract noun, easy to describe; abstract nouns allowed."
+  },
+  {
+   "id": null,
+   "Name": "Uncle",
+   "action": "add",
+   "note": "New card (debate): Family noun that suits the audience. Chacha is a separate, more specific card, so this is not a true duplicate."
   }
  ]
 }

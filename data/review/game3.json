@@ -13537,6 +13537,22 @@
    "Category": "Drawing 2",
    "action": "add",
    "note": "New card (debate): Familiar monsoon image; decoy that duplicated the real picture replaced."
+  },
+  {
+   "id": null,
+   "Name": "A relative at a dawat asks you to lend them your phone charger and you only have one. You...",
+   "Description": "lend it and sit next to them|say yours is broken|lend it and forget to take it back",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Distinct low-stakes local dilemma with three clear options; not a duplicate of the spare-charger Rating card."
+  },
+  {
+   "id": null,
+   "Name": "You find a classmate's marked test paper on the floor and it shows a very low mark. You...",
+   "Description": "return it quietly|leave it there|show it to others",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version fixes the illogical 'before results' timing and gives three distinct options; differs from the science-fair data card."
   }
  ]
 }
