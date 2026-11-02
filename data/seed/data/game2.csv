@@ -717,7 +717,7 @@ Nusaybah,Uhud | Shield | Sahabiyah | Warrior | Umm Ammarah,Muslim Historical Fig
 Sultan Mehmed Fatih,Constantinople | Ottoman | Byzantine | Conqueror | Istanbul,Muslim Historical Figures
 Engineer,Muhandis | Bridge | Build | UET | Design,Occupations
 Nurse,Hospital | Injection | Doctor | Patient | Ward,Occupations
-Shopkeeper,Dukandar | Shop | Sell | Counter | Customer,Occupations
+Shopkeeper,Dukandar | Kiryana | Sell | Counter | Customer,Occupations
 Dentist,Teeth | Daant | Filling | Chair | Drill,Occupations
 Sadaqah,Charity | Give | Poor | Voluntary | Khairat,Islamic Terms
 Tahajjud,Night | Prayer | Wake | Nafl | Last Third,Islamic Terms
@@ -734,7 +734,7 @@ Mushroom,Khumbi | Umbrella | Fungus | White | Pizza,Vegetables
 Charpai,Bed | Rope | Village | Four Legs | Sleep,Furniture
 Abaya,Burqa | Black | Women | Long | Cover,Clothing
 Khussa,Shoes | Punjabi | Embroidered | Multan | Jutti,Clothing
-Peshawari Chappal,Sandal | Peshawar | Leather | Imran Khan | Pathan,Clothing
+Peshawari Chappal,Sandal | Khyber | Leather | Imran Khan | Pathan,Clothing
 Matka,Clay | Water | Pot | Cool | Ghara,Kitchen Items
 Mosquito,Machar | Bite | Dengue | Buzz | Blood,Animals
 Markhor,National Animal | Goat | Horns | Mountains | Chitral,Animals
@@ -755,12 +755,12 @@ Cable Car,Murree | Patriata | Wire | Hills | Ride,Transport
 Chalk,Blackboard | Teacher | Duster | White | Write,Stationery
 Geometry Box,Compass | Protractor | Set Square | Maths | Exam,Stationery
 Takhti,Wooden | Slate | Gaachni | Qalam | School,Stationery
-Eyebrow,Bhaun | Eye | Hair | Raise | Threading,Body Parts
+Eyebrow,Bhaun | Forehead | Hair | Raise | Threading,Body Parts
 Heart,Dil | Beat | Pump | Blood | Chest,Body Parts
 Generator,Loadshedding | Bijli | Petrol | Noise | Engine,Electronics
 UPS,Battery | Bijli | Backup | Beep | Loadshedding,Electronics
 Washing Machine,Kapray | Dhona | Spin | Surf | Laundry,Electronics
-Rainbow,Dhanak | Colors | Rain | Seven | Sky,Nature
+Rainbow,Dhanak | Colors | Sunshine | Seven | Sky,Nature
 Waterfall,Abshaar | Rocks | Swat | Height | Cliff,Nature
 Desert,Sehra | Sand | Thar | Camel | Hot,Nature
 Earthquake,Zalzala | Shake | Ground | 2005 | Building,Nature
@@ -778,12 +778,12 @@ Trowel,Karni | Cement | Mistri | Bricks | Plaster,Tools
 Umrah,Hajj | Makkah | Tawaf | Ihram | Pilgrimage,Islamic Terms
 Jummah,Friday | Khutbah | Namaz | Masjid | Weekly,Islamic Terms
 Taraweeh,Ramadan | Night | Namaz | Quran | Isha,Islamic Terms
-Laylat al-Qadr,Shab-e-Qadr | Ramadan | Night | Odd | Thousand Months,Islamic Terms
+Laylat al-Qadr,Ramadan | Odd | Thousand Months | Last Ten | Revelation,Islamic Terms
 Itikaf,Masjid | Ramadan | Last Ten | Stay | Seclusion,Islamic Terms
 Abu Dharr al-Ghifari,Ghifar | Alone | Rabadhah | Poor | Truthful,Sahaba
 Mus'ab ibn Umair,Ambassador | Madinah | Rich | Uhud | Flag,Sahaba
 Abu Ayyub al-Ansari,Host | Madinah | Camel | Istanbul | Ansar,Sahaba
-Masjid al-Qiblatain,Two | Qibla | Madinah | Direction | Jerusalem,Islamic Locations
+Masjid al-Qiblatain,Two | Kaaba | Madinah | Direction | Jerusalem,Islamic Locations
 Twins,Judwan | Two | Same | Born | Identical,Family Relations
 Qurbani,Bakra Eid | Sacrifice | Janwar | Gosht | Ibrahim,Islamic Terms
 Fajr,Dawn | Namaz | Subah | Alarm | Two Rakat,Islamic Terms
@@ -1232,3 +1232,9 @@ Miraj,Night | Heavens | Buraq | Isra | Prayers,Islamic Terms
 Ashura,Muharram | Tenth | Fast | Musa | Karbala,Islamic Terms
 Sirat,Bridge | Hell | Qiyamah | Cross | Jannah,Islamic Terms
 Rumi,Poet | Mathnawi | Konya | Turkey | Persian,Muslim Historical Figures
+Dr Abdul Qadeer Khan,Nuclear | Kahuta | Scientist | Chagai | Mohsin-e-Pakistan,Muslim Historical Figures
+Chaudhry Rahmat Ali,Pakistan | Cambridge | Pamphlet | 1933 | Now or Never,Muslim Historical Figures
+Goldsmith,Sonar | Zewar | Jewellery | Ring | Karat,Occupations
+Jamarat,Hajj | Stoning | Mina | Shaitan | Pebbles,Islamic Locations
+Shawwal,Tenth | Eid | Six Fasts | Month | Hijri,Islamic Terms
+Balushahi,Syrup | Flaky | Fried | Mithai | Round,Desserts

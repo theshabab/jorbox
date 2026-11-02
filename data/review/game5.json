@@ -51655,15 +51655,15 @@
   {
    "id": "game5-3974",
    "Name": "",
-   "Description": "None of us recognized that his subtle interest in ____ was really a terrible addiction.",
+   "Description": "None of us recognized that his subtle interest in ____ was really a terrible obsession.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "None of us recognized that his subtle interest in ____ was really a terrible addiction.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Obsession keeps the joke and avoids drug answers."
   },
   {
    "id": "game5-3975",
@@ -51707,15 +51707,15 @@
   {
    "id": "game5-3978",
    "Name": "",
-   "Description": "Not a good idea to do a science project on the effect of ____ on frogs.",
+   "Description": "Not a good idea to do a science project on the effect of ____ on plants.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Not a good idea to do a science project on the effect of ____ on frogs.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids animal cruelty, keeps the joke."
   },
   {
    "id": "game5-3979",
@@ -51967,28 +51967,28 @@
   {
    "id": "game5-3998",
    "Name": "",
-   "Description": "Nothing says \"I love you\" like ____.",
+   "Description": "Nothing says \"Sorry, Ammi\" like ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Nothing says \"I love you\" like ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Family apology frame replaces romance frame."
   },
   {
    "id": "game5-3999",
    "Name": "",
-   "Description": "Nothing says “fulfilling life-long commitment” like ____.",
+   "Description": "Nothing says \"I'm a loyal friend for life\" like ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Nothing says “fulfilling life-long commitment” like ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Friendship frame replaces marriage innuendo."
   },
   {
    "id": "game5-4000",
@@ -52138,13 +52138,13 @@
    "Name": "",
    "Description": "Now is the winter of our discontent, made glorious summer by ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Now is the winter of our discontent, made glorious summer by ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Obscure Shakespeare quote, unplayable for most players."
   },
   {
    "id": "game5-4012",
@@ -52242,13 +52242,13 @@
    "Name": "",
    "Description": "Now the Parliament is trying to take away a woman's right to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Now the Parliament is trying to take away a woman's right to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: US-style divisive prompt; a Parliament and rights card already exists."
   },
   {
    "id": "game5-4020",
@@ -52528,13 +52528,13 @@
    "Name": "",
    "Description": "Oh no! Here it comes! Ohhhhh! It's ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Oh no! Here it comes! Ohhhhh! It's ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Ambiguous and invites crude answers."
   },
   {
    "id": "game5-4042",
@@ -53046,7 +53046,7 @@
   {
    "id": "game5-4081",
    "Name": "",
-   "Description": "Once ____ touches your lips, it's so good.",
+   "Description": "Once ____ touches your tongue, it's so good.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -53054,7 +53054,7 @@
     "Description": "Once ____ hits your lips, it's so good.",
     "Category": ""
    },
-   "note": "Wording"
+   "note": "Wording; Debate: Removes lips innuendo."
   },
   {
    "id": "game5-4082",
@@ -53113,13 +53113,13 @@
    "Name": "",
    "Description": "One ____, two ____, red ____, blue ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "One ____, two ____, red ____, blue ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Western Dr. Seuss reference and weak."
   },
   {
    "id": "game5-4087",
@@ -53438,13 +53438,13 @@
    "Name": "",
    "Description": "Only invoke ____ if you are ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Only invoke ____ if you are ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Unclear wording, suggests religious invocation."
   },
   {
    "id": "game5-4112",
@@ -53475,15 +53475,15 @@
   {
    "id": "game5-4114",
    "Name": "",
-   "Description": "Only you can prevent ____.",
+   "Description": "Only you can prevent ____ in our mohalla.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Only you can prevent ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Localises the US slogan; the other copy is already removed."
   },
   {
    "id": "game5-4115",
@@ -54036,26 +54036,26 @@
    "Name": "",
    "Description": "People don't ask this question, but isn't ____ a form of healthcare?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "People don't ask this question, but isn't ____ a form of healthcare?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Invites drug and alcohol answers and cannot be fixed with a small edit."
   },
   {
    "id": "game5-4158",
    "Name": "",
-   "Description": "People have started eating ____ because it's organic and gluten-free.",
+   "Description": "People have started eating ____ because it's organic and sugar-free.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "People have started eating ____ because it's organic and gluten-free.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Sugar-free is more relatable locally."
   },
   {
    "id": "game5-4159",
@@ -54255,15 +54255,15 @@
   {
    "id": "game5-4174",
    "Name": "",
-   "Description": "Please don't put ____ in your mouth.",
+   "Description": "Please don't put ____ in the biryani.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Please don't put ____ in your mouth.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes the 'in your mouth' innuendo and keeps the warning-sign joke."
   },
   {
    "id": "game5-4175",
@@ -54567,15 +54567,15 @@
   {
    "id": "game5-4198",
    "Name": "",
-   "Description": "BILAWAL BHUTTO CAUGHT IN ____ SCANDAL",
+   "Description": "BILAWAL BHUTTO SPOTTED WITH ____ AT THE JALSA",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "BILAWAL BHUTTO CAUGHT IN ____ SCANDAL",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Keeps the allowed named-politician joke without scandal framing."
   },
   {
    "id": "game5-4199",
@@ -55037,13 +55037,13 @@
    "Name": "",
    "Description": "Pakola and ____ destroyed this sailor's life!",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Pakola and ____ destroyed this Sailor's life!",
     "Category": ""
    },
-   "note": "capitalisation"
+   "note": "Debate: Unclear Popeye-style reference."
   },
   {
    "id": "game5-4235",
@@ -55089,13 +55089,13 @@
    "Name": "",
    "Description": "Ranjha, Ranjha! Wherefore art thou ____?",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Ranjha, Ranjha! Wherefore art thou ____?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Romance mash-up and obscure."
   },
   {
    "id": "game5-4239",
@@ -55401,13 +55401,13 @@
    "Name": "",
    "Description": "Say it loud! I'm ____ and I'm proud!",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Say it loud! I'm ____ and I'm proud!",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Western pride slogan inviting identity answers."
   },
   {
    "id": "game5-4263",
@@ -55685,7 +55685,7 @@
   {
    "id": "game5-4284",
    "Name": "",
-   "Description": "Seriously considering giving up ____ as it's starting to take over your life.",
+   "Description": "Seriously considering giving up ____ as it's starting to take over your weekends.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -55693,7 +55693,7 @@
     "Description": "Seriously considering giving up____ as it's starting to take over your life.",
     "Category": ""
    },
-   "note": "spacing"
+   "note": "spacing; Debate: Removes the addiction and drug invitation."
   },
   {
    "id": "game5-4285",
@@ -105037,6 +105037,30 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Fresh gali sport prompt that is not cricket."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Announcement at the bus stand: the Lahore coach is delayed because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New local travel humour with no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My new SIM card came with a free offer for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable telecom humour with no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The mehndi artist ran out of henna, so she used ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean local mehndi-night humour with no duplicate."
   }
  ]
 }

@@ -9811,10 +9811,10 @@
   {
    "id": null,
    "Name": "Shopkeeper",
-   "Description": "Dukandar | Shop | Sell | Counter | Customer",
+   "Description": "Dukandar | Kiryana | Sell | Counter | Customer",
    "Category": "Occupations",
    "action": "add",
-   "note": "New card"
+   "note": "New card; Debate: Clue 'Shop' is part of the answer."
   },
   {
    "id": null,
@@ -9947,10 +9947,10 @@
   {
    "id": null,
    "Name": "Peshawari Chappal",
-   "Description": "Sandal | Peshawar | Leather | Imran Khan | Pathan",
+   "Description": "Sandal | Khyber | Leather | Imran Khan | Pathan",
    "Category": "Clothing",
    "action": "add",
-   "note": "New card (debate): Famous local footwear (as challenger amended), without banning both Kaptaan and Imran Khan, which are the same association."
+   "note": "New card (debate): Famous local footwear (as challenger amended), without banning both Kaptaan and Imran Khan, which are the same association.; Debate: Clue 'Peshawar' is a substring of 'Peshawari'."
   },
   {
    "id": null,
@@ -10115,10 +10115,10 @@
   {
    "id": null,
    "Name": "Eyebrow",
-   "Description": "Bhaun | Eye | Hair | Raise | Threading",
+   "Description": "Bhaun | Forehead | Hair | Raise | Threading",
    "Category": "Body Parts",
    "action": "add",
-   "note": "New card (debate): Basic body part that is missing from the deck."
+   "note": "New card (debate): Basic body part that is missing from the deck.; Debate: Banned word 'Eye' is inside the answer."
   },
   {
    "id": null,
@@ -10155,10 +10155,10 @@
   {
    "id": null,
    "Name": "Rainbow",
-   "Description": "Dhanak | Colors | Rain | Seven | Sky",
+   "Description": "Dhanak | Colors | Sunshine | Seven | Sky",
    "Category": "Nature",
    "action": "add",
-   "note": "New card (debate): Classic nature word; not a card in the deck."
+   "note": "New card (debate): Classic nature word; not a card in the deck.; Debate: 'Rain' is inside the answer; Sunshine is a natural replacement."
   },
   {
    "id": null,
@@ -10299,10 +10299,10 @@
   {
    "id": null,
    "Name": "Laylat al-Qadr",
-   "Description": "Shab-e-Qadr | Ramadan | Night | Odd | Thousand Months",
+   "Description": "Ramadan | Odd | Thousand Months | Last Ten | Revelation",
    "Category": "Islamic Terms",
    "action": "add",
-   "note": "New card (debate): Widely known and missing from the deck. The facts are accurate (97:3)."
+   "note": "New card (debate): Widely known and missing from the deck. The facts are accurate (97:3).; Debate: Clue 'Shab-e-Qadr' contains 'Qadr' from the answer."
   },
   {
    "id": null,
@@ -10339,10 +10339,10 @@
   {
    "id": null,
    "Name": "Masjid al-Qiblatain",
-   "Description": "Two | Qibla | Madinah | Direction | Jerusalem",
+   "Description": "Two | Kaaba | Madinah | Direction | Jerusalem",
    "Category": "Islamic Locations",
    "action": "add",
-   "note": "New card (debate): Well-known Madinah landmark linked to the change of qibla."
+   "note": "New card (debate): Well-known Madinah landmark linked to the change of qibla.; Debate: 'Qibla' is inside the answer; Kaaba is accurate and not in the name."
   },
   {
    "id": null,
@@ -13927,6 +13927,54 @@
    "Category": "Muslim Historical Figures",
    "action": "add",
    "note": "New card (debate): Challenger's amended version replaces obscure 'Mevlevi' with 'Turkey'."
+  },
+  {
+   "id": null,
+   "Name": "Dr Abdul Qadeer Khan",
+   "Description": "Nuclear | Kahuta | Scientist | Chagai | Mohsin-e-Pakistan",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani figure, accurate clues, no duplicate in game2.json."
+  },
+  {
+   "id": null,
+   "Name": "Chaudhry Rahmat Ali",
+   "Description": "Pakistan | Cambridge | Pamphlet | 1933 | Now or Never",
+   "Category": "Muslim Historical Figures",
+   "action": "add",
+   "note": "New card (debate): Challenger's sharper factual clues preferred over vague Name/Student."
+  },
+  {
+   "id": null,
+   "Name": "Goldsmith",
+   "Description": "Sonar | Zewar | Jewellery | Ring | Karat",
+   "Category": "Occupations",
+   "action": "add",
+   "note": "New card (debate): Useful occupation; 'Gold' clue is part of the answer so replaced with Zewar."
+  },
+  {
+   "id": null,
+   "Name": "Jamarat",
+   "Description": "Hajj | Stoning | Mina | Shaitan | Pebbles",
+   "Category": "Islamic Locations",
+   "action": "add",
+   "note": "New card (debate): Hajj site not in the deck; accurate clues; Mina card only mentions it as a clue."
+  },
+  {
+   "id": null,
+   "Name": "Shawwal",
+   "Description": "Tenth | Eid | Six Fasts | Month | Hijri",
+   "Category": "Islamic Terms",
+   "action": "add",
+   "note": "New card (debate): Missing Islamic month; accurate clues."
+  },
+  {
+   "id": null,
+   "Name": "Balushahi",
+   "Description": "Syrup | Flaky | Fried | Mithai | Round",
+   "Category": "Desserts",
+   "action": "add",
+   "note": "New card (debate): Popular Pakistani mithai not in the deck."
   }
  ]
 }

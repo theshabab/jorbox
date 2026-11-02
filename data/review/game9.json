@@ -13357,6 +13357,34 @@
    "Description": "Al-Kindi",
    "action": "add",
    "note": "New card (debate): Accurate; not in deck; deck field order."
+  },
+  {
+   "id": null,
+   "Name": "Which famous structure at Mohenjo-daro is thought to have been a public bathing pool?",
+   "Description": "The Great Bath",
+   "action": "add",
+   "note": "New card (debate): Accurate, hedged, Pakistani heritage; no overlap with the existing Mohenjo-daro civilization card."
+  },
+  {
+   "id": null,
+   "Name": "Which angel is to blow the Trumpet (Sur) on the Day of Judgment?",
+   "Description": "Israfil (AS)",
+   "action": "add",
+   "note": "New card (debate): Well-established belief; no Israfil card exists in the live deck."
+  },
+  {
+   "id": null,
+   "Name": "Which fortified oasis north of Madinah was conquered by the Muslims in 7 AH, where Ali (RA) is remembered for his bravery?",
+   "Description": "Khaybar",
+   "action": "add",
+   "note": "New card (debate): Accurate seerah fact; no Khaybar card in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Which night prayer, with an odd number of rakats, is prayed after Isha?",
+   "Description": "Witr",
+   "action": "add",
+   "note": "New card (debate): Common household knowledge; the only similar card (Tahajjud) has a different answer."
   }
  ]
 }
