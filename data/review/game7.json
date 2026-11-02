@@ -3019,14 +3019,14 @@
   },
   {
    "id": "game7-275",
-   "Description": "bald eagle with a bad toupee",
+   "Description": "a vulture with a bad wig",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "bald eagle with a bad toupee",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises US-centric bald eagle; joke kept."
   },
   {
    "id": "game7-276",
@@ -3052,25 +3052,25 @@
   },
   {
    "id": "game7-278",
-   "Description": "aliens roasting corn around a campfire",
+   "Description": "aliens roasting bhutta over an angeethi",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "aliens roasting weenies round a campfire",
     "Category": "Standard Prompts"
    },
-   "note": "hot dogs (pork)"
+   "note": "hot dogs (pork); Debate: Clean local, drawable version."
   },
   {
    "id": "game7-279",
-   "Description": "eggplant gliding across a frozen lake",
+   "Description": "baingan gliding across a frozen lake",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "eggplant gliding across a frozen lake",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Local and avoids the emoji reading."
   },
   {
    "id": "game7-280",
@@ -3252,12 +3252,12 @@
    "id": "game7-296",
    "Description": "scotland, with hands",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "scotland, with hands",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Unclear, no recognisable image."
   },
   {
    "id": "game7-297",
@@ -3283,14 +3283,14 @@
   },
   {
    "id": "game7-299",
-   "Description": "tea party",
+   "Description": "bears having a chai party in a tiny tent",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "tea party",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Vague tea party made specific and local."
   },
   {
    "id": "game7-300",
@@ -3384,12 +3384,12 @@
    "id": "game7-308",
    "Description": "laughing it up with my best friends",
    "Category": "Standard Prompts",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Description": "yuckin' it up with my best bros",
     "Category": "Standard Prompts"
    },
-   "note": "clarified slang"
+   "note": "Debate: Generic, nothing specific to draw."
   },
   {
    "id": "game7-309",
@@ -3789,14 +3789,14 @@
   },
   {
    "id": "game7-345",
-   "Description": "personal injuring lawyer",
+   "Description": "personal injuring vakeel",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "personal injuring lawyer",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Keeps pun, localised."
   },
   {
    "id": "game7-346",
@@ -3835,12 +3835,12 @@
    "id": "game7-349",
    "Description": "an artistic masterpiece",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Description": "an artistic masterpiece",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Generic, nothing to draw or bluff."
   },
   {
    "id": "game7-350",
@@ -21323,6 +21323,48 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Challenger's amended version: more visual than a long story, and distinct from the existing barber cards."
+  },
+  {
+   "id": null,
+   "Description": "an uncle fixing the TV by thumping the side of it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct, funny, drawable local scene."
+  },
+  {
+   "id": null,
+   "Description": "a vakeel arguing his case before a jury of pigeons",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No court card exists; funny and drawable."
+  },
+  {
+   "id": null,
+   "Description": "a dhunai wala fluffing a cloud into a quilt",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Fresh local trade, whimsical image."
+  },
+  {
+   "id": null,
+   "Description": "a mushaira where every poet is reciting about chai",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct local scene; poetry, not music."
+  },
+  {
+   "id": null,
+   "Description": "a gas cylinder in a sherwani arriving at the baraat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct absurd wedding image."
+  },
+  {
+   "id": null,
+   "Description": "a torch that only works when you thump it",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): No torch card; relatable and simple."
   }
  ]
 }

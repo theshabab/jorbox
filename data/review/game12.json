@@ -11915,6 +11915,42 @@
    "Name": "Scholarship",
    "action": "add",
    "note": "New card (debate): Relatable school noun not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Arafat",
+   "action": "add",
+   "note": "New card (debate): Hajj place, allowed, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Groom",
+   "action": "add",
+   "note": "New card (debate): Completes the wedding pair with live Bride."
+  },
+  {
+   "id": null,
+   "Name": "Router",
+   "action": "add",
+   "note": "New card (debate): Distinct concrete household tech object, not a duplicate of WiFi."
+  },
+  {
+   "id": null,
+   "Name": "Canal",
+   "action": "add",
+   "note": "New card (debate): Clear concrete noun, absent, distinct from River and Dam."
+  },
+  {
+   "id": null,
+   "Name": "Dune",
+   "action": "add",
+   "note": "New card (debate): Absent, drawable, distinct from Sand and Desert."
+  },
+  {
+   "id": null,
+   "Name": "Quran",
+   "action": "add",
+   "note": "New card (debate): Central Islamic noun, absent from deck, worship-related items allowed."
   }
  ]
 }

@@ -3281,9 +3281,9 @@
   },
   {
    "id": null,
-   "Description": "Islamic Greetings and Phrases",
+   "Description": "Islamic Greetings and Phrases (Assalamu Alaikum, JazakAllah, MashaAllah...)",
    "action": "add",
-   "note": "New card (debate): Distinct from Islamic Terms (42) and Occasions When We Say a Dua (386). Every player knows many accurate answers (Assalamu Alaikum, MashaAllah, InshaAllah, JazakAllah, SubhanAllah, Alhamdulillah, Astaghfirullah)."
+   "note": "New card (debate): Distinct from Islamic Terms (42) and Occasions When We Say a Dua (386). Every player knows many accurate answers (Assalamu Alaikum, MashaAllah, InshaAllah, JazakAllah, SubhanAllah, Alhamdulillah, Astaghfirullah).; Debate: Examples clarify scope and distinguish it from Islamic Terms; accurate and respectful."
   },
   {
    "id": null,
@@ -3485,9 +3485,9 @@
   },
   {
    "id": null,
-   "Description": "Things That Come From Animals",
+   "Description": "Things That Come From Animals (Milk, Wool, Honey...)",
    "action": "add",
-   "note": "New card (debate): An everyday category with plenty of answers (milk, eggs, wool, leather, honey, silk, ghee, dahi, feathers, pearls), and nothing like it is in the deck."
+   "note": "New card (debate): An everyday category with plenty of answers (milk, eggs, wool, leather, honey, silk, ghee, dahi, feathers, pearls), and nothing like it is in the deck.; Debate: Bare card was vague; examples steer to products and separate it from Made of Leather and Animals That Lay Eggs."
   },
   {
    "id": null,
@@ -3581,9 +3581,9 @@
   },
   {
    "id": null,
-   "Description": "Pakistani Cities and the Food They Are Famous For",
+   "Description": "Foods Pakistani Cities Are Famous For (Sohan Halwa, Chapli Kebab...)",
    "action": "add",
-   "note": "New card (debate): Very local, and players know many pairs (Multan sohan halwa, Peshawar chapli kebab, Sargodha kinnu, Hyderabad rabri, Gujranwala paye, Kasur methi). Not in the deck."
+   "note": "New card (debate): Very local, and players know many pairs (Multan sohan halwa, Peshawar chapli kebab, Sargodha kinnu, Hyderabad rabri, Gujranwala paye, Kasur methi). Not in the deck.; Debate: Original needed a two-part answer (city plus food); this is a single-answer list. Challenger's wording is cleaner; both examples are real city foods (Multan, Peshawar)."
   },
   {
    "id": null,
@@ -5024,6 +5024,54 @@
    "Description": "Things That Have Ears",
    "action": "add",
    "note": "New card (debate): Playful lateral category with plenty of everyday answers; matches the Teeth and Tail cards."
+  },
+  {
+   "id": null,
+   "Description": "Things You Do in the Evening",
+   "action": "add",
+   "note": "New card (debate): Not a duplicate of morning, night, bedtime or getting-home cards; many easy answers."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Thick",
+   "action": "add",
+   "note": "New card (debate): Fills a gap among adjective cards; many easy answers."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Thin",
+   "action": "add",
+   "note": "New card (debate): Pairs with Thick; plenty of answers."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Triangular",
+   "action": "add",
+   "note": "New card (debate): Completes the shapes family (Square exists, no triangle); enough answers."
+  },
+  {
+   "id": null,
+   "Description": "Things That Are Dry",
+   "action": "add",
+   "note": "New card (debate): Opposite of Things That Are Wet (idx 426), which is not a duplicate; easy answers."
+  },
+  {
+   "id": null,
+   "Description": "Excuses for Not Attending a Wedding",
+   "action": "add",
+   "note": "New card (debate): Fits the excuses family, distinct from leaving a dawat early and being late; relatable and clean."
+  },
+  {
+   "id": null,
+   "Description": "Things Kids Beg Their Parents to Buy",
+   "action": "add",
+   "note": "New card (debate): Fun, relatable, many answers; distinct from Things Kids Collect and Eidi spending."
+  },
+  {
+   "id": null,
+   "Description": "Things You Say to Politely Refuse More Food at a Dawat",
+   "action": "add",
+   "note": "New card (debate): Distinctly local hospitality humour with many answers; wording long but clear."
   }
  ]
 }
