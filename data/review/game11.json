@@ -9067,6 +9067,34 @@
    "Description": "I'm fasting and the whole street smells of fried _____!",
    "action": "add",
    "note": "New card (debate): Amended version has a tight food-noun blank, distinct from the existing roza cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The daal at the dawat is always cold by the time I get to _____!",
+   "action": "add",
+   "note": "New card (debate): Local dawat food complaint with an open blank; no card covers cold food."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "The Metro bus was so crowded that I had to hold my _____ above my head!",
+   "action": "add",
+   "note": "New card (debate): Accepted the challenger's amendment: the open blank avoids repeating the seat and crowded cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I put on my Eid kurta and realised it smells like _____!",
+   "action": "add",
+   "note": "New card (debate): Fresh Eid clothes angle (smell), distinct from the darzi, joray and Eidi cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My mobile cover always has _____ stuck inside it!",
+   "action": "add",
+   "note": "New card (debate): Accepted the challenger's amendment: it drops the stash connotation and keeps the blank open."
   }
  ]
 }

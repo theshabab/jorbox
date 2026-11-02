@@ -2491,14 +2491,14 @@
   },
   {
    "id": "game14-227",
-   "Description": "How good are you at tying a tie?",
+   "Description": "How good are you at tying a tie without watching a video?",
    "Category": "0 to 100",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "How good are you at tying a tie?",
     "Category": "0 to 100"
    },
-   "note": ""
+   "note": "Debate: Challenger's tightened version; adds a funny, relatable hook without redundancy."
   },
   {
    "id": "game14-228",
@@ -7727,6 +7727,34 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Fits cricket theme; not a duplicate of lost-balls card."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to rage-quit a video game after losing?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Unique, fits 0 to 100, video games allowed; existing cards cover gaming weekends and road rage only."
+  },
+  {
+   "id": null,
+   "Description": "How many Pakistan cricket team shirts or jerseys do you own?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No jersey card exists; local cricket theme, anyone can answer."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to argue with a friend about who is the greatest cricketer of all time?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct from the gully-rules argument card; relatable local debate."
+  },
+  {
+   "id": null,
+   "Description": "How many online friends do you have whom you have never met in person?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Not in deck; social media/gaming allowed; answerable by anyone including 0."
   }
  ]
 }

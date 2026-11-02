@@ -6770,9 +6770,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you how many rakats are in Fajr.",
+   "Description": "Get a player to tell you how many fard rakats there are in Fajr.",
    "action": "add",
-   "note": "New card (debate): Worship questions are allowed by the owner. Fajr has 2 fard rakats, so it is accurate. It is distinct from the existing Maghrib rakats card, which asks about a different prayer."
+   "note": "New card (debate): Worship questions are allowed by the owner. Fajr has 2 fard rakats, so it is accurate. It is distinct from the existing Maghrib rakats card, which asks about a different prayer.; Debate: Removes ambiguity (2 fard vs 4 with sunnah) and matches Maghrib wording."
   },
   {
    "id": null,
@@ -6969,8 +6969,8 @@
   {
    "id": null,
    "Description": "Get a player to correct your pronunciation of 'Sialkot'.",
-   "action": "add",
-   "note": "New card (debate): Local city pronunciation card; the existing Sialkot card is a different (poetry) ask."
+   "action": "remove",
+   "note": "Debate: Vague and hard to trigger naturally; nearly unplayable."
   },
   {
    "id": null,
@@ -7064,9 +7064,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you Pakistan's national tree, the deodar.",
+   "Description": "Get a player to tell you the name of Pakistan's national tree.",
    "action": "add",
-   "note": "New card (debate): Accurate, and no national tree card exists."
+   "note": "New card (debate): Accurate, and no national tree card exists.; Debate: Clear question form; deodar is correct."
   },
   {
    "id": null,
@@ -7151,6 +7151,48 @@
    "Description": "Get a player to tell you the first word revealed to the Prophet (peace be upon him) in the cave of Hira.",
    "action": "add",
    "note": "New card (debate): Accurate (Iqra); challenger's clean wording; not a duplicate of the Hira card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many fard rakats there are in Isha.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording; 4 fard, matches Maghrib card; no Isha card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you their favourite hill station to visit in summer, like Murree, Naran or Swat.",
+   "action": "add",
+   "note": "New card (debate): Relatable local travel topic, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what they love most about nihari or paye at a weekend breakfast.",
+   "action": "add",
+   "note": "New card (debate): Food-memory card; paye not covered, distinct from the say-Nihari card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you in which Islamic month the fast of Ashura is observed.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Muharram), not covered."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many rakats of Tarawih are prayed at the mosque they go to in Ramadan.",
+   "action": "add",
+   "note": "New card (debate): Challenger's personal framing avoids 8 vs 20 dispute."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which river flows through Lahore.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Ravi), easy local geography, minor overlap only."
+  },
+  {
+   "id": null,
+   "Description": "Claim that the Badshahi Mosque is in Islamabad and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Accurate false claim (it is in Lahore); fits claim-and-correct pattern."
   }
  ]
 }
