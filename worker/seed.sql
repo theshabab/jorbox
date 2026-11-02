@@ -1273,6 +1273,13 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1271','game1','Padlock','Metal lock with a key for shop shutters (Taala)','Tools');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1272','game1','Drought','Long dry spell with no rain that ruins crops','Nature');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1273','game1','Cliff','Steep rocky edge where the ground drops away','Nature');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1274','game1','Dajjal','One-eyed deceiver foretold before the end of time','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1275','game1','Munkar Nakir','Two angels who question the dead in the grave','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1276','game1','Kawthar','River in Jannah given to the Prophet','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1277','game1','Shirk','Associating partners with Allah, the gravest sin','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1278','game1','Tawheed','Belief in the oneness of Allah','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1279','game1','Kafan','White cloth a body is wrapped in for burial','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-1280','game1','Eidgah','Open ground where Eid prayers are offered','Islamic Locations');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game2','Charades (Banned Words)',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-1','game2','Karachi','Sea | Quaid | Sindh | Port | Biggest','Pakistani Cities');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game2-2','game2','Lahore','Minar-e-Pakistan | Badshahi Mosque | Punjab | Zinda Dilan | Anarkali','Pakistani Cities');
