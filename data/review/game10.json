@@ -6960,8 +6960,8 @@
   {
    "id": null,
    "Name": "Name a famous Muslim city outside Pakistan, other than Makkah and Madinah.",
-   "action": "add",
-   "note": "New card (debate): Wider Muslim world, familiar cities."
+   "action": "remove",
+   "note": "Debate: Near-duplicate of live card 822 (a city famous for Muslim learning or history); the same answers fit both. 822 is confirmed live in game10.json."
   },
   {
    "id": null,
@@ -7490,6 +7490,36 @@
    "Name": "Name something people do to stay awake after sehri.",
    "action": "add",
    "note": "New card (debate): Ramazan card with shared answers; distinct from the sehri food and sound cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do to get ready for Jumu'ah.",
+   "action": "add",
+   "note": "New card (debate): No Friday prayer card exists; the answers are accurate and common."
+  },
+  {
+   "id": null,
+   "Name": "Name something you hear in the masjid on Friday.",
+   "action": "add",
+   "note": "New card (debate): The Friday framing is distinct enough from the other masjid cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something people sit on besides a sofa or chair.",
+   "action": "add",
+   "note": "New card (debate): Strong local answers (charpai, moorha, floor, carpet) and no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do to keep your phone battery from dying.",
+   "action": "add",
+   "note": "New card (debate): Asks for solutions, so it differs from the existing battery cause cards."
+  },
+  {
+   "id": null,
+   "Name": "Name a place where you take off your shoes before entering.",
+   "action": "add",
+   "note": "New card (debate): Common Pakistani etiquette; no existing card covers it."
   }
  ]
 }

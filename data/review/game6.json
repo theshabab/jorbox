@@ -4601,9 +4601,9 @@
   },
   {
    "id": null,
-   "Description": "Masala, Cooking Oil and Ghee Brands",
+   "Description": "Masala, Cooking Oil and Ghee Brands (National, Shan, Dalda...)",
    "action": "add",
-   "note": "New card (debate): Challenger's widened version gives 10+ answers and is distinct from the Spice Mixes card."
+   "note": "New card (debate): Challenger's widened version gives 10+ answers and is distinct from the Spice Mixes card.; Debate: Examples make the mixed three-part category clear; real Pakistani brands; card is live in the slice."
   },
   {
    "id": null,
@@ -5108,6 +5108,60 @@
    "Description": "Ways to Save Electricity (Switch Off Fan, Use LED...)",
    "action": "add",
    "note": "New card (debate): Relevant to Pakistani bills, distinct from save money and electricity cards."
+  },
+  {
+   "id": null,
+   "Description": "Things You Lock (Door, Almari, Bike, Phone...)",
+   "action": "add",
+   "note": "New card (debate): Not in deck, many easy answers."
+  },
+  {
+   "id": null,
+   "Description": "Things You Grind (Masala, Wheat, Haldi, Chutney...)",
+   "action": "add",
+   "note": "New card (debate): Not in deck, local kitchen frame, large answer pool."
+  },
+  {
+   "id": null,
+   "Description": "Things You Catch (Ball, Bus, Cold, Thief...)",
+   "action": "add",
+   "note": "New card (debate): Not in deck, wide answer pool."
+  },
+  {
+   "id": null,
+   "Description": "Things You Listen To (Azaan, Quran Recitation, News, Radio...)",
+   "action": "add",
+   "note": "New card (debate): Intentional listening differs from the place/time-based Hear cards; local, guessable answers."
+  },
+  {
+   "id": null,
+   "Description": "Things That Burn (Wood, Candle, Coal, Loban...)",
+   "action": "add",
+   "note": "New card (debate): No burn/fire card in deck; plentiful answers."
+  },
+  {
+   "id": null,
+   "Description": "Things That Ring (Phone, Doorbell, Alarm, School Bell...)",
+   "action": "add",
+   "note": "New card (debate): Specific enough to differ from Make Noise and Wake You Up."
+  },
+  {
+   "id": null,
+   "Description": "Things You Sit On (Chair, Charpai, Sofa, Moorha...)",
+   "action": "add",
+   "note": "New card (debate): No sitting card in deck; big local pool."
+  },
+  {
+   "id": null,
+   "Description": "Things You Carry in a Handbag or Backpack (Wallet, Keys, Tissues, Tasbeeh...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended bag frame avoids overlap with the pocket and packing cards. Types of Bags (idx 675) is about bag kinds, not contents."
+  },
+  {
+   "id": null,
+   "Description": "Things You Wrap (Gift, Parcel, Roti, Shawl...)",
+   "action": "add",
+   "note": "New card (debate): Not in deck; completes the verb run with distinct actions from Tie."
   }
  ]
 }
