@@ -11951,6 +11951,42 @@
    "Name": "Quran",
    "action": "add",
    "note": "New card (debate): Central Islamic noun, absent from deck, worship-related items allowed."
+  },
+  {
+   "id": null,
+   "Name": "Cardamom",
+   "action": "add",
+   "note": "New card (debate): Common elaichi spice, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Saffron",
+   "action": "add",
+   "note": "New card (debate): Familiar from kheer and biryani, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Turmeric",
+   "action": "add",
+   "note": "New card (debate): Everyday haldi, easy to describe, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "Sincerity",
+   "action": "add",
+   "note": "New card (debate): Distinct abstract noun (ikhlas), no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Sacrifice",
+   "action": "add",
+   "note": "New card (debate): Broader than Qurbani; acceptable and distinct."
+  },
+  {
+   "id": null,
+   "Name": "Student",
+   "action": "add",
+   "note": "New card (debate): Common person noun, distinct from Teacher."
   }
  ]
 }

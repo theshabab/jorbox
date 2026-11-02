@@ -448,20 +448,20 @@
   {
    "id": "game3-35",
    "Name": "Historical Figures",
-   "Description": "Quaid e Azam|Allama Iqbal|Sir Syed Ahmed Khan|Liaquat Ali Khan|Fatima Jinnah|Tipu Sultan|Muhammad Bin Qasim|Mahmood Ghaznavi|Aurangzeb|Akbar|Babur|Shah Jahan|Jahangir|Humayun|Sher Shah Suri|Ranjit Singh|Alexander|Genghis Khan|Salahuddin Ayubi|Tariq Bin Ziyad",
+   "Description": "Quaid e Azam|Allama Iqbal|Sir Syed Ahmed Khan|Liaquat Ali Khan|Fatima Jinnah|Tipu Sultan|Muhammad Bin Qasim|Mahmood Ghaznavi|Aurangzeb|Akbar|Babur|Shah Jahan|Jahangir|Humayun|Sher Shah Suri|Ranjit Singh|Alexander the Great|Genghis Khan|Salahuddin Ayubi|Tariq Bin Ziyad",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Historical Figures",
     "Description": "Quaid e Azam|Allama Iqbal|Sir Syed Ahmed Khan|Liaquat Ali Khan|Fatima Jinnah|Tipu Sultan|Muhammad Bin Qasim|Mahmood Ghaznavi|Aurangzeb|Akbar|Babur|Shah Jahan|Jahangir|Humayun|Sher Shah Suri|Ranjit Singh|Alexander|Genghis Khan|Salahuddin Ayubi|Tariq Bin Ziyad",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Bare 'Alexander' is ambiguous; use the full well-known name."
   },
   {
    "id": "game3-36",
    "Name": "Islamic Scholars",
-   "Description": "Tariq Jameel|Zakir Naik|Israr Ahmed|Taqi Usmani|Maulana Maududi|Tahir ul Qadri|Ilyas Qadri|Imam Bukhari|Imam Abu Hanifa|Mufti Menk|Nouman Ali Khan|Yasir Qadhi|Omar Suleiman|Hamza Yusuf|Bilal Philips|Imam Shafi|Ahmed Deedat|Imam Malik|Imam Ghazali|Assim Al-Hakeem",
+   "Description": "Tariq Jameel|Zakir Naik|Israr Ahmed|Taqi Usmani|Maulana Maududi|Tahir ul Qadri|Ilyas Qadri|Imam Bukhari|Imam Abu Hanifa|Mufti Menk|Nouman Ali Khan|Yasir Qadhi|Omar Suleiman|Hamza Yusuf|Bilal Philips|Imam Shafi|Ahmed Deedat|Imam Malik|Imam Ghazali|Farhat Hashmi",
    "Category": "",
    "action": "edit",
    "original": {
@@ -469,7 +469,7 @@
     "Description": "Tariq Jameel|Zakir Naik|Israr Ahmed|Taqi Usmani|Maududi|Tahul Qadri|Ilyas Qadri|Saeed Anwar|Junaid Jamshed|Mufti Menk|Nouman Ali Khan|Yasir Qadhi|Omar Suleiman|Hamza Yusuf|Bilal Philips|Yusuf Estes|Ahmed Deedat|Shabir Ally|Haitham al-Haddad|Assim Al-Hakeem",
     "Category": ""
    },
-   "note": "fixed Tahir ul Qadri spelling; Saeed Anwar/Junaid Jamshed are not scholars; obscure name replaced; Debate: Yusuf Estes and Shabir Ally are little known in Pakistan; replaced with Imam Shafi and Imam Malik"
+   "note": "fixed Tahir ul Qadri spelling; Saeed Anwar/Junaid Jamshed are not scholars; obscure name replaced; Debate: Yusuf Estes and Shabir Ally are little known in Pakistan; replaced with Imam Shafi and Imam Malik; Debate: Assim Al-Hakeem is obscure for Pakistani players; Farhat Hashmi is widely known locally."
   },
   {
    "id": "game3-37",
@@ -513,7 +513,7 @@
   {
    "id": "game3-40",
    "Name": "Masjids in Pakistan",
-   "Description": "Faisal Masjid|Badshahi Masjid|Wazir Khan Masjid|Moti Masjid|Shah Jahan Masjid|Tooba Masjid|Mahabat Khan Masjid|Sunehri Masjid|Dai Anga Masjid|Bhong Masjid|Abbasi Masjid|Lal Masjid|New Memon Masjid|Masjid e Shuhada|Grand Jamia Masjid Bahria Town",
+   "Description": "Faisal Masjid|Badshahi Masjid|Wazir Khan Masjid|Moti Masjid|Shah Jahan Masjid|Tooba Masjid|Mahabat Khan Masjid|Sunehri Masjid|Dai Anga Masjid|Bhong Masjid|Abbasi Masjid|Bait ul Mukarram Masjid|New Memon Masjid|Masjid e Shuhada|Grand Jamia Masjid Bahria Town",
    "Category": "",
    "action": "edit",
    "original": {
@@ -521,7 +521,7 @@
     "Description": "Faisal Masjid|Badshahi Masjid|Data Darbar|Wazir Khan Masjid|Moti Masjid|Shah Jahan Masjid|Tooba Masjid|Mahabat Khan Masjid|Sunehri Masjid|Dai Anga Masjid|Bhong Masjid|Kusumpura Masjid|Abbasi Masjid|Jamia Masjid|Lal Masjid|Memons Masjid|New Memon Masjid|Masjid e Shuhada|Masjid e Quba|Masjid e Nabawi",
     "Category": ""
    },
-   "note": "removed Quba/Nabawi (Madinah), Data Darbar (shrine), generic/obscure/duplicate entries"
+   "note": "removed Quba/Nabawi (Madinah), Data Darbar (shrine), generic/obscure/duplicate entries; Debate: Replace politically charged Lal Masjid with well-known Bait ul Mukarram of Karachi."
   },
   {
    "id": "game3-41",
@@ -617,7 +617,7 @@
   {
    "id": "game3-48",
    "Name": "Pashto Words",
-   "Description": "Pakhair|Manana|Kha|Zama|Sta|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Oba|Dodai|Khkulay|Tsanga Yee",
+   "Description": "Pakhair|Manana|Kha|Loya|Shpa|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Oba|Dodai|Khkulay|Tsanga Yee",
    "Category": "",
    "action": "edit",
    "original": {
@@ -625,7 +625,7 @@
     "Description": "Pakhair|Manana|Kha|Wro|Zama|Sta|Kor|Kali|Ghar|Sind|Mor|Plar|Wror|Khor|Zoy|Lur|Dost|Dushman|Jang|Aman",
     "Category": ""
    },
-   "note": "Debate: Dost, Dushman, Jang and Aman are everyday Urdu words. They are replaced with distinctly Pashto words.; Debate: Remove doubtful Wro, a near-duplicate of Wror."
+   "note": "Debate: Dost, Dushman, Jang and Aman are everyday Urdu words. They are replaced with distinctly Pashto words.; Debate: Remove doubtful Wro, a near-duplicate of Wror.; Debate: Pronouns Zama/Sta are weak secret words; replaced with Loya (big) and Shpa (night)."
   },
   {
    "id": "game3-49",
@@ -877,7 +877,7 @@
   {
    "id": "game3-68",
    "Name": "Islamabad Landmarks",
-   "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Constitution Avenue|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|F9 Park|Margalla Hills|Trail 3|Saidpur Village|Secretariat|Parliament",
+   "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Constitution Avenue|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|Margalla Hills|Trail 3|Saidpur Village|Secretariat|Parliament",
    "Category": "",
    "action": "edit",
    "original": {
@@ -885,7 +885,7 @@
     "Description": "Faisal Mosque|Daman e Koh|Pir Sohawa|Monal|Lake View Park|Rawal Lake|Centaurus|Safa Gold|Giga Mall|Pakistan Monument|Lok Virsa|Shakarparian|Rose and Jasmine Garden|Fatima Jinnah Park|F9 Park|Margalla Hills|Trail 3|Trail 5|Secretariat|Parliament",
     "Category": ""
    },
-   "note": "Debate: Monal restaurant no longer exists (demolished in 2024); Debate: Trail 3 and Trail 5 are almost the same word. Trail 5 is replaced with Saidpur Village."
+   "note": "Debate: Monal restaurant no longer exists (demolished in 2024); Debate: Trail 3 and Trail 5 are almost the same word. Trail 5 is replaced with Saidpur Village.; Debate: F9 Park is Fatima Jinnah Park; duplicate removed."
   },
   {
    "id": "game3-69",
@@ -929,7 +929,7 @@
   {
    "id": "game3-72",
    "Name": "Pakistani Beverages",
-   "Description": "Lassi|Chai|Coffee|Juice|Shake|Falsay ka Sharbat|Soda|Kashmiri Chai|Rooh Afza|Jam e Shirin|Squash|Lemonade|Skanjabeen|Doodh Soda|Rabri Doodh|Badam Milk|Thadal|Sattu|Ganne Ka Ras|Nariyal Pani",
+   "Description": "Lassi|Chai|Coffee|Juice|Shake|Falsay ka Sharbat|Soda|Kashmiri Chai|Rooh Afza|Jam e Shirin|Squash|Lemonade|Skanjabeen|Doodh Soda|Rabri Doodh|Badam Milk|Thadal|Chaas|Ganne Ka Ras|Nariyal Pani",
    "Category": "",
    "action": "edit",
    "original": {
@@ -937,7 +937,7 @@
     "Description": "Lassi|Chai|Coffee|Juice|Shake|Smoothie|Soda|Water|Rooh Afza|Jam e Shirin|Squash|Lemonade|Skanjabeen|Doodh Soda|Rabri Doodh|Badam Milk|Thadal|Sattu|Ganne Ka Ras|Nariyal Pani",
     "Category": ""
    },
-   "note": "Debate: Generic Water/Smoothie replaced with Pakistani drinks"
+   "note": "Debate: Generic Water/Smoothie replaced with Pakistani drinks; Debate: Sattu is obscure in Pakistan; Chaas is a familiar Punjabi drink."
   },
   {
    "id": "game3-73",
@@ -955,7 +955,7 @@
   {
    "id": "game3-74",
    "Name": "Milk Products",
-   "Description": "Milk|Yogurt|Butter|Cheese|Cream|Ghee|Lassi|Buttermilk|Whey|Paneer|Khoya|Malai|Ice Cream|Kulfi|Milkshake|Custard|Pudding|Kheer",
+   "Description": "Milk|Yogurt|Butter|Cheese|Cream|Ghee|Lassi|Whey|Paneer|Khoya|Ice Cream|Kulfi|Milkshake|Custard|Kheer",
    "Category": "",
    "action": "edit",
    "original": {
@@ -963,12 +963,12 @@
     "Description": "Milk|Yogurt|Butter|Cheese|Cream|Ghee|Lassi|Buttermilk|Whey|Curd|Paneer|Khoya|Malai|Ice Cream|Kulfi|Milkshake|Smoothie|Custard|Pudding|Kheer",
     "Category": ""
    },
-   "note": "Curd duplicated Yogurt; Smoothie removed"
+   "note": "Curd duplicated Yogurt; Smoothie removed; Debate: Removed near-duplicates Malai, Buttermilk, Pudding."
   },
   {
    "id": "game3-75",
    "Name": "Grains and Flours",
-   "Description": "Wheat|Rice|Corn|Barley|Oats|Bajra|Jowar|Rye|Quinoa|Buckwheat|Atta|Maida|Suji|Besan|Daliya",
+   "Description": "Wheat|Rice|Corn|Barley|Oats|Bajra|Jowar|Rye|Atta|Maida|Suji|Besan|Daliya",
    "Category": "",
    "action": "edit",
    "original": {
@@ -976,12 +976,12 @@
     "Description": "Wheat|Rice|Corn|Barley|Oats|Millet|Sorghum|Rye|Quinoa|Buckwheat|Amaranth|Teff|Spelt|Farro|Kamut|Bulgur|Couscous|Semolina|Tapioca|Sago",
     "Category": ""
    },
-   "note": "obscure grains removed; local names (Bajra, Jowar, Daliya); Debate: Sago and couscous are not grains. The wider title covers the flours Pakistani players know (Atta, Maida, Suji, Besan). Basmati is left out because it overlaps Rice, and Cornflakes is left out. Challenger's amended version."
+   "note": "obscure grains removed; local names (Bajra, Jowar, Daliya); Debate: Sago and couscous are not grains. The wider title covers the flours Pakistani players know (Atta, Maida, Suji, Besan). Basmati is left out because it overlaps Rice, and Cornflakes is left out. Challenger's amended version.; Debate: Quinoa and Buckwheat are obscure for Pakistani players."
   },
   {
    "id": "game3-76",
    "Name": "Pulses",
-   "Description": "Daal Chana|Daal Masoor|Daal Moong|Daal Mash|Daal Arhar|Lobia|Rajma|Kabuli Chana|Kala Chana|Black Beans|Soybeans|Peas|White Beans",
+   "Description": "Daal Chana|Daal Masoor|Daal Moong|Daal Mash|Daal Arhar|Lobia|Rajma|Kabuli Chana|Kala Chana|Soybeans|Peas",
    "Category": "",
    "action": "edit",
    "original": {
@@ -989,7 +989,7 @@
     "Description": "Daal Chana|Daal Masoor|Daal Moong|Daal Mash|Daal Arhar|Chickpeas|Kidney Beans|Black Beans|White Beans|Red Beans|Green Beans|Soybeans|Lentils|Peas|Gram|Lobia|Rajma|Cholay|Kabuli Chana|Kala Chana",
     "Category": ""
    },
-   "note": "removed duplicates (Chickpeas/Cholay/Gram, Kidney/Red Beans, Lentils) and Green Beans (not a pulse)"
+   "note": "removed duplicates (Chickpeas/Cholay/Gram, Kidney/Red Beans, Lentils) and Green Beans (not a pulse); Debate: Black Beans and White Beans are vague and blur with Kala Chana, Lobia, Rajma."
   },
   {
    "id": "game3-77",
@@ -1020,7 +1020,7 @@
   {
    "id": "game3-79",
    "Name": "Meat Types",
-   "Description": "Chicken|Beef|Mutton|Lamb|Teetar|Fish|Prawn|Duck|Turkey|Quail|Rabbit|Camel|Deer|Ostrich|Buffalo",
+   "Description": "Chicken|Beef|Mutton|Teetar|Fish|Prawn|Duck|Turkey|Quail|Rabbit|Camel|Deer|Buffalo",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1028,7 +1028,7 @@
     "Description": "Chicken|Beef|Mutton|Lamb|Goat|Fish|Prawn|Shrimp|Crab|Lobster|Duck|Turkey|Quail|Rabbit|Camel|Deer|Ostrich|Buffalo|Cow|Sheep",
     "Category": ""
    },
-   "note": "Shrimp dup of Prawn; Cow/Sheep are animals not meat; Debate: In Pakistan, Goat and Mutton are the same meat; Goat replaced with Teetar; Debate: Crab and lobster are disputed as halal and can derail a round."
+   "note": "Shrimp dup of Prawn; Cow/Sheep are animals not meat; Debate: In Pakistan, Goat and Mutton are the same meat; Goat replaced with Teetar; Debate: Crab and lobster are disputed as halal and can derail a round.; Debate: Lamb near-duplicates Mutton; Ostrich is not a familiar meat locally."
   },
   {
    "id": "game3-80",
@@ -1137,7 +1137,7 @@
   {
    "id": "game3-88",
    "Name": "Pakistani Pickles",
-   "Description": "Mango|Lemon|Chili|Carrot|Garlic|Onion|Mixed|Hyderabadi|Shikarpuri|Lasora|Turnip|Karela|Ginger|National|Shan|Mitchells|Homemade",
+   "Description": "Mango|Lemon|Chili|Carrot|Garlic|Onion|Mixed|Hyderabadi|Shikarpuri|Lasora|Turnip|Karela|Ginger|National|Shan|Mitchells|Cauliflower",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1145,7 +1145,7 @@
     "Description": "Mango|Lemon|Chili|Carrot|Garlic|Onion|Mixed|Hyderabadi|Shikarpuri|National|Shan|Mitchells|Homemade|Spicy|Sour|Sweet|Tangy|Oil|Vinegar|Water",
     "Category": ""
    },
-   "note": "removed adjective filler (Spicy, Sour, Oil, Water...)"
+   "note": "removed adjective filler (Spicy, Sour, Oil, Water...); Debate: 'Homemade' is not a pickle type; replaced with Cauliflower."
   },
   {
    "id": "game3-89",
@@ -1189,7 +1189,7 @@
   {
    "id": "game3-92",
    "Name": "Kitchen Appliances",
-   "Description": "Stove|Oven|Microwave|Fridge|Freezer|Blender|Juicer|Mixer|Grinder|Toaster|Kettle|Coffee Maker|Rice Cooker|Pressure Cooker|Air Fryer|Dishwasher|Hood|Chopper|Sandwich Maker|Water Dispenser",
+   "Description": "Stove|Oven|Microwave|Fridge|Freezer|Blender|Juicer|Mixer|Grinder|Toaster|Kettle|Coffee Maker|Rice Cooker|Pressure Cooker|Air Fryer|Dishwasher|Kitchen Hood|Chopper|Sandwich Maker|Water Dispenser",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1197,7 +1197,7 @@
     "Description": "Stove|Oven|Microwave|Fridge|Freezer|Blender|Juicer|Mixer|Grinder|Toaster|Kettle|Coffee Maker|Rice Cooker|Pressure Cooker|Air Fryer|Dishwasher|Hood|Fan|Light|Sink",
     "Category": ""
    },
-   "note": "Fan, Light, Sink are not appliances"
+   "note": "Fan, Light, Sink are not appliances; Debate: 'Hood' alone is unclear; Kitchen Hood is the recognisable term."
   },
   {
    "id": "game3-93",
@@ -1267,7 +1267,7 @@
   {
    "id": "game3-98",
    "Name": "Children's Clothing",
-   "Description": "Romper|Bib|Onesie|Baby Frock|School Uniform|Mittens|Booties|Baby Cap|Dungarees|Pyjama Suit|Swaddle|Cartoon T-Shirt|Mini Shalwar Kameez|Baby Sherwani|Raincoat|Hoodie|Socks",
+   "Description": "Romper|Bib|Baby Frock|School Uniform|Mittens|Booties|Baby Cap|Dungarees|Pyjama Suit|Swaddle|Cartoon T-Shirt|Mini Shalwar Kameez|Baby Sherwani|Raincoat|Hoodie|Socks",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1275,12 +1275,12 @@
     "Description": "Frock|Shorts|T-Shirt|Jeans|Romper|Suit|Kurta|Shalwar|Kameez|Skirt|Top|Dress|Pant|Shirt|Jacket|Sweater|Hoodie|Cap|Socks|Shoes",
     "Category": ""
    },
-   "note": "Debate: Challenger's rewrite keeps the topic and replaces generic adult clothing (already on Clothing Items) with kid-specific items. Judge also dropped Bodysuit, which is the same thing as Onesie."
+   "note": "Debate: Challenger's rewrite keeps the topic and replaces generic adult clothing (already on Clothing Items) with kid-specific items. Judge also dropped Bodysuit, which is the same thing as Onesie.; Debate: Onesie is a US term nearly identical to Romper."
   },
   {
    "id": "game3-99",
    "Name": "Footwear",
-   "Description": "Sandal|Slipper|Shoe|Boot|Jogger|Sneaker|Heel|Flat|Khussa|Peshawari Chappal|Kolhapuri|Loafer|Kheri|School Shoes|Hawai Chappal|Wedge",
+   "Description": "Sandal|Slipper|Shoe|Boot|Sneaker|Heel|Flat|Khussa|Peshawari Chappal|Loafer|Kheri|School Shoes|Hawai Chappal|Wedge",
    "Category": "",
    "action": "edit",
    "original": {
@@ -1288,7 +1288,7 @@
     "Description": "Sandal|Slipper|Shoe|Boot|Jogger|Sneaker|Heel|Flat|Khussa|Peshawari Chappal|Kolhapuri|Pump|Wedge|Loafer|Moccasin|Oxford|Derby|Brogue|Monk|Bootie",
     "Category": ""
    },
-   "note": "obscure shoe styles removed; Hawai Chappal added; Debate: Moccasin/Oxford, which few players know, replaced with familiar local footwear"
+   "note": "obscure shoe styles removed; Hawai Chappal added; Debate: Moccasin/Oxford, which few players know, replaced with familiar local footwear; Debate: Kolhapuri is obscure here; Jogger duplicates Sneaker."
   },
   {
    "id": "game3-100",
@@ -1306,15 +1306,15 @@
   {
    "id": "game3-101",
    "Name": "Fabrics",
-   "Description": "Cotton|Lawn|Silk|Chiffon|Georgette|Velvet|Wool|Linen|Khaddar|Cambric|Viscose|Polyester|Nylon|Rayon|Satin|Net|Organza|Tissue|Banarasi|Jamawar",
+   "Description": "Cotton|Lawn|Silk|Chiffon|Georgette|Velvet|Wool|Linen|Khaddar|Cambric|Viscose|Polyester|Nylon|Satin|Net|Organza|Tissue|Banarasi|Jamawar",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Fabrics",
     "Description": "Cotton|Lawn|Silk|Chiffon|Georgette|Velvet|Wool|Linen|Khaddar|Cambric|Viscose|Polyester|Nylon|Rayon|Satin|Net|Organza|Tissue|Banarasi|Jamawar",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Rayon and Viscose are the same fibre; duplicate removed."
   },
   {
    "id": "game3-102",
@@ -13241,6 +13241,54 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Relatable dilemma with three distinct options (challenger's amendment)."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Mehndi Night",
+   "Description": "Mehndi Cone|Mehndi Thaal|Ubtan|Marigold Garlands|Gajray|Yellow Dress|Green Dupatta|Bangles|Fairy Lights|Diyas|Stage|Jhoola|Photographer|Mithai|Flower Jewellery|Lanterns|Dupatta Canopy|Dry Fruit Thaal|Mehndi Artist|Chunri",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New Pakistani wedding-theme topic; challenger's de-duplicated version used."
+  },
+  {
+   "id": null,
+   "Name": "Everyday Salans",
+   "Description": "Aloo Gosht|Bhindi Masala|Qeema Matar|Daal Tarka|Aloo Gobi|Chana Masala|Palak Paneer|Daal Mash|Mix Sabzi|Anda Curry|Tinda Gosht|Kadhi|Lauki Gosht|Baingan Bharta|Karela Gosht|Arvi Gosht|Shalgam Gosht|Aloo Matar|Kofta Curry|Lobia",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Core home-cooking topic; challenger's version reduces Gosht/Aloo overlap."
+  },
+  {
+   "id": null,
+   "Name": "Soups",
+   "Description": "Chicken Corn|Hot and Sour|Daal Shorba|Yakhni|Tomato|Mushroom|Manchow|Vegetable|Carrot|Pumpkin|Spinach|Cream of Chicken|Wonton|Paya Shorba|Thai",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Familiar winter and wedding-menu topic; near-duplicate soups removed."
+  },
+  {
+   "id": null,
+   "Name": "Things in the Kitchen Pantry",
+   "Description": "Rice Bag|Atta Tin|Cooking Oil|Sugar Jar|Salt|Tea Leaves|Daal Jars|Spice Box|Biscuit Tin|Ghee Tin|Cornflour|Custard Powder|Rooh Afza Bottle|Vinegar|Ketchup|Noodles|Jam Jar|Honey|Baking Powder|Gur",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable household topic; Masala Packets (duplicate of Spice Box) replaced with Gur."
+  },
+  {
+   "id": null,
+   "Name": "Winter Clothes",
+   "Description": "Sweater|Shawl|Muffler|Gloves|Monkey Cap|Jacket|Overcoat|Thermal Innerwear|Woollen Socks|Leather Jacket|Cardigan|Hoodie|Boots|Pashmina|Waistcoat|Chadar|Lohi|Khaddar Kurta|Ear Muffs",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clothing-only seasonal topic with local items; non-clothing and duplicate items removed."
+  },
+  {
+   "id": null,
+   "Name": "Types of Pakora",
+   "Description": "Aloo|Pyaz|Palak|Gobi|Mirch|Baingan|Paneer|Bread|Egg|Fish|Chicken|Mixed|Lauki|Arvi|Tinda|Kachay Kelay|Moong Daal|Carrot|Methi",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Ramzan/rainy-day favourite; Besan (batter) and Cheese (dup of Paneer) removed."
   }
  ]
 }

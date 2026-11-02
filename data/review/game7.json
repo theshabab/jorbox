@@ -3987,14 +3987,14 @@
   },
   {
    "id": "game7-363",
-   "Description": "Fist casserole!",
+   "Description": "Fist biryani!",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "Fist casserole!",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Keep the absurd drawable image and localise the casserole, as the challenger amended."
   },
   {
    "id": "game7-364",
@@ -4152,14 +4152,14 @@
   },
   {
    "id": "game7-378",
-   "Description": "classic cartoon tunnel",
+   "Description": "a painted tunnel on a wall, and a truck about to crash into it",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "classic cartoon tunnel",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Clear, drawable restatement of the painted-tunnel gag."
   },
   {
    "id": "game7-379",
@@ -4174,14 +4174,14 @@
   },
   {
    "id": "game7-380",
-   "Description": "a play about history",
+   "Description": "a school play about history where the king forgets his lines",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "a play about history",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Replaces a vague prompt with a concrete, clean scene."
   },
   {
    "id": "game7-381",
@@ -4251,14 +4251,14 @@
   },
   {
    "id": "game7-387",
-   "Description": "burned my hip on the lasagna",
+   "Description": "burned my hip on the hot karahi",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "burned my hip on the lasagna",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Localises lasagna and avoids another degh card, as the challenger amended."
   },
   {
    "id": "game7-388",
@@ -4372,14 +4372,14 @@
   },
   {
    "id": "game7-398",
-   "Description": "inappropriate funeral behavior",
+   "Description": "inappropriate behavior at a dawat",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "inappropriate funeral behavior",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Funeral becomes a dawat, with the deck's American spelling."
   },
   {
    "id": "game7-399",
@@ -4504,14 +4504,14 @@
   },
   {
    "id": "game7-410",
-   "Description": "A map of Europe where France and Germany are high-fiving",
+   "Description": "A map of Pakistan where Lahore and Karachi are high-fiving",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "A map of Europe where France and Germany are high-fiving",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Easier to draw than the provinces version and avoids border issues, per the challenger."
   },
   {
    "id": "game7-411",
@@ -5153,14 +5153,14 @@
   },
   {
    "id": "game7-469",
-   "Description": "I'm Mr. Karate around here",
+   "Description": "I'm Mr. Kabaddi around here",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "i'm Mr. Karate around here",
     "Category": "Standard Prompts"
    },
-   "note": "Debate: Challenger's missed issue: capitalisation fix (i'm -> I'm), the same fix as idx 551."
+   "note": "Debate: Challenger's missed issue: capitalisation fix (i'm -> I'm), the same fix as idx 551.; Debate: Local sport replaces the Karate Kid reference."
   },
   {
    "id": "game7-470",
@@ -5219,14 +5219,14 @@
   },
   {
    "id": "game7-475",
-   "Description": "short stack of mancakes",
+   "Description": "short stack of giant parathas",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "short stack of mancakes",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Local, drawable replacement for 'mancakes'."
   },
   {
    "id": "game7-476",
@@ -21365,6 +21365,34 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): No torch card; relatable and simple."
+  },
+  {
+   "id": null,
+   "Description": "a hen leading a rickshaw convoy to school",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, drawable and distinct from the existing hen cards."
+  },
+  {
+   "id": null,
+   "Description": "the world's longest queue for free sharbat",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local scene with no equivalent in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a donkey doing the evening news in a tie",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Absurd and drawable, and different from the donkey speech card."
+  },
+  {
+   "id": null,
+   "Description": "chai kettle with three spouts and a nervous waiter",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Concrete, drawable scene, distinct from the giant kettle card."
   }
  ]
 }
