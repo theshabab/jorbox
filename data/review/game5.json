@@ -44299,13 +44299,13 @@
    "Name": "",
    "Description": "It's the ____, stupid.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "It's the ____, stupid.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: US political slogan, unplayable."
   },
   {
    "id": "game5-3409",
@@ -44674,15 +44674,15 @@
   {
    "id": "game5-3437",
    "Name": "",
-   "Description": "Just say no to ____.",
+   "Description": "Ammi's golden rule at every dawat buffet: just say no to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Just say no to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Anti-drug slogan invites drug answers."
   },
   {
    "id": "game5-3438",
@@ -44739,15 +44739,15 @@
   {
    "id": "game5-3442",
    "Name": "",
-   "Description": "Karma is ____.",
+   "Description": "What goes around comes around, and today it came around as ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Karma is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes karma (religious concept), keeps idea."
   },
   {
    "id": "game5-3443",
@@ -45207,15 +45207,15 @@
   {
    "id": "game5-3478",
    "Name": "",
-   "Description": "Last night, I tried ____ again. It was MUCH better the second time.",
+   "Description": "I gave ____ a second chance, and it was MUCH better the second time.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Last night, I tried ____ again. It was MUCH better the second time.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Removes innuendo; avoids duplicating live 'tried for the first time' cards."
   },
   {
    "id": "game5-3479",
@@ -45794,13 +45794,13 @@
    "Name": "",
    "Description": "Like fairy tales, ____ is something only children and fools believe in.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Like Santa, ____ is something only children and fools believe in.",
     "Category": ""
    },
-   "note": "Removed Santa"
+   "note": "Debate: Invites mocking belief/faith."
   },
   {
    "id": "game5-3524",
@@ -45935,15 +45935,15 @@
   {
    "id": "game5-3534",
    "Name": "",
-   "Description": "Looks like I picked the wrong day to quit ____.",
+   "Description": "Looks like I picked the wrong day to start ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Looks like I picked the wrong day to quit ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Original quit-drugs film quote invites drug answers."
   },
   {
    "id": "game5-3535",
@@ -46054,13 +46054,13 @@
    "Name": "",
    "Description": "Love means never having to say ____.",
    "Category": "",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "love means never having to say ____",
     "Category": ""
    },
-   "note": "Capitalisation, punctuation"
+   "note": "Debate: Romance quote; friendship rewrite would be redundant."
   },
   {
    "id": "game5-3544",
@@ -46223,13 +46223,13 @@
    "Name": "",
    "Description": "Make ____, not ____.",
    "Category": "",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "",
     "Description": "Make ____, not ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Based on 'make love, not war'; vague."
   },
   {
    "id": "game5-3557",
@@ -46936,7 +46936,7 @@
   {
    "id": "game5-3611",
    "Name": "",
-   "Description": "A long-lost Michelangelo painting has just been found. It's titled \"____.\"",
+   "Description": "A long-lost Chughtai painting has just been found. It's titled \"____.\"",
    "Category": "",
    "action": "edit",
    "original": {
@@ -46944,20 +46944,20 @@
     "Description": "Michelangelo's newest painting is titled ____.",
     "Category": ""
    },
-   "note": "Punctuation; Debate: Michelangelo died in 1564; a lost-painting framing keeps the joke and is accurate"
+   "note": "Punctuation; Debate: Michelangelo died in 1564; a lost-painting framing keeps the joke and is accurate; Debate: Local painter, avoids Western religious art and a third Sadequain card."
   },
   {
    "id": "game5-3612",
    "Name": "",
-   "Description": "Maryam Nawaz outraged conservatives when she implied that ____ maybe wasn't such a bad thing.",
+   "Description": "Maryam Nawaz surprised everyone when she announced ____ as her first policy.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Maryam Nawaz outraged conservatives when she implied that ____ maybe wasn't such a bad thing.",
     "Category": ""
    },
-   "note": "Restored: political jokes allowed by deck owner"
+   "note": "Restored: political jokes allowed by deck owner; Debate: Original frame invites mocking religion or endorsing vices; named-politician joke kept."
   },
   {
    "id": "game5-3613",
@@ -47261,15 +47261,15 @@
   {
    "id": "game5-3636",
    "Name": "",
-   "Description": "Mommy? What does ____ mean?",
+   "Description": "Ammi? Why is Abbu so scared of ____?",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "Mommy? What does ____ mean?",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids crude definitions, keeps kid-asks-parent joke."
   },
   {
    "id": "game5-3637",
@@ -47339,7 +47339,7 @@
   {
    "id": "game5-3642",
    "Name": "",
-   "Description": "Morale at work was boosted when they put ____ in the vending machines.",
+   "Description": "Morale at work was boosted when they put ____ in the office canteen.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -47347,7 +47347,7 @@
     "Description": "Moral at work was boosted when they put ____ in the vending machines.",
     "Category": ""
    },
-   "note": "Spelling"
+   "note": "Spelling; Debate: Local equivalent of vending machines."
   },
   {
    "id": "game5-3643",
@@ -47573,15 +47573,15 @@
   {
    "id": "game5-3660",
    "Name": "",
-   "Description": "My addiction to ____ is starting to negatively affect my life.",
+   "Description": "My obsession with ____ is starting to affect my life.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My addiction to ____ is starting to negatively affect my life.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids drug/vice answers."
   },
   {
    "id": "game5-3661",
@@ -47755,15 +47755,15 @@
   {
    "id": "game5-3674",
    "Name": "",
-   "Description": "My best friend is so dumb, he tried to use a pressure cooker to ____.",
+   "Description": "My best friend is so dumb, he tried to use a microwave to ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My best friend is so dumb, he tried to use a pressure cooker to ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Avoids bomb imagery."
   },
   {
    "id": "game5-3675",
@@ -47833,15 +47833,15 @@
   {
    "id": "game5-3680",
    "Name": "",
-   "Description": "My biggest idol is ____.",
+   "Description": "My biggest hero is ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My biggest idol is ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: 'Idol' has idolatry connotation."
   },
   {
    "id": "game5-3681",
@@ -47911,15 +47911,15 @@
   {
    "id": "game5-3686",
    "Name": "",
-   "Description": "My boss heard me talking about ____ and now I have to have a meeting with HR.",
+   "Description": "My boss heard me talking about ____ and now I have to meet the manager.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My boss heard me talking about ____ and now I have to have a meeting with HR.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: HR meeting is Western and invites harassment answers."
   },
   {
    "id": "game5-3687",
@@ -48015,7 +48015,7 @@
   {
    "id": "game5-3694",
    "Name": "",
-   "Description": "My contribution to the potluck was ____.",
+   "Description": "My contribution to the family dawat was ____.",
    "Category": "",
    "action": "edit",
    "original": {
@@ -48023,7 +48023,7 @@
     "Description": "My contribution to the potluck was ____",
     "Category": ""
    },
-   "note": "Punctuation"
+   "note": "Punctuation; Debate: Local equivalent of potluck."
   },
   {
    "id": "game5-3695",
@@ -48054,15 +48054,15 @@
   {
    "id": "game5-3697",
    "Name": "",
-   "Description": "My credit score is so bad, but at least I'll always be ____.",
+   "Description": "My bank balance is so low, but at least I'll always be ____.",
    "Category": "",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "",
     "Description": "My credit score is so bad, but at least I'll always be ____.",
     "Category": ""
    },
-   "note": ""
+   "note": "Debate: Credit score is US-centric."
   },
   {
    "id": "game5-3698",
@@ -48080,7 +48080,7 @@
   {
    "id": "game5-3699",
    "Name": "",
-   "Description": "My Dad walks into my room and says, \"It's time we talk about ____.\"",
+   "Description": "Abbu walks into my room holding my phone bill and says, \"Beta, explain ____.\"",
    "Category": "",
    "action": "edit",
    "original": {
@@ -48088,7 +48088,7 @@
     "Description": "My Dad walks in my bedroom and says \"It's time we talk about ____\".",
     "Category": ""
    },
-   "note": "Grammar"
+   "note": "Grammar; Debate: Original invites sexual answers; phone bill avoids report-card duplicates."
   },
   {
    "id": "game5-3700",
@@ -104949,6 +104949,70 @@
    "Category": "",
    "action": "add",
    "note": "New card (debate): Dawat prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Dadi says the secret to a long life is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New elders prompt, not duplicated."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The whole muhalla found out about the rishta when the aunty next door announced ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Local gossip prompt, no equivalent."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Abbu's favourite excuse for not going to the bazaar is ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct Abbu prompt."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The rishta aunty's list of conditions for the groom included ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Clean rishta prompt, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "My mother-in-law's first question when she walked into my kitchen was \"Why is there ____ here?\"",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Distinct from existing mother-in-law cards."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Mamu tells the same story at every dawat, and somehow it always ends with ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Running-gag prompt, distinct from lecture card."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "Nani took one look at my result card and immediately sent for ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment avoids prayer jokes."
+  },
+  {
+   "id": null,
+   "Name": "",
+   "Description": "The guests stayed an extra three hours at our house because of ____.",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Relatable mehmaan prompt, no duplicate."
   }
  ]
 }

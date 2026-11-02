@@ -2556,13 +2556,13 @@
    "Name": "Wildebeest",
    "Description": "~80 km/h",
    "Category": "Fastest Land Animals (Top Speed)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Wildebeest",
     "Description": "4",
     "Category": "Fastest Land Animals (Top Speed)"
    },
-   "note": "bare rank replaced with approx. top speed; last three near-tied"
+   "note": "Debate: Three-way tie at ~80 km/h; Lion remains live so the pair is not wholly removed."
   },
   {
    "id": "game15-198",
@@ -2582,13 +2582,13 @@
    "Name": "Thomson's Gazelle",
    "Description": "~80 km/h",
    "Category": "Fastest Land Animals (Top Speed)",
-   "action": "edit",
+   "action": "remove",
    "original": {
     "Name": "Thompson's Gazelle",
     "Description": "6",
     "Category": "Fastest Land Animals (Top Speed)"
    },
-   "note": "bare rank replaced with approx. top speed; last three near-tied; spelling (Thomson)"
+   "note": "Debate: Still tied with Lion at ~80 after Wildebeest goes; Lion is live and stays."
   },
   {
    "id": "game15-200",
@@ -32129,6 +32129,70 @@
    "Category": "Ottoman Sultans (Start of Reign)",
    "action": "add",
    "note": "New card (debate): Accession year correct; completes a 6-item chronology."
+  },
+  {
+   "id": null,
+   "Name": "Greyhound",
+   "Description": "~72 km/h",
+   "Category": "Fastest Land Animals (Top Speed)",
+   "action": "add",
+   "note": "New card (debate): Distinct, familiar value below Lion."
+  },
+  {
+   "id": null,
+   "Name": "Ostrich",
+   "Description": "~70 km/h",
+   "Category": "Fastest Land Animals (Top Speed)",
+   "action": "add",
+   "note": "New card (debate): Distinct value below Greyhound; different category from the 72 km/h Ostrich card elsewhere."
+  },
+  {
+   "id": null,
+   "Name": "Suleymaniye Mosque (Istanbul)",
+   "Description": "1557 CE",
+   "Category": "Famous Mosques Construction (Chronological - Estimated)",
+   "action": "add",
+   "note": "New card (debate): Famous mosque, firm date, fits between Al-Azhar and Badshahi."
+  },
+  {
+   "id": null,
+   "Name": "Sultan Ahmed (Blue) Mosque (Istanbul)",
+   "Description": "1616 CE",
+   "Category": "Famous Mosques Construction (Chronological - Estimated)",
+   "action": "add",
+   "note": "New card (debate): Challenger's format: city in Name, clean year in Description."
+  },
+  {
+   "id": null,
+   "Name": "Hassan II Mosque (Casablanca)",
+   "Description": "1993 CE",
+   "Category": "Famous Mosques Construction (Chronological - Estimated)",
+   "action": "add",
+   "note": "New card (debate): Well-known mosque, completed 1993, after Faisal 1986."
+  },
+  {
+   "id": null,
+   "Name": "Sheikh Zayed Grand Mosque (Abu Dhabi)",
+   "Description": "2007 CE",
+   "Category": "Famous Mosques Construction (Chronological - Estimated)",
+   "action": "add",
+   "note": "New card (debate): Well-known mosque, opened 2007, latest in list."
+  },
+  {
+   "id": null,
+   "Name": "Pico",
+   "Description": "10^-12",
+   "Category": "SI Prefixes (Smallest to Largest)",
+   "action": "add",
+   "note": "New card (debate): Correctly extends scale below Nano."
+  },
+  {
+   "id": null,
+   "Name": "Peta",
+   "Description": "10^15",
+   "Category": "SI Prefixes (Smallest to Largest)",
+   "action": "add",
+   "note": "New card (debate): Correctly extends scale above Tera."
   }
  ]
 }
