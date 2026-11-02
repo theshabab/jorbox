@@ -320,7 +320,7 @@ Customer,Artist
 Customer,Aaya (Nanny)
 Customer,Dhaba Waiter
 Customer,Bank Robber
-Customer,Biker
+Customer,Motorbike Rider
 Customer,Chai Wala
 Customer,Billionaire
 Customer,Beggar
@@ -348,7 +348,7 @@ Customer,Drill Ustad (Army)
 Customer,Drama Queen
 Customer,Kabari Wala
 Customer,Doctor
-Customer,Executioner
+Customer,Jallad (Executioner)
 Customer,Dog
 Customer,Firefighter
 Customer,Tailor
@@ -895,3 +895,6 @@ Problem,I need a wearable that warns me before Ammi finds my _____!
 Problem,The rickshaw ride is so bumpy that my _____ keeps flying out!
 Problem,I need a helmet that protects my _____ from the madness on our roads!
 Problem,I want to wake up for Sehri without disturbing _____!
+Problem,My phone says 'storage full' every time I try to save _____!
+Problem,My Facebook memories keep reminding me of _____!
+Problem,Every Eid photo shoot gets ruined by _____!

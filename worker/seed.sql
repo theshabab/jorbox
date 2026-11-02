@@ -611,7 +611,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-609','game1','Abu Ubaidah','Trustworthy one (Amin) of the Ummah','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-610','game1','Hamza','Uncle of the Prophet, Lion of Allah','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-611','game1','Abbas ibn Abdul Muttalib','Uncle of the Prophet, gave pilgrims water','Sahaba');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-612','game1','Jafar ibn Abi Talib','Cousin who spoke before Najashi in Abyssinia','Sahaba');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-612','game1','Jafar ibn Abi Talib','Prophet''s cousin who spoke before Najashi','Sahaba');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-613','game1','Adam','First Prophet and first human','Prophets');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-614','game1','Noah','Nuh, the Prophet who built the Ark','Prophets');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-615','game1','Abraham','Ibrahim, father of Prophets, built the Kaaba','Prophets');
@@ -660,7 +660,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-658','game1','Imam','Prayer leader','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-659','game1','Wudu','Ritual washing before prayer','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-660','game1','Makkah','Holiest city in Islam','Islamic Locations');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-661','game1','Jerusalem','City of Al-Aqsa, third holiest','Islamic Locations');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-661','game1','Jerusalem','Al-Quds, home of Al-Aqsa, first qibla','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-662','game1','Kaaba','Cube-shaped House of Allah','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-663','game1','Masjid al-Haram','Grand Mosque around the Kaaba','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-664','game1','Masjid al-Nabawi','Prophet''s Mosque in Medina','Islamic Locations');
@@ -699,7 +699,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-697','game1','Umar ibn Abdul Aziz','Pious Umayyad caliph, called the fifth rightly guided','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-698','game1','Imam Bukhari','Compiled the most authentic hadith collection','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-699','game1','Imam Muslim','Bukhari''s student who compiled the second Sahih','Muslim Historical Figures');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-700','game1','Imam Abu Hanifa','Founder of the Hanafi school','Muslim Historical Figures');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-700','game1','Imam Abu Hanifa','Jurist whose fiqh most Pakistani Muslims follow','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-701','game1','Imam Malik','Medina jurist, author of the Muwatta','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-702','game1','Imam Shafi','Jurist who wrote Al-Risala','Muslim Historical Figures');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-703','game1','Imam Ahmad','Founder of the Hanbali school','Muslim Historical Figures');
@@ -13359,8 +13359,8 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-84','game8','NOT LIKELY <---> VERY LIKELY','Make up a name for a writer who is this likely to have a hit book called "Topper Banne Ke 10 Raaz"','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-85','game8','NOT ALIEN <---> VERY ALIEN','Make up a name for a planet that''s this likely to have aliens living on it','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-86','game8','EXCITING <---> VERY BORING','Make up a name for a small town that’s this boring','Writing');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-87','game8','NOT SUPER <---> VERY SUPER','Make up a name for a city that’s this likely to be full of superheroes','Writing');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-88','game8','DOIN'' FINE <---> NEEDS VENGEANCE','Make up a catchphrase that’s this likely to be yelled by someone seeking vengeance','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-87','game8','NO HEROES <---> CITY OF HEROES','Make up a name for a city that''s this likely to be full of superheroes','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-88','game8','ALL FINE <---> NEEDS BADLA','Make up a catchphrase that''s this likely to be yelled by someone seeking vengeance','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-89','game8','SMELLS LIKE FLOWERS <---> SMELLS LIKE BIRYANI','Make up a name for a perfume that smells this much like food','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-90','game8','NO WAY <---> HANGOUT CENTRAL!','Make up a name for a place where teenagers are this likely to hang out','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-91','game8','DRY <---> TOO WET','Make up a name for a place that is probably this wet','Writing');
@@ -14265,6 +14265,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-990','game8','AFFORDABLE <---> HIGHWAY ROBBERY','Write what Ammi says when the sabzi wala tells her the price of tomatoes, if she finds it this outrageous','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-991','game8','DRY <---> SOAKED THROUGH','Draw the washing on a rooftop clothesline after a sudden monsoon shower that is this wet','Drawing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-992','game8','RUDE <---> FULL ADAB','Write how a child greets the elderly guests at the door if the child shows this much adab','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-993','game8','BACKHANDED <---> HEARTFELT','Write a compliment for a relative''s new house that is this heartfelt','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-994','game8','SWEET <---> SCRATCHY','Make up a name for a street cat that is this scratchy','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-995','game8','PREDICTABLE <---> TOTAL TWIST','Write the last line of a short story that has this surprising an ending','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-996','game8','SMOOTH TRIP <---> TOTAL DISASTER','Make up a name for a cousins'' road trip WhatsApp group that is this likely to end in disaster','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-997','game8','POLITE NOTE <---> FURIOUS NOTE','Write a remark from a teacher in a student''s school diary that is this angry','Writing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -16607,7 +16612,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-319','game11','Customer','Aaya (Nanny)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-320','game11','Customer','Dhaba Waiter','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-321','game11','Customer','Bank Robber','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-322','game11','Customer','Biker','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-322','game11','Customer','Motorbike Rider','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-323','game11','Customer','Chai Wala','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-324','game11','Customer','Billionaire','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-325','game11','Customer','Beggar','');
@@ -16635,7 +16640,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-347','game11','Customer','Drama Queen','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-348','game11','Customer','Kabari Wala','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-349','game11','Customer','Doctor','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-350','game11','Customer','Executioner','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-350','game11','Customer','Jallad (Executioner)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-351','game11','Customer','Dog','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-352','game11','Customer','Firefighter','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-353','game11','Customer','Tailor','');
@@ -17182,6 +17187,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-894','game11','Problem','The rickshaw ride is so bumpy that my _____ keeps flying out!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-895','game11','Problem','I need a helmet that protects my _____ from the madness on our roads!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-896','game11','Problem','I want to wake up for Sehri without disturbing _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-897','game11','Problem','My phone says ''storage full'' every time I try to save _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-898','game11','Problem','My Facebook memories keep reminding me of _____!','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-899','game11','Problem','Every Eid photo shoot gets ruined by _____!','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game12','Nouns',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-1','game12','Acid','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game12-2','game12','Adventure','','');

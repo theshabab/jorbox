@@ -3977,13 +3977,13 @@
   {
    "id": "game11-362",
    "Name": "Customer",
-   "Description": "Biker",
-   "action": "keep",
+   "Description": "Motorbike Rider",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Biker"
    },
-   "note": ""
+   "note": "Debate: Challenger's amended wording: clarifies Western-sounding Biker without redundancy."
   },
   {
    "id": "game11-363",
@@ -4318,13 +4318,13 @@
   {
    "id": "game11-393",
    "Name": "Customer",
-   "Description": "Executioner",
-   "action": "keep",
+   "Description": "Jallad (Executioner)",
+   "action": "edit",
    "original": {
     "Name": "Customer",
     "Description": "Executioner"
    },
-   "note": ""
+   "note": "Debate: Local word with gloss, matches deck style; mildly dark is allowed."
   },
   {
    "id": "game11-394",
@@ -8717,6 +8717,27 @@
    "Description": "I want to wake up for Sehri without disturbing _____!",
    "action": "add",
    "note": "New card (debate): Challenger's clearer wording; differs from the dhol wala and food Sehri cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My phone says 'storage full' every time I try to save _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable phone problem, no equivalent in deck, blank works."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My Facebook memories keep reminding me of _____!",
+   "action": "add",
+   "note": "New card (debate): Distinct app-feature situation, playable blank."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "Every Eid photo shoot gets ruined by _____!",
+   "action": "add",
+   "note": "New card (debate): Local family-friendly Eid angle, distinct from other Eid cards."
   }
  ]
 }

@@ -8300,7 +8300,7 @@
   {
    "id": "game1-639",
    "Name": "Jafar ibn Abi Talib",
-   "Description": "Cousin who spoke before Najashi in Abyssinia",
+   "Description": "Prophet's cousin who spoke before Najashi",
    "Category": "Sahaba",
    "action": "edit",
    "original": {
@@ -8308,7 +8308,7 @@
     "Description": "Cousin of the Prophet",
     "Category": "Sahaba"
    },
-   "note": "Specific hint; Debate: Local players know Najashi better than 'Negus'. The fact is accurate."
+   "note": "Specific hint; Debate: Local players know Najashi better than 'Negus'. The fact is accurate.; Debate: Old hint said Cousin without saying whose; the new one is accurate, shorter and still specific."
   },
   {
    "id": "game1-640",
@@ -8989,7 +8989,7 @@
   {
    "id": "game1-692",
    "Name": "Jerusalem",
-   "Description": "City of Al-Aqsa, third holiest",
+   "Description": "Al-Quds, home of Al-Aqsa, first qibla",
    "Category": "Islamic Locations",
    "action": "edit",
    "original": {
@@ -8997,7 +8997,7 @@
     "Description": "Third holiest site",
     "Category": "Islamic Locations"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Third holiest is a contested ranking; Al-Quds and first qibla are accurate, identify the city, and do not contain the Name."
   },
   {
    "id": "game1-693",
@@ -9509,7 +9509,7 @@
   {
    "id": "game1-732",
    "Name": "Imam Abu Hanifa",
-   "Description": "Founder of the Hanafi school",
+   "Description": "Jurist whose fiqh most Pakistani Muslims follow",
    "Category": "Muslim Historical Figures",
    "action": "edit",
    "original": {
@@ -9517,7 +9517,7 @@
     "Description": "Jurist and scholar",
     "Category": "Muslim Historical Figures"
    },
-   "note": "Specific hint"
+   "note": "Specific hint; Debate: Removes the Hanafi leak (a form of the Name) and the repeated word Imam; the claim is accurate and locally relevant."
   },
   {
    "id": "game1-733",

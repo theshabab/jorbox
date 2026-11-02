@@ -1188,29 +1188,29 @@
   },
   {
    "id": "game8-92",
-   "Name": "NOT SUPER <---> VERY SUPER",
-   "Description": "Make up a name for a city that’s this likely to be full of superheroes",
+   "Name": "NO HEROES <---> CITY OF HEROES",
+   "Description": "Make up a name for a city that's this likely to be full of superheroes",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT SUPER <---> VERY SUPER",
     "Description": "Make up a name for a city that’s this likely to be full of superheroes",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Concrete scale ends instead of the vague NOT SUPER/VERY SUPER."
   },
   {
    "id": "game8-93",
-   "Name": "DOIN' FINE <---> NEEDS VENGEANCE",
-   "Description": "Make up a catchphrase that’s this likely to be yelled by someone seeking vengeance",
+   "Name": "ALL FINE <---> NEEDS BADLA",
+   "Description": "Make up a catchphrase that's this likely to be yelled by someone seeking vengeance",
    "Category": "Writing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "DOIN' FINE <---> NEEDS VENGEANCE",
     "Description": "Make up a catchphrase that’s this likely to be yelled by someone seeking vengeance",
     "Category": "Writing"
    },
-   "note": ""
+   "note": "Debate: Clearer, local opposite pair replacing the Western-sounding original; description still matches the scale."
   },
   {
    "id": "game8-94",
@@ -11822,6 +11822,46 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Culturally fitting, clear scale, no existing adab card."
+  },
+  {
+   "id": null,
+   "Name": "BACKHANDED <---> HEARTFELT",
+   "Description": "Write a compliment for a relative's new house that is this heartfelt",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version has parallel opposites; new family-dawat task."
+  },
+  {
+   "id": null,
+   "Name": "SWEET <---> SCRATCHY",
+   "Description": "Make up a name for a street cat that is this scratchy",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Description aligned to the scale ends; no street-cat naming card exists."
+  },
+  {
+   "id": null,
+   "Name": "PREDICTABLE <---> TOTAL TWIST",
+   "Description": "Write the last line of a short story that has this surprising an ending",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Clear scale, distinct from existing ending-tone title card."
+  },
+  {
+   "id": null,
+   "Name": "SMOOTH TRIP <---> TOTAL DISASTER",
+   "Description": "Make up a name for a cousins' road trip WhatsApp group that is this likely to end in disaster",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable family trip scenario, distinct from the generic family group card."
+  },
+  {
+   "id": null,
+   "Name": "POLITE NOTE <---> FURIOUS NOTE",
+   "Description": "Write a remark from a teacher in a student's school diary that is this angry",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable school-diary scenario with clear scale; no duplicate."
   }
  ]
 }
