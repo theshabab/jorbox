@@ -5989,14 +5989,14 @@
   },
   {
    "id": "game16-545",
-   "Name": "Which cousin are you closest to?",
+   "Name": "Which cousin are you closest to, and what is your favourite memory together?",
    "Category": "Desi Life & Culture Adaptations",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Which cousin are you closest to?",
     "Category": "Desi Life & Culture Adaptations"
    },
-   "note": ""
+   "note": "Debate: Gives the flat question a story hook without overlapping the live troublemaker-cousin card."
   },
   {
    "id": "game16-546",
@@ -6308,14 +6308,14 @@
   },
   {
    "id": "game16-574",
-   "Name": "What was your family's first car, and what is your best memory in it?",
+   "Name": "What was your family's first car or motorbike, and what is your best memory with it?",
    "Category": "More Fun Questions",
    "action": "edit",
    "original": {
     "Name": "What did you name your first car? (If you had one)",
     "Category": "More Fun Questions"
    },
-   "note": "punctuation; Debate: Naming cars is a Western habit; localised and made answerable"
+   "note": "punctuation; Debate: Naming cars is a Western habit; localised and made answerable; Debate: Challenger's amendment: motorbike is realistic for Pakistani families and 'with it' fits both vehicles."
   },
   {
    "id": "game16-575",
@@ -9829,6 +9829,27 @@
    "Category": "Ice Breakers & Fun General",
    "action": "add",
    "note": "New card (debate): Secret-goals angle is distinct from the generic goal cards."
+  },
+  {
+   "id": null,
+   "Name": "What scary story did your elders tell you to make you behave or go to sleep (chor aa jaye ga, jinn, ulti-latki churail)?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): New, relatable; jinn and ghost content is allowed; differs from the fear-of-jinns card."
+  },
+  {
+   "id": null,
+   "Name": "What was the first thing you bought with your first salary, and who did you share it with?",
+   "Category": "More Fun Questions",
+   "action": "add",
+   "note": "New card (debate): Distinct from the first-job card; clean story prompt."
+  },
+  {
+   "id": null,
+   "Name": "What is the funniest signboard or shop name you have seen in your city?",
+   "Category": "Desi Life & Culture Adaptations",
+   "action": "add",
+   "note": "New card (debate): No signboard card exists; relatable and easy to answer."
   }
  ]
 }

@@ -6662,9 +6662,9 @@
   },
   {
    "id": null,
-   "Description": "Claim that Karachi is the capital of Pakistan and get a player to correct you.",
+   "Description": "Claim that Lahore is the capital of Pakistan and get a player to correct you.",
    "action": "add",
-   "note": "New card (debate): Clear false claim with correct answer Islamabad; distinct from the largest-city claim (834)."
+   "note": "New card (debate): Clear false claim with correct answer Islamabad; distinct from the largest-city claim (834).; Debate: Karachi was the first capital, so that claim is disputable; Lahore is unambiguously wrong."
   },
   {
    "id": null,
@@ -6845,6 +6845,66 @@
    "Description": "Claim that an octopus has only one heart and get a player to correct you.",
    "action": "add",
    "note": "New card (debate): Accurate (octopus has three hearts), fits the myth format, not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which night, mentioned in the Quran, is better than a thousand months.",
+   "action": "add",
+   "note": "New card (debate): Accurate (97:3), not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you the name of the first major battle of Islam, fought in Ramadan.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Badr), not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who was the second caliph of Islam, known as Al-Farooq.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Umar RA), not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you which Prophet's sacrifice is remembered on Eid-ul-Adha.",
+   "action": "add",
+   "note": "New card (debate): Accurate, name only, no depiction; not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you who was the first Prime Minister of Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Accurate (Liaquat Ali Khan), not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Claim that Ramadan is the tenth month of the Islamic calendar and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Ramadan is the ninth month; fits wrong-claim style."
+  },
+  {
+   "id": null,
+   "Description": "Claim that Pakistan became independent in 1948 and get a player to correct you.",
+   "action": "add",
+   "note": "New card (debate): Independence was 1947; no such card in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many times SubhanAllah is recited in the tasbih after prayer.",
+   "action": "add",
+   "note": "New card (debate): Accurate (33), not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how their family makes kheer, or what they like best in it.",
+   "action": "add",
+   "note": "New card (debate): Challenger's open version is better than the closed binary."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what their family cooks in a big daig for a wedding or a large gathering.",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment avoids niaz wording that may not fit every family."
   }
  ]
 }

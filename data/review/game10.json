@@ -5447,9 +5447,9 @@
   },
   {
    "id": null,
-   "Name": "Lays or Kurkure?",
+   "Name": "Chips: Lays or Kurkure?",
    "action": "add",
-   "note": "New card (debate): Familiar local snack choice in the deck's either/or style; no duplicate."
+   "note": "New card (debate): Familiar local snack choice in the deck's either/or style; no duplicate.; Debate: Bare brand pair becomes a clear A-or-B prompt, matching the deck's 'Topic: A or B' format."
   },
   {
    "id": null,
@@ -7454,6 +7454,18 @@
    "Name": "Name a sweet people give out when they hear good news.",
    "action": "add",
    "note": "New card (debate): Common Pakistani custom with converging answers (laddu, barfi, gulab jamun, jalebi). Distinct from the good-news phrase card and the best-sweet-to-gift card."
+  },
+  {
+   "id": null,
+   "Name": "Name a sport played in Pakistan besides cricket.",
+   "action": "add",
+   "note": "New card (debate): Common matchable answers (hockey, football, squash, kabaddi); distinct from Olympics, world-champion and non-cricketer sportsperson cards."
+  },
+  {
+   "id": null,
+   "Name": "Name something you buy to prepare for Ramazan.",
+   "action": "add",
+   "note": "New card (debate): Shopping prompt with common answers (dates, besan, Rooh Afza, oil); distinct from the existing Ramazan activity, charity and worship cards."
   }
  ]
 }
