@@ -7422,10 +7422,10 @@
   },
   {
    "id": null,
-   "Description": "How good are you at playing Uno?",
+   "Description": "How good are you at card games such as Uno, Rang or Bluff?",
    "Category": "0 to 100",
    "action": "add",
-   "note": "New card (debate): No Uno card exists; not gambling."
+   "note": "New card (debate): No Uno card exists; not gambling.; Debate: Widens the vague Uno-only skill question so more players can answer; not gambling."
   },
   {
    "id": null,
@@ -7671,6 +7671,27 @@
    "Category": "0 to 100",
    "action": "add",
    "note": "New card (debate): Challenger's amended version: the established leaving-home dua is more accurate than Ayat-ul-Kursi, and distinct from the weekly Ayat-ul-Kursi count."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to fall asleep in the car within minutes of a long journey starting?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Both earlier bus and car doze cards were removed, so the deck has no live card on this; distinct from the plane-sleep card."
+  },
+  {
+   "id": null,
+   "Description": "How many times this month have you been asked 'Kitne ka liya?' about something you bought?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable desi relative-curiosity count with no live equivalent."
+  },
+  {
+   "id": null,
+   "Description": "How many times this week have you walked into a room and forgotten why you went there?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clean, countable and not duplicated by the forgot-something or parking cards."
   }
  ]
 }

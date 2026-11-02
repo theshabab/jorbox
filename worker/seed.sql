@@ -19737,11 +19737,11 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-684','game13','','Get a player to explain how plants make their food from sunlight.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-685','game13','','Get a player to explain why we get goosebumps when we feel cold.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-686','game13','','Get a player to tell you which ancient civilisation built the city of Mohenjo-daro.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-687','game13','','Get a player to tell you Pakistan''s national bird, the chukar partridge (chakor).','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-687','game13','','Get a player to tell you which bird is Pakistan''s national bird.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-688','game13','','Get a player to name three rivers that flow through Pakistan.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-689','game13','','Get a player to tell you what Abdul Sattar Edhi is remembered for.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-690','game13','','Get a player to tell you in which year Pakistan won the 50-over cricket World Cup.','');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-691','game13','','Get a player to tell you in which year Pakistan came into being.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-691','game13','','Get a player to tell you in which year Pakistan became independent.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-692','game13','','Get a player to tell you which Muslim scholar wrote the Canon of Medicine, a book taught in European universities for centuries.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-693','game13','','Get a player to tell you what they would do if a shopkeeper gave them too much change by mistake.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-694','game13','','Get a player to tell you about a time they told the truth when a lie would have been easier.','');
@@ -19917,6 +19917,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-864','game13','','Get a player to tell you who in their family makes the best chai.','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-865','game13','','Get a player to say ''Dastarkhwan laga do'' (Lay out the food).','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-866','game13','','Get a player to tell you what they like to snack on during a long car journey.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-867','game13','','Get a player to tell you what their family always serves a guest first when they arrive.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-868','game13','','Get a player to tell you how many sides a hexagon has.','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game13-869','game13','','Get a player to tell you what their ammi says when you are about to leave their house.','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game14','Dilchasp Haqaiq',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-1','game14','','How interested are you in living on the first Mars colony?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-2','game14','','How much do you enjoy sitting with your elders?','0 to 100');
@@ -20723,7 +20726,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-803','game14','','How many sixes have you hit in your whole street cricket career?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-804','game14','','How likely are you to ask for a rematch right after losing at Carrom?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-805','game14','','How many times have you lost at Ludo with your last token one step from home?','Number');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-806','game14','','How good are you at playing Uno?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-806','game14','','How good are you at card games such as Uno, Rang or Bluff?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-807','game14','','How many times have you been added to a WhatsApp group without being asked?','Number');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-808','game14','','How likely are you to screenshot a chat to show it to someone else?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-809','game14','','How much do you enjoy fielding in a cricket match?','0 to 100');
@@ -20759,6 +20762,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-839','game14','','How likely are you to keep a rishta proposal to yourself instead of telling the whole family?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-840','game14','','How likely are you to take a spoonful of saunf or a piece of elaichi after a heavy meal?','0 to 100');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-841','game14','','How likely are you to say the dua for leaving the house (Bismillah, tawakkaltu alallah) every time you step out?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-842','game14','','How likely are you to fall asleep in the car within minutes of a long journey starting?','0 to 100');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-843','game14','','How many times this month have you been asked ''Kitne ka liya?'' about something you bought?','Number');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game14-844','game14','','How many times this week have you walked into a room and forgotten why you went there?','Number');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game15','Tareekhi',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-1','game15','Khadijah bint Khuwaylid','1st - first person to accept Islam','Sahabas - Order of Accepting Islam');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game15-2','game15','Ali ibn Abi Talib','2nd (per Ibn Ishaq) - first child to accept Islam, aged about 10','Sahabas - Order of Accepting Islam');
@@ -23575,3 +23581,4 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-923','game16','Which shop or stall (a bakery, a chaat stand, a cloth merchant) have you been loyal to for years, and why do you keep going back?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-924','game16','Which sport have you never tried but would love to learn (squash, swimming, archery, horse riding)?','','Ice Breakers & Fun General');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-925','game16','What is the best piece of advice you ever got from a book?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-926','game16','What was the hardest part of starting at a new school, university or workplace, and who helped you settle in?','','Ice Breakers & Fun General');

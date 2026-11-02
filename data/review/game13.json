@@ -6008,9 +6008,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you Pakistan's national bird, the chukar partridge (chakor).",
+   "Description": "Get a player to tell you which bird is Pakistan's national bird.",
    "action": "add",
-   "note": "New card (debate): Chukar partridge; accurate, not covered.; Debate: Answer is obscure; naming it keeps the mission clear and playable, like other cards that name their answer."
+   "note": "New card (debate): Chukar partridge; accurate, not covered.; Debate: Answer is obscure; naming it keeps the mission clear and playable, like other cards that name their answer.; Debate: Original card gave away the answer (chukar partridge); now a real question."
   },
   {
    "id": null,
@@ -6032,9 +6032,9 @@
   },
   {
    "id": null,
-   "Description": "Get a player to tell you in which year Pakistan came into being.",
+   "Description": "Get a player to tell you in which year Pakistan became independent.",
    "action": "add",
-   "note": "New card (debate): 1947; basic missing card."
+   "note": "New card (debate): 1947; basic missing card.; Debate: Clearer wording than 'came into being'; distinct from 781."
   },
   {
    "id": null,
@@ -7091,6 +7091,24 @@
    "Description": "Get a player to tell you what they like to snack on during a long car journey.",
    "action": "add",
    "note": "New card (debate): Relatable, easy to ask, and distinct from the packing, picnic and longest-journey cards."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what their family always serves a guest first when they arrive.",
+   "action": "add",
+   "note": "New card (debate): Local hospitality personal question; distinct from the crockery card."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you how many sides a hexagon has.",
+   "action": "add",
+   "note": "New card (debate): Simple school-knowledge mission, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "Get a player to tell you what their ammi says when you are about to leave their house.",
+   "action": "add",
+   "note": "New card (debate): Relatable hospitality humour; challenger's amended version without the quoted phrase so the answer is not given away."
   }
  ]
 }
