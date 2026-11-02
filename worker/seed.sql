@@ -871,7 +871,7 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-869','game1','Samarkand','Timur’s Silk Road city in Uzbekistan','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-870','game1','Cairo','Egypt’s capital, home of Al-Azhar','Islamic Locations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-871','game1','Janaza','Funeral prayer for the deceased','Islamic Terms');
-INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-872','game1','Ihram','Two white unstitched sheets for Hajj','Islamic Terms');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-872','game1','Ihram','Unstitched white sheets for Hajj or Umrah','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-873','game1','Prayer Mat','Jaye namaz you pray on','Islamic Terms');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-874','game1','Halwai','Sweet-maker frying jalebi and mithai','Occupations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game1-875','game1','Naanbai','Bakes naan in a tandoor','Occupations');
@@ -14336,6 +14336,14 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-998','game8','ACCEPTS NO <---> WON''T TAKE NO','Write what an aunty says to make you take a third helping of biryani that is this pushy','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-999','game8','LIGHT AND FLUFFY <---> HEAVY AS A BRICK','Make up a name for a paratha stall whose parathas are this heavy','Writing');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1000','game8','FAIR <---> TOTALLY BIASED','Make up a nickname for a gully cricket umpire who is this biased towards his own team','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1001','game8','NOT A SHAHEEN <---> TRUE SHAHEEN','Draw a bird that is this much like the shaheen (falcon) that Allama Iqbal wrote about','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1002','game8','TOO SHY <---> STEALS FROM YOUR PLATE','Draw a sparrow that is this bold about grabbing crumbs from your plate in the courtyard','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1003','game8','SLEEPS ON DUTY <---> NEVER MISSES A THING','Draw a robot that is this good at being a chowkidar','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1004','game8','CALM <---> TOTALLY STRESSED','Draw the face of a family WhatsApp group admin who is this stressed after a 5 a.m. good morning forward starts a flood of replies','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1005','game8','WASTE OF MONEY <---> WORTH EVERY RUPEE','Draw a toy that Abbu would say is this worth the money he paid for it','Drawing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1006','game8','STINGY BOXES <---> OVERFLOWING BOXES','Write the sign outside a bakery whose pastry boxes are this generously filled','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1007','game8','JUST A GAME <---> LIFE OR DEATH','Write the first line of a rishta profile for someone who is this serious about gully cricket','Writing');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game8-1008','game8','ONE-LINE REPLY <---> LONG LECTURE','Write Abbu''s answer when you ask if you can get a pet kitten, and his answer is this long-winded','Writing');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game9','Trivia',0,1);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1','game9','What direction does the Statue of Liberty face?','Southeast','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-2','game9','Nephelococcygia is the practice of doing what?','Finding shapes in clouds','');
@@ -15499,6 +15507,10 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1160','game9','What are the designated boundary points called, from which pilgrims coming to Makkah must enter the state of ihram?','Miqat (plural: mawaqit)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1161','game9','Which Pakistani fast bowler, nicknamed the ''Burewala Express'', was famous for his reverse-swing yorkers?','Waqar Younis','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1162','game9','Which cancer hospital, founded in Lahore in 1994 by Imran Khan in memory of his mother, treats many patients for free?','Shaukat Khanum Memorial Cancer Hospital','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1163','game9','Which surah is popularly called the ''Heart of the Quran''?','Surah Ya-Sin','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1164','game9','What is the capital of Kyrgyzstan?','Bishkek','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1165','game9','What is the capital of Tajikistan, the Muslim-majority Central Asian country that borders Afghanistan?','Dushanbe','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game9-1166','game9','Which twin towers in Kuala Lumpur were the tallest buildings in the world from 1998 to 2004?','Petronas Towers','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game10','Aik Rangi Soch',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-1','game10','Name a fruit that is yellow.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-2','game10','What is the best flavor of ice cream?','','');
