@@ -23653,28 +23653,28 @@
   {
    "id": "game15-1820",
    "Name": "First words",
-   "Description": "12 months",
+   "Description": "About 12 months",
    "Category": "Childhood Milestones (Average Age)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "First words",
     "Description": "12 months",
     "Category": "Childhood Milestones (Average Age)"
    },
-   "note": ""
+   "note": "Debate: Marks the figure as an approximate average, matching the other hedged milestones."
   },
   {
    "id": "game15-1821",
    "Name": "Walking",
-   "Description": "12-15 months",
+   "Description": "About 14 months (range 12-15)",
    "Category": "Childhood Milestones (Average Age)",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "Walking",
     "Description": "12-15 months",
     "Category": "Childhood Milestones (Average Age)"
    },
-   "note": ""
+   "note": "Debate: Breaks the 12-month tie with First words; keeps the commonly cited range visible (challenger's amendment)."
   },
   {
    "id": "game15-1822",
@@ -32849,6 +32849,86 @@
    "Category": "Rodents - Average Weight (Light to Heavy)",
    "action": "add",
    "note": "New card (debate): Common local rodent, correctly ordered, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Facebook",
+   "Description": "2004",
+   "Category": "Social Media Sites (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Correct year, missing from this category. The only other Facebook cards are in different categories (Internet Milestones, kept; Traffic, removed), so this is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Discord",
+   "Description": "2015",
+   "Category": "Social Media Sites (Launch Year)",
+   "action": "add",
+   "note": "New card (debate): Launched in 2015, a unique year in the category."
+  },
+  {
+   "id": null,
+   "Name": "Ludo King",
+   "Description": "2016 - Gametion, India",
+   "Category": "Video Games (Release Year)",
+   "action": "add",
+   "note": "New card (debate): Popular in Pakistan, accurate year, no ties. The pending Ludo card is a different category (piece count)."
+  },
+  {
+   "id": null,
+   "Name": "Pong",
+   "Description": "1972 - Atari",
+   "Category": "Video Games (Release Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate, unique year, fills the gap before Pac-Man."
+  },
+  {
+   "id": null,
+   "Name": "Mustafa Kemal Ataturk",
+   "Description": "1881",
+   "Category": "World Leaders (Birth Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate birth year, unique, and neutral as a birth-year card."
+  },
+  {
+   "id": null,
+   "Name": "Liaquat Ali Khan",
+   "Description": "1895 - born in Karnal",
+   "Category": "World Leaders (Birth Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate and unique year. The existing card is a different category (PM chronology), so it is not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Blue Marble",
+   "Description": "1972 - Apollo 17, Earth from space",
+   "Category": "Iconic Photographs (Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate and distinct from Earthrise."
+  },
+  {
+   "id": null,
+   "Name": "Google Pixel",
+   "Description": "2016 - first Pixel phones",
+   "Category": "Google Product Launches (Year)",
+   "action": "add",
+   "note": "New card (debate): Accurate; 2016 does not tie with any existing card."
+  },
+  {
+   "id": null,
+   "Name": "Bard (now Gemini)",
+   "Description": "2023",
+   "Category": "Google Product Launches (Year)",
+   "action": "add",
+   "note": "New card (debate): Matches the deck's 'Twitter (now X)' naming style, and the launch year is 2023 (challenger's amendment). The existing Gemini card is in the zodiac category and was removed, so there is no clash."
+  },
+  {
+   "id": null,
+   "Name": "Unimate",
+   "Description": "1961 - first industrial robot",
+   "Category": "Robot and A.I. Debuts",
+   "action": "add",
+   "note": "New card (debate): Accurate milestone with a unique year, placed before Deep Blue."
   }
  ]
 }

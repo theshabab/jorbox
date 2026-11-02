@@ -722,13 +722,13 @@ Mosquitoes love me more than anyone else in my family.,I’m always the first to
 The rickshaw driver doubles the fare because it’s raining. You...,pay it|bargain hard|walk in the rain,Morality
 Your cousin borrows your favourite cricket bat and returns it cracked. You...,ask them to pay for it|forgive them|borrow something of theirs,Morality
 Kebabs and BBQ,Seekh Kebab|Chapli Kebab|Shami Kebab|Reshmi Kebab|Gola Kebab|Bihari Kebab|Dhaga Kebab|Gilafi Kebab|Chicken Cheese Kebab|Malai Boti|Tikka Boti|Chicken Tikka|Kalmi Tikka|Shinwari Tikka|Mutton Chops,
-Paratha Types,Aloo Paratha|Qeema Paratha|Lachha Paratha|Anda Paratha|Mooli Paratha|Gobi Paratha|Cheese Paratha|Methi Paratha|Sada Paratha|Chocolate Paratha|Shakar Paratha|Daal Paratha|Pyaz Paratha|Chicken Paratha,
+Paratha Types,Aloo Paratha|Qeema Paratha|Lachha Paratha|Anda Paratha|Mooli Paratha|Gobi Paratha|Cheese Paratha|Methi Paratha|Sada Paratha|Palak Paratha|Shakar Paratha|Daal Paratha|Pyaz Paratha|Chicken Paratha,
 Jewellery,Ring|Necklace|Churiyan|Jhumkay|Nose Pin|Nath|Maang Tikka|Payal|Bracelet|Locket|Chain|Kara|Choker|Jhoomar,
 Fast Food Items,Burger|Zinger|Pizza|Shawarma|Broast|Fries|Loaded Fries|Nuggets|Hot Wings|Club Sandwich|Hot Dog|Paratha Roll|Wrap|Pasta|Garlic Bread|Coleslaw|Milkshake|Soft Drink,
 Ice Cream Flavours,Vanilla|Chocolate|Strawberry|Mango|Pista|Kulfi|Tutti Frutti|Butterscotch|Pineapple|Cookies and Cream|Malai|Chikoo|Lychee|Coconut|Bubblegum|Coffee|Caramel|Badam,
 Things Ammi Never Throws Away,Shopping Bags|Ice Cream Tubs|Biscuit Tin|Wrapping Paper|Wedding Cards|Old Bedsheets|Jam Jars|Rubber Bands|Ketchup Sachets|Plastic Spoons|Old Newspapers|Appliance Boxes|Mithai Boxes|Shoe Boxes|Old Chargers|Guest Crockery|Gift Envelopes|Old Phones|Leftover Salan,
 Types of Chai,Doodh Patti|Karak Chai|Kashmiri Chai|Green Tea|Kahwa|Gur wali Chai|Elaichi Chai|Adrak wali Chai|Lemon Tea|Dum Chai|Black Tea|Masala Chai|Dhaba Chai|Mint Tea,
-Things in an Almari,Clothes|Hangers|Shawls|Sweaters|Unstitched Suits|Wedding Clothes|Dupattas|Jewellery Box|Locker|Perfume|Naphthalene Balls|Important Documents|Cash Envelope|Bedsheets|Razai|Shoes|Purses|Gift Items|Iron|Old Photos,
+Things in an Almari,Clothes|Hangers|Shawls|Sweaters|Unstitched Suits|Wedding Clothes|Dupattas|Jewellery Box|Locker|Perfume|Naphthalene Balls|Important Documents|Cash Envelope|Bedsheets|Razai|Shoes|Purses|Gift Items|Janamaz|Old Photos,
 Video Games,PUBG|Free Fire|Minecraft|FIFA|Call of Duty|Super Mario|Tekken|Street Fighter|Candy Crush|Clash of Clans|Subway Surfers|Temple Run|Among Us|Ludo Star|Counter-Strike|Roblox|Pac-Man|Tetris|Angry Birds|Need for Speed,
 Social Media Lingo,Like|Share|Comment|Follow|Story|Reel|Post|Hashtag|Tag|Filter|Selfie|Profile Picture|Live|Trending|Notification|Meme|DM|Block|Blue Tick|Seen,
 Pakistani Trains,Tezgam|Khyber Mail|Karakoram Express|Green Line Express|Shalimar Express|Awam Express|Allama Iqbal Express|Bolan Mail|Jaffar Express|Rehman Baba Express|Pakistan Express|Millat Express|Hazara Express|Karachi Express|Fareed Express,
@@ -737,7 +737,7 @@ Things in a Cantt,Checkpost|Sentry|Speed Breaker|Officers' Mess|CSD|Parade Groun
 Stage Magic Tricks,Card Trick|Disappearing Coin|Rabbit from a Hat|Sawing a Person in Half|Levitation|Escape Act|Mind Reading|Rope Trick|Linking Rings|Cups and Balls|Floating Ball|Handkerchief Trick|Coin from Behind the Ear,
 Draw a magic show.,Draw a juggler.|Draw a circus act.|Draw a madari with a monkey.|Draw a street performer.|Draw a school talent show.|Draw a puppet show.,Drawing 2
 Draw a barber.,Draw a tailor.|Draw a dentist.|Draw someone getting a haircut at home.|Draw a man shaving.|Draw a hairdryer.|Draw a pair of scissors.,Drawing 2
-Draw a peacock.,Draw a turkey.|Draw a parrot.|Draw a rooster.|Draw a colourful bird.|Draw a hand fan.|Draw a flower.,Drawing 2
+Draw a peacock.,Draw a turkey.|Draw a parrot.|Draw a rooster.|Draw a colourful bird.|Draw a feather.|Draw a flower.,Drawing 2
 Draw a jinn.,Draw a ghost.|Draw a scarecrow in a field.|Draw a shadow at night.|Draw a scary old tree.|Draw a puff of smoke.|Draw a monster under the bed.,Drawing 2
 Draw a wedding stage.,Draw a throne.|Draw a stage at a school function.|Draw a decorated sofa.|Draw a bride and groom.|Draw a flower arch.|Draw a fancy hotel lobby.,Drawing 2
 Draw a hot air balloon.,Draw a parachute.|Draw a kite.|Draw a blimp.|Draw a big balloon.|Draw a cable car.|Draw a basket.,Drawing 2
@@ -786,7 +786,7 @@ Gully cricket is more fun than real cricket.,I was the best player in my gully t
 Chai tastes better at a dhaba than at home.,Ammi makes the best chai.|Doodh patti is better than any other chai.|I’d travel across the city for good chai.|Restaurant food is better than home food.|Chai tastes better in the rain.,Rating
 "During load-shedding, the UPS can only run one fan and your sibling wants it in their room. You...",share their room|toss a coin for it|sleep on the roof,Morality
 You find out your neighbour has been secretly using your Wi-Fi for months. You...,change the password|ask them to share the bill|say nothing,Morality
-Battles in Islamic History,Badr|Uhud|Khandaq|Khaybar|Hunain|Tabuk|Fath e Makkah|Mutah|Yarmouk|Qadisiyyah|Nahavand|Debal|Hattin|Ain Jalut|Fall of Constantinople,
+Battles and Campaigns in Islamic History,Badr|Uhud|Khandaq|Khaybar|Hunain|Tabuk|Fath e Makkah|Mutah|Yarmouk|Qadisiyyah|Nahavand|Debal|Hattin|Ain Jalut|Fall of Constantinople,
 Pakistani Provinces and Regions,Punjab|Sindh|Khyber Pakhtunkhwa|Balochistan|Gilgit Baltistan|Azad Kashmir|Islamabad Capital Territory|Potohar|Thar|Cholistan|Hazara|Swat|Chitral|Hunza|Kohistan|Waziristan|Makran,
 Cities of the Muslim World,Makkah|Madinah|Al-Quds|Istanbul|Cairo|Damascus|Baghdad|Dubai|Doha|Kuala Lumpur|Jakarta|Tehran|Kabul|Dhaka|Amman|Baku|Samarkand|Bukhara|Marrakesh|Muscat|Tashkent|Tunis,
 Common Illnesses,Nazla Zukam|Bukhar|Khansi|Sar Dard|Pait Dard|Daant Dard|Kamar Dard|Gala Kharab|Dengue|Malaria|Typhoid|Yarqan|Sugar|Blood Pressure|Migraine|Allergy|Chicken Pox|Khasra|Heat Stroke|Food Poisoning,
@@ -1140,3 +1140,10 @@ Things at a Haji's Send-Off,Garlands|Relatives|Dua|Ihram Set|Suitcase|Zamzam Can
 Draw a flooded street.,Draw a river.|Draw a swimming pool.|Draw a broken water pipe.|Draw a rainy day.|Draw a muddy road.,Drawing 2
 A relative at a dawat asks you to lend them your phone charger and you only have one. You...,lend it and sit next to them|say yours is broken|lend it and forget to take it back,Morality
 You find a classmate's marked test paper on the floor and it shows a very low mark. You...,return it quietly|leave it there|show it to others,Morality
+Things at a Gol Gappay Stall,Imli Pani|Pudina Pani|Chana|Aloo|Papri|Dahi Bhallay|Chaat Masala|Thela|Steel Plate|Katori|Imli Chutney|Tissue|Queue|Extra Khatta|Free Gol Gappa|Steel Spoon|Jeera Pani|Hari Chutney|Matka,
+Things at a Carpenter's Workshop,Saw|Hammer|Nails|Wood|Sawdust|Plywood|Chisel|Measuring Tape|Sandpaper|Drill|Screws|Polish|Plane|Glue|Clamp|Wood Shavings|Cutting Machine|Lathe|Hinges|Varnish,
+Things at a Hakeem's Clinic,Pulse Check|Glass Jars|Dried Herbs|Sharbat|Majoon|Arq|Powder Packets|Hand-Written Prescription|Mortar and Pestle|Herbal Tonic|Waiting Patients|Shelf of Bottles|Mulethi|Old Wooden Counter|Gulkand|Sil Batta|Tibb Books|Puriyan|Dawai Ki Dibbi|Bitter Taste,
+Draw a prayer mat (janamaz).,Draw a carpet.|Draw a doormat.|Draw a picnic mat.|Draw a bath towel.|Draw a masjid courtyard.,Drawing 2
+Draw someone waking the neighbourhood for sehri.,Draw a night watchman.|Draw an alarm clock.|Draw a drummer.|Draw a man with a torch.|Draw a sleepy family at the table.,Drawing 2
+I take too many photos of my food.,I post everything on my story.|I never post on social media.|My phone gallery is always full.|I delete photos immediately.|I am the family photographer.,Rating
+"Your uncle tells the same army story at every dawat, and he is about to start it again. You...",listen as if it is new|quietly leave the room|finish the story for him,Morality

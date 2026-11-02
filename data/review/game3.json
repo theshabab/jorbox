@@ -10197,10 +10197,10 @@
   {
    "id": null,
    "Name": "Paratha Types",
-   "Description": "Aloo Paratha|Qeema Paratha|Lachha Paratha|Anda Paratha|Mooli Paratha|Gobi Paratha|Cheese Paratha|Methi Paratha|Sada Paratha|Chocolate Paratha|Shakar Paratha|Daal Paratha|Pyaz Paratha|Chicken Paratha",
+   "Description": "Aloo Paratha|Qeema Paratha|Lachha Paratha|Anda Paratha|Mooli Paratha|Gobi Paratha|Cheese Paratha|Methi Paratha|Sada Paratha|Palak Paratha|Shakar Paratha|Daal Paratha|Pyaz Paratha|Chicken Paratha",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): A well-known desi breakfast topic that is not in the deck. The brand name and near-duplicates are removed. Challenger's amended version."
+   "note": "New card (debate): A well-known desi breakfast topic that is not in the deck. The brand name and near-duplicates are removed. Challenger's amended version.; Debate: Chocolate Paratha is a fringe fusion item; Palak Paratha is a standard paratha."
   },
   {
    "id": null,
@@ -10245,10 +10245,10 @@
   {
    "id": null,
    "Name": "Things in an Almari",
-   "Description": "Clothes|Hangers|Shawls|Sweaters|Unstitched Suits|Wedding Clothes|Dupattas|Jewellery Box|Locker|Perfume|Naphthalene Balls|Important Documents|Cash Envelope|Bedsheets|Razai|Shoes|Purses|Gift Items|Iron|Old Photos",
+   "Description": "Clothes|Hangers|Shawls|Sweaters|Unstitched Suits|Wedding Clothes|Dupattas|Jewellery Box|Locker|Perfume|Naphthalene Balls|Important Documents|Cash Envelope|Bedsheets|Razai|Shoes|Purses|Gift Items|Janamaz|Old Photos",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): A desi household topic in the deck's 'Things in a...' style. It is not in the deck."
+   "note": "New card (debate): A desi household topic in the deck's 'Things in a...' style. It is not in the deck.; Debate: Iron is not normally kept in an almari; Janamaz is a familiar item."
   },
   {
    "id": null,
@@ -10317,10 +10317,10 @@
   {
    "id": null,
    "Name": "Draw a peacock.",
-   "Description": "Draw a turkey.|Draw a parrot.|Draw a rooster.|Draw a colourful bird.|Draw a hand fan.|Draw a flower.",
+   "Description": "Draw a turkey.|Draw a parrot.|Draw a rooster.|Draw a colourful bird.|Draw a feather.|Draw a flower.",
    "Category": "Drawing 2",
    "action": "add",
-   "note": "New card (debate): New animal card with good near-miss decoys. No peacock prompt exists."
+   "note": "New card (debate): New animal card with good near-miss decoys. No peacock prompt exists.; Debate: Feather is a closer decoy than a random hand fan."
   },
   {
    "id": null,
@@ -10708,11 +10708,11 @@
   },
   {
    "id": null,
-   "Name": "Battles in Islamic History",
+   "Name": "Battles and Campaigns in Islamic History",
    "Description": "Badr|Uhud|Khandaq|Khaybar|Hunain|Tabuk|Fath e Makkah|Mutah|Yarmouk|Qadisiyyah|Nahavand|Debal|Hattin|Ain Jalut|Fall of Constantinople",
    "Category": "",
    "action": "add",
-   "note": "New card (debate): Accurate, well-known battles; no battles card exists in the deck.; Debate: Panipat is not an Islamic-history battle name and Manzikert is obscure."
+   "note": "New card (debate): Accurate, well-known battles; no battles card exists in the deck.; Debate: Panipat is not an Islamic-history battle name and Manzikert is obscure.; Debate: Tabuk, Fath e Makkah and Constantinople were expeditions or conquests, so the title now fits every word."
   },
   {
    "id": null,
@@ -13553,6 +13553,62 @@
    "Category": "Morality",
    "action": "add",
    "note": "New card (debate): Challenger's amended version fixes the illogical 'before results' timing and gives three distinct options; differs from the science-fair data card."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Gol Gappay Stall",
+   "Description": "Imli Pani|Pudina Pani|Chana|Aloo|Papri|Dahi Bhallay|Chaat Masala|Thela|Steel Plate|Katori|Imli Chutney|Tissue|Queue|Extra Khatta|Free Gol Gappa|Steel Spoon|Jeera Pani|Hari Chutney|Matka",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Popular street-food scene; challenger's list removes the topic giveaway and overlapping words."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Carpenter's Workshop",
+   "Description": "Saw|Hammer|Nails|Wood|Sawdust|Plywood|Chisel|Measuring Tape|Sandpaper|Drill|Screws|Polish|Plane|Glue|Clamp|Wood Shavings|Cutting Machine|Lathe|Hinges|Varnish",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): New everyday workplace topic; amended list drops Mistri (in Construction Site) and vague items."
+  },
+  {
+   "id": null,
+   "Name": "Things at a Hakeem's Clinic",
+   "Description": "Pulse Check|Glass Jars|Dried Herbs|Sharbat|Majoon|Arq|Powder Packets|Hand-Written Prescription|Mortar and Pestle|Herbal Tonic|Waiting Patients|Shelf of Bottles|Mulethi|Old Wooden Counter|Gulkand|Sil Batta|Tibb Books|Puriyan|Dawai Ki Dibbi|Bitter Taste",
+   "Category": "",
+   "action": "add",
+   "note": "New card (debate): Desi-health scene; amended list removes Totkay overlaps and the topic-giveaway word."
+  },
+  {
+   "id": null,
+   "Name": "Draw a prayer mat (janamaz).",
+   "Description": "Draw a carpet.|Draw a doormat.|Draw a picnic mat.|Draw a bath towel.|Draw a masjid courtyard.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Drawable, respectful, familiar; no existing janamaz draw card."
+  },
+  {
+   "id": null,
+   "Name": "Draw someone waking the neighbourhood for sehri.",
+   "Description": "Draw a night watchman.|Draw an alarm clock.|Draw a drummer.|Draw a man with a torch.|Draw a sleepy family at the table.",
+   "Category": "Drawing 2",
+   "action": "add",
+   "note": "New card (debate): Local Ramadan scene with close decoys; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "I take too many photos of my food.",
+   "Description": "I post everything on my story.|I never post on social media.|My phone gallery is always full.|I delete photos immediately.|I am the family photographer.",
+   "Category": "Rating",
+   "action": "add",
+   "note": "New card (debate): Relatable social-media rating card with close decoys."
+  },
+  {
+   "id": null,
+   "Name": "Your uncle tells the same army story at every dawat, and he is about to start it again. You...",
+   "Description": "listen as if it is new|quietly leave the room|finish the story for him",
+   "Category": "Morality",
+   "action": "add",
+   "note": "New card (debate): Light family dilemma with army in-joke; reworded for clarity."
   }
  ]
 }

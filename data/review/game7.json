@@ -13546,14 +13546,14 @@
   },
   {
    "id": "game7-1232",
-   "Description": "congrats on college, toaster",
+   "Description": "congrats on matric, toaster",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "congrats on college, toaster",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Matric is the local equivalent of college; joke survives."
   },
   {
    "id": "game7-1233",
@@ -13854,14 +13854,14 @@
   },
   {
    "id": "game7-1260",
-   "Description": "lifting a rock and finding first-years hiding",
+   "Description": "lifting a rock and finding cousins hiding",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "lifting a rock and finding freshmen hiding",
     "Category": "Standard Prompts"
    },
-   "note": "localised (freshmen)"
+   "note": "localised (freshmen); Debate: Localises the US-style 'first-years'; still drawable."
   },
   {
    "id": "game7-1261",
@@ -21547,6 +21547,55 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Juta chupai, with the custom stated correctly (the groom's shoes). No existing card covers it."
+  },
+  {
+   "id": null,
+   "Description": "a patang cutting the string of a plane",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New absurd kite image, distinct from existing kite cards."
+  },
+  {
+   "id": null,
+   "Description": "a guava vendor balancing the whole tokra on his head with a cat on top",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New fruit-seller scene, drawable and clean."
+  },
+  {
+   "id": null,
+   "Description": "a wall clock running away from a late student",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New and drawable; not a duplicate of the existing clock cards."
+  },
+  {
+   "id": null,
+   "Description": "a giant jhumka used as a swing in the park",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New, clean visual twist."
+  },
+  {
+   "id": null,
+   "Description": "chacha's pet crocodile guarding the charpai",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended wording; drops the awkward 'hookah-free'."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> hiding a whole gulab jamun from the guests",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate Friend Mode card; token kept exactly."
+  },
+  {
+   "id": null,
+   "Description": "a crow stealing the qalin from the wedding hall",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): New absurd heist image, drawable."
   }
  ]
 }
