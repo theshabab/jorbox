@@ -11632,6 +11632,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-658','game6','','Things You Stuff (Samosa, Pillow, Karela, Paratha, Bag...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-659','game6','','Things You Soak (Daal, Rice, Chanay, Badam, Clothes...)','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-660','game6','','Bedtime Stories and Folk Tales (Sheikh Chilli, Mulla Nasruddin, Akbar Birbal, Sindbad...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-661','game6','','Grooming and Dressing Table Items (Kanghi, Surma, Hair Oil, Miswak...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-662','game6','','Things You Wear in Summer (Lawn, Cotton Kurta, Chappal, Topi...)','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game6-663','game6','','Things Needed to Make Chai (Pateeli, Chhanni, Chai Patti, Elaichi...)','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game7','NaqshNigar',1,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-1','game7','','a cat in a wig wearing a bib','Standard Prompts');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game7-2','game7','','the crusty edge of the universe','Standard Prompts');
@@ -16517,6 +16520,9 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-879','game10','Name something people do on Chand Raat.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-880','game10','Name something you do before eating at the dastarkhwan.','','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-881','game10','Name something very small.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-882','game10','Name something you do on a Sunday evening.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-883','game10','Name something you can smell from far away in a Pakistani street.','','');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game10-884','game10','Name a food delivery app in Pakistan.','','');
 INSERT OR IGNORE INTO games (id,name,has_categories,reveal_description) VALUES ('game11','Karobari',0,0);
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-1','game11','Problem','I could really use a smaller _____!','');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game11-2','game11','Problem','I wish _____ were more fun!','');
@@ -23247,3 +23253,4 @@ INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-910','game16','Who in your family always falls asleep first at a long dawat or gathering, and where do they usually end up sleeping?','','More Fun Questions');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-911','game16','Which relative''s house has the strictest rules for guests (shoes outside, no touching the showcase), and what is the most famous rule?','','Desi Life & Culture Adaptations');
 INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-912','game16','If a new neighbour who had never heard of Ramadan asked you what it is like, what three things would you tell them?','','Ice Breakers & Fun General');
+INSERT OR IGNORE INTO cards (id,game_id,name,description,category) VALUES ('game16-913','game16','Who used to oil your hair on Sundays when you were little, and what advice or gossip came free with the champi?','','Desi Life & Culture Adaptations');

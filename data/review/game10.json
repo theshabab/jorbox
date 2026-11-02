@@ -7538,6 +7538,24 @@
    "Name": "Name something very small.",
    "action": "add",
    "note": "New card (debate): Answers converge (ant, atom, seed) and it fits the deck's adjective prompts; not a duplicate."
+  },
+  {
+   "id": null,
+   "Name": "Name something you do on a Sunday evening.",
+   "action": "add",
+   "note": "New card (debate): No Sunday-evening prompt is live; answers converge and the wording is clean."
+  },
+  {
+   "id": null,
+   "Name": "Name something you can smell from far away in a Pakistani street.",
+   "action": "add",
+   "note": "New card (debate): Local and specific, with convergent answers; the live 'smells good' card is more generic."
+  },
+  {
+   "id": null,
+   "Name": "Name a food delivery app in Pakistan.",
+   "action": "add",
+   "note": "New card (debate): Challenger's tighter wording; local, answerable, and not in the deck."
   }
  ]
 }

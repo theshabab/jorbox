@@ -5216,6 +5216,24 @@
    "Description": "Bedtime Stories and Folk Tales (Sheikh Chilli, Mulla Nasruddin, Akbar Birbal, Sindbad...)",
    "action": "add",
    "note": "New card (debate): Allowed fairy-tale theme with local frame; no story card exists and no romance examples."
+  },
+  {
+   "id": null,
+   "Description": "Grooming and Dressing Table Items (Kanghi, Surma, Hair Oil, Miswak...)",
+   "action": "add",
+   "note": "New card (debate): No grooming card exists; many familiar answers, only partial overlap with Bathroom Items and Ammi's Handbag."
+  },
+  {
+   "id": null,
+   "Description": "Things You Wear in Summer (Lawn, Cotton Kurta, Chappal, Topi...)",
+   "action": "add",
+   "note": "New card (debate): Distinct seasonal frame that pairs with the added Winter Clothes card; plenty of easy answers."
+  },
+  {
+   "id": null,
+   "Description": "Things Needed to Make Chai (Pateeli, Chhanni, Chai Patti, Elaichi...)",
+   "action": "add",
+   "note": "New card (debate): Very Pakistani and relatable; distinct from tea varieties and pairings. Wording clarified from 'Patti' to 'Chai Patti' to remove ambiguity."
   }
  ]
 }
