@@ -4620,7 +4620,7 @@
   },
   {
    "id": "game8-356",
-   "Name": "OKAY <---> VERY SAD",
+   "Name": "CHEERFUL <---> VERY SAD",
    "Description": "Draw a stick figure that is this sad",
    "Category": "Drawing",
    "action": "edit",
@@ -4629,7 +4629,7 @@
     "Description": "Draw a stick figure that is this sad",
     "Category": "Drawing"
    },
-   "note": "Debate: Replaces American slang with a crisp opposite."
+   "note": "Debate: Replaces American slang with a crisp opposite.; Debate: OKAY is not a clear opposite of VERY SAD; CHEERFUL is."
   },
   {
    "id": "game8-357",
@@ -4673,15 +4673,15 @@
   {
    "id": "game8-360",
    "Name": "NOT STICKY <---> VERY STICKY",
-   "Description": "Draw a robot that looks this sticky",
+   "Description": "Draw a robot that is this sticky after eating jalebi",
    "Category": "Drawing",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Name": "NOT STICKY <---> VERY STICKY",
     "Description": "Draw a robot that looks this sticky",
     "Category": "Drawing"
    },
-   "note": ""
+   "note": "Debate: Original is vague; jalebi gives a local, drawable cause."
   },
   {
    "id": "game8-361",
@@ -5011,7 +5011,7 @@
   {
    "id": "game8-386",
    "Name": "HARMLESS <---> VERY TOUGH",
-   "Description": "Draw a jacket for a motorbike gang that looks this tough",
+   "Description": "Draw a jacket for a motorbike club that looks this tough",
    "Category": "Drawing",
    "action": "edit",
    "original": {
@@ -5019,7 +5019,7 @@
     "Description": "Draw a leather jacket and pants for a biker gang that is this mean",
     "Category": "Drawing"
    },
-   "note": "Debate: Uses the challenger's version: simpler wording and opposite ends. Motorbike gangs are known worldwide, and one-wheeling crews do not wear gang jackets."
+   "note": "Debate: Uses the challenger's version: simpler wording and opposite ends. Motorbike gangs are known worldwide, and one-wheeling crews do not wear gang jackets.; Debate: Removes US-style gang framing; keeps the idea."
   },
   {
    "id": "game8-387",
@@ -12342,6 +12342,70 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Challenger's amendment: as Writing the position is guessable; distinct from the taped-remote drawing card."
+  },
+  {
+   "id": null,
+   "Name": "STEADY <---> ABOUT TO FALL",
+   "Description": "Draw a tower of plates carried by a waiter at a shaadi that is this wobbly",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Local shaadi scene, clear opposites, not in deck."
+  },
+  {
+   "id": null,
+   "Name": "PLAIN <---> VERY FANCY",
+   "Description": "Draw a janamaz that is this fancy",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Respectful everyday object, drawable, no existing card."
+  },
+  {
+   "id": null,
+   "Name": "STANDING STILL <---> ABOUT TO TAKE OFF",
+   "Description": "Draw a ceiling fan that is spinning this fast during a heatwave",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended speed-state ends are clean opposites."
+  },
+  {
+   "id": null,
+   "Name": "HONEST <---> SUSPICIOUS",
+   "Description": "Write an online listing for a used phone that is this suspicious",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Marketplace humour, clear opposites, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "SLOW <---> LIGHTNING FAST",
+   "Description": "Make up a name for a Wi-Fi network that is this fast",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Familiar desi joke, distinct from the Wi-Fi password card."
+  },
+  {
+   "id": null,
+   "Name": "EMPTY STALL <---> HUGE QUEUE",
+   "Description": "Draw a sugarcane juice stall that is this crowded on a hot afternoon",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Different task from the ganna juice signboard card; local scene."
+  },
+  {
+   "id": null,
+   "Name": "COOL <---> MELTING",
+   "Description": "Draw a rickshaw driver who is this hot in a June heatwave",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Relatable local summer scene."
+  },
+  {
+   "id": null,
+   "Name": "WEAK EXCUSE <---> CONVINCING",
+   "Description": "Write what a kid says to avoid an afternoon nap that is this convincing",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Family-life humour; no nap-excuse card exists."
   }
  ]
 }

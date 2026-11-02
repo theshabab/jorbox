@@ -315,11 +315,11 @@ AT HOME <---> AT A SHAADI,Draw an outfit that is this likely to be worn to a sha
 UTENSILS <---> ALL HANDS,Draw a meal that is this likely to be eaten with your hands,Drawing
 NOT FOR CHAI <---> PERFECT WITH CHAI,Draw a snack that is this likely to be eaten with chai,Drawing
 UNEATEN <---> SUPER POPULAR,Draw a dish that would be this popular at a family dawat,Drawing
-OKAY <---> VERY SAD,Draw a stick figure that is this sad,Drawing
+CHEERFUL <---> VERY SAD,Draw a stick figure that is this sad,Drawing
 SLOW <---> SO FAST,Draw a stick figure that is moving this fast,Drawing
 WEAK <---> VERY STRONG,Draw a stick figure that is this strong,Drawing
 LAND WEAR <---> BOAT WEAR,Draw an outfit that is this likely to be worn on a boat,Drawing
-NOT STICKY <---> VERY STICKY,Draw a robot that looks this sticky,Drawing
+NOT STICKY <---> VERY STICKY,Draw a robot that is this sticky after eating jalebi,Drawing
 CALM <---> VERY ANGRY,Draw a stick figure that is this angry,Drawing
 WIDE AWAKE <---> VERY EXHAUSTED,Draw a stick figure that is this exhausted,Drawing
 TYPICAL PLANS <---> VERY SINISTER,Draw a stick figure that is this likely to be plotting something sinister,Drawing
@@ -345,7 +345,7 @@ BARELY SCARY <---> VERY SCARY,Draw a cake that is this scary,Drawing
 SENSIBLE <---> TOO DECADENT,Draw a dessert that looks this decadent,Drawing
 NO BUGS <---> ALL BUGS,Draw a meal that is probably this full of bugs,Drawing
 NOT IMPORTANT <---> SO IMPORTANT,Draw a uniform for a person that looks this important,Drawing
-HARMLESS <---> VERY TOUGH,Draw a jacket for a motorbike gang that looks this tough,Drawing
+HARMLESS <---> VERY TOUGH,Draw a jacket for a motorbike club that looks this tough,Drawing
 UNSAFE <---> VERY SAFE,Draw an outfit that is this safe for a construction site,Drawing
 PLAIN <---> EVERYTHING ON IT,"Draw a plate of chaat that actually has this much ""everything"" on it",Drawing
 TASTELESS <---> WAY TOO SPICY,Draw a plate of chicken karahi that is probably this spicy,Drawing
@@ -1054,3 +1054,11 @@ NO SALT <---> WAY TOO SALTY,Write a one-line review of a karahi that is this sal
 LENIENT <---> VERY STRICT,"Write what a traffic warden says to a driver he has just pulled over, if he is this strict",Writing
 SMALL GLASS <---> GIANT JUG,Draw a glass of lassi that is this big,Drawing
 ALWAYS FOUND <---> LOST FOREVER,Write what Abbu shouts from the lounge when the TV remote is this lost,Writing
+STEADY <---> ABOUT TO FALL,Draw a tower of plates carried by a waiter at a shaadi that is this wobbly,Drawing
+PLAIN <---> VERY FANCY,Draw a janamaz that is this fancy,Drawing
+STANDING STILL <---> ABOUT TO TAKE OFF,Draw a ceiling fan that is spinning this fast during a heatwave,Drawing
+HONEST <---> SUSPICIOUS,Write an online listing for a used phone that is this suspicious,Writing
+SLOW <---> LIGHTNING FAST,Make up a name for a Wi-Fi network that is this fast,Writing
+EMPTY STALL <---> HUGE QUEUE,Draw a sugarcane juice stall that is this crowded on a hot afternoon,Drawing
+COOL <---> MELTING,Draw a rickshaw driver who is this hot in a June heatwave,Drawing
+WEAK EXCUSE <---> CONVINCING,Write what a kid says to avoid an afternoon nap that is this convincing,Writing
