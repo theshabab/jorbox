@@ -7216,6 +7216,62 @@
    "Category": "Number",
    "action": "add",
    "note": "New card (debate): Challenger's pivot avoids duplicating the roof-sleeping card; local and countable."
+  },
+  {
+   "id": null,
+   "Description": "How many wedding invitation cards are lying around your house right now?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Clean local count, no duplicate found."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you worn your kameez or shirt inside out without noticing until someone told you?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable count, no duplicate."
+  },
+  {
+   "id": null,
+   "Description": "How many Milad or Quran Khwani gatherings have you attended this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Worship-related personal count, allowed by owner and not in deck."
+  },
+  {
+   "id": null,
+   "Description": "How many times this year has a relative asked how much you earn or how much your salary is?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Relatable desi question; no salary card exists in the deck or review file."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to eat last night's leftover salan with roti for breakfast?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Distinct from other leftover cards; category matches."
+  },
+  {
+   "id": null,
+   "Description": "How many times have you hit or shaken a TV, remote or gadget to make it work?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): No similar card; count fits Number."
+  },
+  {
+   "id": null,
+   "Description": "How many nights did you sleep over at a relative's house this year?",
+   "Category": "Number",
+   "action": "add",
+   "note": "New card (debate): Distinct from pillow and sofa-nap cards."
+  },
+  {
+   "id": null,
+   "Description": "How likely are you to keep a broken item at home saying 'isay baad mein theek karwa lenge'?",
+   "Category": "0 to 100",
+   "action": "add",
+   "note": "New card (debate): Hoarding-habit angle is distinct enough from the repair cards."
   }
  ]
 }

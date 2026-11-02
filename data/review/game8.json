@@ -10945,11 +10945,11 @@
   },
   {
    "id": null,
-   "Name": "OPEN-HANDED <---> SALARY NOT YET",
+   "Name": "PLENTY OF CASH <---> SALARY NOT YET",
    "Description": "Write Abbu's reply when you ask for extra pocket money on the 28th of the month, if he is this short of cash",
    "Category": "Writing",
    "action": "add",
-   "note": "New card (debate): Relatable family and money card."
+   "note": "New card (debate): Relatable family and money card.; Debate: Clearer cash opposites than OPEN-HANDED."
   },
   {
    "id": null,
@@ -11734,6 +11734,70 @@
    "Category": "Writing",
    "action": "add",
    "note": "New card (debate): Challenger's amended version removes the inaccurate Fajr framing and has clean opposites."
+  },
+  {
+   "id": null,
+   "Name": "ROUGH SCRIBBLE <---> BEAUTIFUL CALLIGRAPHY",
+   "Description": "Draw the family name on a wooden house nameplate in calligraphy that is this beautiful",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New, clear opposites, drawable, no duplicate."
+  },
+  {
+   "id": null,
+   "Name": "STUBBY <---> TOWERING MINARET",
+   "Description": "Draw the minaret of a masjid that is this tall",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Challenger's amended version gives cleaner height opposites."
+  },
+  {
+   "id": null,
+   "Name": "REPLIES AT ONCE <---> LEFT ON SEEN FOR A WEEK",
+   "Description": "Write the excuse a cousin gives you in person for leaving your WhatsApp message unanswered for this long",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable; not a duplicate of existing phone cards."
+  },
+  {
+   "id": null,
+   "Name": "TINY SLICE <---> HALF THE TARBOOZ",
+   "Description": "Draw the slice of watermelon that Dada hands you at a summer picnic if he is this generous",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): New local food scale, no watermelon card."
+  },
+  {
+   "id": null,
+   "Name": "NOBODY COMES <---> WHOLE KHANDAN AT THE AIRPORT",
+   "Description": "Draw the crowd of relatives who have come to the airport to see off a Hajj pilgrim, with this many people",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Pakistani family humour, Hajj allowed, distinct from the suitcase card."
+  },
+  {
+   "id": null,
+   "Name": "BLANK MAP <---> EVERY CITY MARKED",
+   "Description": "Draw a world map, like the one al-Idrisi made in 1154 for King Roger II of Sicily, that is this detailed",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Fact verified (Tabula Rogeriana, 1154); clear scale."
+  },
+  {
+   "id": null,
+   "Name": "FULL BARS <---> NO SIGNAL",
+   "Description": "Write what someone shouts into the phone on a call from a village where the signal is this bad",
+   "Category": "Writing",
+   "action": "add",
+   "note": "New card (debate): Relatable and funny; only thin overlap with a pending network-logo card."
+  },
+  {
+   "id": null,
+   "Name": "NEATLY STACKED <---> AVALANCHE WHEN OPENED",
+   "Description": "Draw Ammi's kitchen cupboard full of plastic dabbas and lids that is this overstuffed at the moment you open the door",
+   "Category": "Drawing",
+   "action": "add",
+   "note": "New card (debate): Desi-home humour, distinct from existing dabba and cupboard cards."
   }
  ]
 }

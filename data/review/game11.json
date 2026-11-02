@@ -1315,13 +1315,13 @@
   {
    "id": "game11-120",
    "Name": "Problem",
-   "Description": "I hate going camping because of _____!",
-   "action": "keep",
+   "Description": "I hate going on family picnics because of _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I hate going camping because of _____!"
    },
-   "note": ""
+   "note": "Debate: Replaces the Western camping frame with a local family outing and keeps the idea."
   },
   {
    "id": "game11-121",
@@ -1942,13 +1942,13 @@
   {
    "id": "game11-177",
    "Name": "Problem",
-   "Description": "I suspect my neighbor is _____!",
-   "action": "keep",
+   "Description": "I suspect my neighbour is _____!",
+   "action": "edit",
    "original": {
     "Name": "Problem",
     "Description": "I suspect my neighbor is _____!"
    },
-   "note": ""
+   "note": "Debate: British spelling matches the rest of the deck. The other card using 'neighbor' is outside this slice, so it should be fixed in its own slice."
   },
   {
    "id": "game11-178",
@@ -8612,6 +8612,55 @@
    "Description": "Nobody in the house will go to the market to buy _____!",
    "action": "add",
    "note": "New card (debate): Relatable household complaint with an open blank. A search of the review file and slice found no market-errand card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never fall back asleep after Fajr because of _____!",
+   "action": "add",
+   "note": "New card (debate): Challenger's wording is more natural. Distinct Fajr scenario."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "My Jummah nap is always ruined by _____!",
+   "action": "add",
+   "note": "New card (debate): Relatable Friday problem with no nap duplicate in the deck."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I'm tired of explaining _____ to my relatives!",
+   "action": "add",
+   "note": "New card (debate): Local family annoyance, distinct from the existing 'son explains' card."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I want my kids to spend less time on _____!",
+   "action": "add",
+   "note": "New card (debate): Parenting problem with a clear product hook, different structure from the existing kids cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I can never find _____ in my ammi's kitchen!",
+   "action": "add",
+   "note": "New card (debate): Local and relatable, distinct from the existing kitchen cards."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I hate it when guests rearrange my _____!",
+   "action": "add",
+   "note": "New card (debate): Hosting complaint that fits the mehmaan theme, not the same as hiding things from guests."
+  },
+  {
+   "id": null,
+   "Name": "Problem",
+   "Description": "I dream of a holiday without _____!",
+   "action": "add",
+   "note": "New card (debate): Open-ended and easy to answer, with no duplicate in the deck."
   }
  ]
 }
