@@ -7419,14 +7419,14 @@
   },
   {
    "id": "game7-675",
-   "Description": "Miss Rigatoni Noodlebeard",
+   "Description": "Miss Seviyan Noodlebeard",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "Miss Rigatoni Funkybeat",
     "Category": "Standard Prompts"
    },
-   "note": "removed music reference (funk)"
+   "note": "removed music reference (funk); Debate: Localises the pasta name; the noodle-beard joke still works."
   },
   {
    "id": "game7-676",
@@ -7837,14 +7837,14 @@
   },
   {
    "id": "game7-713",
-   "Description": "pirates commandeering my mailbox",
+   "Description": "pirates commandeering the red post box on our corner",
    "Category": "Standard Prompts",
-   "action": "keep",
+   "action": "edit",
    "original": {
     "Description": "pirates commandeering my mailbox",
     "Category": "Standard Prompts"
    },
-   "note": ""
+   "note": "Debate: Challenger's amendment: letterbox is a door slot and hard to draw, a post box is a boardable target."
   },
   {
    "id": "game7-714",
@@ -7903,14 +7903,14 @@
   },
   {
    "id": "game7-719",
-   "Description": "the gravy boat is sailing away without you",
+   "Description": "the salan bowl is sailing away without you",
    "Category": "Standard Prompts",
    "action": "edit",
    "original": {
     "Description": "you just missed the gravy boat",
     "Category": "Standard Prompts"
    },
-   "note": "Debate: The 'gravy boat' idiom is obscure. A literal sailing scene is drawable and funny."
+   "note": "Debate: The 'gravy boat' idiom is obscure. A literal sailing scene is drawable and funny.; Debate: Local item, same drawable joke."
   },
   {
    "id": "game7-720",
@@ -21400,6 +21400,41 @@
    "Category": "Standard Prompts",
    "action": "add",
    "note": "New card (debate): Local, funny and drawable food prompt; no kachori card in the deck."
+  },
+  {
+   "id": null,
+   "Description": "a mithai wala arguing with his own weighing scale",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Local, drawable, not a duplicate."
+  },
+  {
+   "id": null,
+   "Description": "forty relatives sitting on one charpai at the same time",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Funny, relatable, very drawable."
+  },
+  {
+   "id": null,
+   "Description": "a rooster stuck in traffic and arriving late for sunrise",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Distinct from the snooze-button rooster."
+  },
+  {
+   "id": null,
+   "Description": "a bhutta wala roasting corn on a dragon's back",
+   "Category": "Standard Prompts",
+   "action": "add",
+   "note": "New card (debate): Absurd, local and drawable; dragons are fine as fairy-tale monsters."
+  },
+  {
+   "id": null,
+   "Description": "<PLAYER> hiding Eidi money in a very obvious place",
+   "Category": "Friend Mode Prompts",
+   "action": "add",
+   "note": "New card (debate): Affectionate Friend Mode card with the player token."
   }
  ]
 }

@@ -4925,9 +4925,9 @@
   },
   {
    "id": null,
-   "Description": "Things You Set",
+   "Description": "Things You Set (Alarm, Table, Timer, Dastarkhwan...)",
    "action": "add",
-   "note": "New card (debate): Challenger's example-free version matches the Things You Tie/Pour/Cut format; many answers."
+   "note": "New card (debate): Challenger's example-free version matches the Things You Tie/Pour/Cut format; many answers.; Debate: Bare 'Things You Set' is ambiguous; examples make it playable."
   },
   {
    "id": null,
@@ -5162,6 +5162,60 @@
    "Description": "Things You Wrap (Gift, Parcel, Roti, Shawl...)",
    "action": "add",
    "note": "New card (debate): Not in deck; completes the verb run with distinct actions from Tie."
+  },
+  {
+   "id": null,
+   "Description": "Things You Roll (Roti, Dice, Ball, Paratha, Carpet...)",
+   "action": "add",
+   "note": "New card (debate): New verb category with many easy answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Shake (Hands, Bottle, Tree, Rattle, Lassi...)",
+   "action": "add",
+   "note": "New card (debate): New verb category with many easy answers; handshake touching is allowed."
+  },
+  {
+   "id": null,
+   "Description": "Things You Spread (Chutney, Chadar, Butter, Rumours, Wings...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment accepted: avoids reusing Dastarkhwan from the Set card and the sandwich card overlap."
+  },
+  {
+   "id": null,
+   "Description": "Things You Press (Button, Horn, Garlic, Clothes, Pedal...)",
+   "action": "add",
+   "note": "New card (debate): No Press card; many guessable answers."
+  },
+  {
+   "id": null,
+   "Description": "Things You Kick (Football, Door, Bike Start, Tyre, Stone...)",
+   "action": "add",
+   "note": "New card (debate): Challenger's amendment accepted: drops weak 'dust', adds the very Pakistani bike kick-start."
+  },
+  {
+   "id": null,
+   "Description": "Things You Sprinkle (Salt, Chaat Masala, Water, Sugar, Gulab Jal...)",
+   "action": "add",
+   "note": "New card (debate): Familiar kitchen verb category; only slight overlap with Pour/Chaat."
+  },
+  {
+   "id": null,
+   "Description": "Things You Stuff (Samosa, Pillow, Karela, Paratha, Bag...)",
+   "action": "add",
+   "note": "New card (debate): Desi food-heavy verb category with many answers; not in deck."
+  },
+  {
+   "id": null,
+   "Description": "Things You Soak (Daal, Rice, Chanay, Badam, Clothes...)",
+   "action": "add",
+   "note": "New card (debate): Everyday kitchen/laundry verb category; not a duplicate of Boil or Wash."
+  },
+  {
+   "id": null,
+   "Description": "Bedtime Stories and Folk Tales (Sheikh Chilli, Mulla Nasruddin, Akbar Birbal, Sindbad...)",
+   "action": "add",
+   "note": "New card (debate): Allowed fairy-tale theme with local frame; no story card exists and no romance examples."
   }
  ]
 }

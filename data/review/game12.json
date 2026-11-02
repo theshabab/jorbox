@@ -1527,11 +1527,11 @@
   {
    "id": "game12-170",
    "Name": "Doom",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Doom"
    },
-   "note": ""
+   "note": "Debate: Vague, hard to act out; overlaps Danger, Fate and Death"
   },
   {
    "id": "game12-171",
@@ -1959,11 +1959,11 @@
   {
    "id": "game12-218",
    "Name": "Fitness",
-   "action": "keep",
+   "action": "remove",
    "original": {
     "Name": "Fitness"
    },
-   "note": ""
+   "note": "Debate: Near-duplicate of Exercise (game12-194), which is live (action keep)"
   },
   {
    "id": "game12-219",
@@ -11987,6 +11987,42 @@
    "Name": "Student",
    "action": "add",
    "note": "New card (debate): Common person noun, distinct from Teacher."
+  },
+  {
+   "id": null,
+   "Name": "Dawat",
+   "action": "add",
+   "note": "New card (debate): Familiar Pakistani feast noun, not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Cholay",
+   "action": "add",
+   "note": "New card (debate): Common local food, not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Footpath",
+   "action": "add",
+   "note": "New card (debate): Local street noun, no near duplicate"
+  },
+  {
+   "id": null,
+   "Name": "Dignity",
+   "action": "add",
+   "note": "New card (debate): Abstract noun fitting the deck; distinct from Respect"
+  },
+  {
+   "id": null,
+   "Name": "Chowk",
+   "action": "add",
+   "note": "New card (debate): Well-known Pakistani junction noun, not in deck"
+  },
+  {
+   "id": null,
+   "Name": "Dilemma",
+   "action": "add",
+   "note": "New card (debate): Abstract noun that can be acted out, not in deck"
   }
  ]
 }
