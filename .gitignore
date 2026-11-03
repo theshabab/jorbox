@@ -32,3 +32,4 @@ dist-ssr
 .env
 .env.*
 !.env.example
+worker/reseed.sql

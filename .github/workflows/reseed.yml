@@ -1,0 +1,47 @@
+name: Reseed production
+
+# Wipes the cards, votes and suggestions of the seed games and loads the
+# current seed, for a fresh start. It refuses to run when anyone has voted,
+# suggested a card or edited a card in the admin screens. Run it by hand on
+# main after a deploy, and type RESEED to confirm.
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: Type RESEED to wipe the seed games' cards and load the current seed
+        required: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cloudflare-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  reseed:
+    if: github.ref == 'refs/heads/main' && inputs.confirm == 'RESEED'
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Apply D1 migrations
+        run: npm run db:migrate:remote
+      - name: Check that nothing would be lost
+        run: |
+          npx wrangler d1 execute jorbox --remote --json \
+            --command "$(node --input-type=module -e "import { GUARD_QUERY } from './scripts/reseed-guard.js'; console.log(GUARD_QUERY)")" \
+            | node scripts/reseed-guard.js
+      - name: Build the reseed file
+        run: |
+          npm run db:generate-seed
+          node scripts/reseed.js
+      - name: Reseed
+        run: npx wrangler d1 execute jorbox --remote --file=worker/reseed.sql

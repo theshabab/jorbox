@@ -19,7 +19,8 @@
     "deploy": "npm run build && wrangler deploy",
     "test": "node --test tests/*.test.js",
     "test:ui": "npm run build && node --test tests/ui/*.test.js",
-    "auth:configure": "node scripts/configure-github.js"
+    "auth:configure": "node scripts/configure-github.js",
+    "db:reseed:local": "node scripts/reseed.js && wrangler d1 execute jorbox --local --file=worker/reseed.sql"
   },
   "dependencies": {
     "lucide-react": "^0.554.0",

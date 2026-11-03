@@ -37,7 +37,7 @@ For a local Worker, configure ignored `.dev.vars`, then run `npm run db:migrate:
 - Game format changes must not silently discard content. Category clearing requires an explicit flag and a reviewed warning.
 - Preserve legacy name-only and description-only cards. All cards need a name or description.
 - Audit administrative changes, including previous values. Keep OAuth secrets, cookie secrets, sessions, votes, and production database exports out of Git and the frontend bundle.
-- Production migration/deployment runs in CI from main when the `CLOUDFLARE_API_TOKEN` repository secret exists (push to main, or a manual run of the deploy workflow). Never reseed production to synchronize card edits.
+- Production migration/deployment runs in CI from main when the `CLOUDFLARE_API_TOKEN` repository secret exists (push to main, or a manual run of the deploy workflow). Never reseed production to synchronize card edits once players have voted or administrators have edited cards. The only supported reseed is the manual "Reseed production" workflow (`scripts/reseed.js`), which refuses to run when any vote, suggestion, added card or edited seed card exists.
 
 ## Design
 
